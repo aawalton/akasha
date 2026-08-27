@@ -1,0 +1,189 @@
+---
+id: 6224a7f2-2ceb-5925-b936-06caae019eaa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 206: How a Dungeon Grows (Part 2)"
+slug: 0217-chapter-206-how-a-dungeon-grows-part-2
+partOf: dungeon-of-knowledge-complete
+position: 217
+ownLength: 2184
+unit: words
+ownProgress: 2184
+publishedAt: 2025-03-04
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2103494/chapter-206-how-a-dungeon-grows-part-2"
+royalRoadId: "2103494"
+markedReadAt: "2026-06-29T20:18:30.165Z"
+---
+
+“What else are you up to today?” Ali asked, glancing up at Calen. “Want to help me make that fire boss?” She had a little time on her hands, and she was finally feeling better about herself and her dungeon after spending time with her friends and Lira – and the prospect of doing something productive had put her in a different frame of mind.
+
+“Sure, I’d love to help,” Calen said, getting up.
+
+“I just need to be careful with the levels and difficulty,” Ali said, hopping onto her barrier and leading him out of the library and into the ruins. Her biggest concern was giving the novices and bronze-ranked adventurers a decent difficulty ramp – and Theon’s death served to remind her that she could be doing better for them. Even if she believed everyone insisting it wasn’t exactly her fault. “I could really do with your help thinking through the different levels and challenges, maybe tweak a few things? Burgle that notebook of yours?”
+
+“Absolutely not!” he snorted, meaning quite the opposite. “So, where to?”
+
+“The entry hall leading into the ruins,” Ali said. There were nine newly-minted bronze-ranked adventurers now, and the next bosses available to them were her Timber Wolves and the twin ooze-goblin setup she had guarding the lake. Both were raid threats and likely impossible with only a single healer. Vivian had mentioned she was going to send them into the dungeon one group at a time, sharing the priest Belmar until they found a replacement – but healers were rare, so it might take some time.
+
+The flight across the breadth of the residential ruins of Dal’mohra’s upper level along the giant boulevard passed in companionable silence. When she finally flew through the great archway and into the entry hall, Ali paused, hovering there in the center.
+
+“You ok?”
+
+“Yes, just memories,” Ali said, shaking them off. This room had strong associations with two emotionally traumatic encounters – one with her mother when she first laid terrified eyes on a Death Knight, and the second time with Mato when they had defeated the swordmaster Kobold to win their way free from the ruins. Beyond the shattered remains of the city doors was the tunnel that led up to the forest cavern and her Grove – and also dozens of unexplored openings to the extensive cave system that riddled the mountains like a termite-infested tree. Her traps in this area had been working overtime.
+
+“Do you think level seventeen is low enough?” Ali asked as she descended to the ground, now covered in moss and mushrooms by her roaming planting crew.
+
+“Somewhere between the kobolds and the wolves, that doesn’t sound too bad,” Calen said, joining her. “Not a raid monster though, I think.”
+
+“Yes, just a regular boss this time,” Ali said. “They’ll be in single groups for the foreseeable future.” This spot would provide a decent proving ground and an introduction to the underground ruins for any adventurer groups that wished to explore. But she couldn’t make the boss a pushover – this area was rife with bat, Kobold, and zombie incursions through all the exposed cave and tunnel entrances. She needed a good boss here to close up the chokepoint and secure her domain.
+
+“Sounds good,” Calen said. “Fire theme?”
+
+“Yes,” Ali said. She had not forgotten his suggestion. Helping out Morwynne and Eliyen who’d given them so much aid was high on her priority list. Pulling out her Grimoire, she summoned a Kobold that she hadn’t been able to use in far too long.
+
+Fire Mage – Kobold – level 17 (Fire).
+
+“You will be the boss guarding this room,” she told him.
+
+“As you wish, ancient Mistress,” the Kobold replied, his gravelly voice and faint sulfurous odor giving her a surprising sense of nostalgia.
+
+She studied him closely, examining the equipment her Grimoire had chosen for him. There were the standard mage robes, of course, but her eyes were caught by the two glittering glass vials at his belt.
+
+“It made potions…”
+
+“You didn’t do that on purpose?” Calen asked. One of the vials was a minor healing potion, and the other a mana potion.
+
+“No, I just let the Grimoire pick,” Ali said. It was a feature she could control if she wished, but often she simply left it up to chance after she had realized that the Grimoire would make progressively better choices the higher she leveled her skill.
+
+“Well, that’s certainly interesting,” Calen said. “Does that mean your Kobold or Goblin bosses will start respawning with assorted potions now?”
+
+“I don’t see why not,” Ali said, considering it. She had explicitly specified some of their gear, but the rest had been left to chance, and now that she had the potion imprint, it would seem that was included in the options.
+
+“That means you can strengthen your existing bosses by growing your potion imprint,” Calen noted.
+
+“That’s… now you’re just showing off,” Ali said. Levitating herself a little higher, she placed a hand on her Kobold’s shoulder, she invoked her domain magic.
+
+Domain Respawn applied to Fire Mage.Boss Domain Enhancement applied to Fire Mage.
+
+She didn’t forget to keep the enhancement to a group-level threat, acknowledging that the new bronze-ranked adventurers could no longer field a complete raid group. But it shouldn’t be an issue for her purposes.
+
+“What abilities are you going to use?” Calen said.
+
+“You suggested helping out Morwynne and Eliyen, and most of the fire plants require fire mana to grow. What do you think about a fire aura and some minions? Keep it simple?”
+
+“Sounds good. What about those Drake Hatchlings? They should be a good challenge.”
+
+“Oh, I like that idea,” Ali said and made her selections.
+
+Affinity Aura (Fire) applied.Select or create minions: 51 levels remaining.
+
+She didn’t feel like she needed to be too precise with the minions, but she did want them to at least be a decent challenge to a group capable of taking on a level seventeen boss monster.
+
+Drake Hatchling – Dragon – level 11-15 (Fire) x4Minions assigned.Domain Enhancement complete.Your reserved mana has increased by +78.
+
+Her domain surged through the Kobold and his drake minions, and the aura of fire rippled outward from him, filling most of the ruined entry hall with scalding flame. But the fire from a level seventeen monster felt like a tickle compared to what she had grown used to down in the mines. It was a while before her attending Acolyte even deigned to cast a Restoration spell on her.
+
+“What do you think is good for loot? Magicite?” Ali asked.
+
+“Probably not necessary – they can wait till they’re strong enough to take on the wolves. You already have the drakes so they can get leather and scales. Those fire plants you were thinking of should provide a great source of unique alchemical ingredients,” Calen offered.
+
+“I guess there’s also the equipment he’s using,” Ali observed.
+
+“Why don’t you give him a fire elixir or absorption potion too?”
+
+“Why? It’s not like he needs it?”
+
+“Think of it like advertising,” Calen grinned. “A teaser if you will. Once they see the potion, they’ll need more, and then they’ll be knocking on Morwynne’s door.”
+
+“Oh, good idea,” Ali said and did just that. “Now, I just need to fix everything else,” she added, gesturing expansively to the burning room.
+
+Calen chuckled.
+
+Most of her moss and mushrooms were already on fire, and even the ones near the edge of the chamber were smoking from the heat. First, Ali punched a few holes through the floor and planted several substantially higher-level trees to form the backbone of her domain. She touched each one and granted them Domain Respawn also. Along the perimeter of the chamber, she planted clumps and rings of Glowcaps, giving them permanent barriers for protection.
+
+With her domain taken care of, she inscribed several Arcane Blast runic circles dotted about the chamber with various triggers she had been practicing. Traps for the unwary. And then she replaced all the burning moss with Fire Grass, turning the room into a dancing field of red flames.
+
+“Hey, that’s quite pretty,” Calen said, hovering about a meter above the ground on his radiant wings.
+
+“Thanks!” Ali said, happy to see the grass thriving under the influence of the Kobold’s fire aura. “What do you think of Flame Lashers?”
+
+“Not unless you can lower their level a bit,” Calen said.
+
+“Mmm, I can do that.” The flowers were gorgeous, and they would provide more incentive to clear this chamber, so she grew a couple along the outer walls.
+
+“Looks good, Ali,” Calen said. “That should provide a nice bridge between the raid bosses, and Morwynne and Eliyen are going to be overjoyed when they come back with a haul of flowers and grasses.”
+
+“Anything else it needs?” she asked.
+
+“Some trash mobs in the passageway?”
+
+“Trash mobs?” Ali asked, not recalling that particular term.
+
+“Loose monsters to serve as guards and a… warmup?”
+
+“Ha, warmup, you’re a real comedian today,” Ali laughed.
+
+“What can I say? I’m on fire!”
+
+Ali just chuckled again and seeded the passageway with a few Drake Hatchlings and several packs of Flame Skitterers for flavor.
+
+“You got mana for another?” Calen asked.
+
+“Yes,” Ali said. “I was thinking of something to guard the ventilation shaft.” It was the next critical chokepoint on her list.
+
+“How about something for Teagan and Aiden’s groups to work towards?”
+
+“Ok,” Ali said. Tossing ideas back and forth, they flew back into the Forest Cavern and made their way across it to the small cave and the ventilation shaft through which she and Mato had made their first unceremonious entrance into the Ruins of Dal’mohra. “Something to help boost them to silver-rank?”
+
+“That works,” Calen said. “Given that this is a small and dark cave, perhaps one of your spiders?”
+
+“Good idea,” Ali said, her mind filling with dozens of ideas. “Your mom is very excited for new web options – do you think we should do a Flame Spinner here?”
+
+“You just made a fire boss, perhaps a different theme?”
+
+“Well, then there’s only really one good option,” Ali said. The theme was blood. She opened her Grimoire and began to work.
+
+Abyssal Stalker – Demonic Spider – level 33 (Blood).
+
+At a regressed level of thirty-three, the demonic spider had only nine of its full complement of skills. The one that it lost was Onslaught, but Ali didn’t think that would matter much – making the encounter a little easier by removing a substantial portion of the monster’s already unreasonable critical strike chance. She would give a little of it back anyway, with a dexterity enhancement. For her plan to help Lydia gain access to demonic web, and indirectly benefit the cloth-wearers in the guild, it was crucial for the monster to still have Web Spray, and it had worked out perfectly.
+
+Domain Respawn applied to Abyssal Stalker.Boss Domain Enhancement applied to Abyssal Stalker.
+
+The first thing Ali chose was Affinity Aura, but to her dismay, it didn’t work. “Oh, I don’t have blood affinity for the aura skill.”
+
+“Well, that would have been terrifying,” Calen shuddered. “Why don’t you make it summon some of those hornets instead?”
+
+“Oh, that’s not a bad idea,” Ali said, considering it. It would give the mages something to do, for sure. Wiping out the hornets fast would be a priority, otherwise their swarm bonuses would rapidly get out of hand.
+
+Summoning (Vampire Hornet) applied.Attribute Enhancement (Dexterity) applied.Domain Enhancement complete.Your reserved mana has increased by +245.
+
+A substantially more expensive monster, but she was happy with it. As her magic completed, her Stalker vanished from her mundane vision, forcing her to rely on her minions to see it.
+
+“That’s going to be a rough encounter for the tanks,” Calen said. “The spider hits very hard.”
+
+“Yes, but if they have good perception skills, they can avoid the Ambush,” Ali countered. “And with proper armor, shields, and endurance they should be able to mostly avoid the stuns.”
+
+“I predict that stock in Thuli’s Steelworks will rise,” Calen laughed.
+
+“I’ll let Vivian know, as usual,” Ali said. Earlier today, Vivian had mentioned Mieriel’s idea of the guild sponsoring a few exciting quests to improve morale – and what could be better than a first kill bounty? Then she covered the walls with creepers and ivy and embedded a few small slivers of Abyssal Bloodstone in strategic locations, granting them Domain Respawn too.
+
+“That’s some very good stealth,” Calen said. “I can’t even see it.”
+
+“Mato said he can hear them,” Ali said.
+
+“Yes, but they don’t have him in their group.”
+
+“Willow’s wolf should be able to sniff it out,” Ali said, thinking through the options. “And I’m sure Seth will do something scary with his wraiths to find it.”
+
+“Good point,” Calen said. “Maybe I’m not giving them enough credit.”
+
+“Does it look good?” Ali asked.
+
+“Yes, very demonic! And the crafters are going to love the supply of bloodstone and webbing.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

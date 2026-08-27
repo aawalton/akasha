@@ -1,0 +1,277 @@
+---
+id: 10c1cd4a-a6cc-5cd3-9abb-dd2316671687
+page-type-slug: story-chapter-royal-road
+title: "Chapter 90: Ambush"
+slug: 0090-chapter-90-ambush
+partOf: dungeon-of-knowledge-complete
+position: 90
+ownLength: 4904
+unit: words
+ownProgress: 4904
+publishedAt: 2024-06-25
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1692477/chapter-90-ambush"
+royalRoadId: "1692477"
+markedReadAt: "2026-06-29T20:13:58.068Z"
+---
+
+The Ahn Khen elders tell of a legendary ancient warrior who trained day and night for many years, striving to perfect the Nine Paths. This nameless warrior became so skilled his story began to be told across the land, even in his own time. Many people would travel great distances just to challenge him, however, he would always turn them away, rebuffing their pleas, taunts, and even sometimes underhanded attacks with ease, always saying he simply desired to practice.
+
+One day, a capricious celestial arrived at the warrior’s home and declared that he would raze the entire village, sparing no one, if the warrior could not win a duel against him. Fearful for the lives of his family and fellow villagers, the warrior reluctantly accepted the challenge.
+
+The battle raged across the mountains for three days; the superior strength and power of the celestial being perfectly opposed by the supreme mastery of his martial arts. Early on the fourth day, tragedy struck. The warrior, who had not rested since the battle began, stumbled and the celestial took his eyes, leaving the warrior blinded and bleeding on the ground. Pausing the fight to gloat, the celestial taunted the warrior describing how he would now destroy the village and everyone in it. Everyone the warrior had ever loved.
+
+However, the warrior calmly resumed his stance and beckoned the celestial to continue. Such was the power of his resolve and the composure in his heart, that the celestial was forced to resume the fight. Blinded and exhausted, the warrior still fought the celestial to a standstill, and by sundown, the celestial was forced to declare the duel a draw.
+
+As a reward for his peerless skills, the celestial granted the nameless warrior the ability of Soul Sight, but as soon as he received the boon, it was transformed into a Bloodline that was passed on to all his descendants.
+
+There are many recorded variations of this oral legend. Some describe a demi-god instead of a celestial or claim a different duration for the battle. The less charitable versions substitute a demon instead of the celestial, but the essence of the story remains. The Ahn Khen bloodline was won by training and inner resolve. This legend is taught to Ahn Khen youth even today to encourage diligence and perseverance in their martial arts training.
+
+- Excerpt from Cultures of the Modern-Day Kingdoms by Evanna Quillmore, the Scribe.
+
+Alexander stalked deeper and deeper into the dense forest, hiding his discomfort and sense of vulnerability. Bringing his undead bodyguards would have made him safer but would obviously have undermined the Druid disguise he was wearing, courtesy of his Amulet of Natural Deception.
+
+His mind slipped into his storage enchantment yet again to inspect the tiny vial of innocuous-looking clear liquid.
+
+Potion – level ???
+
+His mind’s eye shifted to the instructions Roderik had provided along with the potion – which fortunately included the potion’s identification written out.
+
+Corrupted Essence of the Endless Nightmare – level 232 (Death / Mind)Distilled from the essence of the Devourer of Dreams, Baaoht Yll’shuum, every drop of this small vial of clear liquid is imbued with a vile mental curse and necromantic corruption.Consume: 100% chance to inflict level 214 Nightmare Slumber corruption on consumption. 100% chance to inflict level 221 Mana Severance curse on consumption. Charges: 5/5Quality: UniqueCreated by Nevyn Eld.Potion – Corrupted, Cursed
+
+A potion crafted by the Master… his eyes lingered on the crafter attribution. Roderik had been right, this was far better than mere Dreamcloud extract. As he approached the glade, he transferred the vial to the pocket of his jacket and steeled himself for his task.
+
+“There you are, Alexander dear. I was beginning to worry you’d forgotten all about me.” Lirasia’s voice resonated softly through the dense woods, sounding like it was carried to his ears by the unnatural rustling of leaves.
+
+He turned, schooling his face against the revulsion he felt on seeing her form rippling and twisting out of the heartwood of a thick oak tree. Somehow, he couldn’t get over her transformation to her humanoid form. It was like sharp fingernails scraping their way down his spine.
+
+But he smiled. Here, in the depths of the forest, he was a Druid, and he loved nature. His life and his plan depended on it. His fingers brushed across the smooth, cold glass of the vial nestled in his pocket.
+
+“There you are Lira, my love. I couldn’t stop thinking of you for even a moment, how could I ever forget about you?” The lie came naturally to his lips, spoken with practiced fervor and passion. He had been so worried about this part of his plan, knowing that the Dryad was so ancient and supposedly wise. But she had fallen for his practiced charms, like so many other older and lonely women. All he had needed was a few kind words, a thoughtful gift, and to listen to her worries with a sympathetic ear. She had fallen for him, and in way less time than he had ever expected.
+
+“Did you bring it?” she asked with a girlish excitement that belied her reputed centuries of age, alighting on the mossy ground, her bare feet causing an eruption of wildflowers among the sparse grass.
+
+“I did, my sweet.”
+
+She clapped her hands in delight and pressed her leaf-clad body up against his in anticipation. It took all his control to prevent his body from communicating his disgust at the monster touching him, but he saved his disguise, and with an act of will he returned her embrace affectionately. After all, he was a Druid, and Druids loved nature. And he could take a bath later to rid himself of the earthy stench and the overwhelmingly cloying fragrance of new growth. Give me a zombie troll any day.
+
+Quickly, he retrieved the blanket, spreading it out upon the ground at the base of the tree, and began laying out the tea set, along with the expensive Elven tea she had requested. He had been stumped by her refusal of his prior offers for picnics and food, preferring to photosynthesize her sustenance, but her weakness was for tea, and with that discovery, he had finally found his way in.
+
+Quickly disarming her with the small talk of the newly enamored, he distracted her while he set the tea to steeping. Surreptitiously, he added two nearly invisible drops from the vial to her cup. Considering his mark and her supposed high class level – she was a three-mark monster, after all – he decided to make sure and added a third drop, carefully marking which cup it was. He shuddered to think what would happen if he mixed them up.
+
+“Why are you so tense?” Lirasia asked, moving to massage his shoulders.
+
+He almost jumped out of his skin.
+
+Did she see me? He had been convinced his acting was perfect, but here, at the most critical moment, she had seen his tension.
+
+“Aah…” he said, racking his brain for ideas. Not knowing what else to do he went with, “That feels so good.” Then he continued, using a tried and tested technique of sharing something personal. “I’ve been stressed out lately. One of my friends seems to be having trouble controlling his temper and ends up hurting the people around us.” He didn’t mention that Roderik’s massacre of the village of Lyton had been his idea in the first place, and that temper had little to do with it.
+
+It was the best he had on short notice, but Lirasia seemed to buy it, continuing to massage his shoulders with fingers that, unbeknown to her, made his skin crawl. But he made himself lean into it and close his eyes, moaning softly in fake pleasure.
+
+“Why don’t you tell me all about it?” she asked.
+
+“Are you sure? I’m sure you don’t want to hear my problems,” he said, finally moving to pour the steeped tea into her cup and offering it to her, before pouring one for himself into a clean cup.
+
+“Of course, you can tell me, I want to know everything about you,” she said.
+
+This was the most critical moment. If she sensed the Corrupted Essence lacing her cup, he would be unmasked – and alone without his zombies in the middle of an angry Dryad’s forest was not a healthy situation.
+
+“Ok,” he said, timing his response to the moment she lifted the teacup to her lips. “His name is Roderik, and he had a rather rough upbringing.” He was making up a story, he had no idea what Roderik’s upbringing was like, but his distraction seemed to work, and she drank.
+
+He stared into her sparkling dark hazel eyes while he continued fabricating his story, watching with inner tense anxiety while she sipped again and again at the tea.
+
+Is it not working?
+
+He stretched the story longer and longer, becoming more and more worried as she continued sitting there, listening to him with rapt attention.
+
+Slowly her eyelids drooped, and he felt a surge of relief. She had almost finished the tea, with three drops of the Corrupted Essence, and only now it was beginning to work.
+
+Suddenly, she snapped her eyes open and sniffed suspiciously at her cup.
+
+“A curse? Alexander, what is the meaning of this?” she demanded, rising to her feet.
+
+All around him, the oaks creaked, branches twisting, growing, reaching toward him. Light fled the dappled clearing and vines sprang up from the ground wrapping themselves around his arms and legs, and he called out in pain as they bound him tightly.
+
+“Explain yourself!” she demanded, eyes flashing angrily, but then she stumbled, barely catching herself, looking at him through drooping eyelids. And then, all at once, she collapsed to the ground, and with her fall, all the branches and vines receded.
+
+Shit, that was close. He got to his feet, legs trembling with the rush of fear from his near brush with death at the hands of a vengeful forest spirit. The deception of the powerful always carried risk, and he had been willing to take it for the elevation of his status in the eyes of the Master, but in hindsight, he should have used the entire vial. He needed her alive, but risking her death would have been smarter than risking his own.
+
+“Come!” he commanded, calling one of his giant troll zombies.
+
+Mato was worried. More… concerned, he decided. He sampled another spoonful of the meaty stew bubbling over the fire and wrinkled his nose.
+
+It’s bland. A disaster.
+
+He hadn’t done anything different with the spices. The only real issue was that he had run out of pepper, and he was annoyed he’d forgotten to get more the last time he was in town. But bland wasn’t exactly the right description either – all the proper flavors were there – rather, it seemed as though he had just noticed his usual recipe had been lacking something all along.
+
+Maybe it’s my Survival Instinct? He hoped he wasn’t losing his touch. The others all seemed to be sitting around drooling, but they had all just come back starving from a boss fight, so that wasn’t the best indication of proper culinary prowess. It was his potent perception skill that granted him an uncanny sense of incoming attacks, but it also enhanced all his mundane senses. And that included his taste.
+
+Normally he would have guessed that his taste being enhanced would lead him to require less flavor to be satisfied. Still, somehow it enhanced his ability to understand the subtle balance of umami and vegetable flavors in the dish, and this one had simply come out somewhat lacking.
+
+I just need to get better. While he would never get as good as those who had pure cooking or chef classes, there had to be someone in town who could give him lessons so he could level up his skill. And then mom will give me that wink and start talking about having four strapping Beastkin grandsons to help about the place – yeah. He grinned ruefully. Are all mothers so obvious? At least she hasn’t started on Malika or Ali, yet. Not too much.
+
+He put the ladle back into the stew to stir it and took a deep breath. What’s that? A touch of an aroma reached his sensitive nose – something earthy, intoxicating, yet so familiar he had ignored it. He sniffed again, catching another whiff of it. Where’s it coming from? He glanced around – it certainly wasn’t his stew pot.
+
+His ruminations were interrupted by Calen taking off on wings of light and flying around the campfire. Ever since Mato had known him, Calen had dreamed of flight. Mato had never understood his passion for it – vastly preferring to have his four paws firmly planted on solid ground. But after Calen’s near brush with death, Mato couldn’t help but smile, sharing in the uncharacteristically obvious joy and excitement as, for a few moments, his friend shed his typical reserved quiet nature, swooping around with his new magic.
+
+I guess I got some levels, too. He tossed another pinch of salt into the pot and stirred while he consulted with his notifications.
+
+Druidic Shapeshifter has reached level 36 (+5).+50 attribute points.
+
+He quickly divided his points. Ten to vitality, twelve to strength, and thirteen to endurance. That should take care of tanking. Then he added five points to perception to help out Survival Instinct and dropped the remaining ten into wisdom to help Arboreal Sanctuary, Natural Prowess, and Brutal Restoration.
+
+Arboreal Sanctuary has reached level 18 (+2).Swipe has reached level 23 (+2).Brutal Restoration has reached level 24 (+3).Bear Form has reached level 24.Bestial Combat has reached level 24 (+3).Natural Prowess has reached level 15.Survival Instinct has reached level 15 (+2).Battle Trance has reached level 6 (+3).
+
+Not bad, he thought. But then his nose caught that tantalizing scent again.
+
+His eyes roamed around the camp. Malika and Ali were over by the tents cheering Calen on as he tried out his new wings. Nothing seemed to be out of the ordinary, just the old library with some moss growing on the floor. Ali had made some lights with her barrier magic that hovered up by the atrium. Jasmine and ivy grew up the walls where once there had been ladders leading to higher bookshelves. A big improvement. Some of the Blue Mana Grass and Common Glowcap mushrooms grew in planters, adding a little welcome glow to the ambiance.
+
+Wait. He glanced over at Ali. If she’s a dungeon… does that mean… He skipped over to the planter and bent over, sniffing at the mushrooms growing there. His nostrils filled with a thick earthy aroma that made his stomach grumble and his saliva glands begin to work overtime. This is it!
+
+“Uh, hey, Ali,” he said, standing up. “Can I have a couple of mushrooms?”
+
+“Huh? What for?”
+
+“Dinner!”
+
+“Sure, but don’t take too many. They’re making my domain and I’ll have to replace them.”
+
+Miming a punch to her shoulder, Malika said, “Come on, Ali, you can grow mushrooms in your sleep. If Mato’s that excited, you can spare a few.”
+
+“Yes, you don’t want to meet me when I’m hungry!” Ali threatened humorously.
+
+“What are you going to do, cute me to death?”
+
+“Didn’t I mention that being cuter-than-thou is an ancient, feared and devastating Fae skill?” Ali declared, putting up tiny fists.
+
+“Thanks!” Mato called over, leaving them to their amusing bickering.
+
+Excited, he carefully plucked four glowing mushrooms from the planter and hopped back to the cookfire. He rinsed them in a bowl of water and then sliced them up and dumped them into the stew. By the time the ladle had gone around the pot twice, his nose already knew. Oh, my… Trembling just a little, he scooped up a taste and popped it in his mouth. The burst of mana-infused flavor was far beyond his wildest dreams. For a moment he was transported to a realm where all that existed was the flavor. Savory, mana-rich, earthy, and … sparkly? It was a flavor he'd never imagined going with stew, but somehow it worked.
+
+Cooking has reached level 6.
+
+Aah, he sighed. Dungeon-grown food is so good!
+
+Ali sat quietly beside her tent in the soft golden light cast by the hovering domain-bound barriers she had created yesterday, and the gentle blue glow of the mana grass she had summoned in planters created from her stone imprint and the versatile Domain Mastery skill she was still learning to use.
+
+It seemed like it was early morning – before dawn perhaps – but it was hard to tell in the unchanging underground library.
+
+I can probably afford a clock now, she thought. There had been a time when that would have been beyond her means, but those days seemed well behind her now. Especially with all the gold they had found in the vault.
+
+I hope the others are better today. They had been worried about it – especially Malika and Calen. But she wouldn’t know until they woke, so she busied herself checking on her class growth earned from the battle against the monstrous undead Wights that had been the final boss of the Ruins of Dal’mohra dungeon of bone and death. She had been so tired last night that she had simply ignored her notifications and passed out as soon as she had the chance.
+
+Grove Warden has reached level 37 (+5).+50 attribute points.
+
+Arcane Insight has reached level 20.Arcane Bolt has reached level 19 (+3).Barrier has reached level 27 (+2).Martial Insight has reached level 20 (+3).Empowered Summoner has reached level 18 (+3).
+
+Identify has reached level 11.Inspiration has reached level 7.
+
+Five levels!
+
+The Twin Wights had been dangerous – there was no doubt – and, as she had discovered afterward, the life drain had made it significantly more dangerous than she had even imagined at the time. As expected, most of her skill growth was in her combat and minion enhancement skills. Judiciously, she assigned her attribute points, allocating twenty each to wisdom and intelligence, and putting the remaining ten into perception. Then she pulled up her status, studying it carefully.
+
+Name: Aliandra AmarielRace: FaeTitles: Ancient
+
+Active Buffs: Empowered Summoner
+
+Class: Grove Warden – level 37- Arcane Insight – level 20- Arcane Bolt – level 19- Barrier – level 27- Grimoire of Summoning – level 21- Runic Script – level 15- Sage of Learning – level 14- Martial Insight – level 20- Empowered Summoner – level 18- Domain Mastery – level 4- [Locked]
+
+General Skills- Reading – level 8- Identify – level 11- Sculpting – level 3- Inspiration – level 7
+
+Aptitudes- Languages: Ancient Dal'mohran, Elvish, Dwarven, Common, Draconic, Goblin- Mana (Affinities): Nature, Arcane- Tiny (Racial): The effects of Strength and Vitality are reduced by 50%- Magical (Racial): The effects of Wisdom and Intelligence are increased by 50%- Domain (Class): Your mana increases with the size of your domain, up to +100%- Domain: -10% maximum health per day domain withdrawal. You have Domain Sense
+
+Attributes- Vitality: 54- Strength: 4- Endurance: 15- Dexterity: 25- Perception: 73- Intelligence: 169 (+44)- Wisdom: 144
+
+Equipment- Body: Tailored Cotton Clothing – level 25- Hands: Wooden Bracelet – level 11- Ring: Bronze Guild Ring – level 10
+
+Resistance: 360Magical Damage Reduction: 25.78%+21% to mana regeneration.
+
+Health: 270/270Stamina: 150/150Mana: 3334/4320 (986 Reserved)
+
+Grimoire Imprints1- Moss2- Arrow3- Armor (Body)4- Dagger5- Wolf6- Mushroom7- Stone8,9- Kobold10- Sword11- Tree12- Creeper13- Ooze14- Goblinoid15- Shield16- Elemental17- Grass18- Book19- Bone Bracelet (Hands)20- Bow21- Poison Wyvern
+
+Am I doing well? She didn’t have a lot to compare against, other than her friends, but she decided she was happy with her skill growth so far. She had come to realize that the others often gained more total skill increases per fight, simply because they had more applicable combat skills to use. It was rare that Ali found ways to use Runic Script, Sage of Learning, or her Grimoire of Summoning in critical ways during a fight. Especially if she didn’t have time to set up.
+
+Those skills seemed to require study or training out of combat – or took far too long to cast in battle. But she had found ways to grow them too, and she was quite happy to see most of her skills seemed to be keeping pace. Her biggest limit, as always, seemed to be her Grimoire of Summoning skill level. Too often, she had to skip or bypass potentially useful imprints because her Grimoire simply didn’t have enough space.
+
+“Morning, Ali.” Malika’s greeting was quiet and somber as she came over and sat down beside her.
+
+“Hi Malika, how’s the drain this morning?” But simply by her mood, Ali could already tell nothing had changed.
+
+“Same.” Malika sighed. “I just hope Vivian Ross knows something that can help us.”
+
+“I’m sure she does,” Ali answered. “Or she can tell us who to ask.”
+
+“I hope so too.”
+
+They sat together in silence for a few minutes. Malika seemed worried, but her breathing seemed calm, and she didn’t seem nearly as frantic or scared as Ali remembered herself being when she was struggling with her domain withdrawal for the first time.
+
+“Are you ok?” Ali finally asked, not able to quite figure out what Malika was feeling.
+
+“I’m not sure…” Malika sat quietly for a few moments longer. “I feel like I should be more anxious, but my mind insists on remaining calm. I’m not sure how much is me and how much comes from Clarity. I’m still trying to get used to it.”
+
+“You’ve always been calm and rational. I think your skill is just strengthening a quality you already have, not changing you. We should talk to the Guildmaster before we decide if we need to worry about the drain,” Ali said, trying to console her friend. While she knew how stressful it could be to have your health torn away and not know when or if it might return, Malika seemed to be also struggling to process the mental changes that came with her new skill. Ali was certain the skill would be great, but she also appreciated some of the difficulties in adapting to a new passive skill.
+
+“Thanks, Ali,” Malika said quietly, and judging by the small smile, Ali knew she had recognized Malika’s primary worry.
+
+“Oh, before I forget,” Malika said, pulling four swords from her ring and laying them down on the ground beside Ali. “Can you learn these?”
+
+Bone Sword of the Wight – level 41 (Bone)Bone magic enhances the sharpness of this blade.Damage: Slashing, Physical+27 Dexterity+5% Critical Strike chanceRequirements: Dexterity 144One or Two Handed – Longsword – Bone
+
+Ali instantly recognized the four matching swords the Bone Wight had wielded. The long slender bone blades gleamed in the soft light, polished to a deadly-sharp sheen by the bone magic enchantment imbued into the blade. Ali studied the lattice of the magical formation, fascinated to see how the permanent enchantment was woven through the bone, resulting in a sword that exuded the deadliness of a tool for violence, honed to perfection by magic.
+
+“Are you sure? Don’t you want to sell them?” Ali liked to think that she wasn’t much for swords and armor, but even she felt the powerful desire to have swords like these for her Kobolds. She was certain they would fetch a high price.
+
+“I think our treatment might be expensive,” Malika said. “These swords will be an incredible source of income if you can make them. Critical strike and dexterity on a longsword will make it highly sought after for many warriors, rogues, and fighters that specialize in accuracy and precision.”
+
+“I won’t be able to actually make them until I reach level forty-one, though,” Ali reminded her. She wasn’t even certain her Grimoire would let her learn them yet.
+
+“Still, I think it’s worth being able to make them in the long run. Our potion use is getting more and more expensive. I can use the gold coins we found to tide us over until you can make the more valuable weapons to sell.”
+
+“Ok.” Ali was convinced, and it sounded like Malika had thought this through carefully. Besides, she might find a minion that was high enough level to wield it effectively at some point. It took only three of the swords before Ali’s Grimoire appeared and sucked up all the magical runes inscribing the variant sword onto its pages.
+
+Variant: Bone Sword of the Wight added to Imprint: Sword.
+
+“I got it,” Ali said, breathing a short sigh of relief and pushing the last sword back toward Malika. “Perhaps see if Weldin is excited about the last one?”
+
+“I know he will be,” Malika said, storing the gleaming weapon. “Commander Brand’s people will buy this in a heartbeat.”
+
+“Don’t forget to try and identify her,” Calen said as they emerged from the sewers and Mato replaced the heavy iron grate. He looked over his notes in the notebook before putting it away, satisfied that he had everything organized correctly, and stepped out into the main street leading toward the Adventurers Guild. The air felt still and quiet, and the light was beginning to brighten as the sun’s rays cast long early-morning shadows.
+
+“I’m wearing my best resistances,” Ali said.
+
+Calen nodded approvingly. If Mieriel was truly messing with their memories somehow, he might forget that they had made this plan. But he wouldn’t forget to check his notebook and the notes he had written to himself. Failing to remember – and knowing it – would be evidence of a kind.
+
+He scanned the rooftops and the dark alley entrances automatically, noting just how little his eyes were bothered by the bright morning sunshine or the shadows, while practicing his control over the motes of light he had floating along with their group. It would probably have been a happy morning, but for the fact that he still felt weak, drained, and hollow inside. He had woken up early and checked at once, but his life drain had remained unchanged from the night before, and that had done nothing to ease his anxiety. The mystery surrounding the guild administrator was merely an additional complication amid a sea of problems.
+
+He tried to dismiss his worries, instead focusing on the happy chatter between Ali and Mato discussing food and spices, and making his motes track the roof line to hover over the various windows and doors as they walked by.
+
+It was as they turned the corner onto the street right in front of the Adventurers Guild. He was getting better at tracking the motes of light along the edges of the buildings and as it traversed the gap to the next building, he suddenly caught sight of a shadowy figure, barely visible, and crouched behind some boxes in the darkness of the alleyway.
+
+Crossbow!
+
+Calen dove forward, ramming the palm of his hand into the middle of Ali’s back, sending her flying with a surprised shout. The crossbow bolt punched clean through his elbow, shattering bone and sending blood spraying up against the wall. He viewed it all with a bizarre kind of detachment in the moment before his brain registered the pain.
+
+He crashed to the ground, struggling to grasp at the rapidly fraying edges of his consciousness as the pain hammered into him with relentless fury. Must… save… But he heard Mato’s roar, and the instant golden light of Ali’s barrier appeared, and he saw Malika’s foot somehow springing away into a wave of darkness…
+
+The burning rush of healing magic jolted him back to consciousness as the shattered bones in his elbow twisted and writhed back into shape with a gruesome, cracking wrench. Calen screamed in agony.
+
+“Alright,” Malika soothed. “Give it a second.”
+
+Calen swore between his clenched teeth as the healing finished up. He glanced around urgently, but the street was quiet, and Malika had her hand on his arm, with Ali and Mato looking on with concerned expressions.
+
+“That guy really wrecked your arm,” Malika said.
+
+“Crossbow assassin,” Calen answered, relieved to see that Ali was unharmed. It had been clear from the trajectory of the bolt, that the center of Ali’s back had been the target. If Calen hadn’t disrupted the stealth, likely they would have been looking at an Ambush. Even with the disruption of the Ambush itself, the assassin’s attack had packed enough of a punch that the critical damage had almost removed his entire arm at the elbow. He flexed it a few times, suddenly far more appreciative that it was working.
+
+“I couldn’t catch him,” Mato said, clearly angry. “Too fast, he got away.”
+
+“Thanks, Calen.” Ali looked paler than usual.
+
+The real question was why she had been a target at all, in what looked very much like an organized assassination attempt.
+
+“Let’s get inside,” Malika said, moving forward with a determined stride. “I’ve got a few questions for our Guildmaster!”
+
+“Damn right,” Mato growled, his tone making Calen glance at his friend in concern. The big Beastkin was nothing if not protective and it sounded as if he was taking this attack on Ali personally. That was fair enough, but they needed to keep Vivian on their side if at all possible.
+
+This promised to be an entertaining meeting.

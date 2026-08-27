@@ -1,0 +1,195 @@
+---
+id: 0819e5e1-2006-592a-8bd7-1dd85642f710
+page-type-slug: story-chapter-royal-road
+title: "Chapter 30: Warband"
+slug: 0030-chapter-30-warband
+partOf: dungeon-of-knowledge-complete
+position: 30
+ownLength: 4703
+unit: words
+ownProgress: 4703
+publishedAt: 2024-02-26
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1532723/chapter-30-warband"
+royalRoadId: "1532723"
+markedReadAt: "2026-06-29T20:11:58.914Z"
+---
+
+Elite Goblins are rare. Perhaps one in a thousand or fewer are born with a mana affinity or unlock an uncommon class. But they breed so fast…
+
+- The Unexplored Lands, by Lyeneru Silverleaf, Elven Pathfinders Guild.
+
+It had been one of Ali’s wolves that had brought news of Calen and Malika’s crisis and of the scent of Goblins. He had been sure he was close enough to get to Ali, and still make it back to them in time, but the crack of thunder and the heavy thump of an explosion up ahead told him he hadn’t been quick enough.
+
+A cold prickle of anxiety and dread lent power and urgency to his stride. He redoubled his speed, charging through the dense underbrush, heedless of the noise he was making, until at last he crested a rise and saw the violent crash of furious battle spilling through the clearing below. Over a dozen Goblins rushed about, filling the air with their raucous hooting cries and flying rocks. At least two strode confidently among the trees unleashing staccato pulses and bursts of potent battle magic. On the far side of the clearing, an ancient oak blazed with hungry flame amid the splintered remains of its neighbors.
+
+A Warband!
+
+Calen and Malika were woefully outmatched. Three giant Goblin Bugbears had Malika on the ground, their muscles flexing rhythmically as they hammered mercilessly at her bloody body with heavy two-handed weapons. Calen was pinned down on the far ridge behind a burning tree, dodging a hail of stones, fire, and lightning – out of place and unable to come to her aid.
+
+As quickly as he could, he set Ali down. “Usual plan. I’ll help Malika.” Without waiting for her response, he twisted himself into Bear Form and tore down the ridge and out across the clearing, roaring loudly to try and distract the Bugbears from the brutal pulverizing strikes they rained down on Malika’s unresponsive body.
+
+I’m coming! He refused to believe she was dead, but the amount of blood soaked into the dirt and the way her broken and limp body bounced and jolted had his gut twisted into a knot. A glowing arrow whizzed by one of the Bugbears’ ears, but it paid the missile no more mind than the buzzing of a gnat. As soon as his Sanctuary aura touched Malika’s body, he felt her life force dimly flickering, grimly holding on under the onslaught of the steel spiked maces and greataxe.
+
+Damn, her defensive skills are strong!
+
+With the domain of his Sanctuary enveloping Malika’s body, he finally had the means to act. The two-handed greataxe gleamed from on high as the muscles along the Bugbear’s back and shoulders flexed. The blade bore down at Malika’s exposed back with all the grace and finesse of a charging Bristletusk Boar.
+
+And he took it.
+
+Nature magic rippled softly across his aura, and the giant axe blade passed clean through Malika’s shoulder. But with the twisting of his mana, the slash appeared on Mato’s shoulder instead, separating hide and muscle in a burst of stolen pain and a spray of his own blood. He stumbled from the impact, but his momentum still carried him crashing headlong into fray. All the weight of his stamina-enhanced Charge crashed into the first Bugbear, knocking him back into his axe-wielding friend. Like herding angry boulders. The axe-wielder snarled and backhanded his staggered compatriot, knocking him sprawling into the dirt.
+
+The heady rush of power from the pain and damage failed to materialize, but he refused to mourn the loss of the addictive Primal Rage. Desperate to draw the monsters’ attention away from the unconscious Malika, he threw everything he had at them; a great horizontal Swipe attack with his right paw, empowered with Brutal Restoration.
+
+Out of the corner of his eye he saw the nimble flashes of green-scaled kobolds zipping across the clearing and heard the soft swishing sizzle of Arcane Bolts overhead. Ali wasted no time.
+
+It was the first time he had used his Bestial Combat in battle. Blood soaked his fur as his green spell-wreathed claws raked across all three Bugbears in a bloody arc – a single attack more powerful than any he had ever unleashed – at least that he remembered. His balance and precision were off the charts and all three Bugbears turned on him with furious snarls and angry roars, ignoring the downed Malika.
+
+The gleam of heavy steel reflected from the swinging counterattacks and Mato hunkered down, bracing himself. He pulsed stamina into his new mastery skill, meeting the mace strikes with the heavy hide on his shoulders and catching the haft of the greataxe with a planted foreleg. He winced at the shock of heavy impact, but the precision of his blocks had protected his vitals from critical damage. His opening attack had already established a powerful pulse of his restoration magic which settled in and began repairing his body from all the damage he had chosen to take.
+
+Perfect, right where I want you! He circled back, drawing the Bugbears a little further from Malika, but he remained close enough to keep her cradled within his aura, focusing on blocking as many attacks as possible. He could not heal her directly, but his new advanced regeneration should hopefully help get her back on her feet.
+
+Come on, get up! Heal! His skill was passive and didn’t take any mana, but regeneration was naturally far slower than her direct healing. Against such ferocious and powerful opponents, he was only going to last so long before he would need Malika’s help.
+
+The Goblin Bugbears counterattacked, ganging up on him. With short guttural shouts and grunts, they drew a focused barrage of rocks from their annoying friends hiding among the bushes and began to flank him, drawing him out into forced openings. Could use a little help here. Ali? Calen? He glanced down at Malika, but she still lay unmoving in the dust. It was obvious to him, having fought alongside Ali’s wolves, that the Goblins had a skill for cooperative combat similar to Pack Tactics, and he was outnumbered. Soon, their heavy weapons began to break down his guard, landing powerful strikes, crushing and slashing at his body.
+
+A loud bang rocked the forest, and the acrid stench of sulfur and burnt wood briefly overwhelmed the reek emanating from the filthy Bugbears. Unwillingly, he found himself forced into a defensive retreat, taking strike after strike, and having to pay a steep cost in blood to land his Swipe and remain close enough to Malika. But Mato felt a sensation he had not felt since he had fallen down that dreadful hole with Ali: a sense of elation. His mind was clear, and he was fighting a clean battle without wrestling against the rage for control of his mind and will. Without the gnawing worry that he would come around afterward, having hurt his friends.
+
+While his Bestial Combat lacked the raw potency of Primal Rage, he discovered it came with an unexpected benefit: his attacks carried a sense of poise, a precision or balance, that he had not possessed before. His skill included proficiency with his shapeshifted form and natural weapons, but he hadn’t imagined it would have such a dramatic effect on his fighting prowess.
+
+An arrow shot out from among the trees eliciting a high-pitched Goblin screech somewhere in the distance. A second arrow followed the first, buzzing in the air. Wait. If the Bugbears are angry enough to make the Goblins throw their rocks at me… they’re not shooting Calen. Archers performed poorly under direct pressure, but with a clear line of sight, and nobody attacking them, there was nothing more deadly.
+
+Can I piss these guys off more? He grinned as he searched for his chance.
+
+The two Bugbears to his left attacked simultaneously, and he used Bestial Combat to block one of the giant maces, deflecting it off his shoulder. His bones creaked as he opposed the weight and momentum of the strike. It definitely helped reduce the damage, but the second attack slammed into his ribs crushing bone and mashing flesh.
+
+There it is! He saw the opportunity he had created with his block and empowered another Swipe attack, slashing crosswise to tear at all three Bugbears right as they lunged forward. The pulse of his healing magic grew proportionally stronger at the new infusion as the monsters roared their fury.
+
+While the two mace-wielding Bugbears held him at bay, the third drew back his greataxe and with a grunt of extreme effort, swung it in a powerful arc, setting himself spinning like a tornado of muscle and steel across the blood-soaked dirt. The axe flickered in the dawn light as it accelerated into a whirling blur, slicing at his flank with every turn. His natural armor was no match for the Goblin’s powerful skill. With blood suddenly pouring from his body, Mato stumbled backward to try and avoid the meatgrinder.
+
+Out of the corner of his eye, he saw a small steel pole with ornate runic markings suddenly appear next to him.
+
+A totem? It crackled ominously.
+
+You have been cursed with Lightning Vulnerability.
+
+Oh crap! The totem exploded with a spherical pulse of electric sparks, followed by another, and another, filling the air with crackling power that made his fur stand on end. The pulsing waves rippled out past twenty feet. His body spasmed in shock and his health dropped precipitously. Instinctively, he took Malika’s damage, briefly doubling his own, and charged at her prone form, biting down on her left ankle – none too gently – and heaved them both out of the Lightning Nova.
+
+Ugh, that felt like charging into a brick wall.
+
+As he rolled to recover his footing, the forest was split by a deafening thunderclap and the whole world went white. Every single muscle in his body spasmed painfully as the Lightning Bolt tore its way through him. In the forest beyond, several trees exploded in the wake of the potent blast. His vision began to clear, and he found himself dangerously low on health, his nostrils assaulted by the stench of ozone and his own seared flesh. Urgently, he scanned the area for his foes, finding only the axe-wielding Bugbear charging toward him.
+
+Where are they?
+
+“Above,” Malika croaked, her voice hoarse.
+
+He snapped his head up to find the massive forms of the two missing Bugbears descending like meteors, their maces already beginning to unleash powerful bone-crushing blows. At that moment, Malika’s hand grasped his hind paw, and her magic tore its way through him in a burning rush, instantaneously mending serious injuries and closing wounds.
+
+The power of her magic had barely run its course, when the two Bugbears slammed into the ground beside him, maces whipping down. He braced to block, but the sheer power of the unexpected axe sweeping in from the side staggered him, knocking him into the ground with enough force to make him bounce. The most vicious of the Bugbears cackled evilly, clearly pleased with his reaction as he drew back the massive axe for another devastating attack.
+
+“I got your back,” Malika announced, as she got unsteadily to her feet. “Thanks for the stamina regeneration.”
+
+Mato huffed, dipping his head to acknowledge her, and from the trees in the distance, he heard Calen’s voice shouting, “Shaman next!”
+
+Mato shook his head to clear it, getting back to his feet. Sounds like they got the Fire Mage. His efforts to draw attention away from Calen must have worked. As Malika began to dance, her magic flickered and flashed in time with her punches, and Mato simply grinned as he launched his counterattack.
+
+Oh, it’s on now!
+
+Ali stumbled, catching herself against the trunk of a large oak as Mato, in his haste to rush to the rescue, dumped her rather roughly to the ground. Then, with a cryptic and vague declaration, he shifted and charged off. Shortest tactical discussion ever, she snorted to herself. Typical. Ali immediately summoned a barrier and hunkered down behind it, surveying the battlefield. Her heart skipped a beat at the sight of Malika sprawled helplessly on the ground, under the onslaught of enormous heavy weapons, but Mato was already tearing toward her.
+
+Warrior – Bugbear – level 16-17 x3Mage – Goblin – level ?? (Fire)Shaman – Goblin – level 19 (Lightning)
+
+That reeks of trouble.
+
+Movement in the bushes behind the mage and the shaman drew Ali’s attention. Cunningly hidden in the undergrowth, wicked green snarling faces popped up briefly, throwing stones into the fray with uncanny accuracy, or even launching them from makeshift leather slings. Their habit of dancing in and out of cover made it impossible for Ali to get an accurate count.
+
+Usual plan, huh? Oozing with style and finesse.
+
+This was nothing like their usual situation down in the ruins, but Ali understood Mato’s thinking instantly. I always get the Fire Mage. Even though the green Goblin looked nothing like the red-scaled Kobolds, the magic Firebolts flying from his fingers, and the burning forest were more than enough for her. The urgency of locking down the Fire Mage as fast as possible had been a lesson she had learned through blood and burned flesh. And this one’s been left alone for far too long already.
+
+She aimed her hand up over the rim of her barrier and began lofting her Arcane Bolts into the air, homing in on the Goblin mage. He glared at her with hate-filled eyes and immediately lit his entire body on fire. Ali’s eyes widened in surprise; the Kobolds had never done that. But then the mage began to cackle and hunched over his hands to conjure an intense ball of fire that Ali instantaneously recognized as a Fireball.
+
+While her Arcane Bolts flew, she directed her minions, sending her wolf pack after the Scavengers and Skirmishers lobbing their stones from the undergrowth, relying on her Martial Insight senses to know precisely where the wolves were.
+
+“Kill the Fire Mage,” she ordered, and her rogues slunk off without ever breaking stealth.
+
+Ali turned to the two green-scaled Kobold warriors flanking her and pointed. “You guys attack that shaman.”
+
+“Yes, Ancient Mistress.” Both warriors sprinted off, tails swishing across the dirt of the forest floor, keeping them upright and agile. Ali wasn’t quite sure what the lightning shaman was capable of but leaving it alone to work its mischief seemed like an awful idea.
+
+The shaman mimed a throwing gesture, and a small metal pole appeared somewhere between the Goblins and her advancing Kobolds with a bright flash of mana. The strange pole had shapes and runes carved into it and it crackled with a brilliant magical energy as soon as it planted itself into the ground. Her two Kobold warriors were suddenly caught in a five-meter radius of pulsing waves of sheet lightning. They twitched spasmodically with each pulse as they struggled to retreat.
+
+Ali checked in on her Martial Insight connection, sensing the three stealthed rogues skirting the edges of the devastating Lightning Nova.
+
+A thunderclap split the air as a huge bolt of lightning tore into her two struggling Kobold warriors. Oh no. That was much worse than I imagined.
+
+Distracted as Ali was with the powerful lightning magic and the fate of her warriors, she missed the completion of the Fire Mage’s spell. She yelped as the Fireball struck the center of her barrier, detonating with deafening power that ripped through the nearby trees. The sheer force of the mage’s magic shook the ground with a destructive shockwave, blasting out an inferno of heat and angry red flame that filled Ali’s vision. Crouched behind her barrier, gasping for breath in the instantly superheated air, Ali was nonetheless shocked to find her barrier had blocked the explosion with only a few small cracks appearing along the edges. A wasteland of splintered trees, scorched earth, and burning branches spread out before her, leaving her huddled in the tiny shadow of protection cast by her barrier.
+
+She restarted her Arcane Bolt volley, which had been interrupted by the unexpected Fireball. A loud screech from the Fire Mage echoed across the battle as his blood suddenly sprayed into the air. Ali’s three dark, leather-clad Kobold rogues all appeared simultaneously behind him, stabbing viciously. Her rogues ignored the fire that wreathed the mage, but Ali could tell they were being burned by it as the shroud of flames he wore like a cloak reacted with bursts and flares in response to each dagger strike.
+
+The Goblin Fire Mage’s body shimmered with intense heat, and he vanished, suddenly appearing over ten meters away, leaving a burning trail across the ground. Her rogues chased him while her Arcane Bolts flipped around in the air, redirecting mid-flight. The mage spun and a blazing inferno of flame shot out from his hands in a short arc immediately in front of his body. The continuous roaring flame caught her rogues by surprise, and they dove sideways to escape it. One of the Kobolds was not quite nimble enough and its entire body caught on fire as the mage rapidly incinerated it with his magic. The mage turned, hopping up and down and cackling wildly as he directed his flame at the advancing Kobolds to hold them at bay. From the shadows of the forest, three brilliant arrows streaked out, flying across the clearing to bury themselves in the mage’s back. Ali breathed a sigh of relief as the Goblin stumbled and the inferno snuffed out. Her two remaining Kobold rogues leapt on the downed Goblin, daggers flickering as they aerated its lungs and neck repeatedly, blood flicking off their busy blades.
+
+A few seconds later, the soft sound of a chime echoed in Ali’s mind. Yes! Got him!
+
+“Shaman next!” Calen shouted.
+
+He’s alive! Just in case his arrows hadn’t been a dead giveaway, his voice carried across the clearing suggesting a way to coordinate their attacks.
+
+Ali turned her attention to the second elite Goblin. The shaman seemed incredibly robust in her mail shirt, hunkered behind a buckler, and lashing out with a short mace. Despite the efforts of Ali’s warriors, the Goblin seemed hardly the worse for wear. As she watched, her Kobold struck the shield causing a retaliation of intense white sparks that arced to the sword, making the Kobold jerk sideways into the blurring speed of a lightning-enchanted mace that caved in the side of his head.
+
+Directing her rogues from afar, Ali launched her golden Arcane Bolts from her distant vantage point up on the ridge. They flew high and fast, arcing down to strike the shaman from above. Meantime, Calen’s arrows spit out in a steady stream, punishing any green face that had the temerity to poke up out of the bushes. As soon as the bolts struck, the shaman turned her dark eyes on Ali, and her lips mouthed some unheard incantation. A surge of mana flashed from within the shaman; her hands shot out toward Ali making the wooden bangles on her arm clack together ominously.
+
+You have been cursed with Lightning Vulnerability. -133 to Resistance vs Lightning magic.Curse – Duration: 1 minute.
+
+Oh shit!
+
+Ali barely had time to throw up a fresh barrier when the thunderclap crashed through the clearing and her vision overloaded with the intense flash of lighting. The sudden stench of ozone filled her nostrils right as her barrier exploded and her body was tossed like a ragdoll into the forest. She slammed into a tree, feeling something crunch in her back, before she collapsed to the ground, groaning in pain. A little more than two-thirds of her health had vanished in an instant, and she was certain that if she hadn’t had her barrier to absorb most of the Lightning Bolt she would have been vaporized.
+
+Ugh, that curse is deadly.
+
+She rolled over, gasping at the jangling pain coursing through her nerves, and reflexively threw up a precautionary barrier. Blinking at the afterimages on her retinas, she gazed through her barrier to see her rogues and her warrior still engaged with the shaman. The canny Goblin had thrown down another Lightning Nova totem and was using it to protect her back while she engaged all three of Ali’s Kobolds with her lightning-enhanced mace and shield combo. Every time her Kobolds were blocked, Ali saw their bodies spasm from the retaliatory lightning strikes as the forest echoed to the rapid crack of lightning discharges. From the way the mana flowed, Ali could only guess that the mace attacks were magically accelerated too.
+
+Ali huddled behind the tree and her magical barrier, trying to make herself as small a target as possible. I can’t get hit again. There was no way she could survive another Lightning Bolt while she was cursed with vulnerability. But the shaman was so dominant that she couldn’t afford to simply hide either. Cautiously she reached out a hand and began shooting more Arcane Bolts into the air over the top of her barrier, relying on her magic to direct their flight. Another giant thunderclap hammered against her ears, and the mana reserve for two of her Kobolds snapped.
+
+“Get her!” She willed success for her last rogue while firing her Arcane Bolts blindly around the massive trunk of the oak tree, keeping the shaman fixed firmly in her mind as the target for her magic. She poured more and more mana into her attack spell, ears straining to hear the soft swishing of her magic over the din of the shaman’s lightning below. The occasional swoosh-thud of arrows from beyond her hiding spot told her Calen was still fighting.
+
+Suddenly, her chime sounded, and the deafening crack of thunder ceased. Cautiously, she peered around, keeping her head down behind her barrier. To her profound relief, the shaman lay unmoving, face-down on the ground with several of Calen’s arrows sticking out of her back, and blood still flowing over her mail shirt. The strange totem had vanished, taking the pulsing lightning sphere with it, and Ali’s lone remaining rogue limped away from the corpse in her direction.
+
+“Attack the Bugbears, but be careful,” Ali instructed, and the Kobold chirped his acceptance in the draconic language.
+
+If he doesn’t get hit, Mato’s aura should help him regenerate.
+
+Ali slowly limped over to where the Fire Mage lay, taking care to avoid the still burning swathes of ground where his Fireball or incineration magic had struck. The ground still glowed a dull red in places, slag that radiated a palpable heat from the sheer power of the magic the Goblin had unleashed.
+
+No wonder my Kobolds died.
+
+She summoned a barrier to protect herself from stray rocks and stones, still hearing the screeching of Goblins and the howls of wolves as they tangled out in the dense forest. As she worked her deconstruction magic on the corpse, she studied the rest of the battle. To her intense relief, Malika was up and fighting, and between her and Mato they had already killed one of the Bugbears. Her remaining Kobold rogue darted back and forth, stabbing both of the remaining Bugbears indiscriminately. She puzzled over it for a moment, before remembering that he had poisoned his daggers.
+
+It’s probably more efficient to hit them both, she reasoned, a subtle trickle of insight flowing into her mind at the sight. She didn’t know what effect the poison might have on a Goblin constitution, especially one so big as a Bugbear, but she hoped her Kobold knew what he was doing.
+
+Calen’s brilliant arrow flew from the trees and struck the Bugbear wielding the greataxe. At once, Ali shifted to the same target, following the strategy lessons Malika had given her at the start. The faster we kill it, the less it can hit us, she had said. She fired Arcane Bolts out across the clearing to slam into the broad back and bulging muscles of the Bugbear, burning through orange-brown fur and leaving small wisps of smoke rising from the impact marks.
+
+Her body was beginning to tremble from the aftereffects of the lightning magic and her severe injuries, causing her arcane magic to fire out at strange angles. I hope nobody sees that, she thought, relieved to find her magic correcting the flight path automatically.
+
+When the Bugbear dropped, the last remaining one turned and fled, sending a surge of panic rushing through Ali’s veins. She fired her Arcane Bolts continuously, wishing for the first time that she still had Grasping Roots to stop the Goblin before it escaped and found more Goblins to rally around. Calen’s arrows flew in rapid succession as he too decided it wasn’t safe to let the Bugbear escape. It made it all the way across the clearing before they dropped it.
+
+Ali sunk to the ground, just breathing heavily, sighing in relief as the others cheered.
+
+Ugh, my everything hurts.
+
+Your group has defeated Fire Mage – Goblin – level 21 (Fire).Your group has defeated Storm Shaman – Goblin – level 19 (Lightning).Your group has defeated Axe Brute – Bugbear – level 17.Your group has defeated Mace Brute – Bugbear – level 16 x2.Your group has defeated Skirmisher – Goblin – level 2-5 x5.Your group has defeated Scavenger – Goblin – level 1-3 x3.
+
+This was far harder than the Kobolds, she thought, remembering her and Mato’s final battle to leave the ruins.
+
+There had been four of them this time and still, it had been insane and terrifying; even though she and Mato were far stronger after their underground ordeal.
+
+She studied the notification for the shaman. Storm Shaman. It had been incredibly robust and its magic powerful. Fortunately, Ali hadn’t had to face the Bugbears directly herself, so she could only guess how hard they hit, but she had personally tanked the Storm Shaman’s Lightning Bolt and had absolutely no desire to face another. And that Fire Mage had been even higher level – it was a good thing she had managed to drop it quickly with the triple Ambush, otherwise, the battle might easily have gone terribly wrong.
+
+Grove Warden has reached level 15 (+3).+30 attribute points.Arcane Insight has reached level 5 (+2).Barrier has reached level 12.Martial Insight has reached level 7 (+2).Identify has reached level 8.
+
+Look at that! Three whole levels! Ali considered her thirty new attribute points carefully. Down in the ruins she had almost always spent them on vitality because of the specter of Ambush rogues and the struggles with her Domain Withdrawal. Given the ridiculous Lightning Bolt and the vulnerability curse, she seriously considered taking the same approach.
+
+She sucked in a deep, slow breath as she tried to look past her knee-jerk fear response. I have lots of vitality, and three of my skills use perception now, she thought, before finally settling on the choice of dividing her points evenly among perception, wisdom, and intelligence. The stronger she was the faster monsters could be eliminated – just like with the Fire Mage. It really was a balancing act, just as Malika had taught her.
+
+***
+
+Name: Aliandra AmarielRace: FaeTitles: AncientClass: Grove Warden – level 15- Arcane Insight – level 5- Arcane Bolt – level 11- Barrier – level 12- Grimoire of Summoning – level 10- Runic Script – level 7- Sage of Learning – level 8- Martial Insight – level 7- [Locked]- [Locked]- [Locked]General Skills- Reading – level 7- Identify – level 8- Sculpting – level 2Aptitudes- Languages: Ancient Dal’mohran, Elvish, Dwarven, Common, Draconic- Mana (Affinities): Arcane, Nature- Tiny (Racial): The effects of Strength and Vitality are reduced by 50%- Magical (Racial): The effects of Wisdom and Intelligence are increased by 50%- Domain (Class): Your mana increases with the size of your domain, up to +100%- Domain: -10% maximum health per day domain withdrawalAttributes- Vitality: 50- Strength: 4- Endurance: 15- Dexterity: 10- Perception: 31- Intelligence: 53- Wisdom: 57Equipment- Body: Tattered Robes – level 7Resistance: 67Magic Damage Reduction: 13.75%Health: 125/125 (-50% Domain Withdrawal)Stamina: 84/150Mana: 203/945 (132 Reserved)Grimoire Imprints1- Verdant Moss2- Wood3- Crude Leather Armor4- Crude Dagger5- Starving Wolf6- Mushroom7- Stone8- Kobold9- Sword10-

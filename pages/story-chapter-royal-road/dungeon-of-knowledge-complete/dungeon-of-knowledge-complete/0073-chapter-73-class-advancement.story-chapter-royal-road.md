@@ -1,0 +1,331 @@
+---
+id: 53ee3256-9dda-5b03-b28e-91e6fef490de
+page-type-slug: story-chapter-royal-road
+title: "Chapter 73: Class Advancement"
+slug: 0073-chapter-73-class-advancement
+partOf: dungeon-of-knowledge-complete
+position: 73
+ownLength: 4924
+unit: words
+ownProgress: 4924
+publishedAt: 2024-05-16
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1638593/chapter-73-class-advancement"
+royalRoadId: "1638593"
+markedReadAt: "2026-06-29T20:13:21.970Z"
+---
+
+No treatise on the fundamentals of magic would be complete without a discussion of the nature of magical affinity. Unfortunately, the nature and relationships between magical affinities are as broad and complex a subject as magic itself. Classification has been, and remains, a contentious subject among magical scholars with at least a dozen conflicting systems being accepted as standard by a significant portion of the academic community.
+
+A magical affinity can be thought of as a style of mana, and a theme for how it affects the world. Fire affinity mana has a theme, embodied by spells such as Firebolt, Fireball, Flame Conjuration, Heat, etc. Mana of a particular affinity cannot be used to cast a spell or power a skill of a different unrelated affinity without a costly or convoluted conversion process. No fire affinity mana will ever be able to cast an Ice Lance spell. Unfortunately, magical affinities can be subsets of – or overlap with – other related affinities, and mages can occasionally have mana with multiple affinities, making the rules complex and difficult to unravel. For example, mages with a nature magic affinity often gain access to lightning magic spells. This shows that there is an overlap between nature affinity and lightning affinity. Both affinities have magical effects not present in the other suggesting that neither is a specialized subset of the other. However, it is widely accepted that nature affinity is the magic of a generalist, having a broad range of effects, while lightning affinity is a much narrower focus and is often employed by damage specialists. A nature mage may have access to healing, plant, creature, wood, and lightning spells, while a lightning mage is much more likely to have a single Lightning Bolt spell and several skills that considerably enhance its power. If your goal is to become a glass-cannon artillery mage in the army, lightning is a significantly better choice.
+
+An affinity can be said to specialize or derive from multiple types of mana. For instance, magma affinity is a rare affinity specializing in both fire and earth magic. While magma will not likely have access to pure fire or earth spells, such as Fireball, it will likely be the affinity producing Magma Burst, lava-based magic, or Meteor spells. It is generally true that the narrower and more specialized an affinity, the more powerful the effects can be. For instance, many affinities have access to teleportation magic, but the effects are generally much stronger in the repertoire of the space affinity mage. Similarly, if you want a person to heal your group for conquering a dungeon or doing quests, a holy magic knight, nature magic druid, or similar class would be appropriate. If you wish to heal an entire city, picking a specialist healer – for example, a holy affinity priest – would be much more effective.
+
+- Excerpt from Fundamental Arcane Magic: Theory and Practice.
+
+Ali waited while Vivian Ross pushed open the doors to the Town Hall, subjecting her to the cacophony of an unmanaged crowd and the musky, cloying scent of too many Humans that threatened to overwhelm her after so much time spent underground. She had only needed to wait two days before the town held their class advancement ceremony, and Vivian Ross had suggested they simply present Ali’s offer at the ceremony itself and take the first ten people who volunteered, in addition to Ryn and Basil.
+
+It sounded fair to Ali, but her nerves were off the charts, ranging across the entire spectrum. Talking in front of crowds had never been something Ali liked, much preferring the safety of her couch and a good book. Or a quiet nook in the library. Books were quiet, reliable friends.
+
+What if nobody accepts? What if everyone accepts? Her imagination ran rampant, providing her with visions of the most unlikely scenarios possible. At least with Vivian here there would be no issues with security.
+
+As she followed Vivian and her friends to the front of the crowd, the voices resolved to the sounds of individuals arguing, one passionately and the other with an attempt at official dignity.
+
+“Havok need shrine!” The voice sounded urgent and spoke in a heavily accented, broken Common.
+
+“I told you already, it costs two large silver to use the shrine.” As Ali approached, she saw the tired face of a portly man in an official-looking robe, confronting a Goblin, of all things, with the strained patience of someone who had obviously repeated himself a few too many times.
+
+“Havok has no money!” This fact was presented with the same intensity and conviction as an advocate presenting his closing argument to the court, expecting everyone to finally understand and come to the proper conclusion.
+
+“Then you can’t use the shrine. That’s the rule.” The official wouldn’t be budged.
+
+“Move over! Let others have a turn!” someone yelled.
+
+“Havok give this. It is good.” The insistent Goblin began unbuckling his scuffed and torn boiled leather breastplate, which even Ali could tell couldn’t be worth more than a handful of copper.
+
+“No, I can’t do a trade,” the man said.
+
+“Mayor,” Vivian interrupted.
+
+The man looked up from his argument. “Aah, there you are, Vivian.” He seemed intensely relieved by the interruption and, getting wearily to his feet he addressed the crowd. “Quiet down everyone,” he began, waiting for the hubbub to mostly settle before continuing. “The Adventurers Guild has an unusual offer for you today, so I’ll let Vivian Ross explain.”
+
+Vivian stepped forward with a commanding confidence, and remarkably, silence fell across the room as everyone turned to face her.
+
+“This is Aliandra. She has an advanced class shrine that provides a chance at unlocking a magical affinity, and several more alternative class options. We can take ten more people and it will be on a first-come-first-served basis.”
+
+“How much are you charging?”
+
+“It’s free,” Ali said, speaking up for the first time. Her heart was beating hard, but she was happy to find her voice didn’t show her nerves.
+
+“How do we know it will work?”
+
+“Unlocking a magical affinity is not a guarantee. The shrine can potentially surface an unknown latent magical affinity if it is present within you. But it’s by no means certain. Some people who try for that will be disappointed.” Ali knew she wasn’t selling it all that well, but she wanted people to know exactly what they were in for. She didn’t want anyone complaining afterward that they were misled.
+
+There was an instant murmur of chatter that rippled through the crowd.
+
+“Sounds like a scam.”
+
+“Do you know anything about this new Adventurers Guild?”
+
+“Can’t trust a non-human.”
+
+“Free? Nobody is going to take your sketchy offer.”
+
+Ali frowned. Her offer was honest, and not sketchy at all, and she wondered if the fact that she was offering it for free made it seem too good to be true. She hadn’t expected quite so much pushback from the crowd.
+
+“Havok will! Havok take sketchy offer!” The little Goblin ran up to the front and presented himself. “Havok need class to become warrior! But Havok not have money.” The Goblin wrinkled his green face into an anguished frown.
+
+“It’s free. No money,” Ali told him.
+
+His face immediately brightened, and he hopped up and down excitedly. There was a little unkind snickering from the crowd, but Ali made a concerted effort to ignore it.
+
+“If this is for the Adventurers Guild, is the offer only for combat classes?” The new voice from the back of the crowd drew some startled looks and nervous shifting. It sounded feminine, but it possessed a sibilant lisp and an uncannily deep resonant undertone.
+
+“It’s available to anyone.” Ali was firm on this point. She was not one to play the politics of favorites. “Guild membership is not required.”
+
+A dark cowled figure stepped forward. Ali caught a glimpse of talons clicking on the wooden floor under her singed and burnt dress. All around her the crowd nervously separated as if mere proximity would be dangerous.
+
+“Do you truly mean that? This one is not accustomed to being treated as an equal.” She reached up a hand covered with metallic gray scales and short talons to pull back the cowl covering her face.
+
+There were instant gasps of surprise and many in the crowd backed away further. The girl had short-cropped silver hair. And while she appeared mostly human, her neck and parts of her face were covered with delicate silver scales. Her eyes looked reptilian, with large silver irises and two sets of eyelids.
+
+Dragonkin
+
+“Yes,” Ali answered, “I mean that.” Switching quickly to draconic, she added in a formal tone of respect, “You are most welcome, dragon-child.”
+
+The dragonkin blinked, transparent eyelids slipping sideways across her eyes before the outer lids blinked. The resonance in her voice deepened as she swapped to draconic also. “This one is surprised… but honored to be accepted.” She bowed deeply and concealed her face with her cowl, walking up to stand quietly beside the Goblin.
+
+There were a few mutters in the crowd about ‘monsters’ but then, a new figure stepped forward.
+
+He was a serious-looking young blond man with an athletic build, dressed in leather armor and carrying a pair of curved swords sheathed on his back. Beside him stood a stocky boy wearing glasses and a pretty woman carrying a bow.
+
+“Aiden, what are you doing?” the mayor asked.
+
+“We talked about this, father; I think the Adventurers Guild offer is a smart one.”
+
+As soon as he revealed his relationship, Ali could instantly see the resemblance. While the mayor was far from athletic, they shared the same eyes and a strong similarity in the line of the jaw.
+
+The mayor let it go with the briefest of nods and a wave of his hand, but Ali could see he disapproved of his son’s choice. Ali frowned again. It was strange that the mayor had approved her proposal, but clearly didn’t believe in it enough to approve of his son taking the offer. Perhaps something political? The appearance in front of the crowd? Ali didn’t know, and the subtle maneuverings of social or political situations like this one usually eluded her.
+
+As if Aiden’s acceptance was the final stamp of credibility needed, Ali immediately received a quick stream of people signing up until she had a full group. Just as she had hoped, she seemed to draw people from all backgrounds, several of whom had been even waiting in the crowd behind the supposed official applicants and had decided to join her unexpected offer. One or two wore the torn and dilapidated clothing of the slums, contrasting strongly with Aiden and his expensive gear.
+
+Ali noticed Malika hovering protectively as they approached.
+
+“I’m Aiden Turner, although I suppose you already figured that out.” Aiden introduced himself with the smooth eloquence of someone well-practiced at the social graces. “These are my friends Flynn and Kaitlyn. My father didn’t exactly approve of me choosing your offer.”
+
+“I hope it won’t cause trouble for you,” Ali said.
+
+“I hope not, but it’s also not his choice to make. I know he wanted to do Vivian Ross a favor, but he is skeptical of your shrine.”
+
+“It works and this isn’t a competition,” Malika said bluntly.
+
+Aiden smiled, “People around here trust Vivian.”
+
+Perhaps hearing the unspoken ‘but not you, Street Rat,’ Malika’s expression soured further, but before she could argue the point, Flynn put in, “We’re in, thank you.”
+
+With the matter settled, Ali decided that Aiden’s explanation answered at least one of her questions. Vivian Ross must have called in a favor with the mayor to make this all happen.
+
+***
+
+The trip through the sewer and down to the shrine was uneventful. Ali’s band of candidates mostly stared in amazement at her trees growing underground in the dark and chatting quietly among themselves. Basil, in particular, spent most of his time staring at every tuft of grass, each mushroom, and every tree, expressing quiet amazement to Mato as they traversed the cavern. Ali feared her gardening skills would not meet his expert approval.
+
+The Goblin, Havok, kept up a running commentary that seemed to be a loud and excited stream of consciousness that was entirely unaffected by whether anyone was listening or not. The Dragonkin girl, who had revealed her name to be Kavé, and the girl from the slums kept to themselves, walking in silence, while Aiden and his friends chatted quietly. It was an eclectic group and Ali was rather excited to see what classes they would unlock. She desperately hoped it would be a spectacular success, but her treacherous imagination kept insisting that they would all probably unlock the most mundane of classes, rendering her offer worthless.
+
+At the shrine, it was a simple matter of a couple of minutes to unlock each of them so that they were able to earn class experience. Vivian Ross divided them quickly into two groups – the five seeking combat classes, and the seven that were hoping for merchant, crafting, or artisan classes.
+
+“Calen and Mato will escort you all back to town,” Ali told the non-combat group. “I understand your non-combat trials can sometimes take a couple of days. Once you get the notification that you have unlocked a class, please make an appointment at the Adventurers Guild and I will bring you back to the shrine to finish your class advancement.”
+
+There was an undercurrent of excitement among the non-combat classes as it became apparent to them that the offer was no joke, and the shrine itself was real, looming tall right before them. Their notifications and status now showed they were able to earn experience.
+
+“It will take more than a few days for me, Ali,” Ryn apologized. “The shopkeeper is still on a trip. Is it ok to unlock it later?”
+
+“However long it takes is fine, Ryn.”
+
+“This one, too, will take longer,” Kavé said, her voice low and speaking draconic.
+
+Ali looked at her for a moment, but she continued.
+
+“None of the blacksmiths would take a Dragonkin apprentice.”
+
+“All of them denied you because they were afraid?” Ali’s opinion of the Myrin’s Keep blacksmiths dropped even further.
+
+“One declined to talk to me because he is broke and grumpy.”
+
+“Thuli? The Dwarf?” The description matched Ali’s experience perfectly.
+
+“That would be the one.”
+
+“Maybe wait with me? Malika and I can take you to the Dwarf and put in a good word for you. Hopefully, we can get him to agree to conduct your trial.”
+
+Ali obviously couldn’t guarantee that she could convince the Dwarf, but she was certain he was in a better mood now. And if Thuli hadn’t been put off by her race, then she was confident she could at least make him consider it. Myrin’s Keep was not exactly welcoming to those its fine citizens saw as outsiders.
+
+“This one would be deeply grateful,” Kavé bowed again.
+
+Calen and Mato left with the rest of the non-combat aspirants, escorting them to town, leaving Ali with just the five who required a combat trial.
+
+“How should we do this?” Ali asked Vivian. “The sewer has slimes and a few Goblins for them to fight.”
+
+“Right,” Vivian said. “I highly recommend the five of you group up for this. Aiden, perhaps you can take the lead? Approaching your combat trial as a group will drastically improve your chances of survival.”
+
+“Ok, but some of them don’t have weapons. It will be difficult to keep them alive if they can’t fight.” Aiden pointed out, gesturing to the girl standing off to the side by herself.
+
+Ali turned to see the gaunt and dirty girl from the slums shifting awkwardly as if embarrassed to be drawing attention to herself. Her dark hair was a tangled mess and she had nothing but the torn clothes she was wearing. Not even shoes.
+
+“What is your name?” Ali asked, and the girl looked up at her as if surprised that Ali would care.
+
+“Devan, miss. I… I’m sorry, I don’t have any equipment.”
+
+“Devan, there’s a pile of equipment over there by the tent. Please feel free to help yourself to anything that will help you. I suggest you take a set of leather armor also if you can find something that fits.”
+
+Devan shifted awkwardly in place for a moment, “Um… maybe? Just a dagger?”
+
+The girl seemed timid, and Ali briefly wondered why she was seeking a combat class at all. But then she remembered Calen was also a bit shy, and he was remarkably effective. Although he wasn’t quite as shy as Devan seemed to be.
+
+“Here, I’ll help you find something.” The girl with the bow stepped up to take her hand. Kaitlyn, Ali recalled – one of Aiden’s friends.
+
+“You don’t have a weapon to fight with either?” Ali turned to the Goblin.
+
+“No, Miss Aliandra. Havok has no weapon.” He seemed crestfallen at the admission.
+
+He’s so polite, she thought. “Your name is Havok?”
+
+“No,” he said and shifted uncomfortably, looking down at his feet. “Not like Sneeze, warrior needs powerful name. I want to be Havok. With a K.”
+
+“Your real name is Sneeze?” she asked to the sound of a few chuckles from the people around.
+
+“Yes,” he said dejectedly. “Father sneezed when Havok born. Mother thought it too funny and named Sneeze. Not good name for warrior.”
+
+“Why don’t you also look through the pile and choose a sword or something?” Ali pointed over at the equipment pile where Kaitlyn was busy helping Devan into a shabby piece of leather armor.
+
+“Havok doesn’t want to owe Miss Aliandra more.”
+
+His surprising reticence stumped Ali. She didn’t want to force him, but he would most certainly need a weapon for the trial.
+
+“Why don’t you borrow it?” Malika suggested, coming to her rescue. “Once you earn your class and better equipment, you can give it to someone who needs it.”
+
+“Give?” Havok asked, surprised.
+
+“Yes,” Malika said. “Among my people, the greatest warriors are the ones who have the power to help others who are weaker than themselves.”
+
+“Oh!” his face lit up again. “Miss Malika is wise. Havok will be powerful and help everyone!” He scampered off to scrabble in the pile of equipment with great enthusiasm and energy, emerging with a rusty sword and an expression that told everyone this was the greatest treasure in the world.
+
+Ali watched as the ragtag band of would-be adventurer hopefuls left to meet their trial.
+
+“I really hope he does well,” Malika said.
+
+“Me too,” Ali answered. It was a strange feeling setting them all on their way, and Ali felt a deep sense of responsibility for putting them all at risk, even though it was the only way for them to earn their classes and advance.
+
+“Ali, you might want to make a couple more Goblins or something,” Malika said suddenly. “The novices from the guild were down here the other day and cleared out quite a few of your creatures.”
+
+“Oh, right.” It wouldn’t do to have the candidates roaming around the sewers finding nothing they could fight. Ali quickly pulled out her Grimoire and summoned several Goblins, grateful for the new advancement that allowed her to explicitly choose the low-leveled Skirmishers and Scavengers.
+
+“Is level five too high for them?” Ali asked, eyeing one of the Skirmishers. The Starving Alpha had been a real challenge before they had all earned their classes.
+
+“I wouldn’t risk it,” Malika said.
+
+Even Vivian nodded her agreement, so Ali obliged by unsummoning it. She didn’t want to kill the candidates by setting them against an unreasonable challenge.
+
+As soon as she had equipped them all with appropriate gear, she sent them off. “I just really hope I don’t kill anyone,” Ali said as her new minions vanished up into the sewers.
+
+Vivian Ross glanced at her with an unreadable expression for several moments before she turned and touched the shrine.
+
+“Thank you for showing me this, Aliandra,” she said. “I think I will go keep an eye on our candidates, just in case they get in over their heads.”
+
+And then she was off, vanishing with the unfathomable speed of a high-level warrior, and Ali breathed a little easier knowing she would be looking out for the candidates she had just sent to their trial.
+
+***
+
+Ali stepped across the threshold into a transformed smithy. She had several hours before even the luckiest candidates would need the services of her shrine, and so she had decided to bring Kavé to visit Thuli.
+
+“You were right. His mood has improved,” Kavé observed, stepping into the smithy. The enchantments had all been recharged, and the sounds of the entrance chimes rang out loudly through the brightly lit smithy, contending briefly with the clanging of steel against steel. An intense dry heat wafted in from the forge area, and a few moments later, the powerful Dwarf stepped into the room wearing a singed leather apron and carrying an enormous hammer. He stank of sweat and the heavy odor of molten steel.
+
+“Hi Aliandra, Malika. It’s good to see ya in my smithy once again.” Thuli’s eyes glanced sideways at Kavé’s cowled form before returning to Ali. “What can I do for ya this fine day?”
+
+“This is Kavé,” Ali introduced her, and Kavé obliged by removing her cowl and bowing to Thuli. “I unlocked her experience this morning at my shrine. She would like to become a blacksmith, but none of the smithies would accept her.”
+
+“Aye, because of what she is, I bet. Insensitive, speciesist twats, the lot of them,” Thuli declared loudly, jabbing his chest with his thumb for emphasis.
+
+Ali wouldn’t personally have put it quite so bluntly, but she certainly agreed with the sentiment. She was tired of being accused of being a ‘monster-race’ herself, and she couldn’t imagine the resistance Kavé would get as a widely feared member of the Dragonkin race.
+
+“But I cannot take on an apprentice. As ya already know, I’m broke, and I simply cannot afford it,” Thuli continued. “I’m sorry lass,” he directed the last part to Kavé.
+
+“Would you at least be able to conduct her trial so she can earn a class?” Ali asked.
+
+“Aye, that I can do,” Thuli replied. “Come, lass, let’s choose you a hammer. And bring those scraps of iron with you. And then get a bucket from that closet and bring some coal.”
+
+Kavé scrambled to follow Thuli’s rapid-fire instructions, leaving her cape hastily discarded on the floor.
+
+Malika retrieved the cape, folded it, and placed it on the table. Ali watched in fascination as the sounds of forging filled the room, and the deep blackish-red of Thuli’s ember magic poured out from his body in waves. They sweated over the glowing forge as Thuli enthusiastically put Kavé to work, racing around on errands, or hammering at the anvil until her arms were trembling. But she had that gleam of excitement in her eyes and it never faltered for a moment.
+
+“I got it!” Kavé suddenly exclaimed, her voice filled with awe and wonder. It had taken barely more than an hour of intense activity. “It says my natural class is ‘blacksmith’.”
+
+Thuli put down the glowing red piece of iron he was holding in his bare hands and grinned at Kavé. “Good work, lass.”
+
+“Congratulations, Kavé,” Ali said. “Don’t choose that class yet, let’s get you to the shrine first, so you can see your other choices.”
+
+To Ali’s surprise, Thuli closed and locked the doors to his smithy, clearly intending to accompany them to the shrine. She just smiled to herself. For someone who had given up on interacting with the world, he certainly seemed rather invested in witnessing Kavé’s class advancement. Could she allow herself to hope this might still end well?
+
+Nobody had returned to the shrine yet, other than Mato and Calen, so Ali stepped up to the shrine, inviting Kavé and Thuli to join her.
+
+“Kavé, I suggest you try the latent mana affinity option first. If you have a mana affinity, this will give you access to class choices that are potentially much more powerful, drawing on your mana. If not, you still get several class options to choose from, by using the other shrine option afterward.”
+
+The girl nodded and stepped up to the shrine with a serious expression on her face.
+
+“Good luck, lass,” Thuli encouraged her with a broad wink.
+
+She placed her scaled hand upon the stone, and a deep hum filled the air, starting with a high pitch, but rapidly descending to the lower registers, causing powerful vibrations to ripple through the ground and shaking Ali to her bones.
+
+Dense streams of quicksilver-like mana flowed from Kavé’s body, pouring out from her arms, torso, and head, rapidly forming into shimmering globules of shining metal that floated in the air, slowly circling her body. The shapes twisted in the dim light, reflecting the shrine and the trees as they morphed into disks, cubes, spikes, and myriad other forms before finally settling back into spheres.
+
+The hum abruptly ceased, and the mirror-like spheres of steel fell to the ground, bouncing and rolling about.
+
+“This one has steel affinity mana,” Kavé declared breathlessly, silver eyes wide in surprise. Suddenly, she gasped, “It used fifty-thousand mana? This one is sorry!”
+
+“That’s ok Kavé, that’s how much it costs. There is more than enough for everyone.” Her expression slowly recovered as Ali reassured her that she hadn’t done anything bad.
+
+“Why don’t you try the class chooser? That one normally costs thirty-five thousand.”
+
+“Ok,” she answered, placing a hand on the shrine once again.
+
+Ali left her at the shrine and walked over to where Thuli was standing. “Why don’t you help her choose? There are a lot of choices, and it can be confusing all at once.”
+
+Thuli glanced at her in surprise, but then grunted and stumped off to join Kavé.
+
+The two of them huddled by the shrine chatting for almost ten minutes before they finally returned, crossing the mossy ground in thoughtful silence. Eagerly, Ali Identified them as they came on.
+
+Blacksmith – Dragonkin – level 1 (Steel)Blacksmith – Dwarf – level ?? (Ember)
+
+“Congratulations on your class,” Ali said. “I hope you got something that makes you happy.”
+
+Kavé bowed deeply. “This one is profoundly grateful for this opportunity. This one has become a Steelshaper.”
+
+“It’s one of the strongest blacksmithing classes I have ever laid eyes upon!” Thuli exclaimed, clearly excited for her.
+
+“This one is aware she cannot be your apprentice but asks only for the opportunity to watch you work,” Kavé asked. Her tone seemed as close to begging as she could manage without actually kneeling on the floor. “This one does not require anything more than a bench in the forge to sleep.”
+
+“No, lass. If you are serious enough to camp in the forge without pay just to watch me work, then we should do this properly. I cannot pay you, but if you insist on learning, you will have the best instruction that is within my power to give. You have my word,” Thuli declared.
+
+Thuli’s eyes shone in the darkness, and the veins on his arms began to glow with the red of molten iron. He reached out his hand and an extraordinarily complex and intricate construct of his ember mana manifested in the space between them. He gestured with his hand pushing it toward her.
+
+Is that his mana signature? Ali couldn’t be quite certain, but accounting for the differences due to Thuli’s ember affinity, it certainly looked a lot like what Lydia had done when she had imbued her work with her mana.
+
+Kavé stared at it with wide round eyes. “Are… are you sure?”
+
+“Yes lass, I gave my word,” Thuli said, his mana-filled eyes staring at her intently. “You’re welcome to accept it.”
+
+She made a movement, and Thuli’s mana settled on her, forming a kernel that sunk deep within her chest.
+
+“Thank you, master,” she said.
+
+“Hey, I’ll have none o’ that master stuff,” Thuli said, looking rather embarrassed. “You can call me Thuli like everyone else. And I will call you Kavé. You will work hard and learn from me, and I will teach you everything I know. But I don’t own you or have any authority beyond that.”
+
+Kavé rose from her bow. “Thank you… Thuli.”
+
+“Was that your mana signature?” Ali asked, curiosity burning within her.
+
+“Aye, it is a Mentorship Tithe enchant very similar to the mana signature I put on my work. Except this goes on her class experience. Whenever she learns something, her mana can draw from mine, providing additional skill options and advances that are aligned with my class and experience. It is by far the fastest and best way to mentor a student, but many crafters are stingy with it because they can give only a limited number of them, and the arrangement affects the teacher as much as the apprentice.”
+
+“This one is grateful for your trust.”
+
+“Teaching is much like crafting an item,” Thuli told her, as the two of them turned to leave. “And just like crafting, I don’t believe in half-measures, only the best work is acceptable. One day you will have your own apprentice, and then you will understand.”
+
+-----------------kramretaw - egdelwonk fo noegnud eht si siht.

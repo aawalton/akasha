@@ -1,0 +1,187 @@
+---
+id: 996b61ee-ebad-5a18-ba91-052453c0719e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 235: Does It Have To Be Fire?"
+slug: 0267-chapter-235-does-it-have-to-be-fire
+partOf: dungeon-of-knowledge-complete
+position: 267
+ownLength: 2647
+unit: words
+ownProgress: 2647
+publishedAt: 2025-04-28
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2237857/chapter-235-does-it-have-to-be-fire"
+royalRoadId: "2237857"
+markedReadAt: "2026-06-29T20:20:16.205Z"
+---
+
+Gara crept up behind Sabri, wondering just how she had managed to get roped into this crazy endeavor. The humans had a dungeon right underneath their town, and now she was crawling around in it with a bunch of them, trying to avoid traps, giant bats, and oversized Timber Wolves.
+
+“This way,” Malise whispered, appearing suddenly from the shadows and startling her again. The strange Catkin seemed to enjoy her jumps – or at least that’s what Gara had concluded after it had happened several times now. If they weren’t in the middle of a dungeon with their lives on the line, Gara would have had to put her in her place.
+
+At least the group seemed to have good discipline, everyone following the scout without question. Gara emerged from the strange glowing forest that was somehow flourishing in the darkness deep underground and then saw something that stopped her cold.
+
+Out on the grassy clearing, an enormous monster of wood and bark patrolled, its body animated by some inexplicable magic, creaking and groaning from the strain of its weight. It looked like an entire stand of gnarled oaks had been twisted together into a giant knot and given life. Each step shook the ground, and in its wake, several smaller creatures scampered along, leaving a trail of pretty flowers and mushrooms as they went.
+
+Forest Guardian – Wood Elemental – level ??
+
+“It’s a level forty raid boss,” Brena whispered. “It guards Aliandra’s shrine; we’ll wait till it passes.”
+
+Aliandra? The same Fae that had rescued her from Kir’mogan’s altar? Gara had so many questions, but Brena pointed, and her attention was suddenly captured by the enormous black obelisk rising up behind the monstrous wood elemental. She recognized it as a shrine instantly – the same black stone and runes glowing on its surface as the one Kir’mogan had destroyed in Aman Rak. And almost as big.
+
+But this one was placed in a dark clearing in an underground forest, surrounded by a sea of wildflowers and golden glowing mushrooms, and throughout the branches of the many trees flitted countless green glowing wisps, like overgrown glowworms.
+
+“Come, we can get by now,” Malise said, and led the way, nimbly hopping over boulders and dodging trees as she went. Gara followed along wordlessly, still not at all certain about these strangers, but she was honor-bound to help because of Sabri – her new rival.
+
+The Ahn Khen girl seemed quiet, but always observant, and now that she knew, Gara could see the training in her balance and posture. It was perhaps inevitable that she had lost the duel. But I will get stronger. I must. For Aman Rak. After almost half an hour of sneaking and waiting for patrols while hiding in the dark, they finally emerged into an artificial tunnel that led to an enormous set of ruined stone doors.
+
+“Spiders!” Malise called out, and several black bulbous forms skittered down the walls. To Gara’s horror, they seemed to be on fire.
+
+She took an uneasy step backward but forced herself to stop when her rival charged into the monster pack without an instant’s hesitation.
+
+Flame Skitterer – Spider – level 8-11 x3
+
+Even their blood smelled burnt, but Gara gritted her teeth, threw out her totem, and rushed forward to join Sabri. As she felt the heat of the spiders’ flames on her skin, a deafening crack assaulted her ears, and the entire tunnel lit up with blinding coruscant light. The shaven-headed monk waded in beside her with his quarterstaff buzzing through the air, and Malise opened with flickering daggers from somewhere in the shadows, and before Gara knew it, the spiders lay crushed on the ground, slowly cooling to the sounds of strange crackles and pops.
+
+“Easy enough,” Brena said.
+
+“I sense a few more before the doors,” Malise said.
+
+“Ok, let’s move up,” Brena said.
+
+Gara was no stranger to fighting, but these humans seemed to favor the chaos of group combat, and it had left her head spinning. I guess not all of them are humans, she corrected herself, eyeing the devastatingly powerful Gnome and the Catkin. Several more groups of spiders attempted to ambush them, but after the first few, Gara found herself settling into a rhythm.
+
+“This is it,” Malise announced, stepping beyond the threshold into a room that seemed to glow an uneasy red.
+
+Why does it have to be fire? Gara thought, staring at the room in dismay. In the center of the room stood a Kobold – unreasonably large for his kind, dressed in the robes of a caster. Patrolling around him were four drake hatchlings, black coils of smoke rising from their nostrils. The ground was carpeted with grass that seemed to be grown from flame itself, and the entire room was filled with a searing aura of fire and heat. Even the flowers growing on the walls seemed to be aflame.
+
+Mage – Kobold – level 17.
+
+Drake Hatchling – Dragon – level 11-15 x4
+
+She forcibly repressed the memories of Kir’mogan taunting her with a flaming brand, searing wounds so they wouldn’t regenerate naturally, and draining her so low she couldn’t cast. She had even been forced to give up Ancestral Spirit Runes, an indignity she hoped she would never again be forced to endure. She stepped forward. There was no way she, a Troll of Aman Rak, would show fear before these lesser races.
+
+“Watch out,” Malise said, tugging on her hand.
+
+“What?” Gara yelped, snatching her hand back.
+
+“Trap,” Malise answered. She tossed a pebble onto an otherwise indistinguishable area and triggered a sharp spherical burst of golden light that rapidly faded into floating glitter.
+
+“Arcane Blast,” Brena said. “Malise, can you mark them?”
+
+“Sure, honey,” Malise answered with a sly grin and set to lobbing rocks in all directions.
+
+“Here,” Sabri said, drawing closer. “I got a few of these for the fight.”
+
+Potion of Fire Absorption – level 10Consume: Absorb up to 144 Fire damage. Duration: 3 minutes.Created by Eliyen Mistwood.Potion
+
+“Why are you giving me this?” Gara asked, not sure if she wanted to be further indebted to this Ahn Khen stranger.
+
+“I want you to live,” Sabri answered. “So we can have our rematch, of course.”
+
+Reluctantly, Gara accepted the gift, but she decided she would endeavor to return it unused at the end of the fight.
+
+“What’s the strategy, boss?” the quiet monk asked. Cai was his name, if Gara remembered it correctly, she was still struggling a little with the strange pronunciation of the human names in their Common tongue. “This is a fire boss, so my magic will be less useful.”
+
+“There are traps all along the left side of the room, and a couple on the far right, so stick to the middle and the section by the doorway,” Brena said. There seemed to be a stone on each location, courtesy of their scout.
+
+“Those flowers along the walls are dangerous, don’t provoke them,” Malise said.
+
+“Monsters?” Sabri asked.
+
+“Yes,” Brena said. “Sabri, can you tank all four Drake Hatchlings?”
+
+“I think so, yes,” she answered. “Provided it’s not too much damage for Gara to heal.”
+
+“I will keep you alive, human,” she growled, irked by how little faith they seemed to have in her abilities. She was a Blood Shaman, and while this was her first time fighting in a group, she had been properly trained by Val’korr and understood her role in battle.
+
+But Sabri didn’t seem to take offense, simply nodding in acceptance.
+
+“Ok, make them face away from the team, but keep close so we can heal, and then everybody, kill the mage first. Follow Malise’s target if you don’t know what to hit. If everyone’s ready, Sabri, can you get it started?”
+
+Everyone nodded, so Gara did too, and then got up to stand beside Sabri.
+
+“Let’s go,” Sabri said and then downed a potion just like the one she had given her. “Go ahead, drink it – it’s for the initial blast.”
+
+Puzzled, Gara did as she was told, and followed along as Sabri rushed into the room, feeling the fire searing into her skin and wrinkling her nose at the acrid odor of fire-affinity draconic blood from the drakes and the kobold. As they approached the halfway point of the room, the boss let out a loud string of chirping calls and immediately summoned an intense ball of fire in his taloned hands.
+
+Gara took her axe to her forearms, guiding the blood down her arms to reinforce her shield and axe. Suddenly, the Kobold released his ball of fire which shot across the flaming grass to detonate against Sabri’s raised shield, and in an instant, she was enveloped in an inferno, buffeted by the concussion of the fireball. Gara gasped, momentarily unable to breathe. Sabri accelerated forward to crash into the charging Drake Hatchlings, swinging her sword and shield in rapid strikes. She shouted, barely audible over the fading inferno, but the shimmer in the air was enough to identify the skill. All the drakes suddenly turned to breathe fire on her, and Gara suddenly remembered her job.
+
+I hope they don’t think I’m a novice, she thought, embarrassed by her lapse. Blood Siphon pulled at her health, and the ribbon of blood arced out into the scorching air, connecting with Sabri’s back, returning her to full health. Then Gara sprinted after Cai and Malise as they charged down the mage who was already summoning more accursed fire. As she pumped her legs, she rotated her Blood Siphon through each member of their group, checking to make sure that they were all healthy enough before healing herself back up to full.
+
+She opened with Lacerate, striking the Kobold mage on the thigh, drawing a bright spray of its seething draconic blood. Nothing in this fight seemed like it would prevent their movement, so she ignored her Free Action totem, dropping Armor instead. She wished she had all the options Aliandra had shown her, but she only had the two until she gained some more levels.
+
+Beside her, Malise giggled while wielding two daggers of ice with such speed that they were hard to follow. Cai, the monk, had his quarterstaff out and wreathed with flame. He kicked with his feet more often than he landed devastating attacks with his whirling stick. Gara hunkered down behind her shield and lashed out again, exposing another bleed with her axe. It really was a good quality weapon and she was grateful Aliandra had given it to her.
+
+Suddenly, her eyes seemed to ignite from within as Brena unleashed a brilliant flash of lightning upon the Fire Mage. Gara blinked away the afterimages, sending another ribbon of blood to heal Sabri in the center of the overlapped dragon breaths. She cast it again because she hadn’t reached Sabri’s limit.
+
+Amid the blinding flashes of lightning, Gara was forced to block again and again, using her shield to fend off a sudden barrage of firebolts as the mage had clearly decided she was the most dangerous foe.
+
+Rightly so, she thought, only half sarcastically. At the very least, she was bigger than everyone else, and a Troll. She allowed a tight-lipped grin to curve her lips and sent out her ribbons of blood, but this time, she struck the mage directly, draining its health to raise her own back to normal.
+
+“Kill it as quickly as you can!” Brena exclaimed.
+
+Malise just chuckled, and Cai remained silent, letting his stick do the talking.
+
+Gara kept her focus, cycling through her allies, keeping them healed under the continuous onslaught of fire damage, never letting up with her sweeping axe strikes, and so it came as a surprise when the mage suddenly collapsed. She hadn’t realized quite how much time had passed. Without missing a beat, Malise switched to attacking one of the lowest-level Drake Hatchlings, so Gara refreshed her self-bleeds and waded in herself.
+
+With the Fire Mage lying crumpled on the flaming grass, and the drakes breathing only on Sabri, the rest of the fight was a simple matter of keeping her rival healed and hacking away with her axe, taking any extra time to top herself up with a few shots of Blood Siphon to the drakes.
+
+Her chime sounded in her mind, and the bloody writing appeared on the walls of the mystic temple she saw when she focused on her class.
+
+Your group has defeated Fire Mage – Kobold – level 17.Your group has defeated Drake Hatchling – Dragon – level 11-15 x4Blood Shaman has reached level 15 (+3)+30 attribute points. Lacerate has reached level 12.Blood Shield has reached level 9.Blood Siphon has reached level 14 (+2).Summon Totem has reached level 8.Ancestral Spirit Runes has reached level 11.
+
+Three levels? She stared at the incredible result in disbelief for several long moments as the searing of the flame aura in the room slowly subsided. She had had to train hard for every single level, but nothing had come close to three levels in exchange for an hour of crawling through a dungeon to fight a Kobold and some drakes. Admittedly, there was no way she could ever hope to defeat this room by herself, only the teamwork made this possible.
+
+“Congratulations on the levels,” Sabri said.
+
+Gara turned to find her rival grinning wryly at her. Quickly, she identified the Ahn Khen warrior.
+
+Warrior – Human – level 17.
+
+Two levels to go.
+
+“Come, let’s go kill those vines,” Malise said. “I’m pretty sure we can sell the flowers to the guild.”
+
+***
+
+Gara gazed around the guild hall, not entirely sure what to do now that they had returned from the dungeon.
+
+“Thank you for healing me,” Sabri said, offering her a skewer from the food cart out front.
+
+“It was my job,” Gara said. She had made many mistakes in her first group fight, but she hoped that they were not too obvious.
+
+“You were great, your healing was perfect,” Sabri answered, taking a bite from her own skewer as she sat down.
+
+“I made a lot of mistakes…” she began. While she was proud of her abilities, she wasn’t about to let the human praise her for something she didn’t deserve.
+
+“No, you were incredible, Gara,” Brena said, joining them. “I just want to apologize again for my insensitive words. Here, this is your share.” Brena dropped a gold coin and several silver coins into her hand.
+
+“What is this for?” she asked, staring at the money.
+
+“I sold the mage’s gear and the drake corpses to Weldin,” Brena answered. “It got us a nice purse for our efforts.”
+
+“Tabitha’s going to love having more drake meat for her skewers,” Malise chuckled.
+
+“But it’s your team’s work,” Gara objected.
+
+“You worked just as hard for it as everyone, you deserve your share,” Brena answered. “That’s how it works. Stronger together and all that.”
+
+“So, what happens now?” Gara asked, still unsure what to do with the money sitting on her palm.
+
+“Weldin’s store is over there if you want to spend it on gear,” Brena said. “The dungeon will respawn the boss in about four hours, then we can go kill it again – we’ll probably earn another level from the second kill.”
+
+“You could join us for sparring practice,” Sabri offered. “The Guildmaster will be in the practice room giving instruction.”
+
+Your proficiency with the Common language has improved.
+
+Why do I feel so welcome? This is a human town… Gara tucked the coins away into a pouch on her belt; at least she could now afford food and lodging for herself and her charges. “Show me the way. Let’s see if this Guildmaster of yours can fight.”
+
+Zor’kan, I will not fail Aman Rak. You can count on me.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,269 @@
+---
+id: bf85a8e8-d18d-5250-9874-37528ddd1421
+page-type-slug: story-chapter-royal-road
+title: "Chapter 78: Silver Rank"
+slug: 0078-chapter-78-silver-rank
+partOf: dungeon-of-knowledge-complete
+position: 78
+ownLength: 5178
+unit: words
+ownProgress: 5178
+publishedAt: 2024-05-28
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1654261/chapter-78-silver-rank"
+royalRoadId: "1654261"
+markedReadAt: "2026-06-29T20:13:32.375Z"
+---
+
+Mato’s paws ached. Technically, his whole body ached, and now that he was back in his Beastkin form he no longer had claws. But it was the persistent smashing of his paws into bone armor that had repeatedly been demonstrated to be denser and harder than stone that lingered in his mind. Too little damage. Far too little. He was hard-pressed not to imagine himself as a child shaking a rattle, the way he had flailed at that elemental scorpion.
+
+He had been left to contend with the monstrous Piercer Scorpion boss, mostly on his own with just Malika and the Kobolds’ healing magic to sustain him while he was repeatedly impaled, smashed, and crushed by the monster’s potent bone magic. Getting poisoned by a wyvern halfway through the fight was barely even worth mentioning.
+
+Guess the tank’s job is sometimes to get beaten out like an old rug?
+
+But none of that mattered.
+
+His worried glance settled briefly on Calen who was sitting quietly by himself. Mato had never felt fear like he had when Calen had fallen over the edge and he had to watch, powerless to help. He had never felt such a surge of joy when Calen had emerged from the darkness atop a glowing disk of magic, bow firing, like a hero in a cheesy fantasy story emerging from the abyss to slay the dragon.
+
+But this was not a story, and while his friend was notoriously quiet at the best of times, Mato could see the hooded, disconnected look as Calen struggled to come to terms with his close brush with death. He wished he had the eloquent words of wisdom to share that would be just the thing Calen needed to overcome fear and the sense of mortality he must be feeling right now, but he knew from long experience that getting involved would simply make things worse for Calen. His friend always needed to process things on his own.
+
+Instead, Mato turned to his notifications to fill the gap of silence as his friends simply sat about, sprawled out among the shattered bone spikes and rubble, shell-shocked after the challenging four-way battle. The corpses of Ali’s Kobolds lay strewn about in puddles of lurid green poison and the stench of fire and scorched lightning contended with the dungeon’s background reek of death. Accidentally dragging extra monsters into a boss fight was the kind of mistake the Guildmaster had warned them would kill inexperienced adventurers nine times out of ten. But Mato couldn’t see how they could have done any better after Ali had to risk herself to save Calen. Dragging the Wyverns and the Glimmer Shards up out of the darkness with them had been unavoidable.
+
+He glanced inward, taking the opportunity to check his notifications.
+
+Your group has defeated Glimmer Shard – Elemental – level 16.…Your group has defeated Glimmer Shard – Elemental – level 15.Your group has defeated Poison Wyvern – Dragon – level 30-31 x2.Your group has defeated Piercer Scorpion – Elemental – level 34.Druidic Shapeshifter has reached level 30 (+3).+30 attribute points.Arboreal Sanctuary has reached level 15.Swipe has reached level 20 (+3).Brutal Restoration has reached level 20 (+3).Bear Form has reached level 23 (+3).Bestial Combat has reached level 20 (+2).Natural Prowess has reached level 14.Survival Instinct has reached level 13 (+2).
+
+Whoa, that was the big one! Thirty! Freeking alright! But the glowing green lines of text continued.
+
+Class skill slot unlocked.New skills are available for Druidic Shapeshifter.New skill unlocked.Class level has reached 30.Earned at least 20 skill levels with Shapeshifter trait skills.Experienced extensive combat in a shapeshifted form.Hawk FormStamina: Shapeshift into a hawk. You gain Ambush, Flying, Tracking, and enhanced perception.Nature, Shapeshift, Buff, PerceptionNew skill unlocked.Class level has reached 30.Endurance has surpassed 150.Survived running out of resources during combat.Intentionally taken numerous blows on behalf of your allies.Battle TranceEvery time you are hit, stamina regeneration is increased by [60 + skill x 5] %. Duration: 2 seconds.Physical, Melee, EnduranceNew skill unlocked.Class level has reached 30.Wisdom has surpassed 50.Survived taking more than a hundred melee hits in under an hour.Thorny HideMana: When shapeshifted, your hide bristles with needle-sharp thorns doing damage to anyone that strikes you. Magic, Defense, Wisdom
+
+Oh, that’s right! Level thirty! I get a skill with that!
+
+“I got level thirty,” Mato said, sparking excitement and exclamations from Malika and Ali, but Calen still seemed downcast even though he glanced up at the announcement.
+
+“Congratulations,” Ali said. “Did you get some good skills?”
+
+Mato had grown to enjoy their little ritual of sharing skill advances and unlocks. His expectations initially had been that he would manage his own growth in isolation, and his friends would obviously do theirs. But even though he wasn’t one for crunching numbers, he found enormous value in hearing the perspective of his friends before he made his choices. And he enjoyed the sense of growth that came from any of them adding a new skill or ability that helped in combat.
+
+He shared his three new skill choices with them. He already knew it would come down to the Thorny Hide and the Battle Trance – his first and second choices. Changing into a hawk wouldn’t help him fight much as the form seemed to be focused more on scouting and observation.
+
+“Battle Trance, please,” Malika said.
+
+“Why?” Battle Trance simply improved his stamina regeneration every time he got hit. Yet, for some reason, Malika was actually requesting that.
+
+“You get hit a lot, and your aura shares your regeneration, right? That means when I’m fighting next to you, I’ll get much more stamina regeneration. It does work like that, right? Calen?” Malika asked, trying to draw Calen into the discussion.
+
+“It should,” Calen answered, before returning to his downcast gaze, staring at the ground. More than anything, his disinterest and disengagement even in a discussion of skills worried Mato.
+
+But that simple observation changed the skill for him. If Battle Trance really did improve the stamina regeneration he shared with Malika, then she would become substantially more effective too. “It should affect Ali’s rogues, too, I guess?”
+
+“I don’t see why not,” Malika said.
+
+They went back and forth discussing the relative merits of each skill for a while, but the deciding factor for him was Malika’s observation that he could share Battle Trance using his aura, and the fact that Thorny Hide would probably have been worthless in the fight against the Piercer Scorpion because physical spikes would simply not penetrate the incredibly dense armor it had.
+
+Excited to test out the new skill, he selected Battle Trance.
+
+You have gained the class skill Battle Trance.
+
+And now my points. He considered the battle carefully. Endurance gives me a lot: stamina, resilience against critical damage, and pain mitigation. He spent ten points on it. He wanted to spend ten each on strength and vitality too, but that would not help Survival Instinct. Nor any of his wisdom trait skills. Hmm… I have three wisdom skills and one perception… Oh, and Calen wanted me to spend more on wisdom for mental defenses. He allocated three points to wisdom and one to perception, and then split the remainder – eight each – between strength and vitality.
+
+As soon as his attribute points were committed to his class, his chime sounded again. Huh? What now? Sitting up straighter, he read the notification in a rush.
+
+Requirements met for skill advancement. Bestial Combat has reached level 20.Vitality has surpassed 175.Health regeneration has surpassed 100%.Physical damage reduction has surpassed 50%.Tanked two or more bosses with greater than 80% physical damage reduction.Bestial Combat gains Living Rend.Bestial Combat gains the Support trait.Bestial Combat – level 21Requires: Shapeshifted form.You are proficient at fighting while shapeshifted, using natural weapons and forms.Stamina: Block a Melee attack reducing damage taken proportional to strength and skill. Blocked attacks cannot cause critical damage. Health: Empower a Physical, Melee attack to do weapon damage +124% [skill + strength]. Empowered attacks rend your opponent’s armor applying a 5% reduction per hit. Duration: 30 seconds.Physical, Melee, Defense, Mastery, Support, StrengthAccept this advancement?
+
+“I got something else,” Mato said, schooling himself to reread the details of the advancement he was being offered as carefully as he could.
+
+Health? What the heck? His skill was offering him a new melee attack enhancement, but he would need to spend his health to power it.
+
+“I’m not sure about this…” he shared it with everyone. A skill that he had to put his own life into sounded rather dangerous.
+
+“Oh, that’s really good,” Malika said.
+
+“Is it? I have to spend my health to attack?”
+
+“You can pass on the advance if you don’t like it, and it will probably advance in a different direction soon,” Ali suggested. “But it looks like it might be good.”
+
+“That’s very strong, Mato,” Calen said, looking up from his despondency, and Mato suddenly saw a spark of his usual interest and intelligent curiosity glimmering in his eyes. He felt like he could take the advance right then and there if it meant Calen’s sudden depression was permanently banished. Instead, he waited, inviting Calen to continue.
+
+“According to the Adventurer’s Guide, abilities powered by life force are generally rare, but quite powerful. Remember your Primal Rage gave enormous power for lost health? This skill is much stronger than that.”
+
+Mato looked at the advance again. He had not thought to compare it to Primal Rage – a skill he had tried to put well behind him – a chapter of his growth he would prefer to forget. But he hadn’t worried about losing health when he was using that skill.
+
+“I don’t really understand, Calen,” he admitted.
+
+“That’s alright. Look at it this way. The raw damage increase is higher than your old Primal Rage, and the armor rend effect is going to benefit everything you have. You will hit harder, and your Brutal Restoration will be bigger. Everyone else hitting the monster will hit harder too, so you will be creating an enormous advantage for both me and Malika. Against a monster like that Piercer Scorpion, it puts us back in the fight. Even Ali’s rogues, warriors, and Bugbears will become useful again.”
+
+“It depends on how much it costs, though?” Mato asked. But Calen’s comments had already changed how he was looking at this advance. It could be quite exciting provided it had a reasonable cost. More importantly, it had to be amazing to draw Calen out of his funk.
+
+“Even if it’s expensive, it’s likely worth it,” Calen said, his voice becoming progressively more animated and excited. “You will recover it from the increases to your restoration, and you’re almost always getting heals these days. I’d have to do the math, but at the rate you’re sucking up heals and restoring yourself – you’d have to manage it, of course, but you do have the biggest health pool of all of us for a reason.”
+
+“Yeah, because I’m too big to miss?”
+
+Ali’s involuntary squeal of amusement was a delight.
+
+They went back and forth exploring the implications, but Mato had already decided to take the new advance. He was simply happy to see Calen’s excitement and his energy as he pulled out his notebook to make elaborate calculations and work out the tradeoffs.
+
+“Why don’t you try it and see what the cost is?” Ali asked.
+
+“Ok.” It was his plan anyway, so he accepted the skill advance for Bestial Combat and then shifted into Bear Form to activate the ability to enhance a Swipe attack in the air.
+
+A sudden sharp pain stabbed through his chest, near his heart, as his health was ripped away in an instant, causing his paws to glow with a dull reddish light as he swiped at nothing. Thoughtfully, he transformed back.
+
+“Almost ninety health,” he said, feeling the soft holy magic of Ali’s Acolyte suffusing his body and repairing the health he had just spent. The pain had been sharp and unexpected, but it wouldn’t be enough to affect his combat.
+
+“About five percent of your total?” Calen asked.
+
+“I guess.” It was expensive for an attack, but the enhanced power he had felt in his Swipe made him eager to test it in battle.
+
+***
+
+Name: Mato BahrRace: BeastkinActive Buffs: Bear Form, Natural ProwessClass: Druidic Shapeshifter – level 30- Arboreal Sanctuary – level 15- Swipe – level 20- Brutal Restoration – level 20- Bear Form – level 23- Wolf Form – level 4- Bestial Combat – level 20- Natural Prowess – level 14- Survival Instinct – level 13- Battle Trance – level 1- [Locked]General Skills- Identify – level 7- Cooking – level 5- Wilderness Lore – level 6Aptitudes- Languages: Common, Beast- Mana (Affinity): Nature- Strong (Racial): +7 to Strength - Tough (Racial): +10 to Endurance Attributes- Vitality: 178 (+66) - Strength: 135 (+58) - Endurance: 174 (+85) - Dexterity: 12- Perception: 31- Intelligence: 9- Wisdom: 57Equipment- Body: Banded Feral Plate Armor – level 20Armor: 1098Physical Damage Reduction: 56.65%Health: 1780/1780Stamina: 1392/1740 (348 Reserved)Mana: 570/570
+
+Malika listened quietly to the rest of the discussion between Mato and Calen, trying to process her feelings. It seemed Mato had grown substantially more powerful for unlocking a skill at level thirty and earning a potent skill advance.
+
+He’s so confusing. She still didn’t quite ‘get’ Mato. His intentions always seemed good, but sometimes his impulsiveness seemed so frustratingly self-centered. As if he simply didn’t care for anyone but himself, making decisions on the spur of the moment based entirely on how he felt, rather than weighing up the risks beforehand.
+
+Then he surprised her with decisions like choosing Battle Trance because she requested it. It was a great skill, and she would never have recommended it purely for selfish reasons, so she didn’t feel guilty. And she was certain he had chosen it because he thought it was the best option… but it was abundantly clear that the interaction of his regeneration, and how it would help her in particular, had weighed heavily in his evaluation, and ultimately tipped the balance in favor of picking it.
+
+She glanced at her notifications for the fight against the elemental Piercer Scorpion boss.
+
+Soul Monk has reached level 27 (+3).+30 attribute points.Healing Mantra has reached level 15 (+3).Perfect Body has reached level 13.Soul Armor has reached level 16.Enlightened Evasion has reached level 14.Divine Step has reached level 14 (+2).Second Wind has reached level 3 (+2).Meditation has reached level 10.
+
+The results seemed uninspiring compared to what Mato had shared, and she had to remind herself that she had not unlocked any new skills yet, nor had she reached any breakpoints. But the keen pang of jealousy was pretty obvious to her. Was she being steadily punished for not continuing in the tank role? Sighing, she put that behind her. It was done. Why could she not just be happy for Mato’s big advance?
+
+At least she had thirty attribute points to spend – although she always wanted to spend them on everything. Picking her main priorities first, she spent nine each on wisdom and dexterity. After considering it for a moment, she spent five on endurance next to help her general resilience, Soul Armor skill, and Second Wind. Some perception, she thought, dropping two points into that. Which left her four for vitality with her final point going into strength to help her punches and kicks hit harder.
+
+Mieriel’s going to have a harder time messing with my mind, she thought, pressing her lips firmly into a line.
+
+On a hunch, she used Appraise on the corpse of the Piercer Scorpion.
+
+Lesser Bone EssenceBone-affinity crafting reagent.Mana: Combine 3 Lesser Bone Essence into one Bone EssenceValue: 5 goldReagent – Mana EssenceAppraise has reached level 10.
+
+Nice. At least the essence lurking within the corpse would go a long way to defraying the cost of all the potions they’d ended up using.
+
+For what it was, her growth from the fight was excellent – she had reached level twenty-seven, and her skills were improving nicely. The Piercer Scorpion had been a challenging fight for her, pushing her healing and defensive skills to the limit while she dodged the Bone Nova and kept Mato alive for the entire duration Ali was out saving Calen from being blasted over the edge. And later, trying to keep all Ali’s minions standing against the ravages of Wyvern Poison had left her running ragged for most of the fight.
+
+Hopefully, now that Mato had gained an armor rend advancement, she would be able to lend her Martial Arts to physical fights against monsters like that in the future. It wasn’t helping her jealousy much though, considering her biggest power improvements this time around would come from Mato’s two skills, rather than anything she had earned.
+
+I did keep him alive though, she reminded herself, taking some measure of pride in knowing she had taken on a challenging and critical role, and executed it as efficiently as she could. Battle sweeper. Yeah, that’s me, tidying up behind the others. Great.
+
+Perhaps Vivian does know a thing or two about combat, she thought after a moment, realizing that the Guildmaster’s assessment of her class’s versatility was spot on. Maybe she needed to speak to Vivian again about how to maximize her potential – but the bigger question was, could they trust the seasoned warrior after whatever it was that they had done to Ali? Malika gritted her teeth. No, this Street Rat would not forget that betrayal in a hurry.
+
+Her magic shimmered as the splintered pieces of the bizarre Glimmer Shard elemental evaporated into mana.
+
+Imprint: Bone Elemental updated to Imprint: Elemental.Variant: Glimmer Shard added to Imprint: Elemental.
+
+Great, a new elemental I probably can’t use, she thought, watching as her Grimoire enthusiastically inscribed a few new pages full of dense tiny runes. If Calen and Mato had been right, the light-affinity elemental should also prove just as incompatible with her mana as the bone ones had been.
+
+“Let us know when you’re finished,” Malika called out. The poison had taken ages to expire, and even Malika had run out of mana and stamina before the end, resulting in Ali losing her remaining minions. Exhaustion from the long battle on top of their close call had killed everybody’s enthusiasm for exploring the ruins further – they had decided to call it a day and maybe come back tomorrow.
+
+Ali had a few monster corpses to take care of, but before she did that, she took the time to summon a fresh Kobold Fire Mage, just so that she could reactivate Empowered Summoner and boost her intelligence once again.
+
+She paused before laying a hand on the sinuous neck of the emerald-green Poison Wyvern. Even in death, the creature radiated power and intimidation, every centimeter from the talons to the deadly fangs proclaimed him an apex predator. The scales felt smooth and hard beneath her fingertips, still warm to the touch. She deconstructed him and his wingmate before moving on to the Piercer Scorpion.
+
+Two chimes sounded as her magic evaporated the giant bone scorpion, and several hundred mana vanished into her greedy Sage of Learning.
+
+[Sage of Learning]
+
+Domain Magic analyzed: Attribute Enhancement (Endurance).Domain Magic analyzed: Nova Strike.
+
+Again? Is there something special about boss monsters? Ali still hadn’t figured out what this strange notification meant, but clearly, her Sage of Learning was involved. Again, the descriptions of whatever her skill had analyzed were tantalizingly evocative of the boss and the abilities it had displayed in combat, but so terse she had no idea how to figure out what it might be for, or even where she might look for clues.
+
+“I’m done,” she announced, and everyone got up to return to their camp via the library. She could feel the exhaustion setting in as her body finally realized she was no longer in immediate danger, and it was certainly the smart choice to call it a day.
+
+She had a ton of notifications to browse through, but first…
+
+“Calen, I got two more of those strange notifications,” she said, falling in beside him. She shared the two notifications as he retrieved his notebook to write them down.
+
+“Nova Strike sounds like it could be that area bone attack it was doing. Still no clues from your class?” he asked.
+
+“Nothing so far.” After the Skeletal Wyvern, they had agreed that she should keep looking for any signs that something might have changed with her class, but even after trying to examine every single part of her status, nothing had revealed itself. He did seem to agree with her though, that the names seemed to imply something that Sage of Learning was doing with the skills the boss had displayed. She was convinced that her Magical Analysis advance for Sage of Learning was the root cause for this phenomenon. But it bothered her that her skill was providing some advantage that she couldn’t understand or use.
+
+“Ali… thank you for saving me,” Calen said, abruptly changing the subject. “I really thought I was going to die.”
+
+The depth of seriousness in his voice and sudden change of direction caught her a little off guard, and she glanced at him and then moved along, examining the spot of ground between her toes for a while.
+
+“I didn’t know if I could get to you in time. But I couldn’t just let you fall.” The words sounded woefully inadequate to describe the horror of seeing him plummeting, just beyond the reach of her barrier, and the reckless powered dive she had to resort to, desperately trying to reach him.
+
+He simply nodded, and somehow Ali knew he understood.
+
+***
+
+Ali dropped herself to the mossy ground beside the cookfire, wondering how Mato was able to find the energy to make food. But he had insisted that cooking was relaxing for him, so she hadn’t complained. Besides, she was already starving, and Mato could do things with vegetables that had to be magical. Maybe he has a secret cooking class?
+
+Grove Warden has reached level 31 (+3).+30 attribute points.Arcane Bolt has reached level 15.Barrier has reached level 24 (+3).Martial Insight has reached level 17 (+3).Empowered Summoner has reached level 15 (+3).Identify has reached level 10.Inspiration has reached level 6.Class skill slot unlocked.New skills are available for Grove Warden.
+
+Oh, I hit level thirty! Ali had been so concerned about poison and the strange notifications from her deconstruction of the boss that she had not noticed she had crossed the threshold to unlock a new skill. Not even listening to Mato describe his unlock had been enough to jog her memory. Please, please be something good.
+
+Biting her tongue, she read on.
+
+New skill unlocked.Class level has reached 30.Intelligence has surpassed 120.Familiar with practical and theoretical arcane magic.Experienced with summoned creatures.Summon FamiliarThe familiar gains a class related to your abilities and will level with you. Your familiar receives a bonus to whichever of your attributes is the highest. Once per day, your familiar can use one of your skills ignoring any recharge. You can mentally communicate with your familiar regardless of distance.Mana: Summon or dismiss an arcane familiar. Arcane, Minion, IntelligenceNew skill unlocked.Class level has reached 30.Intelligence has surpassed 120.Studied the theory of domain magic.Directly observed the mana structure of at least three unique domains.Performed a significant alteration of the landscape of your domain.Domain MasteryYou can manipulate the structure and mana of your domain. All your magic within your domain is empowered by the domain itself.Mana: Adjust the shape and composition of any non-living material that is part of your domain. Range: Domain.Nature, Arcane, Mastery, Domain, Intelligence New skill unlocked.Class level has reached 30.Wisdom has surpassed 100.Killed a monster with a plant.Rampant GrowthMana: Cause rampant growth in any plant in range. Simply grow plants faster, or use them to slow, impede, or even damage your enemies. Range: 10 meters.Nature, Area, Wisdom
+
+She couldn’t help but giggle at the last one. It sounded like some high-speed gardening skill. Basil would love it.
+
+“I got some skills too,” Ali said.
+
+“Congratulations both of you on reaching silver!” Malika said. Silver rank at the guild supposedly came with more privileges – privileges that were presumably not that useful until the guild grew a bit – but it included an upgraded guild ring. Also, they could now take higher-ranked jobs, if they showed up.
+
+Ali shared her three new skills, triggering some engaged discussion.
+
+“Rampant Growth looks like a Druid spell,” Mato said.
+
+“Looks like I got it because of that first sewer rat I killed,” Ali said, remembering her first encounter with a monster.
+
+“Familiar looks cool,” Malika said. “Especially if the creature has a good class and can level quickly.”
+
+“Will it be cute though?” Ali asked.
+
+“Ali, asking the important questions,” Mato chuckled. “Awww, is it fluffy? Does it have long, silky ears?”
+
+“Mato! What are you talking about? What good are skills if the creature isn’t cute?”
+
+“Says the person who likes summoning Goblins and Kobolds?” he countered.
+
+“Hey! They’re cute!” That spawned a round of laughter.
+
+Well, maybe just the Kobolds. The Goblins were quite ugly – especially the feral-looking Bugbears. She frowned for a moment, realizing that really none of her creatures were cute, with perhaps the exception of her Kobold Acolyte. Some, like the Toxic Slimes, were downright nasty. Maybe her familiar would be a fat, slimy toad?
+
+“Anyway. I think Domain Mastery sounds the strongest. Even if it’s a little vague. I’m not entirely sure what exactly it’ll do,” Ali said.
+
+“You can always just try it out,” Malika said.
+
+She’s right, I can just try and see what it does. As soon as Ali selected Domain Mastery, a pulse shot out from her, rippling through the mana of her domain before she felt it pass out of sight, down the shaft, and out all the way to the library far underground. It was the same domain, but yet, somehow different, almost as if it were waiting for something. She studied it with her Arcane Insight, but other than the vague impression that it was now somehow… more, she had no idea what had happened.
+
+Cautiously she reached out and poked at it with her mind, and to her surprise, her domain mana bent in response to her inexpert will. She released her mental pressure, and it bounced back to normal, rippling a little before settling.
+
+Curious. She twisted and bent it a little more, watching the swirls and tendrils of her mana reacting to her will. It was pretty, and rather interesting to see, but what it might do was anyone’s guess.
+
+“I can bend my domain mana, but I have no idea what I would even do with that,” she said.
+
+“Why don’t you try the transmute thing?” Calen suggested, pointing at a log near the fireplace.
+
+Ali fixed the log in her mind and fed some mana to her new skill. She could sense the shape clearly, so she exerted a little pressure. To her surprise, the log bent smoothly, adjusting to her will in the same way that her mana had. With relative ease, she shaped it into a flat disk, and then back into a log before she transitioned it into a cube.
+
+Conservation of mana or mass? The skill had a clear limitation in that she was unable to change the size of the object. Making it smaller simply caused the mass to bulge out the sides like squashing a slime. Carefully she shaped the log into a small bench.
+
+“That seems useful,” Calen approved.
+
+Now transmute, she thought, trying to figure out what her skill meant when it suggested she could change the composition. But as she considered the concept, she felt her skill respond, and suddenly her Grimoire appeared, flipping to the chapter imprint for stone.
+
+Is that a suggestion? Ali focused on the imprint, and suddenly her mind was filled with a cascade of possibilities. With a simple thought and a little mana, her wooden bench transformed into granite. With another thought, she shifted it to shale. But the subtle interaction between her Grimoire and her new Domain Mastery offered more. Pouring extra mana into her imprint, she found she could intuitively feed new stone into her creation while simultaneously shaping it with her Domain Mastery. It took a mere few minutes to create a large stone sculpture of a stag with proud antlers. If she had still had the bone imprint, she was convinced she could have transmuted it to that. Lacking the imprint for wood, Ali found herself unable to transform the sculpture back into its original form. The other imprints for creatures, items, or plants didn’t seem to work when she tested them.
+
+“It looks like I can transform anything into one of the material imprints in my Grimoire,” Ali told Calen, waiting for him to finish writing. “It also doesn’t seem to work on living stuff.” Ali had tried, and failed, to bend one of the trees.
+
+Ali carefully reshaped the stag into a bird and then transformed it back into granite.
+
+Sculpting has reached level 3.
+
+She had all but forgotten her Sculpting skill in the craziness of her current life, and the notification caused a rush of memories from her past. She had often turned to her sculpture as a way to relax and create.
+
+And now I can make my own stone. And create with my magic. Is this the one for me?
+
+Finally, she turned to her new attribute points, spending twelve on intelligence and eleven on wisdom to boost her mana and primary spells. The remaining seven she spent on perception, earning a marked increase in the clarity of her mana sight.
+
+***
+
+Name: Aliandra AmarielRace: FaeTitles: AncientActive Buffs: Empowered SummonerClass: Grove Warden – level 31- Arcane Insight – level 18- Arcane Bolt – level 15- Barrier – level 24- Grimoire of Summoning – level 20- Runic Script – level 12- Sage of Learning – level 13- Martial Insight – level 17- Empowered Summoner – level 15- Domain Mastery – level 1- [Locked]General Skills- Reading – level 8- Identify – level 10- Sculpting – level 3- Inspiration – level 6Aptitudes- Languages: Ancient Dal'mohran, Elvish, Dwarven, Common, Draconic, Goblin- Mana (Affinities): Nature, Arcane- Tiny (Racial): The effects of Strength and Vitality are reduced by 50%- Magical (Racial): The effects of Wisdom and Intelligence are increased by 50%- Domain (Class): Your maximum mana increases with the size of your domain, up to +100%- Domain: -10% maximum health per day domain withdrawal. You have Domain SenseAttributes- Vitality: 54- Strength: 4- Endurance: 15- Dexterity: 25- Perception: 61- Intelligence: 142 (+40) - Wisdom: 119Equipment- Body: Tailored Cotton Clothing – level 25- Hands: Wooden Bracelet – level 11- Ring: Bronze Guild Ring – level 10Resistance: 360Magical Damage Reduction: 29.31%+21% to mana regeneration.Health: 270/270Stamina: 150/150Mana: 2993/3570 (577 Reserved)Grimoire Imprints1- Moss2- Arrow3- Armor (Body)4- Dagger5- Wolf6- Mushroom7- Stone8,9- Kobold10- Sword11- Tree12- Ivy13- Toxic Slime14- Goblinoid15- Shield16- Elemental17- Grass18- Book19- Bone Bracelet (Hands)20- Bow
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

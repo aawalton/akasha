@@ -1,0 +1,185 @@
+---
+id: 09476ee2-b8a7-5517-b447-4b180aeb0012
+page-type-slug: story-chapter-royal-road
+title: "Chapter 218: A Lesson in Necromancy (Part 2)"
+slug: 0245-chapter-218-a-lesson-in-necromancy-part-2
+partOf: dungeon-of-knowledge-complete
+position: 245
+ownLength: 3561
+unit: words
+ownProgress: 3561
+publishedAt: 2025-04-03
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2171151/chapter-218-a-lesson-in-necromancy-part-2"
+royalRoadId: "2171151"
+markedReadAt: "2026-06-29T20:19:28.666Z"
+---
+
+It was an unknown amount of time later when Ali returned to her body, having finally grasped at least some of the astounding structure of the barrier. Whoever had wrought this grand necromantic array was unbelievably skilled, able to weave the runes in ways Ali had not believed possible. She activated Inspiration to recover her mana as she considered what she had learned – knowing how something worked was half the battle when it came to dismantling it. And she had an idea.
+
+As soon as she had mana to work with, she put her plan into action. She had seen Disruption magic twice now, and she had clear memories of the structure used by both the assassin who had tried to kill her by disrupting her magic, and Nathaniel Sunstrider’s version which had dispelled her barrier. Somehow, both of them had been able to create a formation that seemed to be the perfect antithesis to her magic, causing it to spontaneously unravel. She had Runic Script and Arcane Insight, and she was certain she could learn how to do something similar manually.
+
+She set to work, channeling mana, and creating formations with her runic magic, trying to match the barrier’s structure with an inverse shape made from her own arcane and nature mana. But the proper form proved elusive, and try as she might, she couldn’t find a way to match her arcane runes to the death magic runes in the barrier. Nor did her nature magic bend easily to the soul magic. Then, there were still runes she was entirely unable to decipher, and so, she struggled, twisting the magic one way and then another, as if trying to force the wrong piece to fit in a puzzle. She drew on every scrap of knowledge she had about efficiency, mana manipulation, and understanding of the flow that created the formations but after two hours, she was frustrated and still hadn’t gotten it.
+
+“Struggling?” Malika asked, sitting down beside her, and offering a freshly sliced apple.
+
+“Argh! Yes,” Ali groaned, accepting a slice, and taking a moment to let the crisp crunch and the explosion of sweetness distract her from her frustration. “It’s like I’m trying to open a door, but the key just slips out of my grasp every time.”
+
+“Mm. When I’m picking locks, I do it by feel,” Malika said, retrieving her lockpicks from her storage. “I can sense the shape of the lock, so I mold the shape of the pick to the lock first.” She illustrated her words by opening a prong from the kit and making it warp and reshape in the air. “Only when it is snug and tight do I give it a firm twist.” Malika poked the barrier, creating ripples in the middle of the air. “Not that magic works like that, I’m sure,” she said, glancing at her tools before putting them away.
+
+“I never thought of it like that,” Ali said, wondering, her mind automatically trying to apply Malika’s perspective to the problem she had been facing.
+
+“Not sure that helped.”
+
+“Maybe,” Ali said. Could it be that simple? She summoned her mana again. This time, instead of trying to choose the perfect set of runes, she simply let the magic flow, filling the space in the barrier magic she now understood intimately. She let her magic seep through it, filling the cracks like Naia crawling through a small crevice. She filled every gap and crook in the surface of the formation. And then she gave it a firm tug.
+
+Something snapped, and an explosion of golden sparks cascaded from a small tear in the surface of the almost invisible barrier before slowly closing.
+
+“Well, that seemed to do something,” Malika said, excitedly.
+
+“But it didn’t last,” Ali said, pressing her lips together. Although, she should be happy because that was the first time she had gotten any reaction from the strange barrier magic in the last several hours. Then her notification chime sounded, startling a small squeak out of her.
+
+Malika arched an eyebrow at the sound.
+
+Ali blushed furiously. She was quite sure serious magic-users did not make sounds like that. “One moment, notification.”
+
+Requirements met for skill advancement. Mentor: Clarence.Arcane Insight has reached level 40.Intelligence has surpassed 600.Synergy: Runic Script has reached at least level 30.You have used Magical Analysis on a grand formation.You have analyzed Arcane Disruption magic. You have studied advanced theories of magic.You have successfully damaged a standing magical formation.Arcane Insight gains Dismantle.Arcane Insight gains the Knowledge and Intelligence traits.Arcane Insight – level 40You can see mana. Mana: Dismantle or dispel an existing magical construct, formation, or effect, provided you understand it.Arcane, Knowledge, Perception, IntelligenceAccept this advancement?
+
+“This might be just the thing…” Ali said, sharing the notification with Malika.
+
+“Perfect for becoming a magical locksmith?” Malika grinned.
+
+“Hey!”
+
+The moment she accepted the offer, her view of the extraordinary construct of mana before her dramatically sharpened. Details she had barely been aware of suddenly popped out, crystal clear as her skill adjusted to the addition of a second attribute of scaling.
+
+“Whoa, I can see…”
+
+“Nice change?”
+
+“Very,” Ali said, standing up and reaching toward the barrier. The moment her fingertips felt the smooth, slippery wall, she used her new Dismantle ability. Mana flowed through her into the barrier, much like she had done manually earlier, but the scale and speed of it were on another level. Arcane runes flickered and twisted in a rapid torrent, assembling a structure of complexity matched only by the barrier itself. The golden magic flowed outward, covering several meters of the surface of the barrier, seeping into it, until she intuitively understood it was ready.
+
+She pulled.
+
+The entire surface of the barrier structure quivered. A blinding surge of mana cascaded through the barrier and a single large rune detonated. The shockwave slammed point-blank into her chest, flinging her across the clearing like a boneless ragdoll. But before she had even hit the ground, she felt Malika’s hands cradling her body while her healing magic rushed through her, repairing her injuries.
+
+“You ok?” Malika asked.
+
+“Ugh, nasty,” she groaned, struggling to make her voice work again. A little more healing mana pulsed through her, and she sat up from the ground where Malika had placed her, looking over at the shimmering barrier slowly recovering from the jagged tear she had ripped through it, now over twenty meters away. “Yes, I think so,” she finally answered. “Thanks for catching me.”
+
+“What happened?”
+
+“I removed one of the runes, and it reacted to defend itself,” Ali said, her mind replaying that incredible surge of mana, lighting up hidden runes within the formation. “I don’t think that thing is a barrier,” she said.
+
+She had assumed the construct was a barrier, but hampered by the sheer complexity of the structure, and the proliferation of the indecipherable runes, she hadn’t realized what it really was. In the instant of detonation, she had seen the powerful layered structure of the formation reacting defensively to her intrusive Dismantle and, in that moment of explosive inspiration, she had realized there was vastly more to this construct than she had thought. However, what exactly it was for completely eluded her.
+
+And most of it is not even here, she realized. It was as if she was studying just a small part of a larger edifice of magic, and without the other pieces, there was no way for her to truly divine its full purpose. I wish I had brought my books. She felt a powerful need to consult with her mother’s magical insights, but she had left Clarence in the library under Ryn’s care because she couldn’t put him in her storage ring.
+
+She got up, testing her newly healed limbs, and walked slowly back to the barrier, which was once again smooth, unblemished, and almost invisible.
+
+“Be careful, Ali.”
+
+“Oh, yes,” she murmured, deep in thought. “What is this thing?”
+
+***
+
+Ali’s awareness slowly expanded to include the ground, the trees, and the quiet little camp her friends had built. Darkness had fallen, and everyone was asleep – only Calen and her minions remained awake, keeping watch. She was finally done reanalyzing the powerful magical array before her, and what she had found was profoundly disturbing. She glanced down at her pages and pages of notes, recording every single rune and connection in perfect detail, the labor of several further hours of hard work.
+
+She still did not have anything like a complete picture of what Nevyn Eld had wrought here, but there was no longer any doubt that it was his work. Having had her mental block of believing it was merely a complex barrier explosively removed, she had studied it with fresh eyes, an advanced Arcane Insight, and a curious mind. What she had found filled her with vague dread, and an uneasy premonition that what she studied was vastly more nefarious than the simple bone altar she had destroyed.
+
+What horrors are possible with a grand array of necromancy? In a fresh dungeon.
+
+The magic was hard-wired into the domain, drawing heavily from the dungeon itself to power the array. The barrier effect was almost an accident of its obscure main function, but she knew the twisted formation was related somehow to the souls of the dead. She just couldn’t figure out the precise connection, so much was still missing from her understanding.
+
+“Is it as bad as you thought?” Calen asked, his voice soft and quiet so it didn’t carry far in the night.
+
+“Much worse, I think,” Ali answered truthfully, massaging her temples for a moment. Her head felt as if someone had filled it with hot sand. “I still can’t tell what it’s for, but whatever it is, Nevyn Eld spent an enormous amount of time and energy on it.” She gestured toward the invisible wall. “This thing is proof that his final objective was not Aman Rak. The scope is too large – he is merely using this dungeon as a source of magic to power something much more extensive. Lyeneru was right, we need to learn more. The fate of the world – no, the entire realm – might be at stake.”
+
+It was a shocking realization; Nevyn Eld had destroyed an entire troll kingdom to create a power source for his vast magical construct. She didn’t fear for the other troll kingdoms along the Dol Kerriadh mountains – she feared for everything. Is he trying to unleash another Breaking?
+
+Calen just nodded, as if he was unsurprised. He had personally seen the Lich though, and talked extensively with the Pathfinders about this quest, so perhaps he had already come to a similar conclusion.
+
+“When we’re done, we need to show this to Nathaniel Sunstrider,” Ali said, closing her notebook and putting it away. Her misgivings about the elf notwithstanding, the Council of Archmages needed to see this. “At least I think I can dismantle this piece safely now.”
+
+She dropped her Inspiration and began to work, tracing the pathways until she found the key rune. It would take some time to unravel, and if she had understood the proper order – the proper sequence to dismantle it – it should all come undone without the mana feedback that had caused it to backfire so catastrophically the first time.
+
+However, knowing she was right in theory, and standing before the barrier that had detonated in her face were not the same things. Her hand trembled a little, and she summoned a barrier of her own, protecting her face and chest.
+
+“Maybe step back a little? Just in case?” she said. Calen’s body suddenly shimmered, growing indistinct and vanishing from her mana sight as he backed off a little way.
+
+Ali took a deep breath and began. Her mana flowed outward, pouring onto the barrier, and crystallizing into a complex golden formation that sparkled in the darkness of the night. She kept a tight leash on her magic, restricting it to just the key rune she had identified, and nothing more, and when she was certain she had it shaped correctly, she locked it in and pulled.
+
+Her heart raced as her magic punched through the key rune, sending a cascade of golden tendrils through the nearby structures, dissolving and dismantling connections in an instant. The necromantic barrier surged in response, wavering and shimmering, but to her intense relief, the ripples faded without feedback, and it settled down, stabilizing with a small hole – a gap in the formation about the size of her fist.
+
+She released the breath she hadn’t known she was holding, and cracked her neck, releasing some of the tension she had been unconsciously holding, and then she started again, tracing the formation backward to the next key rune.
+
+She had to pause to regenerate her mana several times over the next hour, but eventually, her magic pierced the final key rune, and the entire structure shivered, giving off an audible sound, not unlike a sigh. The entire barrier across the path collapsed in on itself, magic vaporizing in puffs of unbound mana, sparkling as it dissolved into the air. A smell, halfway between ozone and decaying flesh billowed out as the barrier unraveled in an accelerating cascade until nothing was left except the open path forward and the clouds of mana and smoke slowly drifting away on the soft breeze.
+
+“It’s done,” she said.
+
+“Mato left a little food for you, he thought you’d be hungry when you finished,” Calen said pointing to the pot kept warm near the cookfire coals.
+
+At the mention of food, Ali realized that she was ravenous, and hopped over to the fire to fill a bowl with the divine-smelling stew Mato had made for dinner. Ever since he had learned to use dungeon-grown ingredients, his cooking had grown by leaps and bounds. She had seen him gathering plants in this dungeon already and, judging by the heavenly aroma, he had found something enticing.
+
+I hope I can grow whatever this is, she thought, inhaling deeply, and then sampling the first bite.
+
+She was just sitting down to tuck in when a familiar prickle of alertness thrummed through the back of her mind – a faraway pulse, strumming at her nerves like guitar strings. Her awareness instantly shifted to the small cave with the ventilation shaft leading down to the ruins of the ancient city of Dal’mohra and the Abyssal Stalker boss she had created to guard the area. Her remote senses filled with the smell of fresh blood, and the strangely augmented vision of the demonic spider that lurked in the darkness.
+
+A veritable horde rushed into the cave, dark figures she couldn’t smell. Undead! Skeletons of wolves and Kobolds, zombie bats, in fact, a broad sampling of the monsters she had made throughout her dungeon poured in through the small opening. But it wasn’t just undead, behind the horde came the recognizable figures of Seth, Willow, Teagan, and Braden. And keeping himself back behind the combat adventurers, hiding against the rocky walls, Basil crouched, quickly decanting a glowing liquid essence into a vial charged with some black, bubbling tar.
+
+Her Abyssal Stalker dropped from the ceiling, spraying demonic web across the invaders and unleashing an Ambush on Braden from behind. Blood sprayed into the air, but in an instant the room was lit by a glowing, shifting beam of green energy from Teagan’s hand – energy that healed Braden and bounced, cascading to Willow’s companion wolf. Braden downed a vial of something and shouted, spinning to attack.
+
+Vampire Hornets burst from the Stalker like a storm cloud.
+
+“Willow!” Basil called, raising the vial in an outstretched hand.
+
+“Thanks,” she said tersely, grabbing the offering and lobbing it across the room with a swift overhand throw. The vial shattered on the stone, detonating in a blast of hellfire that ripped through the swarm of hornets.
+
+Wow! Basil! That’s new, Ali thought, glancing at the unassuming plant-loving boy cowering in the corner, already decanting a new concoction.
+
+An unfamiliar magic settled onto her Abyssal Stalker, coming from Seth, and then the entire horde of undead launched their offensive, each strike flickering with a recoil of magic rebounding from the stalker.
+
+A new curse? Ali would have to ask him about it when she returned. It seemed to be healing everyone that hit the stalker, but she couldn’t quite make it out remotely through the senses of her monster. But it seemed like their group was well prepared to face her dangerous demonic guardian.
+
+Ali reluctantly released her connection, leaving the adventurers to their fight so that her attention wouldn’t diminish their experience. They must be hoping to reach level thirty. A win here would gain them the privilege of silver rank at the guild and unlock a new skill slot.
+
+As she sat and savored Mato’s creation, she found the hours of study beginning to catch up with her, and she found herself nodding off in the quiet of their camp, lit only by the glowing coals of the cookfire.
+
+“Why don’t you get some sleep? You worked on that barrier for ages,” Calen said. “I’ll keep watch.”
+
+“Yes, I think I might,” Ali said. She finished up quickly and turned in, falling asleep almost immediately.
+
+Seth studied the delicate silvery runes traced out in the obsidian floor of the teleportation room down below the guild hall – they were quite spectacular in design, and Ali had reportedly crafted the entire thing from memory. On his finger was his shiny new silver guild ring – the reward for their successful defeat of the Abyssal Stalker.
+
+Willow and Teagan had immediately departed to hunt down Weldin Thriftpenny to turn their loot into coin, but Seth was less interested in the outcome of that. They had discovered some interesting mushrooms in the cave and their haul had included a lot of that annoying demonic webbing the Stalker had used incessantly. But the biggest surprise had been the three slivers of Abyssal Bloodstone Willow had pried from the back wall – an obscure form of magicite, but it should still fetch a tidy sum when sold. Seth put it out of his mind; he trusted his teammates to be fair with his share.
+
+His new ring was supposed to be his key to entering the library whenever he wanted. Not that the guild barred him from going whenever he asked, but it required Mieriel, the Guildmaster, or Ryn to transport him there unless Ali and her group were around.
+
+But now he had his own key, and with that came a whole lot of freedom. Not only was the teleporter the gate to the library, and all the books within it, but it also had the teleportation circles Ali had made to Volle, Vertias, and Naia’s slime dungeon.
+
+He stored the job slip and stepped into the teleportation circle.
+
+Accept teleportation to the Dal’mohran Grand Library Arcana?
+
+He accepted, and instantly he was in the library, silent now that it was the middle of the night, with the only movement coming from the slowly drifting wisps circling the massive tree and the nocturnal hunting of the golden dragonets searching for insects.
+
+He searched the inlaid electrum circles till he found the one leading to Vertias. Somehow, Mieriel had figured out how to get job listings for the distant Torian city – presumably by using the teleport circle, just as he was doing. But it was a rather enormous boon for him, personally; he didn’t need much sleep anymore, and so he took night jobs to make a little more money and experience. Although tonight’s quest was a job from Lydia Avery – the tailor wanted someone to collect a rare kind of spider silk – the perfect job, no talking to any people required.
+
+He appeared in an echoingly empty chamber with nothing but a teleportation locus inscribed on the ground and a sleepy Torian guard at a desk.
+
+“Good evening,” he said, hoping that the night watch would not have the skills to identify his mana affinity.
+
+“Evening,” the guard said, nodding.
+
+Seth walked out into the darkness and quickly made his way out of the city, meeting almost nobody along the way. As soon as he was out of sight of the walls, he dropped several stored corpses on the ground and raised them as skeletons, and then set off to find the forest grove of the Shimmerweb Spiders.
+
+I wonder if Ali would like some? They probably wouldn’t make good minions – his research had proven they posed little danger to a silver rank – but she seemed to like placing monsters that could be used by the town crafters for raw materials. He considered it for a while as he strolled through the darkness in the forest, and by the time he saw the sheets of shimmering web draped from the trees he had decided it wouldn’t hurt to save a few corpses for the dungeon, even if it meant the easy coin from this job dried up. Yes, she’d like a few of these.
+
+There are always new jobs, he decided. He preferred variety anyway; experiencing new things was one of the reasons he was learning to appreciate his class.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

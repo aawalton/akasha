@@ -1,0 +1,239 @@
+---
+id: 5982a3ec-41dd-5534-83ff-dee9ecc0afdc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 142: Great Hunter"
+slug: 0144-chapter-142-great-hunter
+partOf: dungeon-of-knowledge-complete
+position: 144
+ownLength: 4446
+unit: words
+ownProgress: 4446
+publishedAt: 2024-10-13
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1848343/chapter-142-great-hunter"
+royalRoadId: "1848343"
+markedReadAt: "2026-06-29T20:15:47.765Z"
+---
+
+In the lore of the Elves, custodianship of the three Great Wells was granted to the three Elven kingdoms by divine providence: the hand of Lunaré herself. To the Night Elves, she bequeathed the Well of Eternity, representing the eternal dream and the final repose of death. To the Sun Elves, she gifted the Well of Divinity and the domains of light and holy, a bridge to the gods. She charged the Wood Elves with custodianship of the Well of Souls, representing mortality, sentience, and the passage of time.Lunaré’s gifts elevated Elven culture from barbarism, ushering in the Age of Enlightenment, and spawning the three legendary cities of Mi’ir Valdanis, the Night Elf City of Dreams; Aalion, the City of Light, and Ciradyl, which still stands today.– Excerpt from Legends of the First Age, the collected lectures of Val’korr, Trollish (translated).
+
+Ali gazed out at the darkness and eerie silence of the suspended second level of the ruined city. Without the dungeon to respawn the monsters, not a single thing moved nor was there a single sound, and without her friends to talk to, she felt like an invader in a ghost town. The only visible light was the distant glow from the fractured mana condenser on the outer ring, still leaking liquid light-affinity mana that cascaded off the edge of the floating stone city ring in a slow-motion waterfall, and the dim glow that percolated up from the jungle far below, casting much of the ruined city into shadow.
+
+She summoned her Grimoire, which shone brilliantly in the darkness, and took the time to summon two Forest Guardians and three Poison Wyverns. She had promised Mato she would make better protectors but, after seeing the dark and deserted ruins, she was glad of their reassuring bulk.
+
+Alright. Those bats fly, she thought, recalling their battles through here with perfect clarity. She pursed her lips and then paged through her Grimoire, choosing to summon two Bone Mages and two Fire Mages. I can add some archers if this isn’t enough. The only issue would be carrying all her minions into what was likely to be an aerial battle.
+
+“What is your wish, Ancient Mistress?” the first Kobold asked in a raspy voice. A thin curl of black smoke spiraled up from between his gleaming teeth.
+
+“We’re hunting bats,” she answered. Ranged magic would be essential.
+
+“Excellent,” the reptilian mage replied, rubbing his scaled hands together with a devious grin gracing his face.
+
+But it was not just her minions that would be protecting her down here. She had taken a quick trip to town, and Lydia had outdone herself. While Calen’s mother had apologized for not being able to craft anything better than her self-repair enchantment, Ali was mostly in awe of the resistance the exquisitely crafted piece provided, and the talented tailor had trimmed them with green and gold embroidery to match her hair and eyes.
+
+Tailored Cotton Clothing – level 45Resistance: 648Mana: Self-repair.Requirements: Intelligence 158Created by Lydia Avery.Body – Cloth
+
+So much better! Any Fireballs or Ice Bolts she might tank would be reduced in damage by thirty-two percent – not that she would be trying to tank any hostile spells if she could avoid them – but it was further reassuring that she was properly prepared to face the ruins alone. She, at least, planned to stand well in the back behind her barriers, but the bats she was hunting had a dangerous sonic attack – and being prepared was rule number four.
+
+Without Calen’s light magic, she would need to rely on the glow of her floating barrier magic, her Luminous Slime, and the exceptional Darkvision of her Kobold mages to see. On a hunch, she extended her awareness to one of her Poison Wyverns and the darkness vanished as her borrowed emerald-green draconic eyes scanned the remains of the ancient city.
+
+Perfect. If my eyes aren’t good enough, I’ll just use theirs. It cost a tiny trickle of mana to maintain the additional points of view, but her mana pool was large enough by now to out-regenerate the cost of using the sight of a few minions.
+
+Slowly, she picked her way across the ruined city to one of the arched stone bridges leading to the center suspended ring, not encountering a single monster, living or undead. All that broke the silence was the leathery swishing of her Wyverns’ wings and the heavy thuds of the Forest Guardians’ footfalls on the ancient stone.
+
+Her path took her past the Armory once again. They had been unable to carry most of the weapons or armor out when they had first discovered it, so she decided to take the time for a second peek at the loot, given as she now better appreciated how it might add to and even consolidate her knowledge. Every chapter in her Grimoire was precious and needed to be well-used. Leaving the enormous Guardians outside, she entered the dark building and gazed at the walls displaying their treasure with her borrowed Darkvision.
+
+No matter how many times she saw this, she knew she would be awed. Most of this is Eimuuran Steel. Her borrowed eyes roamed around the immensity of the armory, taking in the wealth of weapons crafted by the ancient smiths of Dal’mohra. I can probably afford to spend one more imprint, she decided. She needed to keep one for the bats.
+
+Axes, perhaps? she thought, weighing the options. Most of her Goblins could use axes – particularly the Storm Shamans and the Bugbears, although she seldom used the hulking Goblin warriors anymore. I’m pretty sure some of my Kobolds can use axes too. The warriors certainly could, but maybe even some of her rogues might have the skill to use axes. Thuli will appreciate this, she decided and set about deconstructing every axe in the Armory.
+
+Imprint: Axe completed.
+
+She chose the Black Bean imprint to replace and waited for her Grimoire to rearrange its pages with the newly learned imprint. It took a little longer than she had anticipated, but the Armory contained an unbelievable variety of axes. She didn’t typically pay much attention to melee weapons and had only considered the ‘big’ two-handed axes and the ‘smaller’ one-handed varieties as the full extent of the categories. But she began to glaze over after her Grimoire acknowledged an endless list of throwing axes, greataxes, labrys, hand axes, beaked axes, tomahawks, and halberds – these being the few she could actually name.
+
+They’re just sticks with a blade on the end, aren’t they? she thought, twisting her mouth wryly, but she studied the differences, resolving to ask Ryn for more information soon. The more she knew about these weapons, the better she would become when she deployed axe-wielding minions to battle.
+
+Continuing her slow procession across the ruins, she made her way to the outer ring, approaching the area where they had fought the Wights. She eyed the scorch marks and skeleton bones, all that remained in the now-silent and deserted battlefield to mark the epic fight against the final boss. Her gaze flickered to the center, but nothing remained to indicate the dungeon shrine had hovered there or called attention to the terror of cowering in the presence of the Blind Lich. She shivered at that memory, nonetheless.
+
+After studying the deserted spot for a few moments, she allowed the remembered dread and terror to subside and turned to her second task – the condenser. She stopped, a little out of range, seeing the first signs of life in this deserted ruin. The Luminous Slimes still congregated in the puddles of liquid light-affinity mana leaked by the giant fractured pyramid of stone.
+
+Must not have been part of the dungeon, she thought. Somehow, they were attracted to the mana, or perhaps even spawned from it directly like the spawning pool below. If they had been dungeon monsters, they would have been released in a dungeon-break when the dungeon itself had been destroyed. She could find no remnants of the old domain, and yet these creatures remained.
+
+“Go clear that condenser,” she instructed, sending her entourage of minions into battle. It was a short and messy fight, with many of the slimes blasted from the ring by the detonations of the Fireballs, Bone Spears, or otherwise stomped into splatters under the Guardians’ feet. But she didn’t care about experience or monster kills and as soon as the condenser was clear, she approached, pausing at the threshold where the density of the liquid mana began to prickle painfully across the skin of her forearms.
+
+“Retrieve the magicite,” Ali said, waving her Luminous Slime forward. She studied it carefully as the shining blob happily squashed itself through the crevices after her treasure, but her Acolytes did not even bother healing it, confirming her guess that the slime was nigh immune to the damage from the caustic density of the light-affinity mana.
+
+Not long after, her slime reemerged, carrying chunks of shining crystals suspended in its semitransparent body. It didn’t take too long before her Grimoire reacted to her deconstruction and she added a new resource for the crafters in Myrin’s Keep. Ali identified it quickly.
+
+Variant: Glowstone – Magicite (Light) – added to Imprint: Stone.
+
+“Ok, time to hunt,” she said, eliciting chirps of excitement from her Kobolds.
+
+She summoned a disk of golden magic and collected her minions upon its smooth surface and levitated everything into the air, leaving only the immense Forest Guardians behind. They were far too heavy for her to lift at her current skill level.
+
+Using the eyes of her Wyverns and Kobolds, she searched the darkness of the cavern for her prey with a heart that beat entirely too quickly for it to be solely caused by excitement.
+
+For several minutes, nothing happened, but as she neared the roof of the immense cavern – the underside of the city’s residential level – she finally caught sight of a dark shape dropping away from a crevice and approaching on silent wings. Her Wyverns immediately roared, intercepting the shape with streams of deadly green spray, but the creature flittered back and forth, dodging with uncanny agility.
+
+Giant Bat – level 24 (Sound)
+
+It darted between the Wyverns, suddenly rushing her and unleashing a high-pitched screech. Ali yelped, tossing up a barrier, but the air shimmered and she was hit by a palpable wave of sound. She stumbled and her vision blackened.
+
+She came to, face down on her golden barrier magic, a jangling pain slowly fading as her Kobold healer filled her with holy magic. Ali groaned and sat up, clutching her head and urgently searching for the bat. Her eyes found it about ten meters off to the left, flying circles around her three angry Wyverns.
+
+“Where did the mages go?” she asked, noticing that two of her Kobolds were missing. But she already knew the answer before her Acolyte spoke.
+
+“They fell, Ancient Mistress.”
+
+Stupid. Stupid! she berated herself. She had fought these bats before, and she knew of their abilities. I need to be more careful. She hunted entirely alone, and a single mistake could spell her end – there would be nobody to come and rescue her if she passed out and got attacked or fell. Her experience with her friends, and maybe even her solo dungeon delve into Naia’s dungeon had obviously lulled her into a false sense of security.
+
+Suddenly, the bat screeched and dropped, and her notification chime sounded.
+
+Your minions have defeated Giant Bat – level 24 (Sound)
+
+Fuck. She watched in chagrin as the corpse rapidly fell from sight, vanishing into the darkness below. I needed that. There was no way she was fighting her way through that jungle below by herself to recover the corpse.
+
+When she finally found a second Giant Bat, she engaged first with her Wyverns, but this time she instructed them to lure it downward towards the ringed city ruins below. She maintained a barrier between the bat and herself as a precaution against its stun. The darting, wheeling aerial melee wove intricate patterns in the air as the Wyverns slowly descended. As soon as Ali judged them to be low enough above the ruins that she wouldn’t need to catch the corpse she reacted.
+
+“Drop,” she said. The Poison Wyvern wheeling above the bat folded its wings and reached with its talons, falling five meters in an instant and tackling the bat in the air. Screeches of pain and roars of triumph greeted the spray of blood as the talons found their target. And as soon as the bat’s mobility was stripped away, the Wyverns doused it in green spray.
+
+That’s much better.
+
+“Ok, now you can shoot it too,” she told the mages beside her.
+
+“Yes, mistress.” The air bristled with spears of bone and sizzled with bolts of fire. Ali even launched a couple of barrier shards. She missed Arcane Bolt for this kind of fight, but she had gotten quite proficient with manipulating shards of her barrier magic, so she still wielded a useful amount of personal destructive power.
+
+The fight was short and vicious, and the outnumbered bat died in the air, dropping the short distance to land on a building below. Ali descended and deconstructed the corpse.
+
+I did it! She hadn’t had much opportunity to hunt by herself and she reveled in the sense of achievement. Especially after her first attempt had been a clear failure.
+
+Ok, now I need a whole lot more of them.
+
+***
+
+Ali viewed the summarized notifications representing a whole day of hunting giant bats in the darkness.
+
+So disappointing.
+
+You have defeated Giant Bat – level 20-30 (Sound) x7.Empowered Summoner has reached level 24.Barrier has reached level 36.
+
+Only seven. She had hunted for hours, extending her quest deep into the afternoon. Her fighting had become significantly more reliable as she became more familiar with aerial combat using her Wyverns, however, for the last two hours, her search had proved fruitless. She had eventually given up when she deduced that there probably were no more bats in the cave for her to hunt and returned to the library, consoling herself with her books while she waited. Typically, she needed about twelve to fifteen monsters before she learned a new imprint, and without the dungeon to respawn them, she wasn’t at all certain she could find more to complete it.
+
+“Hi, Ali, I’m back!” Mato shouted, his cheerful voice echoing in the library as he stepped off the landing. His eyes glanced at the two Forest Guardians on either side of her couch and flicked upward to the three Wyverns roosting in the branches of the giant tree. “You listened.”
+
+“Of course,” Ali answered him with a smile. “I trust you, and your advice was smart.”
+
+“Thank you, Ali.” There was an uncharacteristic seriousness in her friend’s voice as he answered.
+
+“Are you ok, Mato?”
+
+“I’m just worried about my friends,” he answered soberly, dropping himself heavily onto the couch.
+
+“I’m sure they’re both ok,” Ali said. Malika had been left recovering and in good hands. But nobody had anything from Calen, and she shared Mato’s concern.
+
+“Anyway, I brought you a present,” he grinned, his mood flipping back to his more typical cheerful self, and he dumped a pile of dead bats on the floor, retrieved from his ring’s storage enchantment.
+
+“You sure know how to cheer a girl up,” Ali laughed. “I was all depressed because I could only find seven of them down here.” She hadn’t expected him to be so thorough or quick with her request, but he had gone above and beyond – the pile looked to have about twenty Cave Bats with levels ranging from five to fifteen.
+
+Hopping happily to her feet, Ali began to deconstruct the grim pile.
+
+Imprint: Bat completed.
+
+“Yay!” she exclaimed, “I got it!”
+
+She selected the potato imprint chapter and replaced it with the bats.
+
+With rising excitement, she created a level-five Cave Bat and a level-twenty-five Giant Bat. Slipping her awareness into the smaller creature’s mind, she looked around.
+
+“It has pretty decent vision,” she said.
+
+“That’s good,” Mato answered, leaning forward to take a look at her small monster flapping about in the air before them.
+
+A chorus of buzzing noises filled Ali’s ears, coming from the general vicinity of the Elder Tree, and it took her a few moments to realize the bat was hearing the normally inaudible wings of the moths and other insects that had flown in from the jungle, attracted to the density of the tree’s mana before she had blocked off the doorway with her barrier. She focused her attention and found that she could even hear Mato’s heartbeat from all the way over at the railing. “Its hearing is extraordinary,” she said. It was almost as sensitive as the slime’s senses, but definitely in the more familiar mode of hearing instead of the slimes’ far more alien touch-vibration sense.
+
+She switched to the Giant Bat, finding that its vision and hearing were quite a bit more acute, precise to a significantly larger distance. She instructed it to use its echolocation, and she heard a high-pitched series of clicks and screeches, only audible to her because she was using the bat’s ears. Instantly, everything lit up. She was hearing, but the spatial resolution of the sense was more like vision, seen as rapidly strobing snapshots timed to the clicks, but with vastly more resolution and range than her own eyes. She could literally hear shapes and textures and the accurate spatial position of everything in the room, down to the tiny buzzing moth wings and other insects flying about.
+
+“Ok, this is amazing…”
+
+With a little more experimentation, she learned that, in addition to the enhanced perception, the stun attack was also unique to the Giant Bat. The Cave Bats relied on biting, using sharp claws at the joints of their wings to cling and scratch.
+
+“Mato, these bats are awesome!” she gushed at him. “I can see sounds and hear shapes with my ears. Well, I’m probably just experiencing what the bat hears interpreted by its brain, but still. Actually, I wonder how it really works? I must do some research!”
+
+“Glad you like it,” he chuckled.
+
+She suddenly realized she must sound like an excited child with a new toy and blushed a little in embarrassment.
+
+Mato just smiled at her. “Here, take a break. Let’s have dinner,” he said, hopping to his feet and beginning to unload his pans from storage as the two of them began to share the details of their respective days.
+
+Calen thanked the healer and followed Lyeneru out of the doorway and into the light of the early afternoon.
+
+“What do you thi–” Lyeneru said, but Calen gasped and stumbled, not registering a word she said. He gawked like a country bumpkin on his first trip to the city, but he couldn’t help it. He stared in stupefaction at the incomprehensible scale of the wonderous vista that walloped his senses, the inevitable consequence of the mundane act of stepping through that wooden door.
+
+He found himself upon a branch dizzyingly high above the ground. It was so broad that several wagons could pass by side-by-side without anyone ever worrying about falling. All about him, vast Elder Ciradyl trees towered majestically overhead, so tall they boggled the mind and defeated the senses, with branches spreading wide enough they might cradle the entirety of Myrin’s Keep within the grasp of just a single tree.
+
+There were hundreds of them. As far as his eyes could see.
+
+“…uuuh…” he managed, but he barely noticed Lyeneru’s chuckle.
+
+Wood Elves dressed in every shade of the forest swarmed about with dignified but bustling energy as they went about their business upon the giant boughs, or across gently swaying rope-and-vine bridges and walkways that spanned the spaces between the trees, appearing as industrious ants in an enormous hive.
+
+But it was a city grown, not made, with the dwellings cultivated from natural outgrowths of the tree branches, or hanging structures fashioned from vines or epiphytic plants on a scale that dwarfed any city he had ever imagined, let alone seen. Darting through the mesh of interlaced branches in the canopy, Elves with flight skills flew side by side with the endless flocks of birds that seemed to make the city their home.
+
+“It’s something else, isn’t it?” Lyeneru said from beside him, her words finally breaking through his daze.
+
+“Uh… yes… errr… how?” he stammered, trying to locate his voice after he’d picked his jaw up from the floor, dusted it off and rammed it firmly back into place.
+
+“The human cities use earth mages and stone crafters to build their walls and houses, but the Wood Elves are often blessed with nature or plant magic. This,” she gestured to the vista, “is the result of that.”
+
+Calen had known about Ciradyl, of course – the Wood Elf capital, a legendary city that dated back to the Age of Enlightenment, named for the Elder Trees upon whose branches it nestled. But nothing he had ever read or even imagined could hold a candle to this.
+
+“Come, let’s go visit the guild and get you signed up,” Lyeneru said, tugging his arm a little to get him going. She led the way along the vast bough to a swinging walkway made from wooden slats suspended by grown vines that flowered prettily.
+
+Calen breathed and slowly began to notice his immediate surroundings.
+
+Most of the people of Ciradyl were the brown- or green-skinned Wood Elves, most dressed for the forest in ranger leathers or robes of shimmering green, but every now and then he noticed a fairer, silver-haired Sun Elf, or one of the dark northern Night Elves with their purple-black coloring – just like Lyeneru. But it was not her that was attracting attention.
+
+“Am I that unusual?” he asked, after yet another Elf glanced away the moment he noticed them staring.
+
+“Half-humans are rare here,” Lyeneru said. “The city is pretty progressive, but the other races are more common. Even humans are more common to find here. Most people will be polite, but it would be a lie to say you won’t receive some arrogance or animosity for not being a pure Elf.”
+
+Same as in the human cities, then. Calen lowered his gaze and assumed his normal, unassuming posture, much of his excitement and joy at seeing the fabled city with its magical trees fading.
+
+“Calen, may I offer some personal advice?” Lyeneru asked, making him almost stumble in surprise.
+
+“Um, sure?” he said, not quite knowing what to expect.
+
+“Wear your heritage as a badge of pride. Those who would misjudge you by your appearance will do so regardless of how you carry yourself. You have much to be proud of. Confidence in your abilities and friends will do you a lot more good in the long run.”
+
+“Uh…” he said, shifting uncomfortably.
+
+His disbelief must have shown on his face because she continued. “I’m serious. You took on a Death Knight almost five times your level by yourself and lasted forty-five seconds. You have every right to be proud.”
+
+“You mean I ran away from it like a scared rabbit for forty-five seconds?” he said. He glanced down at his bare foot. He had also lost his leg to that monster’s deadly ice magic and cowered in the face of its oppressive fear. If Lyeneru hadn’t been there to save him, he would have been crushed like a bug.
+
+“Rabbits don’t shoot back,” she calmly retorted. “Without your distraction, I wouldn’t have had the opportunity to regain stealth and the battle would have ended in a stalemate like it has every time before. You contributed to ridding the world of a terrible monster.”
+
+That’s… true. Despite his dismissal of her compliment, Lyeneru’s praise cheered him up, and he lifted his head as he continued to follow her. One evil monster was slain today. Even if my contribution was tiny, it was important. “It’s hard to look confident with only one boot, though,” he offered, wriggling his toes.
+
+“The guild has an equipment shop,” Lyeneru said, chuckling at his discomfort.
+
+As he followed across a wooden walkway suspended between two of the giant trees, his eyes were suddenly drawn to a vast pillar of shifting blue light emerging between two distant trunks. Far below, nestled between the giant roots, lay a pool of crystal-clear blue water, deeper than even his eyes could perceive, ringed by rune-inscribed stone. Within the column of light, thousands of white or blue wisps flitted, soaring, dancing, swooping, and vanishing, only to reappear somewhere else within the soothing otherworldly illumination.
+
+He was startled out of his wonder by the sound of his chime.
+
+Explorer has reached level 26.
+
+“The Well of Souls,” Lyeneru identified it for him. He had been entirely unaware of stopping to stare at the sight.
+
+“It’s beautiful.” It surprised him a little that his Explorer skill had not reacted to the entirety of the vast new city of Ciradyl, but leveled just from seeing the Well of Souls.
+
+“It’s an artifact from a previous age, cared for by the Temple of Lunaré. It was said to be one of three Great Wells for which each of the Elven kingdoms served as custodians. The Well of Eternity was said to be within the fabled Night Elf city of Mi’ir Valdanis. The Sun Elf City of Light, Aalion, was built around the Well of Divinity. But greed for its power was what spawned the Necromancer Wars and shattered the continent. Aalion is no more, and Mi’ir Valdanis was lost to the mists of time.
+
+“How did the Wood Elves make it?”
+
+Lyeneru chuckled, “They didn’t make it. Its origins are lost in myth and legend. Some scholars believe it dates back to the Age of Gods and Demons. Some agree with the Troll Seekers, believing that it was created by the ancient Troll Sages and that it was the magic of the wells that caused the Elves to spawn from the race of Trolls. Most Elves despise the idea that they descended from the Trolls, obviously. What we do know is that the magic of the well is the reason for these giant trees and that Ciradyl was founded here to protect the Well. And in return, the Well of Souls protects Ciradyl.”
+
+“That’s incredible,” Calen breathed. That the well predated the oldest Elven city still in existence simply blew his mind. No wonder Explorer reacted.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

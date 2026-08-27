@@ -1,0 +1,331 @@
+---
+id: 8da6ebe3-d458-5cb6-9843-a34b97473be6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 182: Timber Wolves"
+slug: 0185-chapter-182-timber-wolves
+partOf: dungeon-of-knowledge-complete
+position: 185
+ownLength: 6515
+unit: words
+ownProgress: 6515
+publishedAt: 2025-01-12
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2005783/chapter-182-timber-wolves"
+royalRoadId: "2005783"
+markedReadAt: "2026-06-29T20:17:20.678Z"
+---
+
+“So, what do you all want to do?” Ali asked, hovering by the stairs as Mato shoved the heavy Adventurers Guild doors open. A delicious aroma wafted over from the food cart parked beside the guild and Ali waved at Sabri and Brena who were chatting amiably together. But her stomach tied itself into a knot when she caught sight of what they were served – roasted black and green sticks that looked suspiciously like Tunnel Weaver legs. The obvious relish with which they tucked in, and the gruesome crunching noises didn’t help settle her stomach in the slightest.
+
+“I’m going to leave you here,” Malika said. “I want to go talk to Morwynne about these essences and see if she can craft us a new potion to unlock the Rune of Inferno.”
+
+“Ok,” Ali said, grateful for the distraction.
+
+“Me too,” Mato added. “I have a batch of fire flowers for Eliyen and Basil, and then I want to visit Thuli for some maintenance on my armor.”
+
+“Don’t forget to get the job for those flowers from the board,” Calen reminded him.
+
+“Got it already,” Mato said, waving a big hand. “See you later!”
+
+Ali waved as Mato and Malika headed off and headed indoors with Calen, a little bummed that all her friends had things to do, and hers would require waiting. At least it was important work – they needed a steady supply of elixirs to ward off the ridiculous fire damage.
+
+“Ok, see you in an hour,” Calen said and darted off toward the stairs and the raid strategy class he was scheduled to run.
+
+“Bye,” Ali said, making her way over to the reception desk. She probably wouldn’t have even left the library, but for the fact that the Guildmaster had asked her to stop by and discuss details for another, smaller group she wanted to send to the shrine.
+
+“Is Vivian available?” Ali asked.
+
+“She’s waiting for you in her office,” Mieriel said, glancing up from her work momentarily.
+
+She seems preoccupied. I wonder what’s going on?
+
+“Thanks,” Ali said and headed off to her meeting.
+
+***
+
+Ali plopped herself down on a couch in the guild hall. It was getting much more crowded now, just as Vivian had observed, with many new faces. It really is growing. To her surprise, Vivian had credited Malika with much of the guild’s new success in recruiting – and her own performance at the Town Council meeting, and as she surveyed the gathered novices and recruits, Ali could see what the Guildmaster had meant. It wasn’t all of them, but many of the newest members were obviously from the poorer parts of town, just gauging from their appearances and the lack of new clothing.
+
+Even among the adventurers with classes, the armor and weapons seemed scuffed and worn, hand-me-downs from those who had outgrown them, or items that had been bought and resold through the guild store several times. Well used.
+
+Her meeting with the Guildmaster had gone smoothly – it hadn’t taken too long, and now Ali found herself with nothing to do until her friends returned. There was nothing of particular interest on the jobs board – or at least, nothing she hadn’t already seen several times.
+
+Havok seemed to be enjoying a drink with his teammates and gave her a toothy grin. Ali waved, but she didn’t feel like intruding. I wonder where Seth is. She had been hoping to check in with him, but she hadn’t seen him yet. Perhaps he was doing a solo job somewhere, he had mentioned liking to do that.
+
+Ali’s eyes dropped to the coffee table; her gaze caught by the sight of something she had not expected – a book. Curious, she reached over and picked it up, quirking an eyebrow at the roughly penned title ‘Dungeon Manual’.
+
+She flipped it open to the first page and was greeted by an extended Identify, painstakingly copied down in the neat, compact handwriting of someone with a writing or calligraphy skill. Following the identification details was what seemed to be a detailed strategy guide.
+
+Toxic Slime – Ooze – level 5Category: Dungeon BossThreat Level: GroupMonster Type: OozeDamage: Physical, PoisonRespawn: 4 hours. First Kill: Belmar’s Team.The Toxic Slime boss is exceptionally difficult to avoid, even for those with good stealth skills, and substantially tougher than all the regular slimes in the sewer. Recommend tanking it between the wall and the water channel, giving enough room for the whole group to set up behind the boss. The tank should have anti-venom or antidote potions unless the team has a cure poison spell. At least one full-time healer is recommended because the boss will occasionally strike randomly and hit the melee damage classes. Loot: There are several decent low-level daggers, swords, and some arrows strewn around the chamber which all respawn with the boss.
+
+Ali’s eyebrows arched in surprise. That’s my Toxic Slime boss! She flipped the page, only to find another, even more detailed description of her Tunnel Weaver boss. There were a few things that were not quite accurate, but the description seemed to be quite well written. The first kill credit was attributed to Brena’s team.
+
+The Kobold Warrior boss was next, listed as a raid boss, with two pages of detailed strategy written out. Aiden and Teagan’s group were listed together as having achieved the first kill.
+
+I didn’t realize they were so competitive.
+
+Ali turned the page, discovering that her Forest Guardian was listed next. There were a few ideas for strategy listed, but they were presented more as ideas or observations than a coherent strategy. First kill credit was given to ‘Rezan’s Disciples.’
+
+Whoever wrote this manual must not have had enough experience to formulate a plan. Perhaps they had not even seen the fight – the information had the feel of a collection of hearsay observations.
+
+Ali turned the page, and her breath caught in her throat.
+
+??? – Eldritch Tome – level ?Category: Dungeon BossThreat Level: Unknown.Monster Type: Eldritch TomeDamage: Unknown.Respawn: Unknown.Nothing is currently known about this boss, other than it appears to be a book. It was observed driving an assassin into the Forest Guardian boss before vanishing. Identify appears to be glitched on this monster, showing an unidentifiable single mark. Assumed very dangerous. Do not engage.
+
+Clarence?
+
+Some of the guild adventurers must have seen Clarence at some point. It was the only explanation that made sense – but what had he been doing there? And why the mention of the assassin? She recalled a kill notification from her Forest Guardian related to some assassin, but she hadn’t known Clarence had been the instigator.
+
+They think he’s a boss. Ali chuckled to herself. It made some sort of sense though, not even she could identify the Eldritch Tome’s level. It feels so odd to have a manual written about me.
+
+The rest of the dungeon manual had several incomplete but relatively detailed maps of the Forest Cavern and the sewer, depicting the locations of the bosses along with discussions about how to handle Ali’s other monsters and which mushrooms and plants were worth harvesting.
+
+She put the book back on the table and let the babble in the room wash over her. Then, on a whim, she summoned her Grimoire and copied the dungeon manual, storing it in her ring to give to Ryn later. It might be fun to have the manual in her library.
+
+“Hi Ali, what’s that?” Calen said, approaching and sitting beside her, his eyes shifting curiously to the book.
+
+“It’s a dungeon manual,” she answered, amused by his expression of surprise as he opened the manual and saw what was inside.
+
+“This is your dungeon?” he asked, frowning at the map of the sewer, while tilting the book sideways.
+
+“Yup.” Her dungeon was important enough, at least to a few people, that they had compiled a strategy guide for fighting it. It gave her an odd feeling of accomplishment. She would definitely have to resist the urge to meddle with the layout and monsters just to irk the writers of such manuals, she reflected. Mischief definitely called to her…
+
+At least for the training areas, she amended. Keeping her most important protectors unpredictable seemed like a smart strategy.
+
+“Ali, Mato and I are going to help the bronze adventurers do some scouting,” he said, replacing the book. “They caught sight of one of the Blighted Patchwork Horrors near the southern road and it’s blocking their quest to decontaminate it.”
+
+“Can they kill it?” she asked, surprised that Calen and Mato would offer to join in.
+
+“No, they’re all around sixteen and seventeen at this point, and the abomination spreading the blight is probably close to forty, it’s a bit too much even for a group,” Calen said.
+
+“Do you want me to get Malika, and we all go?” Ali asked. While she recalled tackling some bosses at a severe level disadvantage, she knew even they had never attempted something that extreme. And, according to what Seth had said, those horrors had a deadly miasma.
+
+“If you want to, but I don’t think it will be necessary for all of us to do it,” Calen answered, and then he glanced back at the dungeon manual before continuing. “Both Teagan and Aiden brought up a bit of a problem during our strategy discussion meeting today. They’re all too low-level to clear the abominations, but not many of the other zombies in the forest are high enough level to give them decent experience. Killing the wolves in your dungeon has slowed a lot for them too. They didn’t outright ask – but I was thinking – do you have enough mana to make a few higher-level challenges for them while we’re out? If they could level to about twenty-five, they can probably tackle everything in the blighted forest on their own.”
+
+“Yes, I think so,” Ali answered, running through her menagerie of monsters mentally. She had just reached level fifty-nine, and they had been leveling really quickly down in the mines, but their progress was on the back of several substantial jumps that came from having a dungeon with bosses that were higher level than she was – and, most importantly, beatable with hard work, lots of crafter support, and planning.
+
+Boosting two groups of guild adventurers above the level twenty threshold would be an incredible boon for the town – even beyond the urgent quest to open the southern road and cleanse the blight and undead from the forest. Vivian had complained that many more difficult jobs had been cropping up recently, but Ali and her friends simply didn’t have the time to take most of them.
+
+I think I can afford to give them something to work on. And, as usual, it would serve double duty, defending her domain from incursions by random monsters, and even assassins. She had the perception enhancement, and several rather exciting ideas already.
+
+I really need to go monster hunting soon, she thought. She had some great domain skills now, but she lacked higher level monsters, bigger monsters, flying monsters, and monsters with interesting affinities or useful skills to bolster to her repertoire. How do regular dungeons deal with this? If she were the type to just hunker down and wait for them to come to her, she would be limited to zombies, skeletons, kobolds, and perhaps a Toxic Slime.
+
+***
+
+“Come on, Clarence,” she said, trying to cajole the book to let her open it. It was being difficult again, bouncing around the table – playful, but not particularly cooperative. “I want to read the section on mana efficiency before I go create a boss.”
+
+At that the book finally stopped bouncing around and turned toward her for a moment, with what Ali could swear was a curious glance. It’s a book, it doesn’t even have eyes! Then it scooted up to where she had been trying to drag it and popped open to the exact chapter. A broad red silk bookmark stitched into its spine popped out and laid itself down the gutter margins between the two open pages.
+
+“Why, thank you for the fancy welcome,” Ali said, a little exasperated with the book, but she couldn’t very well ignore that it had finally understood her and would presumably allow her to read. She glanced about, but nobody was around to see her arguing with a book, so she settled in and slipped into her study trance, beginning to read the dense and heavily technical text.
+
+The lights and the ambient space of the library slowly crept back into her awareness as she surfaced from the depths of her studies. She massaged her temples and the back of her neck, a futile attempt to ease the headache she had earned from her efforts to understand her mother’s work. Her left wing prickled with pins and needles – somehow having gotten squished up between her and the chair back while she studied. Nearly all her free mana had been gobbled up by Sage of Learning, and even with the bonus from being in the library, she still felt she was barely scratching the surface of what was written in this chapter. But it had given her a few ideas and she was eager to try them out.
+
+“Would you like some tea, Aliandra?” Lira said, manifesting her body from within the thick branch of the library tree.
+
+“No thanks,” Ali said. “I’m going to go out and try to make another boss.”
+
+“Ok dear, have fun,” she said.
+
+Ali scooped up Clarence and hopped onto her barrier and began to fly up and out of the library, but the unruly book writhed and wriggled in her grasp until it slipped out of her hands and fell. But it didn’t fall very far, and immediately banked around and flew circles around her as she levitated upward and into Lira’s Forest.
+
+“Ok, I guess you don’t want to be carried,” she said, but the book dutifully followed along as she made her way through into the forest cavern, flying over the Grove with the patrolling Forest Guardian, and across the glowing blue lake until she finally reached the ravine that she had fashioned to funnel any zombies entering from outside. Littered about were several zombie corpses, a few broken bamboo crawlers, and a couple of wolf corpses that her trash collector Kobolds hadn’t cleaned up yet. It seemed like this area was a constant battleground of zombie and skeleton incursions, and she had an idea to solve several problems with one new boss.
+
+First up, she summoned a level twenty-six Timber Wolf, studying the mana flow used to create it while trying to apply some of what she had learned from her mother’s book. She wasn’t quite sure if she succeeded at improving her mana efficiency at all, but the Timber Wolf appeared – taller at the shoulder than she was, with a shaggy black coat and gleaming intelligence in its green eyes.
+
+Domain Respawn applied to Timber Wolf.Raid Domain Enhancement applied to Timber Wolf.
+
+The Timber Wolf filled with a rush of mana, growing substantially in size and physical power with just the infusion from her domain. She planned to create a sentinel that could defend against most of the incursions that entered via this path and provide a barrier against assassins and stealth. At the same time, it should serve as an early warning system and be a reasonable challenge for the guild adventurers. Timber Wolves had great tracking, a potent sense of smell, and pretty good eyesight, so they would be able to easily find their prey. All she had to do was give it a bit of a boost.
+
+Attribute Enhancement (Perception) applied.
+
+For her second Domain Magic, she decided that a pack monster would best be suited by having several like-minded minions.
+
+Select or create minions: 104 levels remaining.
+
+She opened her Grimoire and created a pack of wolves for her newest boss, again studying the magic continuously and trying to make it more and more efficient by following some of the theories she had just studied, struggling a little to translate from the abstract into practical application. This time, she was certain that a couple of her summons cost a few points less than she had expected – at least the initial cost.
+
+Timber Wolf – Wolf – level 17-25 x5
+
+Minions assigned.
+
+The magic formations swirled and built as she completed each step. Each time she updated and adjusted the formations, excited to be making even a little progress applying the principles from the book. She felt like she was doing something, but whether it would have a worthwhile effect on her mana usage remained to be seen. Even just a little mana saved is something.
+
+For her final Domain Magic, her boss needed to provide a substantial challenge for the bronze-ranked adventurers – if they were to grow, at least. And she had just the thing for that.
+
+Clone applied.Domain Enhancement complete.Your reserved mana has increased by +714.
+
+She frowned at the reservation notification – it was exactly the predicted value, and it seemed that none of her tweaks and adjustments had had any noticeable effect on the reserved cost. I guess there’s much more I need to learn. She could afford it now that she had leveled up, but it would put her back in the same place as before – struggling for mana all the time.
+
+But she’s beautiful, she thought, looking at her powerful new boss, presiding over her pack. The Timber Wolf sat down on her haunches and howled, and the mana of her domain answered, surging through the monster like a torrent. Ali instantly recognized the ability from the formation, even though it was her domain this time and not the fire mana of the Emberforge Mines. There was a giant flash, and a second Timber Wolf appeared, followed immediately by an entire pack of its minions.
+
+She cloned herself, and her minions! Phew! While Ali certainly recognized the formations of magic from the battle against the cloned Living Flames, she had never actually seen the spell in action, and it was another thing altogether. There was a vast gathering of mana in forms recognizable as related to her own Grimoire’s summoning magic. She had not exactly been certain about the minions, but it seemed her cloned boss cloned all its attributes, including the wolf pack she had created for it. Clarence darted out of the way, swooping above the pack she was suddenly surrounded by a crowd of ten powerful Timber Wolves.
+
+But then the cloned Timber Wolf sat and howled, and the domain reacted a second time, surging with the vast summoning magic. Ali stepped back, and suddenly there were three bosses and fifteen lesser Timber Wolf minions.
+
+Oh wow! While she had expected the raid version of the spell to make three copies instead of only the two – it was in the description of her Clone domain magic after all – seeing it in action was quite breathtaking.
+
+Hmm, this might be a little hard, she thought, studying her new creation with a frown creasing her brow. It was becoming a habit for her – making bosses that seemed too strong and required her to run off to warn the guild before someone got seriously hurt. I wish I had the mana for a lower-level one, she thought. A bit of a ramp-up might be smoother.
+
+It was a tough trade-off to make, but the wolves would certainly present a much more reliable defense of the lower entrance into the dungeon. She spent a while clearing out the area, forming a broad open depression in the rock wall for the wolves to use as a den, and then boosted the static defenses around the dungeon entrance by laying several powerful Arcane Blast runic circles, careful to keep the level of the traps approximately the same as the boss itself – strong enough to be effective against the intruding zombies, but not high enough to instant-kill a bronze-ranked adventurer. Unless they are idiots with their attributes. It was a delicate balancing act that she was certain most dungeons did not even put any thought into, and yet she felt the powerful satisfaction at the thought that she had found a way to use her feared class to help her friends at the guild grow stronger. Once they conquered this boss, and added a new first to the dungeon manual, they should be strong enough to manage the undead abominations without help.
+
+“Needs a little… more, don’t you think?” Ali asked. Clarence bobbed up and down and swooped around a few times in response. “Some trees. Obviously.” Wielding her Grimoire like a weapon of mass summoning, she grew a grove of apple trees. Nearby she planted another, this time cherry trees, mostly because she loved the pretty blossoms, but they would serve as excellent cover for the wolves during a fight. She filled the back of the den, hidden among the rocks, with an assortment of Brown Stonecap mushrooms, and out among the trees she grew several patches of Mystic Bluebells, enjoying the act of beautifying the area with the pretty blue flowers – they shimmered creating quite an eye-catching effect, nestled among the trees.
+
+I hope Basil likes this. Humming a happy tune to herself, she wove in several patches of Malika’s Peacebloom flowers, adding a simple white accent to the blue. And then finally, she created a small sliver of nature affinity magicite and put it in the den. At about the size of her pinky finger, it would likely be enough for two or three wands if sold to the Novaspark Academy artisans. It was a matter of a few seconds to imbue everything with her automatic respawn enchantment. That should be more than enough incentive, she decided. Just the magicite should encourage the adventurers to try their skills against the boss, but there were plenty of things for the herbalists to collect after defeating the wolves.
+
+She had no idea how they were going to fight so many wolves with their racial benefits to pack tactics, but she trusted the bronze-ranked adventurers were experienced enough now that they wouldn’t attempt it without a solid plan or at least an escape route. My Kobold boss should have ensured that.
+
+I wonder what they’ll write in their manual, she thought when her notification suddenly chimed. Oh, what’s this?
+
+Grimoire of Summoning has reached level 32.Domain Mastery has reached level 25 (+2).Requirements met for skill advancement.Mentor: Clarence.Domain Mastery has reached at least level 25.Intelligence has reached at least 250.Synergy: Arcane Recall has reached at least level 10.Has made at least five bosses.Has made at least three raid bosses.Has reached 80% mana reserved for minions. Has studied advanced theory of magical efficiency.Has learned at least 10 Domain Magic spells.Has more than 100 minions supported by the Domain.Domain Mastery gains Mana Efficiency.(The mana reserved for domain-enhanced monsters is reduced by 3% per skill level.)Domain Mastery – level 25You can manipulate the structure and mana of your domain. All your magic within your domain is empowered by the domain itself. The mana reserved for domain-enhanced monsters is reduced by 53.3% [3% reduction per skill level].Mana: Adjust the shape and composition of any non-living material that is part of your domain. Range: Domain.Mana: Permanently attach anything you have made to your domain. Its mana signature is imprinted onto the domain allowing it to be automatically respawned when killed or destroyed. Domain-attached minions may not leave the area of attachment and may be further enhanced with Domain Magic. Range: Touch.Enhancements: Domain, Boss, Raid.Nature, Arcane, Mastery, Domain, Intelligence Accept this advancement?
+
+Ali did not hesitate, immediately accepting the advancement. Not only was it her first mentor-influenced skill advancement, but she had studied specifically for something – anything – like this to relieve the pressure on the vast mana reservation cost to defend her domain. Although she hadn’t expected it to be quite so impressive. The instant she accepted the advancement, she felt the enormous amount of mana she had reserved to maintain her dungeon defenses halve. While it did not affect her Empowered Summoner reservation, nor the personal guard and the army she had created for exploring the Emberforge Mines, every single monster that had been domain enhanced with domain respawn suddenly received a drastic cost reduction – and the biggest among them were her bosses.
+
+Maybe I can afford a few more! Yay!
+
+Suddenly, the odd – make that downright suspicious – convenience of the advancement struck her afresh and she glanced accusingly at Clarence. The book bobbed innocently along, apparently examining one of Malika’s favorite peacebloom flowers.
+
+“Oh, is that so?” she whispered.
+
+Just how intelligent was Clarence? And what other secrets might her mom have hidden within those pages?
+
+Malika was about to bypass the food cart right outside the Adventurers Guild, after all, she had seen the spider legs Tabitha had been serving, but the delicious smell of roasting boar meat made her stomach growl.
+
+“Boar?” she asked.
+
+“Aye, it is,” the old woman said. “With some new spices that Mato bought in the market. Nice boy, that one.”
+
+“This isn’t the chef’s special, is it?” Malika asked, eyeing the sizzling skewers skeptically.
+
+“Nope,” Tabitha answered, with a wicked grin. “You’re safe, this time!”
+
+Malika didn’t bother haggling and handed over a few coins in exchange for two skewers. Not quite trusting the old crone, she sniffed at it and then bit tentatively. She let out a quiet moan as the exquisite blend of aromatic spices and succulent meat juice burst across her taste buds.
+
+“Good, right?”
+
+“Oh, yes! Thank you!” Malika dropped a few extra copper pieces into the tip jar and headed across the way to Morwynne’s Pretty Powerful Potions store, devouring her breakfast before she got even halfway there.
+
+She had decided to hold on to all of the Essences of Inferno for now, but she had unloaded most of the other essences to Weldin, almost causing a riot among the crafters lined up and waiting at the guild store. Malika was half convinced some of them were camping in the guild hall just waiting for her to show up.
+
+Apart from the terror of the Elemental Storm, Malika had rather enjoyed the fight against the giant elemental Inferno. But anything that did fire damage had suddenly become something of a sweet spot for her, due to her now-ridiculous magical defenses. If she couldn’t outright dodge the damage, her Soul Armor, hairpin, and the elixirs would cut it in half. So nice.
+
+It didn’t hurt that she had been rewarded well for the difficult fight. Ali’s class level had pulled ahead during her convalescence in Kezda, and Malika was happy for her. But she never wanted to feel like she was holding the team back, and so she had been excited to see that her contribution to the fight – presumably because she was lower-level – had been worth five levels rather than the four Ali had earned.
+
+Soul Monk has reached level 53 (+5).+50 attribute points.
+
+Hmm… Fifty points could make a huge difference the next time they attempted the mines. With her advancement to Soul Armor, wisdom now served as a direct way to boost her resistances, so she started by allocating ten points there. She followed that with ten points in endurance, and sixteen for dexterity. With her primary attributes taken care of, she added six into vitality – essential now that she was tanking more. Five points went to perception to enhance her Soul Sight. The Nine Paths of Ahn Khen had confirmed Rezan’s advice, so she spent her remaining three points boosting her strength attribute. Yes. That should do it. She read on.
+
+Martial Artist has reached level 27.Soul Strike has reached level 33 (+4).Healing Mantra has reached level 33.Perfect Body has reached level 20.Soul Armor has reached level 26.Second Wind has reached level 16 (+2).Clarity has reached level 13.Soul Sight has reached level 12 (+2).
+
+She had almost exclusively used Soul Strike’s mana drain ability, and it had clearly had such an impact on the fight that it had leveled four times. But then she took in the next line and her heart skipped a little faster. Yes!
+
+Requirements met for skill advancement. Inheritor of an awakened Ahn Khen bloodline.Mentor: Rezan Jin.Healing Mantra has surpassed level 30.Synergy: Clarity has surpassed level 10.Heal your allies through a fight lasting more than 30 minutes. Healing Mantra gains A Touch of Clarity.(Your healing grants your target Clarity for [skill / 2] seconds.)Mentor: Rezan Jin.Healing Mantra has surpassed level 30.Synergy: Enlightened Evasion has surpassed level 20.Heal your allies through a fight lasting more than 30 minutes. Healing Mantra gains A Breath of Enlightenment.(Your healing grants your target Enlightened Evasion for [skill / 3] seconds.)Choose one advancement.
+
+Wow, not bad! She studied her advancements carefully. Her options seemed similar – an enhancement to Healing Mantra that would grant a temporary buff to the recipient. The second option – A Breath of Enlightenment – seemed clearly superior, at least for combat. A little more than ten seconds of enhanced evasion would be quite a nice boon – especially for a tank, giving them much-needed breathing space.
+
+But… Clarity has a bloodline synergy. Rezan had explained a lot of things about developing her bloodline while she studied alongside Basir and Hala; among the many approaches, choosing bloodline synergies whenever offered was considered to be a highly effective way to develop the overall bloodline’s power, and something she couldn’t afford to ignore. It’ll be nice for Mato, she thought. He often runs out of mana when he tanks during long fights. Not as good as the dodge bonus, but it would help him maintain his healing spell. Clarity did have the additional benefit of being useful for non-tanks, so it had wider utility.
+
+She pursed her lips, mulling over the options. A strong tanking buff, or a more versatile utility buff? In the end, it was Rezan’s advice about cultivating her bloodline that tipped the balance in favor of A Touch of Clarity.
+
+She accepted the advancement, and immediately pulsed her Healing Mantra on herself. To her surprise, nothing happened. She glanced at the skill description, but nothing seemed amiss.
+
+Healing Mantra – level 33Mana: The connection between your body and soul is strong. Instantly regenerate mortal wounds and restore health to anyone you touch. Your healing grants your target Clarity for 16.5 [skill / 2] seconds. Range: Touch.Soul, Melee, Healing, Wisdom
+
+She puzzled over the conundrum for a bit, but then she had an idea. Retrieving an Essence of Inferno from her ring, she held it cupped in her palm for a few moments while her skin began to blister and burn. After she was down several health points, she healed herself again.
+
+You have gained Clarity.The path to restoring your energy begins with a calm mind. +235% to mana and stamina regeneration.Buff – Duration: 16.5 seconds.
+
+Sweet, she thought. Her new advancement worked on herself, and with a quick check, she verified that she was effectively doubling the bonus to regeneration she received from her Clarity skill. It was as if she had sat to meditate. But it requires actual healing. Casting the spell on someone at full health doesn’t work. The implication was clear – likely it would be less useful to Ali or Calen because, in a well-controlled fight, they shouldn’t be taking any damage. But for herself and Mato, it would be a completely different story. Although, down in the mines, everyone was taking damage all the time, so it was a moot point.
+
+She stopped studying her skills as she approached Pretty Powerful Potions. This had been the place she had first truly experienced how different her life could be with her class – the day she and Ali had killed her tormenters, Adrik and Edrik, and saved Morwynne Fizzlebang’s life. It was hard to put them into context – at the time they had been unassailably powerful at level twenty-three.
+
+I just reached fifty-three. The difference in her power was not even comparable.
+
+Malika pushed open the door and entered Pretty Powerful Potions and instantly threw up her hands and caught several flying shards of glass as she was welcomed by an explosion instead of the normal door chime.
+
+“Sorry!” Morwynne yelled as she untangled herself from a fallen stool and some unidentifiable apparatus of tubes and valves that had landed on top of the eccentric Gnome. She swore a few times while standing up and brushing herself off, but it sounded casual, like she was doing it more out of habit than anything else.
+
+“Well, I guess that didn’t work…” Morwynne turned to Malika, “How can I help you today?”
+
+Malika answered by pulling out an Essence of Inferno, balancing the intense flame on her hand while she healed herself against the moderate damage it was causing.
+
+You have gained Clarity.
+
+That’s not going to get old, she thought as her regeneration accelerated.
+
+Even through the dark, bronze-rimmed goggles Morwynne was wearing, Malika could see her eyes growing round with surprise. She said one fancy-sounding word in a language Malika didn’t understand. Elvish maybe? Ali had a theory that the Gnome liked swearing in multiple languages, and she even had a rather complex and sophisticated table for what mood matched which language.
+
+Morwynne ran over to examine the essence. “My goodness, there’s a thing!”
+
+“You said you would be interested in any other puzzles like the quenching potion you made,” Malika started, but Morwynne didn’t let her finish.
+
+“Of course, I will make one with this!” Morwynne was literally dancing on tiptoes. “Do you have any of those ice essences left?”
+
+Malika retrieved one and handed both the essences to the pink-haired Gnome. I hope she doesn’t blow this one up.
+
+Morwynne went over to tinker with a small device on a desk. “Do you think you can pop over to the Adventurers Guild and ask Serendipity Puddlecrash to come over for a few minutes while I set things up here? I’ll need her water magic for this.”
+
+“Should I come back later?” Malika asked.
+
+“No need, it will take twenty minutes to make, tops. Last time I needed a day because I had to track down that silly engineer to dismantle the gear. He’s a bit of a recluse, so he was hard to find.” While she babbled on, she pulled beakers and vials off shelves and out of cupboards with a frenzied energy. Malika was rather surprised to see how athletic she was; she quite happily leapt up onto the desk to find an ingredient that was high up on a shelf.
+
+Flickers of strange light shone from her enchanted goggles while she worked, and Malika was surprised to see her even using a few stamina-based skills, the white wisps of energy flickering and shifting in fascinating patterns within her body. Crafter skills were unlike any combat skill she had ever observed with her Soul Sight, and she wondered exactly what it might be. Something protective, she decided, because the loud, soot-covered Gnome was handling the Essence of Inferno without any apparent damage.
+
+Makes sense, she thought, recalling how many times she had seen Morwynne in the heart of an explosion, yet without injury. She left the busy Gnome to her tinkering and ran back to the Adventurers Guild to invite the cheerful, and now very much excited Water Mage to join them.
+
+The door chime sounded this time as she re-entered the Alchemist’s laboratory with the blonde Gnome wearing stylish robes – Lydia’s work, if Malika was guessing correctly.
+
+“Aah, there you are, Seri,” Morwynne said. “Come over here and help me with this, the same as last time, but maybe with a bit more… oomph? Bang? Pop?” Each statement was punctuated with progressively more expansive hand gestures.
+
+Malika certainly hoped it was none of those sounds, they were all way too much like the normal explosions that graced this shop.
+
+Serendipity nodded and ran over to where Morwynne was doing something unreasonably complicated with three different colored beakers, a funnel, and a floating stone that bobbed in the air above whatever contraption she was using. The mage immediately channeled a delicate flow of water from a flask sitting on the side of the desk labeled as ‘Mana-purified water – DO NOT DRINK!’ The two of them began a rapid-fire dialog in some incomprehensible jargon, which Malika barely identified as still Common. She watched fascinated as the two of them conducted an intricate show, combining magic, items, potent essences, and mundane ingredients.
+
+“Don’t freeze it yet,” Morwynne instructed.
+
+“I can…”
+
+“Swirl the other way.”
+
+“Ok, now!” Serendipity gasped.
+
+“Got it.”
+
+“Why don’t you…”
+
+“Use the… thingy! NO! Not that one, the other thingy!”
+
+“Essence…”
+
+These were about the only things Malika understood as time flew by and an incomprehensible work of magic was wrought. Eventually, the two of them combined a self-pouring stream of water with a beaker encrusted with ice crystals and a clay pot that was glowing with heat into a single flask. The entire mixture boiled, froze, and swirled all at the same time while the Gnomes frantically adjusted flow rates and flames, and even turned the levitating stone a few times. Clockwise, because apparently, the other direction would be an unmitigated disaster of epic proportions.
+
+The beaker glowed a deep blue color, lighting the table and all the apparatus and within its center, a brilliant yellow-white flame appeared, stubbornly refusing to go out.
+
+“Yes!” Serendipity exclaimed.
+
+Morwynne said something distinctly less polite but with the same expression of triumph.
+
+“I leveled again,” Serendipity said.
+
+“Me too, kid,” Morwynne answered. “Awesome work!” She turned to Malika again. “Only ten gold this time, I didn’t have to pay that annoying Gnome. Engineers are so frustrating to work with – I swear he’s a changeling, no Gnome could ever be that obnoxious.”
+
+“You just don’t like that guy,” Serendipity said.
+
+“He’s a…” and she finished with about thirty seconds of what sounded like dwarves having a drunken brawl in a bar.
+
+Malika interrupted her with ready payment, and the swearing vanished instantly.
+
+“Here’s yours,” Morwynne said, handing the other Gnome half the coins.
+
+“That’s… too much, Morwynne.”
+
+Morwynne just cocked an eyebrow at her and waggled her finger, before turning back to Malika. “Thanks for your business! This was a fun project, we should definitely do it again!” Then she handed over the concoction the two of them had crafted. Malika took note of how carefully she was handling it.
+
+Distillate of Quenching – level 56 (Ice / Water / Fire)Apply: Quench a source of Inferno. Charges: 20Created by Morwynne Fizzlebang – “Do not shake!”Potion
+
+Excellent! Now we can see what’s behind the second door! Malika surprised herself with a spontaneous giggle. Wait, am I turning into Calen?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

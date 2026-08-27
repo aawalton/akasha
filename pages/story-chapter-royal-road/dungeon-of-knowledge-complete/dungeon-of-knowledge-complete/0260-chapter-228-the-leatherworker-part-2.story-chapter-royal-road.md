@@ -1,0 +1,173 @@
+---
+id: b5b257ab-07cd-52a7-81a8-1071dbdd1f67
+page-type-slug: story-chapter-royal-road
+title: "Chapter 228: The Leatherworker (Part 2)"
+slug: 0260-chapter-228-the-leatherworker-part-2
+partOf: dungeon-of-knowledge-complete
+position: 260
+ownLength: 2931
+unit: words
+ownProgress: 2931
+publishedAt: 2025-04-20
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2216955/chapter-228-the-leatherworker-part-2"
+royalRoadId: "2216955"
+markedReadAt: "2026-06-29T20:20:01.102Z"
+---
+
+“Don’t get dirty, Clarence,” Ali said absently as she summoned a barrier beneath the corpse of Kir’vella and levitated her into the air. The ground was still stained and muddy, but it was now clear of broken and crisped bodies, and if she avoided the biggest puddles, it looked safe to walk across and rejoin the camp. Kir’vella, the witch doctor, was the only remaining corpse except for the couple of Ghouls she had reserved for Seth to study, and there was something she was dying to know. Clarence zipped along beside her, making loops in the air – she had the ball, after all, what else was he going to do? “No. I told you I’m not going to throw it in all this mud.”
+
+“Zor’kan, do you know what these markings are?” Ali asked, lowering the corpse to the ground and indicating the intricate tattoos that covered much of the Troll’s leathery skin. Before her death, these markings had been flush with soul-affinity mana, glowing brightly to her senses, but now they were merely white decorations inscribed onto the dark blue of her skin.
+
+She had been studying the cryptic runes for half an hour, cross-referencing everything with Clarence but, so far, she had made absolutely no headway – other than a faithful copy of the entire work in her notebook to the best of her ability.
+
+“Soul Ink,” Zor’kan answered. “The witch doctors make ink imbued with their mana from the blood of Trolls or powerful monsters, or from the extracts and essences of magical plants, and then they inscribe the runes.”
+
+“But what does it do?” Ali was still remarkably frustrated by just how close she felt to understanding, and yet how far out of reach it still seemed.
+
+“They craft items out of mana and ink,” he answered.
+
+“Items?” She studied the dense and complex structure and suddenly received a new perspective. That’s an item? She flipped open her Grimoire and went straight to the armor imprint and compared. Aside from the incomprehensible runic language itself, the similarity was remarkable. “This is a body armor made from ink and mana?”
+
+“Yes,” Zor’kan answered.
+
+“How do I learn this language, and how to make the inks?” Ali was instantly absorbed in the idea. If she could use Runic Script to create items, she could unlock perhaps an infinite array of custom gear.
+
+“I know leatherworking,” Zor’kan said, wrinkling his nose and looking away. “This is the domain of the witch doctors.”
+
+Jealousy? Competition for his craft? Ali chose to ignore his sudden sulk. “All I need is a witch doctor to explain it to me?”
+
+“Yes, but they are either dead or servants of the dungeon.”
+
+Well, that’s not a problem for me, Ali thought, looking down at Kir’vella. She is number three, after all. She reached out a hand and deconstructed the body, triggering her Grimoire to manifest with an explosion of mana and runic magic.
+
+[Sage of Learning]Domain Magic analyzed: Mass Summoning.Domain Magic analyzed: Alternate Form.Domain Magic analyzed: Attribute Enhancement (Wisdom).
+
+Kir’vella’s body evaporated into rising clouds of mana, and Ali felt the knowledge coalesce in her mind, an all too familiar sense by now.
+
+Variant: Witchdoctor added to Imprint: Troll.
+
+Without delay, she summoned her newest Troll at maximum level.
+
+Witchdoctor – Troll – level 78 (Soul).Your reserved mana has increased by +585.
+
+Ali scanned through the new Troll’s skills while it glanced about the camp with quick, cunning eyes. She postponed a detailed analysis while she searched until she found what she had guessed must be part of the class makeup.
+
+There it is.
+
+Runic Soul Ink – level 28You are proficient with runic magic.Languages: Troll.Requirements: Imbued ink or paint.Mana: Paint a temporary soul blessing on an ally. Grants +5 [skill / 5] to any one attribute. Requires access to prepared ink or paint. Duration: 6 hours.Mana, Experience: Create a runic tattoo by inscribing the magical enchantments into the body and soul of your target. The runic tattoo takes a gear slot and requires the bearer to reserve mana, life, or stamina to maintain it, proportional to the number and level of the enchantments granted. Soul, Ink, Knowledge, Buff, Intelligence
+
+Her breath caught as she examined the strange skill, realizing now why so many of the Trolls had been painted or bore runic markings on their bodies. The witch doctors probably painted everyone in preparation for battle. Even the gear had garish designs covered with colorful paint.
+
+“Oh, you got the witch doctor!” Calen exclaimed, clapping his hands in delight. “Frogs! I predict many frogs!”
+
+“Good skills?” Malika asked. “Find what you were looking for?”
+
+“This is a little like my Runic Script skill,” Ali said, sharing the skill with her friends. The first option was a temporary buff that looked a lot like the Well-fed buff Mato could create with his cooking – the main difference being the required paint and the fact that the witch doctor could choose which attribute to buff. And if all the painted gear was anything to go by, the buff would work whether it was applied to skin or to anything worn.
+
+But it was the second ability that finally caused the pieces to settle in Ali’s mind – that had to be the skill for creating the complex runic tattoos Kir’mogan and Kir’vella had etched onto their bodies.
+
+This is incredible; it makes an item! It was just as Zor’kan had said – a strange blend between a runic magic skill and item creation. Kir’vella had inscribed a runic tattoo replacement for body armor, and Kir’mogan’s one seemed to replace a bracer or gauntlet.
+
+“It costs experience?” Calen asked.
+
+“Looks like it,” Ali said, studying the strange cost designation.
+
+“Yours? Or the witch doctor’s?” Calen asked. “How does that work with minions? Does her level drop?”
+
+“I… I have no idea.” This was most certainly something she would need to experiment with. Carefully. She had just deconstructed Kir’vella and so the actual tattoo reference was destroyed, but she pulled out her notebook and called her witch doctor over to sit by her.
+
+“What is this rune?” she asked, pointing at the page.
+
+“A soul magic rune, Seeker,” the Troll said, and then named it – a word Ali hadn’t heard before.
+
+“Write it for me,” she said, handing the notebook and pen to the witch doctor.
+
+“Yes, Seeker. I require a dagger.”
+
+“A dagger?” What did a dagger have to do with writing runic magic? But Ali didn’t question her, pulling out her Grimoire and channeling enough mana to create a high-quality Eimuuran steel dagger and handing it to the waiting Troll.
+
+“Thank you, Seeker,” the witch doctor said, and then dumped the ink out of the pen’s reservoir and abruptly stabbed herself through the center of her left palm with the gleaming dark steel blade.
+
+“What? Why did you do that?” Ali exclaimed, jolting backward to avoid getting splashed.
+
+“This ink will not carry mana,” the troll stated flatly as if it were a self-evident truth. Carefully, she curled her injured hand into a fist and squeezed drops of her own blood into the ink reservoir.
+
+“And your blood can?” Ali asked.
+
+“Yes, Seeker. Without proper ink, the blood of powerful monsters may be substituted instead.”
+
+The implied arrogance did not escape Ali’s notice, but she was immediately distracted as the witch doctor began inscribing the rune onto the page in her notebook, small flickers of soul-affinity mana flowing through the pen as she wrote, a method of mana imbuing bearing an uncanny similarity to what Ali did when she imbued her rune magic into electrum.
+
+Fascinating! Her mana began draining into Sage of Learning.
+
+***
+
+Their little camp was dark and quiet by the time Ali was done. Her troll witch doctor had re-inscribed every rune she had recorded – bone, blood, and soul, and in the process, she had updated Ali’s recording of Kir’mogan and Kir’vella’s personal enhancements, fixing many small errors she had made in the transcription of the formerly unintelligible runes.
+
+Your proficiency with the Troll language has improved.Runic Script gains the Troll language. Runic Script – level 36You are proficient with runic magic.Languages: Ancient Dal’mohran, Elvish, Dwarven, Troll.Mana: Inscribe a runic circle with your mana. Reserve: by level.Domain: Runic magic written within your domain may be supported by domain mana and will not decay.Arcane, Domain, Knowledge, Intelligence
+
+Ali took a deep breath and stretched the muscles of her neck, rewarded for her efforts with a few satisfying pops and clicks. Her understanding of the Troll language had dramatically improved from studying their runic writing. And now she could tell what Kir’vella and Kir’mogan had been using. She identified the runes on the page of her notebook.
+
+Kir’vella’s Soul Vestments – level 87Intricate runic tattoos adorn Kir’vella’s back and torso, flowing with active soul magic.Evasion: 730Resistance: 730+53 Wisdom+41 Intelligence+20 Dexterity+4 to skill level of Soul skills.Requirements: Wisdom 174, Dexterity 174Level Growth (This item’s level matches its wearer) Reserve: 384 [level x 4] mana.Created by Kir’vella.Body – Runic Tattoo
+
+It was a remarkable piece of magic; it held four enchantments, putting it solidly in the uncommon grade. The attribute increases were formations that Ali had studied a thousand times – encoded over and over again in her Grimoire. However, the canny witch doctor had fashioned an enchantment that had Ali’s eyes widening and her Sage of Learning growling with hunger – a bonus to all soul magic skills. The Runic Tattoo provided evasion and armor, just like a regular piece of body armor, although Ali could see how that had had to be explicitly crafted. And it seemed that the soul vestments required a constant reservation of mana just to maintain its structure.
+
+“That thing levels up like my bow,” Calen gasped when Ali shared it.
+
+“Without a cap,” Malika added.
+
+Ali paged back to the corrected inscription of Kir’mogan’s tattoos.
+
+Kir’mogan’s Bindings – level 81Intricate runic tattoos adorn Kir’mogan’s arms, running across the back of his hands all the way up to his shoulders, empowered by the dark gray of bone-affinity mana.+51 Strength+39 Dexterity+19 Endurance+2 to skill level of Bone skills.Requirements: Strength 284Level Growth (This item’s level matches its wearer) Reserve: 243 [level x 3] mana.Created by Kir’vella.Hands – Runic Tattoo
+
+Kir’mogan’s bindings took the place of gauntlets or bracers on his body, crafted with half the enchantment runes split symmetrically across each arm. The complexity of the runic magic was extreme, but not quite as involved as Kir’vella’s, and took a correspondingly smaller amount of mana to reserve.
+
+Wait… Ali checked the mana signature carefully. While she had not been able to record the full fidelity of the signature itself, she clearly recalled the soul magic that had been present on Kir’mogan’s bracer, and it was identical to the one on Kir’vella’s. Which means that Kir’vella created this binding. It was a subtle detail, but she had personally tried to have Calen supply the reservation to power one of her own runic circles written with light magic runes but had failed spectacularly in her endeavor. But Kir’mogan’s bindings were written in bone magic troll runes, supported by his bone-affinity mana, but inscribed by Kir’vella – a witch doctor with an affinity for soul magic.
+
+I need to get proper ink and study this, she thought. Perhaps Malika knows where I can get some made. Malika hadn’t practiced her Calligraphy in a while, but if anyone knew where to get ink made in Myrin’s Keep, it would be her.
+
+“Hey, Ali,” Calen said. He was sitting upright with his notebook on his lap, gazing at her intently.
+
+“What?” Did I forget something?
+
+“The runes are all good and such, but… is there anything in the status sheet that might help us fight the witch doctors better?” he asked. “You know… I’m not too partial to spending a whole battle as a frog.”
+
+“Oh, right,” Ali said, quickly popping into the awareness of her newest troll and sharing the entire status sheet with everyone. “Here you go.” She had skipped over it in her excitement to unravel the rune mystery, so she studied the skills now with far greater detail.
+
+Race: TrollActive Buffs: Ancestral Spirit RunesClass: Witchdoctor – level 78- Soul Drain – level 48Mana: Drain mana and health from up to 5 [1 + skill / 10] targets. You gain temporary maximum health and mana equal to the drain if you are full. Duration: 10 seconds. Recharge: 20 seconds.Soul, Bloodline, Ranged, Channeled, Intelligence- Spirit Walk – level 34Mana: Shift to the spirit realm. In this realm, you are immune to attacks from the normal realm. You regenerate 15% of your maximum mana over 45 seconds. Channeled. Soul, Movement, Wisdom- Hex – level 42Your curses ignore up to 20% of your target’s magical resistance.Mana: Remove a curse.Mana: Curse your foe with one of your known curses. You can have up to 5 [1 + skill / 10] curses active at one time. Recharge: 10 seconds.Known Curses: Spirit Banishment, Frog Hex (humanoids, beasts, demons).Soul, Curse, Ranged, Intelligence- Jar of Tricks – level 41You are proficient at throwing. Mana: Conjure an earthenware spirit jar that can be used to collect denizens from the spirit realm or hold a concoction of any kind. Recharge: 30 seconds. Soul, Ranged, Wisdom- Combat Potions – level 40 You are proficient in herbalism, having a broad knowledge of local herbs and plants, and how to use them to create explosive cocktails, poisons, and potions. The potency or effectiveness of Herbalism skills is increased by +40% [skill].Mana: Brew a potion that you know, given access to proper ingredients, equipment, and time. Requires focus and concentration.Mana: Instantly concoct a simple potion, given access to prepared ingredients. Recharge: 45 seconds.Soul, Herbalism, Wisdom- Ancestral Spirit Runes – level 44Mana: Invoke the blessing of the ancestral spirits with your own personal runic tattoo, inscribed with your mana. Your Dexterity, Intelligence, and Wisdom are increased by +131.6% [40 + skill + bloodline + base intelligence / 10]. Reserve: 20%Soul, Bloodline, Knowledge, Buff, Intelligence- Runic Soul Ink – level 28You are proficient with runic magic.Mana: Paint a temporary soul blessing on an ally. Grants +5 [skill / 5] to any one attribute. Requires access to prepared ink or paint. Duration: 6 hours.Mana, Experience: Create a runic tattoo by inscribing the magical enchantments into the body and soul of your target. The runic tattoo takes a gear slot and requires the bearer to reserve mana, life, or stamina to maintain it, proportional to the number and level of the enchantments granted. Soul, Ink, Knowledge, Buff, Intelligence- Spirit Magic – level 37You are a being that inhabits both the mundane and the spirit realms. Your magic can target either realm equally. Your resistance to magic gains +37% [skill].Soul, Defense, Mastery, Wisdom- Spirit Speaker – level 26Your knowledge of the spirits and the spirit world allows you to call on them for aid. Soul magic gains +26% [skill] spell power in the spirit realm.Mana: Attract spirit creatures to the area to haunt your enemies from the spirit realm. Range: 50 meters, Recharge: 1 minute.Mana: Consult with the spirit realm for information, using an appropriate ritual, ceremony, effigy, or doll. Information can be related to tracking, knowledge, scrying, or divinations, depending on the spirit consulted. Recharge: 1 day – 1 week.Soul, Divination, Knowledge, Wisdom- Ritual Infusion – level 21Mana or Health: Greatly increase the power and efficacy of an ally or something you create for a short period of time by infusing it with a donation of health or mana. Moderate chance of unpredictable side effects. Soul, Chaos, Buff, IntelligenceGeneral Skills- Identify – level 24- Herb Gathering – level 23- Brewing – level 23- Calligraphy – level 19- Painting – level 19Aptitudes- Language: Troll- Mana (Affinity): Soul- Troll Wisdom (Racial): +15 to Wisdom- Bloodline (Aman Rak): +30% to range and power of Bloodline skills- Regeneration (Racial): +600% health regeneration. Can regenerate mortal injuries. Fire - damage cannot be regenerated
+
+Attributes- Vitality: 136 (+29)- Strength: 68- Endurance: 77- Dexterity: 470 (+329)- Perception: 122- Intelligence: 407 (+231)- Wisdom: 597 (+423)Equipment- Head: Ancestral Bone Mask – level 65- Hands: Ancestral Spirit Beads – level 64+57% to mana regeneration.Health: 1360/1360Stamina: 770/770Mana: 4776/5970 (+1194 Reserved)
+
+Huh, how odd… Ali thought.
+
+“That’s crazy,” Malika said, echoing Ali’s instant impression of the witch doctor. “It doesn’t look like a good combat class. It has no defenses at all.”
+
+“How did they cause us so much grief then?” Mato asked.
+
+“It’s more like a utility and buff mage,” Calen said, biting the end of his pen in thought.
+
+“Hex is very strong, though,” Ali said, suddenly noticing the decursing advancement. “She can remove Frog Hex directly.” Not to mention all the crazy curses they had to contend with in the Emberforge Mines.
+
+“Well, that’s a relief,” Calen said, sighing with exaggerated theatrics.
+
+“It is very mobile, and the Spirit Realm is a powerful control tool,” Malika observed.
+
+“That’s true,” Ali mused. “Without the mushrooms, it could just pick off the team one at a time in the Spirit Realm.”
+
+“Hey, Ali,” Calen said. “Look at Spirit Magic – it gets a massive percentage boost to magical resistance, but it has no innate defenses. You might want to make some resistance armor to take advantage of that.”
+
+“Aah, good idea,” she said. “Also, that Spirit Drain and Ritual Infusion combination looks powerful, but it’s going to need a lot of testing.”
+
+“I’m game for figuring it out,” Calen said, perking up instantly.
+
+“Well, there’s a big surprise from Mr. Hoppity-hop,” Mato said, chuckling.
+
+“Oi!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

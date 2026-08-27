@@ -1,0 +1,273 @@
+---
+id: 7ff5300a-f2ea-52dd-b1bc-2f69a03dc155
+page-type-slug: story-chapter-royal-road
+title: "Chapter 164: Farming Fire Resistance"
+slug: 0167-chapter-164-farming-fire-resistance
+partOf: dungeon-of-knowledge-complete
+position: 167
+ownLength: 5082
+unit: words
+ownProgress: 5082
+publishedAt: 2024-12-01
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1933932/chapter-164-farming-fire-resistance"
+royalRoadId: "1933932"
+markedReadAt: "2026-06-29T20:16:40.581Z"
+---
+
+The well-oiled doors swung open, and Ali stepped into the guild hall, blinking a little in the relative dimness after the bright sunlight outside. She had recounted the terrifying experience of being at the mercy of whatever ominous spell infested Nathaniel Sunstrider and her narrow escape due to the inexplicable actions of her mother’s book. However, the Archmage had amassed a towering reputation, and it was challenging to accuse him of anything when all she had was a strangely disturbing visual from a realm that she wasn’t entirely certain was even real. Still, Lira promised to consult with a Troll sage she was certain still lived, and Ryn offered to use her skills to research information in Ciradyl’s vast library, leveraging the writ of access to the restricted section. At least they took her account seriously, and that had set her heart somewhat at ease.
+
+“So, what did you guys learn about fighting bosses yesterday?” Vivian said. She stood by the guild jobs board, addressing a crowd. Almost the entire guild was seated in the hall, either on the couches or on the floor, listening to her – and for the first time, the room was full. All the familiar faces were there; the regular ranked members, and many of the novices who had earned their classes yesterday – but there were also quite a few unfamiliar faces identifying as classless and carrying training weapons.
+
+Their entrance to the guild hall earned them quite a few glances, but Ali noticed that the eyes of many of the unclassed people lingered on her for longer than she expected.
+
+“Don’t suck,” someone called out from the middle of the group, provoking a few snorts and laughs, guiltily suppressed.
+
+“That’s about accurate,” Vivian said with a smile. “But I would say it more like, don’t show up to a raid boss unprepared. That way you won’t get a slime sucking off your face.” Laughter attended to her stern, finger-waggling imprecation. “Other ideas? Speak up.”
+
+Ali floated over to the reception desk. “What’s going on?” she asked quietly.
+
+“Vivian wanted to hold an all-hands meeting – to talk to all the new guild members,” Mieriel said.
+
+“She seems happy.”
+
+“She got ten fresh combat novices out of the group you took to your shrine yesterday, she’s been insufferably bubbly all day.”
+
+Ali shot Mieriel a surprised glance. The idea of the powerful and stern Guildmaster being described as insufferably bubbly seemed incongruous, but she assumed that Mieriel was referring to the sense of any inner emotions leaking from Vivian’s mind.
+
+“I do have a more serious question,” Ali said.
+
+“I can probably guess, but go ahead.” Mieriel adjusted her collar self-consciously.
+
+“Do we know who sent that assassin team?” This was the main reason Ali had wanted to stop by the guild in the first place. Random assassins were one thing, but this was the second coordinated group that had been sent against her, and this time they had even targeted the novices.
+
+“As far as I can tell, they were hired to disrupt the class advancement ceremony in any way they could and to assassinate you. I got a lead that implied Jax Hawkhurst sponsored the hit this time,” Mieriel said, with a matter-of-fact tone that would have been more appropriate for discussing breakfast cereal selections.
+
+“Doesn’t that mean he’s desperate? I thought he doesn’t like getting his hands dirty?” Ali had little knowledge or aptitude for politics, but Malika had shared the basics of how the crime syndicates were set up in Myrin’s Keep, and how they evaded the attention of the authorities. In essence, Jax Hawkhurst operated a legitimate business, and all the shady stuff was done through intermediaries.
+
+“Jax is under a lot of pressure right now. With the blight, the southern road is impassable, and that means a lot of his merchant business is bleeding money,” Mieriel explained. “He’s been forced to rely on kidnapping, slavery, and protection or loansharking. Or at least his affiliated businesses are doing that. But you keep selling exceptionally valuable resources to the guild store, and now that Donella Novaspark is getting a supply of magicite, her people are making some incredible new crafted items. The Academy is making enormous profits, none of which he can touch. So, you’re personal enemy number one for him.”
+
+“I see.” She really did see – this wasn’t some convoluted political scheme. She was eating his business when he was in a bind because of the blight. Ali smiled thinly. “Strictly business?”“His sort of business.”
+
+Another burst of laughter nearly lifted the rafters. Ali closed her eyes briefly, fighting back nausea. When would this end? She had no desire to live all her days in fear. No. Her tiny fists clenched. That, she would not do.
+
+“Aliandra, do you mind doing the Guildmaster a favor?” Mieriel asked suddenly.
+
+“What’s that?” Ali glanced at the stern Guildmaster, still talking to the majority of the guild members.
+
+“Word about the shrine has been trickling out and we’ve been receiving a steady influx of new recruits from the poorer parts of town. There was an enormous amount of competition for spots to access the shrine. Many of them think it was a one-time deal and those that didn’t make it are emoting a lot of despair, frustration, or feelings like it was all a waste of time. Perhaps you could mention that you will do another class advancement when they’re ready?” Mieriel said. “I mean if you’re ok doing another one, of course.”
+
+“I see.” It certainly explained some of the complex looks she had gotten from the unclassed recruits.
+
+Shouldn’t be difficult and the mana demand isn’t much of an issue either, she thought. She had already decided that sharing her shrine was one way she wished to make a difference in town, and she was rather grateful that someone like Vivian was so invested in helping the novices grow in productive directions.
+
+She didn’t bother answering Mieriel any further, knowing the Elf would simply read her ambient emotional state and get her answer that way. Instead, she floated over to where Vivian was wrapping up.
+
+“And this is Aliandra, everyone. For those who haven’t met her, she’s one of our silver-ranked adventurers, and she ran the class advancement yesterday.” Vivian introduced Ali without mentioning her class, even though it should be obvious.
+
+Ali nodded to the group, hearing murmurs and conversation spring up at her introduction. She smiled at a few familiar faces, Havok, Basil, Seth, Aiden, Willow… in fact, all the bronze adventurers seemed happy to see her. Even the newly classed Sabri and Brena were grinning, which had been a worry for Ali after the trauma they had both experienced.
+
+“Guildmaster,” Ali said, using her title in front of the guild. “I just wanted to let you know the shrine will probably be recharged enough to use again in a week.” Multiple sharp inhales around the room made her pause. Even she sensed their desperation, their hunger. “Perhaps not for as big a group, but for any of the recruits that are ready by then. Just let me know if there are any emergency cases like Sabri who need it on short notice – we can probably squeeze them in earlier if we need to.”
+
+“Thank you, Aliandra,” Vivian said, and then she turned and addressed the group again. “You heard her, those of you who didn’t make it will have another chance in a week. Focus hard on your training with Malika today and I’ll evaluate you all over the week. For those of you who are team leaders and provisional leaders, I want you all to make time for Calen’s lectures when he returns. That way your teams can be more like the successful Ahn Khen disciples and less like the mercenaries that got crushed. That is all.”
+
+The group immediately broke up into smaller groups and the guild hall filled with a busy commotion. It was really beginning to feel like a proper guild with so many people in it.
+
+Seth lurked by the guild jobs board, keeping mostly to himself. There were a few people in the guild who accepted him – his own team, the Guildmaster, and the administrator. Also, Aliandra and her team had been very kind to him. But the room was filled with strangers, and many of them eyed him warily. Especially after the accident with the zombie.
+
+He studied the jobs board, a little anxious to get out of the room and get some quiet and space. There were several jobs related to killing undead and clearing blight with the concoctions the herbalists and alchemists had come up with, but for those he would need his team, and they were taking a break for a day or two. Surprisingly, killing other undead was quite difficult for his class and abilities – he had to forego his Volatile Wraith skill entirely, given that death magic typically healed zombies and skeletons.
+
+His eyes passed over a spider kill quest, an herb collection quest, and a few equipment purchase orders, not finding anything particularly exciting.
+
+In the background, he overheard Aliandra calling out, “Hey Mato, while you’re off foraging with Basil, I’m looking for spiders. If you find any and can bring me their corpses, that would be very helpful.”
+
+“Ok, no problem,” the large Beastkin answered, waving.
+
+Aliandra, and Mato. The two of them had rescued him from the sewer and basically handed him a new life here at the guild. His eyes returned to the spider kill quest.
+
+Sure, why not? He reached out and took it, turning to find Mieriel and let her know. It didn’t pay well, but it was a job he could do solo, now that he had reached level fourteen – and he could do it at night when nobody would bother him and his skeletons. Ever since he had started using the life drain of his volatile wraiths, he found he needed less and less sleep because of the rejuvenation effect they granted him.
+
+If she wants spiders, I can collect some.
+
+He sighed, wishing not for the first time that life had not turned out quite like this. At least his class let him work alone when he needed space – such a big cloud had to have at least a little silver lining, right?
+
+Ali left the busy guild hall by herself. Mato and Basil had headed off to go hunting some fire-affinity plants in the mountains, and Malika was still at the guild teaching combat training classes to the recruits.
+
+She was a little anxious about walking around town without her friends, given the target painted on her back by the criminal organizations, but she had two Kobolds and a level thirty Luminous Slime following her around, and she could sense her ‘moss munchkins’ – as Mato had taken to calling the Moss Creepers – lurking in the sewer below, in range of an emergency teleport in case things got out of hand.
+
+It was a bright and sunny day, and the town bustled with activity. Ali stopped at a street vendor, drawn by the aroma and sizzle of frying spiced meat. She purchased two skewers, storing one in her ring for later, and nibbled on the tasty snack as she continued onward through the market district.
+
+She turned a corner finding a busker sitting on the side of the street. A youthful-looking girl who had a sound-magic affinity, a small carpet, and a collection bowl. Curious, Ali stopped, still enjoying the tasty skewer.
+
+And then the girl began to sing.
+
+Ali stared, spellbound for the entire song. The girl sang several voices simultaneously; bass, alto, and soprano, and she even sang the flute accompaniment in a flawless concert. It was not just the sublime sound of her voices; Ali could see the music flowing from her throat and chest in the vibrations and harmonies within the mana she wielded. A beautiful story of love lost, tragic despair, and then at the brink, a blossoming of unexpected new love.
+
+She found herself clapping without restraint at the conclusion of the song, and she was not the only one, a crowd had formed during the show without her noticing. Amid the cheers and excitement, Ali flew over and dropped a large silver piece in the collection bowl, thanking the girl for her performance.
+
+Eventually, Ali found herself on the familiar Artisan’s Row, and just a few moments later she pushed open the door to Lydia’s Allure, finding Lydia herself seated at the desk.
+
+“Hi Aliandra,” she said, greeting her as she entered with her Kobolds. She left the slime outside just in case it would mess up the floor or brush against the clothing displays.
+
+Tailor – Human – level 62.
+
+“Hi Lydia, I see you leveled up again,” Ali answered.
+
+“Yes,” she said, a sad look flashing across her face before she replaced it with a smile. “Though it’s slowed down a lot. What can I do for you today?”
+
+“I have a big favor to ask,” Ali said. Lydia’s eyes lit up with just a hint of her previous curiosity and excitement. “I need a bunch of robes with fire resistance enchantments made.”
+
+Her face instantly fell. “I already told Calen I can’t make them; he asked me the other day. I would have thought he told you.”
+
+“Oh, he did,” Ali said, retrieving the tailoring book from her ring. “He took Ryn to Ciradyl, and she found this in the library for you. Well, she found the original in Elvish and I translated it.” She offered the book to Lydia.
+
+Lydia’s eyes widened as she saw what Ali offered. “This… is this a book on Tailoring Enchantments?”
+
+“Yup,” Ali grinned. “I just hope it has the right information for you to figure them out. Do you mind giving it a try?”
+
+“You do know this is illegal, right?” Despite the tart response, Lydia snatched the book up, immediately opening it and reaching for some paper and a pencil. “Let me copy the enchantment quickly so you can have your book back.”
+
+“That’s your copy,” Ali said. “I only need the fire resistance enchantment, but I do hope you find the rest of it helpful.”
+
+Lydia looked dumbstruck, pencil paused in mid-air, staring as if Ali had just conjured something unimaginable. Actually, given the iron grip the Guild of Tailors kept on information across the human kingdoms, producing a book on tailoring enchantments was probably more unexpected than her sprouting a second head. Hmm. Now she had lots of ideas, and some involved sending monstrous books to bite her enemies…
+
+“This is way too valuable to just give away,” Lydia finally managed, holding it as if it might accidentally break or fly away.
+
+“Just thank Calen. He’s the one that earned a Pathfinder Guild membership and access to Ciradyl’s library.” It certainly had been an enormous boost to her efforts to rebuild the library, and she was rather enjoying the surprise she had created for Lydia. “Besides, this isn’t giving away. It’s passing a book to a friend.”
+
+After moving through a series of complex emotions Ali could not entirely follow, Lydia’s face finally shifted back to her normal shrewd business-like expression and said, “Like you had nothing to do with it. Thank you for this priceless gift – I’ll begin studying the fire enchantments immediately. I’ll leave a message with Mieriel if I make any breakthroughs.”
+
+Ali smiled and said goodbye and Lydia immediately put up a ‘closed for lunch’ sign in the window as she left to head back.
+
+She was serious about the immediate part, she thought with a smile. Books are seriously infectious.
+
+It felt good to be on the move again, to be doing something instead of forever waiting. He was waiting for his friend to return from Ciradyl, he was waiting for Thuli to make his armor, he was waiting for the others to find fire resistance, it was an endless wait while the flame elementals and the Emberforge Mines simply sat there unchallenged.
+
+Mato desperately needed to do something.
+
+Now that all the farms and farmers had been cleared of the blight, he had found himself to be a little bored. More than a little, actually. His aura was powerful, but up against the vastness of the entire blighted forest, it would be insignificant. Instead, the Guildmaster planned to build up the bronze-ranked adventurers and use the quest system to hunt abominations in the blighted forest and protect the farms that way. Once they tracked down the Blighted Patchwork Horrors, he might be useful again.
+
+More waiting.
+
+He had spent quite a lot of the time studying within Lira’s tree, or in his own Tree Form but, while it was productive, he still missed the rush of combat or even just the sense of being able to do something productive.
+
+He took a deep breath of fresh air. Basil led the way up the rocky pass far into the mountains above Myrin’s Keep. The young herbalist reminded him a lot of Calen when they were younger – shy and quiet. But he was exceptionally smart and knowledgeable about his plants, and the moment he got going on his passion, he had a lot to say.
+
+Right now, he was talking about fire resistance potions, and what plants were needed to make them. Mato listened, fascinated by the intricate ways in which the natural bounty of life and growth was crafted into something potent. He was not personally interested in crafting, but like any ecosystem, growth would lead to change, and the effects would ripple throughout the system. Once they found the proper plants, he would try and help Ali grow them in the dungeon, and the effects on the herbalist and alchemist crafters would be the direct result of their introduction of the new species.
+
+And then we can fight the dungeon.
+
+Basil had reached level fourteen already, but the hike would have still been impossible for him alone. Most of the monsters they encountered along the way Mato could scare off with a roar, but occasionally he had to fight off the more insistent ones, and even a level ten monster could quite easily kill someone like Basil who had a non-combat class.
+
+“I think we’re close,” Basil said, and indeed, Mato could feel the heat building through the rock beneath his feet.
+
+“Up over that rise?” Mato asked.
+
+“Yes,” Basil said. “At least, according to the directions Eliyen gave me.”
+
+Mato crested the rise and looked down into a small ravine. Waves of heat rose into the air, making it shimmer. It would be a rough descent down the steep, scree-covered slope, but they had certainly found their goal.
+
+“It’s called the Hellmouth,” Basil said, glancing at his notes. “Or the Devil’s Crack. Also, Fire Elemental’s Picnic.”
+
+“That’s colorful,” Mato grinned. “I guess it depends on who you ask? This would be a great place to grill some meat skewers.” There was a deep fissure in the cliffside that glowed red with radiant heat. A slow viscous flow of lava seeped out of the fissure, pooling below at the base of the ravine before dripping over the far edge to somewhere unseen.
+
+“Look, things are growing down there,” Basil exclaimed excitedly, clearly not picking up on the idea of pausing for a snack.
+
+Mato squinted his skill-enhanced eyes in the direction he pointed and saw some kind of climbing plant growing up the cliffs beside the radiating fissure, sporting red flowers. There was something else too, a kind of ground cover sprouting between the rocks beside the lava pool. “Looks like we found the right place.”
+
+“Yes!” Basil answered.
+
+“Grab on,” Mato said, switching to Bear Form and using his weight and strength to offer Basil something stable to hold on to for the climb down the ravine. They clambered over boulders, slipping occasionally on the loose jagged stone, but they made it to the bottom with only minor cuts and scrapes that were quickly healed by his regeneration aura.
+
+“Look! Fire Grass!” Basil rushed forward to look at a clump of what seemed to be grass, either unaware or uncaring of the searing heat radiating from the lava pool. Immediately, he reached down to the plants, pulling out some tools to gather them.
+
+He gets this excited over grass? Mato ambled along behind, remaining close enough to ensure his regeneration aura would repair any of the burns he sustained. Fwaugh, now that’s a whiff of sulfur! He sneezed energetically.
+
+Fire Grass – level 15
+
+The little scrubby plants were perfectly normal clumps of grass, aside from the fact that the blades were red and wreathed in dancing flame. Basil hissed as he got his fingers seared, but he was determined to dig up that clump.
+
+“What do you use this for?” Mato asked, crouching down and examining the strange-looking grass. The flames seemed to dance endlessly without consuming the leaves.
+
+“Well, you asked about fire resistance potions. This would be one of the more useful ingredients to have in large quantities. It’s difficult to harvest because it burns… ow!” He snatched his freshly blistered hand away, but he reached for it again. “It only grows in areas with fire-affinity mana, so it’s normally quite rare. As you can imagine, it doesn’t keep long either, once removed from its native environment.”
+
+“How do you normally harvest this stuff?” Mato asked, curious how the herbalists handled dangerous affinities.
+
+“I brought health potions,” Basil answered.
+
+“Well, that’s… a way, I guess?” Mato said. He had expected something a little more… sophisticated.
+
+As Basil dug around in the scorched earth, Mato redirected the damage from the flames to himself, earning a grateful glance. Basil worked quickly and soon had the clump of grass wrapped and stored.
+
+“I’d like to collect a few extra so that Eliyen can use whatever Ali doesn’t need,” Basil said, hunting around for some more. “Do you want to learn how to gather them?”
+
+“Sure.”
+
+“Here, use this, it will help you learn the skill.” Basil retrieved a small silver trowel with a wooden handle and handed it to him.
+
+Novice’s Gathering Trowel – level 3A basic tool for digging up plants. +1 to Herb Gathering skill.Requirements: Wisdom 10Enchanted by Eliyen Mistwood.Main Hand – Gardening Tool
+
+Basil was a remarkably good instructor, confidently demonstrating and explaining what he was doing with simple and easy-to-understand concepts. When Mato made his first attempt, Basil corrected a few things and then let him collect as many as he could, while explaining other aspects of gathering, the history, and subtle details of the herbalist arts of collecting interesting and useful plants.
+
+When they finally had about twenty samples stored, Basil stopped. “I want to see what that is growing up the cliff face.” He got up and scampered over to get a closer look while Mato finished up his gathering.
+
+Mato whipped his head around at the sound of a sudden scared yelp and saw Basil thrashing and grabbing at rocks while being dragged toward the lava by several vine-like tendrils.
+
+Flame Lasher – Plant – level 32
+
+Mato roared, transforming into his Bear Form. Dropping the last clump of Fire Grass he had harvested, he charged into range, barely in time to redirect the damage from Basil as he fell into the lava pool with an agonized scream, saving him from a crispy death. The vines were connected to the plant growing up the cliff face, many of its tendrils extending below the surface of the lava. It was a thick, ropy-looking plant, with a reddish-brown bark-like texture, and all along the vine grew tiny flowers made entirely from flame.
+
+Way too late, Mato realized that the strange, blackened shapes wrapped up in the vines along the cliff face were the charred skeletal remains of several animals. He plunged his head into the lava, ignoring the surge of pain, and bit down hard on Basil’s leg, redirecting the damage he inflicted back to himself along with the continuous use of Arboreal Sanctuary to keep Basil alive in the lava. His own health plummeted as he shouldered the damage for both of them. He growled his frustration and hauled as hard as he could. Even with his enormous strength, the Flame Lasher resisted with a surprising amount of power, but their tug-of-war ended in a great ripping sound as several of the attached vines split and tore. Basil shot up out of the lava with a sucking sound and landed on the rock with a yelp, clearly shocked to still be alive while slapping the remains of the vines and molten rock off his arms and legs.
+
+Blinded and nearly deafened by having dunked his head in the lava, Mato charged the Flame Lasher by memory, but he was immediately intercepted by a tentacle of lava lashing out of the pool and striking him heavily on the flank.
+
+He Identified the attack using his Survival Instinct.
+
+Lava Lurker – Ooze – level 36
+
+Another searing strike came for him, and he blocked reflexively, wincing as the scorching ooze seared his hide with the heavy impact. But the newcomer had not discouraged the Flame Lasher in the slightest, and Mato felt the rapid whipping strikes lashing at him from a distance.
+
+Blinded as he was, he knew the ranged attacks would be a problem, but he had to deal with the onslaught of fire damage from the ooze first. He roared, taunting both monsters to attack him, and not be distracted by the easier target Basil presented nearby. Then he burned some of his own health to power his Bestial Combat and struck at the amorphous blob of lava intent on eating him. The health cost was a risky move, but as soon as his claws ripped through the heavy, viscous body of the ooze, he felt the welcome surge of his Brutal Restoration kicking in and beginning to heal him.
+
+Perhaps I should have waited for my fire resistance armor before taking a dip in the lava. It was a bizarre and uniquely uncomfortable sensation to feel his eyes regrowing, but one he was unfortunately quite familiar with by now. He struck again and again, his attacks becoming more effective as first his hearing and then his eyesight returned.
+
+He blocked several whip strikes from the lasher – scorched lines of burnt flesh and fur that he took across his shoulders – and then swiped one more time at the ooze.
+
+“On your left!” Basil yelled.
+
+Survival Instinct suddenly registered an attack from his direction. Mato ignored it, focusing on blocking the much more dangerous coiling limb from the large blob of animated lava in front of him. A small glass vial arced overhead and came down on the rock beside him, shattering in an explosion of ice and frost that leached the heat out of the environment rapidly. The cold bit into his hide damaging him, but the effect on the ooze was far more dramatic. It recoiled, parts of its body blackening and cracking.
+
+Seizing the opportunity, Mato powered his attack to the maximum and unleashed his retaliatory battle master strike. His claws shredded through the ooze, shattering the blackened pieces and tearing it almost in half, spraying chunks of rapidly congealing lava in all directions. It collapsed, splatting against the ground to the sound of a soft chime, and he whirled about and charged the Flame Lasher over by the rocky cliff, ignoring the whip strikes of its vines.
+
+Without its ally, and without the ability to move, the vine was a poor match for Mato’s abilities. Swipe tore into the fire plant, ripping it from the cliff and shredding it until it ceased moving.
+
+“What did you do?” Mato asked as he reverted to his normal form.
+
+“Frost bomb potion,” Basil answered. “It’s pretty weak, but I think the lava ooze was vulnerable to cold.”
+
+“You just happened to have one with you?”
+
+“No, I made it. I packed some things in case the fire was a problem.”
+
+“It worked pretty well,” Mato said. For a non-combat class, Basil certainly had good instincts. Presumably from his practice with his bronze-rank adventurer group, fighting in Ali’s sewer, and all the training Vivian had been investing in them.
+
+“We should definitely collect this,” Basil said, bending down to examine the remains of the Flame Lasher, his voice filled with excitement and awe.
+
+“That thing almost killed you, remember?” Basil had lost half his health while he had been taking care of the ooze and the lasher, but he just downed a health potion and remained close to Mato while studying the plant.
+
+“These are incredibly rare fire plants,” Basil continued, more or less ignoring Mato in his excitement. “They’re impossible to cultivate and hard to find. Did you know their flowers can be used for some very powerful reagents and tinctures? The engineers and alchemists in town are going to love Ali if she can grow these. Eliyen too – she will make a fortune refining the essences and reselling them to the crafters.” Then his mouth twisted into a wry smile, “Well, she’ll most likely make me do it, she doesn’t like fire.”
+
+“Ok, you collect those. I’m going to regenerate our health.”
+
+Pausing briefly to store the corpse of the Lava Lurker, knowing Ali would probably like it, he shifted into his Tree Form, boosting his regeneration aura substantially. In the cool serenity, he ranged out with his plant senses, locating a couple more vines for them to collect and taking a moment to check his notifications.
+
+Your group has defeated Lava Lurker – Ooze – level 36Your group has defeated Flame Lasher – Plant – level 32Arboreal Sanctuary has reached level 30.Swipe has reached level 29.Survival Instinct has reached level 20.You have learned a new general skill: Herb Gathering.Herb Gathering has reached level 1.Herb Gathering – level 1Mana: Your knowledge of botany and plants allows you to use your mana to properly harvest many plants for use in herbalism and alchemical potions. Skill increases the range of plants you can harvest, and the speed and quality of your work.Wisdom
+
+Aah, that should help me make tastier food, he thought, imagining rubbing his tummy in happy anticipation. All this jumping into lava sure made a Beastkin hungry.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

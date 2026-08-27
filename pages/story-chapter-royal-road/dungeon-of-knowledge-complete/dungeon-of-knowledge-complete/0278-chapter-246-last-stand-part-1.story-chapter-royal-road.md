@@ -1,0 +1,113 @@
+---
+id: cc962162-e370-5c04-8f6e-61bd8f520282
+page-type-slug: story-chapter-royal-road
+title: "Chapter 246: Last Stand (Part 1)"
+slug: 0278-chapter-246-last-stand-part-1
+partOf: dungeon-of-knowledge-complete
+position: 278
+ownLength: 2236
+unit: words
+ownProgress: 2236
+publishedAt: 2025-05-11
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2271445/chapter-246-last-stand-part-1"
+royalRoadId: "2271445"
+markedReadAt: "2026-06-29T20:20:39.424Z"
+---
+
+Mato shook his head to clear the ringing in his ears and levered himself up onto all fours, heaving splintered branches and the remains of the tree trunk off his back with a tremendous surge of strength. The Troll had come from nowhere, and with a single strike had sent him flying like a rag doll. I’m supposed to be heavy. He was not used to flying. He didn’t like flying. All four paws – or roots – on the ground. Like it’s meant to be. A massive gash across his chest bled profusely, and something inside slipped and ground painfully as he moved, most probably damage from the impact of demolishing the tree with his ribs.
+
+The battlefield was a scene of utter chaos and carnage. In an instant, the giant troll had ripped through their forces leaving everything except the drakes scattered and bleeding. His own Brutal Restoration was still ticking from fighting the normal trolls, slowly healing the deep wound inflicted by the greataxe, but he would most certainly need help to defeat this monster.
+
+He rose, meeting the red glowing eyes of the monster troll across the battlefield, and felt his heart starting to pound with rising excitement.
+
+Now, this is a foe! This is real strength!
+
+He thundered his challenge, shaking off a few remaining tree branches, and from across the clearing, he saw the troll’s massive thigh muscles bunching and the huge monster leaped into the sky, leaving deep indentations in the mossy ground where he had stood. Mato charged, intercepting the giant Troll right as it landed, wincing at the jarring impact through his bones as he blocked the great double-overhead strike with both axes.
+
+He triggered his Swipe knockback, throwing all his weight and the final momentum of his charge behind the strike, knowing he wouldn’t be able to move the creature that outweighed him several times over, but the ability allowed him to do a little more damage, so he used it. Simultaneously, he fed mana to Brutal Restoration and spent some of his health to further empower his Swipe with his armor-piercing Bestial Combat ability. Besides his triggered Battlemaster retaliation, this was his most powerful combination, and his claws tore great gashes across the troll’s ribs, slicing through blue skin and garish crimson warpaint, fountaining blood into the air. But the droplets remained suspended in the air for only a brief moment before spiraling upwards, drawn in by the hungering magic imbuing the troll’s axes.
+
+Mato ignored the bizarre behavior of the blood, having seen it from the Blood Shamans – albeit on a far smaller scale. He Swiped again, this time, his claws sizzling with the black energy of the void.
+
+You have gained Azryet’s Favor.
+
+His attack sliced effortlessly through two of the Bone Warriors that had returned to attack him, but he barely noticed them, his entire focus on the giant, his full attention glued to his Survival Instinct ready for the instant something dangerous happened. He grew roots and vines from the ground, snaring the massive feet of the troll, but it simply ripped them out with its overwhelming strength, hardly noticing.
+
+Thanks for the damage! In the background, he heard the shouts from his friends as they reacted to the first couple of seconds of battle. Have to gain them time, a few seconds…
+
+Knowing he couldn’t block forever, Mato inched around, changing the angle of the fight. He didn’t want to land in the trees again. A vicious one-two strike from either side caught him. He blocked the first, but the second crunched into his ribs, sending him soaring through the air again, trailing blood as he went. He smashed into the cliff face with a brutal impact that jolted through his spine, before falling into the pool at the base of the waterfall. A rain of dirt and dislodged boulders splashed down around him. He got up in knee-deep water, feeling his crushed ribs slicing painfully into his flesh, just in time to meet the maelstrom of spinning axes and blood tearing through the pool like a demented, angry crimson waterspout. Drenched, Mato blinked to clear his eyes, ignoring the storm of slashes – far too many to block – and went on the offensive with a Swipe of his own.
+
+Perfect placement, he thought, glancing side to side. With his hindquarters squarely toward the cliff, the giant troll would be unable to punt him around the battlefield with impunity. He roared his challenge, taunting the immense Troll and simultaneously reducing his gigantic strength. Every little bit counts. The yelling and shouting as his friends managed the rest of the fight drew a little closer, but other than registering they were still alive and active, he tuned them out. He could tell they were trying things out – Ali’s minions scrambled in and out of his field of view every now and then. The giant troll briefly shrank, turned green, and let out a surprised croak before immediately swelling back up to his normal twelve-foot-tall impression of a small barn. His shoulders bunched with corded muscles the size of Mato’s head as he raised his axes.
+
+One of the shamans appeared, managing to land a Lacerate on the giant troll from behind and cursing it with Vampiric Hex. The bleed simply fed the troll’s greataxes as the giant seemed to overwhelm the shaman’s control, but the curse was exceptionally useful; healing him whenever he landed a hit, at least for a while. But as soon as the giant troll lashed out with a sweeping backhand, the troll shaman went flying out of sight. Dismissed! Mato knew it hadn’t died because the totems it had dropped remained pulsing in the churning bloody water, but it was probably out of action for a moment. He growled and loaded up another layer of Brutal Restoration to help tide him over.
+
+He missed another quick combination attack, and the strike caught him square in the chest, the axe blade sinking deep and drawing a gusher of blood. Fuck, he’s fast. Mato’s body lifted, momentarily weightless from the power of the greataxe, and smashed into the rock face behind him before he dropped back into the pool and resumed his attacks. His Brutal Restoration and armor penetration were both running at maximum, so he just needed to land an occasional strike to keep them refreshed.
+
+“Get it!” Calen roared from somewhere in the distance.
+
+Get what? Some help, please?
+
+Ali’s Blood Shaman returned to land a heal on him before being sent flying once again. Suddenly, the rest of her minions began flocking to the fight, and Calen’s arrows began turning the big troll’s back into a radiant pincushion. Judging by the shift in the fight, the others must have finished off the rest of the trolls, leaving just his one.
+
+Perfect! Let’s go! Mato roared once again, making sure that the giant troll would remain focused on him instead of the rain of magic and attacks that were striking him from behind. But the giant troll immediately demonstrated his powerful tools for manipulating the battlefield. With an explosion of whirling blood and near-invisible axe strikes, he cleared most of the melee attackers, flinging them off into the trees. Only the Armored Drakes and Malika were able to avoid being knocked flying.
+
+“I got your back,” Malika said, slapping him with a quick heal. Stepping off the cliff face, she somersaulted away in a blur of movement.
+
+Mato took another crushing blow to the shoulder, knocking him into the rock wall behind him. He had broken several ribs with this last hit and as they snapped painfully back into place from the magic healing his body, he realized that the strikes were growing progressively more powerful, and Survival Instinct becoming progressively more insistent. Mato glanced up at the blood-red eyes shadowed by the heavy brow and the cloud of red that he had assumed was the typical crazy blood magic, and he had a sudden moment of terrible realization.
+
+Berserker!
+
+He recognized the troll’s ability as similar to his own Primal Rage skill which he had long discarded as too dangerous for himself and his friends. The more they damaged this troll, the worse the fight was going to get.
+
+Shit, I need to tell them.
+
+He shook his head to clear his mind after the last crushing strike and reached out, connecting with the two Armored Drakes, pushing the image of the red mist and bloody eyes into their minds along with a sense of powerful caution. He could only hope Ali was using their perceptions and would notice his communication.
+
+“Berserker!” Ali’s musical voice rang out across the battlefield, and Mato could almost hug her. She was always so perceptive and quick to catch on, and she had experienced the worst of the berserker rage up close and personal. “Mato’s warning!”
+
+Immediately, there was a rearrangement of forces on the battlefield. Calen yelled instructions. Minions shifted around. Malika began popping in and out to heal him more frequently, and the two shamans darted in and out to make sure the curse was maintained, but otherwise one of them remained out of range of being smacked into the trees at all times. He saw totems being switched, and his armor went up – a little, but it was something.
+
+“Be careful,” Calen instructed. “Mato, fight defensively.”
+
+What do you think I’m doing? Mato grumbled in his mind, but he just grunted and blocked again. His friend was just trying to be helpful.
+
+The attacks kept coming, and he slowly shifted to blocking more than attacking as the damage crept higher and higher. Ali, bless her heart, was still trying everything in her repertoire. The berserker troll shimmered and vanished for a few seconds before reappearing and smashing his axes into Mato’s hasty block.
+
+“I can’t keep curses on him,” Ali yelled, frustration leaking into her voice. “He just shakes them off and keeps going.”
+
+“Keep trying,” Calen said. “Something has to work.”
+
+Mato struck again, his Swipe refreshing his armor penetration and Brutal Restoration. Ali’s Ice Mages fired crosswise through the berserker’s massive torso, angling the strikes so that their piercing spells wouldn’t hit him too. Chills and freezes flickered on the massive monster, but every time they appeared he seemed to free himself with a shrug, attacking at full speed. Or he unleashed his spinning blood attack which seemed to release him from the chill and even roots, whenever he used them.
+
+Mato took the risk of glancing around the battlefield. Even with Survival Instinct, the troll was growing erratic, harder and harder to predict as the mists of his rage grew thicker. A brutal Cleave and overhead strike combination with both axes struck deeply as he failed to block, and instantly Malika was at his side healing him from below half health while shattered boulders rained down on him from the damage inflicted to the cliff.
+
+Shit, he hits like an avalanche!
+
+Despite the danger, Mato found himself grinning hugely. That expression on a bear would probably scare Ali, but he was thoroughly enjoying the fight. He was on the edge. Reacting to his Survival Instinct in a fraction of a second, he blocked another attack. His blood streamed out of his wounds, spiraling into the troll’s greataxes and the totems of the nearby shamans before the healers could staunch the flow. The giant troll was also bleeding freely from dozens of wounds, a terrifying spectacle of rage and blood – many of his bleeds were self-inflicted by his own bloody vortex attack that seemed to be powered by blood alone.
+
+“Twenty percent,” Ali’s voice called out.
+
+“Bloodlust! Burn him down fast!” Calen called in response.
+
+An enormous surge of blood rippled out from behind the monster as Ali’s highest-level Blood Shaman triggered her signature ability. Fresh, exhilarating power rushed through Mato’s blood as the runes circled his head, and the magic threatened to carry him away on a rising tide. His claws struck with redoubled power and ferocity, his attacks coming so much quicker that he had to readjust his perception and balance.
+
+Claws flew, magic burned, and he blocked the blurring greataxes on instinct alone. With Bloodlust and Calen’s light magic, the giant troll’s health plummeted, but Mato could only feel the enormous spike in the berserker’s damage. A single Cleave took almost half his health, before a well-timed Blood Siphon from one of the shamans brought him back a fraction of a second before the following blade landed.
+
+In the back, beyond the berserker, Ali’s little voice squeaked in surprise.
+
+This is bad. Mato had held on as long as he could, and it was no longer safe. One small miscalculation was going to kill him. I can’t wait any longer. With a deliberate burst of stamina, he used Last Stand. Instantly, his potent defensive ability granted a large bonus of temporary health and armor, and the pressure eased as his skill reduced the enormous physical damage from the giant axes.
+
+Now I just have to wait it out.
+
+“Fuck!” Malika screamed. “He just used Last Stand!”
+
+Huh? For a moment Mato didn’t understand why she was upset, but when his Swipe struck the suddenly much tougher body of the giant troll he understood.
+
+Fuck, the troll has Last Stand, too! This is bad!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

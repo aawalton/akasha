@@ -1,0 +1,135 @@
+---
+id: 1429fe54-6e2e-5a55-b011-67b4f1dce9fb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 199: Drake Wing (1 of 2)"
+slug: 0204-chapter-199-drake-wing-1-of-2
+partOf: dungeon-of-knowledge-complete
+position: 204
+ownLength: 2975
+unit: words
+ownProgress: 2975
+publishedAt: 2025-02-18
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2074418/chapter-199-drake-wing-1-of-2"
+royalRoadId: "2074418"
+markedReadAt: "2026-06-29T20:18:02.570Z"
+---
+
+Cut hard, cut fast, cut to the bone.- Kir’mogan, Troll Champion of Aman Rak.
+
+“That seemed fast,” Malika said, as Ali began deconstructing the twin Living Flames in the Landing.
+
+“I think that’s mostly because you and Calen leveled up a lot,” Ali answered, shifting uncomfortably in the oppressive heat. It had indeed been the fastest they had killed the cloned elemental boss.
+
+Abyssal Stalkers were expensive, reserving as much mana as a Hobgoblin and Ali hadn’t had the opportunity to put them through their paces. She had made one at the start, intending to give it a real trial on the early caverns and tunnels of the mine – to make a decision without crippling her mana in the meantime, but before the first passage was clear, she had summoned a second one and dispensed with all her Kobold rogues.
+
+There was no comparison.
+
+With just two Abyssal Stalkers, the Flame Broodmother had fallen in less than half the time, her demonic spiders tearing it to pieces with their insane bonuses to blood magic damage. Even against these Living Flames, the Abyssal Stalkers dealt out a respectable amount of damage – but it was in resilience that they truly shone. At twice the level of the Kobolds, and with better attribute progression, they had far more health and armor and incomparably better defensive abilities.
+
+“Probably, but you leveled too, and your spiders are very strong,” Malika said, echoing her thoughts and tapping the carapace of the nearest one before it faded away to invisibility.
+
+“I like them,” Ali said, smiling as she let Malika collect the essences.
+
+“Ok, let’s see if Morwynne can go three for three,” Malika said, retrieving a strange new potion swirling in an oversized vial. While still blue, there danced within it a flame of pitch black. How the hellfire remained unquenched, suspended in a liquid that was a combination of ice and water affinity, Ali had no clue. But somehow the resourceful Gnomish alchemist had created it.
+
+“Skipping the demon wing, right?” Calen said, eyeing the ominous middle door.
+
+“Yes,” Ali said, firmly. In order to finish the dungeon off, they would eventually need to return to that wing, but only after they were far stronger – and with a solid plan for dealing with the rift. “The priority is finding the Forge if it’s still there, and…” she trailed off. Her friends understood. They needed to get to the end of the dungeon to learn if this was another tool of the Lich.
+
+“Opening it,” Malika said. She tipped the vial and spilled a tiny droplet of the liquid onto the Rune of Hellfire, and the mana sustaining the flame was instantly drawn into it, freezing the flame in place with a loud crackling noise. Stone grated on stone as Mato braced his armored shoulder against the unlocked door and shoved, revealing a well-constructed passageway leading to unnaturally smooth and unworn stone stairs descending into the depths.
+
+“We’re in the right place. This is the way to the Forge,” Ali said, instantly recognizing the expertly crafted stonework. Supposedly a natural source of unusually potent fire mana had been discovered down here in the mines, many years before she had been born – and rather than waste it on a raw excavation, the dwarven smiths and stonemasons had created the Forge down here in the remnants of the ancient, depleted initial excavations of the mine.
+
+“Be on your guard,” Calen said, taking the steps first.
+
+Ali summoned a barrier to cast a golden accent against the light from Calen’s motes, allowing her to pick out the details of the stonework as she floated along behind her friends. The clicking and clinking of footfalls, steel weapons, and claws on stone echoed off the dusty old passage that could not have seen traffic in thousands of years.
+
+The stairs meandered ever downward, adorned with unlit sconces bolted to the walls in precisely even-spaced alcoves. Even the buttresses supporting the heavy weight of the rock overhead had been finely crafted and would hardly look out of place in a cathedral. Eventually, they approached a sculpted granite archway and emerged into a sizeable open chamber. The heavy raw rock of the roof was held up by many marble pillars and arching stone buttresses but, save for the giant monster of red gleaming scale and sharp fangs guarding the far doorway, the chamber remained empty.
+
+Armored Drake – Dragon – Level 76 (Fire)
+
+“Shit, that looks tough,” Malika murmured.
+
+“Drake, level seventy-six,” Calen said.
+
+“Fire,” Ali added for Malika’s benefit, as if there could be any doubt. The drake looked every inch a predator, its reptilian head scanning back and forth, trails of black smoke curling up from its nostrils and out between its large fangs. It had brutal-looking spikes along the crest of its head, down its spine, and all the way to the end of its thick tail – and its body was armored by heavy gleaming red scales. Gleaming talons cracked sharply on the rock as it prowled back and forth.
+
+“Flightless,” Calen added, glancing at Mato.
+
+A flightless dragon, Ali thought, carefully studying the monster with every sense at her disposal. It was fully as large and heavy as one of her Forest Guardians, its body broad and squat, contrasting strongly with the pictures of the sleeker and more streamlined winged dragons and wyverns she had seen in her monster compendium, presumably trading wings for bulk and armor.
+
+“Duh, no wings,” Mato joked. “Want me to tank it facing the wall?”
+
+“Yes, and watch out for that tail, it looks dangerous,” Malika added.
+
+Ali smiled softly. Her Abyssal Stalkers had caught the scent of its blood.
+
+Mato twisted and warped into the familiar shape of his Bear Form, trickling his mana into both his armor and his new ring, allowing them to be included in his transformation magic. Come on, big boy, he thought, eyeing the extremely dangerous-looking drake. Let’s see what you’ve got.
+
+“We’re ready,” Calen said, his bow out and nocked. His eyes had that faraway look he got whenever he was scouting or shooting and, although he didn’t show it, his friend’s heart sounded a little faster than usual, betraying a little nervousness or excitement.
+
+Mato measured the distance to the giant Armored Drake, noting the subtle ripples and shimmers of heat rising from the red scales. He turned his head, catching sight of Ali’s Acolytes standing ready and in range. Malika stood beside him, balanced on the balls of her feet, her body poised and ready. She always looks ready.
+
+He huffed and tossed his head – the closest he could get to a verbal acknowledgement. An indication that he was about to start that wouldn’t alert the entire room with his roaring. All around him, his friends and Ali’s minions tensed in preparation.
+
+Mato Charged, stamina burning through his body in an avalanche of power as it accelerated his normal four-pawed loping gait to an impossible speed. He tore across the hard dusty stone like a bolt fired from a crossbow. An almost two-thousand-pound bolt of muscle, fur, and glinting heavy plate armor crashed into the side of the heavier and bulkier Armored Drake – like running headlong into a wall. Tossing his head side-to-side, he shook off the stunning reverberation of the impact like shedding water from his fur.
+
+He roared, opening battle with his stamina-powered Challenging Roar, taunting the drake and lowering its strength a little. He lashed out but his claws bounced off the scales with a ringing clang. Only the nature damage of his Brutal Restoration and the augmented light magic flashes from Calen’s support magic penetrating the dense natural armor that was harder than enchanted steel plate.
+
+He’s tougher than the bone elementals, Mato grimaced as the drake wheeled about to face him, talons scraping long gashes in the stone beneath their feet.
+
+“Hold!” Calen called out.
+
+Mato’s instincts screamed with the premonition of extreme danger and everything around him slowed except for the blurring cleave of the drake’s talons. He had barely enough time to block as the near-invisible clawed strike accelerated through his guard. The wicked, gleaming talons, each more than a foot in length, cleaved across his shoulder, screeching against armor, ripping through muscle and dense hide. But the strike was backed by incredible raw power. It barely slowed as it sliced across his chest, leaving deep parallel gashes through his hide and across the bands of his heavy plate armor. The claws continued, tearing a huge bloody gouge through the rock wall on the follow-through. Mato staggered backward, driven into the wall by the unrestrained might and ferocity of the devastating strike, his blood splashing across the gleaming red scales, where it sizzled and burned on contact with the monster’s intense internal heat.
+
+Shit! My health…
+
+“Heals!” Ali screamed in the background.
+
+He was grateful he had had the chance to practice his new Survival Instinct with Brena. Having a feel for the acceleration of his reflexes had given him just enough of an edge to block the Cleave. He shuddered to think of what might have happened if he’d failed to block it and taken critical damage. The battle might have been over, he thought soberly. In one strike, he had taken the measure of his opponent and knew he was the weaker fighter. By a large margin.
+
+But I’m not alone.
+
+Malika’s body blurred toward him, moving almost as fast as the drake, and her magic seared through his body, forcing his wounds to grow closed in moments.
+
+And I have this. He summoned a Stonecap Armor potion to his mouth and bit down hard. When he had received his shiny new guild ring, Mato had been overjoyed to have more attribute enchantments available to him in his Bear Form but the first thing Calen had asked was if that meant Mato could use his storage enchantment in combat. It was Morwynne who had figured out how to use treated gourds instead of vials – gourds that he could bite.
+
+It crunched, spraying thick oily liquid across his tongue. It tasted like eating sand. The gritty concoction went down because he forced it, and immediately its magic swirled through his body, condensing in his hide. Normally supple and strong, it hardened dramatically, adding weight and toughness, and moderately restricting his ability to move. But his tanking style did not require dexterity.
+
+You have gained Stonecap ArmorA dark brown gritty earth affinity potion made from Stonecap Mushrooms. It tastes like dirt, but greatly increases Armor.+15% to Armor-5% to Movement Speed-5% to DexterityCreated by Morwynne Fizzlebang – “Don’t stub your toes!”Potion – Duration: 2 minutes.
+
+Survival Instinct triggered his danger sense again, this time stronger than the first. The giant fanged dragon-maw opened wide. A bone-shaking roar heralded a sizzling blast of dragonfire. Flame filled Mato’s vision while he still had a face, tearing through his fur and hide like a wildfire ravenously consuming dry grass.
+
+He didn’t hesitate, instantly using Last Stand to boost his health and armor. He could sense Malika standing beside him in the raging torrent of flame. Swirling eddies roiled in her wake and he instinctively reached out to save her with his Sanctuary, but she was not taking any damage. She just stood there pouring her healing magic into his burning body while dodging the conflagration.
+
+That skill isn’t fair. He knew she could dodge magic, and he knew that it was only a chance and not a certainty, but he was jealous of her standing there healing him in the dragonfire, unbothered by the flames that were tearing him apart. She must have taken a huge risk remaining in harm’s way to ensure he survived the dangerous and chaotic moments at the beginning of the fight.
+
+Fewer than a handful of seconds had passed, and already he had blown his most powerful defensive skill and survived two of the deadliest attacks he had ever faced. He could hear the frantic chirping of the Kobold Acolytes as they finally caught up to the action, loading him up with holy magic and healing. Malika stepped away as the fire began to fade.
+
+Time to get to work. Using instinct and memory, he struck without waiting for his eyes to be restored. Aching pain coursed through him as he spent health to power Bestial Combat, but with the amount of healing they had loaded up on him, it would be recovered quickly. Spending mana and stamina, he added Brutal Restoration, creating his most powerful Swipe, simultaneously enhanced by both his support skills. This time, when his claws struck, he felt them ripping and tearing through the heavily armored scales and even sending some flying. And with it came the welcome rejuvenating feel of his restoration magic beginning to pulse through him, powered by the sheer amount of damage his strike had inflicted on the angry dragon before him.
+
+“Go,” Calen called out, clearly having seen him land the big hit on the drake and decided that the monster was sufficiently controlled to begin the attack. The Hobgoblins rushed in as a hail of spells and arrows filled the air. Two large, indistinct spider-like shapes materialized from thin air behind the drake, slashing with vicious slicing strikes that set the drake to bellowing in pain.
+
+For a moment, the drake turned toward the spider demon which had just landed a critical damage Ambush, but Mato wasn’t about to allow Ali’s minion to pull the drake from him. In the brief window of opportunity, his Battlemaster triggered, and he spent health and mana aggressively to power his retaliatory strike. His paw felt light with the thrilling power of his skill accelerating it to near instantaneous speed, but it landed with inexorable weight, ripping through armored scales like paper. The thick gnarled roots creaked and groaned as they twisted themselves around the drake’s feet, slowly blackening as his magic lost the battle against its intense heat. But that didn’t matter, the drake whirled back to face him, and he began trading blows with it, keeping a sharp focus on his danger senses while watching for the dragon-fire breath or the almighty Cleave attack.
+
+The temporary health and armor from Last Stand wore off, and moments later his danger sense warned him of the incoming strike. He blocked the near-instantaneous cleaving talon strike but even blocked, the power of the attack smashed him up into the rocky wall behind him in a shower of blood and shattered stone. His health surged back up in steps as the Kobolds reacted to the damage, landing their biggest heals on him as he recovered his stance. He dropped down, ducking under snapping fangs, and retaliated with another armor-piercing strike, ensuring that the drake’s armor was weakened for the rest of the group to do damage. The Hobgoblins were certainly taking advantage of his skill, and the demonic spiders even more with high-speed flurries of attacks that flickered and glinted, spraying drake-blood into the air as a fine mist.
+
+He was quickly getting used to the flow of battle with his new enhanced reflexes. He blocked another cleaving talon strike, taking a savage bite to his left shoulder, barely able to move his head out of the way in time. The fangs sunk deep into his hide, puncturing his armor with raw strength and power. His counterstrike broke the drake’s bite by tearing the fangs from his shoulder along with a sizeable chunk of armor and flesh. He ignored the pain, allowing the abundance of healing magic on him to rapidly restore his wildly oscillating health.
+
+He roared, using Challenging Roar more to keep the drake’s strength debuffed than to taunt it, and, as if in response, one of the Hobgoblins shouted in concert with him, the booming voice of her skill filling him with power. That’s more like it!
+
+He felt the breath attack coming, and before the flame even struck, quickly scanned the fight so that he would know where everything was when he lost his ability to see and braced himself up against the wall. The roaring flame washed over him, tearing into his face and body. He blocked another claw attack purely on Survival Instinct as the world faded from red to black. As the roar of flame faded and his sight was restored, he could feel the heat radiating from the red-hot rock behind him. Dragon-fire was insanely hot, and it easily outclassed the hellfire of the wargs in terms of how much of his health it burned away, but he would still take the dragon’s breath over the hellfire, simply because the pain was less, and the flames did not linger forever.
+
+Suddenly, one of the spiders landed a whistling strike and the drake stumbled. It was only for a moment, but in that instant, Battlemaster triggered again. Oh, this is fantastic! he thought, taking full advantage of the opportunity to land his biggest hit yet.
+
+Mato shifted to the side, moving out of the partially melted rock. It wasn’t much extra damage, but with the sheer volatility of his health, any damage saved was likely to be worth it. He settled in for the long haul, grateful for his regeneration and Battle Trance as he focused on learning how to defend himself against his magnificent opponent. Claws swiped and talons Cleaved in a dizzying conversation of violence and strength. When the chime finally rang out in his mind, Mato found himself filled with an overwhelming sense of triumph – but, laced through the emotion was a distinct undercurrent of disappointment that it was over.
+
+Your group has defeated Armored Drake – Dragon – Level 76Swipe has reached level 36.Survival Instinct has reached level 27.Last Stand has reached level 8.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

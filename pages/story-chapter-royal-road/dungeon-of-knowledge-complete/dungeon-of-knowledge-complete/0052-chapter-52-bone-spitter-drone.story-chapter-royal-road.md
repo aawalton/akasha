@@ -1,0 +1,239 @@
+---
+id: 56ac85e4-c07f-5172-92b3-3cea33b93c4c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 52: Bone Spitter Drone"
+slug: 0052-chapter-52-bone-spitter-drone
+partOf: dungeon-of-knowledge-complete
+position: 52
+ownLength: 4617
+unit: words
+ownProgress: 4617
+publishedAt: 2024-03-31
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1574834/chapter-52-bone-spitter-drone"
+royalRoadId: "1574834"
+markedReadAt: "2026-06-29T20:12:41.125Z"
+---
+
+The Dungeon Survival Guide, Rule 1: Have an escape plan. Something will always go wrong, make sure you can get out – or measure yourself for a casket. Your choice.- The Unexplored Lands, by Lyeneru Silverleaf, Elven Pathfinders Guild.
+
+Hmm… Ali poked thoughtfully at the corpse of the red-scaled Fire Mage. In death, it seemed no different than any other Kobold mage she had killed, certainly not as terrifying as it had been in life. Level nineteen, though. Even considering the obviously higher level, this Fire Mage had been much stronger than she had anticipated. Her favorite strategy against mages was to deploy several rogues, relying on Ambush and surprise, and then finishing them off with Arcane Bolts – but this mage had used a potent reactive flame shield, much like the Goblin Fire Mage she had encountered in the southern forest, burning her rogues on every strike. Worse, though, was the heavy bone armor skill it had employed. It was only with the extra nature magic damage granted by her Empowered Summoner skill augmenting every dagger strike, that her rogues were able to deal any damage at all – and a pittance at that.
+
+Ali deconstructed the Kobold corpse, making Malika’s task of collecting and evaluating their equipment vastly easier – and less gory – while simultaneously refilling her entire mana pool. Her Grimoire appeared, updating several parts of the Kobold imprint with new lines of runes, deftly inserted here and there as the pages riffled softly, readjusting. Higher-level versions, perhaps? Being able to make a level nineteen Fire Mage or a level sixteen rogue would definitely come in handy, but the chances of getting precisely what she wanted out of her stubborn book were depressingly small.
+
+Better some chance, than none at all, she encouraged herself. Her Grimoire was limited to summoning creatures of her own class level or lower, but the obvious fact that it had never summoned a Toxic Slime above level one, or a Goblin Scavenger above three, implied that she needed to explicitly record higher-level variants if she wished to summon more powerful minions.
+
+“Let’s go,” Mato said, tapping his foot, ever impatient when a fight might await them just around the next corner.
+
+“Ok,” Calen answered, darting silently back up onto the roof with impressive agility before vanishing into the pervasive gloom.
+
+As they delved deeper into the dungeon, approaching the center of the ruins, Ali found the mana growing noticeably denser and more potent. The thick layer of bone that encrusted everything spewed out prodigious amounts of dense, dark mana that perfused the slowly crumbling hollow husks of the buildings. Without the benefit of Arcane Insight last time, all she had experienced was an uneasiness and an occasional prickling of magic, but now she could observe the roiling darkness of bone mana merging with the pitch-black tendrils of death magic.
+
+Even more fascinating, as she studied it, was the structure that emerged underlying the entire space. The two affinities of mana wove together in a chaotic-seeming pattern that nonetheless expressed a fundamental underlying order and repetition, an emergent harmony stretching out as far as she could perceive.
+
+This dungeon must possess a domain.
+
+It was the intricately woven structure of the mana that captured her fullest attention, instantly calling to mind her own domain and the distinct appearance of Mato’s Arboreal Sanctuary – a skill that she now knew also carried the domain trait. The venerable Night Elf sage, Lorien Silverveil – the distinguished and formidable Professor who had taught her Magic Theory class – had once described domains as an aura or structural lattice of mana that allowed the caster to extend or empower their magical influence over a much larger area than was normally allowed by the limitations of their class and level.
+
+That must be how the dungeon empowered these Kobolds with regenerating bone armor. The visible flow of mana had been fascinating to watch – bone magic absorbed from the environment causing bone regeneration along the surface of each of the monsters. Ali still couldn’t wrap her mind around it, but her Sage of Learning had definitely reacted to the phenomenon. Even though the structure and function of all three domains were dramatically different, Ali felt that the mere presence of the complex structure was enough evidence for her theory.
+
+“Hey Ali, are these robes better than your current set?” Malika’s voice redirected her focus from the ambient mana of the dungeon to the tattered robes held in her hands. She seemed a little on edge, and Ali was about to ask if she was ok when she remembered that Malika’s parents had been killed by a dungeon-break, and she was probably quite uncomfortable delving down here in the heart of an unknown dungeon – even if they seemed to be relatively capable of killing the Kobolds.
+
+Tattered Robes – level 17Resistance: 163Requirements: Intelligence 60Body – Cloth
+
+“No, my Tailored Cotton Clothing has two hundred and sixteen resistance and Lydia’s self-repair enchantment.” An enchantment that had seen little use with Mato tanking most of the monsters, but one that Ali still appreciated.
+
+That’s strange though, my armor set is only level fifteen.
+
+She mulled it over in her mind, not coming to any reasonable explanation before her curiosity got the better of her. “Why is that worse when it’s a higher level?”
+
+“It’s a poor-quality item, which usually makes any enchantments or bonuses weaker than normal,” Malika answered. “All of Lydia’s work is at least masterwork quality – it’s exceptional, and that often grants better than average enchantments, armor, or damage. Your clothes are even better, they’re a magical grade item – I just didn’t remember the numbers. Here, why don’t you learn this, it’s not worth carrying back with us. And this, too.”
+
+Malika tossed the ripped, singed crimson Tattered Robes to her and added a black-stained leather chest armor that the rogue had been wearing. Ali deconstructed both. They were both items she already knew how to make, but she was pleased to add some higher-level versions to her repertoire. As her mother sometimes used to say: Every little bit counts.
+
+“Are those special?” Ali asked, seeing Malika carefully examining the unusually colored steel weapons and armor that remained. To her untrained eye, they looked to be exceptionally well crafted, and something about the reddish glow of the black steel caught her attention.
+
+“Special? Take a look at this,” Malika said, handing her a dagger. The black steel had been polished to a mirror-like finish and, even under the clear light of Calen’s orb, it gleamed darkly, with strong red undertones. The hilt was wrapped in tightly braided, black-stained leather, and the straight, sharp blade was a little longer than her forearm. There was not a scratch on it.
+
+Eimuuran Steel Dagger – level 17Damage: Piercing, Physical+18 Dexterity.Requirements: 60 DexterityOne Handed – Dagger – Eimuuran Steel
+
+“Nice toothpick,” said Mato, peering over her shoulder.
+
+“No good. Me bash-bash, no slice-and-dice,” Ali chuckled, drawing a snort of laughter from the huge Beastkin. “What’s your assessment, Malika?”
+
+“A perfect weapon for an assassin – magical grade, with a very high dexterity enchantment,” Malika said, turning to examine the sword, armor, and shield. “Everything else is masterwork craftsmanship. My Appraise skill says that in addition to excellent craftsmanship, these all have high value as historical artifacts. It doesn’t seem like something a Kobold would normally have equipped – not to my thinking, anyway.”
+
+“If the armor and shield are this good, it’s no wonder that warrior was so hard to kill,” Ali said, turning the beautifully crafted dagger over in her hand.
+
+Eimuuran Steel. Why does that sound so familiar?
+
+She puzzled over it for a while, but in the end, it wasn’t the name but the dark reddish-black gleam of the steel that triggered her memories.
+
+Sla’eimyran stál. Can it be?
+
+The Ancient Dal’mohran name for Emberforged Steel. Ali had never been particularly interested in weapons or armor growing up, but even she knew Thovir Emberforge by sight. There were even statues of the legendary blacksmith by the entrance to the city, an honor reserved for the Council of Kings and the sages of the highest renown.
+
+Her school had once taken a field trip down to the forge, where she had observed the Dwarven Master Smith working his steel. Steel that was forged and tempered into exactly this color. The invention of Emberforged Steel had been Thovir’s crowning achievement. Something about the way it was made, or how it was used, had been so sought after, that merchants would cross the continent for a single commissioned item made by Thovir himself.
+
+Idly, she wondered how the name had morphed over the centuries to ‘Eimuuran’ rather than Emberforged, and why her notifications for Identify had failed to correctly translate it into Ancient Dal’mohran as it did with almost everything else.
+
+In the same instant, her mind turned to Thuli, the grumpy dwarf in his cold smithy, who Ali suddenly realized could have been Thovir’s brother were it not for the three thousand years that separated them.
+
+“These are artifacts of the ancient Dal’mohran forges,” Ali said, handing the dagger back to Malika. “Perhaps we should show them to the grumpy smith and see what he thinks? They could be valuable.”
+
+“That’s a good idea,” Malika answered. She quickly stored the daggers, sword, shield, and armor, and then handed Ali a bracelet. “Here, this is for your Fire Mage.”
+
+Bone Bracelet – level 12+5% to Fire damage.+11 Intelligence.Requirements: Intelligence 42.Hands – Charm
+
+Ali glanced at Malika in surprise, but as soon as she Identified the item, she understood. Five percent was not a lot, but again, those small increments could prove crucial. The bracelet was fashioned of the same bone substance that coated everything around them, but it had been polished to a smooth sheen. Delicately carved runes were etched into its shiny surface, forming the basis for the enchantments. Ali tipped it one way and another trying to get a good look at the tiny runes and the structure of the construct, finding, to her surprise, that she could understand most of them already using her Runic Script skill.
+
+“Here, this is for you,” she told her Fire Mage in Draconic, and handed him the bracelet.
+
+“You are most generous, Ancient Mistress,” he replied and slipped it on his wrist baring his sharp teeth in a vicious-looking grin. A grin that would once have sent her fleeing in terror, but now merely made her smile.
+
+After the break to recover their stamina, they pressed onward, picking their way through the creepy bone-encrusted streets, sending the crawling Bone Skitterers scampering for cover at every step. At least half of the patrols they encountered were higher-level Kobolds with the same dense, regenerating bone ridges and plates, drawing the battles out far longer than normal. Ali recalled the hordes of Kobolds out on the huge radial boulevard, realizing just how outclassed she and Mato had been the first time they had stumbled through these streets searching for the library and their way out.
+
+They turned a corner and Ali startled at a rush of the ever-present tiny bone creatures skittering across the street, racing for cover at their approach.
+
+Stupid bugs. She shivered, holding her opposite arms across her chest.
+
+It didn’t help that the entire environment was eerily familiar – she had lived here, and her subconscious knew it. And yet, at the same time, it felt entirely alien to her – some streets looked like they had been shrouded in a thick coat of dirty snow, while others seemed like a giant monstrous spider had turned them into its lair, trapping the skeletons of hapless Kobolds in the thick, solidified cobweb drapes, countless ribcages and small horned skulls frozen, plastered up against the walls forever. Everywhere she looked there were always tiny bone creatures crawling away at the edges of her vision, seen only by the brightness of the mana they had consumed. Mana that was rapidly growing dense and bright enough for her to be able to navigate entirely by mana sight.
+
+“I don’t like this place,” Malika whispered.
+
+Ali nodded. She had seldom walked through this formerly wealthy neighborhood, preferring the main boulevard whenever she traveled to and from the library, but that way was inaccessible to them now. Back then, this entire area would have been brightly lit and filled with important people, but now it was a sea of bone and bugs.
+
+What do they do with all the mana? Ali wondered, observing one of the crab-like creatures absorbing the abundant dark mana from a corner before their approach spooked it into scuttling out of sight. It was the sound, Ali realized, the soft clicking clatter of bone on bone as the creatures crawled around, that set her teeth on edge and made her scan the dark corners furtively.
+
+Calen suddenly stopped their advance, pointing down the next street, and Ali peered around the corner. She gasped at the sight of an enormous monster made of bone plates crawling along a wall – the same gigantic creature she had seen from afar with Mato.
+
+It moved with a grinding, ripping sound as the bone plates shifted constantly, carried along the wall by hundreds of tiny legs that bit into the bone and rock as easily as she might grab onto moss with her fingers.
+
+Seen from so much closer, it was truly unnerving. Ali recoiled from the sheer size of its domed and segmented carapace, and the jagged, sharp mandibles that protruded from its mouth. It was easily longer than her Bugbears were tall and probably weighed three or four times as much, and yet it crawled along the side of the wall as if gravity had inexplicably decided to take a vacation.
+
+As they watched, the creature approached a patrolling skeleton. The mandibles opened wide, and, in a flash, it bit down, making the top half of the skeleton disappear in an instant. Even from this distance, Ali could hear the grotesque crunching as the monster consumed the bones before returning for the other half of its meal. Moving on as if nothing had happened, the creature began spraying a gray fluid from its mouth which adhered to the wall, turning solid almost immediately, and sprouting spikes and ridges in a swirl of magical energy.
+
+“Gross,” Malika whispered, shuddering.
+
+“We need to go through that thing,” Calen observed, with what looked like forced calm. “Or… around it, although I can’t see how.”
+
+Spitter Drone – Elemental – level 25 (Bone)
+
+Ick. It’s like a massive pill bug. Made of bone.
+
+“That’s one ugly bug,” Mato said, echoing her thoughts. “You guys ready?”
+
+“Yes,” Malika said, her lips curling up in obvious distaste.
+
+As soon as they were ready, Mato charged the monster, with Malika sprinting along just behind him.
+
+“Go,” Ali told her minions, reinforcing the verbal command with her intent. All but her mage charged in. Her Mace Bugbear leapt through the air, flying seven or eight meters before he came down with a gigantic, smashing strike. To Ali’s surprise, the heavy mace bounced off the hard bone carapace with a loud bang and the tiny crack he had made rapidly closed. The axes and daggers of her remaining minions met with just as little success.
+
+The Spitter Drone dropped off the wall and one of her Kobolds had to dive for safety, barely avoiding being crushed by the huge bulk that sent a quake through the stone underfoot as it landed.
+
+Mato’s swipe tore some splinters of bone from the monster’s carapace, his claws glowing green in her mana sight as he empowered it with some magical skill. Probably Brutal Restoration, Ali decided. It turned on him with uncanny speed for such a massive creature, spraying a jet of vile fluid from between its two insect-like mandibles. The jet tracked across the ground, along Mato’s flank, and up the wall before it stopped. Dozens of razor-sharp bone spines shot out from the fluid, stabbing Mato and the nearest Bugbear before the mana twisted and the entire thing solidified.
+
+Mato roared in pain as his thrashing shattered the new bone encrusting his side, tearing out chunks of skin, flesh, and fur which the liquid had just turned to bone! His healing magic slowly flowed through his body, and the ossified flesh cracked and sloughed off as his wounds began to slowly knit together.
+
+Ali stared in horror. She couldn’t imagine the pain Mato must have just endured. But he just swiped a huge paw at the monstrous bug-like creature even while his blood leaked from between the cracks in the bone that hadn’t fallen off yet.
+
+“We need to fight smarter than this,” Ali exclaimed. “We can’t just tank it and hope for the best…”
+
+“Can you see if your Bugbears can target their mandibles, or legs?” Calen said, firing another arrow. “It must have some weakness.”
+
+“Ok,” Ali said, nodding. “Hit the legs,” she commanded her Bugbears, and instantly they switched strategy trying to wedge their maces under the lip of the carapace.
+
+Not wanting to let her friend endure the fight any longer than absolutely necessary, Ali immediately picked a spot and opened fire. Her Arcane Bolts slammed into the bony carapace with a staccato thwacking sound, flinging shards of broken and shattered bone in all directions, slowly forcing open a gap in the armor which grew wider only slightly faster than the bone armor’s extreme regeneration could close it up. Quickly, to capitalize on the vulnerability, she instructed her mage to use Firebolt to target the same location. Calen and Malika immediately noticed her efforts and joined in. It was clear that the bone was regenerating significantly faster than the Kobolds they had fought earlier. Ali dared not let up, or their efforts would be rapidly undone.
+
+Another fluid jet sprayed out, splashing against the wall and filling the air with a putrid stench. Even though it missed Mato this time, the spikes shooting out of the fluid as it hardened still impaled him several times before he twisted his body, snapping them off. Malika darted in to touch him with her healing magic before she returned to delivering a furious onslaught of flashing punches.
+
+The bug writhed and sprayed several more times while Ali rained down bolts in concert with her Fire Mage’s efforts, widening the hole torn through the carapace and exposing the monster’s innards.
+
+That’s just big enough to fit… she thought, sending the command to her mage.
+
+“Incoming Fireball!” she yelled, getting Malika to duck right as the sizzling ball of flame shot forth, slamming into the hole and vanishing inside the gigantic monster.
+
+There was a muffled thump and the sound of bone cracking, and suddenly, gouts of fire erupted from several large cracks in the rapidly disintegrating carapace. The Spitter Drone lurched sideways, ricocheting off the wall before slewing drunkenly to the left, nearly crushing Mato before the Bear danced free.
+
+“Go! Go! Go!” Ali’s rogues and Bugbears, useless in the fight until now, launched a devastating offensive, targeting the weak spots opened all over the heavily armored carapace by the powerful explosion of fire magic. Even though the carapace was visibly repairing itself already, the axes and daggers were relentless, sending shards of bone flying among sprays of vile gray fluid.
+
+For the first time in the battle, the monster shrieked, writhing to try to escape the furious onslaught. Its frantic thrashing sent some of her Kobolds flying, but the rogues were dexterous enough to land on their feet and resume the attack.
+
+After a few minutes of wild spray, glinting steel, and bone splinters shattering in all directions, the monster suddenly shuddered and stopped attacking.
+
+“We’re close! Attack!” She urged her minions to finish it.
+
+From deep within the monster, a dense ball of glowing mana began to coalesce, pulsing like a heartbeat that grew stronger with each beat. As it grew, the chill of premonition traced down Ali’s spine, setting her shivering with dread.
+
+“Take cover!” she yelled, throwing as much mana into a protective barrier as she could, blocking both herself and Calen.
+
+The mana within the monster pulsed one last time, and the entire behemoth of bone vaporized in a detonation that dwarfed her mage’s fire magic. Ali was flung to the ground as the entire stone street exploded, flinging deadly missiles of bone and rock in all directions, skewering her minions and ricocheting off her barrier and the walls behind her. All her rogues were blasted across the street, striking the stone walls with sickening splatting sounds. She reeled from the stinging recoil of multiple mana reservations snapping. Dimly, she saw Malika landing on the roof, pulling several shards of bone out of her thigh before pulsing her healing magic. Mato had been blown backward through a wall, but he emerged shaking his huge head before knocking several bone plates out of his shoulder and flank and clambering over the rubble.
+
+Ali stared in a daze at her cracked and beaten barrier which had surely saved her and Calen from being skewered. All around her, bone and … pieces… rained down silently. Malika was yelling something as she leapt down from the roof, but she too was silent.
+
+She seems very insistent.
+
+Malika was yelling something again.
+
+Oh, I’m deaf.
+
+Ali concentrated on Malika’s lips and got as far as “Run” before she saw a horde of Kobolds barreling around the corner at the far end of the street.
+
+Oh shit! That’s why.
+
+In panic, she struggled to her unsteady feet, reaching out for help. Only one of her minions remained – a Bugbear with only a bleeding stump protruding from beneath his heavy steel pauldron. Knowing she could never run as fast as the others, she commanded the Bugbear to pick her up and flee.
+
+Behind, she saw a churning mass of angry Kobolds and skeletons that grew into a tide that threatened to wash them away. More and more joined the throng as the group of adventurers fled into the dark streets of the ruins, desperate to get away.
+
+Ali summoned barrier after barrier behind them to slow the horde, but it was as effective as building sandcastles on the beach to stop the tide. They crossed the border from the encrusted buildings into the regular city and continued sprinting into the darkness, her Bugbear puffing and panting from the effort. Every time she checked behind her, Ali was certain the Kobolds were growing closer. They ran and ran, but the Kobolds chasing them were tireless, and even though she was still deaf, her imagination could easily conjure the chirps and hunting calls growing louder as they closed the distance.
+
+“They’re not giving up!” Ali yelled, her voice coming out as no more than a hollow vibration in her throat and skull.
+
+“We have to use the smoke bomb, teleport out!” Malika yelled. Or at least, that’s what her lips seemed to say. A black potion appeared in Malika’s hand.
+
+Ali’s guild ring had come with a free potion of recall, and she quickly found it and summoned the vial of black liquid.
+
+Malika threw her potion to the ground, and she vanished in a silent explosion of shattered glass and black smoke.
+
+“Put me down quickly,” she told her Bugbear, and as soon as she reached the ground, she dashed the potion on the stone at her feet, feeling the disorienting lurch in the pit of her stomach as the magic pulled her away.
+
+She didn’t stumble this time, but she experienced strong vertigo and dizziness as she was whisked into the teleportation locus in the center of the Novaspark Academy of Magic. Malika was off to the side wearing a worried expression, and a few moments later twin puffs of smoke and a fresh smell of burning signaled the arrival of Mato and Calen. Ali let out a held breath sensing the last reserved mana for her Bugbear snapping away. She shivered. That was close.
+
+Malika sat down and hugged Ali, pulsing healing magic through her body. “Well, that was a spectacular disaster, are you ok?”
+
+Ali’s hearing cleared instantly as Malika’s magic repaired the damage.
+
+Ali nodded, but her body was still shaking from the aftereffects of the huge adrenaline-fueled run for their lives across half the ruined city, and the delightful experience of being blown up by a monstrous bug creature of bone.
+
+“How can we ever win against that many?” Ali asked. Her voice shook but she didn’t care. The explosion had nearly killed them, and if she hadn’t reacted exactly when she did, she was certain both she and Calen would have died in the explosion. The horde of Kobolds drawn to the explosion had been endless.
+
+“Relax a little, Ali,” Mato said, his voice unreasonably calm.
+
+“How can I relax after… that!”
+
+“It was a pretty epic train, I will agree. And that bug exploding was something else. But we won, and we got out alive, so in my books, that’s a good fight,” he declared, grinning.
+
+Ali looked at him incredulously. Is he even on the same planet? Did he not see the Kobolds?
+
+“You didn’t get hurt, did you?” he asked.
+
+Ali opened her mouth and then shut it again in surprise. I didn’t even get hit. In fact, the only damage she had sustained was when the shockwave from the explosion had burst her eardrums. She glared at Mato and frowned. “But you had your body turned to bone! You had to break it off in pieces. And I saw you impaled by dozens of shards when that thing exploded!”
+
+“I’m the tank now. I have a lot of health and armor – it’s my job to get hit so you guys don’t have to.” He smiled softly at her. “Yes, we were surprised by that explosion at the end, but other than that, the battle went pretty well.”
+
+“You’re ignoring the part where we almost died to a horde of Kobolds that wouldn’t give up after running halfway across the city. And that was after almost being blown up by a giant bone monster,” Malika pointed out, taking a strongly contrasting position to Mato’s rosy perspective. “Not to mention the cost of those potions to save us. Still…”
+
+“Yeah, I prefer being alive, too,” Mato agreed.
+
+“We can learn from this,” Calen put in.
+
+Their calm logic slowly dispelled Ali’s adrenaline-jangled nerves and her feelings of being overwhelmed. She began to think about it a little more objectively. Malika’s right, he’s taking an overly optimistic view, but he’s not entirely wrong. I don’t want to do that again, but at least we are alive because we were prepared and had those potions to escape. We can fight another day, we will fight – and we’ll fight better, too.
+
+Ali regarded her inner thoughts with surprise. Huh. If she didn’t know any better, she might be accused of sounding brave.
+
+After taking a few moments to recover, Ali and Malika settled the mana debt for their teleportation fee. Between the two of them, they were easily able to cover it without waiting to regenerate.
+
+He must see this kind of thing all the time, Ali thought, noticing that the official hadn’t interrupted his work for even a moment during their entire conversation. Her gaze lingered a little on the beautiful runework of the teleportation locus before she followed her friends out of the hall.
+
+These three have my back. I’m only alive because of them.
+
+Some things no amount of coin could buy.

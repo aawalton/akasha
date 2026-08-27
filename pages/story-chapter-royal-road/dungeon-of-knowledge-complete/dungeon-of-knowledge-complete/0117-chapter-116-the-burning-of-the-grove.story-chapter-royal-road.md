@@ -1,0 +1,195 @@
+---
+id: ecbf56cd-47b5-5fb7-b784-2de8961614c9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 116: The Burning of the Grove"
+slug: 0117-chapter-116-the-burning-of-the-grove
+partOf: dungeon-of-knowledge-complete
+position: 117
+ownLength: 3935
+unit: words
+ownProgress: 3935
+publishedAt: 2024-08-20
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1766796/chapter-116-the-burning-of-the-grove"
+royalRoadId: "1766796"
+markedReadAt: "2026-06-29T20:14:58.748Z"
+---
+
+“Hi, Weldin,” Malika called out as she strode confidently into the elegantly dressed Gnome’s store area, knowing she was going to make his day.
+
+“Malika! How are you, my dear?” he declared, greeting her with an enormous smile. The flirting was an act, obviously, but she knew he had to play the part of buttering her up because she was very likely his most lucrative source of merchandise. He knew, she knew, and he knew she knew. But it was both amusing and, she had to admit, felt pretty nice.
+
+“I have something that might be of… oh… moderate interest to you,” she announced, downplaying it with equally comical exaggeration. She leaned forward, placing an elbow on the countertop, automatically appraising some of the newer items on display that caught her eye.
+
+“Oh?” he answered, raising the eyebrow of his good eye. He pulled out an expensive-looking pocket watch, making a show of examining it, while also making sure she got a good look too. “I guess I have a little time for you. But… only because you have such a radiant smile.”
+
+Malika chuckled; it was over the top even for him. Without much fuss, she simply retrieved the chunks of magicite Ali had given her to sell, placing them on the counter before him with studied nonchalance.
+
+“Think you can get anything for these shiny rocks?” she asked. Malika had the intense satisfaction of watching his jaw drop in shock before he carefully collected himself.
+
+“Oh, maybe a few coppers,” he managed, his voice cracking a little as he reached out to examine one of the chunks of raw magicite.
+
+“Mm?” Malika responded.
+
+“Seriously, I have no idea how much I can get for this, but I’m sure it’s a lot,” Weldin said, dropping the act. “Would you be willing to leave it with me without upfront payment? Fifteen percent seller fee for whatever I can get from the Novaspark Academy and the rest of the profit deposited in your account?”
+
+“Ten percent seems fairer,” Malika countered.
+
+“I still need to pay Vivian. How about ten for me, three for the guild cut, and you get the rest?”
+
+“Deal,” Malika answered. As usual, she wasn’t about to tell him that Ali could make as much of it as she wanted, but long term that would probably just serve him as a steady source of income anyway. His offer was generous – most resale merchants in town would probably try to take twenty to twenty-five percent. He’s such a fantastic addition to the guild.
+
+After her business with Weldin was concluded, Malika strolled over to the common area and found a seat, joining the surprisingly small group of adventurers waiting for Vivian’s daily briefing. It had been a fantastic day so far, and the highlight for her had been Ali treating her to an extended spa session at the hot baths. It had been pure bliss, and she was certain she had fallen asleep several times. She rolled her shoulders, relishing the sensation of relaxed muscles.
+
+“Ok, let’s get started,” Vivian announced, joining them with Mieriel following behind her with a stack of papers to tack up on the noticeboard. “Where is everyone?” she asked, surveying the tiny gathering.
+
+“Calen and Mato are doing family stuff, and Ali is busy. I will catch them up later,” Malika offered. She eyed Mieriel suspiciously, but she seemed demure, busy pinning up the notices and new quests. Malika wasn’t about to admit that Ali had seemed scared of her and that was the real reason she had stayed away today.
+
+“Aiden’s group was killing slimes in the sewer; they should be along in a bit,” Serendipity said.
+
+“Ok, well, we should get started,” Vivian said, obviously unhappy with the poor showing but not enough to make a big deal out of it. “There have been some disturbing reports from the scouts, and enough of them to take it seriously. There is some unknown blight consuming all the farmland to the south of the town, and there have been credible reports of undead roaming at night. Expect some jobs killing undead and helping with the farmers.”
+
+Undead? Blight? Vivian Ross’s words immediately captured her attention. A blight would explain the rising food prices, but undead implied something far more serious than she had expected.
+
+“Furthermore, it seems the Torian army has noticed, and begun to move a large number of troops toward the border. Commander Gerald Brand wants to beef up the security, so you will find several supply requests on the jobs board. Those of you who were here for the Goblin siege should be familiar with the drill – the garrison will be in charge of the walls, and we will back them up–”
+
+“Help! Healer!”
+
+The shout rang through the guild hall, blending with the crash of the door slamming open, and cutting Vivian off mid-sentence.
+
+Malika’s head snapped to the doorway as she stared at the intruders for a moment before she recognized them. Aiden stepped across the threshold, flanked by the rest of his team. Everyone was limping or bleeding, and, cradled in his arms, was a small, limp bundle that seemed more red than green.
+
+Havok! Malika was across the room in a shot, burning stamina to accelerate herself as she recognized the little Goblin in Aiden’s arms. He’s not… dead? The tiny body was horrifyingly still, and there was so much blood that it was already pooling on the floor. She pulsed Healing Mantra, and to her intense relief, her magic surged through the Goblin’s body, repairing severe wounds as it went – but he only seemed to quiver slightly, remaining unconscious. He was in bad shape.
+
+A moment later, a beam of green nature magic lanced out across the room to the other members of the badly injured group as Teagan added her magic to help.
+
+“What happened?” Vivian asked, instantly at the door with both swords drawn.
+
+“The Town Watch attacked us in the sewers,” Aiden said, his voice steadying as the healing magic began to restore his strength. “Roderik and some of his underlings did this. He was convinced Aliandra is a dungeon or something, and he insisted we tell him where she was.”
+
+Oh no! Ali? She didn’t know how the Watch had figured out Ali’s secret, but she was in immediate danger. Everyone else seemed shocked and surprised, but Malika didn’t miss the significant glance Vivian exchanged with Mieriel. But the question of how they knew fled from her mind as Aiden continued.
+
+“Havok refused, and Roderik almost killed him. It was Aliandra that saved his life, but they all chased her. He’s really going to kill her.”
+
+Fuck!
+
+Malika didn’t wait to hear any more, Roderik was a high-level Ice Mage – and an uncaring monster with a penchant for murder. Ali’s life was in immediate danger. She pumped stamina into her Divine Step skill and shot out of the guild at top speed, literally leaping down the sewer entrance in the adjacent alleyway. She tore through the sewer tunnels, sprinting as fast as she could until she reached the chamber leading down into the forest cavern.
+
+She coughed harshly, surprised to find herself surrounded by smoke and the strong smell of fire but she didn’t slow, leaping down the hole without a thought. Ali’s barrier stairway was gone, but she controlled her fall using Divine Step and landed softly on the rocks below. She finally paused, staring out in shock.
+
+Half of the gigantic cavern was aflame. The beautiful blue lake no longer glowed, filled now with charred tree trunks and ash. Ali’s bright stand of larch trees she had learned from the jungle was gone – consumed by a towering inferno of flame and black smoke. Figures scurried about among the trees or flew overhead, shouting to one another, occasionally casting magic to set some new part of the forest on fire.
+
+At the far end of the cavern, a red ball of fire blossomed in the bamboo forest. She saw the explosion before she heard it as the powerful magic spell flattened the bamboo stalks and triggered an enormous rockfall that buried the northwestern corner of the cavern and the passage out to the ruins.
+
+Ali! Malika had no idea if she would find her there, but her first thought was the invaders had caught her at their camp beside the shrine. She shot off like a bolt from a crossbow, tearing through the trees, leaping over walls of flame and burnt branches, burning stamina in her urgency to find Ali before they killed her. She coughed and hacked again, healing her lungs to keep them working efficiently in the dense smoke and heat as she cut straight through an intense fire to save time.
+
+Malika burst out into the Grove, slapping the flames that had caught her shirt on fire. The trees all around the Grove were burning and their camp had been looted. Mercifully, they were in the habit of packing anything truly valuable in their storage rings.
+
+“Ali! Where are you!” she yelled, not seeing her anywhere.
+
+“Hey! She’s with the dungeon!” The voice yelled loudly from behind and above, immediately firing arrows down on her.
+
+Malika dodged even as the twanging bowstrings sounded, rolling across the moss, but a second figure appeared, alighting on the mossy ground and immediately shooting a Firebolt which hit her on the shoulder. Malika healed the damage and sprinted directly at the mage.
+
+Halfway there, an accelerated figure wearing assorted burnished plate armor pieces shot out of the forest, smashing into her side, and sending her sprawling. Malika turned the collision into a graceful roll, springing to her feet in a balanced stance. But by the time she rose, more figures had appeared, some flying in, some leaping across the trees, and yet others ran with accelerated skills.
+
+Shit. Suddenly, Malika found herself dodging swords, daggers, and a huge mace as four melee fighters came at her in a loose skirmish line. In the distance, now out of reach, several mages and archers gathered, taking potshots at her with their weapons and spells. She flew through her defensive stances, blocking the overwhelming number of empowered strikes that sought her blood while healing the spells and cuts that she was unable to avoid.
+
+“What did you do with Ali?” Malika yelled, dodging a firebolt while blocking an overhead sword strike.
+
+“Shut up, dungeon-lover!”
+
+“Just die, Torian scum!”
+
+She punched the tall redhead wearing the burnished breastplate in the mouth, feeling the satisfactory crunch of a few broken teeth and a yelp of pain. It seemed the Town Watch flunkies were not going to give her any room. Where is she? She scanned the Grove for any signs of Ali, but all she got was a dagger to the ribs for her lack of attentiveness. She healed it even while the trail of her blood followed the dagger as it was pulled from her body. She blocked three more strikes before an arrow struck her in the back, causing her to stumble into another sword strike.
+
+“Fuck, she’s a healer!”
+
+Malika recovered, leaping into the air and over the head of one of her attackers, pulling the arrow free, healing the puncture wound, and kicking him in the back of the head before she landed. But the strikes kept coming, and not even her high speed was enough to handle one against ten.
+
+Eleven, she corrected herself, seeing the priest show up huffing and coughing in the smoky air, and begin casting his healing magic on her enemies. She leapt over another warrior, kicking him on the way, and sprinted for the priest. But two of the rogues were just as fast as she was, closing the gap and forcing her to spin around and block. As soon as she had blocked them, the warriors were charging her, and the priest had backed up again. Ugh!
+
+She pressed their line again and again, but each time she was cornered, intercepted, or cut off, forced to fight the heavily armored warriors or the dexterous rogues. She was easily able to resist their shouts and taunts with her high wisdom, but their positioning and teamwork still forced her into accepting unfavorable opponents.
+
+I can’t get to him, she thought, eyeing the priest behind their lines.
+
+And she was losing. Her stamina may be relentless, but it wasn’t infinite. Malika was taking a lot of strikes, forced to heal constantly against so many enemies. She had been so concerned about Ali dying that she hadn’t thought to wait for support and had run straight into the enemy where they were strongest.
+
+“Buff now!” one of the warriors commanded, and in response, an archer cast some magic. Instantly, every one of the melee fighters and the archers accelerated as their haste buff took effect.
+
+Malika’s mind was calm, but she knew this was it. She switched to pure defense, saving all her energy and effort for blocking and dodging, but the strikes kept landing, a dagger to her knee, a sword slash to her ribs, an arrow in the chest. And she still hadn’t learned anything of Ali’s fate.
+
+A loud crack split the air, and a Lightning Bolt struck from the sky. Malika gritted her teeth and dove sideways, healing the heavy damage that left her muscles trembling and weakened. Only to meet a heavy mace to her ribs. Bones cracked as she was flung to the ground. She winced, healing herself and rolling out of the way of the follow-up attack.
+
+A massive four-legged furred form shot past her, claws tearing up great clods of dirt and moss. A roar reverberated through the Grove, but the beast tore past the warriors and rogues and continued on toward the group of mages and archers instead.
+
+Mato, you missed! She was, of course, relieved that he had come, but he had left her on the ground facing all the warriors and rogues. But to her surprise, they all turned as one and charged after the bear.
+
+Huh? Oh, Taunt. She rarely worried about taunt abilities herself because her wisdom was high enough that her mind was unlikely to be affected by the challenge. These warriors and rogues she was facing obviously didn’t have nearly enough because they were all tearing after Mato as he crashed into the ranged fighters.
+
+All of them scattered, desperate to flee from the huge bear, but in a flurry of power too fast for even Malika’s own accelerated perceptions to grasp, Mato retaliated, striking all of them with a devastating blow, and pinning them to the ground in range of his strikes with his Grasping Roots.
+
+Holy shit! With a single Charge, a well-timed Challenging Roar, and some virtuoso positioning with his retaliatory strike, Mato had managed to take control of the entire battlefield in an instant, turning every single fighter to himself. The mages, archers, and the priest trapped in the grip of his roots were definitely struggling.
+
+Malika sprang to her feet at once and charged to his aid, leaping over a rogue with the help of a foot planted against his upturned nose, delivering a passing taste of Soul Strike to his face. She alighted on Mato’s back, pulsing her Healing Mantra into him through her feet before springing off and landing a kick on the side of the dazed priest’s head. To her left, one of the mages vanished, clearly using a potent escape skill. Mato swiped, striking everything in the path of his claws, filling the air with a chorus of screams and sprays of blood. Malika remained trained on their priest, unleashing every attack at him.
+
+Somewhere far above Malika, radiant light shone out over the Grove like a noon sun. Calen’s precision glowing arrows rained down from the sky, most of them agreeing with her choice of most important target. The priest collapsed to an almost unheard chime and Malika pumped more of her healing into Mato before unleashing a flurry of attacks.
+
+We must find Ali. How did the damned Town Watch find her? We’ve been so stupid! That thought drove her to a recklessness in battle that she seldom indulged. She pummeled the Fire Mage before her, ignoring the flame shield he was projecting, allowing it to simply burn her hands and feet as she slammed more and more punches into him, sapping his mana with Soul Strike. He squealed, trying desperately to back away, earning another devastating retaliatory Swipe from Mato for his efforts.
+
+I don’t see her. The possibility that they had arrived too late gnawed at her gut. Malika grabbed the stunned mage by the back of his neck, spinning him around to give Calen a clear shot, and then she released him, executing a single powerful follow-up kick that rammed the arrow right through the man’s back, till it emerged from his chest. She dropped him into the path of Mato’s devastating Swipe, ignoring both the gruesome crunch of the man’s ribcage shattering and the inevitable chime as she looked around.
+
+Where is she? She searched the battlefield, but there was no sign of Ali – dead or alive. Only Mato, in the thick of battle tearing through the Town Watch casters like they were paper, ignoring the warriors and rogues, content to rely on his thick hide. Malika pulsed more healing magic into him, making sure he could keep up with the enormously unfavorable numbers. Every time someone tried to flee, Mato’s retaliation punished them brutally.
+
+A mage vanished from her root prison in a shower of sparks, appearing above the battlefield, and immediately beginning to cast something that caused arcing electricity to spray from her arms and shoulders. Malika leaped into the air, stepping off Mato’s back, and then twice stepping off the air itself using Divine Step before she executed a forward flip ending with her heel striking the back of the lightning mage’s neck. With an enormous detonation and blinding flash, her spell went off prematurely, enveloping both of them in an giant ball of lightning. Malika healed herself twice, warding off the damage while her body twitched and jerked uncontrollably in the throes of the offensive lightning magic.
+
+She took a deep, ragged breath and kicked low and round, knocking the still-stunned lightning mage back down into Mato’s range. With her nerves still jangling from the lightning, Malika followed, diving back into the fray with a whirlwind of punches and kicks as she unleashed her magic, flickering and flashing at close range, pausing only when Mato needed her healing.
+
+***
+
+“Did you guys find any sign of Ali?” Malika asked, breathless and frantic. Most of the intruders lay dead on the moss, soon to be consumed by fire, or had fled the cavern. She had seen nothing of their friend, and if the Town Watch was anything to go by, Ali would not be able to stand up against them alone.
+
+“She’s alive, and over that way,” Calen said, pointing off to the side, and at a steep angle downward.
+
+“How do you…” Oh. In her haste, she had forgotten that Calen had unlocked an advanced tracking skill. The fact that he could sense the direction to Ali, probably meant she had to be alive… against all odds. While relieved, Malika also felt stupid. She could have been a lot more efficient if she had waited for them before charging off on her own. Calen probably had to track her down and help save her before they hunted for Ali.
+
+“She’s in the library, and she hasn’t moved in a while,” he said. Mercifully, Calen did not criticize her for her mistake. “Probably wounded.”
+
+“We can’t go through the front entrance,” Malika said, pointing to the rockfall caused by the massive explosion earlier.
+
+“Ventilation shaft, then,” Calen suggested, and the three of them took off in the direction of the small cave where they had faced the four-armed skeleton boss for the first time, and she and Calen had been captured by Kieran Mori.
+
+It didn’t take long, but what they found sent fresh worry coursing through her mind. A dead Forest Guardian lay among the ripped and torn corpses of several Town Watch, most of which were still bound by roots and vines. One of them, Malika even recognized as a former guildmate who had abandoned the guild for the lucrative Town Watch paychecks. Behind the Guardian there was a circle of frozen forest about thirty yards in diameter, slowly defrosting, along with an alarmingly fresh pool of frozen blood – both amber and red.
+
+“She was here,” Calen confirmed, quickly following a trail that was visible only to him into the dark cave. He summoned his mote of light for their benefit as soon as they joined him.
+
+“Where’s the hole?” she asked, her eyes refusing to believe what they saw. There was no sign of the ventilation shaft. The only thing Malika could see was a smooth, shiny black surface made from a dense hard stone where the shaft had once been.
+
+“That’s Ali’s work,” Calen said.
+
+“But now we can’t get down to help her,” Malika added, letting her frustration fill her voice.
+
+“The Kobolds had other ways out of the ruins. It may take a while to find, but I think that’s our best option.”
+
+“Ok, let’s do that,” Mato said. His throat worked. “They… know, don’t they?”
+
+“Yes, they do,” Calen said softly.
+
+“She’s going to know – we knew. Right?”
+
+Shutting out their soft, pained conversation, Malika exited the cave and glanced around. The giant forest cavern was quiet now, none of the shouts and explosions could be heard. Only the fires raged on, filling the air with acrid smoke and ash as everything burned.
+
+We killed them. She was looking at the mangled corpses surrounding the Forest Guardian, but she was thinking of the Town Watch they had wiped out at the Grove. While they were the Town Watch, and dealing them such a heavy blow would be a great win for Myrin’s Keep, Malika still felt sick to the stomach for having had to kill strangers. And now we’re probably outlaws in town, she thought grimly. Some of the Town Watch members had most definitely escaped using their magic to flee. They would most certainly not remain silent. Friends with a fucking dungeon. If we’ll ever be friends after she realizes…
+
+“Here,” Malika said, stooping to pick up a bow and tossing it to Calen. “You need to upgrade that junk you’re using.” She proceeded to busy herself collecting all the usable gear. Not sure when we’ll be able to visit a store, she thought, worried that they would no longer be welcome back in town.
+
+“Thanks,” Calen said. “Spend your points, and then let’s get to tracking.”
+
+“What… oh,” Malika said, realizing that the fight with the Town Watch had been enough to kick her up a level.
+
+Soul Monk has reached level 36.+10 attribute points.
+
+She immediately spent five points on dexterity and three on wisdom, dropping her last two into endurance for more stamina.
+
+Martial Artist has reached level 19.Soul Strike has reached level 22.Healing Mantra has reached level 22.Enlightened Evasion has reached level 21.Divine Step has reached level 22 (+2).Second Wind has reached level 10.Clarity has reached level 7.Dancing has reached level 6.Appraise has reached level 13.
+
+“Ok, let’s go,” she said. Ali, hold on, we’re coming. I’ll find you… somehow. I didn’t earn Street Rat by giving up when shit got rough.

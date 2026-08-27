@@ -1,0 +1,171 @@
+---
+id: 8e494cae-8197-50a0-8b0e-167b3b21ed0b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 233: Instantaneous Step"
+slug: 0265-chapter-233-instantaneous-step
+partOf: dungeon-of-knowledge-complete
+position: 265
+ownLength: 2877
+unit: words
+ownProgress: 2877
+publishedAt: 2025-04-26
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2232917/chapter-233-instantaneous-step"
+royalRoadId: "2232917"
+markedReadAt: "2026-06-29T20:20:12.060Z"
+---
+
+Ice magic. Malika frowned, quietly listening to Ali and Calen discuss the abilities and skills of these new trolls. They had been quite easy to kill once she had closed the distance, but actually getting there had proven exceptionally frustrating and difficult. Calen had assessed them as a glass-cannon build, but, in her opinion, their skills were much better described as control magic. Or, at least, anti-melee.
+
+They had filled the battlefield with ice and snow, chilling her to the bone; and she hated how slow their magic made her. Regularly being frozen in place, even for a few seconds, really disrupted the flow of her martial arts. Even when she reached them, they could teleport away or turn themselves into invulnerable ice blocks for a few seconds. Just punching them had caused her to freeze several times, presumably the result of that Ice Shield skill Calen was so excited about.
+
+This dungeon was proving to be substantially more dangerous than the Emberforge Mines with all its fire elementals and drakes, but as usual, the added risk had been catapulting her class levels to new heights. They had just defeated Kir’vella – the highest-level raid boss she had ever heard of – and she had gained five levels for that fight, putting her well above seventy. Now, right after defeating the ice trolls, she had heard her notification chime again.
+
+She ignored the rest of the discussion about the ice trolls, the corpses, and the gear she would need to appraise, choosing to examine her notifications first.
+
+Soul Monk has reached level 75.+10 attribute points.
+
+At least I got a level for that, she thought. She had been worried that she was spending almost all her time dodging Ice Bolts and trying to recover from the chilling Frost Nova blasts and hadn’t even had the chance to be effective. But now at level seventy-five, she was likely in the top ten percent of all the people in Myrin’s Keep, if not higher. Probably not even the percent. Just top ten. It was hard to count more than a handful of people higher than her current level: Vivian, for sure; Donella Novaspark; Kieran Mori, obviously; maybe Lamyndra Duskwind, the priestess of Lunaré; and probably Commander Brand. A vast change from her days snatching what little sleep she could under piles of trash in the alleyways in constant fear of being found by Adrik and Edrik.
+
+It's hard to believe those thugs were only level twenty.
+
+With only one level’s worth of points to spend, she simply spent two points on everything except strength and intelligence.
+
+Soul Strike has reached level 44.Healing Mantra has reached level 46 (+2).Perfect Body has reached level 28.Enlightened Evasion has reached level 38 (+2).Divine Step has reached level 40 (+3).Second Wind has reached level 24.Clarity has reached level 24.Soul Sight has reached level 24.
+
+Not bad. She smiled, relishing the satisfaction of internalizing the skill level advances. She had pushed herself hard in the last fight, trying to combine her Enlightened Evasion and the haste provided by Divine Step to avoid the chilling Ice Bolt streams, and it had worked, to an extent. She was the only melee fighter in their group who had been able to engage much, and her efforts had been well rewarded with skill growth.
+
+But her notifications were not done yet. What’s this?
+
+Requirements met for skill advancement.Mentor: Rezan Jin.Survive six simultaneous strikes from Instantaneous Strike.Divine Step has reached at least level 40.Dancing has reached at least level 10.Dexterity has surpassed 700.Wisdom has surpassed 600.Killed a monster without ever touching the ground.Pushed beyond your speed limits while magically slowed.Defeated Mirage Armor with speed to save an ally.Divine Step gains Instantaneous Step.(You can step between spaces, instantly transporting yourself to a nearby location.)Divine Step – level 40Stamina: Channel your energy through your body and to the immediate environment around you to control your momentum, significantly increasing your combat and movement speed. You can step, push, or jump off objects that couldn't otherwise support you.Stamina: You can step between spaces, instantly transporting yourself to a nearby location. Range: 110 feet. Recharge: 10 seconds.Soul, Movement, Haste, DexterityAccept this advancement?
+
+A teleport!
+
+She could scarcely believe what she was seeing. It was just like the stories her mother used to read to her before bedtime – legends of bold Ahn Khen warriors who possessed incomprehensible arts. It was mages that could teleport, not fighters. But, unless she was misunderstanding her new advancement, that was precisely what she had just unlocked.
+
+It had taken being nearly killed by Rezan’s signature bloodline skill – Instantaneous Strike – something he had only shown her once, and then only because he had needed to save her from her rapidly unraveling bloodline.
+
+But it had also required her to push herself, using her Divine Step in ways that stretched its very limits.
+
+Not sure I like the theme of hitting allies to save them though, she thought. Two of the requirements for her advancement had come from punching friends to save them.
+
+She hopped to her feet, accepting the offering and drawing curious looks from her friends. But, for the moment, she ignored them – there would be time enough for explanations after she tried it out.
+
+She explored the sense of Divine Step with her mind and Soul Sight as she channeled her stamina and fed it to the skill. She accelerated her body with the momentum control, pushing it carefully to the edge of her capacity, and as she reached the peak of her haste, she sensed the familiar resistance point beyond which she could not accelerate further. A barrier she had struggled against the entire fight.
+
+I hate being slow.
+
+She pushed harder, sensing something different with how her stamina was now flowing, suffusing her entire body with vibrating energy and a sense of anticipation, of standing upon a threshold. All around her, stamina energy began leaking through the cracks, tiny wisps of white, like smoke seeping under a doorway, outlining… a path forward?
+
+Suddenly she felt something give, and she took a step across that threshold. The world flickered, not unlike the strange shifts in the Spirit Realm, and she was somewhere else.
+
+She looked back, finding herself on the far side of the clearing, behind the rough hovel with the bone roof. Her heart began to beat, just a little faster, as the excitement began welling up within her. She pushed against the ethereal doorway buried somewhere inside, but it remained stubbornly shut. Ten seconds later, her recharge timer expired, and her energy began seeping past the threshold again. She triggered it again, the shift coming far easier the second time. She instantly appeared in the center of the clearing among the surprised and excited exclamations of her friends. Aah, so that’s how it works! This is awesome!
+
+“Malika! You got a teleport!” Ali was bouncing up and down with excitement, beaming from ear to ear. “Do it again!”
+
+“Yes, Divine Step just advanced,” she confirmed, finding her annoyance with the ice magic of the trolls had vanished, leaving only an eagerness for a rematch. She sat down beside Ali, her mind replaying the problems and frustrations of the battle as she tried to reconstruct her strategies for how to avoid the freezing ice bolts with her newest ability.
+
+“From that last fight?”
+
+“Yes. Tell me, Ali, how do you think of your teleport strategies in battle?” Malika asked, sharing the details of the advancement with all of them.
+
+“Well, I use mine to move my minions more often than myself,” Ali answered. “You probably want yours to get into battle, not away from it…”
+
+“I have ideas… so many ideas!” Calen said. He wasn’t hopping up and down like Ali had, but he was brimming with just as much excitement.
+
+“Of course you do,” Mato chuckled.
+
+“Tell me,” Malika said, breaking the dam holding back the torrent of ideas as Ali and Calen began playing off each other to produce ever crazier schemes to defeat the trolls. Some of the ideas even had potential.
+
+After a little more experimentation, getting to know her new skill, and a lot more discussion, Malika finally sat down next to the collected pile of gear they had recovered from the fight so that she could Appraise it all.
+
+This was the first time they had found trolls wearing anything other than leather and bone armor. The difference between Aman Rak and the Telim Gor delegation? The first thing she picked up was a robe of shimmering blue and white fabric, soft and cold in her hands.
+
+This is extraordinary craftsmanship. Troll crafting seemed to be a hodgepodge of contradictions; on one hand, she had a painted skull impaled on a stick, and then there was this. The silky robe caressing her fingers would likely be prized by the highest circles of fashion and magic in any capital city she had ever heard of. Even the legendary Ciradyl.
+
+Frostweave Robes of Ice – level 80A long, elegantly flowing mage robe, expertly crafted from frostweave fabric. It is cold to the touch due to the cold essences and ice magic imbued into its weave. Resistance: 1152+51 Intelligence+12 Perception+21% spell damage to Ice skills +10% chance to chill on dealing Ice damage.Requirements: Intelligence 280Quality: UncommonValue: 53 goldBody – FrostweaveAppraise has reached level 22.
+
+This is really something, Malika thought as she ran her fingers across the fabric, scattering some tiny ice crystals that had formed on its surface. It was so silky and soft that she could almost not help herself from caressing it constantly. Apart from the one Ali’s newest troll was wearing, they had four more of them in the pile – all identical except for minor variations in the required class level – which ranged from 75 to 80 – and enchantment values.
+
+Frostweave…
+
+“Hey, Ali, do you think you could learn to make this?” she asked, dragging her friend’s attention away from her new minion – which was obviously quite exciting for her. Ali turned as she offered the Frostweave Robes of Ice.
+
+“Wow,” Ali responded, falling silent for a few moments while she also ran her hands along the fabric, exploring the unusual tactile sensation of the magical frostweave fabric. “I wish I was an ice mage,” she joked. “That’s a lot of resistance.”
+
+“We could sell these for a fortune, they’re all worth more than fifty gold each,” Malika answered, getting a look of surprise from Ali. “But I was thinking of something more practical – do you think Lydia could learn to make something like this?”
+
+“Oh, that’s a great idea,” Ali said, instantly appreciating her line of thinking.
+
+Not only were the robes made from an extraordinary new fabric, but there were two powerful mana affinity enchantments crafted onto it. Lydia had demonstrated she could make Fire Silk and learn enchantments from studying items. Granted, the study was ludicrously expensive, damaging the items beyond repair, but that was no problem if Ali could simply manufacture more samples whenever she needed.
+
+And there were a few up-and-coming adventurers in the guild with an ice affinity now. Probably even more at the Novaspark Academy, she thought. But Malika was far more interested in the Tailor’s ability to customize whatever she made – while these robes might be great for an Ice Mage, just swapping out one or two of the enchantments might make them far more useful for Ali or her minions.
+
+“I’m sure Lydia can learn the enchantments, I just don’t know what it will take to create the fabric itself,” Ali said, studying the cloth intently. “Perhaps if I learn those Frost Weaver spiders, she and Hilda can figure it out? And perhaps we keep an eye out for something like a ‘cold essence’ – I remember the Fire Silk required some Essence of Fire to make.”
+
+“You know my mom is going to turn that fabric into ballgowns, right?” Calen said.
+
+“I’m sure that will make her happy, too,” Malika answered with a chuckle.
+
+“And upend the entire pecking order among the fashion-conscious upper-crust partygoers in Myrin’s Keep,” Ali added.
+
+“Whatever,” Malika said. “As long as she makes a ton of money from them, she can keep making you good stuff to wear in dungeons.”
+
+“Right. Good point,” Ali said, already busy deconstructing the robes, handing the last one back as soon as her Grimoire appeared.
+
+I may have to sell this in Ciradyl, Malika thought, stashing the remaining robe in her ring. Myrin’s Keep didn’t even have an Ice Mage close to level eighty – Roderik Icecrown had probably been the closest, and Ali had been forced to kill him.
+
+Malika reached down to the substantially smaller pile of stuff on the ground, picking up a jeweled earring. It was a simple drop earring – a deep blue teardrop-shaped sapphire attached to a short silver chain. She held it up to the light, admiring the softly pulsing inner glow.
+
+Frosted Sapphire Drop – level 75A sapphire and silver earring imbued with the power of frost. +47 Intelligence+21% to Ice resistance.+12% to Ice damage. +25% to mana regeneration.Requirements: Intelligence 263.Quality: UncommonValue: 49 goldHead – Earring.
+
+Mage gear. Malika studied it carefully, chuckling inwardly at the thought of pure jealousy and avarice she would provoke if she wore this around Giddy Clicksprocket.
+
+“Here, Ali,” she said, passing the earring to her. “This is better than your hairpin for what we’re facing now.”
+
+“Ooh! Now I really wish I was an Ice Mage,” Ali said, her eyes lighting up as she examined the earring before putting it on and storing her old hairpin.
+
+“You too, Calen,” Malika said, tossing a second one to him. “You don’t have anything for your head.”
+
+“It’s… pretty?” he said, examining the earring.
+
+“If I have to wear this ugly mask and bloody face paint, you get to wear the pretty sapphire earring and like it,” she said, grinning at his helpless expression.
+
+“The intelligence and ice resistance are very good,” Calen said, “but, how will I wear it?”
+
+“Zor’kan has a needle,” Malika said, grinning at his wince. “Don’t be a baby.”
+
+With a sharp jab, a yelp, and a spot of healing, it was done, and Malika fastened the earring for him.
+
+“Looks good on you,” Mato observed.
+
+“Shut up,” Calen muttered, drawing gales of laughter from the big Beastkin. “Just be thankful it’s not shapeshifter gear, otherwise you’d be wearing one too. Let’s see who’s laughing next fight when you’re frozen and I’m not.”
+
+“Eleven intelligence,” Mato said, poking his broad chest with a thumb. “I couldn’t wear it even if it was shapeshifter gear – besides, I don’t think the sapphire goes with my fur.”
+
+“I’m not sure that’s something to brag about,” Calen countered.
+
+“I can translate,” Ali said. “Calen smart. Wear shiny, shiny.” She tapped her temple twice with her finger. “Bear stupid. No shiny. Bear freeze. Brr!”
+
+“Hey!” Mato exclaimed.
+
+Malika stifled her laughter at the back-and-forth, reaching over to pick up several silver bracelets that were all that remained of the ice trolls’ gear. The teasing notwithstanding, even Malika could tell something dramatic had changed for Calen, and it had happened when he put on the blue leather bracer Zor’kan had made for him. She was so used to seeing Calen chugging multiple mana potions per fight, and still having to ration his magic, but this last fight his arrows had commenced at the beginning of the battle and the onslaught hadn’t let up for a single second – every arrow enchanted to the maximum.
+
+Frozen Charm Bracelet – level 75A silver bracelet with several tiny dangling metal sculpted figurines. +47 Wisdom+29 Intelligence+37% mana regeneration.+10% chance to reset Ice Shield recharge on critical hit.Requirements: Intelligence 263Quality: UncommonValue: 45 goldHands – Charm
+
+“Hey, Ali, do you want one of these?” she asked, holding the bracelet up. These Telim Gor trolls had been incredibly well equipped, every single item of uncommon grade, possessing four well-balanced enchantments that were well suited to their classes. She wasn’t quite sure it was better than the Ancestral Spirit Beads they were both wearing, but it was worth asking.
+
+“Only to add to my imprint,” Ali answered. She held up her wrist showing her beads, “I like the regeneration on these beads, and the vitality is probably a safer choice than more intelligence at this point. Although the silver charms are pretty.”
+
+“Oh right, you can learn bracelets,” Malika said, passing them all to her. “We should save one or two for Giddy Clicksprocket, I’m sure she will want to buy them for study.”
+
+“I don’t mind donating a few if she can learn to put that enchant on a few other items; it will give me more options to gear my trolls,” Ali answered, clearly of the same mind.
+
+“Ali, single-handedly dragging the Myrin’s Keep crafters out of obscurity,” Malika said, laughing. But honestly, it had been more than worth it so far. Just having Thuli and Lydia had been an incredible help to their growth – and helping a few more crafters was only going to compound that. With an item Ali could make, it wouldn’t even cost anyone anything.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

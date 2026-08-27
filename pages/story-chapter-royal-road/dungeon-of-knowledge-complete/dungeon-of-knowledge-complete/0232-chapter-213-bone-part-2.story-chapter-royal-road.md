@@ -1,0 +1,105 @@
+---
+id: e37fb958-7ca1-559d-b530-72c57d83bf27
+page-type-slug: story-chapter-royal-road
+title: "Chapter 213: Bone (Part 2)"
+slug: 0232-chapter-213-bone-part-2
+partOf: dungeon-of-knowledge-complete
+position: 232
+ownLength: 2002
+unit: words
+ownProgress: 2002
+publishedAt: 2025-03-20
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2138973/chapter-213-bone-part-2"
+royalRoadId: "2138973"
+markedReadAt: "2026-06-29T20:19:01.362Z"
+---
+
+As they set out to follow the slowly broadening trail, Ali kept a close eye on the jungle around them, calling out the occasional warning when skeletons approached. Progress was painfully slow, as they were forced to stop every few minutes to kill some undead creature, but it was vastly safer to take care of them cleanly than try to rush through, not knowing what lay ahead.
+
+Imprint: Undead Skeleton completed.
+
+Ali had deconstructed so many undead by now that her Grimoire immediately categorized it as such, but she just as quickly dismissed the worthless imprint, knowing she couldn’t use them without death-affinity mana. But she didn’t stop deconstructing the undead, not certain if they would be able to be raised a second time.
+
+Ali was already lost by the time they started encountering zombies, but she trusted Calen to remember the way out. The putrescent stench of the rotting undead flesh made her stomach crawl and their status as undead prevented her Abyssal Stalkers from doing effective damage, however, she didn’t care, she simply burned them down with hellfire and dragon’s breath and then deconstructed the remains.
+
+Imprint: Undead Zombie completed.
+
+She dismissed the offered imprint again, wishing she could just disable her Grimoire from trying to learn anything she couldn’t make. Certainly, any undead would be worth blocking. Although they might become useful, she thought, suddenly reminded of Calen’s idea of learning it just so that she could make undead-slayer bosses. I would need more imprint space first.
+
+A soft whirling thwipping sound cut through the trees.
+
+It was Mato who reacted first, suddenly transforming into his Bear Form as a light gray shape whipped out of the dense trees, flying end-over-end and burying itself into his hide before his transformation was even complete.
+
+Ali barely had time to register the bone axe sticking out of his shoulder before it shattered, sending a deadly blast of piercing bone shards in all directions. She threw up a barrier as quickly as she could, but her reactions were too slow to prevent the shards from tearing through her legs, stomach, and chest, and slicing up the Acolytes huddled around her. She coughed, feeling the disconcerting gurgle of blood pouring into her lungs, but held onto her protective spell through gritted teeth and pain.
+
+A powerful cascade of scent erupted through her borrowed Abyssal Stalker senses as her blood sprayed out into the air, and then she caught the smell of blood lurking behind the trees in the jungle.
+
+“Something in the trees,” Calen called out.
+
+One of Ali’s Acolytes slumped to the ground, her injuries too severe to heal, but the three remaining Kobolds instantly got to work. Her pain began to subside as the holy restoration began to pulse through her and she turned to focus on their ambushers.
+
+A continuous stream of bone axes flew from the cover of the trees, spinning faster and faster until Ali could barely perceive more than a blur before they smashed against the armor of her drake and Forest Guardian and exploded among the rest of her minions, keeping the healers continuously channeling their holy magic. “Move,” she said, shifting the mountains of armor on legs to provide better cover.
+
+Quick shouts rang out from the cover of the trees on both sides of the path, causing her to lose some mana to her Sage of Learning. But even though she was somewhat tight on mana with so many high-level minions, it wasn’t quite enough to worry her yet, so she ignored her temperamental skill, focusing all her attention instead on the shuffling among the trees.
+
+The lean, muscular figure that emerged from the jungle had dark green skin decorated with red-and-brown painted glyphs, and his spiky hair had been colored with the same stuff. He had a mean low-slung jaw with a pair of impressive tusks jutting up out of his mouth. His pointed ears were too thick and rough to be considered elf-like, and his dark eyes were narrowed, staring at her with a feral cunning.
+
+“Troll!” Ali yelled, “Alive.” Despite the heavy leather-and-bone armor, he moved with a lithe power and delicate grace. And it was not one of the undead.
+
+“That’s a dungeon monster,” Calen said, and Ali immediately saw what he was talking about. The mana connection she had observed within her own minions was present within this troll, only bone and blood affinities instead of her familiar arcane and nature.
+
+The troll shouted something guttural and harsh, the delicate runic carvings on his tusks glowing strangely in her mana sight. Suddenly the bare skin on his arms, throat, and legs erupted with spines and ridges of bone bursting their way out of his body in a gory display of self-modifying magic, quickly covering his body in a second layer of dense bone armor – evoking the deadly image of the stone sculptures of Troll warriors Ali had studied near the entrance.
+
+From the insides of both his forearms, bone growths ruptured the skin, elongating and shaping rapidly under the influence of a powerful bone manipulation skill. In less than a second, he had created two bone axes from his own body which he snapped off and launched into the air with rapid powerful throws. Even as his weapons flew, he was already growing new ones to replace them as his body healed the self-inflicted wounds.
+
+Warrior – Troll – level 65 (Bone)
+
+Another harsh shout sounded, and a second live Troll emerged from the trees, this one obviously female, and even more intimidating with the wicked-looking blades she was growing from the outside of her forearms. Her blades grew longer and longer until they extended from her elbow all the way to past her hands, half again as long as her arms; weapons clearly designed for both slashing and punching.
+
+She blurred into motion, tearing across the path, burying both blades up to her fists into Mato’s flank in less than a blink of an eye, leaving bone spikes scattered across the ground in the wake of her charge. Mato roared in pain and challenge, swiping across her thighs, tearing at the bone armor, and drawing blood with his powerful claws. Vines and brambles burst from the ground in response to his magic, entangling the troll’s legs. But already Ali could see the gashes in the troll’s legs beginning to close.
+
+Four more trolls emerged from the forest, quickly sprouting gray armor and blades that gleamed in the dappled sunlight as they charged into the fray.
+
+“Attack,” Ali commanded, and took her own focus to the melee fight, observing from her Armored Drake. She faced two Trolls, both well over two meters tall. She lashed out with her dragon claws, Cleaving across her foes, but the first Troll dodged, and the second blocked with both blades crossed in front of him, both reacting with uncanny speed. Her powerful Cleave shattered one of the Troll’s bone blades sending shards flying, but he simply regrew it as he pressed his counterattack. The trolls’ blades flickered and flashed, growing faster and faster the more they hit until she struggled to even see the blades moving. She tried biting the nearest one, but again it simply dodged to the side. Frustrated, she breathed out, unleashing intense waves of dragon’s fire at the trolls, eliciting sharp shouts of pain and anger as they were caught in the blast, and setting the right side of the forest path alight.
+
+“Watch the flanks,” Calen said.
+
+Ali swapped to watching her Abyssal Stalkers sneaking up on a troll each and felt the satisfaction of seeing both staggered by the powerful unleashed ambush attack, combined with their blood shock magic. But as soon as the trolls recovered, again she found their wounds slowly closing as they began dodging and slashing in counterattack.
+
+They’re tough. Really tough.
+
+She swapped to her Hellfire Imp and was suddenly subjected to the bizarre disorientation of having her body turned into flame and appearing in the center of an unleashed ball of hellfire. The heat was intense, with black flame surging all around her, but instead of pain, she felt rejuvenated. Not even her vision was impaired, she could clearly see herself and the flame hurtling toward the ground and the creatures fighting there: her drake, wargs, and stalkers all fighting trolls with their bristling armor and flashing blades.
+
+A flicker of worry passed through her, but at least half her minions were entirely immune to fire, and suddenly she was the epicenter of a devastating detonation. She emerged from the explosion unscathed and back in the physical body of an imp, hopping up and down with excitement, spreading extra flame everywhere with its flame shield.
+
+She triggered Amplified and Accelerated Casting and shot a fireball point-blank into the face of a troll, the imp cackling with glee as the troll howled and gobs of burning hellfire rained down onto the battlefield, but the troll retrieved a red health potion and downed it before charging back into combat, blades still dripping hellfire and slashing at the imp with redoubled ferocity and speed.
+
+Something isn’t working here…
+
+Ali returned her awareness to her own body and called up the Healer’s Sight of a nearby Acolyte to augment her perception. At the same time, she levitated a little to gain an elevated perspective of the battlefield.
+
+Five trolls were tearing up her minions from melee range, dodging drake claws, and battling her Wargs, Stalkers, and Forest Guardian. The dense grasping roots and vines from her Guardian and Mato’s Rampant Growth skill periodically locked the trolls in place, but any time that happened they simply switched to throwing their devastating exploding axes into the fray, barely seeming inconvenienced in the slightest. But the wargs and drake both used fire breath attacks, and the Hellfire Imp used fireballs, all of which vaporized the burgeoning plant growth with intense fire, freeing the trolls to return to the melee.
+
+Up on a small rise at the back, among the dense trees, two trolls stood unmolested, raining down a continuous storm of throwing axes. Dancing through the chaos, Malika kicked and punched her way through the monsters, and glowing brilliant arrows fell everywhere with ruinous accuracy, while Mato laid about with his claws striking whatever he could reach.
+
+But none of them have died.
+
+As Ali studied their tactics carefully, it became clearer. The trolls were wading into the thick of battle with great sweeping strikes of their blades that struck multiple of her minions simultaneously, but it was their sheer resilience that caught her attention.
+
+They dodged nearly half of the attacks thrown their way, avoiding many of the most powerful strikes. And what they couldn’t dodge was either skillfully blocked or rebuffed by their garishly painted leather-and-bone armor, or the dense layer of additional natural bone armor they had grown out of their own bodies.
+
+With the benefit of her Healer’s Sight, she could visibly see the effect of their continuously regenerating health as it climbed steadily after each successful strike. In fact, the only thing that seemed to cause lasting damage was the different forms of fire attacks, and for that damage, they had healing potions.
+
+On the other hand, they had not lost any of their forces save for the poor Acolyte who had perished to the first surprising axe explosion. Their strategy was uncannily similar – with the dominant presence of the Forest Guardian in the center of the melee, and Mato’s aura, all of their melee forces were regenerating rapidly too, with Malika and her Acolytes simply picking up the most damaging strikes to repair. This would not even be a battle of attrition; it was a stalemate.
+
+“Splitting our damage isn’t working,” Ali said, her voice pitched to carry to Calen, who was flying nearby.
+
+“My target,” he said, picking a troll that was currently at half health, but rapidly recovering as it discarded an empty health potion.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

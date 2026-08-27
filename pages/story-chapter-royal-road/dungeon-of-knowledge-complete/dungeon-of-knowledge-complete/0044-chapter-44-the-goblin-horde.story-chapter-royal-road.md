@@ -1,0 +1,147 @@
+---
+id: 6cb2bfd1-521e-510f-88f9-d718826070f4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44: The Goblin Horde"
+slug: 0044-chapter-44-the-goblin-horde
+partOf: dungeon-of-knowledge-complete
+position: 44
+ownLength: 3443
+unit: words
+ownProgress: 3443
+publishedAt: 2024-03-12
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1551568/chapter-44-the-goblin-horde"
+royalRoadId: "1551568"
+markedReadAt: "2026-06-29T20:12:25.698Z"
+---
+
+“Let’s go,” Ali commanded in Draconic while stepping down into the dripping tunnel. Her intention of a dramatic exit was somewhat marred by landing knee-deep in a muddy puddle and stumbling before one of her Kobolds caught her.
+
+Ugh, this stinks, she thought, as the reek filled her nostrils and the icy, stagnant water soaked through the bottom half of her pants. Her Kobolds immediately arrayed themselves around her as she splashed her way through the brand-new river channel they cut through the rock – the combined effect of her Deconstruction and Seri’s water magic – stabbing the occasional Toxic Slime that still crawled through the mud.
+
+I’m going to need a bath after this. Or better yet, find a cleaning spell I can learn.
+
+Seri followed, and to Ali’s amazement, she dragged the entire dregs of the lake behind her, water, slimes, and all.
+
+The rocky tunnel was far wider than the hole she had excavated with her skill, dirt and rock washed away by the torrent, leaving a swiftly flowing river that cut through the middle, joining up with the ancient riverbed outside that they had seen from so high above. Water dripped constantly from the rock above, leaving Ali drenched by the time she emerged from the base of the cliff and onto the battlefield below the town walls. She sidestepped the waterfall of sewage that poured out from far above, giving it as wide a berth as she could while trying not to inhale too deeply.
+
+Below, Goblins scrambled about in total disarray, their temporary fortifications smashed to kindling and washed away. The entire eastern flank of the Goblin horde was now a vast plain of mud and sludge, and hundreds of Toxic Slimes slithered and wobbled around attacking Goblins indiscriminately. Gigantic boulders jutted out of the ground, impaled there by great force, debris that had been blasted out of the rock face and into the horde.
+
+Ali sucked in a ragged breath, shaking her head slowly at the unbelievable carnage. She had expected some sort of damage, but this wholesale destruction was far more than she could ever have hoped for.
+
+“Hey Ali,” Malika called out as her friends came running over to join her.
+
+“Shall we attack?” Mato asked, ever eager for combat.
+
+“Let’s wait for Seri,” Ali answered, glancing back down the tunnel to where the Gnomish mage seemed to be casting something. Something big, if the surge of her distinctive mana was anything to go by.
+
+Seri emerged from the dark, slimy tunnel with a bright grin on her face. All the remaining water flowed out in her wake, following her in much the same way as a puppy.
+
+If a puppy was a few thousand tons of nasty water filled with dangerous slimes.
+
+The water shivered, piling up higher and higher as it began to rotate under the swirling influence of Seri’s cobalt-blue mana. It spun, faster and faster, emitting a low whistling noise rising to an uncomfortable howl. In less than a minute, she had created an enormous waterspout, and her cheerful, mocking laughter rang out across the battlefield as she began to direct her creation with dramatic gesticulation of her arms.
+
+“I think we just keep the Goblins away from her and let her go wild,” Calen suggested, eyeing the towering column of water with obvious astonishment. As they watched, a Toxic Slime was flung out of the waterspout, soaring across the battlefield to bounce like a squishy rubber ball and slither away.
+
+“Ok, let’s go,” Malika said, and Mato shifted into his Bear Form leading the charge out into the field. There were Goblins in disarray everywhere, but they were mostly Scavengers, and they went down easily to a couple of blows apiece.
+
+Nearby, Ali spied a second group of adventurers, similarly engaged with the green-skinned Goblins, but beyond that, the battlefield flickered and sparkled with potent and devastating clashes of magic. Mages and archers lined the battlements firing down over Ali’s head, while somewhere toward the center of the battlefield – near the Myrin’s Keep south gate – a truly epic confrontation of light and mana shone out.
+
+“Bugbears!” Calen shouted, snatching her attention back to her immediate surroundings.
+
+Three monstrous Goblinoids charged toward them with all the momentum of their two-and-a-half meters of densely muscled, plate-armored bodies. Their thick brown or ochre fur was plastered to their bodies by mud and water, and the creatures looked all the more furious for having been drenched. Fearsome roars filled the air as two Bugbears leapt high above their companions, muscles straining to draw back their gigantic weapons, while the third spun his giant spiked flail in a whirling flurry of sharp steel and brawn.
+
+Ali summoned a barrier and crouched behind it, feeling a chilling touch of fear. Mato charged the whirling Bugbear, slamming into it with an enormous roar and crash, while Malika leapt into the air and kicked both airborne Bugbears before they crashed to the ground amid a cacophony of steel, strikes, and shouts.
+
+I’m ok? Ali looked up, bewildered for a moment before realizing that none of the monsters were actually attacking her and the titanic clash of brawn and steel was happening nearly ten meters away. She shuddered, wincing from the uncomfortable blend of selfish relief and horror for her friends triggered by the sight of the sheer violence and brutality unfolding before her – a meatgrinder of thumping steel, flashing fur, furious roars, and blood. So much blood! I would have been pulp.
+
+“Shaman first.” Calen’s calm voice penetrated her surprise, and she looked past the ochre-furred monsters to find she had even missed the fact that other Goblins were approaching from the back, behind the Bugbear vanguard.
+
+Calen helpfully pointed out the target with a tracer of light fired from his bow. Behind the chaotic melee stood a Storm Shaman with a zigzag of white warpaint across his left eye and cheek, easily recognizable by the sparks of lightning that leaked from his enchanted shield and mace. He stood with prideful arrogance, surrounded by Skirmishers and Scavengers who were beginning to lob rocks at everyone in sight.
+
+Shaman – Goblin – level 18 (Lightning)
+
+Fixing the shaman in her mind as the primary target for both her minions and her spells, she began.
+
+“Attack,” she commanded, sensing her rogues reacting to her intention with eager anticipation through Martial Insight as they charged into the fray. Bloodthirsty creatures. She channeled mana into Arcane Bolt, lobbing the small glowing missiles over her barrier to arc across the battlefield. Immediately, the stone throwers began to pepper her barrier with the plinking and cracking of high-speed pebbles and rocks.
+
+The weaker Goblins cunningly hid behind the powerful Bugbears and the shaman, making it difficult to target them. Instinctively, they picked on the weaker or more dangerous targets. In her case, she had just advertised to the entire battlefield that she was a mage, and so now she was the focus of many of their attacks, even though Calen’s brilliant arrows still peppered the Goblins constantly.
+
+A surge of painfully bright mana flickered through the shaman.
+
+You have been cursed with Lightning Vulnerability. -126 to Resistance vs Lightning magic.Curse – Duration: 1 minute.
+
+With a blinding flash and crack, the battlefield lit up with the shaman’s Lightning Bolt attack. Splinters flew from Ali’s barrier as it cracked clean down the center. She flinched reflexively, but somehow her barrier still stood firm in the aftermath of the powerful burst of lightning magic. The shaman gaped at her, clearly unimpressed by her continued existence.
+
+At that moment, the shadows shimmered ominously behind the shaman and all Ali’s rogues appeared, shiny daggers flashing in concert as they stabbed deep. The Storm Shaman dropped almost instantly from the synchronized attack. Phew. Ali breathed a sigh of relief.
+
+“Go help Mato and Malika,” she instructed her rogues, directing them to the clash of furious grunting, fur, claws, and steel that surrounded Mato. With the most dangerous Goblin out of the way, she turned to her Kobold Fire Mage standing beside her. “Kill those stone throwers.”
+
+“Yes, Ancient Mistress,” the Kobold hissed through his teeth, breathing out a small puff of black smoke as his mana fueled his fire. With a wicked gleam in his eyes, he launched his Fireball into the midst of the Goblins. The near-instantaneous detonation threw out a tremendous explosion of angry red flame that sent half a dozen of the hapless Goblins flying. He cackled wickedly and began summoning another Fireball.
+
+Ali refreshed her personal barrier, and summoned her second over in the melee group, trying to learn how to interrupt the attacks of the Bugbears.
+
+In the aftermath of the Storm Shaman’s death, Malika punched a huge Bugbear in the side of his head, causing it to collapse with a dramatic clanging as the whistling heavy flail clattered to the ground. The pressure eased up dramatically, so Ali poked her head up to gaze around at her surroundings. Shaman, she decided. She sprinted over to deconstruct the higher-level Goblin shaman’s corpse, not bothering with the smoking remains of the Scavengers that lay strewn about it. The lower-level monsters would simply take time to deconstruct, time she didn’t have for the paltry amount of mana they would be worth.
+
+Several of the mages and archers high upon the town battlements had obviously noticed their attack and were laying down supporting fire from above, creating a dizzying flurry of mana flashing and spells detonating. Burning arrows that sizzled and spat, yellow bolts that hissed and crackled, discharging sparks into the ground – and anything unfortunate enough to be nearby. Squalls and blizzards of ice that sprung up and froze everything in a ten-meter radius of impact, leaving piles of snow on the ground, only to be vaporized moments later by rocking blasts of heat and flame. Off in the distance, the epic magical battle in the center of the field was raging ever stronger, showing up as a chaotic jumble of magical energy and power that Ali couldn’t even hope to untangle.
+
+That must be crazy to see up close. Those high levels play a different game…
+
+The much nearer sloshing roar of a demented waterspout kept her from getting too distracted by the conflict among the higher-level classes off in the distance. As she watched, it swept up terrified scrambling Goblins, sucking them up into the vortex, to be flung out at great speed, just like the constant barrage of Toxic Slimes launched from the waterspout at every opportunity. The Goblins, however, did not seem to be built to survive a crash landing.
+
+The shrill shrieks of Goblins alerted her to a fresh Warband rapidly bearing down on their group. This is going to be a long day. We’re not even finished with this lot, yet, she thought, eyeing the approaching Scavengers, a pair of elite archers, and a whole pack of howling Timber Wolves. Ali readied her minions, sending the rogues into the shadows before the new group spied them. She arranged her warriors up front while her mage began to cast another Fireball.
+
+A brownish, shivering missile shot into the oncoming Warband, hitting a Scavenger with a loud splat and a screech as the poor Goblin cartwheeled away with his head stuck in a Toxic Slime. A peal of bright, near-maniacal Gnomish laughter greeted the sight. Seri might not be killing many herself, Ali realized, but the mayhem she represented was definitely a huge boon.
+
+Also, a giant beacon, she thought, eyeing the oncoming Goblins.
+
+The Goblin Archers and Scavengers dove for cover behind partially broken wooden fortifications and began shooting. Arrows and stones ricocheted off her barrier with sharp cracks. A sizzling swoosh shot by, and her Kobold’s Fireball detonated out among the pesky stone-throwers, ripping through the flimsy wooden defenses with a loud thump and a bright surge of flame. In the aftermath, far fewer screeching Goblins scrambled to their feet amid charred remains, gobs of burning flame, and smoking grass.
+
+Ali crouched behind her barrier, blocking a rain of flying rocks, and at least one flying slime, while she deconstructed a Bugbear to recover mana. By the time she returned to the action with a sharp flurry of her Arcane Bolts, Mato and Malika were already in the thick of things, roaring and kicking. The elite archers fanned out, creating distance, while the Timber Wolves flanked Malika and Mato, pinning them down in the center of the melee. All around the edges of the pitched fight, the Scavengers and other stray Goblins joined in as if it were the most natural thing in the world.
+
+Perhaps it is natural for them. Weak as they were individually, Ali could see why the Guildmaster feared them in large numbers. Goblins cooperated in battle as easily as breathing. And even though most of the Scavengers were single-mark monsters, within their Warbands, and with their notorious bonuses for group fighting, they seemed to punch far above their level.
+
+“Attack the archers,” she commanded. Her rogues snuck in, but somehow, as soon as they got close, the elite Goblin Archers immediately withdrew, sprinting around and leading her Kobolds on a merry chase.
+
+“They have high perception,” Calen said, unleashing a volley of arrows at one of them. “Maybe use ranged attacks?”
+
+“Ok,” she answered, frowning. It was easy for Calen to say, but all her Kobolds, save the mage were melee, and Fireballs were easy to dodge if you saw them coming from far away.
+
+“Help with the Timber Wolves,” she instructed, sending her command to her rogues, halting their fruitless rushing about in their attempts to reach the archers.
+
+A continuous stream of arrows and assorted magic bolts rained down from the battlements behind them, keeping many of the lower-level Goblin heads down. “Fireball that group,” Ali commanded, “and then use Firebolt on the archers.”
+
+Her Fire Mage just grinned as a wave of heat emanated from his nascent Fireball.
+
+Glancing at the steady stream of bright white arrows, Ali picked the same target Calen was shooting and unleashed her bolts. This will take a while.
+
+With their new strategy, they began to make progress. Detonations of flame and the hail of supporting artillery from the town defenders whittled away at the entrenched stone throwers, while Ali and Calen – supported by the occasional red sizzling Firebolt – picked off the elite archers one at a time.
+
+Without even a moment for a breather, Ali suddenly found herself engaged with yet another Goblin Warband. She followed her usual approach, deconstructing every nearby corpse to fuel her constant mana consumption for her arcane magic. Any time she ran low, she deconstructed an armor piece or a Goblin to keep going, but she was beginning to get a headache from the continuous mana use and the concentration required to manage multiple barriers and targets simultaneously.
+
+Beside her, Calen had to take frequent breaks, tossing down blue mana potions like candy. The other group of adventurers had withdrawn a while ago, tapped out. At some point, she was dimly aware of the whistling waterspout collapsing in the background, and Calen telling Seri to retreat to recover her mana.
+
+I guess regeneration skills are super important for long fights, Ali realized, resolving to practice Malika’s meditation exercises more diligently. Hers was inconvenient, requiring a steady supply of corpses or items to deconstruct. But while the supply lasted, she wouldn’t need to stop at all. Malika and her melee Kobolds seemed to be thriving off Mato’s regeneration aura, none of them had yet exhausted their mana or stamina.
+
+At least she didn’t have to direct her Kobolds too closely. Mostly, their own battle cunning and instincts had them making good choices. Except for him, she thought, eyeing her Fire Mage. He’s a little trigger-happy. She had had to stop him from fireballing Bugbears and Timber Wolves a few times, reminding him to use his precision Firebolt instead of the area damage spell, lest he hit all their allies.
+
+The next Warband included a few Bugbears, and Mato immediately engaged with a roar. Ali was beginning to get used to the chaos of the battle, feeling something of a rhythm to the whole thing. She would deconstruct for mana, and then focus on the most dangerous enemies, before mopping up the rest. Two things stood out clearly to her. Discounting the random stones, she never had to defend herself against attacks from anything other than archers or mages, and her barrier was remarkably good at that. Mato is great at holding the Bugbears in place. The second thing was that her Fire Mage was brutally efficient at clearing out the groups of stone-throwing Scavengers. When she attacked them with her bolts, they went down quickly enough, but she had to focus on them one at a time, whereas her mage took out entire groups with a single Fireball. It was so effective, in fact, that she soon had him waiting around between Fireballs to regenerate his mana rather than waste it on Firebolts.
+
+It’s really an incredible spell. For the longest time she had been terrified of it, but now that she could wield it on the battlefield, she was beginning to appreciate some of the strategy of area damage magic.
+
+As the minutes dragged out into hours, it became clear how the diverse nature of their group worked to their advantage. Much as he might dislike the idea, Mato was a phenomenal tank. Malika darted in and out everywhere, catching anything that got away from him. Calen called every incoming group, easily picking out the most dangerous enemies from afar before they were even in range of Ali’s Identify. I’m sure he has a longer range. His light magic, turning every single arrow into an obvious streak of light, made coordinating their targets trivial.
+
+By now, the parallels with how the Goblins were fighting were becoming obvious even to her inexperienced eye. The Goblins sent in the Bugbears as shock troops and tanks, protecting the elite mages, shamans, and archers who attacked from range, all of them supported by the lower-level Scavengers.
+
+Ali deconstructed another Bugbear. As it dispersed into mana, her Grimoire appeared to the sound of an accompanying chime. Ali instantly dismissed it. Not right now!
+
+“Incoming! Three Bugbears and two Fire Mages,” Calen’s voice called out the numbers as another group charged toward them, once again before they were fully finished with their current foes.
+
+Two mages! This is going to be hard.
+
+Ali left her warriors to help finish off the remaining Bugbear with Malika and Mato, directing all her rogues to attack the same Fire Mage. Both Goblin Fire Mages stopped at a distance and began casting Fireballs. Ali cast her barrier and hunkered down, keeping her second one ready while she shot off some Arcane Bolts, arcing them high overhead to hit the lead mage – a wrinkled female Goblin with long scraggly gray hairs sticking up from her scalp. Her rogues appeared from the aether stabbing in concert, but they were a fraction of a second too late, and both mages’ Fireballs shot off heading directly toward her. Immediately, she cast her second barrier in the path of one of the Fireballs and huddled down, trying to shrink herself behind her barrier. Using two barriers was all good and well, but they were individually smaller. An enormous explosion engulfed her further barrier followed by the second Fireball hitting the barrier right in front of her and rocking her with its powerful detonation. The shockwave tore past its edges, scorching her skin with the intensity of the heat, but her barrier held firm against the onslaught of fire magic, and the incredible resistance from Lydia’s tailoring protected her from further damage. Through the cracked barrier, she saw her rogues and Calen’s arrows taking down the first mage.
+
+The second mage swirled his singed crimson robes and summoned fire again, but this time, he was clearly aiming at Mato and Malika – wholly disregarding the thick press of Goblin bodies her friends were practically swimming through. Ali threw up a barrier at her maximum range in an attempt to block the powerful spell. The screaming Fireball clipped the edge of her barrier and careened off to the left, exploding on the ground near the melee. Within the chaotic detonation of red flame, Ali saw Malika’s clean blue-white magic flash several times as she healed herself and Mato, and Ali’s Kobolds, all in the space of a couple of seconds.
+
+“Hobgoblin!” Calen’s urgent shout cut through her thoughts.
+
+Oh shit!

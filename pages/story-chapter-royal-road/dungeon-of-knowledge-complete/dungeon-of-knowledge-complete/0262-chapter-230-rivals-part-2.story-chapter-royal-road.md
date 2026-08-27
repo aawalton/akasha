@@ -1,0 +1,163 @@
+---
+id: 215251b0-bf4b-5bd8-be3d-04b19436f190
+page-type-slug: story-chapter-royal-road
+title: "Chapter 230: Rivals (Part 2)"
+slug: 0262-chapter-230-rivals-part-2
+partOf: dungeon-of-knowledge-complete
+position: 262
+ownLength: 2132
+unit: words
+ownProgress: 2132
+publishedAt: 2025-04-23
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2224761/chapter-230-rivals-part-2"
+royalRoadId: "2224761"
+markedReadAt: "2026-06-29T20:20:05.180Z"
+---
+
+Sabri walked alongside Belmar as they returned to the guild. Ever since the Kobold warrior fight, she viewed him as one of her closest friends, and it had been good to finally get him for an hour to do some leveling in the dungeon. Still, she was looking forward to one of the guild couches and getting off her aching feet.
+
+Without a healer, their group had stagnated, falling behind as the others outpaced them, and Sabri was glad to have finally reached fifteen today, but progress had slowed to a crawl. Even with Belmar pulling double time to help them out, it was going to take forever to become strong enough to take the valuable jobs and earn enough money to send some home to her mother with any kind of regularity.
+
+She stepped through the doorway, following Cai, Malise, and Brena.
+
+“Monsters!” Brena yelled; her body suddenly infused with lightning that arced across her skin.
+
+Sabri rushed to the front, her shield and sword appearing instantaneously from her guild ring and looked up at the tall, blue-skinned form standing before her.
+
+Shaman – Troll – level 12.
+
+Troll. Sabri knew trolls only by reputation, the Ahn Khen respected them as incredibly resilient and ferocious fighters.
+
+But why are they here?
+
+“Stand down, they are visitors,” Mieriel said, her voice cutting through the thick tension.
+
+Sabri relaxed, lowering her sword slowly, but keeping her eyes on the leader. There were five trolls and all of them towered over her – one individual reaching almost nine feet tall – but only the leader had a class. Then she took in the familiar bone shield and leather armor, identical to the equipment wielded by the Kobold warrior in the dungeon, and the Eimuuran steel axe.
+
+Aliandra?
+
+“Aliandra invited them,” Mieriel continued as if reading her mind.
+
+Sabri lowered her guard completely.
+
+“No! That one called us monsters. This is a matter of honor, and I will have it settled by combat. We are Trolls, not monsters,” the shaman declared proudly in heavily accented Common.
+
+An honor duel, Sabri thought. She looks tough. And by the looks of it, the Troll was not going to back down. She glanced at Brena who had a hand over her mouth and a vague expression of panic or embarrassment.
+
+She’s going to get hurt. I can’t let her fight the Troll. Brena was a powerful lightning mage, but she was too weak to take a hit from that axe, and the only likely outcome of that match would be her killing the lower-leveled Troll outright, or the Troll closing to melee range and turning her into mincemeat.
+
+“Nobody is going to fight anyone,” Mieriel said.
+
+“You stay out of it,” the Troll snapped.
+
+Mieriel’s eyebrow shot up as she stared at the indignant Troll.
+
+Sabri stepped forward, banging her sword against her shield to draw attention. “This one is my charge,” she said, gesturing to Brena. “I will take responsibility and fight you.”
+
+“To the death? The honor of Aman Rak must be satisfied.”
+
+“Of course,” Sabri answered calmly. “Is there any other way?” While she had no desire to kill this Troll, she could see that she was quite upset about the disrespect she had perceived from Brena, and only a full-out fight would have the appropriate impact. Sabri would just have to ensure she won.
+
+“Sabri!” Brena squawked.
+
+“Aah, at least one of you humans understands honor,” the Troll said, settling lower into her legs and tightening her grip on her axe.
+
+Sabri raised her shield and sword, taking her stance, and the Troll matched her with a perfectly balanced posture, her shield ready to guard her.
+
+“No blood on the carpets,” Mieriel said firmly. “If you must indulge in this stupidity, do it down in the training rooms. Go!”
+
+Sabri suddenly found herself entering the training room before she even thought to question Mieriel’s command. Worse, she was walking side-by-side with the Troll, neither of them maintaining their guard.
+
+Puzzled, she stepped into the training room, but immediately her full attention and focus were on her opponent. She was only dimly aware of the spectators crowding into the training room after them.
+
+“I am ready,” the Troll declared.
+
+“I am Sabri,” Sabri announced, waiting.
+
+The Troll paused for a moment, looking briefly surprised, and then said, “Gara.”
+
+“Come,” Sabri said, settling herself into a defensive posture once again.
+
+Gara dropped a stained and painted wooden pole to the ground, which surprisingly balanced upright on the stone floor, and then took her axe to her own arm, slicing open a gash that ran red with blood. But the blood swirled up into the air, flowing over the shield and the axe instead of dripping to the floor. The Troll raised her bloody shield and charged, her axe swinging in a low controlled arc, her weight balanced perfectly over the balls of her feet.
+
+Sabri reacted at once, taking the blow on her shield, and stabbing forward with a jabbing strike. The troll backed away just enough to intercept the blow with her shield. She backed away, circling her opponent, trying to find a clean opening, but the wily troll was too well-trained to allow anything that easy.
+
+Suddenly, a ribbon of blood exploded from the troll’s shield arm, arcing across the gap between them to punch into Sabri’s body.
+
+You have been afflicted with Bleeding.+1 Blood damage per second.Blood – Duration: 30 seconds.
+
+Ranged attack, she thought, her mouth firming into a grim line. This was a problem. Normally, she would have a healer and some teammates to handle ranged attacks and healing, but she was on her own in this duel.
+
+I must take it to her, then. She triggered Shield Rush, closing the distance in an instant, striking with her shield to break the troll’s guard and slashing rapidly with her sword. She added Soul Power to both her shield and sword strikes, enhancing the weight and power of her strikes and adding magical damage. And then she shouted.
+
+Her Soul Shout rippled through the air around her, ignoring armor and shields and tearing into the troll. In a duel, she didn’t care about taunting her opponent, but Soul Shout was her only ranged attack, and while it was only very short range, it still ignored armor.
+
+The troll stumbled backward, a surprised look on her face, and Sabri pressed her advantage, knocking the troll’s axe out of her hand and grabbing her arm, twisting her into an armlock.
+
+“Do you yield?” Sabri asked through clenched teeth.
+
+“Never!” The troll struggled against her superior leverage, failing to break the hold, and failing to reach her axe. And then she attacked with her ribbon of blood magic again, doing more damage to Sabri and refreshing the bleed.
+
+Sabri gritted her teeth against the pain and pulled harder until the troll gasped in pain. “Yield!”
+
+“No.” The troll twisted suddenly and there was a loud snap as she broke her own arm in the armlock. Using the surprise and the sudden lack of leverage, she twisted out of the hold and scrambled across the ground to retrieve her axe.
+
+Sabri rolled to her feet quickly in time to see the troll’s blood magic ribbon arcing to herself, and the snapped arm twisting and cracking back into place as she rapidly healed her own injuries.
+
+And healing. That’s bad. Sabri was in a lot of trouble, and she knew it. The troll had so many advantages over her – ranged attacks, healing, and a bleed – all of which synergized effectively with her well-trained defensive skills. It was an incredibly unfavorable match.
+
+Sabri grinned; she was having fun. This troll was well-trained and had extraordinary fighting instincts. But Sabri had something the troll did not have – she was Ahn Khen.
+
+She charged in again; shield braced – and threw her sword at Gara’s face. The troll’s eyes widened in shock and surprise, trying to duck the flying weapon, and Sabri’s shield slammed into her head with the full force of her shield strike and Soul Power. And in that instant of stunned confusion, she dropped her shield too, slipping herself behind the troll, snaking her arms around her head, under the sharp tusks, and locking her neck in the crook of her elbow – a standard stranglehold she had known since she was a child. She quickly wrapped her legs around the troll’s body, preventing her from being dislodged by the taller girl, and tightened her grip.
+
+The troll struggled ferociously, slamming herself into the ground trying to dislodge Sabri. Plate armor rang loudly as the axe bounced off it several times and the ribbon of blood struck again and again, but Sabri would not be deterred. She gritted her teeth against the bleed and the strikes, continuing to increase the pressure on her windpipe, progressively claiming more leverage while clinging tenaciously to the troll’s back.
+
+The troll choked, making the strange coughing gasps of an airway struggling to open, but it was less than a minute before the struggling troll finally fell limp in her arms. Carefully, she eased the pressure just a little but maintained the hold in case the troll was faking it, but she quickly determined Gara had most definitely passed out.
+
+Sabri laid her opponent on the ground and hastily gathered up her sword and the troll’s axe. Then she squatted down beside her to wait for her opponent to regain consciousness. She examined herself carefully, finding she had lost nearly a third of her health in the duel, mainly from the blood ribbons and the bleeding damage, and looked down at her opponent thoughtfully.
+
+Something doesn’t seem right, she thought. Somehow, she knew there was a deep pain within the troll that was driving her. The troll’s eyes fluttered, and then opened, settling on her, and both weapons in her hands, first with recognition, then defeat, and finally despair.
+
+“Do you yield now?” Sabri asked, but she was worried about this troll. Despair was an extreme emotion in response to losing a duel, even for a proud race.
+
+“You win,” Gara admitted. “My life is yours, do with me what you will.”
+
+“That’s a little extreme for a duel over an unintended insult, don’t you think?”
+
+“Losing to a human means I am not fit to be Aman Rak,” Gara answered, looking away to hide a powerful surge of emotion.
+
+Grief? Sabri suddenly recognized the emotion in the troll’s eyes, and the overzealous commitment to a duel to the death suddenly made a lot more sense. This troll had lost something precious and losing this duel had been the last straw that broke her spirit.
+
+“I am Sabri. I am Ahn Khen. I will accept your temporary defeat on one condition,” she said. She needed a way to let this troll save face and regain the phenomenal fighting spirit she had just displayed. Anything else would be a tragedy.
+
+“Ahn Khen?” Gara’s eyes widened in recognition.
+
+“Yes, I grew up in Kezda,” she answered.
+
+“Then perhaps I do not feel so bad for losing.” Slowly she sat up. “I am Gara. I am the last Blood Shaman of Aman Rak. What are your conditions?”
+
+“You are level twelve, and I am level fifteen. This is not a fair battle. I insist that you gain enough levels to match me and then challenge me to another duel. Only then can I feel I have respected the skill and techniques of Aman Rak,” she answered.
+
+“You want a rival?” Gara asked, incredulity rising on her face.
+
+“You would be a phenomenal rival,” Sabri answered, recognizing the term. After all, it was a common relationship between disciples and students of different elders, each spurring the other on to further growth. “I will not rest, nor make this easy for you.”
+
+“Very well, I accept,” Gara growled. But then she looked down again, sadness crossing her face before being ruthlessly crushed. “But Aman Rak is no more. Where will I gain experience?”
+
+“I’m sorry,” Sabri answered, addressing the pain and grief that had just been laid bare.
+
+“It was not something anyone could have stopped,” Gara said. “But I still need to grow. I must protect the last of my people.” She nodded toward the four trolls standing together among the spectators. “And if I was stronger, I would be there with your Aliandra, fighting to reclaim my home from the undead and the betrayers.”
+
+“Well. We happen to have a group of four… and a dungeon where we can gain experience. All we need is a healer,” Sabri said.
+
+“Oh!” Brena exclaimed; a sound that was more hiccup than yelp.
+
+Gara’s face cracked into a savage grin. “Accepted!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

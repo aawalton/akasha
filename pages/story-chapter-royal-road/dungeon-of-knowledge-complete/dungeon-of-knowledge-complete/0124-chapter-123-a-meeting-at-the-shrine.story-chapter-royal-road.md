@@ -1,0 +1,251 @@
+---
+id: af88bb65-f0b6-5e75-aeb9-b6fa6bfa5145
+page-type-slug: story-chapter-royal-road
+title: "Chapter 123: A Meeting at the Shrine"
+slug: 0124-chapter-123-a-meeting-at-the-shrine
+partOf: dungeon-of-knowledge-complete
+position: 124
+ownLength: 4161
+unit: words
+ownProgress: 4161
+publishedAt: 2024-08-29
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1779416/chapter-123-a-meeting-at-the-shrine"
+royalRoadId: "1779416"
+markedReadAt: "2026-06-29T20:15:13.956Z"
+---
+
+Ali sat quietly, listening to Ryn’s account of the state of the town, and by her telling, the situation was dire. Food prices had skyrocketed as the crops failed, and the farmers had fled into the city with reports of a horrible plague on all living things and terrifying monsters creeping around in the dark.
+
+“You guys are still wanted for questioning in connection with the deaths of the Town Watch,” Ryn said, her mouth drawn into a disapproving line. “And the Torian army is massing near the northern road. There are rumors of a battle or siege coming. People are worried and hoarding essentials.”
+
+“What about trade?” Calen asked.
+
+“The merchant caravans haven’t been seen,” Ryn answered. “I think there’s been no traffic on the south road for a week. I heard Jax Hawkhurst and Donella Novaspark nearly came to blows in the council meeting – supposedly, teleportation into and out of Myrin’s Keep is not working.”
+
+“Couldn’t happen to a better person,” Mato muttered. “People are starving and all he wants is higher food prices.”
+
+Ryn glanced sharply at him, her lips compressed into a thin line. “True,” she allowed.
+
+“That’s worse than I thought,” Calen noted. “We should make a report on the Necromancer and the undead army to the garrison commander, but I’m not sure how to get taken seriously or get the message through without getting locked up or killed.”
+
+“Why should we help them?” Ali burst out. People were going to die, either from the food shortage or from the Torian siege. Or worse, the blight when the Necromancer appeared. But Ali struggled to find any sympathy for Myrin’s Keep – all she could find in her heart was frustration, anger, and fear for how they treated her. She simply couldn’t shake the image of Roderik’s face as he taunted her, enjoying her pain. “They made you all into fugitives and you were only trying to defend me from the Town Watch. It’s not like we owe them anything.” Trying to approach the garrison headquarters was likely suicidal – they would be found and killed or locked up immediately.
+
+“It’s the right thing to do, Ali,” Malika said, her voice grave. “Don’t let your pain speak –”
+
+“They burned my forest and tried to kill me, Malika. He was enjoying hurting me!” Ali shouted, her heart seething with fear and anger. She still could not banish his sadistic laughter from her mind. “I don’t care if the skeletons do come for them!”
+
+“Ali, that’s not how you really feel, is it?” Malika insisted.
+
+“I don’t want my mom to die, Ali,” Calen said, speaking softly from his seat beside her with deep lines of worry etched on his face.
+
+His quiet and sincere voice, filled with worry and concern for his mother brought Ali up short, her anger instantly snuffed out, replaced by embarrassment and shame. They are all here supporting me, and it has cost them their freedom. They risked their lives and their families and all I can think of is myself.
+
+“I’m sorry Calen,” she said, taking a deep breath to try and calm her heart. “I was being selfish and scared, and I didn’t think of what it is costing all of you.”
+
+“Thank you, Ali,” Calen answered, giving her a small smile.
+
+“You’re right to be angry for what they did to you,” Malika said. “That’s not selfish. But there are many innocent people in Myrin’s Keep.”
+
+“What should we do?” Ali asked.
+
+“I think we should talk to the Guildmaster,” Malika suggested. “She’s probably the only person on the council who will at least listen to us first.”
+
+“Isn’t it a big risk to trust her?” Ali asked, dubiously. Vivian Ross was a powerful woman, and although she had been good to them so far, that was before she knew Ali was a dungeon. She was easily strong enough to kill them all outright, and Ali’s class changed everything.
+
+“It is a risk, but Ryn said everyone thinks you’re dead,” Malika said. “I think you should stay here and not risk exposing yourself in case it doesn’t go well.”
+
+But Calen’s quiet concern for his mother, and her shame at her selfishness, was still fresh in her mind. Ali could not let them all take the burdens and risks on her behalf while she risked nothing in return.
+
+“No,” she said firmly, her mind made up. “We will face it together.”
+
+“I can set up a meeting, if you like,” Ryn suggested. “That way you don’t need to risk the guards or the Town Watch.”
+
+***
+
+“Here?” Ali asked, staring at the pristine, crystal-clear water of the tiny bubbling stream that flowed under a boulder and vanished through the rock wall of the cavern. Her Spore Spreaders had been busy, filling all the ponds and streams in Lira’s now-forested cavern with the water-affinity Psathyrella mushrooms, ridding them of the murk and stagnant stench.
+
+“Yes, this should lead directly to your old cavern,” Calen answered confidently.
+
+As usual, his sense of direction was impeccable. Ali wielded her Domain Mastery skill at the tiny stream channel, making the rock of the cavern wall flow like liquid. She flexed her mana and the tiny rocky channel expanded as her skill reshaped the cavern wall. In just a few minutes, she bored a tunnel large enough for them all to walk through, with the tiny stream confined to a small, meandering channel running down the center. A lot better than the first time I tried to open a river channel…
+
+As Ali’s magic opened up a new entrance to her original cavern, and she floated through on her barrier, her heart sank. The once-beautiful cavern, filled with trees and the sparkling light of her plants, the blue glowing lake, and the ever-present mana of her domain, was instead dark and dead. All that she had created was gone, and the only thing that remained was ash and burnt stumps of trees, and the stale stench of fire.
+
+Ali hovered above the ground, but her Kobolds and her Forest Guardian crunched through the cold charred remains of her forest, kicking up ash as they went. Even the sound of their footfalls and the quiet voices of her friends were muted, like the hush after the first snow.
+
+“Well, that’s depressing,” Mato said, emerging from the tunnel.
+
+“Indeed,” Lira answered.
+
+Their somber mood as they made their way to the shrine – the only source of dim light in the entire cavern – was reminiscent of a funeral procession. Ali had enjoyed planting the forest, and all her work was destroyed in one day by a bunch of angry people out to kill her for the crime of having the wrong class. She covered her mouth with her sleeve, feeling as if the atmosphere was so heavy, it was not merely a struggle to breathe but even for her heart to beat.
+
+As their procession neared the burnt remnants of the Grove, Ali’s heart jumped at the sight of the shrine, dirty and covered with soot, but standing unbowed and unbroken, like a glowing lighthouse against the worst storm of fire the Town Watch could unleash against it. “Well, that’s a relief,” she said.
+
+“I told you, they have not the power to destroy such an artifact,” Lira answered.
+
+“They’re here,” Calen interrupted.
+
+Ali’s mood changed quickly as she saw two figures standing beside the shrine waiting for them. Ryn waved wearing a smile and a pretty blue dress, and beside her stood the imposing figure of Vivian Ross. Her expression was guarded, and the only emotion Ali could read was the slightly raised eyebrow of surprise as their party came into view.
+
+“I can see why you wanted secrecy,” Vivian said, her voice as cool and controlled as her expression. “I was told you had been killed.” Her gaze flickered across their group, lingering on Lira before returning to Ali.
+
+“Roderik came very close,” Ali answered, stepping off her barrier and onto the ash that was all that remained of her moss carpet. But as she did, she caught sight of a third figure, standing behind Vivian as if to take cover behind her imposing presence.
+
+Mieriel! Ali’s heart began pounding as she filled with inexplicable anxiety at the sight of the out-of-place elegance of the Sun Elf in the middle of the burnt Grove.
+
+Spy – Sun Elf – level 50 (Mind)
+
+Several things crashed into her mind at the sight of her, and the distinctive nature of her mana. An image of the Sun Elf sitting by while Vivian shouted about her being a dungeon while she sat unresponsively. The horrifying sensation of Mieriel doing something to her mind. Stunned by the power of the images, Ali gasped for a moment, and Mieriel instantly ducked back behind Vivian.
+
+“You knew I was a dungeon.” Ali finally found her voice and realized that the images were not dreams, but memories that had been hidden from her. Her anxiety faded, replaced by a cold anger.
+
+“We did,” Vivian answered roughly, not bothering to hide it.
+
+“Why did you bring her?” Ali asked, the anger making her voice harsh.
+
+“Aliandra, your anger is misplaced,” Vivian said. “It was me who insisted that she do it. Stop hiding, Mieriel, you wanted the chance to apologize. At least let her see you.”
+
+Mieriel sidled sideways out from behind Vivian, hands clasped together and looking down at her feet. She looked small and frightened, and nothing like the looming specter of her dreams. Ali glanced at Vivian’s closed expression, trying to grasp the sudden shift in the situation.
+
+She did it? Why? And then…
+
+“I’m sorry for hurting you Aliandra,” Mieriel said in a small voice. “I don’t ask for any forgiveness, but I hope one day to make it up to you somehow.”
+
+“Why did you do it?” Ali asked, glaring at Vivian and ignoring Mieriel’s apology. She was too upset to even respond to the Elf.
+
+Vivian’s stony guard cracked, and she sighed. “After you showed me the shrine, I had to know. Only dungeons make shrines like this,” she pointed to the obelisk of stone looming over them. “I admit I intended to kill you as soon as Mieriel verified you were actually a dungeon, but it was her that changed my mind.”
+
+Mieriel stood up for me? Against her? Everything seemed upside down – the mind magic Elf was on her side? And the Guildmaster had wanted to kill her?
+
+“Why did you stop her?” Ali asked, turning to the visibly distressed Elf. “Why would you side with a dungeon?”
+
+“I…” Mieriel took a shuddering breath, and looked up, meeting Ali’s gaze for the first time. “I know what it is like to be persecuted for my class. I have felt the anger of people who would kill me, no matter what kind of person I am.”
+
+Her words hit hard in Ali’s gut. Hard enough to make her wheeze, “Aaah!” All she could see was the gloating face of Roderik, grinning as he tried to kill her, not for anything she had done, but for the class she happened to have. In that moment, Ali knew Mieriel understood her pain.
+
+“I have a dangerous class,” Mieriel continued, nodding meekly. “Before I learned to conceal it, I had to live alone, without any contact with the civilized world, but they found me and threw me into a dungeon anyway. Just because they were scared of what my class could do. It was Vivian that rescued me, and gave me a home and a life, protecting me from those who would kill me. I just reminded her of that, and the fact that you’ve only ever done actions that supported your friends, the guild, and the town. And that killing you would be hypocrisy.”
+
+“Mieriel is being too kind,” Vivian said quietly. Ali could scarcely imagine the demure Elf standing up to the powerful Vivian, save for the core of adamant she had witnessed when she briefly glimpsed inside Mieriel’s heart.
+
+“You are not here to kill me? Or turn us in?” Ali demanded.
+
+“No. You are all too valuable to the guild. I know that is a selfish reason, but it’s an honest one. If the four of you hadn’t saved Aiden’s group and survived the attack, the guild would have been wiped out by the Town Watch. I want your names cleared and you back in the guild hall – there are important jobs that need doing, and new recruits to train.”
+
+Ali simply stared at them, speechless. On one hand, they had invaded her mind, and very nearly killed her. On the other hand, she believed Mieriel’s story and Vivian’s motive. But something doesn’t add up here. While Vivian’s claimed motive sounded authentic, Ali was certain there was more to it that the Guildmaster was not sharing. She could have just killed me… Ali knew the Guildmaster’s power. A conscience? She glanced at Lira, noticing the almost imperceptible deepening of the creases around her eyes, the fractional nod of her head. She sees it too.
+
+Despite her aversion to Vivian's actions, Ali decided to trust her word for now. Her friends would need every bit of help they could get if they ever wanted to set foot in town again, visit with their families, or simply show their faces without fear of attack. Besides, with the Necromancer threatening Myrin’s Keep –
+
+“How does one such as you propose to help clear their names?” Lira asked meantime, her soft resonant voice filling the silence. “After what you did to her, I think it is the least you can offer as recompense.”
+
+“The only way is to win the vote of the Town Council,” Vivian said. “I propose we prepare for that.”
+
+“And you can ensure the vote is favorable?” Lira pressed.
+
+Ali still struggled to calm herself down, grateful that Lira had stepped up to drive the conversation. It was all overwhelming – how could they hope to win a vote with the council? She was a dungeon. She had killed people.
+
+“I cannot. But I am a member of the council, so we have one vote,” Vivian said, her eyes filled with unanswered questions as she studied Lira. “Mieriel has offered her skills to learn how we might sway the others.”
+
+“Very well,” Lira answered. “What can you tell us about this council, and what leverage do we have?”
+
+“You think this plan is a good idea?” Ali asked incredulously. The idea of allying with people who would invade her mind and throwing herself on the mercy of a council that knew she was a dungeon was terrifying. Wouldn’t they all want to kill her, just like Roderik? And yet that was precisely where Lira’s questions seemed to be leading.
+
+“Yes, dear,” Lira answered. “I think it will be our best chance. Besides, I have some experience with politics, and the stylish elf seems to be a talented spy. We are not without means.”
+
+Mieriel glanced at Lira, clearly a little overawed by the three-mark Dryad.
+
+“Also, if the council votes against us, we’re in no worse a position than we are now,” Calen added.
+
+“But we’d have to put ourselves in their grasp, wouldn’t we?” Ali said. Surely, the council would want them to be present.
+
+“I can at least guarantee your safe passage,” Vivian said.
+
+“There are eight council seats,” Mieriel explained, pushing her glasses up on the bridge of her nose. “Killing Roderik is one of our biggest problems, and ironically, a substantial advantage too. He would most definitely have voted against us, and now his seat is vacant. But his death will scare some of the council members.”
+
+“How did you manage that, by the way?” Vivian asked. “He was strong, well above your level, and he had plenty of experience with duels.”
+
+“He kept reminding me of his experience,” Ali answered, grimacing at the memory. “He claimed to have killed over a thousand people.”
+
+“I don’t doubt it,” Vivian answered. “But most of them were probably vagrants and drunkards in the slum district that he hunted for sport. It’s a good thing for the town that he is dead – he hid his crimes behind his nobility for far too long.”
+
+“I summoned one of those and had it charge him,” Ali said, gesturing to the Forest Guardian.
+
+“That wouldn’t kill him, he would just teleport away. And doesn’t your summon magic take a while?” Vivian seemed full of curiosity, but Ali was loath to spend much time on the gruesome memory.
+
+“I waited till his teleport was on recharge, swapped a skill for an instant cast support skill, and put some of these behind him,” she said, summoning a barrier shard to demonstrate. “The guardian used Rush as soon as it was summoned and –” she brought her hands together, unable to voice the result.
+
+“Well, that’s terrifying,” Vivian answered, looking meaningfully at the enormous Forest Guardian.
+
+“Why does the council have eight seats?” Calen asked. “Doesn’t that cause a lot of tied votes?”
+
+“Bastian Asterford is the crown executor, and his vote is the tie-breaker,” Mieriel explained.
+
+“Well, that’s a problem,” Mato said, and Ali recognized the name from the boy she had had to deconstruct under the rock pile.
+
+“Bastian will vote according to the crown’s interests, which likely means he will vote against you because of the crown policy on dungeons. But even without that, killing Roderik has certainly turned him into our enemy.”
+
+“Counting Vivian as for and Bastian against, we have five uncounted votes which will require leverage,” Mieriel said. “Without it, we can assume they will vote against our side just because Aliandra is a dungeon. Major issues affecting the council are the deaths of the Town Watch and Roderik, who was a noble, and the sudden food shortage and reports of monsters to the south. There are also the Torian troop movements. They have moved a spatial suppressor class into range of the town, and most of our long-range teleportation and communication is down. And then, whatever you did yesterday with the advancement of the Lirasian Oak – a new grove, right? That got the attention of the entire town.”
+
+“Well, that’s the reason we wanted to talk to you in the first place,” Ali said, collecting herself. “This is Lirasia, the Dryad of the southern forest, and my aunt,” she introduced. “We just got back from there, and we can report that the Necromancer, Alexander Gray, has wiped out the entire Lirasian Forest from Toria, across the Myrin River, and all the way to just south of Myrin’s Keep. There is a huge undead blight across the land and armies of skeletons and zombies, and they’re just a few days away.”
+
+“What?” Vivian exclaimed, her eyes flying wide.
+
+“The Torians must think New Daria is to blame,” Mieriel said softly.
+
+“We’re going to have to get Commander Brand involved immediately! Why didn’t you mention this before?” Vivian nearly shouted. “Here we’re arguing about a council vote… tell me everything you know! Now!”
+
+***
+
+“I’m scared,” Ali admitted as they all reconvened in the library for dinner. It had been a long and stressful conversation, and they had parted with more questions and unknowns than when they had started. All Ali knew was that she faced a trial at the hands of the council – a group she barely knew, and who were likely to condemn her to death for being a dungeon. And she still wasn’t sure of Vivian’s motives.
+
+“We’ll do it together,” Malika said, echoing her own earlier resolve. And yet somehow it did soothe her fears. The others were facing trial with her, and at least she would not be alone.
+
+They had parted ways with a working plan. Vivian would discuss calling the council with the mayor, while Mieriel did some information gathering. Calen was to produce the scouting report of what they had seen, and he was already hard at work, drawing out maps and writing up the details.
+
+“Aliandra dear, what will you wear?” Lira asked, coming up beside her.
+
+“What do you mean? I’ll wear this?” Ali asked confused, looking at her perfectly serviceable adventuring gear.
+
+“Oh, no that won’t do. Trials are at least as much presentation and confidence as they are evidence and leverage. You must present a strong presence. Do you happen to know a good tailor?”
+
+“Lydia,” Ali said, and Calen perked up immediately at the mention of his mother’s name. As it so happened, Ali did know the best tailor in town, and with a sudden whirlwind of activity, Ryn was dispatched to Lydia’s Allure with an emergency order for all of them and a small, but heavy, pouch of gold coins. But that was not enough for Lira, and Ali was subjected to a crash course in court politics, presentation, reading a room, and stage presence by the highly motivated Dryad.
+
+How did Lira learn royal court etiquette? she wondered when she finally emerged from the lessons in a daze.
+
+“What do you guys think?” Calen asked, presenting the final draft of his report, complete with exquisitely drawn maps, estimates of travel velocity, distribution of forces, details on the undead they had encountered, and the progression of the blight into the town’s outlying farmland.
+
+“We probably need a copy for each council member,” Lira suggested.
+
+“You’re probably right,” Calen said, his shoulders drooping in response. He had been working on that for hours.
+
+“Hey, Ali, you were able to write my name on my calligraphy workbook. Can you do more?” Malika asked, producing the book to emphasize her point.
+
+“I’m not sure,” Ali answered, staring at Calen’s report. She had just been messing around with Malika’s book when she added the runic script to the cover, but she had been able to suppress the writing in the book too. And what Malika was hinting at was possible in theory. But Calen’s book had detailed notes and maps and all sorts of stuff.
+
+Can I even do it?
+
+But now Malika had stuck the idea in her head. “It can’t hurt to try,” she said. Borrowing Calen’s report, she activated Sage of Learning, and paged through it slowly, memorizing every single detail. She took substantially more time on each map, trying to capture every little nuance. After she repeated the process twice, she felt her memorization was as good as it was going to get.
+
+She opened her Grimoire to the book imprint. Pouring her mana into it, she focused on her memory of the report, trying to stitch the maps and text into the customized construction of the book her spell was creating. She struggled with it, twisting and pushing, coaxing and forcing, trying to get the two to connect.
+
+With an audible thump, a small brown bound book dropped into her lap. She opened it curiously, but the first several pages were entirely garbled.
+
+I knew it was too hard, she thought, mouth twisting in frustration. But, to her surprise, when she reached the final page, she found it was a perfectly rendered copy of the last page of the report.
+
+How did that happen? She cast her mind back to the experience, trying to recall what she had been thinking at the end. But other than the struggling, all she could remember is that near the end she had sort of given up, and simply let her intuition take over.
+
+Even more curious now, she channeled her magic once again, but this time she strove simply to keep the image of what she wanted present in her mind while she worked, available, present, but unforced. It was a lot harder than she had expected, like trying to pour water from a big bucket into a small glass vase. She faltered several times, but she recovered quickly after each misstep.
+
+For some reason, the entire process reminded her of Malika’s lessons on meditation.
+
+The second book dropped into her lap, drawing an approving grunt from Mato. She picked it up and excitedly opened the cover. The first page was correct, but as she slowly flipped through the book, she found that wherever her concentration had slipped, there would be a section of garbled writing, or jumbled lines on the map.
+
+Third try! It felt right there, within her grasp. This time when the book dropped into her lap, she knew it was correct. It was made to the perfect size, with exactly the right number of pages – something she had just figured out – and every single page was a perfect replica of Calen’s original report.
+
+It worked!
+
+Overjoyed, she handed it to Calen to inspect. “What do you think?”
+
+“Sure beats copying it by hand,” Calen said, a big grin forming on his face as he paged through Ali’s creation.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

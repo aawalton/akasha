@@ -1,0 +1,125 @@
+---
+id: 66ed8219-f1b7-53a2-90b2-64d02585dfe5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 227: The Leatherworker (Part 1)"
+slug: 0259-chapter-227-the-leatherworker-part-1
+partOf: dungeon-of-knowledge-complete
+position: 259
+ownLength: 2002
+unit: words
+ownProgress: 2002
+publishedAt: 2025-04-19
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2214773/chapter-227-the-leatherworker-part-1"
+royalRoadId: "2214773"
+markedReadAt: "2026-06-29T20:19:59.157Z"
+---
+
+Sure, ya can go farm dungeons for items. Heck, it’s exciting, I know. If yer good, ya might even turn a profit. But, after you’ve killed a thousand bosses and still haven’t found what ya need, you will learn that a skilled crafter is worth their weight in gold.
+
+- Bragni Doomhammer [The Hammer of Justice], Dwarven King of Dal’mohra.
+
+Calen found himself sitting quietly beside Zor’kan. All the other trolls had left for Myrin’s Keep. Ali and Malika were scouring the battlefield for resources and upgrades, and Mato was being uncharacteristically quiet as he cleaned up after dinner.
+
+Zor’kan. That name had been burned into his mind ever since Lyeneru had revealed her most powerful item. Normally he would have been comfortable letting the silence draw out, not interested in conversation, but there was a powerful curiosity burning within him. He had to know.
+
+“Zor’kan, do you remember Lyeneru Silverleaf?” he asked, still struggling to express himself fluently in the strange language of the trolls – a language substantially more dependent on emotive physical gestures than Common.
+
+“Aah, mmm, pretty, young Night Elf girl?” he asked, scratching a thick pointed ear. “Big bow of fire and lightning?”
+
+“Yes,” Calen said. How old is he exactly? he wondered, almost spluttering at how he referred to the premier and most powerful pathfinder in Ciradyl – perhaps the entire continent. “She is my mentor,” he managed, getting right to the crux of his curiosity. “She showed me a bracer with mana leech that you made for her. Well, it had your mana signature on it.”
+
+“Aah, yes. Is she still using that old piece of junk?”
+
+Calen choked. He wasn’t quite sure which was more shocking – that he referred to the legendary Lyeneru Silverleaf as a ‘pretty, young girl’ or that his assessment of the best piece of archer gear he had ever seen as a ‘piece of junk.’
+
+“Yes, she’s still using it,” he finally managed. “I was wondering… what might it take to get something similar made? I know you don’t normally craft items for other races…”
+
+“You archers are all the same,” he said, squinting at Calen closely. “Addicted to mana. I must ask you a question first.”
+
+“Sure,” Calen asked, not sure if he had just caused some obscure offense to the leatherworker Lyeneru held in the highest regard. But he was certainly spot-on regarding the mana problem.
+
+“If I make this item, will it make you stronger? Will you use it to defeat the abomination that infests Aman Rak?” Zor’kan had a cold hard look in his eyes that would have been terrifying on a warrior.
+
+“Yes, it will make me stronger,” Calen answered truthfully. Mana was such a problem, that he could almost not gauge how much of a benefit a mana leech item would even be. All he knew was that it would certainly blow away his expectations, and he had high expectations to begin with. “And yes, I will get to the bottom of what happened here, and I will wipe out this dungeon with my friends.”
+
+“In that case, I will make you whatever you want,” Zor’kan answered. “There is no better use for my skills than the liberation of our sacred lands. I need leather, boy. I have none of my equipment. I specifically need some of those Spirit Nightwing hides for this enchantment before that Fae destroys them all, some Soulshade Blossoms, and get me a good knife.”
+
+Calen immediately unloaded every single Armored Drake and Demonic Warg hide he hadn’t been able to sell, and Zor’kan’s eyes lit up at the sight of the rapidly growing stack of leather.
+
+“Let me try to find a knife,” Calen said. He only had his skinning knife, but perhaps Zor’kan wouldn’t mind. Ali or Mato would be able to help him with the flowers – swaths of them still bloomed where the altar had once stood.
+
+“How about this?” Malika asked, coming up from behind him, holding out a long bone blade. For some reason she was gripping it gingerly between her thumb and forefinger, looking for all the world like she didn’t want to soil her hands.
+
+“Hah!” Zor’kan exclaimed. “Perfect, I will use Kir’vella’s blade to undo her partners in crime.” He took the knife from Malika and plopped himself onto the ground beside Calen’s pile of hides. He flipped his hand over, and a sharp bone splinter burst through his skin, growing from his wrist. When it was the length of his finger, he snapped it off and bored a hole through the end with the knife, and then the splinter warped in his hand as his magic compressed it into a highly polished, thick triangular needle. A few moments later, he repeated the process, creating an awl.
+
+“That’s… impressive,” Malika said, squinting at his creations.
+
+“Not nearly as good as my old, enchanted tools,” the Troll grumbled. “But it will have to do. Our need is great.” With Kir’vella’s blade, he sliced extremely thin strips from the first demonic hide, twisting them into a rudimentary thread and then he began to work in earnest. He grabbed a second hide, trimmed it to size, threaded his bone needle, and began to stitch it to the first one.
+
+His heavily calloused hands flickered with uncanny speed and dexterity as he settled into his working rhythm, clearly leveraging several leatherworking skills simultaneously. The needle pierced the thick hide with speed and ease as he continued adding the broad hides to his creation, seemingly not caring if it was dragon hide or demon. Calen couldn’t see how it was done, but as each additional hide was added to the piece, it seemed to warp and twist, shrinking down so that whatever he was making never seemed to grow. The space around the leather and his hands began to warp, blurring the trees and moss seen through it. After he had added perhaps ten or twelve full-sized hides, he twisted his creation inside out and all the distortion snapped and disappeared, leaving him with a small bag, approximately the size of his head. Calen could see the surface of it was a patchwork of tiny versions of each of the hides he had sewn together.
+
+“What is that?” Calen asked, giving voice to his curiosity. Whatever it was, its creation had involved some seriously impressive leatherworking trickery.
+
+Zor’kan shared the stats for him to see.
+
+Leatherworker’s Troll Pouch – level 72A space-warping bag of draconic scale and demon hide, designed to store everything a Leatherworker needs for their craft. Requirements: Leatherworker class, Troll.Leatherworker’s Troll Pouch will cure any raw hide stored within it. Duration: 3 hours.Mana: Store or retrieve an item. Capacity: 0 / 7350 lbs.Created by Zor’kan.Bag – Leather
+
+“That’s incredible!” Calen exclaimed seeing the enormous storage capacity of the bag he had just created.
+
+“How did you think we Trolls live in the jungle without all those fancy buildings and houses your kind are so fond of?” Zor’kan grumbled genially. “Leatherworking requires a lot of tools and bulky supplies. Much of it would rot if I just left it out in the jungle.” He quickly stored all the remaining hides, his bone needle, and the knife Malika had given him. It seemed that the bag functioned quite differently than a regular storage enchanted ring – the Troll had to stick his hand into the small bag to retrieve or store items, sometimes reaching his whole arm up to the shoulder to arrange something within the unseen space.
+
+“Ok, boy,” Zor’kan said. “I know you have the Skinning skill. There are a lot of bats. Let’s get to work.”
+
+***
+
+Calen was sweating by the time they were done. Every single hide had been inspected and added to Zor’kan’s Troll Pouch, and Ali had deconstructed the huge pile of what remained once they were done.
+
+He plopped himself down on a small log beside the fire and watched in fascination as Zor’kan began to extrude strips of bone from his own body, snapping each of them off at about a foot in length.
+
+What he did next defied easy explanation. Even with his clumsy-looking broad three-fingered hands, Zor’kan’s movements were so quick and dexterous it was hard to follow the darting needle, blending the now-cured Spirit Nightwing leather and the strips of bone, embossing patterns with his mana directly into the leather. Somehow the bone and leather seemed to flow under the guidance of his nimble fingers, malleable, and flexible in a way that would certainly be inexplicable without his access to both leatherworking and his bone-affinity mana. At least, that’s what Calen assumed it was, and Ali’s fascinated stare confirmed something mana-related was happening. The blur of the unerringly accurate needle suddenly ceased, and Zor’kan held up his work to the dying light of the sun, squinting his eyes as he inspected it.
+
+He grunted in satisfaction and handed it to Calen. “How’s this?”
+
+“Aah, I can’t identify it,” Calen said.
+
+“I got you,” Malika answered, and then coughed right as she shared the details and his chime sounded.
+
+Vampiric Bracer of the Bat – level 73Made from the blue hide of a Spirit Nightwing bat, with geometric designs reinforcing its structure made from bone.+46 Dexterity+27 Perception2% of your damage is returned as Mana over 30 seconds.1% of your damage is returned as Health over 30 seconds.Requirements: Dexterity 146, Intelligence 146Created by Zor’kan.
+
+Quality: Uncommon.
+
+Value: 67 gold.Hands – Leather / Bone
+
+“The leech enchantments would be better with my tools, but it should do for now,” Zor’kan said.
+
+“Holy shit,” Calen whispered, staring at the details. He could scarcely believe what he held in his hands. Sure, Lyeneru’s version had more leech, but this had an additional perception attribute enchantment, and it was an even higher-level bracer than hers.
+
+“When you meet your mentor again, tell her I will make her an upgrade,” Zor’kan added.
+
+Calen bowed his thanks to the master leatherworker.
+
+Your proficiency with the Troll language has improved.
+
+Calen studied the bracer, first thinking that Zor’kan had made it too high-level for him, and then suddenly remembered he had just defeated a raid boss. He took off his Flamecaller Bracers, strapped the new ones to his arms, and immediately invested ten more points into strength to cover the loss from unequipping his old bracer. His bow required a lot of strength, and the amount gradually crept up as it leveled.
+
+“Looks good on you,” Mato said.
+
+Calen admired the beautiful craftsmanship displayed on his forearms, swirling designs of bone on blue giving him an elegant style that seemed out of character for most of the Aman Rak gear they had found so far.
+
+Archer of Light has reached level 73 (+5).+50 attribute points.
+
+Having already invested in the strength he needed for his bow; he had forty points left to distribute. He immediately spent two each on vitality, endurance, and wisdom. Twelve went into dexterity, and then he split the remainder, spending eleven each on intelligence and perception. That puts me back on my plotted growth curve. Yes, very good!
+
+Radiant Archery has reached level 38 (+2).Arrows of Brilliance has reached level 43.Motes of Light has reached level 26 (+2).Explorer has reached level 41 (+2).Blessing of the Dawn has reached level 30 (+3).Eclipse has reached level 27 (+3).Righteous Fury has reached level 24.Mirage Armor has reached level 23 (+3).Skinning has reached level 12 (+2).Howling Hellfire Bow has reached 66 (+3).Your actions have increased the reputation of your patron.You have gained the Blessing of the Wanderer.
+
+My skills are doing very well… He studied the growth closely. Not only the skills, but his bow had also just reached level sixty-six, which gave him a substantial base damage increase. It also increased the strength requirement by one, but fortunately, he had spent enough to give him a small buffer already.
+
+Ok, ready for anything! He glanced over at Zor’kan. The Troll was already lost in his work.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

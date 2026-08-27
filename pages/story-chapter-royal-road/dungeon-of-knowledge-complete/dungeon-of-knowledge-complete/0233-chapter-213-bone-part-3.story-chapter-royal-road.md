@@ -1,0 +1,121 @@
+---
+id: 48f0af08-3d28-517e-b6c6-d8751aadc834
+page-type-slug: story-chapter-royal-road
+title: "Chapter 213: Bone (Part 3)"
+slug: 0233-chapter-213-bone-part-3
+partOf: dungeon-of-knowledge-complete
+position: 233
+ownLength: 2074
+unit: words
+ownProgress: 2074
+publishedAt: 2025-03-21
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2141405/chapter-213-bone-part-3"
+royalRoadId: "2141405"
+markedReadAt: "2026-06-29T20:19:03.543Z"
+---
+
+Ali divided her attention among her minions, redirecting each individually. The drake and the guardian wheeled about to strike Calen’s chosen troll, and her two wargs flanked it, catching each other in their opposing hellfire breaths with the troll crisping between them. Her imp launched an amplified fireball, and she even sent her stalkers in, ignoring the friendly fire, relying on regeneration and the Acolytes to keep them alive. Malika clearly read the strategy and swapped targets in a flash.
+
+Ali’s Abyssal Stalker struck from behind, unleashing a powerful Blood Shock, and the troll visibly staggered from the stunning impact. In that brief moment, while it was stunned and unable to dodge, three simultaneous breath attacks struck, a cleave, a fireball, a flurry of soul strikes, and even an axe attack from a Hobgoblin.
+
+The troll’s health vanished in an instant, and it dropped like a marionette with suddenly severed strings, smoke and flame rising from wounds that no longer closed. A soft chime sounded in the back of her mind, which she ignored.
+
+Now I just need the breath attacks to recharge, Ali thought, directing her Acolytes to keep her wargs and Hobgoblins from dying to the retaliatory charge from two trolls tearing through the melee leaving trails of bone spikes in their wake, slashing at everything with great sweeping strikes of their blades.
+
+But she was not the only one able to read the battlefield. Before her minions’ skills recharged and Calen could pick a new target, the leader of the trolls standing high upon the ridge barked several short words that rang out across the battlefield, provoking her Sage of Learning skill again. The four remaining melee trolls whirled about and simultaneously struck one of her Hellfire Wargs with a blindingly fast flurry of slashes and stabbing punches, causing it to drop even under the direct attention of the overworked Kobold Acolytes.
+
+Amid the noise of more barked troll orders, Ali reacted to the loss of her warg by accelerating a hellfire fireball and directing her remaining warg to breathe on the battlefield. The instant fireball shot out across the battlefield, carrying her imp in Flame Form, and detonated amid the trolls. Her imp emerged, cackling in the center, but most of the trolls had managed to dive out of the way, escaping unscathed. But she had managed to disrupt their momentum, and the fire breath from her remaining warg blasted across the field, merging with her imp’s flame shield. Clearly, it was enough, as the warg’s mana rekindled, and a pair of glowing red eyes appeared in the heart of the raging black flame. There were numerous surprised exclamations from the trolls as the warg howled from within the fire and charged out to rejoin the battle.
+
+“Red zig-zags,” Ali announced, identifying the male troll who happened to have the lowest health by the glyphs painted on his armor.
+
+“Got it,” Calen said. The motes of light above the melee flared brighter as he ignited his mana with Righteous Fury, and Ali unleashed all her minions to attack their target. Calen’s magic disproportionately benefited fast strikes, so she favored her stalkers and the dual-wielding axe Hobgoblin. Calen’s powerful bow howled deafeningly, filling the air with a deadly stream of hellfire-enhanced arrows. Blood Shock again stunned the troll at the crucial moment, and the hail of arrows, minion strikes, and Malika’s flurry of ultra-fast punches took the troll down even faster than the first one.
+
+“Green handprint,” Ali said, calling out the next most damaged troll. They all switched targets, destroying the troll under the withering onslaught of damage enabled by Calen’s magic. Down to only two trolls remaining in melee, the axe-throwing trolls on the ridge both charged, yelling orders as they tore up the distance. All four remaining trolls turned with flashing blades, and Ali’s Hellfire Imp pattered to the ground, sliced into several pieces before any of the Acolytes could even get off a heal.
+
+But the tide had turned. Two of the remaining trolls were low on health and appeared to be out of potions. Malika and Mato ganged up on one with the aid of her wargs and a stalker, while the remaining stalker stunned the second one, allowing her drake and Forest Guardian to stomp it into the ground with cleaves and tramples while Calen’s arrows finished the job. With the troll forces dwindling rapidly, it became progressively easier to focus their damage, and they quickly finished off the remainder.
+
+Your group has defeated Bone Warrior – Troll – level 63-67 (Bone) x7
+
+“Well, that sucked,” Mato said as he reverted to normal. “I couldn’t hit anything.”
+
+“Yep, they are really hard to pin down,” Malika said, agreeing with him. She walked over to the smoking corpses, turning one over and crouching to examine it closer.
+
+Ali sympathized with the sentiment. She had been immensely frustrated to unleash her drake’s cleaving attack only to have it dodged and then blocked by the canny trolls. “They’re fast, too,” she said. Whenever she had managed to hit, they had proven to be ridiculously resilient with their armor and regeneration.
+
+“It’s a good thing they didn’t have healers,” Calen said. It was a sobering thought – potions and regeneration were one thing, but healing was vastly quicker and more powerful. It also went without saying that they had been fortunate to not have any of the skeletons or zombies wander into their battle.
+
+“They didn’t seem to need healers,” Malika said. “They were constantly regenerating.”
+
+While they regrouped, Ali pulled out her Grimoire, resummoning her dead Acolyte and imp, and restoring her intelligence buff. Then she slowly scoured the battlefield, deconstructing each troll, and collecting the gear so that Malika could appraise it all.
+
+“I got a few things,” Ali said, returning to the group and pulling out the leather armor pieces she had collected. Each of the warrior trolls had been wearing a leather body armor set, heavily reinforced with bone plates attached by some delicate magically enhanced stitching. While there was some minor variance among the attributes on each piece, they looked like they had been created as a batch for the warriors by someone called Zor’kan.
+
+“What did you find?” Malika asked, uncoiling from her meditation pose.
+
+“Here,” Ali said, offering up a leather jerkin with abstract swirls of green and white paint adorning the back and sides.
+
+Bone-Studded Jerkin of Agility – level 60Armor: 504Evasion: 504+41 Dexterity+20 Strength+22% Evasion3% of your Physical damage is returned as Health over 30 seconds. Requirements: Strength 120, Dexterity 120Created by Zor’kan.Body – Leather / Bone
+
+“This is a really good set of armor,” Malika said, picking it up and turning it over in her hands. “Uncommon quality. It’s too bad none of us can use it. I would love to see that percentage evasion increase on a bracer or something I can use.”
+
+But Malika’s assessment was spot on – in their party, only Mato had the strength to equip it, and he had almost no investment in dexterity. Calen, on the other hand, had the reverse problem – more than enough dexterity, but nowhere near the strength to cover the requirements. And of course, Malika couldn’t use any body armor at all.
+
+“No wonder they were so tough,” Ali said, examining the enchantments on the armor. It was abundantly clear that the troll warriors had emphasized both evasion and armor and with attributes like that on the piece, it was easy to see just how difficult it was to hit them. On the other hand, it had no benefit against magical attacks, which seemed to be why her stalker’s blood magic, the fire, Calen’s motes of light, and Malika’s soul magic all were effective.
+
+“That health leech is strong,” Calen said.
+
+“That’s probably why they refused to die,” Mato offered.
+
+“And trolls have legendary racial regeneration,” Ali said. The leech was just a small percentage of damage returned as health, but with the amount they were dishing out all the time, it easily explained how their health refused to stay down despite a lack of healers. That, combined with their powerful natural regeneration and healing potions made for exceptionally durable warriors. It was no wonder they hadn’t killed a single troll until they focused on them one at a time.
+
+“Here, learn these and I’ll sell the ones you don’t want,” Malika said, handing back the armor pieces one at a time.
+
+Variant: Bone-Studded Jerkin of Agility added to Imprint: Armor
+
+Too bad my Hobs are too low for this armor.
+
+“What about these?” Ali asked, retrieving three broad rings carved from bone with intricate patterns adorning the smooth polished surface. Only three of the trolls had worn the rings adorning a tusk.
+
+Troll Tusk Ring of Storage – level 62Mana: Store or retrieve an item. Capacity: 106 / 550 kgRequirements: TrollTusk – Bone
+
+Malika studied a ring curiously, and then she activated it with a little puff of her mana. Two mana potions, three health potions, and a whole pile of bone axes cascaded from the ring onto the ground. She tossed the mana potions to Calen, and he stored them without a word.
+
+“This will be hard to sell,” Malika said thoughtfully. “Maybe we just store it for now?”
+
+“Tusk ring?” Mato asked.
+
+“Trolls only have two fingers and a thumb, and their fingers are quite broad compared to other races,” Ali explained. She had already deconstructed all the corpses so she couldn’t just show him. “I think most of them prefer to use jewelry, rings, and charms on their tusks instead of their fingers. At least most of the ones I saw were extremely proud of their tusks.” This also explained Malika’s assessment, nobody but a troll would want to buy something like this. And it was not like they had access to any market frequented by trolls unless they were regular guests at Ciradyl.
+
+Ali retrieved the last set of items that had been worn by the warriors. They were a simple set of greaves worn on the lower leg, laced up from the back. They were made from rugged leather that had been tanned nearly black, with several long strips of bone reinforcement carefully worked into the surface. Each was decorated with unique stylized swirls of color in the typical gaudy troll style.
+
+Swift Bone-Studded Jambeau – level 60+40 Dexterity+32 Endurance2% of your damage is returned as Health over 30 seconds.+15% to Movement speed.Requirements: Dexterity 210Created by Zor’kan.Feet – Leather / Bone
+
+“Now this… this is really amazing!” Malika said, examining one of the sets. She was positively beaming.
+
+“There’s plenty of them,” Ali said, retrieving the rest and dropping them on the ground in the middle of their group. “All of the warriors wore them.”
+
+“Hey archer-boy,” Malika said with a grin. “You need to check this out!” She tossed a pair to Calen, laughing at his literal double-take when she shared the attributes and enchantments on the item. “So much better than those Pathfinder boots, right?”
+
+“Zor’kan…” Calen muttered slowly as if searching for something. “Oh! Lyeneru had an item made by him.” For some reason, Calen seemed very excited about this discovery. But then, Calen always seemed excited about anything to do with Lyeneru.
+
+“I think I’ll take this set,” Malika said, selecting a pair of the Jambeau with a red design on them.
+
+“Don’t you want the ones with forty dexterity?” Calen asked, holding out the pair in his hand.
+
+“Thirty-nine is good enough,” Malika said. “Besides, this pair has higher endurance, and I can use that far better than you.”
+
+“Fair enough,” Calen said. “Is there one with strength? My bow has a high required strength to use.”
+
+“Here,” Malika said, tossing him what appeared to be an alternate design. Then she turned to Ali and the pile of items on the ground before her. “Do you want the rest?”
+
+“Sure, I have a free chapter,” Ali answered, “But I don’t have an imprint for this class of item. I’ll probably need about twelve to fifteen before I get the imprint. Why don’t you keep them for now?” Ali had a feeling they were not going to be in short supply.
+
+While her friends chatted animatedly about their upgrades, Ali busied herself summoning mana potions to replace the ones her Acolytes had consumed. So far so good, but this is far from over.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

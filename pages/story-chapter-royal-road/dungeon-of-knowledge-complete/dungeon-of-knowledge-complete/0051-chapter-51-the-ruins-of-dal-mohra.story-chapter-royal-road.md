@@ -1,0 +1,255 @@
+---
+id: 577cdaad-3a0b-531d-9f4a-27c68d3561b2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 51: The Ruins of Dal’mohra"
+slug: 0051-chapter-51-the-ruins-of-dal-mohra
+partOf: dungeon-of-knowledge-complete
+position: 51
+ownLength: 6090
+unit: words
+ownProgress: 6090
+publishedAt: 2024-03-28
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1571280/chapter-51-the-ruins-of-dalmohra"
+royalRoadId: "1571280"
+markedReadAt: "2026-06-29T20:12:39.195Z"
+---
+
+Ali stared down into the yawning darkness of the ventilation shaft, shuddering at the memories, vertigo, and the disturbing sense of the dark void pulling her downward as if calling her to cast herself in. She pulled her eyes away; she knew exactly what falling in there felt like and she had no desire to repeat the experience.
+
+Still visible on the ground were the scratch marks where Mato’s claws had desperately sought purchase on the hard stone and packed dirt, a long trail that extended from where he had bounced all the way to the unprotected hole in the floor. Ali’s eyes widened slightly at the sight of a Fae-sized outline in the dust on the far wall right above the hole where the impact of Mato’s heavy, flying body had tossed her.
+
+Her mind replayed the panic, her frantic scrambling for anything to halt the fall to their deaths, the bone-jarring impacts of striking her barriers, the tinkling sound of her magic shattering, and the bursts of glowing shards and splinters strobing their light down the dark shaft. The crushing impact of the ground, and then… the angry red glow of fire in the darkness.
+
+She glanced at her Kobold mage. Things will be different this time, she told herself firmly. She took a deep breath to steady herself. Nearby, she heard Mato explaining to Malika and Calen how they had survived the fall while Calen drove a steel spike into the rock and attached a long, knotted rope to it.
+
+Yes, it will be different. She drew in another long, steadying breath and let it out slowly. There were four of them now, and they were all significantly stronger. She glanced back at the reassuring sight of her Bugbears and Kobolds. And I have them, too.
+
+She stared down the shaft as Mato and Calen descended hand over hand down the rope, watching them grow smaller and smaller as Calen’s floating orb of light followed them into the depths.
+
+“That’s… really far,” she whispered.
+
+“I can’t believe you guys survived that fall,” Malika answered, also staring down the hole.
+
+As the tiny pinprick of light stopped moving, Ali collected herself. “Ok, you guys next,” she said, her throat struggling to produce the harsh, guttural Goblin tongue. “One at a time.”
+
+It took a while for the Bugbears to descend, but, with their enormous weight, she didn’t want to risk more than one of them on the rope at a time. Once they were safely down, Ali sent her Kobolds scampering dexterously down the rope before she turned to Malika.
+
+“You go next,” Malika said. “I’ll come last.”
+
+“Ok,” Ali said, levering herself over the rim and beginning her descent. Holding herself up by the rope was not a pleasant experience; there was a great yawning nothingness below her feet that reminded her sharply that the only thing preventing her from falling was her minuscule strength attribute. Her mind provided extremely unhelpful flashbacks of hanging from her barrier dizzyingly far above the cavern floor when she had released the river and it had exploded in her face. Or worse, the memories of falling.
+
+Every few minutes, she summoned her barrier magic to stand on and rest her tired arms. A few Blackened Deathcap mushrooms grew out of the walls, but the dungeon mana seemed surprisingly attenuated within the shaft, almost as if it were being stretched out to the extreme in order to bridge the gap.
+
+I wonder what happens if I break the connection?
+
+But she decided she’d rather not experiment and perhaps risk something as dangerous as the dungeon-rage while suspended on nothing but a rope.
+
+I’m trying to distract myself. But none of her mental tricks were able to diminish the burning in her arms and the fear of plunging to her death.
+
+After what seemed like forever, she finally felt the reassuring security of solid rock beneath her feet, and she let go of the rope and gazed around, trying to quell her racing heart by using her breathing exercises.
+
+“Welcome back,” Mato said wryly, gesturing to the room as he stood quietly among her minions. “Another beautiful day in the underworld. I can still smell the char.”
+
+“Where’s Calen?” she asked, smiling to convey how much she appreciated his trying to lighten the mood. The radiant mote of Calen’s magic still hovered up near the ceiling of the chamber, filling it with bright light, but there was no sign of him.
+
+“He went outside to scout,” Mato answered, pointing to the door.
+
+Ali scanned the small room, taking in the familiar stone construction marred by scorch marks on the walls and floor. Even the doorway still bore the scratches of her heavy stone blockade that had protected them from the Kobolds while they recovered. Her eyes were inexorably drawn to the horrifyingly large dark stain on the ground, a silent testament to how close she and Mato had come to dying right here. She met his gaze and knew without words that he was thinking the same thing. It could so easily have gone differently, and then there would have been two corpses – a large one and a small one – food to feed the dungeon that had consumed the remains of her home.
+
+“What happened to the Kobolds?” Ali asked. She could hardly forget being ambushed down here the moment they landed. More than enough time had passed for the dungeon to respawn them.
+
+“It was empty when we got here,” Mato said, glancing around. “Calen thinks it was a wandering patrol and we just got unlucky. That’s why he went outside to take a look.”
+
+As soon as Malika joined them, they all stepped through the stone archway and out into the narrow street beyond. Calen stood atop one of the ruined buildings scanning the horizon, making rapid notes and accompanying sketches in his notebook.
+
+Ali shivered at the distant sounds of Kobold hunting chirps and the memories they invoked. Terrifying ambush attacks by black-scaled rogues, and the burning heat of fireballs.
+
+Just glad I didn’t have to deal with one of those sneaking up on me in the darkness, she thought, studying her giant Bugbears as they ducked into shadowy doorways and corners, fading from view, just like her Kobold rogues.
+
+Ali glanced around, trying to regain her bearings. She and Mato had spent over a week down here, but everything looked so different now that she could see mana. In every direction, dark and ominous dungeon mana swirled and flowed like an eddying river, before settling between the buildings like a ground-fog miasma. She carefully oriented herself by the enormous stone pillar at her back – the one she knew reached all the way to the rocky roof of the cavern – containing the ventilation shaft down which they had just descended. Thousands of years ago, this area had been a wealthy residential district, illuminated by countless floating orbs of light magic that were timed to simulate night and day in the depths of this underground city. Now, Ali could barely see the end of the alleyway, all else lost to the pervasive darkness.
+
+Calen hopped down into the street beside them. “There’s an enormous tower off in that direction,” he said, keeping his voice low as he pointed. “Is that the library you mentioned?”
+
+“Yes,” she answered in a whisper. The dark black mana seemed stronger in that direction. Brighter? Again, Ali struggled to describe how blackness could appear brighter, but that was just how she saw it with Arcane Insight. Certainly, Calen was right, the way to the library coincided with the direction of the strongest mana. Why was that?
+
+“I can’t see much of anything down here,” Malika said. “We’re going to have to rely on your eyes for scouting.”
+
+“Anything in particular I should be looking out for?” Calen asked.
+
+“Kobolds and skeletons,” Mato offered. “Stealth patrols.”
+
+“Traps,” Ali added. “Tripwires across the streets and switches under loose flagstones connected to deadfalls.”
+
+“Ok, I’ll go ahead,” Calen said, hopping back up on top of the nearby building with an agile jump off a cracked windowsill, and then vanished from sight.
+
+Ali walked on, quietly following behind Malika and Mato for several minutes with two Kobold Warriors and her Fire Mage, trying to remember the way they had gone before. But she had been so scared, all the streets and buildings had melded into one giant dizzying blur in her memories.
+
+Suddenly, an urgent whisper pierced the silence from the darkness above, “Kobolds up ahead!”
+
+Ali’s head snapped up, and she caught the dim outline of Calen’s form shifting in the shadows along the broken stone tiled roof, and a few seconds later the familiar yipping and chirping sounds of hunting Kobolds echoed from the stone walls up ahead.
+
+An angry red glow suddenly illuminated the alleyway up ahead, casting ominous dancing shadows across broken flagstones. The thrill of fear caressed the back of Ali’s neck, making the little hairs prickle as they stood on end. The fiery glow showed Ali the malevolent gaze of a Kobold Fire Mage staring back at her from behind his conjuring. With the paranoid instincts that came from a week of desperately struggling for survival down among these ruins, Ali’s barrier sprung up instantaneously, covering her entire body from any attacks that might come from up front.
+
+An orb of pristine luminance flared up in the center of the alleyway, and two sprinting enemy rogues appeared out of the shadows as Calen’s magic dispelled their stealth.
+
+Mage – Kobold – level 9 (Fire)Rogue – Kobold – level 8-9 x2
+
+Ali let out a sigh of relief as the rogues were exposed, but she didn’t let her guard down. A roar filled the alleyway as Mato engaged, and Ali dropped the rogues from her mind as she swapped focus entirely onto the mage – a habit she and Mato had practiced at length.
+
+With a muffled thump and a whooshing noise, the mage’s Fireball flew, growing rapidly larger as it approached. Ali split her magic and cast a second Barrier in its path. Her aim wielding two barriers simultaneously was still clumsy, and the Fireball struck the edge, careening off to the side and detonating harmlessly against a nearby building.
+
+“Kill the Fire Mage,” she commanded, directing her rogues. By the light of raining gobs of fire magic, she unleashed her Arcane Bolts, joining Calen’s brilliant arrows in an assault on the Kobold mage. She ignored the clangs of steel and the booming crashes of her Bugbears, as they unleashed their fury beside Mato.
+
+A flicker of flame beside her signaled her own Fire Mage’s counterattack. The Fireball leapt out across the alleyway striking the wall beside the enemy mage. There was a low thump that shook the stone street, followed by a flash of brilliant flame and a tremendous bang. The enemy mage’s body flew sideways, slamming into a cracked stone wall on the opposite side of the street before sliding down, leaving a gruesome smear in its wake.
+
+Three simultaneous chimes sounded within her mind as the acrid odor of brimstone overpowered the softer undertones of burnt flesh. A sudden silence descended upon the alleyway.
+
+What? Is it over?
+
+Ali’s memories of her first battle had had a powerful effect on her, driving a sense of urgency and desperation. After all, this group of Kobolds was remarkably similar to the first group she had faced. But the outcome couldn’t have been more different. I almost died in the first battle, she thought, shocked by how trivial the same fight was now that there were four of them and had all grown substantially.
+
+“I guess that’s the difference between being level twenty instead of level five,” she breathed.
+
+“Heck, yes,” Mato growled through a fierce grin as he dragged the two rogue corpses over to her for deconstruction.
+
+Ever since he had been old enough to read, Calen had been fascinated by stories of discovery. Archeologists, lore hunters, treasure seekers, pathfinders, and dungeon explorers, he had devoured every story he could find. In his childhood daydreams, he always played the role of the explorer, delving through the ancient ruins of long-forgotten civilizations, mapping out dangerous dungeons and caverns, and sneaking past monstrous guardians to unearth ancient treasure and arcane lore.
+
+And here he was, standing in the middle of the ancient and long-buried ruins of the legendary city of learning. Dal’mohra. Untouched for over three thousand years. Most scribes and scholars agreed that the location of the city had been lost forever – if it was ever even more than a myth.
+
+He glanced over at Ali as she used her strange magic to dispose of the dead Kobolds. And she was born here.
+
+He scanned the ruins from his vantage point on the rooftop. At his back, the enormous stone pillar rose over a hundred feet to the rocky cavern roof above. They had come down on the southern edge of a giant inner terraced area, densely populated with what must have once been residences – surprisingly large houses. Perhaps a wealthy district? Beyond the terrace, the city ruins sprawled out in an enormous circle filled with roads and stone buildings.
+
+He could tell it was almost pitch dark, but his Eyes of the Archon skill still showed him the entire cityscape in exquisite detail, only in shades of gray and black. To the northeast and northwest, two more giant pillars rose from out of the buildings reaching the cavern roof. He carefully memorized the locations of all the major features he could see, roughly sketching the main reference points in his notebook, paying particular attention to the circular, ordered arrangement of the rings of buildings extending outward from the terrace, and the enormous radial roads that cut through it all extending the full length from the center to the edge of the city. It would take some time to do it justice, but he would be the first to map these legendary ruins.
+
+He marveled at the exquisite craftsmanship of the ancient stonework, still almost perfect after several thousand years. This must be the work of the ancient Dwarven stonemasons. Dwarven history was filled with stories of ancient stone and earth mages of stupendous skill and extraordinary training, producing marvels that would be impossible in the modern age. Many scholars discounted this as the typical inflation of prowess that occurred when history transitioned into legend and myth, but Calen could see the evidence right before his eyes.
+
+Even the battlements in Myrin’s Keep – crafted by the best earth and stone mages the kingdom could muster – paled in comparison to the ancient craftsmanship that lay everywhere he looked. In the distance, nearer the center of the city, he could make out enormous stone statues of presumably important people – kings perhaps, or sages.
+
+Far to the north, an enormous chunk of the circular city was simply missing, a yawning black hole being all that he could see in its place. Like a Leviathan took a bite out of it. Given the quality of the craftsmanship, Calen could scarcely guess what disaster must have befallen the city to destroy such a large swath of it. His heart, his curiosity drew his attention toward the scene of such destruction, hoping to unearth a clue as to what might have transpired, but he reined it in.
+
+There will be time enough to explore everything. It will be a lot easier once we dispatch most of the monsters.
+
+Ali was done clearing the battlefield, and his friends were down there waiting for him. He spent a little of his precious mana, summoning a floating orb of light with his skill and sending it out to drift above their heads, attaching it to follow Ali. His skill had been leveling slowly. Hopefully, this delve would be an opportunity to grow it. A second mote would be really handy down here. Given Ali and Mato’s recounting of their experiences, and the stealthy rogues in the last group, it was probably safer to keep the lights around. He would need to range a little further afield to use his Eclipse skill, and it might mess with Ali’s rogues and Bugbears, but the extra safety was probably worth it.
+
+He hopped along the surprisingly intact slate roofs as the group moved northward, following the twisting alleys and winding streets with him guiding them in the general direction of the center of the city. A brief gleam caught his eye and he quickly called out.
+
+“Mato, tripwire.”
+
+Ali and Mato had talked about the ubiquitous traps the Kobolds were so fond of, so he made a mental note to keep a sharper lookout. Even from above, and providing them with light, he probably still had the more acute vision. At least they were not magical traps, and simply seeing them was enough to entirely avoid the danger.
+
+He led the group deeper and deeper into the dungeon, pausing briefly to kill each patrol they encountered. The groups of two or three Kobolds were easily dispatched by their superior numbers and higher leveled combat skills, and even the occasional skeletons were no trouble at all. He continued to point out the tripwires, dead drops, and loose flagstones with uncanny ease. So accurately that he was beginning to suspect his two perception skills – Eyes of the Archon and Explorer – were synergizing somehow to identify the danger. It feels almost like I know where the traps should be.
+
+A dark silhouette lurked in the shadows on top of one of the houses to the left, crouched beside a surprisingly intact stone chimney. Carefully, Calen drew his bow and fired, releasing his magic at the last possible moment. I’m getting better at that, he noted happily as the magic lit up the rooftop, and the Kobold rogue hiding on it, right before it struck him in the upper thigh. The Kobold slipped and crashed down the back of the building calling out with an anguished yipping. Immediately, two green-scaled Kobolds charged into the street. Warriors. Calen fired a second arrow, threading the needle between Malika and one of Ali’s Bugbears, taking the lead enemy warrior in the chest.
+
+The two warriors fell quickly to the onslaught of axes, daggers, and flying Bugbears with massive maces, but there was still no sign of the rogue Calen had shot off the roof. Quickly, he activated Eclipse, blending back into the shadows. Using one of Ali’s Bugbears as a stepladder, he quickly hopped up onto the roof of the building on the opposite side of the street and scanned the area.
+
+There!
+
+“Incoming from the left, up ahead!” he called out to his friends below. Blending in with the shadows, he nocked an arrow and waited till the patrol of six Kobolds charged around the corner.
+
+There’s the mage.
+
+Calen was becoming proficient at picking out the red-scaled casters in the group. It wasn’t so much the color – given that half the time he was seeing in black-and-white – but these Kobold Fire Mages wore tattered robes that looked like an academy magister who was down on his luck and had been homeless in the slums for several months. They also didn’t carry weapons, preferring their potent fire magic.
+
+His arrow flew silently down into the fray, suddenly igniting into brilliance and illuminating the mage as it struck. Ali obviously noticed because her magic bolts immediately arced across the battlefield to strike the same target. He fired again, carefully avoiding the enormous Bugbear leaping over the enemies to land among them with a crashing mace strike.
+
+This is just overkill.
+
+The Kobolds were simply under-leveled and outnumbered. Ali’s new Bugbear minions seemed to be extraordinarily effective, crushing and slashing their way through the much smaller Kobolds, often sending the small monsters flying with the power of their strikes.
+
+Calen kept to the rooftops as much as he could, hopping deftly across the smaller alleys and closely spaced houses, dropping to the streets only when they crossed a major one. The Kobolds and skeletons were easy to pick out, and the traps were still unsophisticated contraptions clearly visible with his perception skills. However, when he reached the next concentric main road, he stopped in his tracks, scanning the buildings on the other side of the street, finding them to be misshapen, gray, and lumpy, a rather stark contrast to the clean-cut stonework he had gotten used to. There were no obvious Kobold patrols on this road, so he decided to wait for the others to catch up.
+
+“There’s something strange up ahead,” he said. “The buildings look irregular and gray.”
+
+“That must be the section with all the bone,” Mato said.
+
+“Yes, it was very strange,” Ali said as she peered around the last house. “It was sprayed out from some enormous bone monstrosity we found. And the mana is all weird around here.”
+
+They all quickly crossed the road in silence, and Calen immediately saw what Ali had meant. All the houses were encrusted with a lumpy grayish substance forming ridges and plates. Many of the buildings looked like they had been draped in a thick layer of heavy gray cobwebs that had ossified. It looked like it had all frozen while flowing around the stone. There were occasional real bones embedded in it, sticking out haphazardly.
+
+Looks like Kobold bones. Calen’s natural caution deepened. The Kobolds were easy. This has to be more of a challenge – whatever it is.
+
+Throughout her book, Lyeneru Silverleaf emphasized caution – to beware of a dungeon’s proclivity for serving up deadly surprises. There was a creepiness to this place that made the hair on the back of his neck stand up. It felt like he was being observed, but the sensation hovered just out of reach at the back of his mind.
+
+A sudden movement in the corner of his eye caught his attention and he snapped his head around to see, drawing his bow. A small dark gray creature was crawling up the wall. It was about the size of a small fist and had eight legs with a round carapace. Looks a bit like a crab. Despite himself, he shivered.
+
+Bone Skitterer – Elemental – level 1
+
+As soon as he moved, it scurried away darting sideways across the wall with a skittering, scraping sound.
+
+Explorer has reached level 10.
+
+Silently, they pressed on through the strange bone-covered alleyway. Calen noticed that Ali’s description of the bone substance was quite accurate. It really did look like it had been sprayed on and simply hardened. He found many cases where isolated rib bones, rocks, or skulls were sticking out of the bone like they had been trapped and frozen in place. Now and then he heard the skittering sounds of tiny legs scurrying away or saw the sudden darting movements out of the corner of his eyes. The creepiness was really beginning to put him on edge.
+
+“Mato, trap,” he called out, easy to see from his vantage point up on the roof, and immediately heard Kobold alarm calls barking in response. Three Kobolds sprang from their concealed hiding spot in a bone-encrusted house behind the tripwire trap, brandishing steel blades that gleamed a dark reddish black in their taloned grasp.
+
+Warrior – Kobold – level 18Rogue – Kobold – level 16Mage – Kobold – level 19
+
+Higher levels. And better gear, he noted, drawing his bow and firing instantly. As his arrow sped toward the Fire Mage, it flared with the brilliant illumination of his light magic infusing it with power. In the brief moment of light, his enhanced vision showed him unnatural ridges and plates of bone that covered the mage’s red-scaled hide.
+
+What is that?
+
+His arrow struck the mage hard, ricocheting off, and cracking a bony protrusion on her neck. Before his very eyes, the cracked plate began filling in and sealing up the damage. He fired two more arrows in quick succession as the mage looked upward, fixing him with her glowing red eyes. His attacks had no more effect than the first one. The mage’s scaly lips peeled back in what looked like a mocking feral grin, baring her fangs. With a sharp gesture of her outstretched hand, her fire mana began to condense into a Fireball hovering above her claws.
+
+With a sudden chill, he realized how exposed he was up on the roof with no cover, and immediately began running. The mage tracked him easily, releasing the Fireball which shot across the distance in a flash.
+
+I’m not going to make it! His eyes widened in shock, and he felt the searing heat singe his skin.
+
+But, right in the nick of time, a golden disk of magic popped into existence in front of his face, taking the full impact of the Fireball. A deafening detonation and flash of flame enveloped the entire roof. Calen crashed into the slate tiles, knocked off his feet by the concussion of the blast, while dislodged and shattered stone tiles from the other side of the barrier rained down into the street below. Even just the little energy that flowed around the barrier magic caused his skin to blister as he caught the whiff of his own singed hair. He could only imagine how destructive that would have been if the barrier hadn’t blocked the explosion itself. He shot Ali a grateful glance, but she was already focused on firing her Arcane Bolts at the deadly mage.
+
+“Use magic to crack the bone armor!” Malika shouted, her yell sharing her discovery with the rest of them.
+
+Not so useful for me, Calen thought, realizing his magic required the arrow to hit for it to be effective. I should have taken Armor Piercing, he thought, realizing Ali was their only pure magic user. He studied the battle below. Malika and several of Ali’s rogues were fighting the enemy rogue. Ali’s Bugbears and warriors were helping Mato with the warrior, and the remaining rogues materialized right behind the enemy Fire Mage, stabbing viciously. However, Calen could clearly see their dagger strikes were ineffectively bouncing off the dense bone plates and ridges, hardly bothering the Kobold at all. An intense aura of flame sprung up around the Fire Mage, filling the battlefield with the stench of burning scales and flesh as the Kobolds caught alight trying to attack through the wall of flame.
+
+A Firebolt flew across the battlefield and smashed into the enemy mage’s chest, sending bone splinters flying and leaving broad cracks in the armor. Ali’s bolts landed in the same spot, in a much more destructive fashion. Malika was right! Calen quickly nocked another arrow and fired it into the rapidly intensifying conflagration. His arrow flew true and buried itself into the Kobold mage’s lower ribcage between the shattered bone plates, causing it to misfire a bolt of flame.
+
+I can hit you now! He sidestepped the errant bolt of flame and fired again and again, carefully aiming for wherever Ali’s bolts had pulverized the dense and impenetrable bone armor. Ali withdrew her severely burnt rogues from the intense flames surrounding the mage, sending them to help Mato instead. Smart choice, he thought. Bathed in Mato’s aura, they would recover over time. The intense flame aura seemed to diminish the impact of Ali’s mage’s Firebolts, so it was really up to him and her to take out the dangerous fiery Kobold. Ali blocked a second, powerful Fireball with her barrier, detonating it prematurely out in the open. Her barrier shattered with the force of the blast but managed to contain the damage to the conflagration already filling the middle of the street. The enemy mage seemed completely unaffected by the blast, simply firing off more bolts of flame. Calen dodged the one sent his way and, aiming carefully, fired another arrow. The arrow sped toward its target, Calen delaying the release of his light magic as a matter of habit now. The Fire Mage lit up with the intensity of his bolt for a half second before the arrow buried itself in a chink between the shattered bone plates in her chest. The instant his arrow struck home, the intense flame aura vanished, and the Kobold dropped limp to the ground.
+
+Calen breathed a sigh of relief and switched his attention to Malika’s target. Her magic was flashing rapidly as she attacked the Kobold rogue. But he could see her punches and kicks were vastly less effective than normal. Her magic relies on hitting, too, he realized. It was hard to deliver magical damage when the attack skill simply bounced off the enemy’s armor. While Malika was significantly more effective than he had been on his own, the armor was definitely a problem. Ali’s Fire Mage landed a Firebolt and Calen was surprised to see visibly more damage than when it had attacked the Fire Mage they had just killed. He nocked an arrow, firing into the newly opened vulnerability along the Kobold’s ribs before it healed.
+
+She’s sharp, he noted seeing Malika immediately shifting to take advantage of the same opening, her powerful magic finally penetrating and widening the gap. She ignored several dagger wounds on her arms as she unleashed a flurry of punches, her blood spraying crimson into the air with the speed and impact of her attacks. She must be low already. Taking out the rogue quickly seemed the right priority. He fired two more arrows into the gap, barely avoiding Malika. Then the dark street lit up with Ali’s golden bolts slamming into the rogue and it collapsed in time with the soft notification chime going off in his mind.
+
+Even though Ali’s minions and Mato had been fighting with the Kobold warrior the entire battle, he seemed none the worse for it. He focused on blocking Mato with his shield, clearly recognizing the danger of Mato’s magic, relying on his bone and plate armor to deal with the strikes of the Bugbears and rogues. The ringing clang of their weapons bouncing off his armor echoed through the dark street. In addition to the dense bone and scale of his hide, the warrior wore a banded plate vest made of the same dark reddish steel as his shield and shortsword.
+
+Calen drew back the bowstring to his ear, primed and awaiting the perfect moment to fire.
+
+There. A Firebolt slammed into the green-scaled warrior, blasting a scorched and smoking hole in the bone plates along his back. Instantly, Calen released his arrow and by the time it hit, the bone armor was already beginning to close. His second arrow deflected off, shattering against the wall – the armor already fully regenerated.
+
+That bone armor is crazy. Calen shifted his aim to where Ali’s Arcane Bolts were striking. The warrior was significantly more resilient than the other two defeated enemies. Ali’s Bugbears and most of her rogues withdrew. Good choice, Calen approved, they were just getting in the way. Rather let Malika do some damage with her magic.
+
+Malika attacked one of the openings Ali had created with such immense speed that Calen found himself struggling to track her punches. He shifted his position to get a better angle and fired again. It was fortunate that the Kobold’s ridiculous regeneration only affected its armor, and not its health. With the addition of all their magical output, the Kobold was starting to show visible wounds and slow down, its blood leaking down the front of its armor. Still, his defensive fighting style, blocking as many of Malika and Mato’s strikes with his shield as possible, drew the fight out way longer than Calen had expected. Eventually, though, the uneven standoff was broken as the Kobold collapsed to one knee, and Ali’s bolts and Malika’s punches finished it off.
+
+Calen hopped lightly down from his perch on the rooftop and examined the fallen Kobold warrior. To his surprise, the bone ridges and plates under its green-scaled hide began to shrink, completely disappearing after a few moments, leaving a normal-looking Kobold corpse. Aside from their higher-quality gear, the other two corpses looked like perfectly ordinary Kobolds, too.
+
+What was that power – he blinked as a notification pinged his mind.
+
+Explorer has reached level 11.
+
+Suddenly, he connected several previously unrelated pieces of information in his head. The uncomfortable prickling sensation in the back of his mind had been growing every time his Explorer skill leveled. The strange environment with unusual bone artifacts. The extraordinary regenerating bone armor of the Kobolds they had just faced, which faded as soon as they died. Even the creepy Bone Skitterer creatures. It all connected with the stories of adventurers and pathfinders exploring the dangerous areas of the world that he had loved reading as a child.
+
+This is dungeon magic. He was certain of it. The ambient aura of magic that Ali said she could see would be capable of producing dungeon-wide effects that enhanced many of the dungeon’s minions.
+
+Explorer has reached level 12.
+
+Again? Before the sound of his notification chime had faded, while the glowing white text still hovered in his mind, he had the strangest sensation of something akin to a door swinging open in his mind. His skill chimed again.
+
+[Explorer] You have entered a dungeon.Ruins of Dal’mohra – level ??Affinity: Bone, DeathAge: AncientKnown Creatures: Kobold, Sewer Rat, Giant Spider, Undead Skeleton, Starving WolfKnown Bosses: Aberrant Skeletal Warrior – level 9Dungeon
+
+As soon as his Explorer skill reached level twelve, it reminded him that they were in a dungeon. But this time he didn’t mind the excessive noisiness as the notifications continued and he saw the new assessment information provided by his skill leveling up.
+
+“I just got a skill up,” Calen announced, and rather than explain, he simply shared the dungeon assessment. There wasn’t a lot of information they didn’t already know, but it was good to confirm the affinities of the dungeon and even knowing the name of the dungeon was nice. The level being too high to identify was rather worrying, as was the ancient age of the dungeon. Clearly, it had been here for a very long time. Maybe even longer than Myrin’s Keep itself. Time enough to grow hoary and funky and downright mean.
+
+“Death and Bone, that’s what my skill told me too,” Ali replied.
+
+“I think we need to be extra careful as we go further,” Malika added. “If the level is higher than we can identify then something in here is very strong.”
+
+Calen continued scanning the remaining notifications.
+
+Your group has defeated Fire Mage – Kobold – level 19.Your group has defeated Dagger Rogue – Kobold – level 16.Your group has defeated Warrior – Kobold – level 18.Archer of Light has reached level 16.+10 attribute points.Radiant Archery has reached level 11.Motes of Light has reached level 6.Eclipse has reached level 9.Eyes of the Archon has reached level 8 (+2).
+
+Calen tightened his hands into fists. Still, there was a reason they were down here, and it wasn’t for a pleasant stroll in a meadow. He dropped six points into dexterity, enough to hopefully improve his aim in case he needed to hit cracks in bone armor again. Then he spent two points on intelligence to increase his magical damage, and recalling the close call with the fireball, decided to spend his final two points boosting his vitality.
+
+He took the opportunity in the aftermath of the fight to pull up his sheet. He might not be at Ali’s level yet, but he was definitely growing stronger!
+
+Name: Calen AveryRace: Half-ElfActive Buffs: Blessing of the DawnClass: Archer of Light – level 16- Radiant Archery – level 11- Arrows of Brilliance – level 11- Motes of Light – level 6- Explorer – level 12- Blessing of the Dawn – level 10- Eclipse – level 9- Eyes of the Archon – level 8- [Locked]- [Locked]- [Locked]General Skills- Bowcraft – level 6- Wood Carving – level 3- Cartography – level 4Aptitudes- Languages: Common- Mana (Affinity): Light- Perceptive (Racial): +11 to Perception- Quick (Racial): +5 to Dexterity- Timing (Class): You have an innate sense of timingAttributes- Vitality: 24- Strength: 9- Endurance: 15- Dexterity: 117 (+41)- Perception: 82 (+29)- Intelligence: 75 (+26)- Wisdom: 20Equipment- Weapon: Hunter's Bow – level 10- Body: Leather Vest – level 10- Ring: Bronze Guild Ring – level 10Evasion: 120Dodge: 21.12%Health: 240/240Stamina: 150/150Mana: 160/200 (40 Reserved)

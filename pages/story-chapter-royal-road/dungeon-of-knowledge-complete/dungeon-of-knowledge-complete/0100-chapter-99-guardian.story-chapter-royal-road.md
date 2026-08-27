@@ -1,0 +1,229 @@
+---
+id: a4059cd7-d0cf-544d-8889-995995c9c4fb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 99: Guardian"
+slug: 0100-chapter-99-guardian
+partOf: dungeon-of-knowledge-complete
+position: 100
+ownLength: 4870
+unit: words
+ownProgress: 4870
+publishedAt: 2024-07-16
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1719828/chapter-99-guardian"
+royalRoadId: "1719828"
+markedReadAt: "2026-06-29T20:14:20.272Z"
+---
+
+The complex weave of Ali’s domain mana sparkled and rippled in her mana sight as she flew this way and that over the jumbled and shattered bone of the lowest level of the ruined library, inspecting her work. It leaked out of the ivy and jasmine growing up the walls and pillars and spilled from the many planters she had constructed to hold her mushrooms and grass.
+
+Arcane Insight is so much stronger now. The power increase was so much more obvious with skills like Arcane Bolt, even just leveling up, let alone when she gained something like her Multishot advancement. When she learned a new minion or her barrier gained magical potency, her immediate combat ability drastically improved. Arcane Insight was a far more subtle magic – a magic of perception, always allowing her to see – and therefore understand – magic all around her. And knowledge is power. When she had first learned it, her domain had appeared as a bright, oversaturated bloom of light, blurry and indistinct, and even a little painful to her senses. Now she could resolve the fine, detailed structure, clearly seeing how the sparkling gold of her arcane mana wound around the viridian green of her nature mana, supporting, enhancing, pulsing with energy and detail.
+
+Ali hadn’t spent a whole lot of time on the lowest floor of the library – a shattered place of bone-covered wreckage. Even before the disaster, she had not had the clearance to visit this level – for her own safety, mind you. She had only just extended her domain down here in preparation for their next exploration – but the entire area was beginning to look more like a greenhouse than a library, and there was no sign of the ridiculous magical tomes that might have accidentally claimed the life of the unwarded and unclassed. If she had possessed Arcane Insight back then, this level would likely have appeared more intense than a mana storm.
+
+“So, where is the door?” Mato asked, looking around.
+
+“It should be over here,” she said, pointing to the heavily encrusted wall. Now that the others were completely healed, and the dangerous Ruins of Dal’mohra dungeon had been destroyed, it was time to open the doors and explore whatever had become of the Dal’mohran city’s underground farms.
+
+The ingenuity of the Dal’mohran mage-engineers had harnessed the incalculable power of two full mana condensers – a complex blend of light and nature affinities – turning the underground cavern below the suspended city into a breadbasket of verdant growth, easily capable of feeding the entire city, and establishing Dal’mohra as an economic powerhouse, exporting the surplus to feed all the nearby kingdoms.
+
+By the clear light of Calen’s floating magical orb, the full extent of the damage to the library was shown in stark relief. Whereas the upper floors had shapes resembling bookshelves, desks, and walls, preserved under the encrusting bone – this floor looked devastated, like a bomb had turned everything into rubble. The dungeon had filled every nook and cranny, covered every boulder and rock with thick layers of bone, in a haphazard frozen blast of spines and ridges that jutted out from the walls and the floor. It wasn’t just the door that was obscured – Ali couldn’t even see the stone comprising the walls or the floor anywhere.
+
+Now that it was her domain, rather than the domain of the former dungeon that permeated this space, she turned her attention to her Domain Mastery skill. Her mind roamed outward, carried by her mana weaving into and through the dense bone, till she could sense the walls of stone behind them. She twisted it in her mind, transmuting the structure of the bone from solid to disconnected granules, and an entire wall of bone façade collapsed into powder and dust. Malika coughed, waving her hands at the billowing cloud. The empty stone shelves revealed behind the bone seemed unnaturally clean as if they had been frozen in time behind the encrustation, preserved through the ages. What books were revealed seemed brittle and crumbling, and all signs of the momentous magic that had once imbued them were obviously long gone – stripped by the dungeon that had laid claim to the ruins or by the ages without proper care and maintenance.
+
+“Not here,” Ali muttered. She had been certain the door was behind that section, but it was hard to get her bearings in this ruined and encased version of the library she had loved so much. She shifted to the right, repeating her trick, and another entire section of bone collapsed with a hissing sigh, forming large piles of bone sand on the ground, and kicking up more clouds of fine dust.
+
+Again, she missed, catching Mato this time in the clouds of dust. He coughed and backed up and Ali flew in to deconstruct some of the drifts and piles of bone dust. Using her Domain Mastery skill on such a scale burned lots of mana. She dismissed the prompt for her Grimoire to learn the bone imprint yet again and frowned as she scrutinized the walls.
+
+“How about here?” Calen suggested.
+
+Dubiously, Ali approached the section Calen indicated, but, this time, as she approached, she felt the door. The subtle way her domain mana bent as it wove through the bone encrustation and the supporting stone walls hinted at the shape of the ancient hinges and giant stone arch impressed into the encasing bone. She shifted her target a little, covering the full doorway, and unleashed her magic. As the cloud of new dust slowly settled, a pair of giant stone doors emerged, set into a great archway of stone.
+
+“There it is,” Mato said, stepping forward through the dust to reach for the ancient stone doors.
+
+“That’s a pretty quick way to clean,” Calen agreed. “I vote Ali for town sewage management and garbage disposal.”
+
+Mato chuckled, “She’d be a raid-level boss of cleaning, right?”
+
+Malika startled, and then nudged him in the ribs with an elbow.
+
+Ali protested, “You’re so mean!”
+
+Mato shifted and leaned against the doors, applying all his weight and brute strength. A few moments of growling ensued, followed by a loud crack. The grinding of ancient hinges echoed through the library as the enormous doors creaked ponderously outward with the reluctance of millennia.
+
+Beyond the stone doorway, sod and grass tore as the stone slab cut a wide arc through heavy overgrowth. A burst of hot, humid air gusted into the library, sending bone dust billowing out into the center of the atrium, setting Ali and her friends to fits of coughing and spluttering again. The moist, damp air carried with it the thick scent of compost, trees, and growth. With the gusting breeze came a flurry of golden glowing butterflies and luminous green nature wisps like a cloud of bright shining confetti into the dusty, dry darkness of the library. A tiny green frog hopped onto the freshly exposed flagstones of the library with a croaking call, and then turned and leapt back through the open doorway, vanishing from Ali’s sight.
+
+But it was the cloying and oppressive dense surge of mana that demanded her attention, tearing through the archway in a riot of chaotic vortices and gusts, never settling for even a moment as it spilled forth from the open doorway pouring into the library. It pressed on her senses, crawling along her skin, and buffeting her body like tangible waves in the ocean.
+
+“What is this?” Malika asked, her eyes narrowing at the sensations she couldn’t see.
+
+“It’s not a domain…” Ali answered. She had never seen anything like it. Two distinct affinities of mana – nature, and what had to be light affinity – mingled chaotically, like oil and water. Separate until the churning vortices frothed it into tiny bubbles that seemingly blended into a foam for a while. But the affinities repelled each other, naturally separating out once again and bursting apart in a display of violent opposition.
+
+“Wild mana zone, high density,” Calen said, sounding like he was reading something from his notification list.
+
+“Explorer?” Ali asked. His scouting skill had proved to be very effective at extracting obscure information about the places they found themselves in.
+
+“Yes…” he said, his eyes scanning rapidly beyond the doorway.
+
+Ali ripped her gaze from the vista of twisting, writhing mana, staring out past Mato’s back and into the space beyond. Brightly lit, seemingly by the glowing of the very air itself, she found herself staring at enormous ancient oak trees, gnarled boughs weighed down by the heavy overgrowth of vines, creepers, and dense moss. Darting among the branches and dense overgrowth were countless insects, wisps, butterflies, and innumerable things flitting about far too quickly for Ali to identify, all zipping and floating around in a chaotic display of energy and life. From deep within the dense jungle came the roars, screeches, and howls of battle, and the hunting of monsters, sending a shiver of primal fear through her, a fear of ravenous teeth and ripping claws, of hungry monsters chasing the small and weak – entirely unlike the fear of death and unlife from the dungeon that had been above.
+
+“Yeah, this doesn’t look like farmland,” Mato said, now back in his Beastkin form, staring out through the open doors.
+
+I may be small, but I’m no longer weak, Ali told herself firmly, casting her gaze across her assembled minions and her powerful friends. I don’t need to be so afraid.
+
+“I don’t see any of that bone crud here,” Malika observed as she stepped forward to join Mato in the doorway.
+
+“Probably because whatever is in here is stronger than that dungeon was,” Mato suggested with a grin on his face.
+
+“Monster. Incoming…” Calen called out, his bow appearing in his hand.
+
+Emerging from the overgrowth among the trees up ahead was a shape so familiar that Ali gasped, transfixed in surprise. The ground shivered as it took a slow step with one of its thick front legs of dense wood and bark. Its gigantic body pressed up against one of the low-hanging limbs of the oak, and with a splintering crack, the branch was torn off, falling to the side entirely unnoticed by the hulking being.
+
+Forest Guardian – Wood Elemental – level 43 (Nature)
+
+Ali gasped. Dad…
+
+Some of Ali’s fondest childhood memories included her father summoning Forest Guardians, which she would ride, whooping in glee and excitement as they charged around the forest. The sudden gush of happy memories about her father and his magic collided with a fresh burst of grief, leaving her body trembling as the unexpected sight swept her away on a torrent of conflicting emotions. In a confused daze, she stepped forward into the forest, stretching a hand toward the familiar monster as its low-slung armored head turned to regard her with glowing green, deep-set eyes. Reaching as if touching it might make her memories real, might banish the grief in her heart, returning her to happier times.
+
+“Ali?” Malika’s gentle touch on her shoulder snapped her back to reality as the monster let out a deeply grating, ground-shaking roar that sent the flitting clouds of insects darting away for safety. The monster charged. Ali stumbled back and the ground bucked under her feet as the rushing monster plowed through trees, making them snap like kindling.
+
+Still reeling from surprise and the emotional whiplash, Ali managed to throw up a barrier – a pitifully small glowing wall of golden magic that seemed inadequate in the face of the fury of the force of nature bearing down on her. The ground quaked and her body trembled under the shuddering vibrations of its powerful, grating, low-pitched roar. She stared, all but frozen, as the fun, exciting creature of her childhood turned into a monster of gigantic proportions, ripping down trees in its haste to kill her.
+
+From the left, a blur of reddish-brown fur, claws, and teeth charged in, roaring loudly. A great grinding crash rang out as brawn and flesh struck ancient bark and wood in a clash that sent sod and grass flying. The Forest Guardian loomed over Mato’s normally enormous form, driving him back several meters with a titanic strike. Four furrows ripped through the damp earth as Mato struggled to hold his ground and a splash of blood splattered across Ali’s barrier, making her flinch.
+
+Mato roared again, answering the challenge of the much larger wood elemental, imbuing his claws with the flickering viridian green of his mana as he lashed out. A loud thump and a grinding tear accompanied a rain of bark and splinters of wood that clattered across Ali’s barrier as she stared aghast at the enormous, towering monster trying to tear her friend asunder.
+
+Ali’s only warning was an abrupt surge of nature mana that erupted from the monster engaged in a furious battle with Mato, blasting out in a powerful aura that suddenly encompassed her, her friends, and all her minions, extending out to a range of at least ten meters in all directions. Acting entirely on instinct, she snapped her barrier into a sphere, fully encasing herself as the dirt below her feet began to writhe and churn, roots and vines erupting in explosive burgeoning germination of dense plant growth, reaching to grasp and entwine. Even the nearby already-snapped trees sprouted branches that twisted and bent, reaching to ensnare and spear anything within reach.
+
+Even as powerful as her barrier had grown, it began creaking ominously under the pressure of the thick gnarled roots growing rapidly around it. Beside her, both of her Kobold Acolytes burst into pillars of holy light as they used their emergency healing enhancement spell to pit their holy magic against the crushing weight of verdant plant growth. Of all her minions and friends, only Calen had escaped the crushing grasp, using his wings of pure light to hover above it, quickly withdrawing from the area and alighting on the ground beyond the range of the attack.
+
+Not just Calen. She reached out to her Scalding Slimes – the only monsters entirely unbothered by the grasping twisting vines – and made them attack the rapidly growing vegetation around her barrier. They twisted their bodies, easily slipping out of the grasp of the crushing roots, shooting jets of potent steam that would have cooked her, but for her golden barrier. She tugged on it with her mind, and as her slimes severed the vines and roots, her bubble of magic suddenly shot up into the air, carrying her within. Quickly she shot across the chaotic battlefield, beyond the reaching grasp of the vines, landing beside Calen.
+
+“We need to free them,” Calen said.
+
+“I’ll get the healers first,” Ali agreed. Dropping her personal protection, she snapped a bubble of barrier magic around one of her Acolytes and tugged against the grasping roots. With a few quick jets of steam, she freed the Kobold and flew it to safety while it continued chain-casting its healing magic non-stop.
+
+“Incoming Glimmer Shards,” Calen told her, pointing out the direction.
+
+Glimmer Shard – Elemental – level 14-21 (Light) Swarm x23.
+
+As if the Forest Guardian and its rampant plant growth weren’t enough, the flight of more than twenty glimmer shards was arcing a curving path as their formation flew toward their fight at high speed.
+
+Ali’s mages were all bound in the plant growth, alive only because of the furious casting of her Acolytes under their powerful enhancement magic, and entirely unable to use anything but their quick firebolts. She would need her mages freed before she could take on the flying shards, but that would leave her second healer mired in the Forest Guardian’s devastating growth spell.
+
+Healer, she decided quickly, throwing out her barrier to protect it, without having enough time to fully consider the full implications. Her Scalding Slimes made short work of the roots, and in seconds, they cut her second Acolyte free. Just as she got it out of the plants, the glowing formation of light magic shard elementals wheeled one more time and unleashed their characteristic synchronized attack, leaving blurred streaks of afterimages both in her vision and her mana sight. Ali memorized the view of their magic in action for later as the shards indiscriminately speared everything in sight, before simply slicing through the roots on their way back into the sky.
+
+Ali ignored the attack, distributing mana potions to her overworked Acolytes, relying on them to patch up everyone while she extracted a Kobold Fire Mage. As soon as her slimes freed the mage, she pointed his fireball magic at the skies.
+
+“Something else is coming,” Calen called out. While his voice sounded calm, Ali caught the hint of urgency in his posture, and her heart began to race as she scoured the skies where he was looking.
+
+Ali was still in the middle of rescuing her last Fire Mage, and simultaneously directing fireballs into the sky, trying to time their attacks and the high-speed glimmer shards. It was not nearly as easy as she had believed from her first experience with them. I must have got lucky last time, she thought, scanning the sky for whatever new thing Calen had spied.
+
+The new arrivals appeared to be two large floating disks of glowing translucent yellow that undulated gently in the air. Down the entire length of the monster was an orange spine that ended in a glowing circular mouth at the front end and a long trailing tail at the back.
+
+Coruscant Ray – Elemental – level 32-33 (Light) x2.
+
+“They’re too far for my mages to hit,” Ali said.
+
+“I can hit them.” As Calen said it, the rays both rotated, lining themselves up with the battlefield below. A bright orange-red glow of mana flared to life along the creatures’ spines, intensifying dramatically.
+
+“Magic attack,” Ali said, quickly summoning a protective barrier in front of herself, studying the attack with her mana sight. It was clearly some form of light magic, but the formation was like nothing she had seen before.
+
+Suddenly, the glow reached its peak, and twin beams of orange-red light fired down at the combatants struggling below, beams of such intensity that Ali winced in pain at the sight of it. One of the beams tore through several of Ali’s still-trapped minions and sliced into the Forest Guardian, eliciting a furious pained roar from the monster. The second beam burned a deep glowing furrow through the ground as it sliced directly toward Ali.
+
+She rotated her barrier and crouched down behind it, barely in time to block the intense beam. But the beam passed clean through her barrier like light passing through a window, slicing through her ribs and into her chest with a sizzle of instantly cauterized flesh. A shadow crossed her vision as the world went dark.
+
+Ali came to with mud and grass pressed up against her face. The awful stench of burnt flesh filled her nose. Her dizziness and disorientation faded rapidly as the holy magic pulsed within her body, rapidly repairing her wound and banishing her pain. She sat up, to see the battle still raging around her, as Calen’s intense glow slowly faded.
+
+“Are you ok?”
+
+“I think so,” Ali asked, running her hand across the burnt hole in her clothing, examining the unmarked skin below. “What happened to the rays?”
+
+“I got them.”
+
+That was stupid. They’re beams of light… Ali frowned. Beams of light magic would pass through her mostly transparent barrier magic; she could see through them after all. Lying crumpled on the ground in front of her barrier was the corpse of one of her mages, a still-smoking hole burnt clean through his chest from where he must have jumped between her and the beam from the Coruscant Ray at the last possible moment.
+
+She sent a silent thank-you to her minion and got up to survey the battlefield. I have two Acolytes, two mages, and two slimes. Everything else she had brought to the battle had died in the crush of aggressive plant growth or been sliced to pieces by the devastating beam attacks. This is not going well.
+
+In the center of the battle, Mato and Malika fought side-by-side while Ali’s two Scalding Slimes jetted superheated steam at the Forest Guardian.
+
+It doesn’t seem damaged? The monster seemed entirely too healthy. Certainly, she and Calen had been distracted by the added light elemental attackers, but her slimes and Malika should have been able to at least do some visible damage. A flash of steam jetted out, ripping chunks of wood and bark from the flank of the huge elemental, and then she saw it. The soft glow of nature magic suffused the monster, slowly growing the jagged rip in its side closed.
+
+“Is it regenerating?” she asked. Shit, I knew that. While she had never really been in combat as a child and hadn’t seen the Forest Guardians in action, her dad had certainly mentioned their regeneration magic.
+
+“Yes, and fast!” Malika shouted.
+
+“Calen, do you think we should fight it inside? The stone should limit its plant magic.” Ali hadn’t had her mana sight when she had her plant growth cantrip, so she couldn’t say for certain, but it sure looked a lot like her old magic skill, except vastly more potent.
+
+“Good idea. Hey Mato, can you try bringing it into the library?”
+
+Mato shifted slowly, roots and vines snapping under the sheer brute force of his strength. The giant elemental followed him, and Ali began to back up also. A few moments later, she made her Scalding Slimes help untrap Mato instead of unleashing futile attacks at the guardian who was just going to regenerate it anyway.
+
+It was excruciatingly slow, moving within the area of rampant growth, but as soon as Mato crossed the threshold and into the stone-floored library, Ali’s suspicion was confirmed. The growth ended at the doorway, and within the library, they were all suddenly free from entanglement.
+
+“It’s fully healed again,” Malika said.
+
+But within the confines of the library, they had much more freedom to move. Even though the monster was still healing itself, and its heavy attacks repeatedly slammed Mato into the walls, dislodging chunks of bone from each crashing impact, Ali felt a lot safer.
+
+Ali summoned her magic to do damage for the first time in the fight, sending all her barrier magic in slicing sweeping blade attacks, and firing three simultaneous Arcane Bolt streams. She no longer had any need to be defensive, so she didn’t hold back.
+
+But after a few minutes, it became abundantly clear that they were not making much headway. How much healing does this thing have?
+
+Ali focused on her mana sight for a few moments, trying to understand what was going on. It took her a few moments to untangle the complex interplay of magic. The growth spell was still in effect, suffusing an area of about ten meters around the monster with nature magic, only it presumably found nothing in range to grow. But below that, there were two other magic effects. One which looked remarkably like Mato’s regeneration aura, and another that flared occasionally in response to heavy damage.
+
+“I think it has a healing spell and a regeneration aura,” Ali said thoughtfully. She didn’t have much to compare it to, other than her holy Acolytes and Mato’s skills, but her conclusion had to be close.
+
+“It seems vulnerable to fire,” Malika said. “Your mages are doing much more damage than us. Can you make more?”
+
+Ali looked again, this time at the attacks. Her arcane magic seemed to be doing damage just as quickly as her Scalding Slimes, but Malika may have identified something important. The firebolts were leaving smoking holes in the Forest Guardian’s tough armor of bark and wood, the smoldering edges and repeated strikes seeming to slowly overwhelm the continuous, powerful regeneration. Of course, she realized that this was one of Mato’s key skills and what made him so hugely effective as a tank – but being on the other side of it was more than annoying.
+
+She shook away a persistent memory of her father’s interplay with these Elementals. Everything had changed. She had friends to keep safe, she needed to focus.
+
+It makes sense that fire would work on it. Deciding that they were going to be here long enough anyway, she put down her attacks and opened her Grimoire. Summoning took a while, so she had never really had much opportunity to use it mid-combat, but this situation called for more damage than their entire group could manage. She didn’t care that the Fire Mage was below average in level, she simply put him to work shooting firebolts and began summoning another.
+
+It took five, and nearly fifteen minutes of continuous summoning, before Malika announced that they were beginning to make progress, and by then Calen was handing his mana potions to the Acolytes. Ali summoned one more mage and then returned to her attacks, adding her Arcane Bolts and the little extra from her barrier shards.
+
+Eventually, the Forest Guardian collapsed on the stone floor of the library amid a deluge of fractured bone pieces and dust dislodged from the walls by the force of the impact.
+
+Your group has defeated Glimmer Shard – Elemental – level 14-19 (Light) Swarm x23Your group has defeated Coruscant Ray – Elemental – level 32-33 (Light) x2Your group has defeated Forest Guardian – Wood Elemental – level 43 (Nature)
+
+“Ali, are you ok?” Malika came over to check on her as soon as the notification sounded.
+
+“I was stupid,” Ali said, feeling a sense of burning embarrassment as she recalled hiding behind her transparent barrier expecting protection from a light beam. “My barrier is transparent, and the monster shoots light magic.”
+
+“I meant that thing,” Malika said, pointing at the enormous corpse of wood and bark. “You seemed shaken by it.”
+
+“Oh.” Ali looked up at it, towering above her even in death, feeling the melancholy of her nostalgia once again. “This was my father’s most powerful summon. He used to let me ride them when I was a kid.”
+
+“I’m sorry, Ali,” Malika said. “That must have been a harsh surprise.”
+
+Ali nodded, not trusting herself to speak right then.
+
+“If it was your dad’s minion, you should learn it,” Mato said, coming up to join them beside the corpse. “Then you can remember him every time you use it to fight.”
+
+Ali’s head snapped around in annoyance at his joking, but she drew up short of actually saying something at the sight of his sincere face.
+
+Is he serious? But as soon as she considered who Mato was, she realized he had meant it as a genuine tribute. Mato was definitely the sort of person who would consider battle to be a suitable tribute, and she could see him carrying a good friend’s weapon or armor into battle to honor their memory.
+
+Besides, it’s all I have left of him. She reached out and touched the rough wooden corpse of the monster, feeling the tears well up in her eyes. She blinked them away and decided she liked Mato’s idea. If it was all she had, she would treasure having her father’s favorite summon in her Grimoire. All she needed was to find a couple more. Mom’s golden magic, Dad’s Elementals. This is so very hard.
+
+Sighing, she channeled her deconstruction until the giant corpse vanished in a huge cloud of sparkling mana.
+
+Three glowing green crystals dropped from the center of the cloud, clinking against the stone as they bounced.
+
+Living Essence (Nature) x3
+
+What is that? But Ali immediately recognized the crystals suffused with intense nature affinity mana. It had been one of the magical reagents Eliyen had ground up when she was making the Elixir of Vitality Rejuvenation, except these were quite a bit larger, and the mana denser.
+
+“Oh, wow,” Malika exclaimed, bending to pick one up and examine it. “These are worth some real money.”
+
+“Can we sell that to Eliyen? She can make more of those elixirs for people who need them.”
+
+“I’m not sure we can,” Malika said, pursing her lips as she collected the other two. “They’re valuable enough that we probably need a commerce license.”
+
+“That seems unfair. What use are they if we can’t sell them?”
+
+“That’s what the guild merchant position is for,” Malika answered. “Weldin’s license is unlimited when it comes to anything sold by a registered adventurer. We can literally sell him anything – as long as he wants to buy it – and the town’s merchant guilds can’t do anything about it. I can talk to him – we can make sure the essences are offered to Eliyen for a decent price.”
+
+“Oh, I see. That’s a little complicated.” A sudden thought occurred to her, so she asked, “Am I going to need to worry about that when I sell Eliyen mana-purified water too?”
+
+“Mmm… probably. I can talk to Weldin about that too, we’ll figure it out.”

@@ -1,0 +1,271 @@
+---
+id: 25b19391-98e9-5a92-903c-bef8b8bfbcd1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 181: Essence of Inferno"
+slug: 0184-chapter-181-essence-of-inferno
+partOf: dungeon-of-knowledge-complete
+position: 184
+ownLength: 5271
+unit: words
+ownProgress: 5271
+publishedAt: 2025-01-09
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2000751/chapter-181-essence-of-inferno"
+royalRoadId: "2000751"
+markedReadAt: "2026-06-29T20:17:18.470Z"
+---
+
+Ali hauled herself up with shaky arms as the third storm of fire finally abated, returning silence to the arena of glowing red-hot stone. The Inferno’s heart-stopping primary ability still terrified her, in a force-of-nature kind of way, but Ali was coping with it much better, her mind no longer stunned by its immensity and power. Perhaps I’m just in shock.
+
+She marshaled her mana and fired her sharpened barrier shards at the huge elemental, wondering exactly how much damage she was doing. I’m trying to cut fire with a sharp magic plate, she thought. But, as futile as it may seem, the boss had only one-quarter of his health remaining. So close! Then fire mana flickered, coalescing into the familiar formation.
+
+“Explosion!” she yelled, and moments later, the blast wave slammed into her, the compression wave and quake launching everything that was not chained down high into the scalding air.
+
+No, not everything!
+
+At the base of the enormous elemental of fire, a small figure stood stalwart, flickering with blue-white mana. Malika! She dodged it! Ali realized, as the horrifying implications sunk in. Her friend was facing the boss by herself while everyone else who could possibly help her had been flung away into the distance. Desperately, Ali cast around for something, anything. High above her, at the apex of his flight, one of her Acolytes hung, momentarily suspended in the air.
+
+Quickly, she activated Minion Teleport, switching places with the Kobold and sending him an urgent command, “Heal Malika!”
+
+There was no way for her to directly help her friend from this far above the ground. Instead, she put her hopes into the little plummeting kobold whose eyes she kept trained on Malika while she scrambled to deflect countless flying boulders and minions with her barriers. She winced as her Kobold struck the rocky ground and bounced. “Run!” she urged, anxiously willing the little Kobold to sprint faster. It scampered across rock and debris as fast as it could, reflections of flame shimmering in the white robes flapping out behind him.
+
+In the distance, Malika’s magic flickered and flared as she flew around the Inferno, stepping off the air, or wisps of flame, kicking and punching with a relentless storm of blows, all of them flashing blue with her Soul Strike ability. A massive slam attack smashed into her left shoulder, crashing her body into the ground and making her bounce. Ali held her breath unable to do a thing, but Malika’s form flared with her own potent healing magic at the apex of her bounce, and she flipped her body in midair, launching a powerful kick at the Inferno. Another massive strike careened in from her left, but she dodged again, retaliating with a series of punches. Don’t die, don’t die, don’t die! Ali’s mind kept repeating the same mantra as if she could will it to be, all the while still flashing her barrier magic all around to protect everyone as they peppered the cavern like rain.
+
+Another smash, and a failed dodge this time, drove Malika to the ground with a sickening crunch, her burns visible even from a distance. Her healing mana surged powerfully throughout her entire body. Ali had no idea how she had so much mana, but it was Malika. She had been stealing mana from the boss the entire fight, so she was probably always full. At least, she hoped so.
+
+Finally, the Kobold stretched his taloned hand forward, and the holy formation of Restoration appeared within Malika. Thank goodness! Ali breathed an enormous sigh of relief, right as she slammed into the ground and bounced. Ouch, she thought, coughing as the wind was knocked from her lungs. In her focused state, she had forgotten to catch herself. Holy magic soothed her injuries as her nearest Acolyte healed her, and then she launched herself back toward Malika, eking as much speed from her barrier as she could manage. Ali tossed out barriers frantically as soon as she was in range, not to attack the boss, but to block its punches and slams. She had no idea if her strategy was effective because most of its strikes shattered her barriers, but Malika seemed to dodge more attacks than before, so perhaps? Maybe she was slowing them down just enough. She kept it up until Mato’s huge growling form tore across the rocky ground and slammed into the Inferno with a roar and a brutal Swipe. The boss twisted back and forth momentarily, as if uncertain which of them to attack first, but eventually the great fiery arm slammed down, bouncing off Mato’s darkly gleaming armor, and Ali finally relaxed a little.
+
+Ali found her Inspiration runic circle, and restarted her minion rotation through it, prioritizing her healers as they arrived.
+
+“Missed explosion,” Calen announced, as if nothing had happened. “Health check?”
+
+Huh, that’s curious, Ali thought. “Ten percent.” They had never skipped one this early before. Perhaps having Malika able to fight through the last one had given her more time to reduce its mana. Ali had no idea, but it was definitely an advantage for them.
+
+“Eight percent… Summons!” Instead of the massive blast wave, the boss invoked the formation to summon another wave of elementals. Even though the change in the boss’s rhythm was worrying, Ali knew how to deal with this attack.
+
+“Seven percent.” Immediately, she shot off commands to her minion army, erecting bone walls and tossing out barriers. As the spawns funneled into the trap, she unleashed her shamans’ lightning.
+
+“Six percent…” Her words were punctuated by the staccato cracks of repeated bolts of lightning ripping through the monsters.
+
+Calen took to the air, downing a mana potion, and used his Righteous Fury, casting a brilliant light across the entire battlefield. His mana exploded outward as he fired a hail of magical arrows down on the elementals, each explosion almost twice the size of his normal ones. Chains of light burst forth from the explosions like burgeoning vines, lashing every spawned elemental to the ground. Ali scrambled to keep the bone walls and barriers intact, but the elementals withered under the powerful onslaught from above. Calen turned the remainder of his powerful attack on the boss and Ali could see the elemental’s health dipping quickly.
+
+“Four percent!” Ali launched as many barrier shards at the Inferno as she could manage, watching the health tick down with excruciating slowness.
+
+Calen’s light went out, and suddenly the domain mana surged, and the low, mournful whistling sound filled the cavern.
+
+“Hide!” she screamed. It was out of cycle, but Ali didn’t question what she saw. The Inferno was using his primary attack again. She scrambled to find a nearby boulder that was large enough to survive the burning onslaught without melting, finally crawling behind one with two of her shamans. She urgently glanced about, summoning a barrier to protect Mato as the air around him caught alight ahead of the elemental storm, but he made it to his boulder in time.
+
+Four percent… They were so close. Ali’s heart raced as she huddled behind her rock and tuned out the deafening roar of flame tearing past. She counted the seconds out loud to still her mind, reaching forty-five before silence crashed down upon her. She had no idea if she was counting accurately, or if her anxiety made her count too fast, but it definitely helped her calm down and forced her to breathe.
+
+She emerged from behind the misshapen molten boulder and immediately fired her barrier shards at the elemental.
+
+“Watch out, Ali! The storm drops aggro!” Calen shouted.
+
+With a hiss, the towering pillar of angry flame turned to face her. Ali’s heart stopped right then as she stared up into what passed for his face, her reflexively summoned barrier seeming all too fragile. Suddenly, Mato roared and Swiped at it, diverting its attention back to himself, and Ali breathed once more.
+
+Fuck, I didn’t think of that, she thought, her hands trembling. She was lucky the elemental didn’t have any immediately available ranged attacks, or she might have died in that instant.
+
+“Ex… explosion!” she yelled as the mana formation dragged her attention back to her role. In that instant, two Lightning Bolts cracked across the rock, slamming into the Inferno and Malika’s fists lit up with a high-speed flurry of flickering magic. The coalescing mana formation for the powerful blast wave suddenly wavered, splintering into shards and drifting away.
+
+A soft chime echoed in the halls of her mind and the huge Inferno’s flame flickered once before it went out, like a candle snuffed in the wind. The core of the monster hung suspended in the air for a moment before crashing to the ground.
+
+Your group has defeated Inferno [The Consuming Flame] – Elemental – level 73 (Fire).
+
+Mato let out a whoop of joy as he transformed back into his Beastkin form. Ali slumped to the ground where she stood, brittle laughter escaping her lips as the stress of the fight drained from her in a rush.
+
+“We did it!” Calen exclaimed, alighting on the ground beside her.
+
+“We sure did,” Malika agreed. “You doing alright, Ali?”
+
+“Yes, I’m just tired,” she said from where she sat. There had been many moments when she hadn’t been sure; when she had been about to call for their retreat. She had held off, waiting for one of the others to do it, just in case she was wrong. And here they were, alive and happy, celebrating their achievement against the elemental boss of the Emberforge Mines.
+
+Malika groaned as she lowered her body to the ground beside her, and they sat together in silence for a while, staring at the giant corpse of the monster they had just defeated.
+
+“Thank you, Ali,” Malika finally said, her voice quiet, almost in a whisper.
+
+Ali glanced up at her friend. “For what?”
+
+“I was so happy to finally dodge one of those annoying explosions that I didn’t realize I would be facing the boss on my own…”
+
+I guess I didn’t make the only mistake – but we managed to cover for each other every time it got hairy. Now that’s teamwork.
+
+“How did you survive it?”
+
+“I dodged. A lot. Every time it hit me, it took more than four-fifths of my health – I’m never going to criticize the Bear’s heavy armor again. I had to burn almost all my stamina and mana to heal myself back to full, just to gain a few more seconds before the next hit.” Malika looked over at Ali. “I’ve never been so relieved to feel the holy magic of your acolyte. I don’t know how you got her to me so quickly… but thank you.”
+
+“I used Minion Teleport. I was pretty close, so I switched with a Kobold to get it closer to you,” Ali answered softly, recalling how frantic she had been at the time. How desperate she had been to find anything that could save Malika. If the Kobold had been just a little further, or if she had been flung more horizontally… she quelled that line of thinking. It had worked, and she had to believe that if circumstances had been different, she would have come up with a different solution.
+
+They sat together for a while in silence, enjoying Mato’s prancing and cheering. Ali would probably never be able to react to stress relief in that manner, but she recognized what it was and let him be. She was just happy it was done.
+
+“Thanks for saving my furry hide!” Mato yelled at her. “Your barrier was perfect!”
+
+Ali waved at him. While she loved that her friends acknowledged her, she knew that without them, she wouldn’t be alive either. They knew it too. Still, she would make sure to let each of them know she appreciated their struggles, efforts, and support. Probably later, after dinner when they had quieted down and finally relaxed.
+
+Ali levered herself to her feet.
+
+“Where are you going?” Malika asked.
+
+“Janitor, remember?” she answered with a grin and set to the task of deconstructing everything she could find.
+
+Variant: Shard of Inferno added to Imprint: Elemental.
+
+Finally, Ali approached the corpse of the elemental boss. There were still a few flickering yellow-white flames, so she reached down and picked one up, earning a Restoration from her acolyte.
+
+Essence of Inferno x6.
+
+“Hey, Malika,” she called out, but her friend was standing right next to her. She handed the flame to her, and they both inspected it curiously.
+
+“We should take this to Morwynne,” Malika said. “It’s probably exactly what we need to unlock that next rune. I found a bunch of lesser ones under the Shards of Inferno.”
+
+Indeed, it was too much of a coincidence. Essence of Living Flame had been the primary ingredient to quench the Rune of Living Flame. Now they had a collection of Essence of Inferno to match a Rune of Inferno. The only question would be if Morwynne’s skill was up to the task - and if they needed to hunt for any other specialized ingredients. “I just hope it doesn’t take another Death Knight armor,” she muttered.
+
+“Same,” Calen said.
+
+“I wonder what the dungeon is doing, making such a simple puzzle?” Ali wondered aloud.
+
+“Lyeneru discussed it in her book, remember…” Calen said. “Non-sentient dungeons seem to have some common instincts. In a dungeon like this one, where there are three passages, what stops attackers from going straight to the final boss?”
+
+“I guess so,” Ali said, recalling the passage.
+
+“With the runes barring the way, requiring items from monsters in earlier areas, the dungeon can force attackers to face each of its bosses before getting to it at the end. It can turn a maze into a long tunnel, which means you have to defeat all the monsters instead of simply picking a small subset, or by preference, or any other conditions. The Ruins of Dal’mohra didn’t have anything like this, so we could have just walked in to kill the Wights first if we knew about it. And then the rest of the dungeon would probably have dissipated on its own in a dungeon-break.”
+
+“That sort of makes sense,” Ali said, considering his point. In fact, her own dungeon followed a strategy more like the Ruins of Dal’mohra. People could avoid most of her monsters if they wanted to. The only real barrier was that they didn’t know where Ali was because she wasn’t a boss in her own dungeon – something she was still unwilling to experiment with.
+
+Malika collected six of the essences, storing them in her ring.
+
+“Does anyone want this?” Ali pointed to the core remains, still radiating intense heat.
+
+“Nope.”
+
+“All yours.”
+
+“I want to see if you get some new abilities,” Calen said, crossing his fingers.
+
+Ali’s curiosity spiked as she deconstructed the giant elemental – and knowing that both the domain magic skills she had observed were new didn’t take the edge off the excitement and anticipation. Several chimes sounded in chorus as golden text appeared across the parchment in her mind.
+
+[Sage of Learning]Domain Magic analyzed: Mass Summoning.Domain Magic analyzed: Elemental Storm (Fire).Domain Magic analyzed: Attribute Enhancement (Strength).
+
+“Ooh!” she exclaimed.
+
+“Whatcha get?” Mato asked.
+
+She had already learned strength from the Skeletal Wyvern, but Mass Summoning and Elemental Storm were both new, and, based on the fight, she had no doubt as to what the abilities did. She opened her Domain Mastery skill and browsed through the options for boss creation, finding her two newly acquired skills listed there.
+
+Mass SummoningRequirements: Raid Enhancement, Minion Level 60+Source: InfernoAssign a creature imprint for your minion to summon during combat. It will be summoned in waves. The size of the wave is dependent on the cost of the imprint. Summoned creatures must be compatible.Skill – Domain MagicElemental StormRequirements: Raid Enhancement, Minion Level 55+ with a matching mana affinity.Source: InfernoAffinities: Fire, Nature, Arcane.Your minion can cast an elemental storm that fills the entire area. Duration and area of effect depend on your minion’s magical power and available mana. The type of storm depends on your minion’s mana affinity.Skill – Domain Magic
+
+The ridiculous Fire Elemental Storm ability the Inferno had unleashed on them lay revealed to her, and now presumably accessible for any bosses she would make. To her surprise, she immediately noticed that the Domain Skill did not seem to be an exclusively fire-affinity ability – her class had automatically unlocked her personal affinities as options, and so she could create a boss with an arcane or nature Elemental Storm in addition to the fire she had just learned from the Inferno. As to what an arcane Elemental Storm would do exactly, she had only her rather overactive imagination to guess.
+
+Ali shared her new abilities with her friends.
+
+“Yes!” Calen said, punching the air. “You got the Elemental Storm, that’s awesome! You could combine it with… well, let me think –”
+
+“I can’t use it yet,” Ali said, trying to reign in his inevitable flurry of ideas. “I need to be able to make a level fifty-five boss, and I can’t do that yet.”
+
+Both abilities were severely level-restricted, but she assumed that was to be expected – they were ridiculous as abilities went. Level sixty minions? she huffed inwardly, struggling to imagine what she could not overcome with such powerful summons.
+
+“Aww,” Calen said.
+
+“Must be a power requirement,” Ali explained, shuddering to think how much mana a level fifty-five or sixty raid boss would reserve. She actually did have a couple of imprints for those levels, she simply couldn’t afford them.
+
+“Yep, likely that,” Calen added, his expression turning thoughtful. “I’ll write down some ideas we can explore later.”
+
+“Let’s go back home,” Ali said. “I’m hungry and tired after fighting all day.”
+
+“Me too,” Mato agreed. “And I bought some nice fresh fish the other day, I’ll cook that for dinner. I can do boar skewers, too.”
+
+Malika smiled, “Now that sounds like a winner!”
+
+“No, dinner!” Mato snorted, apparently finding his own joke hilarious.
+
+***
+
+Dinner was delicious as usual – Mato had managed to bake a fillet of salmon in the campfire using a foil-wrap technique. It was seasoned with some lemon and a few other herbs, which made it taste heavenly. Although Ali couldn’t help wondering how much of that was due to the long day of continuous fighting – she was ravenous and practically inhaled her portion. Probably anything approximately in the category of ‘food’ would have tasted amazing.
+
+You have become Well-fed.
+
+“This is delicious, Mato!” Ryn said, devouring her portion just as fast as Ali.
+
+If she thinks it’s good, then maybe my tastebuds aren’t lying to me! Ali smiled as she eyed the enticing pile of new books Ryn had brought. Ryn’s class was growing quickly, and their devious little pact had netted Ali a ton of new books to read. Besides, both of them enjoyed the work of building the library back up to its former glory – a monumental task, for sure, but a perfect way for them to help each other.
+
+In the quiet after-dinner lull, when everyone sat about sluggish and sleepy, Ali finally opened her notifications and searched through the day spent in the mines. They had achieved a lot, now that she had a quiet moment to consider it; clearing out the entire mine area, and then finally defeating the Inferno after the aborted attempt which helped them learn some of its abilities.
+
+She skipped past reams of kill notifications and paused at the defeat of Inferno.
+
+Grove Warden has reached level 59 (+4).+40 attribute points.
+
+Four levels! Yes please, I’ll take that. Quickly, she assigned out her attribute points. Excited for the opportunity to grow her mana pool again, she spent eight points on wisdom, although this time she decided to push her spell power more, adding double that to her intelligence attribute. Given her reliance on perception skills, she spent another eight on that attribute, smiling at the noticeable sharpening of her mana sight. Pursing her lips in thought, she made a moderate investment in her survival skills; four points to vitality and two each to endurance and dexterity.
+
+She hadn’t been hit by the boss directly but falling onto rock or into lava hurt like crazy, and the dexterity would help her reaction speed for catching things with her barriers or assist when she needed to pull off crazy evasive maneuvers when flying about.
+
+Happy with her choices, she read on.
+
+Arcane Insight has reached level 30 (+2).Arcane Recall has reached level 12.Barrier has reached level 43 (+3).Runic Script has reached level 28.Martial Insight has reached level 35 (+2).Empowered Summoner has reached level 27.Minion Teleport has reached level 19 (+3).Identify has reached level 15.Inspiration has reached level 11.
+
+An industrious day in all – oh, but… Ali puzzled over the skill levels for a moment before recalling she had used the combination of Arcane Recall and Runic Script to create an Inspiration runic circle mid-battle to help Calen with his mana and then had assigned all her acolytes to take turns in it. She reached out and released the mana reservation for the circle, feeling the magical construct dissolving. Using my spells in combat sure helps them grow faster.
+
+While she hadn’t earned any skill advancements during the intense fight, she had gained four class levels putting her one level away from sixty – the level at which the Adventurers Guild would recognize her as a gold-ranked adventurer, and she could get her ring upgraded.
+
+Also, her skills had grown substantially, and if the Adventurer’s Guide could be believed, many skills could become available for advances roughly every twenty levels or so. The skill she was most excited about advancing was Barrier – it had been with her since the beginning and had saved her and her friends’ lives time and again. Not to mention, Barrier was one of her favorite magic skills.
+
+Who am I kidding, she corrected herself, I love them all!
+
+***
+
+Name: Aliandra AmarielRace: FaeTitles: AncientActive Buffs: Empowered Summoner, Well-fed, Elixir of Fire ResistanceClass: Grove Warden – level 59- Arcane Insight – level 30- Arcane Recall – level 12- Barrier – level 43- Grimoire of Summoning – level 31- Runic Script – level 28- Sage of Learning – level 22- Martial Insight – level 35- Empowered Summoner – level 27- Domain Mastery – level 23- Minion Teleport – level 19General Skills- Reading – level 13- Identify – level 15- Sculpting – level 5- Inspiration – level 11Aptitudes- Languages: Ancient Dal'mohran, Elvish, Dwarven, Common, Draconic, Goblin, Ahn Khen- Mana (Affinities): Nature, Arcane- Tiny (Racial): The effects of Strength and Vitality are reduced by 50%- Magical (Racial): The effects of Wisdom and Intelligence are increased by 50%- Domain (Class): Your maximum mana increases with the size of your domain, up to +100%- Domain: -10% maximum health per day domain withdrawal. You have Domain SensePatrons & Tithes- Mentor: Clarence- Protégé: Seth WestonAttributes- Vitality: 118 (+52)- Strength: 6- Endurance: 19- Dexterity: 38- Perception: 129 (+26)- Intelligence: 250 (+55)- Wisdom: 353 (+120)Equipment- Off Hand: Orb of Mana – level 35- Head: Topaz Hairpin – level 40- Body: Elegant Robes of Fire Resistance – level 50- Hands: Wooden Bracelet – level 11- Ring: Silver Guild Ring – level 30- Ring: Forest Band of the Perceptive – level 33Resistance: 972Magical Damage Reduction: 37.04%+65% to Fire resistance.+84% to mana regeneration.Health: 590/590Stamina: 190/190Mana: 3122/10590 (7468 Reserved)Grimoire Imprints1- Stone2- Wood3,4- Armor (Body)5- Arrow6- Axe7- Bone Bracelet (Hands)8- Book9- Bow10- Coin11- Dagger12- Shield13- Sword14- Creeper15- Grass16- Moss17- Mushroom18-20- Tree21- Wildflower22- Bat23- Dragon24,25- Elemental26- Goblinoid27,28- Kobold29- Ooze30- Spider31- Wolf
+
+Calen finally began to relax and unwind after a long day delving into the mines. It had taken all through dinner before he began to feel a little more normal, and he finally decided he was ready to look at the results of the fight. He had initially been worried about the potential of unseen domain magic skills, but never in his wildest dreams had he imagined something like that Elemental Storm – none of them had. It was only through some very quick thinking and Ali’s ability to see the spell before it was used that they were even still alive – and even then, there had been several close calls.
+
+He had spent most of the battle airborne, and he had also wasted tons of time regenerating mana he then splurged on his area damage skills cleaning up the shards of inferno before they tore everything to shreds. It would have been far faster if I could sustain that damage output. Unfortunately, he was still not high enough level to take advantage of the kinds of enchantments Lyeneru had shown him.
+
+Archer of Light has reached level 53 (+5).+50 attribute points.Radiant Archery has reached level 31.Arrows of Brilliance has reached level 36 (+2).Explorer has reached level 29.Blessing of the Dawn has reached level 24.Righteous Fury has reached level 20 (+3).Azrael's Wings has reached level 17 (+2).Mirage Armor has reached level 11 (+2).
+
+It was nice to see his wings growing quickly, and even more exciting was the growth of Arrows of Brilliance and Righteous Fury – both skills having found a prominent place in his core combat repertoire. He would need to recalculate his optimal skill rotation again because every time those two leveled up, the mana and stamina costs changed.
+
+He studied his previous notes about his class. It was challenging to create the optimal skill usage that allowed him to contribute to the kinds of fighting they were doing. Even now, with his class level growing rapidly, he was still unable to extract the full value of his class’s potential. At least, after his enlightening conversation with Lyeneru, he finally understood why – if they had been a normal party, doing normal dungeon delves with monsters significantly lower than their own levels, he would simply burn all his mana to ambush the first monster and kill it instantly – typically the most dangerous one like a healer or mage. He was struggling primarily because many of their important fights did not care about enormous spikes of short-duration damage.
+
+He made a face. Great for growth. Not so great for my ego.
+
+Still mulling things over in his mind, Calen calculated his attribute distribution. Fifteen points went to intelligence and five to wisdom, a nod to how important his light-affinity magic skills had been during the boss fight. Ten points went to each of dexterity and perception. Finally, he divided up the remainder; four points for vitality, and three each for strength and endurance.
+
+As he finished spending his points, his notification chime sounded again. Eagerly, he watched as the glowing text unfolded.
+
+Requirements met for skill advancement.Mentor: Lyeneru Silverleaf.Righteous Fury has reached at least level 20.Synergy: Radiant Archery has surpassed level 30.Has killed more than 100 monsters in a single battle.Intelligence has surpassed 300.Righteous Fury gains Area Suppression.(The damage penalty for multiple shots is removed.)Righteous Fury – level 20Mana: Temporarily supercharge your mana amplifying all your magic by +150.4% [100 + skill + Intelligence / 10]. Your mana burns you. The damage penalty for multiple shots is removed. Duration: 30 seconds. Recharge: 15 minutes.Light, IntelligenceAccept this advancement?
+
+Oh, now this is something! It was a surprising advancement, and one that intrigued him – and not just because it gave more damage without costing any more mana. Whenever he used multishot, his skill split his base damage among all the conjured arrows – situationally useful. But now, when he used Righteous Fury, he wouldn’t suffer that penalty – and his base damage was substantial, taking into account both his dexterity and intelligence. The enchantments that he added above and beyond his normal arrow damage would not improve – but those were already getting almost two and a half times more damage just from the mana amplification. The total increase in damage penciled out to be a substantial improvement. Lately, most of the time when he used Righteous Fury, he was suppressing a horde of monster spawns. This meant his multishot scaled his damage by a further multiplier every time he increased the number of arrows he could fire.
+
+He frowned, deep in thought. The only time it wouldn’t help him was if there was only a single target to shoot at. Perhaps I can train to multishot the same target? Nendir would know. He wrote down a quick note to ask his mentor or trainer the next time he visited Ciradyl.
+
+Happy with the offer, he accepted it.
+
+Mato was enjoying his cooking even more than normal, now that he had learned several new techniques from Tabitha. He practiced them at every opportunity he got. She had insisted on teaching him how to make them taste absolutely foul. Still, with his Survival Instincts enhancing all of his senses, including smell and taste, he had been incredibly relieved to discover the techniques worked just as well with tasty cooking.
+
+And the Well-fed buff was really quite helpful – everyone had gained a small vitality boost for the Inferno fight, and every little bit helped. He grinned as he savored the flavor of the next bite and studied the glowing green notifications on his inner tree.
+
+Druidic Shapeshifter has reached level 54 (+5).+50 attribute points.Arboreal Sanctuary has reached level 31.Swipe has reached level 33 (+2).Brutal Restoration has reached level 35.Bear Form has reached level 31.Bestial Combat has reached level 29.Natural Prowess has reached level 22.Survival Instinct has reached level 24.Battle Trance has reached level 15.Last Stand has reached level 5.Identify has reached level 11.Cooking has reached level 13.Herb Gathering has reached level 5 (+2).
+
+A frown touched his brow. His Rampant Growth skill was stagnating. It was hardly surprising, given that they had been fighting down in the Emberforge Mines all day – a place where absolutely no plant life survived. Unlike the Grasping Roots spell, which manufactured roots from mana directly, Rampant Growth was a spell for influencing existing life – albeit extremely powerfully and quickly.
+
+But something about his training in Lira’s tree had taught him a little more patience than he remembered having, and he was sure he would get further opportunities to explore the skill. If nothing else, he could practice in Ali’s Forest Cavern, or the jungle when they passed through.
+
+“Here you go,” Mato said, distributing second-course plates loaded up with boar-meat skewers, each crusted with herbs and grilled to perfection, and sauteed asparagus on the side. At least as far as he was concerned, that little helping of salmon had just whet his appetite.
+
+“Thanks!” Calen said, immediately picking up a skewer with his hands and bringing it to his mouth.
+
+“This looks familiar,” Malika said, eyeing the plate suspiciously. “Have you been taking lessons with Tabitha again?”
+
+Calen froze with his mouth open wide, about to take a bite. His eyes darted between Malika and Mato and then to the still steaming meat he had been about to put in his mouth.
+
+“Yup, she’s been teaching me some advanced techniques,” Mato said, suppressing his grin. He sat down with his own plate on his lap, locking eyes with Calen and waiting, deliberately not eating yet.
+
+The silence drew out longer and longer.
+
+“This is delicious, Mato!” Ali declared, holding a skewer in each hand, oblivious to the moment and breaking the tension in an instant.
+
+“You’re bad. Just bad,” Calen muttered, glaring at him, and began to tuck in.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

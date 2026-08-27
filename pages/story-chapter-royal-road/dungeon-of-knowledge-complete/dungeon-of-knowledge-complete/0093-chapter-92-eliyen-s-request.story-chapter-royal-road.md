@@ -1,0 +1,245 @@
+---
+id: e8bfc9bf-bbc7-5b39-8ff4-b908bbd2868b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 92: Eliyen’s Request"
+slug: 0093-chapter-92-eliyen-s-request
+partOf: dungeon-of-knowledge-complete
+position: 93
+ownLength: 4651
+unit: words
+ownProgress: 4651
+publishedAt: 2024-06-30
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1699104/chapter-92-eliyens-request"
+royalRoadId: "1699104"
+markedReadAt: "2026-06-29T20:14:04.529Z"
+---
+
+Ali paused to smell the beautiful climbing roses that graced the fence of Eliyen Mistwood’s beautiful garden before they all went in. She was certain she would never tire of seeing the riotous array of plants, herbs, and trees all laid out in what appeared to be an entirely accidental natural harmony. It was at once a garden, and simultaneously a work of art.
+
+Given the bounties placed on her and Malika’s heads, and the presumed interest of half the underground criminal world, they had decided to stick together for this venture across town, and Calen in particular had been extra vigilant with his motes of light and stealth skills. Still, nobody appeared to take a shot at her this time.
+
+Open. Please come in.
+
+The same elegantly written sign fastened to the door welcomed them to enter, so Ali knocked and opened the door. At the sound of the wind chimes, both Eliyen and Basil looked up from their work.
+
+“Welcome back,” Eliyen’s soft, clear voice greeted them as they entered the small shop that seemed to serve double duty as Eliyen’s home. Basil grinned hugely behind her shoulder, obviously delighted to see them again but too shy to speak up.
+
+Herbalist – Wood Elf – level ?? (Nature)Herbalist – Human – level 1 (Nature)
+
+Eliyen’s eyes flickered between the four of them, curiosity clear on her face, but she remained silent, waiting for them to initiate.
+
+“Vivian Ross recommended your abilities for healing something difficult,” Ali began.
+
+“Yes, I can see. Your friends bear the stench of the undead – and not the lesser ones. You have tangled with something powerful and come to me for help with life drain?”
+
+“Yes. Can you cure it?” Ali asked, immediately curious about how Eliyen could tell. From the lack of obvious mana formations flickering and changing, she guessed it was a passive perception skill of some kind.
+
+“What you seek is an Elixir of Vitality Rejuvenation. I know the making of it, but unfortunately, I lack the most critical ingredient,” Eliyen said. A slight tightening of the skin around her eyes and firming of her jaw flickering across her face briefly before her features returned to their serene calm.
+
+“Is it too expensive?” Malika asked. “We’re willing to pay.”
+
+“It’s not a matter of money,” Eliyen said, shifting her gaze to Malika as she spoke. “The required reagent is called mana-purified water. It is the basis for many powerful cures and elixirs, but it is unfortunately rare and difficult to acquire. I do not have any left. Nor will you find any in this town or nearby for purchase. I’m sorry.” She picked up a watering can and drizzled a little nourishing rain onto the unusually blue fern in a pot on the desk before her, delicately weaving her nature mana into the flow, and the plant began to gently grow under her attention. She cocked her head to the side curiously and then glanced at Mato with a flicker of a smile.
+
+“Is there no way we can get some for you?” Ali asked, frustrated to be so close to a solution and yet blocked by an unexpected and impenetrable barrier.
+
+“There is a dungeon deep in the northeastern mountainous area of the kingdom of Toria, near the town of Volle,” Eliyen explained. “It is the only nearby source of mana-purified water for all the kingdoms in this part of the continent. It’s an area without much in the way of natural resources but the town of Volle has always exploited this dungeon. Keeping an iron grip on the supply of such a valuable reagent has been the only thing that enabled them to maintain their wealth.”
+
+Drawing a deep breath, Eliyen continued, “Every year I can purchase one permit, allowing me to send one person between level thirty and forty into the dungeon, and that entitles me to only ten vials of water. As you can imagine, I can’t afford to squander such a scarce resource on something that might eventually resolve on its own. I’m sorry I cannot be of help,” Eliyen finished.
+
+“But…” Ali tried. The rules she had just explained seemed ridiculously specific.
+
+“She can’t help us,” Malika said, uncharacteristically interrupting her. “Let’s go ask the Guildmaster if there are other options.”
+
+“Ok,” Ali said, glancing at her in surprise as they all got up to leave. It was frustrating to come all the way out here only to be turned away by some stupid restrictions. But Ali couldn’t quite figure out why Malika was being so… pushy. Malika was the most worried about the life drain. Shouldn’t she be the one pushing the hardest to get Eliyen to relent?
+
+“I do have a request,” Eliyen said, her voice stopping Ali’s hand right before her fingers touched the doorknob. Out of the corner of her eye, she caught a ghost of a smile flicker across Malika’s face – a smile that vanished entirely before she turned back to Eliyen.
+
+“There is something I would ask of you, young Fae,” Eliyen said, looking directly at Ali. “Basil informed me of the unique nature of your skills. If you choose to help me with this request, I will help you with the elixirs.”
+
+How did Malika know? Careful to keep her face from showing anything unexpected, Ali accepted Eliyen’s unspoken invitation to sit.
+
+“As you can imagine,” Eliyen said, putting the watering can down and giving Ali her full attention, “I despise the exploitation of this mana-purified water because it prevents the crafting of many life-saving elixirs, spreading much suffering across all the nearby kingdoms. There are not enough resources to make the potions, especially after the Goblin siege, and those that are created are way too expensive for the common folk.”
+
+“The biggest secret to mana-purified water is that it is simply regular water, purified by the presence of a water-affinity mushroom that grows within it.”
+
+Now I see. At least she was beginning to understand why she was involved in whatever Eliyen was about to propose. Her Grimoire and Eliyen’s knowledge that she had learned to grow the Brown Stonecap mushrooms had to be part of the equation.
+
+“The Torians check everyone who enters and leaves the dungeon, searching all their equipment and storage enchantments to ensure that nobody leaves with more than their allotted amount of water. They would quickly notice any mushrooms added to the inventory, should one try to take any out.”
+
+I guessed right.
+
+“I propose that you use my permit to access the dungeon and search out the mushroom and learn it under the cover of collecting ten vials of water for me. I do not know precisely where in the dungeon they grow, so you will have to find it on your own. Once you learn it, I suggest you kill the dungeon, but even if you do not, return with the mushroom and we will grow them here. We can agree on how to harvest the water and share profits after you return. We will then be able to produce a constant supply of life-saving elixirs and potions while earning a lot of money in the process. Do this for me and I will pay for the teleportation to Volle and make you the elixirs to cure your friends.”
+
+“That sounds doable,” Ali said, considering the proposal. She was excited about the idea of learning a new magical variant of a mushroom, and one that seemed so useful. And Eliyen’s goal to provide more potions to more people seemed admirable.
+
+Only… Something felt off about this proposal, and Ali wasn’t sure exactly what it was.
+
+“I don’t think you’re being entirely honest with us,” Malika said, her blunt response confirming Ali’s reservations.
+
+Eliyen’s expression instantly hardened. “Curse your eyes, daughter of Ahn Khen.”
+
+“I do not need the sight of my Ancestors to see through your flimsy story. I have been forced to work with enough real conmen vastly more skilled at lying and convincing people. You’re simply not that good at it.” Malika matched her hard expression without backing down even slightly. Ali was a little frightened by the intensity flashing in Malika’s eyes.
+
+“How much are you spending on this venture? The permits and teleportation service alone must be very expensive. Yet you are living frugally as an herbalist in a border town. If you cared about the money, you would have a ready proposal for how we split the profits signed and agreed upon before even sharing the major details. Yet you don’t seem to even care about the money or the fact we will be bankrupting a town in a different kingdom.”
+
+Basil gasped, his wide eyes darting between Malika and his mentor.
+
+Suddenly, Ali realized what had bothered her about the deal. It’s a heist. They were being asked to rob some town and destroy their monopoly market. Even if it was being abused for profit, they were not exactly doing something ethical either.
+
+“Very well,” Eliyen said, clearly unhappy about being put on the spot by Malika’s rapid dismantling of her entire story.
+
+She’s going to kick us out. Ali disliked the idea of Volle’s market exploitation leading to suffering, and she despised the idea of being manipulated into taking over such an operation herself. But that still meant they were not going to get the Elixir of Vitality Rejuvenation.
+
+But the old Wood Elf didn’t demand they leave immediately. Looking down at the plants around her, she began to tell her tale.
+
+“A long time ago, I lived with a small clan of Wood Elves in the forests near this dungeon. It was when the kingdom was new. We harvested the water and local herbs and earned our simple living trading with the nearby towns. The local lord coveted the water as a resource and wished to exploit it, so he lured us out of our home with the promise of a signed agreement and while we were away, burned our homes and forest and captured and subjugated the dungeon.”
+
+Mato sighed, but Malika’s expression remained unreadable. Ali wondered what horrors this simple retelling left unsaid.
+
+Eliyen sighed. “My family and clan were made homeless and driven out. For many decades I plotted revenge on them, but I was never able to bring myself to do the necessary violence, and now most of them have since passed due to the passage of time. Ownership of the dungeon and the prosperity of Volle has been handed down within that lord’s family ever since. Even after all this time, I still find myself unable to let it go. It sits poorly with my heart to know that they continue to exploit something that they earned using deception at the cost of my people’s homes.”
+
+Judging from the hard look in her eye and the set of her mouth, Eliyen was leaving a lot unsaid. How long has she suffered?
+
+Eliyen looked at Malika, “Your friend’s ability is the first time I have found hope that I can resolve this injustice without violence and earn some closure at last. The ugly truth is the revenge in my heart. I do not want anyone to die, but I want to right the injustice of ill-gotten gains at the expense of my family. I cannot steal the dungeon, obviously, but making it worthless to them feels appropriate.”
+
+“Even knowing my sad tale, I still beg of you to help me with this. You’re right, I care not for the money or wealth. If you succeed, you may do what you wish with the mana-purified water. I ask only that you sell me enough at a reasonable price so that I can save people with my arts. I am forced to turn away people even more in need than you all the time, and it tears at my heart to do so because of the selfish exploitation of Volle’s Dungeon for personal gain.”
+
+“You should have led with that story,” Malika said. “Thank you for telling the truth.”
+
+“I’m sorry you’ve had to carry that for so long,” Ali answered. “I’d like to help.”
+
+“You’re going to help even after hearing my need for selfish revenge?” Eliyen asked, clearly surprised at her response.
+
+“Yes,” Ali answered. “It seems like a good cause to me. If we succeed, more people will have access to important potions, right? I don’t like that they are profiting at the expense of people’s lives and health.” If there was a way to help everyone while also helping her friends get the elixirs, Ali would jump at the opportunity.
+
+“If I do get the mushroom type and we make the mana-purified water, I can probably make a lot. I don’t have any use for it, so you can take as much as you want, and maybe just give me a small fee so we can pay for potions and stuff.” Ali finished.
+
+“Sheesh, you guys are both terrible at business,” Malika exclaimed. “You know that stuff goes for more than a gold per vial?”
+
+“But it will help people?” Ali answered. She knew what Malika was saying, but she didn’t want to simply replace the Volle lord as the person exploiting people’s suffering for money.
+
+Malika just rolled her eyes. “You are both the same. You know you can save all the people and still make some money on the side? Anyway, why does Volle restrict entrance to the dungeon? Ali is going to have to do this on her own, right?”
+
+Alone? That was a detail that Ali had not picked up on.
+
+“Yes,” Eliyen confirmed. “It’s their way of protecting their asset. Admitting people below thirty runs the risk of feeding the dungeon and letting it grow stronger. On the other hand, letting in higher-level people risks them plundering the dungeon and simply teleporting out to evade the taxes and restrictions. Groups are restricted because it would be too easy to destroy the entire dungeon. I’m hoping Aliandra can manage it as a summoner.”
+
+“That’s stupid too,” Malika responded, “I would just harvest the water myself and sell the product, keeping the source secret.”
+
+“Volle’s lord claims that making it harder kept the market small and the prices high,” Eliyen said with a shrug. “I think they’re just lazy and this is an opportunity to make other people do the work.”
+
+“If I were running this scheme, I’d have to destroy it myself because it’s so terrible,” Malika huffed. She seemed to be growing a little irate.
+
+They sat with Eliyen for another hour, going over the details of the plan. It was simply astonishing how much gold Eliyen was investing into this endeavor. She was fronting the cost of potions for the dungeon, retaining the expensive teleportation service to Volle, and not to mention the purchase of the various expensive Torian permits allowing entry to the dungeon itself.
+
+Malika had been spot-on with her observation. Eliyen was clearly not motivated by money. If Ali was successful, she would be walking out of the dungeon with all the spoils, and Eliyen couldn’t do anything if she backed out of their informal agreement to share profits somehow.
+
+However, no matter how Ali used the gains, as long as she didn’t sit on it and do nothing, Eliyen would still have succeeded in her goal of undermining the value of the dungeon. Perhaps she was more savvy than she seemed after all.
+
+One thing was certain. Without Malika, Ali would never have guessed any of this.
+
+***
+
+Ali stood beside the large murky lake in the underground forest cavern, trying to drown a Kobold while Malika looked on, occasionally offering her opinion. Initially, Ali had been excited about Eliyen’s request and the opportunity to make a difference. She would explore a new dungeon and unlock the secrets of mana-purified water, helping her friends overcome the debilitating effects of the Death Wight’s life drain and at the same time make important potions much more widely available.
+
+However, learning that she would have to tackle the dungeon by herself, and then trying – and failing – to answer some of Malika’s very practical questions about how she intended to approach the job had drastically eroded her confidence.
+
+Volle’s Dungeon – as it was known – was apparently an aquatic dungeon. A series of caves, mostly submerged in water, infested with slime and ooze monsters. Eliyen had secured a crude hand-drawn map of the dungeon itself, which supposedly cost a hefty fifty silver if purchased in Volle. It seemed that the entire town’s economy had been structured around extracting the most money from the dungeon in every way possible – and gouging visitors on simple amenities and information was obviously fair game.
+
+It’s like the worst kind of tourist town. Only the ‘attraction’ is a dungeon.
+
+It hadn’t really dawned on Ali that her monsters would need to breathe underwater until Malika had pointed at the three Underwater Breathing potions Eliyen had provided and asked her how she planned on fighting. Which brought her ultimately to the shore of her lake and her quest to drown her Kobolds.
+
+“Six minutes,” Calen said, somehow able to gauge time nearly exactly.
+
+Ali retrieved the distressed Kobold from the water before it actually died. Six minutes seemed quite impressive for the bedraggled and drenched Kobold, and Ali was quite certain that with her lower vitality, she wouldn’t have lasted even half that long. But six minutes was woefully inadequate for traversing an underwater series of caverns with potential monster fights along the way.
+
+“Thank you,” she told the Kobold. Even though the summoned creature would have clearly followed her request to the death, the discomfort and sense of drowning she felt through her connection with the monster made her feel terrible about her tests.
+
+“I’m sorry, Ancient Mistress. This one is not strong enough.” The Kobold turned away, coughing up dirty water before looking down at his feet dejectedly. What made her feel infinitely worse about the drownings was the way the Kobold seemed depressed that she wouldn’t let him actually die to satisfy her request – as if he hadn’t been able to try hard enough and was letting her down.
+
+“What else you got?” Malika asked.
+
+“The only other minions I have are slimes,” Ali answered, wondering if there was some way she could find some underwater monsters to learn on short notice. Of all her potential minions, the sleek and powerful Poison Wyverns had lasted the longest, but ten minutes underwater was still woefully inadequate for this mission. And Malika had pointed out that their primary breath attack – poison spray – would probably be significantly less effective underwater too.
+
+Ali pursed her lips and quickly paged through her Grimoire finding the imprint for her oozes. She had only two options, and she was certain the Toxic Slime was way too low level for this job, regardless of whether it could survive underwater or not. She gathered her mana and chose the variant for the Luminous Slime and began to summon her next victim.
+
+There was a soft popping noise as the monster appeared, followed by a wet splat as it hit the mossy ground, its roundish body wobbling as it glowed. Slimes were nasty and gross monsters, amorphous blobs of moist or damp jelly-like substances that could self-animate in ways that sometimes made her stomach lurch. But compared to the Toxic Slimes, this Luminous Slime was much more to Ali’s taste. She wouldn’t go as far as calling it beautiful, but the light its semi-transparent body gave off was gentle and soothing. Seen from a distance, maybe with a substantial squint, it looked like a pleasant, happy glowing yellow squishy ball a little larger than herself.
+
+Ali sent her will to the creature, taking care to keep her instructions clear and simple. Slimes, she had found, were her least intelligent minions, and seemed unable to follow anything but the simplest of directions. But they did seem useful in their own way. While she had had to monitor them closely during the twin Wight battle, they had proved to be remarkably resilient, and entirely immune to being pinned down and trapped by the bone prisons.
+
+She visualized it entering the water and sitting at the bottom, and the creature responded immediately, stretching various pseudopod ‘legs’ in seemingly random directions to help propel, drag, slither, or pour itself across the ground and along the bottom of the water in the bizarre whole-body locomotion unique to slime monsters.
+
+Oozed, she decided. It was the descriptive word for the way the slime was moving that seemed most appropriate. It oozed its way across the ground.
+
+Ali watched as it simply sat there lighting up the murky lake from within. She felt no distress coming through her connection to the creature. Occasionally, she sent minor adjustments just to check if it was still able to respond.
+
+“I think we have a winner,” Malika observed.
+
+“I don’t think it needs to breathe at all,” Ali agreed. Indeed, even the way it had oozed along the lake floor had seemed indistinguishable from its movement above water – as if the monster was entirely indifferent to the environment in which it found itself. Ali sent it a command, and it released its incandescent spray of light motes. The entire lake shone with the intensity of the attack, but through the depth of murky water, it failed to blind Ali.
+
+“Slimes are generally blind, aren’t they?” Calen asked, looking up from his seat where he was studying his notes.
+
+“I think so,” Ali answered. Her slimes had never seemed bothered by the intense spray of lights they could emit, so it was plausible they were perceiving the world in an entirely different way.
+
+“Perhaps don’t rely on that attack, then,” he finished. “It might not work if everything you’re fighting is another slime.”
+
+“So, I have only one minion, and I can’t use its primary attack.” This entire operation was looking less and less feasible the more she thought about it. “I wish I could bring my Kobolds.” She had certainly gotten used to her versatile minions and having an answer for every occasion right there in her Grimoire was something she had begun to take for granted. Now, when she couldn’t bring them, she suddenly realized how much of her power was directly related to having a good selection of minions.
+
+“Why don’t you bring some?” Calen asked. For some reason, he seemed to be fidgeting more than usual, as if he were trying to suppress a nervous energy, but she simply chalked it up to him being shy about sharing his ideas.
+
+“They can’t breathe underwater.” She couldn’t figure out what he was getting at. He was exceptionally smart, but the problem was really obvious, and he seemed to be ignoring it.
+
+“You can’t breathe underwater either,” he said, and suddenly Ali understood what he was getting at. “Let’s go talk to Morwynne Fizzlebang at the potion store. Maybe she has a few more underwater breathing potions you can buy. They will probably work on Kobolds or Goblins if you tell them to drink it.”
+
+“Oh… that’s smart.” Ali hadn’t considered the obvious solution, but it made sense. Her humanoid monsters were smart enough to use potions. It would be prohibitively expensive for sure, but for the added safety of bringing an Acolyte of Azryet to heal her, or a Storm Shaman, she was certainly willing to make the sacrifice. It would make an enormous difference. However, I should test firing Lightning Bolts underwater.
+
+“You’re also ignoring one of your biggest advantages,” he continued, still fidgeting with the pages of his notebook. “Your Grimoire. You’ll be fighting in a dungeon with monsters that are adapted to the local conditions. As long as you can kill some monsters, you can learn them, and then you should have access to minions that can survive and fight underwater.”
+
+Oh, now there’s a great idea! Strategy is like learning your first runes, then you just link them together in ways that work… she smiled as new ideas began to simmer in her mind.
+
+Malika patted Calen’s head. “See how happy you made her? Good boy!”
+
+He screwed up his face into a hilarious grimace. “Really?”
+
+***
+
+Ali sat on a patch of springy moss, paging through her books, looking for any small inspiration she might have missed that could help her with her upcoming quest. The delicious-smelling aroma of Mato’s cooking, a richly spiced tamarind stew, filled the Grove once more. Idly, she found herself wondering where he sourced all his ingredients. Never a slouch in cooking to start with, he was really starting to experiment these days and the results made her nose tingle and her mouth water. Come on, Ali, focus. Spice pods won’t slay monsters.
+
+She glanced up when she felt Calen approaching.
+
+“Um…” he began, shifting a little awkwardly.
+
+He’s blushing? There was a flush of red coloring the normally pale skin of his face.
+
+“Ali… I… I didn’t really get a chance to say thank you for saving me. When I fell,” he said, stumbling over his words.
+
+Wow, he’s really nervous, she thought. So cute. She smiled up at him in a way that would hopefully reassure his anxiety and said, “You’re welcome. I know you would have done the same for me.” She still remembered the horror and dread as she had watched him topple from the inner ring of the ruined city. She couldn’t imagine what life might be like right now if her desperate plummet to save him had failed.
+
+“I got you something,” he said, the words almost tripping over each other as he blurted them out.
+
+Oh? She watched curiously as he pulled out an enchanted leather bag she hadn’t seen before and set it on the ground a generous distance away from where she sat before pulsing a little of his mana into it the same way she used her ring’s storage enchantment. Suddenly, there were three enormous objects, covered with soil and dirt, and from her vantage point looking up at them, she couldn’t immediately tell what they were.
+
+“I hope they’re ok,” he said, none of his awkwardness having eased. In fact, he seemed even more worried, if that was possible.
+
+Wracked with curiosity now, she summoned her barrier disk and levitated into the air above the giant structures until she could get a clearer view.
+
+Cherry trees! Lying sideways on the ground, she had been looking directly at the dirt and roots of the uprooted trees, but from the air, they were clearly cherry trees filled with beautiful pink blossoms.
+
+She flew over to Calen and hugged him. “I love them! Thank you.” She could feel his blush intensifying, so she let him go and instead deconstructed the three trees he had brought.
+
+Variant: Cherry Tree added to Imprint: Tree.
+
+Immediately, she created one off to the side, next to the lake, surreptitiously noting that Calen was now smiling happily. The tree she created was smaller than the oaks or maples she was used to planting, but it was still tall and filled with beautiful deep pink blossoms.
+
+“That is stunning,” Malika said admiring the tree.
+
+It’s beautiful, Ali thought, thoroughly enjoying the unexpected and thoughtful gift.
+
+“Good job!” Mato said, slapping Calen on the back and making him stagger. “It only took almost dying to get you to buy a girl flowers.”
+
+The poor Half-elf turned every color of the sunset as Mato and Malika hooted in tandem.
+
+“Hey! It was a very thoughtful gift!” Ali protested, picking up a clump of moss and throwing it at Mato, hitting him on the chest.
+
+Everyone started laughing, even Calen joined in as Mato’s joke seemed to finally dissolve his anxiety and nervousness.

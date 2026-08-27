@@ -1,0 +1,293 @@
+---
+id: 411b03ea-1535-51de-a335-20776e32d582
+page-type-slug: story-chapter-royal-road
+title: "Chapter 115: Realization"
+slug: 0116-chapter-115-realization
+partOf: dungeon-of-knowledge-complete
+position: 116
+ownLength: 5204
+unit: words
+ownProgress: 5204
+publishedAt: 2024-08-19
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1765256/chapter-115-realization"
+royalRoadId: "1765256"
+markedReadAt: "2026-06-29T20:14:56.400Z"
+---
+
+Shattered ice and blizzard's roar,Will mark the end of this fierce war,For in my hand, the winter’s key,Unlocks the path to victory.- Mok’freja. Troll Ice Mage, Ambassador of Telim Gor.
+
+Ali flew down the sewer tunnels, following the twisting path without paying much conscious attention, her mind filled with runes and the intricate structure of teleportation magic. She had a few exciting ideas while she was in the baths, and she couldn’t wait to try them out as soon as she returned to the Grove.
+
+She very nearly zoomed around the corner when a scream of pain and the sudden icy bite of frost in the air pulled her up short.
+
+What the…
+
+Several heavy thumps echoed through the dimly lit sewer tunnels up ahead, followed by the screams and shouts of people in real pain. That’s not normal. Frost began creeping up the crumbling brick walls right before her eyes. Ali crept closer to the entrance of the next cross tunnel, cautious now, making out several voices and the sounds of heavy boots on damp brick.
+
+A sudden clear shouted voice rang out through the tunnel, “Tell him, otherwise he will kill you!”
+
+Was that Aiden?
+
+“Miss Aliandra is friend. Havok not betray. If Havok tell, then he kill Havok and Miss Aliandra.” The Goblin Adventurer’s voice rang out, clear and recognizable, stunning Ali into stillness for a moment.
+
+What’s going on here?
+
+Ali carefully poked her head around the corner, but the sight that greeted her made her blood run cold – and not because of the frost gripping the walls. All the novice adventurers writhed in pain, pinned to the ground or the walls by pristine white spikes of conjured ice, leaving their blood pooling on the moss.
+
+Thugs wearing the Town Watch colors marched toward them from the far side. But Ali’s eyes were drawn to the broad-shouldered man dominating the center of the tunnel. He stood with his back to her amid the blood and ice, a fine white robe gracing his back, radiating an intense mana that fueled the frost on the walls.
+
+Mage – Human – level ?? (Ice)
+
+She recognized him from the Goblin siege, but it was the pitiful figure of Havok pinned to the wall by several large ice lances that gripped her heart and made it impossible to breathe. There was so much blood on the wall.
+
+“…but why are you messing with that green scum, this one on the ground is the mayor’s son.”
+
+The voice sounded harshly indifferent to the suffering all around.
+
+“Ok. Last chance, Goblin. How do I find Aliandra and her dungeon? Tell me or die.” The mage’s voice was loaded with spite and contempt as complex formations of ice mana surged within his broad frame.
+
+Is he looking for me? Wait… dungeon? What is he…
+
+“No.” The Goblin’s body was already pierced with ice, pinned to the wall, and drenched in his own blood. He could barely even twitch, but his face remained defiant, and his voice clear.
+
+Havok! Ali was stunned to hear the defiant Goblin’s final resistance. What are you doing? He’s going to kill you!
+
+“Fine,” the white mage snarled. Within him, the formations twisted, rapidly reaching a crescendo.
+
+“Havok! No!” Ali screamed. Without thought, her mana flowed. In an instant, she summoned the strongest barrier she could muster, drawing heavily from the power of her domain to reinforce it. The dense golden wall of arcane magic snapped into existence right in front of Havok’s face as he hung helpless on the wall, staring down the wrath of the ice mage.
+
+There were several loud cracks as lances of ice shot out, striking her barrier. The construct shattered, an explosion of golden shards and splinters of ice filling the tunnel with deadly shards and shrapnel that ricocheted from the walls and the mage’s Ice Shield, drawing blood from anyone it touched.
+
+Shouts of alarm echoed wildly through the tunnel.
+
+“Fuck!”
+
+“Roderik, that’s her!”
+
+“Get her!”
+
+“Kill the dungeon!”
+
+Every eye turned to see her standing there; a discordant mix of hope for salvation clashing against naked greed and rampant bloodlust.
+
+“You’re mine!” Roderik yelled, vanishing in a flash of complex mana, and appearing right beside Ali, his grasping hand shooting out toward her neck.
+
+Ali screamed. Cold billowed from the menacing ice mage, claws of frost bit through her cotton clothing. She snapped a wall of golden magic between them, blocking off the entire sewer channel. His hand cracked against the barrier, and he spat out a harsh curse, but Ali’s mind had already found a Toxic Slime at the far end of her range.
+
+Her mana pulsed, and her surroundings flickered as Minion Teleport whisked her away. She instantly summoned a disk and took off down the tunnel as fast as she could. A tinkling crash and shattering ice echoed from down the tunnel she had hastily vacated. Roderik’s curse cut off mid-cry – somehow, the silence was far more chilling than anything that preceded it. He’s coming… hunting… why?
+
+She threw up a tunnel-blocking barrier, but ice magic teleportation formations surged and Roderik appeared right beside her, ignoring her blockade. Frantically, Ali scoured the area, finding another slime and switching locations in the nick of time, just as several Ice Lances shot out toward her.
+
+They’re… trying to kill me? Her heart hammered deafeningly in her ears. Breathlessly, she summoned a new barrier and raced down the dimly lit sewer tunnel while her mind struggled to grasp what had just happened. Her friends had just been assaulted by the Town Watch, and she was being hunted by a murderous ice mage. She had been living under a bounty for a while now and had even been shot at by an assassin with a crossbow, but nothing had prepared her for the murderous rage of this Ice Mage. It had all happened so fast; she didn’t even know if Havok had survived.
+
+Why do they think I’m a dungeon?
+
+She was still running on adrenaline-fueled panic, but her senses were already searching for another teleport target while she flew, hanging, white-knuckled, onto the edge of her barrier magic.
+
+I need to tell them. It’s a mistake, I’m not a dungeon. But instinctively she knew he was not going to stop to listen to her explanation.
+
+She threw up another barrier between herself and the suddenly arriving rush of Roderik’s ice magic spell before she found her next target – a Goblin one tunnel over. She teleported sideways, switching tunnels, and then shot down into the hole leading to her forest. She had the presence of mind to remove her golden barrier staircase, leaving another barrier blocking the passage downward.
+
+I need my minions! Being attacked out of nowhere was one thing, but she had left most of her Kobolds behind at the camp so that she could travel unmolested through the town – a horrible blunder that was only now becoming apparent – and now she was stranded and vulnerable. That was so stupid. You knew about the bounty! she berated herself. And why had she split up with Malika? They had been so diligent about staying together for protection. Roderik was too high-level for her to deal with on her own; even the four of them could scarcely hope to stop him, could they?
+
+She made a beeline toward the Grove and the tall landmark of her shrine, flying as fast as she could. If she could get to them, she would stand a good chance of fighting him off. She had left several Acolytes and Fire Mages, and they had served her admirably through all the terrifying bosses they had fought.
+
+Roderik appeared high above the trees in a flash of mana and a burst of ice crystals, crowing in delight. “I found your dungeon!”
+
+“It’s not a dungeon!” she yelled, but he paid no heed to her words. Instead, Ali dove left and swooped down among the trees in response to a surge of mana seen in her mana sight. A series of rapid-fire ice lances shot by, slicing through the trees, barely missing her as she swerved to avoid trunks and branches.
+
+The only minion in range was a Stinging Jelly floating in the lake, but she took it, desperate to gain some distance from the power-crazed lunatic chasing her. She held her breath and switched, forcing herself not to gasp at the sudden shock of cold water, and summoned a new barrier, flying herself up out of the lake in a shower of glowing, mana-purified water. The ice lances punched through the surface of the lake right behind her, freezing large chunks of it into bobbing icebergs.
+
+“I’m going to kill you, little Fae,” he yelled in a sing-song voice as if he were chanting a children’s rhyme, sending another chill racing down Ali’s spine. He’s mad. The mage’s mana flared high above her, and Ali summoned a second barrier to protect herself from the high-speed lances of ice. She dodged, but her barrier shattered, spraying sharp fragments of ice in all directions. She gasped in pain as several sliced through her leg, leaving the chill of frost creeping through her flesh as if his mana were trying to consume her.
+
+“Why are you doing this?” she shouted in desperate confusion, gripping the edge of her barrier in white-knuckled pain. It had to be some mistake.
+
+“I’m going to collect the king’s reward for killing your dungeon,” he answered gleefully and teleported suddenly closer.
+
+Ali threw up a blocking barrier and teleported again as soon as she found another minion. The level-one Scavenger screeched as it suddenly found itself flailing in the air above the trees. She regretted not filling the cavern with more of her minions – without one in range she was vulnerable to being stranded and at the mercy of his lances.
+
+“But I’m not a dungeon!” she yelled. Clearly, he was delusional, she was an adventurer at the guild, and as soon as she made him understand that, he would stop this crazy assault.
+
+“You can’t fool me. Anyone can see this is a dungeon. And everyone knows this is yours.”
+
+What?
+
+“And nobody cares what happens to a dungeon,” he continued. “I can finally go all out. I’m going to squash you like a bug.” He punctuated his words with flourishes of his hand and the thwip, thwip, thwip of razor-sharp bolts of ice.
+
+Ali’s heart thumped wildly, but she was finally drawing close to the shrine. One last teleport, swapping places with a Moss Creeper, and she felt how close her Kobolds were through Martial Insight. She sensed them all lighting up as the magic of Empowered Summoner reached them and her intelligence attribute spiked from proximity to her targeted mage.
+
+“Shoot him,” she commanded, her voice breathless and hoarse from the frantic chase. Profound relief filled her as she swept past her alert Kobolds, drawing to a halt behind the grinning Fire Mages and their already glowing magic. Her vulnerability vanished; now she could fight! Her slimes would probably not be particularly useful against a flying mage, but her Fire Mages were more than sufficient.
+
+The soft gentle pulse of holy magic settled on her, healing the cuts in her legs, and pushing back the chill of ice. Her skin suddenly warmed as balls of conjured flame bathed her in their comforting heat, and the familiar stench of brimstone.
+
+Roderik flew out of the forest at the perfect moment. All four of her mages unleashed their Fireball spells simultaneously, while Ali lofted her Arcane Bolts out over her protective barrier in three glowing streams. Four intense balls of fire flew up into the air with sizzling intensity, making Roderik scramble to a halt in midair, his eyes growing wide in surprise. The simultaneous detonation rocked the Grove with a satisfyingly powerful shockwave of flame and heat.
+
+“Again,” she called out, not wanting to leave anything to chance. Gobs of sizzling flame rained down onto the Grove, but she could repair that later. Four Fireballs were a lot, but the mage had been terrifyingly strong. And her Arcane Bolts were still finding a target within the giant ball of fire and smoke.
+
+A surge of ice mana flared within the conflagration and suddenly there was a massive blast of icy power, instantly snuffing out every last trace of fire and blanketing the Grove in a sudden flash-frost. Ali’s barrier blocked most of the ice, but her Kobolds’ legs and arms were covered, pinning them to frozen moss.
+
+“Fucking pathetic! You face me, Roderik Icecrown, with level twenty Kobolds?” The mage hovered in the air, his robes still pristine white, surrounded by a dense barrier of glittering ice. Gone was any trace of his prior amusement and excitement, replaced by a red-faced rage.
+
+“You adventurers know nothing about fighting. You face stupid monsters and count your levels and think you’re strong. That all means nothing when you fight a person. I have beaten over a thousand people – you stand no chance against me. Allow me to show you just how outclassed you are.”
+
+Deep inside Roderik’s body, an intense kernel of white mana appeared. The temperature dropped instantly, and the Grove filled with flurries of ice crystals. Ali heard only a soft swish and a sudden wet thump, and her eyes widened in horror at the sight of three lances of ice sprouting from the chests of each of her Acolytes. Her mages let loose their Fireballs, wreathing him in a second powerful explosion of fire, but the ice lances kept coming, piercing Kobold after Kobold until Ali stood alone among her impaled army of dead minions.
+
+She fled. In the face of such immense power, she stood no chance. She teleported to a nearby ooze and then shot off through the forest, gripping the edge of her barrier for dear life as she desperately tried to put as many trees as possible between her and the furious mage bent on her destruction.
+
+“That’s more like it,” he crowed, laughing as he gave chase. “Run, little Fae. Run for your life.”
+
+She swerved side to side as the forest filled with the deadly hail of ice bolts stripping leaves and branches from the trees and thudding into the ground. She flinched as one clipped her cheek, but miraculously she avoided serious injury. A familiar surge of mana flared to her right, and he appeared amid a sudden blast of glacial air and mana that caused several trees to freeze and shatter. Frozen splinters of wood and ice tore into her before she could block all of them with her hastily created barrier.
+
+She teleported away, again, leaking amber blood onto her now slick barrier. Ali had given up on trying to reason with him – it was beyond hope. All she could do was escape. Ahead of her was the small cave with the ventilation shaft that led down into the ruins below. She had to lose him somehow, but her mind despaired of finding a way.
+
+I’m too weak. He’s too fast. She had been so certain she was safe with her minions, but he had wiped them out in the blink of an eye. Even flying as fast as she could, and using Minion Teleport whenever she was able, he was always there, stuck to her like glue. Another lance of ice brushed past her ear, zipping off through the trees ahead of her, close enough that she felt the chill across the side of her head. She threw up a barrier and weaved around another tree.
+
+There was an enormous crack as more ice slammed into the trunk of the tree, freezing and shattering it from the force. Ali teleported, barely avoiding the falling oak as she arrived in the open space in sight of the cave that was her dubious glimmer of hope.
+
+There it is!
+
+Suddenly, Roderik appeared several meters ahead of her, teleporting over twice the usual distance, arriving in a powerful nova of ice that flash-froze the entire clearing. Ali tumbled off her barrier, slamming into the icy ground at an awkward angle. Her ankle snapped with the loud crack of bone shattering and her mind blanked at the shock of excruciating pain. She tumbled, head over heels, crashing her shoulder into a block of ice and landing on her back near his feet. The power radiating from his body grew dramatically colder, and ice grew from the ground, encasing her ankles and legs in a thick layer of rime, forcing her to remain kneeling before him as he slowly approached.
+
+“Got you,” he gloated. “Did you think you were going to escape in there?”
+
+I’m going to die. Her body trembled from adrenaline, pain, the freezing cold, and the terrifying dread of the approaching mage.
+
+“You know,” he said, conversationally, rage suddenly gone. “When two mages fight, the one with the better teleport wins. Yours has a ten-second recharge, and you need a monster to switch with. There’s nothing nearby, what are you going to do now that you’re stranded?” His casual attitude was even more terrifying than his earlier rage.
+
+He can kill me whenever he wants. It was only now, after he had demonstrated the full extent of his teleportation skill, that Ali finally understood he had been toying with her the entire chase. She shivered in fear, waiting for him to summon his magic.
+
+Why are you so afraid of him?
+
+The voice echoed in her mind. It was her own voice, but strange and unfamiliar. There was an incongruous certainty and force of will to it that clashed with her trembling heart. But right then, her mind latched onto the image of herself facing the Death Knight, and then the Blind Lich himself. She had faced real fear, why was she terrified of an egotistical man with his ice lances? She remembered facing the Sewer Rat, and, as if a door within her mind was suddenly flung open, letting it out, her mind filled with the same defiant rage, banishing her fear instantly. Perhaps she would die, but she would not go cowering.
+
+She looked up, staring at Roderik, meeting his gaze for the first time.
+
+Instantly, his face twisted into an angry scowl. “You dare bare your fangs at me? Let me teach you your place!” His mana flared, no longer content to take his time taunting her.
+
+Using every sliver of her focus and concentration, she flung open her spell list and chose.
+
+No free skill slots available, choose a skill to replace.
+
+With frantic speed born of desperation, she scrambled through her class skills, picking the only choice she could.
+
+Arcane Bolt will be replaced with Arcane Recall, all skill levels will be lost.
+
+Yes! she screamed at the golden text unfolding on the parchment in her mind. She was painfully aware she was an instant away from death, but she would not go quietly without a fight. Not to a bully like him. She didn’t even know if her crazy idea would work, but it wouldn’t matter if she couldn’t make the switch before he completed his Ice Lance.
+
+You have lost the class skill Arcane Bolt.
+
+Something deep inside her ripped away, leaving a gaping hole where her skill had once been. All the levels earned and advancement torn away to the sound of a chime.
+
+You have gained the class skill Arcane RecallArcane Recall – level 1You are proficient with Arcane magic. You gain +5% [skill x 5] to spell power, spell haste, mana control, and mental reaction speed with Arcane magic.Mana: Ignore the recharge for any Magic skill, spell, or triggered ability. Your magic is cast instantly. Recharge: 24 hours.Arcane, Metamagic, Mastery, Intelligence
+
+Ice Lance hung within Roderik’s frame, a glittering formation of power and elegance. Mana surged toward it as his skill finalized the spell. With frenzied urgency, Ali slammed mana into her new untried, untested skill.
+
+The entire world halted.
+
+Ali blinked – or at least she tried to, finding herself unable to move, or even breathe. Over Roderik’s left shoulder, a nature wisp hung suspended, frozen mid-zig, no longer green but gray. Roderik also seemed frozen, his face a twisted sneer, and his mana halted just shy of filling his formation.
+
+This is… To her intense surprise, she recognized this place. Everything – the trees, the ice, the moss, and the mage in front of her – had frozen in place in a familiar world of gray.
+
+I wish this moment could last forever. Her mother’s last words echoed in her memory.
+
+Mom? The force of raw grief slammed into her anew as her mind was instantly transported back to her mother’s final sacrifice, and the magic she had wielded to save Ali’s life.
+
+A unique magic that Ali had just wielded herself.
+
+The gray surroundings flickered then, and Roderik appeared several meters back, as he had been moments before he had knocked Ali from her barrier. The world flickered back to now, and she could clearly see the mana of his ice lance had completed, with the beginnings of the lance appearing before his hand.
+
+With a supreme effort of will, she forced her mind back to the present, putting her grief away for later. If there would be a later.
+
+Time stopped? She didn’t know how to use this strange magic, and she had only a single chance in which to get it right.
+
+The gray, color-leached world flickered again showing her a scene she had witnessed the first time around. The starry sky was clear above, and the forest renewed, and moments later the mountain exploded sending uncountable tons of rock down on top of her.
+
+That was then…
+
+She would have flinched if the spell allowed her to move or look away, but mercifully the world flickered back to the present moment before the avalanche hit.
+
+Is it waiting for something? Anticipation prickled along her skin while time was held in abeyance. Ali read the description of the skill once again, racking her brain for some clues for how to use this magic.
+
+She suddenly noticed the slow, persistent trickle of mana being drained by her Sage of Learning. Is Sage still working? It was then that it clicked. Arcane Insight was working too – her passive magic and her mind were unaffected by the frozen time in this realm, unlike her body.
+
+It’s waiting for me to cast something, she realized. With infinite care, she mentally summoned her Grimoire. The sudden appearance of her magical tome was shockingly bright and colorful against the contrast of a static world cast in gray. It works. She willed the pages to turn to the imprint she had hoped to use with this magic. Her expectations of how the spell would work were so far from the actual experience that she had momentarily forgotten her plan. But her Grimoire obediently paged to the Elemental imprint, stopping on the variant she required.
+
+Her mana flowed into her imprint causing a riot of brilliant color and magic as she summoned the largest, heaviest, and highest-level monster she had: the Forest Guardian. Still held in stasis, she nonetheless kept a worried eye on Roderik and the powerful magic that would be unleashed the instant she was freed from this bizarre world.
+
+But it held, patiently holding the entire world back as her magic flowed; intricate runes swirling to form the giant monster of wood and bark. Minutes passed and as her magic neared completion, she prepared herself, bracing herself for what must come next.
+
+It all happened in an instant. Her Forest Guardian appeared between her and Roderik, and the bizarre color-leached world of her mother’s magic vanished in an instant.
+
+“Charge!” she screamed at her Guardian, while simultaneously wielding her barrier magic. Weaving her skill and her domain, she wrought several wickedly sharp golden spikes, fixed in place. Ice mana flashed brilliantly as Roderik’s Ice Lance pierced through the chest of her massive Guardian. But that was not enough to stop it. It roared in pain and anger and blurred with sudden speed as its Rush skill launched it forward.
+
+The Rush lasted only two steps, but Ali’s bones shook from the raw force of several tons of high-speed wood and ferocity.
+
+A musical, glassy tinkle sounded as his shield of ice shattered, followed by a disgusting, wet crunch and a gurgling sound. Ali’s notification chime sounded as her Guardian backed up, leaving the grotesque sight of Roderik hanging impaled on her barrier shards with a look of utter surprise frozen on his dead face.
+
+You have defeated Ice Mage – Human – level 62 (Ice)
+
+Ali bent over and threw up.
+
+I killed him.
+
+A person.
+
+It didn’t matter that he had been intent on murdering her. She felt sick to the core of her being.
+
+She knelt there dry heaving for a while, but the persistent regeneration aura from her Forest Guardian slowly began to make her feel better. She snapped out of it when the aura finally finished repairing her ankle and her bones twisted back into place, painfully shattering the ice that encased her legs.
+
+As her awareness expanded, distant shouts and muffled explosions of magic made themselves heard.
+
+I need to go.
+
+She had defeated Roderik, but it had been by the skin of her teeth, and now she no longer had her Arcane Recall, nor her Arcane Bolt skill to help her out. Aside from the Forest Guardian, she had no minions left to protect her – the stinging snaps of her mana reservations releasing had died down to nothing. Already, there were plumes of smoke and fire and she could feel her domain burning.
+
+Ali hauled herself to her feet, earning new scrapes and cuts from the sharp ice which her Guardian healed, and forced herself to approach the mangled corpse. She choked down the bile rising in her throat. It was one thing to deconstruct a strung-up Sewer Rat, but this had been a person. Before she threw up again, she deconstructed him, dismissing the barrier shards holding him suspended in the air. Then she stored his gear in her ring so that hopefully nobody would realize what she had done.
+
+“Don’t let anyone pass,” she instructed her Guardian, stepping onto her barrier, flying into the small cave, and entering the ventilation shaft.
+
+She fed the mana she had just earned from Roderik’s corpse into Domain Mastery, making Aether-Fused Obsidian flow from her Grimoire as she filled twenty meters of the shaft behind her with solid rock. Then she fled, flying in a dazed desperate shock through the countless ruined buildings of Dal’mohra to the library itself.
+
+Her mind raced, while her emotions churned in turmoil. She had survived, but only by killing a person. There was a horde of angry people destroying her domain up above. She desperately hoped that Aiden and Havok, and the rest of the novices, were alive, but she had no way to tell.
+
+But it was Roderik’s confident insistence that she was a dungeon that sent true threads of icy dread stabbing deep into her heart. For some reason, she couldn’t shake the horrid premonition of disaster that lurked deep in the back of her mind. As she finally collapsed onto the stone floor of the library, she retrieved the terrifying book she had been avoiding for too long.
+
+Dungeons and Domains: A Complete Reference. Nevyn Eld.
+
+The mere sight of the Lich’s seminal work filled her with horror and fear, but she had to know the truth. She had to clear the sense of impending doom that filled her heart.
+
+Paging quickly through the chapters, she came at last to the piece she needed near the end of the book.
+
+“What then is a dungeon? As we have seen, domain classes come in many shapes and forms. What specifically sets a dungeon apart from the rest? A dungeon simply consists of three things:
+
+1) A domain that is attached to a place.
+
+2) A domain that can be grown by the creator, through the creation of domain-specific monsters or items that expand and maintain its structure or mana-lattice.
+
+3) A skill that allows dismantling creatures or items and allows the domain creator to use their domain magic to duplicate them.
+
+Returning to the examples we have seen so far…”
+
+A ghastly chill settled in her heart, dwarfing anything Roderik had caused. The book fell from her nerveless fingers, clattering to the ground as the realization slammed into her like a spike of ice through her heart.
+
+She had a domain. A magic that was tied to the land, just as the book claimed. She had even studied the bone and death domain of the Ruins of Dal’mohra, fascinated by the remarkable similarities to her own.
+
+Her plants expanded her domain, just as the bone piles and Deathcap mushrooms expanded the ruins dungeon, or Naia’s slimes expanded her smaller underwater domain.
+
+And her pride – the Grimoire of Summoning – allowed her to deconstruct and learn new plants and monsters, just like Nevyn Eld’s book explained.
+
+She was powerless to resist the clear and suddenly obvious truth that slammed into her heart with the force of a mountain collapsing on top of her. She could barely breathe.
+
+The signs had been there all along. Even Naia had accused her of being a dungeon, and, in her naivety, she had refused to believe it – certain instead that the mimic slime simply had a poor grasp of the language. The dungeon-rage she had triggered when her domain had encountered the death and bone domain. Even her newest discovery that her Moss Creepers, Floral Menaces, and Spore Spreaders could grow the plants for her domain matched the Spitter Drones of the Ruins of Dal’mohra, spreading bone throughout the dungeon’s space.
+
+Malika is going to hate me. Her friend’s parents – and indeed her entire life – had been destroyed by a dungeon. There was no way she would accept Ali after she found out. She could clearly see the expression of hate and anger on her face as she imagined meeting her friends and telling them the truth.
+
+Within her heart, a deep empty loneliness bloomed as her entire life collapsed in tatters around her.
+
+I’m the monster.
+
+She reached her hand out, grasping the tiny jasmine flowers wreathing the railing of the landing beside her. She had been blissfully unaware of the truth, going about her merry way, creating with her magic, believing she deserved friends, and that she could be an adventurer. But she was no summoner – she had unwittingly been creating the most terrifying of magics – a dungeon.
+
+I thought I was creating something beautiful. Doing something good. Maybe, one day, even dreaming of being strong enough to stand up to monsters like Nevyn Eld.
+
+She ripped the flowers from the plant, throwing them into the emptiness of the atrium in her despair as her mind fled to a dark place. Silent, insensate, she lay there – waiting for them to come for her.

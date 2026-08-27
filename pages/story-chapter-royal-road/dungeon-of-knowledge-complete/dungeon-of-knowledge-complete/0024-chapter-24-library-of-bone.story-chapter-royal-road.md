@@ -1,0 +1,267 @@
+---
+id: c1610c09-0e74-59ee-acea-94c9c6ffbe89
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24: Library of Bone"
+slug: 0024-chapter-24-library-of-bone
+partOf: dungeon-of-knowledge-complete
+position: 24
+ownLength: 5651
+unit: words
+ownProgress: 5651
+publishedAt: 2024-02-20
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1525546/chapter-24-library-of-bone"
+royalRoadId: "1525546"
+markedReadAt: "2026-06-29T20:11:47.396Z"
+---
+
+You have been afflicted with Domain Withdrawal.Separation from your domain weakens you.-10% to maximum health.Affliction – Duration: Indefinite. Count: 4
+
+Ali moaned quietly and sat up, realizing there was no way she was going to get any more sleep. Not that she had slept particularly well anyway.
+
+She stared at the golden text of the notification for a long while before swiping it away.
+
+Four…
+
+So far, she hadn’t needed to spend any more points on endurance to mitigate the pain, but it was a persistent, nagging ache in the background, and combined with her stressful environment, it was taking a great toll on her ability to rest and recover.
+
+After surviving the first battle against the Kobolds, Ali had expected she would find her way out of the ruined city within a day or two at most. It had been her home after all, and she had a good idea of how long it took to walk the city. However, it had been four days already. If it goes much longer, I won’t have any health left.
+
+“Done sleeping?” Mato asked quietly from the doorway where he was keeping watch.
+
+“Withdrawal again,” she answered. “I’m not going to be able to sleep anymore. Let’s go.” She ignored the clenching of hunger in her belly. They had used up the last of the food Mato had packed yesterday, and complaining would do nobody any good.
+
+If it wasn’t for the Kobolds and Skeletons…
+
+If it wasn’t for them, they could have just walked out. Instead, they had been forced to sneak around, keeping alert for patrols and traps at every turn. Regularly they had been forced to hide – sometimes for hours at a time – just to allow patrols of Kobolds that they couldn’t begin to face to pass them by.
+
+They emerged from their hiding spot – a building that Ali was convinced had once been a convenience store – into a street thankfully devoid of monsters. She scanned the skyline, trying to get a good view between the buildings, but all she could see was more stone and darkness.
+
+If only I could see the library from here…
+
+She stopped and examined the intersection ahead. I think… it’s that way. She had been directing them through the last residential district near the central hub of the city, trying to reach one of the enormous radial boulevards. Ali was certain that the main thoroughfare would prove the fastest access to the library, and their passage out of here. Unfortunately, every time they had to detour or hide, she would get turned around in the chaos and confusion – and the unremitting sameness of a city stripped bare of nearly everything except stone left her without all the familiar landmarks she might have used to get her bearings.
+
+“This way,” she whispered, with a certainty she hardly felt, glancing back at Mato.
+
+She gathered her own personal wolf pack around her, drawing a sense of security from the proximity of their enormous, shaggy bodies. Two Alpha wolves and three of the lower-level ones.
+
+At least this way, if another one of those black-scaled rogues crept up on her, they would have to get through her wolves first. With her racial penalty to vitality and Domain Withdrawal chopping another forty percent off her health, she felt precariously low.
+
+One or two hits would finish her. I probably wouldn’t even know what happened.
+
+Ali had invested every single attribute point in vitality, but beyond that, she was at a loss for how to improve her situation. I just need to get out of here. Was this Domain Class a good idea? How did dad manage?
+
+Health: 120/120 (-40% Domain Withdrawal)Stamina: 150/150Mana: 407/520 (113 Reserved)
+
+It did not look good. She had no armor, unlike Mato, and her health was pitifully low. Her only advantage was her large mana pool – allowing her the extravagance of reserving one hundred and thirteen mana for wolves to act as her defense while keeping enough mana available to cast her roots and barrier.
+
+It will have to be enough, she thought, following Mato and keeping her eyes on the dark skyline, searching in vain for a glimpse of the towering library. She would use the lower-level wolves as expendable defenses if they ran into anything dangerous.
+
+She sent one of her wolves ahead of her just in case they missed a tripwire, and she walked the twisting dark stone streets, avoiding obvious wires and any suspiciously uneven flagstones just in case they were traps. They spoke only in whispers, constantly vigilant for the ever-present wandering Kobold patrols. At least the streets seem to be getting wider, she noted, a good sign they were headed in the right direction.
+
+The sudden chirping of Kobolds up ahead sent Ali diving for a dark doorway. It was a sadly familiar routine by now, she automatically stepped over where the tripwire would be if there was one and directed her wolves with a thought. As they hid, waiting for the patrol to pass, Ali wondered why the Kobolds were so prolific with their traps. What even would set them off down here? Other than us? Is it an instinctual behavior? Even the slow trickle of her mana draining when the Kobolds were nearby was familiar and ignored.
+
+A sudden motion and a clicking noise froze her in place. Out of the corner of her eye, she saw a bone-white creature about the size of her fist crawling across the floor and, to her horror, up onto her leg. She wanted to scream, to kick it off, to run, but she clamped her hands over her mouth and stared wide-eyed at the horrific thing. It paused, looking around, the rounded white carapace pulsing slowly as it breathed. Its eight slender legs pricked at her skin as it began crawling once again.
+
+Suddenly Mato reached out his hand and grabbed the creature, tossing it off into the darkness, and Ali breathed a gasping breath.
+
+“The Kobolds are gone,” he whispered. “What is that thing? Is it made of bone?”
+
+Bone Skitterer – Elemental – level 1
+
+“Yes,” she breathed back.
+
+The creature’s legs made a rapid clicking noise on the stone as it scurried across the floor and up the wall. Ali slowly got her breathing back under control and watched the creepy, crab-like creature hiding in the corner of the room. Elemental? Made from bone? She knew she would have been fascinated by the creature, provided she had been able to study it from the other side of a sturdy glass window or something. But she shivered at the remembered sensation of it crawling over her skin.
+
+After Mato verified the patrol had moved on, they emerged from their hiding spot and slowly crept forward down the street. A few buildings later, another of the strange little bone creatures scurried out of sight around a corner, startling Ali again.
+
+Their progress was slow and painstaking. As the streets widened, the crab-like bone elementals became much more common. Always skittish, scurrying out of sight as soon as they approached.
+
+When she turned onto the next street, she drew up in surprise. The nearest house seemed just as nondescript as all the others, but the entire front of the building was encrusted with a thick gray substance that even covered the window holes and doorways. Ali walked up and examined it more closely. She poked at it with her finger, glancing over at Mato as he moved over to join her. Whatever it was, it was surprisingly hard and the clacking of her finger tapping it reminded her uncannily of the creepy bone elementals.
+
+“This looks like bone, too,” she whispered as Mato duplicated her tap-test with his finger. But it isn’t shaped like any bone I’ve ever seen. It looked like it had been sprayed onto the wall by some giant hose before it hardened in place.
+
+“This is really unnatural,” Mato commented with a frown.
+
+“I mistook it for spiderweb at first.” Very thick, dense cobwebs.
+
+“Me too.”
+
+Checking further down the street, she saw several other houses that had similar defacements on a wall or across a part of the roof. In one place it seemed like it even extended across half the street. The closer they got to the location she hoped was the main street, the more bone-encrusted substance they encountered – much of it infested with bone skitterers. She could even hear the distant scrabbling and clacking of their crawling legs.
+
+Mato suddenly pulled back from the corner and sucked in his breath. “Careful,” he whispered, putting a finger to his lips, and indicating that she should approach from the cover of the building. “Look.”
+
+Ali stared at the sight that unfolded before her. She stood at the end of the street, overlooking the main boulevard from the height of one of the taller terraces. In the far distance, the majestic tower of the Grand Library Arcana rose to an imposing height, its dark cylindrical bulk barely visible against the darkness. Gone was its glory, the gigantic, yet intricate workings of runic magic and enchantments that had lit it up for the whole city to see.
+
+Instead, hundreds of campfires burned around its base. And by the light of those campfires, Ali saw that the entire plaza was crawling with monsters. She bit back a gasp, hiding it behind a hand, even though it could not possibly have carried over the hubbub.
+
+The entire boulevard below her – one of the main radial thoroughfares for the city – was encrusted with the same mysterious bone-like substance. But the detail that caught her attention, that drew her gaze instantly, was the giant bone monstrosity plastered to the distant wall on the opposite side.
+
+The monster looked like a giant pill-bug, only it must have been over three meters long. Its broad carapace was made from curved segments that allowed it to twist and turn as it slowly crawled along the wall. Dozens of small legs were visible under the carapace, like the Bone Skitterers, except so many more. The legs worked in unison, creating sinuous waves to propel the huge bulk of the monster along the wall – improbably, magically glued in place despite its great bulk.
+
+Ali gaped at the spectacle, dumbfounded. When it reached a pile of bones, with a crunching noise that was loud even from her distant vantage point, it chewed them up whole and swallowed. A few seconds later, it reared up and sprayed a powerful jet of gray fluid that hardened on contact with the wall ahead of it.
+
+She used her Identify, but the monster was too far for her skill to work.
+
+“What is that?” she whispered.
+
+“I have no idea, but we definitely can’t go this way.”
+
+Numb all over, Ali barely noticed Mato catching her when her knees wobbled. She had been so certain the library was their way out that she hadn’t even considered what would happen if there were too many monsters. Her eyes were inexorably drawn once more to the fires and the horde of Kobolds and skeletons at the base of the library, and the piles and encrustation of bone that appeared to be everywhere. Now that she examined the scene more closely, she could see more of the giant bone creatures among the Kobolds in the distance.
+
+Her lips trembled as she stared at the devastation and ruin.
+
+“Is there another way out?” Mato asked quietly, distracting her from her rapidly mounting despair.
+
+“The … the other end of the boulevard,” she said, her voice cracking as she pointed away from the center. “The city’s main entrance is that way. I … just hope it’s still passable.” Ali grimaced at her memories of that path. She had avoided that way at first because it was the same way she had left the city with her mother. That way had led to the Death Knight and the arrogant horror that was Nevyn Eld.
+
+She had hoped to find the library intact.
+
+The only problem was that it was in exactly the opposite direction. And it took us four days to get this far.
+
+“What about this spot?” Calen asked. It was a brief break in the densely wooded, sprawling forest with a few yellowish weathered sandstone boulders the size of small houses, covered with lichen, and sprouting stunted bushes, providing a natural chokepoint.
+
+“This is perfect,” Malika said, picking one of the larger boulders to hide behind – a spot less than two paces from the narrow gap. “I’ll set up here.”
+
+Calen nodded, approving of her strategic choice, and stepped into the shadows, using his Eclipse skill to hide himself. He quickly headed out into the forest, the most recent Goblin tracks popping from the ground under the influence of his Explorer skill.
+
+They had both agreed, in principle, that finding out everything they could about the abnormal Goblin infestation and reporting back would prove critical to the safety of Myrin’s Keep. Unfortunately, Malika had no skills suitable for the task, so she would have to remain as his backup out of necessity.
+
+The plan was straightforward. He would scout as far as he could, and if necessary, he would lure any Goblins back to Malika where they would fight them together.
+
+He paused at the intersection of two trails, crouching down to examine the tracks. Several groups passed this way. There were footprints from the smaller, green-skinned Goblins, and pawprints of the wolves they sometimes used as mounts. What he didn’t see were the tracks of rabbits, deer, or even rats. Nothing other than Goblins.
+
+What sent chills down his spine was the enormous imprint of a Bugbear paw right in the center of the trail. According to the Monster Compendium, Bugbears would sometimes show up in the bigger Goblin warrens. They were typically six- to eight-foot-tall, giant feral Goblinoids with a reputation for cruelty and violence, even among their own kind.
+
+I definitely don’t want to run into one of those. It’d use my arrows for toothpicks.
+
+His feet tracked lightly across the edge of the trail as he ran onward, quiet even to his own ears. All he could hear was the wind through the trees and his own breathing. Not even the calls of birds disturbed the silence. Guess the Goblins ate everything. Calen had spent a lot of his youth exploring the woods around Myrin’s Keep, so the complete absence of any other wildlife stood out to him as a glaring signal that the Goblin warren would be close, probably a big one at that.
+
+He hopped across a small stream, using a couple of exposed rocks as stepping stones, and landed lightly on a game trail on the other side. He checked his landing spot reflexively, choosing areas of hard-packed dirt for his footfalls to conceal the evidence of his passing. Crouching down behind a fallen tree, he peered out into a clearing. Up ahead, five of the small, green-skinned Goblins had made a fire and were arguing over something sizzling on the spit. Where they had found something to cook, Calen had no idea. He crept closer, making sure to check that none of them were high enough level to see through his stealth. Settling into the shadow of a large oak, he observed the camp and the altercation. None of the Goblins spoke Common, but there were numerous gesticulations towards the south. Is that where their warren is?
+
+Having nothing better to go on, he left the group to their arguing over the dubious hunk of meat and headed in that direction.
+
+A few minutes later, Calen caught the muffled sound of voices up ahead. Instantly, he hopped off the trail he had been following, concealing himself amongst the trees and bushes, and waited. Presently, a patrol of Goblins came into view. Perhaps better to call them foragers. Or scavengers.
+
+Scavenger – Goblin – level 1-2 x3.Rogue – Goblin – level 5.Timber Wolf – level 4-6 x2.
+
+The scavengers were everything an average person would imagine if someone mentioned the word ‘Goblin’. They were dirty, green, and dressed in rags. Yellowed crooked teeth were bared as they called and yelled at each other, and Calen was grateful for the distance between them, otherwise, he was certain he would be choking at the stench.
+
+The three-and-a-half-foot-tall rogue was a cut above the dregs, wearing worn but serviceable leather armor with a brace of daggers at his waist instead of the more typical rocks or sticks.
+
+The Timber Wolves were hulking beasts of black fur and uncannily bright green eyes, almost half again as large as the Starving Wolves in the cavern below the sewers back home. He decided on the spot not to tangle with them – at least, not in close combat.
+
+As he studied the group, trying to gauge their strength, another Goblin appeared, bringing up the rear.
+
+Hunter – Goblin – level 10.
+
+This one seemed larger than the others, but whether that was because he simply stood taller or was actually bigger, Calen couldn’t quite tell. He wore higher-quality leather armor than the rogue and wore a well-used longbow slung crosswise across his back. Just from the way he carried himself, Calen knew he was dangerous.
+
+He concentrated for a moment on his Explorer skill, getting a new set of chimes to confirm his suspicions.
+
+[Explorer]A Goblin with a higher-than-normal level and an uncommon class.Category: MonsterThreat Level: EliteMonster Type: GoblinoidDamage: Ranged, Physical
+
+An elite. Probably similar skills to mine.
+
+Calen calmed his breathing, observing their approach from the shadows of his hiding spot. He should be far enough from the path that he wouldn’t be discovered, but with a level ten elite, it would be imprudent to take unnecessary risks.
+
+As the Goblins drew closer their high-pitched, grating voices grew louder and Calen strained his ears to hear if they said anything useful. Unfortunately, again they seemed to not know Common, and the only thing he heard was the occasional barked command from the Hunter, which caused the other Goblins to scurry around or flinch.
+
+The patrol continued down the path, moving right past him. Suddenly, the breeze shifted and one of the wolves raised its muzzle, sniffing the air.
+
+Shit!
+
+Calen realized the wolf had caught his scent at the same instant the wolf did. With a howl, the great black Timber Wolf charged directly toward his hiding spot, and the entire patrol scrambled to follow. At the back of the group, the Hunter nocked an arrow to his bow.
+
+With his stealth ruined, Calen turned and fled, dodging bushes and vaulting rocks with the sound of his heart hammering loudly against his chest.
+
+Shit!
+
+Even with the speed bonus of his Blessing of the Dawn, the Timber Wolves were unbelievably quick, and very much at home in the forest. He sprinted as fast as he could, not bothering to even try and shoot back. Any second, he expected an arrow in the back. He leapt clean across the stream he had crossed earlier, heading for the clearing and Malika. He needed backup. Fast.
+
+Faster! The howls of the pursuing wolves were far too close.
+
+A sudden burst of pain and an impact made him stumble as an arrow punched through his upper arm. Recovering himself with a quick roll, he sprang to his feet and continued his headlong dash, dodging left and right as he passed trees desperately trying to present a smaller target to the obviously skilled Hunter lurking behind him. Gritting his teeth, he grabbed the head of the arrow and yanked sharply, pulling it all the way through his arm in an instant. He held back a scream of pain and he simply shoved the arrow into his own quiver, shaking his head to clear the haze of pain.
+
+There it is! He spied the giant pile of boulders and the clearing as he leapt the stream. At a dead run, gasping for breath, he made for the gap in the rocks, narrowly avoiding a second arrow whizzing by his cheek by sheer luck.
+
+I hope she’s ready. He couldn’t call out and give Malika away, so all he could do was trust her to be vigilant.
+
+As he passed between the boulders, Malika’s hand appeared, palm out, reaching for him like a savior. He slapped it as he passed. Instantly, the burning rush of her healing magic coursed through his body. Not for the first time, he wondered why her healing always felt so aggressive.
+
+Not complaining right now. The hole in his arm was healing rapidly, which meant he would be able to draw his bow.
+
+He spun just in time to see Malika kicking the lead wolf in the snout, causing it to yelp as its fangs clacked together. The second wolf barreled in through the gap, knocking them both further in with the weight of its charge. Immediately, the two wolves began to circle Malika, working as a team to execute rapid lunging attacks to which she responded with equally quick kicks and punches. Calen scrambled up one of the boulders, taking an elevated position halfway up, choosing a spot which would still afford some cover, and loosed an arrow at the slightly smaller Timber Wolf.
+
+“Goblins incoming,” he called tersely. “Level ten elite Hunter, level five rogue, bunch of scavengers.” She didn’t respond, occupied as she was with the wolves, but he knew she had heard him.
+
+Our best chance is to kill one of these wolves before the rest arrive. Once the Hunter arrived, the battle would almost certainly revolve entirely around controlling the elite Goblin, and the fewer monsters they had to deal with the better. Fortunately, Malika was no slouch when it came to understanding strategy and she unleashed a heavy barrage of punches and kicks concentrating most of her strikes on the same wolf he had shot. Pouring his mana into Arrows of Brilliance, he fired a shaft that streaked across the clearing, incandescent with his light magic enhancement. It buried itself deep into the wolf’s hindquarters, just the fletchings visible protruding from the thick black fur. The creature yelped, whirling in an attempt to bite at the spot, and Malika wasted no time taking advantage of its distraction.
+
+He fired three more times before the Goblin Hunter appeared, bow drawn and firing a volley of arrows at Malika. Right as the first arrow arrived, the Goblin rogue appeared from the shadows behind Malika and stabbed her low in the back with a rusty dagger. She stumbled from the vicious Ambush, but her body flickered immediately with the light of her potent healing spell. Calen returned fire, shooting an arrow at the Hunter’s head, making him duck for cover.
+
+I hope she can handle herself. Calen quickly assessed the battle and determined that their best strategy was still with the smaller Timber Wolf. Malika would simply have to take some damage from the rogue and the Hunter while he eliminated the first enemy. But then he noticed something different about Malika’s fighting. In addition to skillfully dodging many attacks, she was now using her elbows, forearms, and hands to deflect many of the rapid dagger strikes, keeping the Goblin rogue stymied.
+
+She must have learned something new. He had definitely noticed how close-lipped Malika was with her class and skills, but a development like this was as dramatic as it was obvious. Right now, though, it meant he could likely leave her to tank multiple enemies without his assistance. Sweet. My turn!
+
+He fired three times in quick succession, spending his precious mana to empower each shot as his hands blurred through the motions. The smaller Timber Wolf dropped to the ground with a whimper and expired. About to redirect his attention to the Hunter, Calen caught sight of three green Goblin heads popping out on top of the far boulder. Slings loaded with rocks whirled above their heads and they began pelting Malika with their crude attacks.
+
+As rapidly as he could, he fired two arrows at one of the scavengers, causing it to stumble and fall from the boulder with a pained shriek and a satisfying series of thumps. That sent the other two scurrying for cover. Good. They would cause no end of trouble if they were allowed free rein. Goblins were notorious for the tactical buffs they received when fighting in groups.
+
+Returning his attention to the melee below, Calen saw, to his surprise, that Malika was now focused mainly on the rogue, allowing the larger Timber Wolf freedom to flank her.
+
+I’ll support her. Calen wouldn’t have made that choice, but Malika must have a good reason. He loosed an arrow at the Hunter, making him duck behind cover again. Calen winced as the precious arrow shattered against the boulder. Fuck, that was one of the only straight ones. Then he swiveled and loosed a second arrow, enhanced with his magic, and struck the rogue solidly in the middle of his ribs. The surprised stumble he caused was immediately exploited by Malika’s rapid flashing kick combo.
+
+Keeping a close eye on the Hunter, Calen continued firing at the rogue. Every time the Hunter presented himself, Calen would divert an arrow at him instead, trying to keep him pinned down and reduce his freedom to fire indiscriminately. Could do with Ali’s Roots right now. His attention returned to Malika in time to see her finish off the rogue and spin to kick the last wolf in the throat.
+
+How is she so durable? Technically, he knew exactly how, but watching it in action was quite another story. Without her healing and defensive skills, pitted against two similarly leveled opponents, she would likely have been struggling or dead by now.
+
+Calen scanned the battlefield perimeter again and caught two of the scavengers scaling a different boulder. They began to lob fist-sized rocks down at Malika, endangering the wolf almost as much as her. Aiming carefully, Calen shot one of the scavengers through the leg, once again causing a stumble and comical cartwheeling fall from the boulder. That probably didn’t kill it. At least it was out of the fight temporarily. The lack of the notification chime confirmed his guess.
+
+Calen left the Timber Wolf to Malika, confident that she would be able to finish it off on her own. Instead, he switched his focus to the Hunter, aggressively shooting whenever he poked his head up. Calen quickly flattened himself against his rock cover as an arrow splintered right next to his head. Upset you a little too much? Drawing the ire of the Hunter was dangerous, but Calen dodged around to the other side of his rock, fired a couple more arrows, and then immediately ducked out of sight as his attack was returned so rapidly, rock chips pinged off his cheek.
+
+Damn, he’s quick. I’m not going to win like this.
+
+The soft, pure sound of a notification chime echoed within his mind. Malika finished the Timber Wolf. Immediately, he took the risk and stood up to fire at the Hunter. The elite Goblin ducked away once more, oblivious to Malika charging towards his hiding spot.
+
+Perfect timing. Come on…
+
+As the hunter popped up to take a return shot, Malika’s furious right hook connected with his ear, rocking his head sideways as he screeched in surprise. Calen took a quick shot at a scavenger poking a head out from the side of the boulder, clipping its arm. He watched while Malika pressured the Hunter, searching for any opportunity to help, no matter how brief. Even the higher-level archer would have a difficult time against an aggressive melee attacker like Malika, but it meant that he couldn’t do much without endangering her. Instead of trying to miss his ally to get in a shot, Calen chose to sneak closer.
+
+With a nasty elbow strike to the crown of the elite Goblin’s head, Malika created an opening for him. Firing in haste, Calen managed to lodge an arrow through the Goblin’s thigh, causing it to stumble and trip. Again, Malika didn’t let the chance go to waste going to ground with the Goblin, and the elite Hunter succumbed to her furious onslaught of punches and elbows.
+
+“We can’t let the scavengers get away and warn the warren,” Calen said urgently.
+
+“Let’s go,” Malika responded immediately. “Which way?”
+
+Calen had made sure to wound each of the scavengers in the battle. The one with the leg wound would probably be the easiest to track. Scanning the ground with his Explorer skill active, he quickly picked up their trail, both blood and footprints, the survivors heading south as a group.
+
+Nice. He headed off at a sprint with Malika close on his heels.
+
+***
+
+They managed to hunt down the fleeing scavengers quickly, ensuring that their presence was kept secret, for the time being.
+
+“I believe their camp is to the south,” Calen said. He didn’t know for sure, but all the signs seemed to point that way. “I can sneak past the patrols, but the wolves can sniff me out. I think we should try to go the remaining distance together.”
+
+“That’s probably smart,” Malika agreed, and Calen settled in to rest and recover his stamina. He had nearly run empty after his desperate sprint followed by the battle. At least he had a whole lot of notifications to catch up on.
+
+Your group has defeated Dagger Rogue – Goblin – level 5.Your group has defeated Timber Wolf – level 4-6 x2.Your group has defeated Hunter – Goblin – level 10.Your group has defeated Scavenger – Goblin – level 1-2 x3.Archer of Light has reached level 7 (+2).+20 attribute points.Arrows of Brilliance has reached level 7.Explorer has reached level 6 (+2).Blessing of the Dawn has reached level 6.Eclipse has reached level 4.Requirements met for skill advancement.Explorer has reached at least level 5.Perception has surpassed 50.Tracked multiple groups of foes while remaining undetected.Explorer gains Untraceable Movement.Explorer gains the Stealth and Movement traits.Explorer – level 6You have enhanced spatial perception and perfect recall for places you have explored. You can discern important details about the places you are exploring and the creatures that inhabit them.Stamina: Use your enhanced perception to track your prey.Stamina: Move without leaving traces or making sounds.Knowledge, Movement, Stealth, Identify, Scouting, Tracking, PerceptionAccept this advancement?
+
+My first skill advancement! He studied it carefully, weighing up the advantages. All the books he had studied on class growth emphasized choosing only the best advancements. But there was really nothing to weigh it up against – the advancement was a straight-up improvement – and one which would have been exceptionally useful against all the Goblin foragers he had been hunting. Still, after the fact is better than nothing at all. Seems good all round.
+
+No sound. Not only would he leave no signs of his passage, or footprints to be tracked by his enemies, but he would no longer need to worry about being discovered by the sound of his footsteps or breathing. Instead of standing absolutely still to avoid detection, he would be able to change his position for the best advantage, without giving up his location. Perfect for surprise shots.
+
+I’ll still have to worry about the wind and scent perception, he noted, recalling how easily the Timber Wolves had picked up on his location through smell. But he would be vastly harder to find with two complementary stealth skills. Without any doubts, he took the offered advancement.
+
+The notification chime played a quick happy ditty, while the glowing white mind-text exploded in a bright display just like the summer solstice fireworks.
+
+That’s… wow.
+
+Name: Calen AveryRace: Half-ElfActive Buffs: Blessing of the DawnClass: Archer of Light – level 7- Radiant Archery – level 7- Arrows of Brilliance – level 7- Motes of Light – level 5- Explorer – level 6- Blessing of the Dawn – level 6- Eclipse – level 4- [Locked]- [Locked]- [Locked]- [Locked]General Skills- Bowcraft – level 4- Wood Carving – level 3- Cartography – level 4Aptitudes- Languages: Common- Mana (Affinity): Light- Perceptive (Racial): +11 to Perception- Quick (Racial): +5 to Dexterity- Timing (Class): You have an innate sense of timingAttributes- Vitality: 20- Strength: 9- Endurance: 12- Dexterity: 55 (+18)- Perception: 52 (+17)- Intelligence: 43 (+14)- Wisdom: 14Equipment- Weapon: Guard Bow – level 3Health: 200/200Stamina: 120/120Mana: 112/140 (28 Reserved)
+
+Calen browsed through his status, checking the numbers carefully. He certainly had grown stronger, especially with the enhancement provided by Blessing of the Dawn to boost his dexterity, perception, and intelligence. However, he was lagging in stamina and mana – both his total and his regeneration. None of his skills’ primary attributes provided him with additional resources. He could do lots of damage, but he always ran out of mana too quickly, and it took an hour to regenerate it fully.
+
+And I lost my armor when we were captured, he thought. It wouldn’t be good to get hit by anything. Not unless I’m near Malika.
+
+More annoying though, they had taken his notebook and all the notes he had made about his class skills. He felt a distinct anxiety about not being able to note down his newest advance anywhere, but he resolved to memorize it for when they got back to town. And that was not even accounting for the fact that the Town Watch now had insight into his class. Suddenly, Malika’s reticence to share made all too much sense. He was no troublemaker, but this felt like a violation of his privacy.
+
+Putting his status aside, Calen laid out the arrows he had collected from the Hunter and began to repair the ones that were damaged using his Bowcraft, while he waited for his and Malika’s mana and stamina to regenerate.

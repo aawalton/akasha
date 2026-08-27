@@ -1,0 +1,273 @@
+---
+id: be3d5b5e-c37a-5803-a13c-ce6fe40ad2d2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 58: That Which Lurks Below"
+slug: 0058-chapter-58-that-which-lurks-below
+partOf: dungeon-of-knowledge-complete
+position: 58
+ownLength: 4733
+unit: words
+ownProgress: 4733
+publishedAt: 2024-04-14
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1595050/chapter-58-that-which-lurks-below"
+royalRoadId: "1595050"
+markedReadAt: "2026-06-29T20:12:52.822Z"
+---
+
+The Dungeon Survival Guide, Rule 2: Expect the unexpected.Never trust a dungeon. Just when you think the dungeon is boring and easy, when you finally get complacent and let your guard down, it will produce something so devious and vicious that you will die before even knowing what happened.- The Unexplored Lands, by Lyeneru Silverleaf, Elven Pathfinders Guild.
+
+“I’ll be back,” Calen said.
+
+Ali watched his back as Calen sprinted off into the darkness, his feet flying silently across the bone-encrusted ground. “How does he do that?”
+
+“Do what?” Mato asked, glancing at her quizzically.
+
+“Go off to scout out monsters by himself in a dungeon…” Ali shivered. As if the dungeon part wasn’t enough, it was pitch dark too.
+
+“He’s brave, that’s for certain,” Malika said, nodding approvingly.
+
+I don’t think I could do that. Ali shook her head and distracted herself by summoning her Grimoire. She paged through the book as it hung floating gently in the air beside her. She found the Goblinoid chapter and began summoning monsters. She had to roll the dice quite a few times, unsummoning worthless Goblins, before she finally got a replacement for her Storm Shaman – the one that had perished in the last battle. By the time she had him outfitted with the gear Malika had salvaged, Calen returned, emerging from behind a particularly large mound of protruding bones, running at a leisurely pace.
+
+“There’s only one more group on this level,” he said, barely even out of breath. “Two warriors, one rogue, two mages, and another Acolyte. No scorpion this time.”
+
+“Ok, I’m ready.” Ali got to her feet and mobilized her minions as she and the others followed Calen. He headed across the desolate ruined waste of what had once been the greatest library of magic and knowledge the world had ever known. Now covered in bone spit and filled with monsters. Her foot came down with a loud crunching noise as she stepped on something that wriggled. She grimaced in disgust. Eww!
+
+While they were making great progress liberating it from the Kobolds and bone elementals, she was still deeply saddened to see the sorry state the library had been reduced to. In her memories, it had been so magnificent. Is there even anything worth saving anymore? She couldn’t imagine that any of the books had survived the bone dungeon’s occupancy, the worms, and the relentless march of so much time.
+
+She shivered, creeped out by the small movements in the near-total darkness, and the ceaseless crunching noises of the bone worms feeding.
+
+“Their camp is just up ahead.”
+
+Even as quietly as he said it, Calen’s voice still made her jump. As they rounded a wall holding back a huge pile of loose bones, she saw the dim flickering glow of what looked like a Kobold campfire. Several figures were clustered around it, hunkered down among what looked like piles of trash.
+
+“Don’t go over to that wall, they laid some traps there,” Calen continued, pointing out the almost invisible tripwires among the debris.
+
+His eyes are so sharp. Ali could barely see anything even after he pointed directly at them.
+
+“Mato on the warriors?” Malika asked, her voice pitched low to avoid alerting the monsters.
+
+“I’ll try to get the rogue, too,” he responded. “The warrior on the left with the two swords is a Bloodletter. The last time I fought one of those it hit everyone around it with every strike, and had a nasty bleed skill, so perhaps keep your rogues on the mages instead?”
+
+“Ok,” Ali answered. “How can you even see them?”
+
+“My new skill passively boosts all my senses,” Mato answered.
+
+Him, too? All I can see is mana… which might be more useful if I could figure out how to use it better.
+
+“I can’t see anything,” Malika groused.
+
+Like Malika, Ali couldn’t make out the Kobolds with her eyes – but her mana sight was good for one thing: she could clearly identify the presence of an Acolyte by the softly shimmering radiant light of its holy affinity mana. It was only her second time seeing the remarkable purity of the yellow-white glow, but it was distinctive and unmistakable.
+
+“I can leave a Mote of Light here,” Calen offered.
+
+Malika nodded appreciatively.
+
+“Mato, do you want one of my shamans to help break the bone armor?” Ali asked.
+
+“Yes, that, or just give me a Lightning Nova totem to work with,” he said.
+
+“Everyone else, kill the healer first,” Calen said.
+
+With their plan set, Mato initiated the battle with the simple expedient of charging through the middle of their campfire, roaring fit to wake the dead. All the kobolds sprang to their feet, screeching and drawing weapons as the entire camp burst into a chaos of frenzied movement.
+
+Warrior – Kobold – level 19-23 x2Mage – Kobold – level 21-24 (Bone) x2Rogue – Kobold – level 21Acolyte – Kobold – level 23 (Holy)
+
+“Everyone, attack the Acolyte, and you help Mato,” Ali commanded, unleashing her minions upon the Kobold camp in a rush. One Storm Shaman broke off, chasing after Mato with her shield already trailing sparks and her short mace crackling in the air.
+
+“As you wish, Ancient Mistress,” one of her Fire Mages said, his voice hoarse and raspy. Her mages unleashed their volley of Firebolts, lighting the remains of the Kobold camp with a ruddy glow.
+
+They’re messy slobs, Ali thought, watching how her sprinting minions and friends had to jump over piles of bone and trash as they launched themselves into the fray.
+
+Mato backed away from the fading campfire, drawing all the melee enemies with him, leaving only the mages and the Acolyte for Ali to worry about. She eyed the Bone Mages warily, knowing full well what they were capable of. Bone spears launched from their clawed hands and Ali responded by summoning her barriers to block them.
+
+“Put a nova totem right in the middle,” Ali commanded. The Goblin shaman, gleaming in his bright chainmail shirt, flung something invisible and a steel totem appeared amid the Bone Mages with a soft clink. The steel pole flared with lightning mana, and a Lightning Nova burst forth from it, pulsing outward in a large sphere of crackling brilliant sparks. Ali had the satisfaction of watching the spasming Kobold Bone Mages scrambling over themselves to flee.
+
+Malika charged around the Bone Mages, darting across the litter-strewn camp, aiming for the Acolyte, but a surge of bone burst from the ground, capturing her in the Bone Prison spell. Ali’s cheeks warmed at some of the nasty words Malika yelled.
+
+Handy though, Ali thought as both Bone Mages shifted their aim, firing their conjured spears at the prison with the intent of skewering Malika while she was trapped. Ali summoned a large barrier to protect her friend, replacing it every time the spears shattered her magic. At least this way I don’t have to guess where they’re shooting.
+
+“Rogues in three…” Ali said, her eyes drawn to the Acolyte at the far end of the clear space the Kobolds had used as a camp.
+
+“Good,” Calen said, nodding as he drew back his bowstring.
+
+Ali’s Storm Shaman hurdled a trash heap, bringing his mace down with a crushing blow on the Acolyte’s shoulder, but the white-robed Kobold simply healed herself. The shadows behind the Kobold shifted and gleaming daggers stabbed down into the Acolyte’s back, staining her pristine robe with crimson blood. An intense surge of white holy-affinity mana shone out from the Kobold, lingering as it suffused her body and the stab wounds rapidly closed.
+
+“Firebolts,” Ali commanded, directing her Fire Mages to join her and Calen in raining death down on the distant healer. While its powerful healing magic could withstand an incredible amount of damage, it was helpless against their combined onslaught, and before Malika was able to free herself, Ali’s chime sounded in the back of her mind and the Acolyte crumpled to the ground.
+
+A huge bone wall appeared with a grinding scraping sound that got under her skin, separating the Bone Mages from the conflict but, without Ali even calling for it, her shaman blasted a giant hole in the wall with a quick discharge of Lightning Bolt. Lethal bone fragments sprayed into the air, raining down over the entire battle.
+
+Freed, finally, Malika darted through the hole, and Ali brought the full might of her ranged offensive firepower down on the two cowering mages. Relying entirely on her mana sight, Ali focused on identifying the bone spear magic from the way the mana moved and flowed, trying to learn how to predict where the spear would appear and fire. She got most of them unless the mages fired simultaneously, and in that case, Malika was on hand to heal any damage.
+
+Once her rogues arrived to back Malika up, the two Bone Mages died quickly. Without any spears left to block, Ali simply hung back at range helping to pick off the remaining melee Kobolds one at a time with her Arcane Bolts.
+
+“That was a lot easier,” Ali said after the final Kobold warrior succumbed to a barrage of Firebolts.
+
+“It’s amazing what a bit of good strategy can do,” Calen said.
+
+“I hate that Bone Prison,” Malika grumbled.
+
+“Didn’t seem to slow you guys down,” Mato said.
+
+“Well, there were no surprises this time,” Calen said. “That’s critical.”
+
+“And no scorpion,” Ali added.
+
+“Well, that’s everything on this level. Should we go up or down?” Calen asked.
+
+“Down,” Ali answered, bending over to begin the gory task of deconstructing the various corpses and unwanted gear. “The library has three major floors, aligned with the city levels. We’re on the top level. There are about thirty meters between each level. Uh… that’s about a hundred of your foots.”
+
+“Feet,” Malika suggested.
+
+“Definitely not my feet.” It would take her quite a while to get used to their measurement system. “Anyway, the upward staircase leads to the surface. Although, I’m not sure what’s up there now.” It had been sheer luck that the collapse of the mountain hadn’t buried the shrine, and herself. Chances were that if they went up to the top, they would find everything buried in half a mountain’s worth of rock.
+
+She quickly finished up with her deconstruction work, finally adding the warriors’ weapons and shield, and the rogues’ bone-studded leather armor to her Grimoire.
+
+With the top floor now cleared, Ali approached the landing on the edge of the atrium. The atrium had been a vast open space in the center of the library, extending from the bottom three levels below, all the way to the roof far above. When she had last been here, the whole space had been filled with soft floating orbs of light, offering a soft, clear illumination for reading. By that light, she had once beheld the countless books tightly packed into the soaring shelves lining the outer walls of the library, stretching away to the distant ceiling and the distant floor below.
+
+Now, however, only pitch darkness waited below, shot through with dense clouds and tendrils of bone mana that twisted and churned slowly, while stalactites of bone dripped from the remnants of the railings around the atrium and the encrusted stairs.
+
+Sections of the atrium were bordered by blocky granite walls, but the railing that had once guarded the rest of it was mostly corroded away or left in twisted ruins. Tracing the outer rim of the atrium was the long spiral stone staircase.
+
+Ali gulped. Without the railing, and with bone spit solidified on the stairs, they looked treacherous.
+
+“I feel like something is down there,” Calen said quietly from beside her.
+
+“Like what?” Ali whispered. Her eyes weren’t nearly as good as his.
+
+“I don’t know,” he said, squinting as he peered over the edge. “We should take care, that’s all.”
+
+With his ominous thought twisting in her mind, Ali began the descent, stepping carefully on the uneven encrusted stairs, trying to make as little noise as possible. The stairs circled the atrium before they finally reached the landing on the second level, thirty meters below. The tension of being exposed in the darkness, trying to avoid attracting any attention from the imagined monster below weighed heavily on her mind, leaving her anxious and frazzled by the time she stepped off the stairwell and onto the level itself.
+
+“New group up ahead,” Calen’s whisper made her jump. Fortunately, she hadn’t made any noise giving them away to the group of enemies. “Two piercers, two mages, warrior, rogue, and archer.” Calen continued as if he hadn’t noticed her startled reaction to his voice.
+
+“I can take two scorpions,” Mato answered the unasked question immediately.
+
+“You sure?” Malika wore a dubious but challenging look on her face as if she wanted to call him out for unwarranted bravado but wasn’t quite sure if he was serious.
+
+“Yes, my new Survival Instinct makes a huge difference. I can block or avoid most of the biggest hits now.”
+
+Mato’s calm response must have satisfied Malika because she simply nodded and said, “I can try to hold the warrior and rogue, while you guys take the mages and the archer?”
+
+“I don’t think we should leave that archer alone, can we put a melee attacker on him? Archers are weak at melee range, but I think we’ll regret leaving it to roam free.” Calen was looking at Ali as he spoke.
+
+“I can put one of my shamans on him,” Ali answered. “Would that work? The other one can help Malika with the rogue and warrior.”
+
+“Sounds good. Mato?”
+
+“Ok, going,” Mato said, transforming into his Bear Form. He charged at the group, roaring to draw attention as he barreled right into the two Piercer Scorpions, his fangs bared and his paws swinging.
+
+Calen fired two arrows in quick succession, drawing the warrior and rogue Kobolds out of the group, right into Malika’s path.
+
+Ali picked a Bone Mage out of the chaos and unleashed her Arcane Bolts at it. “My target,” she commanded, sending her intent to all her minions. As the Firebolts pierced the darkness like tiny flaming meteors, she directed her shamans with more precision, choosing specific locations for their totems as she began to force the two Bone Mages out into the open, preventing them from acting as they tried desperately to flee the Lightning Novas.
+
+Ali tried to ignore the ground-shaking strikes the Piercer Scorpions were unleashing at Mato by the atrium wall.
+
+“Healer!” Calen shouted.
+
+Ali’s eyes shot up and she found one of Calen’s Motes of Light flying across the battlefield. It hovered above the soft yellow Kobold Acolyte. His eyes glowed with his holy affinity mana as he wielded his healing magic.
+
+“New target,” Ali commanded, redirecting her minions. Pushing herself to the limit, in the interest of speeding up the combat, she fired her Arcane Bolts at the healer, while simultaneously keeping up her barriers to block the Bone Spear attacks.
+
+She had never pushed her concentration so hard, managing two barriers, her Arcane Bolt target, checking her minions, and anticipating the Bone Spears with her mana sight. Ali’s head throbbed with the intensity of her efforts. She gasped in pain as an unseen arrow impaled her through her thigh. She stumbled, dropping her Arcane Bolt target from the shock, but she still managed to intercept a Bone Spear aimed at Malika. On the far side of the battlefield, her shaman shattered the spines of its Bone Prison with her mace and charged the archer again.
+
+Ali winced as she sat sprawled on the ground, unable to stand on her injured leg. She blocked another bone spear, unable to bring enough focus to bear to restart her Arcane Bolts. The soft chime sound told her it wasn’t necessary as the Kobold Acolyte keeled over with a glowing arrow embedded in his neck. Thanks, Calen. Quickly, she redirected her mages and rogues to the enemy bone casters. She was still bleeding, but she could cast her magic provided she didn’t move her leg. Anxiously, she checked her health but, to her relief, found she was still well above half.
+
+Ali clenched her teeth and concentrated. It took a minute to kill both mages, but with the pain, it felt so much longer. As soon as the mages died, Ali suddenly had a lot less to focus on.
+
+“Scorpions next,” Calen said. Ali assumed he had changed the order because Mato tanking the two of them would be much more stressful on his mana. Ali didn’t question it, if they were coordinating their efforts, they would succeed.
+
+Ali glanced at the archer in the distance, but without the bone prison meddling, her shaman seemed to be doing fine. Very well, she thought, deciding to send her rogues to help Malika as they wouldn’t be a whole lot of use against the scorpions. For the rest, Firebolts, Lightning Bolts, and Arcane Bolts rained down upon the scorpion Calen had picked. The mana-efficient Firebolt spells supplied a steady stream of damage, sending chips and shards of bone armor flying and filling the air with smoke – maybe not the most impressive, but they did the job.
+
+Ali kept a close eye on the plates of bone armor and, as soon as a large enough crack appeared, she switched her Fire Mages to using their Fireball spells. Landing in quick succession, the Fireballs lodged inside the armor and detonated, ripping the bone elemental to shreds. This strategy took a long time, but it sure was reliable. And, for some reason she couldn’t fathom, blowing up the highly resilient and dangerous bone creatures was immensely satisfying. She repeated the process on the second Piercer Scorpion.
+
+Halfway through her barrage, Malika appeared beside her.
+
+“Hold still, Ali,” Malika said, crouching beside her and gripping the arrow firmly. With a sudden wrench, she snapped off the head.
+
+Ali hissed in pain as Malika swiftly pulled the arrow out with a sudden spurt of her amber blood, but the burning rush of her healing magic followed instantly, banishing the bleeding puncture. Feeling quite a bit better now that the pain was subsiding, Ali finally stood back up. “Thanks,” she said, as she directed her Kobolds to switch to Fireballs and deconstructed the nearby corpse of a Kobold Bone Mage to recover some mana.
+
+“The archer is running!” Calen yelled, urgency filling his voice.
+
+Ali snapped her head around to see the Kobold sprinting for the stairwell and her Storm Shaman stuck in some kind of trap. Clearly, the archer had a skill for movement because it was almost flying across the bone-encrusted floor. Ali unleashed her Arcane Bolts at it at the same time that Calen fired arrow after arrow at its fleeing back. Malika sprinted after it, her magic working to help her close the distance. However, it was just a little too far ahead and it reached the spiral staircase with a loud screech and fired an arrow down into the darkness.
+
+Uhh…
+
+“Oh, shit,” Calen said, speaking for them all.
+
+For just a moment, palpable silence filled the atrium as if everything were holding its breath. Then a deep hiss thrummed through the air, a tangible vibration that plucked Ali’s body like a bass string, settling deep into her bones. Dark mana erupted in the depths of the atrium, swelling upward from the bottom of the well, clearly visible through the intervening stone floors. A roar surged, carried up by the swelling mana, a wall of sound and rushing air that bore the decrepit dry odor of a crypt. The library shook, dislodging skitterers and bone worms by the thousands, knocking them to the ground with the patter of wriggling rain and sending them scurrying away into dark nooks and crannies. The treacherous Kobold archer fell to his knees and pressed his face to the ground, trembling visibly.
+
+“What is that?” Malika whispered.
+
+Beyond the twisted and corroded railing of the spiral staircase, something vast rose, borne upon slowly undulating skeletal wings that billowed and crackled with dark mana. The massive ribcage expanded slowly and then contracted – a parody of life – as if an empty cage of age-darkened bones had any need to breathe. Two legs were held tucked under the broad skeletal body, tipped with immense claws. Along the exposed vertebrae of the spine, the monster bore heavy armored bone plates and ridges extending all the way along the tail till it vanished in the darkness.
+
+An elongated, bony gray-white skull turned to face them, baring dozens of fangs each as long as Ali’s arms. Purple orbs of mana kindled, as if empty bone eye sockets could be opened to glare at her. As it fixed her with its unsettling gaze, the enormous jaws gaped wide, and an ear-shattering roar split the air.
+
+Skeletal Wyvern – Undead Dragon – level ?? (Bone)
+
+“Dungeon boss! Take cover!” Calen shouted.
+
+Dark gray mana coalesced into a dense ball in the depths of the Skeletal Wyvern’s gaping maw. Ali’s eyes widened fractionally in recognition, and she threw up the strongest barrier she could muster. With a sudden whistle and splintering crash, a gigantic bone spear struck her barrier, exploding into a deadly shower of shards and slivers of golden magic that knocked Ali to the ground. A sharp splinter of bone impaled itself through her arm, and another ripped a gash across her ribs.
+
+Ali winced, gasping as she scrambled to sit up. If she hadn’t recognized the spell as a vastly more powerful version of the Bone Spears the Kobold Bone Mages had been using, she would no doubt have been impaled upon the wyvern’s spear. Skewered, for sure.
+
+“Ali, are you ok?” Malika asked, helping Ali back to her feet, and pulsing healing through her body with a burst of rushing power that closed her wounds so fast, she felt the skin pulling painfully.
+
+Ali nodded, but her eyes were fixed on the skeletal horror hovering there, suspended above the atrium. Her mind rebelled at the sheer malevolent power she had just witnessed. How can anything like this exist?
+
+Mato charged at the giant skeletal monster, but it remained aloft, far out of his reach. It simply launched another Bone Spear at him, forcing him to dodge back.
+
+“Shoot,” Ali finally managed, instructing her minions to engage.
+
+The darkness began to flicker and flash with the red of fire and the incandescent white of lightning. Sizzling and deafening thunderclaps rang out, echoing from the walls behind them. With a trembling hand, Ali launched a volley of Arcane Bolts, but as soon as they struck, the giant skeletal gaze turned her way. Mana of midnight-black surged again, and on the ground beside her, a large circle of dark runes appeared.
+
+Is that… While the color was wrong, the circle looked exactly like the magic of her Grimoire when she summoned her minions.
+
+The sudden chill of premonition blossomed within her mind. Ali grabbed Malika’s hand and backed away from the pulsing runic circle.
+
+“What…” Malika began, but the circle flashed once and suddenly a Piercer Scorpion stood where it had been, gleaming white in the flickering light of the magical barrage.
+
+It stood still for a second, far larger from up close than Ali had ever imagined, and then it twitched. Ali fled. The ground shook as the huge elemental gave chase. She summoned a barrier blindly behind her and felt the creature slam into it, striking once or twice before shattering it.
+
+Malika stepped right into its path with a high kick to its maw and a quick dodge to avoid the shattering tail strike. In her panicked flight from the summoned Piercer Scorpion, Ali had forgotten to pay attention to the flying wyvern. She glanced up just in time to see a giant spear of bone impaling one of her shamans, pinning him to the ground. Another surge of mana preceded a second runic circle appearing in front of her. Operating on pure instinct, Ali dodged to the side and sprinted away from it as a Piercer Scorpion materialized within the ring of magic. The white glow of Calen’s arrow slammed into it drawing it away to where Mato waited. Ali breathed for the first time since the flying monster had appeared.
+
+Think Ali! What can I even do?
+
+Ali’s mind finally caught up to her actions. Quickly, she summoned a barrier to protect Malika from the wyvern’s bone spear. Both the spear and barrier shattered from the impact, again sending golden shards of magic and deadly slivers of bone flying in all directions.
+
+What is that? It sounded faint over the roaring and the deafening claps of thunder, but when she focused, Ali was sure she heard the familiar chirping and yipping of Kobolds in the distance. It took a moment for her to realize it was not her Kobolds that were calling. With growing horror, she looked toward the landing and, out there in the darkness upon the spiral stairs, she saw dozens of reptilian forms sprinting upward.
+
+“Kobolds on the stairs!” Ali yelled, not entirely sure what her friends would be able to do even if they knew. A third runic circle appeared on the ground and another Piercer Scorpion materialized.
+
+This is crazy! Ali’s mind balked at the chaos.
+
+Suddenly, she sensed a dramatic shift in the mana. Up in the air, the wyvern’s fanged maw was opened wide. Thick tendrils and ropy cables of mana spiraled into its maw, drawn inward as if the monster were inhaling power from the dungeon itself. For several seconds the mana gathered, swirling like a black and gray fireball, coalescing and compressing into a ball that pulsed like a malevolent thunderhead poised in that instant before a storm broke.
+
+The Skeletal Wyvern turned its head and unleashed its magic.
+
+Like a dam bursting, it unleashed a deluge of bone spears – a dense, unrelenting spray hammering downward in a cone. The monster slowly turned its head, sweeping death across the battlefield as the hail of bone spears pounded the foundations of the library, obliterating friend or foe with equal prejudice, shattering stone and pulverizing bone in an unbelievable roar of deafening power.
+
+“Run!”
+
+Somehow Ali heard the shout above the mind-shattering noise, and she felt herself suddenly scooped up. She glanced sideways to see Calen, his face set in a mask of grim determination as he sprinted away, carrying her. Beyond him, she could see the onslaught of hailing bone spears blasting her mages away, leaving little more than red stains in its wake.
+
+Up ahead, Mato and Malika struggled with four Piercer Scorpions. Both bled profusely as they backed away from the oncoming tide of destruction spewing forth from overhead.
+
+“Everyone, teleport out!” Calen shouted as he ducked behind a wall just as the onslaught of bone caught up to them. The noise of the bone spears shattering on the wall right beside her was deafening, driving everything from her mind.
+
+A black puff of smoke caught her attention, and within it, Malika vanished. The scorpions attacking her sliced through the empty smoke, momentarily confused.
+
+Ali retrieved her recall potion, and she was about to dash it upon the ground at her feet when she paused. “What about Mato?” she asked, holding her potion indecisively. “He can’t shift back to use it; he’ll die!”
+
+“I’ve got him,” Calen answered, his lips pulled into a firm line. Putting her down behind the atrium wall, he summoned two recall potions and lobbed one with a swift underhand throw out into the battle. Ali watched it sail, flipping end over end across the open space in a high arc to shatter upon Mato’s back. The black smoke cloud erupted, and he vanished.
+
+Immediately, all four Piercer Scorpions turned to charge toward her and Calen.
+
+“Go!” he yelled, and she could hear the panic making his voice crack.
+
+Quickly, she broke her potion on the ground and vanished, appearing in the familiar teleport room in the center of the rune circle once again. A half-second later, Calen appeared too.
+
+“Holy shit, what the fuck was that?” Mato said, collapsing to the ground with a big grunt.
+
+Calen whispered, “That was too much for us.”
+
+Ali sagged with relief.

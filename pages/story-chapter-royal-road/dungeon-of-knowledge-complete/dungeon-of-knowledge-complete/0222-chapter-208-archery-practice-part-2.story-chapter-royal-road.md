@@ -1,0 +1,151 @@
+---
+id: cac9fd69-b08d-543b-8c6b-88f465b2e4df
+page-type-slug: story-chapter-royal-road
+title: "Chapter 208: Archery Practice (Part 2)"
+slug: 0222-chapter-208-archery-practice-part-2
+partOf: dungeon-of-knowledge-complete
+position: 222
+ownLength: 2400
+unit: words
+ownProgress: 2400
+publishedAt: 2025-03-09
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2115329/chapter-208-archery-practice-part-2"
+royalRoadId: "2115329"
+markedReadAt: "2026-06-29T20:18:40.431Z"
+---
+
+Lyeneru flew rapidly through the trees keeping her fire mana in check so that she wouldn’t inadvertently set anything alight as she passed, as she scanned the ground, searching for Nendir and his archery class.
+
+Her meeting with the troll Tol and Nathaniel Sunstrider had been troubling. The Telim Gor delegation Tol’zerath had sent to Aman Rak had not been heard from since they had departed, and all scrying attempts had failed. It was as if the entire city of Aman Rak had vanished off the face of the continent, and she shuddered to think of what kind of force could wipe out the powerful troll nation without leaving so much as a warning.
+
+Force, guile or treachery? She could not stop chewing it over. Impossible, except for what I’ve seen…
+
+Her eyes latched onto a cloud of dust, and she accelerated, her wings thrumming with power as she flew. Down in a clearing below she finally spotted them. Nendir shone like a beacon of mana amid the trees despite his casual effort to conceal it. Down on the trail stood Calen, his magic and power grown remarkably since his last visit. But out ahead of him two elves sprinted his way and suddenly the trail filled with Bristletusk Boars. The two elves vanished with puffs of mana and stamina, cloaking their presence from those with less powerful perception skills as they sidestepped the oncoming crash of monsters.
+
+They just trained the boars onto him deliberately. She frowned, glancing at Nendir. The master archer’s bow suddenly vanished, replaced with one she had only ever seen him wield a handful of times.
+
+At that moment, she realized that nothing about this scene was planned. Instantly, her bow was in her hands, string drawn to her cheek, surging with power, but she paused at the same time Nendir did.
+
+A gold coin? The ancient Dal’mohran gold coin glinted as it flipped end over end, rising beside Calen until it was level with his head, and then it vanished in a puff of extraordinary mana – a phenomenon she had witnessed several times on their Death Knight hunt. In the intervening moments, while the coin flipped through the air, Calen had retrieved and downed a mana potion.
+
+He’s not running.
+
+A mote of bright light rose circling above his head, and she frowned, puzzled. What is he thinking? But the glow in the mote of light intensified, pulsing and sharing power with the nearby frozen spectators.
+
+That’s not the same underpowered skill. As she thought that, Calen’s plain wooden bow vanished, replaced by a dark, wicked-looking giant recurve bow, brimming with the magic of powerful enchantments. The bow flickered and an ugly black flame erupted, wreathing it with fire. Calen’s mana ignited, glowing with incandescent brilliance, like a miniature sun facing down the onrushing horde.
+
+Four arrows flew, followed instantaneously by four more, and then another volley as the bow screamed – a demonic howl that ripped through the forest and tore at her ears even from this distance. As the first volley hit, the arrows exploded in a rippling cascade of detonations of intense white light wreathed with the black flame of hellfire.
+
+She would have expected the barrage to end after a volley or two, but Calen didn’t let up for a full thirty seconds before his brilliant glowing magic faded and his smoldering bow lowered. Nothing moved but the slowly clearing cloud of dust, and a lone stricken tree collapsing across the path, its trunk ripped to splinters by the devastating explosions and hellfire.
+
+Nendir’s legendary bow vanished, replaced by the one he usually used in public.
+
+Her eyebrows leaped. He’s stronger. Calen seemed nothing like the nervous boy who had first asked to accompany her on her hunt. She identified him as she flew the remainder of the distance.
+
+Archer [Rift Warden] – Half-Elf – level 63 (Light).[Advanced Identify: Protégé]Name: Calen AveryClass: Archer of LightRace: Half-ElfLevel: 63Affinity: LightTitles: Rift WardenPatron Deity: The WandererAffiliations: Pathfinders Guild, Myrin’s Keep Adventurers Guild
+
+Sixty-three. It seemed her protégé had seen a lot of combat. More than was likely smart or safe – certainly vastly beyond the official recommendations of the Pathfinders Guild. Just like me, she thought, and then her eyes halted, arrested by the sight of his title.
+
+Rift Warden. It was abundantly clear they needed to have a conversation. But first, there was an important matter to take care of. She landed in the clearing behind the elves, cushioning the impact with her knees and ankles, dispelling her wings, and arriving in time to hear the tail end of Nendir chastising the two elves who’d dumped the horde of monsters on Calen.
+
+“But he’s a half-human, nobody cares,” came the voice of the unrepentant Malanior.
+
+“Nendir. My apologies for interrupting your class,” Lyeneru interjected, more than a little annoyed to see Malanior had not shed his narrow-minded prejudice. A failing that could easily have cost several lives – something Nendir had clearly recognized. If it had just been Calen, he could easily have whisked him out of the way in time with his wings, or his regular bow could have likely killed all the boars quickly. But his own daughter had been standing behind Calen, making him pull out a bow that would likely have leveled the entire forest for miles around.
+
+“Lyeneru,” he said, offering only the slight bow of respect among equals that she had had to insist on so many times. Genuflection and deep bowing did not sit well with her at the best of times, especially from someone who had earned her respect and life debt more times than she could remember. She cared nothing that he lacked a noble lineage.
+
+“Lyeneru!” Malanior interrupted. “Excellent timing. Nendir refuses to listen to reason. Perhaps you can have this half-breed removed from the Pathfinders Guild, so we do not have to lower the pride and quality of our organization.”
+
+Lyeneru raised her eyebrow at his impassioned outburst. Is he really this stupid? While noble lineage certainly didn’t convey automatic respect or even intelligence, she was grateful that this idiot wasn’t representative of his kind.
+
+“Nendir, I warned you about being too tolerant. Now you’re going to have to deal with this mess properly.” She kept her voice from getting harsh, out of respect for him, but she had warned Nendir many times about Malanior’s arrogance, among other similar issues over the years. He always had a softness for granting people too many second chances and seeing them in the best possible light.
+
+“It seems that you were right,” Nendir agreed with a grimace.
+
+Malanior glanced back and forth between the two of them with surprise flickering across his features. He was about to speak when he was interrupted by a voice from the side.
+
+“Stop being so dense, Malanior.” Coria’s soft voice and harsh words cut his response. “Everyone has been talking about Lyeneru inducting a new member to the guild after so many years, and how they’re a half-human. Can you not see that Calen is her protégé?”
+
+Calen had to admit he enjoyed the sight of Malanior going pale and stammering, his arrogant confidence shattered. It was good to have the support of Lyeneru, Nendir, and even Coria, but what had just happened had carried a significant level of peril and he had no idea what Nendir was going to do to discipline Malanior – if he could even do anything to a noble.
+
+“So, how is Calen doing?” Lyeneru asked, addressing Nendir and more or less ignoring him.
+
+“He listens well and obviously practices hard. His technique isn’t quite as good as Coria’s yet, but he’s progressing quickly. He struggles with confidence and standing up for himself, but as you no doubt saw, he has no difficulty facing a threat head-on.”
+
+Calen stood awkwardly beside them, listening as they discussed him. Lyeneru had not yet acknowledged him.
+
+“He learned Elvish, which I respect as a good choice, but I’m not so sure I like his choice of bow,” Nendir said.
+
+“The bow seems strong,” Lyeneru said. Turning to Calen finally, she asked, “May I see it?”
+
+Calen silently handed the bow to her, watching her eyes widen almost imperceptibly. Before she handed it to Nendir, who examined it before handing it back.
+
+“I don’t approve of hellfire, but it is a very good bow,” Nendir answered. “May I ask why you didn’t use it earlier?”
+
+“It’s very noisy,” Calen answered. Likely it would have annoyed the entire class, not just Malanior. “Also, I wanted feedback on my technique, not the power the bow gives me.”
+
+Calen didn’t miss the flicker of approval in the master archer’s eyes.
+
+“Where did you get it?” Lyeneru asked.
+
+“I won it from a demon hunter elemental in a fire dungeon under Myrin’s Keep.” Before coming to train in Ciradyl, they had cleared the entire dungeon several times – with the obvious exception of the Corrupted Fire Drake at the end – collecting several bows and an enormous collection of hides and essences.
+
+“Stamina leech, and experience growth. I wish I had a similar bow when I was at your level. It’s too bad it’s a dungeon drop rather than a crafter-made item, I think a lot of Pathfinders could use something like that,” Lyeneru said.
+
+Calen retrieved a second identical bow from his ring. “Aliandra made this one,” he said, handing it to her. “You would know better who could make good use of it.” He deliberately omitted referring to the fact that Ali was a dungeon in public, knowing that Lyeneru would understand how it had been done, and how she could get more if she needed. The surprise on her face was much more obvious this time.
+
+“I’m sorry for interrupting your class, Nendir,” Lyeneru said.
+
+“No problem. I think class is over for the day. You should talk with Calen about leveling too fast, and about that title of his,” Nendir said, and then turned to the rest of the students. “Class is dismissed. Malanior, come with me, we need to talk.”
+
+“You do not have the authority to punish me,” Malanior declared.
+
+“And your father does not have the power to stop me from dragging you out into the forest and putting an arrow through your heart. Now come.” Nendir’s voice snapped with sudden steel, and Malanior’s face blanched as he scrambled to follow the master archer striding off into the woods.
+
+In moments, Calen found himself standing alone in the clearing with Lyeneru, worrying about Nendir’s parting words.
+
+“Rift Warden,” Lyeneru said, pausing for a long moment. “I think you had better tell me the story of how you earned that title.”
+
+“It’s a little embarrassing,” Calen admitted. “The demon slayer elemental was guarding a rift to an abyssal realm. After we killed it, we all wanted to explore, so we went through the rift.” It sure sounded irresponsible now that he was telling the story to Lyeneru Silverleaf, the legendary pathfinder, and his mentor. “There we encountered a dungeon called the Lair of the Demon God, with a threat level beyond my skills to assess. It lured us in and then attacked us with mind magic, a three-mark Pit Lord named Maalgaroth, and several thousand demons in a dungeon-break that pursued us through the rift and all the way back to Ali’s library.”
+
+“A named Pit Lord? Are you certain? How are you still alive?”
+
+“Yes. Just being in its presence was enough to corrupt us. Fortunately, the rift is too small to allow something that large to cross into our realm, the only monsters that followed were the smaller demons.”
+
+“How did you stop them from wiping out the town?”
+
+“We made a stand at the library doors because it was a good bottleneck, and Ali summoned a double raid boss with multiple poison domain magics and tons of healing.” He quickly shared the details of all the monsters, the bosses, the dungeon assessment, and the corruption of the Pit Lord.
+
+Lyeneru remained silent for several minutes, digesting the information he had just shared.
+
+“Well, that’s terrifying,” she said. “It’s not enough that we’ve lost an entire troll delegation, and now we have to worry about demon incursions from another realm.”
+
+“What do you mean you lost a troll delegation?” The statement had set the cold certainty of premonition settling in his gut. The troll nations were just south of the vanished towns he had been sent to scout.
+
+“Tol’zerath – the chief of the Telim Gor kingdom – had a divination about the rival kingdom of Aman Rak falling to a horde of undead and a cloud of miasma the likes of which nobody has seen in an age. Now their delegation to Aman Rak cannot be contacted. The guild is panicking because Aman Rak, Meere Kada, and Telim Gor are just about the last line of defense before Ciradyl, but to make matters worse, Aman Rak is the only location of a non-hostile shrine that supports class evolution. Losing it would be a disaster.”
+
+“Um…” Her description of the divination was a rather uncanny match for what he had seen in the south. “I was sent to scout the southern forests at the edge of the kingdom of New Daria. Several villages and a merchant caravan have vanished. When I arrived, I discovered a vast rogue dungeon that hadn’t been there several weeks before, death affinity, filled with skeletal wyverns, wights, and ghouls. There were clouds of miasma several miles tall…”
+
+“A dungeon? Are you certain?”
+
+He simply shared the dungeon identification with her.
+
+“Shit. We need to get to Aman Rak immediately. If a dungeon takes over the kingdom, everything to the south is in danger, including Ciradyl.”
+
+“Should we tell the Pathfinders?”
+
+“That’s the problem, every team is out fighting. There has been a surge of undead sightings.”
+
+“I can get my friends,” he said. “We’re not a fully-fledged Pathfinder team, but they’re a good team.”
+
+“Get them. Meet me at the guild as soon as you can. I need to warn the council without delay.”
+
+And with that she shot off with a thunderclap, trailing fire behind her blazing wings. Calen stared after her for a second, rattled by her reaction. Then, he gathered himself and shot into the air. No time to waste.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

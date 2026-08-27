@@ -1,0 +1,387 @@
+---
+id: d6d2aa74-a08a-5084-8828-f5ee824f45ee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 192: Predator and Prey"
+slug: 0195-chapter-192-predator-and-prey
+partOf: dungeon-of-knowledge-complete
+position: 195
+ownLength: 7024
+unit: words
+ownProgress: 7024
+publishedAt: 2025-02-02
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2043645/chapter-192-predator-and-prey"
+royalRoadId: "2043645"
+markedReadAt: "2026-06-29T20:17:43.168Z"
+---
+
+This fight sucks. Every time he finally figured out where the boss was, and got to it, the stupid snake simply disappeared, forcing him to spend most of his time charging around like an idiot, growling at shadows and illusions. He couldn’t tank any of the demons either – even on the few occasions when his Challenging Roar overcame the curse, it was only for a few moments. The curse was always on and continually taunting the monsters away from him.
+
+As he growled in frustration at missing the vanishing archer yet again, his chime sounded.
+
+You have been cursed with Mark of Prey.
+
+He roared his challenge again, not for the taunt, but for the strength reduction that Challenging Roar inflicted upon the wargs. He braced himself with his back against the wall and lashed out with a Swipe at the snouts of the pursuing demonic wolves, making them flinch back or yelp in pain. Unlike Ali and Malika, he couldn’t fly, but that meant he was facing down a half-circle of wargs. The only upside was all the imps’ fireballs were slamming into the back of them, instead of him.
+
+Perfect, he thought. Even with the twenty-five percent damage vulnerability from the curse, he could still mitigate an enormous amount of incoming damage by reducing the space the enemies had to gang up on him. They kept getting in each other’s way, and Ali’s healers had free rein to walk around with impunity. Well, Ali had them under barriers to protect them from the boss’s arrows, but still.
+
+Survival Instinct prickled, warning him of an enormous attack. He ducked low, allowing one of the wargs to rear up over him. It was a maneuver he would never have allowed otherwise, but the Flamecaller’s shot was too powerful for him to ignore. The howling arrow smashed into the warg’s spine, knocking it flying right over his head to crash against the wall. He recovered his stance, swiping at the demonic wolf that stepped up to take its place.
+
+That’s how you block! Thanks for the assist, buddy.
+
+Ali’s arm itched. It was almost completely regrown already, but she still felt shaken by having lost it. It was a choice she had made deliberately – she could have demanded full healing from her Acolytes, but she needed them to be ready to save the mark. Instead, she had made do with a simple holy Restoration that slowly pulsed within her, healing the damage second by second. It wasn’t like she needed the arm urgently. Although, she did have to go digging around on the ground to retrieve her Orb of Mana.
+
+It’s been almost a minute, she thought. For the entire duration of Malika and Mato’s turns with the curse, she had realized that it wasn’t that difficult of a fight, provided you were not the ‘prey’. If you were, it was insane, and she knew she was still rattled enough to be missing important opportunities and details. She stood to the side and watched all the demons mobbing Mato, ignoring everything else in the room. Her Storm Shamans’ lightning nova totems must be racking up enormous amounts of damage as the demons didn’t even bother avoiding them in their frantic rush to get at the marked person. Although, with all the hellfire flying through the room, it was not likely they would kill anything more than a couple of imps. Still, she focused her minions on tracking down the boss, and the totems helped dispel some of the illusions whenever it teleported.
+
+“You will be my prey.”
+
+Suddenly, every single demon in the room stopped and turned, fixing their gaze on Calen. He gulped. His wings unfurled and he threw himself into the air, but Ali saw at least ten Amplify Casting and Accelerated Casting spell formations ripple through the horde of demonic imps.
+
+Aah, crap! There was no way she could block all that, and Calen had no way to survive it either – perhaps if she still had her imp boosting her intelligence, her barrier may have been strong enough, but it had been wiped out early in the fight. No chance.
+
+She threw up a barrier anyway. The first fireball detonation cracked the sphere and the second shattered it a fraction of a second later. Ali threw up another, slightly smaller orb around Calen, but the fireballs rained down like a meteor storm. Barriers shattered as fast as she could throw them up, filling the air with golden shards and dust like her terrifying fall through the ventilation shaft. Her spheres rapidly shrank in size, constricting around Calen’s body. He shouted something through the glittering fiery conflagration, but Ali couldn’t hear a thing.
+
+“Fuck,” she muttered and triggered Arcane Recall. She needed a different strategy. In the abrupt artificial stillness and calm of her spell, she counted seven fireballs passing through the remains of her last barrier on their way toward Calen – and, to her horror, she spotted the remains of a recall potion that had been blown out of his hand, spraying trails of shattered glass and smoke out into the frozen black flames.
+
+Quickly, she flipped the pages of her Grimoire stopping at the ooze imprint. Which creature she picked was hardly relevant, she was looking for an aptitude. And the Lava Lurker had it. Fire immunity. This should do it. Its body was also infinitely malleable. She summoned it right on top of Calen, forcing it to be created enveloping him. Sorry, Calen, she grimaced internally. It would undoubtedly be excruciatingly painful, but the flame damage from the ooze was nothing like what was about to hit him from all those imps.
+
+Suddenly, time resumed, and the reddish scorching lava ooze appeared draped over Calen’s head and torso. “Heal Calen!” she screamed, sending the commands to her Acolytes, but they were already focused on him. His panicked cry of alarm was muffled from inside the body of the ooze.
+
+That must be terrifying, she thought. He had been staring death in the eye and suddenly he was drowning, smothered by crawling lava. And she had been unable to warn him beforehand. The detonations of hellfire blasted shockwaves through the room, and her Acolytes scrambled to heal Calen in the epicenter of the blasts. Imps launched themselves recklessly into the fire, trying desperately to cling to the Lava Lurker or Calen’s burning legs, only to fall screaming back into the seething mass of demons on the ground. Ali ignored them, her attention glued to the sight of Calen’s wildly fluctuating health. As soon as the last of the instant fireballs detonated, Ali threw up a fresh barrier around Calen and made the ooze release him.
+
+“Sorry,” she called out.
+
+Calen coughed, his face rapidly unburning to an unhealthy pasty white under the ministrations of the healers. “Uh… no problem.” He was visibly shaking from the unpleasant and extremely painful experience, but he was alive. Ali fed her barrier magic more mana. It’s a good thing my barrier recovers some mana on impact, she thought. The amount of mana she was pouring into the construct was quite ridiculous, but then, so was the damage she was preventing.
+
+Ali hovered above the mass of demons that now completely filled the cavern. They were even crawling over one another to gain height to try and reach the flying half-elf.
+
+“Brace!” Malika shouted. “He’s doing something big!”
+
+“That’ wasn’t big enough?” Calen yelped.
+
+Whatever it was, she couldn’t see anything from the raid boss’s mana – it simply stood there, hellfire winking out of existence, leaving his bow plain and unadorned. He raised it to the roof and fired a single shot, but as the air filled with a thousand arrows, Ali gasped in alarm.
+
+She slammed a thick barrier overhead and hunkered down next to her Acolytes while she screamed for her friends and minions to come to take cover. Then the storm descended. It was like a hailstorm of arrows that went on and on. Not a single drop of fire magic was present; every single arrow that fell was solely physical damage. Her mana drained, feeding her barrier spell as it was unable to recover anything from the purely physical, stamina-based skill. Calen ducked under her barrier, followed by Malika. Mato charged under cover, his back bristling with arrows like a porcupine. Whichever of her minions did not make it to cover died to the unrelenting onslaught, along with every single demon in the room.
+
+No fire, she realized. The boss was clearing the room before the demons got out of hand. Fire didn’t work against them, so this skill seemed ideally suited to the job. She downed a mana potion to keep up with the demands of maintaining her barrier magic, replacing it every time it cracked, and simply endured. She was reminded of the time they had hidden from the bone spear breath of the Skeletal Wyvern in the library – that feeling of helplessness in the face of an overwhelming onslaught.
+
+Suddenly there was silence, so stark after the din that it hurt her ears, and she recovered her wits, looking around. But in that moment, she saw something horrifying; a powerful surge of mana drawn from each of the demon corpses flowed back through the domain to the Flamecaller, and the boss’s health began to rapidly recover.
+
+“You will be my prey.”
+
+You have been cursed with Mark of Prey.
+
+This time she was more prepared – she collapsed her barrier around herself and fired her shards at the Flamecaller boss as its bow once again flared with the roaring hellfire flames.
+
+“Calen, he healed to full when he cleared the room,” Ali yelled, sharing the disastrous news. “He drew mana from each of the bodies and it all went into healing.”
+
+“Go all out after the next teleport, I’ll use Righteous Fury,” Calen called out. “Mato, get in front of the rift and use your Battlemaster. Kill all the demons.”
+
+Carefully, Ali backed up against the rock wall, and sure enough, the boss vanished right on cue. She removed the back half of her barrier, reinforcing the front instead, relying on the rock behind her to keep her safe. It seemed that Calen had understood her guess; the boss somehow healed from the monsters he killed, and his new strategy seemed to be to deny the boss any more kills, relying on Mato’s potent retaliation attack when the monsters ignored him running past to attack the Prey.
+
+Ali didn’t have time to watch him down there, focused instead on wherever the boss might appear. She whipped her head to the side as the howling noise of the boss’s powerful attack filled the chamber and instinctively shifted her barrier. The room shook and her barrier shattered, but this time she had built enough defense and a properly angled barrier surface. The arrow deflected slightly as it destroyed her golden wall and glanced off her shoulder to bury itself deep in the granite behind her. All she sustained was a small wound and a lingering patch of hellfire as the Power Shot expended its energy into the rock.
+
+Thank goodness, she thought as a small trickle of restoration magic repaired her wound. I can be much smarter about barrier angles and types. I wonder what else I can do? Arrow funnels? Arcs that return arrows to their sender – oh, crap!
+
+She slammed up another barrier as two imps entered via the shimmering rift and fixed their eyes on her – but their fixation triggered Mato’s retaliation skill, and the loud thumps and crashes of his blurring strikes filled the room. Up in the center, suspended on glowing wings, Calen’s mana ignited, outshining the rift itself. His skill activation signaled their counterattack. The pulsing motes of light flared with intense power, and Ali directed her minions to attack without holding back. “All on the boss!” If they ran out of mana or stamina, she would deal with that later. Skills flared, and the room filled with lightning, magic, totems, and arrows.
+
+She studied the Flamecaller’s health while everything in the chamber howled, hissed, crackled, and flickered. It was the best opportunity for their counterattack, given that the boss had just cleared the room of demons for them. The Flamecaller’s health spiraled rapidly downward under the hail of the empowered arrows Calen was firing, Malika’s flickering punches, and even her barrier shards. Her job, though, was still to keep her healers out of harm’s way. They were weak enough to die instantly to a single arrow. But Mato’s presence at the rift was having a major impact – she did not have to defend herself much against demons even though she was cursed, they were either trapped there by roots or killed from the combination of lightning totems and his powerful retaliation strikes as they all failed to pay attention to him under the influence of the powerful Mark of Prey.
+
+Calen’s light finally faded, but the boss still stood. He was so close to death it was a wonder he could still move, but he fired his teleport, vanishing and leaving five images behind. At the same moment, the handful of remaining live demons that had come through the rift turned to Mato and began attacking him. In a moment of surprise, Ali realized she had survived her turn as prey without really noticing the curse expiring.
+
+“Mato’s cursed,” Ali shouted.
+
+“Shit!” Calen exclaimed, realizing the implications instantly. If Mato had the curse, the demons would no longer ignore him – which meant his Battlemaster wouldn’t trigger, and their primary tool for killing them was rendered ineffective.
+
+“I’ll block,” Ali suggested, not certain if the improvised strategy would even work. She dropped her heavy barrier and instead threw up barriers around the demons Mato was fighting at the rift.
+
+If that snake kills even one or two, he will heal again. She had no desire to let the Flamecaller kill his way back to health.
+
+There was a sudden howl and crash, followed by a roar of pain as a hellfire arrow shattered one of her barriers and buried itself deep in Mato’s side, knocking him sprawling. Ali reacted instantly, throwing up a replacement barrier in front of him and taking the brunt of a fireball and a hellfire breath attack before they hit him. She could see just how low his health was from that powerful Ambush, and she knew she had to give her healers a few seconds to help him recover. Holy magic flared beside her, and Mato’s health shot up. Another spell landed, and his health recovered further. She blocked another breath attack and finally, his health crept up to a safer level.
+
+Her intense focus was interrupted by a chime.
+
+Your group has defeated Demon Hunter – Flamecaller Elemental – level 75 (Hellfire)
+
+The boss was down, but there were still dozens of demons running around like soldier ants disturbed from their nest. As soon as Mato’s curse wore off, they would attack everyone indiscriminately.
+
+“What do we do about the demons,” Malika said. “And that… rift?”
+
+“Let’s help Mato clear the room,” Calen said, his bowstring still twanging continuously. “Ali, deconstruct the boss quickly. We can keep the demons off you for a bit.”
+
+“Ok. This won’t take long,” Ali said, and darted over to the corpse, glad that Calen had remembered her magic, and that she would have the opportunity to learn something new. Demon Hunter was a class they had not seen yet, but it had to be a specialization of the regular hunters. The main differences had been the lack of minions, substantially increased power, and the ridiculous rain of arrows that had cleared the room. Quickly, she set about deconstructing the downed boss while directing her remaining minions to support her friends at the rift. Ten seconds later, the monster evaporated into mana, and several things dropped to the ground while her chimes sounded.
+
+[Sage of Learning]Domain Magic analyzed: Mark of Prey.Domain Magic analyzed: Slayer (Demon).Domain Magic analyzed: Attribute Enhancement (Dexterity).
+
+Ali grabbed the bow and bracers the monster had dropped, along with five essences that flickered with black flame, and stored all of it before she hopped on a barrier and flew off to join her friends. Demons still slowly trickled in through the rift.
+
+“I’m done,” Ali said. “We can go.”
+
+“We have a bit of a problem,” Malika said. “The demons are not stopping.” Sure enough, as she said it, the rift shimmered and coughed up another Hellfire Warg.
+
+“Without the boss, they seem pretty easy to manage,” Calen said, unleashing arrows at the handful of demons Mato was now tanking.
+
+“But we can’t wait here until the boss respawns,” Malika countered. “And if we leave, what then? Does the dungeon just slowly fill up with demons?”
+
+“You have a good point,” Calen said, frowning.
+
+“What if Ali barricades the door with some stone?” Malika suggested.
+
+“I can do that, but I think the dungeon might just deconstruct it,” Ali said.
+
+“I think we should go see where they’re coming from,” Calen said, his eyes sparkling with curiosity. “Maybe we can stop it at the source?”
+
+“Through the rift?” Ali asked, eyeing the scintillating tear in the fabric of the realm.
+
+“We killed the boss, it’s a unique opportunity to learn what’s causing the problem and maybe fix it,” Calen argued.
+
+“Mato would say yes,” Malika said, answering for the bear. “The demons are not too challenging, so it’s probably worth the risk.”
+
+“Hopefully it’s not a spawning pool or something crazy,” Ali said, but it seemed that Malika was right, there were only two wargs left attacking Mato and both of them were low on health already, due to her strategic barrier placement. Only one imp remained. Even with new demons walking in every now and then, they were killing them quickly.
+
+“If that’s the case, we leave and try Malika’s idea of boarding up the doorway,” Calen suggested, licking his lips as he stared at the portal.
+
+He really is an explorer at heart… Ali glanced at the couple of demons – now corpses – that had phased through the rift since the conclusion of the battle. Nothing we can’t handle. Won’t hurt to take a quick peek to satisfy his curiosity. Her eyes lingered on the rift itself and the incredible manifestation of magic it represented, wondering what she might learn from studying it – even just experiencing it.
+
+“Give me a few minutes to replace my minions and then we can go check it out,” Ali said. As her friends and her minions finished off the demons, she resummoned her Hellfire Imp and recovered her intelligence buff and then they all approached the strangely shimmering, shifting tear.
+
+Up close, it seemed quite stable, only at the ragged edges were there sparks of rainbow-colored mana discharging into the profoundly twisted magic being leaked across the torn boundary between realms. Mato glanced at them and then stepped through the rift, his form warping strangely and turning into a much smaller dark shimmering blob, vaguely seen through the partially transparent rift, and disappearing entirely from her mana sight. It seemed none of her skills worked across the rift – like it was opaque to her magic. Aligned with her desires for once, Sage of Learning drew heavily from her mana as she witnessed the astonishing phenomenon.
+
+Ali smiled to herself. Yes, I can learn so much here. It’s just like stepping into my own library.
+
+Calen stepped through next, followed by Malika. Ali sent her minions through first and then quickly followed.
+
+The rift tugged at her skin like a resilient slippery soap-bubble membrane while her body and senses warped and twisted. Her mana sight registered a rainbow-burst of chaotic light and movement for several seconds until she shoved her way through and stumbled out onto the damp, rust-colored rocky ground beyond. Ali coughed, struggling to catch her breath in the acrid, scorching, and oppressively heavy atmosphere. A strong sulfurous stench hung in the air, reminding her of the first time she had encountered a Fire Mage, but it seemed to emanate from everywhere all at once. Yet, despite the discomfort, breathing did not require the continual assistance of a holy Restoration spell.
+
+A sudden cackling drew a reflexive barrier from her fingertips, and a ball of hellfire detonated on it, but her friends and minions made quick work of the lone imp.
+
+“This is an abyssal plane,” Calen said, his voice hushed in awe as he scanned the deep cavern they had emerged into. His Explorer skill must be going crazy because his attention kept being pulled off to unseen notifications.
+
+Ali took a few moments to survey the cavern with every available sense. It was hot and muggy everywhere, that much she could tell even without her imp’s heat vision, but the mana was surprisingly dense and potent, contributing greatly to the oppressive weight she felt in the air. The cavern itself was mostly dark, lit only by the shifting light of the rift and now by Calen’s floating orbs that threw back glittering sparkles from minerals embedded in the far walls. They were interlopers here in a desolate wasteland devoid of life. No insects crawled across the jagged igneous boulders, not even a cockroach. No plants sprouted from the cracks, colonizing the mineral-rich ground or feeding on the dense mana. Beside the imp that had jumped them the moment they entered, nothing moved.
+
+The elusive sounds of distant chimes echoed through the cavern, a hint of a melody that plucked at Ali’s memories and left goosebumps crawling down the back of her arms – so faint that she couldn’t even tell if they were real or it was just her imagination playing tricks on her.
+
+“Which way, explorer boy?” Malika asked, snapping Calen out of his wonder, and Ali chuckled at his sudden startled expression.
+
+“Sorry, that sounded rude,” Malika apologized, “but you are the resident Pathfinder here.”
+
+“It’s fine,” he said, grinning at her and showing he hadn’t taken offense. “I was just distracted. I never imagined I would set foot in another realm! I think the demons were coming from this direction.” The awe in his voice hadn’t entirely left as he led them forward along the rocky scree lining the floor of the cave. “Whatever is creating them seems to be through that tunnel. Mmm-hmm, tum-tee-tum, be on alert, everyone.”
+
+It was nice to see him being so cheerful. Mato’s bear fangs flashed in a grin at their companion’s little ditty. Ali glanced back at the shimmering rift, reassuring herself that the way back was still open. She had no idea what she would do if they got stranded here.
+
+They followed Calen into a dark tunnel, cracked stone and rubble crunching under the feet of her larger Hobgoblins. The walls wept wine-red droplets of a viscous liquid while the ambient mana pulsed slowly, making Ali imagine that she was entering the bowels of some gargantuan beast.
+
+“Well, isn’t this wonderfully creepy?” Malika said, cheerfully.
+
+“Yes,” Ali said, irrationally wishing she could hold her friend’s hand. Why is she smiling like that?
+
+The tunnel meandered back and forth, heading always slightly upward, passing through several wide-open caves that seemed to be filled with debris and rock, occasionally running into an imp or a warg headed in the opposite direction.
+
+“Do you think they’re attracted to the rift?” Ali asked. It was certainly a powerful force, traces of its presence still visible in her sight as rainbow-hued scintillating flecks of drifting mana. Every single demon they encountered seemed to be heading downward toward the rift itself.
+
+“I think that’s a reasonable assumption,” Calen said, his eyes glancing shifting rapidly side-to-side. He rubbed his beardless chin thoughtfully. “You’re a very reasonable person, Ali, have I told you that?”
+
+“Uh… no?” Am I blushing? I guess it’s just the heat in here.
+
+They came to the end of a cavern with several exits, but Calen led them unerringly to an unnatural-looking hole in the wall, covered with scrapes and grooves as if some monstrous being had chewed its way through solid basalt. “I don’t think we want to fight whatever it is that made this,” Ali said, pursing her lips in thought. Some of the scrape marks were larger than her entire body.
+
+“Yeah, we’ll run if we find anything too powerful to handle,” Malika said, nodding her head. “I’ve got my running boots on.”
+
+“We might have to actually run,” Ali said, starting to form a thoughtful frown that simply wouldn’t stick to her face. “I don’t recall if recall potions work from another realm. Call, recall, call… isn’t that funny?”
+
+“Wait, seriously?” Malika said, freezing mid-step and glancing back at Ali for a moment.
+
+“The Novaspark Locus requires mana to complete the teleport, and the amount is proportional to the distance…” Ali said. Did distance even have meaning across realms? How much mana would it even cost? Ali ran several calculations in her head, but without a deep understanding of cosmology and the topology of the rift and nearby realms, her numbers would remain wild guesses at best. Eh, it probably will be fine!
+
+“Oh, and we’re in…” Calen whispered, his pupils grown large in the darkness. “We’ll have to … run! Pfft!” He snorted suddenly. “Let’s be on our guard! On our guard! On our guard!” he continued repeating the sing-song chant as he marched forward. “Come on, no dawdling in the ranks, back there! Hop to it!”
+
+“What’s up with him?” Ali asked, grinning at Malika.
+
+“Seems excited,” Malika answered. “The music’s kind of nice, don’t you think?”
+
+“You hear it, too?” Ali said, slipping several additional threads of awareness into more of her minions and settling into the unusual Tremor Sense of her Ooze.
+
+They emerged from the gouged-out tunnel and into a new cavern, but this one had gleaming crystals embedded into the rock walls, glowing with a dark red inner light that reminded Ali of the wargs’ eyes in the depths of hellfire. Dripping from the walls were trickles of shadowed red that pooled into a river flowing sluggishly away through the center of the cavern. At the far edge of her sight, she could make out what looked like a tall brazier of hellfire – whatever it was, it clearly was not natural. She wrinkled her nose at the strange metallic tang in the air. What is that smell…
+
+Malika let out a low exclamation of surprise.
+
+“What is it?” Calen asked, head whipping about.
+
+“Bloodstone, look!” Malika exclaimed, eyes sparkling with excitement as she crept into the cavern, her hand reaching for a crystal.
+
+Ali immediately identified it.
+
+Abyssal Bloodstone
+
+“Wait, Malika! I think we should be careful,” Ali cautioned. The mana in this place pricked at her memories, but she just couldn’t put her finger on it. It was a lot denser than she was used to, and the affinities were strangely mixed in a detailed patterned structure that was beyond even her advanced mana sight and understanding.
+
+“Wait for what?” she complained. “Just look at this! We’re gonna be so rich!”
+
+“We are being careful!” Calen sang, prancing over to see what Malika was on about.
+
+Is he drunk?
+
+“Hey Ali, come help me with this!” Malika called, her face flushed as she tried to lever one of the rock-embedded crystals out of the wall.
+
+“Is it valuable?” Ali asked, floating curiously out into the open space, with her minions fanning out around her.
+
+“It appraises as an exceptionally potent crafting resource,” she explained breathlessly. “Useful for armor, jewelry, and a whole host of magical devices – even potions. You definitely need to learn this!”
+
+“Is this blood?” Ali ran her fingers across the surprisingly warm gleaming crystal, and they came away wet and sticky.
+
+“It smells like blood!” Malika said, grinning. She wiped a finger across the stone and examined it closely, and then popped it in her mouth. “Tastes like it, too.”
+
+Strange mana poured forth from the crystal, mingling with the rest of the ambient mana in the cave in a way that, while beyond her grasp, still somehow seemed strangely familiar.
+
+Is it Magicite? Ali craned her neck to examine the bloodstone more closely. If it was, it was no affinity she had ever heard of. I need it!
+
+Quickly she deconstructed the stone before moving on to the next one with a sudden frenzied urgency. In the background, the strange haunting melody swelled toward a crescendo. As Ali deconstructed the third one, Calen suddenly called out in surprise, standing out in the middle of the chamber.
+
+“Hey guys! Guys!” Calen giggled, the high-pitched sound falling in a strangely muted way in the chamber. “This… this is a dungeon!”
+
+“Don’t be silly, Giggles,” Malika snorted. “It can’t be a dungeon!”
+
+Ali snorted. “Giggles…”
+
+Variant: Abyssal Bloodstone added to Imprint: Stone.
+
+Ooh, I got it! So… pretty, that mana’s so…
+
+“No, seriously,” Calen said. “Look at this!” A chime went off in Ali’s mind as he shared the results of his Explorer skill.
+
+Lair of the Demon GodAffinity: Hellfire, Blood.Age: ?Known Creatures: Demons.Known Bosses: ?Dungeon
+
+“My skill can’t even figure out the threat assessment or level,” he said, and then burst into gales of laughter and slapped Mato on the flank. The hefty bear shimmied out of the way. “Demon God! Ha ha ha! That’s rich, right?”
+
+“Is Mato… dancing?” Ali asked, pointing and nudging Malika.
+
+“He is, and he’s good!” Malika crowed, “Maybe I should ask him for some samba lessons!”
+
+Ali grinned hugely; happy her friends were having such a good time. Exploring through the rift had been a fantastic idea. She scanned the cavern, searching for more bloodstone, and her eyes slipped across a shadow that gleamed strangely in the darkness.
+
+Hmm, that’s… weird? She smiled again at Malika’s raucous laughter and looked back.
+
+There, staring out of the shadows, was a great floating orb of light-consuming blackness, a shadow among shadows, trailing writhing tentacles that reached to the ground below it. Below the giant central blood-red glowing eye, larger than her head, was a mouth filled with gleaming fangs – and dotted around its face were a distinctly uncomfortable number of eyes of several different varieties and sizes. Two mid-sized eyes stood in the ridged brow above and to either side of the central one, forming an inverted gleaming triangle. A smaller, vertically-aligned central eye was embedded in the forehead above the largest one, with two further pairs on either side. All these eyes swept around to stare directly at her as the mote remnants of the dissolved bloodstone burst out into the air.
+
+Ooh, a friend! Ali identified him.
+
+Sentinel – Demon – level ?? (Mind)
+
+As the notification text appeared, something shimmered and it warped, changing smoothly into something else.
+
+Fuzzy Cottontail – Rabbit – level ?? (Hellfire / Blood)
+
+Oh, I remember this game! Ali thought. It’s just like Mieri–
+
+A sudden recollection of pain and despair at the hands of the talented Mind Mage burst into Ali’s mind like a silent explosion of dread. A chill rippled through her heart, and she swallowed, staring at the monster of nightmares. The insidious tendrils of the mind demon had infiltrated her mind, bypassing her defenses entirely unawares! Ali sucked at the air, but found she could not breathe.
+
+Suddenly, it all made sense; the mana pouring from the bloodstone fed a vastly denser domain than hers, mingling with what looked like hellfire mana, but again much more potent than what she had observed from the Flamecallers and their imp, or warg minions.
+
+We’re in a dungeon. As far as she could tell, in the short distance between where she stood by the crystals and the back of the cavern where the demon lurked, the domain grew far more potent than even the densest mana she had billowing out from the Elder Tree. Certainly, way beyond anything she had ever experienced. A very high-level dungeon!
+
+And she and her friends had waltzed right into the demon’s clutches.
+
+“Malika,” she whispered.
+
+“Come on, Ali! Let’s dance!”
+
+“Malika!” she hissed. “Mind magic!”
+
+“Don’t be silly, Mieriel is still at the Adventurers’ –” Malika began, and then her face froze in an expression of horror, giggles and grins shattered. “Mind magic,” she croaked, turning to glance surreptitiously at the demon in the corner as Ali indicated with her eyes. “Fuck, oh fuck…”
+
+They both turned to find Mato on his hind paws dancing with Calen out in front of the many-eyed horror.
+
+“They’re charmed,” Ali whispered.
+
+“I thought Mato had a lot of wisdom, like us? Can’t he break it?”
+
+“His Natural Prowess doesn’t boost wisdom in his Bear Form, only his tree and beastkin forms,” Ali said. “I don’t know how to get him to transform without alerting the demon.” It seemed like the Sentinel was content to keep luring them in with whatever spell it had wormed into their minds, and hadn’t yet noticed that the two of them had broken free of its clutches.
+
+“Oh, that’s easy,” Malika whispered back. Standing up with a loud forced giggle, she called out, “Hey, Mato, I’m hungry. Isn’t it picnic time yet?”
+
+The bear wheeled about and immediately transformed into his Beastkin form, and as he did so, Ali witnessed his euphoric expression crumple into one of shock and fear. To his credit, Mato reacted instantly, sweeping Calen off his feet and running full tilt back toward Ali and Malika.
+
+“Ooh, Mato!” Calen exclaimed. “Whee, this is fun!”
+
+The huge vertical eye in the middle of the monster’s forehead split wider and blazed with mana. The background chimes suddenly rose to an angry shriek and blasted into Ali’s mind with the force of a boulder launched from a catapult.
+
+Ali stumbled, clutching her temples as the hammer-blow of agony almost knocked her unconscious. Only a millisecond’s preparation had helped her to resist; to partially deflect the attack somehow.
+
+“Run!” Malika shouted.
+
+The Sentinel’s jagged mouth yawned open to reveal a perfect circle of gleaming, needle-sharp fangs, and another mind-breaking, skin-crawling hiss filled the cave. Several more orb-shaped Sentinel demons of differing sizes, colors, and number of eyes shimmered as they materialized in the cavern. The huge central eye gazed at the ground and projected a broad complex runic formation onto the stone with potent red mana. Ali recognized a high-level teleportation spell.
+
+“Incoming!” she yelled.
+
+Fuck, how could we be so stupid? She had just waltzed into the demonic dungeon of some ancient god, lured in by a charm spell of all things – and she had pissed it off by deconstructing several of the bloodstones that only now she now realized were part of its domain mana propagation. Brilliant. Just brilliant.
+
+Calen giggled like a child offered a ridiculously large candy.
+
+The strange mana of this realm rippled all around them, multiplying her danger-sense a hundredfold.
+
+Fuck, here we go! Ali turned to flee and, in the chamber behind her, dozens and dozens of imps, wargs, and other demons she had no name for began to materialize, popping out of the runic formation with howls and hisses of fury. A second, giant teleportation circle opened in the center of the cavern and a behemoth of a demon suddenly filled the cavern, a presence so vast that the ambient mana bent around it. She had risked a glance back, but she wished she hadn’t. Her blood ran cold at the sight of stubby bat-like crimson wings that sprouted from its massive back as it turned its enormous body to face them. Far too many gleaming fangs were crammed into a dripping maw that seemed too wide for its blunt face. Dark recessed eyes fixed her with a cruel glare while it readied a blood-smeared glaive held in a powerful clawed hand. The weapon was at least twice as long as Mato was tall.
+
+“Intruders! Sound the alarm!”
+
+Ali clapped her hands to her ears.
+
+Four monstrously heavy legs shook the cavern as the creature lumbered into motion, bearing a corpulent body that would dwarf even Ali’s biggest Forest Guardian. But it was the intense mana and overwhelming presence that made her gasp as it bore down on her with the palpable force of an invisible hand of god, trying to snuff out her life.
+
+Maalgaroth [The Corrupter] – Pit Lord – level ??? (Blood / Hellfire)
+
+The sticky, cloying mana rolled off of the Pit Lord in waves, crashing through the cavern in time to the pulsing of the crown of hellfire hovering upon its brow. As the stupendous tide of its aura smashed into her, Ali’s notification chimed cheerfully.
+
+You have been afflicted with the Pit Lord’s Corrupted Blood.+30 damage per second bleed.Demonic energy infuses your blood causing progressively worsening disorientation, perception distortion, nausea, and dizziness.After 30 minutes your race gains the demonic trait, and you become a thrall of the Pit Lord. Contagious. Range: 25 meters.Corruption – Duration: 30 minutes.
+
+She swept up her Acolytes and fled into the tunnel with her friends, frantically throwing barriers up behind them to catch the storm of hellfire hurled their way, biting down against the waves of nausea and dizziness that tore through her body like a squall. She wiped the sweat from her face, but her hand came away dripping amber, covered in her blood.
+
+A deafening droning filled the air as a cloud of hundreds of demonic hornets each the size of her fist swept past one of her barriers and descended, biting and stinging, upon a struggling Storm Shaman. In seconds, Ali’s reserve snapped, and the poor Goblin dropped to the ground as a shriveled husk, literally sucked dry in moments. Angry red mana surged like mist among the swarm as they circled once and took off after a Kobold rogue.
+
+The roof crawled as hundreds of cloaked shadowy spider demons poured in after them, seen only through the Tremor Sense of her ooze and the heat vision of her imp. Even as the hornets drained her struggling minions of blood, the spiders appeared from the shadows with vicious blade-like strikes, decapitating and mutilating in an instant.
+
+The tons of rock weighing down above their heads shook with the force of a mighty crash as the Pit Lord threw its enormous bulk at the too-narrow tunnel, its claws tearing through stone as if it were clay, rapidly expanding the rocky tunnel in its eagerness to hunt.
+
+“Go!” Malika shouted. “Go!”
+
+“Go! Go! Go!” Calen echoed, singing merrily while blood ran in rivulets from his eyes and nose.
+
+“Snap out of it, Calen,” Mato growled, barely keeping ahead of Ali’s rapidly dying minions and delaying barriers as his bewildered friend bounced on his shoulders.
+
+“He doesn’t have enough wisdom,” Ali said. “We need to get out of here!”
+
+“Slap him!” Malika yelled.
+
+Calen’s face scrunched up. “You don’t love me any moooo –”
+
+Mato’s thwack clipped the back of Calen’s head, but did nothing apart from make him blink in surprise. Throwing down a quick Divine Step, Malika found an angle and belted him savagely across the right cheek. “Wake up, you idiot!”
+
+The poor half-elf blinked rapidly several times, his hand leaping to his cheek. “You little – oh! Oh, fuck! I feel the love now…”
+
+How they made it back to the rift in one piece, Ali would never know, but somehow, they managed to avoid dying to the fireballs, outran the giant Pit Lord, and avoided the horde of its demonic companions trying to tear them apart. She sighed in relief at the disorienting transition as she dove through the rift, suddenly finding herself back in the empty chamber of the Emberforge Mine’s Demon Hunter with the life-saving holy restoration barely able to keep pace with the corrupted blood that was making her bleed from her eyes and her ears.
+
+But the surface of the rift rippled violently and an enormous, clawed hand thrust through, wielding the giant glaive that dripped with blood. Ali squealed, scrambling backward behind a hastily cast protective barrier as the huge polearm impaled one of her Hobgoblins and drew it struggling and dying back through the rift. Its despairing shriek cut off with a horrific crunch.
+
+The surface of the rift rippled, beginning to disgorge demons in their dozens.
+
+“Aah! It’s a dungeon-break! Run – run faster!” Calen shouted, staring wide-eyed at the horde of smaller demons pouring through the rift, clawing, biting, and burning in their fervor to catch them. “What the fuck, why am I bleeding?”
+
+“Welcome back, Giggles,” Mato said, “Now, how about you use your own legs for a change?” He threw Calen toward the doorway and took off at a sprint, his body already warping into his Bear Form for more power.
+
+Ali needed no encouragement, pushing her barrier to its utmost speed while she hung on with a white-knuckled grip.
+
+“What about the respawns?” Malika asked, her healing magic flickering rapidly as they rounded the corner entering the Landing. They had been down here for long enough that the Emberforge Mines should have respawned many of the elementals in the earlier tunnels.
+
+“Just run past them, hopefully they will slow down the demons,” Calen managed.
+
+“Uh, shouldn’t we recall around now?” Ali asked, flying as fast as she could with her heart beating rapidly in her chest. She had lost most of her minions to the demonic horde that was pursuing them with fire, raucous cackling, and continuous howling. She coughed, retching up blood, and almost fell off her barrier. Her friends and all her minions were suffering, staggering as they ran, trailing blood on the ground behind them.
+
+“We can’t,” Malika gasped. “The corruption is contagious.”
+
+“We have to find somewhere to stop them,” Calen said, his words coming ragged. “We can’t train the dungeon-break into Myrin’s Keep; they’ll kill everyone. And we need somewhere to plant Mato to cure this corruption.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

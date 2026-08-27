@@ -1,0 +1,333 @@
+---
+id: 2b290e5f-1a3f-5973-8b59-ab75edf9607b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 159: Visiting"
+slug: 0162-chapter-159-visiting
+partOf: dungeon-of-knowledge-complete
+position: 162
+ownLength: 5564
+unit: words
+ownProgress: 5564
+publishedAt: 2024-11-19
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1912723/chapter-159-visiting"
+royalRoadId: "1912723"
+markedReadAt: "2026-06-29T20:16:29.094Z"
+---
+
+The dungeon-rage stabbed into her mind, making her gasp with pain and stagger into the table. Ali vaguely heard the exclamations of concern, but her vision was dim, and the sounds came to her faintly against the roar that smashed through her brain.
+
+Her vision flickered and lurched back to some semblance of normal and she found Lira kneeling on the floor beside her holding her tightly, so she didn’t fall.
+
+“Are you ok, dear?” The concern on her face was echoed by all of them.
+
+“Yes, it’s fading,” she lied. In truth, she was simply getting used to it, but Lira and her friends would worry about it and there was nothing she could do to fix it for now. It was the suddenness – the surprise – that always caught her off guard.
+
+Your minions have defeated Shard of Flame – Elemental – level 49 (Fire).
+
+The pain suddenly eased.
+
+For the price of locking up almost a thousand of her precious mana, her minions were fighting the Emberforge Mines and its continuous dungeon-break, holding back the elementals that it was spewing forth into the jungle. And every so often in the chaos of battle, the elemental might clip her domain mana with its aura of flame, and she would experience the excruciating pain anew. It was quite debilitating, not knowing when or where it would strike.
+
+She sat gingerly on the chair and accepted Malika’s offer of a cup of water.
+
+What were we discussing? She tried to cast her mind back over the conversation they were having before it had struck.
+
+“Morwynne can make fire resistance and fire absorption potions, but they require some fire extracts from the herbalists,” Mato noted, his eyes glancing her way to check if she was really ok. “Eliyen can make it, but they need fire-affinity plants, and of course, there are none nearby. She said the closest is a several day hike up in the mountains near some small fissures and volcanic lava flows. She did offer me Basil if we want to try that.”
+
+Oh yes, that was it. Finding fire resistance gear and potions was proving harder than she had expected.
+
+“That’s probably a good option, though,” she said. If they could find a fire-affinity plant, she could spend one of her Grimoire chapters to learn it, and then they could make as much as they needed, and the potions would simply cost the money for the other ingredients and the time to make them.
+
+“I don’t mind making the hike if we think that’s going to be worth the effort,” Mato answered.
+
+“Calen or Ali may be faster though, because they can fly,” Malika said.
+
+“Is there anything I can do?” Ryn asked.
+
+Before she could answer, Ali felt footsteps and a heartbeat approaching from the darkness and looked up to find Calen stepping out of the shadows.
+
+“Six this time,” he announced and walked over to where Malika was sitting and transferred the bright glowing handfuls of flame to her storage enchant, getting a heal in return.
+
+“That’s probably enough for Thuli to make our plate order,” Malika said. “It’s the leather and the cloth that we’re stuck with. And I have no idea what I’m going to do, I can’t even wear armor.”
+
+“My mom can’t do any fire resistance enchants,” Calen said, looking a little down about it. Ali was immediately reminded how Lydia had seemed the same way, expressing the feeling of being trapped by her profession and the way the guilds treated independent crafters.
+
+“None of the other tailors in town can either, I checked all of them,” he finished.
+
+Cloth armor was their biggest problem. While she did have general magic resistance, something that had made herself and her Acolytes more robust than most of her minions, Ali still had extremely low health compared to almost anyone else, and she would need more protection against the dungeon’s mana if she wanted to be safe.
+
+“There are no decent leatherworkers in town,” Calen lamented, but his eyes danced in a clear signal that he already had an idea. “I was thinking I’d check in Ciradyl when I go back for training. I can check for other things while I’m there.”
+
+“I’ll make you a list,” Malika said. “You might want to take a lot of gold; I don’t think this stuff will be cheap.”
+
+Everything needs gold. It was a good thing she could make so many valuable resources, otherwise she had no idea what they would do.
+
+“What is Ciradyl’s library like?” Ryn’s voice piped up from the table where she was laying out the books she had collected.
+
+“I don’t know,” Calen answered. “But I can take one person with me, do you want to come?”
+
+Ryn’s eyes lit up. “Ooh! Oh! Yes! Please?”
+
+“How can you resist,” Mato chortled, slapping his friend on the shoulder. Calen turned pink.
+
+Oh, Ciradyl probably has a massive library. It was the capital of the Wood Elves, and, by Calen’s account, an enormous and advanced city. Ryn will disappear in a cloud of happiness… Her mind drifted briefly, daydreaming about the kinds of knowledge they might find there.
+
+Wait… Tailoring… Lydia’s problems with her tailoring class collided abruptly with her thoughts of the extensive knowledge that might be in the Ciradyl library.
+
+“That’s brilliant!” she exclaimed and suddenly felt the flush of embarrassment as everyone stopped and stared at the intensity of her outburst. “Well, maybe not that amazing, but… Calen, didn’t you say the Guild of Tailors spans New Daria?”
+
+“Almost all of the human kingdoms,” he answered. “The only reason mom can be independent is that Myrin’s Keep is too far out of the way, and too unimportant to attract attention.”
+
+“But it doesn’t operate in Ciradyl?”
+
+“No…” he answered, suddenly realizing what she was asking.
+
+“Now that you and Ryn are both fluent in Elvish, perhaps you could search the library for books on tailoring enchantments? Specifically, fire resistance? And then maybe your mom can make some things for us?” If Lydia could learn the enchantment and make decent gear, she could get custom pieces made for her acolytes and her mages too, and then she could learn them herself and make as many as needed.
+
+“That’s an awesome idea, Ali,” Malika said enthusiastically. “And it will be a lot cheaper than buying all the pieces already made.”
+
+Mato raised his huge paw of a hand and tapped Ali with greatly exaggerated gentleness upon the shoulder. “There.”
+
+“What was that?” Ali squeaked.
+
+“Didn’t want to flatten my favorite little dungeon.”
+
+“Mato!”
+
+“Ok, I’m ready,” Ryn said, trying not to bounce on her toes and failing miserably. Ready, minus my dignity. This is going to be such a good day!
+
+She had taken the time to pack a few things she thought she might need, but she probably wouldn’t need to stay too long in Ciradyl. Just long enough to secure a library membership and the books they needed, after which she would be able to return as often as she wanted. Just the thought of seeing the fabled Elven tree city, and the library sent tingling excitement prickling along the backs of her arms.
+
+“Have fun!” Ali said, her voice taking on a melodic tone with the lyrical speech of the Elven tongue. The new teaching skill Ali had unlocked had been crazy, she had literally felt her mind forging new connections in a state of pure focus like none she had ever experienced before. It had been a matter of a few relentless hours of study before she had received the notification that she had achieved fluency. While she hadn’t yet had a chance to test her new spoken skills with a native speaker, she could read! And Lira counts, doesn’t she?
+
+She took a deep breath. She was about to visit the biggest Elven city on this side of the continent, perhaps the world. What if I make a mistake and offend someone?
+
+Contrary to what she had said, she didn’t feel nearly prepared enough when Calen reached out his hand, but she took it anyway. Her stomach lurched as if the floor had just vanished out from under her feet, and she was no longer here. She stumbled on the wooden floor and reflexively summoned her wings, but she found herself standing just fine in the center of a magic circle with white-robed Elves looking on with amusement on their faces. She blushed in embarrassment and hurriedly put her unnecessary wings away. When she used her Library Teleport to the Grand Library Arcana, she always made sure to appear in the air of the atrium while flying – it was far easier that way.
+
+“Welcome to Ciradyl.”
+
+The voice was soft and feminine, and it took Ryn a moment to realize that the beautiful Elven lady was speaking Elvish. I understand her!  It even felt natural. Her embarrassment forgotten, she gazed eagerly around the room, taking in her first impression of Ciradyl.
+
+“You have pretty wings,” the Elf added. She was tall, dressed in the flowing white robe of the Temple of Lunaré, and she had gorgeous long flowing brown hair and kind green eyes.
+
+“Thank you,” Ryn replied. Almost a dozen Wood Elf Acolytes and guards sat or stood about the receiving room, but nobody seemed at all disturbed by their sudden appearance in the center of the large glowing white circle of runic magic.
+
+“You ok?” Calen asked, also speaking Elvish. She nodded and let him lead her out of the circle.
+
+“Um, could you perhaps direct me to the library?” Ryn wasn’t certain of the customary level of formality or politeness yet. Her brain was full of conflicting information she had read on the topic, but the Elven Priestess just smiled at her and offered a folded piece of paper.
+
+Puzzled, Ryn glanced at it, and then unfolded it, finding a small, detailed map of what must be the city. Oh. Of course, they’re prepared for wide-eyed tourists from tiny towns…
+
+She studied the map carefully, but she couldn’t make heads or tails of it. It was vastly more complex than a map had any right to be, so she showed it to Calen. “Can you understand this?”
+
+“I’m not sure I know where it is either. This is only my second time here, and I got lost last time – quite thoroughly lost,” Calen admitted, looking more than a little embarrassed.
+
+“Theolias, would you guide them to the library, please?” the Priestess asked.
+
+A male Wood Elf in robes that looked noticeably plainer, but no less well-crafted, bowed to her. “Of course, High Priestess.” He turned to them, gesturing with his hand toward the doorway, and said, “Whenever you’re ready.”
+
+Acolyte – Wood Elf – level ??
+
+Even the acolytes are a far higher level than me.
+
+“Lead the way, Theolias,” Calen said.
+
+Ryn followed the Elven Acolyte out of the door, but as she exited, her jaw dropped. The receiving room for the teleportation locus was situated dizzyingly high up the largest tree she had ever seen – way larger than even the Elder Lirasian Oak that Ali had planted in the center of the library. In every direction, and as far as she could see, Elves soared, swooped, or walked along branches and hanging walkways among the trees in a stupefyingly complex web of streets, highways, and flight lanes that pulsed with the energy, the lifeblood of the busy Elven city. But even with the busyness, the city did not bustle – infused instead with a palpable calm serenity, a tangible elegance and grace that could never have been achieved by a human city.
+
+Her very human stomach lurched unhappily, and she hastily reminded it she had wings. No problem.
+
+In the center, her eyes were drawn to a pool illuminated by a towering pillar of shifting blue light, within which danced brilliant white sparks and wisps, reminding her of the wisps of nature that were drawn to Ali’s library tree, except on a scale that staggered her imagination.
+
+“It’s quite a sight, is it not?” Theolias said, a soft smile on his face. “I envy you seeing it for the first time.”
+
+“What is that?” Whatever it was, it was beautiful, eye-catching, and filled with the serene energy that suffused the very air throughout the city.
+
+“That is the Well of Souls. It is an ancient artifact under the care of the Temple of Lunaré and the source of much of the power of our city. Without it, the Ciradyl trees do not grow, and our defenses do not work. But not much is known now about its purpose, and its origin is shrouded in mystery.”
+
+Ryn followed their guide, her head bobbing back and forth trying to take in far too many sights at the same time. She was so distracted that she almost tripped several times. It was no wonder the map had been indecipherable, the entire city was fully connected in three dimensions, sprawled among the branches of the giant trees.
+
+Suddenly, Theolias gasped and stepped to the side, pulling her with him and bowing low. Surprised, Ryn turned to find a procession of strange beings walking down the broad arboreal highway like they owned it. They were huge, every one of them over seven feet tall, and some had to be approaching nine feet, towering over the Elves that stepped aside to give them space. Their leathery skin ranged from deep cobalt to an icy blue so light she might have said it was white. Shocks of white hair stuck up, styled into topknots, braids, or spikes. They had pointed ears like the Elves, but larger and thicker, and adorned with heavy metal piercings. From their mouths jutted a pair of tusks, most of which were painted with geometric designs or bound with ceremonial braids of leather and beads. Each of them walked on bare three-toed feet, and their hands were similarly shaped and powerfully built. The largest one in the front glanced at her haughtily and she quickly copied Theolias’s bow, noticing his ornately decorated robe and the intense aura of cold that followed him as he swept past with his entourage.
+
+Trolls! She shivered, both from the chill of his magic and the intensity of his presence, and remained bowing until Theolias finally stood.
+
+“Who was that?” she whispered.
+
+“That is the troll delegation from Telim Gor,” Theolias said, breathlessly. “That was Tol’zerath himself, their leader or chief.”
+
+I knew it, she thought. The descriptions in the books had not done justice to the sheer presence of Tol’zerath, but he was unmistakably a Troll. One of the most ancient races, and among the most powerful, they were reputed to be quite arrogant and superior. Living in deceptively primitive cities and dwellings, they were nonetheless feared for their battle prowess and extremely advanced magic.
+
+“What are they doing here?” Calen asked, echoing the question in her own mind.
+
+“I’m not certain, but there have been rumors and portents of dark forces on the move. Tol’zerath is one of the foremost practitioners of divination magic. He’s probably here to talk with the Council of Archmages.”
+
+“Divination?” she asked, suddenly curious about another being with her rare affinity.
+
+“Yes,” Theolias said. “His Visions have guided the Council of Archmages and their alliance with the Troll Kingdoms for ages. I heard. I’m just a lowly acolyte, so I don’t get much more than rumors.”
+
+“That’s cool,” Ryn said, quickly recovering from the intensity of the encounter and peppering Theolias with dozens of questions whenever the incredible city didn’t distract her. For his part, Theolias seemed quite proud to talk about the city, the Trolls, and even history – happily taking up the mantle of tour guide.
+
+“And here you go,” he said, drawing to a halt before a large set of ornate wooden doors that seemed to have been grown right into the side of the tree, rather than crafted, as if that were a perfectly normal thing for a tree to do. “The Library of Ciradyl. If you need someone when you leave, the librarian should be able to contact me. Otherwise, I hope you enjoy your stay.”
+
+“Thank you, Theolias. You have been an excellent guide,” she told him, offering a clumsy bow, but it seemed to be their custom. At least he was smiling when he said goodbye.
+
+When she turned back, Calen was already pushing the heavy doors open. She hurriedly followed, and, as she stepped across the threshold, her body twisted and warped with a disorienting feeling that was mercifully brief and painless. She stopped and stared, dumbfounded. Within the tree, she found herself gazing at a room of unimaginable size, far bigger than what could have even fit inside the enormous tree trunk. Rows and rows of books lined the shelves, disappearing into the distance and she suddenly had the disconcerting sense that she now knew what it might be like to step inside a storage enchantment – although no storage enchantments she knew of could be used with living beings.
+
+“Welcome to the Ciradyl Grand Library.”
+
+The voice speaking Elvish drew Ryn’s attention away from the impossible size of the library, and the wealth of books it contained. The Elf woman who spoke sat primly behind a desk, several books open in front of her, and one hovering in the air beside her.
+
+Librarian – Wood Elf – level ??
+
+“Is this your first time at the library?” she asked, smiling at them.
+
+“Um… yes?” Ryn said. Even the librarian surpassed her level. She hadn’t met a single person so far that she could even identify.
+
+That was not very confident, Ryn, she chided herself. The elven librarian must think she had never seen a library before. To be fair, the library was impossibly extensive, powered by magic on a scale that she had never imagined.
+
+“Ryn would like to apply for membership,” Calen said.
+
+She collected herself and asked, “How much does a library membership cost?” She had brought a lot of gold, but seeing the incredible scope of the library, she feared it wouldn’t be enough.
+
+“It’s free,” the librarian said, glancing at Calen standing beside her. “All you need is a sponsorship from a Pathfinder above the rank of Novice.”
+
+“Free?” Ryn asked, her voice coming out a little like a squeak. She wasn’t quite sure she had heard right for a bit. It had taken a king’s ransom of gold for access to the Myrin’s Keep library, and the ones at Vertias and Volle had been even more expensive. All of those put together wouldn’t even take up a small corner of this space.
+
+“I’ll just take your friend’s name, dear,” she said, eyeing Calen, who nodded immediately.
+
+“I’m Calen Avery,” he said.
+
+“Lyeneru Silverleaf is your mentor?” the librarian asked Calen as she entered his name into the library system. “You’re in for an… exciting time!” She grinned, but it seemed good-natured. Ryn almost expected her to ask for the latest gossip.
+
+She placed a blank token on a panel, and something flashed. After examining it briefly, she handed it to Ryn. “Here you go. This token will let you access the library whenever you need.”
+
+“Thank you.”
+
+“Now, young librarian, let me inform you of the rules,” she said, folding her hands into her sleeves. Ryn immediately ensured that she looked appropriately attentive and respectful. Here came the inevitable librarian’s lecture. “You may borrow as many books as you want, for as long as you want, but any abuse of this freedom will reflect badly on your sponsor and his mentor. The restricted section at the back is off-limits without explicit approval of the Council. Please keep any noise or flashy magic to a minimum within the library, people come here to study. Magic is allowed, but nothing that can damage the books or hurt other people. Is there anything you want help finding right now?”
+
+Ryn nodded, feeling oddly more at home now. The rules were not much different than at the other libraries, with the exception of the extraordinary freedom to borrow books without using money or fees as collateral. For the members of the exclusive Pathfinders Guild, reputation and standing must be worth more than gold. Calen certainly seemed very proud of his membership. She glanced at him, grateful for the trust he was extending to her.
+
+Remembering Ali’s suggestion, Ryn asked, “Do you know where I might find some books on tailoring and crafting?”
+
+“Here, let me show you how to use the index and search spells,” the librarian offered, directing her to a magical construct on a table nearby, a more advanced set of artifacts and spells than she was used to, but familiar enough to understand quite quickly.
+
+“Ryn, I’m going to head out. I have a class on skinning in a few minutes,” Calen told her. “Are you ok on your own?”
+
+“I think I’m good, thank you!” Ryn bade him goodbye and devoted her entire attention to the library’s indices, awed by the sheer weight and volume of knowledge contained within this vast chamber.
+
+Well, one second. She pinched her arm hard and winced at the pain. Yes, I’m awake. Good. To work!
+
+Lyeneru knocked on the aged oak door, taking a deep breath. It had been a long time since she had been summoned by her former mentor, the Archmage, Nathaniel Sunstrider.
+
+The door clicked and sprang ajar by itself. “Come in, Lyeneru.”
+
+She pushed the door open and entered his office. It had not changed one bit since the first time she had entered as a nervous young novice – much like Calen a few days ago. The walls were filled with bookcases, laden with heavy tomes of magical knowledge. His desk was just as cluttered with unfinished work as it always was, and Lyeneru wondered if some of the projects she had seen all those years ago may still be buried somewhere under there, untouched over the years that had passed. It still smelled of ink and parchment, and the faint ozone haze of unbound arcane mana.
+
+Nathaniel stood in his resplendent robes, adorned with arcane silver symbols and runes, his back to the door. His silver-white hair spilled unbound down his back, reaching to the crest of the Pathfinders Guild that was prominently embroidered with shimmering thread, allowing the robes to serve as a symbol of his station as the Guildmaster and a ranking member of the Council of Archmages.
+
+His form shimmered with his hand resting upon the smooth, clear surface of a perfectly spherical glowing crystal orb. An ancient Scrying Stone! Such artifacts were impossibly rare now, knowledge of their making a lost secret of the Age of Enlightenment from before The Breaking. His mouth worked silent incantations continuously while his eyes remained glued to the sights within.
+
+Lyeneru shut the door and stood waiting with her hands clasped loosely behind her back, studying the wise Sun Elf.
+
+Something deep within the orb swirled – a chorus of whispers and screams. Several dark, insubstantial tendrils shot out, whiplike, striking at Nathaniel’s wrist. With a loud crack, a reactive spell formation triggered, and the black tendrils burst apart, the remnants retreating into the orb like an injured predator withdrawing to their lair. The Archmage snatched his hand back with a hiss.
+
+“A Scrying Stone, Nathaniel? You risk inviting calamity upon us,” Lyeneru said. “It’s far too dangerous; not even the Trolls know who crafted those.”
+
+“Someone needs to keep an eye on that Shadow Council. Indacus Argyle has made a new artifact, and they move to take advantage of the rising conflict between Toria and New Daria,” he said, rubbing his hand for a moment before he shrouded the orb with a black velvet cloth. “Besides, that’s what ward spells are for.”
+
+“Still…” she said, worried more than she cared to admit by the strange attack. Those tendrils of darkness were wrong in a way she had never experienced before, leaving her with echoes of horrifying whispers in her mind. At least she had enough experience to know when she was afraid, or strange mana was involved.
+
+“I know what I’m doing, Lyeneru.”
+
+Lyeneru frowned, but let it go. The relationship between them had never truly evolved past initiate and mentor, even though she had long moved on. In his mind, he was always the teacher, and she the unruly apprentice.
+
+“Now, I’m sorry it took so long to find time. With the Shadow Council, the Archmage Council, and now the Troll delegation from Telim Gor, I’ve not had a moment to even sit down. What do you have to report?”
+
+“Alexander Gray is dead, but he unleashed a plague on the forests south of Myrin’s Keep. An undead Blight that spawns endless zombies and skeletons,” Lyeneru began. Even though she had finally defeated the far higher-level Death Knight, the scope of the disaster the Necromancer had unleashed went far beyond her abilities.
+
+“This must be the disruption the Shadow Council is trying to take advantage of,” Nathaniel said, taking his seat at his cluttered desk and inviting her to sit too. “How did he die?”“Killed by a local dungeon.”
+
+“You took care of it, I presume?”
+
+“I chose not to,” Lyeneru answered, twisting her mouth. Nathaniel would not like that – not one bit. She still wasn’t certain she hadn’t made a big mistake, but how could she kill someone after sitting down with them and their… aunt for tea? “Her name is Aliandra. She and her friends took care of the Necromancer for us.”
+
+“An unbound sapient dungeon?” Nathaniel asked, eyebrows arching in surprise.
+
+“Yes. Nature and arcane affinities,” Lyeneru said, adding, “Her arcane magic is golden.” She knew him well enough by now to know where his primary interests lay. If anything was going to get his attention, it was that golden mana.
+
+“That’s… unusual,” Nathaniel said, rubbing his chin and leaning back in his chair. “I remember this Myrin’s Keep now… I got a report from the Guildmaster of the Adventurers Guild – some preposterous claim about the Blind Lich showing up.” He chuckled dismissively.
+
+“That report is almost certainly accurate,” Lyeneru said, grimacing as she realized the likely impact of her report.
+
+Nathaniel’s levity vanished instantly. “I have no patience for jests, Lyeneru.”
+
+“When have I ever joked about the undead?” Lyeneru asked, reining in the annoyance that threatened to spill over into her voice. “They found the ruins of Dal’mohra, Nathaniel. I saw it with my own eyes. Aliandra was born in Dal’mohra, and her dungeon is nestled in the Grand Library Arcana.”
+
+“The library!” Nathaniel exclaimed, sitting bolt upright.
+
+“Just the building, the books are gone. The learning enchantment is real, she restored it. And she recovered Nevyn Eld’s original treatise on dungeons. She confirmed many of our theories about the Blind Lich and his abilities – and she has evidence he doesn’t need to enslave dungeons. He can create them using an artificial shrine artifact.”
+
+“That is… an incredible claim,” Nathaniel said, his surprise giving way to thoughtfulness.
+
+“Nathaniel, she witnessed him turning the kings of Dal’mohra. We need her,” Lyeneru stated flatly.
+
+“I see. I think it’s time for me to pay a visit to this Myrin’s Keep,” Nathaniel said.
+
+“Shall I come?”
+
+“No,” Nathaniel said. “I have another task for you. Tol’zerath has had a Vision – a very troubling one. He saw a vast army of undead spilling forth from a dungeon and consuming Aman Rak.”
+
+“That’s dire news,” Lyeneru said. If the Troll kingdoms fell, nothing would stand between the undead and Ciradyl. The Well of Souls could not fall into their bony grasp. “What shall we do?”
+
+“I want you to go and investigate. The Trolls believe their kingdoms, and by extension, Ciradyl, are in grave danger – but you well know the fickle nature of divination. I need information, Lyeneru. Reliable intelligence.”
+
+“I’ll take care of it at once.”
+
+Despite the pressing urgency of a rash of high-priority tasks that all required his attention, Nathaniel sat in silent contemplation for quite some time, staring at the seat Lyeneru had vacated.
+
+An unbound sapient dungeon… The last time an unbound sapient dungeon had spawned and had been left to gather power, the world had lost an empire.
+
+When Vivian Ross had initially sent him the report of a possible dungeon in Myrin’s Keep and the sighting of the Blind Lich, he had dismissed it out of hand. But it had at least been discreet.
+
+However, there was no way he could ignore Lyeneru’s report. Just the political ramifications of what she had uncovered at Myrin’s Keep would blow up to an enormous headache as the details filtered out.
+
+She was a phenomenal Pathfinder – one in a millennium – but the girl had absolutely no sense of practical politics. She should have taken care of the dungeon, as she always had before. None of this sentimentality. He sighed. No, sapience notwithstanding, the policies existed for a reason. There was no room for sentimentality – he would just need to take care of this situation personally. In his thousand years of life, he had never heard of a trustworthy dungeon.
+
+On the other hand, Lyeneru was never wrong about dungeons. That fact alone gave him pause.
+
+Golden arcane mana.
+
+Nathaniel’s eyes fell upon the great tome resting, battered and worn, on the reading stand. He knew exactly what she had been implying and decided that, while he resented her presumption, he had to allow that she might be right – against all odds.
+
+Everyone knew that arcane-affinity mana was violet or purple, depending on the style or personality of the wielder. He had just assumed she had been mistaken, after all, Lyeneru was a great Pathfinder, but not much of a scholar. But the golden glowing runes on that tome’s cover – an artifact from the City of Learning itself – hinted at ancient secrets waiting to be revealed, if only he were intelligent and tenacious enough to unravel its mystery.
+
+Yes. He mistrusted these strange events and somehow, this golden dungeon was embroiled in the currents of fate he sensed swirling about many possible futures. Tol’zerath’s presence in Ciradyl was proof enough.
+
+Filled with purpose, he rose to his feet. Reaching out a hand, he levitated the ancient tome, taking it and wrapping it under one arm. It was a particularly frustrating book, so dense with mana that it could not be stored in his ring. Nor could it be memorized or copied – the slippery tome was never the same, no matter how many times he read it. Even his memories of what he had studied were warped by the confounded book when he wasn’t paying attention, a feat of Knowledge magic so prodigious he was at a loss for how to even begin to unravel it. He would need to carry the book and reference it directly. However, it would be better to have the annoying tome with him and not need it than to need it and have to come back for it, especially if there was truth to Lyeneru’s discovery of golden arcane mana.
+
+He waved a hand and a quill on his desk penned a note to his assistant, informing him that he would be out investigating a dungeon near Myrin’s Keep. That should be enough of a paper trail, he decided. It would fend off much of the unwanted speculation and keep the Trolls appeased by the appearance of taking their concerning vision seriously while Lyeneru obtained more actionable clues. He spent a few moments collecting artifacts and spellbooks he might need and storing them.
+
+On to Myrin’s Keep. He levitated the Locus Directory from his shelf and found the entry he needed. It was not one he kept memorized. After studying it for a few seconds, he activated his Greater Teleport skill.
+
+He stepped out of the locus to the awed gasps of the low-level mages present, and the scrambling of people getting to their feet in their haste to bow.
+
+Novaspark Academy of Magic. Quaint and homely in comparison to the wonders of Ciradyl, it hearkened to simpler times – times ever receding into ancient history and now, a notion perhaps forever crushed by the weight of that unprecedented Divination. If Tol’zerath himself was concerned…
+
+“W… welcome… Archmage?” the official stuttered.
+
+Smoothing a grim smile off his lips, he nodded, acknowledging the official, and opened his mind to the ambient mana, ranging outward ever wider as his awareness soared along the currents and eddies in the flow surrounding him.
+
+What he found was startling.
+
+It was obvious where the dungeon was, given the towering intensity of the mana he could sense. The nature-affinity mana was well into the second tier in density, possibly even stronger than his own. He would need to proceed with both haste and caution. But the arcane-affinity mana was what caught his breath, not nearly as dense, but bright and sparkling. And golden.
+
+Lyeneru skipped a few details. Suddenly, he was glad he had brought Elowynn Amariel’s: The Nature of Magic.
+
+He teleported again, heading downward in relentless pursuit of his goal, protective wards snapping into place.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

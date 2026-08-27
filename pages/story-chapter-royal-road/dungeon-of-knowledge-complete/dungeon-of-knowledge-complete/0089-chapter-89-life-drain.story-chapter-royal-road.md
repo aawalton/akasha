@@ -1,0 +1,281 @@
+---
+id: cf5b8320-047f-5b50-8e51-42053a5f9669
+page-type-slug: story-chapter-royal-road
+title: "Chapter 89: Life Drain"
+slug: 0089-chapter-89-life-drain
+partOf: dungeon-of-knowledge-complete
+position: 89
+ownLength: 4152
+unit: words
+ownProgress: 4152
+publishedAt: 2024-06-23
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1689677/chapter-89-life-drain"
+royalRoadId: "1689677"
+markedReadAt: "2026-06-29T20:13:55.777Z"
+---
+
+The Twin Wights had been an incredibly difficult fight; a serious wakeup call. By all accounts she should be happy that they had defeated it – and first try too. But Malika had only one thing on her mind.
+
+Health: 291/291 (-38% Life Drain)
+
+I can’t heal it.
+
+By now, Malika was quite used to her Healing Mantra being able to erase wounds like they were nothing more than painful dreams. It was a beautiful magic, and one she had truly come to rely on. No matter what, as long as she had stamina or mana, she could fix anything. Her biggest worry had been running empty, or taking so much damage all at once, that she simply couldn’t react fast enough to save herself.
+
+But the Death Wight’s magic had summoned the Volatile Wraiths which had drained her life. It wasn’t every single time they hit, only occasionally, but she could feel the tearing, ripping deep inside that somehow clawed out her life-force leaving her feeling hollowed out and damaged. Then later, the viciously sharp and powerful slashes of the combined bone-and-death Wight monstrosity – attacks that sucked the life out of her wounded flesh before turning it to bone. Voraciously hungry swords wreathed with the horrific twisted miasma of Life Drain. The drains had come much more frequently from the black mist-wreathed swords, enchanted with bone magic to increase sharpness and the chance to trigger the critical damage.
+
+It still remained half an hour after the battle – a health total that was supposed to be four hundred and seventy still showed two hundred and ninety-one. All the way back to the relative safety of their camp she anxiously checked it, again and again, but nothing had changed. She had healed herself, and walked within Mato’s regeneration aura, but still nothing had changed. She had even wasted a healing potion, but to no avail. Finally, she decided she must broach the subject.
+
+“So, is this life drain … permanent?” She felt the sense of dread, as if putting words to her fear had suddenly made it more real.
+
+“Calen mentioned life drain…” Ali answered. She looked so puzzled, Malika was certain that Ali hadn’t been hit.
+
+“That’s a horrible thought,” Mato said. “Mine is at fifty-three percent.”
+
+“Mine is thirty-six,” Calen added.
+
+“Wait, what are those percentages?” Ali asked, sounding worried.
+
+“The Wight’s Life Drain reduces maximum health by a cumulative one percent every time it hits. I think it’s a critical damage effect,” Malika explained. She couldn’t believe Ali hadn’t gotten hit even once. But perhaps it was reasonable, Calen had been effectively tanking the flying Death Wight, and he had taken most of the fury of the Volatile Wraiths at the beginning. Malika only took blasts when she had to pull skeletons off him. It was at the end of the fight when she ran through the blades that she had gotten a substantial number of hits from the swords.
+
+“You were tanking all that stuff at the end with less than half your health?” Ali sounded incredulous as she stared wide-eyed at Mato.
+
+“Still less than half, it hasn’t gone away.”
+
+“It sounds a lot like my domain withdrawal,” Ali said, looking thoughtful. “And that eventually goes away, but I need to be in my domain. You don’t have a domain. A debuff then? But we killed the Wights, how is it still there? I – I need to think about this.”
+
+“If it’s not gone by morning, I think we should ask Vivian Ross about it. She’s much more experienced than we are,” Calen suggested.
+
+As uneasy as she was about the guild’s administrator, the Guildmaster had offered them solid advice when they were starting out and again when they had failed the first attempt at the Skeletal Wyvern. Despite her usual reticence to rely on anyone, Malika felt a burst of hope at Calen’s suggestion.
+
+“Besides, we all reached silver rank, so we need to check in and get our ring upgrade,” Calen finished. “Don’t forget to spend some points on wisdom, everyone.”
+
+What does he mean, silver? Oh… he must have earned a big advance! In her frantic obsession over her health and the drain, she had simply forgotten to check her progress in the aftermath of the fight. I wonder what I got?
+
+Sucking in a breath, she read her notifications.
+
+Soul Monk has reached level 33 (+5).+50 attribute points.
+
+Soul Strike has reached level 18 (+2).Healing Mantra has reached level 19 (+2).Perfect Body has reached level 16 (+2).Martial Artist has reached level 14 (+2).Soul Armor has reached level 19 (+3).Enlightened Evasion has reached level 18 (+3).Divine Step has reached level 16.Second Wind has reached level 4.
+
+Meditation has reached level 11.Appraise has reached level 11.
+
+Her eyebrows nearly bounced off the cavern roof. Five fucking levels! Now we’re talking! And a batch of smaller upgrades. I guess that takes the sting off this Life Drain… some.
+
+She let the visible signs of progress sink in, reassuring her that even though her health was drained, she was still making substantial advances, growing her abilities and skills. Her role in the fight had mostly been playing catch for skeletons and tanking them until either Mato could pick them up or Ali could blast them. For that, all her defensive skills had grown substantially. It seemed to be a role her class was ideally suited for – while she didn’t have the armor Mato did, she did have a great suite of defensive skills – armor, blocking with Martial Artist, evasion, and to round it all out she could heal herself and her movement skill did not have a recharge.
+
+Mindful of Calen’s suggestion, she spent twelve points on wisdom, boosting her mental fortitude in case of mental attack. She followed that up with thirteen points in endurance and fifteen in dexterity, taking care of her primary attributes. With the remainder, she spent five on vitality, three on perception, and two on intelligence. Then she moved to the next set of notifications.
+
+Class skill slot unlocked.New skills are available for Soul Monk.
+
+New skill unlocked.
+
+Class level has reached 30.Dexterity has surpassed 150.Martial Artist skill level has reached 14.Survived being hit by a retaliation attack from a raid-level threat.
+
+RetaliateStamina: Whenever you block, you can instantly retaliate with any Melee attack. You gain +20% chance to land a critical strike. Recharge: 5 seconds.Physical, Melee, Dexterity
+
+New skill unlocked.
+
+Class level has reached 30.Survived substantial area damage.Survived a single strike that took more than half your health.
+
+Soul ShieldStamina: Project your soul energy into a shield of force in front of you, deflecting any incoming damage. Damage taken reduces your stamina instead of health.Soul, Defense, Wisdom
+
+New bloodline skill unlocked.
+
+Malika suddenly stopped reading; eyes widening in surprise at the notification.
+
+A bloodline skill?
+
+Bloodline skills were the pride of the Ahn Khen – unique skills passed down through their shared bloodline from the ancestors themselves. Villages were known to rate their relative social and cultural value by the number of bloodline skills they had produced. They did not always manifest, even for people who inherited the bloodline, so she had been taught not to expect one. But Bakahn village, where she had grown up, would grind to a halt to celebrate whenever anyone unlocked one. Several times, the celebrations she remembered had even attracted visitors from the nearby villages, too.
+
+Bloodline skills were considered to be a huge honor, but also responsibility, and the custodians of such skills were expected to hone them to the highest potential, developing their strength and power because it was believed that they might pass the more powerful versions to their descendants growing the strength of the bloodline itself. Many of the most powerful of these skills were now lost to the ravages of time and the decline of her people, but of the ones that remained, Malika knew most of them by heart. At least their initial presentation before their owners began to develop them.
+
+Which one did I get? My bloodline hasn’t even awakened yet! This is… wow, this is huge!
+
+The question burned in her heart as she rapidly scanned the remaining blue-white glowing text hovering in her mind.
+
+Inheritor of the Ahn Khen bloodline.Class level has reached 30.Wisdom has surpassed 100.Endurance has surpassed 100.Meditation skill has reached level 10.
+
+Clarity supersedes Meditation.
+
+ClarityYour proficiency with meditation is enhanced by your Ahn Khen bloodline. Your mind has reached a permanent state of clarity, during which mana and stamina regeneration is increased by + [40 + skill x 15] %. Bonus is doubled if you sit and focus.Soul, Bloodline, Wisdom, Endurance
+
+Clarity.
+
+There it was – a bloodline skill. The text seemed to burn in her mind as if somehow it was written with more weight and significance. And it was not one she had ever heard of. She read it through again, a little confused.
+
+She didn’t know what she had been expecting – an attack skill, perhaps? Or maybe a potent defensive skill. Or even – dare she hope – one of the iconic eye-magic combat perception skills that had made her ancestors so feared in battle.
+
+This is… a non-combat bloodline skill? What’s the point, even?
+
+Malika had never even imagined such a thing was possible. It seemed to be a variation of Meditation, and one that was only marginally improved at best. She had not expected to be staring at an actual bloodline skill, offered to her, and yet be so … underwhelmed.
+
+She pulled up her Meditation to compare.
+
+Meditation – level 10Focus: Enter a meditative state during which mana and stamina regeneration is increased by +185% [35 + skill x 15]. Movement or using an active skill cancels your focus.Wisdom
+
+Clarity would increase her regeneration by a meager five percent. And she would need to level it up to ten before she got even that improvement!
+
+“Did you get anything good for level thirty?” Ali asked, interrupting her confusion with her typical curiosity.
+
+Without comment, Malika simply shared her three new skills. Perhaps she could do better taking the shield skill. With Clarity being so weak, she might simply be forced to give up on her bloodline entirely. It’s not like I see eye-to-eye with the Ancestors anyway. This is absolute, slime-sucking shit! Retaliate wasn’t a bad skill on its own – but, compared to Mato’s version, it simply seemed all too lackluster. It had been a terrible day, and her worries about Life Drain, and now this inexplicable offer of a worthless bloodline skill…
+
+“Malika! You got a bloodline skill! That’s amazing!” Ali’s sudden excitement clashed harshly with her morose mood.
+
+“It’s not really that good,” Malika admitted, shaken by how close she had come to yelling at her friend. “I was thinking I may have to take Soul Shield instead.” It seemed Ali had been distracted by the Bloodline trait, like she had when she first read it, and not actually understood the implications.
+
+“What do you mean? It looks amazing! And it’s a bloodline skill, don’t those have the highest potential for growth?”
+
+“It’s only five percent better than Meditation. I have to give up a class skill slot for it, losing Meditation in the process. It would be something if I had unlocked one of the eye magic skills, or an attack,” Malika explained. It was nice that Ali was excited for her, but the skill was simply disappointing. Malika shared her Meditation description so that Ali could compare and understand.
+
+“I don’t think you’re reading this skill right, Malika.”
+
+“What do you mean?” she snapped. Damn, and now I sound like a sullen brat. Reaching out, she touched the Fae’s arm. “Sorry.”
+
+“Ah, alright. How I read it is that if you use this skill between combat like Meditation, it’s more than twice as good. Your regeneration bonus is doubled if you’re sitting and focusing. But it’s a passive skill. See that there’s no activation?”
+
+Wait… Malika hurriedly pulled up the description for Clarity again. That means… it will work during combat? Suddenly her perception of the skill was flipped on its head.
+
+“It’s an in-combat meditation, that doubles outside of combat?” she asked, as she wrapped her mind around the implications of the detail Ali had pointed out.
+
+“That’s how I read it,” Ali answered.
+
+“Same,” Calen chipped in.
+
+“Passive means I won’t be able to turn it off?” This insight changed everything about the skill, but she still wasn’t quite certain how to approach it. Especially with the comments about it affecting her state of mind.
+
+Will I still be me? Or a weirdly super-chill me?
+
+“I can’t turn my aura off,” Mato rumbled amiably. “I’ve started noticing the weeds grow when I walk past them in town.”
+
+Calen snorted, “Weeds? Seriously?”
+
+“I can’t turn off my Arcane Insight either. Sometimes it causes trouble when there is too much magic going on around me.” Ali offered. “If you’re worried about it changing your mental state, just remember you have enough skill choices that you can try it out and change your mind later.”
+
+“I don’t know…” Malika hated the idea that something would mess with her mind, take away her control, or the essence of who she was. It was, she had to admit, part of the reason she had reacted so negatively to Mato’s Berserk skill early on.
+
+“You’re worried because it changes your mental state permanently?” Ali asked, intuiting her fear with uncanny precision.
+
+Chewing on her lip in frustration, she nodded. The skill looked amazing now, but not being in control was a big thing to trust to an unknown magic.
+
+“Do you like how you feel when you meditate?” Ali asked.
+
+I hadn’t thought of it like that, she realized, figuring that Ali expected the skill to behave just like Meditation, but simply be always on. “Yes, I’m still in control when I meditate.”
+
+“Then you should try it,” Ali said, sounding annoyingly confident and chipper about the whole situation. “You know you can replace it with one of the other options if you don’t like the way it makes you feel. Even a skill like Mato’s Primal Rage was replaceable – and that truly messed with his mind.”
+
+Mato grumbled, “Don’t remind me.”
+
+“There’s a chance it might make your mind tougher, too,” Calen added, pursing his lips thoughtfully.
+
+“Ok,” Malika said, making her decision. It wasn’t quite as easy as Ali said though – the skill would replace Meditation. With a blend of nervousness and excitement, she picked her first bloodline skill.
+
+You have lost the general skill Meditation.You have gained the bloodline class skill Clarity.
+
+As soon as the skill choice was confirmed, she felt a sensation like a pebble dropping into the pool of her mind.
+
+No, more like my soul.
+
+There was a sound like the splash of a single drop of water and suddenly the world quietened down. She blinked, and in the stillness, she was aware of the sound that her eyelids made closing, the sensation of her eyelashes brushing against each other. The focus in her mind was incredible.
+
+I could concentrate on a single blade of grass for hours if I wanted to.
+
+“Are you ok?” Ali sounded like she was speaking from an infinite distance away, and yet right beside her at the same time. The resonance of the sounds and shape of the words danced together in her mind. A subtle undercurrent of concern lay bare in Ali’s tone. Details that she would usually have ignored snapped easily into focus.
+
+“I think so,” Malika answered. “It’s pretty… incredible.”
+
+Just like Ali had shared, Malika knew it would likely take some getting used to such a powerful shift in her experience.
+
+***
+
+Name: MalikaRace: HumanTitles: Street RatActive Buffs: Perfect Body, Soul Armor, Enlightened EvasionClass: Soul Monk – level 33- Martial Artist – level 14- Soul Strike – level 18- Healing Mantra – level 19- Perfect Body – level 16- Soul Armor – level 19- Enlightened Evasion – level 18- Divine Step – level 16- Second Wind – level 4- Clarity – level 1- [Locked] General Skills- Dancing – level 4- Calligraphy – level 3- Lockpicking – level 5- Appraise – level 11Aptitudes- Languages: Common- Bloodline (Ahn Khen): Dormant- Mana (Affinity): Soul- Relentless (Class): +100% to Stamina Regeneration- Relentless (Class): You can pay for any abilities with stamina instead of manaAttributes- Vitality: 52- Strength: 15- Endurance: 141 (+55) - Dexterity: 199 (+86) - Perception: 25- Intelligence: 22- Wisdom: 143 (+56)Equipment- Ring: Bronze Guild Ring – level 10- Hands: Wraps of Accuracy – level 17Armor: 133Physical Damage Reduction: 12.58%Evasion: 126Dodge: 12%+6% to Accuracy rating.Health: 322/322 (-38% Life Drain)Stamina: 1269/1410 (141 Reserved)Mana: 1001/1430 (429 Reserved)
+
+I really hope the Guildmaster knows how to fix this, Calen thought, studying the status of his class, and the life drain damage left from the Wight battle. He had suggested the Guildmaster might know something as if he was confident, but he worried that it was permanent. Or that the treatment would require expensive reagents or access to priests that were simply out of their range and means to afford.
+
+“It’s lucky we defeated the Wights on the first try,” he muttered. With this level of life drain, there would have been no way for them to survive a second attempt.
+
+“You can say that again,” Malika chimed in.
+
+He glanced up, surprised that she had heard him, but then he turned his attention to the notifications from the fight. In the Lich drama that had ensued after they had killed the Wights and defeated the dungeon, he had not had the time.
+
+Archer of Light has reached level 32 (+5).+50 attribute points.
+
+Five levels is great! He let out a low whistle of appreciation.
+
+When Calen had pulled aggro on the Death Wight early in the fight, it had been on purpose. Not even the monster’s surprise flying skill had bothered him. He had kept Grappling Shot primed for the duration of the fight – only, Malika had never freed up from tanking skeletons, so it had been unnecessary. It was when the monster summoned wraiths that Calen had been certain he had made an awful mistake.
+
+In hindsight, though, he had actually turned out to be the ideal tank for the monster. Neither Malika nor Mato could reach it, and he could tank it from outside the death magic aura. He didn’t have a lot of health, but it was far more than Ali – at least before his life drain – and he could dodge the Volatile Wraiths.
+
+Volatile Wraith. He shuddered, recalling the chilling and horrifying sensation of the incorporeal undead wraiths passing through his body to unleash their painful bite. With the drain being a critical damage attribute – something he was nearly certain of – and a percentage reduction – it actually worked out much better to spread it out over three people. If Mato or Malika had been able to tank it, they would have an additional thirty-six percent loss, and likely they would have died near the end of the fight when damage output substantially increased as the Bone Wight powered up.
+
+I wonder what would have happened if we’d killed them in the opposite order? he mused, before reading on.
+
+Radiant Archery has reached level 21 (+3).Arrows of Brilliance has reached level 24 (+3).Motes of Light has reached level 12.Explorer has reached level 18.Blessing of the Dawn has reached level 16 (+2).Eclipse has reached level 15.Eyes of the Archon has reached level 16 (+2).Righteous Fury has reached level 9 (+2).
+
+Cartography has reached level 8.
+
+His skills were growing nicely – particularly his two archery related skills. It made sense, Radiant Archery, Arrows of Brilliance, and his use of Righteous Fury made up the bulk of his damage over the entire course of the fight. Carefully he noted down his skill growth in his notebook. It was a crazy-long fight too… After a moment’s consideration, he added a note that he wanted to stock up on even more arrows, just in case.
+
+Right, so far so good. Now for the meat of it…
+
+Class skill slot unlocked.New skills are available for Archer of Light.
+
+Excellent! This was the one he was most excited for. He had been worried about his class, but his hopes lay in how it might grow as he unlocked new skills and advances.
+
+New skill unlocked.
+
+Class level has reached 30.Dexterity has surpassed 150.Survived being stunned in a fight without assistance.
+
+Stunning ShotStamina: Fire a magical arrow, stunning your target for a few seconds. Stun chance increases with skill and critical strike chance.Physical, Ranged, Dexterity
+
+New skill unlocked.
+
+Class level has reached 30.Intelligence has surpassed 100.Leveled three or more light affinity skills above 15.
+
+MirageMana: Create an illusion of yourself on the battlefield. It will mimic your actions. Duration: 30 seconds.Light, Illusion, Intelligence
+
+New skill unlocked.
+
+Class level has reached 30.Dexterity has surpassed 150.Freefall more than 50 yards in combat and survive.Tank a flying raid-level threat.
+
+Azrael’s WingsMana: Create ethereal wings made of light magic. You can fly. Channeled.Light, Movement, Dexterity
+
+Holy crap – yes, yes! Yes!
+
+He knew he was being uncharacteristically impulsive, but his decision was instantaneous. This was so wildly beyond anything he could have hoped for, he had chills all over. Lyeneru Silverleaf was legendary for raining death down on her foes from the skies, borne aloft by her wings of flame. Now he would be just like her!
+
+I want to fly!
+
+You have gained the class skill Azrael’s Wings.
+
+He knew his decision was probably heavily biased by his experience falling from the inner ring, and needing to be saved by Ali, but he didn’t care. He stood up and stepped outside the campfire circle, getting a few curious looks. Calen channeled a little mana into his new skill.
+
+His mana flowed from a central dense core of warmth deep behind his breastbone, surging backward into his shoulder blades and erupting outward from his back. There was a rush of unfamiliar power and understanding as his magic augmented his body, and a bright light filled the area around him.
+
+“Wow! So cool!” Ali exclaimed, beaming from ear to ear.
+
+“Woah!” Mato gasped.
+
+Malika breathed, “Oh, that’s really something, Calen.”
+
+He turned, and behind him, spread wide to either side was a pair of glowing wings of pure white light, shimmering, insubstantial, and slowly shifting as if reacting to an unfelt breeze. A potent energy of power and readiness flowed out from his back through the magical wings, and he found that he somehow already knew how to move with them.
+
+Responding easily to his will, he stretched his wings wide and then flared them softly downward feeling the magic lifting him gently into the air. He circled slowly, trying to get used to the feeling, but it was hard to keep the grin of sheer exhilaration from his face.
+
+I’m flying!
+
+“Maybe keep close to the ground until you get used to it,” Malika suggested.
+
+It was a smart idea, he didn’t want to fly into a tree because he lacked experience, and his skill was draining his mana. Falling out of the sky because he had run himself dry would not be a smart move. However, none of that mattered when he flew up higher and took off in a sudden high-speed swoop as he pushed his wings to see what he was capable of.
+
+Damn, I only wish Malika could have gotten something this fantastic. Her mixed feelings were more than obvious, and he knew she held her tongue for his sake. I guess, like Mato had, these advances aren’t always what we want.
+
+Still, as he came about in an unsteady curve, laughter bubbled from his lips. This is awesome!
+
+***
+
+Name: Calen AveryRace: Half-ElfActive Buffs: Blessing of the DawnClass: Archer of Light – level 32- Radiant Archery – level 21- Arrows of Brilliance – level 24- Motes of Light – level 12- Explorer – level 18- Blessing of the Dawn – level 16- Eclipse – level 15- Eyes of the Archon – level 16- Righteous Fury – level 9- Azrael's Wings – level 1- [Locked]General Skills- Bowcraft – level 7- Wood Carving – level 3- Cartography – level 8Aptitudes- Languages: Common- Mana (Affinity): Light- Perceptive (Racial): +11 to Perception- Quick (Racial): +5 to Dexterity- Timing (Class): You have an innate sense of timingAttributes- Vitality: 37- Strength: 9- Endurance: 24- Dexterity: 208 (+89) - Perception: 148 (+58) - Intelligence: 139 (+54) - Wisdom: 42Equipment- Weapon: Hunter's Bow – level 10- Body: Leather Armor – level 20- Hands: Bracers of Accuracy – level 10- Feet: Simple Boots of Swiftness – level 15- Ring: Bronze Guild Ring – level 10Evasion: 240Dodge: 21.12%+5% to Accuracy rating.+5% to Movement speed.Health: 236/236 (-36% Life Drain)Stamina: 240/240Mana: 336/420 (84 Reserved)
+
+--------------------
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpghttps://www.patreon.com/DungeonOfKnowledge

@@ -1,0 +1,171 @@
+---
+id: d6c8084b-ac7e-5629-9504-632eacab1bee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 206: How a Dungeon Grows (Part 1)"
+slug: 0216-chapter-206-how-a-dungeon-grows-part-1
+partOf: dungeon-of-knowledge-complete
+position: 216
+ownLength: 2125
+unit: words
+ownProgress: 2125
+publishedAt: 2025-03-03
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2100996/chapter-206-how-a-dungeon-grows-part-1"
+royalRoadId: "2100996"
+markedReadAt: "2026-06-29T20:18:28.085Z"
+---
+
+Ali flew across the forest cavern, heading back toward the library, enjoying the soft glow of her mushrooms below, and the wisps and glitter dragons that had found their way up here. It had been a long day, and she was emotionally drained.
+
+She had spent the better part of two hours with Vivian, which didn’t alleviate her feelings of guilt, but at least it gave her a much better understanding of why Theon had died during the fight.
+
+While she was at the guild, Rezan had shown up with three Ahn Khen youths seeking classes, and so she had conducted a quick ceremony at the shrine for them and the recruits Vivian deemed ready. Initially, she had simply done it out of duty, mostly because she had given her word. But surprisingly, it was the obvious excitement and joy the new novices experienced upon receiving their brand-new classes after their challenging trials that had finally turned her mood toward a more positive track. It was remembering that this was a large part of why she was doing this – helping people get a better start on their adult lives. Theon’s death was tragic, and this did not take anything away from that, but furnishing all these new novices with powerful classes helped her feel she was making a positive impact.
+
+Ali entered the library to a surprisingly raucous scene. Ryn sat on a table with a ball in her hand and flung it over the railing and into the atrium. With a tiny roar and a flash of gold, her familiar shot off, diving down after the ball. Then she was treated to the bizarre sight of her book speeding off after the dragon, the two of them swirling down in a spiral together, snapping at each other as they tried to get to the ball.
+
+Seated at the edge of the railing were several adventurers, their open books forgotten upon the tables behind them, instead cheering for the Bookwyrm and Clarence loudly by name.
+
+“Um, what’s going on?” she asked.
+
+Ryn’s head snapped around with a guilty look on her face. “Um, I was teaching Bookwyrm to fetch… and then Clarence wanted to play too. I didn’t think it would be a problem.”
+
+Over the railing sailed the book, carrying the ball locked between its pages with the tiny golden dragonet harrying it all the way, shooting motes of light at it, and snapping with its tiny jaws. Clarence came to a stop beside her and dropped the ball at her feet and backed off a little.
+
+She glanced down at the ball, and then her book. Bookwyrm swooped in, landed beside Clarence, and glanced up at her crooning.
+
+And then Clarence shuffled forward and bumped the ball so that it rolled up against her feet and backed away again.
+
+I can’t believe I’m doing this. In the Grand Library, no less, with a book that seems more strangely alive by the day. She stooped down and picked up the ball, and looked at it, and as she did, both the book and the dragonet sprang into a frenzy of excited swoops and twirls. She sighed, and then lobbed the ball over the railing, bouncing it off one of the branches of the elder tree before it plummeted to the ground. In a flash, the book and the dragonet were off in pursuit, to a round of excited cheering as people made bets on which of them would win this round.
+
+Ryn gave her a huge smile as Ali sat down beside her, deciding that it couldn’t hurt to watch the antics for just a bit. It was a pleasant way to pass the time, watching people enjoying themselves with a simple game. Eventually, Bookwyrm returned to his perch on Ryn’s shoulder, wrapping his long tail around her arm, and Clarence flew over and dropped himself into her lap – tired after so much flying. But still, she sat there, watching the busy comings and goings as the guild members chatted, hunted for books, or simply curled up on a couch to read.
+
+It's a library. It had always been one, but Ryn had been right – without people to read the books, a library wasn’t fulfilling its purpose. And now, finally, the Grand Library Arcana – though much diminished – was once again open for business.
+
+“Hi, Aliandra.”
+
+She looked up from her musing to find Seth standing in front of her. “You can call me Ali, Seth,” she told him.
+
+“Um, ok, Ali,” he said as if trying it out and discovering it worked. “I found something you might like – it’s probably not that useful, but…” He pulled out a pile of small dark furry shapes and placed them on the table nearby.
+
+Icicle Bat – Bat – level 1-3 (Ice) x12.
+
+“I found them in a cave when I was doing a night quest, and I remember you have bats. I couldn’t find anything higher than level three, though.”
+
+“Oh wow, an ice affinity,” she said, examining the curious, tiny dead bats on her table. Seth had a habit of working with his team during the day and taking odd jobs to make extra money at night; he had told her he rarely needed sleep these days because of the life drain of his wraiths. And at night, he could more easily hide the fact he was a necromancer. “Thanks, Seth!”
+
+The tiny bat corpses dissipated quickly to her magic.
+
+Variant: Icicle Bat added to Imprint: Bat.
+
+She immediately summoned one, but instead of a single bat, she got a flight of five.
+
+“Oh, it’s a swarm monster,” she said, verifying quickly by checking its status. It had only a small number of skills, but five of them cost the same as a single monster. “And it has echolocation!”
+
+“Yes,” Seth agreed. “I turned some into zombies for scouting the caves. I don’t get all their skills, but that perception, I can use.”
+
+“Thank you, Seth,” she said. “Let me get you the quest bounty.”
+
+“No, it’s fine Ali, I don’t need the money.”
+
+“You sure? I don’t mind.”
+
+“Yes, you already did so much for me.”
+
+“Well, thank you again, they’re delightful,” she told him, watching through their eyes and hearing through their remarkable ears as they flew around the library, already exploring. I’ll really have to think about how I integrate these into my domain – I’m going to start needing new areas for different affinities, right? Or will it grow and develop organically?
+
+***
+
+“Aliandra, do you have a moment?” Rezan asked, walking up to her perch on the arm of the couch with Clarence still nestled comfortably in her lap.
+
+“Elder,” she said, nodding respectfully to him and the three newly classed novices standing behind him.
+
+“Laila, Raed, and Naji wanted to stop by and thank you for helping them earn their classes.” Each of them stepped forward with a respectful bow and thanked her with a stiff formality that was frankly, quite adorable.
+
+“It was my pleasure,” she told them. “I’m glad you found classes you liked.”
+
+“I want to thank you too,” Rezan said. “You have breathed a new life into our villages. Their parents didn’t dare to express their hope out loud for fear that it might not be true, and in a few days, I will return them to their families with powerful classes. They will be overjoyed.”
+
+“You’re welcome, Rezan,” she said, smiling at him. And then his words reminded her of something. “If you don’t mind waiting a few minutes, I can help you with the trip home. I remember the locus in Vertias.”
+
+“You can teleport us? You are growing, young lady.”
+
+“I… sort of wrote it down…” Ali found herself coloring as Rezan’s youngsters voiced a chorus of impressed ‘Ooohs!’
+
+It took only a few minutes to fly them all down to the ground floor and inscribe a new circle in her ever-growing teleportation ring around the base of the giant elder tree. When she was done, the electrum-inscribed runes glowed prettily, infused with the magic of her domain.
+
+With a smile and a wave, the wizened elder vanished, taking his three charges with him.
+
+***
+
+“Hi, Ali,” Calen said, pulling up a chair and joining her at her favorite study table in the library.
+
+“Welcome back,” Ali said, managing a smile to greet him. “How did the scouting go?”
+
+“Worrying,” he said, and when Ali met his gaze, he added, “I found a large undead dungeon consuming the southern end of the blighted forest, towns and all. Vivian is trying to figure out what to do, but it looks like they will need help – it’s in the mid-eighties.”
+
+“Goodness, that’s awful,” Ali said. “Where would they find a group high-enough level to deal with that? Southport?”
+
+“Maybe Ciradyl,” Calen said. “I suggested the Pathfinders. Anyway, let’s not worry about it for now – Vivian said she’d look into it. How’re you holding up, Ali?”
+
+“Ok, I guess,” Ali said, glancing up from her notes. “Lira said I should do something productive today, but I think she just wants me to keep myself busy. You know…”
+
+“It’ll be ok,” Calen said, reaching over and squeezing her hand gently.
+
+“I know, it’s just a little rough.”
+
+“What are you working on, then?” he asked, craning his neck to peek at her notes.
+
+She tilted the pages to give him a better angle. “I’m hunting for monsters I can learn to make myself stronger down in those mines. That drake is… ridiculous.”
+
+“Any good leads?”
+
+“Nothing,” Ali said, frowning. It was a real problem – Ryn’s research had turned up some interesting options, but all of them would require travel to distant dungeons dotted around the continent. Not something she could likely achieve – at least, not without substantial, expensive preparation.
+
+“Hmm,” Calen said, scratching his head, and then he sat up straighter all of a sudden. “Hey… why don’t you try a different approach?”
+
+“Like what?”
+
+“Well, you wanted to work on improving your dungeon. Why don’t you learn potions?” he said.
+
+“I… well, even assuming that works, how exactly does that improve my dungeon?”
+
+“Potions are very versatile,” Calen said. “You could give all sorts of options to your Kobold defenders if you could make them.”
+
+“Are you sure it’s not just because you want a supplier?” she asked, arching an eyebrow at him. Still, joking aside, it seemed like a great idea. Even just creating her Acolytes with mana potions would be a big improvement on their delves into the mines.
+
+Calen coughed, breaking eye contact. “Um… no? Well, yes, but also your dungeon would benefit greatly! And we wouldn’t run out of elixirs so quickly next time we try the drake…” He trailed off, then added defensively, “I didn’t think of myself first. Close second.”
+
+“I’m teasing,” Ali said, grinning at him. “It’s a good idea. I have space, why don’t we see if it works?”
+
+“Oh,” he muttered. “Um… alright!” Suddenly excited, he pulled out a few trays of the minor mana potions he typically used to sustain himself during the easier fights. “Fifteen, thereabouts?”
+
+“Yup,” Ali said, manifesting her Grimoire in the air above the table and reaching for the gleaming crystal vials.
+
+Imprint: Minor Mana Potion completed.
+
+“It worked?” Calen exclaimed the instant her Grimoire reacted.
+
+“Seems that way!” Ali immediately retrieved a dozen other assorted health and mana potions and fed them to her book by way of Deconstruction.
+
+Imprint: Minor Mana Potion updated to Imprint: Potion.Variant: Minor Health Potion added to Imprint: Potion.Variant: Large Mana Potion added to Imprint: Potion.Variant: Moderate Health Potion added to Imprint: Potion.
+
+“Here, try these!” Calen said, his voice filled with animated excitement.
+
+Variant: Minor Elixir of Fire Resistance added to Imprint: Potion.Variant: Elixir of Fire Resistance added to Imprint: Potion.Variant: Potion of Fire Absorption added to Imprint: Potion.
+
+“Sorry, Morwynne and Eliyen,” Ali muttered as she expanded her imprint to include some of the most lucrative business the Alchemist and Herbalist had yet seen.
+
+“I have an idea for that,” Calen said, catching the thread of her guilt instantly. “Why don’t you make a fire-themed boss for the guild to work on? That way the demand for essences and consumables won’t vanish overnight.”
+
+“That’s a good idea,” Ali said. “But, first…” She pulled out all her recall potions and inspected them carefully before deconstructing them.
+
+Variant: Recall Potion (Novaspark Academy of Magic) added to Imprint: Potion.
+
+Oh, that works, too? Interestingly, the binding to the locus seemed to be an intrinsic part of the potion itself. She would need to consult Morwynne if she ever needed a different destination.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

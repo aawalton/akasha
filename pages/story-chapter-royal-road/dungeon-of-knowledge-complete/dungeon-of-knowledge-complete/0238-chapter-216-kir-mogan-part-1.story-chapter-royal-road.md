@@ -1,0 +1,131 @@
+---
+id: 3f3dc14c-63c3-5769-bc50-e1422072dd5c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 216: Kir’mogan (Part 1)"
+slug: 0238-chapter-216-kir-mogan-part-1
+partOf: dungeon-of-knowledge-complete
+position: 238
+ownLength: 2209
+unit: words
+ownProgress: 2209
+publishedAt: 2025-03-27
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2154502/chapter-216-kirmogan-part-1"
+royalRoadId: "2154502"
+markedReadAt: "2026-06-29T20:19:14.141Z"
+---
+
+If your opponent is mighty, do not stand in the way of her fist.
+
+- Kamari Ren, Ahn Khen Elder, legendary master and inheritor of the Ninefold Way: Fists of Coherent Integrity.
+
+Calen darted along the path, dodging the patches of brilliant sunshine that had begun filtering through the dense jungle canopy. His stealth skills worked in the light, but they were better in shadows. He scanned the overgrowth, ignoring the industrious squirrels who hadn’t sensed his presence. He skirted the gruesome Grim Totems; like the squirrels, he gave them a wide berth, never letting his focus and vigilance falter for even one moment.
+
+But it was hard to ignore the changes to the jungle itself as he progressed. Something is different. The jungle was becoming less densely packed; there were just as many trees, but much of the thick undergrowth seemed to have been cleared, making room for more Grim Totems to sprout among the enormous boles and gnarled, moss-covered roots. Here and there, partially intact skeletons lay discarded, many of them missing the skulls that seemed to have been used to cap the totems. Although the dead appeared fresh, a thick, blood-red moss already sprouted through the bones with a macabre eagerness that left heaps of thriving sanguine consumption feeding on every corpse.
+
+Blood-Drenched Moss – Moss – level 43.
+
+Creepy. The moss continuously leaked red fluid which was slowly absorbed into the stained ground, emitting an uncomfortably warm and cloying aura. Perhaps Mato or Ali can look at it. He wasn’t about to get close to something that unnatural.
+
+Rounding a bend in the trail, it widened, and in moments the jungle gave way to a broad sunlit clearing. A thick wall of giant rib-like bones presented a dam to hold back the heavy press of the encroaching jungle. Several primitive-looking buildings dotted the clearing, constructed from rough-hewn stone, and chinked with more of that weeping red moss.
+
+[Explorer] You have discovered the Temple of Bone.Your actions have increased the reputation of your patron.You have gained the Blessing of the Wanderer.
+
+This had happened several times already while exploring the Temple of Aman Rak. It seemed he wouldn’t need to spend many coins to keep his blessing – his patron deity must care deeply about exploring this new dungeon.
+
+In total silence, he slipped through the gap in the enclosing bone wall, following the trail into the primitive troll dwelling, but then he froze as he caught sight of what waited in the center.
+
+A heavy bone altar had been constructed in the middle of what might have passed for the center of this tiny hamlet, surrounded by clumps of small blueish flowers that swayed eerily in a non-existent breeze. Jagged edges of bone jutted out from the darkly stained surface. The stains grew denser closer to the ground, leaving a patch of pure black surrounding the ominous artifact. But it was the dense miasma and palpable light-consuming darkness that pulsed from it that sent chills down Calen’s spine.
+
+Out by the altar, several figures moved, dragging bodies toward the stained circle of ground, crushing wide swathes of the pretty blue flowers.
+
+Kir’mogan [The Brutal Blade] – Troll – level 81Warrior – Troll – level 64-67 x2.Shaman – Troll – level 73-74 x2.[Explorer]Category: Dungeon BossThreat Level: RaidMonster Type: Troll, UniqueDamage: Physical, BoneKnown Abilities: Minions (4)
+
+The first thing he noticed was that they were not undead.
+
+The second thing he noticed was the writhing form of a low-level Troll staked to the altar.
+
+Shaman – Troll – level 12.
+
+There was a great surge of black energy arcing from the dark-stained bone altar, and the helpless Troll let out a bloodcurdling scream. From every crushed flower, a new gray-rimmed black one sprouted in an outward ripple of growth. Calen stared in confusion, unable to comprehend why the trolls were torturing each other, and then suddenly he realized the awful truth; the young troll suffering on the dark altar was not a dungeon monster. As he watched, powerless to interrupt the ritual, the energy pulsed out from the altar, ripping skeletons from the corpses strewn about and imbuing them with a ghastly mockery of life.
+
+In a din of rattling and clacking of bones, the skeletons clambered to their feet and began marching toward the trail to the blood-curdling sound of Kir’mogan’s cruel laughter. Calen swallowed back the bile that rose in his throat and fled the bone temple and the unholy ritual he had just witnessed. He needed to get the others – and he needed to get to them before the undead did.
+
+Ali walked down the center of the trail while the group cautiously advanced through the dense jungle. It was a jungle entirely unlike the roiling chaos of the wild mana zone under the ruins of Dal’mohra, sharing only a verdancy and abundance of growth. The trees here did not directly contribute to the ambient mana. Instead, the thick stench of blood mana bored into her nostrils even though she was smelling it by proxy. The fountains of dry bone-affinity mana pouring from the Grim Totems scraped across her skin like an enveloping hug from a skeleton.
+
+Ali shivered, glancing up at the two Troll Bone Warriors flanking her, taking a little solace in the coiled, ready power in their bodies, and the confident arrogance of their stride.
+
+“Fan out,” she instructed, directing the rest of her minion army to spread out and take advantage of the thinning undergrowth. She flitted through points of view, making certain that nothing would surprise them while Calen was out scouting. Malika and Mato both had potent perception skills to warn them of danger, but both were short-to-medium range. On the other hand, Ali’s minions put a broad and diverse set of senses at her disposal: from the heat vision of her imp to the blood scent of her stalkers. She might not have Calen’s eyes or Explorer skill, but she could create a fine net of perception that would be hard for most threats to evade.
+
+“What do you think of this, Ali?” Mato asked, squatting down beside a large Grim Totem and the skeletal remains of a troll corpse lying on the ground beside it. He was poking at something, watching a trickle of viscous red fluid.
+
+Blood-Drenched Moss – level 43 (Blood)
+
+“Ugh, that’s repulsive,” Ali said, staring at the moss that was spreading over and even through the bones, leaking a liquid that spilled onto the ground, staining it crimson.
+
+“Mhm…” Mato said, still studying it closely.
+
+“Is that real blood?” Ali asked. While she voiced the question, it was redundant. She had no need for Mato to confirm it – her Abyssal Stalkers could smell it from across the path. Not only that, but the moss was seeping red blood-affinity mana that twisted and swirled in transient ribbons before blending with the bone mana from the nearby Grim Totem to produce the complex paired mana structure for the Temple of Aman Rak’s domain.
+
+“I’m going to collect some samples for Basil and Eliyen, just in case it’s valuable,” Mato said. Then he glanced up, meeting her gaze, “You have a moss imprint, right?”
+
+“Yes,” Ali said. She had been half hoping he would forget – she didn’t relish the idea of learning an icky moss that leaked blood, but he was right – almost invariably, all plants with a mana affinity of some kind had substantial value to the herbalists, and if they could turn it into something helpful, it would be worth the sacrifice.
+
+She bent down and reached out toward the red moss, grimacing at the sense of warm wetness assaulting her fingertips, but she completed her task properly, deconstructing several good samples until her Grimoire reacted.
+
+Variant: Blood-Drenched Moss added to Imprint: Moss.
+
+Suddenly she looked up as she caught the powerful scent of pumping blood on the path up ahead. The heat outline of his sprinting body gave Calen away, even in stealth. Since his last advancement, she could no longer see his mana, but behind him, she could clearly make out the knots of death-affinity mana heralding the approaching undead.
+
+“Incoming,” Ali announced. Malika sprang to her feet, taking her cue from Ali’s gaze and immediately facing that direction in a defensive stance. Mato transformed into his Bear Form before he even got up from his crouch. “Undead. Chasing Calen.” She readied her minions and made a barrier pop into existence between her and the new threat.
+
+The clacking of bones filtered strangely muted through the trees as six skeletons rounded the bend, running right into Mato’s roaring charge. The trail thumped and shook as the enormous Armored Drake and Forest Guardian waded into the fray.
+
+“Go,” Ali said, imbuing her words with images of intent, communicating with her Troll Warriors the same way she did with elementals and beasts. Unleashed from the bow of her will, they shot forward, leaving a bizarre crackling rupture of bone spines that burst from their footprints. Ridges and plates of bone sprouted rapidly from their exposed skin, forming heavy articulated armor that covered the vulnerable joints, neck, and abdomen. They crashed bodily into the skeletons with a loud crunching sound and unleashed a flurry of bladed slashes.
+
+Ali studied her trolls carefully using Martial Insight to experience their unique combat in first person. They’re powerful, she thought as Sage of Learning drained mana rapidly, cataloging moves and techniques, balance and momentum. Ali’s mind flickered with patterns and memories as her body experienced the forms while her skill drew upon her memories of sparring with Malika to connect similar techniques. Their martial abilities were remarkably similar to Malika’s punching techniques, perhaps because the tonfa blades ran the length of their forearms, protruding a little beyond the elbow and past the hands, making their weapons ideal for punches and elbow strikes, in addition to the obvious slashing attacks. In a few moments, she began experimenting, mixing in a little of the extraordinary Ahn Khen footwork to enhance the power of their blows, but the fight was over too quickly for her to make much progress. The Armored Drake more or less stomped the lower-level skeletons into bone shards and incinerated whatever it didn’t crush or shatter.
+
+“Come quickly,” Calen said breathlessly. “I found a raid boss. They’re torturing a Troll, probably a young one.”
+
+“What?” Ali asked, Calen’s words not making a whole lot of sense.
+
+“She’s not a dungeon monster,” he said, and suddenly his meaning was clear.
+
+“Fuck, let’s go!” Ali said, hopping onto a barrier and shooting off after her friends as everyone sprinted down the trail.
+
+“Boss abilities?” Malika asked.
+
+“Eighty-one unique melee Troll with a greataxe. Two shamans, two extra warriors,” Calen said, summarizing quickly.
+
+“Two shamans…” Malika murmured, her mouth pressing into a firm line.
+
+“Kill them first,” Calen said. “And be careful, yes.”
+
+While they hashed out strategy in short gasps, Ali rounded a bend as the trail took a turn around a particularly massive tree and then she stopped, suddenly struggling to keep her stomach from emptying its contents onto the mossy ground.
+
+Up ahead, the road entered a broad clearing with several stone huts, partially overgrown with bloody moss. The fences and roofs seemed to be constructed entirely from the left-over bones of some giant monster. But in the center of it all was a dark stained altar made from bone and surrounded by many Grim Totems. The altar glowed with an ominously dense death mana and strewn all about on the ground were the dismembered and hacked-up corpses of trolls lying strewn across a carpet of strange blue or black flowers.
+
+A large troll warrior casually rested a vicious bone axe taller than Mato on his right shoulder, the haft gripped with a hand that looked like it could crush boulders with ease. He looked on with a cruel smile as his minions tormented a troll that was staked to the bone altar with heavy metal spikes. From the feeble struggles, and her healer’s sight, she could tell the staked Troll was barely clinging on, at the brink of death.
+
+Mato paused at the entrance, giving everyone a moment to catch up and collect themselves.
+
+“We need to go now if we want to save her,” Malika said, her face grim, no doubt uncomfortable with being forced to charge into an unknown raid encounter without any time to prepare.
+
+Ali studied the battlefield, identifying the trolls with a glance.
+
+Kir’mogan [The Brutal Blade] – Troll – level 81 (Bone).Warrior – Troll – level 64-67 (Bone) x2.Shaman – Troll – level 73-74 (Blood) x2.Shaman – Troll – level 12 (Blood).
+
+“The area around the altar is brimming with death mana, I don’t recommend going anywhere near that,” she warned, as if the screaming troll wasn’t enough of a deterrent.
+
+“Mato tank everything, Malika pull the shamans out, we’ll kill those first,” Calen said. “Be ready for Bloodlust. Keep your recall potions handy, this might get rough. Simple.”
+
+Malika grimaced, “Simply stupid, but I’m in. Let’s do this.”
+
+Mato growled, and Calen lit his bow on fire. Already among the stone houses, Ali made her Abyssal Stalkers vanish from sight.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,231 @@
+---
+id: 624d1a47-36cf-5636-9f99-efa53ceb048a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 147: A Necromancer’s Value"
+slug: 0149-chapter-147-a-necromancer-s-value
+partOf: dungeon-of-knowledge-complete
+position: 149
+ownLength: 3540
+unit: words
+ownProgress: 3540
+publishedAt: 2024-10-24
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1866194/chapter-147-a-necromancers-value"
+royalRoadId: "1866194"
+markedReadAt: "2026-06-29T20:15:59.804Z"
+---
+
+“Ok, everybody ready?” Teagan asked, getting nods and monosyllabic grunts of affirmation as she surveyed her team. Vivian always stressed the importance of explicitly confirming engagement before entering the sewers, and she was determined to follow the proper procedure.
+
+Especially considering she had two recruits today. Willow, Braden, and even Basil were all experienced enough that she didn’t necessarily have to remind them, but Nicholas and Blair had needed a lot of hand-holding to prevent them from accidentally killing themselves and the rest of the party in the process.
+
+Then, there’s the necromancer. Seth was an entirely unknown quantity. This would be his first trial with their group, and she had no idea what to expect, other than what he had shared about his class abilities. She studied him for a few moments, finding it difficult to believe that such a quiet and unassuming boy had one of the most feared and dangerous classes in existence – well, it had been forced on him.
+
+“Ok, our marching order is Braden and Nicholas up front, Seth you go next, then me, and Willow brings up the rear with Basil. Let’s go.” The necromancer was going to be a problem for her, she just knew it. Vivian told her privately that Seth was trialing with the guild, and insisted he would be a strong addition to her team. But it looked like a pity play – or worse. All of the recent candidates she had seen so far were lackluster at best. Recruitment must be awful if she’s considering necromancers. Blair had flat-out refused to join them today when she heard what his class was. Nicholas complained incessantly about carrying a level three and how Seth was going to hold them all back. At least Willow and Braden don’t seem to mind too much.
+
+“Watch your step at the bottom,” Braden called up. “There’s a lot of trash down here.”
+
+When she released the rusty iron rung and felt the familiar damp moss and cold, crumbling brick of the sewers under her bare feet, she saw what he meant. In the middle of the small, dank chamber, directly beneath the overhead iron grate, she found a large pile of broken wood, smelly rotten food, and a dizzying array of other discards.
+
+“Are the merchants using the sewer to dump their junk, now?” Willow asked from behind as she hopped off the ladder landing lightly on the balls of her feet.
+
+“I don’t know, but I haven’t seen this before,” Braden answered, stepping forward to guard the chamber entrance just like they had practiced.
+
+“Nicholas, stop looking through the trash, you’re our scout,” Teagan said, frustrated to have to remind him, yet again.
+
+“Yeah, yeah,” he said, moving up beside Braden.
+
+“I thought we covered this last time,” Teagan grumbled, keeping her eyes on the dark sewer tunnel as they began to push forward. It was familiar now, but there were new mushrooms providing a dim light, and the sewer water seemed clean. Certainly, the foul reek that had assaulted her nose the first time they came down here was gone.
+
+She would have been content to continue leveling up with just her friends Braden and Willow, but, somehow, Aiden and his team had passed her, taking the top spot. Vivian insisted that her team needed to grow if she wanted to catch up – and that a three-person group would likely stall out in bronze. But that meant trialing new recruits. At least Basil had worked out well – he had no combat abilities, although he did provide them with much-needed potions along the way, and shared the money earned from whatever herbs and plants he harvested with the team without her even having to ask. Why can’t they all be like Basil? She frowned at the back of the rogue striding jauntily down the tunnel seemingly not even glancing down the side passages.
+
+“Recruits will be good for you,” she grumbled under her breath, echoing what Vivian had told her. Instead of becoming stronger and more effective, they seemed to be slower and worse. The risk was higher.
+
+“Braden, in the water ten yards ahead, slime.”
+
+Willow’s voice broke her train of thought, snapping her attention back to the damp sewer and their safety.
+
+Toxic Slime – Ooze – level 2-3 x2.
+
+This should be easy, she thought, evaluating the threats quickly with her Identify skill. As long as Nicholas doesn’t attract a whole lot of adds like last time.
+
+Combat began with Braden’s Rush and the wet smack of his shield into the poisonous slime monsters. With the ease of practice, she fell into her routine, dropping her Free Action totem near Braden, just in case he stepped on one of the roots traps, and readied her Cure spell. As soon as the slime spat its toxic poison at him, she used it, removing the poison before it dealt enough damage to even require her healing.
+
+Nicholas appeared from the shadows behind the slimes, brandishing his two bone swords, this time doing a respectable job of positioning himself. Willow danced across the channel shooting arrows, and everything seemed to be going well.
+
+Except… Basil was standing back out of harm’s way, and beside him was Seth, as far as she could tell just watching the fight. Her attention was dragged back to the melee, and she used her Cure again, this time removing the poison on Nicholas when he drew the attention of one of the slimes to himself and got spat on.
+
+She pressed her lips together in annoyance, but to her surprise the slime popped, and then, with a dull slap of Braden’s shield, the second slime collapsed to the ground in a splash of wobbly chunks.
+
+Your group has defeated Toxic Slime – Ooze – level 2-3 x2.
+
+“Wow, that curse is fantastic, Seth,” Willow exclaimed, her voice filled with wonder.
+
+“What curse?”
+
+“Curse?”
+
+She and Nicholas asked simultaneously.
+
+“Seth put Amplify Damage on both slimes, that’s why they died so fast,” Willow said, smiling at the quiet boy standing at the back of the group. “That was you, right?”
+
+“Yes,” Seth answered. “I can’t do much until I get some minions, but I do have the curse.”
+
+How much damage can one curse do? He had mentioned the curse to her before they left the guild, but she hadn’t thought much of it. Although, they did die rather quickly. At least he wasn’t just standing around.
+
+“Um, Teagan? Can I have those corpses?” Seth asked.
+
+“Sure,” she answered. “You need them to raise skeletons or something, right?” Vivian always helped her to at least get a general idea of her recruits’ abilities before heading into danger, so she knew he needed corpses for his summoning skills. It was just that so much depended on how the person would use their abilities in action.
+
+“Slimes don’t have skeletons to raise, but I can do zombies too,” Seth said walking over to the corpses of the slimes. He did something, and the more intact corpse quivered, goop drawing together and coalescing into more-or-less the original shape of the Toxic Slime before it wobbled and then crawled its way over to stand beside him.
+
+Toxic Slime – Zombie Ooze – level 2.
+
+“Gross,” Nicholas said.
+
+That is a little creepy, Teagan thought.
+
+“Ok, I’m ready,” he said. “I can’t raise the other one, there’s not enough of it left.”
+
+***
+
+Seth’s class, Teagan decided, had a slow start – but each time they killed the Toxic Slimes, he attempted to add them to his army, and now that he had three, they were flying through the sewer with a speed she had thought impossible. His Amplify Damage curse was far better than she had expected, but he was also contributing a substantial amount of additional damage through his minions. Probably not as much as Willow or Nicholas, but if she counted the effects of his curse, he was probably responsible for just as much of their damage as the two higher-level damage classes. This must be why Vivian keeps insisting I need more damage classes in the group.
+
+She dropped her totem again, curing Braden as he grappled with three Toxic Slimes. With the extra damage, Willow was being more aggressive with the pulls. Seth’s slimes were already engaged, and she was happy to find his zombies did not need to be cured.
+
+Suddenly, roots sprang from the mossy sewer floor several yards past the fight, and Nicholas appeared in the middle of the trap, his stealth broken.
+
+“Nicholas, what the heck are you doing so far away?” Teagan shouted.
+
+“Sneaking!”
+
+“You’re supposed to be ambushing the slimes.”
+
+“Yeah, yeah. Just get me out of this stupid trap.”
+
+“You’re too far away, and my Totem is on recharge.”
+
+“Fuck.”
+
+He’ll just have to wait, Teagan thought, annoyed with his antics already. But as she had that thought, two dark shapes shimmered into view beside him and their daggers flashed brightly, slipping between the ribs in his back. Blood sprayed across the damp brick walls as Nicholas screamed.
+
+Fuck! She cast her heal, spending mana like water, desperately trying to stay ahead of the gleaming flickers of the nimble daggers drenched with the blood of her dying teammate. Toxic spit hit Braden, but she couldn’t afford the time to cure him unless she wanted to let Nicholas die. Stupid moron! What were you thinking? She vented her frustration in her mind, but she was losing the battle to the vicious Kobold rogues that were tearing through Nicholas’s body like stabbing a struggling watermelon that couldn’t get away.
+
+“Help!” she called out. She was going to lose one of them, and soon.
+
+“On it. I’ll get the rogues.”
+
+To her immense surprise, it was Seth’s voice that answered.
+
+“I’ll work on the slimes,” Willow responded.
+
+Seth’s zombie slimes turned and squelched down the sewer channel toward the struggling Nicholas, while Willow pulled a slime off Braden with her arrows.
+
+She healed frantically, draining her mana rapidly, but the crawling slimes reached the Kobold rogues quickly, and with a few blasts of poison spit and stubby pseudopod strikes, the rogues rounded on Seth’s zombies and began hitting them instead.
+
+Relief welled up in a great tide as her heal landed on Nicholas and his health stayed stable, rather than the precipitous freefall it had been executing for the last thirty seconds.
+
+“Thanks,” she said, snatching the potion Basil handed her and downing it without even looking at what it was. Her mana began to regenerate slowly as she used it to cure Braden. He was about half health, but she would need to wait a little for her mana before she could help him more.
+
+Down at the far end of the sewer tunnel, the zombie slimes were still moving, drawing the Kobold rogues away from Nicholas who still struggled with the twisting roots, spewing a litany of profanity.
+
+As soon as the monsters were off to the other side of the tunnel, a chilling scream split the air as something black shot out from Seth’s outstretched palm and slammed into the two Kobold rogues. The thing darted back and forth and, if she could believe her eyes, passed through the Kobolds’ bodies as they screeched in pain. Another thing shot out, and then another.
+
+“Incoming!” Willow yelled as she sprinted past with a slime trailing her.
+
+Down in the darkness, past Nicholas, two new Kobolds appeared – the green-scaled warrior variety – sprinting toward them with swords raised and their scales gleaming in the dim light. Their chirping battle cries echoed weirdly in the tunnel.
+
+“Uh, guys, help?” Nicholas screeched, panic pushing his voice into the higher registers.
+
+Oh, fuck times ten! Teagan stared at the disaster bearing down on their little party. A loud bang ripped through the chirping cries and a ripple of black energy pulsed through the Kobold rogues and the zombie slimes. Then a second, and third bang, followed by two chimes and the incredible sight of the two Kobolds simultaneously collapsing to the ground.
+
+“Adds to you, Seth,” Willow called, firing two arrows at the new sword-wielding Kobolds before they could gut Nicholas. She sprinted down the tunnel, drawing them toward Seth’s slimes.
+
+But the boy was no longer waiting at the back. Teagan swiveled her head, searching for him. She found Seth almost halfway down the tunnel, sprinting after Willow.
+
+“Seth? What are you…”
+
+As soon as he got close to his zombie slimes, he did something. He waved a hand, and his voice rang out through the dimly lit tunnel with a sinister potency.
+
+“Arise!”
+
+Teagan’s stomach flipped inside her as the thing ripped its way out of the Kobold rogue’s corpse, spraying blood and gore against the walls and across the zombies. It bent and picked up two daggers, and the skeleton of the Kobold rogue launched itself at the incoming enemies, stabbing viciously. The second corpse writhed as its skeleton also tore its way free of its fleshy bindings, and suddenly it was five monsters against two.
+
+Teagan gagged. When Vivian had described a necromancer as a powerful summoner build, her imagination had never conjured a blood-soaked skeleton shedding the entrails of its former body. Not even close.
+
+“Sweet,” Willow said, her voice clearly not reflecting the horror and disgust that was churning in Teagan’s stomach.
+
+She shot a heal to Braden who was still tanking two slimes – unable to kill them quickly on his own. At least with her Cure spell his health remained stable. She wasn’t worried about him. Instead, her attention was snared by the horde of undead monsters, and the screaming bolts of black energy that were exploding in their midst.
+
+“Don’t get hit by the explosions,” Seth called out, warning Willow as she tracked her kited slime through the middle of the group.
+
+“Gotcha, death boy.”
+
+Teagan’s totem spell recharge expired, and she dropped the Free Action totem beside Nicholas, freeing him from his trap finally. Immediately, he sprinted toward the exploding pile of undead monsters.
+
+“Nicholas! Stop!” Willow shouted, but he either didn’t hear her or didn’t care, and he waded right in.
+
+Teagan braced, but nothing bad happened to him. She did notice the conspicuous halt in the screaming death bolts from Seth.
+
+Your group has defeated Dagger Rogue – Kobold – level 4-5 x2.Your group has defeated Warrior – Kobold – level 3-4 x2.Your group has defeated Toxic Slime – Ooze – level 2 x3.
+
+Seven monsters! Panting, Teagan slid down to the floor and sat with her back propped up against the wall. She had barely moved the entire fight, but she was drenched in sweat. I nearly lost someone. They had drawn two sets of adds, yet somehow, they had come out ahead. As the team leader, she needed to understand what had happened.
+
+Trying to calm her breathing and keep a lid on her emotions, she replayed the events in her mind, evaluating the performance of her team and their reactions to the surprise, just like Vivian had taught her. Nicholas had clearly done something stupid – being out of position like he was – but he had been kept out of the fight for almost its entire duration.
+
+Seth and Willow had saved the team, with an impressively improvised strategy and solid coordination. Willow in particular had been smart and decisive when it counted most. Solid.
+
+Braden had done his job holding the slimes and had been locked down and mostly unable to help with the adds.
+
+Basil was Basil – he was not normally involved in combat – but he had provided a clutch mana potion right when she desperately needed it, so she was very happy with his performance.
+
+What was that screaming bolt ability? It had sent chills running down her spine every time he used it. And why hadn’t he used it before? But the answer to that seemed obvious the moment she considered it. Seth had even warned Willow not to get hit. It must be an ability that was dangerous to the party, and he had withheld it to avoid hitting them – it was only when he had a clear shot that he had used it.
+
+Willow got it immediately, she thought, realizing that her friend had grasped the chaotic battle much quicker than she had. Nicholas didn’t. He had waded in without realizing the danger, and Seth had just stopped shooting it to protect him. She studied the necromancer boy with his three zombie slimes and the two Kobold skeletons, forcing herself to watch as two more skeletons ripped themselves out of the remaining Kobold corpses, picking up the swords they had dropped.
+
+“Seth…” she began.
+
+“Me?” He snapped around to stare at her with a complex combination of guilt and fear on his face. Vivian had explained that he didn’t have any other options than the guild, and she could tell he was desperate to make a good impression. Probably terrified of being attacked, hurt, or discarded because of his fearsome class. She had, perhaps, judged him more harshly than she should have, simply because she didn’t like allowing people opportunities out of pity, but he had performed exceptionally well, no doubt about it.
+
+“Good job, you saved the group.” At her words, his face visibly relaxed.
+
+“Fuck yeah, he did,” Willow said. “That was awesome.”
+
+“What was that black bolt?” Teagan asked. “Was that your Volatile Wraith? Why is it dangerous?” She recalled the abilities he had explained, and Volatile Wraith was the only one that fit. I need to understand his abilities better. With the ridiculous power he had just displayed, their entire group strategy would need rethinking.
+
+“Yes, it’s an incorporeal undead spirit. It does area damage and Life Drain, which is why I can’t use it near the team.”
+
+“What is life drain?” Area death magic damage made sense, it would hurt them as much as the enemies, but life drain wasn’t something she was familiar with. “Wait, is that the same debuff Calen discussed in his lecture?”
+
+“I don’t know,” Seth answered. “I wasn’t here for a lecture. It drains maximum health by one percent every time it gets a critical hit, revitalizing me.”
+
+“Can I heal it?”
+
+“No.”
+
+“Well… that’s terrifying,” she said. An unhealable reduction in maximum life would put them out of commission very quickly.
+
+“The Guildmaster gave me one of these just in case we had an accident,” Seth said, retrieving a glowing green elixir from his storage.
+
+“Ok, that’s good to know,” she said, recognizing the expensive Elixir of Vitality Rejuvenation from the name Identify provided.
+
+She had a lot to think about, but one thing was certain, Seth would be a powerful addition to their team, and finally, she could see her path to catching up to Aiden’s group.
+
+With a grin on her face and Vivian’s reminder about risk management foremost in her mind, she got back to her feet and looked down the tunnel, trying to decide which path would lead them to the most experience.
+
+I just wish his skills weren’t so… disgusting.
+
+Ali released her rogue’s senses, reflecting on everything she had seen. The rogue she had used to spy on them was level twenty-three – one of her trash collectors – and there was no way the novice adventurers would have been able to see it. They had emerged victorious, but Ali had very nearly stepped in to save them when the second group of Kobolds had added in the middle of their fight.
+
+He’s going to be ok, she thought, letting out a small sigh. She felt a little guilty about having her minion standing by to protect them if necessary – it undoubtedly reduced their experience for the encounter – but she needed to be sure if Seth was going to work out. But it seemed her worries would be for nothing – he had outdone himself. The archer girl – Willow – seemed to click with him instantly as the two of them solved the strategy problem in real-time.
+
+Knowing Seth could handle himself was only a part of the problem – he also needed to fit in with the team. He probably had a friend already in Willow, but Ali wasn’t quite certain about Braden, or the new guy she hadn’t seen before. Ultimately, though, it was Teagan that mattered most.
+
+Teagan had been a scared, barefoot girl in a stained dress, timidly exploring the sewers the first time Ali had seen her. She was still barefoot, but it was obvious just how much she had grown under the guidance of Vivian Ross – she seemed to be a competent healer and a decent team leader. As the fight progressed, Ali had seen how Teagan had come around to appreciating Seth’s contribution. Although, it was only in the discussion afterward that Ali finally knew that she had accepted him.
+
+She smiled, happy to see the team starting to gel and Seth finding a place to grow.
+
+She pulled out her Grimoire and began the time-consuming chore of resummoning all the minions they had killed to repopulate the sewers.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

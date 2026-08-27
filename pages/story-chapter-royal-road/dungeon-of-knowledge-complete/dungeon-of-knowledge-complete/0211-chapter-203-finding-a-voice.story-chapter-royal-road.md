@@ -1,0 +1,153 @@
+---
+id: 65ff68eb-bfad-5ccc-91d0-b3ced99cf162
+page-type-slug: story-chapter-royal-road
+title: "Chapter 203: Finding a Voice"
+slug: 0211-chapter-203-finding-a-voice
+partOf: dungeon-of-knowledge-complete
+position: 211
+ownLength: 3629
+unit: words
+ownProgress: 3629
+publishedAt: 2025-02-26
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2090904/chapter-203-finding-a-voice"
+royalRoadId: "2090904"
+markedReadAt: "2026-06-29T20:18:17.365Z"
+---
+
+Knowing how to equip yourself effectively is a skill that becomes less and less optional as the monsters grow more challenging. The first place this is typically noticed is with your tank, where a poor choice of gear can cause instant death, followed shortly after by the entire group being decimated by a rampaging monster. Assuming a competent healer, the most crucial aspect of tanking is mitigating unexpectedly large spikes of damage, and the most important tool for this is arguably the lowly shield. Be it a simple plank of wood attached to a forearm, a significantly fancier work of steel and magic, or a specialized skill, blocking is crucial to effective tanking.
+
+Blocking an attack may not seem that effective at first glance; without a significant investment in support skills, the amount of damage prevented by blocking can be relatively small. However a blocked attack cannot do critical damage, and critical hits are often the most dangerous source of unpredictable damage.- Excerpt from The Adventurer’s Guide, Third Edition
+
+Sabri sat off to the side on the damp moss by herself, checking her gear and glancing nervously into the large chamber and at the Kobold boss who waited within, while the important people discussed strategy. It was dank, dark, and the air smelled stale. Enclosed spaces and her were not best friends. She had seen the unnaturally large Kobold and its minions once before – when she had come down to use the class shrine – but this would be her first time facing it – facing any raid boss in fact – in combat. An ice-cold drop of water landed on the back of her head with a soft splat. Somewhere in the background, Theon’s loud voice cut over Brena’s as the leaders hashed out some contentious point of strategy.
+
+She had spent hours poring over the notes Aiden had written, detailing the strategy the previous team had used to defeat this boss, and that knowledge had made her rather more nervous than less. She had even tracked him down and asked him a few questions directly, and every sign pointed to a sharp increase in difficulty and risk compared to the other monsters in the sewers – monsters that had become progressively easier as the group she had been assigned to had earned experience and leveled up.
+
+At the very minimum, Aiden’s notes had strongly recommended two groups, or at least ten people, even though his group had managed to successfully pull it off with one non-combat member.
+
+Sabri’s gaze drifted to the adventurers gathered for the fight – the people she would be risking her life with. Of the other group, she knew nobody. She had seen them in classes and the Adventurers Guild lounge, of course, but all of them were well-connected and had their own friends. They had little time for the poor girl from the wrong side of the border. Even within her group, she really only talked with Brena. Cai spent most of the time he wasn’t fighting sitting cross-legged in meditation with his quarterstaff resting across his legs, a small ruby flame hovering in front of his heart – just like he was doing right now.
+
+Malise stood in the shadows up against the wall playing with her ice-daggers, her catkin eyes glowing softly in the dark. She always liked shadows. Sabri was honestly scared of her – she might be a fiend in combat, but Sabri always felt like she enjoyed the violence just a little too much.
+
+The argument among the leaders ceased and moments later Theon appeared, striding confidently back to their group with Brena scrambling to keep up with him. His expensive plate armor creaked and clanged as he walked, complemented by the devastating two-handed hammer he kept strapped to his muscular back.
+
+“Ok, here’s the plan,” Brena said, the savvy gnome a little out of breath from trying to keep up with Theon’s long, uncompromising stride. While Malika had been friendly and had helped her out a lot, this diminutive gnome with her blue hair, potent lightning magic, and formidable intellect was the only real friend she had here in Myrin’s Keep. Not that I had any friends back in Kezda either, she thought. She admired Basir and Hala, but she never really talked with them much.
+
+“Their team’s tank is a hybrid and has some magical resistance, so they want us to tank the rogue and the warrior while they tank the mage. The kill order is the same as in Aiden’s notes: healer, mage, rogue, and then finally the warrior,” Brena explained.
+
+“I’ll tank the rogue,” Theon said. “I want to see if I can kill it by myself.”
+
+“Don’t forget you’re also our healer,” Brena said.
+
+“No problem, Kobolds are weak, they don’t hit very hard,” Theon said, his voice filled with confidence.
+
+“It’s a raid boss. I have a spare shield you can use…” Sabri said, the words spilling out before she had a chance to think about what she was saying. She had spent so much time studying the notes and one consistent fact had been reiterated; that the rogue and the warrior hit very hard.
+
+I don’t know if he’s even read it.
+
+“Don’t be daft,” Theon retorted, his face twisting in distaste. “I won’t be able to do any damage with a stupid shield. Look, I know some people put dumb ideas into your head about defensive skills and gear, but until you can do real damage, you won’t amount to much in this group. You should get one of these.” He pulled his enormous hammer from his back and grounded it in front of himself with a booming crash.
+
+Sabri shut her mouth, mortified, and looked down at her feet. Malika said shields and good armor were important. It was a defiant thought, but she knew better than to speak it. She was beginning to wonder if she had been steered wrong. One thing was certain; Theon was spectacularly good with his hammer, and his paladin class provided their group with a much-needed heal that they used after combat to minimize the wait time between fights. He had easily proved himself to be the most effective member of their little group.
+
+I shouldn’t have tried to tell him what to do, she thought, his rebuke still smarting. She had been so happy with her class at first, but she struggled to kill anything on her own. Without the support of people like Theon and Brena, with their much more powerful classes, she would have fallen way behind.
+
+Instead, she focused her attention on Brena, who was going over where the Kobolds would be tanked, and what the other two members of their group should be doing. Cai simply nodded, and Malise’s agreement sounded more like a purr than Common.
+
+Sabri got up to get in position and Brena stepped up next to her. “Don’t worry about Theon,” she said. “He knows what he’s doing. Just focus on tanking the warrior in the right spot and it will all be ok.”
+
+She nodded, not trusting herself to speak anymore, and moved up to the front of the assembled adventurers, taking her place beside Theon and the other team’s druid who had shifted into the form of a large, muscular panther.
+
+“Let’s go,” Theon said. In spite of her feelings, she couldn’t help admiring his easy confidence – it was like his broad shoulders were forged for the mantle of leadership, to be standing out on the frontlines of battle.
+
+She followed along, feeling small behind him as he strode confidently into the chamber, his heavy hammer balanced casually over one shoulder.
+
+The room erupted into a sudden chaos of noise and light as the Kobolds attacked and the rest of the adventurers focused their magic and arrows on the Kobold healer. She ignored it all, slamming her shield, lit with her soul magic, into the green-scaled, reptilian face of the Kobold warrior that was charging past her. Immediately it turned and slashed with a dark, serrated bone shortsword that crashed into her armor, denting it, and knocking her stumbling backward.
+
+Ouch! Aiden’s report had said it hit hard, but nothing had prepared her for this. Her ribs were certainly bruised, and blood trickled down her side. Without Kavé’s well-crafted plate armor, she might have lost something important. She blocked the next strike with her shield, preferring to retaliate with her sword as she backed away from the boss, slowly drawing it out of the center of the chamber and up against a wall.
+
+She had known she would be tanking the raid boss himself. She had understood her task well enough. And yet it was only now, under the onslaught of his sword and shield, that the full reality of his size and sheer power began to impress itself upon her.
+
+She ducked a shield slam aimed at her face, but in the moment it blocked her vision, an unseen sword thrust sliced deep into her thigh. Cunning; perfectly timed. She grit her teeth, thankful for the points she had spent on endurance, and returned the strike, drawing a small trickle of dark blood through the Kobold’s tough gleaming green scales. The Kobold warrior shouted, its booming voice crashing into her, weakening her body as a skill took hold, but there was nothing she could do about it, she simply attacked again, trying to avoid his heavy armor, and keeping her shield ready to block at a moment’s notice.
+
+A booming crash resounded, and she was showered with moss and rock fragments as Theon’s vast overhead hammer smash knocked the nearby Kobold rogue sprawling, shattering the crumbling brick at his feet. She wouldn’t be caught dead admitting it, but she felt a pang of jealousy at the demonstration of his immense power.
+
+Sudden panicked shouts from the opposite side of the room caught her attention and she snapped her head up to the sight of an intense ball of fire growing rapidly larger as it filled her vision. She reacted instinctively, dropping into a crouch, shield raised, taking a brutal sword strike to the shoulder, and the world exploded in a deafening roar of heat and flame. Her body slammed into the wall behind her, knocking the breath forcibly from her lungs while her skin seared and blistered in the intense flames. She coughed and choked as the acrid stench of burning flesh, leather, and hair and a scorching blast of air forced its way into her lungs, burning as she struggled to breathe. The pain lingered even as the flame died, and her ringing ears dimly registered distant shouts and screams. Desperately, she brought her shield up to block another sword strike from the Kobold boss who had not relented in the slightest.
+
+Out of the corner of her eyes, she saw a scorched and burnt Theon slowly rolling to his knees, and her stomach churned at the overwhelming stench of burnt flesh. A shadow shifted behind him, and the dark shape of the black-scaled Kobold stepped out from it, wickedly curved daggers raised.
+
+“Theon! Behind you!” she yelled.
+
+But she was too late.
+
+The dagger glinted a malevolent red in the dim light of the dying fire, burying itself up to the hilt in his neck. A spray of crimson arced into the air as the dagger was withdrawn, held aloft in the grasp of black-stained, taloned fingers. With a sudden blur of speed almost too fast to follow, the hungry daggers flickered and stabbed, feeding more and more blood to the first spray. The way Theon’s limp, lifeless body collapsed, his hammer landing beside him with a crash, Sabri knew with absolute cold certainty he was dead.
+
+A sudden shrill scream rang out over the clangor of battle.
+
+She stared at Theon, once so vital and brimming with confidence, now drenching the mossy ground with a slowly growing pool of his own blood. Sabri was no stranger to death, of course, however, never had it been so personal and shockingly sudden. The Kobold rogue retrieved his daggers, casually ripping them free from Theon’s neck, blood dripping from the blades as he searched the room for his next prey. In silent horror, Sabri followed his gaze, meeting the stark certainty of mortal terror in the wide eyes of the Dwarven priest from the other team.
+
+Her heart thumped audibly in her chest, breaking the moment, and the Kobold rogue sprang into action, sprinting right past Sabri and the boss she was tanking, his eyes carrying murderous intent for the Dwarf.
+
+He will die if I don’t help. Sabri knew it with utmost certainty. And I will die if I do. This too was certain. She was already hurt and struggling against the Kobold warrior; to deliberately attract the attention of the rogue too – that would be suicide. Theon’s fresh blood splattered warm and wet against her cheek as the rogue flicked his dagger, and Sabri found her voice.
+
+She shouted.
+
+Her voice reverberated through the chamber, empowered with the full force of her Soul Shout skill. All around her, the air shimmered and vibrated with the magic of her attack. Bricks splintered and cracked under the onslaught. For an instant, her life and that of the dwarven priest hung in the balance upon the narrow knife-edge of choice, and the only thought in Sabri’s mind was that she regretted not asking his name.
+
+The Kobold rogue stopped as if he had run into a granite wall. He turned, lips curled back from wicked fangs, rage smoldering in his reptilian eyes. And then those hungry daggers leapt for her throat with speed she could barely credit.
+
+She blocked, but the rogue’s daggers were so fast that many of his attacks simply bypassed her guard, stabbing into vulnerable gaps her armor did not cover. She retaliated with her sword, but the warrior took advantage of the opening and slashed her shoulder open. Her health spiraled down as she bled from the sudden flurry of cuts and slashes as the rogue and the warrior teamed up to flank her.
+
+Help! She was suddenly hurt and alone, at the mercy of these two impossible monsters. The warrior and the rogue were more than she could fight by herself, simply too fast and powerful for her to block and survive.
+
+What was I thinking? She desperately tried to block faster, attack quicker, suddenly far too busy and frantic for regret. But her health continued to spiral out of control, plummeting rapidly past halfway, and then down to a quarter remaining.
+
+She could sense her imminent death furiously rushing toward her when an unusual warm sensation filled her bruised and torn body. It pulsed with a soft pure white radiance and her health jumped, just a little. Her injured arm moved just a little quicker and she blocked another two dagger strikes before the third pierced through her armor, slipping between her ribs and puncturing her lung. Panic rose within her as she struggled to draw breath, getting nothing more than a gurgling sucking noise as her airway filled with blood. Her health dipped again. The warmth pulsed in gentle counterpoint, and her health rose, the flesh slowly knitting around her wound, allowing her a small desperate gasp of air. The warrior pressed his attack with a powerful smash of his shield and strike of the sword, tearing a long gash in her arm. The warmth pulsed again, causing her health to eke upwards once more.
+
+What is that? By all accounts, the last several attacks should have finished her off, and yet, against all odds, she was still standing. Still bleeding. Still struggling. She barely had enough attention to face both Kobolds and their vicious blades; there was no chance she could spare the focus to figure out what was happening to her.
+
+Suddenly, her vision flared with pure white, and she was filled with a surge of energy so powerful she almost dropped her sword. Her wounds instantly closed. The bleeding stopped, and her health skyrocketed. And a sudden clarity of recognition descended upon her like a hammer blow.
+
+The Dwarf healed me… in combat?
+
+She had seldom experienced healing in the middle of a fight, and never without her needing to beg for it. In addition, her Tenacious aptitude had triggered in response to being healed while below half health. She raised her head and saw the Dwarf downing a mana potion, sweat beading his brow. His chin was so set his beard jutted out nearly at right-angles to his chest. His hands were glowing with holy light and his previously terrified eyes held nothing but pure focus and concentration as they looked intently her way.
+
+Sudden hope bloomed within her. Theon had always preferred killing the monsters with his hammer, reserving his heal spell for after combat. This dwarf had just saved her life, healing her while she faced the overwhelming threat of two raid-level monsters simultaneously. And he looked like he wasn’t about to let up.
+
+I can’t let these Kobolds get to him, she thought. She drew in a deep breath and shouted again, her magic rippling through the air and the two Kobolds in front of her, kicking up a blast of brick fragments and dust. That’s right, I’m here! Attack me! she thought, lashing out with her sword.
+
+It seemed like she had been blocking and striking forever. Her focus remained locked on her two opponents, challenging them, again and again, to destroy her while she pestered them with small cuts, slices, and shield slams whenever the opportunity presented itself. As she battled, an unspoken bond formed with the unnamed dwarven priest, as if they got to know each other through action and reaction. He responded to her damage and injuries, learning how much she could take before she needed his healing magic. She knew the exact instant when he realized she had the Tenacious aptitude. And when he realized precisely at what percentage it triggered. After that, he always let her dip below half before landing an enormous heal that filled her almost completely. For her part, she learned to trust him, even when her health dipped. He had her covered, and all she had to do was block so that the rogue couldn’t land critical strike damage, and make sure that the two Kobolds never took their eyes, claws, and weapons off her.
+
+By the time Malise appeared with her gleaming ice daggers and ecstatic grin, and Cai began laying into the rogue with his flame-wreathed quarterstaff, Sabri had finally identified the feeling growing deep inside her. Beneath the layer of heart-pounding anxiety, and the pain of the constant stabs and slashes, Sabri knew with certainty that she mattered. Even if it was only to one Dwarf.
+
+The Kobold warrior finally collapsed on the ground, as the full force of their raid turned on it, and the sound of several chimes echoed within her mind – contrasting starkly against the deafening silence of the chamber.
+
+Your group has defeated Acolyte – Kobold – level 10.Your group has defeated Fire Mage – Kobold – level 10.Your group has defeated Dagger Rogue – Kobold – level 10.Your group has defeated Warrior – Kobold – level 10.Soul Defender has reached level 12 (+3)+30 attribute points.
+
+Sabri’s momentary excitement at the notifications faded as her eyes were drawn away from the scaled corpses of the Kobolds to the lifeless form of Theon lying sprawled on the mossy brick of the sewer.
+
+Brena was bent over him, checking in vain for signs of life.
+
+“I saw it happen,” one of the archers spoke from nearby. “He took a fireball, and the rogue took advantage of it to stealth and Ambush him from behind. If he had been up against the wall, and using a shield to block, he wouldn’t have taken the critical damage. Stabbed him right in the throat.”
+
+The chilling truth cut through her like a knife. Why didn’t I insist that he use the shield? Why did I just let him tell me it’s stupid? Sabri’s heart writhed in turmoil. She hadn’t liked Theon and knew he would only have ridiculed her further, but she always backed off when he overrode her opinion. She always felt weak, but she had never thought her opinion mattered. Certainly not compared to his power and confidence. And now he was dead, and she had had the answer before it happened. She had simply been unable to insist. I should have told Brena, she would have made him use it.
+
+She looked up at the sense of someone approaching, surprised by the tears running down her face. In front of her stood the Dwarf in his dusty brown acolyte robes.
+
+“Maybe a bad time?” he asked gently.
+
+Sabri shook her head, trying to wipe the tears away, embarrassed that he would see her in such a state.
+
+“I’m Belmar,” he said. “Thank you for saving my life.”
+
+“You… you’re welcome,” Sabri managed. “I couldn’t have done it without you.” Why is he thanking me? He is the one who healed me the whole time. But her heart couldn’t deny the genuine gratitude and honesty in his face and voice, nor the kinship of two people who had just faced certain death together and yet had somehow, inexplicably, survived.
+
+His grin was so big, it threatened to split his impressive beard in half. He said, “You are a phenomenal tank. Anytime you need a healer, just let me know.”
+
+She stared after him as he walked away, her gaze eventually lowering to Theon’s corpse once again, unable to think, or even process her own feelings.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,283 @@
+---
+id: 8f48cff8-29b0-5677-b217-5423ce9efdbb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 85: Bounty"
+slug: 0085-chapter-85-bounty
+partOf: dungeon-of-knowledge-complete
+position: 85
+ownLength: 4486
+unit: words
+ownProgress: 4486
+publishedAt: 2024-06-13
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1675148/chapter-85-bounty"
+royalRoadId: "1675148"
+markedReadAt: "2026-06-29T20:13:47.353Z"
+---
+
+Ali stared in amazement at a smithy transformed. She and her friends had stopped by Thuli’s smithy to get some repair work done on Mato's armor, and Ali had wanted to check in to see how Kavé was doing in her new apprenticeship, but as soon as they entered, Ali had to stop and stare. She had thought it transformed the last time she had stopped by to introduce Kavé and Thuli, but what she found was on another level.
+
+The entire smithy was clean. It sparkled. And there was a distinct energy, a productivity, a deep sense of purpose to the room, seen in everything from the carefully stacked iron ingots to the organized displays of swords and daggers on the walls. Even the ringing of the hammer striking the anvil in the back felt like the sounds of something important being crafted. She wrinkled her nose at the fresh tangs of molten metal and almost summoned a barrier as a great arc of green sparks shot across the floor. How did it even smell healthier? Someone was whistling.
+
+As Ali gazed through the arched opening into the back, she saw Kavé striking at a piece of red-hot steel with a heavy hammer while Thuli stood beside her offering instruction and pointers. Kavé pursed her mouth and whistled again, raising the hammer with a cheerful yet focused air.
+
+Blacksmith – Dragonkin – level 6 (Steel)Blacksmith – Dwarf – level ?? (Ember)
+
+She’s growing fast! Either she was working very hard, or Thuli was a gifted teacher. Or both, she corrected herself hastily.
+
+“See how the mana is all snarled up here? We can line it up better.”
+
+“Like this?”
+
+“Aye, and now use your steel shaping to straighten it out a little more.”
+
+“Ok, this one can see it now…”
+
+“Just remember to put ya back into the strike, otherwise it won’t do anything. Snarls like this can be stubborn.”
+
+Kavé belted the visibly glowing piece with a powerful strike that sent sparks skittering across the stone floor, and Ali saw the mana bending from the skill-assisted hammer blow.
+
+“Aye, that’s it right there. Why don’t ya finish up this sword and I’ll go greet our guests?”
+
+“Yes, Thuli,” she said, turning to glance back through the archway and then grinning and waving as she caught sight of Ali and Mato.
+
+“Hi Aliandra,” Thuli said, a beaming grin on his face as he emerged from the sweltering room, waves of shimmering heat slowly fading from his body as his magic slowly ebbed away. He nodded a greeting to the others as he caught sight of them.
+
+Of all the things that had changed, the smile on the previously grumpy Dwarf’s face was the greatest. Ali was stunned at how much more vigorous and healthy he looked, and the spring in his step as he walked over was unmistakable. She couldn’t help grinning in response.
+
+“What happened to you?” Ali asked, returning Kavé’s wave before she returned to her project.
+
+“I paid off my debt today!” Thuli declared. “And it’s all thanks to yer generosity.”
+
+“I didn’t think we gave you enough steel to pay it off completely.”
+
+“I made a breakthrough studying those pieces. It’s not Eimuuran steel yet, but it was enough to land a commission from the Garrison Commander’s office for a large order of swords. And I got a couple of levels from discovering the process.”
+
+He retrieved a sword from his storage and showed her.
+
+Fireforged Sword – level 28 (Fire)Damage: Slashing, Physical, FireAdded Fire damage on hit.+24 Strength.Requirements: Strength 98Created by Thuli.One Handed – Sword – Fireforged Steel
+
+The sword blade was silver with the unmistakable reddish glow of fire mana. Ali was no expert, but it looked quite impressive.
+
+“You made a magic-grade sword for the garrison guards?” Ali asked. She was guessing the grade by the number of enchantments, but it seemed a fairly reliable one to make. “You’re going to be popular. Well done!”
+
+“Aye.” Thuli wrinkled his large nose, making his beard shake. “It’s a little too good, perhaps.”
+
+“What do you mean?” Mato asked.
+
+“The other blacksmiths are convinced I have an out-of-town sponsor. They’re even trying to get Hadrik Goldbeard to force me to give up your identity. Fortunately, we Dwarves are stubborn by nature, and he hasn’t caved to their demands.”
+
+“I see,” Ali said, handing the blade back to him. “Yes, I’d prefer to remain anonymous if possible.” She was just happy to see his success had secured his forge and smithy for the foreseeable future.
+
+“Of course, lassie.”
+
+“How is Kavé doing?” Ali asked, watching the fascinating flow of silvery strands of steel mana she was working in the background.
+
+“That girl is amazing! She is such a hard worker, she learns fast, and her class is incredible. She will easily surpass me one day, mark my words. She camped in the back room, she never complains, and she polished the entire smithy on her first day. I mean just look at this place!”
+
+Ali smiled at Thuli’s proud boasting about his apprentice, happy to see that the two of them were getting along well.
+
+“Don’t tell the lass, I want it to be a surprise, but she will get her first paycheck at the end of the week,” Thuli finished, with a happy smile. “Anyways, I’m sure ya didn’t come by for a spot of idle chitchat – what can I do for ya?”
+
+“I was wondering if these might be useful for your studies?” Ali asked, pulling out two newly created Eimuuran Darksteel daggers – copies of the ones she had learned in the armory yesterday. She also laid out some plate armor pieces, a sword, and a shield.
+
+Thuli’s eyes widened at the sight of all the Eimuuran steel on his table. Carefully he inspected each piece, stopping in surprise at the daggers. “I didn’t know the techniques could be applied to Darksteel. This is really something.” He looked over at Ali. “Yes, I can definitely use this, and I can even pay ya this time.”
+
+“Bonus,” Mato deadpanned.
+
+Thuli shot him a filthy look. “Maybe I’ll test your head with my hammer, lad!”
+
+“A jest, a jest,” Mato chuckled, holding out his hands peaceably. “I’m just glad to see this forge bubbling and clanging again.”
+
+“Not like hitting him in the head would do anything anyway,” Malika muttered, just loud enough for everyone to hear.
+
+“Hah!” the Dwarf snorted.
+
+“Can you include the cost of repairs for Mato’s armor?” Ali asked. They haggled over the price for a little, but Ali trusted him, and so they came to a rather quick agreement, after which Thuli took Mato aside to begin working on his armor.
+
+The din of hammering ceased, and Kavé appeared from the back room, laying the finished sword on the table before she came over to Ali.
+
+“This one has a gift for you,” she said using Draconic, and then immediately vanished through a side door, emerging a few moments later with a wooden tray with several pots on it, each one growing a small jasmine plant. Ali instantly recognized it by the beautiful scent of the tiny white flowers.
+
+“What is this for?” Ali asked, surprised by the unexpected gesture.
+
+“This one has a class, and a teacher, thanks to you. The herbalist boy, Basil, said this would be a gift you might like.” Kavé spoke quickly with a fidgeting that betrayed her anxiety at offering the gift. “Do you like it? This one loves the scent of jasmine, and Basil said you would learn to grow it.”
+
+“I love it, Kavé, thank you!”
+
+The dragonkin girl smiled with a few too many sharp pointy teeth showing, but Ali was already used to her Kobolds, and she simply smiled back.
+
+“This one would like to see it… your magic?” Kavé asked eagerly.
+
+“Of course,” Ali answered, manifesting her Grimoire at once and deconstructing each of the plants.
+
+Imprint: Ivy updated to Imprint: Creeper.Variant: Jasmine added to Imprint: Creeper.
+
+With a thought, she poured mana into the new variant and created a new jasmine plant in one of the now empty pots.
+
+“Your magic is beautiful,” Kavé exclaimed.
+
+“Thank you,” Ali answered.
+
+“Aliandra, why does your Draconic sound like a Kobold?” Kavé asked, glancing back and forth as if someone might overhear.
+
+Blunt and direct. Ali didn’t feel threatened though, it was more that the girl was simply extremely straightforward. Ali answered in kind, “I learned it from a Kobold.”
+
+“This one can give you lessons, it is not good to speak like a Kobold.”
+
+“Ok,” Ali smiled. Language lessons sounded fun.
+
+“Kavé, let’s see your sword,” Thuli said, his booming voice interrupting their conversation, and Kavé rushed back to the table to retrieve her work and show it to him, standing anxiously by while he inspected the weapon.
+
+“Good job,” he finally declared. “Next time I will show you how to forge it a little stronger by using more heat in the final step. Now, why don’t you put these Eimuuran pieces in the safe and I’ll show you how to study them later.”
+
+Kavé bowed and collected the items, barely able to conceal her excitement as she touched the steel, a flicker of her silvery mana caressing it as she rushed off to pack them away.
+
+Mieriel glanced up from her work at the sounds of footsteps approaching. It was late, and the guild was quiet – the perfect time for catching up on her administrative chores. She smiled at the sight of Vivian striding across the hall, but the instant she stepped onto the carpet, a roiling, gloomy sense of despair mingled with fury crashed up against her Empathy skill and her smile shriveled up and blew away.
+
+Oh no. Not again. “Who?”
+
+“Kelvin,” Vivian said, her face stony and eyes hard. She dropped herself into the seat in front of Mieriel’s desk with a grunt, not bothering to keep up the façade of the leader in the quiet of the empty guild hall. “Killed in his bed.”
+
+“So, the Silent Assassin is real?” Mieriel asked, but she knew her question was redundant. This was the third victim now.
+
+“The same calling card and same method of death,” Vivian said. “And they’re targeting us.”
+
+“Why?” While Vivian looked angry, the chaotic emotions rolling off of her told a far more personal story, the despair tinged with frustration and hurt.
+
+“This has Hawkhurst’s stench all over it,” Vivian said curtly. “It must be retaliation for changing my vote to Brand for the council’s defense budget.”
+
+“Should I…” Mieriel began, and then she swallowed. In a town like Myrin’s Keep, it would be suicide to get caught digging around with her skills. She and Vivian had agreed she should keep a low profile after the last time. But… Aliandra… What she and Vivian had done to that girl still gnawed at her. It was one thing to take a stand for dangerous classes, but if she became the very nightmare people feared…
+
+“I don’t want you to risk yourself…” Vivian said, but the surge of hope that blossomed within her heart was as clear as a lighthouse in the night.
+
+“I’ll do some scouting at the usual haunts,” Mieriel said softly, catching her breath.
+
+“Please be very, very careful,” Vivian said.
+
+She just nodded, packing away her papers. Am I looking for redemption? She shuddered; not entirely sure she deserved it.
+
+***
+
+Mieriel crossed the street and entered the alleyway. It was dark, and most certainly not a safe neighborhood. She lifted the hem of her dress – her favorite of Lydia’s creations – to avoid dragging it through the filth that covered the cobblestones. She had not been here in ages, but her nose wrinkled at the unforgettable stench which had not improved one bit since the last time.
+
+A shadowy figure moved in the darkness up ahead, turning suspicious eyes her way. She fed just a little more mana to her Inconspicuous Presence and felt the man’s eyes slide across her as if she was no more than another battered trashcan littering the dark recesses of the alley before he moved on to whatever nefarious purpose brought him out at this hour.
+
+She paused in a dark alcove across from the entrance to the Crooked Crown, waiting for the sounds of his footsteps to fade away. This was her third stop for the night. I hope I find some clues about who’s behind this Silent Assassin.
+
+She hated that her class was most useful for situations like this – where risky covert work was the last line before disaster or death. Vivian regularly ran interference for her with the Town Council – there were several people with high enough levels to resist her magic and identify her class. By vouching for her, Vivian kept them from turning her over to the crown. In return, she would ferret out information for Vivian wherever it lay – from the extravagant parties of the nobles to the seediest dens of thieves and assassins.
+
+This bar is a little more of the latter than the former, she thought, having grown progressively more jaded over the years as her activities had taught her that the worst of the crime in this town happened not in the slums, but in the fancy parties, perpetrated by those with wealth and power, and few morals.
+
+Her awareness slipped briefly into her storage enchantment, finding the items she required, and then with a deft trick – one honed over many hours of deliberate practice, a trick that had saved her life several times – she instantly switched her elegant gown with the outfit of a barmaid and walked across the street to the bar. By the time she scaled the three short stairs, she had settled into her practiced barmaid disguise, including readying the substituted notifications she would broadcast to any minds that used Identify.
+
+She paused at the rickety wooden door with its garish yellow paint. From prior visits, she knew this fine establishment to be bankrolled by Kieran Mori, a front that served as a meeting place for the more illicit circles of the Myrin’s Keep underworld. Taking a sharp breath to steady herself, she pulled open the door and stepped in, colliding with the acidic stench of vomit and ale. The raucous noise of drunk patrons and the chaotic storm of emotional energy washed over her Empathy skill as she plunged through the feelings of the room.
+
+Reflexively, she reached out with Misdirect Attention, directing the lecherous intent of several drunk patrons back to the buxom waitress at the back, and feeding her Inconspicuous Presence a bit more mana to make it stick. Then she walked over to the bar and picked up a rag and a tray with several mugs of ale on it.
+
+A room full of drunk people was scarcely a challenge for her – only the bartender required her full attention before he too forgot she existed. But this was not her target – the real action in the Crooked Crown took place downstairs. She strode confidently – and entirely unnoticed – across the filthy wooden floor of the bar and took the stairwell leading downward.
+
+The door was guarded, but as usual, it was a rogue with a pitifully low wisdom attribute and too much faith in his mediocre stealth skill. Mieriel could easily pick him out by the sound of his breathing and the stench of alcohol on his breath. Sometimes Heightened Perception was more of a bane than a boon, forcing her to endure the man’s foul reek. Even without her enhanced senses, his emotions bubbled over like a pulsing beacon, revealed to her via Empathy.
+
+She simply walked forward and opened the door, running Inconspicuous Presence continuously while convincing his mind that he was vastly more interested in the noise from above than her, and he might as well just forget she had been there with a deft application of her Misdirect Attention and Memory Coercion.
+
+Low class level, and worse, low wisdom. Pshh.
+
+She slipped through the door and emerged into the basement area, alert for any signs that someone had noticed her. A few patrons huddled over half-filled tankards, but it was a quieter, broody atmosphere, a dark place where semi-legal – or often downright illegal – deals might go down in an alcove over an untouched ale. She had been here many times over the years, and she knew her way around.
+
+The sudden sense of surprise caught her attention, but she controlled her reaction. Slowly, she turned, holding her tray of ales up, and caught the eyes of a black-cloaked man staring in her direction.
+
+Rogue – Human – level ?? (Surprised)
+
+She pulsed her mana into Misdirect Attention, while simultaneously walking over and placing an ale in front of someone and retrieving the empty mug. She had discovered very early on that her magic worked even on those much higher level than her own, provided she looked, and acted, the way they expected. She was dressed as a barmaid, acting as a barmaid, and now her Misdirect Attention reached out to instruct his mind to notice she was only a barmaid, and to forget what he had just seen with his Identify skill. She smiled demurely in his direction and wiped down the table perfunctorily before he shook his head and returned to scanning the rest of the crowd suspiciously.
+
+Inwardly, Mieriel breathed a sigh of relief before she continued on her way, passing the jobs board which was the purpose of her visit. While a barmaid studying jobs suitable for thugs, thieves, and assassins would break character, she simply glanced at the board and memorized it by using her mind magic on herself – the simple trick of reversing her Memory Coercion skill to force her mind to remember. The picture of the entire job board appeared in her mind and would remain there, available for her to look at for several days if she wished.
+
+Carefully, she continued to make her way around the room, keeping up her act and straining her senses.
+
+“What do you think of this Silent Assassin business?” someone murmured.
+
+Mieriel’s ears pricked up instantly, and she slowed her feet. In a dark alcove, two hooded figures were hunched over, spilling tension into the air.
+
+“Shh! Do you want to get us killed?”
+
+“What are you talking about?”
+
+“Do you remember Jorgen was going to find out about the Silent Assassin?”
+
+“Yes.”
+
+“He turned up in an alleyway with a spear through the heart like fresh meat on a skewer.”
+
+“Mori…”
+
+“Shut up, you fool! Do you want to get impaled?”
+
+The argument was beginning to draw attention, so Mieriel sidled off, slipping out the door and returning up the stairs. She dropped the tray off at the bar and left, beginning to walk home while carefully examining her haul in her mind.
+
+The board had contained the typical mishmash of illegal activities, announcements for gambling events, trade of illicit goods and slaves, bounties for assassinations, or goods to be ‘acquired’ by any means. There was nothing explicit about the Silent Assassin or…
+
+Suddenly she stopped, an entirely unexpected job posting catching her attention.
+
+Bounty Notice.
+
+Quest Giver: Undisclosed.Rank: Bronze.Category: Assassination.Reward: 1 gold per mark (escrow).
+
+Mark: Aliandra Amariel – Female Mage, Fae, green hair, amber eyes.Mark: Malika – Female Monk, Human, Torian descent, dark hair and skin, blue eyes.
+
+Both marks are members of the Adventurers Guild, wanted for the killing of Adrik and Edrik.
+
+Aliandra and Malika. Putting out a hit or a contract on someone was still illegal even in Myrin’s Keep. But the undisclosed name did not fool her in the slightest. This is Kieran Mori’s establishment. And it was his style, too – she had not the slightest doubt about that.
+
+Shit.
+
+It was just about the worst time for this. Vivian was still uncertain about Aliandra, and now there was a contract out on her life by none other than Kieran Mori – the captain of the Town Watch.
+
+I must tell Vivian immediately. And we need to warn Aliandra and Malika – their lives are in grave danger. She frowned momentarily. It was just that Mieriel had no idea how Vivian would react. What if she won’t tell them? Vivian had good reason to fear dungeons, and Aliandra was that. But a horrid, twisting queasiness gripped her gut at the thought of hurting Aliandra again. No, she thought, firming her lips as if framing the statement she would make to the stubborn Guildmaster. I will tell them, no matter what.
+
+Ali and Mato returned to their new camp in the library, arriving before Malika and Calen who seemed to be taking much longer with their errands. Mato busied himself with the cookfire, leaving Ali to her own devices.
+
+The library still felt desolate and dark, her domain mana penetrating only a little past the doorway where she had grown some moss. The rest of the space still lay much as they had found it when it was guarded by the Skeletal Wyvern – bone shards and layers of ridges and spines coated most of the available surfaces, and whatever wasn’t covered lay shattered and decayed in the cloying darkness.
+
+Only one thing seemed to have improved – there had been no bone worms or bone skitterers ever since she had severed part of the dungeon’s mana by deconstructing the spire.
+
+I’ve got some time, she thought, staring up at the soaring shelves, walkways, and broken ladders along the walls. And I have a new plant imprint to try out. This place could certainly do with being spruced up and smelling a whole lot better.
+
+With a sense of purpose, she set to her task. Hopping up on a conjured barrier disk, she summoned her Grimoire and flew off to the soaring inner wall and the thousands of ancient shelves carved into the stone. Levitating on her barrier, she began growing her new jasmine up the walls, trailing wherever the ladders and walkways had been. Every time she ran out of mana, she simply deconstructed several shelves worth of encrusted bone and decayed books and then continued. After a while, she alternated with ivy before returning to the beautiful flowers and scent of the jasmine.
+
+By the time she had finished with the outer wall of the upper level, most of the first sections had already established her domain mana. She hovered near one, deciding to try her new Domain Mastery skill. Reaching out with her will, she found she could target quite a substantial area of the encrusted bone. She simply visualized changing its structure to a whole lot of unconnected tiny particles and the entire broad section of encrusted bone collapsed, falling as dust to the ground below.
+
+Much faster than deconstruction, she thought marveling at how little mana it had taken. She flew back and forth repeating the process to quickly reveal the wall and the shelves beneath the bone. I can just deconstruct the piles of bone dust later.
+
+Ali repeated the process, growing her ivy and jasmine up the inner walls and pillars surrounding the atrium. She even included the spiral stair. As soon as her domain mana infused that space, she turned all the bone into dust, watching it fall away into the darkness at the bottom of the atrium.
+
+I can’t really see much, she thought. But she had a skill now that could solve that problem. Once again flying around on her barrier she created a ring of barrier panels suspended in the air around the rim of the atrium. It was a simple matter to extend her barriers to be large enough and anchor them to the mana of her domain, so she didn’t have to maintain them. She tilted them to provide better lighting for the space. Aah, so much more tasteful, she thought as the golden glow illuminated the upper library level. I wish I could create real books to fill the shelves.
+
+Hmm, I think I want more plants. She selected the chapter for her stone imprint and began to summon granite. Her imprint did not allow enough customization, but when combined with Domain Mastery, she was able to quickly sculpt the stone into large planters filled with powdered rock. After that, it was a simple matter to fill them with Blue Mana Grass, Common Glowcap mushrooms, and Verdant Moss – all her affinity plants that generated her domain.
+
+Inspired by her success with the stone and Domain Mastery, Ali began experimenting with her green marble stone variant and her Sculpting skill. Digging through her memories, she began to create statues of various creatures she had seen her father summon, using the green marble as her medium and Domain Mastery as her chisel to sculpt. The green marble was a gorgeous stone for sculpting, and particularly suited for the nature-themed creatures she was making.
+
+“Oh, I love it!” Malika’s voice broke her concentration, and she glanced over to find her friend had returned and was smelling the jasmine flowers adorning the walls.
+
+“I like the lights,” Calen added, nodding appreciatively.
+
+“The statues are the coolest,” Mato declared. “Also, lunch is ready. A Beastkin cannot live on sweet aromas alone.”
+
+“Wow, is there a girlfriend we need to know about?” Malika needled at once.
+
+Mato turned a fine shade of tomato-red. “No – right, Calen?”
+
+“You just need the right girl to smell your cooking,” he said, making a swooning gesture with his fingers.
+
+“Ali, how about you start? These jokers obviously aren’t hungry,” Mato suggested.
+
+Ali realized she was starving. Using lots of mana seems to make me very hungry. As she sat to wait for Mato to dish up food, she remembered something. Oh, hold on, didn’t I get a notification a few minutes back?
+
+Curious, she sent her awareness inward, calling up the notifications.
+
+Grove Warden has reached level 32.+10 attribute points.
+
+Arcane Insight has reached level 19.Arcane Bolt has reached level 16.Barrier has reached level 25.Runic Script has reached level 15 (+3).Domain Mastery has reached level 4 (+3).
+
+What the… when did those levels sneak up on me? Ali realized that her work in the library must have paid off handsomely, giving three levels in her newest Domain Mastery skill. The long hours of re-inscribing her cure poison circle while they exterminated the undead wherever they could root them out in the ruined city provided a substantial boost to her Runic Script, and one more very welcome class level. Without waiting, she spent five points on wisdom to grow her mana pool, and then three on intelligence. The final two points went to perception, noticeably improving the clarity of her mana sight.
+
+And with that, time to eat!

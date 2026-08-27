@@ -1,0 +1,197 @@
+---
+id: b13cbda2-894e-50d8-b60c-aa1a9a2e7140
+page-type-slug: story-chapter-royal-road
+title: "Chapter 88: Haunted by the Past"
+slug: 0088-chapter-88-haunted-by-the-past
+partOf: dungeon-of-knowledge-complete
+position: 88
+ownLength: 3797
+unit: words
+ownProgress: 3797
+publishedAt: 2024-06-20
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1685305/chapter-88-haunted-by-the-past"
+royalRoadId: "1685305"
+markedReadAt: "2026-06-29T20:13:53.638Z"
+---
+
+Ali was sure Malika wasn’t nearly as certain about her ability to survive the damage as she had sounded – and had only said it that confidently so that she wouldn’t worry. But she chose to take Malika’s word for it, trusting her judgment. She did, however, load her up with extra healing magic before she called for fireballs, just to be safe.
+
+Ali kept a close eye on the chaos of the magic she had unleashed, sorting the exploding fire mana from the pulsing lightning, and concentrating on the dense bright kernel of soul and holy magic right in the center of the conflagration. But Malika came out unscathed, quickly destroying the remaining skeletons before rushing off to pick up the new ones just raised.
+
+Ali released a breath she hadn’t remembered holding and returned her attention to the blurring blades of the four-armed monstrosity before her.
+
+Warrior – Undead Wight Monstrosity – level ?? (Bone / Death)
+
+As if an undead Wight that could summon other undead wasn’t enough of a monstrosity already.
+
+Ali focused her minions on doing as much damage to the monster that was ripping chunks of flesh and sprays of blood from the bear before it as possible. Ali kept her mind calm, consoling herself with the reminder that he had enormous health, armor, and endurance, and she was literally keeping him alive with her Kobold Acolytes. She took a deep breath.
+
+Something bizarre happened when the Death Wight died. It had simply fallen from the sky with an unholy scream, but the mana had changed. Something dense and black had flown from the dying Wight and embedded itself into the unliving one, and suddenly it had grown larger and sprouted an extra set of powerful skeletal arms. But the most profound change had not been visible to the mundane senses. The bone and death mana had collided and merged somehow, resulting in a Wight Monstrosity with both affinities. Ali could see the bone and death mana of its aura causing the bone prisons to snap randomly at whatever was nearby. Mato would regularly get trapped, but he had his way of smashing himself free, and Ali’s two Luminous Slimes would often get trapped too, but for them, it was less than a minor inconvenience, they simply smooshed themselves between the bone spines as easily as she would walk through a doorway.
+
+Ali, however – she would be crushed like a bug if she got hit with anything from a monster that powerful. Shivering briefly, she summoned another barrier in front of herself, hoping it would be strong enough to protect her from those stray bolts of death magic.
+
+Beside her, Calen’s magic surged powerfully as he activated his Righteous Fury a second time. “I’m going all out,” he announced.
+
+Has it been fifteen minutes already? She hadn’t been paying close attention to the passage of time, but she had memorized Calen’s recharge timer. And if it was fifteen minutes…
+
+“How is your mana?” Ali asked in Draconic.
+
+“Getting low, Ancient Mistress.”
+
+“Almost out, Ancient Mistress.”
+
+“Drink this,” she told them. Not even considering the cost, Ali retrieved two of the most powerful mana potions she had in her ring and handed one each to her Acolytes. If even one of them ran out of mana, Mato would die quickly – and shortly after, they would all die, depending on how fast they could use the recall potions. Ali shivered, not wanting to think about any of that – no, the mana potions were a small cost to pay. Right now, making better-laid plans on when and how to retreat sounded like an excellent idea.
+
+“Cast Restoration on Malika,” she instructed. Over time she was becoming more and more familiar with her minions’ abilities. Restoration was the long heal-over-time spell her Acolytes were so fond of using. With Malika approaching the totems with a new set of skeletons, she wanted her to be safely topped up, while she directed her mages in the now-familiar rotation.
+
+“Fireball,” she called out to warn Malika. Fire magic exploded right on top of her friend. Malika was knocked to the ground again, which made Ali’s heart skip a beat, but she was still moving – seen by the outline of holy and soul magic healing.
+
+“Fireball.” The second ball of destruction detonated, knocking more than a dozen skeletons down, and this time, only Malika rose from the inferno.
+
+Ali redirected her minions back to the Wight, instructing her mages to switch to Firebolt again. They tended to prefer their most powerful magic, sometimes in entirely inappropriate situations, and she was not about to take any chances with it. Reminded by her thoughts, she reinforced her instructions to her slimes for the hundredth time during this battle. They were annoying to babysit, but she had to admit they had lasted the entire fight so far, hitting the Wight continually without dying or getting trapped or needing saving. They were her highest-level minion after all.
+
+A complex formation of lightning formed, settling in on the Wight as her shamans refreshed their lightning vulnerability curse, followed by the intense brightness of their Lightning Bolts, which they often used to blow their way out of the bone prisons. Their maces sparked with lightning as they clubbed the Wight in the back.
+
+This is going pretty well, she thought. Even though the Wight had grown substantially more powerful, one less of them to worry about gave Ali a sense of confidence. As long as her minions didn’t run out of mana, it looked like they had everything under control.
+
+Ali deconstructed a skeleton to refresh some of her mana as Calen’s intense burning mana began to fade and then turned to set up the next fireball rotation as Malika dragged some more skeletons to the totems.
+
+In that instant, several bone prisons sprang up around the Wight, snapping closed on her shamans, slimes, and on Mato. This had already happened many times during the fight, but always someone would block, dodge, or avoid it. This time, however, for a brief moment, every single melee member was trapped simultaneously. With a powerful overhead strike, two bone blades crashed down, trailing a mist of death magic, slicing clean through one of her Goblin Storm Shamans while he was pinned in the prison. The Wight spun – a powerful twist with its two right-hand blades – cleaving through the rest of the minions, sending bone, blood, and slime flying in a gruesome arc. Both Ali’s slimes and the remaining shaman collapsed, bisected by the bone blades enhanced by two affinities of magic and the potent strength of the powerful Wight.
+
+It all happened in an instant, and before Mato was able to shatter his prison, the Wight – now unchallenged – sprang forward charging with extraordinary speed toward Calen, whose Righteous Fury had just expired.
+
+“Calen, run!” Ali screamed, seeing the monstrous undead tearing across the battlefield. The monster was at least twice the size of Calen, and Ali knew without even thinking that the quiet, unassuming Half-elf would be pulverized in an instant. Ali felt the bite of the death affinity aura as it washed over her, and the sudden snap of bone spikes closing around her body. She struggled futilely against the iron-hard bone spines with what little strength she had while first one, and then the other of her Acolytes flared with pillars of golden holy light as they pushed their healing magic to the extreme, struggling to keep up with the sudden increase in damage inflicted on everyone by the Wight’s dangerous aura.
+
+Calen ran, but to her horror, he ran the wrong way. He dodged the shooting spines of a bone prison, but he ran almost directly toward the charging Wight and its four dangerous bone swords. “The other way!” Ali screamed as she watched the impending collision that could only end with Calen sliced up like the bloody remains of her shamans lying in pieces on the stone ground.
+
+Unable to move, Ali saw them drawing closer, and then suddenly Calen jerked sideways, tipping his body and leaping over a knee-height slicing blade while simultaneously ducking under the neck-height one scissoring the other way. By some miracle of agility, his body passed cleanly between the two blades and he landed on one foot, continuing his flat-out sprint. In desperation, Ali threw a barrier between him and the Wight, catching the third sword in a shattering blast of golden glowing splinters a hand’s width before it cleaved into his spine.
+
+Then, Ali heard the furious, raw roar of a bear charging into the fray, bellowing in a primal fury. A single realization crystallized in her mind. He thought Calen was dead.
+
+As the Wight turned to chase its prey, Mato reared up and struck with both paws, a blow so powerful that the Wight was driven to its knees. Thick roots sprang up from the stony ground, twisting and constricting as they twined around the Wight’s sinewy feet and legs. The bear’s great roar echoed out through the battlefield, and the Wight turned to face him, but so did all the skeletons Malika was tanking.
+
+“Back up,” Ali commanded her minions as she regained her wits and the shock passed. She was still trapped, but there was no reason for her minions to stand and die in the death and bone aura. Those who were not struggling with bone prisons moved back and the fight stabilized once again. Mato was now tanking skeletons as well as the Wight and there was no way Ali was going to be able to kill them.
+
+“Ignore the skeletons and target only the Wight,” Calen called over as if reading her mind.
+
+While the death magic aura was painful and she had no hope of escaping from the bone prison, Ali could feel the slow pulse of the holy magic restoration keeping her alive, and so she did what she could. She instructed her remaining minions to resume attacking, began firing Arcane Bolts, and started deconstructing the bone prison that had her pinned in place.
+
+By the time she had freed herself, the horde of skeletons had doubled in size, and Malika was unleashing a fury of kicks and punches into the back of the Wight, having given up on tanking the summoned skeletons. Black bolts of vile death magic exploded out from the Wight as it summoned more skeletons.
+
+This is not going to last, Ali thought desperately as the death magic sunk into the piles of bones and skeletons stood up in droves, too many to even count, and began to charge into battle.
+
+Suddenly, the Wight thundered, “You will not survive the master’s wrath...”
+
+The heavily accented Dal’mohran sliced into her consciousness like a glacial dagger strike an instant before the Wight collapsed to the ground. Ali’s mental target for Arcane Bolt evaporated as the chime sounded in her mind.
+
+Chilled to the bone, she stared for several long seconds as the body of the Wight lay twisted upon the ground, slowly reverting to its original form as the extra pair of bone arms crumbled from its back, turning to dust before it finally sunk in. Ali shivered and rubbed her arms, unable to shake the impact of its words. She had to check her notifications to be certain.
+
+Your group has defeated Warrior – Undead Wight – level 44 (Bone)Your group has defeated Mage – Undead Wight – level 44 (Death)
+
+“Fireball,” Ali called out as she finally accepted the incomprehensible fact that they had just beaten the Wight, and all that remained was its left-over skeleton minions. Meantime, all within her was ice. The Blind Lich lived – surely, this must be proof?
+
+***
+
+Ali rushed across the battered and skeleton-strewn stone and stared up at the floating obelisk of stone and its glowing death magic runic inscriptions.
+
+Ruins of Dal’mohra (Bone / Death)A crafted shrine artifact, providing domain propagation and support abilitiesOwner: Twin WightsTeleportation Locus [Active]Mana Siphon [Active]Created by Nevyn EldShrine – Artifact
+
+Is it a shrine – could Nevyn Eld still control it? The similarity between this artifact and her shrine was obvious, but Ali had never seen another. This one was levitating; borne aloft by the power of the domain mana she could see all around her.
+
+Suddenly she noticed the mana signature and shuddered reflexively at the memory of the Blind Lich, his appearance, his aura of dread, and his horrifying purpose.
+
+Ali stood still, transfixed by her terrifying memories playing through her mind. But the shrine pulsed once. Twice. A ripple shot out through the domain and a vast whirlpool of mana began swirling, accelerating as it was drawn into the shrine.
+
+On the ground, projected in glowing black, a runic circle appeared, and the shrine began to thrum with the power of the mana it was drawing in.
+
+What is that? In her curiosity, Ali studied the runes, relying on Runic Script to read the circle on the ground. After a few seconds, it came to her. Oh, it’s a teleportation locus! It was a little different than the one in the Novaspark Academy of Magic, this one being a locus created entirely from death magic.
+
+Wait… It was a teleportation locus. A locus created entirely from death magic, projected by an artifact that had Nevyn Eld’s mana signature. These thoughts collided in her mind simultaneously, all leading to a single, inescapable conclusion.
+
+“Hide! Something is coming!”
+
+Ali shot past her friends’ surprised looks, driven by a dread certainty, a premonition of danger that had its icy claws buried deep within her heart. “Quickly!” She cared not one bit that her voice cracked with her mounting panic.
+
+She rounded the corner and touched down behind a massive pile of bones, with a surge of relief at the sight of her three friends right behind her.
+
+“What is it, Ali?” Malika asked, sounding worried as they hunkered down behind cover.
+
+“It’s a teleportation locus.”
+
+From below the levitating shrine, the vortex of mana grew more and more turbulent, and suddenly a giant bolt of black lightning shot down from the black stone shrine, striking the stone with a violent thunderclap.
+
+Before she could even reach into her storage ring for her recall potion, the familiar waves of magical dread and fear slammed into her mind – before the smoke and mana had even cleared. Her muscles trembled and she clamped her jaws to hold back a scream, tasting the metallic flavor of her blood as she bit herself.
+
+Suddenly he was there. The tall figure floated just above the ground on a roiling black mist of magical energy. Skin so dark as to be sucking the light and energy from the world around him. His imposing red robes and the crimson blindfold adorned with shining silvery runes were exactly as she remembered them in her nightmares.
+
+Nevyn Eld!
+
+Mage – Undead Lich – level ??? (Death / Soul)
+
+Malika’s fingers dug painfully into her upper arm with the hiss of a sharply drawn inbreath.
+
+“Lich.” It was a whisper almost as quiet as a thought, but the Lich stopped dead, his head snapping directly toward them as if he could see them through the crimson, rune-embroidered blindfold.
+
+Ali froze in place, holding her breath, desperately wishing she could silence her pounding heart as the weight of a thousand nightmares ground her into dust. Her throat thickened and her head spun as the crushing despair of his fearful presence broke over her like a mountainous wave. Her body trembled, nerveless and unable to move. Her mind quailed as her will abandoned her, scrambling to hide off in a dark corner at the back of her mind. The moment stretched out forever as the Lich remained suspended in place with an unnatural stillness.
+
+After what seemed like an eternity had passed, the skeletally gaunt face turned, seemingly studying the dead Wight lying on the ground despite the blindfold, while the edges of his robes and the black mist below his waist began shifting and flapping as if reacting to a ghostly wind.
+
+Then he turned, facing the shrine, and Ali slowly took another breath while Malika’s fingers eased their bruising grip.
+
+The Lich floated up and touched the shrine with a bony hand, causing several rapid magical formations to appear and disappear. The vortex of mana accelerated dramatically, causing his robes to whip back and forth in a storm – being sucked into the dark glowing black prism, as best she could tell.
+
+Abruptly, it all ceased, the shrine suddenly gone, leaving only the floating Lich in the silent darkness, all remaining traces of the bone and death domain mana vanished. With a second violent thunderclap and bolt of black lightning, the Lich vanished, and the withdrawal of the oppressive fear aura caused Ali to gasp and stumble, the sense of relief so painful, her chest felt as if it had been released from a monstrous clamp.
+
+“What was that?” Malika asked, her voice filled with the same shakiness Ali felt.
+
+“Nevyn Eld,” Ali whispered. “The same Lich that killed my parents and destroyed Dal’mohra.”
+
+Her friends hissed in realization.
+
+Ali had been horrified to see Nevyn Eld’s name on the book she and Ryn had discovered, but she had all but convinced herself that it was simply an artifact of the past – a leftover relic – and it was only her that connected the trauma of her experience in the past to the book in the current age. But she had failed to grasp the significance of Nevyn Eld’s mana signature on the shrine. Mana signatures did not survive the passing of their owners.
+
+Now there could be no doubt in her mind. Nevyn Eld was alive and well – or at least, just as undead now as he had been three thousand years ago. Ali slowly sunk to the ground, wiping away the cold sweat of fear on her face.
+
+“Are you ok?” Malika asked.
+
+“Yes, I think so.” She knew the lie as soon as she spoke it. She was most certainly not ok, her body still shaking badly enough that she probably couldn’t get up. “That… that was my worst nightmare. Right –”
+
+Her voice cracked. To her shock and embarrassment, Ali found herself sobbing – rough, wrenching gasps of horror that seemed to be torn from the depths of her own soul.
+
+“I think he’s gone for good,” Calen said, scanning the battlefield, standing beside Mato who was ready in Bear Form, growling. “How did he not see us?”
+
+Malika put a comforting arm around her shoulders, but Ali couldn’t quite tell which of them it was meant to comfort. She welcomed the simple closeness though, and her shaking began to subside. Ali had gained a class and many levels since her last encounter with the Lich, but it was only now that she appreciated how much her mother had been shielding her from his mind-influencing magic of dread and fear.
+
+“I’m not sure how he missed us,” Ali admitted, wiping her eyes. Calen was right, if he had seen them, they would be dead right now. Or worse.
+
+After some time, she clambered to her feet and studied the now-silent battlefield once more. “I was hoping to study that shrine,” she said, staring at the cracked stone below the empty space where the shrine had once hovered.
+
+“I appraised it before he arrived,” Malika said. “Does this help?”
+
+Ruins of Dal’mohraA crafted shrine artifact, providing domain propagation and support abilities.Owner: Twin WightsTeleportation Locus [Active]Mana Siphon [Active]Mana: Deconstruct an unresisting or inanimate target, imprinting its structure. Range: DomainMana: Summon an imprinted item or creatureMana: Apply a Domain EnhancementMana: Recharge the shrine’s mana reserve. 12,754/20,000Created by Nevyn Eld.Quality: RareValue: SoulboundShrine – Artifact
+
+“That’s… why did I not see those abilities?” Ali asked.
+
+Malika said, “Appraise lets me see the abilities only normally available to the owner. I can see your shrine’s mana reserve, for example.”
+
+Deconstruct? Imprint? Domain Enhancement? Ali studied the abilities on the shrine – abilities entirely unlike the ones she had on hers, trying to figure out why the magic sounded so similar to her own Grimoire and Deconstruction, and yet so different. This has to mean something, she thought, but there was simply not enough information for her to unravel the mystery. I guess he must use something like my Grimoire? That would make the most sense. One thing might help…
+
+“Perhaps I need to read more of Nevyn Eld’s book,” Ali said out loud. It was something she had been avoiding. While it was a book – and one of the few she had access to – her uncharacteristic reticence to study Nevyn Eld’s book had everything to do with who he was and her personal experience with his uncaring hatred and arrogance.
+
+“At least the dungeon is definitely gone, there’s none of its domain mana remaining,” Ali said. Not able to figure out anything more about the uncanny familiarity of the magic on the stolen shrine, Ali got up and deconstructed the corpse of the Bone Wight that had become a merged hybrid monstrosity of four arms and bone and death magic.
+
+[Sage of Learning]Domain Magic analyzed: Attribute Enhancement (Dexterity).
+
+Ali puzzled over the obscure message, convinced she was missing something important while she deconstructed the fallen corpse of the Death Wight. Even as she finished reading the first notification, a new one popped up:
+
+[Sage of Learning]Domain Magic analyzed: Twin Binding.Domain Magic analyzed: Affinity Aura (Death).
+
+It really seems to be an analysis of some of the magic they used in the fight. But this was a conclusion she had already decided, and she found herself no closer to understanding. What if I don’t want to know about Death affinity? Can I even forget, anymore?
+
+Passing by, Calen squeezed her shoulder briefly. He said nothing, but she appreciated the simple gesture more than she could have said.
+
+After a while, she asked, “Can we go home?” The sudden shock of seeing Nevyn Eld in person, experiencing his fearsome aura for the second time, and the relief of escaping undetected had taken an enormous toll on her energy and emotions. Ali wanted nothing more than to sleep, be in a familiar environment, and maybe forget about it all for a few moments.
+
+Calen turned, nodding. “Yes. Come on, everyone. We’ve all had a long day. This place will still be here tomorrow, and the dungeon is definitely gone.”
+
+He’s alive… She had been an insignificant bug under the pressure of his presence. No, worse, like a speck of dust. I hope he’s not after me. I’m too small for him to notice, right?

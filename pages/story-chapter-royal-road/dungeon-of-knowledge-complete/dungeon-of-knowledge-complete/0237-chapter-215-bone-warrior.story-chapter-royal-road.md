@@ -1,0 +1,185 @@
+---
+id: c09835de-58b1-5919-9c84-d4f53b3ec545
+page-type-slug: story-chapter-royal-road
+title: "Chapter 215: Bone Warrior"
+slug: 0237-chapter-215-bone-warrior
+partOf: dungeon-of-knowledge-complete
+position: 237
+ownLength: 3454
+unit: words
+ownProgress: 3454
+publishedAt: 2025-03-25
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2149990/chapter-215-bone-warrior"
+royalRoadId: "2149990"
+markedReadAt: "2026-06-29T20:19:12.218Z"
+---
+
+That went a lot better, Ali thought – more than half sarcastically – as she surveyed the devastation strewn across the pathway and spilling over the shattered grim totems into the jungle itself. The group of trolls had waited until they passed, somehow concealing themselves from her mana sight and Calen’s sharp eyes, and then sprung their trap from behind, right when they had engaged with a wandering handful of zombies shambling down the path.
+
+The bone warrior trolls on top of the zombies would have been a challenge enough in and of itself, but there had been a shaman. Ali lost her Forest Guardian first – again – then all her Hobgoblins, wargs, and even the Armored Drakes in the chaos created by the shaman’s powerful blood magic spell. It was a spell she couldn’t see with her sight, and neither could Malika, and even though Calen insisted it lasted for only thirty seconds, the Trollish forces had still torn her minions apart in moments, like an unleashed avalanche of ferocity, bone, and blood.
+
+“That was a lot better,” Calen said, unironically echoing her sarcastic thoughts.
+
+But he was also correct – compared to the first shaman group, this fight had gone substantially better. She had not needed Arcane Recall; it was on recharge anyway. Calen had opened with Righteous Fury, and they had trained all their attacks on the shaman as soon as they had gotten over the surprise and recognized the threat. With a couple of phenomenal Ambush attacks using Blood Shock, they had burst the shaman down quickly, but the blood magic enhancement on the warriors did not die with the shaman, hence the corpses of her minions littering the pathway.
+
+“I guess this mess won’t clean itself,” Ali sighed, getting up and deconstructing the shaman first and then working her way across the battlefield, cleaning up all her own minions, the zombies, and the seven bone warrior trolls. She had no desire to see the dungeon throwing her Armored Drakes back at her. Suddenly, her notification chime sounded.
+
+Imprint: Troll completed.
+
+She froze, horrified.
+
+She had sat in her beloved library, enthralled for many hours, listening to grizzled and cantankerous Trolls lecturing on the history of the races. Arrogant and proud they were, and in many cases, thousands of years old and steeped in their prejudice and superiority – and yet, they were intelligent, canny, and extremely wise – among the most knowledgeable and skilled with magic. She had found them fascinating.
+
+These are people. She stared aghast at the notification of her Grimoire, waiting for her to accept the ability to create them as monsters bound to her mana and will.
+
+“What’s the matter, Ali?” Malika asked, squatting down to be on her level and reaching out with a concerned hand.
+
+“Did you just learn to make Trolls?” Calen asked, walking up slowly to join them, glancing down at the pile of gear that had fallen from the last warrior corpse she had deconstructed.
+
+“Yes,” she whispered.
+
+“What’s the problem?” Mato asked, but his voice sounded genuinely curious rather than judgmental.
+
+She struggled to put her riot of emotions into words they might understand. “I feel very uncomfortable about making sapient creatures,” she said. “They can think and feel, and trolls aren’t even monsters, they’re just like humans, dwarves, and elves. And Fae.” Somehow fighting and even killing the dungeon-spawned trolls had not bothered her, and yet when she had seen the notification it had all crashed down on her with a shocking suddenness. She struggled with her confusion, the words feeling woefully inadequate. “I used to love listening to them lecture at the grand library…” she finished, trailing off in a small voice.
+
+“We don’t kill Trolls, Ali,” Mato said, his voice kind and gentle. “We kill monsters. If it wasn’t that way, we would have to kill Havok because he’s a Goblin, or Naia because she’s a dungeon and a slime.”
+
+“I…” she said, but she stopped again as his words sank in. She could make both slimes and Goblins and yet she had a Slime and a Goblin as a friend. And it had never bothered her before. Even her Kobolds were sapient. Yet somehow, she had balked at the Troll imprint, and the imprint for Humans before.
+
+“These are dungeon monsters, I can feel the mana of the dungeon in them,” he continued. “If we find a Troll who wants to give lectures, we’re not going to kill them. But we will certainly defend ourselves against dungeon-summoned monsters.”
+
+“I know,” she said, grappling with the heavy subject. She had already been acting that way, sometimes even without conscious awareness. It had simply been the right thing to do at the time and she hadn’t often even considered it. But Lira had told her much the same thing; her summoned monsters were part of her mana, bound to her soul in a way, and not their own entities. Summoning a troll would not be the same as binding a living, free person to her will. It was more akin to summoning a troll-shaped vessel for her magic to express itself through. Still, her emotions would not let her go.
+
+“If you’re up for it, it would be very helpful to know their abilities,” Calen said quietly. “But I don’t want to pressure you to do something you feel uncomfortable with.”
+
+It really would help, she thought, looking at her Grimoire floating softly in the air beside her, open and waiting.
+
+Her thoughts drifted to a particular, ancient and cranky troll with wiry hair, a crooked staff, and an ornery, disagreeable demeanor. He had complained endlessly about having to deliver his lectures in common – ancient Dal’mohran, now – but his insights had been fantastic.
+
+But her eyes also saw the grim totems and the piles of freshly sacrificed troll bones. This dungeon doesn’t care about them. Mato is right, we’re killing dungeon minions spawned from mana. And if I make some, they will be the same – constructs of my mana, just like Lira said.
+
+At last, with a wince, she committed the runes to the last free chapter in her Grimoire.
+
+“I didn’t think you would do it,” Malika said.
+
+“I’m still uncomfortable, but rationally Mato is correct. These trolls are the summoned minions of a dungeon and therefore they are just monsters that look like trolls,” she said, looking down at the remaining troll corpses. “And this dungeon is incredibly dangerous, I wouldn’t be able to forgive myself if I let one of you die because I let unreasonable sentimentality get in the way of any advantage we may need.”
+
+“Thank you, Ali,” Malika said, squeezing her hand gently.
+
+Ali nodded and focused on her Grimoire. For all that she would have loved to be purely rational, her decisions driven by logic alone, Malika’s kind voice and non-judgmental acceptance of her feelings went a long way to settling her heart.
+
+This is the right decision, she thought and channeled her mana. A few minutes later, a female troll warrior sprang into existence before her, wearing a freshly created leather-and-bone jerkin her Grimoire had decided was the best fit for her. Malika quickly retrieved a set of the garish greaves from her storage, loot she had stashed from earlier fights. The troll immediately began lacing them to her shins.
+
+Bone Warrior – Troll – level 65 (Bone)
+
+Ali’s troll warrior stood up, an imposing figure at her full height. She spoke a few words, causing Sage of Learning to react, which wasn’t helping with Ali’s discomfort over summoning intelligent trolls, but she put those feelings aside for now, sending her awareness into the senses of the troll and summoning her status.
+
+Race: TrollActive Buffs: Ancestral Spirit Runes, Evasion, Bone ArmorClass: Bone Warrior – level 65- Dual Slash – level 38- Throw – level 36- Dual Frenzy – level 43- Ancestral Spirit Runes – level 35- Bone Mastery – level 35- Bone Armor – level 32Royal Road is the home of this novel. Visit there to read the original and support the author.- Create Bone Weapon – level 41- Evasion – level 35- Tactical Insight – level 31- Bone Rush – level 22General Skills- Identify – level 23- Bone Reading – level 18Aptitudes- Language: Troll- Mana (Affinity): Bone- Troll Vitality (Racial): +15 to Vitality- Bloodline (Aman Rak): +30% to range and power of Bloodline skills- Regeneration (Racial): +600% health regeneration. Can regenerate mortal injuries. Fire damage cannot be regeneratedAttributes- Vitality: 107- Strength: 372 (+224)- Endurance: 438 (+272)- Dexterity: 465 (+336)- Perception: 73- Intelligence: 38- Wisdom: 74Equipment- Weapon: Bone-Bladed Tonfa – level 65- Off Hand: Bone-Bladed Tonfa – level 65- Body: Bone-Studded Jerkin of Agility – level 60- Feet: Swift Bone-Studded Jambeau – level 60Armor: 1604Physical Damage Reduction: 46.84%Evasion: 2048Dodge: 52.94%+5% of your damage is returned as Health over 30 seconds.+15% to Movement speed.Health: 1070/1070Stamina: 3942/4380 (438 Reserved)Mana: 592/740 (148 Reserved)
+
+The Bone Warrior was truly amazing. Her only real experience with melee-style warriors was her Hobgoblins and Kobold warriors, and against this Troll Bone Warrior, there was simply no comparison.
+
+“Ali?” Malika said.
+
+Oh yes. She was woolgathering while her friends were waiting expectantly. Quickly, she shared the troll’s status with them.
+
+“It has six hundred percent base health regeneration,” she said. The legendary regeneration of the trolls lay bare, revealed as an incredible aptitude that they were presumably born with. No wonder they are so feared in battle, she thought. Without gear, potions, or healing, this troll warrior could regenerate her entire health pool in ten minutes – actually, with Mato standing nearby it was probably closer to seven minutes. And being able to regenerate mortal injuries meant that she could literally regenerate missing limbs or organs provided she didn’t die outright.
+
+“No wonder I can never hit these things,” Mato said, grumpily. “Their evasion and armor are insane!”
+
+“But they’re surprisingly low on health; even I have more – and she has no magical resistance,” Malika countered.
+
+She’s right, Ali thought. About half her minions had a fire damage attack, and she had been convinced the durable trolls were vulnerable to fire. But the truth was much simpler – they were unprotected against any magic attack. Disruption to their natural regeneration was the only notable difference for fire damage – which was useful – but not quite as important given how much they relied on potions and that five percent health leech, courtesy of this mysterious leatherworker, Zor’kan. And when there was a shaman, it was basically irrelevant.
+
+“Maybe I should make some more Hellfire Imps?” Ali didn’t have a reliable high-level mage right now, other than the chaotic and destructive Hellfire Imps, and it would be so much nicer if they had a single-target fire spell like the firebolt her Kobolds had. With only a fireball and the flame shield, her Hellfire Imps caused an enormous amount of friendly-fire damage, unless they were carefully controlled and never fired into the melee.
+
+“I don’t like getting hit by hellfire, but I can dodge it,” Malika said. “It might be worth it.”
+
+“Unless Mato is struggling,” Calen added.
+
+“What I’m interested in is that Bloodline; can you see which skills it affects?” Malika asked.
+
+“Let me check,” Ali said, beginning to make her way through the skill list. “They have two attack skills, one for throwing, and one for whatever those bladed arm weapons are,” Ali said.
+
+“Tonfas,” Malika supplied.
+
+“Yup, those,” Ali said, sharing the skill details.
+
+Dual Slash – level 38You are proficient with dual-wielding edged weapons in melee combat.Stamina: Slashing or stabbing attack with either weapon for weapon damage +410% [skill + strength]Stamina: Whirling attack that strikes everything in melee range with both weapons. Recharge: 30 secondsPhysical, Melee, Area, StrengthThrow – level 36You are proficient with throwing weapons using either hand.Stamina: Throw a weapon at an enemy for weapon damage +490% [skill + dexterity]. Range: 41.6 meters Mana: Cause your thrown weapon to explode on impact, doing half-again as much damage to a small area with the shards of bone. Requires a weapon made of bone. Range: 6.24 meters, Recharge: 15 seconds.Physical, Ranged, Area, Dexterity
+
+Their attacks contained no surprises, Ali was already well familiar with the bone warriors’ combat abilities having experienced them directly with her minions.
+
+“Dual Frenzy is interesting,” she said, sharing the skill as she opened it.
+
+Dual Frenzy – level 43You gain +43% [skill] damage to Physical attacks when wielding two weapons.Stamina: Dual-weapon block. Stamina: You gain a +5% Haste buff on a successful hit or block with a Physical attack. Buff duration is refreshed on hit or block, stacks 5 times. Duration: 5 seconds. Physical, Support, Haste, Dexterity
+
+“Wow, they get twenty-five percent haste as long as they keep attacking?” Calen exclaimed.
+
+“That’s why they’re so fast,” Malika said. “And they get fifteen percent movement speed from the Jambeau too.”
+
+“It’s from hitting or blocking,” Ali said, pointing out that it was a bonus for both attack and defense. “And it affects both their melee and ranged attacks.” It seemed that the warrior’s skill choices were rather efficient. She continued. “Their Bone Armor skill can be boosted every forty-five seconds. And their Evasion skill can double their Evasion rating for thirty seconds with a fifteen-minute recharge.”
+
+Mato coughed uncomfortably. “They get even more resilience? If they use all that stuff, they’re basically unhittable.”
+
+“Yup, and she has Tactical Insight which is a perception skill improving her accuracy and critical strike chance,” Ali answered. Despite her initial reticence toward summoning trolls, she had to admit she was impressed with her Bone Warrior. Aside from her obvious weakness against magical attacks, she was a powerhouse of physical damage and durability.
+
+“I think those trolls are tougher than me,” Mato said, making an exaggerated pout. “Maybe they should tank.”
+
+“Don’t be silly, you have nearly five thousand health,” Malika said.
+
+“How do you know that?” he asked.
+
+“I have to heal your furry ass, remember?” Malika retorted.
+
+Ali smiled at their banter and gestured for her troll to squat down beside her so she could examine the ornate runic carvings in her tusks.
+
+“Ancestral Spirit Runes,” Ali said, identifying the skill for Malika. “This is a bloodline skill.” She reached out and ran her fingers gently over the relief carving that etched the exquisite runework into the troll’s tusks, studying the complex and delicate flows of bone mana that powered the runic manifestation of the skill.
+
+At first glance, the skill seemed simple, much like Malika’s Perfect Body or Calen’s Blessing of the Dawn, boosting the troll’s strength, endurance, and dexterity – the ideal set for a physical melee warrior. The first unusual thing about it though, was the bloodline itself, granting the skill an extra boost, and implying that the skill was inherited.
+
+The troll’s neck and face began to flush, and Ali quickly withdrew her hand from its tusks in embarrassment, but she couldn’t stop staring at the runic magic. The spirals and swirls of mana seemed to evoke patterns with an uncanny likeness to Malika’s soul magic, and yet all in the troll’s own bone affinity. She dearly wished she could read the runic symbols, but to her surprise, her Runic Script was no help – they seemed to be written in some ancient language that she did not understand.
+
+The tusks of the blood shamans had not had these runic carvings, but she had found equally indecipherable tattoos with a different style of magic on their skin – although, without the animating energy of the live troll, the runes had been indecipherable. As she had discovered, in the case of the shamans, Ali still struggled to even see anything related to their magic.
+
+Sage of Learning began drawing heavily on her mana as she studied the runic structure and the mana flows, but it seemed she didn’t have enough knowledge yet to decipher the puzzle.
+
+Perhaps if I learn the language of the trolls. She resolved to study this further once she returned to the library and could consult with Ryn to see if they had any books on troll magic and their runes.
+
+The rest of the skills seemed rather self-evident. Create Bone Weapon was how the troll made the throwing axes or blades, and Bone Rush was its movement skill.
+
+“Bone Mastery is the only other skill with the Bloodline trait,” Ali said when she had finished reading all of them. “It improves the speed and power of all its bone magic skills.”
+
+“That’s a very interesting bloodline,” Malika said, obviously curious to find details on a bloodline that was different than her own.
+
+Initially, Ali had planned on summoning the troll just to give them the opportunity to look at the abilities, but after having studied them, she couldn’t unsummon it and go back to using the Hobgoblins. Her troll was so much more powerful, and the stronger her minion army, the safer they would be facing the denizens of this dungeon. Not to mention she was level sixty-five. With the additional wisdom from the pretty beads Malika had given her, her mana pool had grown, and she decided she could afford to reserve the mana for a second troll even though they were her highest-level minions. It was unfortunate that she didn’t have any imprints for head gear or rings to further outfit her troll, and with the way it created its weapons by extruding bone out of its hands and arms, any bracer or glove equipment would have to be custom crafted or it would simply be shredded. Still, she gave it a tusk ring from their collection of loot and filled it with an assortment of potions.
+
+She took her time deconstructing everything else, giving Malika the leftover gear, which included another set of Ancestral Spirit Beads the shaman had been wearing, and then resummoned the rest of her minion army, with a few small tweaks.
+
+Her awareness hovered just beyond, tentative, afraid to rejoin her body for some reason. But the pull came again, stronger than before and she was drawn in closer and closer until…
+
+Gara opened her eyes and screamed.
+
+She was a troll of Aman Rak, proud of her heritage and bloodline. Never in her entire life had she screamed in pain, not even the time that Jotan had accidentally crushed her hand under the boulder when they were both eleven.
+
+But this was something different. Black streamers of energy arced from the altar of bone, punching through her exposed chest where her body was staked to the stone wall of the temple, ripping her life force out of her in a great torrent. It went on and on until she felt her soul would shatter.
+
+And then suddenly it ceased.
+
+She collapsed, sagging back down against the wall, hanging off the steel stakes driven through her belly and shoulders, almost drained of all her life as her regeneration slowly started recovering her health. A cruel laugh cut through her pain, and she looked up to find Kir’mogan standing by the altar with his acolytes; a greataxe casually resting on his shoulder, dripping blood and gore onto the ground.
+
+“Woke you up, did I?” He grinned at her, stepping over the pile of corpses littering the ground around the altar. “This part is fun, you should watch.”
+
+She had no choice but to watch. The steel stake through her belly had been expertly hammered through her spine, making the entire lower half of her body numb and unresponsive. Her shoulders were staked to the wall to prevent her from falling forward, and her arms had both been severed just above the elbows, the wounds cauterized with fire to prevent her regeneration from repairing them. She swallowed, her body still trembling and shaking from the agony of whatever magic he had inflicted upon her.
+
+“You should be happy; you’re a troll and you can contribute your life to the altar again and again,” Kir’mogan said, mocking her and the heritage they shared.
+
+“You have betrayed our bloodline, and the spirits of Aman Rak,” Gara declared, raising her head in proud defiance, but the altar pulsed ominously with the energy it had torn from her, and then a wave of darkness rippled outward from it, washing over the bodies of the slain trolls on the ground. And to her horror, they all twitched, powerless to resist the pull of the unnatural sinister black energy even in death. With a gruesome wet ripping sound, their skeletons tore their way free from their fleshy prisons and stood up amid showers of dripping blood and gore.
+
+Gara screamed again, and this time not from pain.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

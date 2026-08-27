@@ -1,0 +1,141 @@
+---
+id: ea0a1e47-6050-5057-ba82-b7aa6023c88f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 221: Spirit Realm (Part 2)"
+slug: 0251-chapter-221-spirit-realm-part-2
+partOf: dungeon-of-knowledge-complete
+position: 251
+ownLength: 2369
+unit: words
+ownProgress: 2369
+publishedAt: 2025-04-11
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2192852/chapter-221-spirit-realm-part-2"
+royalRoadId: "2192852"
+markedReadAt: "2026-06-29T20:19:41.081Z"
+---
+
+Ali's attention was snagged by a sudden flicker of bluish movement, crawling down the tree next to her and she almost screamed, vividly recalling the terrifying monster that had tried to attack her once while using Arcane Recall.
+
+Ghostly Spider – Spirit Spider – level 5 (Soul)
+
+Oh, is that all? Ali steadied herself in relief upon discovering it was only a level five monster. What was remarkable was that it was bluish, transparent, and glowing – a stark contrast to the gray of the tree it was crawling on.
+
+Out in the normal world, she spied the bizarre sight of Gara chasing a tiny, hopping frog while swinging her blood-drenched axe in wild arcs, but before Ali could get a closer look, the spider crawling along the tree leapt out at her. In a flash, she summoned a protective barrier, but the spider sailed right through her grayish magic and bit her on the shoulder. It was a tiny amount of damage, but Ali’s defensive magic had never failed her before. Well, besides the light elementals – but never like this, gray and completely inert. The spider bit her again, crawling down her arm, but when she tried to flick it off, her hand passed right through it. A second spider appeared, and then a third, and Ali backed away as they approached. More and more spiders appeared, streaming in from all around the gray reflections of the jungle trees.
+
+Ali ran. She tried, but she couldn’t get on her barrier in this place, so all she could do was run.
+
+She tried to scream as the incorporeal spiders swarmed up her body, but nobody was there to hear her. As soon as the thought occurred to her, she used Minion Teleport, switching locations with her freshly frog-hexed shaman. Her body switched locations to the other side of the clearing, but she remained in the Spirit Realm, while her shaman, somehow miraculously freeing herself of the frog hex, appeared where she had originally stood among the spiders, but still gray and insubstantial.
+
+Why does teleport work and not barrier? Well, it half-worked… It certainly hadn’t done what she had expected.
+
+But she had evaded the crawling spiders for a moment. She didn’t have any other ideas, so she used the time she had gained to analyze the magic of the Spirit Banishment curse. As soon as the Ghostly Spiders caught up with her, she teleported again. She was messing with her shaman, but she didn’t think it would cause too many issues, and she simply couldn’t help anyone from here. She pursued her analysis with a single-minded focus.
+
+Ali continued in this way, evading the spiders and studying for several rounds, when suddenly there was a powerful ripple of mana and the witch doctor appeared in the center of the clearing. His body glowed with blue and white mana, standing out like a beacon in the gray of the surroundings. His body paint, and the decorations and embellishments on his gear, shone with brilliant colors, leaving haloes and shimmering trails as he moved. Ali couldn’t help noticing that the edges of his body did not blur like hers.
+
+“Hah, now you’re mine,” he said, with a wide, ghastly grin. He thrust forward a weathered hand, and an incandescent blue beam hit her. Ali’s mana and health drained into his spell. She summoned her barrier in vain, but his magic ignored it, his beams passing right through as if it were not even there.
+
+She ran, but the beam followed her, ignoring obstacles, passing through trees, and tracking her through her teleports to drain her constantly. She tried retrieving a health potion from her ring, but it summoned gray and insubstantial, falling through her hand to shatter on the ground. In frustration, she simply clenched her teeth and endured the magic and the cackling taunts coming from the Troll, focusing once again on the Spirit Banishment curse, until finally she understood.
+
+“Goodbye,” she said in the troll language, waving at him with a tight smile, and dispelled her curse. What surprised her most was that it actually worked. She didn’t feel much of anything except the drain vanishing, but the clearing suddenly snapped back to full color, and she found herself standing in the real world once again, minus the witch doctor.
+
+“Ali! You’re back!” Malika exclaimed.
+
+“He cursed me into the Spirit Realm,” Ali explained. “That’s where he keeps going.” She had so many questions about the realm, how it was related to her magic, and how the witch doctor was able to use his magic there while she couldn’t. But none of them would have any better answers.
+
+Ali turned to where Gara was still chasing her tiny, frog-hexed Armored Drake. “Stop attacking my monsters,” she said, annoyed with the troll’s inexplicably bizarre behavior in the middle of a frustrating fight. It wasn’t like she could do any damage to the drake, but she had told her to stand back, and now she was actively hindering their forces at substantial risk to herself. “What if you get drained?”
+
+“The frog hex, it breaks with damage,” Gara said. “But your drake is very hard to hit, and your friends don’t understand proper speech.”
+
+“Oh,” Ali said. That’s surprisingly useful information. Gara’s response had unraveled her entire frustration and annoyance. Of course the curse broke on damage, it was right there in the description, and she had read right over it. Her own shamans, running their self-bleeds, had almost instantly broken the curse and she hadn’t put two-and-two together. “Thank you.”
+
+“Damage breaks the frog hex,” she said, switching to Common to translate for her friends. Then she swapped back to Trollish and instructed her shamans to inflict bleeds on her drakes while the witch doctor was absent in the Spirit Realm.
+
+“Oh, that’s how they’re breaking it,” Malika said, sudden realization brightening her face as she stared at the shamans.
+
+Ali began recovering her mana using Inspiration, stopping only when her Arcane Insight recharge expired. Immediately, she dispelled the Frog Hex on Calen, returning him to normal.
+
+“Thank you,” he said, seeming immensely relieved and grateful as he checked his limbs and body. He accepted his bow from Mato, flew over to the edge of the clearing, and disappeared, vanishing in the shadows of the trees.
+
+“This has to be the weirdest fight we’ve ever had,” Ali said, regenerating more mana while she waited for the troll witch doctor to reappear. She had spent most of the fight waiting around and using Arcane Insight – aside from the few minutes running away from Ghostly Spiders with Minion Teleport in the spirit realm. And now she had her minions fighting each other to stack up bleeds.
+
+“Most annoying, you mean?” Malika grumbled.
+
+The witch doctor suddenly reappeared nearby, and Ali found herself once again transforming into a frog. Mato vanished in a shimmer immediately afterward, presumably banished to the Spirit Realm. When Malika suddenly turned into a frog also, Ali dispelled her friend’s curse immediately. While she didn’t personally enjoy hopping around and croaking, the Frog Hex was merely an inconvenience to her – in fact, she only lost one point of strength in the transformation. I’m barely stronger than a frog, she realized with a frown. The fact that it was an Aman Rak frog did not make it any less embarrassing, but for a physical class like Malika, it would be a significant liability.
+
+“Get a bleed on Malika,” she told her shamans, expanding the list of targets that could handle the extra damage.
+
+Five blue beams blasted out from the witch doctor’s hands, snaking through the trees, but his spell was interrupted by a flash of light and black flame as an arrow to the chest blasted him off his feet, knocking him into a tree. Calen’s arrows followed in a rapid-fire stream of light and black flame as his bow howled from the opposite side of the clearing.
+
+The witch doctor scrambled to his feet and ran as three hellfire fireballs detonated in the hastily vacated spot. A flicker of unusual magic rippled through him, and a murky red potion appeared in his hands briefly before he downed it. His dark hair suddenly changed to a brilliant pink color, and his health began to rise quickly. In his frantic escape, the witch doctor had run right next to Ali. He stopped, not noticing her flopping about at his feet, and cast his five-way beam drain again.
+
+Ali cast Minion Teleport, switching places with one of her Armored Drakes right as the bleed dispelled its frog hex, dropping it close enough to the witch doctor to knock him down.
+
+The witch doctor screeched in surprise as the drake unleashed its dragon-fire breath attack and a powerful talon cleave from point-blank range. There was a shimmer and a flash as the drake was turned back into a frog. The drake immediately reverted to normal, breaking the frog hex, but their enemy had already fled – both Malika and the witch doctor vanishing into the Spirit Realm in a gleaming rush of soul magic.
+
+This time, however, all was not quiet. Ali could see the wavering, indistinct flashes of Malika’s powerful soul magic, even though she was in the Spirit Realm. A few moments later, the witch doctor reappeared, looking panicked and much worse for wear. The instant he reappeared, an Eimuuran steel arrow from Calen’s bow pierced his chest, blasting him backward, sending his rune-etched troll femur staff soaring end-over-end through the air until it pegged itself into the soft soil beside a tall tree.
+
+Ali’s chime sounded.
+
+Your group has defeated Witchdoctor – Troll – level 80 (Soul).
+
+Ali dispelled her curse and looked around. Both Mato and Malika were nowhere to be found, still presumably stuck in the Spirit Realm.
+
+“You ok?” she asked, catching Calen’s eyes.
+
+“Yup,” he nodded, looking around. “I hope the others…”
+
+“The banishment curse expires in two minutes,” Ali reassured him. Hopefully, the curse expires as normal with the witch doctor dead. But she needn’t have worried, because after a few moments of waiting, Mato appeared from a within shimmering ripple. Then, a minute later, Malika rejoined them in the normal world.
+
+“I stand by my earlier comment, this was an annoying fight,” Mato declared.
+
+“Ugh, yes,” Malika agreed.
+
+“I was very worried he was going to be able to pick us off one at a time in the Spirit Realm, none of my magic worked in there,” Ali said.
+
+“I could hit him just fine,” Malika answered, eyeing her with a puzzled glance.
+
+With her comment, the end of the battle finally made sense. Ali had seen Malika’s magic flickering; the troll must have retreated to the Spirit Realm when she had teleported her drake on top of him. As soon as he appeared there, Malika attacked him with her soul magic and martial arts, and he must have panicked and tried to return. Then Calen had finished him off with a devastating Ambush.
+
+The witch doctor also uses soul-affinity magic, Ali realized. He had seemed particularly at home and confident in that strange washed-out realm, and it had to be that Malika’s particular affinity was able to naturally function there. Even the ghostly spiders, Soulshade Blossoms, and the Ghost Mushrooms of the Spirit Realm had similar soul-affinity mana.
+
+“I think soul magic is special in the Spirit Realm,” Ali mused.
+
+“Yup, my magic didn’t work either,” Mato said. “Only stamina abilities.”
+
+While Ali had been focused on the fight, the implications of what she had seen had of necessity been put on hold, but now that she was no longer busy, her mind reeled from the profound realization. Her magic used the Spirit Realm; that’s what that place really was. Immediately, she was filled with a thousand new questions, most importantly: how or why did it work that way? Her magic actually did function there – some of it, anyway – it just manifested in the real world instead of the Spirit Realm. But what about Arcane Recall? What would happen if she used it there?
+
+“I got Ambush on him every time he left and returned,” Calen said as he walked up. “Well, every time I wasn’t a frog,” he said with a wry grimace.
+
+“I’m just frustrated,” Ali said, putting her questions about the Spirit Realm down for a moment. Likely she would need to consult with her mother’s book for any insight or understanding. “I found a patch of the Ghost Mushrooms, but I couldn’t deconstruct them – my magic simply didn’t work. I have no idea how we can get them.”
+
+“I’ll check Mr. Slippery here and see if he has any on him,” Malika said, eyeing the corpse of the witch doctor.
+
+“I got a bunch,” Mato said, reaching out with broad cupped hands which suddenly filled with a pile of the strange blue mushrooms Ali had found when she had been banished to the Spirit Realm. They glowed still, perhaps slightly less brightly, but still ethereally transparent.
+
+“How did you get them?” Ali looked at them incredulously. Deconstruction had just failed.
+
+“My Herb Gathering skill isn’t magic,” Mato said. “It seemed to work just fine, as long as I didn’t get attacked by those annoying spiders.”
+
+Excited, Ali deconstructed several mushrooms until her Grimoire updated.
+
+Variant: Ghost Mushroom added to Imprint: Mushroom.
+
+Ali quickly created a patch of the ghostly blue mushrooms, watching in fascination as several of them simply faded away till they were gone.
+
+“Most of them will fade to the Spirit Realm over time,” Gara said, watching the mushrooms, but despite her matter-of-fact comment, her face radiated curiosity as she examined the mushrooms and glanced several times at Ali’s Grimoire.
+
+“How do we use them?” Ali asked, already considering several locations in her own dungeon where she would introduce her new mushroom variant.
+
+“I have a recipe. I can teach the bear to cook them if you help me to translate the words,” Gara said, pointing at Mato.
+
+“Ooh, you really do eat them?” Ali asked.
+
+“Of course,” Gara said, grinning. “They’re best lightly salted.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

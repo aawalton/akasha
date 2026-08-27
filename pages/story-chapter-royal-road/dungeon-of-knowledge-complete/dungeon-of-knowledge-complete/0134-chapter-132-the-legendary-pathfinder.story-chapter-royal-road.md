@@ -1,0 +1,381 @@
+---
+id: abc3eb7f-04c2-5830-ab08-cafc34ccf2dd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 132: The Legendary Pathfinder"
+slug: 0134-chapter-132-the-legendary-pathfinder
+partOf: dungeon-of-knowledge-complete
+position: 134
+ownLength: 7673
+unit: words
+ownProgress: 7673
+publishedAt: 2024-09-19
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1810227/chapter-132-the-legendary-pathfinder"
+royalRoadId: "1810227"
+markedReadAt: "2026-06-29T20:31:30.742Z"
+---
+
+“Bye, tree lady!”
+
+“Thank you for playing with us.”
+
+“Bye, Miss Dryad.”
+
+Lira waved goodbye to the kids and retreated into the twisted and warped trunk of the unfamiliar playground eucalyptus tree, melding her body and mind with its heartwood. She offered it her gratitude for its sacrifice of branch and root and applied her mana to unwind and retract the roots and restore the branches to their natural expanse, and in return she received the quiet and calm of the tree, thankful for the return to tranquility and for the destruction of the hated undeath that had invaded its realm.
+
+Finding a more familiar accommodation, she teleported her awareness to an enormous oak tree in Aliandra’s Forest Cavern, eager to return to her new home. The parents of the children she had saved had been grateful, but awestruck by her, and she had always been uncomfortable around that sort of reaction.
+
+He’s dead. He’s dead, and the world is a better place.
+
+The adults had told her the story, a breathless description of heroics out on the southern fields where the Necromancer had met his doom at the hands of Aliandra and her friends. Little Aliandra. She’s grown so much. So much had been taken from her, but she still had Aliandra. And Alexander Gray was dead. All she wanted to do now was rest.
+
+She teleported again, this time to the Elder Tree in the library, but the instant she returned to her domain, she sensed the intruder. Her new domain was small, but her trees were strong, and they were all raising the alarm, calling for her. She reached out with her senses through the domain and the trees, finding a restless energy on the prowl. A thing of claws and fangs.
+
+Bear? No, it’s too big. A Dire Bear then...
+
+She gathered her will and teleported up into a tree in the cavern Aliandra had loaned her, following the trail of the intruder. As soon as she arrived, she sensed destruction. Plants had been uprooted, mushrooms dug up, and her trees had been clawed, bark and branches ripped to ribbons.
+
+She stepped out of the trunk of the tree, and into the path of the invader. It turned its head toward her, and she held its gaze. A shiver ran through its body as it stood there, sizing her up, but it was a monster. It shook its great head and with an earsplitting roar, it charged at her, mouth open wide, fangs gleaming in the dim light.
+
+“Stop,” she commanded, raising a hand, and releasing the hold on her aura. Her presence – her mana – surged outward, overwhelming the monstrous bear. It stumbled, crashing to the ground, with little whimpers and whines escaping its throat as it cowered trembling.
+
+I have been careless. The Dire Bear was a monster – a high-level monster, at least for these parts. It probably wouldn’t have been able to detect the mana of Ali’s domain, but for the fact that she had created the Elder Tree right in the center of it. The mana density was appropriate for the hundreds of square kilometers of her old domain. But Aliandra was a dungeon, and the mana of a dungeon attracted all manner of dangerous things. With the Elder Tree entwined in her domain, Aliandra was emitting mana of a far greater density than might be commensurate for her level. This Dire Bear was but the first of what Lira feared might come for Aliandra’s domain. Fortunately, this monster was a beast.
+
+“Provided you behave, you may approach,” she said. The Dire Bear raised its head and looked at her with its glowing red eyes for a long moment before it bowed its head and approached slowly.
+
+“Would you like to stay? You may protect the forest for me.” She sensed the bear’s emotions, its deep cunning and intelligence while it slowly calmed down under the influence of her powerful magic. It was not long before the monster reached out for her like a child, eager to please. Not every monster would choose her, but she was grateful for the fact that this one respected her. She had to remember she had nothing else now.
+
+She raised her hand and scratched it behind the ears. “Good boy,” she said, feeling the remainder of its terror at her presence fading.
+
+I’ll have to ask Aliandra or maybe Ryn to buy him some treats.
+
+But more importantly, she needed to warn Aliandra about the danger. Monsters would be coming now, drawn to the mana, and Aliandra wasn’t nearly strong enough to deal with what might find her. After another long pause her lips curved into a small, tight smile. Not yet.
+
+Suddenly she jerked her head up as a presence far more deadly than a Dire Bear brushed past the outer reaches of her domain.
+
+Ali sat astride her freshly resummoned Forest Guardian as it splashed through the underground river channel into the forest cavern. The rough bark and shifting wood of its back drew her heart into a quiet sense of nostalgia and calm – much needed after the stress of fighting Alexander Gray and the difficult revelations of the day. It smelled of oak and vines and creaked as it moved, just like she remembered from her childhood.
+
+She ducked to avoid a low part of the rocky tunnel roof before remembering she could simply bend the rock out of the way with her Domain Mastery skill. She had begged off meeting with the council when Vivian Ross had joined them on the battlefield, asking her friends to cover for her instead. They wanted to discuss the Torian forces still deployed to the north, but she was in no mood to deal with their selfish schemes and political plotting, especially after what they had just pulled. Her friends – Malika especially – had only relented once she had promised to resummon some minions for her protection.
+
+She trudged past the ethereal blue glow of her lake – or rather her Forest Guardian did – deep in thought. Her minions began to disperse, the Lux Drifters and Sparkling Oozes spreading out through the cavern, leaving her with just her Forest Guardian and her small pack of Kobolds.
+
+I survived. We survived. When she had walked out onto the battlefield all alone, she had not had any expectation of living through the fight. Her only goal was to save her friends and bloody the necromancer’s nose. But the tenacious loyalty of her friends had turned the tables and left her with a deep upwelling of gratitude toward them. Malika, in particular, had been a devastating foil to the necromancer, enduring the potent aura of death magic with only her healing and Mato’s Sanctuary, while she systematically obliterated his mana.
+
+But it was the sight of Malika sprinting down the outer walls of the battlements to join her on the field that had left an indelible mark on her heart. Things between them had been awkward and strained ever since the council trial, but Malika had not hesitated to come when Ali put herself in danger. Even just remembering it caused her eyes to well up with tears.
+
+She sniffed and wiped her eyes on the back of her sleeve and turned her focus to something practical. Idly she scrolled past the hundreds of notifications of undead kills before she found the final one.
+
+Your group has defeated Blight Summoner – Human – level 73 (Death)
+
+He was a tool of the Blind Lich. Alexander Gray had come, bringing a pestilence and an army of undead – and he had had her name on his lips. Never in her worst nightmares had she imagined that the evil lich would be hunting for her personally. Yet here was a powerful necromancer who had wanted the town to deliver her so that he could offer her to his master – for what terrible purpose, she could only imagine. She shuddered recalling the Blind Lich’s words to her mother, and his sudden interest in her after discovering she had inherited her mother’s mana.
+
+She frowned, pressing her lips into a line. First, let’s see what that fight earned me.
+
+Grove Warden has reached level 49 (+4).+40 attribute points.Imprint: Skeleton completed.Imprint: Zombie completed.
+
+Yuck. I’ll take the points but not those. She quickly dismissed the undead imprints even though she had an open chapter, knowing they were worthless for anything other than creating literal dead weight. Her mana could not animate them, and she was not particularly interested in studying them either. She spent fifteen points each on wisdom and intelligence, dropping the remaining ten into perception and then examined the next set of notifications.
+
+Arcane Insight has reached level 26.Arcane Recall has reached level 6.Barrier has reached level 35 (+2).Martial Insight has reached level 27.Empowered Summoner has reached level 23.Minion Teleport has reached level 10 (+2).Inspiration has reached level 8.
+
+She studied her skill level increases carefully, but the growth was quite welcome. Especially welcome were the two levels in her Barrier skill, now that it was pulling double duty as her primary attack and defense skill. Every point she earned made the barriers a little stronger and a little sharper. Even the single skill point in Arcane Recall would dramatically improve her control over her arcane magic.
+
+Suddenly, her eyes widened. There’s more? Oops, I almost missed that.
+
+Requirements met for skill advancement.Empowered Summoner has surpassed level 20.Arcane magic power enhanced by more than 25%Intelligence has surpassed 150.Reserved more than 75% of maximum mana for minions.Take to the field of battle with more than 100 minions. Empowered Summoner gains Arcane Power.Empowered Summoner gains the Arcane trait. Empowered Summoner – level 23Mana: Your minions gain added nature and arcane damage on hit. Choose up to two Minions. You gain 88.95% [40 + skill + base intelligence x 0.15] of their highest base attribute. Range: 25.35 meters. Reserve: 10%0: Replace a minion target for your attribute enhancement. Recharge: 1 hour. Nature, Arcane, Minion, Buff, IntelligenceAccept this advancement?
+
+Two changes?
+
+Ali studied the unexpected advancement carefully. She had gone all in on her minions for the battle against Alexander Gray. The six Forest Guardians had been particularly expensive – and she had brought her swarm of Lux Drifters too. That had been a gamble, but the glowing acid rain they secreted as they flew above the battlefield had proved remarkably effective against the sea of skeletons and zombies.
+
+This seems fantastic. Her minions already gained some additional nature damage with every hit. From her testing with Calen, they had determined that the formula was remarkably complex, but in general, it seemed to add damage proportional to the base hit, but many factors influenced it. This advancement would add arcane damage, which would presumably work similarly. The additional magic damage type would in theory be useful if she ever encountered enemies that were immune or highly resistant to some of her magic – like the skeletons that ignored her wyvern’s poison. With the range of her potent skill reaching twenty-four meters now, she had found it was getting far easier to keep all her minions enhanced.
+
+But it was the second attribute boost that caught her attention. Till now, she had had little reason to choose anything besides intelligence – all her skills scaled with intelligence – but this would allow her to enhance a second attribute. Wisdom seemed to be the most obvious choice, boosting her mana – and therefore her number of minions – but she could easily see a use for perception or vitality depending on the encounter or situation.
+
+Time to play ‘guess the attribute’, she thought. With an hour recharge on switching, it would probably take a while to figure out her best choice for her second minion. I should also check if I can double up on intelligence. She just knew that would be the first thing Calen asked. She glanced speculatively at the Forest Guardian. It has regeneration and healing. It was plausible that the guardian’s highest attribute could be wisdom, so she decided to try it out. She selected the huge elemental for her skill’s target, and her strength attribute leapt from six to two hundred and thirty-four.
+
+Well, of course. She frowned. Her Guardians were monstrously powerful and in hindsight, it made sense that they would be strength-based creatures. She hopped off the Guardian, floating down to the ground near the remains of her flower garden, and immediately stopped, studying the strange sensation in her body and the dramatic change in her movement.
+
+Is this what being strong feels like? She bent over and picked up a rock about the size of her head, her grip causing it to crack. On a whim, she tossed it, and even with her racial penalty to strength, it soared through the air, further than she would have thought possible before it fell somewhere among her distant trees.
+
+Wow. She would need to try a different minion in an hour when the recharge expired, but for now, strength seemed fun. She ran around for a while, picking up things: a boulder, a rotting tree trunk, and her Forest Guardian – although that was so heavy she merely pushed herself into the ground.
+
+After exhausting her imagination, Ali’s eyes finally settled on the ruined garden. Basil hadn’t returned to the garden since the burning, with the sole exception being the busy day they had spent growing potatoes and wheat. She still had orchards of apple trees and fields of wheat and rice – presumably, they would still be useful until the Torian armies were driven off and the blight was dealt with. Ali found that she missed the quiet, studious boy whose face always lit up when she asked him about obscure flowers or mushrooms. She just hoped he wasn’t avoiding her because he feared her – she didn’t think so, but she knew he needed her domain to level his class.
+
+Maybe I can get him to come visit if I tell him I replanted the garden… or maybe I can ask him about finding new flowers?
+
+She had not had any particular purpose in mind when she returned to the cavern, simply seeking a little alone time after the chaos of the day, and now, with nothing better to do, she decided to clean up the garden. Ash and burnt wood succumbed to her Domain Mastery as she broke it up and returned it to the ground. Even with just a single skill level increase, she could feel the increased control she gained from her powerful mastery skill, Arcane Recall. The little flower garden had been the source of much joy, so she decided to expand it substantially. With a wave of her hand, she manifested her Grimoire and turned the glowing pages till she settled on the wildflower imprint.
+
+Her Forest Guardian rumbled at precisely the same time as an enormous surge of mana suddenly erupted from behind her. Ali spun around, skin prickling, to find the Night Elf Pathfinder, Lyeneru Silverleaf, glaring harshly at her along the shaft of a fiery arrow nocked to the bowstring of her great bow. Lightning tendrils arced from the bow and her hands, playing out along the ground by her feet.
+
+“Give me one good reason why I shouldn’t slay you right here, right now,” the Legendary Pathfinder snapped. The Night Elf’s voice was cold and hard, and there was not even the slightest tremor in her bow.
+
+Archer [Pathfinder of Legends] – Night Elf – level ??? (Fire / Lightning)
+
+“What… Why?” Ali reeled from the sudden and unexpected threat. In the instant she summoned a domain-powered barrier between them, her Forest Guardian appeared beside her. Fire sprang from Kobold talons and a preemptive pulse of holy healing magic settled on her. But Ali stayed their attacks. Heat that dwarfed Thuli’s forges rolled off the Night Elf in waves, and from the immense power of the mana she was holding condensed within her bow, Ali knew that the best of her defenses would amount to a spiderweb trying to block her Forest Guardian’s charge. That bow had driven off a Death Knight – the aura of lightning and fire was so intense she could feel her hair beginning to rise from almost twenty meters away.
+
+“You are a dungeon,” Lyeneru said, speaking with unyielding cold certainty in her voice and the steadiness of her bow.
+
+With the specter of Nevyn Eld looming large over her, and the emotional impact of taking the field to meet Alexander Gray by herself, Ali was emotionally wrung out. Everyone wants to kill me. Because of my class. The town council members, Necromancers in the service of Nevyn Eld, noble ice mages, and now, even a legendary Pathfinder.
+
+You’re all the same. Even the rage that had burned white-hot within her when she faced Alexander Gray had mostly faded, but the remnants of the embers of rage still smoldered somewhere deep inside.
+
+Defiantly, she locked gazes with the Night Elf, choosing the formal speech of the High Elven courts. “Has the vaunted culture of the Elves fallen so low in the past three thousand years that an Elf would break into someone’s home and demand a reason not to slaughter them?”
+
+Lyeneru’s face twitched, but her bow remained trained on Ali. “Are you not the dungeon? The council informed me that it was you.”
+
+“I am Aliandra Amariel, and I am the dungeon…”
+
+She activated Arcane Recall, pausing the flow of time. If I can’t beat her, and I can’t escape… Ali struggled with it momentarily, but she was emotionally drained; she had nothing left to give. The Elf’s arrow would shatter her barrier in an instant, and throwing rocks at her with her borrowed strength would probably be as effective as trying to attack the very mountain itself. If I have to go… she glanced once more at her ruined flower garden. Channeling all her remaining mana into her Grimoire, she filled the entire area with Mystic Bluebells.
+
+Nice Ali, baring your fangs at the legendary archer who’s probably five times your level. A futile act, no doubt, but to her surprise she found she didn’t care. It was all that was left to her. This person had come into her home and threatened her for no reason, and she was tired of it all.
+
+Her spell completed, and the world returned to normal, with herself and Lyeneru standing in a field of beautiful blue flowers.
+
+So pretty…
+
+“… and you’re standing in my flower garden,” she finished aloud.
+
+Surprise disturbed Lyeneru’s cold façade and her smoldering eyes glanced down at the bluebells at her feet.
+
+Ali said, “Now, I’ve had an awful day facing the underlings of the Lich that killed my parents and destroyed my home, so I’d appreciate it if you put your bow down.”
+
+The Elf just stared at her, but Ali refused to back down, an improbable staring match between a bug and the boot that would squash it.
+
+Dense emerald-green mana pulsed within the trunk of the nearest Lirasian Oak, and the wood and bark warped as Lira emerged to stand elegantly on the moss. “Aliandra dear, I’ve made a pot of tea,” Lira said. “Why don’t you and your new friend join me in the library?”
+
+The change in the Night Elf’s demeanor was instant. Lyeneru gasped. The intense mana powering her bow vanished and the bow lowered as she bowed fluidly and deeply. “Great Mother of the Deep Woods…”
+
+Aunt Lira must have been watching, ready to protect me… Gratitude, coupled with shame, washed through her weary body. A meeting of legends, and here I am, everyone’s favorite target.
+
+“Thank you, Aunt Lira, we’ll join you in a minute,” Ali answered, ignoring the Elf for now. As usual, Lira’s timing and perception were impeccable.
+
+“Don’t be too long,” she replied. “Ryn found a particularly aromatic Elvish green tea, it would be a shame to let it grow cold.” And nodding toward Lyeneru, she vanished back into the oak, leaving only an awkward silence in her wake.
+
+“So…” Ali said. “Would you like to get some tea with Lira and have a conversation like civilized people do? Or would you prefer to slay me?”
+
+“You… you shame me.” Lyeneru’s bow vanished and her magic guttered and went out. “You answer my bow with flowers and offer me hospitality and reminders of a more civilized era. You have my sincere apologies. Let’s talk, it seems we have much to discuss.”
+
+***
+
+You have entered the Grand Library Arcana.All Learning and Knowledge magic is enhanced by 10%
+
+“… and this is the Grand Library Arcana,” Ali explained. Lyeneru, for all her initial violent intent, had flipped her demeanor entirely, becoming a paragon of politeness and civility. Her bow had not made a reappearance, and she instead peppered Ali with questions, betraying a powerful curiosity and a hunger for knowledge.
+
+Was it seeing Lira? Or was it my defiance? Even though Lyeneru had not mentioned Lira even once since that first encounter, it was abundantly clear that she held the ancient Dryad in a kind of reverential awe. But on reflection, Ali was becoming more and more certain it was Lira’s comfortable familial attitude towards her that had given Lyeneru pause. Knowing how sharp and perceptive Lira could be, Ali knew every word, even the cadence of each syllable, had been chosen with clear purpose.
+
+Ali had taken the scenic route to the library via the ventilation shaft, and Lyeneru’s awe and excitement for the discovery of the ruins of the great city had echoed Calen’s when they had first discovered it.
+
+Now, entering the Grand Library Arcana, Lyeneru’s eyes began to shine with the white light of lightning mana as she studied the walls, the atrium, and the ruined bookcases. Bending down, she picked up a shattered shard of a bone spear and glanced at Ali.
+
+“A Skeletal Wyvern had made its lair here. It was a raid boss with bone-affinity mana – that spear was part of its breath weapon,” Ali explained, leading the Elf to the couches Ryn had purchased. Lira smiled at them as she arranged the porcelain cups and invited them to sit while she began to pour tea.
+
+“How do you know the Great Mother?” Lyeneru asked, giving voice to her obviously burning curiosity. She bowed again to Lira before taking her seat.
+
+“Aunt Lira has always been part of our family. She’s the one who taught me my first cantrip when I was ten – a spell to grow plants.” Ali answered, remembering her excitement the first time she had seen the plants growing from her own mana, and the notification chime when she had learned the skill.
+
+“You were eight, dear,” Lira answered. “Not even your mother was that precocious.”
+
+Was I really that young? Her memories seemed clear enough, but they were more about how happy she had been, and Lira’s gentle praise, than a precise calendar timeline.
+
+“Would you mind telling me more about the dungeon? Was it you that cleared it?” Lyeneru asked, nodding respectfully to Lira as she accepted a cup of tea from the offered tray.
+
+“Alas, I lack any combat skills,” Lira said, “A choice I have had reason to rue of late. No, Aliandra and her friends are responsible for destroying the bone dungeon and liberating this place.”
+
+“Thank you,” Ali said, choosing a cup and smiling gratefully at Lira, happy to have her wisdom defuse the dangerous situation. Lira joined them on the couches, quietly sipping her tea.
+
+“This is really good,” Lyeneru said, tasting the tea. Ryn had mentioned it was an expensive imported Elvish tea, but Ali didn’t even have names for the delicate blend of herbs producing such an enticing aroma from her cup. Other than that, she agreed it was great.
+
+Ali inhaled the aromatic steam and sighed, some of her exhaustion and tension slipping away now that the threat seemed to be over. Then she said, “When I awoke near the shrine, this entire area, including the ruins here, and the level below, was the domain of a bone- and death-affinity dungeon called the ‘Ruins of Dal’mohra’.”
+
+“Death?”
+
+“Yes, it was mostly filled with Kobolds, wolves, undead, and bone elementals,” Ali explained.
+
+“Bosses?” Lyeneru asked, her tone clipped and efficient – like Ali imagined Commander Brand might be when asking for a report.
+
+“There were three normal bosses,” she said, “A Kobold Swordmaster with minions, a skeletal aberration with four arms,” she paused to swallow, saddened again by the death of Armand, “and a Piercer Scorpion bone elemental. The two raid bosses were the Skeletal Wyvern in here, and then on the second level we had to defeat a twin boss – caster and melee Wights.”
+
+“And it was just the four of you that defeated it? Or did you have help?”
+
+“Yes, Vivian Ross gave us excellent advice on strategy, but we defeated them on our own. The raid bosses were extremely challenging, and after the Wights, we had to take time to recover from the life drain.” She had been quite worried about her friends, even though she had not been afflicted by it.
+
+“Did you find a shrine?” Lyeneru pressed.
+
+“Yes, but Nevyn Eld teleported in and recovered it as soon as we defeated the Wights. Fortunately, we were able to hide, and he didn’t see us.” They had been extremely lucky, and Ali could still remember the fear of seeing the Lich for a second time. If he had seen them, she knew for certain he would have killed them all without hesitation and they would have been powerless to stop him.
+
+“Nevyn Eld?” Lyeneru exclaimed, sitting bolt upright in surprise. “Are you certain it was him?”
+
+“I am,” Ali answered. The Lich’s presence was unmistakable – burned into her memories like a searing brand. “It is the second time I’ve met him. The first was when he destroyed Dal’mohra, turned the Council of Kings into his Death Knights, and killed my family.”
+
+“Wait… you were here when Dal’mohra was destroyed?”
+
+“She was. I haven’t seen Aliandra for over three thousand years,” Lira said softly from her seat on the couch.
+
+“He hunted us down, mother and me. He wanted her magic badly enough to destroy the whole city and all its people. He was quite happy killing her and forcing her to serve him as an undead slave. How could someone be so evil?” Ali could still clearly remember the arrogance in his voice, and the contempt for the council and the city who would not be turned to his side except through the horror of being bound as undead Death Knights. And how quickly his reason turned to madness and fury when her mother had defied his will.
+
+Ali fell silent with her memories. No longer was she driven to tears, but the sadness was still just as profound.
+
+“Aliandra, the Elven Pathfinders Guild was formed many centuries ago, specifically to oppose his evil. We cannot allow another Breaking. Individually, we are nowhere near powerful enough to stand against him, but we study the movements of his underlings – the so-called Shadow Council – plan for their attacks, and try to divine his next target before it happens.”
+
+“How is it that we were able to evade him?” Ali asked. She had been frozen in terror by the power of his aura at the time, but it was rather incredible that he had simply ignored them and taken the shrine.
+
+“Our intelligence suggests that the Lich is, in fact, literally blind. He may possess a powerful omnidirectional mana sight skill which we believe is granted by the crimson blindfold he wears, but it has a limited range,” Lyeneru said. “As you can imagine, details are sparse – we only know this much due to decades of research by the Archmage, Nathaniel Sunstrider, studying eyewitness accounts and drawings.”
+
+“Nevyn Eld was indeed blind even before he came to Dal’mohra,” Lira said. “It never impacted his ambition.”
+
+The Night Elf’s eyes widened abruptly at her confirmation and then she said, “You must realize that very few have even seen the Blind Lich, and fewer still have survived to talk about it. Anything you could tell me about him might save lives.”
+
+“Before I help you,” Ali said, “I need to know why you were so willing to kill me, without even knowing who I am.” Sitting down for tea was all good and well, but Lyeneru had still threatened her life – and she would not forgive that easily, even though she knew there was nothing she could do to stand up against someone powerful enough to run off the ice Death Knight that had broken through the gates of Dal’mohra and slain all the defenders.
+
+“You are a dungeon,” she answered with a tone of finality. She presented the fact as if it automatically explained her actions without any question, but Ali did not understand.
+
+“That is my class, yes. What have I done to offend you personally? Or are you just like those greedy townsfolk who want to assassinate me for the reward?” She had to know what made this person different from another Roderik or Alexander.
+
+Lyeneru sighed, as if saddened by Ali’s accusation. “A few centuries ago, Nevyn Eld learned how to enslave dungeons – we do not know how he does it, but it is difficult to find a dungeon now that is not under his control. What we know for certain is that he uses rifts to shattered realms to feed his dungeons, and then the dungeons supply his armies. You are a dungeon – I have been tracking that Death Knight for weeks now, and it led me right to you – I naturally assumed you were one of his minions.”
+
+“I don’t think that’s quite right,” Ali answered, several pieces falling cleanly into place. “I don’t think it’s enslavement.” Lyeneru’s information raised far more questions in Ali’s mind, however, her experience with Nevyn Eld’s pet dungeon told a different story. Searching through the notifications shared by her friends, she found the relevant one and shared it with Lyeneru. “This is the dungeon we defeated in the city ruins.”
+
+Ruins of Dal’mohra – level ??Affinity: Bone, Death.Age: Ancient.Known Creatures: Kobold, Undead Skeleton, Starving Wolf.Known Bosses: Aberrant Skeletal Warrior – level 9.Dungeon
+
+“You have a skill that can identify dungeons? That’s a rare thing.”
+
+“It’s Calen’s skill. Notice the age is Ancient.” Ali was certain the age was approximately the same as hers, matching the name of her title.
+
+Ali got up and walked to the shelf where her fledgling collection of books was proudly displayed. She reached up and retrieved Nevyn Eld’s book. “I recovered this from the library – the only book to survive intact. I’m certain he wrote this before the fall of Dal’mohra, and it shows he already possessed the mastery of dungeon magic even back then.”
+
+And for her final puzzle piece, she offered her the appraisal of the shrine.
+
+Ruins of Dal’mohraA crafted shrine artifact, providing domain propagation and support abilities. Owner: Twin Wights.Teleportation Locus [Active].Mana Siphon [Active].Mana: Deconstruct an unresisting or inanimate target, imprinting its structure. Range: Domain.Mana: Summon an imprinted item or creature.Mana: Apply a Domain Enhancement.Mana: Recharge the shrine’s mana reserve. 12,754/20,000Created by Nevyn Eld.Value: SoulboundShrine – Artifact
+
+“Malika has Appraise and got this reading before Nevyn Eld arrived. As you can see it has his mana signature on it, proving that he created it. I’ve also verified from his book that the skills offered to the owner of the shrine are the ones needed to qualify as a dungeon.” Ali pushed down the emotions that threatened to bubble up inside her – learning this piece of information had been a traumatic experience.
+
+“Are you implying that he creates dungeons?” Lyeneru seemed stunned, but she did not argue with Ali’s reasoning.
+
+“Yes, I believe so – and I think he has been doing it for a lot longer than a couple of hundred years.”
+
+***
+
+“The council sends their thanks for taking care of Alexander Gray,” Malika announced as Ali’s friends made their way down the stairs and joined them for tea.
+
+Ali had spent over an hour talking with Lyeneru, sharing all she knew about Nevyn Eld, from details as trivial as the color of his blindfold to her thoughts on his possible intentions for the land. One thing Lyeneru was at a loss to explain, was the Lich’s goals. For a being of such godlike power, he seemed remarkably indifferent to the affairs of the world – perhaps Lira’s opinion was accurate: his sights were set on greater things most of the time.
+
+Lyeneru made ‘tsk’ of disapproval. “The council here is a bunch of cowards. I can’t believe they were content to sit back and hide behind novices that have not even passed level fifty yet.” Clearly, something had happened between them during the meeting and Lyeneru was displeased at best. Ali did not want to think about the worst. She crushed her irritation at the word ‘novices’. Yes, they had seen and achieved much, but in comparison to beings like Nevyn or his Death Knights, they were nowhere close to being able to stand in their presence, let alone fight.
+
+“Politics, I believe,” Lira said. “I’m certain some on the council were trying to use the necromancer to take care of their dungeon problem, just like they probably hoped to use you for the same end.”
+
+“Politics is the root of so much suffering,” Lyeneru replied. “They say if you want to kill a hundred, use a fireball, but if you want to kill ten thousand, you need a politician.”
+
+“That is true, child of the night,” Lira answered. “But equally, an enlightened statesman or woman might save those ten thousand with naught more than skillful words.”
+
+Ali found it amusing that Lira referred to someone so obviously powerful as a ‘child’. And equally amused that the legendary Night Elf appeared to accept it without question.
+
+“I don’t think all of them are bad,” Ali said, her thoughts dwelling briefly upon the pillar of lightning magic that had manifested on the battlements, and the timely appearance of her friends – at least someone on the council had been supporting her, and she had a pretty good idea who it might be.
+
+“You might be right,” Lyeneru admitted, nodding respectfully to Lira. “After they told me you were a dungeon, Vivian Ross told me you would not be what I thought you were. She’s the only reason I didn’t shoot you on sight.”
+
+“The Guildmaster was the one that pointed us toward your battle,” Calen observed, indicating himself and Mato with a quick gesture.
+
+“Same,” Malika added, a little grudgingly.
+
+Ali wasn’t quite certain what to think. Vivian was something of an enigma to her and she wasn’t quite certain yet that she could trust her. To say nothing of the Gnomish lightning mage, Donella Novaspark. Am I just being overly paranoid?
+
+“Aliandra, I want to thank you for your insights and observations. I must track down that Death Knight before it reports your location to Nevyn Eld. After that, I must return to Ciradyl to give my report to the Pathfinder guild. As a thanks, I would like to offer some advice, if you would hear it?”
+
+Advice? And she’s asking permission? “Sure, I’d like to hear anything you think can help.”
+
+Lyeneru paused, and put down her teacup, clearly weighing something complicated in her mind. “You’re a terrible dungeon.” She delivered it with such a matter-of-fact tone that Ali was left stunned for a moment. She didn’t know what she had expected, but an insult was definitely not on her list.
+
+Ali opened her mouth to speak.
+
+“No, just listen,” she continued, cutting Ali off brusquely. Shaking her head, she muttered, “I can’t believe I’m giving advice to a dungeon.”
+
+Ali glanced at her friends, but they seemed just as surprised as she was.
+
+Turning her attention back to Ali, Lyeneru took a deep breath and continued. “That’s not quite accurate. You’re the worst dungeon I have ever seen. And I’ve seen a lot of them.”
+
+“I thought you were offering advice,” Ali said, losing her patience a little with her sudden rudeness.
+
+“You misunderstand. You’re an extraordinary adventurer – you and your friends defeated Alexander Gray – a necromancer, summoner, and blight spreader,” Lyeneru said. “He was a ranking member of the Lich’s cult, the Shadow Council. You all have done the world a great service and achieved something that was probably an impossible task for most gold-ranked groups. But you’re a dungeon, not an adventurer, and your thinking is making you weak.”
+
+Malika snorted quietly in the background. “You don’t say.”
+
+“What do you mean?” Now she’s praising me – or, should I take insult? What is she on about?
+
+“Tell me, Aliandra, why would you face him out on an open field if you’re so much stronger down here?”
+
+Ali opened her mouth to speak but found she had no answer. It was true, her barriers were substantially more potent when she used her domain. It had simply not occurred to her.
+
+“Aah, hmm,” Calen murmured. Nor him.
+
+“As for your dungeon, you have no monsters to defend you. Normal dungeons make traps and have monsters for a reason. You have flowers. And trees. They cannot defend you.” Lyeneru nodded again toward Lira and glanced at Mato. “No offense intended to the trees.”
+
+Mato made a simple assenting gesture.
+
+“What do you mean?” Ali asked. “I had my Kobolds and Forest Guardians.”
+
+Lyeneru raised a skeptical eyebrow. “Kobolds? Seriously? When I found you, I was able to sneak up on you with the most basic stealth,” she said, continuing her brutal evisceration of Ali’s dungeon. “I could have Ambushed you and you would have died never knowing what hit you. I see your books, and I respect your reasoning. You seem smart. But you’re severely lacking in experience and basic survival instincts.”
+
+Calen was nodding along, but he stopped, blushing furiously when Ali glared at him.
+
+“I can’t see stealth,” Ali managed. She had tried for hours to solve this problem, to no avail. She had even enlisted Calen’s help, but the light affinity of his magic’s runic structure had been an insurmountable barrier.
+
+“That’s what I mean, dungeons don’t think like that,” Lyeneru said, her voice warming with what Ali took for frustration or outright anger. “You have monsters, they can see stealth. I saw you have some slimes and oozes – not the smartest monster out there – but almost all of them have Tremor Sense. They are the bane of Rogues and other stealth classes. You must learn to use what you have. I’ve spent a lifetime understanding the layers of complex defenses powerful dungeons have at their disposal. You have nothing.”
+
+Ali sat back, stunned. She’s right. The answer has been there all along. She clearly remembered one of her Starving Wolves flushing a stealthed rogue, presumably because it could smell the invisible Kobold.
+
+“You seem to like books,” Lyeneru said, dryly now, gesturing with her eyes to the modest bookshelf. “I wrote one, get it and read it. It contains detailed accounts of many important dungeon dives, listing the lessons learned. It’s intended to teach delvers and adventurers to overcome them safely, but you should study it to learn what you don’t know about being a dungeon.”
+
+Calen retrieved his precious book, and silently handed it to her.
+
+Lyeneru glanced curiously at Calen and inclined her head before continuing. “As a dungeon, you will face many challenges. Monsters will be attracted to your mana. People will try to kill you for wealth and fame, or simply out of fear. Then there are the most dangerous of all – those like me who think they are doing the world a service by ridding it of a dangerous menace. If you want to be treated as a person, first you need to learn how to survive because few will stop to smell the flowers and join you for tea.”
+
+Ouch! That’s a bit direct, lady.
+
+“Thank you for your advice,” Ali said, finally finding a few words. She swallowed, still reeling from the brutal assessment of her incompetence as a dungeon. The fact that she had been complimented on her skill at defeating Alexander Gray paled into insignificance as she realized just how weak she must seem to an experienced dungeon delver like her.
+
+“Now, I must depart before that Death Knight eludes me. Thank you, Aliandra, for the information.” She turned to Lira and bowed. “Great Mother, thank you for the tea and your generous hospitality.” And with that, she turned on her heel and strode off.
+
+As she left, Calen shifted awkwardly, as if he wanted to say something, but lacked the courage to do so.
+
+“Stop thinking and just do it,” Mato said cryptically.
+
+Ali glanced from him to the retreating form of Lyeneru and suddenly she understood. Calen was in the presence of his childhood idol. And he hadn’t been able to say anything. “Go ask her, Calen,” she said. If nothing else, she knew the importance of reaching for your dreams.
+
+Calen leapt to his feet as if he were scared that he would change his mind if he waited for even a second – which might have been literally true – and chased after her. “Lyeneru… uh, Miss Silverleaf…” he began, stumbling over his words.
+
+She stopped and regarded him silently.
+
+“How… can I become a Pathfinder?” he stammered, looking like it had cost him his entire willpower and then some just to get the question out.
+
+“I do not have time for a formal trial. I have a critical report to deliver, and a Death Knight to hunt,” Lyeneru said, beginning to turn away.
+
+Calen’s face fell, disappointment written on it clear as day.
+
+She paused for a moment and asked, “Do you have any tracking abilities?”
+
+Calen’s mana flared quickly in a complex formation before he replied, “The Death Knight is that way, moving east.” He pointed directly south, indicating an easterly direction with a gesture.
+
+Lyeneru raised her eyebrow. “How long can you keep tracking it?”
+
+“As long as I check in on it at least once a day, I think it’s indefinite. It doesn’t take a lot of mana either.”
+
+“Very well, you will join me on this hunt. You will obey my orders exactly without question or hesitation. This is the only way you don’t die. Understand that this Death Knight is an evolved monster that is far beyond your capabilities. We can discuss Pathfinder guild requirements afterward.” She turned to leave again, clearly expecting Calen to follow.
+
+He turned back and waved to them with an enormous grin on his face.
+
+I’ve never seen him look so excited!
+
+Ali’s gaze connected with Mato and Malika. I’m going to miss him.
+
+As soon as they were gone, Malika began filling Ali in on what the council had said, while Mato began to bustle about preparing dinner – seeming a little quieter than usual.
+
+“Bastian was ready to arrest Vivian and Donella for disobeying the law, but Lyeneru yelled at them for forcing us to face Alexander Gray without assistance,” Malika said, giving a colorful description of some of the altercations that had occurred. “It was Jax Hawkhurst that sent her chasing after the dungeon. Conniving bastard.”
+
+Likely that will make the council even more polarized.
+
+For her part, Ali filled them in on what Lyeneru had told her, and then after dinner, she decided to get a head start on the feedback she had been given. She summoned a Luminous Slime and split her awareness between her own senses and those of the monster. She sat while her mind rebelled against the strange, alien senses, trying to get used to the bizarre sensation of ‘seeing’ the vibrations Mato was making as he moved around. She kept her own vision, trying to correlate what she was seeing with her eyes and what the slime could perceive. After a few minutes, she began to get the hang of it.
+
+My intelligence attribute is a lot higher than the last time I tried this. She resolved to keep her unusual perception skill active until she truly mastered it. She picked up Calen’s favorite book and began to read, hungry for ideas to become stronger.
+
+***
+
+Name: Aliandra AmarielRace: FaeTitles: AncientActive Buffs: Empowered SummonerClass: Grove Warden – level 49- Arcane Insight – level 26- Arcane Recall – level 6- Barrier – level 35- Grimoire of Summoning – level 28- Runic Script – level 21- Sage of Learning – level 18- Martial Insight – level 27- Empowered Summoner – level 23- Domain Mastery – level 14- Minion Teleport – level 10General Skills- Reading – level 9- Identify – level 13- Sculpting – level 4- Inspiration – level 8Aptitudes- Languages: Ancient Dal'mohran, Elvish, Dwarven, Common, Draconic, Goblin- Mana (Affinities): Nature, Arcane- Tiny (Racial): The effects of Strength and Vitality are reduced by 50%- Magical (Racial): The effects of Wisdom and Intelligence are increased by 50%- Domain (Class): Your maximum mana increases with the size of your domain, up to +100%- Domain: -10% maximum health per day domain withdrawal. You have Domain SenseAttributes- Vitality: 59- Strength: 234 (+228)- Endurance: 17- Dexterity: 36- Perception: 90- Intelligence: 224 (+51)- Wisdom: 179Equipment- Body: Tailored Cotton Clothing – level 25- Hands: Wooden Bracelet – level 11- Ring: Silver Guild Ring – level 30Resistance: 360Magical Damage Reduction: 20.78%+21% to mana regeneration.Health: 295/295Stamina: 170/170Mana: 3286/5370 (2084 Reserved)Grimoire Imprints1- Stone2- Armor (Body)3- Arrow4- Bone Bracelet (Hands)5- Book6- Bow7- Dagger8- Dal'mohran gold coin9- Shield10- Sword11- Black Bean12- Creeper13- Grass14- Moss15- Mushroom16- Potato17-19- Tree20- Wildflower21- Dragon22- Elemental23- Goblinoid24,25- Kobold26- Ooze27- Wolf28-

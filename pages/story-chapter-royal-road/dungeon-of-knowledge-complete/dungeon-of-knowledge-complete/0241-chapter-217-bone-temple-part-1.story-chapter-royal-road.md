@@ -1,0 +1,113 @@
+---
+id: 78a14fec-4343-5459-a1bf-a9193f4ec433
+page-type-slug: story-chapter-royal-road
+title: "Chapter 217: Bone Temple (Part 1)"
+slug: 0241-chapter-217-bone-temple-part-1
+partOf: dungeon-of-knowledge-complete
+position: 241
+ownLength: 1962
+unit: words
+ownProgress: 1962
+publishedAt: 2025-03-30
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2161334/chapter-217-bone-temple-part-1"
+royalRoadId: "2161334"
+markedReadAt: "2026-06-29T20:19:20.170Z"
+---
+
+The authority structure within a Troll tribe or kingdom is based on an absolute hierarchy of power, with the Tol standing at the top of the chain. Challenges to the status quo are rare, and often fatal, with the loser usually being killed by the winner to eliminate future threats. The complexity stems from the fact that trolls recognize multiple kinds of power: age, wisdom, magical prowess, affinity with the Spirit Realm, crafting, and physical combat skills. In Troll culture, might makes right, but the concept of strength is impenetrably nuanced and complex. The Kir, or champions, stand just below the Tol in the hierarchy and are just as often Witchdoctors, Shamans, or Mages as they are Warriors. Val – Seekers or Teachers – are a presumed orthogonal authority based on wisdom, historical knowledge, and a supposed connection to the ancestral spirits. The Zor are master crafters, artisans, or herbalists and completely independent from the combat power hierarchy, subordinate only to the Tol – and it had been like this since before even the Elves began recording history. In fact, the only recorded change in the Troll culture is the relatively ‘new’ title and position, ‘Mok’ – introduced when trolls encountered elves in the first age and finally acknowledged the importance of political power in dealing with the vastly more numerous races. Individual Trolls can accurately intuit the relative power balance between the various individuals in any tribe – even hostile ones – but this is a frustratingly elusive task for other races.- Excerpt from Cultures of the Modern-Day Kingdoms by Evanna Quillmore the Scribe.
+
+Ali floated down to the heavily churned-up ground of the clearing, taking great care to avoid landing in one of the many puddles of blood slowly seeping into the hard-packed sand. She walked over to where Mato was standing over the corpse of the powerful troll warrior and his giant bone axe.
+
+Kir’mogan. A unique, named Troll. A ‘Kir,’ one of Aman Rak’s champions, no doubt – though how he had become a dungeon boss defied explanation. Ali had never heard of anything like it – nor could she fathom what it might mean, even considering her inside knowledge of how dungeons functioned. I wish I had someone I could talk to about this.
+
+“How are you feeling?” Ali asked, glancing over at her somber friend. They had almost lost him in this fight, and the thought still left her trembling inside.
+
+He looked up at her and smiled softly, but before he could answer, the bone altar pulsed, emitting a dense surge of stored power. Jagged lightning-like arcs of midnight-black death-affinity mana burst through the chest of the twitching troll still nailed to the blood-stained altar top. The surrounding domain responded, drawing heavily from the forest of Grim Totems for… something. The tortured Troll screamed.
+
+“Malika! Help me!” Ali yelled and shot off across the clearing to free the suffering shaman. It was only a couple of steel spikes pinning her to the altar, and Ali had Deconstruction.
+
+Sparks of death magic arced toward her the instant she entered the aura around the altar, and in that moment, she understood the screaming. The magic ripped at her life energy, her mana, and her stamina, sucking it out with such brutality that her entire body and mind spasmed in agony.
+
+In a flash, Malika was beside her, her mana coursing through her body as Ali endured the sparks and arcing drain magic. A powerful wave of death magic burst from the altar, causing a quiver to ripple through the flowers at their feet, and as it swept over them, more mutilated troll corpses rose, some of them ripping their skeletons out of their flesh, spraying blood across her barrier. But the altar did not stop, tearing hungrily at herself, the dying troll, and Malika as they sprinted across the way, growing stronger and stronger the closer they got.
+
+“It’s feeding on us,” Malika gasped.
+
+“And using the energy to summon undead,” Ali managed through gritted teeth. The aura had grown darker and more ominous the moment she and Malika had entered.
+
+Suddenly, all the corpses turned, answering a challenging roar, and she had the presence of mind to mobilize her minions to help Mato right as she reached the altar.
+
+Ali bit down hard against the unrelenting pain, tasting blood in her mouth, but the torrent of healing magic from Malika’s touch repaired her injuries as she fended off the power of the altar.
+
+Ali’s fingers touched the steel spike that had been driven through the poor troll, but in that instant, she changed her plans. Dropping her intelligence, she swapped Empowered Summoner to her Armored Drake and exchanged it for the might of a melee dragon. In moments she plucked all three stakes from the troll and tossed them to the side. “Get her,” Ali said.
+
+“Right,” Malika said, scooping up the troll in both arms. They fled.
+
+The pain ceased.
+
+The black pulsing from the altar subsided to a subdued rippling.
+
+Ali blinked several times, suppressing a rush of ecstasy at the mere absence of the pain. She glanced down at the troll lying unconscious on the ground. Her health was extremely low, but it seemed stable. Ali pressed her lips together and glanced over at Malika, both of them knowing what they had to do.
+
+“One more time?” Ali asked, wishing with all her heart that she didn’t have to go back in there. But the unholy altar could not be allowed to stand.
+
+“Yes.” Malika grimaced but got to her feet, powerful determination in her eyes. “I’ll finish healing her… after.”
+
+Her. The simple word clenched her throat. This is beyond evil.
+
+With Malika holding her hand, the two of them walked back to the dark altar. It activated the instant they approached, arcing fresh sparks of death mana as it tore hungrily at their life. Searing healing power flowed through their clasped hands and Ali gritted her teeth to stop from screaming. The moment she reached it, she punched it – a blow drawn from all her hours of training her minions with Malika. Her fist hit the center of the altar with a loud crack, and it split down the middle. The mana wavered and flickered, and then surged chaotically as it arced across the exposed and fractured runes embedded within the construct. Ali groaned as the uncontrolled outburst crashed against her in waves.
+
+“Deconstruct it!” Malika shouted, her healing magic surging in response.
+
+It was the longest ten seconds she could remember.
+
+The first half of the altar of bone evaporated, taking with it the horrendous pain and death mana, and it left Ali staggering as if she had been unconsciously pitting herself against an enormous weight that was suddenly removed. Cracks and sizzles filled the air as death mana drained from the remaining half, grounding itself in thick ropy bolts of black lightning. Ali grimaced and deconstructed the rest of the abomination as fast as she could.
+
+“Good work!” she heard Calen yell, amidst the dim clamor of battle nearby.
+
+“Is everyone ok?” Ali panted, exhausted from her ordeal.
+
+“Yes,” Malika said, but Ali still snapped her head around to verify for herself.
+
+Calen and Mato seemed to be well on their way to wiping out the sudden horde of zombies and skeletons raised by the altar. Just to be sure, she checked with an Acolyte, but Mato didn’t seem to be very hurt, and they had all her minions tearing through the monsters.
+
+Ali breathed a sigh of relief and followed Malika over to the groaning, barely conscious victim. The poor troll seemed to be wholly disoriented, stripped down to ragged undergarments of soiled and bloody leather. She was bleeding from three puncture wounds, and someone had cut off her arms at the elbows, cauterizing the wounds with fire.
+
+Probably to prevent her regeneration, she thought, suddenly realizing the extent of the torture this troll had been subjected to. Even her health was critically low, presumably kept there on purpose to prevent her from using her magic. Oh, what do we…
+
+Malika’s expression was hard as she reached her hand out for healing, but the troll suddenly began to struggle, eyes widening in terror as she tried to scramble away on her mutilated arms, with legs that flopped refusing to work.
+
+“She’s trying to help,” Ali said, keeping her voice as kind and gentle as she could. The Troll fixed her with a wide-eyed stare, and Malika’s hand brushed her arm. In a rush, healing magic burst through the Troll’s body. She screamed again, but her terror died quickly as she suddenly stared at her rapidly regrowing arms. Her legs twitched and the stake wounds closed, and Malika only released her magic when the Troll was fully healed.
+
+The Troll slumped to the ground, breathing heavily, eyes closed.
+
+“How do you feel?” Ali asked, after a few moments.
+
+The troll responded slowly, her voice hoarse, and Ali’s Sage of Learning took a chunk of her mana. Of course, she speaks Troll. Ali tried Ancient Dal’mohran, and then Elvish, and then all the other languages she knew, but none of them worked.
+
+“How about I make some food?” Mato said, walking over with Calen after finishing off all the undead.
+
+“That might work,” Malika said. “She looks like she hasn’t eaten for a week.”
+
+Ali considered the communication problem. This was definitely one of the original residents of Aman Rak, somehow having survived whatever disaster had destroyed the ancient troll settlement and turned it into a dungeon. Learning what had happened, and what they potentially faced was a high priority for their continued survival in this treacherous place. It also happened to be their mission.
+
+She sent out a thought, calling one of her trolls over. As it approached, their guest stared at it in confusion, eventually making a comment in the strangely harsh tongue of the trolls.
+
+“Tell her you’re my summoned creature, and that you talk for me,” she sent to her Troll, not quite sure how well her images would be translated, and activated her Sage of Learning, maintaining her awareness of her Bone Warrior’s senses just to increase the information she could use to feed her voracious learning skill.
+
+What followed was a bizarre first-person translated conversation between her and the troll via the intermediary of her summoned minion. Sage of Learning burned through her mana at a ferocious rate throughout dinner, but eventually, some of the words began to make sense. It was a surprisingly difficult language, full of gestures and facial expressions that conveyed additional nuances of intention and meaning, but Ali didn’t stop at her rudimentary knowledge, she needed proficiency in order to make sense of what they had witnessed, and the ritual they had disrupted. At last, she received the notification she had been working for.
+
+You have learned the Troll Language.
+
+“Bah, you’re not real. You don’t understand a thing,” the young Troll said, folding her arms across her chest in frustration. “Why am I even talking to you?” She turned her head away from the Bone Warrior.
+
+Just as it had been the first time when Ali had used Sage of Learning to understand Malika, she suddenly understood the basics as Sage of Learning actively sorted and reordered the knowledge in her mind. Just like then, she could tell that speaking was where her proficiency would be most tested. It was time to try out her new language and see what she could learn. Although this time her skills were vastly more powerful, and she had more tools to bring to bear.
+
+Keeping her awareness in her Troll minions’ senses, she spoke. “Hi… I’m Aliandra.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

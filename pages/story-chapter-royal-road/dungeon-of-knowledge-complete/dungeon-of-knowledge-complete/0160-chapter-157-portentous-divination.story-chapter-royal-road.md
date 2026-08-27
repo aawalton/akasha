@@ -1,0 +1,299 @@
+---
+id: 86c401c1-64da-5587-b510-cbcb5f42d130
+page-type-slug: story-chapter-royal-road
+title: "Chapter 157: Portentous Divination"
+slug: 0160-chapter-157-portentous-divination
+partOf: dungeon-of-knowledge-complete
+position: 160
+ownLength: 5449
+unit: words
+ownProgress: 5449
+publishedAt: 2024-11-14
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1903249/chapter-157-portentous-divination"
+royalRoadId: "1903249"
+markedReadAt: "2026-06-29T20:16:24.786Z"
+---
+
+The fastest way to piss off a Troll is to greet them as an equal. Even if you are a Troll.- Dorin Crimsonhammer, Platinum Adventurer. Advice to novice adventurers.
+
+Tol’zerath bowed his head, the ceremonial tusk beads brushing against his broad chest as he closed his eyes. Slipping his hands into the Divination Pool, he released his mana, and the temperature in the whole cave plummeted as the silvery electrum of the ice runes painstakingly etched into the rock responded to his magic. The fickle, capricious tendrils of divination mana drifted from his hands, suffusing the pool, and tugging at the edges of his mind.
+
+Divination magic would fight you, writhing and twisting like a slippery snake if you sought to bend it to your will. But over his many centuries of life, he had come to an understanding with it, and gradually turned it into the ally that had won him the title of the Tol of Telim Gor. It could not be forced – would not – but with patience it would show him what he sought.
+
+With the swift suddenness of a deep-ocean predator, his magic reached up and dragged his mind under, and with its unexpected urgency came his first glimmers of concern.
+
+It hasn’t done that in decades.
+
+His mind plunged through the boundary with a shocking chill but then emerged into the familiar gray, colorless world of the Spirit Realm above the familiar mountain temple of his tribe’s nemesis – Aman Rak. He had scried upon the Trolls of blood and bone many a time, seeking an advantage in their endless skirmishes and disagreements, but today the ancient buildings nestled on the jungle-covered slopes were ignored.
+
+His attention was immediately captured by the huge cloud of dark, shifting miasma on the horizon, rapidly growing closer. Even his heart, having seen the battles of ages, began to hasten in response to the ominous wall that began eating up the sky as it rapidly bore down on him. His sight could not penetrate it, and all he could make out were shadows and shapes lurking in the darkness.
+
+The world flickered, and suddenly the miasma appeared right before the gates of Aman Rak, huge, towering up to fill the sky. An Impression of Significance? Future Echo? Below him, arrayed in full battle paint with weapons at the ready, stood every single adult Troll of the Aman Rak tribe, the gleaming magic of blood and bone adorning their bodies, only barely less impressive for being washed out and gray.
+
+The miasma rippled and shadows flew, charged, and crawled within the seething thunderheads. Skeletal Wyverns and Dragons, Wights of bone and death, and all manner of zombies, abominations, and skeletal undead. They charged, a torrent unending, with unearthly shrieks and howls – answered by the booming battle cries of Aman Rak’s Giant Troll Berserkers.
+
+Tol’zerath flinched backward, trying to avoid the wall of miasma, cloaking his presence with a twist of ice and divination magic. It may be an echo of a potential future, but this was the Spirit Realm. Everything was real, even if it wasn’t, and dying to a future echo of an undead dragon would be just as disastrous as in the real world.
+
+The clash of steel and bone was deafening, as the roars and stomping of the Blood Berserker Giant Trolls shook the battlefield as their gargantuan bone and steel greataxes bit into unyielding undead flesh and bone.
+
+But the undead horde did not abate, pouring more and more monsters into the fray, like an unassuaged ravenous tide. He saw Troll warriors fall, shamans bitten in two, and then even one Giant Troll Berserker crashed to his knees, followed soon by a second.
+
+“Arise.”
+
+Tol’zerath shivered. The voice bore a sepulchral chill from beyond the grave, that froze even the heart of a hardened Troll Ice Mage. Necromancer! To his horror, the first fallen Blood Berserker stirred – and then got back to his feet. Its flesh withered and darkened, the white of bones jutted through the torn, blackened skin, and when it roared the entire battlefield faltered at the horror of an undead Giant Troll. It swung its axes, and its former brethren were sent flying from the shattering violence of its blade.
+
+Tol’zerath’s vision snapped. Disoriented and dizzy, he gasped, finding himself back in his ice cave. Gradually, he reunited his mind with his body and returned his awareness to the darkness of the cave, the glow of the runes, and the silent vigil of his servants.
+
+What was that? When was that? Tol’zerath sat trembling in the darkness, greatly troubled by the visions he had seen in the waters. It had been centuries since a divination had shaken him so much, and it would not do to show weakness before his servants.
+
+Slowly, once he felt he had regained control of his trembling arms, he lifted his hands out of the Divination Pool and removed his Mask of Scrying.
+
+The centuries of honorable battle between the Telim Gor and the Aman Rak meant nothing in the face of an inexhaustible horde of the dead. The fact that he could not penetrate the miasma, nor see the face of the voice within it, meant that something powerful was blocking his sight.
+
+The only possibility was someone of a high enough level to deny a Tol. There were only two within the Aman Rak: Tol’brekk their headman, or Kir’vella the champion. Kir’vella was powerful enough that in a lesser tribe, she would easily have been Tol. But neither would be capable of anything on the scale he had just witnessed.
+
+The voice. Something else moves in the shadows. He glanced at his servants, who were gazing at the floor, shivering in the chilling remnants of the mana he had used for his ritual. He could sense their worry in the glances and shifting when they thought he wasn’t watching. They knew he had returned angry from his spirit journey, but this time, his preparations had been perfect. The Divination Pool had been tested and was filled with the purest mana-purified water. His ritual face paint had been checked multiple times, and the runes inscribed into the ground around him within his cave were still filled with his unique blend of ice and divination mana. Whatever he had seen was the truth, though, as with all divination, it might not be fixed yet.
+
+Or it could be… a dungeon. He snarled as the unwanted thought rose within his mind, and an icicle snapped off his left tusk, falling to the ground and shattering with a musical tinkle. A ripple of cowering passed through his assembled servants. This thought worried him the most, a dungeon that could consume Aman Rak would be a fearsome thing indeed, but he was forced to consider the possibility – the mana of a powerful dungeon could easily obscure his scrying. The world had not seen such a horror since The Breaking.
+
+But who was it? That voice? It had not been a Troll. I must divine the nature of this foe, forthwith. Such power is… disturbing.
+
+Slowly, he rose to his feet, stretching his back as his mind raced with the tasks he must accomplish, the new plans he must set in motion before it was too late.
+
+“Get Mok’freja,” he commanded. His servants scrambled to do his bidding, not even bothering to try and preserve their pride, not knowing why he was so angry. No, this time they had done their jobs. Now, however, he was faced with the distasteful task of treating with the enemy, and worse, involving the lesser races.
+
+Long Ears. He spat on the ground, turning it to ice as he released his mana in frustration. There was no avoiding it. Their customs demanded it – tradition stronger than steel or law – and by the sight of his vision, if Aman Rak fell, Telim Gor would be next. Without the aid of Ciradyl, they would quickly fall against this horde. He was as proud as any Troll, but he knew an overwhelming force when he saw it.
+
+The creaking of new ice announced the Mok to his cave.
+
+“You will take a delegation to Aman Rak,” Tol’zerath commanded as he regarded her closely, and offered her a glimpse of his vision. “You will warn them of the army of the dead.”
+
+“And you?” she asked, making the braids adorning her slender tusks quiver with her intensity.
+
+“I will go to Ciradyl and warn the Long Ears,” he spat. He had had enough of the lesser races’ ignorance of the proper standing of the Trolls. “They had better send someone of status to treat with me this time.”
+
+“You would break the treaties? Trample the customs? Aman Rak will have our heads on pikes outside their gates before listening to us,” Mok’freja growled.
+
+“You will make them listen.”
+
+She snarled at him, ice flashing into being all across her arms and shoulders before shattering and falling to the floor. A potent display of her power. She said, “Yes, Tol’zerath!”
+
+Tol’zerath smiled. Mok’freja was ambitious, but she had that most important of Trollish attributes – she was strong. Yes. He had picked well. They will listen.
+
+Garret sat quietly at their table in the darkest corner of the dimly lit ‘Pig ‘n Poke’ tavern, watching as Caspian led the young woman toward their table. Even without the daggers and leather, or his Identify skill, he could pick out the assassin simply by the way she moved, always balanced on the balls of her feet. Her eyes, the only visible part of her face behind a mask, were constantly scanning the room.
+
+Rogue – Human – level 42
+
+Shame about the level, but at least this one looks competent. She wore her blonde hair in a braid, and she was clad in tight, form-fitting black leather armor complete with the mask that obscured her entire face from just below her eyes – leather of a quality he was certain had to be imported from elsewhere. If this shithole town had crafters capable of that quality leather, he was certain he would have heard of it already. There were daggers and throwing knives fastened to her armor in various places, but he was certain they were for show – distractions – and her real weapons were probably stored in one of the two rings she wore.
+
+As taverns in the seedier parts of town went, this one was surprisingly good. Nobody came to disturb them as they conducted their business in the back corner of the room. Garret moved his untouched ale slightly. He had purchased it to keep the proprietor happy, but he wasn’t about to drink anything that smelled like piss. He glanced at his companions with contempt – it was good that they were left alone, Dak’resh and Ixora usually attracted a lot of attention wherever they went.
+
+Dak’resh was a Kel’darran spear warrior, and quite frankly, the lizard annoyed him constantly. Why Caspian had hired him, he never knew. Sure, he was powerful in a fight wielding his enormous weapon, but in every other way, Garret despised the reptile. Just because he was a melee fighter didn’t mean he had priority on all the weapons they looted. If he had to explain seniority to the creature one more time, he was going to insist that Caspian kick him out.
+
+He sighed. His gaze drifted to Ixora, and he hastily caught himself and looked away. The woman was beautiful, sure, and she was fond of wearing very low-cut and tight tops, but frankly, she terrified him. Her style of combat, using Mind Control and Mind Flay, was bad enough, but she had more than a few cards short of a full deck. She had mind-controlled him once when he had propositioned her, and he had found himself naked and trying to drown himself in a toilet when he recovered his senses. Ever since, he had given her a wide berth. He had no idea how Caspian kept her in line, but for some reason, she listened to him.
+
+“Hey, this is our contact for the job,” Caspian announced and the two of them took the remaining empty seats at the table. Garret didn’t know how he did it, but Caspian had a nose for good jobs, always finding one within the first day of entering town. Good jobs too, the kind with a steep bounty and a certain amount of discretion required. It was too bad he was convinced his good nose extended to his gambling habit, but he assumed that was likely the reason they were always doing profitable jobs.
+
+“This is the mark,” the woman announced, getting right to business. Her voice was light and soft, and his eyes fell to the picture she dropped on the table. It was a humanoid monster-race creature with pointed elf-like ears, green hair, and amber eyes. “She is a Fae, about this tall,” their contact said, holding a hand up a little below the height of the tabletop, “and she is the dungeon lurking below Myrin’s Keep. The job is to eliminate her and disrupt the Adventurers Guild from conducting a class advancement ceremony at her shrine tomorrow. The bounty is one hundred and fifty gold, paid on proof of death. My boss wants it done quietly and you leave town immediately after.”
+
+One hundred and fifty? That was most certainly a handsome reward for what seemed like a simple enough job. Someone must be desperate.
+
+“Level? Known abilities?” Garret asked.
+
+“Last she was seen, she was level fifty. She can summon several level forty plant elementals, and mostly her dungeon is a pushover. Just low-level Kobolds and Slimes besides her personal minions.” The woman pushed another paper into the center of the table. “Just enter here through the sewers, I’ve marked the path to the shrine they will be using.”
+
+“What about the others?” Ixora asked, her sultry voice grating in his ears.
+
+“We don’t care, you can kill all of them if you like, but we won’t pay for the extras.”
+
+Garret ignored Ixora’s evil laugh and instead studied the map while Dak’resh asked stupid questions and Ixora salivated over the opportunity for a bloodbath. Everyone in their group was higher level than the mark – just the kind of odds he preferred – and they had a powerful combination of abilities. His Feral Puma synergized well with Caspian’s rogue class skills, and he could always pop out of his form to use his healing magic if necessary. He was not much of a healer, but just having the option had saved their group from several sticky situations. This job was going to be a walk in the park.
+
+Kobolds… he almost laughed out loud. Fucking moron, how is this Fae still alive?
+
+Ali stared at the tunnel entrance in frustration. She had expected one, perhaps two Shards of Flame, but it seemed the dungeon-rage had roused the Emberforge Mines to spawn a continuous stream of Elementals that seemed intent on wiping out all life in the jungle and conquering the whole area with their domain of fire and lava.
+
+I probably would have too, she thought, considering that the dungeon must have spawned inside the mine centuries or more ago, and it had probably become trapped by the enormous pile of rubble that had collapsed on it during the disaster. The moment Ali had opened a path, it had begun expelling Elementals in a continuous dungeon-break. Although, it has lava… she thought – realizing that this dungeon had an effective tool to break out of its imprisonment. Perhaps it's not as smart as Naia? Could I use that to my advantage?
+
+“That fire aura is a real problem,” Ali said. Even with their racial resistance to fire damage, her rogues died every single fight, to the point that she had already stopped resummoning them, and instead began experimenting with other varieties of Kobolds. A second big issue was most of her minions were far too low-level to be going head-to-head with a level forty elemental, and she wasn’t about to waste her scarce mana on Forest Guardians who would just die due to their vulnerability to fire.
+
+“The archers seem to work a bit better,” Calen said. “We killed it a little faster this time.”
+
+“Yep, but now I need to make more arrows,” Ali muttered. She finished resummoning her dead shaman while she studied the tunnel that she had bored through the rockfall, unleashing the dungeon upon them. Every time an elemental came through there, it seemed to broaden the fissures and spread the lava flows further out into the jungle, to the point now that it looked a little like a glowing orange river delta surrounded by the blackened remains of the trees and plants that had grown there.
+
+“Let’s go inside and see what’s in there,” Mato suggested. It was the first time they had a little bit of a break between fights.
+
+“I’m not sure that’s a smart idea,” Malika said, eyeing the blisteringly hot tunnel.
+
+“I think scouting it out is a good idea,” Calen countered. “We need to know what’s in there if we want to formulate a strategy.”
+
+“Hmm, ok,” Malika relented.
+
+They all followed Mato through the rock tunnel, trying to pick their way around the lava flows as best they could. As soon as Ali stepped through the far end of the tunnel, she felt the searing heat of the dungeon’s domain hitting her like a wall. She yelped as her hair spontaneously caught alight and grimaced as her skin began to crisp and blacken, filling her nostrils with the disgusting stench of her own flesh cooking.
+
+“This is not good,” Malika said, pulsing her healing magic through Ali and herself. “Hot enough there, Calen?”
+
+“Yes, while I like a good roast, I prefer not to become one,” he chuckled.
+
+The cavern was broad but with a low ceiling of jagged rock – some parts of which looked artificially hewn from ancient stone. Everything glowed with the dull orange light radiating from several prominent lava flows, but it was the searing red of fire-affinity mana that caught Ali’s eye – much denser than the mana the elementals had managed to spread about outside.
+
+“More elementals,” Calen whispered, drawing Ali’s attention to the far end of the cavern where she could count no less than ten glowing red forms, drifting about in seemingly random patterns. As she studied them, one turned and began to float toward them.
+
+Mato roared, slamming his hefty bulk into the elemental as soon as it got close enough. His fur ignited like a torch, burning continuously as the healing magic from Ali’s Kobold Acolytes repaired it just as fast as the flames consumed it. But, from the moment combat was engaged, Ali could already tell it wasn’t going to go well – less than five seconds in, her Acolytes immediately used their powerful Devotion skill.
+
+Ali’s skin was crisping just from the ambient damage from being inside the dungeon’s domain, and the moment the Shard of Flame was engaged, their entire group began tanking volleys of Firebolts launched in all directions. Her barrier magic flickered a golden accent to the angry red of flame, but there was no way she could cover everyone, and her minions began to fall.
+
+First, the shaman collapsed, and then each of the archers, one by one, as she was forced to prioritize the three Acolytes by keeping consistent barriers floating in front of them. With their natural racial resistance to fire and the copies of Lydia’s Tailored Cotton Clothing, her Acolytes were her most robust minions.
+
+“We need to run!” Malika shouted. “I can’t keep up!”
+
+“Go!” Calen shouted, agreeing with Malika.
+
+Mato roared in frustration, but he was right alongside as Ali turned and fled, flying down the tunnel to keep up with her friends and throwing up barriers behind them as the Shard of Flame chased them out into the jungle.
+
+“Hide!” Calen shouted, leading them sideways behind a tree as three intense beams of light scored the ground, ripping through the rock and charred logs. As they all ducked behind the tree Calen had picked, the Shard of Flame burst from the tunnel and immediately fired its Firebolts into the air, striking the trio of Coruscant Rays that had been flying past right at that moment.
+
+“Smart,” Malika whispered as they hid, watching the battle unfold. The Shard of Flame was a higher level, but there were three rays, and their beam attacks were powerful.
+
+“What are we going to do?” Ali asked. It was clear that the dungeon was not going to let up on making elementals to send out into the jungle, and just as clear that they couldn’t let it have free rein in the area.
+
+“Can’t you just… dungeon it?” Mato asked, waving his hand in an obscure gesture.
+
+“What do you mean?” Ali asked. She opted to wink at him. “Are you being rude, because I warn you, this friendship is on rocky ground.”
+
+He winced at the admittedly terrible pun. “Well, that’s a dungeon and it’s continuously spawning monsters. But you’re a dungeon too, right? Can’t you do the same thing?”
+
+“I think it’s stronger than me,” Ali muttered, not relishing the idea of standing here in the hot and muggy jungle summoning monsters continuously. Unless… She had unlocked Domain Respawn, and her domain extended quite far into the jungle. It was just a matter of mana.
+
+“That’s a good idea, though,” Calen said. “If it keeps sending elementals one at a time, you could potentially outnumber it.”
+
+“What do you think I should make?” Ali asked. Her attempts to use melee monsters were ineffective – especially against the higher-level elementals and their potent fire auras.
+
+“Archers. Definitely ranged attackers,” Calen suggested. “We need to find you some Frost Dragons or something.”
+
+“Fliers,” Mato said – pointing to where the Coruscant Rays were still holding their own.
+
+“I have Wyverns,” Ali said. “But I don’t think the poison will be effective.”
+
+“Do you have anything higher level?” Malika asked.
+
+“Only the Forest Guardians,” Ali said, “But they have a vulnerability to fire.”
+
+Wait, don’t I have… An old memory popped into her head. A strange memory of her wandering the jungle in a daze, summoning monsters at random. Quickly, she paged through her Grimoire, stopping at the Goblinoid imprint. She studied it carefully.
+
+“Something interesting?” Calen asked.
+
+“Hobgoblins…” Ali answered, a sudden cascade of ideas pouring into her head.
+
+“Ooh, that might work,” Calen said. “They get incredible bonuses for fighting in groups – the bigger, the better.”
+
+“Yes, I just don’t have lots of mana,” Ali said, juggling the requirements as she struggled to figure out how to make it work. “I don’t think I can afford a boss, and I’m not sure I can make enough respawnable monsters for this to work. Unless…”
+
+Unless I can make the boss spawn them… Quickly, she checked with her Domain Magic skills and ran the calculations. I can’t afford a raid boss, but a regular one might work. Especially given that she could make minions for it and have it hold the reservation for them. This is perfect!
+
+She opened her Grimoire and began summoning. It required unsummoning her entire library guard and calling in some unbound minions from the forest cavern, but she needed an army.
+
+Warrior – Hobgoblin – level 41
+
+Ali studied the tall, muscular female goblin her Grimoire had produced. She had crimson skin over muscled biceps and shoulders and sported a thick topknot of long black straight hair. The Grimoire had automatically summoned a decent-quality leather jerkin and pants and equipped her with a shortsword and shield combination.
+
+“Not bad,” Ali said, pursing her lips.
+
+“What are my orders?” the Hobgoblin asked, glancing around at the jungle and the scorched earth with calculating eyes.
+
+“You will protect this area,” Ali said. “But first, let me give you an army.” She ran her calculations one more time, had Calen review her figures, and then wielded her Grimoire.
+
+Acolyte – Kobold – level 21-23 (Holy) x3Archer – Kobold – level 21Shaman – Goblin – level 18-19 (Lightning) x2
+
+Ali smiled and then reached out to rest a hand on her Hobgoblin’s thigh.
+
+Domain Respawn applied to Hobgoblin Warrior.Boss Domain Enhancement applied to Hobgoblin Warrior.
+
+Her Hobgoblin required goblins for its bonuses to apply, and she had decided to seed her army with two shamans. On the other hand, healing against that fire was essential, and her Kobolds had innate fire resistance. Not everything can be a Goblin.
+
+Select or create minions: 123 levels remaining.
+
+Ali quickly assigned her Kobolds and shamans as her Hobgoblin’s new minions.
+
+Minions assigned.
+
+Next, Ali chose the ability that had so frustrated them in the Skeletal Wyvern fight – summoning. If she didn’t have enough mana to support a horde of goblins, she’d just make her newest boss do it for her. Sure, they’d unsummon automatically sometime after the fight like the bone elementals the Wyvern had summoned, or the bats her own Forest Guardian summoned. Neither monster had a summoner class, and couldn’t leverage a reservation to make the summons survive beyond the initial infusion of mana. But the longer the fight went, the more goblins there would be. From her measurements, her Forest Guardian’s bats lasted almost an hour. She had also provided healing to ensure the goblins didn’t get killed outright.
+
+Summoning (Goblinoid) applied.Domain Enhancement complete.Your reserved mana has increased by +1134.
+
+Ali did have a little spare mana, so she summoned a handful of low-level Goblin hunters and a Kobold Bone Mage and attached them separately to the domain nearby. Then she flew down two Giant Bats and did the same. The strain on her domain was immense, but although it felt uncomfortable, it held up.
+
+“Bats are a good idea,” Calen said. “Their sonic attacks should work well.”
+
+“I hope so,” Ali said. Even with the fact that she had repurposed the bats, and unsummoned the guards she had in the library, it was still an extremely expensive undertaking. She glanced at her paltry fifteen hundred remaining mana, worried about how she was going to function. How do other dungeons manage? It seemed that filling a dungeon with monsters was expensive enough, but the moment she tried to use ones that had high enough levels to afford good protection, her mana simply evaporated. But I guess I am a little different, she thought. Most dungeons would probably not need mana free to mount expeditions into other dungeons – instead, they would probably just trigger a dungeon-break to free up mana for anything urgent or new.
+
+As soon as she had her new minions summoned and placed, all attached to her domain mana in order to take advantage of her automatic domain respawn, she placed a large barrier blocking the spawn location from the tunnel. After a few moments of thought, she summoned several quivers of arrows and put them nearby, attaching them to the domain too. Her monsters respawned with all their gear, but a couple of respawning sets of extra arrows would probably be essential, especially if the archers managed to survive for a long time.
+
+For her final act, mostly because they did not cost her any reserved mana, she inscribed two inspiration circles and two restoration circles near the spawn location, marking them with rocks so that her minions could find them easily, and erected a few more permanent barriers strategically for the archers and inevitable stone throwing Goblins to use as cover.
+
+“Now what?” Mato asked.
+
+“We wait for another Shard of Flame,” Ali said.
+
+They did not have to wait for long. Angry red light and a sizzling sound from the tunnel heralded the arrival of a fresh Shard of Flame.
+
+“Go kill that elemental,” Ali said. Then, recalling her first encounter with a Goblin Warband, she added, “Oh, and don’t summon any fire mages.”
+
+Immediately, her Hobgoblin took charge, barking orders in Goblin, ignoring the fact that the Kobolds couldn’t understand her. But the Kobolds were canny creatures and easily understood what was required of them.
+
+Ali and her friends hung back and waited, observing the fight.
+
+There was a sizzling crash as the Hobgoblin engaged the Shard of Flame with her sword and shield, flanked by the two shamans who immediately dropped their totems and began attacking with lightning enchanted weapons.
+
+A thrum of power came from Ali’s Grimoire as the boss borrowed her skill and five circles of mana appeared on the ground in quick succession. Five Goblin Skirmishers appeared, one at a time, clad in scraps of leather armor and bearing pouches of stones. They all cackled and scrambled for the barriers Ali had placed, taking cover and immediately launching their rocks with hooting calls.
+
+“Holy shit,” Mato said quietly at the sight of the Hobgoblin’s blade accelerating.
+
+“Yes, Goblin horde buffs are no joke,” Calen observed. “Looks like haste for the commander, and a heck of a lot of it.”
+
+“Yup,” Ali said, verifying by checking her boss’s combat status. “They’re getting some flanking bonuses too.” As arrows began to fly from the back, Ali glanced over to find the Kobold Acolytes all clustered around the Inspiration circles, healing rapidly. I didn’t even have to tell them… was that Martial Insight at work? They were automatically using the same strategy she had drilled into them from the Skeletal Wyvern battle.
+
+Mana flickered, and a pair of level fourteen Goblin Hunters appeared as the Hobgoblin augmented her army with her Summoning Domain Magic.
+
+“They’re not dying,” Malika said. “How are they so robust?”
+
+“The boss has a five times multiplier to all her resources,” Ali explained, remembering that Malika hadn’t been there for the first boss she had summoned. Or even the second.
+
+“Health?” Malika asked, staring at the Hobgoblin incredulously.
+
+“And stamina and mana,” Ali said. “Her immediate minions get it too.”
+
+“So that’s why those shamans are still standing in the fire aura without dying,” Malika said.
+
+“Yup, and the Acolytes have the mana to keep going.”
+
+“Bosses are ridiculous,” Malika observed.
+
+“The raid ones get ten times,” Calen noted. Malika just coughed.
+
+Ali studied their tactics for a while, but it soon became clear that her minions would likely be sufficient to kill the monster. Mostly on the strength of her Hobgoblin being able to tank it, and most of the rest of the monsters standing at maximum range beyond the reach of the flames.
+
+Several of the lowest-level Goblin Skirmishers lay dead already, victims of stray Firebolts, but the Hobgoblin simply summoned more. Their purpose was really to provide enough of a horde to boost the Hobgoblin’s unique aptitudes.
+
+“Looks like they have it,” Malika said, nodding her approval.
+
+“Not nearly as fun, though,” Mato grumbled.
+
+“You enjoy being set on fire?” Malika asked, raising a skeptical eyebrow.
+
+“Err… well, you see…” Mato muttered.
+
+“This is good for now,” Calen said. “It should hold the Elementals back while we prepare. We need fire resistance if we’re going to go any further into that mine.”
+
+“How do we get that?” Ali asked. The combination of Lydia’s armor and the orb she was carrying granted her nine hundred resistance and a little more than thirty-eight percent magical damage reduction. But even with all that, the dense fire mana of the dungeon’s domain had lit her like a torch, burning her rapidly. She felt a momentary pang of jealousy that her domain mana wasn’t nearly that powerful – but if it were, she wouldn’t be able to have her friends in her space.
+
+“There are some potions we can try, I think I saw some at Pretty Powerful Potions,” Malika said. “The rest of it probably needs to come from custom gear. That’s not going to be cheap.”
+
+“Well, we probably need to talk to Thuli, so he knows it’s going to take a bit longer than we expected,” Ali said. “Maybe we can ask him about fire resistance? How about Weldin and Lydia too?” Expensive she could handle, even with the worries about annoying Hadrik Goldbeard, and upending the town’s economy – in this instance they would be buying the products of the crafters’ or merchants’ labors.
+
+Your Skirmisher – Goblin – level 3 has died.Your Skirmisher – Goblin – level 1 has died.Your minions have defeated Shard of Flame – Elemental – level 41 (Fire).
+
+“Oh, another essence,” Malika said, darting over to snap it up.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

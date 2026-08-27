@@ -1,0 +1,243 @@
+---
+id: 6bf073a1-402e-5987-b3c8-d1b9d4c9d2b0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 129: Necromancer"
+slug: 0131-chapter-129-necromancer
+partOf: dungeon-of-knowledge-complete
+position: 131
+ownLength: 4370
+unit: words
+ownProgress: 4370
+publishedAt: 2024-09-12
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1799944/chapter-129-necromancer"
+royalRoadId: "1799944"
+markedReadAt: "2026-06-29T20:31:24.050Z"
+---
+
+Calen hovered high over the northern battlements, watching the Torian army finish encamping in the early twilight. The details stood out, clearly visible with his enhanced vision.
+
+That looks like the commander’s tent. And those must be the cooking areas. He continued taking mental notes as he studied their deployment. After about ten minutes, when he began to run low on mana, he spiraled downward to land behind the thick, magically reinforced stone walls. Retrieving some paper, he quickly drew out a detailed map of the enemy camp from memory.
+
+He knew he wasn’t the only scout observing the enemy position, but there was significant value in multiple reports, many of the scouts had different perception abilities after all. After handing his report to an officer, he once again took to the air. His wings of light shone brightly in the fading light.
+
+Not the best skill for staying hidden. He didn’t mind though, he loved flying. Besides, his Eyes of the Archon allowed him to observe from much further than the longest range of the Torian archers and mages. His graceful sweep through the air took him over the town, which rapidly shrunk as he gained height, and out past the south wall.
+
+Now, to find that necromancer.
+
+None of the other scouts had found anything to the south, but after several trips in various directions, he began to understand why. It was easy to see the destruction the undead had left, from blighted areas to felled trees and destroyed farmhouses. But he could not find a single skeleton or zombie. Each time he thought he saw a sign, he would fly in for closer examination, but nothing conclusive could be found.
+
+They must be using concealment magic. He puzzled over the problem of the missing enemy as he flew east to check on the Myrin River, but found no signs that it had been forded or had been used for rapid transport.
+
+Frustrated, Calen finally gave up. With the last of his mana, he powered his wings, accelerating his flight to the fastest he could go. He shot upward, enjoying the rush of air on his face and the sight of the world rapidly receding beneath him.
+
+It looks almost peaceful from up here. Myrin’s Keep had been reduced to a tiny circle beside the glistening thread of the Myrin River. He circled idly and his thoughts drifted to Ali’s dilemma. He had been excited about the possibility that his magic could help her – could give her the edge she needed to counter the stealth of the assassin that had so shaken her. But in the end, it seemed it simply wouldn’t work. It had been a great idea, but mana incompatibility was notoriously hard to overcome. He was certain she would be able to solve it, given time – she was one of the smartest people he had ever met when it came to understanding magic. He just hoped it would be soon so she could return to her typical happy self, brimming with curiosity about the world and magic around her.
+
+Wait… what’s that? In his distraction, his eyes picked up an unnatural and subtle pattern. From this height, he could see a roughly straight line running from the far south all the way to near the town. Something he hadn’t noticed from closer. Quickly, he downed a mana potion to give him more time to study the strange phenomenon.
+
+It looks like a path that someone tried to erase. He studied it for a while. Or something heavy was dragged… all the way from the Lirasian forest. His brain suddenly recalled the skeletons from the logging town they had raided. Some of them had been cutting the wood of the giant trees and making something, and now they were approaching a town protected by walls…
+
+Siege weapons! They were building siege weapons to crack the battlements… and they dragged them all the way here under a concealment spell! Quickly, he dove toward the town, gathering speed as he searched for the garrison commander and his aides on the battlements. They need to know this.
+
+Ali returned to the library to find Ryn curled up on a comfortable-looking couch, deeply engrossed in a book. There were several large couches spread around near the area where they had been camping recently on the top floor of the library. A couple of wooden tables with chairs, and even an elegant-looking tea stand with a steaming pot of boiling water. Ali was delighted to see a few of the tables and chairs were sized for her.
+
+Probably made for Gnomes, but they’re perfect! She had just spent several hours making arrows to fill an emergency quest filed at the guild and she returned to find her library significantly more livable – cozy, even.
+
+“Wow, this is great, Ryn!” she exclaimed. She had expected maybe a couch, but Ryn had outdone herself.
+
+“I hoped you’d like it,” she said looking up from her book on Elvish grammar. “I had to buy a storage ring to get everything down here, I hope you don’t mind.”
+
+“That’s fine,” Ali said, “I’m sure it will be very useful.” She hopped up on the couch and even her tiny body sunk into the comfortable cushions. “This is really soft and comfy,” she said, patting the couch.
+
+Ryn smiled, “Would you like some tea? They had a special discount, so I got a good selection.”
+
+“With all the food shortages?” Ali asked, incredulously.
+
+“I’m always looking out for good teas,” Ryn said. “I got this batch a couple of weeks ago.”
+
+Ali nodded and watched Ryn prepare her a cup. Over to the side, she saw one of the free-standing bookcases had been wiped down and cleaned, and the rest of the books Ali had duplicated earlier were arranged neatly on the shelf. Let’s make it look a little more like a library. Ali retrieved all the books she had collected from her ring and placed them on the table.
+
+She accepted her tea from Ryn and took a sip, savoring the flavor. “The tea is a lovely touch, Ryn.” She felt quite elegant and cultured sitting in the library sipping on her cup of aromatic tea. She pointed to the small pile of books on the table. “It’s not much yet, but it should help fill our first shelf.”
+
+With a wry smile for Ali’s chagrinned realization that they were only starting out, Ryn carefully arranged each of the books on the shelf, clearly using a structured ordering system even though there were only a few books.
+
+Ali admired the shelf. It’s tiny, but finally, there are books in the library again. She shivered lightly, a frisson of harmony. It feels so right.
+
+“Wow, this is fancy,” Malika said as she entered the room.
+
+Calen and Mato followed her in, and everyone had to test out the couches. Ali smiled until her cheeks hurt, happy to be part of their excitement.
+
+***
+
+Ali stood high upon the southern battlement overlooking the eerily swirling mist blanketing the fields below. Her small army of Kobolds gathered closely around her like a contingent of scaled bodyguards, unaffected by the chilly dawn breeze. When the orders had come down from Commander Brand, they had requested the Adventurers Guild supply five mages or archers to bolster the ranged defenses in this section. Vivian had sent her. Apart from a pair of Acolytes, she had spent the early hours of the morning summoning Fire Mages – if this was to be anything like the Goblin siege, she would want both the range and efficiency of Firebolts, and the area damage of their Fireball spells. However, her focus was not on her minions, but rather upon a shifting anomaly in the mana out in the fields below.
+
+Arcane Insight told her there were unexpected strands of mana – tendrils emerging from an unknown source – which in and of itself was weird enough. But the nature of whatever magic had been used down there was shifting and vague, as if the spell were intentionally obscured. Even Sage of Learning seemed alert to the strange phenomenon, slowly nibbling away at her mana as she studied it.
+
+This must be the thing Calen mentioned. What’s going on under there?
+
+Slowly a pair of Calen’s orbs of light drifted out over the battlements, meandering toward the formation like a blind person searching for a book on an unfamiliar table. Back and forth they bobbed, drawing further and further from the battlements. Slowly, with a twisted shimmer, the grand magic formation faded, and a horde of dark shapes emerged from the mists.
+
+“Undead!” The cry rang out from the battlements as the archers and mages caught sight of the enemy.
+
+Arrayed in ragged ranks across the field as far as her eyes could pierce the mists, a vast sea of shambling gaunt shapes slowly materialized in the gloom. She heard a low, chilling moan that raised the little hairs on the nape of her neck. Behind the undead horde, she counted a dozen giant, crudely fashioned wooden catapults – with more emerging as the mists rolled back – manned by packs of larger skeletal warriors and zombies. Small skeletons stationed in front of the catapults worked their mana into a magical barrier or shield of sorts, with auras of magic that glowed and flickered eerily in the mist. Dotted through the rank and file were the enormous figures of several greater undead, seeming to be lieutenants or generals – including a second enormous giant troll zombie, perhaps even more massive than the one they had faced at the logging village.
+
+Right on the edge of the forest, upon a small grassy hill behind the endless ranks of undead, a black-robed figure sat astride a skeletal horse, regally surveying his horde. Ali could make out the shapes of several bowed and blighted people standing still as statues around the horse, wearing collars that seemed to be tethered to the robed figure by black chains of ominous death mana. All about the man, the plants were wilted and blackened, as if his very presence were enough to end them.
+
+Alexander Gray. It can’t be any other.
+
+The southern battlements of Myrin’s Keep rang with gasps and shouts as the defenders noticed the undead army materializing in the morning mist. The robed necromancer raised a hand and, with a magically amplified voice that echoed coldly across the entire breadth of the town, he commanded, “Commence firing.”
+
+The Skeletal Warriors on the field sprang into action, loading a catapult with a rock that was several times larger than Ali’s entire body. In surprisingly short order, they had the lines tensioned and a clack resounded as the firing mechanism released. The huge rock soaring through the air was no less terrifying for having been launched from a mundane catapult than if it had been conjured with magic. The massive boulder seemed to hover, momentarily weightless at the peak of its trajectory, suspended above the field, before it crashed down, shaking the magically reinforced stone of the battlement to its foundations. Ali stumbled, reaching out to the trembling stone to catch herself.
+
+In the aftermath, as the undead uncaringly began to haul another boulder into place, she could hear the distant shouts and cracks and thumps of artillery magic. That’s from the north gate. It was clear that the Torian army was coordinating their assault with the necromancer’s undead army, and she just hoped that the garrison was not spread too thin.
+
+“Return fire!” she heard the officer relaying their orders.
+
+Too far for fireballs.
+
+“Firebolts,” she commanded.
+
+As one, Ali’s little army of vengeful Kobolds all began to cast their long-range firebolts in the direction of the catapults. The volley of fire magic crashed into the shields maintained by a continuous group-sorcery wielded by the skeleton mages arrayed in front of them, and the spells of her minions were quickly joined by those of the other mages and archers along her section of the wall, creating a multicolored stream of magic and projectiles thundering against the enemy barriers.
+
+Off in the distance, at the opposite end of her battlement, Calen’s incandescent arrows joined the barrage, his light magic so unique it was recognizable instantly across the breadth of the entire town.
+
+I hope the others are doing ok. Everyone had been assigned different duties based on their skills, and so, even though she was surrounded by defenders, she felt unusually alone without her friends nearby. Another catapult fired, the stone arcing up through the air and passing clean over the wall, demolishing several houses with a great crash. It was followed quickly by another boulder. She heard several screams in the smoke and dust of the aftermath.
+
+“There are people down there!” Ali yelled.
+
+“Fuck, they were supposed to evacuate!” an officer yelled, scrambling to react.
+
+An intense surge of mana and magical power instantly snapped Ali’s attention from the destroyed houses back to the battlefield. In the necromancer’s raised right hand, a dark pulsing formation of mana had gathered.
+
+Summoning? The magic was at once deceptively familiar, and yet, entirely foreign. With a rush, the tendrils of black mana shot forth from his grasp, crossing the battlefield in a blink and passing right through the base of the wall, entering the wreckage of the houses behind it. As Ali turned, she saw newly summoned skeletons dragging themselves free of the wreckage and shrugging off stone and shattered wood.
+
+“Skeletons in the back!” she yelled.
+
+“Sound the alarm! Undead inside the walls!” the officer shouted, causing two runners to sprint off, one reaching a bell and ringing it urgently.
+
+This could not be good. She only hoped Commander Brand had a sound strategy worked out.
+
+Havok stood on the street, watching his companions shifting impatiently as they awaited orders. They were the reserve team ‘blue’. He had made sure to memorize it. Humans tended to make everything more complicated than it needed to be – he didn’t understand why they needed colors to hit skeletons. He hefted his shield impatiently, a little worried by the heavy thumps that shook the walls up ahead.
+
+He hated skeletons. And zombies too. And he was particularly annoyed that they had chosen to come here. Carefully, he checked his bone sword – the one he had earned in the sewers the day he had unlocked his class – it was getting a little chipped and battered, but it would serve for today.
+
+Suddenly, the peals of a bell sounded above the background noise of battle.
+
+“Red team, you’re on Third Avenue! Blue team, Fifth Avenue! Skeletons sighted within the walls,” the officer shouted orders at them.
+
+Time to smash! Havok was tired of waiting, and the sudden orders filled him with a surge of anticipation. Perhaps, if there was a good fight, afterward, he would buy himself a new sword from the one-eyed Gnome.
+
+“Let’s go,” Aiden said. Havok could hear the tension in his voice.
+
+Havok liked Aiden. As he followed him down the street, he recalled the day Aiden had stood up to the mean humans to protect him. Humans didn’t do that for him. Humans were usually mean.
+
+Except Aiden. And Miss Malika too, he added deliberately. She was a human, and she had treated him with respect. And Miss Aliandra. But she wasn’t human…
+
+He jogged off and rounded the corner, following Aiden. Up ahead, a great cloud of dust and smoke rose from several squashed houses that had spilled rubble into the streets.
+
+“Help!” a man called out from near the debris, desperately trying to drag an unconscious woman to safety, while several skeletons bore down on them from the cloud of rising dust.
+
+Havok shuddered at the unnerving, clacking sound of their movement and frowned angrily. He identified them as he had been taught. Best to know what enemies they faced.
+
+Skeleton Warrior – Undead – level 8Skeleton Warrior – Undead – level 4Skeleton Warrior – Undead – level 3Skeleton Warrior – Undead – level 3Skeleton Warrior – Undead – level 7
+
+Stupid skeletons.
+
+“Usual formation. Ready?” Aiden asked.
+
+Havok answered by activating his glowing Holy Shield, reinforcing his wooden buckler with his magic, and nodded along with the others. “Havok smash!”
+
+“Ok, smash… attack!” Aiden yelled.
+
+Havok’s Shield Rush flooded his body with the energy of his stamina, accelerating him to a blur of speed as he charged across the stone pavement. Shield Rush was one of his favorite skills to bash things with. His charge caused him to zoom past the two struggling survivors. In the blink of an eye, he crashed into the group of skeletons, knocking one of them flying. He drew his sword, lighting it up with Smite as he swept it in an outward, gleaming arc. The holy magic lit up the full length of the bone sword and, with a satisfying humming crash, it bit through the arm of the skeleton closest to him, severing the bones completely. The impact of his magic on undead bones triggered a brilliant flash and the cobblestones at his feet erupted in a carpet of the warm, ghostly flickering white flames of Consecrated Ground. Flames that would heal his allies and burn his enemies.
+
+“Rargh! Die, skeletons!” he yelled.
+
+Suddenly, Aiden was beside him swinging his icy swords, his magic spreading frost along the ground. Devan’s Wind Cutter flashed past his left side, almost invisible, felt like a gust of wind, and the rest of his friends engaged in battle. The street flashed brightly as Kaitlyn fired arrows dripping with lightning and sparks. Flynn conjured an enormous rock and dropped it on the skeleton Havok had sent sprawling.
+
+“Was Havok’s next!” he yelled.
+
+Flynn called, “Pick another!”
+
+Havok sized up their remaining foes in an instant and swung his sword again, unleashing his pent-up fury at a stocky Dwarf skeleton. Once again, his holy magic bit deep, severing bones. He set his feet in a wide stance and smashed forward with his glowing Holy Shield, knocking the skeleton to the ground, where Devan and Aiden pinned it under a flurry of blows.
+
+Breaking off, Havok glanced to the left and right, searching for more skeletons, but all he found were the twitching piles of broken bone and smashed skeletons, some still trying to drag themselves toward his friends, but quickly succumbing to his consecrated fire.
+
+Holy Shield has reached level 4.Smite has reached level 5.
+
+Havok like getting stronger!
+
+“Devan, can you scout for more skeletons? Let’s make sure this area is secure,” Aiden asked. In response, she scampered up the side of an intact house and disappeared over the roof.
+
+“Havok, your Smite did some epic damage to that skeleton,” Kaitlyn complimented him.
+
+“Of course. Smite is smite!” Havok grinned, bending down to heal the man and his injured companion, savoring the respect with which his companions treated him.
+
+“Thank you! You saved us!” the man gushed, tears running tracks down his soot-stained face.
+
+It felt odd receiving thanks from the injured humans but, seeing the genuine gratitude on their faces as they realized they had survived the deadly encounter, he began to understand Miss Malika’s words from back then.
+
+Miss Aliandra and Miss Malika, I was a strong warrior today. I helped two people!
+
+At that moment, Devan came barreling around the corner with a group of rickety skeletons close behind. She yelped, “Help… uh, anytime, guys?”
+
+Havok lit his sword with his magic again and charged. “Havok make skeleton toast!”
+
+Lira’s mind floated within the awareness of the enormous oak that towered up and out of the ancient library, her body melded completely with the wood and sap, its mana and hers indistinguishable, pulsing vibrantly from the roots through the branches and into the leaves and out into the cavern beyond.
+
+The potency of the mana flowing through the giant tree still exhilarated her – for somehow, little Aliandra had managed the unthinkable, completely restructuring the mana of her domain till it combined with her own, amplifying both and producing something greater and more powerful than should even have been possible. It was not her forest, but with just this tree, some small measure of her magic had been restored.
+
+Her mother was a prodigy at magic, too. I see the scars she still carries.
+
+Yet the calm that she sought within the embrace of the tree eluded her. The fact that she was alive at all was entirely due to Aliandra and her friends and she felt the huge burden of her obligation towards them weighing down on her heart. But her fight was not over. With her senses heightened by the potent magic flowing through her, she could easily sense the vile corruption of that filthy necromancer and his despised mana flowing with unrestrained power just outside the town. Aliandra once again faced what should have been her responsibility.
+
+There were very few times over the millennia that she regretted taking the more passive and reclusive path of her non-combat class choices, but this was certainly one of them. It should be her facing Alexander Gray, and not Aliandra and her friends risking their lives on her behalf.
+
+The dagger of his betrayal still twisted in her heart. She hated herself for the moment of weakness and loneliness that had opened her up to his exploitation and cost her the beautiful forest that was as much part of her as it had been a home for the last several thousand years. Even in the calm embrace of the tree, she grimaced. Aliandra’s generosity had set her on the path to healing, but it would be decades before she fully recovered.
+
+Her senses flowed through the branches and along the crackling energy of the domain mana, bringing her information, visions, and impressions from the town above via the plants and roots her mana was connected to. She saw the rubble in the streets from collapsed houses. A Goblin charging a skeleton in a back alley, supported by friends. Surges of necromantic energy and blight from outside the town walls, and small voices raised in terror.
+
+Her attention snapped sharply to the wails.
+
+Without thought or hesitation, she transferred her awareness into a tree within the cavern above, reaching out with her senses, and honing her focus. The plants sent her the cries of children and the stench of necromancy. She transferred again, this time into a small tree in the town above.
+
+She was always uncomfortable in the habitations of stone and dead wood that the humans crafted, but she found herself in a small park, one seemingly carefully crafted amid the stone streets and brick houses. The tree that had accepted her awareness was fitted with a rope swing that swayed as if it had just been vacated. Off to the side, in the shadows, a small group of children huddled, clutching each other and crying, their eyes wide with fear.
+
+In a loose circle around the children, Lira could feel the necromantic energy pouring from the creaking bones of the skeletons menacing the children with their rusty swords, clacking jawbones, and the malevolent red glow from their eye sockets. One of the skeletons took an unstable step forward with an audible grinding of bone on bone and a little girl screamed.
+
+I may not be suited for combat, but I can at least do this little thing.
+
+She flowed out of the tree, forming her body as she took two steps forward, the little roots in her feet sinking into the unfamiliar dirt of the park. The little girl’s scream cut off instantly as she brought her hands to her mouth, eyes wide as she caught sight of Lira. Lira gave her a small smile and unleashed her mana.
+
+She was not familiar with these trees, having not incorporated them into her domain, so her magic took far more effort than she would have liked. But she could feel the depth of the hatred they harbored for the undead, and the eagerness with which they offered her their branches, roots, their very sap. Her spell surged through the trees, making their roots burst writhing from the ground, binding the sluggish skeletons’ ankles and rapidly growing up their leg bones and into their ribcages. Deeper and deeper she reached, throwing more and more magic through the trees. They responded eagerly, committing themselves entirely to being her tools to destroy the hated undead. As the roots grew thick, brimming with vitality and nature, the sounds of creaking, crushing wood, and the sharp reports of bone snapping filled the park. She didn’t stop until the unearthly glow from their eyes was snuffed, and she heard the chimes in her mind.
+
+An eerie silence descended on the park as the children stared at her, seemingly unsure if they were saved or about to be killed in the same gruesome fashion as the skeletons.
+
+“Hi, my name is Lira,” she said, trying to keep her voice calm and soothing. “Is anyone hurt?”
+
+There was a brief pause followed by the nervous shaking of heads when suddenly, one brown-haired boy wearing a muddy shirt broke the silence.
+
+“That was awesome!”
+
+As if his voice was the crack that broke the dam, suddenly the air was filled with excited and awed chatter.
+
+“Yay!”
+
+“Are you a tree lady?”
+
+“How did you do that?”
+
+“Can you show us some more magic?”
+
+Lira smiled at their excitement, such a sudden contrast from their terror only moments ago.
+
+“Yes, I’m a tree lady,” she answered. “I’m called a Dryad.”
+
+“A Dryad?”
+
+“That’s what tree-people like me are called. Why don’t we all sit over here by the tree? I would be happy to show you some more magic while we wait for your parents to return.”
+
+She sat down among the group and began to grow some moss and flowers on the ground for them, her heart happy to hear their exclamations of delight and curious questions, comforted by the fact that these children, at least, would not be further victims to Alexander Gray’s vile purposes.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

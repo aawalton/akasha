@@ -1,0 +1,243 @@
+---
+id: 071296c4-2ad0-5dbc-af3f-b54ea85028cf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 171: The Landing"
+slug: 0174-chapter-171-the-landing
+partOf: dungeon-of-knowledge-complete
+position: 174
+ownLength: 4750
+unit: words
+ownProgress: 4750
+publishedAt: 2024-12-17
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1961126/chapter-171-the-landing"
+royalRoadId: "1961126"
+markedReadAt: "2026-06-29T20:16:55.996Z"
+---
+
+The tunnel out of the Flame Broodmother’s lair wound steadily downward, occasionally narrowing enough that they were forced to proceed single file. Every so often, they paused to clear Flame Spinners from dimly glowing side caves, or Lava Lurkers from the ever-present pools of lava. It took ages, but leaving monsters to creep up on them from behind sounded like a disaster waiting to happen. Eventually, the rough-hewn tunnel widened, opening into a wider, straighter passage that had been cut through the rock by ancient stone mages. What had once been a smooth stone floor was marred by deep gouges, like something extremely heavy had been dragged away. Lava spilled from cracks in the walls, pooling here and there, making for extremely treacherous footing for her friends and minions.
+
+As the end of the passage came into view, Ali found herself staring at a massive, reinforced stone archway, through which a flickering red-orange light spilled.
+
+Calen’s eyes seemed round as saucers. “What is this?” he breathed.
+
+Mato chuffed, not bothering to switch forms to talk, but Ali could feel the teasing intent in his voice and body language.
+
+“This is the Landing,” Ali said, finally recognizing something down here. “It’s where the supply lines for all the various mining operations connected. There should be several passages leading on to different sections of the mine. One of those passages should lead to where Thovir Emberforge had his forge and anvil.”
+
+Excited, they approached, but as they reached the broad archway reinforcing the tunnel against uncountable tons of rock above, Ali gulped as the cause of the glow presented itself. The expansive chamber beyond the archway that had once been the Landing was filled with restlessly shifting elementals of pure flame. Heat rolled out from the opening like standing before the open door of a furnace.
+
+Living Flame – Elemental – level 61-65 (Fire) x15.Shard of Flame – Elemental – level 35-41 (Fire) x23.
+
+The familiar Shards of Flame circled around the perimeter of the chamber, dangerous in their own right, but appearing small and insignificant beside their towering cousins.
+
+Large enough to make even Mato or Calen look puny, the Living Flame elementals had cores of deep blue flame so dark it might as well be black at the center. Red-orange flames flickered and danced as they glided across the heat-shimmering stone. The closer she got, the louder the ambient roar of surging flames dominated Ali’s hearing.
+
+“This looks nasty,” Malika observed.
+
+“One of the bigger ones at the back is a boss,” Calen said. “Actually, I think it might be both of them.”
+
+“What now?” Ali asked. She hadn’t even noticed the larger Living Flame elementals at the back, towering even over their kin, but what she did see was the intense aura of fire that suffused the entire Landing.
+
+“I think I can get some of these to chase me out here,” Calen said thoughtfully. “If it works, we could fight them one at a time in the tunnel back here.”
+
+“I’m game,” Mato announced, having finally shifted, unsurprisingly eager at the prospect of a new fight.
+
+Ali glanced at Malika quickly, who answered, “I think we should at least try. Just be careful, we don’t know what these may do. Be ready to run or recall if it goes badly.”
+
+Reflexively, Ali checked on her stash of recall potions, reassuring herself that she was set if things came unstuck.
+
+Ali backed up into the tunnel again, drawing her minions with her, and waited while Calen vanished. This time, she happily noted that she could make out the barely visible streamers of his mana warping the area he passed through. The slightest trace of light affinity against the heavy cloak of fire and lava affinities. I’m getting better at seeing him. When he used mana skills, provided she knew what she was looking for, she could see him with Arcane Insight. Or at least, she could see the effects of his presence like an inverted shadow of light. I should tell him, Ali noted, knowing he would want to train his skills to be as undetectable as possible.
+
+She studied the strangely distorted mirage of his mana as he cautiously entered the room and paused there, presumably choosing an appropriate target, or waiting for an opportunity only he could see. The slightest flicker of mana was Ali’s only warning that he had acted. An intense flash of light appeared as an arrow slammed into the closest Living Flame elemental right as it glided into a relatively open space.
+
+Hissing like water splashed into a scalding pan, the elemental turned and surged towards the archway where Calen’s form had suddenly become visible as he sprinted back to where they all waited.
+
+“Face him away, just in case,” Calen said as he ran past where Mato was waiting in his Bear Form.
+
+Mato just snorted, informing his friend in no uncertain terms that he knew his job.
+
+With a throaty roar, Mato engaged, charging the elemental. He Swiped across what looked like the torso of the vaguely humanoid pillar of self-sustaining fire and spun it around so that his back faced the archway instead of the group. Mato’s fur ignited in the intensity of the elemental’s aura, filling the tunnel with the stench of burnt fur and cooking meat. Blasts of firebolts shot out at Mato, crashing into the walls and flying into the Landing beyond the archway. Glad that’s not aimed at me, Ali thought, erecting a protective barrier just in case. Her own skin began to burn and blister, and she backed away even further to get out of the aura that was quite a bit larger and more potent than the smaller Shards of Flame.
+
+But the flame felt strange, almost rejuvenating. It even looked strange, red flecked with the dark blue-black from the elemental’s core.
+
+“Is… the fire regenerating my mana?” Ali asked. It was tricky to tell over the chaos of battle, her attention already diverted a dozen ways already by the incredible damage output from the Living Flame.
+
+“Mine is…” Calen said, surprise registering in his eyes. Immediately, his rate of fire doubled as he filled the air with light-affinity mana and arrows.
+
+Mato’s health spiraled in freefall, and Ali pushed her kobolds to heal more. A large heal landed, stabilizing his dwindling health before he landed a powerful strike with his right paw. His green mana flickered, and his health became substantially more buoyant, ticking up from the combined magic of nature and holy healing. Another big heal landed and Ali breathed a sigh of relief.
+
+“Attack,” she commanded. The rogues stalked forward, visible to Ali only via her minion perception skills. The shamans and the Hobgoblin rushed in with no thoughts of stealth. Screeches and hooting calls broke out as all of Ali’s melee minions caught fire in the oppressive aura rolling out from the giant elemental. Shaman shields sparked brilliantly, coruscating as sparks cascaded out onto the ground.
+
+“Fuck, that’s a lot of damage,” Ali swore, observing the flashes of retaliatory flame that burst from the elemental with every blade that struck it. Her connection to her Acolytes’ Healer’s Sight told an even grimmer picture.
+
+“Is it manageable?” Calen asked.
+
+“Maybe… we’d better kill it fast,” Ali said. “Faster.”
+
+To Ali’s left, the brilliant pillar of holy radiance shone forth as the first Acolyte burned her Devotion skill, boosting her holy magic and accelerating her healing. It was a remarkable skill, but it had limits. For thirty seconds, the health of everyone in the flame aura stabilized, and Ali concentrated on attacking instead of worrying. Still, when the Acolyte’s radiance faded, their health began to dwindle rapidly.
+
+Twenty seconds later, the second Acolyte burst into a pillar of radiance.
+
+And when they run out? The skill had a long recharge, and Ali did not have unlimited Acolytes. “Shamans, back up,” she commanded. “Lightning Bolts and totems only.” At least at range, her shamans wouldn’t be taking nearly as much damage – it wasn’t much, but hopefully, it would help the healing to go further.
+
+Ali’s thoughts were suddenly wrenched back to the Living Flame as mana surged and then suddenly condensed within its core, an unfurling blossom of flame that roared with power.
+
+“Watch out!” she shouted. It was all she was able to get out before an intense spherical shockwave of compressed flame blasted outward, tossing her minions into the air like dolls in a hurricane. Her hasty barrier shattered instantly, and Ali felt a disorienting moment of weightlessness before her body bounced off the rock wall and everything went dark.
+
+Ali groaned as she came to. She was face down with an uncomfortably hot jagged rock pressing into her cheek. I’m burning? Groggy, she raised her head, and the memory of the fight came back in a rush. Half her Hobgoblin lay burning in a puddle of lava. Corpses of rogues were strewn about and one of her shamans seemed to be impaled on a sharp sliver of rock halfway up the wall. Beside her, an Acolyte stirred. Of Calen and Malika, she could find no sign. And Mato…
+
+She turned in horror, realizing he had been on the opposite side of the explosion. Within the Landing, there was a commotion. Mato’s bear charged towards her from where he must have been flung like a ragdoll, and he was being chased by at least six angry Living Flame elementals.
+
+No! Don’t bring them here! She scrambled to her feet, struggling to find her stored recall potion while gesticulating wildly to him. But, even covered with rapidly burning fur, the grim focus on his face gave her sudden pause. He’s going to die. Ali’s eyes widened in horror as his body charred in the potent overlapping auras of flame. His personal nature-affinity healing had dwindled to a fading spark. Even at this distance, Ali’s skin began to crisp and sear from the onrushing heat.
+
+I need to… Mato needed help.
+
+The heat vanished and the flames froze, fading to gray as Arcane Recall gripped the world. I just need a few seconds… a little space. Everything hinged on how long her Guardian could last in that fire. With a mental gesture, she manifested her Grimoire and in the still silence of her most potent spell, she summoned a Forest Guardian, watching the flow of her spell as it wended its way to completion as if blissfully unconcerned about the tense backdrop of the frozen instant.
+
+“Go!” she screamed the instant the world restarted. The enormous wood elemental let out a grating roar and charged for the archway.
+
+Arcane Recall has reached level 11.
+
+Please be enough!
+
+As Mato approached the archway, Ali teleported out of the flames, switching with an Acolyte that was running frantically down the passageway to reach her, talons glowing with a readied healing spell. “Heal Mato!” she yelled, eyes – and borrowed perceptions – locked on the burning bear. An instant-cast Restoration spell flashed with the bright color of holy mana, pulsing softly. The terrifying plummeting of Mato’s health slowed while Ali held her breath. Fifteen percent…
+
+Heat began to mount once more, growing more and more intense as the pillars of vengeful flame glided toward the tunnel, but Ali’s Kobold stood there, robes on fire, casting another, much larger and slower healing spell.
+
+Mato’s recharge must have just expired because he suddenly charged, pulling ahead of his pursuers briefly, right as Ali’s Forest Guardian shot past him and smashed into the pack of Living Flames. As Mato passed beneath the enormous archway, Ali slammed her strongest barrier across it, taking advantage of the tiny gap created by his charge and her Forest Guardian’s surprise attack. Mato’s jaw clamped down on the diminutive Kobold Acolyte’s shoulder, scooping her up as he continued to run. Behind the glittering barrier, the Forest Guardian blazed out like a flaming torch. The Kobold dangling from his jaws did not even pause for a moment, casting her healing magic continuously. Ali turned and ran, shoving more and more mana into the barrier that blocked the archway.
+
+“Run, Mato! Go!” she shouted. Forced to rely on her legs, she rapidly fell behind, unable to keep up with Mato, but she had a skill he did not. As soon as she sensed she was in range, she teleported ahead, swapping places with a Sparkling Ooze that had been blasted further up the tunnel. Her barrier shattered, a cascading tinkle like the breaking of glass that was felt through her mana. Picking a narrow section of the tunnel, she snapped a new one into place, leaving enough capacity for a small personal flying disk.
+
+She ranged ahead with her senses, but most of her minions were gone, killed by the enormous explosion or the burning fire of the domain once they lost healing. Back down the hallway, brilliant flashes of white light and muffled thumps told her the Living Flames had found her Sparkling Ooze. Apart from the Kobold dangling from Mato’s jaws, she had just two shamans left. Both were up ahead with Calen and Malika who were rushing back down the tunnel to rescue them.
+
+As Ali zipped around a corner and caught sight of them, she yelled, “Run!”
+
+The flashes of light bombs ceased with the snap of her reservation breaking, and moments later Ali’s second barrier shattered. She threw up another, right behind them as Calen and Malika abruptly reversed direction and ran.
+
+They were almost back in the jungle by the time Ali realized her final barrier had not been shattered. Just to be safe, she let everyone keep running until they emerged from the mines. “I think they gave up,” she said, bringing everyone to a breathless halt. “My last barrier is still intact.”
+
+“That was fun,” Mato said, making a wry expression.
+
+“Fun? You were down to fifteen percent health!” Ali exclaimed.
+
+“Yeah, I know. Thanks for saving me, that was some quick thinking.”
+
+Ali calmed down as she realized he had been making a sarcastic comment rather than being his usual combat junkie self.
+
+“That was too close,” Malika said. “Far too close.”
+
+“How did you survive that, anyway?” Ali asked. “And why were you bringing the elementals to me?”
+
+“I used Last Stand,” Mato said. “I could see you lying there unconscious, so I was going to use Charge to reach you, switch, and then hit you with a recall potion.”
+
+“But you were on fifteen percent health…”
+
+“Yep,” Mato said, no trace of his usual cheery smile on his face.
+
+“You would have…” Ali trailed off, unable to continue. He would have died… The reason Mato typically did not transform out of dangerous situations to use potions was that his Natural Prowess skill boosted his vitality attribute – but only in Bear Form. Transforming dropped his maximum health by a lot. Even if his desperate plan had worked – and that was a big if – he would not have survived.
+
+“Yup. I’m glad you had a better plan. I’m not that much of a hero.” Liar. Gazing at him, Ali’s lower lip trembled. He reached out and squeezed her shoulders with his big arm. “Whatever. We’re alive and that’s what counts.”
+
+“So, what should we do now?” Calen asked.
+
+“Dinner,” Mato said firmly, and added, “We will think better after we are calm and fed, and you know that food is the ultimate recipe for everything.”
+
+Yes, and that he had to say it was a measure of how shaken he was.
+
+***
+
+Ali woke the next morning feeling physically refreshed, but mentally worn down by the worries that had plagued her sleep.
+
+The discussion that began over dinner yesterday went late into the night with everyone eventually turning in without a clear resolution. Obviously, Mato would not be fighting the elementals with his back to the archway in the future. But besides that, the inescapable conclusion was that they were just not strong enough. Either they needed to drastically increase their health, or they needed even more fire-resistance equipment – likely both.
+
+It had been some time since Ali had done her dungeon maintenance chores, and as her mind roamed her dungeon, she noted the growing piles of corpses and trash. Needing something to take her mind off the immediate worries, she wrote a quick note letting her friends know she would meet them at the guild once they woke up and headed out into her forest cavern with her personal guard of minions following her.
+
+Her first stop was the shrine. During the day, while they couldn’t scour the town for useful stuff, she had her trash collector Kobolds gather any corpses littering her domain to pile them up beside the Grove. That way, she only needed to make one stop to deconstruct all of them.
+
+She gritted her teeth and deconstructed the mangled remains of the assassin, before tackling the pile of zombies, skeletons, and random monsters that her defenders had taken care of over the last couple of days.
+
+Variant: Cavern Crawler added to Imprint: Spider.
+
+She dismissed the notifications for skeletons and zombies, only the low-level spider being of any use or interest to her – although, she already liked Seth’s Tunnel Weavers better. Still, she dutifully summoned one to familiarize herself with any useful skills or abilities it might have.
+
+Then she made the rounds through the sewer tunnels, deconstructing the nearly unmanageable piles of trash. All the junk yielded several new coins, some variants of wood and stone that she hadn’t seen before, and a bunch of worthless imprints that she immediately discarded.
+
+Hmm… not very useful, is it? When she had read about the scavenger dungeon’s strategy, she had had high hopes for the idea but, while she wasn’t about to abandon the plan, it was proving to be much less effective than what she had imagined. Unless she was willing to invade people’s homes or shops for stuff, she was unlikely to get much more value with this plan. Unless there’s another siege or large-scale fight, she thought, but then caught herself with a grimace. Wishing for war was not a thought that sat well with her.
+
+She had not earned any usable monster imprints this way, for obvious reasons. But she had received a great spider variant from Seth’s quest. Perhaps a better strategy is to use the guild? She had more than enough money to put up a few collection quests.
+
+Ali shelved that idea for later and turned her attention to her real purpose for being in the sewer today. She had gained two levels from fighting the Flame Broodmother. This had meant a three percent reduction per level in the reserve cost for her entire minion army – everything in her dungeon was a little cheaper – and she had invested all twenty attribute points into wisdom. While she wasn’t exactly rolling in mana, she felt positively flush compared to what she had been eking by with the last few weeks.
+
+And that brought her to the second thing she realized she had learned from the Flame Broodmother encounter. The Emberforge Mines was a powerful dungeon, and hers was pitiful by comparison. It was not just that the domain itself burned intruders, but the first boss of the Emberforge Mines could have wiped out all her minions, bosses included. It wasn’t even a raid boss. It was entirely unfair that she didn’t have enough mana to afford a good selection of bosses at her class level – she had minions with enough mana to do it, so why not herself?
+
+Well, one minion. She couldn’t afford another Forest Guardian boss.
+
+Ali finally found herself at the spot she had been searching for. It was a crossroads of sorts – five tunnels joined in a small chamber, all the flows merging into a single large outlet, roughly in the center of the entire sewer system. Probably right beneath the marketplace if her sense of direction wasn’t entirely haywire.
+
+This should do. She pushed the walls of the chamber backward, her Grimoire glowing as she created stone and brick and fed it to Domain Mastery. It took maybe ten minutes to widen the chamber to an appropriate size for the boss she had in mind. Carefully, she adjusted the channels to make them less uniform, meandering a little, and creating a modest-sized pool in the center.
+
+Her mana lit up the appropriate imprint, and in short order, she had her newest minion.
+
+Toxic Slime – Ooze – level 5 (Poison).
+
+Perception, for sure. Her purpose for this boss was primarily to ensure that fewer assassins made it down into the forest cavern undetected to somehow be trampled by her Forest Guardian. Or at least give her forewarning. Her secondary purpose was to have something a little easier for the new guild members to practice on.
+
+Quickly, she selected the choices she and Calen had hashed out last night over dinner during a break from the interminable fire resistance problem.
+
+Domain Respawn applied to Toxic Slime.Boss Domain Enhancement applied to Toxic Slime.Attribute Enhancement (Endurance) applied.Attribute Enhancement (Perception) applied.Domain Enhancement complete.Your reserved mana has increased by +44.
+
+Only forty-four mana? She and Calen had worked out all the details in advance but seeing the number in her notification drove home the reality of it. A level-five monster cost her almost nothing compared to something closer to her class level. Even a group threat boss – something that would challenge a whole group of level-five adventurers – cost her next to nothing.
+
+Choosing the lower ‘boss’ domain enhancement gave her new boss a quicker respawn time than a raid boss would have had – four hours instead of six – which suited her goal of having a sentinel in the middle of the sewer.
+
+Next, she chose to implement Calen’s other suggestion, quickly creating a small assortment of low-level weapons and arrows, spreading them around the chamber, and attaching them to the domain too. Calen thought this would give the novices a strong incentive to test themselves against the boss, and Ali was happy to provide rewards that would make them stronger – a bit of a ramp-up before they needed to face her Kobolds. She finished up the room by adding a few poison traps.
+
+The rogues are going to hate you, aren’t they? she thought, slipping her awareness into the mind of her new Toxic Slime boss to survey the world through its senses. She had quite a lot of experience using slimes for this purpose, and instantly she felt the shape of the sewers all around her, feeling the flow of the water through the channels, and the heartbeats and footsteps of her various monsters crawling through the tunnels. To her delight, the perception enhancement substantially boosted the range of the ooze’s Tremor Sense, and she could ‘see’ clearly what was going on several tunnels away.
+
+Perfect, she thought, happy with the easy success. She flew off to check on the Tunnel Weavers she had installed in what she was now thinking of as the ‘spider wing’ of the sewer. A section of tunnels and rooms closer to the Kobold raid where the average level of the monsters was a little higher.
+
+Her spiders had certainly been very busy, and this entire section of the sewer had a creepy spider-lair feel now, with dense webs covering the ceiling and walls, and draping down to the ground from above in many places. Lurking in the web overhead were many watchful eyes.
+
+She reached the end of the tunnel and stood in the center of the chamber, looking up at the ceiling.
+
+“You, come down here,” she said, and the Tunnel Weaver that had made its lair above descended on a thick strand of spider silk, an action so similar to the Flame Broodmother’s descent that she shivered even though she was in no danger.
+
+Tunnel Weaver – Spider – level 8 (Poison)
+
+She touched the spider’s smooth carapace with her fingertips and bound it to her domain mana.
+
+Domain Respawn applied to Tunnel Weaver.Boss Domain Enhancement applied to Tunnel Weaver.
+
+Again, she wanted a sentinel in the dungeon, a monster that could provide some early warning of intruders and incursions, so her first pick had to be perception. Besides, the Tunnel Weaver had some interesting perception skills to work with.
+
+Attribute Enhancement (Perception) applied.
+
+For her second choice, she wasn’t quite certain if her skill would allow it. Technically, poison affinity was a subset of nature, although it depended highly on who you chose to ask. She chose the Affinity Aura option, and to her surprise, her notification chimed.
+
+Affinity Aura (Poison) applied.
+
+Seems to work. That’s great!
+
+Domain Enhancement complete.Your reserved mana has increased by +77.
+
+Her spider’s black carapace swelled, growing substantially larger as the domain mana rushed through its body, enhancing its power. The pressure of the powerful domain enhancement bore down on the domain lattice as if weighing heavily upon the mana. Although the choice of the boss enhancement was noticeably less powerful than her two raid bosses, she was quite sure it would prevent having another similar boss in this space.
+
+She studied the phenomenon carefully, filing it away for the next time she was in the mines. Being able to recognize the phenomenon might just give them an early warning of an upcoming boss encounter. It seemed to be somehow related to the domain’s mana density, and how much magical load the structure could bear. Theoretically, her own domain in and around the library should be able to support much more, given that the density had been so dramatically enhanced by the elder tree that grew there. If I can learn to detect the strain on a foreign domain…
+
+Affinity Aura snapped on as her magic upgrade completed and toxic green mist billowed from the abdomen of her empowered spider, filling the room. Before it could engulf her, Ali snapped a spherical bubble around herself and banished the rest of her retinue to the tunnels outside. It wasn’t exactly a huge threat to her, but there was no reason to sit in the poison. For a level-eight party, this would provide a substantial challenge for healing, or for their ability to source antidote potions, but against her high-level magical resistance, it barely itched.
+
+As soon as she released it, the Tunnel Weaver boss rapidly climbed back up and concealed itself among the webbing on the ceiling.
+
+For this boss, the web itself would provide the hopeful novices with a substantial reward. Malika had checked the current market rates, and the adventurers tackling this boss would find themselves quite well rewarded by the tailors’ and weavers’ demand for quality monstrous thread. Still, she spent the time to fill the nooks and crannies at the edges of the chamber with Forest Amanitas and even three small Violet Dreamclouds to offer a reward that would interest the herbalists and every class that used poisons. The Amanitas were a great low-level poison, according to Basil, and the three Violet Dreamclouds were substantially more valuable, providing a potent ingredient for soporific potions or poisons. It didn’t take long to attach everything to her domain so that it would respawn automatically if harvested, and she finished up by inscribing a few Grasping Roots traps inside the room.
+
+She connected with her Tunnel Weaver boss and reached out through its senses. She saw the chamber rather blurrily and in various shades of blue and what looked like ultraviolet through its strange eight-eyed vision, but that was not the sense she was most interested in. Its perception magic pulsed through the web under its eight deadly venom-slicked legs, and she simultaneously saw the pulses rippling out in waves through the web. She felt the world through the net. The entire body of the spider acted as a resonator, and the sense, much like that of the oozes, used vibration to carry information about the world back to the spider in its lair. But this spider could sense mana, and the range it could see around the web strands was large enough to perceive herself as she stood all the way down there on the floor of the chamber.
+
+Now I need to inform the Guildmaster about the new bosses, so there are no accidental deaths. Sigh. A dungeon’s work is never done.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

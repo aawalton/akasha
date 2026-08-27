@@ -1,0 +1,235 @@
+---
+id: 8f4acb44-6c1d-51ea-a284-63547319be3d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: Ancient Shrine"
+slug: 0004-chapter-4-ancient-shrine
+partOf: dungeon-of-knowledge-complete
+position: 4
+ownLength: 4061
+unit: words
+ownProgress: 4061
+publishedAt: 2024-01-30
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1499800/chapter-4-ancient-shrine"
+royalRoadId: "1499800"
+markedReadAt: "2026-06-29T20:11:08.819Z"
+---
+
+The choice of one’s Class has such a fundamental and enduring impact upon the individual’s future that it can drastically affect the entire community around them. And yet the so-called ‘Natural Path’ to class acquisition is heavily biased in favor of the most generic, common, and broadly applicable classes available. This effect has proved to be persistent across history, culture, and race among the sentient peoples of our realm. It is for this reason that basic classes such as warrior, laborer, farmer, cook, or guard predominate in populations without access to a Class Shrine. This explains why so many people are forced into inefficient or unwanted classes by the default selection of this Natural Path.
+
+The Class Shrine is an artifact that affords vastly more control and choice over the process of class acquisition. Evidence shows that activities within the window of time between unlocking class experience and earning the first class level have a disproportionate influence upon the class offered. By controlling the timing of this experience unlock, the shrine allows for the practice of undergoing a formal Class Trial, wherein the applicant may focus entirely on activities appropriate for the desired class, often overriding unfortunate experiences of youth or childhood.
+
+Upon earning sufficient experience, the Natural Path class will be offered at level one. Accessing the Class Shrine a second time before it affixes often provides one or more alternate class choices in addition to the Natural Path. Again, this access to a wider array of options and choices has the potential to substantially improve the quality of classes across a given community.
+
+Originally a product of high-level sentient dungeons, Class Shrines were incredibly rare, requiring a competent adventurer group to delve deep into the bowels of the dungeon just to gain access, placing them far out of reach of the vast majority of the population. However, here at the Ciradyl Academy, in conjunction with the Council of Archmages, we have learned to unravel the secrets of the Class Shrine, allowing them to be crafted, thus removing dungeons from the equation entirely.
+
+While artificial Class Shrines have certainly had their impact, substantially raising the average quality of classes acquired, they introduce a host of other problems. Due to the difficulty in their construction, they are still rare. And given the nature of their power, access to Class Shrines has become fraught with restriction schemes reflecting political or financial ambition. Wars are fought over access to shrines, and due to their Soulbound nature, the most common method of ownership transfer has become murder, assassination, or dynastic succession.
+
+- Nathaniel Sunstrider, Archmage, Scholar, and Guildmaster of the Elven Pathfinder Guild. Discussion on the value and impact of class shrines.
+
+Aliandra
+
+Crack.
+
+The sudden sound shattered the blissful blackness of her drifting awareness like a rock striking a pane of glass.
+
+What… where…
+
+Her mind recoiled at the sudden jagged sharpness stabbing into her.
+
+Pain…
+
+The word drifted across the haze of her mind. She grappled with it for a while, certain she should know it, but the distant, vague recollections that lurked in her awareness appeared and vanished like apparitions in the mist.
+
+She had not felt pain… anything… in such a long time.
+
+Aversion. She knew only that she did not like this sensation, this interruption breaking the long dream.
+
+She struggled fitfully against the pain, but nothing in her world changed. She remained there, standing where she had always been, frozen in place, encased by the glowing crystalline magic of her prison. The radiant golden light illuminated the stone path before her, but everything beyond was gray, fading to impenetrable darkness. The scene flickered in the grayness, but that too was unchanging, a cycle of a few dozen flickering pictures as fleeting as her own intangible memories.
+
+Her mind seemed sluggish. As it had always been. But somehow, this time, something was definitely wrong. She didn’t know what it should feel like, just that this wasn’t right. She struggled again, finding herself unable to move, to escape the pain.
+
+Crack!
+
+Another bolt of jagged sharpness stabbed deeply into her mind. This time, a tiny, jagged line appeared, splitting the golden glow, and spilling a fracture of color out into the gray world beyond. A tiny mote of golden light separated, escaping through the jagged crack, and slowly drifted upward. She watched it, unable to look away, feeling an inexplicable and infinitely deep upwelling of sadness within her heart. Unbidden, a memory surfaced; a warm, kind hand touching her face, offering comfort. Another tiny golden mote escaped, drifting upward, and her memories came crashing back.
+
+Mom…?
+
+Gentle eyes gazing upon her. Golden motes of mana spilling from the hand that reached out to comfort her. And then she faded away, leaving only…
+
+Suddenly, the specter of death loomed large in her mind. A dark, withered figure wearing spelled robes and a crimson blindfold, wielding death from gaunt, skeletal fingers as his mocking laughter sent shivers running through her soul.
+
+Nevyn Eld.
+
+Her mother had given her life to save her from him. And now she was gone.
+
+Unable to wince or cry out, she endured another jolt of pain. Another fractured line of jagged color spilled out into the world – a crack in the impervious magic that held her fast.
+
+Her memories came faster now, crashing through her, a rapid cascade of painful images. The frantic flight from the library. Maeria Runeweaver sliding off a sword. Armand. Her father asking her to be brave. The Death Knight at the gates to Dal’mohra.
+
+The motes of mana drifted upwards, more and more of them joining to create a pillar of floating lights as the magical shell around her slowly cracked and splintered, pieces dissolving into the air. But Ali’s heart ached, left with only the profound weight of loneliness, and the powerful need for her mother’s touch, and the crinkle of a smile in her father’s eyes.
+
+She cried out in pain as the crystalline magic – the legendary spell, bought by her mother’s sacrifice – suddenly exploded in an enormous burst of golden energy and shattered shards. She fell, hitting the stone path below with a bruising crash. The gray world flickered rapidly as color and vibrance flooded outward.
+
+Helpless, she lay on her back amid the still-glowing shards of her mother’s magic, staring upward as the pillar of golden motes slowly drifted away, fading into the darkness beyond. Her body did not move, could not move. She lay there for ages, her heart frozen with grief and sadness, her body limp and unresponsive.
+
+Slowly her mind cleared. There were no stars in the darkness overhead, and she suddenly remembered the vision of an exploding mountain and the landslide that had buried her.
+
+A cavern? She shuddered, struggling with a sudden bout of claustrophobia at the memory of uncountable tons of rock bearing down upon her. What if she had awakened entombed in stone?
+
+Where is the Blind Lich?
+
+What about the Death Knights?
+
+Where are the skeletons?
+
+She struggled, fear coursing through her in waves as she lay helpless on the cold, uncaring stone, unable to even turn her head to look for danger.
+
+She willed her hand to move. Nothing happened. Too much, she thought as a wave of exhaustion washed over her.
+
+Am I alive?
+
+She breathed.
+
+After a time, she decided she must be and she resumed her efforts, bending will into moving just her finger, and after a few minutes, she felt a twitch. Exhaustion surged through her body and for a moment she just lay prone.
+
+Droplets of golden liquid mana pooled on her skin and trickled down like glowing sweat as her body slowly expelled the remnants of her mother’s potent spell, staining the ground around her with a sparkling light that soaked into the earth.
+
+What can I even do? She was obviously in mortal danger, exposed to any monsters that still lurked nearby. She was weak, and far too exhausted to even move. She did not have Armand’s strength or scales, or her father’s summoned monsters.
+
+Her mom had always told her that any problem could be solved with applied reason, but the little voice in the back of her mind reminded her that her mother had probably never woken up helpless in the dark, fearing that, at any moment, an undead monster would run her through with a rusty blade and raise her corpse as one of the walking dead. Just like poor Armand. But she clung to the remembered wisdom for dear life. There was no other choice.
+
+She still wore her white cotton t-shirt and shorts, and her arms and legs were already tingling with goosebumps in the chill dank air. Her library card and Maeria Runeweaver’s book should be somewhere nearby.
+
+Perhaps when I can move.
+
+With a thought, she opened her status – a task that thankfully did not require her body to move.
+
+The image of the intangible book appeared in her mind; vibrant green leaves etched into the cover like living plants. It hovered there, clearly visible, and yet it had never interfered with her vision.
+
+But something was different this time. The leaves seemed denser as if the plants depicted on the cover had somehow grown. When it snapped open to her status, the parchment seemed darker, aged somehow, and she caught the faint musty scent of books that had languished in some forgotten storage for far too long.
+
+Still, the glowing golden script was as clear as ever.
+
+Name: Aliandra AmarielRace: FaeTitles: Ancient
+
+Class: [Locked]
+
+General Skills- Reading – level 7- Linguist – level 4- Identify – level 5- Arcane Cantrip – level 4- Plant Growth – level 4- Memorize – level 4- Scholar – level 6- Sculpting – level 2
+
+Aptitudes- Languages: Ancient Dal’mohran, Elvish, Dwarven- Mana (Affinities): Arcane, Nature- Tiny (Racial): The effects of Strength and Vitality are reduced by 50%- Magical (Racial): The effects of Wisdom and Intelligence are increased by 50%- Mana Sense (Racial): You are sensitive to nearby mana
+
+Attributes- Vitality: 5- Strength: 4- Endurance: 5- Dexterity: 10- Perception: 11- Intelligence: 21- Wisdom: 14
+
+Health: 25/25Stamina: 2/50Mana: 210/210
+
+For the first time in her life, she found no joy or pride in her Scholar, Reading, or Linguist skills as she scoured her abilities for something, anything, that might be of use against a skeleton like the one that had killed Armand. If one of the Death Knights, or worse, the Blind Lich was still around, she knew that, on her own, she would be blown to bits, vaporized before she even had the chance to blink.
+
+But her skills were all suited to her dream of magical research, and everything she had learned would be of far more use in the library than out here in the dark. Her passion had always been for books and learning. Fighting, she had always said, was something for the bigger races.
+
+Until some skeleton tries to take your head off.
+
+She focused on her Arcane Cantrip skill, still hunting for inspiration, and the book still hovering in her mind obliged by turning the page, revealing the details of her general skill.
+
+Arcane Cantrip – level 4Mana: Create a small solid magical construct out of Arcane mana.Arcane, Intelligence
+
+She channeled a small amount of mana into the skill, a little surprised to find that it flowed comfortably and easily considering her state. Her mana coalesced into a small golden blob hovering above her face. She shaped it, applying her will, and the proficiency of many long hours of study and practice, clutching at the one thing she could actually do. The blob morphed into a tiny golden butterfly hovering in the air, slowly flapping its wings before she tired and released the mana sculpture to flitter away into the darkness.
+
+But while her skill allowed her to act, the Arcane Cantrip was a simple spell taught to Fae children gifted with early affinities to help them learn to control their mana. And, as she had discovered, it was woefully ineffective against a Lich.
+
+I’ll slay it with a golden mana butterfly – yay! Go Aliandra! At least her sarcasm still worked.
+
+She turned to the description of her next skill.
+
+Identify – level 5Mana: Discern information about a creature or item up to level 5 [class + skill]. Synergizes with any relevant Perception, Knowledge, or Information skills. Knowledge, Perception
+
+For all its vaunted worth, Identify would simply tell how badly she was going to die before it happened. She moved on quickly, finding nothing suitable for her predicament.
+
+Plant Growth – level 4Mana: Sense and influence the growth of nearby plants.Nature, Wisdom
+
+Aunt Lira had taught her Plant Growth in her first melding with her dryadic tree. The skill had been a constant source of joy, and Ali had spent many happy hours with her father growing plants in the Grove. The sensation of plants responding to her mana, the experience of growing with them was so soothing, she had always likened it to meditation. Or the quiet repose of listening to beautiful music.
+
+Considering how she might twist her magic to violence made her suddenly shudder in disgust, leaving a bitter taste in her mouth.
+
+She tried to move her finger again. This time, it responded almost immediately. Encouraged by the lack of instant exhaustion, she set her mind to moving the others.
+
+It would be so much better if I had a Class, she thought, her mind returning to her skills. Or lack thereof. She had been so close to unlocking her class before everything had exploded in her face.
+
+Who am I kidding? She had been set on earning a scholarly- or research-oriented class. There was no way her dream class would have had an answer to the undead skeletons.
+
+She slowly closed and opened her hand and began to work on her left.
+
+Her eyes were curiously drawn to her Aptitudes, noticing that the section seemed different than she remembered. They changed so rarely that she seldom looked anymore. Common language changed to Ancient Dal’mohran? And there was a new Title called ‘Ancient’ which seemed vague and ominous.
+
+Just how long was I inside that barrier?
+
+Her memories of her time frozen in the spell felt vague and elusive – it might just as easily have been centuries or just a day. The unchanging golden glow and the strangely flickering gray cast to the world had fallen away, leaving her … here.
+
+She was certain she hadn’t moved an inch, however long it might have been. She could even see the shrine from where she lay. But everything else was gone. The beautiful Grove her father tended with its giant oaks and pretty wildflowers had vanished, leaving only looming dark shadows and what felt like damp moss carpeting the ground. The air smelled musty and dank, an ancient decay instead of the vibrant sense of growth and nature she loved so much. Even the stars were gone, blotted out by the mountain that had crashed down upon her somehow forming a cavern. She was just grateful for whatever force was keeping the stone and rock up there, and that her mother’s magic hadn’t released her into the crushing embrace of a rocky prison.
+
+She continued working on her body, and slowly her feeling and control returned. She sat up slowly in the dark cavern. There was some faint, dim illumination in some directions, but the only sources of light she could actually make out were the glowing runes etched into the stone obelisk of the shrine and the still-glowing remnants of the explosive destruction of the barrier that had protected her body.
+
+Carefully she summoned a small disk of golden light – light that matched the shards of magic embedded into the stone beside her. She had been so proud the first time she had cast this spell – realizing that her magic matched her mother’s distinctive golden mana. But the light showed little of anything – the cavern had to be large, she couldn’t find any sign of a roof or even walls from the dim conjured illumination.
+
+But beside her, lying on the pristine circle of stone left by the evaporated magic of her mother’s spell was her library book, dropped in the terrifying altercation with the Lich. Her library card was still inside. She reached out to grab it, but to her horror, it crumbled to dust at her touch.
+
+Ali slowly struggled to her feet and shuffled towards the only other thing she could see – the shrine. The glow of her golden disk illuminated ancient, blackened stumps and trunks of long-dead trees. Tiny mushrooms, some of which glowed faintly, pushed up their caps amid the damp moss growing upon the dead wood.
+
+Placing her hand against the shrine, mostly to steady herself, she used her Identify skill on it.
+
+Shrine of the Ancient GroveAn ancient mystical shrine of unknown origin. Offers advanced class features and attunement of latent mana affinity.Owner: Aliandra AmarielMana Siphon (Active)Mana: Unlock class experienceMana: Unlock or enhance latent magical affinitiesMana: Unlock alternate classes [Locked: Requirements not met.]Owner’s Mana: Recharge the shrine’s mana reserve. 358,045/1,250,000Quality: UniqueShrine – Artifact
+
+Owner! The word struck like a dagger to her heart. With an agonized groan, she slumped against the obelisk, her weakened body struggling to hold her up. This had been the center of her father’s domain, and the shrine was his offering to the entire city of Dal’mohra. She remembered his pride and sense of duty towards the youth of the city, conducting the Class ceremonies that were effectively their final induction into adulthood. She had been looking forward to her father performing her ceremony ever since she had been old enough to understand, and now the little detail of her name instead of his told her that her dream had been ripped away, just as surely as his life. Her forehead pressed against the cold stone, deriving some small comfort from the connection.
+
+While her grief remained, her sense of shock and helplessness eventually ebbed enough for her to examine the shrine once more. The last line caught her attention – it had never been visible to her before – and likely meant it was only available to her as the soulbound owner.
+
+One and a quarter … million… Ali’s mind simply couldn’t comprehend the sheer enormity of the mana storage the shrine possessed. Even at less than a third of its capacity, it still held more than three hundred and fifty thousand mana.
+
+Ali looked at her status sheet again. She had two hundred and ten mana, and she had been called gifted by everyone who knew. She was blessed with an unusually high wisdom attribute, and her racial aptitude enhanced her mana by fifty percent. She did a few quick calculations in her mind. If she did nothing else, it would take her more than a year to refill the shrine.
+
+Carefully she channeled her mana into the shrine watching the counter increase quickly. Half her mana brought the total up to 358,150. She stopped.
+
+Filling this isn’t going to help me right now. Yet, it felt so wrong to leave it so empty like this.
+
+I could unlock my own class, she realized. Indeed, as the owner of the shrine, she could activate each of the abilities, and then simply use them on herself. She caught herself looking around as if she expected someone was going to catch her in the act.
+
+There’s nobody left to complain that you’re not qualified.
+
+The only problem was, there was nobody around to help her with her trial. While not strictly necessary, the purpose of the trial was to guide experience gain toward the traits needed to unlock a preferred class. On the other hand, her choice might very well be between dying unclassed versus surviving with some class, regardless of what she unlocked. And if that was the case, the sooner she unlocked the ability to earn experience, the sooner she could earn a useful class.
+
+She agonized over it for a while but, in the end, there was not much of a decision to make. Any class was better than no class if she came face-to-face with a skeleton in the darkness.
+
+Carefully she channeled a little of her mana into the shrine, choosing the feature that would unlock her own class experience. The stone artifact hummed softly, and the runes on its surface briefly brightened. Runes she suddenly noticed were now gold and green, matching her affinities.
+
+Class experience unlocked.
+
+[Shrine of the Ancient Grove] Once you have earned enough experience, a class will be offered based on your choices, abilities, and actions. You can unlock additional class choices at the shrine.
+
+Ali lingered over the surprising messages. She recognized the initial message as a normal one, but the second message had come directly from the shrine itself. She checked the shrine again, finding that the mana total had decreased by one hundred.
+
+That seems like a reasonable cost, she thought, looking curiously again at the enormous total. No answer seemed forthcoming, so instead, she checked her status, finding that the class line had updated to reflect the change.
+
+Class: [Unlocked]
+
+There is another option I can use, she thought, studying the shrine and the enticing option that offered to enhance or unlock mana affinities. It sounds useful. Ali already had two mana affinities: Nature and Arcane. Enhancing them seemed like something she might need. She channeled mana to activate the shrine’s latent affinity function.
+
+The shrine began to glow and hum as she gave it her mana, but it rapidly grew brighter and more powerful, sending a thrum of power deep through the ground under her feet. Her skin began to prickle as if an unseen energy were flowing through her body, and all around her, an intense green aura began to shine, blasting back the darkness. Shot through the green light, she could see streamers and symbols of intense golden energy slowly drifting around, looking very much like the runes inscribed on the shrine itself. Ali held back a scream as the rush of power tore through her body and mind until it suddenly ceased, dropping her to the ground for the second time today, leaving the startling echo of several chimes in her mind.
+
+[Shrine of the Ancient Grove] Reserved mana reduced by 50,000.Your affinity with Nature mana has been enhanced.Your affinity with Arcane mana has been enhanced.
+
+Slowly she got back to her feet, stunned at the unexpected display of power. But, to her surprise, she actually felt a little more alert and energized than before. Ali placed her hand on the shrine once more.
+
+Owner’s Mana: Recharge the shrine’s mana reserve. 308,050/1,250,000
+
+Ali gulped. She had decided to use the shrine on a whim, and it had burned fifty thousand mana in an instant. No wonder it was so powerful, she thought, feeling somewhat guilty at having used so much of the shrine’s precious mana reserve. But the guilt faded quickly; it wasn’t much, but it seemed to be a useful step forward, even if she didn’t know what she had accomplished. Far better than helplessly cowering in fear from the Lich or fleeing from the skeletons.
+
+As the auras of the lingering magic faded, darkness returned to the Grove and the shrine within it. Loath to linger alone in the darkness, Ali summoned her arcane magic light once more. This time, however, the magic manifested with a snap and shone brightly in the darkness – significantly brighter than she had ever seen it.
+
+Did it get stronger because of the shrine? It seemed logical, but Ali had not expected such a dramatic change.
+
+Her considerations of her magic were suddenly interrupted by a shuffling and scratching in the darkness beyond the circle of light cast by her spell. Something moved; something large and ominous, hiding in the shadows. Ali’s overworked fear returned in a rush, and, with a trembling hand, she raised her small glowing spell to shine more light around her.
+
+Reflected back at her from the darkness she saw two shining black beady eyes staring at her, full of hunger and malevolence.
+
+Scarcely breathing, she cast Identify at the shape lurking in the darkness.
+
+Sewer Rat – level 3

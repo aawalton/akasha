@@ -1,0 +1,129 @@
+---
+id: a7a8924d-a1e9-5c9b-bf93-449b94ce65ac
+page-type-slug: story-chapter-royal-road
+title: "Chapter 220: Witchdoctor (Part 1)"
+slug: 0248-chapter-220-witchdoctor-part-1
+partOf: dungeon-of-knowledge-complete
+position: 248
+ownLength: 2192
+unit: words
+ownProgress: 2192
+publishedAt: 2025-04-07
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2181825/chapter-220-witchdoctor-part-1"
+royalRoadId: "2181825"
+markedReadAt: "2026-06-29T20:19:34.844Z"
+---
+
+Ali pulled out her rune notes, intending to take a little study time while Mato whipped up something for breakfast before they broke camp and headed deeper into the jungle in search of answers for what had befallen Aman Rak. But right as she started to get stuck in, comparing the transcription of Kir’mogan’s tattoos to a few of the more intractable runes deeply entwined in Nevyn Eld’s disturbing array, her chime interrupted.
+
+Variant: Lunaré’s Tears added to Imprint: Wildflower.
+
+Ali looked up sharply at the unexpected notification and immediately switched her attention to her distant domain back beneath Myrin’s Keep. She skipped across the senses of her minions like a pond-skater darting across the water: Giant Bat, Kobold Warrior, Vampire Hornet, Icicle Bat, Tunnel Weaver, Forest Guardian, until she finally found a Glitter Dragonet gliding through the vast space among the canopy of Lirasian Oaks of her Forest Cavern that could see some figures far below. She immersed herself deeper into its awareness and swooped downward to get a closer look, leaving tiny trails of sparkling gold in the wake of her little dragon wings. Flying under her own power – even just borrowing the experience briefly – made her blood sing. Her tiny wings quivered in sympathetic excitement.
+
+She caught the instant the Beast Tamer’s eyes locked onto her, bow readied, but she recognized Willow immediately; the girl who had won her Timber Wolf companion from her dungeon. As the bow lowered, Ali glided down towards the now-recognizable adventurer group, glancing from one to the other curiously. They were all here – a full raid group comprised of both Teagan and Aiden’s teams. They all seemed to be waiting for Basil to finish whatever he was doing in her flower garden.
+
+Ali came to a stop, finding a perch on a rocky ridge beside him, and cocked her head to study his work, while another thread of her mind drew several other minions with diverse perception skills closer for a better look. She had loved the little garden of wildflowers he had planted for her, and she had even tried to recreate it as best she could after the burning of her forest, but this was the first time Basil had returned to it. He wielded a little silver trowel in one hand and a few small bulbs in the other while his delicate magic cradled and nurtured the ones he had already buried in the soil.
+
+Before her tiny draconic eyes, his fascinating magic swirled and tiny leaves sprouted, springing from the carefully prepared ground. A stem and bud reached up to sample the world for the first time and tiny delicate petals of yellow-white opened to release a small pulse of mana into the surrounding area.
+
+Lunaré’s Tears – Wildflower – level 24 (Holy).
+
+Ooh, pretty! Ali made a short gliding hop and landed on his shoulder. Basil let out a startled squeak but did not drop the bulbs. Ali crooned softly and nuzzled his cheek with her little golden dragon head, burping up tiny motes of light magic that bounced off his cheek, before taking off again and leaving him to his work.
+
+Thank you, Basil.
+
+***
+
+Ali got to her feet once everyone was done with breakfast and double-checked her minions before they headed out down the unexplored path leading further up the mountain, and deeper into the jungles of Aman Rak.
+
+Birds sang in the trees, greeting the day. Combined with the lush greenery and the bright light filtering through the gaps in the canopy, it created the illusion of an idyllic nature walk, and Ali had to remind herself that she was in a deadly dungeon, and she couldn’t relax her vigilance.
+
+“What are we going to do with her?” Malika asked, glancing toward Gara who stood beside Mato, carrying her shiny new axe and shield at the ready. “We can’t take her with us, this dungeon is way too high-level for her to be fighting.”
+
+“We can’t leave her behind,” Mato said. “She’s all alone, and the dungeon has almost certainly respawned everything back the way we came in.”
+
+“Let me ask her.” Switching to the challenging language of the Trolls, Ali asked, “We’re going to continue further in, but it’s very dangerous. What do you want to do?”
+
+“I will reclaim Aman Rak,” Gara declared. “I am a Troll. Trolls do not flee from battle because it’s hard.”
+
+“You’re level twelve,” Ali said, struggling to find the words to temper the harsh reality in her language. “Kir’mogan was level eighty-one. I can inscribe a teleport circle, but I can only send you to a human town. At least you will be safe and not die needlessly.”
+
+Gara blanched, swallowing uncomfortably, clearly not having understood the enormous power difference, but she remained resolute. “I cannot leave without saving Val’korr. They took him too.”
+
+Val’korr, why does that name sound familiar? Ali weighed up the risks of dying to a stray high-level spell or an uncontrolled dungeon monster, against Gara’s resolve and her obvious need to do something to regain control of her life, and decided it was not her choice to make. Gara seemed to understand the implications of her position well enough.
+
+“Will you stay back if we are fighting monsters you’re not yet strong enough to face?” She chose her words carefully, trying hard not to imply Gara was weak. Such a thing would be hard for a troll to stomach, even if it was blatantly evident.
+
+“I… yes. But I want to do something… I need…” she trailed off helplessly, hanging her head.
+
+“Can you tell us what we should expect along the road?” Ali asked, gesturing in the direction of the heavy drakes. Gara did not have to be high-level to give them effective intelligence.
+
+“This is the path to Kir’vella’s cave,” she said, looking somewhat relieved at the prospect of contributing meaningfully to their goal of progressing through the dungeon, even though it wasn’t direct combat. “Kir’vella is the strongest of the Aman Rak Witchdoctors and the first champion. Not even Kir’mogan dared challenge her. She can banish people to the Spirit Realm and summon spirit beasts to haunt them.”
+
+“Tell me more about this Spirit Realm,” Ali asked. They had already explored an Abyssal Realm, but this sounded like something else entirely.
+
+“The Seeker teaches that the Spirit Realm is all around us, but most of us cannot see or connect to it except in dreams or death. Most trolls in Aman Rak only connect to the Spirit Realm with our Ancestral Spirit Runes, but Witchdoctors can visit and travel through it, see it, and touch it, unlike normal people. If you or I were to go there, our weapons and magic would not be able to affect anything, but we would remain vulnerable to attacks. It is an extremely dangerous place. Dangerous spirit beasts hunt in the Spirit Realm, and only the Witchdoctors have the knowledge and wisdom to survive.”
+
+“That sounds… terrifying,” Ali admitted. “And magic doesn’t work there?”
+
+“Witch doctors gather Ghost Mushrooms from the Spirit Realm for use in their concoctions and brews. If you find a few, I can show you how to use them to make your magic affect both realms briefly. Only with this will you be able to defeat Kir’vella.”
+
+“So, we should hunt witch doctors and steal these mushrooms before we take on Kir’vella?” Ali asked.
+
+“Yes,” Gara said. “But it will be difficult to defeat even one witch doctor.” She said it with a strange combination of tension and pride in her voice. “On the way to Kir’vella’s cave, we must pass the shrine where Val’korr was taken. I would like to go there and search for him.”
+
+“Ok,” Ali said, quickly summarizing for everyone else.
+
+“A new kind of Troll with crazy spirit-world magic that can only be defeated by eating special mushrooms?” Mato asked, summing it up in his unique fashion.
+
+“Uh, I guess that’s one way to say it,” Ali answered.
+
+“Mmm, tasty work.” He rubbed his stomach.
+
+Malika snorted, “I’ll have none of your ‘funny mushrooms,’ Mr. Beastkin!”
+
+***
+
+Ok, here we go, Ali thought, eagerness filling her mind as Calen raced down the partially overgrown road towards them, a band of angry trolls hot in pursuit, throwing their bone axes at his swift and nimble form – a form that seemed to shimmer and warp erratically under the influence of his defensive shroud, and somehow was never quite where the flying axes were.
+
+“That’s a really good skill,” Ali said.
+
+“You can say that again,” Malika agreed. “Wish I had something like it.”
+
+“Stepping out of the way of attacks before people even think of them isn’t enough for you?”
+
+“Hmph.”
+
+Ali drew her forces into a loose semi-circle with her Forest Guardian and imps along the outer edges, and her Abyssal Stalkers taking full advantage of the concealment of the trees and brush. Flanking Mato, in the center of the path, she marshaled her two Armored Drakes, ready to tank whatever Mato didn’t grab. Next to them, she had her two Hellfire Wargs, making six heads that could breathe fire. A little behind them, a pair of wiry Troll Bone Warriors guarded her newest minion: the Blood Shaman.
+
+Ali darted between her minions, distributing mana potions to her Acolytes and minor agility elixirs to the troll warriors. She offered a mana potion to the Blood Shaman, getting a quizzical head tilt before she realized what she had done. She had faced their terrifyingly powerful blood magic from the perspective of a foe several times now and had thoroughly reviewed her abilities and skills, but none of it gave her any intuitive feel for how her shaman would affect their group strategy, nor how powerful she would be as one of their allies. However, mana potions were worthless for them; she quickly switched it for the biggest health potion she could summon and earned a grin from the troll.
+
+Calen had explained that the shaman filled a hybrid melee-healer role, something that she had little direct experience with. Her closest match was the very low-level Storm Shamans serving as melee casters, or perhaps the Forest Guardian which served as a part-time healer and a tank with battlefield control using its plant magic. The Blood Shaman seemed to have a much more proactive skillset.
+
+“Shaman first,” Calen said, sprinting through the armored front line.
+
+“Got it,” Malika answered.
+
+Ali extended her senses, taking several simultaneous minion points of view, the familiar Healer’s Sight of her Acolytes standing far behind the melee line with Gara, the sight of one of her Armored Drakes, and the still bizarre scent-based blood perception of her new shaman. The incoming trolls were mostly the familiar Bone Warriors, but they had a Blood Shaman amongst them. I’ll need to watch him for Bloodlust.
+
+“You can begin,” Ali sent her instructions to her shaman, but her minion was already dropping her totems and slicing a gash in her forearm to begin feeding her own blood into her potent spells. Her axe and shield began to drip crimson blood which filled Ali’s nostrils with a nearly overpowering metallic stench, and then the Blood Restoration totem began hungrily soaking up the excess before it even touched the ground.
+
+Ali couldn’t help seeing that Gara did the same, dropping a single totem and similarly anointing her shield with a self-bleed.
+
+“Remember to stay back,” Ali cautioned. The incoming dungeon-spawned trolls would flatten her without even trying. Gara just hissed her displeasure, but she dutifully hunkered down behind the barrier Ali had summoned to protect her Acolytes.
+
+The trolls met Mato and her two Armored Drakes out in front, generating an immense crash of bone armor against scales and hide. Birds screeched in fright, bursting upward from the trees in a frantic cloud as the overgrown road cutting through the jungle was suddenly filled with Mato’s roaring, sharp and powerful draconic talons screeching against bone armor, the chorus of Demonic Howls from Calen’s bow and Ali’s wargs, granting additional power to their forces, and the sizzling roar of hellfire and dragon’s breath.
+
+Gleaming or bloodied axes slashed, ripping flesh and spraying blood, and Ali’s nose was assaulted with a riot of overwhelming scents. Every injury and wound told a story picked up by Scent of Blood with the precision of a bloodhound.
+
+No, this is much, much more. She had tried familiarizing herself with the skill of her Abyssal Stalkers, but in the mines, they had been facing many bloodless elementals. Here everything had blood. She could tell the size of each creature, their health and injuries, and even identify individuals, all from scent – it was a perception that conveyed as rich a view of the world as her own vision. And, mid-battle, it was a riotous chaos, not unlike trying to focus on a single conversation in a loud bar filled with drunken dwarves.
+
+Ali simply let it wash over her. I’ll get used to it with practice, she thought, focusing her attention on her shaman’s actions instead.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

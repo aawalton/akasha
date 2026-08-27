@@ -1,0 +1,111 @@
+---
+id: a5581bb6-29a3-511c-b930-feb86e3a8313
+page-type-slug: story-chapter-royal-road
+title: "Chapter 221: Spirit Realm (Part 1)"
+slug: 0250-chapter-221-spirit-realm-part-1
+partOf: dungeon-of-knowledge-complete
+position: 250
+ownLength: 2174
+unit: words
+ownProgress: 2174
+publishedAt: 2025-04-10
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2190210/chapter-221-spirit-realm-part-1"
+royalRoadId: "2190210"
+markedReadAt: "2026-06-29T20:19:38.968Z"
+---
+
+Thaldorien: It’s real then?Val’korr: The Spirit Realm? Of course it’s real, boy. Are we a little slow today?Thaldorien: Careful, old Troll. Your third-tier ‘cantankerous’ skill is showing.Val’korr: Pfft. Someone has to keep you whelps in line. What? Did you think Artur was going to do it?Thaldorien: Waiter, another coffee for my grumpy friend.Val’korr: A cup of that Elvish tea might work better. Thaldorien: So, the souls of the dead travel to this Spirit Realm when they depart?Val’korr: They do. It’s far more profound, though. I believe the souls of the dead create the Spirit Realm. It appears to be a holding space until they pass on to the next cycle.Thaldorien: You know we don’t believe in reincarnation, right?Val’korr: Your loss.Thaldorien: It’s a real realm then? We could traverse it?Val’korr: Yes… but… what is real? What does that mean? Unlike most realms, the Spirit Realm is woven from soul magic, memories, and echoes of reality. It is a fractured place, inhabited by dangerous Spirit Beasts. Magic is tenuous and hard to use there. The whole realm twists perceptions and shifts along endless possibilities and echoes – if you’re not careful, you can lose your way. You do not want to get lost there.- Conversation in an unnamed Dal’mohran cafe between Val’korr [Seeker of the First Age] and Thaldorien Stormshaper [The Inscrutable], Elven King of Dal’mohra.
+
+It surprised Ali that Gara had held back for the entire fight, not risking herself against the shaman and the warriors, only occasionally offering her own blood as supplemental healing. But perhaps she had been focused too much on the trolls’ reputation as arrogant and superior. She had personally attended the lectures of visiting Troll speakers at the university in Dal’mohra and knew how smart some of them could be. At least Gara could tell just how outclassed she was on the battlefield and had acted intelligently.
+
+“Come on, Ali,” Malika said. “You’re slow.”
+
+“I know,” Ali said, deconstructing another tree and the beautiful orchids that sprouted along its branches. They had gone off-road, venturing deep into the jungle in search of the special mushrooms Gara had mentioned, but upon seeing the orchids, Ali had immediately decided to add them to her repertoire. Her father’s grove had been full of beautiful flowers just like them and recreating it had instantly become her goal.
+
+Before he had left to scout, Calen had given them a general direction to follow and, while Mato seemed to have no trouble moving through the dense overgrown jungle, Ali and her entire entourage were slowing them down immensely. On her own, she could have zipped past above the brush, but she was dragging two enormous Armored Drakes and all the rest of her minions through a jungle. Eventually, she had to resort to deconstructing some of the trees and bush that blocked their way, but waiting for her magic to clear a path took forever. On the plus side, she had already inscribed several new tree species, vines, and several pretty orchids into her Grimoire that she might be able to put to good use in her jungle when they got back home.
+
+“Wait!” Mato’s voice brought her to a halt right as she was about to step through the space created by an evaporated tree. “This is Calen’s bow!” His voice rang with concern as he turned back to face them holding the enormous bow Calen favored.
+
+“Where could he have gone?” Ali asked. No way would Calen ever willingly drop his prized weapon and just walk off.
+
+“The half-elf is that way,” Gara said. “I can smell him.”
+
+Ali turned in surprise. She had asked a rhetorical question, in Common, but Gara must have intuited the problem from no more than the sight of Calen’s bow. I didn’t even consider tracking him by smell.
+
+“Gara says he’s over in that direction. Let’s go,” Ali said, slipping her awareness into the senses of her Blood Shaman so she could keep track of the scent directly, even though the shaman was probably much better at it than she was.
+
+It was a desperate ten minutes of crashing through the forest, chasing the scent of Calen’s blood before they burst out into a clearing where Ali was confronted with the bizarre sight of a cackling, painted troll breathing sparks of light that floated off into the air, as he poked a carved and decorated leg-bone at a frantically hopping little green frog that identified as a level sixty-eight half-elf.
+
+Witchdoctor – Troll – level 80 (Soul)Archer [Rift Warden] – Half-Elf / Frog – level 68 (Light)
+
+“Calen!” she shouted, recognizing him both by the shaman’s Scent of Blood skill and by her own Identify. The grizzled troll whipped his head around and waved the grim bone in his hand, and Ali was hit by a wave of dizziness that made her stumble. Suddenly, everything swelled out of proportion.
+
+“Ribbit!” she shouted. Confused, she tried again, but the only thing that came out was more croaking.
+
+“Ali!” Malika shouted, an edge of panic lacing her voice.
+
+You have been cursed with Frog HexYou are a frog.Strength is reduced to 5.Damage has a chance to dispel Frog Hex.Reading on Amazon or a pirate site? This novel is from Royal Road. Support the author by reading it there.Curse – Duration: 2 minutes.
+
+Shit, I’m a frog too! Ali realized, her mind catching up to the notification. The witch doctor conjured an earthenware jar and scooped something out of the air with it, before tossing it over towards her. On instinct, she summoned her barrier, causing a sphere of golden magic to surround her body protecting her against the enormous jar that shattered all around her. It was that moment that flipped her perspective. It wasn’t an enormous jar – it was a regular jar. It was her that was a tiny frog. She had created a frog-sized barrier to protect herself without thinking.
+
+“Get him, Mato!” Malika yelled.
+
+That means my magic still works, Ali thought. She fired several barrier shards at the spiders that sprang from the wreckage of the earthenware jar, explicitly having to recreate some of them to make them the proper size, rather than miniscule to match her current form.
+
+Mato and Malika charged the Troll, but a flare of mana shimmered through the air and the troll suddenly vanished. Ali’s frog eyes widened in surprise. It wasn’t a teleport spell; it was something else. She could still see his mana, but it was diffused as if his form was spread out in some indistinct location, as if she was observing it through frosted glass.
+
+Without anything to attack, Mato and Malika milled about in confusion, while Ali’s minions – the ones that were not currently hopping and croaking – spread out in the clearing.
+
+“Spirit Walk,” Gara declared cryptically, ducking down behind a tree.
+
+What is that? But Ali couldn’t translate for the others. With nothing better to do, she turned to Sage of Learning and began to analyze the structure of the mana formation sustaining the Frog Hex. I’m going to need to be able to dismantle this, she thought, knowing they had not seen the last of that eccentric troll and his tricks. She was about halfway through tracing all the magical structures in the curse when an intense flash of mana from across the path caught her attention.
+
+“Behind the tree!” Gara shouted, but only Ali could understand her.
+
+“Ribbit!” Ali shouted, trying to warn her friends, but she had forgotten she was still a frog. The troll witch doctor appeared on the edge of the clearing and five wavering beams of coruscant blue light shot forth from his hand, striking Malika, Mato, and three of her non-frog minions simultaneously, flickering and pulsing as they drew energy of some kind from each of them. The witch doctor seemed to swell with power as the spell continued. Mato, of course, charged him immediately with Malika sprinting close behind him, but the witch doctor shimmered and vanished again.
+
+Finally, Ali finished her analysis, and cast her Dismantle, immediately dispelling the curse on herself – a vastly easier endeavor than the necromancy she had dismantled last night. Her body twisted and warped as the world shrunk to more normal proportions. She patted herself down, checking everything, but she was thankfully back to normal.
+
+“What was that beam?” she asked.
+
+“Mana and health drain,” Malika answered, still scanning the surroundings for the troll. “You ok?”
+
+“I’m fine.” Ali glanced about, seeing four other frogs: her minions and Calen, and suddenly realized she hadn’t made the correct choice. I can still use magic as a frog. But, freed from the hex, Calen would have been able to shoot the troll with his bow wherever it appeared. Now she had twenty-five seconds left on her recharge before she could use Dismantle again.
+
+The witch doctor appeared again on the far side of the clearing from where he had disappeared. He cast his Frog Hex on Mato this time, and Ali fired several barrier shards towards him in an attempt to fill in for Calen. The witch doctor unleashed his drain beams a second time but canceled them abruptly the instant Mato transformed directly from Frog Form into Bear Form. Three incendiary hellfire fireballs detonated in the undergrowth, passing right through the ripple of the fleeing witch doctor.
+
+“This guy is super annoying!” Mato declared as he switched back to his normal form.
+
+“How did you dispel the curse?” Ali asked. She still had some time left on her recharge, but Mato had simply broken it directly.
+
+“It’s a shapeshift,” he said. “I just changed forms, and it went away.”
+
+Well, that’s handy, Ali thought, but it didn’t help anyone other than the Beastkin. As soon as her recharge expired, she dispelled Calen’s curse and he had barely finished transforming back when the witch doctor reappeared and cursed him again.
+
+“Stop that!” Ali yelled, voicing her frustration.
+
+The troll cackled and turned. “Begone,” he said, pointing his leg bone at her.
+
+You have been cursed with Spirit BanishmentYou are trapped in the Spirit Realm.Curse – Duration: 2 minutes.
+
+The world around Ali wavered, all the color leaching from the jungle until it was a shockingly familiar monochrome gray and somewhat ethereally transparent. She stared at the clearing, her friends still visible to her, fighting the witch doctor, but their insubstantial gray appearance and the uncanny silence created a powerful sense of being somehow apart from the world she viewed. Suddenly, the entire scene flickered, and everyone vanished, leaving an empty clearing. The echo lasted only a second before it flickered again, reverting to the present.
+
+This is… Ali stared, dumbfounded. This was the same strange world she came to whenever she used Arcane Recall. The same place her mother had brought her when she had saved her from the Blind Lich. The same place she had spent three thousand years in stasis. But this time, she could move.
+
+She watched the gray and washed-out form of the witch doctor casting his draining beams at her minions and friends, but even those had lost their brilliant blue and were muted to gray in this bizarre, surreal world. She took a hesitant step forward, and her body warped and shifted as if it were not altogether coherent, held together perhaps by her memories, rather than physical consistency. Ali swallowed uncomfortably, and parts of her seemed to fray. Reflexively she clamped at herself with the full force of her will, yet the fact that it seemed to work was the most disconcerting thing of all. Whenever she used her own spell, her body was kept frozen, held immobile for the entire duration it transported her here. It had never required holding herself together with her mind.
+
+At the far edge of the clearing, something gleamed with an eye-catching flash of actual color, and so she tried another step in that direction. It was not difficult to move, but the sensation of coming apart did not ease up. Clinging to her image of herself, she took another step, and then another, getting used to the space, and soon she stood beside the large ghostly tree. She reached her hand out to steady herself, but shockingly, it passed right through the bark, sinking deep into the trunk before finding any resistance. She snatched her hand back and gazed at it, but her hand – and the tree – seemed unblemished from the disconcerting contact. Behind the tree she found a whole host of tiny mushrooms nestled in a larger patch of Soulshade Blossoms, glowing an intense blue color – the only color in this strange place.
+
+Ghost Mushroom – level 63 (Soul)
+
+A soul magic mushroom? And such a high level? Ali was intrigued, and of course, immediately deconstructed it. However, much to her surprise, her deconstruction magic, usually bright gold and green, came out gray and muted and passed right through the mushrooms without any effect.
+
+Huh? That’s weird.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

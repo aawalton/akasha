@@ -1,0 +1,367 @@
+---
+id: c6ce7561-ada8-5c6e-b9ac-60742d00b8cc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 74: Librarian"
+slug: 0074-chapter-74-librarian
+partOf: dungeon-of-knowledge-complete
+position: 74
+ownLength: 5389
+unit: words
+ownProgress: 5389
+publishedAt: 2024-05-19
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1642559/chapter-74-librarian"
+royalRoadId: "1642559"
+markedReadAt: "2026-06-29T20:13:23.928Z"
+---
+
+Vivian hopped through the shattered hole in the sewer floor, cushioning the impact with her legs as she landed in the cavern below. She had lived in Myrin’s Keep for a couple of years now, and she had not had even the slightest inkling that something like this existed below the town.
+
+She waited as the five applicants shimmied down the rope, chatting excitedly among themselves. Their first encounter with the monsters in the sewer had been predictably rough, but they had surprised Vivian with how quickly they adapted, and by the time they had unlocked their classes, their team was able to deal with all the threats they encountered with reasonable efficiency, which was how they earned their experience and unlock so quickly. Sure, they were green as fresh grass, but her experienced eye saw potential here.
+
+The mayor’s son, Aiden, seemed to have a natural aptitude for leadership. Or perhaps the group members simply understood the value of teamwork. But even the Goblin and the girl from the slums had quickly slotted into their assigned roles, and by the end, Vivian would never have said they had first met their companions a scant few hours before.
+
+They’re not guild members yet, Vivian reminded herself, worried about getting attached – but she hated to admit she was desperate for recruits. In the last class advancement, she had recruited only a few new members, most going to the garrison or the Town Watch instead – and one of her newest, Katie Brockworth, had turned up dead in an alleyway just two days ago. Stabbed in the back and left with a literal calling card picturing a finger pressed across lips tucked into her bloody robe. She would track down the murderer and end them.
+
+Vivian frowned. Her guild was simply too new to have established a great reputation. If news of the murder got out, it would become next to impossible to attract good people. But hopefully this time, it would be different. She tried not to get her hopes up too much as she led them all back through the forest to the shrine.
+
+That shrine. Her eyes settled on the enormous black obelisk and the intensely glowing runes inscribed on it, and the tiny Fae creature sitting beside it, waiting for their return. This was no ordinary shrine, she knew. The Pathfinder Guild that supplied the critical artifacts was far from able to create something this powerful. Originally modeled on the shrines grown by the highest-level sentient dungeons, the Pathfinder Guild had learned to duplicate the most essential features, spreading their constructed shrines to all corners of the continent. But what stood before her was most certainly an original – a dungeon shrine.
+
+An involuntary shiver rushed through her body. She had seen one only once before, and it hadn’t been nearly as big as this one. It had been moments before the dungeon had decimated her party, leaving her – the sole survivor – horribly injured. She had barely escaped with her life.
+
+How does Aliandra have one of these? It was a question she most certainly needed to investigate. But for now, she was eager to see what classes it could bestow on their five candidates.
+
+“Who would like to go first?” Aliandra asked.
+
+There was a momentary pause while all of them glanced at each other.
+
+“Havok go first!” the Goblin declared. “Havok create havoc.”
+
+“Alright, Mr. Havok. Let’s see if we can get you a good class so you can be a powerful warrior. Use the mana affinity feature first, it has a chance to make you even stronger.”
+
+“Ok, Miss Aliandra!” Havok’s face lit up with a big smile hearing Aliandra use his preferred name, and he strode up to the shrine, resting his rusty sword and the shield he had acquired in the sewer against a rock before reaching out to touch the shrine with grubby green fingers.
+
+Vivian had no idea what to expect, but the runes on the shrine dimmed briefly before it emitted a deep, bone-shaking thrumming noise that shook the entire Grove. A carpet of yellow-white flames erupted from the moss around the Goblin’s feet, burning without consuming, flooding the Grove with a powerful scent of incense accented with the soft undertone of warm caramel. An enormous pillar of yellow-white light burst forth, transfixing the Goblin and lifting his tiny body clean off the ground, leaving him suspended in a vibrating torrent of mana and energy. His mouth was open and moving as if he were screaming, but no sounds could be heard.
+
+Suddenly, the light cut off, the thrumming noise faded, and the Goblin dropped to the ground amid the still-flickering tongues of flame. He groaned, obviously shaken, and clambered to his feet frantically looking around, but after a nod from Aliandra, he once again placed his hand on the shrine – a touch more tentatively this time.
+
+The runes dimmed one more time, somewhat anticlimactically, and Havok removed his hand, slowly walking over to retrieve his discarded sword and shield.
+
+“What did you get, Havok?” Aiden asked while their entire group stared at him with anxious curiosity.
+
+The Goblin looked up at them and raised his shield. A sudden flare of yellow light burst out, manifesting as a brilliant shield of mana overlaying the mundane one of chipped and scratched wood. His rusty sword burst into yellow-white flames.
+
+“Havok is Holy Knight!” he declared and broke into a huge grin of excitement.
+
+The Goblin is a fucking Paladin? Vivian thought in amazement, recognizing the Holy Shield and Consecration he had just used. People spent years as acolytes to various temples and orders trying to earn a similar class, and the Goblin had just pulled one out of the shrine like it was the easiest thing in the world. Well, not that easy, judging by the curl of smoke wafting out of his left ear.
+
+The group cheered for him and suddenly they were all lining up to use the shrine, with exclamations of excitement as they unlocked their classes and affinities, and cheers of congratulations as each person earned their class.
+
+Vivian stared, openly dumbfounded as each candidate unlocked potent mana affinities followed by a ridiculous class.
+
+Paladin – Goblin – level 1 (Holy Knight)Warrior – Human – level 1 (Ice Swordsman)Rogue – Human – level 1 (Wind Blade)Archer – Human – level 1 (Lightning Archer)Mage – Human – level 1 (Rock Mage)
+
+What the fuck? Vivian couldn’t believe her eyes. She had thought Aliandra and her group to be the anomaly of the century when she first evaluated them, but this group standing before her looked to be every bit as remarkable. Every single person had an affinity-enhanced class.
+
+As the excitement slowly tempered into a quieter conversation, Aiden turned to her.
+
+“Vivian Ross, could you please tell us about the guild? I assume that’s why you’re here, right?”
+
+“It is,” she admitted, collecting herself and picking her proverbial jaw up from where it had hit the floor earlier. She felt bruised having just been a spectator.
+
+Moment of truth, she thought. But she would need to handle this carefully.
+
+“Membership to my guild is optional, but it is available to each of you if you would like.” She knew from hard-won experience that if she were the one pushing, she would end up with entitled people who refused to work hard and didn’t cooperate – and that was the death of a guild. The commitment had to be genuine and offered freely for it to be worth anything. Unfortunately, that way was the slowest way to build a guild, especially one starting out with little to no reputation. Even worse if Mieriel was right and Katie’s death was a sign they were being targeted by a new assassin.
+
+“With normal guilds, level ten is the minimum to join, and counts as bronze rank,” Vivian continued. “I waive that requirement and allow people to join immediately at novice rank. I believe in solid training and hard work to progress, and the guild provides instruction and lectures on adventuring as part of your membership. You will also gain access to the quest and jobs board at level ten, allowing you to earn money with your class.”
+
+She paused, considering what else she might say to convince them, without forcing the issue either way.
+
+“You don’t need to make a decision immediately – the option will remain open for you if you wish to think about it.”
+
+“We all got pretty good classes, didn’t we?” Aiden asked, pursing his lips in thought.
+
+This is where he pitches a ‘deal’ for better treatment. Vivian had heard it all before. He was the son of the mayor, and he had an Ice Swordsman class – in most guilds in the kingdom, he could write his own charter.
+
+“Yes, you guys have incredible classes.”
+
+It’s a pity though, I thought they looked good together. Vivian had allowed herself to hope too much, and now she felt thoroughly let down.
+
+“Havok will join guild! Havok get strong and take jobs to help people!”
+
+Vivian blinked at the excitable Goblin for a moment. Just like that? No conditions? I suppose he is a Goblin.
+
+“I would like to join too.” This time it was the girl from the slums, Devan, dressed in her rags, now splattered with blood and ooze. “I would like to earn some money, and maybe buy a better dagger.”
+
+Vivian couldn’t believe it. The girl had landed a Wind Blade rogue class, and her ambition was to buy a slightly better weapon. What is wrong with these people?
+
+“We would like to join too,” Aiden said after exchanging glances with his two friends. “And I was wondering if we could keep this group as our party? We seemed… good together?”
+
+“Yes, you were. You may sign up as a group if you all agree,” Vivian said, but inside, her mind was reeling.
+
+What just happened? All of them? All five had asked to join the guild, asking for no special treatment in return. Each of them was smiling, seemingly excited by the prospect. A piece of her wanted to scream that it was too good to be true, but nobody changed their minds, all of them happily falling in beside her as she turned to lead them back to town, her voice explaining the signup process without much input from her mind.
+
+“Thank you, Aliandra,” she said, turning to the Fae who was looking just as happy as she felt. “I’ll let you know when the others make their appointments.”
+
+They all got crazy good classes… but it was the Fae who did it. Classes, affinities, and even the trials. Vivian swallowed as she turned away. Just who or what is she? Do I even want to ask that question?
+
+It had only taken two days for all the crafter and merchant candidates to complete their trials and Ali had happily taken each of them to the shrine one at a time to choose their classes. Not all of them had revealed latent mana affinities using the shrine, but every single one of them had found a class that excited them among the list of options her shrine had offered.
+
+“Here we go,” Ali said, coming to a stop before the shrine.
+
+“I still can’t believe you have all this growing down here,” Basil said, his eyes never resting as they darted among the trees and mushrooms.
+
+Ali shrugged and smiled at him. “Was your trial easy?”
+
+“Oh, no, Eliyen made me work harder than she ever had!” he said, and then he paused. “Wait, I have something for you.” He carefully unslung the small pack he was carrying and slowly pulled out three carefully wrapped clay pots.
+
+Ali could already see the mana wafting outward even before he unwrapped them. “What is that?”
+
+“It’s a gift for you,” Basil said, unwrapping the pots and handing them to her. “For your collection.”
+
+Each pot was filled with a dark brown potting soil and from the center sprouted a clump of sword-like blue leaves, leaking a strong bluish-purple mana into the surrounding air.
+
+Blue Mana Grass – Grass – level 11 (Arcane)
+
+“You got me some arcane grass!” Ali exclaimed. Bless his kind heart. What a thoughtful gift!
+
+“It’s incredibly difficult to cultivate,” Basil said, twisting his mouth to the side. “Eliyen made me germinate them for my trial. They can be processed into ingredients for mid-range mana potions, so they’re always in high demand.”
+
+“I didn’t realize you could grow a level eleven mana plant without a class,” Ali said, taking each pot and setting them down carefully on the stone path.
+
+“I can’t,” Basil said ruefully, scratching his head and further mussing up his tousled brown hair. “But when Eliyen heard I wanted to give them to you as a gift, she helped me finish growing them. That’s why we took a little longer.”
+
+“Thank you, Basil,” Ali said. “Now, let’s get your class unlocked. First use the mana affinity feature.” Ali activated the shrine for him.
+
+“Ok,” Basil said, his face suddenly serious. He reached his hand to touch the shrine and then a few moments later, a cascade of vibrant green mana burst from his body. A rush of tiny wildflowers rippled across the ground at his feet in a blooming wave, filling the air with the heady scent of jasmine. Illusory vines made from mana shot up from the ground, filling the air with an explosion of green leaves and aromatic, woody scents.
+
+“Oh, my!” Basil exclaimed, his breathing coming fast. “I got a nature affinity!”
+
+“Surprised, are you?” Ali laughed, watching as the vines and flowers slowly faded. “I’ve unlocked the class selection too, take your time.”
+
+Ali turned to the pots on the ground and carefully deconstructed each of them.
+
+Variant: Blue Mana Grass added to Imprint: Grass
+
+Looks like a clumping grass, she thought, recalling how Basil had categorized them. Scanning the Grove, she selected a large boulder protruding from the ground beside a heavy oak and began to create her grasses, grateful that she could select the proper variant directly now.
+
+She planted several clusters of it nestled up against the rock, fascinated to discover that the mana the grass emitted had somehow changed to her signature golden color instead of the original purple. Looks so pretty!
+
+“That looks great,” Basil said, walking up to join her. “I tried so hard to find something that matched your affinities.”
+
+“You done?” Ali asked. “Get something you like?” It was such a thoughtful gift. Ali could already see the welling fount of arcane mana generated by the blue-bladed grass slipping into the weave of her domain, augmenting and strengthening it, just like the Glowcaps.
+
+“I love my class!” he exclaimed.
+
+Ali looked up and identified him.
+
+Herbalist – Human – level 1 (Nature)
+
+That leaves only Ryn, she thought. Fully eight out of eleven candidates had unlocked a latent mana affinity, and Ali’s mind stubbornly insisted that meant the pendulum needed to swing the other way – that Ryn would fail to get something good. The thought filled her with anxiety even though she understood chance did not work that way.
+
+But what if I gave all the good classes to strangers?
+
+Shush, she told her mind. There wasn’t anything she could do about it, and Ryn’s boss was only due back in a week anyway. She put it out of her mind, resolving to enjoy her time on their regular lunch date today. She had finished the last book all too quickly, and now she was looking forward to chatting about it.
+
+“Come, Basil,” she said, calling her minions over. “Let me escort you back up to town.”
+
+***
+
+“Hi, Ryn,” Ali called out into the bookshop, gazing around but not seeing her friend anywhere.
+
+“I’ll be right there, Ali,” a voice called out from between several closely-set bookshelves. Ryn always seemed to be reorganizing the entire store, and there were books piled on boxes and laid out carefully on the floor in various heaps, clearly in the middle of the sorting process. The Kings and Emperors board that seemed to be perpetually midgame was showing what appeared to be the late stages of an epic battle.
+
+“Hi, Ali,” Ryn said, finally emerging from behind the book piles. “I got you a present.” She offered a stylish paper bag with two handles.
+
+“What is it for?” Ali asked, accepting the bag, and looking inside. She gasped in surprise at what she found. Carefully, she pulled out the heavy Monster Compendium. “Ryn, this is too expensive!” She couldn’t deny that she coveted this book, but honestly, what was Ryn thinking?
+
+“I wanted to get you something to say thank you for the shrine, and for thinking of me.”
+
+“But you haven’t even gotten your class yet? What if it doesn’t turn out well?” She blurted her fears out without thinking, and then instantly wished she could pull the words back.
+
+“Nonsense, it’s the thought that counts, and I really appreciate it. Besides, I get a store discount and you’ve been drooling over that book every time you come over. It would make me happy for you to have it.”
+
+Ali hovered momentarily between wanting to argue and wanting to keep the book, in the end deciding that she couldn’t reject the gift and potentially hurt Ryn’s feelings.
+
+“Thank you! I love it.”
+
+“I know,” Ryn answered with a mischievous grin. “You can be a little obvious sometimes, you know?”
+
+“That bad?” Ali asked, but she knew it was true.
+
+Ryn just chuckled as she walked over to the table and laid out some teacups and cookies beside the gameboard.
+
+“What are you studying?” Ali asked, pointing at the Kings and Emperors set as she took a seat. Every time she visited the board was set in some new configuration.
+
+“The Elorthian royal defense strategy today,” Ryn answered. “Do you play?”
+
+“I know the rules,” Ali answered. She wasn’t familiar with the defense Ryn had named, but then she wasn’t familiar with the Elorthians either – perhaps they had come after her time. At least she was familiar enough to read the board and understand the position.
+
+“I can reset the board if you want to play,” Ryn said, and Ali was surprised to see the intensity in her friend’s eyes – an intensity that was almost as great as when she spoke of her favorite books.
+
+“Sure,” Ali answered, but then as Ryn set the board, she noticed something amiss. “You left out some of your pieces.”
+
+“That’s the handicap,” Ryn answered.
+
+“You have nine fewer pieces, that seems a little excessive?” Ali said. And a little presumptuous, she thought. This would be the first time they played, and although Ali wasn’t an expert, she wasn’t a beginner either. A nine-piece advantage was the largest handicap that could be given.
+
+“Oh, I’m sorry! I’m just used to giving everyone a nine-piece advantage,” Ryn answered quickly, her face registering sudden distress, “I didn’t mean to come across as rude.”
+
+“It’s ok,” Ali answered, quickly trying to assuage Ryn’s mortification. She liked Ryn and if she had an inflated opinion of her skill at her favorite game, Ali didn’t mind too much.
+
+But no more than five moves into the game, Ali realized that the nine-piece advantage she had been given was nowhere near enough. Somehow, Ryn’s play was dominant from the start and Ali immediately found herself on the defensive and losing ground. But the look in her friend’s eyes was not one of gloating, but rather a pure joy and happiness that Ali found was beginning to affect her too, despite her quick losses.
+
+They spent the next half hour enjoying tea and cookies, while Ali lost repeatedly – but in turn, she grilled Ryn for everything she had felt about the characters in the book she had just read, and what the ending had really meant.
+
+“Hey Ali, can I ask you a favor?” Ali was getting ready to leave when Ryn stopped her.
+
+“Sure, what do you need?”
+
+“Well, you’ve mentioned the library a bunch and… well, I was wondering if you’d take me to see it? It sounds so grand!”
+
+“It’s a bit of a mess at the moment.” Ali hadn’t been in the library since her fiasco with her book imprint, and she wasn’t quite sure she was ready to confront whatever feelings lurked in there for her.
+
+“It’s ok if you don’t want to,” Ryn demurred. But Ali could tell she had set her heart on it.
+
+“Ok, I’ll take you,” she said. It was just some annoying feelings anyway, and if it made Ryn happy, well that’s how friends should treat each other. “It’s a bit of a long walk. And a rope climb.”
+
+But Ryn was already beaming.
+
+The walk itself was pretty uneventful, and her barrier magic made the descent down the ventilation shaft much easier, but Ali still collected several of her Kobolds to escort them. Habit. It paid to be prepared, and despite Calen’s scouting, there were still many caverns and passages that led to places unknown.
+
+“I’m sorry it’s in such bad shape,” Ali said, leading the way up the mossy carpet she had planted to the huge, shattered stone doors. “I think it’s going to take a lot of work to repair. Come on in!” Now that she was here, showing Ryn, she wondered what she had been so afraid of. Ryn’s awe and wonder as she gazed up at the library made it all worthwhile.
+
+But right as they entered, Ryn stumbled, tumbling to the ground and staring about in shock.
+
+“Ryn! Are you ok?” Ali hurried over to help her up, berating herself for not having cleaned off all the bone encrustations on the floors.
+
+“It’s not that…” Ryn said, pausing while she stared off into the distance. In a small voice, she added, “I just got offered a class…”
+
+“You did?”
+
+“Yes, right as we walked in. It says my natural class is Librarian. Do you think I should take it?”
+
+“No!” Ali was not going to let Ryn take the natural class without trying the shrine first. “I know it’s a hassle, but we should get you to the shrine so you can see all your options.”
+
+“Ok,” Ryn said, picking herself up and dusting off her dress.
+
+While Ryn put a good face on it, Ali could tell she was getting more and more nervous as they got closer to the shrine.
+
+“What if there are no good classes?” she asked finally as they arrived.
+
+“There will be,” Ali said firmly. She had worried about exactly the same thing, but she refused to add to Ryn’s anxiety. Selecting a class was stressful enough already, after all, it was a permanent change that would affect her entire life.
+
+“Put your hand on the shrine, and use the ability for latent mana affinities first,” Ali instructed, activating the shrine for her.
+
+Please, please, please be something good.
+
+Ryn placed her hand, and a long silence stretched out through the Grove, spiking Ali’s anxiety. Just as she was certain it had failed, the runes dimmed, and a deep sonorous chime sounded across the Grove. Brilliant arcing bolts of golden mana shot out from Ryn’s chest and arms, wreathed in flames of deep violet. The mana tugged at Ali’s heart and her mind as flickers of half-remembered events cascaded through her like fragmented dreams or glimpses of other lives.
+
+Just when the intensity of sound and mana reached a crescendo, it suddenly stopped, dropping Ryn back to the mossy ground in a boneless heap.
+
+Ali rushed over immediately, but Ryn slowly sat up.
+
+“That was intense! I got… arcane mana? And divination?”
+
+“You got two affinities?” Ali could scarcely believe it. Multiple affinities were rare – even rarer among humans. And divination mana was one of the rarest and most challenging mana affinities she had heard of.
+
+Ryn nodded, slowly getting to her feet, and allowing Ali to help.
+
+“Do you want to rest for a bit?”
+
+“No, I want to see what classes there are,” Ryn said, a determined look on her face now.
+
+“Ok.” Ali activated the shrine one more time and Ryn got that far-off look in her eyes as she examined her options.
+
+“There’s a lot of choices, Ali,” she said.
+
+“You should read them all.”
+
+“I already did. I have a reading skill, remember? Ali, there’s a class called Knowledge Seeker, and it says it’s a Librarian class that was unlocked for discovering one of the great libraries.” Her voice was filled with awe and wonder. “It uses both arcane and divination mana. Do you think I should take it? Can I take it?”
+
+“Do you like it?” Ali asked.
+
+“I love it!” she exclaimed. “It’s… it’s a dream come true.”
+
+“Then you should definitely choose it,” Ali answered. After all, liking your class was the most important part. A consideration that Ali hadn’t had the luxury of indulging in at the time she had chosen.
+
+Ryn’s eyes unfocused as she concentrated and then she said, “I get a skill for memorizing, and organizing information, and one that helps reading and studying, and… OH! I can fly!”
+
+“Show me!” Ali answered, enjoying Ryn’s excitement just as much as she had her own discovery of flying.
+
+Ryn concentrated for a moment and two transparent golden butterfly wings appeared from her back shimmering and insubstantial, bordered with a deep purple glow.
+
+Ali cheered while Ryn tested her wings, flying around but staying close to the ground while she got used to it. Her wings are so pretty.
+
+“Ali, I got a teleport spell too. I can set any library I visit as a teleport destination and travel there. I only have one location to start with. I know it’s a long walk, but do you mind if we go back to the library so I can set my first teleport there?”
+
+“Of course,” Ali said. She didn’t mind the walk, and now that Ryn had her class, she had a lot of questions about her skills. As they walked, Ali identified her.
+
+Librarian – Human – level 1 (Arcane / Divination)
+
+“Ali, why does a librarian class get wings?” Ryn asked as they walked through the giant doors again.
+
+“Have you seen this library?” Ali asked, sending her barriers higher up the walls to illuminate the many-story-tall shelves with their circular walkways and ladders ascending hundreds of feet into the air. “Back when it was in use, librarians and clerks would need teleportation, flying, or telekinesis spells to retrieve books for people.”
+
+Ryn stared upward in awe.
+
+“Come on!” Ali said, hopping on one of her barriers. “Let’s fly!” Now that they could both fly, Ali decided Ryn needed a proper tour, getting the feel for the sheer enormity that was the grand library. While she was initially scared and cautious, Ryn rapidly got the hang of her wings, and after a while, she was darting back and forth making adventurous dips and loops, although when one almost ended in disaster, she became much more cautious.
+
+They paused together, hovering in the center of the atrium.
+
+“I have one more spell, but I’m unsure how to use it,” Ryn said.
+
+“What does it do?” Ali asked.
+
+Ryn shared the skill with Ali, the text appearing as violet light trimmed with an outline of gold.
+
+Seek Knowledge – level 1Mana: The seeker will show the path to the knowledge you most desire or need. Recharge: 24 hours.Divination, Area, Knowledge, Intelligence
+
+“That seems very vague,” Ali said thoughtfully. “It is named after your class, so maybe it’s a signature skill of some kind? It doesn’t seem like it could hurt. Maybe just try it?”
+
+“Ok,” she said.
+
+Jagged tendrils of violet mana exploded out of Ryn like lightning feelers crackling out across the enormous library in all directions, arcing to shelves and walls and floor. The strange phenomenon continued for about ten seconds and suddenly an intense golden core of light shot out filling a single branch as if to form a pure mana lightning strike into the wall across on the second floor.
+
+Ryn gasped, out of breath for a few moments. “I saw a book,” she said.
+
+“Let’s go see,” Ali said excitedly, giving Ryn a few moments to catch her breath. They both flew across the huge atrium towards the spot Ryn’s spell had struck.
+
+“There’s nothing here,” Ryn said, looking about in confusion. “I thought I saw a book – I’m sure I saw one.”
+
+There really was nothing there. Just a stone wall. Ali examined it closely, paying extra attention to her Arcane Insight, running her fingers along the wall just to be sure, but she couldn’t find anything out of the ordinary.
+
+“Hmm,” Ali said. “Let me try something.” The wall bothered her. There was nothing there. Not even ambient mana.
+
+She activated her deconstruction magic while resting her palm flat against the stone wall. The light of her magic twisted and warped strangely making the stone shimmer and ripple. Ali stared at it curiously – stone didn’t normally behave that way. Not even when she deconstructed it. She was about to say something when it vanished without warning.
+
+It did not explode into motes of mana, as she had expected. Nor did she receive the usual flood of knowledge pouring into her mind. Instead, the stone simply vanished, revealing a small shelf set into the wall with a glass door covering the front. There was a hole in the glass the size of her palm, and the complex runic script etched across the glass fizzled and spat with leaking energy where her magic had deleted a critical piece.
+
+“An illusion?” Ryn gasped.
+
+“I think so,” Ali said. And if she wasn’t mistaken, a layer of high-potency protection runes which had just been deactivated.
+
+Ali reached out and tugged at the glass door, making it swing open, revealing a single book within. It was a heavy tome, bound with thick black leather and steel edge caps. Silver runes were inlaid into the cover and spine of the book, glowing with what Ali guessed was preservation magic.
+
+Whoever made this book wanted it to last, she thought. She reached out and laboriously lifted the heavy book so she and Ryn could see the cover.
+
+Dungeons and Domains: A Complete Reference.
+
+It was titled in Ancient Dal’mohran, so Ali translated it for Ryn. What was so special about this book that it needed such extraordinary protection? Her eyes traced the silver letters, but she froze when she encountered the author’s name right below the title.
+
+Nevyn Eld. Oh no, why him?
+
+She had always known he had been a prominent magical researcher before he had turned to the undead Lich he was now, but simply seeing his name in print, in her hand, sent chills of fear surging through her body and mind. Quickly, she stored the dangerous book, shivering as Ryn looked on with a concerned expression.
+
+Calen’s voice echoed through the atrium, “Ali, are you in here?” The walls and shelves started to light up as his magic slowly drifted out over the space.
+
+“Down here,” Ali called out, shaking off the vision of the Blind Lich conjured by her overactive imagination.
+
+“Mato says dinner will be ready soon,” Calen shouted down. “Oh, hi Ryn, you are welcome to join us.”
+
+“I should head home,” she answered. “I want to tell my mom about my new class!” She turned back to Ali, “Thank you so much for showing me your library, and for my class, and everything! You can tell me about the book later.”
+
+Ali and Ryn flew back and joined Calen. Then the three of them walked back together so that Ryn could return safely back to the town.
+
+“Don’t forget to practice your skills,” Ali told her as she waved goodbye.
+
+Now, what am I going to do with the Lich’s book? she thought with a shudder. It felt like it was burning a hole in the back of her mind, through the storage enchantment in her ring.

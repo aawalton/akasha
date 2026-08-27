@@ -1,0 +1,213 @@
+---
+id: acf1ac34-7428-51c9-8c18-94f933a3dc0c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 211: Slime Lord (Part 2)"
+slug: 0228-chapter-211-slime-lord-part-2
+partOf: dungeon-of-knowledge-complete
+position: 228
+ownLength: 2946
+unit: words
+ownProgress: 2946
+publishedAt: 2025-03-16
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2129999/chapter-211-slime-lord-part-2"
+royalRoadId: "2129999"
+markedReadAt: "2026-06-29T20:18:52.944Z"
+---
+
+“How do I use it?” Naia asked, bobbing up and down in excitement.
+
+“This is a good spot to try it out,” Mato said.
+
+Nodding, Ali said, “Why don’t you fill this cave with your domain first? Then I can help you make a boss here.”
+
+It was a good chokepoint and the reason the dungeon had been such a pain for Naia, and she was certain Calen would approve of the strategic location. Once again, her mental acuity seemed to have sharpened in perceptible ways, her question concise and brimming with curiosity.
+
+While Naia grew her ropy domain mana into the chamber, Ali met Mato’s gaze.
+
+“Fire, for sure,” he said, answering the unasked question without hesitation.
+
+“Yes, that’s probably right,” Ali said. The new slimes Naia had earned had some substantial immunities against the nature and death dungeon, but fire burned plants and so her first boss should probably be that.
+
+“What now?” Naia’s slimes were still busy laying her mana throughout the cavern, but it seemed strong enough to start.
+
+“Make a Lava Lurker, and then use your ability. I would give it Affinity Aura and then either Minions with some more Lava Lurkers or give it the ability to summon them.” It would be a very one-dimensional boss, but it would act as a hard stop for any plants or beetles or even the fungus things that they had fought. There would be more options if Naia eventually unlocked the ability to make raid-level bosses or unlocked more domain magic spells.
+
+“Ok,” Naia said, beginning her unique summoning process. The Lava Lurker spawned, separating from her main body, and then Ali had the unique opportunity to watch the domain mana twisting into a domain enhancement as Naia walked through the process of creating a boss in her domain.
+
+The lava-affinity ooze swelled to more than twice its normal size and a wave of heat rolled out through the cavern, setting the fungal creep alight. Cracks appeared in the ground and lava flowed from the much denser fire-affinity mana billowing from the empowered ooze.
+
+“Oops,” Ali said, as they scrambled to retreat from the room, her Acolytes throwing healing magic around as Naia’s new boss set everyone alight. While the Lava Lurker technically had a lava affinity, it was compatible enough with fire affinity to work with the aura, but the specialized mana had certainly changed the manifestation of the aura. When she was done, Naia had a room full of lava and a monster of an ooze. Anything that wasn’t resistant to fire was going to have a hard time in there.
+
+As they gathered in the hallway, Naia began making a few new oozes. “For you,” she said, pushing them toward Ali. There were three each of the new oozes Naia had learned. Ali lost no time adding them to her repertoire.
+
+Variant: Rotting Ooze added to Imprint: Ooze.Variant: Devouring Consumption added to Imprint: Ooze.
+
+“Thank you, Naia.” Ali’s curiosity had been burning on a slow simmer in the background, and now it suddenly sprang to the fore. She summoned one of each of the two new oozes and studied their skills.
+
+The Rotting Ooze was straightforward, having a dual nature and death affinity, manifesting as ‘rot’ being the most interesting feature. It was immune to both affinities, and it had a classic combat-support skill that imbued all its physical attacks – its pseudopod strikes – with additional rotting damage. Other than that, there was nothing particularly remarkable about it.
+
+Surprisingly, her Devouring Consumption – and the three that Naia had summoned for her to consume – were all very low level. Level two in this case. She immediately noticed that the strange ooze was not immune to death or nature, just poison and the usual deafening, drowning, and blinding granted by its innate ooze biology. Its skillset was unremarkable for an ooze: basic ooze body morphology, physical attacks, strange tremor senses, and such. But it did have one skill that really caught her attention.
+
+“Hey, Mato, look at this.”
+
+Consume – level 1Mana: Consume a fully engulfed corpse to gain at least +1 temporary class level and grow larger [Greater growth and level gain for higher level corpses]. All temporary levels and growth are extended for +10 minutes per use. Duration: +10 minutes.Death, Nature, Buff, Wisdom.
+
+“That’s insane!”
+
+“I agree,” Ali said, still marveling at the skill, and what she had seen during the fight. It really was an insane ability as Mato had said. Granted, it seemed like it would have been quite difficult to use in most of their fights so far, but against the demonic horde from the abyssal realm, it would have been devastating. Even just consuming all the Toxic Slimes her Spitter was generating at the height of that battle would have pushed the Devouring Consumption to some incredibly high level – that was assuming it didn’t have a cap.
+
+She had a mind to add one to that area as soon as they got back home. It was immune to poison, so that wouldn’t be a problem. The only thing was it probably only gained size, class level, and the associated attribute points – which was an incredible boost – but it probably didn’t gain skill levels with the increase.
+
+Still. She shook off a vision of a monster slime burying all of Myrin’s Keep beneath a quivering mountain. Yes. More investigation needed, I’d say.
+
+“Healing is important, isn’t it?” Naia said, interrupting her study of the new ooze, bobbing about thoughtfully. “How can I get healing?”
+
+“I’m not sure,” Ali answered. “I just learned to make the Kobold Acolytes when we found them in the library.” She couldn’t imagine how much different her progress would have been without them. “I suppose you would have to find a holy slime?” That thought sent a sudden rush of ideas cascading through her head. “Naia, how does your mutation thing work?”
+
+“If my slimes get hurt enough there is a chance to mutate. I never got to use it much because they usually die, but you healed my slimes a lot, so they got hurt a lot more than normal and then one mutated.” She bobbed about a little. “It gets better with wisdom, and I just got more wisdom from my skill advancement.” She wobbled excitedly at that.
+
+Damage… She knew of only one source of holy damage, and that was Havok.
+
+“Naia, would you like to meet some more friends? Some people at the guild could come visit you here and test your new bosses for you. And maybe their magic could help you grow. What do you think?” She knew also that she would feel a lot better having some friendly adventurers available to give Naia a hand if things got bad.
+
+“Oh, that’s a great idea, Ali,” Mato said, grinning.
+
+“Ok?” Naia seemed a little hesitant at the idea but cautiously willing to give it a try, so they trekked back up to the upper cavern where Ali set about inscribing two circles. One teleportation circle, she keyed to her private locus in the library, and the other was a locus for returning which she would link to a new teleportation circle in her collection. The total mana cost was not insignificant, but she knew the reservation was a small cost to keep the passage to visit Naia open.
+
+“Try not to eat these, Naia,” Ali said. Whenever she inscribed her runic circles in the domain of another dungeon, the hostile mana would erode the integrity of her spell over time, eventually destroying it. She was just guessing, of course, but if there was some way for Naia to avoid that, it would be so convenient. If not, she could always return by way of Volle’s locus.
+
+The little blue ooze poked the runes gently, looking for all the world like she was tasting the mana. “I’ll try.”
+
+“Ok, through here,” Ali said, pointing to the teleportation circle she had just finished. Mato stepped into it first and vanished. Naia quivered quietly, but then she blobbed over to the circle and vanished too. Then, finally, Ali followed with her remaining minions in tow.
+
+“Tree!” Naia exclaimed, rapidly wobbling over to the enormous Elder Tree, prodding it with a protrusion.
+
+“Ooh, wisps!” she exclaimed excitedly as one flitted down and circled her before flying back up the tree.
+
+“Runes!” Naia bounced excitedly about in every direction, examining everything.
+
+“Bosses! Poison!” Naia exclaimed, growing visibly excited at the sight – or perhaps scent – of Ali’s Toxic Spitter boss outside in the jungle, visible through the protective barrier. Naia clearly had the usual ooze Tremor Sense, but Ali had long concluded the little mimic had some way to sample mana at a surprising range.
+
+“Come, let me show you the upper floor,” Ali said with a laugh, summoning a barrier to levitate them all up to the top floor of the Grand Library. Naia’s obvious excitement was delightful, and it reminded Ali that Naia had never really left her caves.
+
+The moment Naia touched the landing, she froze, quivering, and instantly turned into a flagstone.
+
+“It’s ok, little one,” Mato rumbled. “They won’t hurt you.”
+
+“Come, let me introduce you,” Ali said, guiding her over to the couches. “This is my aunt, Lira. Lira, this is Naia.”
+
+“Hello, dear. It’s good to meet you,” Lira said.
+
+“Lira,” Naia said, reaching out tentatively to touch her leg with a pseudopod before instantly transforming herself into a perfect, scaled-down replica of the nearest couch, and it was only when Lira laughed gently at her antics that she transformed back to normal, and her natural curiosity reasserted itself. “Aunt? Friend?”
+
+“Yes, Lira is friend,” Ali explained, trying to put it in terms that Naia knew.
+
+“Aunt-friend.”
+
+“This is Ryn,” Ali continued the introductions as she made a mental note to explain kinship to Naia later. “She’s the librarian here.”
+
+“Friend?” Naia asked.
+
+“Yes, she’s a good friend too.”
+
+“Book?” Naia said, flowing up a chair to examine Clarence lying open on the table. She reached out with a pseudopod toward the book, but Clarence slammed shut and scooted out of reach.
+
+“Not friend?” Naia asked, turning to Ali.
+
+“Clarence is a friend, he’s just a little grouchy sometimes. He likes playing fetch.”
+
+“What is fetch?”
+
+“Here,” Ali said, picking up the ball and handing it to her. “Throw this out over the railing.” As soon as she touched the ball, Clarence perked up, bobbing about in anticipation.
+
+Naia held the ball in a pseudopod for a few moments, as if puzzled by the strange device. “Throw?” she asked.
+
+“Yes, make it fly toward the tree,” Ali suggested.
+
+The slender pseudopod drew back and then whipped across the table and the ball flew off, sailing over the railing and down into the atrium. Instantly, Clarence took off, shooting after it, with a sudden flight of golden dragonets chasing after him. Naia’s body stretched outward as if peering over the railing in curiosity.
+
+A few moments later, Clarence flew back up over the railing with the ball held between his covers, having beaten the golden dragonets – with some egregious magical cheating – and dropped it on the table where it rolled up and bumped into Naia.
+
+“Again?” Naia asked, seemingly getting the hang of the game intuitively. She extruded a new pseudopod to grasp the small ball.
+
+What followed was a long series of excited exclamations, bouncing, flying, and trails of glitter and motes from the little dragonets following in Clarence’s wake as Naia took to the new game with extreme delight.
+
+“Ryn, would you mind getting Aiden or Teagan?” Ali asked, watching the antics with amusement.
+
+“Sure, Ali,” Ryn said and promptly vanished.
+
+The game of fetch was still enthralling to both Naia and Clarence when Ryn returned with both Aiden and Teagan.
+
+“Hey, Ali, Ryn said you wanted to talk with us?” Teagan said.
+
+“Yes, this is Naia. She’s a friend and a dungeon that lives right outside of Volle in the kingdom of Toria. I made a teleport circle to the top of her dungeon, and I was wondering if you guys would check in on her now and then? She’s just learned bosses and it would be great to have you guys test them and give her feedback. Maybe you can earn some experience, and she can advance her skills?”
+
+“That sounds like a pretty convenient arrangement,” Aiden said, nodding carefully. “I’m game for some more practice.”
+
+Ali proceeded to brief them both on the details surrounding Naia’s dungeon and the challenges she faced before introducing them to her.
+
+“Ali, I love your library,” Naia said, bobbing up and down happily while Clarence rested quietly on the table beside her. “I have a book, too. Somebody dropped it in my first cave a hundred and thirty-six years ago.”
+
+Her body twisted, extending a pseudopod that immediately swelled up, beginning to glow brightly as its form changed from Naia’s blue to the brilliant yellow-white of a Luminous Slime, suddenly detaching from her with the remains of the connecting pseudopod snapping back and making both slimes wobble under the recoil. Naia reached out and pulled something out of the Luminous Slime and offered it to Ali.
+
+It was a small, battered, leather-bound book. Carefully, Ali wiped some of the glowing slime off the spine and cover, realizing that Naia had used her bizarre teleportation skill to bring the Luminous Slime all the way from her dungeon near Volle to here without her runic circle, as easily as walking.
+
+How to cook a dragon. Callista Merriweather.
+
+“Gift for you,” Naia said. “For the library.”
+
+“Thank you, Naia,” Ali said. Mato is going to love this, she thought, glancing through the unusual and, all things considered, surprisingly well-preserved cookbook.
+
+“Hey, Ali,” Mato said, a strange note in his voice. “Calen just messaged me with a Sending. He said he needs us in Ciradyl. It’s urgent.”
+
+Vivian knuckled the small of her back, trying to ease up the stress knot that was beginning to form as her eyes contended with the red pushpins dotted all across the wall-sized map of Myrin’s Keep.
+
+Who the fuck are you?
+
+Every single pin was a calling card, a corpse found, a mark of the Silent Assassin. The guild had had its unfair share of deaths due to the elusive killer, but the more information Mieriel unearthed, the more Vivian realized that this person was sowing unrest and terror across the entire town. People compulsively glanced over their shoulders, checking the shadows when they whispered the name ‘Silent Assassin’.
+
+The worst part was there seemed to be no discernable pattern. And no leads. Vivian could feel the hand of Mori behind it, but she had no proof. Just gut instinct. And the fact that scared people buy protection insurance. Just that minor detail.
+
+A sharp knock broke her concentration. “Come in.”
+
+The door swung open, and Mieriel walked in, carefully shutting and latching it behind her. “Vivian…” she said, with a grave expression on her face.
+
+“Another one?”
+
+Mieriel dropped a familiar card on the table. “Merchant this time. Right beside the South Gate.”
+
+“I was hoping for good news,” Vivian said, eyeing the blatant advertisement of the Silent Assassin’s reign of terror. With a sigh, she retrieved another pin and pushed it into the map at the appropriate spot.
+
+“I have a name,” Mieriel said, locking eyes with her as her head snapped around from regarding the map. “Tala Kane.”
+
+“Tala…” Vivian said, the name pricking her memories for a moment before she placed it. “Wait, the Town Watch girl who did her trial with Mato, Malika, and Calen? The Dagger Rogue?”
+
+“Yes,” Mieriel said. “That’s the one.”
+
+“Are you sure?” If true, this information was the link she needed to prove Mori’s involvement.
+
+“She finally made a mistake,” Mieriel said, producing an extremely expensive set of novice boots and placing them carefully on the desk before her, rotating them to display the spell-thread embroidered monogram ‘D.A.’ on the outside edge of the upper, beside the laces.
+
+Vivian recognized the boots immediately. There was a clearly scuffed section of distressed leather where the Asterford House crest had been removed, likely with a sharp knife.
+
+“She secretly sold these to a Kel’darran merchant destined for an out-of-town black market, and she killed the witnesses as usual. But she left the Kel’darran alive…” Mieriel said. “It was a simple matter to unravel the thread from there.”
+
+“Did she…”
+
+“Kill him?” Mieriel asked, completing her question. “I believe so – these boots show several months of wear, and Tala was wearing brand-new ones. At least, when the Kel’darran merchant last saw her.”
+
+“This… this changes everything,” Vivian said, the implications slamming into her. Bastian believed his son had died in an unfortunate accident on his trial, like so many before him, but for all his haughtiness and rigid adherence to the crown law, the man had loved his son. He was not going to take this news quietly.
+
+“Are you going to tell him?”
+
+“Oh, yes,” Vivian said, allowing a grin to curve her lips. “We’re going to pit Bastian against Mori and get rid of our assassin problem in one stroke.” Bastian may not have the power to oust Mori, but the Town Watch couldn’t make a move on the noble without dire consequences either. But making them enemies would hamstring both in so many ways. “Tomorrow’s Town Council meeting?”
+
+“Perfect,” Mieriel said. “It will be tight with the meeting being so soon, but I will make the necessary preparations.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

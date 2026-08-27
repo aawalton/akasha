@@ -1,0 +1,153 @@
+---
+id: 5fc804eb-880c-5e0b-b784-5036c824efdb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 114: The Defiance of the Lowly"
+slug: 0115-chapter-114-the-defiance-of-the-lowly
+partOf: dungeon-of-knowledge-complete
+position: 115
+ownLength: 3094
+unit: words
+ownProgress: 3094
+publishedAt: 2024-08-18
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1763906/chapter-114-the-defiance-of-the-lowly"
+royalRoadId: "1763906"
+markedReadAt: "2026-06-29T20:14:54.074Z"
+---
+
+Ali woke feeling refreshed, got up from her sleeping bag, and exited her tent into the silence of the Grove, lit by her golden mushrooms and the glowing runes on the shrine. Everyone else was still asleep, content to allow her minions to keep watch. Ordinarily, she might have spent the few hours before they woke growing her forest and cleaning up the few corpses of slimes her minions had killed overnight, but today she had something different in mind.
+
+Finding a comfortable spot near the now-cold ash of the cookfire, she retrieved her arcane magic book from her ring’s storage, admiring the shining silver runes and the small drifts of silvery mana it emitted.
+
+Fundamentals of Arcane Magic: Theory and Practice.
+
+It was a beautifully made book, and seeing it reminded her of the excitement she had felt when Ryn had first pulled it out of the box in her bookstore. She smiled at the memory, hoping that her friend would be available for tea this afternoon.
+
+I should have all the pieces, right? she thought, tracing the silver runes with her finger. It had been a while since she had used the teleportation locus in the Novaspark Academy receiving room, but she still had the locus fully memorized. And now I have my own teleportation magic. The project she had in mind was quite ambitious – if she could understand the runic construction, she should be able to use her skill as a reference to make a teleport spell.
+
+She opened the textbook and paged through to the section on arcane teleportation – knowing exactly what she would find. Her book was not particularly advanced, covering mainly just basic magic – but the fixed, static teleport magic it explained had been beyond her grasp when she had first read it. It seemed the book, like many others of its kind, required some instructor, or at least a working magic spell to refer to, before some of the underlying concepts might become clear. Or at least a certain level of proficiency she did not have.
+
+She read through the spell and the accompanying explanation again, noting the sections she hadn’t been able to figure out.
+
+“Come help me,” she instructed, calling over a Kobold.
+
+“Yes, Ancient Mistress.” Her Kobold’s soft, gentle voice was as familiar and soothing to her ears as her holy magic was to her body. It immediately joined her by the fire, looking on curiously while it waited for her wish, golden-yellow scales gleaming gorgeously in the soft light of the Grove.
+
+This should be simple, she thought, activating her Sage of Learning. And then, while studying the flows of mana, she triggered Minion Teleport, switching places with her Kobold.
+
+Oh, hmm…
+
+The problem was immediately clear to her. Just not how to solve it. When she teleported, the dislocation of her position interrupted her ability to observe the mana flows effectively and simultaneously disrupted her Study Trance. She tried it again, just in case she could figure out a way to see past the jump, but her active advance for Sage of Learning insisted on uninterrupted focus, and teleporting was clearly not that.
+
+This is frustrating! It would have been so much easier if Malika or Calen had the teleport magic, but then she wouldn’t be the one able to teleport, just study it.
+
+Wait, what about Martial Insight? She had just recently earned the ‘Remote Perception’ ability to see through her minions’ eyes. Maybe I can use Sage from their point of view? Will that let me study it uninterrupted?
+
+She called a second Kobold over to act as her eyes for this experiment and then switched her awareness to the body of the Kobold mage. It was a little easier than the first time, her mind remembering how to stabilize the connection, and immediately her range of sight expanded, while muting all the brilliant colors of her flowers. It took a few tries to wrap her mind around the configuration. She was watching from the mage, but her actual body was exchanging positions with her Acolyte while attempting to maintain her Sage of Learning study trance from the viewpoint of the mage.
+
+She struggled with it for a while before she managed to get all the pieces in place, holding it firmly while her magic activated, but study trance interrupted again, clearly not capable of being sustained while she simultaneously activated her Minion Teleport skill.
+
+Do I need it? She considered the problem. Before learning Study Trance, her Sage of Learning would simply work whenever she was in a situation that could benefit from assistance – and all her advances since had not removed the passive learning skill. Study Trance simply made it faster. And it’s the Magic Analysis I need here. Perhaps the focus isn’t that much of a problem.
+
+She teleported a few times, watching from the viewpoint of her Fire Mage, carefully studying the flow of magic. It was challenging to juggle the mage’s more rudimentary mana sight with her Arcane Insight – especially as her personal viewpoint was disrupted every time she teleported – but she persevered, just letting Sage of Learning do its thing. It took a few tries, but suddenly it started drawing from her mana pool.
+
+Remote Perception is much better than I expected, she thought while waiting for her teleport to recharge. She considered what she was doing, and the configuration she had set up. Not only was she shifting her awareness to use the perception skills of her Fire Mage, but she was integrating her own perception skills simultaneously. Both Arcane Insight and Sage of Learning continued to function when she used the Kobold’s point of view. It seemed a bit more complex, given that neither Arcane Insight, nor Sage of Learning required eyes, but she decided to table it for later investigation, wondering idly how it might work from a minion with bizarre senses like her oozes.
+
+She continued to study her teleport skill for a while. It was a little odd that she had to learn to understand the magic that she could already intuitively cast with her skill, but she supposed that a deeper understanding of the magic her skills wielded couldn’t hurt and may improve her skill growth and advancement in the future.
+
+Ali picked up her book again and reactivated her Study Trance. It looks like it just needs a few modifications, she thought, examining the spell structure inscribed on the pages. Carefully, she reconstructed it in her mind, in full detail, before turning to the mana formations she had studied from her teleport spell. She began stitching. There wasn’t an easy explanation for what she was doing, but she felt she was snipping pieces from one magic, and stitching them back into the other, forming a modified hybrid spell as she went. She had a pretty good understanding of what the functions of all the pieces were, and how they might go together, but this process was all new to her.
+
+Her spell was getting quite complicated, glowing brightly, suspended in her mind. She turned it around and adjusted the size of the ring of runes so that they would align better before she suddenly saw the redundancy. If I just modify this piece a little, it looks exactly like that one. She knew the adjustment wouldn’t affect the function of the rune sequence much, so she did it. Then she adjusted the circle once more, shrinking it so that the two duplicate sections overlapped. This should be better, she thought, clipping one of the duplicate pieces out and reconnecting the runes properly.
+
+She studied her final construct carefully, but she was unable to find any flaw in the design.
+
+It was with a rising sense of excitement and anticipation that she turned to her Runic Script and began to write her magic, laying her mana down on top of the mossy ground. She didn’t know how long her studies had taken because Study Trance messed with her sense of the passage of time, but she didn’t mind one bit, fully absorbed in her fascinating project.
+
+The first try fizzled spectacularly, the magic collapsing with a pop and a puff of mana that buffeted her body briefly. Her second try got further, but this time she was inscribing from behind the protection of a barrier. She had forgotten her lessons about magic experimentation – things could go wrong, and sometimes with spectacular and violent consequences. Remember your safety, she recalled from her classes. With each failure, she returned to her image of her construct, tweaking and adjusting, and improving her understanding by studying what she had missed.
+
+The runes flowed from her, glowing golden in her mana sight as she wove the strands of her arcane mana. Suddenly a chime sounded, and she automatically hooked her construct to her domain mana as the runic circle closed.
+
+Runic Script has reached level 18.Static Teleport – level 35 (Arcane)Teleport to a preset teleportation locus.Locus: Novaspark Academy of Magic, Myrin’s Keep.Runic Circle
+
+“What are you making?” Malika asked, walking up behind her.
+
+Ali smiled at her friend, pointing to the golden runic circle hovering just above the moss carpet.
+
+“I can’t see it,” Malika said, surprising Ali.
+
+“Oh, right,” she said, “I forgot.” She had gotten so used to seeing the world with the ever-present mana sight provided by Arcane Insight that she had already forgotten what it was like before she had learned the skill. “This is what I made.” She answered Malika’s curiosity by sharing the details of her new Static Teleport runic circle. “I combined some pieces of my Minion Teleport with the structure they have in this book, and I made my own little construct.”
+
+“Wow, Ali, that seems super useful! We should try it today when we visit town.”
+
+While Ali had been immersed in her project, studying and learning, she hadn’t paid any attention to the consequences of what she was doing, but Malika’s excitement filled her with a powerful sense of accomplishment.
+
+My first spell construct. Granted it was only a minor modification of what was inscribed in her book, but she didn’t let that get in the way of her achievement. Besides, technicalities counted.
+
+It’s like a non-portable version of the recall potion. But reusable. She studied the mana of her domain, and how it was powering the runic circle. And probably won’t require a fee to use, she realized, considering just how much mana her domain contained. The success of her little project caused a cascade of new ideas to rush through her mind. With not a lot more work she was certain she could make her own locus, which would mean she could do both ends of her teleportation spell. The possibilities made her giddy with excitement.
+
+***
+
+Ali stepped out of the bathhouse into the late afternoon sunshine and let out a little sigh of contentment. It had been the perfect day.
+
+“Thank you,” Malika said with an even more heartfelt sigh. “I needed that.”
+
+The boys had been busy with errands and family stuff, so she and Malika had spent the day around town. Malika was still worried about the bounty on their heads and had insisted on accompanying her all morning, patiently sitting through her draconic lessons with Kavé and her tea and endless chatter with Ryn. In turn, Ali had treated her to a trip to the bathhouse where she had splurged on all the extras – she was certain Malika was still having traumatic flashbacks to the ooze fight and the bath had been the perfect antidote.
+
+“Are you sure you don’t want to come to the Adventurers Guild? Calen wanted another try to identify Mieriel, and you have the highest class level,” Malika asked, reminding her of their plan to all meet up at the guild after their business in town.
+
+“She gives me the creeps,” Ali answered. “I’m not sure why, but I keep having nightmares about her.” Besides, Ali was excited to get back to her studies. She was certain she could make a two-way teleportation setup between the library and the shrine, which would save them an enormous amount of time traveling back and forth.
+
+“Ok, stay safe,” Malika said, as they arrived through the alleyway beside the guild, and helped her open the grate into the sewer.
+
+“I’ll see you at camp later,” Ali answered. She was sure Malika would have wanted to return with her, but she probably wanted to check in with Weldin Thriftpenny and see if she could get a good deal for the magicite and living essences they had collected. Ali wasn’t particularly worried; Eliyen was the obvious customer for the living essences, and from what she had seen of the Novaspark Academy of Magic, there would be no problem finding someone interested in nature-affinity magicite. But her grasp of the art of deals and bargaining was rudimentary at best – it was far better, in her opinion, to let Malika handle all of that.
+
+Waving goodbye to Malika, she descended into the sewers, perched on her magical barrier, happily noting just how much better it smelled since she had begun planting mushrooms.
+
+I should get a couple of the Spore Spreaders to come up here.
+
+“Ok, let’s move up,” Aiden said, keeping his words calm and relaxed. He typically found himself in the leadership role in the little groups they made, probably because of his father, and the Guildmaster had even made it official. But he didn’t want to boss people around, so he tried to keep it respectful.
+
+“A couple more slimes,” Kaitlyn announced. “Yay.”
+
+He had gotten quite a good feel for all the remaining guild members, especially over the last week or so as he’d had the opportunity to group with them. The guild formed groups every day for training or leveling, typically around the two tanks – Braden and Havok. Usually, Braden paired with Teagan because he was a less defensive tank than Havok and required more healing. Havok typically took care of his own healing. This had given him ample opportunity to evaluate all of the guild members around his level. Some of them were good and easy to work with, but some of them were a real struggle. Kaitlyn was a powerful and talented lightning archer, but she definitely had an attitude.
+
+Although I think I agree with her sentiment. He had reached level six a few days ago but leveling in the sewers had slowed to a crawl. Killing Toxic Slimes and the occasional Goblin had become rather too easy, and now felt like an arduous chore for little benefit.
+
+I guess I should be glad it’s boring. Interesting implied risk, and against monsters, that meant people might die. But he couldn’t help wishing for an encounter like the ones Calen had shared. Perhaps when I level up a bit more and become stronger.
+
+“Ok, Havok, attack,” he said. At least it’s good for drilling formations. Havok charged forward, his shield glowing brightly, casting a radiance across the crumbling ancient brickwork, and slammed into the two slimes. Aiden charged in behind him, but really, the slimes would be dead in a few moments due to Devan and Kaitlyn’s potent damage. He loved his Ice Swordsman class, but on a pure damage comparison, he couldn’t hope to match the Wind Blade and Lightning Archer.
+
+As expected, the two slimes died, and he gained no levels or skills from the minimal experience.
+
+He was about to lead them forward, when the temperature suddenly dropped, causing flurries of snow to appear as the moisture flash crystallized out of the damp air. Pain lanced through his leg as a spike of ice pierced it through the back of his knee, and he stumbled, falling awkwardly to the ground. A rapid sequence of swishing noises and thumps ensued, followed by the shouts and screams of his teammates.
+
+Stunned, he pushed himself up from the now completely frozen ground to look around, feeling the pulse of holy magic as Havok’s healing reached him.
+
+“None of that!” an angry voice snapped, followed by a flurry of ice lances that pierced through Havok’s armor, pinning his body up on the brick wall.
+
+A tall, white-robed figure strode past him, firing a stream of ice darts at Havok while he healed himself against the damage.
+
+The Town Watch? What are they doing here? He saw the badge on the man’s robe, and then recognition dawned. Roderik Icecrown. Fuck. Technically Aiden was a noble, his father having been born into some obscure family that claimed a noble line. The Kingdom of New Daria was progressive, but holding an office like mayor still required at least some tenuous blood connection to the royal line. But he would rather not be associated with a monster like Roderik. He was the embodiment of everything that gave the nobility a bad name – arrogant, uncaring, sadistic, and entirely self-absorbed.
+
+Havok’s shield magic dropped, leaving the sewer lit mainly by the aura of ice magic Roderik was emitting. He’s almost out of mana, he’s going to die. Aiden reached out and dragged himself forward, clutching his sword.
+
+“Oh no you don’t,” Roderik barked, firing another ice lance that pierced through his thigh, pinning him to the ground, without letting up his stream of ice darts until Havok stopped healing.
+
+“Ok, now that you’re out of mana, let’s have a little chat about Aliandra and her dungeon, why don’t we?”
+
+Oh no, Aiden thought, realizing instinctively what kind of ‘chat’ it would be.
+
+“You’re going to tell me how to find her,” Roderik said, advancing on the weakly struggling Havok, still pinned to the wall, his blood trickling down the brick to stain the mossy ground.
+
+“No. Havok not help. You bad.”
+
+He doesn’t understand the danger he’s in! Aiden knew what kind of man Roderik was. Resisting him would simply make him angrier.
+
+“Tell him, otherwise he will kill you,” Aiden shouted, desperate to save the plucky little Goblin who had quickly become his firm friend.
+
+“Miss Aliandra is friend. Havok not betray. If Havok tell, then he kill Havok and Miss Aliandra.”
+
+“There you are, Roderik,” a loud voice called out from down the tunnel as a group of Town Watch marched toward them. “You’re hard to follow when you teleport like that.”
+
+“Stay out of my way.”
+
+“Sure, but why are you messing with that green scum, this one on the ground is the mayor’s son.”

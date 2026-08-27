@@ -1,0 +1,217 @@
+---
+id: 58838837-1c71-51bb-b203-67ee9a602797
+page-type-slug: story-chapter-royal-road
+title: "Chapter 187: A Beacon of Light"
+slug: 0190-chapter-187-a-beacon-of-light
+partOf: dungeon-of-knowledge-complete
+position: 190
+ownLength: 4365
+unit: words
+ownProgress: 4365
+publishedAt: 2025-01-23
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2025795/chapter-187-a-beacon-of-light"
+royalRoadId: "2025795"
+markedReadAt: "2026-06-29T20:17:32.268Z"
+---
+
+Ryn stilled the unconscious bouncing of her leg for the umpteenth time and glanced again around the silent library. Lira was resting in her tree, and Ali and the others still hadn’t returned. She sighed, glancing back down at the book on her lap. She had been overjoyed to find this story in the Ciradyl library, but she kept getting distracted. With an act of will, she scanned the page, trying to pick up the thread of the plot once more.
+
+Where is she?
+
+She had made it almost halfway through her book when she finally heard the echoing of voices approaching. She slipped her bookmark between the pages and closed the cover, carefully laying the book on the table before her. I hope she understands. With a thought, Ryn pulled up the notification she had received earlier today right as she teleported back into the Grand Library with her haul of new books.
+
+Library Teleport gains Bring a Friend.(You can pay the mana cost again to bring up to 3 [1 + skill / 10] other willing people with you.)
+
+She had been offered several other choices, but this one had stood out in her mind as by far the best – both in utility, but also in furthering her own goals. She had done enough research to know that her Library Teleport was uniquely powerful, and with this advancement, she might earn a fantastic living at the Novaspark Academy of Magic as a courier, ferrying people around the continent. It would matter little to most that they would arrive in a library rather than at the more typical city locus.
+
+But that was not what she wanted to do with her life.
+
+Library Teleport – level 20Mana: Teleport to any library you have set as a destination. You can have up to 6 [1 + skill / 4] library destinations.Mana: You can pay the mana cost again to bring up to 3 [1 + skill / 10] other willing people with you.Known Destinations:Grand Library Arcana, Dal’mohra. Recharge: 39 minutes / 1 hour.Myrin’s Keep Library. Recharge: 1 hour.Vertias Library. Recharge: 12 minutes / 1 hour.Royal Library of Volle. Recharge: 1 hour.Ciradyl Grand Library. Recharge: 28 minutes / 1 hour.Arcane, Movement, Intelligence
+
+She pressed down on her bouncing leg once more and gazed around the grand library and the books they had acquired so far. Her skill advancement had given her the ability to teleport others whenever she traveled. It was finally time to bring up her biggest concern with Ali.
+
+Will she…
+
+“Hi, Ryn,” Ali called out cheerfully as she and the rest of their party flew or floated down to the library floor.
+
+“Hey, Ali,” Ryn started. “Um, there’s something I wanted to talk to you about. Is there a good time?”
+
+“Sure, how about now?” Ali asked, a flicker of curiosity passing across her face.
+
+Although they all seemed tired, the happy banter suggested they were in a good mood. Their dungeon delve must have gone well, Ryn thought.
+
+“I’m not quite sure how to say this,” she started. “We’re making a lot of good progress with the library…” she trailed off for a moment, not exactly sure how to put her feelings into words.
+
+“But?”
+
+“It’s empty,” Ryn blurted out. She had finally realized this morning what had been bothering her for so much time – what it was that was missing. “What good is a library if there are no people to read the books? Nobody can get here through all the monsters.” She risked meeting Ali’s amber gaze.
+
+“I’ve been thinking the same thing,” Ali answered, smiling. “I haven’t figured out how to make a private teleportation locus yet. I don’t want just anyone with a teleport spell to be able to come down here, but if we can offer some sort of a pass to use a teleport, I think it would work.”
+
+“Actually, I think I might have a solution to that problem,” Ryn said. “Well, for a little bit. My teleport spell advanced, and I can now bring people with me.” Is she really ok with this? She shared her skill with Ali. With all the book gathering she had been doing, her Library Teleport was now her highest-leveled skill. “I just don’t know how we choose which people to invite.”
+
+“Oh, that’s an incredible skill, Ryn,” Ali said. “Hey, I have an idea – why don’t you join the guild?”
+
+“The Adventurers Guild? But I don’t have combat skills,” Ryn said, surprised at Ali’s sudden tangent.
+
+“As a non-combat member,” Ali explained. “I was thinking as a replacement for your job at the bookstore, maybe you could join the guild as its librarian? I’m pretty sure I can convince the Guildmaster.”
+
+“Why would any Adventurers Guild want a librarian?”
+
+Being reminded of being fired from the bookstore stung still, but she was sure Ali hadn’t meant it that way. She shifted uncomfortably from foot to foot as the others gathered a short way off, openly eavesdropping on the conversation, and then caught sight of Malika in the background miming swatting a spider – or some monster – with a book. “Down! True knowledge is my weapon!”
+
+Something of the tension within her uncurled a little.
+
+“Think about it for a moment,” Ali said, sitting up straighter and leaning toward her excitedly. “The guild is growing. There are lots of adventurers just starting out with their classes with no idea what to do. The guild provides some training, but none of them can afford a library membership so they have no way to research efficient use of their skills, advancement paths, combat techniques, or any of the amazing things a good library can help with. You could give them access to this library – for free – and you could help them research the information they need. If they come to you with their problems, you can add to the list of books you collect during your rounds, and our library would grow to be the resource needed by the adventurers.”
+
+“You would let them use the library for free?” Ryn asked, struggling to keep up with the torrent of ideas. Ali’s suggestion seemed almost too good to be true. She loved the idea of helping people get stronger by finding the right books for them – and this would give her phenomenal skill and class growth too.
+
+“A perk of guild membership,” Ali said with a conspiratorial wink. “It’s certain to convince Vivian Ross – the success of the guild is what she cares about most dearly.”
+
+Over Ali’s shoulder – which wasn’t saying much – Mato was shadow-boxing in the air. “Comma! Comma! Watch out, Calen will punctuate your semicolon!”
+
+“Mind your clause,” Malika snickered. “Mato’s got the verbals.”
+
+“That grammar’s bad enough to kill monsters on its own,” Calen pointed out, wiping tears of laughter from his eyes.
+
+Ryn felt herself turning pink. “I see they have the idea.”
+
+Ali chuckled, “Well, we can trust the Guild’s senior adventurers to set the example, right?”
+
+The Flamecaller hunters and their demonic wolf pets were a thorny problem, and one Calen reflected on extensively as their little group exited the Emberforge Mines, making their way through the dense jungle toward the library. With the status sheet and the skills Ali had shared, he suddenly had a whole new understanding of at least the wargs’ abilities, and he had already started formulating better strategies for dealing with them. It had only been intuition that had driven his decisions mid-combat, but he was happy to learn that his instincts had been close to correct.
+
+Next time, we won’t have Mato face them alone from the start, he thought, finally out of those infernal flames and able to use his notebook. He ran through several ideas, adjusting, tweaking, and enjoying the challenge of optimizing their group strategy with what he understood of all their abilities. The hunters had been particularly frustrating for him, touching on a sore point. I wish I could see their sheets, too, he thought – and not for the first time. They had shown him what he felt his own role on their team should be if he could just get a little stronger and find a way to manage his mana and abilities more efficiently. Their conjured multishot flame arrows had been remarkably effective at suppressing the battlefield, and even though his skill couldn’t conjure five arrows at a time yet, he was certainly going to adopt some of the strategies he had observed for himself.
+
+He had a lot to think about. Especially worrying was the problem of communicating with Mato during combat. This was a problem he didn’t know how to solve, and were it not for Ali, they might have lost him without ever noticing he was struggling. It was frustrating to be so close – if Ali had a wolf – or any beast – that didn’t breathe fire and was high enough level to survive the flames, they would not be having this problem.
+
+I think we should talk about that with everyone. Maybe Malika can ask Weldin, or find an artifact at the Novaspark Academy… maybe an Elven specialist at Ciradyl…
+
+He pulled up his own notifications from the battle as they stepped into dark coolness and the relative safety of the Grand Library. His wings unfurled as he flew up to the first floor beside Ali and Mato on her barrier, with Malika simply running up on the air beside them with the blue-white of her magic flickering beneath her feet.
+
+Archer of Light has reached level 54.+10 attribute points.Radiant Archery has reached level 32.Arrows of Brilliance has reached level 37.Motes of Light has reached level 20 (+2).Explorer has reached level 30.Eyes of the Archon has reached level 25.Mirage Armor has reached level 12.Cartography has reached level 12.Skinning has reached level 5 (+3).
+
+He paused, but noticed that his companions immediately fell into their familiar routines. Mato began rattling the pots and pans, while Malika sat on the stone floor to meditate. Ali and Ryn cozied up on the couch for an important conversation, so Calen found a seat at the table and opened his notebook to study his skill advances and work out the optimal assignment of his new attributes.
+
+Explorer hit thirty, he noted and smiled. It was his primary information tool; how he identified dungeons and threats, and a major part of his stealth and tracking abilities, and tended to grow fastest when he explored new places.
+
+Cartography had increased again as he continued mapping out the Emberforge Mines, and he was excited to see just how much skinning one of the Hellfire Wargs had improved his skinning skill. He made a note to pass the demonic hide to Malika to sell at the store after dinner time.
+
+Oh, hold on, why didn’t I notice the advancement before? He had nearly skipped right over it! So, what did I get…
+
+Requirements met for skill advancement.Patron deity: The Wanderer.Motes of Light has reached at least level 20.Regularly uses Motes of Light to dispel stealth effects.Regularly uses Motes of Light to enhance perceptions of allies.Regularly fights with more than ten allies.Motes of Light gains Abundance of Light.(You can summon up to 20 [skill] motes of light. Your motes of light have double the radius of illumination.)Motes of Light gains Beacon of Radiance.Motes of Light gains the Buff trait.(Your motes of light grant additional light magic damage on hit to all your allies in range. Reserve: 35%, Range: 30 feet.)Motes of Light gains Glittering Mines.Motes of Light gains the Area trait.(You may detonate your Motes of Light at will. Damage is equivalent to Explosive Shot.)Choose one advancement.
+
+Motes Advanced. Calen paused considering the implications. After Lyeneru’s assessment of his Motes of Light skill, he had expected that he would need to replace it as soon as it advanced. Now was the time to make that decision. The only skill he had acquired so far that he would consider as a replacement was Heaven’s Strike, and he was not particularly excited about that prospect. Pursuing the common path for his kind of class meant focusing on maximum burst damage, high-cost spells, and then sitting out of combat regenerating his mana with potions after he was spent. The strategy made sense, and so did her assessment of his skill as being underpowered. He knew it was true, and he might have been happy with the approach had he not actually seen his mentor – the Legendary Pathfinder – in action. What she had achieved blew the normal strategy away.
+
+It was somewhat unexpected that his Motes of Light advancement had been influenced by his patron deity, The Wanderer. The skill itself did not list any of his patron’s traits, but he assumed it was related to improving perception or canceling stealth. Speaking of which, I need to figure out why that doesn’t work so well on the Flamecaller Hunter illusions. The Abundance of Light advancement looked like just more of the same, leaving him with a skill slot that could be much better used on another perception or attack skill. But he stopped cold when he read the Beacon of Radiance advancement.
+
+That’s incredible. The cost was incredible too – an additional thirty-five percent of his mana reserved for the skill, but he could instantly see the power of the advancement. If he was aiming for a one-hit-wonder assassin or Ambush build, as Lyeneru had suggested, this skill would be next-to-worthless.
+
+Hmm…
+
+Glittering Mines was a solid offering, too. Motes of Light had a long range, and he could move the orbs relatively quickly – and more importantly, most monsters tended to ignore them. Now, if he didn’t need them, he could have extra explosive shots wherever they hovered. The strategic options were many.
+
+But I fight with a summoner.
+
+The biggest issue with Glittering Mines was that it wasn’t a bow skill, and hence he wouldn’t be able to use his most versatile enchantment skill, Arrows of Brilliance, on it. It feels more like a mage skill to me. On the other hand, despite the enormous cost, Beacon of Radiance was exactly the kind of party-wide buff skill both Vivian and Lyeneru had advised him to watch for – effects that were multiplied by the number of allies he brought to the fight.
+
+More importantly, it wouldn’t be him who was the center of the buff aura. If he was reading this right, each mote would project an aura granting extra light damage to everyone within its radius. This would allow him to move with stealth outside their range of influence. And when he found himself in large-scale battles, he could line the motes up along the battlements, or follow groups around on the field.
+
+He didn’t even need to ask for further advice, he selected Beacon of Radiance. I won’t take the easy path, he vowed to himself, committing yet again to following the path his mentor had let him glimpse.
+
+Motes of Light – level 20Mana: You can summon up to 3 [1 + skill / 10] motes that emit clear light and can dispel stealth effects. You can freely control the motes of light anywhere within your range. Duration: 30 minutes, Range: 800 feet.Mana: Your motes of light grant additional light magic damage on hit to all your allies in range. Reserve: 35%, Range: 48 feet.Light, Area, Buff, Intelligence
+
+“Everything ok?” Mato asked, placing a plate of steaming stew on the table beside him.
+
+“Um, yes…” his mind reconnected to his surroundings, finding everyone else sitting around enjoying Mato’s cooking. One whiff of the aromatic duck served on a bed of perfectly chargrilled root vegetables – how did Mato do it? – had him reaching for a bowl. “I got a skill advancement that needs some testing. Ali, I think you might be interested in this.”
+
+Balancing the bowl on his knee, he shared his advancement with all of them.
+
+“Depending on how much damage, that could be incredible in our group,” Malika echoed his thoughts.
+
+“That works on my minions, right?” Ali asked, leaning forward in excitement.
+
+“I’m game to be the punching bag,” Mato said, grinning as he clearly anticipated the next step.
+
+“Maybe with the Hobgoblin?” Ali suggested.
+
+“Why not wait until you all finish dinner?” Lira suggested, fixing him with a pointed look, and Calen suddenly realized that the delicious smell of the food Mato had given him was making his stomach grumble audibly.
+
+“Is there more?” he asked hopefully, digging in with a groan of appreciation.
+
+After dinner, they began their testing in earnest. Mato stood waiting in his Bear Form while he summoned his Motes of Light – three now that the skill had reached twenty. He concentrated on the new advancement, and it activated, reserving more mana than he wanted to think about. All three motes flared brighter as the skill took effect and began to pulse softly.
+
+“Ok, ready.”
+
+Ali said something in the harsh guttural language of the Goblins and the female Hobgoblin let loose with her pair of matching axes, hitting Mato with a rapid flurry of strikes. After that, he disabled the beacon effect, and they hit Mato some more. Then, in the interest of study, they tested spells, rogues, unarmed strikes, and several other variations, each time having Mato revert to his Beastkin form to tell them exactly how much health he had lost, so Calen could note it down in his book.
+
+“It’s a flat damage increase,” he said, examining the table of data he had compiled. No matter what they hit Mato with, every single hit was enhanced by the same amount of additional light-magic damage. It didn’t matter the size of the strike, speed, or whether it was magical or physical. The benefit for high-speed attackers like Ali’s rogues and the dual-wielding Hobgoblin was phenomenal.
+
+“I love this,” Malika said.
+
+“Of course the speed freak likes it,” Calen muttered. She attacked faster than anyone in their group and therefore stood to gain substantially from his new advancement. To be fair, he was a bit of a speed freak himself, so it was great for his arrows too.
+
+“How are you going to manage that mana reservation, though?” Ali asked, putting her finger right on the thorny conundrum.
+
+“It’s already a challenge to keep up with mana,” Calen said. “Enabling this will probably cost me a lot of my own personal power. But it looks like most of the time the tradeoff will be worth it, given the number of minions you can bring to a fight.”
+
+With the twenty percent reservation for Blessing of the Dawn and the new thirty-five percent for his beacons, he would be reserving more than half of his most scarce resource. That meant his personal damage contribution would be substantially reduced, but rationally, this was the most optimal choice. Ali was often bringing up to ten minions and had several swarm options, and with Mato and Malika, that meant his Motes of Light would likely be the single largest contribution to the team’s damage output.
+
+“Calen, are you really happy just taking a hit for the team?” Mato asked, surprising him. Mato could be bull-headed, but occasionally he was quite perceptive.
+
+“It’s the smart choice,” Calen said. “But I can’t say I’ll enjoy the increased dependence on mana potions.”
+
+“I think we should be buying your potions from the group fund then,” Malika said, her voice firm, allowing no argument. “If you have to bankrupt yourself to make the team stronger, that’s not fair.”
+
+“I agree.”
+
+“Same,” Ali said. “Perhaps I should reserve the next free chapter in my Grimoire for potions?”
+
+“You can learn potions?” Calen exclaimed.
+
+“I don’t know,” Ali said. “I’ve never had enough space to try.”
+
+He had known his friends were generous, but it was surprising just how little hesitation they all had. Mana potions were expensive, and he knew he consumed a lot of them. “Speaking of money,” he said, recalling his skinning practice earlier. He hauled out the demonic warg hide and handed it to Malika. “Can you see if Weldin wants to buy this?”
+
+“Oh, yes! Thanks, Calen. And before I forget, I picked up these from those hunters.” Malika tossed him two bows. “You should definitely upgrade.” There was a soft chime in his mind as Malika shared the item’s appraisal with him.
+
+Flamecaller Bow – level 51Bow is wreathed in flame when used.Damage: Ranged, Physical, FireAttacks gain +10% additional damage as Fire.+12% to Attack speed.Requirements: Strength 84, Dexterity 142Quality: MagicalValue: 15 gold, 63 silverTwo Handed – Bow – Drake Bone
+
+The second bow was almost identical, having +11% added fire damage and +11% attack speed as the only minor differences. They were the powerful recurve bows that had been used so effectively against them by the hunters. Obviously, the added fire damage wouldn’t be useful against the many fire-immune creatures in their current dungeon, and he would need to be careful if they ran into elementals that healed from fire, but the increased attack speed was phenomenal.
+
+There was only one problem…
+
+“I can’t use it,” Calen said, frowning. “I don’t have enough strength.” Lyeneru had warned him about this – she had literally told him he would encounter good bows with a strength requirement to draw. He hadn’t ignored her advice, bringing up his strength little by little, but he hadn’t anticipated needing quite so much. Even with all his gear and investments, he was only at sixty-four strength – if he invested all his free points, he would still be short by ten.
+
+“Argh,” he groaned, running his hand through his hair. “If only –”
+
+“Does this help?” Malika asked, tossing something else his way. Calen snatched it out of the air and examined it. The dark leather bracer seemed to have been cured by some chemical process, and had cross-stitched leather laces along the side to allow it to fit different-sized forearms. “Here’s the other,” Malika said, tossing him the matching bracer to complete the pair. The Flamecaller hunters had worn these on their scaled arms, but he hadn’t connected them with the bow. He studied it without understanding, but Malika was quick to share the description with him.
+
+Flamecaller Bracers – level 44+12 Strength+34 DexterityRequirements: Dexterity 154Quality: MagicalValue: 12 gold, 30 silverHands – Demonic Hide
+
+“Wow,” he said. And Malika was holding another set just like it!
+
+“Good, isn’t it?”
+
+“I can make this work,” Calen answered excitedly. “Thanks!”
+
+He quickly stripped off his level ten Bracers of Accuracy and laced the new Flamecaller Bracers to his forearms, feeling the way the power of the item’s enchantments strengthened his limbs and made every movement even quicker. He then spent all his free attribute points on strength and picked up the Flamecaller Bow. Instantly, the entire length of the bow burst into flame, but curiously enough, the flames failed to burn him. Without asking, Ali summoned a barrier on the far side of the room, in the shape of a target.
+
+Sighting on it, Calen paused to call over his shoulder, “Did you all get an advancement in mind reading, or what?” Turning back, he winced privately. Well, after what Mieriel did… maybe not the best joke.
+
+He channeled his mana into Radiant Archery, summoning four arrows of light, and fired them all at the target simultaneously. Each of the arrows flared with flames as they left the bow, crashing into the target. A sharp crack sounded through the room, and he could see that the barrier Ali had summoned had sustained some visible damage.
+
+“That was a lot of damage,” Ali said, looking at him in surprise. “I got a ton of mana back from that hit.”
+
+Suddenly, it clicked. Hovering above Ali’s head, his Mote of Light was still pulsing with the energy of his mana reservation, forgotten after their tests. It was adding light magic damage to his hits. And if he wasn’t much mistaken, because it said ‘on hit’ it was adding the same flat damage to each arrow, instead of dividing the damage. Which meant he had found yet another way to multiply damage across his multishot advancement without penalty. Once again, Lyeneru’s insight was proving invaluable to guide how he should think about… well, everything!
+
+He stashed his old bow in his storage ring – he would still need to swap to that every time they fought a Shard of Flame or Living Flame – and he would need to test it against all the other monsters in the mines, but against anything that didn’t heal from fire, this bow was an incredible upgrade. Carefully, he studied his sheet, shocked to see how much his dexterity had grown, simply by the combination of his new pair of bracers and his Blessing of the Dawn.
+
+Name: Calen AveryRace: Half-ElfActive Buffs: Blessing of the Dawn, Mirage Armor, Motes of LightClass: Archer of Light – level 54- Radiant Archery – level 32- Arrows of Brilliance – level 37- Motes of Light – level 20- Explorer – level 30- Blessing of the Dawn – level 24- Eclipse – level 24- Eyes of the Archon – level 25- Righteous Fury – level 20- Azrael's Wings – level 17- Mirage Armor – level 12General Skills- Bowcraft – level 7- Cartography – level 13- Skinning – level 5- Basic Daggers – level 2Aptitudes- Languages: Common, Elvish- Mana (Affinity): Light- Perceptive (Racial): +11 to Perception- Quick (Racial): +5 to Dexterity- Timing (Class): You have an innate sense of timingPatrons & Tithes- Deity: The Wanderer- Mentor: Lyeneru SilverleafAttributes- Vitality: 106 (+54)- Strength: 86 (+60)- Endurance: 36- Dexterity: 423 (+249)- Perception: 249 (+109)- Intelligence: 304 (+163)- Wisdom: 57Equipment- Weapon: Flamecaller Bow – level 51- Body: Studded Jacket – level 40- Hands: Flamecaller Bracers – level 44- Feet: Pathfinder Initiate Boots – level 40- Ring: Silver Guild Ring – level 30- Ring: Pathfinder Initiate Guild Ring – level 40Evasion: 1147Dodge: 43.13%Resistance: 336Magical Damage Reduction: 18.18%+12% to Attack speed.Attacks gain +10% additional damage as Fire.+10% to Movement speed.Health: 1060/1060Stamina: 360/360Mana: 199/570 (371 Reserved)
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

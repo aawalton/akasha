@@ -1,0 +1,211 @@
+---
+id: 8870ac7e-200a-5ec9-8cdf-e651dbea384e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 29: Goblin Bugbears"
+slug: 0029-chapter-29-goblin-bugbears
+partOf: dungeon-of-knowledge-complete
+position: 29
+ownLength: 4432
+unit: words
+ownProgress: 4432
+publishedAt: 2024-02-25
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1531624/chapter-29-goblin-bugbears"
+royalRoadId: "1531624"
+markedReadAt: "2026-06-29T20:11:56.985Z"
+---
+
+The problem with Goblins is that there’s never just one of the blighters.
+
+- Bragni Doomhammer [The Hammer of Justice], Dwarven King of Dal’mohra.
+
+Malika trudged along the game trail, forcing her tired eyes to keep scanning the forest around her. It was a little after dawn, and the forest felt hushed as if it held its breath, waiting for something to happen. She was exhausted. Neither she nor Calen had gotten any sleep over the last two days in their desperate scramble to stay ahead of the pursuing Goblins.
+
+But it was not hard to motivate herself to keep going. All she had to do was recall the sight of the Goblin horde pouring out of the cave entrance with their raucous calls, brandishing their rusty weapons so recklessly that she had seen the severed tip of an ear leaping into the air. Perhaps the horde wouldn’t have felt quite so terrifying if it were just the normal little green Goblins that people across the realm recognized as vermin.
+
+This horde had larger and more advanced Goblin species: massive ochre-furred, feral, and muscular monsters that caused the ground to shake under their huge feet; armored crimson warriors with black topknots, mounted upon large and cunning Timber Wolves; and she was definitely not about to forget the elite Goblins with dangerous classes that they had personally encountered along the way.
+
+The fact that Calen had told her Kieran Mori and his goons had provoked the Goblin horde by inciting a dungeon-break, made her coldly furious. It was happening again, and she’d be damned if she stood idly by and let a dungeon-break destroy another town. Even a shithole like Myrin’s Keep had innocent people.
+
+Our information will save lives, she told herself. At least, if we live to tell the tale. And if Kieran Mori doesn’t meet us at the gate to fuck us over again. She was furious. She took a deep breath, trying to calm her sleep-deprived mind.
+
+A shadow flickered across her path. Malika hesitated, glancing left and right but seeing nothing. There was a sudden huge crash and she blinked. Somehow, she was on her back, blackness receding from her vision. She stared dumbfounded at an eight-foot-tall, furry Goblinoid and the wicked two-handed mace that was descending unceremoniously towards her face. Her mind struggled with the sheer improbability of it. The monstrous mountain of muscle and steel had literally appeared out of nowhere, flattening her with such force that she lay stunned upon the ground with the breath knocked clean out of her.
+
+An intense flash of light shot out from the dense trees of the forest and an arrow struck the creature in the shoulder, eliciting a howl of fury. That was all Malika needed to restart her stunned brain. Desperately, she threw herself out of the path of the descending mace and felt the ground punch her hip as her arm buckled and failed to support even the slightest pressure. Rolling over and over across the dirt with her left arm flailing uselessly, Malika nearly vomited from the intense wave of dizziness and pain. Something was very wrong with her shoulder. Things that shouldn’t be moving crunched sickeningly as they twisted, bone scraping on bone. Clutching at her wounded shoulder, she scrambled to her feet, knowing her life depended on keeping her distance from that monster.
+
+What the heck was that? I lost almost half my health. Her arm dangled limply by her side.
+
+She poured her mana into Healing Mantra, wincing as the intense burning sensation of her magic caused her bones to snap painfully back into place. The rearrangement of her shattered shoulder caused her arm to twitch and spasm as she tried to place the Goblinoid.
+
+Bugbear. Calen had identified them for her earlier – from a suitably safe distance.
+
+Bugbears had a notorious reputation as the most ill-tempered and vicious of the Goblinoid races. And now she had just experienced firsthand what it felt like to be ambushed by one of them. Also, it stank.
+
+The Bugbear roared fiercely at her, the foul stench of its breath merely adding to the general unpleasantness as she hastily backed away. Suddenly, its muscles bunched, and it leaped high into the air, easily closing the distance as its giant steel mace swung down for another overhead smash.
+
+Crap! Malika dodged left using every drop of her speed to avoid the brutal attack. She felt the wind of its passage as the heavy steel missed her shoulder by a fraction of an inch, slamming into the ground behind her feet. Splinters of rock and dirt exploded outward from the impact, drawing blood as they sliced across her ankles. She was forced to dive out of the way as the huge monster recovered with a grace and agility that seemed downright uncanny on such an enormous frame.
+
+Drops of morning dew glittered along the wicked-looking steel spikes that jutted out of the plate pauldron strapped to its right shoulder. The monster glared at her with cunning dark eyes set deep in its squat and ugly face. Its thick lips drew back into a snarl, baring its oversized fangs. Mismatched leather armor had been strapped haphazardly across its heavy, muscular body, leaving the dark ochre fur to protrude in thick tufts and clumps. Malika grimaced at the rank stench of unwashed sweat and worse emanating from the giant Goblinoid as it coiled, preparing to rush her.
+
+Frick, that smell’s a bloody weapon … ready …
+
+The Bugbear flung itself into a headlong tackle, leading with the heavy armor spikes welded to its pauldron. Appearing as if by magic, a couple of glowing arrows embedded themselves in the back of its other, unarmored shoulder, causing it to erupt with a bellow of rage. Darting aside with a fraction of a second to spare, Malika seized the opportunity to unleash a strong high kick, connecting solidly with its jaw lighting up the nearby trees with a sky-blue flash as she activated her Soul Strike skill.
+
+Caught off balance, the monster crashed down beyond her, ripping through some bushes, roaring furiously.
+
+I think I just pissed it off more. An arrow whizzed by, impaling a tree with a loud thock and a buzz as it vibrated from the impact.
+
+Glad I’m not alone. The arrows sticking out of its shoulder didn’t seem to be hampering it much, but Malika was extremely glad Calen had her back, and that he hadn’t been scouting too far away. She quickly ducked under a whistling horizontal swipe and counterattacked with two punches to the ribs. Blocking a deceptively fast return strike, she danced back out of range. She couldn’t believe how tough his skin was – it was like punching a stone wall. Her physical attacks barely had any impact, only Soul Strike felt like it was effective.
+
+Dodging the next sweeping attack, she stepped in, keeping her weight light on the balls of her feet. As her kick slugged the Bugbear in the gut, his mace blurred with unnatural speed swinging from low to high. It smashed into her ribs with a loud crack, launching her off the ground. As her body flew through the air, she urgently healed the ribs crushed by the heavy momentum of the mace.
+
+What was that? Dude hits like an avalanche!
+
+The speed of his retaliation had been almost too fast for her to even see. The heavy two-hander combined with the almost instantaneous strike had crushed her bones beneath its brutal impact. Without her Healing Mantra, she knew she would be dead already. She tucked her legs and absorbed her momentum against the trunk of a tree before leaping back towards the monster.
+
+Malika came down as heavily as she could, striking with a knee to his unarmored shoulder, right between the two protruding arrows. She used Soul Strike, welcoming the small trickle of health she gained from its magic and landed behind the brute. As her feet touched the ground, she unleashed a low-kick combination at close range, striking at ankles and knees with her magic flickering and flashing in the early dawn light. She kept a sharp eye open for the retaliatory counterstrike, and when it came, arms blurring with speed, she blocked. Unable to completely avoid the attack, she was still sent sprawling but at least she had prevented most of the bone-crushing impact.
+
+Quickly, she rolled sideways as the Bugbear took to the air once more. The great mace smashed into her hastily vacated spot, powered by enormous muscles and the sheer momentum of the leaping giant. The nearby trees in the forest shook from the impact – easily the most powerful strike yet. The Bugbear roared in frustration and lashed out with a wild haymaker that Malika easily avoided. Her eyes widened in sudden shock as she realized that the ridiculously clumsy attack had been a cunning feint and the real attack, the heavy mace, smashed into her side, cracking her ribs again and slamming her into a tree.
+
+Damn, he’s using me for a fucking punching bag!
+
+Shouting incoherently, the powerful muscles in the Bugbear’s back and shoulders flexed as it swiped its brutal mace horizontally, trying to take advantage of her injured side. Malika leaped, taking two running steps up the trunk of the tree, and performed a backflip over the head of the Bugbear while her healing magic coursed through her body.
+
+She wiped the blood out of her right eye. Time. Just need more time. It’s playing with me. Controlling the distance…
+
+Ignoring the arrow that lodged itself into his ribs, the monster wheeled about with balletic grace. With an unexpectedly powerful sweeping attack, he caught her in the chest right before she landed. Malika screamed at the sickening crunch of crushed bones as her chest was caved in by the heavy steel. Her body flew across the path and bounced off a maple tree on the other side of the clearing like a ragdoll. Before she even slumped to the ground, the Bugbear landed on her, one knee driving into her gut, meaty hands the size of her head reaching for her throat.
+
+Pinned under its huge bulk, she pulsed her healing magic once again and unleashed a fury of elbow strikes and punches to the side of its head and face, struggling to find proper leverage while the monster grappled her. The Bugbear roared in triumph, abusing his superior strength to tighten his stranglehold around her throat. But Soul Strike cared only that she connected, flashing brightly even at the lightest of touches. She burned through her stamina with reckless speed and desperation as her vision started to flicker from the lack of oxygen.
+
+Out of the corner of her eye, she glimpsed Calen emerging from his forest cover, bow drawn right to his chin, his face etched with concern and concentration. Tucking her arm in towards her body, she rammed the heel of her hand upwards, unleashing Soul Strike into the Bugbear’s chin. As the monster’s head snapped back, from the force of her blow, Calen released his arrow. With an incredible feat of accuracy, it shot across the forest glade, burying itself up to the fletching through the Bugbear’s left eye. The Goblinoid never even cried out, killed instantly.
+
+Your group has defeated Mace Brute – Bugbear – level 17.
+
+Malika slumped under the now dead weight of the monster. Mace Brute. No kidding.
+
+“Are you ok?” Calen worried.
+
+She just groaned and used her healing once more. “Can you help get this thing off me?”
+
+The two of them struggled to shift the dead weight of the huge creature, but eventually, Malika wriggled out from underneath it.
+
+I’m going to be aching for a while, she thought, considering how many bones she had just broken. And I want a bath.
+
+“Thanks,” she offered Calen. He nodded quietly, and after verifying that she was going to be ok, slipped back into the shadows of the forest, presumably to scout or keep watch.
+
+Malika didn’t bother to move, simply sitting on the ground beside the corpse and beginning to Meditate. She settled in, taking a few minutes to calm her mind and her breathing while her severely depleted stamina and mana began to regenerate. She was mostly healed up, but she was quite low on her other resources after the stunningly brutal fight.
+
+A loud roar shook the forest, snapping her out of her Meditation. To her horror, three more hulking monsters emerged from the trees lugging their huge weapons of choice. The glint of morning light reflected off their miscellaneous plate armor pieces strapped over their bristling coarse orange or brown fur.
+
+Using their larger brethren as cover, two elite green Goblins slunk out from behind the Bugbears, one clad in flowing scarlet robes with the red glow of flame dancing in its hands, and the other wearing a shining chainmail shirt and leaking white sparks from their eyes.
+
+Partly concealed in the bushes were at least several other small dirty green faces with wicked snarls twisting their mouths and exposing crooked yellow teeth.
+
+With a great roar, two of the massive Bugbears immediately leaped for her, flying through the air in exactly the way Malika’s mind insisted a half a ton of muscle and steel shouldn’t.
+
+Oh fuck.
+
+You have been afflicted with Domain Withdrawal.Separation from your domain weakens you.-10% to maximum health.Affliction – Duration: Indefinite. Count: 5
+
+Ali woke with a start to the now familiar throbbing headache and cold sweat. For a moment, she was confused. The darkness, and the sense of her domain withdrawal, conspired to place her back down in those cold and dark ruins again. But the stars shone through the tree branches above, reminding her that she was in the forest.
+
+Halfway. The point of no return. Ali had to remind herself that she had the Potion of Recall that could send her home instantly. But, while it was one thing to have options, it was another to be wholly reliant on them. Although I can’t walk as fast as that courier wagon, she thought, realizing that in fact the point of no return had already come and gone.
+
+Mato said we were getting closer. She was beginning to worry. So far, it had taken two days on the road with the courier, and then three more days of scouting through the woods. Yesterday, Mato had killed two stray Goblins while he was following Calen and Malika’s trail.
+
+I hope they’re ok, she thought. Mato had reassured her repeatedly that their trail was still active, even though they had doubled back several times, and there were numerous signs of pitched battles.
+
+She sat up and looked around. All her minions silently stood watch in the darkness. It was hard to judge time by the forest and the light, but going off the timing of her withdrawal notification, Ali guessed it was about an hour or so before the first light of dawn.
+
+She moved to go rouse Mato but found him already stirring. By mostly unspoken agreement, they had been sleeping only a few hours a night. She was tired, but she needed far less sleep than he did. She couldn’t imagine how he felt, only that she knew they were both driven to find their friends before something terrible happened to them.
+
+They quickly broke camp and headed out, falling to the same routine they had been using for the last three days. Ali followed along quietly with her Kobolds while Mato ranged ahead figuring out where they needed to go.
+
+The forest slowly lit up with the approach of dawn, and Ali’s worries mounted. Mato was doing all the practical work to rescue their friends, and she was merely walking through the forest with her thoughts and worries as her constant companions. While her Kobolds could talk, they hardly offered enlightened conversation.
+
+Her eyes were drawn to a fallen tree, marked with scratches in the bark – Mato’s sign that she could safely deconstruct it. She welcomed the brief distraction and the opportunity to use her magic, but all too soon the tree dissipated into glowing mana, lighting the forest around her for a few moments.
+
+Something tucked away in the undergrowth attracted her attention. Something she might not have noticed without the light she had just created. Making a barrier to increase the illumination, she crouched down and scraped away some moldering leaves and dirt revealing a fist-sized red-and-white toadstool growing underneath.
+
+Forest Amanita – Mushroom – level 6 (Poison)
+
+Excited by her unusual find, she brushed away more of the leaves revealing several more of the brightly colored toadstools, fascinated by the delicate flow of bright red mana within the cap that presumably was the poison magic augmenting its natural toxicity.
+
+She summoned her Grimoire and immediately deconstructed several of the pretty toadstools.
+
+Variant: Forest Amanita added to Imprint: Mushroom.
+
+There, all efficient and tidy, no extra chapter needed. Maybe I need to be thinking of these chapters more as categories?
+
+“May I have a mushroom, Ancient Mistress?”
+
+Her Kobold’s voice was calm but, spoken right next to her while she was absorbed in studying her find, it startled her more than she would have liked. Calming herself by easing her breathing, she turned to find her highest-level Kobold crouched in the dirt beside her, examining the remaining toadstools with a gleam in his eyes.
+
+“Why do you need a mushroom?” she asked, her curiosity piqued. It was the first time one of her minions had asked her for anything.
+
+“I would poison my blades,” he answered.
+
+“You can use poisons?” Ali had little insight into how rogue classes worked, or even what kinds of skills they may have, beyond the obvious stealth and Ambush attacks she had become so familiar with.
+
+“Yes, Ancient Mistress. I have the Deadly Poisons skill.”
+
+“Go ahead,” she said. The Kobold carefully uprooted one of the toadstools and separated the cap from the stem. He then crushed it into a paste with a rock, all the while using some strange magical skill. Is this what crafting skills look like? she wondered. When he was done, he wiped his dagger blades through the paste and then wrapped the excess in a few carefully chosen leaves which he stored under his leather armor.
+
+“Do the others need poison too?” Ali asked.
+
+“They have not advanced yet.”
+
+The response puzzled her for a few moments before she realized that the other rogues had lower levels. Kobolds must unlock a skill at level ten, just like I did. Ali found the tidbit of information, an unexpected and curious insight, quite fascinating. The idea that the Kobold’s leveling worked just like hers made a kind of logical sense to her, even though they were monsters.
+
+She was just about to ask him for more details about his skills when a sudden sense of urgency flowed through her connection from her wolf minions, and she sprang to her feet and began to run, followed closely by the Kobolds. Within moments, the large form of Mato’s wolf shot from the bushes and onto the trail right in front of her, his body already warping and twisting into his Beastkin form.
+
+“Grrr … I found them!” he snarled, his voice a skin-crawling blend between beast and man as urgency drove him to speak mid-shift. “They’re in trouble!”
+
+They both rushed off, but it was immediately clear that Ali couldn’t even remotely keep up with his pace. Her tiny frame and short legs simply couldn’t run fast.
+
+Glancing over his shoulder, then whirling, Mato called urgently, “Can I carry you, Ali?”
+
+Not caring much for her dignity, given that Malika and Calen needed them, she nodded. No fear! she thought, trying to remind her trembling heart. He’s not a Berserker anymore.
+
+He swept her up in his arms and sprinted off through the trees, trailed by the chirping Kobolds.
+
+Calen’s eyes widened in shock as three towering, shadowy shapes crept through the trees, moving with uncanny silence and grace, almost invisible in the dappled shade.
+
+Warrior – Bugbear – level ?? x3Mage – Goblin – level ??Shaman – Goblin – level ??
+
+Not far behind them, scampering through the bushes, came a pack of smaller, green-skinned figures carrying an assortment of crude weaponry. Scavengers and Skirmishers, but Explorer couldn’t get a good read on their numbers in the dense undergrowth.
+
+A Goblin Warband! The recognition that the Goblins had finally caught up made the blood drain from his face. Instantly, he knew that they were hunting Malika, who sat in her Meditation pose in the open clearing beside the corpse of the Bugbear they had just defeated. She seemed, blissfully unaware of the stealthy death that crept up on her.
+
+Acutely aware of his own vulnerability should he call out a warning, he quickly stooped and grabbed a handy stone. Wiping the mud from his chosen weapon, he took aim. With a swift underhand toss, he lofted it high overhead, watching closely as it arced through the tree branches. It struck the lead Goblin Bugbear on the shoulder, clinking sharply as it bounced off his plate pauldron.
+
+The creature let out a loud roar, and he could only stare in disbelief as two of the Bugbears leapt effortlessly into the air, sailing across the clearing, heavy maces stretched high and back overhead ready to strike. His brief warning was enough to alert Malika, but she was only able to avoid one of the leaping monsters. The sharp crack of bones breaking echoed through the trees as the descending mace smashed her body into the ground, making her bounce.
+
+I need to run! The errant thought popped into his mind with the startling clarity of a clear bell. There was no chance they were a match for an entire Goblin warband. He hadn’t been seen yet, still concealed in the shadows of the trees, and his escape route was clear. His desire to flee surged within him, a palpable urgency that demanded action. Bugbears had a reputation for ugly cruelty and viciousness, and even just one of them had almost been a match for him and Malika combined.
+
+An angry red glow caught his attention. Back among the trees a robed Goblin was hunched over a growing ball of conjured fire, his eyes narrowed with malicious glee as his tongue ran over cracked green lips, curled back into a sneer.
+
+She’s going to die. All thoughts of running away vanished as he suddenly found his bow in his hands, arrow nocked and drawn. As he released the shaft, he suddenly understood Mato and his penchant for charging into trouble seemingly without heeding the danger.
+
+His arrow flew true, striking the Goblin Fire Mage clean in the ribs, pinning its flowing robes to its torso. It screeched and snapped around to face him, the conjured ball of fire growing ever more intense. Suddenly it released the magic, angry roiling flame shooting through the trees with incredible speed. Calen dove for cover on the leeward side of a large oak, barely making it before the ball of fire exploded. The detonation was deafening, stripping the leaves from the nearby trees instantly. Even protected by the thick bulk of the tree, his skin was scorched and blistered from the wave of heat. Gobs of fire and clods of dirt rained down throughout the area in the aftermath of the powerful explosive magic. Calen nocked his bow and sidled out from behind his tree but was forced to duck back again as a high-speed Firebolt sizzled past his cheek.
+
+I’m going to die too. But somehow the thought did not fill Calen with terror, and he no longer had any desire to run. The fact that he had just bought Malika a few seconds by acting as recklessly as Mato made him want to laugh. His mind and purpose felt clear. Maybe the fear is making me hysterical, but this sure feels good.
+
+He popped out from his hiding spot and loosed his arrow. The second elite Goblin pointed a short mace in his direction and Calen instinctively dodged. His vision went white as a coruscating blast ripped past him, unleashing a deafening thunderclap that shook his bones. He barely made it behind his tree, his left leg jangling and cramping from the near miss.
+
+Fuck. The shaman has Lightning Bolt. We are so screwed!
+
+He remained behind his tree as a hail of pebbles and stones flung by the Skirmishers and Scavengers pinged and cracked off the branches and trunks nearby. A couple of trees to his right had caught fire, and a blaze burned through the undergrowth, blocking his way past and filling the forest with smoke.
+
+We probably have about a minute at most, he estimated. It had been a great risk to investigate the Goblins, instead of heading directly back home, but both he and Malika had chosen it deliberately. Perhaps not a worthwhile trade for such a lawless town. But when he thought about Myrin’s Keep, it was his mother’s face he saw.
+
+Too bad. I’ll just have to take as many of these monsters to the grave with me as I can! He rolled out from cover to another tree and took a quick shot with his bow, striking a level-one Scavenger in the throat. He had the satisfaction of seeing it drop before the painful crack of a high-speed stone against his right hip spun him half about.
+
+A new roar – a decidedly deeper and more bestial one – bellowed through the trees. Screeches arose from the Goblins as they reacted to the sound; Calen found his own nape prickling intensely as he reacted to the new danger. Suddenly, a huge mass of fur and muscle charged out on four paws, crashing into the trio of Bugbears that were beating on Malika’s downed and lifeless body.
+
+Mato? Where … how?
+
+Thunderstruck by disbelief, Calen rubbed his eyes and stared again. There, high upon the ridge among the trees, he spied the tiny form of Ali by the glow of her full-body barrier of golden magic. She crouched, under the partial cover of a large spreading oak, flanked by two green reptilian creatures wielding drawn swords. There was a ruckus of screeching and howling as an entire pack of wolves tore into the group of Skirmishers and Scavengers from behind.
+
+Calen whistled between his teeth, drawing another arrow back to his ear.
+
+They’re alive!

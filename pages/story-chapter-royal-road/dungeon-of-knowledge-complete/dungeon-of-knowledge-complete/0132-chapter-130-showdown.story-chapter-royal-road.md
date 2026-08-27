@@ -1,0 +1,205 @@
+---
+id: 9156fc9c-3cda-57cb-bbe9-02651258f0dc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 130: Showdown"
+slug: 0132-chapter-130-showdown
+partOf: dungeon-of-knowledge-complete
+position: 132
+ownLength: 3947
+unit: words
+ownProgress: 3947
+publishedAt: 2024-09-15
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1804347/chapter-130-showdown"
+royalRoadId: "1804347"
+markedReadAt: "2026-06-29T20:31:26.233Z"
+---
+
+Ali rotated her mages through the softly glowing Inspiration runic circle she had inscribed directly onto the stone of the battlement behind one of the merlons to regenerate their mana – a spell that her fellow defenders had come to appreciate greatly.
+
+She snapped a barrier into place above the wall, blocking an embrasure, causing a well-aimed Ice Lance to shatter, spraying the archer she had just saved with a shower of crushed ice. She had to take a more active role now that the skeleton mages had begun peppering the battlements with their magic. He ducked belatedly behind a merlon, shooting her a grateful look.
+
+Ali took a break for a moment to recover her mana, listening to the endless thumping of boulders smashing into the wall and occasionally crashing down into the outskirts of the town behind it. Defending the walls was at once frenetically terrifying, and yet also mind numbing and exhausting. She relaxed for a moment in the soothing sensation of her Inspiration skill – she had been firing magic non-stop, and yet it seemed like she was throwing handfuls of sand at the tide for all the effect she seemed to have on the horde of undead out there.
+
+A haughty voice boomed out over the noise of battle. “Cease fire.”
+
+The heavy shuddering thumps ceased, and the crackle of lightning and the sizzle of fireballs faded. In the sudden, unexpected silence, Ali poked her head up and carefully peeked out over the battlefield. The dark figure on his skeletal horse out on the far hill began speaking again, his words obviously amplified by some artifice or spell.
+
+“Greetings, Myrin’s Keep.” His voice had a slippery smoothness and false friendliness like the shimmering rainbow of an oil slick over a scummy pond. “My name is Alexander Gray. I am but a humble servant bringing the greetings of the Blind Lich.”
+
+Ali gasped. Nevyn Eld? Is he here? The mere mention of his name filled her with a dread that settled into the very marrow of her bones. That Alexander Gray was his servant did not bode well for them at all.
+
+“My master’s earnest wish is to claim the dungeon in your town,” Alexander continued. “You will send out the Fae, Aliandra Amariel, alone and unarmed, and I will graciously spare the lives of everyone in Myrin’s Keep. If you do not, I will destroy the town and raise every one of you to be servants in my undead army.” His hand came to rest casually on the bowed head of one of the motionless statue-like servants standing beside his horse.
+
+“You have one hour.” His magically enhanced voice, suddenly cold and harsh, echoed off the battlements, leaving a stunned silence in its wake.
+
+Nevyn Eld… is after me?
+
+A hundred thoughts and questions crashed into her mind, crushed and scattered by the terrifying image of the scarlet blindfold and the gaunt, blackened flesh of the Blind Lich. But one thought stood out, capturing the horror in her mind.
+
+How does he know my name? Ali sank down onto the cold stone of the battlements, her body forming a ball as she hugged her knees to her chest, trying to ignore the sudden calculating stares of the defenders that shared the wall with her.
+
+They’re afraid. I’m afraid…
+
+They should be. Everyone was going to be terrified. After all, a Necromancer had just shown up and laid siege to the town – who wouldn’t be afraid? Like a butcher swinging a cleaver, Alexander Gray had just severed all the connections she had made with the town, singling her out and isolating her in the same action. She shivered, feeling the crushing weight of separation and loneliness descend upon her again; the sense that she didn’t belong here in this foreign world and that every person was set against her.
+
+The council will hand me over. No question. None of her struggles to get recognition would amount to anything in the face of this – and how could she blame them? It would be the lives of everyone in the town against hers. Half of them would even enjoy sitting back and letting Alexander Gray take care of their dungeon problem.
+
+Her stomach churned queasily. Nevyn Eld had taken everything she valued in her life and destroyed it, and now, against all reason, after thousands of years, he was still taking from her. A desolate fear and despair washed over her, and her mind began to descend once again to that place of darkness she had fled to after enduring Roderik’s murderous intent.
+
+He hurt Lira. To get to me. The memory of Lira, frail and broken, dying from the blight and poison he had forced upon her sprang freshly to her mind. He had done this, for no other reason to track her and flush her out.
+
+How dare he.
+
+Lira was her family. A beloved mentor, and her only living tie back to the life that had been savagely ripped from her. This vile Necromancer – this evil monster – wanted to do the same to Malika, Calen, Mato, and all the people in the town, just to flush her out. A small kernel of white-hot fury kindled within her, consuming her despair and fear in an instant.
+
+I will go, she thought, grinding her teeth together, but not quietly. If she could save her friends, that was all that mattered. She may not care about most of the town, but her friends had stuck with her no matter what. She felt the rightness of it to the core of her being, and when she heard the quick footsteps, she looked up with pure resolve in her heart.
+
+Vivian Ross? The Guildmaster sprinted up the steps looking uncharacteristically flustered and rushed.
+
+“Aliandra! I’m glad I found you first. Bastian has invoked a state of emergency and suspended the council –”
+
+“So?” Ali ground out.
+
+“I don’t think you understand,” Vivian said, pulling up short. “During a state of emergency, as the representative of the crown, his word is law. You are to be sent out alone as an offering to save the town. I’m explicitly forbidden from helping you, we all are. People are coming for you right now. You need to run. Mieriel is waiting below to take you –”
+
+Ali stood slowly and then met the Guildmaster’s gaze.
+
+“No.”
+
+Vivian stopped and returned her look. “I was afraid of that.”
+
+“You can inform Bastian and his little council that they have no need to hunt me down. I will meet Alexander Gray alone on the field in an hour as he has requested.” She was tired of running, tired of hiding. Tired of having people coming for her, killing and hurting her friends. She was tired of being scared and lonely. Somehow – she didn’t know how – she would make her stand and face him.
+
+Vivian stared at her in silence for a while. “Very well. I understand.” She must have seen the resolve in Ali’s heart because she didn’t even try to argue with her. “Good luck, then, Aliandra.” And with that, Vivian spun on her heel and left.
+
+I just wish I could tell them. She found herself wishing for Malika’s dependable advice, Calen’s strategy and shy smile, and Mato’s hearty laughter. But there was no time. Alone. As Vivian had just said, her friends would be back in serious trouble with the law if she asked them for help. She flew herself down to the street below the battlement and searched with her Martial Insight skill. Finding a slime, she teleported into the sewer and hurried down into the newly restored forest cavern below.
+
+She hadn’t expected the Guildmaster to risk her position to subvert Bastian’s authority, but she had hoped she had at least a few allies after the council trial. I guess that was too much to hope for. She worried about it all the way down into the forest cavern, but her thoughts returned to her friends. They were all in danger, and she had precious little time to save them.
+
+I hope they will understand.
+
+Fury burned within her, but it did not disturb her resolve, nor the clarity of her focus. She opened her Grimoire, glancing at her now fully restored mana pool, and began to summon monsters.
+
+Ali? Where are you? Frantically, Malika dashed across the street, her eyes scanning the battlements for any signs. A golden glint of her barrier magic, a Kobold, anything.
+
+Malika had been searching high and low for Ali ever since the necromancer’s announcement had set the alarm bells clanging in her heart. She knew what this town was like. It wasn’t even a question: the council would sacrifice Ali in a heartbeat, favorable vote be damned. She pressed her lips into a firm line. Why did nobody ever see it?
+
+Am I too late? The allotted hour was almost up, and still, Ali was nowhere to be found. I hope the fucking council didn’t get to her already. Bunch of crooks. Her mind had been producing more and more improbable, more disastrous scenarios. So much for my clarity and calmness.
+
+She darted up the ladder and sprinted out along the battlements where someone had told her that she had seen Ali fighting. But as she approached, all she saw was the familiar tall, dark-haired figure facing the battlefield.
+
+Vivian. Why is she here? Did she take her?
+
+“What have you done with Ali?” Malika demanded, striding toward Vivian’s back. She was going to get some answers.
+
+Vivian turned to face her for a moment, and then simply gestured down to the battlefield below, and returned her gaze to studying it. “See for yourself.”
+
+Puzzled, and suddenly worried, Malika stepped up to the battlements and surveyed the field. Everywhere, as far as the eye could see, were the endless ragged rows of shuffling undead standing just out of range of the battlements. Human zombies, animal skeletons, everything she could imagine. Safely behind the battle lines, Alexander Gray had returned to the field astride his skeletal horse and was intently gazing at something directly below her vantage point. Malika followed the direction of his stare. And there, far below the base of the wall, where the river emerged from the underground forest cavern, she found that unmistakable golden glint. The color of a mana butterfly that had once woken her in a dark alleyway. A small golden glowing disk of magic floated slowly out toward the battlefield. Seated atop the disk was a tiny familiar figure with flowing green hair.
+
+“You forced her to go out alone?” Malika rounded on Vivian with a torrent of anger flaring up in her heart.
+
+“I tried to get her to run, but she insisted,” Vivian said with a quiet sincerity that spoke of respect.
+
+Ali, no, don’t do it!
+
+“I cannot save her. Bastian has invoked a state of emergency, my hands are tied, but…” Vivian continued.
+
+“Fuck the law, she’s my friend,” Malika interrupted, leaping right over the battlement and sprinting down the sheer outer face of the wall, stamina burning through her Divine Step as she picked up speed.
+
+“Why did you call me all the way out here, Vivian?” Donella asked, her flight magic arcing small sparks that fell to the ground. She seemed tired and overworked, and her eyes sparked with barely controlled anger.
+
+“I wanted to show you the view,” Vivian answered, forcing a casual tone into her voice. She and Donella did not always see eye to eye, but one thing she knew for certain – pushing the Gnome was a recipe for being shocked. Literally and figuratively.
+
+“I know what’s down there, Vivian,” Donella answered with an annoyed glare, but she glanced anyway, and suddenly her eyes were drawn to Aliandra in the center of the field, Malika still sprinting down the wall to join her friend.
+
+“She volunteered.” Vivian was still surprised by the steel she had seen in Aliandra’s spine and the burning resolve in her eyes. She had thought she had the measure of the tiny Fae, but this was not the act of a bookish scholar. No doubt Alexander Gray was in for a nasty shock.
+
+“She is brave. Stupid, to face Alexander Gray by herself, but brave,” Donella answered after studying the battlefield for a moment. “Vivian, it feels wrong to hide behind novices. We should be out there, not her. Have we become cowards in our old age?”
+
+Vivian winced. Donella had just eloquently articulated the frustration and guilt in her own heart, but she had also confirmed that she was of like mind in this issue. It should be me down there. Yet she was standing on the battlements and watching Aliandra put herself in harm’s way for the town. Fuck Bastian and his emergency resolution!
+
+“If we go out there, he will destroy the entire town,” Vivian answered quietly. It was what he had announced, but most likely Donella had seen through that charade just as easily as she had.
+
+“You don’t seriously believe he will keep his word, do you? Alexander Gray will turn on the town as soon as he has taken care of her.”
+
+“I agree. But Bastian will pretend it was true – and get us called up before the royal court and executed if we go against the crown. With the state of emergency in place, he is the crown right now. He has always loathed the fact that Myrin’s Keep council has people of common blood, and I’m certain he’s hoping to rid the town of her – and a few of us, with luck.”
+
+“So, what are you proposing then? You’re not going to sit up here and just watch her die?” Donella frowned, still staring down at the undead army.
+
+“Our hands are tied, but…,” Vivian glanced at Donella out of the corner of her eye as they both watched the scene unfolding below. “Did we ever answer the question of whether your Chain Lightning could reach those trees from up here?” Bastian’s decree specifically prevented them from ‘going out there’ and engaging the undead while Aliandra was being delivered to the necromancer. A technicality, to be sure, but one she fully intended to abuse.
+
+Donella stared at her for a moment before looking back out over the battlefield. “No, I don’t believe we did. Perhaps I’ll remain here and try to figure that out. Some extensive testing…”
+
+Vivian smiled. Now to find the Half-elf and the Beastkin. She could not tell them to help, but she could point them at the view, and let them make up their own minds. With Donella acting as backup, Aliandra and her group might just stand a chance of not being entirely overrun.
+
+Ali sat on her barrier and slowly levitated across the battlefield. Time’s up. She braced herself on her barrier to quell the trembling she felt inside. While her body shook, none of the fear reached her mind. Alexander Gray was watching her intently from across the battlefield. She let his avaricious gaze crash against the cliffs of anger and fury she had erected around her heart. She forced herself to meet his gaze, taking in the expensive suit, the skeletal horse, and the haughty expression of superiority.
+
+Mage – Human – level ?? (Death)
+
+You hurt Lira. She fanned the flames of her anger, distracting herself from her inner voice that wailed incessantly about dying horribly. He was the Blind Lich’s underling, and the dark power of his mana rolled off him in palpable waves.
+
+It’s time to go. She gathered her resolve and began to move forward, but in that moment her attention was snagged by the sound of a pebble hitting the ground behind her. Automatically, her head turned toward the battlements.
+
+What is that? Somebody, or something, was descending the enormous wall with grace and speed.
+
+Malika? Ali suddenly recognized the soul magic bursts as she used her skill to power her vertical sprint. Deep within the fortifications of her heart, something melted. I’m not alone… Her heart leapt in time with Malika’s landing on the ground nearby. She stepped forward, matching her pace with Ali’s levitating disk, and she noticed Malika wasn’t even stepping on the ground.
+
+“Hi Ali,” she said calmly. “Going for a walk?”
+
+The uncharacteristically casual comment contrasted starkly against Malika’s serious demeanor and the hard gaze that remained fixed on Alexander Gray, even as she talked.
+
+She knows this will be hard.
+
+“I’m supposed to go alone,” Ali told her. “You’re going to get in trouble for being here.”
+
+“He’s not going to keep his word, Ali; he’s the guy who deceived Lira. What chance do you honestly think the town has?”
+
+Ali stopped, staring at Malika. She had heard the story of how the necromancer had deceived Lira, and yet she had not even considered the possibility he might be lying about destroying the town. She had set out, unconsciously expecting honesty from the foul necromancer, and Malika had seen through him instantly. How could I be so naïve?
+
+Before Ali could answer, an incandescent pair of wings swooped down on the other side of her, and Calen – a touch out of breath – deposited Mato on the ground.
+
+“You all came?”
+
+“I recall someone saying we would face things together,” Calen answered, readying his bow.
+
+Ali felt the tears welling in her eyes. Ugh, not now! She had tried to bury her hope and loneliness under a wall of anger, but her friends had shown up anyway, and in doing so they had once again proved she was not alone.
+
+“Ali!” Mato said. “What’s the plan?” He looked at her expectantly. “There is a plan, right? Tell me there’s a plan where we beat up that piece of Troll dung.”
+
+Ali wiped her eyes but did not respond, and he looked anxiously at her. “Ali?”
+
+This is about far enough. “Come!” she commanded, smiling at Mato as the ground began to tremble in time to a low rumbling sound, like a distant thunder.
+
+From behind her, six Forest Guardians burst out of the river entrance to the underground cavern – the same entrance she had used to flood the Goblin siege. Many tons of dense gnarled wood creaked and groaned as the Guardians charged full tilt across the battlefield. Dust rose and pebbles jumped from the shaking ground and their crashing charge.
+
+“Yes!” Mato yelled as the Guardians split around them. His yell morphed into a roar as his body twisted and stretched into his Bear Form, and he joined the charge.
+
+Ali smiled at his enthusiasm. All he needed was a good fight.
+
+The Forest Guardians charged through the vanguard of skeletons with a deafening crash and the crunch of snapping bones, their momentum barely slowing as broken skeletons were tossed into the air, and lesser zombies were trampled to mush underfoot.
+
+With the enemy focused on the spectacular opening charge, Ali took the opportunity to deploy the rest of her minions. A squadron of almost a hundred glowing jellyfish floated out onto the battlefield, flying higher to be less conspicuous. She had never used the Lux Drifters before, choosing them for their light-magic acid, but the biggest surprise was that they were a swarm monster, summoned in groups of ten at a time while costing the same amount of mana as a single monster of that level.
+
+Next came five Sparkling Oozes, which she directed to spread out. And finally, five Kobold Fire Mages, and her Acolytes. She placed her Kobolds on a barrier disk, levitating them into the air to keep them out of reach of most of the undead monsters on the battlefield.
+
+“Mato! Fireball!” Ali yelled and then directed her Kobolds and Sparkling Oozes to attack the enormous melee that had formed around Mato and her Guardians. The regeneration aura and Mato’s healing should be more than sufficient. She watched as the furious red fire from her mages arced over and detonated among the skeletons and the Forest Guardians. From far back, intensely incandescent balls of magic lofted over the battlefield to detonate in brilliant explosions of light. Ali sent a command to her Lux Drifters, and they began to circle overhead, raining their glowing caustic acid over the entire battlefield. Ali couldn’t duplicate the endless swarm they had faced in the jungle, but even this many of the flying oozes were having an impact; their acid effective against the skeletons.
+
+So far, so good. Ali observed the battlefield with a sense of wary foreknowledge. This was but the beginning of her biggest battle yet. Her guardians had filled the entire area with rapidly growing and regenerating vines and thorns, locking down large numbers of skeletons. The constant barrage of fire and light magic explosions destroyed the skeletons in droves, injuring Mato and her guardians. Still, her allies were rapidly regenerating the damage from all the overlapped auras and Mato’s healing.
+
+But then, as one, the entire field of undead surged forward, a great tide that broke around their small island of fire and regeneration, surrounding them. Zombies and skeletons were everywhere, seething like a single mass of undead below her barrier. The sheer press of the dead flesh and bones encroached inward on their circle, shrinking it, and above all of the undead moans and the clash of battle, she heard Alexander Gray’s sinister cackling.
+
+He's enjoying this…
+
+Ali redoubled her efforts, sending in barrier shards to cut down swathes of the undead, but they crawled forward over the corpses of their brethren for just the chance of grasping one of the living within their domain. Nothing she did could stem the tide. Her explosions were destroying undead by the hundreds, but there were thousands more to take their places. Mato roared, trying in vain to draw the horde to himself while Calen swooped overhead, his bow raining radiant arrows down into the ocean of undead. Ali couldn’t even see Malika through the press of undead.
+
+Suddenly, all the hair on her entire body stood on end. Her skin crawled with an uncanny prickling sensation and her nose picked up the strong pungent odor of ozone. The whole world went white, and with only her mana sight she saw the lightning magic ripping through the undead, forking again and again as it tore through the sea of monsters. It was over in an instant, leaving her blinking and almost retching from the stench of overcooked rotten flesh. But every single zombie and skeleton on the townward side of the invisible line of the spell’s maximum range had been fried by the stupendous burst of lightning magic. All that remained was a smoking ruin.
+
+Flying above the battlement was a tiny figure, one Ali could barely make out from here. But it was wreathed in a monumental pillar of lightning mana, leaving no doubt in her mind who the owner was.
+
+Donella Novaspark. Ali stared at the glowing figure for a few moments, but the powerful mage stubbornly refused to leave the battlement and engage the necromancer directly. She frowned – she didn’t have time to question why the mage had chosen to help, nor the inexplicable reasons limiting her engagement, but it seemed obvious that they needed to take advantage of their impromptu artillery support if they didn’t want to be swarmed again.
+
+Ali marked the line of the Gnomish mage’s maximum range firmly in her mind. Deliberately, she flexed her fingers and then tightened her fists. Right. Time to make the most of this opportunity.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,211 @@
+---
+id: 5921c4f0-46f7-5cc4-a449-308a9bd6c151
+page-type-slug: story-chapter-royal-road
+title: "Chapter 222: Mushroom Snacks"
+slug: 0252-chapter-222-mushroom-snacks
+partOf: dungeon-of-knowledge-complete
+position: 252
+ownLength: 3788
+unit: words
+ownProgress: 3788
+publishedAt: 2025-04-12
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2195848/chapter-222-mushroom-snacks"
+royalRoadId: "2195848"
+markedReadAt: "2026-06-29T20:19:43.236Z"
+---
+
+“This is a good spot to stop for a bit,” Calen said, gesturing around at the small clearing where they had battled with the witch doctor. There was even a nice fallen tree trunk on one side that looked comfortable, so Ali took a seat to relax a bit. Maybe she could tell her brain to stop hopping as well?
+
+“Let me get a fire going,” Mato said, producing some dry kindling and branches from his storage and beginning his cooking rituals with Gara hovering close by.
+
+“I still need to do a bit of scouting,” Calen announced, a touch of worry creasing his brow.
+
+“Can it wait till after dinner?” Ali asked.
+
+“Sure, but why?” Calen asked.
+
+“If you wait, I’ll make some minions to go with you,” Ali said. “Just in case.” Glitter Dragons were cheap eyes and, while the tiny golden dragons might not be inconspicuous, nothing in this dungeon would consider them a credible challenge. On the other hand, a pair of stealthed Abyssal Stalkers would provide real support, easily able to follow him by scent and unleash devastating Ambush attacks.
+
+“Thanks, Ali,” Calen said, flashing her a grateful smile. It seemed he hadn’t quite shaken off the witch doctor’s taunting or the frog hex yet.
+
+Ali immediately got busy summoning her minions while Calen warily scanned the perimeter of their camp, but as the flames began to rise from Mato’s cookfire, she finally began to relax.
+
+“Ali? Do you want this?” Malika asked.
+
+Ali glanced over to see Malika offering the upper part of a humanoid femur, complete with the hip socket. Halfway down the bone, the bottom end was jagged and splintered and now covered with dirt and dark stains that she didn’t want to ask about.
+
+“That’s horrible,” Ali said, wrinkling her nose at the witch doctor’s ‘weapon’. She didn’t even want to know if it had any good attributes.
+
+“It’s carved with some runes, and it looks like the warpaint is magical,” Malika said, looking at the gruesome item. “At least, it was glowing before.”
+
+“Let me see,” Ali said, reaching out her hand. I can’t believe I’m going to touch it, she thought. It was probably a troll at some point. She grabbed the bone gingerly, having to use both hands, and examined it.
+
+It had no intrinsic enchantments or attributes, and it didn’t look like it would be a decent weapon. I guess you could try to stab someone with the pointy end, she thought. She began to analyze the runework carved and painted onto its surface. With just a few minutes of study, she was easily able to determine it was in the same rune-magic script as the tattoos on Kir’mogan’s arms, and the blood or bone runes of the Ancestral Spirit Runes skills both her trolls had.
+
+It's just like my Runic Circles, she realized, recognizing a pattern where the now-dead magic would have required a steady mana reservation to keep active. Instead of writing rune circles, he paints the bones. But it was certainly not easy to decipher without a full comprehension of the written form of their language. Carefully, she compared the similar portion to her memory of her various runic circles, spending mana to enhance her study with Sage of Learning.
+
+Your proficiency with the Troll language has improved.
+
+Oh, nice! It certainly wasn’t full magical proficiency, but her study proved that the Trolls’ written language was also their runic magic, and perhaps she could ask Gara to translate a few runes later.
+
+“Ali, I’m ready,” Mato said.
+
+“Ok, I’ll translate,” she answered, pausing to look indecisively at the femur bone before reluctantly storing it in her ring for later study. She got up and walked over to the cookfire, and then, deciding it was an excellent opportunity, she activated her Teaching Sage ability so that Gara might pick up a little of the Common language while she translated, and the others might also learn a little of the speech of the Trolls.
+
+Seeing that Malika and Calen were absorbed in their own projects, she clapped her hands sharply. “Class! Pay attention, please!”
+
+Mato had never considered using his own mana as a seasoning, but that was what Gara, through Ali’s translation, told him she was doing. He couldn’t sense her mana at all, but he remembered Ali’s Blood Shamans used health to power their magic, rather than mana. She assured him his mana should work, too.
+
+Fortunate, that. I don’t think I’d like to cook with my blood.
+
+He looked up at the expression of pure joy on the taller troll’s face as she deftly wielded the pan over the cookfire, combining mundane ingredients with sizzling slices of ghost mushrooms, happily describing the process to him, and he knew he had found a kindred spirit.
+
+He loved cooking, and it was abundantly obvious that Gara did, too.
+
+After a few minutes, Gara handed him the pan and gestured excitedly to the remaining mushrooms. He’d had to harvest them rather quickly after Ali had grown them, and he had still missed quite a few as they faded away into that strange Spirit Realm. But they seemed to have enough for their purposes here.
+
+My turn. He took the knife and quickly sliced the mushrooms up, copying Gara’s choice of how finely to chop them. Then he dumped them in the pan with a little heated oil and set to work, combining the ingredients and spices, and adjusting his mana in accordance with the translated instructions. He got several corrections along the way, mostly related to how he was adding his mana too fast, but ultimately it was a simple recipe, and he got the hang of it quickly.
+
+Finally, he flipped the pan and laid his work out on a paper towel to soak up any excess oil.
+
+Fried Ghost Mushroom – level 60Consume: Your mana is temporarily attuned to the spirit realm. Food – Duration: 2 hours.
+
+He picked up one of the crispy fried mushroom slices and examined it, listening to the happy, excited tone of Gara’s unintelligible commentary. He nodded to the Troll and inhaled deeply. It seems to have worked well, he thought, examining the small mushroom snack. Smells great! Surprisingly, the cooking process had not changed the look much; it was still glowing with a vague blueish color and still mostly translucent. He popped it in his mouth and chewed, a rich savory flavor exploding through his tastebuds.
+
+Mmm, that’s good! he thought. He agreed with Gara, a little extra salt may not be necessary for the recipe to work, but it sure enhanced the flavor. As he swallowed, he was hit by a moment of dizziness and disorientation, and then everything in the clearing developed haloes of light that left lingering trails as he turned his head from side to side. The Ghost Mushrooms on the cutting board were glowing intensely now, and he could even see the missing mushrooms in the patch Ali had planted, seeming ethereal – simply outlines of mushrooms that shone out in his distorted vision.
+
+You have gained Spirit Attunement.You have lost Well-fed.
+
+Gara picked up one of his creations and ate it, gesturing approval by smacking her lips.
+
+“It’s weird,” Mato tried to explain to his curious friends. “It’s like I can see partially into the spirit realm, but I’m still here. You should just try it.”
+
+After a few minutes of everyone trying the mushrooms and commenting on the auras, flavor, and texture. Mato turned back to the pile of uncooked mushrooms on the cutting board and began to cook.
+
+Herb Gathering has reached level 14 (+2).Cooking has reached level 19 (+3).
+
+He looked up to find Gara staring at him curiously, and then she said something with a touch of shyness that sounded rather out of place coming from a Troll.
+
+“She wants to know if you’ll teach her your recipe – the one with the vitality buff,” Ali translated.
+
+To his surprise, his notification chime suddenly sounded.
+
+You have learned the Troll Language.
+
+Oh, how… He glanced at Ali. “Did you… I just learned the Troll language?”
+
+“Yes, I turned on my Teaching Sage,” Ali answered. “I thought it would make things easier.”
+
+“It sure does, um…” Mato turned to Gara and tried out his rudimentary proficiency, “Of course, it would be my pleasure.” At least that’s what he thought he said. But the surprise and delight on Gara’s face was all the confirmation he needed.
+
+Ali’s awareness flitted across the library, hopping from one Glitter Dragonet to the other, watching the comings and goings of people. Ryn seemed to be enjoying her role as head librarian for the growing throngs of adventurers who were beginning to use the library. On the table, right where she had left him, Clarence lay, closed and quiet. Idly she wondered if she could use her Martial Insight to read him with one of her minions, but she was interrupted by Calen’s voice drawing her sharply back into the Temple of Aman Rak, and the surrounding thick and muggy jungle.
+
+“Let’s head out,” Calen said. He turned to Gara and in broken Trollish, he asked, “Is it this right way?” Pointing to a narrow and twisting trail that wound tightly around the giant trunks and spreading roots of the trees.
+
+“Yes,” Gara answered in heavily accented Common.
+
+Wow, he was paying attention to the cooking lesson, Ali thought. She had expected Gara and Mato to pick up at least some of the languages she was translating, but it seemed Calen had taken advantage of the opportunity to begin learning too, and with his exceptionally high intelligence, he had made his first breakthrough already.
+
+They picked their way through the dense vegetation, following what seemed to be a game trail just large enough for the trolls to slip by. Ali floated on her barrier but getting her two Armored Drakes to fit through the tight winding corners proved to be quite an undertaking. She had to halt their progress several times to deconstruct trees around the tighter bends just to allow them passage.
+
+She was just beginning to believe it would be better to simply unsummon them when Calen suddenly signaled a halt. Up ahead, the trail connected to an idyllic sunlit clearing with several small huts of the same stone-and-bone design from the Temple of Bone. Strewn across the clearing was the rubble that was all that remained of the Shrine of Aman Rak – clearly recognizable by the familiar pitch-black stone and the outlines of magical runes carved into the sides of some of the boulders – now lifeless and dark, their magic long gone, snuffed out by the tremendous act of destruction which had shattered it. With her potent Scent of Blood and the acute vision of her drakes, she could easily tell why Calen had stopped them still concealed among the trees, and why he was indicating silence.
+
+Sitting around on the boulders by the huts she counted four Bone Warrior trolls, a Blood Shaman, and a Witchdoctor. They seemed to be discussing the remains of a dead troll, the witch doctor gesturing expressively with a tusked skull.
+
+“That is Jotan,” Gara hissed through clenched teeth, and somehow Ali knew she was referring to the skull the witch doctor was irreverently using to punctuate his argument. “And those would have earned their classes with Val’korr at the shrine. But instead, Kir’vella and Kir’mogan slaughtered them.” Strewn about among the large black boulders were the bodies and skeletons of several trolls.
+
+Ali’s mind conjured the scene in vivid detail. She knew from personal experience the unique mix of excitement and trepidation as the candidates gathered around the shrine, facing one of the most momentous decisions of their lives; a celebration of growth, a ritual of finally leaving their youth behind and becoming a fully functioning part of their community. Dreams that had been brutally shattered by violence, betrayal, and murder.
+
+Gara readied her shield and axe, obviously holding herself back from charging out there by herself.
+
+“That witch doctor is going to cause chaos,” Malika whispered.
+
+Somehow, among the chaos of all the banishment and frog curses, they would need to defeat the shaman’s bloodlust and the warriors. And amid that chaos, a stable tanking arrangement would be next to impossible.
+
+“We have the mushrooms now,” Mato said, pulling them out and sharing a pile with each of them. “So, the Spirit Realm shouldn’t be as bad.”
+
+“Well, he can’t frog you because you can just change back to a bear,” Ali said, “but what happens to the enemies you’re tanking when he banishes you to the Spirit Realm?”
+
+“I think whoever is in the Spirit Realm should fight him there,” Calen said with the thoughtful expression he wore when he was thinking about strategy. “Gara, do we need to eat the mushrooms before we start?”
+
+“It is not necessary; the mushrooms work even when you’re already in the Spirit Realm.”
+
+“Ok, then whenever he shows up, everyone, hit him as hard as possible to try and force him to switch realms. I should be able to chain Ambush on him. Our second priority is the shaman.”
+
+“It’s still going to be crazy,” Malika pointed out. “He can curse four or five people at the same time.”
+
+“Ali, you can free one person every thirty seconds, right?” Calen asked.
+
+“More or less,” Ali nodded. Her Arcane Insight’s Dismantle ability was certainly powerful, but it wasn’t sufficient to nullify the sheer amount of cursing the witch doctors were capable of.
+
+“You’re just going to have to make a call each time – if we need a tank, free one of your drakes or Malika if we need damage, Malika or me, as needed,” he said. By the grimace on his face, it was clear he wasn’t too excited about the ambiguous strategy for this fight.
+
+“I can put bleeds on whoever has enough health; the Frog Hex has a chance to dispel on receiving any damage,” Ali said. “Probably the drakes, and maybe Malika again.”
+
+“Good idea,” Calen said, nodding his approval.
+
+“Well, let’s get it done,” Mato said. “These trolls aren’t going to fight themselves.”
+
+“You start the fight this time, Mato. I want to set up a nice little Ambush welcome for the witch doctor,” Calen said, and immediately vanished into the dense jungle, his magic concealing him almost perfectly.
+
+Ali commanded her drakes and trolls to follow Mato’s charge, while she hung back near the edge of the clearing, watching with approval as Gara hunkered down behind a large tree, out of the line of fire. Trollish yells and shouts filled the air as Mato careened into their camp at full tilt, crashing into the surprised and scrambling Bone Warriors. In rapid succession, Mato turned into a small green frog, followed by Malika, and then her two drakes.
+
+Ali ignored the curse on Mato, choosing to dispel it from Malika instead.
+
+“Bleed on the drakes,” she commanded. As her shaman lashed out with a bloody axe, she saw a dark shadow swoop down over the clearing, and a sudden beam of red blood magic lashed out, arcing between her minions and Mato, already reverted to his Bear Form.
+
+She glanced up to find an extremely agile, black-skinned bat with prominent red markings all along its body, swooping and diving across the battlefield, shooting beams of its blood magic at everything in sight.
+
+Vampiric Nightwing – Bat – level 43 (Blood).
+
+The witch doctor glared at Ali, waving a hand angrily in her direction, presumably annoyed that she had dispelled his curse. With an uncomfortable lurch, her body was yanked into the Spirit Realm, and, as she faded across, she was treated to the bizarre sight of one of her frogs breathing dragon’s fire at two charging Bone Warriors.
+
+Despite the seriousness of the battle, Ali chuckled at the incongruous image. While the drake wouldn’t be able to hit anything with a paltry five strength and its body reduced to the size of a small fist, its fire breath was still potent, and Ali had proved the curse did not limit spells. Although, as with her magic, the flame seemed to be scaled in proportion to the drake’s frog-sized body.
+
+Everything faded to gray, and she found herself once again in the monochromatic world of the Spirit Realm. Already the Ghostly Spiders were converging on her, seen by the shock of blue in the otherwise entirely bleak and gray world. She retrieved one of Mato’s tasty Ghost Mushroom snacks from her ring. It appeared in her gray hand, glowing an intense vibrant blue, and this time did not fall to the ground in the real world. Quickly she popped it into her mouth and bit into the crispy, salty snack, immediately feeling the strange effects take hold. But in this world, instead of distortion, everything became clearer and somehow sharper. She took a step backward, surprised to find her body substantial and real, with color flooding her skin. Before the spiders reached her, she created a bubble of barrier magic around her body. The shimmering golden magic gleamed brightly in the dark world, no longer gray.
+
+It works!
+
+Ali fashioned several needle-sharp slivers of barrier magic and fired them at the spiders, slicing through the low-level spirit creatures with ease. She slipped her awareness into the senses of her shaman, simply because the spiders were not much of a challenge, and she found that, even from here, she was easily able to use her shaman to survey the unfolding battle.
+
+Mato had two of the Bone Warriors and the shaman locked down on him, but the two other troll warriors were running wild, trying to attack everything in sight. She had two drake-frogs breathing tiny fire every now and then, and the Malika-frog was leaping about in the air, flickers of soul magic flashing constantly, but she was struggling to have a meaningful effect.
+
+“Refresh the bleeds,” she instructed. Her shaman turned to slash the flying Malika-frog, and she immediately reverted to her normal form, but as she did, beams of blood magic lanced down into her shaman, draining her health.
+
+You have been infected by Blood ContagionYour blood bubbles grotesquely, hemorrhaging from suppurating sores. +3 Blood damage per second, to you and the surrounding area. Targets hit by Blood Contagion have a chance to be infected. Range: 10 feet.Small chance per vitality point to recover from Blood Contagion.Disease – Count: 1.
+
+Her eyes widened in surprise at the horrific disease afflicting her shaman, clearly propagated by the Vampiric Nightwing’s blood magic siphon, but there was no way for her to warn Calen.
+
+“Spread out,” she sent, trying at least to mitigate the damage among her minions. Wait, there is a way! She’d forgotten that Calen had learned the Troll language, and she quickly instructed her shaman to spread the word.
+
+Suddenly, an enormous flash slammed into the witch doctor’s chest, knocking him to the ground as Calen unleashed his Ambush attack from the cover of the forest. The witch doctor immediately shimmered away, and Ali refocused on herself in the Spirit Realm, finding him appear in a flash of mana right in front of her. He thrust forward a hand and cast his drain beam but her barrier blocked it, much to his consternation – if his expression was anything to go by.
+
+“Hi,” Ali said in the Troll language, waving from inside her golden glowing bubble, and slammed all her barrier shards into his side. She had not had to fight alone since the early days when she had been trying to figure out how to use Arcane Bolt, and already she missed her minions, but here, she was far from helpless. The troll screeched in frustration and pain as her barrier shards sliced at him while the golden bubble around her rendered her impervious to his drain. He scampered around trying to avoid the slicing barriers, conjuring and tossing a strange concoction at her, but it detonated harmlessly against her powerful barrier. Ali hounded him relentlessly, chasing him with her shards until he gave up and escaped back to the normal world.
+
+“Catch, Calen,” she said, even though he wouldn’t be able to hear her from here.
+
+She still had almost a minute left on her Spirit Banishment, so she switched to observing the battle from the other side while deconstructing several dead Ghostly Spiders.
+
+Variant: Ghostly Spider added to Imprint: Spider.
+
+There was another flash of light and hellfire as Calen’s Ambush struck the Witchdoctor at the same time one of the Hellfire Imps managed to land a fireball. The witch doctor shimmered back into the Spirit Realm, trying to dodge the flame, and Ali was ready for him, her barrier shards slamming into his body the instant he appeared.
+
+Calen is a genius, she decided. Abusing the witch doctor’s own banishment curse to pin him down from both sides was unfairly effective. The outside world seemed much more chaotic though. Her two shamans were healing furiously through the enemy Bloodlust, and the Blood Contagion which had spread like wildfire through the melee, but none of her minions had been killed yet. The witch doctor shifted back, and Ali found herself rippling too as she returned to the normal world.
+
+That’s odd, it was early, she thought. She turned at an angry sound and found herself suddenly staring at the blood-filled eyes of a Bloodlusted warrior slamming her hastily created barrier with both his bone blades. Mato was no longer here, and she realized the witch doctor had traded her for him in the Spirit Realm, and all the trolls he had been tanking were now running around free.
+
+Am I too much to handle? Mato can handle the witch doctor in the Spirit Realm, she thought, quickly dispelling Malika’s Frog Hex. She reinforced her barrier and formed new barrier shards while Malika punched the Bone Warrior trying to get at her through the barrier and dragged him away. With a directed thought, Ali ran her infected Blood Shaman past a frogged drake, and the area damage from Blood Contagion broke the curse, releasing the enormous dragon. It immediately slashed at the loose trolls and the battlefield stabilized.
+
+“Bloodlust!” she commanded.
+
+Her nearest shaman complied immediately – the powerful blood magic surging out to adorn the heads of all their forces with blood runes and grim bloody tears. Even the remaining frog-drake hopped around in fury with tiny blood runes of power.
+
+Ugh, I forgot to tell it to exclude me, she thought, smearing the blood leaking across her face again.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,209 @@
+---
+id: 16e8698c-9628-5e72-affd-bf7d370e43e3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 190: Flame Curses"
+slug: 0193-chapter-190-flame-curses
+partOf: dungeon-of-knowledge-complete
+position: 193
+ownLength: 4430
+unit: words
+ownProgress: 4430
+publishedAt: 2025-01-29
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2036228/chapter-190-flame-curses"
+royalRoadId: "2036228"
+markedReadAt: "2026-06-29T20:17:38.683Z"
+---
+
+The Flamecaller warlock collapsed in a sizeable, smoking heap of ruin at her feet, and Malika stepped back to take a deep breath, coughing as she inhaled a little too much of the omnipresent acrid black smoke. As they pressed deeper into the mines, threading through the endless winding tunnels and ancient excavated caverns, the Flamecaller warlock groups grew progressively stronger and more dangerous, and the last three had even included a Flamecaller spear wielder, but the adjustments to their strategy had made the fights significantly more stable. Although, for her, they felt boring. Her job was to charge the warlock at the outset and drain its mana as quickly as possible. Calen began each fight with Righteous Fury and attempted to burn down as many imps as possible with his multishot, and Ali and Mato picked up whatever was left over. It did mean they had to wait for Calen’s recharge between fights, but it was definitely worth the increase in reliability.
+
+Aha, would you look at that? She bent over and retrieved the item that this warlock had been holding. It lay precariously balanced over a deep boiling tar pit, caught between two jagged rocks when it had fallen from the dying monster’s grasp. This was the first time it hadn’t been broken by the end of the fight.
+
+Scepter of Flame – level 50Damage: Physical, Blunt+35 Intelligence.+10% Spell damage to Fire skills.Requirements: Intelligence 175Quality: MagicalValue: 4 gold, 12 silverOne Handed – Scepter – Steel
+
+Hmm, if only Ali’s Fire Mages were higher level, she thought, storing the item in her Quartermaster ring, where she kept the items that she intended to sell for team funds. Although, this scepter might be too unwieldy for the smaller Kobolds. Still, Weldin would have no trouble finding a new home for something this good.
+
+“That was the last easy group,” Calen announced.
+
+“If that was easy, I hate to ask – what does a hard group look like?” she asked. The warlocks and imps had seemed rather challenging by themselves and adding a Flamecaller spear wielder had not made it any easier.
+
+“The pack in the next cavern is a hunter and a warlock, both with four minions each,” Calen said, immediately proving there was a combination that would be much more challenging.
+
+“Aah, how are we going to kill that?” Ali asked, a note of worry entering her tone.
+
+In all fairness to her, Malika was worried too. The hunters had fire arrows, and the Hellfire Wargs breathed hellfire. The warlock’s first curse was the one that lowered all their fire resistance, and there was absolutely no way she could drain it of its mana before it finished that spell.
+
+“Mato tanks the wargs up against the wall with a couple of Hobs to keep him safe. Give that group a couple of healers and we will kill them last. Malika on the warlock. Kill all the imps first, then the hunter. Then we finish the warlock and finally the wargs.” Calen explained.
+
+“That could work,” Mato said, nodding slowly. “I can scratch my back on those nasty volcanic rocks at the same time. Hard on the paws, you know.”
+
+“Poor ol’ bear,” Calen said, glancing over at Aliandra, frowning deep in thought as she rubbed her chin. “Thoughts?”
+
+“Why do the wargs last?” Malika asked, curious why he had chosen that particular order. The wargs were dangerous and did an enormous amount of damage.
+
+“They resurrect from hellfire damage, so we need to get rid of the imps first,” Calen explained. “If you lock down the warlock quickly, the vulnerability curse will wear off a minute later, and I think the rest will be sustainable with maybe one or two more healers. I think the warlock is the most dangerous so stopping it from casting should be our top priority. What do you think?”
+
+Malika considered his proposed strategy. “It makes sense…” she said. Left alone to cast its crazy curses, the warlock was definitely the most dangerous, and she had honestly not thought about the possibility of the imps resurrecting the wargs. “It seems good to me,” she said, finally convincing herself that it might have a chance. “The Hobs and Mato will probably kill at least one of the wargs before we get to them though.”
+
+“I might be able to block the hellfire breath from resurrecting it with a barrier, and let them move away before deconstructing it,” Ali said. “If not, we just kill it a second time? They can only resurrect once a day.”
+
+“Yup,” Calen agreed. “The fight should be a lot easier by the time we get that far.”
+
+With their strategy set, Ali began to summon her minions. While she worked on that, Malika checked on her notifications. There had been a few extra chimes at the end of the last fight, and she was curious to see what it had been before they got stuck into another battle.
+
+Soul Monk has reached level 54.+10 attribute points.
+
+She didn’t check the notifications all the time when they were caught up in a string of consecutive fights, but it was nice to see her level growing, and the attribute points would certainly be useful.
+
+Martial Artist has reached level 28.Soul Strike has reached level 35 (+2).Healing Mantra has reached level 34.Perfect Body has reached level 21.Enlightened Evasion has reached level 30 (+2).Divine Step has reached level 27 (+2).Second Wind has reached level 17.Clarity has reached level 13.Soul Sight has reached level 14 (+2).
+
+Her class level had only increased by one, but her skill growth was being accelerated by the frequency of fights they were taking on. But now she had her ever-present problem – only ten attribute points, and too many attributes she needed to invest in. She used dexterity, wisdom, and endurance as her primary attack and defense attributes, but according to Rezan, high dexterity without any investments in strength meant she would lose out a lot on power. Then there was perception, which she needed for Soul Sight. With her taking on more tanking roles, vitality was becoming more and more essential. In fact, intelligence was likely her least needed attribute, and even that was like the ‘strength’ of spells – it would help her healing mantra and soul strike pack more punch. She sighed, and just put one point into all seven attributes, and split the remaining three among dexterity, wisdom, and endurance.
+
+Immediately, her notification chime sounded, startling her.
+
+Requirements met for skill advancement.Mentor: Rezan JinPerfect Body has surpassed level 20.Has simultaneously spent at least one point on every attribute.Has surpassed level 50 without ever using body armor or a shield.Wisdom has surpassed 230.Studied the defensive magic of the Nine Paths of Ahn Khen.Performed the roles of tank, damage, and healing in the same fight.Perfect Body gains Resolute Monk.(You gain +[skill] to all base attributes.)Perfect Body – level 21Mana: Your Endurance, Wisdom, and Dexterity are increased by +76.8% [40 + skill + base wisdom / 10]. You gain +21 [skill] to all attributes. Reserve: 20%Soul, Buff, WisdomAccept this advancement?
+
+She sat and considered the offered advancement for her skill carefully, not knowing if she should be excited or not. It seemed she had met the final requirement simply by chance distribution of her level attribute points. On one hand, she did need every single attribute, but the number was only her skill level, which wasn’t a lot considering the level of investment in her main attributes.
+
+“Hey, Calen, what do you think of this?” she asked, wanting a second opinion and knowing that Calen would be the one to understand the numbers best.
+
+“That seems very good,” he replied immediately.
+
+“Doesn’t it seem a little underpowered?”
+
+“It’s affecting your base attributes,” he said. “Which means it should affect your percentage attribute increases twice – once when it increases the percentage, and then it should apply the percentage to the bigger total. It’s like a replacement for the attribute enhancements you lose from not wearing a shield or body armor, but innate to you, so the improvement to your primary attributes should be much better than wearing gear.”
+
+“It seems more similar to an aptitude than gear, don’t you think, Calen?” Ali asked.
+
+“Yes, that’s a better comparison. Gear doesn’t affect base attributes like aptitudes do,” he answered, nodding his head thoughtfully.
+
+“I see,” Malika answered. “So, the increase to my wisdom improves my percentage in Perfect Body, and the percentage improves my improved dexterity and so on?”
+
+“Yep,” he answered. “I’d take that one, especially with how many different roles you take on in the group.”
+
+“Ok,” she said, accepting the advancement and suddenly her dexterity jumped, clearing four hundred for the first time, her health, mana, and stamina all dramatically increased, and she felt power filling her as her skills reacted to the change. She was stronger, her mind clearer, and she could sense the stamina energy from her friends with remarkably improved precision.
+
+“Whoa,” she said, the change hitting her far more profoundly than she had expected. It wasn’t like a skill or class leveling up – it felt like all of them at the same time. Literally everything got noticeably more powerful.
+
+Ali grinned, “That looks positive?”
+
+Malika glanced down at her hands. She had been rubbing her palms together because even that basic sensation was so much more immediate, more visceral, it was like feeling for the first time. Slowly she allowed herself a smile. Loudly, she said, “Yes. Don’t tell Calen, but he was right again.”
+
+“Fine, I’ll keep your secret!” Ali agreed, just as loudly.
+
+Malika chuckled at the sight of the half-elf rolling his eyes.
+
+***
+
+Malika hopped from leg to leg on the balls of her feet, stretching her calf muscles while she waited for Calen to fetch the Flamecallers. They had moved up as far as they dared to give him an easier time. With the imps’ ability to throw out the occasional instantaneous fireball, it was difficult for Calen to reliably avoid getting hit on the way back.
+
+She marked the locations of the runic circles Ali had started inscribing before each fight, just in case she needed one. They certainly made some parts of the fight easier for Calen and Ali’s healers, but with the chaos unleashed by the imps and the curses, their effectiveness was intermittent at best – and for Malika, she was typically pinned down by the warlock and unable to move much. Still, she’d rather know where they were and not need them, than the other way around.
+
+I really need to see if I can find him some gear with a higher movement speed, Malika thought, her eyes scanning the broken scree and half-melted boulders for any signs of him. But Myrin’s Keep is probably not going to have anything like that. She considered the marketplace and the artisans and crafters she knew in the town – she was quite familiar with most of them now, both due to sourcing equipment for their little group, discussions with Weldin, and from her previous life as an occasional thief.
+
+Myrin’s Keep is really lacking good leatherworkers. Calen had also told her the fletchers were pretty limited too and he was planning on doing some shopping in Ciradyl soon. I should ask him to check with the leatherworkers, there, she thought, but I’m not sure I trust him to not get ripped off. Calen was simply too easy to read and too honest for proper bargaining. Still, the last time he had visited, he had returned with some pretty incredible Pathfinder boots which she was still wearing.
+
+Another option was speed potions – occasionally Calen had been able to buy them from Morwynne, but the ingredients were hard to come by in Myrin’s Keep. Another thing to put on the shopping list the next time he visited the city of the elves.
+
+There he is! Calen’s athletic form appeared, darting around boulders and pools as he sprinted toward them holding his flame-wreathed bow in one hand. His entire body burned like an effigy. Close on his heels were two Flamecallers and a pack of howling wargs and cackling imps. The Flamecaller hunter snapped off a shot which Calen dodged on the run, but the warlock had tagged him with the Explosive Conflagration curse.
+
+The short-duration curse expired in an explosion of black flame. Calen stumbled from the sudden impact and hit the ground, barely avoiding a teleporting imp. A snap shot with his bow pinned the monster to the ground with chains of light. One of Ali’s Acolytes stepped forward, hands glowing softly with the light of her holy magic. As the spell released, Calen rolled to his feet and recovered his sprint. He must have pushed it hard, she thought. She was not used to seeing him breathing so heavily after a simple run.
+
+Malika locked her eyes on her target, gauging the distances. The warlock stopped slithering just a little further away than she would have liked, but it would have to do. She channeled a little stamina and accelerated, tearing past imps and wargs, and dodging flame arrows that sizzled in the scalding air, the rush of power from her Divine Step skill pushing her far faster than she had ever moved. The resilient caster ignored her, already intent on casting its powerful ritual curse, and thus far, nothing short of exhausting its mana had been effective at interrupting its focus.
+
+It’s just more time for me to work on its mana, she thought as she reached the towering serpent-like form. Soul Strike flickered blue as she opened with a flurry of punches slamming into his – her? – tough, scaled torso. In the center of her calm, she wondered why she was trying to figure out the gender of a snake that was trying to kill them with curses and demonic minions. She punched again and again, enjoying the uptick in her overall speed, while the monster wove its potent curse magic with animated gestures and hisses.
+
+You have been cursed with Agony of Flame.
+
+The Warlock’s casting completed with a flash of fiery runes overlaid across the entire battlefield. Malika immediately felt the pain, but it was noticeably muted compared to before, obviously the result of boosting her endurance by forty points.
+
+That’s rather nice. She kept up the pressure of her assault as the warlock hissed at her in anger. That’s more like it, I’m stealing your mana, focus on me! She punched three times to what looked like the creature’s belly, halfway up the upright torso and about her shoulder level. She knew she was wildly off on snake-lizard anatomy, but she simply ignored that as she worked on suppressing the powerful caster, enjoying the substantial boost in her physical power.
+
+Rezan was right. Strength matters.
+
+You have been cursed with Explosive Conflagration.
+
+Here it is. She focused on her own health while she unleashed her unrelenting attacks. The pain from the fire curse was not quite as crippling as it had been, and with the increase in her healing magic and her vitality, she felt vastly more resilient to its damage. She celebrated by leaping upward and kicking the monster in the jaw with a perfect axle kick, happy that she had taken Calen’s advice with her skill advancement. A black fang shot loose as the creature’s jaw clacked shut.
+
+Nice. And it will continue to grow, she thought, smiling. This was a skill that would become proportionally more and more valuable as she gained more skill levels, and her damage mitigation grew. She watched the numbers tick by, excited for her new resilience and power. After ten seconds the curse exploded, and she just healed the damage without the slightest interruption in her attack combination.
+
+Ali focused, tracking more of the battle at once than she would have ever believed possible. The presence of the warlock had turned what should have been a relatively straightforward fight into a chaotic mess of fire, random curses, and explosions. More specifically, the imps made everything harder.
+
+“Next to the big boulder!” Malika shouted as the Flamecaller hunter vanished, replaced by its near-perfect illusory replicas.
+
+“Ali, barriers!” Calen shouted.
+
+Ali didn’t bother replying – he was just getting caught up in the frenetic pace and falling into micromanagement. She resummoned her barriers, of course. She had decided to restrict herself to only two Sparkling Oozes for this fight – it was simply too hard for her to manage them in the presence of the Explosive Conflagration curse. Their ability to run – wobble? blob? – whatever the appropriate term for slime locomotion was, it was too slow. With only two of them, she had been able to separate them from each other and all the rest of her minions and have them simply lob bombs at the Flamecaller hunter from maximum distance, but she felt the lack of the additional effective area damage keenly every time the hunter pulled its vanishing trick. More and more, she was coming to appreciate the canny Death’s Acolyte Kobolds for their cunning and intelligent awareness of the unfolding situation. Even now, when she turned to direct them, she found that both of them had anticipated her request and were already huddled behind the new barrier lobbing blobs of ominous-looking death across the field to land among the illusions and the crackling lightning totems. Why people considered Kobolds weak and stupid, she had no idea. They were some of her most reliable minions.
+
+She studied the battlefield simultaneously through her own senses, the senses of a holy Acolyte, a shaman, and one of the Hobgoblins. In the first chaotic minute of combat, with an unfettered warlock spraying curses around, she had lost three of her four archers to an instantaneously cast, empowered hellfire fireball, and three of her six shamans to a combination of flame-arrow suppression fire and the Explosive Conflagration. It had turned what should have been an easy task into a nightmare of anxious improvisation as she struggled to cover her responsibilities with far fewer resources than she had planned.
+
+The illusions shattered, and the interrupted Power Shot cracked against her barrier with shocking power, but without the additional critical damage coming from Ambush, the golden wall just cracked a little. The Death’s Acolyte who had just been saved let out a high-pitched squawk and fell on his butt.
+
+“Clear,” Calen called out. “I’m back on imps.”
+
+“Right,” Ali said, sending a series of rapid-fire directions to her remaining minions.
+
+Agony of Flame. The curse gave her lower-level minions negative resistance to fire, actually amplifying the damage far beyond what was normal. Her little Acolytes struggled to heal her shamans through the enormous damage that resulted from the conflagration and flame arrows. Her Kobolds, at least, had a racial resistance to fire damage, but even that was no match for the giant ball of hellfire that had taken them out in an instant, especially given that the shamans were too low-level to use the elixirs to boost their fire resistance.
+
+She only hoped she would have minions left by the time Malika finished suppressing the warlock.
+
+“Move,” she ordered, but the Hobgoblin who had just been hit with Explosive Conflagration was intelligent enough to understand their strategy and was already backing away from the melee so that the explosion wouldn’t hit everyone else and proliferate the curse. The muscular crimson Goblin was also robust enough to survive the explosion, allowing her Acolytes to handle healing the damage without panic.
+
+She examined the melee group carefully with her Acolyte’s Healer’s Sight tracking their health. She had hoped Mato and the Hobs could kill one or two wargs while they were working on the warlock, but the imps seemed to favor dumping fireballs – or themselves – on the melee group regularly, damaging all her Hobgoblins and simultaneously healing the wargs with an extra infusion of hellfire damage. She would just have to keep healing through it and deal with the consequences later. They still had a hunter to kill.
+
+“Fury,” Calen said, biting the word out from between clenched teeth.
+
+“Kill the imps,” she instructed, and Ali’s remaining shamans, archer, and the one Bone Mage she kept around to boost her intelligence attribute all unleashed their spells and arrows at the unpredictable imps. Light mana ignited somewhere behind and off to her side, causing the pulsing of the floating beacons of light to surge with an injection of raw power. A veritable storm of brilliantly shining arrows filled the air, raining down on all the imps as they scampered around the battlefield. By now her Hobgoblins were familiar with Calen’s powerful damage enhancement, and they reacted with booming shouts of their own to further enhance the melee attacks.
+
+Ali cast her senses broadly across the expanse of the battlefield and as soon as she detected the spell-formation for an empowered fireball, she summoned her barrier to block it from blasting into Mato and the wargs. In her haste, she had angled the barrier poorly and it shattered from the devastating explosion, but the hellfire rained down in sizzling gobs hitting bare rocky ground and missing the monsters it had been intended to heal. The imp that had fired it materialized in midair amid the spray of tinkling golden shards and burning bits of hellfire and fell to the ground with a painful-sounding thump she could hear from all the way over by the healers. A shining arrow of light slammed into the demon, pinning it to the ground, and instantly it turned into flame, teleporting to one of the nearby pools of burning hellfire.
+
+“That is a stupidly good teleport,” Ali muttered, keeping her commentary quiet enough that it wouldn’t distract Calen as he peppered the battlefield with uncannily accurate shots.
+
+Ali ignored the fickle demon, leaving it to Calen. She didn’t have the mental bandwidth to harass it with her barrier shards – all her left-over capacity was poured into defending her healers and herself from stray fireballs and the never-ending hail of flame arrows raining down about them. With what little remained, she attempted to interfere with the fireballs that whizzed and detonated all around, angling barriers to deflect them out of harm’s way.
+
+As if she had suddenly been dunked into a cool pool of soothing waters, relief flooded her mind and body as the pain of the Agony of Flame faded and the curse expired.
+
+“One minute,” Calen announced. “Agony down.”
+
+Thank goodness! So much was going on that it was hard to believe that it was only just the first minute of combat, but Malika’s effect was being felt – the warlock failed to refresh the giant area curse. The monstrous caster couldn’t have been fully drained because it was still tossing the Explosive Conflagration about, but the highly damaging curse was vastly more manageable without the negative resistance some of her minions had been subjected to.
+
+Calen’s intense glow of ignited mana faded, and Ali spied the corpses of three of the imps lying dead on the rocks. As she took note of them, a double blast of lightning ripped the final imp out of the fireball it was riding and threw its blackened, smoking corpse against the wall. It bounced and hit the ground and lay unmoving, flames extinguished.
+
+“Imps are down. Hunter next,” Calen called out the strategy calmly, shifting his focus.
+
+No more fireballs! Ali breathed a sigh of relief and swiveled all her barriers, now entirely focused on blocking flame arrows. At least the Flamecaller hunter was always shooting from a mostly predictable location. She tweaked the positions and targets for her remaining Sparkling Ooze and Death’s Acolytes, happier with the locations their explosive magic was landing in, and directed her one remaining shaman to drop her Lightning Nova totem beside the Flamecaller. The hunter fired its arrow, vanishing from sight and leaving four illusory images behind. Four shining arrows of light from Calen’s bow struck through the center of each image, dispersing them into sparks, and interrupting the hunter’s ability to Ambush.
+
+“Good shot,” Ali observed, impressed with the speed with which he dispatched the illusion.
+
+“Thanks, got lucky,” he answered. But it was far easier to be ‘lucky’ when the archer no longer had to also concentrate on picking off crazy imps riding fireballs in all directions.
+
+As best she could with her remaining minions, she filled the space near the Flamecaller hunter with explosions of light, death, and arcing lightning, and began attacking with as many barrier shards as she could spare. Over by the wall, a Hellfire Warg collapsed, and she reacted, dropping all her barrier shards in favor of a protective wall preventing the hellfire of its kin from reaching the downed warg.
+
+Mato reacted to her barrier, shifting sideways along his wall, dragging the remaining three wargs along with him.
+
+“Stay,” Ali instructed, keeping one of her Hobgoblins standing over the downed corpse of the warg, and as soon as Mato had created some distance, she activated Minion Teleport, switching places with her Hobgoblin and arriving right on top of the warg’s body.
+
+“Don’t move”, she said, dishing out instructions to the same Hobgoblin, now waiting in her original spot, and began deconstructing the corpse, keeping a watchful eye for stray arrows. As the warg turned into mana, refilling her pool, her teleport recharge expired and she switched back, right in time to see Calen and her pitifully small, ranged attack group finish off the Flamecaller hunter.
+
+“Let’s finish the wargs, Malika has the warlock under control,” Calen called the strategy. It was the plan all along, but it sounded like Calen didn’t like leaving things to chance.
+
+With none of the ranged enemies remaining alive, save the drained warlock, Ali let her protective barriers drop, converting all her power into flying shards. The wargs dropped quickly to their combined assault, and she only had to deconstruct one of them before the final two died simultaneously. After that, it was a simple matter to finish up the warlock.
+
+“Took you guys long enough,” Malika said, grinning as Ali joined her to deconstruct the corpse.
+
+“Next time you can chase down all the imps,” Ali offered.
+
+“No thanks,” Malika said. “I like my cushy job.” She mimed punching an invisible Flamecaller several times.
+
+“Pfft,” Ali said, feigning disinterest.
+
+Variant: Flamecaller Warlock added to Imprint: Flamecaller.
+
+Yay, more useless monster imprints. What a great reward!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

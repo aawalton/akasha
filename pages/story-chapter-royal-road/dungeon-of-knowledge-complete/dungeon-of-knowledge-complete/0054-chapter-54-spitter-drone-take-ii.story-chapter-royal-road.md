@@ -1,0 +1,273 @@
+---
+id: 904fd299-aacc-5f4e-9a77-e5f5846cb338
+page-type-slug: story-chapter-royal-road
+title: "Chapter 54: Spitter Drone, Take II"
+slug: 0054-chapter-54-spitter-drone-take-ii
+partOf: dungeon-of-knowledge-complete
+position: 54
+ownLength: 4835
+unit: words
+ownProgress: 4835
+publishedAt: 2024-04-04
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1580453/chapter-54-spitter-drone-take-ii"
+royalRoadId: "1580453"
+markedReadAt: "2026-06-29T20:12:45.118Z"
+---
+
+The ruined streets were desolate and quiet, with not even a single hint of their desperate flight from the Kobold horde yesterday remaining. They encountered only a couple of patrols while retracing their steps – it seemed that the dungeon needed some time to respawn everything, and they must have made enough of a dent in the Kobold population that – at least in this area – there weren’t nearly as many as before.
+
+“It’s clear all the way to the explosion site,” Calen said, his voice hushed as his lithe form slowly emerged from the shadows nearby.
+
+“Sounds good,” Malika said. “Let’s continue.”
+
+Mato just grunted, not bothering to shapeshift in order to speak.
+
+Ali followed along, her eyes scouring the darkened doorways and shattered buildings as they retraced their steps deeper into the heart of the dungeon, but as they arrived at the street where they had fought the Spitter Drone, she stopped and stared in surprise. All that remained of the battle site was a giant crater in the middle of the street. Several of the surrounding buildings had collapsed into piles of rubble, no doubt the result of the potent explosion of the bone elemental’s corpse. But besides that, the scorch marks on the walls, and the scurrying bone skitterers scrambling for cover, the entire scene had been stripped clean.
+
+None of her Kobold minions’ corpses remained, nor any of the gear. Even the bone shards, blood stains, and chunks of the drone had vanished as if they’d never been.
+
+“Where’s all the stuff?” she asked, not really expecting her friends to know. My Fire Mage bracelet is gone! Of all the things she had lost down here in the mad scramble to escape, that was the only item she couldn’t replace. She had been hoping to give it to her highest-level mage.
+
+“What did you expect? Your gear is nice, and it obviously fits the dungeon monsters,” Malika pointed out. “They probably just took it.”
+
+“But why the bodies? And all the pieces of the bone elemental?” While she would need many more, there was the possibility of learning the monstrous creatures eventually. Not that her stomach would enjoy that prospect, but without the corpse, she didn’t even have the option.
+
+“We saw that drone eating all sorts of bone, alive or dead, I bet another one came over and cleaned up,” Mato speculated.
+
+“It’s a dungeon,” Calen said, scrunching his brow. “Dungeons eat everything you leave. It probably has some way to turn that stuff into more monsters.”
+
+“Well, that’s annoying, I wanted that bracelet,” Ali complained. There were already fresh layers of bone encrustations plastered over some of the scorch marks on the wall. A sure sign that another of those Spitter Drones had been by.
+
+“There are lots of Kobolds in here, let’s keep our eyes open for another,” Malika answered.
+
+Malika was obviously right, but it was still frustrating to lose something so perfect for her mages.
+
+Ali followed as their group pressed on, now at a much more cautious pace, with Calen ranging ahead as their scout. She sent her rogues off to hide in the shadows and walked in a loose formation with her two Goblin Storm Shamans forming a bulwark in front of her so that she could take advantage of their sturdy shields and armor if necessary. Her annoyance faded as they entered unexplored territory, replaced with an alert caution and the expectation of a fight around every corner. Healthy paranoia.
+
+A few minutes passed in silence while they continued to creep forward. Ali stepped over a nearly invisible tripwire while trying to avoid getting closer to the creepy skitterers when the darkness shifted suddenly, startling her. But it was just Calen dropping down from the rooftop to land on silent feet.
+
+“Group of five high-level Kobolds incoming, warrior, rogue, two archers, and a Fire Mage.”
+
+“Didn’t the Guildmaster suggest you learn some archers, Ali?” Malika asked.
+
+“Oh, yes!” she answered. She would need a few more than the two before she could inscribe the variant but, if there were archers in this patrol, there were certain to be more. Funny how she saw these high levels as learning opportunities, these days.
+
+Mato immediately transformed and a few seconds later, the group of Kobolds rounded the corner.
+
+Ali identified them the instant they burst into view.
+
+Warrior – Kobold – level 20Rogue – Kobold – level 19Archer – Kobold – level 18-19 x2Mage – Kobold – level 17 (Fire)
+
+Decent levels! As soon as they caught sight of Mato, a clamor of raucous chirps and screeches rose from their throats as they broke into a scrambling charge with the warrior leading the way, while the rogue faded into the shadows. Mato rushed down the center of the street toward them, with Calen’s orb bobbing along above him, shedding a harsh bright light on the battle that made fangs and claws gleam wickedly.
+
+Ali summoned a barrier immediately.
+
+“Go help Mato,” she said, sending both Storm Shamans to aid the Bear. Searching the rushing Kobolds, she easily picked out the Fire Mage at the back in his crimson rags, flanked by two bow-toting Kobolds wearing worn leather armor.
+
+She thrust out her hand and fixed the Fire Mage as her target in her mind and launched her Arcane Bolts arcing up and over her barrier to come crashing down on the mage at the far end of the street. “Attack my target,” she commanded her trio of mages.
+
+The stone walls around her were suddenly bathed in flickering red light as a volley of Firebolts shot down the length of the street, sizzling as they zipped past Malika on either side.
+
+Out in the center of the suddenly chaotic street, Mato rammed into the braced shield of the enemy warrior with a resounding crash that echoed back off the stone walls. He lashed out with a powerful swipe of his left paw, slashing claws across the enemy rogue and rebounding off the warrior’s armor as it flickered with the dark glow of a defensive skill.
+
+“Get in there,” Ali commanded, sending her intent directly to both sprinting Storm Shamans. Her only acknowledgment was a brilliant flare of harsh white light suddenly lighting up the shamans’ shields and maces with the telltale glow of lightning magic, shedding a trail of sparks as they moved. The female Storm Shaman arrived first, her mace blurring as she slammed it into the back of the Kobold warrior fighting Mato. Energy sparked between her strike and the Kobold, causing him to screech in pain, muscles jerking in response to the magical discharge that coursed through his body. The male shaman paused before attacking the rogue and made a throwing gesture. In the distance, between the two archers, a small steel totem suddenly appeared with the soft clink of metal on stone.
+
+Ali watched the potent attacks in amazement, feeling the balanced footwork she had trained through her Martial Insight, now applied in a real fight. She instantly recognized the complex construct of lightning magic that settled on the enemy warrior. That must be the Lightning Vulnerability curse. Nasty.
+
+Ali’s attention snapped to the opposite end of the street at the sound of the crack of an arrow shattering against her barrier. Behind the two bow-wielding Kobolds and the enemy mage, there were now two shiny steel totems. The small, rune-covered steel poles jutted about the length of her forearm from the stone pavement, glowing intensely with potent mana. As if her gaze were the signal to begin, the totems began pulsing concentric rings of fulgurant electrical discharge. With sharp screeches and yelps, the Kobolds scrambled to get out of the ambit of the crackling discharges of lightning, inadvertently getting themselves corralled in a corner.
+
+“Fireballs, please,” Ali requested quietly, earning wicked grins of toothy anticipation from the mages she had arrayed beside her. Immediately, her barrier glowed with the red light of intensifying fire magic, and a wave of heat engulfed her.
+
+Ali’s mundane eyesight was suddenly blinded by the simultaneous thunderclap of twin Lightning Bolts that ripped through the enemy Kobolds. A couple of arrows pinged off her barrier as she tried to blink away the intense purple afterimages etched on her retinas. By her mana sight, she saw three dense balls of magic shoot out from beside her, roiling and glowing with seething fire mana. She didn’t even need her eyes to see the triple detonation ripping the Kobolds apart, flinging bits of them into walls, and showering burnt chunks of flesh and scales across the street.
+
+In the queasy churning of her stomach, blind and deaf from the potent magic, she still clearly heard the three chimes of her notifications redundantly informing her that the pieces raining down on them were no longer alive – obviously.
+
+While she still couldn’t quite see clearly, her mana sight revealed the glowing green swipes of Mato’s nature-enhanced strikes and the arcing glow of her shamans’ hasted shields and maces. With her bearings set, she redirected her minions to engage the remaining two enemies, intent on burning them down before they could flee.
+
+Note to self – don’t look directly at the Lightning Bolts next time.
+
+As her eyesight began to clear, she could easily tell the enemy rogue and warrior were almost dead under assault by her minions, Malika, and Calen, all of which were doing great damage against the shredded and splintered bone armor.
+
+“That was a lot faster,” Ali said after the final Kobold dropped to the ground. The mage didn’t even get to cast his Fireball.
+
+“Your shamans are incredible, Ali!” Malika exclaimed, hopping up and down with barely suppressed excitement. “The lightning damage constantly tears at the bone armor, and I can go all out right from the start.”
+
+“They were using the curse, right?” Calen asked.
+
+“Yes,” she answered. “I can see them using it.”
+
+I guess it makes sense, she thought. Ali had expected her Fire Mages to have the biggest impact, given that she had three of them and they had their Fireball skill. But she hadn’t counted on how effective the Lightning Vulnerability Curse would prove to be, combined with the constant lightning damage of the enchanted mace and shield, or even the lightning nova totems.
+
+I should have guessed, she thought wryly. After all, she had been on the receiving end of that combination before.
+
+Ali walked around the battlefield deconstructing the corpses and collecting gear – what pieces of it were still salvageable. She had to deconstruct several unidentifiable bits here and there, which set her stomach to churning again, but her Grimoire still appeared, inscribing various updated runes and spell sequences, so she hoped she would have access to the higher levels of the variants they had just fought.
+
+The enemy Fire Mage was in the worst shape, its body a smoldering chunk of burnt meat. It had been hit by two Lightning Bolts while cursed with vulnerability, followed immediately after by three Fireballs. It probably didn’t stand a chance. I didn’t even need my rogues.
+
+She deconstructed all the bits she could find, including the ruined and still smoking robes, and when the body vanished, a small circlet of bone dropped to the ground with a sharp clink. She stooped down and snatched it up, examining it excitedly. If it was a different bracelet, she couldn’t tell – it looked identical. Even the enchantments were indistinguishable from the one she had lost. Calling one of her Kobolds over to her, she handed him the bracelet. He hunched over it, equipping it with wicked cackling laughter.
+
+Oh, you’d make a great villain.
+
+She stored the archers’ bows – which had somehow survived the conflagration – and deconstructed their armor before picking up two quivers of arrows. She was about to store them when the dark reddish-black gleam caught her eye. Carefully, she extracted a single arrow to examine it.
+
+It’s so light, she thought, turning it over in her hands and studying the tiny runic markings along the shaft. The entire arrow was fashioned out of Eimuuran steel, but it felt so light it had to be hollow.
+
+Arrow of Accuracy – level 15An arrow crafted from Eimuuran steel and enchanted to find the target.+5% AccuracyRequirements: Dexterity 30Arrow
+
+Oh, Calen is going to love these! She stored the arrows and sauntered over to where her friends were discussing the battle while recovering their mana and stamina.
+
+“I found my fire bracelet!”
+
+“Cool!” Malika said, grinning.
+
+“I also found these,” she said, pulling out the bows. They were level fifteen and seemed to be reasonably well constructed. “Can you use them, Calen?”
+
+“Unfortunately, they’re too small for me,” he said, with a rather sad look on his face. “Maybe Weldin will want them?”
+
+“I’m sure he will,” Malika said, storing the bows with an acquisitive smile. “I can also ask him to keep an eye out for a decent bow in your size if you like, Calen.”
+
+“That might be for the best,” he said, glumly. “Everything down here is sized for Kobolds.”
+
+Ali grinned at him and produced her trump card. “What do you think of this?” She handed him a single Arrow of Accuracy, and, remembering he could not identify items, she shared the details with him.
+
+Calen’s eyes went round with surprise. “Tell me you found more of these!”
+
+Ali grinned at his excitement and retrieved the two quivers, handing him the rest of the arrows she had looted from the Kobolds.
+
+He looks so happy! She watched his beaming face as he examined the enchanted arrows like a mother reunited with a lost baby.
+
+“Would you… mind learning how to make these?” he asked. “I think they’re worth it. How many would you need?”
+
+“I already have the general arrow imprint, so probably just three or four. It seems to depend on how difficult they are – or how different.”
+
+With the delicacy of a man who couldn’t quite believe he was offering up treasures for casual destruction, Calen extracted four arrows and handed them to her, which she promptly deconstructed.
+
+Variant: Arrow of Accuracy added to Imprint: Arrow.
+
+“Got it.”
+
+“Awesome,” Calen grinned, and mimed mopping his forehead.
+
+“Three or four, huh?” Malika said from where she was sitting. “Here, why don’t you learn these, too?” She handed Ali the two daggers the rogue had been wielding and then retrieved two more from her ring that looked virtually identical.
+
+“These are the Eimuuran Steel Daggers, are you sure? You said they were valuable.”
+
+“It’s smarter for you to learn them. That way you can always make more once you know the pattern,” she said.
+
+“Ok.” Malika was right, if she was able to learn them, and they were valuable, then they might become another resource she could make and sell, just like the arrows she had made for the garrison during the Goblin siege.
+
+Variant: Eimuuran Steel Dagger added to Imprint: Dagger.
+
+As always, Ali was delighted to see her Grimoire grow, but it seemed the Eimuuran steel was really something. It had taken all four daggers for her to learn the variant, and the amount of new rune-work added to her Grimoire seemed quite substantial, at least counting by the number of added pages. More for me to study later. Lore snack time!
+
+While the others continued discussing gear and regenerating their mana and stamina, Ali created daggers. It took a while before she made two sets of her newest dagger variant, but she persisted, knowing it would improve her rogues substantially. As soon as she had a full set of four, she called her rogues to her from their hiding spots in the shadows.
+
+“Upgrades for you,” she told them in draconic, and handed them each a set.
+
+“Thank you, Ancient Mistress.” Both rogues bowed and examined their new treasures excitedly.
+
+“How about your shamans, can they use this shield?” Malika asked, offering Ali a beautifully crafted Eimuuran steel shield bearing the embossed crest of Dal’mohra – the one that the warrior had been wielding to block Mato’s powerful strikes.
+
+“Can you use this?” Ali asked, switching to Goblin.
+
+“No, it’s …” the shaman said something ugly in the Goblin language which Ali struggled to translate.
+
+“She said it’s a ‘stupid warrior shield, not a wise shaman shield’,” Ali explained to Malika. It had been a single word that somehow derided warriors for being stupid while at the same time asserting shaman superiority. It was also a curse word – which seemed to be about a third of their entire language.
+
+“Oh, I bet the strength requirement is too high,” Malika interpreted, examining the shield. “I think your shaman is using a hybrid shield with evasion and armor. Meaning it has a lower strength requirement, but it requires some dexterity.”
+
+Ali looked curiously, identifying her shaman’s shield.
+
+Iron Buckler – level 15Armor: 49Evasion: 49Block Chance: +20% (Blocked attacks cannot cause critical damage.)Requirements: Strength 30, Dexterity 30Off Hand – Shield
+
+A shield is a shield, isn’t it? She hadn’t paid much attention to it when the shaman had selected it from the pile, but it looked like Malika had deduced the truth correctly. Presumably, her shaman had some dexterity instead of pure strength.
+
+***
+
+Ali watched Calen hop off the rooftop, admiring how he was able to land effortlessly from so high up, and without making a sound. He had been luring small groups of Kobolds and the occasional undead skeletons to their ambush spot for most of the afternoon, but this time he didn’t call incoming.
+
+The battles were still challenging, but with Ali’s new minions, they were able to overcome the dungeon’s dense bone armor quickly enough. As Calen brought a steady stream of monsters, Ali got ample opportunity to practice her combat tactics with Martial Insight. She always reserved her mages to blast the most dangerous enemy from a distance, but it was her shamans that provided the most interesting combat experience. They had hybrid melee caster classes and learning to use them effectively required her to learn quite a few new strategies.
+
+For one thing, they could be fighting one monster and blast a completely different monster, clear on the other side of the battle, with their Lightning Bolts and totems. Of course, they hit everything along a straight line between the two.
+
+However, Ali was already entirely convinced of their value in her little army. With their continuous lightning damage, even her stab-happy rogues became effective, provided she simply waited a few moments with them before engaging. And I can probably get use out of my Bugbears again.
+
+“There’s one of those Spitter Drones up ahead,” Calen said, walking up to join them. “I should be able to get it all the way down here. What do you guys think of setting up in this house over here?” He pointed at a ruined open doorway into a sizeable stone building.
+
+“Works for me,” Mato answered, poking his head inside. “There’s a fair bit of space in here.”
+
+“No Kobolds nearby to hear it go off?” Malika asked, her forehead furrowed with a worried frown.
+
+“We got the last group, there’s nothing left for several blocks in all directions.”
+
+They discussed the finer details of their plan and then Calen sprinted off into the darkness to fetch a giant bug monster with vile spit that could turn your flesh to bone. No big deal. I’m sure everyone has to deal with two or three of these before breakfast.
+
+Ali sent her shamans and rogues scurrying into the house with Mato and Malika. She decided she wouldn’t have a great vantage point to see what was going on inside when it all went down, so she just directed her minions to help, following Malika and Mato’s lead, and to be ready to retreat promptly when she called.
+
+Ali set up outside, across the street, hiding in the wreckage of a collapsed building with her three mages. None of them were particularly robust, herself included, and she didn’t want to risk taking even a single hit when Calen returned with the bone monster. She had a great line of sight across the street and directly through the doorway of the house they had chosen, and she could even see the mana powering Mato’s aura through the stone walls. The piles of rubble offered some measure of security – at least to her mind. Empowered Summoner’s range had grown to just a little over seventeen meters now, and it didn’t take too much shifting to ensure her minions would benefit from her extra nature damage while fighting within the confines of the house.
+
+She heard a distant screech, followed by a grinding, crunching noise that grew progressively louder until she could even feel vibrations through the stone beneath her feet. Suddenly, an orb of brilliant light rounded the corner at the far end of the street, followed quickly by Calen, sprinting hard. Right behind him, the enormous bone monster careened around the corner, crashing into the wall with a solid thump that set the ground to trembling again. Liquid bone sprayed everywhere, striking the walls, and hardening while spikes stabbed outward. How Calen had avoided it this far was anybody’s guess.
+
+Ali had no idea how such an enormous creature was able to move with such agility. Its myriad legs churned the ground, sending a spray of tiny rock and stone splinters flying into the air as it ran partway up the wall, bleeding momentum until it returned to the street, pursuing Calen relentlessly.
+
+Archer – Half-Elf – level 16 (Light)Spitter Drone – Elemental – level 26 (Bone)
+
+When he was right in front of Ali, Calen leapt into the air, twisting to face backward, and released a magically enhanced arrow right into the monster’s face, striking between the clacking insect-like mandibles. It released a furious, high-pitched screech. Calen darted sideways, rushing through the darkened doorway of their chosen building, bringing his floating light magic with him.
+
+Trust the plan, Ali. It was hard to reassure herself when several tons of angry bone monster were rapidly bearing down on her hiding spot, but it had eyes for nothing but Calen. It veered sideways and dove in after him. The fact that the doorway wasn’t nearly wide enough to fit its bony carapace didn’t bother it at all – with its momentum and dense armor plates it simply smashed through the stone doorway without even slowing down, sending chunks of stone masonry flying. A loud roar sounded from within as Mato engaged the Spitter Drone. Suddenly, the house was filled with a chaotic array of magic and a cacophony as they tackled the furious monster in the enclosed space.
+
+Ali was extremely grateful to be outside, and not in the violence that had just erupted from within the room.
+
+“Begin,” she instructed in draconic, stepping out from her hiding spot and summoning a precautionary barrier before she unleashed her Arcane Bolts. Her first salvo slammed into the stone wall of the building, but she quickly angled her release until their curving path took them right through a window to slam against the monstrous carapace. Searing heat penetrated her robes as the Kobold Fire Mages beside her took their cue, shooting volleys of Firebolts into the darkness, aiming for where Ali’s magic was striking the dense bone armor.
+
+Backlit by the flashing and cracking of various overly bright offensive magics, a figure appeared, diving through a small window and rolling on the ground before regaining his feet. Calen sprinted across the street to stand beside her, nocking his bow with one of the enchanted Eimuuran steel arrows.
+
+“Welcome back,” Ali said.
+
+“Walk in the park,” he answered, his deadpan delivery marred by his heavy breathing and the sweat dripping from his brow.
+
+Ali could only hope that the battle was proceeding well within the house. Chaotic screaming, shouting, and monstrous roaring filled her ears while liquid bone sprayed everywhere. The continuous flashing of lightning magic mingled with the flickers of Malika and Mato’s attacks, all seen through the solid stone wall, visible entirely by the mana used to power them. Of her rogues, she could see absolutely nothing. A twin thunderclap shook the ground and lightning filled the room, sending shards of bone showering out through the doorway and the windows.
+
+Ali mustered her focus. I have a job to do. While she maintained her connection to her minions, and her stream of Arcane Bolts, she carefully sorted through the riotous mana, making sure she could easily pick out the specific signature and color of the Spitter Drone’s bone affinity mana every time it used one of its abilities.
+
+“Think that crack is big enough?” Calen’s voice drew her attention back to the physical aspect of the battle.
+
+She stared, and he moved his floating orb of light so she could get a better view.
+
+“Yes, I think so,” she answered, pressing her lips together.
+
+“Drop your Fireballs through that crack in the armor,” she instructed her Kobolds. Immediately, the Firebolt volleys ceased and the ambient heat on her face skyrocketed as the three mages simultaneously summoned their most potent magic. She maintained her stream of Arcane Bolts, trying to hold the regeneration at bay so the crack didn’t close before her minions were ready. She counted the seconds.
+
+“Incoming Fireball!” she yelled, hoping that they could hear her inside the building, over the din of the fight.
+
+Three Fireballs sizzled in the air as they shot across the street, impacting with the Spitter Drone and burying themselves inside the crack in its bone plate carapace. The detonation, muffled as it was by the body of the enormous creature and the stone walls of the house, still lit the entire interior with angry red flames. Gouts of fire and splinters of bone erupted from the doorway and spewed out of the windows as the shockwave slammed into her barrier, knocking one of her Kobolds off his paws. Off-white shards rained down everywhere, some gobs of flame splatting up against her barrier, and pieces of bone clattering to the ground all around.
+
+To Ali’s relief, the telltale green sweeps and aura of Mato’s nature magic, and the cool blue-white flickers of Malika’s soul magic continued unabated.
+
+It took a few minutes of continuous assault against the compromised armor before Ali saw spirals and swirls of dark mana beginning to coalesce somewhere within the room.
+
+“Get out! It’s going to explode!” she yelled as loudly as she could. She couldn’t tell if she had been heard until she saw Malika’s athletic form sprinting out of the smoke-filled red-glowing ruined house and onto the street. Ali’s minions followed close behind, and then finally, the huge, scorched figure of Mato’s Bear lumbered through the shattered doorway, shedding chunks of bone as parts of his heavily ossified hide and flesh cracked and splintered.
+
+Ali ignored her queasy stomach’s complaints and slammed the largest barrier she could muster in the doorway.
+
+There was an enormous, muffled thump and the entire street bucked, tossing Ali to the ground. Chunks of bone whistled past, burying themselves into the stone walls, shattering the rock and encrustations of bone as easily as glass. The barrier she had created in the doorway burst in a sparkling spray of magic shards, while her ears rang from the explosion.
+
+Your group has defeated Spitter Drone – Elemental – level 26 (Bone)
+
+Ali stared in amazement at the building, somehow still standing, even though it was clearly much worse for wear. Those Dwarves were really something.
+
+“That went a lot better,” Malika announced, her voice getting progressively clearer as Mato’s aura helped regenerate the damage to her ears.
+
+“Yeah, that was a great plan!” Mato’s huge grin told her that he had enjoyed himself. However, how he could have fun when his body was continually being turned to bone was beyond her. I wonder just how much Endurance he has?
+
+“Nice call on the explosion,” Malika complimented her. “That was a perfect amount of time to get out, and the barrier in the doorway was a great idea – we should keep doing that.”
+
+Ali was most surprised to realize her fear of the giant monster had evaporated somewhere during the fight. Admittedly, she had been much safer outside, but she still had a critical role – one that her friends had depended on her getting right.
+
+“No adds,” Calen said, hopping down from the roof. “I think we’re clear.”
+
+It took Ali a moment to remember that sometimes adventurers referred to ‘additional monsters’ as ‘adds’ and that Calen had just verified that the explosion hadn’t attracted the horde of Kobolds like last time.
+
+“Shall we get another one?” Ali asked, getting to her feet and heading to the doorway so that she could deconstruct the huge monster.
+
+She didn’t miss Mato’s broad grin at her question.

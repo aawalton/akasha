@@ -1,0 +1,195 @@
+---
+id: 9b032476-353b-5344-9684-dd059ef425b2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 95: Guild Drama"
+slug: 0096-chapter-95-guild-drama
+partOf: dungeon-of-knowledge-complete
+position: 96
+ownLength: 3553
+unit: words
+ownProgress: 3553
+publishedAt: 2024-07-07
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1708393/chapter-95-guild-drama"
+royalRoadId: "1708393"
+markedReadAt: "2026-06-29T20:14:11.194Z"
+---
+
+Calen was early for his presentation to the guild, and he sat in the auditorium trying to control his nerves as various guild members trickled in and took seats. He was fully prepared, perhaps more than he needed, but none of it impacted his anxiety. His hands were trembling, and he consciously unclenched his fingers before he crumpled his notes.
+
+He glanced down at his notes again, studying the strategy and thoughts he’d already memorized. What was I thinking? When he had heard the Guildmaster’s request, he had simply said yes, without thinking, and now it was way too late to back out of it. Good for my growth? Sure. If this doesn’t give me a heart attack.
+
+His eyes flicked up to the rows of seats and the people filing in. He recognized several people. The new adventurers that had gained their classes using Ali’s shrine were all sitting in a group together. The Gnomish water mage, Serendipity Puddlecrash, sat to the side by herself on a taller chair. Scattered through the room in small groups, or sitting alone, were the rest of the adventurers, a little more than a dozen in all, most of whom Calen had not met so far. He took a little comfort in the fact that, although he was the lowest level among his immediate friends, he now outleveled all the other adventurers in the guild besides the Guildmaster.
+
+The door opened, and Vivian Ross entered, and the hubbub in the room instantly quietened down as she took her position standing in front of the adventurers.
+
+“Thank you all for coming,” she said. “For today’s lecture, we’ll be doing things a little differently. I’ve asked Calen to present two fights that his group figured out, and we’ll discuss the strategy and proposals for how to improve.” With that, she invited Calen to come up to the front and gave him the room.
+
+“I… um, … hi…” It was not an auspicious beginning, but his carefully planned eloquence had vanished from where he had carefully placed it in his mind, just moments before.
+
+“Why do we have to listen to this guy?”
+
+Calen froze at the sudden interruption; his entire prepared presentation vanished as his mind processed the annoyed voice. A hot flush of embarrassment rushed up his neck and into his face as he felt his heart pounding.
+
+“Yeah, wasn’t he just a novice last week?”
+
+“This is dumb. I thought we were getting professional instruction.”
+
+Everything Calen had ever learned about speaking in public crashed into his mind all at once, overwhelming his ability to even process it. He could feel their eyes judging him, telling him he was not worth listening to. Who was he to teach them anyway? What did he know? They were right, he was just a beginner. He had even had to ask for the Guildmaster’s help with strategy on the Skeletal Wyvern fight.
+
+“Who all thinks it’s a waste of time to listen to Calen’s presentation?” The Guildmaster’s voice cut through the grumpy chatter, bringing silence to the room. But rather than coming to his rescue, she was inviting them to reject him.
+
+“I don’t want to waste my time.”
+
+“I want to know how Katie and Kelvin died. Are we being targeted? Is the Silent Assassin real?”
+
+“You know the Town Watch pays their combat classes a salary? Maybe if you paid us, I’d be willing to put up with listening to a novice.”
+
+“Yes!”
+
+“Very well,” Vivian said, cutting off the outburst with a resigned sigh.
+
+What is she doing? It was bad enough to be rejected in front of everyone, but was she really going to pay them to make them listen to him? That was just rubbing salt in the wounds.
+
+Vivian took a deep breath. “I will not pay you guys,” Vivian said, and the excited anticipation on several faces vanished, replaced with stony expressions and frowns. “There are more than enough jobs on the quest board to earn money if you wish to work. If you want to be paid just for having a combat class, you are welcome to turn your guild rings in to Mieriel on your way out. All your obligations to the Adventurers Guild will be canceled, and you can ask Kieran Mori or Commander Brand for a salary.”
+
+“Are you kicking us out?” The speaker, a red-faced human, was on his feet and shouting.
+
+“If you don’t like my conditions and my way of running the guild, the Town Watch will pay you a stipend. You all have enough levels and experience that you are guaranteed acceptance. If you choose to stay, you will need to earn your keep and follow my rules and policies. But you must choose now.”
+
+“Fuck that.”
+
+“This guild is too dangerous.”
+
+“I’m out.”
+
+“I don’t want to be shanked in my sleep.”
+
+“Let’s go get paid what we’re worth.”
+
+Calen stared speechless as one after the other got up and left, pulling off their guild rings on the way out while grumbling and complaining. Some even threw the rings at Mieriel or on the floor at her feet.
+
+The door slammed shut, and silence descended on the room. Ten people had just walked out, leaving a bewildered-looking Serendipity Puddlecrash staring around in surprise. Calen stared stunned. Aiden wore a dark frown, but none of his group had left. Other than the Goblin, Havok, they did not look happy. On the other side of the room, the smaller group of Teagan, Willow, and Braden stared back at him in confusion. The only other remaining guild members were Mato and Malika.
+
+Calen glanced at Vivian, meeting a stony expression. “I… I’m sorry… I didn’t mean to…” he began. It had all exploded because he was the one to give the lecture and now the guild was broken. This guild was Vivian’s pride and joy – her life. This is all my fault.
+
+“Good riddance!” Mato yelled, banging his fist against the table in front of him, his loudness jarring as it ripped through the stunned silence.
+
+In the wake of his outburst, Vivian took a deep breath and rose to her feet. “Calen, this is not your fault,” she said, addressing him directly. “This has been brewing for months, and I needed to deal with it decisively. For what it’s worth, I agree with Mato.”
+
+“But… half the guild just walked out? How are we going to grow?” For some reason, the Guildmaster seemed to be unperturbed by the disaster, and Calen was struggling to make his mind catch up to the rapid whiplash turns he had just been subjected to. “Isn’t this bad?”
+
+“A few more left than I had hoped, but with this Silent Assassin targeting the guild, some fear is understandable,” Vivian said. “So that everyone is on the same page, I have some very specific goals in mind for the guild which requires everyone to be engaged and onboard. I’m sorry for using you to flush them out, but it was necessary.”
+
+“Why send them to the Town Watch?” Calen asked. “Aren’t they part of the problem?”
+
+“Most of them will join the guard under Commander Brand,” Vivian said, her eyes growing thoughtful. “Safety in numbers. The thugs and bullies would have found the Town Watch regardless of anything I said. They’re –”
+
+“Trash,” Mato blurted out, and Vivian nodded.
+
+“There is no room for freeloaders here. But they’ll soon find out that neither the Garrison nor the Town Watch will abide freeloaders, either,” she noted, with a certain grim satisfaction that Calen found sat very well with him indeed. “This guild cannot grow with bad material, people who are just in it for money, easy fights, and loot have no place here. That bunch walking out will be the best thing that has happened to this guild, you will see.”
+
+“So, you didn’t need my talk? That was all fake?”
+
+Calen could see what Vivian was saying, but he was still trying to wade through the crush of confused feelings.
+
+“No, your talk is essential. This is how I want the guild to work. Everyone contributes, we all learn from each other, regardless of level or experience or individual groups. Those guys who left could not accept that basic necessity and would simply be holding all the rest of you back. So, if you’re up for it after all that, I’d like you to present the Skeletal Wyvern and the Twin Wights you and your team defeated. Analyzing a raid boss encounter is exactly what we need.”
+
+“But we’re still novices,” Aiden said. “Isn’t a raid fight more than we can handle?”
+
+“Perhaps for now. But learning the proper strategy and how to think about it early will save your life when the time comes,” Vivian answered. “Calen, why don’t you start with the Skeletal Wyvern encounter, but explain how it felt the first time you faced it before you had a strategy. I think everyone will benefit from understanding the difference between a planned encounter and a surprise.”
+
+“Um, ok.” This was not what he had planned, but he remembered the encounter perfectly. He caught the encouraging looks from Malika and the thumbs-up gesture from Mato as he glanced up at the listeners. Then he began to describe their crazy introduction to the Skeletal Wyvern, from the Kobold fleeing into the boss to the train across the ruins before finally escaping using the Potion of Recall.
+
+Surprisingly, apart from a few hesitations at the start, the story flowed easily from his memory, and it helped that Mato and Malika chipped in a few important observations from their perspectives.
+
+When Calen finished his presentation, he glanced around at his audience. Everyone was quiet, and for a moment he worried that he would once again be ridiculed and embarrassed in front of everyone, but it was Vivian who broke the silence.
+
+“Anyone have any thoughts?” she asked.
+
+“I’m buying a Potion of Recall as soon as I get back upstairs,” Willow said to the sound of chuckles around the room.
+
+“That’s a good one,” Vivian said. “Always having a reliable escape tool handy will save your lives more often than you can imagine.”
+
+“Perception skills seem more important in raid fights,” Aiden offered. “Without Aliandra’s mana sight, they wouldn’t have been able to avoid the dragon’s spear breath.”
+
+“Another great observation,” Vivian said, offering encouragement. “Many people – even experienced adventurers – underestimate the value of a strong perception skill. A varied set of perceptions is critical to building a strong group.”
+
+“I have Trap Detection,” Willow said. “Is that a good one?”
+
+“I have mana sight…”
+
+Like a sudden squall, a lively discussion about various perception skills broke out as everyone began discussing perception skills of all kinds.
+
+“Havok thinks armor is important.”
+
+“Yes,” Mato agreed. “And, having a good blacksmith is key.”
+
+Calen finally smiled, feeling the tension draining out of him as the discussion began to gain momentum. Some of the ideas were rather surprisingly creative or inventive; Aiden, in particular, had some great thoughts about strategy and the best ways to learn the abilities of the boss they had fought. I should have considered some of these, he thought, retrieving his notebook to jot a few of the better ones down.
+
+After about half an hour of deconstructing the fight, which Calen found himself thoroughly enjoying, Vivian encouraged him to present the Twin Wights fight.
+
+He smiled again as his storytelling gathered pace. This was the fight that he had found the most interesting – and not just because he had gotten experience tanking. The boss had unusual abilities, and they had had to react just perfectly to learn and understand them on the fly to win.
+
+“Wait, you guys got Life Drained? That’s a thing?”
+
+Ali swam around in the uncomfortably hot water dodging the floating remains of her shattered bone wall, deconstructing everything she could find to avoid feeding the dungeon. She specifically hunted down every single Scalding Slime corpse and deconstructed it.
+
+Variant: Scalding Slime added to Imprint: Ooze.
+
+Anxious to rebuild her army, lest she be caught defenseless, Ali began summoning fresh monsters. It would take a while out of her potion timer, but there was no question she needed all the strength she could make. She began with her newest Scalding Slime. They had proved to be vastly more destructive and deadly than her Luminous Slimes and she was eager to add some of them to her side. As soon as the first Scalding Slime popped into existence, the familiar flash of blue mana caught her attention from the corner of her eye. Snapping her head around she was just in time to see something vanishing into another tiny hole with a puff of water affinity mana the only trace of its passage.
+
+Too slow again. There wasn’t much more to the dungeon – at least, according to the map – with just one more cave to explore. But the map had also indicated that this cavern was safe, and that had proved to be laughably far from the truth. Whoever, or whatever, it was that was stalking her seemed somewhat skittish and shy, but Ali was beginning to form a suspicion as to what it was.
+
+Her mission, after securing the mushrooms and the mana-purified water, was to destroy this dungeon and deny its resources to the exploitation of Volle. Ali was certain that that part of her quest would require tracking down her elusive stalker.
+
+I just have to find it and kill it. Calen had thought that a low-level dungeon like this one likely wasn’t advanced enough to make boss monsters. If all she had to do was track down one last slime monster to finish it, this would be a relatively straightforward job from here on out. Hush, she told her thoughts. You know what Malika would say.
+
+Pressing her lips together, Ali considered the dungeon as she swam down toward the heat of the steaming vents on the cavern floor, remaining vigilant just in case more Scalding Slimes were lurking in the now searingly hot water. Bubbles rose from the vents, making the water shimmer with dangerous heat. She had been worried about taking on an entire dungeon on her own, but everything so far had been mid-twenties or lower. Besides a few uncomfortable surprises, Ali and her minions had had the upper hand the whole time – except for the Scalding Slimes, nothing had challenged her.
+
+Aside from being surprised at every turn. Precisely the reason everything she had read – both in the Adventurer’s Guide and Calen’s book by Lyeneru Silverleaf – had strongly recommended against attempting to solo a dungeon. Both Vivian and her friends had been worried for her, but the constraints on entering Volle’s dungeon were strictly enforced.
+
+She found the exit where the map said it should be, hidden under an overhang near the floor a little distance from the vents, and swam down through it. The rocky passage was lit by fewer Luminous Slimes now, but in their place, the dangerous Scalding Slimes now crawled and rippled along beside her.
+
+Last cave, she thought as the tunnel let her exit into the bottom of a wide pool. To her surprise, no more monsters appeared to challenge her, and when she surfaced, she found herself in a wide-open cave. Several pools of still, clear water nestled haphazardly among the stalagmites and uneven boulders. She clambered up out of the pool and looked around, coughing water up out of her lungs and then enjoying breathing real air for a change – albeit cool and dank air, thick with a harsh mineral odor and surprising hints of petrichor. The ground was rocky and wet, but the cavern seemed still and silent.
+
+The most striking feature was a single pool at the far end of the cave which glowed with a deep blue light and filled with the presence of a strong ambient mana. It illuminated the cave with mystical shimmering light, like an enchanted grotto.
+
+That must be it.
+
+Ali retrieved one of her empty vials and picked her way over to the glowing pool. Dipping her hand into the clear water, she filled the vial and identified it.
+
+Mana-Purified Water
+
+She quickly filled her remaining vials and stored them, completing her first objective. The reagent did not have a level; presumably, it would unlock its potency through some alchemical process.
+
+Now, where do you come from?
+
+Ali was sure that everybody using the dungeon would stop here, having reached the end, and found the treasure. Even the map stopped here. She, however, was after something greater. Ali focused on her mana sight, trying to resolve what she was seeing. It seemed the water had an intrinsically high mana density, which was partly the cause of the glowing light. But, after a few minutes of peering into the pool, searching the bottom and sides for clues, she began to notice something curious.
+
+The domain mana is stronger down there. She had been studying the mana circulating within the water and almost failed to notice the density of the dungeon’s domain increased toward the bottom of the magical pool.
+
+Following the trail her curiosity had revealed, she dove into the pool and swam down towards the bottom. The underwater silence was interrupted by the splash of her Goblin Shaman leaping in to protect her. Looking specifically for the domain mana now, she found that it manifested unevenly – denser off to the side near a huge slab of jutting rock. Only when she reached the rock, did she notice a narrow opening tucked right underneath. It was barely big enough for her body to fit through, but any Human or Dwarf would have gotten stuck. Even the Kobolds were going to struggle. She eyed her Goblin shaman dubiously.
+
+“Come,” she called, deciding to proceed with just her slimes. Flanked by her minions, she entered the extremely narrow tunnel half swimming and half dragging herself through it. The water-worn rock walls pressed in close. Her slimes simply pressed their way in and around her with no concept of personal space, making the already narrow tunnel claustrophobically tight. But after several tight bends and turns, Ali learned she could just let them pull her along and finally, she found herself surfacing in a small pool of glowing water in a relatively tiny cave on the other side. Dotted throughout the shallow glowing pool, she could see mushrooms sprouting from the rocks and gravel underwater.
+
+Ha! Magic mushrooms. Her curiosity piqued, she Identified them at once.
+
+Psathyrella – Mushroom – level 17 (Water)
+
+The tiny mushrooms had slender stalks and circular caps. They were a creamy white color with dark gills, and on top of the cap, she saw tiny bubbles glowing a bluish-white color with water affinity mana.
+
+I never imagined a mushroom that could grow underwater! The water affinity mana rippled off the mushrooms, infusing the glowing water all around her in long, sedate pulsations. It was as if the mushrooms were breathing water and mana. This was definitely what she had come for.
+
+But I’m not done yet, she thought, noticing the elusive flicker of blue mana disappearing behind a rock at the back of the cave. It would not do to leave something as dangerous as a dungeon behind, and she had no desire to allow Volle to continue to exploit this one at the expense of the townsfolk and all those people whom they had denied access to lifesaving potions. In her mind, they had lost the right to be the custodians of such a precious resource. I just hope I don’t need a healer for this.
+
+She held her magic at the ready and studied the cave as she climbed out of the pool. It was rather tiny, no more than the size of a large dining room. The far wall seemed to be made of a smooth, polished black stone that glistened with moisture. Strewn across the floor, she found curious bits of driftwood, shells, shiny rocks, and even several old, discarded adventuring items. Rusted swords, daggers, snapped arrows, even something that might have once been a pan. It all lay haphazardly about among the stalagmites and boulders, like a child’s room after boisterous playtime.
+
+Ali traced a careful path through the debris, flanked by her oozes, with one of her barriers summoned and ready in front of her. Whatever lurked behind the rock had ceased running, and she knew it was there by the pulsing blue mana it was emitting, even though it was concealed behind a boulder.
+
+With the utmost caution, Ali rounded the boulder, magic, and barrier at the ready. But what she saw brought her up short. Visually, there was nothing there except another boulder. A nondescript gray rock with a soft aura of blue mana pulsing all around it.
+
+Mimic Slime – Anomalous Ooze – level 24 (Water)
+
+“Found you,” Ali whispered. It was a remarkable creature, perfectly camouflaged against the jagged ground. If she didn’t have mana sight, Ali was certain she would never have even seen it. She summoned her mana and stretched out her arm to release her Arcane Bolts.
+
+“Don’t… kill…”

@@ -1,0 +1,135 @@
+---
+id: 138628ee-bd37-519a-ab1d-7263be738440
+page-type-slug: story-chapter-royal-road
+title: "Chapter 204: Dungeons Kill (2 of 2)"
+slug: 0213-chapter-204-dungeons-kill-2-of-2
+partOf: dungeon-of-knowledge-complete
+position: 213
+ownLength: 1631
+unit: words
+ownProgress: 1631
+publishedAt: 2025-02-27
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2092832/chapter-204-dungeons-kill-2-of-2"
+royalRoadId: "2092832"
+markedReadAt: "2026-06-29T20:18:21.601Z"
+---
+
+Malika opened the brand-new heavy oak doors and entered, her eyes taking in the details of the almost finished and vastly larger guild hall. It was far larger than the old one, and once fully furnished, it would be much more suited to how much the guild was expanding.
+
+I hope Lira can comfort her, Malika thought. She had sat with Ali for ages, holding her hand while she cried and trying to reassure her that it wasn’t her fault. Eventually, the ancient Dryad shooed her out and took over. She had never seen her friend so upset, nor felt so helpless to do anything. Theon’s death was tragic, and probably had been just a matter of time, but Ali had such a good heart, it was bound to hit her very hard.
+
+“Welcome back, Malika,” Mieriel’s pleasant voice called out to her as her eyes adjusted to the dimmer interior after the bright morning sun outside. “The Guildmaster asked me to let you know she would like to speak with you personally on a sensitive matter. She’s in her office if you have time now. It’s down that hallway now.”
+
+“Ok, thanks for letting me know,” she said, guessing what the talk would be about immediately from the grim look in Mieriel’s eyes.
+
+She quickly ducked into the new, spacious guild store to find Weldin busy sorting and arranging his displays.
+
+“Hi, Malika,” he said, greeting her with a wave.
+
+“Private sale,” she said, getting a curious look from the gnome. She summoned the two pulsing blue crystallized Phoenix Tears and handed them to the suddenly speechless merchant. “One each for Morwynne and Eliyen.”
+
+And then leaving him still spluttering and struggling to find his words, she headed off to find the Guildmaster’s new office.
+
+***
+
+“So that’s the story,” Vivian finished. “Theon died to the Kobold boss, mostly through his own rashness, and now some of the adventurers are considering quitting because they’re taking it personally. It doesn’t help that they’ve lost their healer, so I can’t even just throw them back in to help them get over it.”
+
+The real story was a lot different than Ali had imagined it, but it took nothing away from the tragic outcome, although it seemed that the guild was already feeling the repercussions of his death in terms of morale.
+
+“So why did you want to talk to me about it?” Malika asked. It was the one remaining oddity she couldn’t figure out. From what Vivian had told her, everyone else had acted appropriately. Vivian hadn’t even hinted at blaming Ali for what happened.
+
+“Sabri is taking it the hardest,” Vivian explained. “She feels like she is personally responsible for his death by not insisting he use proper tanking equipment. I think she looks to you as a role model, and I was really hoping you’d be able to try to talk to her?”
+
+Now it makes sense, Malika thought. She had not spent a vast amount of time with Sabri, but what she did know of the shy and quiet girl fit with the scenario the Guildmaster had just laid out. “Yes, I will see what I can do.”
+
+***
+
+“Did the Guildmaster ask you to talk to me?” Sabri asked as she sat down. Her face was clear, but Malika didn’t miss the red eyes and downcast gaze. The guild had several private rooms for meetings, and Malika had just borrowed one, closing the door so they would be able to talk.
+
+“She did,” Malika answered. “She seems worried about you.” Sabri slumped in the chair, looking downward dejectedly. “I’m worried about you too,” Malika finished. “Do you feel like telling me what happened?”
+
+“Didn’t the Guildmaster just tell you?”
+
+“Yes, she did. I’m sure you’ve had to tell the story several times already, but I’d like to hear it from you if you’re up for it?”
+
+“Ok,” Sabri said in a small voice. Not looking up, and haltingly at first, she told the same story the Guildmaster had just shared. However, Malika took note of how Sabri emphasized that Theon had not had a shield, and she had offered but had been too shy to insist. The dismissive and derisive comments Vivian had quoted as Theon’s response were conspicuously absent in Sabri’s retelling. She also spent a lot of time describing the actual death, which had happened right in front of her – how it had happened and how horrific the scene had been – her voice flat and unemotional as she described the spray of blood and the lifeless corpse dropping to the floor.
+
+“I should have made him take the shield. If I had, he would still be alive,” she finished, wiping away a couple of fresh tears as her voice cracked at the end.
+
+Poor girl, Malika thought. She could feel the fresh hurt in Sabri’s heart.
+
+“Tell me, is this the first time you’ve seen someone die up close?” she asked. She remembered how she had felt when her village had been burnt and she had seen everyone she knew slaughtered. It had left a mark on her for years.
+
+Sabri nodded, still looking down at the floor.
+
+“And you feel that if only you had said more, he would still be alive? You feel like it’s because of you that he is dead?”
+
+She nodded again.
+
+“May I tell you my story?”
+
+Sabri finally looked up and met her eyes, a flicker of confusion passing across her face before she nodded.
+
+Malika took a deep breath and dredged up her painful memories of the fateful night when she had lost everything as Bakahn village was razed. She told the whole story, not holding anything back, no matter how painful. How she had woken in the middle of the night to screaming, how she had witnessed the dungeon monsters burning everything, and even the sight of her parents fighting and dying.
+
+“I snuck in the back of a wagon and hid, and the merchant fled from the village. I survived because I was lucky and a coward. I blamed myself for their deaths for years after that.”
+
+“But it wasn’t your fault!” Sabri declared, her voice ringing with emotion.
+
+“I was there,” Malika said, feeling the same pain that she had borne over the years. “I knew I could have done more. I should have been stronger. I should have tried harder to save them – done anything, anything at all, rather than what I did.”
+
+“But it wouldn’t have helped, you didn’t have a class, and they were dungeon monsters,” Sabri continued emphatically. “You can’t blame yourself for that!”
+
+“I know that now. It led to ten years of indentured servitude to a criminal organization,” Malika agreed. “Tell me, do you think Theon would have rolled over and just accepted the shield if you had insisted?”
+
+“I… I don’t know,” Sabri answered, looking down once again. “I could have… I should…”
+
+“Vivian told me how he spoke to you,” she pressed the point firmly, but as gently as she could. “Do you think you could have made him listen?”
+
+“Not really. No.” Her voice was small and quiet once again.
+
+“I’m sorry this happened to you, Sabri. Blaming yourself is normal, you will always think you could, or should, have done something more. Just like I did. And like me, you will refuse to accept that it really wasn’t your fault. He would most certainly have refused, even if you insisted.”
+
+“But… I…”
+
+“Let’s not forget that when you did have the power to choose, you chose to save Belmar’s life at extreme risk to yourself,” Malika added. “That choice saved the entire group. Nothing about this is easy so I’m not going to pretend it is. I still remember that day like it was yesterday. I still see things… hear things… I’ll never forget.”
+
+Sabri simply started to cry, and Malika got up to comfort her for a while.
+
+After a few minutes, Sabri dried her tears and looked up at Malika with an expression full of gratitude. “What… what do we do now?”
+
+“Are you hungry?” Malika asked. “How about we get some breakfast? I think I saw Tabitha’s cart outside, my treat.”
+
+“Chef’s special?” Sabri asked.
+
+“Fuck no,” Malika said, “The expensive option.”
+
+That at least got a wan smile out of the girl.
+
+“I just reached level sixty-three,” Malika said and, as she led the way out front, she shared her advancements from the day.
+
+Soul Monk has reached level 63 (+3).+30 attribute points.Martial Artist has reached level 30.Soul Strike has reached level 39.Healing Mantra has reached level 36.Perfect Body has reached level 24Soul Armor has reached level 30 (+2).Divine Step has reached level 30.Clarity has reached level 16.Soul Sight has reached level 18.Calligraphy has reached level 4.Appraise has reached level 17.
+
+“That’s… wow,” Sabri said. “What… what are you going to spend your points on?”
+
+“That’s always the tricky question, isn’t it?” Malika smiled, dropping a small stack of coins into Tabitha’s palm. “The boar stew please – two bowls.”
+
+“Coming right up,” Tabitha said.
+
+Malika turned back to Sabri. “I’m a monk, so everything is good for me. Sometimes I just spread them out like butter. This time I think I’ll put eight into wisdom, dexterity, and endurance. Then I think… mmm, two for vitality and perception. That leaves one each for intelligence and strength.” She followed up by spending the points as she said.
+
+“My primary attributes are vitality, strength, and endurance,” Sabri offered.
+
+“A little like Mato in his bear form,” Malika said. “Oh, hey you choose your level ten skill yet?”
+
+“Oh! Not yet!” Sabri said, a hint of excitement returning to her face.
+
+“Let’s do that then, shall we?”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

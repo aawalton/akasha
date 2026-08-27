@@ -1,0 +1,397 @@
+---
+id: 29748553-9a10-51d9-9ab2-39bb7eaa3e74
+page-type-slug: story-chapter-royal-road
+title: "Chapter 45: Hobgoblin"
+slug: 0045-chapter-45-hobgoblin
+partOf: dungeon-of-knowledge-complete
+position: 45
+ownLength: 7209
+unit: words
+ownProgress: 7209
+publishedAt: 2024-03-14
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1554100/chapter-45-hobgoblin"
+royalRoadId: "1554100"
+markedReadAt: "2026-06-29T20:12:27.645Z"
+---
+
+The giant, coal-black Timber Wolf stalked across the littered ground, oozing lithe power and malevolence from every pore. It bared yellowed, razor-sharp fangs longer than Ali’s handspan from behind a snarling lip, and the gleaming green eyes roamed the battlefield; a predator sizing up their prey.
+
+Thick, reinforced sheets of scuffed sturdy-looking leather armor protected the wolf’s flanks. Mounted upon its back was the fearsome Hobgoblin.
+
+Ali shivered as its gaze brushed past her, dismissing her with contemptuous indifference. The books she had read had not prepared her for his sheer presence. He sat tall, larger and heavier than a man. Lean and muscular, with battle-scarred skin of deep crimson, his long black hair worn up in a topknot streamed out behind him as he rode across the battlefield like he owned it, down to every last blade of muddy grass. Heavy chainmail gleamed in the sunlight, and he wielded a stout steel shield and a longsword while deftly controlling his mount entirely with his legs.
+
+He snarled something guttural in the harsh language of the Goblins, and the scrambling and fleeing remnants of the previous Warbands froze in place as if the mere sound of his voice had the power to glue them to the ground.
+
+A chunk of Ali’s mana slipped away, stolen by her Sage skill, as the routed Goblins rallied.
+
+Warrior – Hobgoblin – level ??
+
+Oh no, a Hobgoblin! What do we do? It was even higher level than she could properly Identify, and it was riding right for Malika.
+
+Vivian Ross had insisted they run if they saw a Hobgoblin, but before Ali could even breathe, the steel longsword flashed in a sweeping strike so fast she could barely even see it. Suddenly, Malika was airborne, leaving bright red streamers of blood spraying from her chest as she flew through the air.
+
+Malika!
+
+Mana coursed through Ali’s fingers, manifesting in a snap of golden barrier magic right in the path of Malika’s flight. In the sudden eruption of melee chaos, the Timber Wolf snapped its jaws, biting down on the arm of one of Ali’s Kobold warriors with a sickening crunch. Shaking its head violently from side to side, it tore the arm clean off, tossing the maimed Kobold screaming to the side.
+
+Mid-air, Malika tucked her body into a ball, colliding feet first with Ali’s barrier. She flashed with a pulse of healing magic and then leapt back toward the Hobgoblin.
+
+“Everyone, attack the Hobgoblin,” she commanded, and all her Kobolds whirled about and mobbed the wolf-rider.
+
+With a casual-looking swipe of his sword, the Hobgoblin almost bisected one of Ali’s attacking rogues while he expertly deflected Calen’s arrows with his shield. The wolf snapped viciously, this time crushing a Kobold warrior’s leg in its powerful jaws. The Fire Mage’s Firebolts were swatted away just as easily as the arrows, while the Hobgoblin systematically decimated her Kobolds. Ali thrust hastily summoned barriers in the way to block the sword or the jaws, but every time she did, her barrier was easily shattered with no more than a single attack.
+
+We need to run! But Ali couldn’t say anything. Without a doubt, if they ran, Malika and Mato would be the first to die. But if we stay, we’re all going to die …
+
+I won’t leave my friends!
+
+Ali gritted her teeth and unleashed her Arcane Bolts at the Hobgoblin, arcing them up and over to avoid his shield. The magic shone brilliantly as it slammed into the crimson-skinned Goblin commander with a series of sizzling pops, earning her a hateful stare as the monster guided his wolf in her direction. Ali summoned a barrier, knowing in the depths of her shaking bones that it would barely slow the powerful Hobgoblin down.
+
+Without warning, a silver blur streaked across Ali’s vision, crossing the battlefield in an instant. A loud crash rang out as an unimaginably heavy shield smashed into the Hobgoblin’s chainmail, knocking him clean off his wolf mount and sprawling across the ground. Ali blinked. The Goblin spat several vile curses in Common as it skidded to a stop and made to return, but the lean form of Commander Brand stood in his way, his once-shining plate armor covered from head to toe in splattered blood and dirt.
+
+“Stand down. This foe is beyond you,” the commander bellowed, but his eyes never left the Hobgoblin even for an instant. He lashed out with his sword and the Hobgoblin blocked the strike, the force of their clash ringing out across the battlefield.
+
+Malika and Mato immediately switched their focus to the Timber Wolf. Several brightly shining arrows shot by and buried themselves in the wolf’s flank as all her allies pivoted to the new target.
+
+“Switch to the wolf,” Ali instructed, and her few remaining Kobolds scrambled to readjust. If only I could summon some more, she thought, but her Grimoire’s magic took several minutes per Kobold. That could be a problem in a tight battle. Hmm.
+
+The wolf bit down hard, ripping brutally through the flesh of Mato’s shoulder, spraying blood across the approaching Kobolds, but Malika was right there with her counter. Healing magic pulsed in rapid flashes – brighter than Ali had ever seen – and Mato’s wounds closed before her eyes. Struggling in vain to get a grip on her shallow breathing, Ali immediately added her Arcane Bolts to the onslaught, filling the air with wisps of smoke and the sharp stench of burning fur.
+
+At the crest of a rise in the distance, a tall, lithe scale-armored figure appeared. She took one step forward, and then, with a flicker of mana, Vivian Ross appeared right behind the Hobgoblin with the crash of her blazing sword striking the monster’s hastily raised shield. Her black hair had come unbound and flew behind her as she danced gracefully, wielding two flame-wreathed, curved swords in a blur of mesmerizing arcs.
+
+That was a teleport!
+
+What followed was a high-speed chaotic exchange of blocking and counterattacking that Ali could barely follow, if at all. Commander Brand executed a stunning shield slam that rang painfully in Ali’s ears, knocking the Hobgoblin stumbling backward while Vivian Ross weaved her burning attacks into her dance. Ali studied the dizzying back-and-forth for a few moments searching for an opportunity. Into a gap, a slight pause in the Hobgoblin’s rhythm, Ali thrust a barrier, blocking the inside of his right arm for a fraction of an instant before he shattered it by sheer force of strength. But the momentary delay was enough – in that tiny window of time, Vivian landed three slashing strikes, sundering the chainmail beneath his armpit, and lacing the air with trails of wine-red blood. As the Hobgoblin staggered backward, a spike of blue-white ice suddenly appeared protruding right through his chest, piercing armor and body with equal ease. Ali shuddered at the gruesome sounds of bones crunching and flesh tearing.
+
+“Got him.” The sneering voice matched the face of the Human Ice Mage suddenly appearing from behind the slain Hobgoblin with incredibly dense white mana radiating from his body as if he contained a blizzard within his chest. He was dressed in white robes embroidered with spell-thread bearing the eye symbol of the Town Watch. Ali had never seen him before, but his demeanor filled her with a chilling unease.
+
+Commander Brand spun on his heel and stamped against the ground, causing it to crack beneath his feet. His shield slammed into the wolf’s left flank, knocking it tumbling across the muddy ground and freeing a rather mangled-looking Mato. As soon as the Timber Wolf landed, a devastating bolt of lightning shot down from the sky, leaving it twitching and smoldering on the ground. Ali looked up in awe, finding a flying Gnomish mage dripping sparks of lightning from her eyes and her outstretched fingers.
+
+Vivian Ross extinguished her swords and then wiped the blood from them before sheathing them. “Good work, you guys, it would have been a real pain to track down this hob later.”
+
+Ali sighed, tension flowing out of her like a wave receding after breaking on the shore. She was a hundred percent convinced she and her friends would all have been paste by now without the intervention of the Guildmaster and her group.
+
+“The battle is over,” Commander Brand put in. “Orders. The Goblin center broke twenty minutes ago. Most of the remaining Goblins are routed and fleeing. If any of you can heal, report to the field hospital and offer your magic to help the priests of Lunaré. Likely they’re running low on mana by now. The rest of you; search the battlefield for the injured and help bring them in.”
+
+As he doled out quickfire orders with a no-nonsense snap to his voice, Ali breathed a huge sigh of relief. Her head throbbed from hours of focus, and magic, battling Goblins without a single moment’s rest. Dimly, in the distance, she heard cheering from the battlements, but she was far too numb and tired to join in. Ali stared blankly at the surrounding devastation, and the corpse of the unimaginably powerful Hobgoblin, just glad for it to all be over.
+
+To think that this was her life, now.
+
+Malika entered town via the open south gate, nodding respectfully to the garrison guards who were still on duty protecting the town from any stray Goblins. To her surprise, several of them returned the gesture. They even look sincere…
+
+“Why am I coming again?” Mato asked. He didn’t sound belligerent, simply weary.
+
+She was growing comfortable fighting alongside the bear, and much more used to their adjusted roles. He had seemed so reckless – even careless – when she had first met him, but her opinion of Mato had changed.
+
+Steady. He’s reliable; big-hearted in the best possible way.
+
+Whatever he had experienced down in that dark ruin had changed him much more than he had let on. Mato acted more even-tempered and resilient, and he seemed to care much more for those around him. Perhaps he always had, but it had grown much more noticeable to Malika in the last several days. Even if he tries to hide it behind that gruff exterior, it’s so clear in the way he fights.
+
+“Healing costs a lot of mana,” she explained. “The Priests of Lunaré might appreciate your aura.”
+
+“Fair enough,” Mato nodded, as she led the way to the field hospital that had been set up in the temporary warehouse headquarters right next to the gate.
+
+As she walked, she pulled her shoulders back, stretching her chest. It still felt uncomfortable – the spot where the Hobgoblin’s sword had cleaved right through her ribs and sternum. She had healed it completely in midair while doing a flip and kick off of Ali’s barrier – which just went to show how much better she was getting with her powerful Divine Step skill. But her mind refused to give up the afterimage of the injury, insisting that something was still wrong. It seemed to be a rather common side-effect of instantly healing severe injuries and one which would fade pretty rapidly. Hopefully. She had already experienced it several times but, other than her body feeling like something must be wrong, she would be fine.
+
+Malika grinned wryly at the sound of her inner voice trying to convince her she should be fine. But, as she well knew, it was calm and tranquility that was the foundation of a strong body and mind. She breathed deeply and stilled the voice and all the left-over buzzing from a day of battle, before stepping through the busy doorway and into the area set aside for the priests to tend the injured. The sounds of assistants rushing about frantically mingled discordantly with the background moaning of the injured, while Malika’s nose was assaulted by the stench of blood and antiseptic tinctures.
+
+“What are your injuries?” It was the voice of an Elf, pushed far beyond exhaustion, but still trying to hold onto the remaining shreds of propriety and dignity, denying themselves rest in the face of so many injured.
+
+Lamyndra Duskwind, Malika easily recognized the prominent priestess of the temple. She had been out in the thick of battle all day, and now she was here healing the injured. She hadn’t even had time to change or wipe the blood from her dark skin.
+
+“We’re not injured, we’re here to help if you need us.”
+
+“A Druid and a Monk? What are your abilities?” She stared at Mato with what looked like desperation and the dying embers of hope.
+
+She’s probably hoping for the vaunted efficiency of Druidic healing. Malika glanced around the field hospital taking in the scene. On one side, two robed Night Elf priests were sitting slumped on a bench, and next to them, another was laid out breathing heavily, all showing signs of the profound exhaustion that came from persistently running yourself empty without a chance to recover. Malika had personal experience with that after having been forced to wear the Cuffs of Suppression.
+
+Across the floor were dozens of makeshift pallets with guards and adventurers, and even a few of the townsfolk laid out on them, many still bleeding or groaning in pain.
+
+They’re out of mana and people are still dying, no wonder they’re exhausted.
+
+“I’m Malika, I have an instant touch heal, I can use mana and stamina, and I have Meditation,” Malika summarized quickly.
+
+“Mato. I cannot heal, but I have a passive regeneration aura,” Mato added.
+
+“Health regen?” Lamyndra asked, clarifying, a flicker of disappointment crossing her tired eyes.
+
+“Health, stamina, and mana,” Mato answered. “And advanced regeneration which can eventually heal severe injuries.”
+
+The Night Elf raised an eyebrow. “That’s… more than welcome.” She turned back to Malika. “Very well, Malika, was it? Can you heal this patient?”
+
+Malika looked at the woman Lamyndra pointed to. She was clearly in bad shape, unconscious, and bleeding through some hastily applied bandages. Quickly, Malika bent over and touched her shoulder, charging her Healing Mantra with stamina. Her magic flashed brightly as her energy surged out through her fingertips and into the dying woman. Instantly, the bleeding ceased, and the wounds began to close up with indecent haste. Bone cracked loudly as her shattered arm realigned itself, and several fingers abruptly regrew on her right hand.
+
+“Good. Can I have you on triage and stabilization? You don’t need to fully heal them; just ensure they don’t die when they come in. The most critical patients are these here.”
+
+She turned briefly. “Mato, can I have you sit right here? That way your aura can replenish the priests, and you can help regenerate any stabilized patients we put on these pallets.” She immediately began calling out crisp orders for the assistants to rearrange the patients.
+
+Malika immediately set to her work, pulsing her magic into the most severely injured people, trying to stabilize them as best as she could while conserving her resources so that she could have enough to save everyone. She worked non-stop as more and more injured people began trickling in, recovered by the teams working out on the battlefield, or pulled off the battlements with burn injuries, or lightning damage.
+
+After about half an hour, when she was beginning to run low, one of the other Elven priests took over, giving her a few minutes to Meditate in Mato’s aura, before she jumped right back into it.
+
+It was hard work, and of course, draining. Too often the assistants covered those who had not made it with sheets and carried them off to the far wall to join the ever-increasing line of the dead. Malika gritted her teeth and continued healing.
+
+“Hi, I’m Teagan. Lamyndra asked me to help you.”
+
+Malika looked up in surprise, recognizing the red-haired and bare-footed shaman girl from the sewers. She hadn’t even seen her come in.
+
+“I’m only level four, but I can heal.”
+
+“Here, you start with these three. Try and heal just the critical injuries if you can. Mato’s aura will take care of the rest over time.”
+
+She nodded in earnest, shooting a shy glance at Mato, and Malika smiled at her obvious commitment to help.
+
+An hour later, things began to ease up. The rest of the priests had regenerated enough mana to resume their work, and Lamyndra had too, activating a broad healing aura that enveloped the entire hospital with the warmth and glow of her advanced magic.
+
+Malika finally sat, sprawled on a box, not caring one bit for the hard edges of her uncomfortable seat. She was bone-weary in a way that could only come from constantly draining her stamina and mana. She looked happily at the mostly empty pallets on the ground, only a few remaining patients recovering slowly under the combination of Lamyndra’s potent healing aura and Mato’s regeneration. She hadn’t been able to save everyone, but she knew many people would be going home to their families tonight because she had been here.
+
+Teagan lay passed out on the ground beside the box, and Mato had moved a little closer so that she was within his regeneration aura. She’s a trooper. The shaman had literally worked herself till she dropped.
+
+“I think we’re done,” Lamyndra said, walking up to Malika. “You guys can head out if you like, I’ll finish up. I’ll let Vivian know how grateful I am that you three could help out.” The Night Elf bowed her head, touched her right hand to her heart and finished with a benediction, “May Lunaré guide you on your path.”
+
+Malika stood and offered a respectful bow in return.
+
+“Back to the guild?” Mato asked.
+
+“Yup,” Malika answered tiredly. “Even my bones hurt.”
+
+Mato bent down and scooped up the passed-out form of Teagan, cradling the surprisingly light Human shaman in his arms. He glanced at Malika, swaying beside him as if struck by an unexpected breeze, with a newfound respect. It had been a battle in here, one in which he had been powerless to fight. It mattered not that it had been fought by elegantly robed Elven priests picking their way carefully among the wounded and dying with kind words and the gentle touch of healing. It had been a war against death itself, and all he had been able to do was watch from the sidelines while Malika darted around saving the lives of endless people.
+
+I’m not sure she can even stand anymore, he thought, prodding Malika to move, before she fell asleep on her feet.
+
+“Thank you, both,” Lamyndra said, a weary smile gracing her delicate face.
+
+“I’m not sure I was able to do much,” Mato admitted.
+
+“You needn’t worry, young Druid,” Lamyndra offered with a kindly crinkle forming around her eyes. “Your aura kept my Priests and Priestesses revitalized far beyond our normal limits. Perhaps you don’t feel it, but your contribution was essential to saving many of the injured today.”
+
+“I… thank you,” he said, moved beyond his expectations at her words.
+
+“Look after those two,” she said, gesturing toward Malika and Teagan.
+
+“I will,” he said, nodding. It was the least he could do.
+
+With a small smile curving his lips, he guided Malika and carried Teagan out of the field hospital. As he made his way slowly back toward the Adventurers Guild, he looked inward, visiting the giant tree within his mind.
+
+I did good today… I think, he told it, wondering, not for the first time, if it could hear him. Perhaps I’m just talking to myself.
+
+As if in response to his words, the tree revealed his notifications.
+
+Druidic Shapeshifter has reached level 19 (+5).+50 attribute points.Arboreal Sanctuary has reached level 11 (+3).Swipe has reached level 13 (+4).Brutal Restoration has reached level 12 (+2).Bear Form has reached level 11 (+2).Bestial Combat has reached level 12 (+7).Natural Prowess has reached level 8 (+4).Cooking has reached level 5.
+
+Mato’s eyes widened at the green glowing words and numbers rapidly appearing before him. That’s… a lot… Five levels? His class was far stronger than it had been when he started out this morning. But then, he had been fighting for most of the day. Even Arboreal Sanctuary had leaped ahead, lending weight to the Night Elf Priestess’s assessment of his aura’s worth.
+
+Finally, the last of the tension from the long day faded as the muscles in his neck and shoulders relaxed. By the time he reached the guild hall, his steps were light – lighter – and his mood began to settle back to normal. We won!
+
+As soon as they entered the guild hall, Malika collapsed on a couch and passed out.
+
+Carefully, Mato laid Teagan down on a nearby chair and wandered off to see if Mieriel had any blankets.
+
+Calen crouched in the middle of the battlefield, gently holding Ali while she threw up. The first adventurer they had found was very clearly dead, hacked to pieces by Goblin axes and daggers. It looked like the work of Bugbears, judging by the bloody tracks and the unnecessary mutilation of the corpse.
+
+In the throes of battle, such sensibilities hadn’t affected him much, but seeing the corpse in the aftermath turned his stomach also.
+
+As Ali struggled to get her nausea under control, Calen reflected on the battle, mostly as a way of distracting his mind from the gore and the stench of death. He had fought hard, and for hours, but a large amount of his time had to be spent regenerating his mana. He had used every single mana potion he had bought, but he still hadn’t brought enough. He had even tried fighting closer to take advantage of Mato’s aura, but it put him perilously close to the Bugbears. And he had little desire to face a huge leaping monstrous Goblin with a two-handed mace in melee. Or the whirling axe-blenders.
+
+Even Malika and Mato, with their powerful regeneration skills, were still forced to take breathers whenever they could, but Ali had fought non-stop for hours. Her strange deconstruction skill allowed her to continuously replenish her mana supply while her minion army took care of the bulk of the fighting. The Kobolds had capitalized on Mato’s aura for stamina regeneration, which made them even more effective in the hours-long battle.
+
+Does she even know how powerful she is? He glanced down at the forlorn and pitiful Fae crouching in the dirt, now reduced to dry heaving.
+
+“Better?” he asked.
+
+“No.”
+
+“We can go back.”
+
+“No, I won’t let anyone die because I’m squeamish.”
+
+He helped Ali to her feet, and together, they began to search the battlefield for any survivors. Between his eyes and her remaining Kobolds, they should be able to cover an enormous amount of ground quickly.
+
+Idly he picked up a Hobgoblin sword, half buried in the mud, and stored it in his ring. It seemed to be a decent quality and he was certain Ali would like it, perhaps for one of her warriors. Or maybe she could even learn to make it. Her creation skill was astonishing – she had manufactured several gold worth of high-quality arrows using only mana and time. Without her, he would have been forced to spend large amounts of time scavenging for ammunition on the battlefield.
+
+He looked at the three arrows he had collected automatically as he walked by Goblin corpses. Habit, he thought, but he stored them anyway, they were still usable. Wish I could make my own arrows – now that would be a skill!
+
+“Hey Ali, maybe have your Kobolds keep an eye out for decent armor or weapons while you go. You might find something useful to learn before the looters and scavengers clear the battlefield.”
+
+Ali nodded, looking somewhat better already. At least her face was no longer the same green as her hair.
+
+***
+
+Calen sat outside the field hospital with Ali, resting. Once they had gotten going, their combination of skills had proved excellent for locating the unconscious and wounded. Between the two of them, they had found and rescued about a dozen people across the broad expanse of the entire eastern flank, and about half of the center.
+
+“I guess we’re free to go,” Ali said.
+
+Malika and Mato would probably be busy for a while still, so he got up and the two of them headed back to the guild.
+
+There were way too many kill notifications in his list, so Calen skipped to the end, stunned by the number of levels he had earned in just one day.
+
+Archer of Light has reached level 15 (+5).+50 attribute points.Radiant Archery has reached level 10.Arrows of Brilliance has reached level 11 (+3).Blessing of the Dawn has reached level 10 (+3).Eclipse has reached level 8.Eyes of the Archon has reached level 6 (+5).
+
+Granted it had taken almost an entire day of continuous battle against dangerous foes, but this amount of progress meant he was becoming substantially stronger.
+
+Arrows of Brilliance has gained a new enhancement.Blinding FlashMana: Cause an extremely bright flash when your arrow hits, blinding nearby targets. Range: 20 feet.Light, Area, Ranged, IntelligenceIncreased RangeStamina: Your range is increased by + [skill x 10] %Physical, Ranged, DexterityArmor PiercingStamina: Your arrows will pierce armor, ignoring a percentage of the target’s armor value.Physical, Ranged, DexterityMote of LightMana: Attach a Mote of Light to your arrow, fixing it at the destination.Light, Ranged, IntelligenceChoose one enhancement.
+
+My first skill advancement!
+
+He read through all four options, weighing them up, immediately discarding Mote of Light. I already have a skill for that without needing to shoot. Blinding Flash looked like a straightforward flashbang skill. Probably sometimes useful.
+
+The two remaining enhancements were both amazing – increased range that would grow with his skill level, and armor piercing. I wish I could choose them both. He spent most of the walk back to the guild debating the choices, but by the time he reached the guild hall he had made up his mind. He selected Increased Range, simply because most of the opponents he had fought up till now hadn’t been wearing too much in the way of armor. Or in the case of the Bugbears, he could compensate for their partial plate armor with accuracy. Increased Range, however, would have been useful in almost every fight he had, especially now that he could see so much further with Eyes of the Archon.
+
+It's going to be fantastic to have extra range if I can unlock an Ambush skill. And with Ali’s ingenious solution to his stealth and light skill issues, he was at least hopeful he might be able to achieve it.
+
+Arrows of Brilliance – level 11You may enhance your next shot with up to 2 [1 + skill tier] enhancements.Granted Enhancements: Light Damage, Increased Range.Light, Physical, Ranged, Dexterity, Intelligence
+
+Oh, I can use both simultaneously! It would of course require both the mana and the stamina costs to power it, but he could choose how he spent his resources. Calen sat down at a small table in the guild hall, pulled out his notebook, and chewed thoughtfully on the back of his pencil. What does skill tier mean? Is that the change that supposedly happens at level one hundred? He made a note to ask the Guildmaster the next time he saw her. If anyone knew it would be her.
+
+All in all, a fine day’s work and I’m alive to enjoy the fruits.
+
+***
+
+Name: Calen AveryRace: Half-ElfActive Buffs: Blessing of the DawnClass: Archer of Light – level 15- Radiant Archery – level 10- Arrows of Brilliance – level 11- Motes of Light – level 5- Explorer – level 9- Blessing of the Dawn – level 10- Eclipse – level 8- Eyes of the Archon – level 6- [Locked]- [Locked]- [Locked]General Skills- Bowcraft – level 6- Wood Carving – level 3- Cartography – level 4Aptitudes- Languages: Common- Mana (Affinity): Light- Perceptive (Racial): +11 to Perception- Quick (Racial): +5 to Dexterity- Timing (Class): You have an innate sense of timingAttributes- Vitality: 22- Strength: 9- Endurance: 15- Dexterity: 108 (+38)- Perception: 81 (+28)- Intelligence: 72 (+25)- Wisdom: 20Equipment- Weapon: Hunter's Bow – level 10- Body: Leather Vest – level 10- Ring: Bronze Guild Ring – level 10Evasion: 120Dodge: 22.22%Health: 220/220Stamina: 150/150Mana: 160/200 (40 Reserved)
+
+Ali clambered up onto the couch in the guild hall and simply spaced out for a while. It had been a grueling day, fighting the monsters of the Goblin horde. As if that hadn’t been enough, she had found several mutilated corpses on the battlefield that were far past saving, and while she hadn’t thrown up again after the first, none of the bodies had been easy to see. She had felt relief that she hadn’t been turned into a corpse by the Bugbear meatgrinders, and then instantly felt guilty that she had survived when so many had not.
+
+It was all overwhelming, and she simply sat and stared at the comings and goings of the guild, allowing it all to wash over her for a while. Calen was busy scribbling in his notebook, and adventurers walked in and out. Most looked very much the worse for wear. At some point, the Guildmaster must have returned because she was sitting across from Ali doing some paperwork.
+
+Someone came in and collapsed on the couch beside her and instantly passed out.
+
+Malika? Ah, with Mato. Yes.
+
+Ali glanced up as Mato wordlessly handed her a sandwich and found himself a seat. She stared uncomprehendingly at the sandwich for a moment before her stomach decided it was suddenly starving. She hadn’t eaten anything since the morning, and she had emptied her stomach a while ago.
+
+The sandwich vanished, and in minutes, Ali began feeling better, more alert, and having a little more energy.
+
+“Thanks, Mato,” she said, popping the last crumbs into her mouth.
+
+“Congrats,” he said.
+
+“What?”
+
+“You’re level twenty. Did you unlock anything good? You should take a look.”
+
+Oh! Suddenly eager, she viewed her notifications.
+
+Grove Warden has reached level 20 (+5).+50 attribute points.
+
+Twenty looked like such a big milestone – a nice round number. And that’s a lot of attribute points, too. Ali rubbed her hands together. Progress. Let’s see…
+
+Arcane Insight has reached level 10 (+3).Arcane Bolt has reached level 13 (+2).Barrier has reached level 16 (+3).Grimoire of Summoning has reached level 13.Imprint: Goblinoid completed.Variant: Chain Shirt added to Imprint: Armor.Imprint: Starving Wolf updated to Imprint: Wolf.Variant: Timber Wolf added to Imprint: Wolf.
+
+The skill notifications spoke to her growth throughout the long battle. Even her Grimoire of Summoning had grown from the aggressive use of deconstruction during combat. She typically used it to recover after fights, but today it had been the primary fuel that kept her magic running continuously. The steady stream of gear and Goblin corpses had simply been turned into mana, fuel for her barriers and Arcane Bolts.
+
+Her eyes dropped to the imprint.
+
+Goblinoid. Ugh, I guess I should have expected this.
+
+Her Grimoire seemed to have categorized at least some of the Goblins into a single imprint, providing her one for the entire family of races. She knew exactly when she had learned it too – it had happened when she had deconstructed a particularly large Bugbear in the middle of the fight and her Grimoire had appeared, so she knew it at least included them.
+
+Do I want Goblins?
+
+She very much disliked the smelly and vicious creatures they had been fighting all day, and she wouldn’t have minded discarding the imprint due to space. But she had just earned a new blank chapter for the day-long battle.
+
+Some of the elites are powerful, she thought. She already had a Fire Mage, but there had been several Goblin shamans, and their lightning magic was potent and rather terrifying. Not to mention she might be able to make Bugbears.
+
+I guess I have Kobolds and slimes, and those worked out so far. She finally decided she could simply take the Goblinoid imprint and if something better came along, she wouldn’t have a problem switching it out. If the imprint came with a useful elite, it might prove worth it in the end.
+
+She opened her Grimoire and committed the new imprint.
+
+“You get something new?” Mato asked curiously.
+
+“Goblins,” Ali answered, twisting her mouth.
+
+Vivian Ross glanced at her and arched an eyebrow but returned to her work without comment.
+
+“Maybe don’t summon them yet, people might freak out,” Mato said with a chuckle. “Although, if you dressed like one…”
+
+“Mato,” Ali warned with a smile.
+
+“What?” he asked, shrugging, and raising both palms.
+
+“Being called out for my smelly Kobold robes by Lydia was more than enough, I don’t need to smell like a Bugbear, thank you very much.”
+
+He just chuckled and she returned to the long stream of notifications.
+
+Class skill slot unlocked.New skills are available for Grove Warden.New skill unlocked.Class level has reached 20.Intelligence has surpassed 45.Defeated more than 200 enemies with arcane magic.Arcane RayMana: Channel your mana in a beam of arcane energy doing damage to all it touches. Range: 20 meters.Arcane, Ranged, Channeled, IntelligenceNew skill unlocked.Class level has reached 20.Intelligence has surpassed 50.Fought more than 10 enemies at once.Poison CloudMana: Emit a cloud of poison in a cone in front of your hand. Duration: 3 minutes. Range: 10 meters.Nature, Area, IntelligenceNew skill unlocked.Class level has reached 20.Intelligence has surpassed 50.Summoned an army of more than 25 minions.Killed more than 100 enemies with your minions in less than one day.Empowered SummonerMana: Your minions gain added nature damage on hit. Choose a Minion. You gain + [40 + skill + base intelligence x 0.15] % of their highest base attribute. Range: 15 meters. Reserve: 10%0: Replace a minion target for your attribute enhancement. Recharge: 1 hour. Nature, Minion, Buff, Intelligence
+
+So, twenty does unlock the second skill! Interesting.
+
+With a quick look, Ali confirmed that her discarded options from earlier were still available, meaning she could pick Grasping Roots or Berserk Summoner in addition to the three new skills offered.
+
+A ray, a cloud of poison, and a minion buff. Ali carefully read each of the skill descriptions.
+
+“What do you guys think of these skill options,” she asked. Malika was still sound asleep, but Mato and Calen looked over with interest as she shared her three new choices with them.
+
+“Some nice damage skills,” Mato observed. “Poison Cloud might have been good today on the battlefield.”
+
+“True, but I would have to be careful of my allies – and my minions.” Ali glanced over at her Kobold Fire Mage standing behind the couch. She had had to keep a close eye on him during the battle because his eagerness to Fireball everything in sight might have hurt some of her friends.
+
+“That ray thingy looks nice, too,” Mato said. “I wonder if you can just turn it on and wave it around?”
+
+“Oh, interesting. It says it’s channeled, so that might work. What do you think Calen?” Ali had noticed Calen was showing interest in the conversation, but he hadn’t said anything so far.
+
+“It probably does work like that, but if it were me, I would take the Empowered Summoner skill,” he said, poking his lip with the back of his pencil.
+
+“It seems very expensive, though. It reserves ten percent of my entire mana.” Ali had thought the skill looked nice, but the others seemed a little more attractive because they didn’t lock away so much mana. She was already reserving so much just to have minions.
+
+“Your minions are your most powerful skill,” Calen retorted, offering a quirky smile to soften his words. “Anything that makes them all stronger is multiplied by the number of minions you summon. I think this skill is worth way more than a ten percent reservation – you get an attribute bonus, and all your minions gain nature magic damage whenever they hit something. Most of your minions are physical damage only – with this skill, they can all have a source of magical damage, too.”
+
+“I didn’t think of it that way. That seems very powerful.”
+
+Ali was about to make the choice when she noticed Vivian Ross still sitting in the chair across from them, clearly having overheard the entire conversation, but she still hadn’t commented. Perhaps she was being polite, but she had demonstrated an extraordinary level of experience during their first interview.
+
+“Guildmaster, what do you think?” Ali inquired.
+
+Vivian Ross looked surprised for a moment before she schooled her expression. “I think it’s excellent that you discuss your choices with your friends, Aliandra. Too few people have that level of trust and it’s a great way to get multiple perspectives. And yes, the minion buff skill is by far the strongest of your choices, given what I saw on the battlefield today. One additional point to the excellent analysis Calen gave – you probably can’t channel your missiles and that ray simultaneously. So, you’d always be effectively fighting with one fewer skill if you picked that one.”
+
+“If that’s the case, I would be better off replacing the bolts with the ray, right?”
+
+“Yes.”
+
+“I think I like the bolts better, they’re guided, and I can focus my attention on my minions and my barriers.”
+
+“That seems like a smart choice. And you can always change your mind later if you have to.”
+
+“Thank you.” It was nice to confirm that her unselected skills would remain available – albeit at the cost of losing any earned skill levels. Happy with the decision, Ali selected Empowered Summoner for her newly unlocked skill slot. Immediately the familiar golden text appeared on the parchment in her mind’s eye:
+
+You have learned the class skill Empowered Summoner.Empowered Summoner has reached level 1.Empowered Summoner – level 1Mana: Your minions gain added nature damage on hit. Choose a Minion. You gain +51.2% [40 + skill + base intelligence x 0.15] of their highest base attribute. Range: 15.45 meters. Reserve: 10%0: Replace a minion target for your attribute enhancement. Recharge: 1 hour. Nature, Minion, Buff, Intelligence
+
+To test it out, she turned it on, reserving ten percent of her entire mana pool. Immediately, her Kobolds glance at her with cunning smiles curving their lips upward to reveal entirely too many wicked fangs. Even the mage? Does that mean he gets the nature damage on hit benefit also? With his Fireball?
+
+Ali wriggled uncomfortably in her seat, unsure whether a decent person really should be so delighted by the prospect of frying enemies more effectively with nature magic enhanced Fireballs.
+
+“Thank you, Ancient Mistress.”
+
+Ali acknowledged them with a nod and then selected her Fire Mage as the target for the skill. The activation for choosing her Fire Mage was written as a rather obscure ‘0’ in the skill description, but it turned out to be much simpler than she had feared; she simply chose, and there was no mana or stamina cost. According to the skill, whichever of his base attributes was the highest would be the one she would benefit from.
+
+And he’s a mage, so…
+
+Sure enough, her intelligence attribute suddenly jumped by a whopping twenty-nine points. The jump was so significant that it was instantly noticeable. Her mind’s focus immediately sharpened, and she felt a heightened awareness. Most of her skills benefited from intelligence, which meant her barrier and her bolts would both be stronger in turn.
+
+“Wow, this is nice!” And all I have to do is keep my mage within fifteen meters. I buff him, and I get a buff in return. Sweet.
+
+She now had two potent minion buffs, and her attributes had improved. Ali finally turned her attention to her attribute points. Recalling the crazy stunt with her hanging from her barrier above the cavern floor, she put ten of the points into dexterity without hesitation. The rest she split among wisdom, intelligence, and perception. She had not forgotten that she had three skills that scaled with perception.
+
+While she was assigning her points, Vivian Ross broke the silence.
+
+“What are you guys doing tomorrow?”
+
+“No plans,” Mato answered quickly, and Ali looked up curiously.
+
+“I’m worried about that Goblin dungeon. I know you said Kieran Mori’s mercenaries killed it to provoke the dungeon-break, but I simply cannot trust their word. If there’s any chance that dungeon is still alive, we could be facing a far worse disaster in a few weeks or months – you know the drill. We absolutely must ensure that it is destroyed. I’m tied up here for the next few weeks, so I was hoping that a couple of you guys could go on a scouting job for me. I can’t pay, but I can cancel your guild membership debt as a reward.”
+
+“You want us to kill a dungeon that spawns Hobgoblins?” Mato asked warily, clearly considering how many body parts that might cost him.
+
+Drumming her fingers on the armrest of her chair, Vivian replied, “No, you’re wise to be cautious – just find out if it’s really destroyed. If it’s alive, report back and I think that will be enough for me to motivate Commander Brand to get involved.”
+
+Oh. Ali hadn’t even been thinking beyond today’s battle, and already the Guildmaster was several steps ahead. The idea that the dungeon was still out there preparing another, perhaps even bigger horde, was terrifying.
+
+“I’m not sure I’m that useful for a scouting mission,” Ali said. She did have some wolves, but it wasn’t really a tracking mission, and she still had to worry about her domain withdrawal.
+
+“I was thinking of Calen and Mato for this particular job,” Vivian answered. “Buddy system – and both of you have good scouting skills.”
+
+Oh, that makes sense, Ali thought seeing both Calen and Mato agreeing to the scouting mission.
+
+I guess Malika and I will have a few days to ourselves then.
+
+***
+
+Name: Aliandra AmarielRace: FaeTitles: AncientActive Buffs: Empowered SummonerClass: Grove Warden – level 20- Arcane Insight – level 10- Arcane Bolt – level 13- Barrier – level 16- Grimoire of Summoning – level 13- Runic Script – level 9- Sage of Learning – level 9- Martial Insight – level 7- Empowered Summoner – level 1- [Locked]- [Locked]General Skills- Reading – level 7- Identify – level 8- Sculpting – level 2Aptitudes- Languages: Ancient Dal'mohran, Elvish, Dwarven, Common, Draconic- Mana (Affinities): Nature, Arcane- Tiny (Racial): The effects of Strength and Vitality are reduced by 50%- Magical (Racial): The effects of Wisdom and Intelligence are increased by 50%- Domain (Class): Your maximum mana increases with the size of your domain, up to +100%- Domain: -10% maximum health per day domain withdrawal. You have Domain SenseAttributes- Vitality: 50- Strength: 4- Endurance: 15- Dexterity: 20- Perception: 41- Intelligence: 97 (+29)- Wisdom: 72Equipment- Body: Tailored Cotton Clothing – level 15- Hands: Wooden Bracelet – level 11- Ring: Bronze Guild Ring – level 10Resistance: 216Magical Damage Reduction: 27.83%+21% to mana regeneration.Health: 250/250Stamina: 150/150Mana: 1526/2160 (634 Reserved)Grimoire Imprints1- Moss 2- Arrow 3- Armor (Body)4- Dagger 5- Wolf 6- Mushroom 7- Stone 8- Kobold 9- Sword 10- Tree 11- Ivy 12- Toxic Slime 13- Goblinoid

@@ -1,0 +1,133 @@
+---
+id: a2585f0a-6176-5371-b6b1-146b8fb00aee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 214: Blood (Part 3)"
+slug: 0236-chapter-214-blood-part-3
+partOf: dungeon-of-knowledge-complete
+position: 236
+ownLength: 1744
+unit: words
+ownProgress: 1744
+publishedAt: 2025-03-24
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2147621/chapter-214-blood-part-3"
+royalRoadId: "2147621"
+markedReadAt: "2026-06-29T20:19:10.083Z"
+---
+
+“Well… that was insane,” Mato said, as he shifted back to Beastkin once the final troll collapsed.
+
+“You can say that again,” Calen panted, mopping his brow. “I’m never going to be able to listen to the bards singing about heroes defeating hordes of trolls single-handedly again.”
+
+“That’s for sure,” Ali said, landing next to Malika. “Six warriors and a shaman almost destroyed us.”
+
+“What the heck was that thing doing?” Malika asked. “It had no mana, but it was casting magic constantly. Was it using health or something?”
+
+“Yes,” Ali answered, studying the dead shaman speculatively. “I couldn’t see any mana, but its health dropped every time it cast anything. It was definitely using blood to power its magic – usually its own, but it was using yours for a while there.”
+
+“And what was that spell it used? The floating blood runes and bleeding eyes? Haste?”
+
+“I think that one might be Bloodlust,” Calen said. “I’ve read about it. If that’s what it was, we got lucky.”
+
+“Whatever it was, they definitely hit a lot harder and faster with those nasty floating runes,” Mato said.
+
+“The shaman was a real piece of work. He hit me with bleeds and a vampiric curse that healed whatever hit me,” Malika added, sharing her experience with the shaman’s abilities. They would need to come up with a much better plan if they were to encounter more of them. “It’s also very good at blocking. I think next time we should all use our most powerful abilities and just take out the shaman as soon as we start.”
+
+“Agreed.”
+
+“Yes.”
+
+“Definitely!”
+
+Malika breathed in and out, finally relaxing a little. The battlefield was a mess, pools of blood everywhere, a massive crater where Ali had dropped an Armored Drake, and broad swathes of scorched brush and trees, some still flickering with small remnants of hellfire. After a moment she remembered to check her notifications.
+
+Soul Monk has reached level 64.+10 attribute points.
+
+The level-up is nice, but… After what she had just experienced, Malika felt that a single level might be a little stingy. Nevertheless, she dutifully distributed four points each to dexterity and wisdom, dropping the remaining two into endurance. That should do for now. Let’s recheck these…Martial Artist has reached level 32 (+2).Soul Strike has reached level 40.Healing Mantra has reached level 38 (+2).Divine Step has reached level 33 (+3).Clarity has reached level 17.Soul Sight has reached level 20 (+2).
+
+As she studied her skill increases, her chime sounded once more and her eyes widened as she took in the message.
+
+Requirements met for skill advancement.Mentor: Rezan JinSoul Strike has reached level 40.Soul Sight has reached level 20.Dexterity has surpassed 580.Wisdom has surpassed 380.Defeat a monster with more than 50,000 health.Soul Strike gains Soul Echoes.(You may Soul Echo up to 4 [skill/10] attacks. If you pay the cost of the attack again within thirty seconds of landing the Soul Echoed hit, it deals any inflicted soul damage a second time.)Mentor: Rezan JinSoul Strike has reached level 40.Endurance has surpassed 390.Wisdom has surpassed 380.Defeat a monster without mana 10 levels above you.Has the Mana Strike ability.Has the Health Strike ability.Soul Strike gains Stamina Strike.(Strike directly at stamina. Stamina leech.)Choose one advancement.
+
+I really struggled against this shaman, she thought as she stood over the bloody corpse of the troll, reviewing the fight in her mind. She had been unable to disrupt his magic by attacking his mana, and after talking it over with Ali, she was certain he had been spending his health, using it to fuel his crazy blood magic.
+
+It was clear from her Soul Sight that he had not had a particularly large pool of stamina to draw from, and at the very least, his melee strikes and blocks were dependent on stamina. If she could deny at least those abilities, perhaps the shaman would be less of an overwhelmingly dominant force on the battlefield. The difference in power between the first group they had fought and this one was unreal – the addition of just one shaman had caused the challenge to skyrocket from difficult to nigh impossible.
+
+“Deep in thought?” Ali asked, floating up beside her.
+
+“I got two advancements for Soul Strike,” Malika admitted.
+
+“That sounds fantastic,” Calen said.
+
+“I’m not sure how to choose,” Malika admitted. Both options presented a unique solution to the problem of the shaman.
+
+“What did you get?” Ali asked.
+
+“Here.” With a thought, Malika shared the two choices.
+
+“Oh, hmm, that is a tricky choice,” Calen said, whipping out his notebook on cue. “A complete suite of resource denial tools, or…”
+
+“More damage?” Ali asked. “Soul Echoes looks good, but it seems complicated.”
+
+“It’s damage and control,” Mato said.
+
+“What do you mean?”
+
+“It would allow her to bunch up damage and inflict it all at once – a way of bursting down monsters faster than they can react with healing or potions,” he offered.
+
+Ali nodded. “Aha, I get it.”
+
+“I think it offers a lot of choices,” Malika said, considering the implications. “I could keep burning the echoes to increase sustained damage, or I could save them up longer to create bursts of bigger damage.”
+
+“I think it’s cool,” Mato said. “Once you’ve punched someone, you can just stand there without moving and they get punched again.”
+
+“Are you thinking of taking it?” Ali asked.
+
+“Actually, I’m leaning toward the stamina drain one,” Malika said, grinning at Mato’s vision of striking without even moving. Calen was right, it wasn’t an easy decision though.
+
+“You’d give up the damage?” Mato asked, looking a little surprised. “I thought you’d love the versatility and surprise factor.”
+
+“I do… it’s just… well, my damage doesn’t really matter a whole lot with Ali here packing an entire raid group of minions. Stamina drain could have taken care of this shaman promptly – the same way we took out Alexander Gray. That seems more useful for the team.”
+
+“That makes sense,” Calen said, pinching his chin. “It would have been different if you were a slow, big hitter like Mato here, but you’re going a different route with your build.”
+
+“True enough,” Mato nodded. “And I see what you mean about the shaman – eating his stamina would have been very helpful.”
+
+“Yes, that’s why I’m thinking of taking it,” she admitted. “Against these guys, it would have been worth it.”
+
+“As long as you like it,” Ali said.
+
+That settles it, Malika decided, accepting her newest advancement. It seemed to be in theme for her main magical support skill, rounding out her abilities to deny her opponents their resources instead of doubling-down on raw damage, no matter how interesting. And with that, she scanned her updated skill description.
+
+Soul Strike – level 40Mana: Enhance a Melee Attack with your soul magic, striking directly at the health, stamina, or mana of your opponent. A portion of this health, stamina, or mana is returned to you. Your Attack gains +463% [40 + skill + wisdom] additional Soul damage. Range: Touch.Soul, Melee, Support, Wisdom
+
+I’ll need to fight even more strategically, she thought, but that was no problem – she already seemed to be heading down that path, and, as Ali had so eloquently pointed out, she enjoyed it more. Was it the challenge factor? An unexpected linkage with her bloodline skills? She began gathering up the gear the shaman and the warriors had been wearing, storing most of it. None of their group used shields, or the hybrid dexterity-wisdom armor, or axes.
+
+But this… She examined the final item, turning it over in her hands speculatively. It was a gaudy bracelet of polished bone beads the shaman had been wearing, and the smooth finish gleamed as she held it up to the light.
+
+Ancestral Spirit Beads – level 64+57% to mana regeneration.+11 Vitality+29 Dexterity+42 WisdomRequirements: Wisdom 224Quality: UncommonValue: 12 gold, 87 silverHands – CharmAppraise has reached level 18.
+
+These are good. Very good, and uncommon grade at that. She ran her fingers over the beads. They would be great for her, but she had the Flamecaller Bracers, and she knew Ali was still wearing a level eleven bracelet from some Goblin shaman.
+
+She probably won’t get much out of the Dexterity, but it’s still an amazing upgrade for her, Malika decided.
+
+“Hey Ali,” she said. “Can you use this?” She walked over to where Ali was beginning to deconstruct the remaining trolls and handed her the beaded bracelet.
+
+“Wow!” Ali said as she examined the bracelet. “I’d sure like to try!”
+
+“Perhaps try to wrap it twice around?” Malika suggested as Ali struggled to figure out how to wear a bracelet designed for a creature more than three times taller than she was. With a deft twist, she helped her friend wrap it twice around her wrist. She didn’t even have to ask if it worked, the beaming smile on Ali’s face was all the answer she needed.
+
+“Pretty garish,” Calen said, patting Ali on the shoulder. “Welcome to the fancy-dress party.”
+
+At that, the tiny Fae laughed so hard she had to wipe tears from her eyes.
+
+***
+
+Name: Malika YuRace: HumanTitles: Street Rat, Rift WardenActive Buffs: Perfect Body, Soul Armor, Enlightened Evasion, Well-fedClass: Soul Monk – level 64- Martial Artist – level 32- Soul Strike – level 40- Healing Mantra – level 38- Perfect Body – level 24- Soul Armor – level 30- Enlightened Evasion – level 32- Divine Step – level 33- Second Wind – level 20- Clarity – level 18- Soul Sight – level 20General Skills- Dancing – level 10- Calligraphy – level 3- Lockpicking – level 5- Appraise – level 18Aptitudes- Languages: Common, Ahn Khen- Bloodline (Ahn Khen): +45% to range and power of Bloodline skills- Mana (Affinity): Soul- Relentless (Class): +100% to Stamina Regeneration- Relentless (Class): You can pay for any abilities with stamina instead of manaPatrons & Tithes- Mentor: Rezan JinAttributes- Vitality: 154 (+39)- Strength: 125 (+65)- Endurance: 403 (+238)- Dexterity: 590 (+363)- Perception: 98 (+23)- Intelligence: 72 (+23)- Wisdom: 383 (+196)Equipment- Head: Ruby Hairpin – level 40- Hands: Flamecaller Bracers – level 44- Feet: Swift Bone-Studded Jambeau – level 60- Ring: Gold Guild Ring – level 60- Ring: Seal of the Quartermaster – level 40Armor: 1016Physical Damage Reduction: 36.18%Evasion: 1404Dodge: 43.92%Resistance: 976Magical Damage Reduction: 35.26%+20% to Fire resistance.+2% of your damage is returned as Health over 30 seconds.+15% to Movement speed.Health: 1540/1540Stamina: 2418/4030 (1612 Reserved)Mana: 3830/3830
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

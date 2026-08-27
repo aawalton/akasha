@@ -1,0 +1,141 @@
+---
+id: d3403519-6632-541e-9921-de922d63692a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 216: Kir’mogan (Part 3)"
+slug: 0240-chapter-216-kir-mogan-part-3
+partOf: dungeon-of-knowledge-complete
+position: 240
+ownLength: 2473
+unit: words
+ownProgress: 2473
+publishedAt: 2025-03-29
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2159337/chapter-216-kirmogan-part-3"
+royalRoadId: "2159337"
+markedReadAt: "2026-06-29T20:19:18.156Z"
+---
+
+Ali was fully focused on the shaman. Malika had pulled her away from the group and was doing an amazing job tanking it.
+
+“Bring it out into the open a little more, Malika,” Calen said. “Ali’s monsters are big.”
+
+As Malika shifted, Ali organized her forces around the troll, placing her Forest Guardian and Bone Warriors on the far side of the group, and prioritizing the more powerful Armored Drakes. This arrangement allowed her to use the Hellfire Imps’ fireballs more effectively.
+
+“How are you doing?” Ali asked.
+
+“I’m good. Bring it on,” Malika said, barely even breathing hard.
+
+“Fireball,” Ali called, and the imp reacted with an amplified and accelerated one that shook the ground with the blast. Malika got hit, but all the rest of the minions in the carefully aimed blast radius were immune to fire. And Malika was right, she healed herself and she seemed fine.
+
+Now, if only I could do something about that shaman avoiding the roots, she thought, searching the battlefield. There it is, she spied the Free Action totem among the miniature forest of six different totems. Quickly, she flew over to it and spent the ten or so seconds required to deconstruct the totem. As soon as it dissipated, the shaman became entangled in Mato’s roots, calling out in an annoyed voice, but just as Ali was celebrating the minor success, the shaman threw out another one and the roots began falling away.
+
+Ali pursed her lips in annoyance. But before she could try again, two things happened simultaneously.
+
+“Starting!” Calen yelled, indicating he was about to trigger Righteous Fury, and they would need to go all out to drop the shaman.
+
+At the same time, the Kobold Acolytes flared with holy power. Her heart dropped at the sight of their emergency healing skill being triggered. Fearing the worst, she quickly shifted her sight to one of them, just in time to watch Mato’s health suddenly vanish and then pop up to a little below half. She stared in momentary confusion and disbelief before she realized he had been forced to use his Last Stand. No! Mato, how will you survive the bloodlust?
+
+“Mato had to burn Last Stand,” she announced, getting a look of shock from Calen.
+
+As if she had summoned the dreaded magic, the shaman’s blood burst into the air, arcing to every troll, accelerating them to a frenzy of power.
+
+A blur of whirling gray crashed into her barrier, detonating in an explosion of gold and bone slivers and shards that tore through Ali’s skin, piercing her leg and ribs. The world tilted precariously as the pain slammed into her mind and she barely caught herself before she fell. With an instinct born from so much fighting, she resummoned her protective barrier before her senses had even recovered from the shock. Mato was still alive, but Kir’mogan had leveled her a hateful, bleeding-eyed gaze. He summoned another axe and threw it at her again, but this time she was ready, slamming up a second barrier in front of her bubble. It shattered both, but she caught herself deflecting most of the shrapnel this time.
+
+“Mato’s struggling. Kill the shaman quickly,” Ali said, keeping a wary eye on the boss and his extremely potent and accurate ranged damage. The domain mana surged again, and the boss unleashed a ground-crushing strike that tore into Mato. “Devotion,” she told her nearest Acolyte, making it accelerate its healing power. Another axe flew from a distance, and she barely had enough time to throw up a barrier. But the boss’s axes were empowered by the devastating Bloodlust and the resulting explosion ripped her Acolyte to shreds.
+
+“What’s going on?” Calen asked, his onslaught of arrows not faltering in the slightest.
+
+“I can’t keep Mato healed,” she told him. “That Mortal Wounds refuses to drop. I think the boss’s biggest strike is refreshing it.” It had to be a domain-empowered ability.
+
+“How long has he got?”
+
+“Fifteen seconds on Last Stand,” she said. It was an estimate, but probably close enough.
+
+She urged her minions on, but she knew that raid boss minions had ten times the health of a normal monster. She desperately wanted to fire her barrier shards, but again she was forced to block another flying axe, wincing as a stray bone shard sliced through her arm. But every axe Kir’mogan threw her way was one less strike Mato needed to tank. If she could just distract him for long enough…
+
+Calen fired a powerful volley, striking the shaman just as the Hellfire Imp’s fireball detonated on it, and the streamers of blood magic that were healing it collapsed to the ground with a great splash. Three of the totems vanished into motes of mana as the magic sustaining them died with their caster.
+
+“Heal Mato!” Ali yelled.
+
+“I got him,” Malika said, as she charged into the fray to pick up the second shaman, her healing magic pouring into Mato the second she arrived.
+
+Ali shifted her drake into position to cover Malika as she retreated with the second shaman, hoping to block the flying axes on its durable dragon-scale armor. As she did, she received a confusing series of images that she immediately knew had to have come from Mato and his strange ability to communicate emotions and pictures with her beast minions.
+
+Distance the shaman? Kill totem? Oh. She kicked herself for not thinking of it before – but Mato had seldom had the opportunity to use his control skill down in the mines. The shaman’s Free Action totem was hampering him even more than it was annoying her Forest Guardian.
+
+“Malika! Pull the shaman further away,” Ali shouted, immediately zooming down to the ground and beginning to deconstruct the frustrating totem. Malika reacted immediately, and by the time the totem evaporated, and the shaman threw out another one, it was far enough from Mato to not affect him and his root magic. Perfect.
+
+They were not out of danger yet. Mato was still faced with two bone warriors and the devastating Kir’mogan himself, but his root magic seemed to suddenly grasp the horde of zombies, and as he backed away from them his health seemed to stabilize.
+
+“Ali, you’re going to need to help him. Block that big attack with all your barrier magic,” Calen called over. “I’ll throw out some Grappling Shots.”
+
+“I can’t read it,” Ali said. Domain magic was one thing, but Kir’mogan’s skill had to be a martial ability.
+
+“I can see it,” Malika said. “On my mark.”
+
+Ali lowered herself to the ground to free up her barrier magic and it took a few moments until she felt the domain mana surge.
+
+“Now, Ali!” Malika yelled.
+
+Ali had seen the attack several times now, and she was certain that an attack that left such large craters in the ground would shred her barriers like paper. But sometimes barriers could be used with a modicum of subtlety. She had used multiple barriers to slow them down when they fell down the shaft so long ago, and she had used them to successfully deflect raid boss bone spears. She summoned three barrier plates, one behind the other, all three of them between the troll boss’s massive greataxe and Mato’s head. All three angled to create a steep deflection.
+
+The axe blurred, and the air between it and Mato exploded into golden shards of magic, followed a fraction of a second later by the explosion of a cloud of dust and chunks of rubble. But Mato’s health did not budge. Then, the acolytes’ healing spells landed on him and his health skyrocketed, and as the dust cleared, Ali saw the axe blade buried in the ground to Mato’s left side.
+
+“Good work!” Calen said, firing a fan of arrows into their foes.
+
+“Good call,” Ali told him as she watched in sudden relief as Mato’s health hit maximum, right as his temporary Last Stand health expired.
+
+The boss skewered her with another hateful look and formed an axe in his powerful hand, growing the bone so fast it seemed instantaneous. He threw it with great force and unerring accuracy across the battlefield right at her face. If she hadn’t been ready, she wasn’t sure she would have been quick enough. As it was, her barrier shattered a second time, shards of bone tearing through her body despite that she had deflected the strike. Even as she felt the restoration of her Acolyte repairing her, the small sprays of her amber blood pooled in the air and streamed out across the clearing to be sucked into the shaman’s totem.
+
+This time, Ali kept her eyes glued to Mato’s health and the boss’s uncannily accurate attacks, tossing out an occasional barrier to interfere with the strikes. The power from Righteous Fury faded, and then shortly afterward the blood runes empowering the trolls splashed down to the ground. They had less damage, but now their foes had one fewer healer. After a sequence of increasingly ferocious attacks on Mato with his blades, the bone troll grew another axe, this time sending the projectile right at Malika’s back. She dodged it without even looking, and it exploded against one of Ali’s Armored Drakes, the shards ripping through all her minions. Most of her creatures had relatively good armor and health, but the Hellfire Imps that had leapt into battle to bring their auras to bear took substantial damage from the explosive bone attack.
+
+“Keep healing Mato,” she instructed her Acolytes. The melee group had Malika and the regeneration aura of her Forest Guardian. We’re getting there… not out of the woods yet. Keep sharp, Ali!
+
+Amid the press of the melee, the shaman abruptly collapsed in a pool of blood, but there was no chime. Searching frantically, Ali detected a surge of blood by its scent coming from a dense patch of the Blood-Drenched Moss near one of the stone huts.
+
+“Where is it?” Malika asked, snapping her head back and forth as she searched.
+
+“Over there!” Ali yelled, pointing to the hut, and sent mental directives to her minions to chase the shaman. It’s not running, she thought as she realized the creature had simply bought itself time for a long heal, the ribbons of blood magic curling back from its hands and punching into its own torso as its health began to rise.
+
+Another axe whirled across the battlefield, but this time, Ali was prepared. Her barrier flickered into existence, deflecting the deadly missile from her Acolyte. Even though her barrier shattered with the impact, her Acolyte was still able to survive the blast. With a little dose of healing magic, it began recovering and continued healing Mato.
+
+She flew over, alighting on the blood-stained ground, and bent to deconstruct the corpse of the first shaman. While she wasn’t critically low yet, she was operating on a tight mana budget in order to bring so many minions to the battle. And she needed her mana for her barriers. With her mana refilled, she redoubled her efforts, tossing out barrier after barrier to block powerful flying bone axes or to give Mato a little breathing room.
+
+Finally, the second shaman collapsed, landing in a pool of blood that had accumulated on the ground, and the crucial chime sounded.
+
+“Warrior, and then the boss,” Calen reiterated their strategy. “Don’t fireball the zombies yet, Mato is using roots to keep them at bay.”
+
+“I can help him with the Guardian,” Ali said, shifting her minions.
+
+With both shamans down, she decided she had much more room for adjustment. She sent both drakes to tackle the zombies, making them use only their cleave attacks until they had the monsters locked down, and she used everything else to attack the warrior Malika picked, holding her imps in reserve for now. As soon as her drakes were being attacked by the zombies, and there was no chance of them breaking to harass Mato, she called for fireballs. She was quite pleased with her strategy – there were many zombies, and with the drakes being immune to fire, the fireballs worked wonders. After she allowed her drakes to breathe fire, the zombies began dying quickly.
+
+Against the bone warrior, her Abyssal Stalkers’ blood shock and her new trolls’ heavy damage made for a devastating combination. Eager to stabilize the fight further, she sent her Forest Guardian over to help Mato. It brought its powerful regeneration and an extra helping of roots to control the remaining minions.
+
+They settled into a careful, but much more stable fight, burning down the remaining warriors one at a time while Ali spent most of her energy blocking deadly-accurate flying axes, until finally only Kir’mogan remained.
+
+The fight dragged on and on as they struggled to do substantial damage to the heavily armored and highly agile troll. Even though there were no more shamans healing him, the health boost he enjoyed for being domain-enhanced paired strongly with the troll’s innate regeneration. He also had the health leech on his gear. Ali carefully tracked his health, but they were struggling to make decent progress.
+
+“He’s out of stamina,” Malika suddenly announced, after about ten solid minutes of fighting.
+
+Ali looked again, surprised, but indeed Malika’s normally blue-white magic was unusually white, with a subtly different structure to the magical formation whenever it flickered and flashed with her punches.
+
+Smart, she thought. She must have realized it would be a lengthy fight and switched to stamina attacks. Some of the Bone Warriors’ defensive abilities ran on mana – and there was no reason to believe Kir’mogan was any different – but their offensive capabilities were effectively neutered by Malika’s strategy. But most importantly, his ability to block required stamina. From there on, the battle turned into a drawn-out game of chase as the boss triggered its Bone Rush to get away from Malika in order to regenerate just enough stamina to throw an axe at someone. An attack Ali blocked every time – and then she followed up with Armored Drake Cleaves and Blood Shock to whittle his health down a little further.
+
+After far too long, Kir’mogan bellowed something angrily and collapsed in a heap to the sound of a notification chime.
+
+Your group has defeated Shaman – Troll – level 73-74 (Blood) x2.Your group has defeated Warrior – Troll Zombie – level 43-56 x18.Your group has defeated Warrior – Troll – level 64-67 (Bone) x2.Your group has defeated Kir’mogan [The Brutal Blade] – Troll – level 81 (Bone).
+
+“Oh, thank goodness,” Ali said.
+
+“You can say that again,” Malika said. “How’re you doing, Mr. Bear?”
+
+“Fine. Good fight,” Mato said, massaging his neck on the right. “He hits reasonably hard – for a Troll.”
+
+Calen just snorted.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

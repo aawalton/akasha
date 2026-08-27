@@ -1,0 +1,241 @@
+---
+id: a0314569-91bc-5e68-bafa-e0d791d22918
+page-type-slug: story-chapter-royal-road
+title: "Chapter 86: The Outer City Ring"
+slug: 0086-chapter-86-the-outer-city-ring
+partOf: dungeon-of-knowledge-complete
+position: 86
+ownLength: 3993
+unit: words
+ownProgress: 3993
+publishedAt: 2024-06-16
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1679222/chapter-86-the-outer-city-ring"
+royalRoadId: "1679222"
+markedReadAt: "2026-06-29T20:13:49.220Z"
+---
+
+Ali stood on the final bridge, rubbing her arms to ward off the chill of the stale air as she gazed out over the outer ring of the ruined city. Reaching the bridge had been easier than she had expected – the dungeon had only respawned a few of the undead and bone elementals in the inner and central rings, and those had been easy for them to kill, isolated as they were.
+
+From her vantage point on the basalt-lined bridge arching down to join with the lower-set outer ring, it was clear, even in the darkness, that the final city ring had suffered the most in that ancient battle. It was not a place anyone but the engineers and miners had frequented when it was functional, but fully half of what had once been the power backbone of the city was now gone, snapped off in the conflict, leaving jagged edges of the heavy stone foundations jutting out into the darkness. Only three of the giant mana condensers – massive gray stone pyramids the size of several city blocks, with featureless sloped edges and a snub top – remained among the ruins of what had once been an unbroken ring of busy industry: the pinnacle of magical engineering. Remarkably, two of the condensers still glowed intensely in her mana sight, even after all this time, but the mana fluctuated and pulsed erratically, clearly no longer operating properly.
+
+“I see a few bone elementals and a lot of undead,” Calen said, carefully scanning the expanse of the ring below. “Lots of heaps and piles to hide behind, and something strange over by that pyramid thing.”
+
+“The pyramids are the mana condensers,” Ali explained. It was still too far for her to see what Calen had observed near them, and the light from her mana sight was intense. “They used to stack up ore here to be smelted. Being right next to the power generators provided some advantage, I think.”
+
+“I don’t think those piles are ore,” Calen answered slowly. “Looks more like skeletons or bodies. I wonder if this is where the dungeon monsters have been dragging the corpses of the bats and wyverns they kill?”
+
+“Why would they do that?” Ali asked.
+
+“Do you think there’s a necromancer in here?” Malika asked. “There’s an awful lot of undead.”
+
+“I’m not sure how we find out without exploring further,” Calen said. “So far, my skill is telling me that all the undead have been dungeon spawns, but we don’t know what might be waiting up ahead.”
+
+“Is everyone ready?” Mato asked, impatient for action as always.
+
+“Give me a few minutes to change my minions,” Ali answered. If it was mostly undead and elementals, she wanted to replace most of her archers with Fire Mages and shamans. And I have a new Acolyte to test, she recalled. The fact that it had death mana affinity sat uneasily with her, but the smart choice was knowing and understanding all the resources she had at her disposal. There was nothing for it, she needed to see the Kobold ‘Death’s Acolyte’ in action. The open space of the third ring, and their ability to have Calen split out small groups of monsters, would make it the perfect grounds to test a new minion.
+
+“How many wyverns do you see?” Ali asked. She had been making cure poison circles for the entire time they had been fighting in the central ring, but recently they were mostly being used to clear a few poisons from Mato whenever they got the chance to pause.
+
+“Not many, actually,” Calen said.
+
+“Ok, let me know if you see a group somewhere,” Ali answered, deciding to dispense with the circles and use the mana reservation she freed up for the new Kobold instead.
+
+As soon as she was done, Calen lured the first Piercer Scorpion to Mato’s position with a highly accurate shot, and the battle commenced. It was a single monster, so Ali’s concentration and focus were not even remotely challenged. She organized her minions following her well-practiced plan and then turned her attention to her newest Kobold. It stood beside her leaking an ominous black mana, awaiting her orders.
+
+“What can you do?” Ali asked in Draconic.
+
+“Death Rupture, Ancient Mistress,” the Kobold answered.
+
+“Show me,” she instructed, suddenly wondering what Kavé had meant that her Draconic sounded like the Kobolds. It was different to how the Dragonkin girl spoke, but Ali had initially assumed that was simply the function of different biology, but the Dragonkin wasn’t all that different from her, other than her scales, larger size, and a few extra canines. Yet, Kavé’s speech lacked the chirping quality of the Kobolds, and she used clumsy and archaic forms of self-reference in her speech patterns.
+
+Ali’s rambling thoughts were suddenly interrupted as the Death’s Acolyte summoned its magic, drawing darkly glowing black mana from within itself to form a dense black ball of swirling magic that hovered above its clawed hand. The energy sucked at the surroundings, drawing in light, and spinning as it grew. Ali’s skin prickled from the chilling proximity to the intense spell as her nostrils filled with the faint scent of dry dustiness and crypt-like death.
+
+It’s just like his. Ali shivered, filled with a remembered terror as her mind instantly provided an image that had been burned into her heart – the image of the Blind Lich summoning a spell just like this to shoot at her mother.
+
+Settle down, that’s not the Lich, Ali told herself firmly. While the magic her Kobold summoned was similar, it was substantially smaller and less powerful than what she remembered from the Lich, but she couldn’t shake the feeling that the spell was sucking at her life force as it pulsed ominously in her Kobold’s hand, in the same way that the Lich’s magic had withered the surrounding grass and trees.
+
+The bolt shot out across the battlefield and slammed into the side of the huge bone elemental, black mana tearing at the bone, decaying it to dust in an instant. A pulse of death magic rippled out from the impact, coursing through the monster and everything nearby – almost imperceptible but for her mana sight. Instantly, she witnessed the reaction of magic; Malika’s healing shone as an intense blue-white beacon within her body, followed almost instantly by the yellow-gold of her Kobold’s holy magic settling into Mato’s huge frame.
+
+“Your Death Rupture spell has the Area trait?” Ali asked. The question was somewhat redundant given the evidence she had just witnessed, but she was a little surprised by the resulting pulse of death following the magic.
+
+“Yes, Ancient Mistress,” the Kobold answered, bowing to her.
+
+So, something like a Fireball. Deathball? It didn’t look quite as strong as her Fireballs. Maybe I won’t get much use out of this, she thought.
+
+Your group has defeated Piercer Scorpion – Elemental – level 28 (Bone)
+
+Calen was already firing at the next pack of undead skeletons as they shifted a little further onto their small beachhead on the outer ring.
+
+“Why do you not attack?” Ali asked, noticing that her Death’s Acolyte was simply standing beside her again.
+
+“I cannot, Ancient Mistress,” the Kobold replied.
+
+“Why? Are you out of mana?”
+
+“No, they are undead.”
+
+“You cannot attack undead?”
+
+“My magic only damages the living. It heals the undead,” the Kobold explained, looking like it was about to cower in shame.
+
+“I see,” Ali answered. So that was it, she thought. In the chaotic charge, tearing through the buildings on the second ring, they had encountered several of these Death’s Acolytes, and the skeletons and zombies had refused to die until the Acolytes were taken care of. In the rush, she hadn’t spent a lot of time considering it, but it made sense. This Death Rupture spell was an area-damage death magic attack, that simultaneously damaged the living and healed the undead. Perfect for a dungeon like this which summoned undead.
+
+In the hands of a necromancer, this would likely be a ridiculous spell. While necromancy had been frowned upon in the scholarly circles of Dal’mohra, it seemed that it wasn’t quite as anathema then as it was in this era. It was going to prove to be quite difficult to put her newest minion to use, especially down here.
+
+On the other hand, Ali had more than enough personal reasons to fear and despise death magic, even though she could now wield it through one of her minions. And she most certainly would not be waltzing through town with one of these in tow – at least, if she valued her life.
+
+Not wanting to take the time to summon a replacement, she instructed the Acolyte to stand by whenever they had a pack of undead to fight, and even when they were fighting elementals, she was still not certain the damage was worth hitting her friends. Unless there’s a lot of them and the Area trait becomes an advantage. But then I have Fireballs and Lightning Nova Totems for that.
+
+Calen kept their pace slow and steady, favoring caution when pulling monsters as they made their way toward the first major landmark – one of the mana condensers. They even killed several Spitter Drones without the benefit of a building to hide inside – discovering that Ali’s barrier was now strong enough to block the blast of the dying bone elemental’s Corpse Explosion. Here, at least, the Death’s Acolyte proved useful, boring holes in the bone armor with its death magic and contributing to the final explosive destruction.
+
+“We’re clear to the pyramid,” Calen announced. “The mana condenser?”
+
+The hulking construct of stone loomed above them, a massive squat snub-topped pyramid that would tower over all the multi-story buildings on the second ring. It pulsed chaotically, leaking an intensely glowing viscous yellow liquid that pooled up against the base of the condenser and slowly flowed out over the edge of the ring, falling into the darkness below.
+
+“What is that stuff?” Malika asked.
+
+“I think it’s liquid mana,” Ali answered. It had taken a few moments to figure it out, but it had connected in her mind when she recalled what it was the condensers were for. This one seemed to be light affinity mana and probably had been used to literally keep the lights on in the city, and the crops growing.
+
+“Incoming!” Calen’s urgent shout snapped her attention from the condenser itself to the pools of light mana at the base. The intensity of the light made it difficult to see what exactly was moving, but her Identify had no such trouble.
+
+Luminous Slime – Ooze – level 20 (Light)Luminous Slime – Ooze – level 18 (Light)…Luminous Slime – Ooze – level 33 (Light)
+
+Ali backed up away from the brightly glowing yellow shapes that rippled and wobbled their way across the stone, clearly attracted to something about them. She summoned her barrier, having no idea what they were capable of and absolutely no desire to make herself a test subject.
+
+Mato, of course, had no such qualms, immediately charging the entire pack of slimes – each about a one-meter diameter amorphous blob that seemed to grow and extrude itself in multiple simultaneous directions just to move.
+
+“I count twenty,” Calen called out. “No, twenty-two.”
+
+Mato roared, and the entire pack of slimes shivered, pausing briefly in unison before extruding their way directly toward him. He Swiped as soon as they closed, but they instantly retaliated by blasting a conical spray of the most intensely incandescent particles Ali had ever seen. Particles that floated in the air and caught on Mato’s fur. She blinked at the afterimages that left her almost blinded even from a distance.
+
+Relying almost entirely on her mana sight, and the intensely glowing outlines of the slimes, Ali saw them attacking Malika and Mato with blobby pseudopods that extended and disappeared from their bodies, seemingly at random. Some of them were even trying to ingest parts of their bodies while simultaneously lashing out chaotically. They reacted with frenzied fervor every time Malika healed, or Mato roared.
+
+They’re blind, Ali realized, seeing Mato and Malika flailing about, barely connecting with their foes. Another incandescent spray took out her vision again – before it even had a chance to fully clear.
+
+“Fireball strategy,” Ali yelled, knowing they would all understand. With so many monsters in play, she needed to leverage her area damage magic, and for that, Mato and Malika hardly needed to see.
+
+“One, two, three, … four,” Ali counted off her Fire Mages, and at the last moment, she added her Death’s Acolyte in as the fourth slot in the rotation. Then she quickly assigned her healer Acolytes their order before she began.
+
+“Begin,” she called out in Draconic. “Drop your totems, fire at will,” she added in Goblin for her shamans.
+
+She had no idea how the Kobolds were able to still see, but the glowing mana of the first Fireball shot true, detonating in an intense concussion of red flame, followed by the deafening thump, and vibration through the stone. A wave of heat blasted out, felt even at her substantial distance. While her barrier did nothing to defend against the light attacks of the slimes, at least it could protect her from the blast.
+
+In the midst of the ball of fire magic, Malika’s blue-white glow of healing magic flashed twice. Immediately, totems landed in the center and began pulsing intense white lightning magic, vying with the conical spray of the slimes for the title of most annoyingly bright magic. Ali just gave up and closed her eyes, relying entirely on her mana sight to track the battle. Two more Fireballs detonated, punctuated with Lightning Bolts, and then the ominous pulse of death magic sealed the deal, triggering a noisy cascade of chimes in Ali’s mind.
+
+As her vision slowly cleared, Ali could make out Malika and Mato stumbling around in the midst of a quiet battlefield covered with yellow, glowing slime and gobs of still-burning flame.
+
+“You guys ok?”
+
+“Still can’t see.”
+
+“Fucking glow-slimes.”
+
+“No adds, we’re clear,” Calen called out.
+
+“Why are you not blind?” Mato groused.
+
+“It didn’t seem to affect me much,” he answered. “But my affinity is light also, so maybe that helped.”
+
+“I hate you. And you too, Ali, I barely had to lift a paw. Yawn!”
+
+Ali chuckled at Mato’s frustration while she carefully picked her way across the battlefield deconstructing everything she could find.
+
+Imprint: Toxic Slime updated to Imprint: Ooze.Variant: Luminous Slime added to Imprint: Ooze.
+
+“You just learned them, didn’t you?” Mato asked as her Grimoire sprung open to inscribe the variant update.
+
+“Yup.”
+
+“I hate you with extra sauce on top. I hate these slimes; I still can’t see anything. It’s like having the world’s worst case of sunspots.”
+
+“Here, let me heal you again, I think it might help.”
+
+***
+
+Ali stared at the ominous piles of bones and corpses that towered above them. They reminded her a little of the piles of bone up in the forest cavern, surrounding her shrine, but these were vastly larger. Around every pile, new zombies crawled, or skeletal mages and warriors crept.
+
+Ali had unsummoned her Death’s Acolyte Kobold minion to replace it with two of the new Luminous Slimes but now she was beginning to regret it. While they could fight the undead – unlike the Acolyte – she found that she had to monitor them continuously because they couldn’t follow complex instructions like her Kobolds. She had to regularly remind them not to use their blinding spray, making Mato curse grumpily every time she forgot.
+
+“Something big up ahead,” Calen cautioned, and as she rounded the corner, Ali saw what he had found.
+
+Nestled in a natural clearing between the enormous piles of bone was a scene of unholy reverence. In the center, a large prism of midnight-black stone hovered, slowly rotating in place. It bathed a surrounding group of kneeling undead in waves of dark and powerful mana. Beside the artifact, and within a surrounding circle of kneeling skeletons, two gaunt figures made obeisance on one knee, heads bowed, radiating an aura of ominous purpose and power.
+
+Is that a shrine? Although she was not close enough to study it, similarities compared to her shrine were remarkable. It was constructed with the same stone and was interacting with the domain. But it hovered more than two meters above the ground as if lording its presence over the reverent undead, and the mana and runic magic inscribed upon its surface was death and bone.
+
+“This must be the dungeon core,” Calen said, his tone quietly warning of imminent danger. “Those Wights are raid bosses, and a high level at that.”
+
+Ali snapped her attention to the two larger kneeling figures, feeling the chill of apprehension as she studied their emaciated forms.
+
+Warrior – Undead Wight – level ?? (Bone)Mage – Undead Wight – level ?? (Death)
+
+“By ‘dungeon core’ do you mean the Wights? Or the artifact?” Ali asked. “Do we even know how to destroy a dungeon?”
+
+“I’m not sure,” Calen admitted. “But there’s no more dungeon beyond here, and if we want to kill it for good, we have to defeat the last boss regardless.”
+
+“What’s the plan?” Mato asked. “We just run in and hit them?”
+
+“These are greater undead,” Malika said. “We need to be extremely careful.”
+
+Greater undead. Wights, unlike the zombies and skeletons, were a form of undead that retained their ego. Despite her mounting anxiety and trepidation, Ali studied the two undead monsters carefully. The Bone Wight’s slate gray flesh was covered by bone armor that writhed and rippled slowly with the infusion of its bone affinity mana, forming ridges and spines that slowly faded and reformed with an unsettling unlife. It had two bone swords slung across his back, and two more fastened to its armor at the waist.
+
+The Death Wight’s long wispy white hair flowed and shifted in the currents of mana, along with the tattered remains of its black robes. The energy of undeath glowed from its spectral eyes while death mana rolled out from its body in continuous waves.
+
+“What… should we do?” Ali whispered.
+
+“What can you see with your mana sight?” Calen asked. The two Wights would almost certainly come together, and so would all the skeletons. Other than telling him the Wights were raid-level threats, and undead, his Explorer skill wasn’t giving him much more to go on. If the Wights were substantially higher level than they were, there was a good chance they would need to run.
+
+Warrior – Undead Wight – level ??
+
+[Explorer]Category: Dungeon BossThreat Level: RaidMonster Type: Greater Undead, WightDamage: Physical, Bone
+
+Mage – Undead Wight – level ??
+
+[Explorer]Category: Dungeon BossThreat Level: RaidMonster Type: Greater Undead, WightDamage: Death
+
+“The Bone Wight’s mana is animating its armor and weapons,” Ali answered. Her observation clearly explained the disconcertingly ‘alive’ armor the monster was wearing.
+
+“The Death Wight is emitting an aura of death mana to a range of ten meters… uh, thirty feet.” Ali continued. Calen frowned. Likely, the aura would cause continuous damage and that might become a problem for Mato and Malika.
+
+“I think we can assume the bone one is melee and the death one is a caster,” Calen concluded. “Mato can tank the Bone Wight, and I think we should target the death one first.”
+
+“We’re going to do both at the same time?” Mato asked.
+
+“I don’t think I can separate them.”
+
+“Ok, everyone ready?”
+
+“Make sure you have a Recall Potion handy,” Malika whispered.
+
+“Ok, Mato, go, I’ll shoot the Death Wight after you engage,” Calen said. He might not be able to separate them to fight one at a time, but he could pull the Death Wight away from the skeletons and the Bone Wight so they could kill it faster. As Mato transformed, he summoned his bow and nocked an arrow, sighting down the shaft at the kneeling Death Wight.
+
+As Mato’s huge bulk slammed through the skeletons, knocking several of them sprawling, chaos erupted around the floating stone obelisk as the undead reacted to the roaring bear. The Bone Wight leapt to its feet, shouting something in a chillingly ethereal voice, and drew two swords to strike. The Death Wight turned sharply, but before it could take any action, Calen’s brilliantly shining arrow struck it in the emaciated ribs visible through the tears in its robe.
+
+A sepulchral hiss echoed all around as the Wight Mage turned to fix its dark glowing eyes on him. With withered undead lips pulled back in a grimace that revealed blackened, needle-like teeth, it levitated into the air, waving gaunt skeletal hands in the patterns of a ritual.
+
+Calen fired again, striking the hovering Wight in the leg. Several black bolts of energy burst out from the Wight as it finished its ritual, lofting up into the air and rapidly descending into the piles of bones.
+
+“It summoned more skeletons!” Ali yelled from behind.
+
+“I’ll get them,” Malika answered. Their plan was already being warped beyond recognition. Clearly, Malika couldn’t help them with a flying monster, unless he used Grappling Shot, but rounding up skeletons was an effective role given that they now knew it could summon them.
+
+Calen fired another shot. This time, the Death Wight fixed him with a malevolent stare and made a swirling gesture with its hand, seeming to pull something black and ethereal from the aether – something that let out an unending, bone-chilling scream. He identified it at once.
+
+Volatile Wraith – Undead Spirit – level ??
+
+[Explorer]Category: MinionThreat Level: NormalMonster Type: Undead SpiritDamage: DeathKnown Abilities: Incorporeal (Immune to Physical damage), Unstable
+
+Without warning, the spirit tore across the battlefield toward him as Calen fired another arrow, but his arrow passed clean through the spirit without any apparent effect, leaving him to face the very angry undead spirit bearing down on him without an effective attack. Crap, what do I –
+
+Barely had the thought begun to form when a golden glowing barrier snapped into place and the spirit slammed into it, bouncing off. With an extraordinary burst of speed, the translucent death spirit dodged around the barrier, lashing at him viciously. Some part of it hit his arm, but instead of a tactile contact, it passed right through his flesh with a sharp biting pain, leaving the area partially numb. It wheeled about for another pass, bouncing off a new barrier as Ali strove to block the spirit. As it zipped around the barrier, Calen dodged. Then, he found himself dodging again twice more in quick succession as the nimble spirit darted back and forth keeping up with his evasive maneuvers.
+
+It bit him again, this time passing through his calf and making him stumble from the sudden brief numbness. He dodged back and tried to shoot again, trying to shake off the uncanny chill, but once again his arrow passed harmlessly through the wraith. With his next arrow, the wraith froze, shivering in place while its howling scream intensified. Did I hit it? The shivering intensified to a pulse and then it exploded, darkness blasting outward in a surge of pain as the energy passed right through him.
+
+You have been afflicted with Life Drain.Maximum health is reduced by 1%Affliction. Count: 1
+
+Argh, that wasn’t pretty. Calen shuddered in horror at the sensation of having his life force ripped from him in an explosion of undeath. There’s a reason for that Raid-level threat, right? Deliberately, he clenched his fists as he stared upwards, deep in thought.
+
+Flying high above him in the darkness, the Death Wight’s sinister laughter echoed through the whole battlefield as its hands began once again to move in the pattern of its summoning ritual.
+
+---------
+
+This story is available at https://www.patreon.com/DungeonOfKnowledge

@@ -1,0 +1,129 @@
+---
+id: 5d266944-f5c4-5739-9d8b-90432b5a1fd0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 258: Tol’brekk and the Temple of Blood (Part 1)"
+slug: 0290-chapter-258-tol-brekk-and-the-temple-of-blood-part-1
+partOf: dungeon-of-knowledge-complete
+position: 290
+ownLength: 2082
+unit: words
+ownProgress: 2082
+publishedAt: 2025-05-25
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2304575/chapter-258-tolbrekk-and-the-temple-of-blood-part"
+royalRoadId: "2304575"
+markedReadAt: "2026-06-29T20:21:05.264Z"
+---
+
+Death is not the end, but the beginning.
+
+- Nevyn Eld, The Blind Lich.
+
+“The Temple of Blood,” Ali murmured, gazing at the summit of Aman Rak using the peerless draconic vision of one of her Armored Drakes. The entire temple was ringed by a low, decorative stone wall with a large gate standing open as if inviting them to enter. Several sloped-roof ancient stone buildings clustered around the open courtyard of hard-packed dirt. Compared to the typical Aman Rak construction, these had clearly been the work of some ancient master artisan, and even now, the walls were clear of moss and their vibrant, crimson-painted roofs had been well-maintained over the centuries. Given the generally poor quality of most of the construction she had encountered so far, the Temple of Blood seemed to stand out as much more important – a place of permanence, a presence of significance for the culture of the trolls that had made this their home.
+
+Strewn about the courtyard, like the aftermath of a toddler’s tantrum, were the bones of countless trolls and other unidentifiable creatures and beings – and towering above the mess were a half dozen huge Grim Totems topped with the enormous skulls of the giant trolls. The huge protruding tusks had been decorated with garish warpaint and adorned with ribbons of cloth or leather that fluttered gaily in the fitful breeze. Despite the lack of an altar, glowing blue Soulshade Blossoms sprouted in clumps everywhere.
+
+Dozens of troll prisoners – many already slumped unmoving against their bindings – were tied, stapled, or impaled to various poles and walls around the courtyard with a gruesome casualness, as if they were pinned or bound to whatever had seemed the most convenient at the time. There was even a giant troll hanging from a giant, four-meter-long impaling spear that pinned it to a massive tree near the back; clearly already long dead, of interest only to the cloud of flies buzzing around its body.
+
+Ali choked the bile down as her stomach rebelled.
+
+“Fuagh, that reeks,” Mato said, wrinkling his nose.
+
+Arching above the entire Temple of Blood, the runes of death magic tracing out the now-familiar barrier formed a nearly invisible partial dome-like roof that pulsed and flickered with a hungering decay.
+
+“There he is,” Calen said, his voice subdued.
+
+In the very center of the courtyard stood a singular giant troll – a being of unnaturally huge stature and power, even compared to the dozens of berserker trolls they had defeated as they clawed their way to the top of the mountain. Two well-used greataxes hung upon his back, uncharacteristically fashioned of bloodsteel with dark crimson runes etched into each haft, flush with the dense mana of the dungeon’s domain. In front of the central building, an all too familiar prism of black stone hovered above the ground, shining with ominous glowing runic magic.
+
+“The Lich’s shrine,” Ali identified it instantly. Huge ropes of coiled mana connected the artificial stone artifact with the massive troll standing before it.
+
+Tol’brekk [The Crimson Blade of Carnage] – Giant Troll – level 100 (Blood)
+
+“Tol’brekk, once the supreme troll in all of Aman Rak, reduced to a mere slave to one of the Blind Lich’s dungeons by pride and the slippery tongue of the betrayer, Joraa,” Zor’kan murmured from beside Ali. He spat eloquently on the ground. “You have a lot to answer for.” Then he turned to Ali and said, “May the ancestral spirits guide you in this battle. Should you prevail, you will have my eternal gratitude.”
+
+“Thank you, Zor’kan. We will do our best,” Ali replied, and she meant it. The proud troll had given them everything he could – items fashioned to make Calen and Mato stronger and a wealth of information to help them formulate a strategy against the monstrous troll that now stood before them.
+
+Zor’kan bowed, and before leaving he added, “The old Troll wearing the axe through his chest is Val’korr, the Seeker. Gara would be most grateful if you find a way to save her mentor.” The troll he indicated was the oldest troll Ali had ever seen, his head drooping over a body mutilated by fire and the giant berserker greataxe pinning him to a stone wall as if some huge creature had used him as a target for an axe-throwing exercise. But Ali could tell it would not just be Gara who would appreciate it.
+
+“What’s the plan?” Ali asked.
+
+“He’s not a raid boss,” Calen said, sounding shocked.
+
+Ali turned to regard the giant troll again, seeing that Calen’s assessment was indeed true. Somehow, even though every single champion throughout the Temple of Aman Rak had been a full raid boss with a raid domain enhancement, Tol’brekk was clearly empowered by a boss domain enhancement. She puzzled over it for a moment, but she couldn’t come up with anything remotely plausible to explain the anomaly.
+
+“He is level one hundred, though,” Calen said. “I can’t tell if he’s completed his class evolution yet. If he has, he will be by far the most dangerous boss we’ve fought. Everything I’ve ever been taught agrees that the jump in power when a combat class evolves is very steep. If anything, we should treat him as more dangerous than any raid boss we’ve faced so far.”
+
+Ali gulped down the rising fear. Of their group, only Calen had faced an evolved monster, and by his own account, he had hidden behind Lyeneru the entire time. This time they would be on their own.
+
+“Any other dangers?” Malika asked.
+
+“I don’t see any trolls other than the prisoners,” Calen said. “We should probably assume he has the usual berserker skills and adjust as we figure out what additional powers he gets from the domain after we engage. We should be prepared to run if necessary – does everyone have an escape potion ready?”
+
+“Yes,” Malika said.
+
+Mato growled affirmatively.
+
+“I do, and I gave one to Zor’kan just in case,” Ali said, adding her confirmation to that of her friends. Escape was never a guarantee, but at least it was some sense of security that they were properly prepared. However, she was certain that the lonely leatherworker making his way out of the danger zone with a proud spine would not use the escape option she had provided; if they failed here, Zor’kan would undoubtedly try to kill Tol’brekk himself and die in the attempt.
+
+“I’ll try to tank him up against that building in the center, so I don’t have to fly,” Mato said.
+
+“But you fly so elegantly,” Malika deadpanned.
+
+“Pfft,” Mato snorted.
+
+“Ali, keep an eye on his domain magic, and be ready to pick up any adds if he has a summoning ability,” Calen said.
+
+“Got it,” Ali said, and then checked her minions one last time, making sure she was happy with her choices and adjustments.
+
+Armored Drake – Dragon – level 78 (Fire) x2Hellfire Imp – Demon – level 55 (Hellfire) x4Abyssal Stalker – Demonic Spider – level 45 (Blood) x2Bone Warrior – Troll – level 79-81 (Bone) x3Blood Shaman – Troll – level 88-92 (Blood) x3Ice Mage – Troll – level 83-85 (Ice) x3Witchdoctor – Troll – level 87 (Soul)Blood Berserker – Giant Troll – level 91 (Blood) x2
+
+Ali hesitated for a moment, debating if she could get away with bringing some Hellfire Wargs to the fray. With the number of imps she was bringing and Calen’s bow, there would be more than enough hellfire flying around to eke every advantage out of their once-daily powerful self-resurrection ability. On the other hand, they were primarily melee-range fighters in the low fifties without stealth or heavy armor – against a level one hundred domain-empowered berserker troll, they would be instantly pasted at best, persistent mana soaks for the healers at worst. Every time her minions had been wiped out, she had responded by resummoning them at the highest level she could manage. It had been a lesson she had learned here in Aman Rak – bringing more monsters was not nearly as effective as having fewer monsters of higher level. She was taking enough of a risk bringing imps and stalkers for this fight due to them being half the level of the boss, but, in the end, she decided she could afford the mana for a little more versatility.
+
+While she couldn’t level her minions up, this dungeon had provided several very high-level imprints – especially when she had deconstructed the champions. Now, every time her own class leveled up, she gained access to more powerful versions – which was almost as good. For one thing, her highest-level Ice Mages had finally surpassed the base intelligence of her Hellfire Imps, and she immediately swapped her Empowered Summoner over for a small increase in her attributes.
+
+It’ll have to be enough, she decided. Her current arrangement had her strongest, most powerful minions, but still left a healthy amount of mana free for her to act during the battle. She floated up the last stretch of road with her minions arrayed in front of her.
+
+As soon as they entered the open courtyard, Tol’brekk turned to face them. Reaching over his shoulder to grip an axe, he drew it in a swinging circular arc around his body, creating a whistling noise in the air. In a subterranean bass rumble, he roared:
+
+“Let wizards chant their brittle charms,
+
+and scholars flinch from death’s alarms.
+
+For blood and muscle, raw and true,
+
+outlast the spells they barely knew.
+
+Your whispered words, mere empty air;
+
+face me, worms, if you dare!”
+
+A subtle prickle and vibration wormed its way into Ali’s mind to be shattered against the bulwark of her wisdom the instant she recognized the attack. “Taunt!” she shouted, clamping down on the minds of her troll mages, warriors, and berserkers as they suddenly surged with unreasonable bloodthirst.
+
+Calen’s bow sprang into his hands with a set of glowing arrows already nocked, but Malika took one step and slapped him across the cheek, twin flashes of Soul Strike and Healing Mantra flickering in rapid succession.
+
+“Ow! What… uh, thanks,” Calen said, his face a comical shift from anger to sudden realization as Malika’s Touch of Clarity brought him back to his senses.
+
+“You’re welcome,” Malika said.
+
+Mato’s thundering roar rose to challenge the monumental troll’s battle poetry as he and Ali’s melee forces rushed out into the courtyard. Tol’brekk grunted and leapt into the air, soaring through the bright, clear blue sky to come crashing down among them. Two of the Bone Warriors were not quick enough to avoid the crash of his impact and went sailing over the low wall and into the trees beyond. Mato roared and tore bloody gashes across his thigh with claws that trailed the black void mana of Azryet’s blessing.
+
+The crimson droplets of blood reached the zenith of their arc, hesitating for a moment as the blood magic users wrestled for control of the potent resource. Thin strands flew out to anoint the greataxes of Ali’s berserkers and the shields of her shamans, but the vast bulk of the blood coiled around Tol’brekk’s vicious-looking bloodsteel weapons, causing the runes to glow with power, and the blade to become stained with blood.
+
+“Careful. Mato’s only hit him once,” Calen said.
+
+Ali held back, protecting herself behind a solid barrier, and kept her minions restrained to light damage while Mato fought for control and position. A guttural shout echoed across the courtyard followed by the whistle of a greataxe and Mato went flying across the courtyard, slamming into the wall of a building, the impact imprinting a radial spiderweb of cracks on the stone wall before he fell to the ground.
+
+At once, Tol’brekk followed with a huge leap, swinging both axes as he roared, “I will have your blood!”
+
+“Shit!” Malika said and vanished, appearing beside the downed bear with a flicker of healing magic.
+
+“Go!” Ali shouted, urging her shamans to charge closer and provide more healing. There was no way Mato could face the boss berserker by himself. The ground shook as the giant troll crashed down with both axes cleaving in brutal, slicing arcs, but Ali couldn’t help noticing how, even with the chaos of the opening attacks, and being smashed flying, Mato had still managed to place the boss exactly where he said he would.
+
+“His position is good,” Calen said.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

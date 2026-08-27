@@ -1,0 +1,303 @@
+---
+id: d85813fe-e1de-54bf-b11c-22bb1a095f1f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 113: Minion Studies"
+slug: 0114-chapter-113-minion-studies
+partOf: dungeon-of-knowledge-complete
+position: 114
+ownLength: 5271
+unit: words
+ownProgress: 5271
+publishedAt: 2024-08-15
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1759618/chapter-113-minion-studies"
+royalRoadId: "1759618"
+markedReadAt: "2026-06-29T20:14:51.373Z"
+---
+
+Ali stayed up well past dinner, experimenting with her new imprints. She hadn’t gained a level for the last fight, but she had the sense that she was quite close, now. On the other hand, her Grimoire had grown substantially – she had learned several important things from the fight at the nature affinity spawning pool and the bamboo forest they had explored before that.
+
+Variant: Living Bamboo added to Imprint: Grass.Variant: Bamboo Crawler added to Imprint: Elemental, Grass.Variant: Toxic Spitter added to Imprint: Ooze.
+
+Not to mention she had added several higher-level variations of the Toxic Slime and deconstructed a level fifty Forest Guardian. I just hope that comes in useful, she thought. Her Grimoire had added a lot of runes in response, but it was hard to test just how much the imprint had updated without being high enough level to summon the variant directly.
+
+The most curious, however, was the strange notification that the Bamboo Crawler had been added to both the Elemental and the Grass imprints. How that had been achieved, exactly, was quite baffling – unless she was very much mistaken, the exact same pages were shown in both chapters.
+
+“I need to pick up some fresh fruit and vegetables from the market,” Mato said, walking around and collecting the dirty plates and utensils and stacking them up in the Cleanse circle.
+
+“Thanks, Mato,” Ali said, handing him hers. “I want to study my Grimoire. I got a lot of interesting new things to test out.”
+
+“Oh, I want to help with that,” Mato said, frowning.
+
+“I can buy stuff,” Calen said. “Just give me a list.”
+
+“Do you know how to tell the difference between fresh and rotten veggies?” Mato teased.
+
+“I think I can manage,” Calen said. “It’s just a bunch of green stuff, right? How hard could it be?”
+
+The Beastkin gave off his most disgusted huff.
+
+“I can go with him and help,” Malika said. “I want to check in with Weldin anyway, see his reaction.”
+
+After cleaning up a little around the shrine, and taking care of the fire, Calen and Malika headed up to town and Mato turned back to Ali.
+
+“Ok, what you got first?” he asked.
+
+“Bamboo,” Ali said, paging through her Grimoire to the grass chapter.
+
+“That Living Bamboo from the jungle? I knew grass would be a useful imprint for you,” Mato said. “Where do you want to start?”
+
+“Malika wanted a spot for meditation,” Ali mused, looking around. “Maybe off to the side here? Starting at the edge of the Grove and going out a bit to the north?”
+
+“That’s a good idea, you have a lot of unclaimed space out in that direction,” Mato nodded. “And it should offset the trees nicely.”
+
+“Mhm,” Ali said, leading him to the spot. In a gap in the loose circle of trees around the Grove, she began to summon her new Living Bamboo imprint. Mato kept his comments to a few suggestions so she could focus, and her mana began to flow. Minutes passed as giant stems sprouted from the ground; more and more appearing under the influence of her sparkling magic as she expanded the growing stand of giant bamboo.
+
+“That looks pretty good, Ali,” Mato said after nearly half an hour of work.
+
+“You think Malika will like this?” Ali asked, wiping her brow with a sleeve.
+
+“For sure,” Mato said. “Listen to how still it feels in here.”
+
+“It does feel a little like that forest,” Ali agreed, pausing to study her creation. It didn’t surprise her to find the Living Bamboo beginning to draw in ambient mana from the rock below, smoothing and changing it into the characteristic flow that had stood out so clearly in the jungle. What shocked her was the amount.
+
+The Living Bamboo was entirely unlike her other trees in that it was generating nature-affinity mana instead of just spreading her existing domain over a wider area, and so the first thing she noticed was the opposite of mana attenuation. In this new area, the heavy presence of dense mana being generated cradled her skin in a soothing flow, like floating in a warm bath, but one that held hints of new shoots and the promise of growth.
+
+“Is it working?” Mato asked.
+
+“Oh, yes,” Ali said, following the vast upwelling through the stems. “There’s no comparison to the Verdant Moss.” The volume of mana flowing up through the tall bamboo stems defied explanation, launched skyward in a powerful but smooth flow, only to rain down on them from above as it merged into her domain.
+
+“Nice!”
+
+“I need to put this stuff everywhere,” Ali said. It would serve as a far higher-level backbone for her domain – at least the nature-affinity part. Placing clumps of Living Bamboo to fill in the gaps with her other plants should dramatically increase the speed with which she could develop her domain.
+
+“Why not continue to the north and west?” Mato suggested.
+
+“That’s a good idea,” Ali nodded. “I want to claim everything up to the entrance hallway that we escaped through.” She couldn’t forget how she had wrecked so much of the Ruins of Dal’mohra bone-affinity domain by deconstructing a critical bottleneck in the library. Creating multiple connections to the ruins sounded far more robust to her.
+
+“Good idea,” he agreed.
+
+She spent a couple of hours claiming everything in the area with bamboo, stopping only when she reached the passage downward and she could no longer fit the giant bamboo stems in without running into the rock overhead.
+
+“What else did you get?” Mato asked as they returned to the shrine.
+
+“I got those dragonets,” Ali said.
+
+“Oh yes, let’s see them!” Mato said, grinning widely.
+
+“Here’s your shopping, Mato,” Calen said, offering several bags of groceries.
+
+“Thanks!”
+
+“Oh, hi, Calen,” Ali said. “Is Malika back too?”
+
+“She’s already meditating in your new bamboo forest,” he said, nodding toward the new growth she had created.
+
+“Ok.” Ali decided not to disturb her, instead feeding mana into her imprint.
+
+Luminous Dragonet – Dragon – level 2 (Light) Swarm x9.Your reserved mana has increased by +5.
+
+The flight of tiny yellow-gold dragons took to the air in a flurry of shining scales, wings, and cute screeches, zipping around the nearby bamboo stalks in a graceful display of dexterous antics.
+
+“Look at them go!” Mato exclaimed. “Maybe they can keep the Grove clear of bugs for us.”
+
+“Not very useful for combat,” Ali admitted ruefully. “But they only cost five mana for nine level-two creatures.”
+
+“They’re pretty,” Calen said, admiring their aerial acrobatics.
+
+“I got some more monsters too,” Ali said, pursing her lips in thought as she paged through her Grimoire. The elemental imprint chapter had long been a source of much frustration for her, but she finally had a viable elemental she could summon. And what a monster it was – the Forest Guardian was so much more than just a sentimental summon – its aura had kept her friends and minions alive while being swarmed by hundreds of slimes. The chapter had accumulated quite a few interesting variants, but she decided to put off studying them for another day.
+
+“What else did you get?” Mato asked, perking up.
+
+“Um… the Toxic Spitter ooze, but I need to level up before I can summon that,” she said. “Moss Creeper, Floral Menace, and Spore Spreader. Oh, and the Bamboo Crawler.” Each one of the monsters had been a unique challenge, or a pain in the ass at some point during their explorations underground.
+
+“I like the Moss Creepers,” Mato said.
+
+“I don’t know if they’ll be useful, though,” Ali admitted, flipping the pages to the moss imprint.
+
+“Maybe they can help with the ecosystem?” Mato asked. “Let’s see it.”
+
+“Ok,” Ali said, obliging him by beginning to summon a Moss Creeper. It was one of the stranger monsters she had learned. They hadn’t provided much of a challenge, nor displayed any particularly interesting abilities. “Maybe my expectations are too high,” she said.
+
+“What do you mean?”
+
+“Well, it’s an animated pile of moss…”
+
+As her magic formed, assembling tiny threads of runic script and floating them off the pages, Sage of Learning suddenly twisted, making off with a sizeable chunk of her mana.
+
+“Urk…” she grunted, inelegantly. It wasn’t painful, exactly – but the discomfort of having her mana wrenched from her was unexpected. What was that? She hadn’t exactly been paying close attention to her magic as it unfolded, but there was something strange in the spell construction. Something like a hole – the space before the last piece of the jigsaw puzzle was fitted – and it plucked at her memories like something familiar she had recently forgotten.
+
+The Moss Creeper scampered about on the ground before her, looking surprisingly cute for a mound of green moss with teeth.
+
+“Everything ok?” Calen asked, his hand already tightening around his bow in concern.
+
+“Yes… just – there was something odd about the spell,” Ali admitted. Now that her curiosity had been piqued, she had to figure it out. “I’m going to try again.” This time she fed mana to Sage of Learning deliberately and then summoned another Moss Creeper focusing her attention on the runic spell formations as they unfolded before her eyes.
+
+About halfway through, she felt it again; the sensation of something hollow, like the outline of something. Sage of Learning again gobbled up a healthy chunk of mana, filling her mind with tantalizing glimpses of ideas, but in the end, it fell short of making the connection for her.
+
+I’m missing a puzzle piece. I just wish I could see what it’s supposed to look like. Something definitely goes there… But no matter how much she worried at it, nothing sprang to mind. Still curious, she decided to summon another, narrowing her focus to just the anomaly.
+
+The magical formations assembled, and Ali deliberately cleared her mind in an attempt to prevent herself from jumping to conclusions. If her mind was open for observation, perhaps she might notice something new. Sage of Learning did its best to distract her by pulling on her mana, so she ignored it explicitly by focusing instead on the shape of the runic spells, leaning on her Runic Script skill to interpret some of the key runes whipping by her eyes.
+
+So familiar, she thought, racking her brain to figure out where she had seen it before.
+
+“What’s it doing?” Calen asked, as her newly summoned Moss Creeper clambered up the trunk of a tree, dragging itself slowly across the bark.
+
+“They grow moss on things,” Mato said. And as he said it, formations of nature magic sprang up within the animated ball of moss. Formations she recognized.
+
+“That’s it!” she exclaimed. It was just like the way her Grimoire summoned moss. Riding a wave of excitement at the discovery, she poured her mana into her imprint, summoning some Verdant Moss, all the while comparing her magic to the formations the Moss Creeper used.
+
+It’s not quite the same, she decided. Her magic seemed substantially more complex, and it was only when she chose a simpler variant that the similarities clicked. It made sense, though, her Grimoire was a general summoning tool, and the magic of the Moss Creeper seemed highly specialized; a spell specifically tailored for summoning moss. It matched some of her mundane moss variants quite closely.
+
+Excited by her discovery, she studied her moss imprint. Embedded right there in the Moss Creeper’s magic was a pattern that looked like a shadow outline of the basic moss imprint itself. It wasn’t a particularly good explanation, but she knew what she was seeing.
+
+Is that one of the monster’s skills?
+
+Suddenly recalling Malika’s calligraphy workbook, an idea occurred to her that she immediately had to test. She summoned a new Moss Creeper, but this time, when she perceived the magical gap, she bent the magic just slightly with her Customization, injecting several alterations with her Runic Script skill. With surprisingly little effort, the entire structure clicked together, somehow linking it back to her imprint.
+
+Sage of Learning has reached level 17.
+
+What did that do?
+
+There was nothing obviously different about the fuzzy clump of green moss capering around on the ground next to her, but she had definitely altered something about its construction. She had done something different – and more than that, her Grimoire had updated, suggesting that she could choose the modified variant in the future.
+
+“Go do something…” She sent a mental nudge to the small creature, permitting it to do whatever it wanted. Perking up immediately, the creature looked at her briefly, or seemed to – it didn’t have eyes – and then scampered off to a nearby tree with an air of energy and excitement very much at odds with its usual slothful movement.
+
+Ali stared in amazement as a nature magic formation appeared within the creature – a formation she recognized as mimicking her moss imprint. There was a sympathetic surge of energy from her Grimoire as the magic flared and completed, and suddenly there was a patch of moss under the creature.
+
+Verdant Moss – level 3 (Nature)
+
+That’s a moss from my imprint. Ali was pretty sure that the Moss Creepers in the jungle had not been able to make this variant – the monster had chosen it from among her variants and created it with its skill.
+
+But the surprises kept coming. As Ali studied the newly created moss, she saw the familiar stirring of mana as the green swathe stuck to the tree automatically hooked itself into her domain, beginning to emit nature affinity mana to bolster her magic.
+
+This little guy is creating my domain…
+
+Ali walked over to where it was bouncing gently as if proud of its creation, and excited that she was interested in seeing it. She crouched down, petting the tiny monster while she studied the moss it had made. It really is making my domain.
+
+“What did it do?” Mato asked, joining her in studying the moss. “That looks like your moss.”
+
+“I made it use my moss imprint; now it’s expanding my domain for me,” Ali said, and as the words came out, she realized just how much this changed for her. It didn’t surprise her that the nature-affinity monsters had magic or skills that could grow or influence plants – that was a common feature of nature magic. What surprised her was that she could link the moss summoning skill from this monster to all the moss imprints in her Grimoire – and they would be summoned as if she had personally summoned it, linked to her class’s domain.
+
+“That’s… impressive,” Calen said. “Will its repertoire grow if you add new variants?”
+
+“I think so,” Ali said. It was not something she had immediately thought of, but there seemed to be no reason why it wouldn’t work the way Calen thought.
+
+She sat for a while watching the mana-generating moss while the little monster happily crooned as she petted it. “Ok, go make some more,” she said, sending her thoughts to her little Moss Creeper as a quick montage of emotions and images, more intent than language. The tiny creature bounced up and down briefly, before scampering off and summoning its magic by another tree, seemingly excited and happy to have a purpose. Ali watched its antics for a few moments and then got to work, summoning a half dozen new Moss Creepers. Adding her customization was as easy as selecting the variant from her imprint, and soon she had an army of little moss monsters creating various mosses from her imprints. Some of them created feather mosses in the trees and one even scampered off into her stand of Radiant Larches, summoning the Glow Moss she had learned near the light affinity spawning pool.
+
+“That’s fantastic,” Mato said. “Now you can fill out the gaps with lots of variety. I can ask Basil for more varieties of moss!” Somehow Mato seemed just as excited about this new development as she was.
+
+Ali’s attention returned to her Grimoire. When she had first learned the strange monsters of the jungle, she had noticed marked similarities in construction and behavior – something she attributed to the fact they were all plant-based monsters. But now she was certain she had been reacting to the similarity in the formations of their summoning skills.
+
+Her discovery with the Moss Creeper had planted the idea in her brain, and now she needed to see how far it went. With her Grimoire open to the wildflower imprint, she began to summon a Floral Menace, activating Sage of Learning to help study the magical patterns. When the moment arrived, she caught the pattern again. It was at once similar to the skill of the Moss Creeper, and yet it exhibited some profound differences. Prepared in advance by her earlier experience, she caught the magic and bent it with her Customization, twisting the Floral Menace till she felt the same click of her magic connecting back to her Grimoire. The pages flared as the new variant was created.
+
+“Can you make me some flowers?” she asked. The gnarled woody creature flared its scruff of pink petals, hissed, and scampered away onto a clear spot of mossy ground. Its magic flared within it, creating the formation Ali was expecting to see, and then, in a surprisingly short time, the monster created a broad patch of delicate mystic bluebells.
+
+“It worked!” Ali exclaimed, happy to see the softly shifting mana patterns of the divination affinity flowers.
+
+“Wow, there’s no stopping you now!” Mato chuckled.
+
+Malika giggled, “Look, the flowers are so pretty!”
+
+“Wait for my next trick!” Ali laughed. She repeated the process, this time with the Spore Spreader mushroom monster, linking it to her mushroom imprint with surprisingly little effort. Of course, it was the third time, and her understanding of the process helped her immensely.
+
+It works! The new plant monsters were not particularly high level, and so they didn’t cost a lot of reserved mana, but that meant they were limited to the lowest level variants in her Grimoire. Like her own skills, it seemed they could only summon something lower level than themselves. Still, it was an incredible boon and Ali spent quite some time summoning monsters and sending them out on a mission to fill in her domain throughout the giant cavern. She impressed on the Spore Spreaders and the Moss Creepers that she preferred her nature and arcane variants, but other than that she left everything up to their whims, trusting that it would probably end up more natural that way.
+
+“Got any more?” Mato asked.
+
+“Just the Bamboo Crawler…” Ali said, paging through her Grimoire and stopping at the Grass imprint. Excited by her success so far, she summoned one, but the magical ‘gap’ she had been expecting never materialized. Instead, she observed a torrent of unfamiliar runic structure that would probably take a long time of study to unravel.
+
+She looked at the giant bamboo stick-insect monster curiously. “Grow something,” she instructed, but it simply shifted back and forth uncomfortably before turning and shooting a needle of wood at a nearby tree and turning back to her.
+
+“I guess these don’t have a plant-summoning skill?” Ali said, studying the monster carefully.
+
+“These seemed to be more like assassins or snipers in function,” Calen said, nodding sagely.
+
+She was going to have to plant her bamboo and blue mana grass manually. But that didn’t seem to be much of an issue; she could delegate three types of her plants now, and that already was an enormous improvement.
+
+“Go guard that bamboo stand,” she said and watched it scurry off to the Living Bamboo glade she had created earlier, vanishing from her sight as soon as it entered the area. “Err… don’t shoot Malika,” she added.
+
+She sat quietly, reflecting on all her new minions and options when her notification chimed entirely unexpectedly.
+
+Requirements met for skill advancement.Martial Insight has surpassed level 20.Intelligence has surpassed 180.Perception has surpassed 75.Three Perception skills have surpassed level 15.Summoned minions with more than five unique perception skills.Used a Perception skill to modify a minion.Survived combat in the dark.Avoided an Ambush attack with the perception of a minion. Martial Insight gains Remote Perception.Martial Insight gains the Intelligence trait.Martial Insight – level 23Your mana empowering your summoned creatures now carries your accumulated experience. Your creatures gain +70.6% [40 + skill + perception / 10] to combat abilities. Martial Insight only gains experience when you observe your minions’ combat.Mana: You can use the perception skills of your minions. Higher intelligence allows you to use more sources of perception simultaneously.Nature, Minion, Mastery, Perception, IntelligenceAccept this advancement?
+
+“Ooh! I got a skill advancement!” she exclaimed. She had just been messing around with her Grimoire and her new imprints – she had certainly not been expecting to earn a skill advancement for that. Advancements came after challenging combat – most often when she had had to do something unusual.
+
+“Which one?” Calen asked.
+
+“Martial Insight. I can use my minions’ perception skills.” She shared the changes with them.
+
+Some of the requirements to unlock this advancement seemed to be related to her immediate activities. Sage of Learning had just hit seventeen when she discovered how to modify the Moss Creeper – likely the event that counted as the requirement for using a perception skill to modify a minion. She had been using both Sage of Learning and Arcane Insight at the time. For the requirement that she summon minions with at least five unique perception skills, she was certain her oozes possessed nonstandard perception skills. She also had an elemental, a healer, and mages – minions that most likely had special perception skills.
+
+Two of her requirements seemed to have been drawn from her old experience when she and Mato had fallen into the Ruins of Dal’mohra. She shuddered, recalling how close she had come to dying – she had been heavily withdrawn, and without her wolf sensing the invisible Kobold rogue and warning her, she would not have blocked the Ambush. Perhaps the wolf has a scent skill? Or a perception enhancement? She had to admit that the minion perceptions requirement had presented her with an interesting puzzle, and she was curious to figure out which ones were contributing to that.
+
+I guess I can just take the advancement and check, she thought. But do I want it? If she took this one, it would commit to a path that potentially closed off other avenues for growth. If she skipped it, she could potentially earn something else pretty soon. But it’s a perception skill. Martial Insight had been the lifeline she had clung to when she was scared in the darkness of the ruins of her home, now seemingly so long ago. Its versatility had saved her then, and countless times since.
+
+“That seems excellent,” Calen said. “You can grow your options by filling your Grimoire.”
+
+“That’s a good point,” Ali said, considering it. I’m so glad I chose this skill. It required work to train herself for each of her minions’ combat styles, but it was the versatility she had come to rely on, not so much the power. This advancement seemed all about versatility. It wasn’t a huge power boost in combat, but she would be able to scout better, and maybe learn to recognize more dangers. Her role in many fights was to learn the dangerous magics and warn her friends or take appropriate actions in response. Knowledge is power. Arcane Insight had unlocked her abilities in combat, and for study, and now she was being offered the ability to get any perception skill she could encounter from a monster. How much will that improve my knowledge and magic?
+
+The thought filled her with excitement and banished her doubts. She accepted the advancement. The chime sounded, but nothing much changed.
+
+“Come over here,” she called out to one of her Kobold Fire Mages.
+
+“Yes, Ancient Mistress,” the Kobold answered, stepping up and waiting patiently beside her.
+
+She concentrated on her new skill advancement. With just a little infusion of mana, she was subjected to a sudden, disorienting snap. The entire Grove shifted sideways, and she found herself staring at herself sitting on the ground from the perspective of the Kobold.
+
+Whoa, that’s weird.
+
+Her second thought was that she needed to visit Lydia again. There were some unnoticed scorch marks and tears in her Tailored Cotton Clothing that she had missed. With a quick pulse of mana, she activated the self-repair enchantment, restoring it to pristine condition once again, but her armor was still only level twenty-five and she had reached forty already.
+
+“How is it?” Mato asked, walking into view, and peering at her curiously. A thoroughly disconcerting experience, considering he was looking at her body, and she was watching both of them from a third point of view.
+
+“Very odd,” she answered, fascinated by the ability to watch her own mouth move as she spoke.
+
+She glanced around curiously, using the eyes of her Kobold minion. The cavern was far less vibrant, all the colors, and even the light seeming desaturated, lending a gray cast to the world. However, her perception of detail was dramatically heightened; she could make out many details her own eyes were simply not powerful enough to resolve or see in the dim light.
+
+“Do Kobolds have dark vision or something?” she asked.
+
+“I believe so,” Calen said.
+
+Ali released the disorienting third-person vision, feeling her awareness snap back into her own body once again. Does that count as one of the minion perception skills? She was still curious to unravel the mystery, but some of them seemed obvious. She called one of her Scalding Slimes to her, expecting something a little different from a monster that had no obvious sensory organs.
+
+She used her Martial Insight, focusing on the ooze monster, and suddenly everything vanished.
+
+I’m blind?
+
+It was as if she had suddenly lost the ability of vision, all the light-emitting plants had been snuffed out, plunging her into darkness. She couldn’t hear anything either. In a pang of sudden panic, she released the connection, snapping back to herself for a moment, relieved to find her sight and hearing restored.
+
+“You ok?” Mato asked, releasing his grip on her arm.
+
+Ali realized she must have staggered or wobbled. “I tried the slime, and I went blind and deaf,” she said. It must be able to perceive the world, somehow.
+
+“Try searching for some kind of tremor sense, maybe?” Calen suggested.
+
+It was her curiosity that took her back into the wobbly slime monster and kept her there, searching for how it saw the world. She endured the darkness for a while, and finally, she saw it. Or, more accurately, felt it. A pulsing sensed somewhere off outside of her body, but tactile, not seen. The experience reminded her most closely of how intense mana prickled along her skin sometimes. There’s another, she realized as the pulsing resolved into a second distinct source. And then several more, and her mind finally began making sense of it. The closest one was the one that triggered her understanding. That’s… my heartbeat.
+
+I can feel everyone’s heart beating. It was an utterly alien sense that she finally deduced was related to the vibrations carried through the ground, but sensitive enough to exactly pinpoint the location of her friends nearby. Struggling to get it right the first couple of tries because she was separated from her own senses, she tapped the ground with her hand, and instantly the action exploded across her borrowed senses as a powerful tactile and positional feeling. She tried speaking, only to experience a sense like a gritty wind rubbing against her body. Sound vibrations?
+
+But there was more. Around each pulsing heart, she sensed a feeling of warmth that seemed distinct from the vibration sense. Curious to test it, she sent her slime moving forward to where the campfire embers still glowed, finding the same warmth sensation growing stronger and stronger – and this time not attached to the pulse of heartbeats.
+
+That will take a lot to get used to. Its entire mode of perception seemed to be analogous to proprioception and touch, locating objects by the vibrations they made, or the felt sense of heat. It was an unquestionably unique perception and in a flash of inspiration, she suddenly understood several of the more bizarre mannerisms Naia had demonstrated.
+
+I think she could see mana though, Ali thought, recalling her interactions with the mimic slime as she released her connection to her own Scalding Slime. She would have to check them all; she had a hunch that the heat perception was related to the Scalding Slime’s highly specialized steam affinity. “That has to be the strangest thing I’ve experienced,” she admitted.
+
+“How so?”
+
+“I could feel your heartbeat. And this slime has heat perception of some kind, too.”
+
+“Huh, interesting,” Calen said, noting it down in his notebook.
+
+I should be able to use more than one perception simultaneously, she thought, returning to the description of her newest skill advance. The question was how, or if she had enough intelligence to make it work. Trying the skill again, but with the Kobold’s much more familiar perception mode, she shifted her awareness into the mage, simultaneously trying to anchor it in her own body. What followed was a nauseating ping-pong as her awareness rapidly flipped between herself and her Kobold before she finally got the hang of it, and it stabilized.
+
+Ugh, that’s awful. She held on to her dinner, but it was a rather close call. Confronted with the disorienting experience of simultaneously viewing the world through two sets of eyes, her stomach tried its best to rebel. The worst part was that she could see herself from the viewpoint of her Kobold, and she could see her Kobold from her own normal viewpoint. Every time her mind settled on one of them as primary, it threatened to snap to that, and she had to bring it back.
+
+Moving gingerly, so as not to disturb her grumpy stomach, she turned, positioning herself so that she and the Kobold were both viewing the shrine from the same direction, and suddenly everything settled into a much more manageable and less disorienting experience. It felt a little like viewing the world through glasses with each lens tinted differently. She could ‘close’ one and see the vibrant but lower resolution version, or the other and see the grayer, higher fidelity view. If she concentrated on both, her mind more or less patched the two viewpoints together into an enhanced view that incorporated both.
+
+She released the strange skill, deciding that it would take a fair bit of practice to get the hang of it. Probably a lot more practice before she would be willing to try it in a life-or-death situation like a battle. Other than the upset stomach and the beginnings of a headache, she was quite pleased with her choice. It was already living up to her wildest hopes for versatility, and she couldn’t wait to apply it to her studies.
+
+“This is definitely going to make me more efficient with my minions,” she said. At least it wasn’t another passive skill she couldn’t turn off.
+
+“We should make a list of interesting monsters for you to collect,” Mato suggested.
+
+“Now there’s an idea!” Ali said.

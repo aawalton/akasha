@@ -1,0 +1,131 @@
+---
+id: e58a1524-f12e-5b50-bbb7-d29c50a31f31
+page-type-slug: story-chapter-royal-road
+title: "Chapter 225: The Temple of Contagion (Part 1)"
+slug: 0257-chapter-225-the-temple-of-contagion-part-1
+partOf: dungeon-of-knowledge-complete
+position: 257
+ownLength: 2601
+unit: words
+ownProgress: 2601
+publishedAt: 2025-04-17
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2209395/chapter-225-the-temple-of-contagion-part-1"
+royalRoadId: "2209395"
+markedReadAt: "2026-06-29T20:19:54.984Z"
+---
+
+Ali stood just beyond the outer limits of the pulsing death magic aura, studying the Bone Altar in what she was referring to as the Temple of Contagion in her head. With the hard-won death of Kir’vella, the ceaseless hurricane of bats had stopped, allowing the late afternoon sun to shine through into the clearing. The gentle, nurturing touch of Mato’s aura welling up from his oak leaves and branches had banished all the horrible diseases. She still chose to hover, though; the ground was a literal bloodbath, churned into knee-deep – for her – mud by the feet of ghouls and her own heavier minions, and strewn with the charred and torn corpses of countless bats.
+
+“Ali, this one’s alive,” Malika called out from over by the grim totems and the still-bubbling cauldron that continued belching foul-smelling purple smoke among the hapless prisoners. “He thinks I’m trying to kill him; can you help me?”
+
+Ali darted over to join Malika who was crouched before a struggling, bound troll. He growled and tried to bite her hand. His back was bent painfully over the bone of the grim totem by his bindings, and his many wounds seemed to have been cauterized by fire – presumably to prevent his regeneration from working, just like how they had found Gara.
+
+Troll
+
+“He’s in bad shape,” Malika said, worry welling in her eyes.
+
+“How can they be so cruel to one of their own?” Ali asked, but there was no possible answer that might make any sense at all. He doesn’t even have a class yet.
+
+Turning to the struggling, feral troll, Ali said, “She wants to help you,” trying to keep her voice as soothing and calm as possible. She couldn’t even imagine the horrors he must have endured at the hands of Kir’vella and her twisted ritual. “Will you let her touch you? She needs touch to heal you.”
+
+The Troll just glared at her, eyes filled with distrust and fear and glazed with pain.
+
+“Tarek, please?” Gara called out, panting a little from her sprint across the sea of bat corpses. At the sight of her, the troll, Tarek, relented, visibly sagging against his bonds, and Malika’s hand reached for his mangled right arm, delivering healing with a bright flash of magic.
+
+He gasped briefly, but then the rapid closing of his wounds must have reassured him that he hadn’t been betrayed as his expression wavered between shock and relief.
+
+“Gara, get him down from there,” Ali said, as Malika rushed to the next prisoner, searching for survivors. Out of the ten bound trolls, only four were still alive, quickly freed by Gara and healed by Malika before they approached the last Troll.
+
+This one had been granted special treatment. He hung from a tree, impaled through his torso with several reddish steel spikes, just like Gara had been. He stared down at them with a medley of complex emotions twisting his face.
+
+Leatherworker – Troll – level ??? (Bone)
+
+A crafter? He’s very high level. But Ali didn’t let her curiosity slow her down, quickly flying over. “I’ll get the stakes,” she said as Malika joined her, all the while, trying to ignore the daunting amount of fresh blood soaking the trunk and the ground below him.
+
+But he ignored her, leveling a glare at Gara instead. “Gara, why do you not bring Kir’mogan and the warriors from the Temple of Bone? Instead, you subordinate yourself to these lesser races, what has become of your pride? You are of Aman Rak, one of us!” Despite his bindings, he stretched himself taller, his eyes flashing with anger.
+
+She immediately dropped into a low bow at the sound of his rebuke, but she spoke with a clear voice. “Zor’kan,” she said, pausing just a moment to visibly collect herself. “Kir’mogan has betrayed Aman Rak. He and Kir’vella captured Val’korr and destroyed the shrine. It is these lesser races that rescued me from his torture.” She raised her head and looked up at him with tears brimming in her eyes, but her voice remained clear. “I am weak. I screamed when he stabbed me with the fire; I could not help it. I do not deserve to be of Aman Rak; our pride is laid waste, crushed under the heels of our betrayers.”
+
+To Ali’s surprise, the harsh lines of Zor’kan’s face softened and his eyes filled with compassion. “I screamed, too,” he admitted softly. “We all did.”
+
+Gara stared at him in disbelief for a long moment, and Ali reached out to deconstruct the steel stakes binding him to the bloody tree.
+
+Variant: Bloodsteel added to Imprint: Metal.
+
+Despite his pride, the Troll collapsed forward with a terrible groan, unable to support himself. Malika caught him, her hands surging with healing magic before she let him attempt to stand on his own.
+
+“I had hoped…” Zor’kan began, “But if they took Val’korr, it is all over.” He turned to look at Ali and Malika and then bowed low to the ground. “I owe you a blood debt of gratitude for rescuing us.”
+
+“You’re welcome, Zor’kan,” Ali said, bowing her head. Then, she left the trolls to get reacquainted and turned to Malika, gritting her teeth to prepare for what they both knew they had to do. The Bone Altar was larger than the one before, and the magic seemed more potent – no doubt the reason it was capable of raising ghouls instead of just mere zombies and skeletons. She popped a protective barrier into place and they both stepped into the aura of death.
+
+Ali screamed when she dropped her barrier to cast her deconstruction. It was not a matter of pride or willpower; the pain of having her life essence drained by the powerful death magic was overwhelming. It was all she could do to maintain enough focus to cast her spell. But, ten endless seconds later, the large altar of bone exploded into a cloud of mana that slowly dissolved away into the ambient energy of the surroundings and the pain ceased instantly.
+
+Ali sank to the ground, this time not even noticing the bloody mud puddle she landed in.
+
+When she looked up, she found Zor’kan watching her intently, standing alone in the sea of bat corpses. The others had all moved off to near the path exiting the Temple of Contagion and seemed busy setting up a campsite in the fading light of the sun setting behind the mountains.
+
+Ali clambered wearily to her feet, and as she and Malika approached, the tall Troll prostrated himself on the ground before them.
+
+“You have my blood debt,” he said. “I do not have combat skills. I offer my life, my blood, and my bone. I implore you, please slay these betrayers who have trampled the honor of Aman Rak. Drive them screaming and broken from these sacred lands.”
+
+Ali gaped at the sight of this noble Troll pressing his face into the mud at her feet. His body was trembling with what must be suppressed rage. Nothing in her experience had prepared her for this. Trolls only recognized the power and authority of the strong, and they never recognized strength from those who were not also Trolls. Nowhere in her understanding of their language, nor in her admittedly inadequate knowledge of their race, was there a place for a Troll bowing to a human and a Fae, offering his life for a boon.
+
+She collected herself quickly, considering her response carefully so as not to offend. “I cannot accept your life debt,” she answered. His head snapped up in shock suffused with instant anger, but before he could say anything she continued, infusing as much compassion into her voice as was allowed by the haughty language of the Trolls. “It is not the way of my people to trade life as debt. But I will help you. What has been wrought here is evil. If it is within my power, I will see it made right. That I will promise you and I will swear it on the memory of my own mother and father.”
+
+The outrage on Zor’kan’s face faded as she finished, turning eventually to gratitude as she spoke her promise. “Thank you,” he said. “If you will not have my life, I will accompany you and see justice done for Aman Rak, even if I am unable to aid you in combat. What is your name, Faerie?”
+
+“I am Aliandra,” she said, introducing herself as she began to lead the way to the camp at the far side of the clearing. “Will you be able to help us understand what we will face?”
+
+“Yes,” he nodded. “I am Zor’kan, master crafter and leatherworker for Aman Rak. I have one more favor to ask – Gara said you wanted to send her somewhere safe. Could you send all the unclassed trolls with her, those who survived?”
+
+“I can,” Ali answered. “I can send them all to Myrin’s Keep. There is an Adventurers Guild there that will house them, but Gara refused. She said she needed to fight.”
+
+“She is Aman Rak. It is our way,” Zor’kan answered, pride straightening his weary spine. “But I will convince her.”
+
+Mato whistled softly as he finished up his after-cooking chores. Adding those new mushrooms he had foraged earlier this morning had been a resounding success, and not just because they were chock-filled with dungeon mana. He was definitely going to have to talk Ali into adding them to her repertoire. They had a delightfully earthy, nutty flavor that added richness and some savory tones to his stew.
+
+Ok, all done. Mato’s mind felt unusually calm after the lengthy battle. Is this what Malika feels like when she meditates? He had never really been able to grasp the fundamental patience it took to learn meditation, no matter how many times she had explained it, but he had spent most of the battle as a tree – and that form always had such a profound effect on his mind, an effect which persisted a while afterward.
+
+Before changing forms, the battle had proceeded at a frenetic and chaotic pace, but he recalled it as if it were a memory of a story he had read. A tale of overwhelming blood contagion seeping through his body and progressively becoming increasingly virulent and dangerous as the bats spread the infection among their group. His decision to switch to the Tree Form provided by his Arboreal Sanctuary skill had been born of frustration and desperation – frustration with how slippery Kir’vella was and how difficult she was to pin down and tank properly, and desperation at inexorably falling behind on healing against the stacking diseases that were tearing their melee group apart as they constantly reinfected each other by mere proximity.
+
+Come to think of it, Vivian said something about this way back when we were starting out, didn’t she? He recalled the conversation vividly. Back then he was still deciding if he liked taking the tank role. Something she had mentioned in passing had stuck with him – while dividing the team roles into tanking, damage, and healing was usually a smart and efficient choice, she had cautioned to not get too attached to it. Especially in the face of intelligent foes – or ones with exceptionally high wisdom. Kir’vella had ignored his Taunts with impunity, and not even his damage had been able to distract her from her purpose.
+
+No, Tree Form was the right choice this time.
+
+As soon as he had transformed and his vision faded, he had been able to sense the wrongness of the death mana from the altar animating the ghouls. He could feel the pulsing ugliness of the contagions and it had been easy to direct the mana of his Sanctuary aura to dissolve them. From then it had been a simple matter to share his regeneration, redirect damage to himself, and sprout roots and vines to assist with the fight – impeding Kir’vella whenever she appeared, and pinning any of the larger Spirit Nightwing bats Calen grounded, or the regularly summoned ghouls. It was a vastly different battle from when he used his Bear Form, but he was certain his decision to switch had turned the tide for their group.
+
+He looked up from his cookfire and the stew pot simmering there – he would keep it warm while Ali and Malika worked. He smiled happily, enjoying the sight of the exhausted trolls wolfing down the dinner he had made. They look like they’re hungry enough to eat anything, he thought, but still, it was satisfying to see how much they were enjoying a simple meal. A few moments later, and some whispered words exchanged, one of the trolls got to her feet and approached him, her manner still somewhat hesitant and uncertain.
+
+“More?” Mato asked, testing out his admittedly weak proficiency with the troll language and gesturing to the pot. She nodded, and he couldn’t help smiling at the way her eyes lit up – he served up a healthy second portion for her.
+
+Ok, time to check for any upgrades….
+
+Druidic Shapeshifter has reached level 76 (+5).+50 attribute points.
+
+Well now, that’s a hefty level number. Sooner or later, I’m going to get strong… he chuckled quietly to himself at his own joke. With only a few moments of thought, he spent ten points each on vitality, strength, and endurance. And then, considering his skills, spent another ten each on wisdom and perception. There, that should do it. Although… he eyed his very low dexterity and intelligence. Calen might have a thing or two to say about my distribution. Perhaps I can get some extra attributes on my next armor?
+
+Next, he pulled up his skill growth.
+
+Arboreal Sanctuary has reached level 38 (+4).Swipe has reached level 44.Brutal Restoration has reached level 43.Bear Form has reached level 38.Rampant Growth has reached level 17 (+2).Natural Prowess has reached level 33 (+3).Survival Instinct has reached level 37 (+3).Battle Trance has reached level 23 (+2).
+
+Well, that proves it. He grinned widely at the four levels of growth he’d just earned for Arboreal Sanctuary. Tree Form for the win! His other skills had also grown nicely, and he was excited to see Rampant Growth coming along, especially given how recently he had chosen it.
+
+Identify has reached level 15.Cooking has reached level 20.
+
+Hmm… yes, Cooking too! Those ghost mushroom chips Gara had taught him to make had been essential to surviving the spirit realm.
+
+Your actions have increased the reputation of your patron.
+
+Thanks for the damage!
+
+***
+
+Name: Mato BahrRace: BeastkinTitles: Rift WardenActive Buffs: Bear Form, Natural Prowess, Well-fedClass: Druidic Shapeshifter – level 76- Arboreal Sanctuary – level 38- Swipe – level 44- Brutal Restoration – level 43- Bear Form – level 38- Rampant Growth – level 17- Bestial Combat – level 36- Natural Prowess – level 33- Survival Instinct – level 37- Battle Trance – level 23- Last Stand – level 11General Skills- Identify – level 15- Cooking – level 20- Herb Gathering – level 16Aptitudes- Languages: Common, Beast, Plant, Troll- Mana (Affinity): Nature- Strong (Racial): +7 to Strength- Tough (Racial): +10 to EndurancePatrons & Tithes- Mentor: Lirasia- Deity: AzryetAttributes- Vitality: 556 (+317)- Strength: 393 (+228)- Endurance: 455 (+272)- Dexterity: 12- Perception: 101- Intelligence: 11- Wisdom: 136Equipment- Body: Abyssal Bear Armor of Fire – level 60- Ring: Gold Guild Ring – level 60Armor: 2327Physical Damage Reduction: 52.23%Resistance: 632Magical Damage Reduction: 22.89%+33% to Fire resistance.Health: 5560/5560Stamina: 3640/4550 (910 Reserved)Mana: 1360/1360
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

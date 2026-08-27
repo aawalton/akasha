@@ -1,0 +1,141 @@
+---
+id: 50c9150d-f1de-5242-a88d-9550b96942cb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 210: Mana Eater (Part 2)"
+slug: 0226-chapter-210-mana-eater-part-2
+partOf: dungeon-of-knowledge-complete
+position: 226
+ownLength: 2413
+unit: words
+ownProgress: 2413
+publishedAt: 2025-03-14
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2125917/chapter-210-mana-eater-part-2"
+royalRoadId: "2125917"
+markedReadAt: "2026-06-29T20:18:48.790Z"
+---
+
+Where do I put them? Ali’s eyes darted around the chaos of the cavern, struggling to figure out the safest arrangement for her minions. The spore jets had just proved they could reach her three-quarters of the way across the room, leaving a narrow strip near the walls out of reach. But standing there meant being so close to the budding Creep Spores that it would be next to impossible to kill them before they reached her minions. And those lashing vines could still hit them anywhere.
+
+We have to move, she suddenly realized. The only option was to remain in the safe zone, and spot for the bulging spores. As soon as the bubbling was spotted, anyone in range needed to run, and she had to blast it down with a hellfire fireball or lightning bolts.
+
+“Ali-friend. Monsters come,” Naia said, her voice echoing strangely in the chamber, followed by several plopping noises.
+
+Ali snapped her head up to see several dark blobby shapes falling into the cavern, oozing the ugly-looking rot-affinity. Urgently, she identified them.
+
+Devouring Consumption – Ooze – level 1-3 (Nature / Death) x3.
+
+Relieved that they were no real threat, Ali returned her focus to playing catch with her barrier magic, trying to protect her healers from the whip strikes, while simultaneously spotting for new Creep Spore summoning and organizing her minions to scatter when needed. Naia was particularly helpful for this part, her ceiling-mounted Sparkling Oozes were devastatingly accurate in their ability to blow up the budding bubbles at almost any location in the room. Tremor Sense must be phenomenal to spot the growths.
+
+“Ali! Monster!” Naia’s voice sounded desperate.
+
+Ali glanced around finding nothing but the one remaining Devouring Consumption busy sucking up all the Creep Spore corpses.
+
+“It grows,” Naia said urgently.
+
+Suddenly, Ali noticed that the small mottled black-and-green ooze had grown to nearly twice its original size.
+
+Devouring Consumption – Ooze – level 31 (Nature / Death)
+
+What? It was level one! Before her very eyes, murky pseudopods shot out and latched onto a Creep Spore corpse, drawing it within its body. As it consumed the remains, its level suddenly bumped up to thirty-two and its body swelled again as it dissolved the disgusting meal. It shot fresh pseudopods out in several directions, grabbing more corpses and drawing them in, and as it did, it grew stronger yet again.
+
+Ali scrambled, redirecting minions, but by the time she had an Armored Drake and a Hobgoblin to tank it, the ridiculous ooze was already level forty-five.
+
+What the fuck is this thing? No wonder Naia was struggling!
+
+It lashed out with pseudopods, striking at her drake, inflicting dark welts on its scaled hide that rapidly rotted, leaving decayed flesh to slough off and fall to the ground. It lashed out with a pseudopod, grabbing the corpse of a fallen slime and ingesting it, quickly dissolving it within its translucent murky body and it grew to level fifty-one.
+
+“Naia! Eat the corpses,” Ali yelled. “All of them.”
+
+There was a momentary pause and then suddenly the room began raining slimes – a disturbing plopping storm as Naia sent her weaker minions sloshing around the chamber, gobbling up every available corpse. Ali rushed to assist by deconstructing everything within reach, still struggling with low mana and the high demand for her barriers.
+
+A warping twist of mana from the Mana Eater ripped her attention away from her task. “Watch out!” she shouted. From deep within the monster, the mana surged outward, coursing through its vines and branches, and the outer wood surface erupted with green marks so dark they could almost be black. The entire monster swelled, growing until its toothy heads butted the ceiling as it first doubled and then tripled in size. An explosion of thicker, more powerful vines and thorns burst from the trunk and flailed around striking at everything, and Mato’s health plummeted.
+
+“Heal him!” she yelled desperately, but she suddenly realized her Acolytes were healing him. His health wasn’t budging. She slammed a barrier up in front of Mato as his impressions and thoughts came through from her connection to the armored drake beside him.
+
+“Ten stacks!” he sent, with an urgency that was communicated even through the indirect channel of her Armored Drake’s mind. He was at ten stacks of the Mutagenic Corruption; no healing could help him now.
+
+I need to buy him time. If she couldn’t find a way, they would need to escape.
+
+His health buckled and fluctuated as Ali recognized the telltale sign of a massive influx of temporary health from his Last Stand skill. She threw a barrier up in front of him, intercepting the biting plant head, but it shattered. She summoned another, ignoring her almost empty mana pool. The blue flowers sprayed spores at her barrier, melting it like a candle in front of an open forge, all the while she struggled to intercept the room-wide assault from the much more potent whip-vines. She downed another mana potion and summoned more barriers to protect Mato, hoping to block enough strikes that the corruption would begin to fade. But it wasn’t nearly enough.
+
+“Naia, help!” she called out as her barrier magic failed, and her mana drained.
+
+Healing…
+
+It was incredible. Naia had never experienced anything like it. She marveled as the strange Kobold Acolytes began to shine with intensely soothing magic one at a time. Her slimes crawling around and consuming the Creep Spores should have died so many times over. They were hit with lashing vines from the horrible plant, and then they received some healing magic… and they became fine again! They were blown up by the Creep Spores and a Kobold would cast that strange-tasting holy magic and they would recover. Hit by the rot of the Devouring Consumption, the pulses of restoration would heal them right back up again.
+
+Healing is amazing.
+
+She had sent so many oozes to fight this plant in the last couple of weeks, and they all died. Very quickly. But somehow, they were not dead this time, and she knew it was all because of the healing magic. She shared her awareness with all her slimes in the room, sampling the fight from every perspective, all integrated into a single consolidated picture in her mind. She had never been curious about how it was achieved before, but such strange thoughts had been coming more regularly now that she had increased her intelligence attribute substantially as a side-effect of Ali-friend’s gifts. She wondered what it must be like for Mato-friend, who had no slimes to feel with. Only one perspective must feel so lonely. She had experienced it several times, when all her oozes but herself had been wiped out, and she trembled in her membrane at the memory.
+
+She fired her ‘sparkle’-bombs from the ceiling. What is ‘sparkle?’ Naia didn’t know. But they were effective. She aimed them across the room to take out the newly spawned Creep Spores but several of them escaped, running around blowing up her Brine Oozes and Scalding Slimes that were cleaning the corpses Ali-friend had asked for. She had understood it quickly – Ali had noticed that the Devouring Consumption grew by eating. She had never thought to eat first. If she ate all the food, it couldn’t grow. It was a good idea – and after eating most of the room, she had had to shift all her mana to her other oozes, not having enough space for it. The Devouring Consumption was still there, but it couldn’t eat Ali’s Armored Drake – not with those amazing Kobolds supporting it.
+
+“Naia, help!” Ali yelled.
+
+Naia could feel Ali-friend had no mana. If only Ali-friend was an ooze, she could share some of hers. She had a lot. So much in fact, that she was still hiding in her little alcove, copying a rock, but she was constantly splitting off new oozes as fast as she could: brine, scalding, her newest beautiful Lava Lurkers, even her leveled-up Toxic Slimes, anything she needed for the fight.
+
+What does Ali-friend need? She wanted to help, but she didn’t know what would be best. The Mana Eater was huge – she had seen this ability. She always ran when she saw it. But Mato-friend was not running, and Ali-friend was trying to help him, but she had no mana.
+
+Naia dropped a Scalding Slime down from the roof, landing with a plop on top of Mato, and slithering forward to cover his back as the vines lashed out and struck her. It almost died, but then the Kobolds cast their amazing magic, and it began to recover. She dropped another ooze from the roof, landing on top of the other one, blocking the biting head.
+
+Your Scalding Slime has been infected with Mutagenic Corruption.
+
+Naia ignored the message, slithering new oozes down the walls as fast as she could make them, sending them after the scuttling Creep Spores. The explosion blew up her Brine Ooze, leaving it almost dead, but then a big heal came from a glowing Kobold and it recovered. She made it eat the Creep Spore corpse and lash out at some more, drawing their attention. They blew up one at a time on her slime, but the Kobolds were able to keep it alive.
+
+Ali’s minions were dying, one at a time. Slowly – the Kobolds were strong. But every time Naia lost a slime or an ooze, she made a new one. Ali could not. The big drake finally collapsed, and the Devouring Consumption began to strike at everything nearby, now higher level than even the Mana Eater. She swarmed it with her minions, knowing Ali could not fight it anymore. But her slimes started dying. It was strong, too strong. It rotted everything it touched. Even slimes. She made more, burning through mana rapidly, but the Devouring Consumption was beginning to eat her slimes now and it was growing again.
+
+What can I do? She wanted to run. She knew she should run. But Ali…
+
+Suddenly the chime noise sounded.
+
+Slime Mutation has altered your Toxic Slime.Imprint: Rotting Slime completed.
+
+It was a notification she had only seen once before. When she had first discovered how her Slime Mutation skill worked and created her Scalding Slime from the heat vents. A thrill of excitement filled her as her intelligence grew immediately from the new imprint.
+
+What is it? Curious she experienced the newest ooze, transforming her body, taking on its essence. It felt like the Devouring Consumption.
+
+Death. Nature… Rot.
+
+But most importantly, it was immune to death and nature. And Naia knew what to do. Immediately, she made her new Rotting Slime attack the Devouring Consumption. It was a much lower level, but that did not matter.
+
+It can’t rot me.
+
+Naia summoned her mana, creating nothing else, just Rotting Slimes. They plopped out of her hidey-hole in a stream of wobbling masses, sliding to the ground and chasing down the Creep Spores, swarming the Devouring Consumption, and out along the roof to plop down on Mato’s back. Everything they attacked rotted, including the plant. The lashing thorns still ripped and tore, but her new slime was immune to the corruption, and the Kobolds could heal them with ease.
+
+Five, six, her slimes swarmed the Devouring Consumption as she sent more and more of them at it, burning through the immense glut of mana she had stored when she ate everything. Without healing, they would have probably died to the lashing, ripping damage from the bad plant, but the Devouring Consumption could do nothing to her newest minions. She swarmed it, engulfed it, and ate it alive.
+
+Imprint: Devouring Consumption completed.
+
+Oh! She couldn’t help the shivering ripple of excitement that briefly disrupted her disguise, but she was still in her tiny hole – Safe. She extruded another pseudopod and became the Devouring Consumption, splitting one off and dropping it into the room. Then she set it to eating every remaining corpse, shifting that job away from the rest of her minions, leaving it exclusively to her newest, most exciting ooze.
+
+“Naia! Another one!” Ali screamed, pointing at her new ooze.
+
+What? Oh… “That’s mine,” Naia said, realizing she had startled Ali with the sight of her new Devouring Consumption eating and growing.
+
+“Oh, wow!” Ali said.
+
+Poor Ali-friend had almost no minions left. Only a couple of Kobolds and one drake. She was doing something to make mana though, so she wasn’t giving up.
+
+No matter, I help, Naia thought, making some of her idle slimes drag corpses over to feed her Devouring Consumption to aid it in growing faster.
+
+When her Devouring Consumption reached level fifty – nearly the size of Ali’s drake – she attacked, tearing into the Mana Eater with a lashing frenzy, while watching curiously as the plant slowly shrank back to its normal size. She had not known that the growth spurt was temporary.
+
+She coiled dozens of pseudopods around the plant, tearing flowers from its trunk, ripping vines, rotting the wood, and crushing until it finally slumped down, heads and vines collapsing to the ground in a big tremor she could feel even up in her hiding spot.
+
+Your group has defeated Mana Eater – Plant Aberration – level 53 (Nature / Death)Slime Lord has reached level 53 (+4)+60 attribute points. Ooze Division has reached level 35 (+3).Hive Mind has reached level 33 (+2).Slime Domain has reached level 28.Consume has reached level 29 (+3).Slime Mutation has reached level 15.Camouflage has reached level 21.Ooze Attributes has reached level 25 (+3).Requirements met for skill advancement.Mentor: Aliandra Amariel.Ooze Attributes has reached at least 25.Defeated a dungeon boss.Defeated a monster with allies. Intelligence has reached at least 150.Ooze Attributes gains Wisdom.(+Wisdom)Ooze Attributes – level 25Mana: Your base intelligence and wisdom attributes gain +60 [+5 per ooze imprint]. Reserve: 10%Mana: Your intelligence and wisdom gain +75% [5% per ooze imprint + base intelligence / 10]. All Ooze minions gain half of this bonus. Reserve: 20%Water, Minion, Buff, IntelligenceAccept this advancement?
+
+“Ali! Ali!” Naia exclaimed, trembling with excitement as she dropped down the wall into the devastated chamber, rolling for a little before plopping to a stop.
+
+“What is it, Naia?”
+
+“I got a new skill advancement… it has your name in it!” she exclaimed, sharing the new skill option with her friend.
+
+“Wisdom? That’s a fantastic skill, Naia!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

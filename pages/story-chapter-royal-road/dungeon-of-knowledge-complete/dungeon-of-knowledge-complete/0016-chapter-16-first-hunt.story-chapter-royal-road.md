@@ -1,0 +1,329 @@
+---
+id: 4cc6100c-6416-514b-93a1-f6f2b80a6ca2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16: First Hunt"
+slug: 0016-chapter-16-first-hunt
+partOf: dungeon-of-knowledge-complete
+position: 16
+ownLength: 6283
+unit: words
+ownProgress: 6283
+publishedAt: 2024-02-12
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1515650/chapter-16-first-hunt"
+royalRoadId: "1515650"
+markedReadAt: "2026-06-29T20:11:32.183Z"
+---
+
+Mato
+
+Mato paced back and forth, his excitement growing by the moment, while Calen and Malika hashed out the details of their plan. He was going to test his skills in a real battle.
+
+I can’t wait!
+
+“So, Malika is our tank and healer, me and Mato are damage dealers, and Ali is our support mage?” Calen asked, confirming their final arrangement.
+
+“Sounds right,” Malika answered. “I’ll go get us some wolves.” And with that, she sprinted off past a rather enormous pile of bones to where they had spotted the roaming pack.
+
+Mato’s adrenaline surged at the piercing howl that echoed through the darkness and the sight of Malika sprinting back to where they waited with the entire pack of wolves bearing down on her. Quickly he switched forms, his body twisting and warping into the form of a wolf, pleased to find that he was larger and heavier than the oncoming Starving Wolves. Only the Alpha was bigger than him.
+
+Starving Wolf – level 1-3 x4 (Hostile)Starving Alpha – Wolf – level 5 (Hostile)
+
+With a creaking groan and a strong scent of fresh oak, thick, gnarled roots sprang from the ground, reaching for the paws of the smallest wolf bringing up the rear. As they tangled around its feet, the wolf yelped and was suddenly jerked to a painful halt. That’s a nice skill! He glanced approvingly at Ali.
+
+Reaching a clear patch of ground, Malika stopped running, wheeled about, and confronted the remaining wolves, lashing out with punches and kicks that flickered with short bright flashes of light as they struck.
+
+Rising battle fury surged, a near palpable emanation coming from Ali’s pair of Sewer Rats as they rushed across the mucky ground to separate a second wolf from the pack. Their intentions popped into his mind as clear as day: a complex combination of visible body language, direction of charge, scent, tone of hissing, and a strange extra-sensory perception for their emotional state that culminated in an intuition that had to be a blend of his Pack Tactics and the Beast Language aptitude provided by his Druidic Shapeshifter class.
+
+Mato howled and charged. The plan called for him to pick a wolf, and Calen and Ali would help him take them down one at a time. But the wolf pack had already encircled Malika and they were darting in and out, chipping away at her whenever her back was turned, or she was flanked. They would weaken her slowly, taking advantage of their numbers and speed.
+
+The strategy flowed naturally through his mind – an instinct like he had been born to it. His pack was stronger, and he would turn their strategy against them. Mato picked the weakest of the three right as it dodged back away from Malika and snapped at its hindquarters with his sharp teeth. Mana and stamina flowed through him in a rush as he wove Brutal Restoration into his Hamstring skill and ripped through flesh and tendons. The wolf yelped in sudden pain as warm wetness and the metallic taste of blood exploded into his mouth.
+
+The wolf stumbled, its movements suddenly hampered, and Mato’s lip curled back in a savage grin as the rhythm of the wolf pack’s attacks began to crumble. The gentle slow pulse of soft spring warmth, new growth, and shoots reaching for life-giving sunshine filled his body as Brutal Restoration infused him with continuous healing.
+
+But the rich flow of new senses pouring into his mind was not limited to his understanding of beasts or pack fighting. Mato’s mana flowed outward across the battlefield like an extension of himself, establishing his territory, his domain. It was small, barely more than ten feet in all directions, but through it, he could sense the life energy of Malika, the two rats nearby, and most of the wolves.
+
+Arboreal Sanctuary. As the Alpha wolf lunged in, fangs bared, Mato knew it would strike. Malika was already forced to block the other two wolves, and their attacks had forced the opening. As the jaw snapped shut on Malika’s shoulder, Mato fed a tiny pulse of mana to his skill and substituted his life for hers. Like a ghostly apparition, unseen teeth tore through Mato’s shoulder, ripping through skin and muscle with ease and sending his blood fountaining outward to flow down his side and mat his fur.
+
+Malika, however, was entirely unharmed.
+
+As the pain of the stolen attack tore through Mato’s mind, a simultaneous rush of power and new energy surged within him.
+
+He snarled, baring his fangs. Stupid wolves!
+
+A dim red mist swirled around his face, coloring his vision, and he lunged forward to sink his fangs into the wounded wolf before him. Magic surged within him as he instinctively unleashed his skills, and bone snapped between his teeth with a satisfying crack. His enemy wheeled about and bit him instead of Malika, finally acknowledging his power and ripping another wound in his leg.
+
+The soft pulse of his healing steadily knit the wounds together, slowing the flow of blood – and the thick red mist began to ebb along with the diminishing of the heady rush of power coursing through his body.
+
+More! Eager for the rush, he stole the vicious bite that snapped down on Malika’s wrist. Again, pain and power surged through him as he bled on her behalf. He had no idea how it worked, nor did he care. He ignored the incessant buzzing of golden bolts and the annoyingly bright arrows shooting past his head and bit down savagely, eager to unleash his power and he gloated with fierce satisfaction at the sight of the weakling collapsing at his feet.
+
+He growled, searching for fresh prey. He showed the rats what he wanted, and they moved, allowing him to flank the wolf they were fighting. This time, he stole an attack on the rat beside him, building his power. With a guttural snarl, he lunged in and bit using his Hamstring and Brutal Restoration combination to savage his foe. The annoying arrows and bolts followed him, slamming into the wolf struggling in his jaws.
+
+Mine! My prey!
+
+He snapped again, filling his mouth with the taste of blood, and took attacks from both Malika and the rat at the same time, eager to finish his enemy before the arrows stole his kill. In an intoxicating surge of power, he bit down on the wolf’s throat, reveling in the crunching and tearing of flesh.
+
+Movement off to the side caught his attention, and out of the corner of his eye, he saw a solitary Sewer Rat wandering by, near a low pile of bones. Without a second thought, he dropped the dying wolf and bounded off, eager for more blood to satiate his need.
+
+“Mato! Stop!”
+
+Annoying! He ignored the shouted distraction, focusing his mind on the combat as the Sewer Rat appeared within the reddish haze. His mind roared with triumph as his teeth found his prey and blood spilled across his face. Bright arrows and the tiny golden bolts chased him like annoying gnats. He snapped at one.
+
+Find your own. Mine!
+
+His jaws finished the rat far too quickly and he wheeled about, searching for more.
+
+The annoying girl stood alone facing the Alpha. The strongest of the pack. His rightful prey. Jealousy coursing through him like the power that spilled out as a red mist, he charged. His fangs tore into the larger wolf as he instinctively used his skills to flank it. Reveling in the rush as the wolf yelped in pain, he reached for more, transferring damage from Malika. He barely felt the pain as his power surged yet again.
+
+Suddenly, she attacked him. An open hand slapped him on the shoulder. He snarled, snapping at it, but an intense rush of burning power tore through his body, stitching his wounds shut and staunching the flow of blood. The red mist diminished.
+
+Why am I snapping at Malika? He could smell the anger emanating from her.
+
+As his wounds closed, his power began to wane. Desperately, he transferred another bite to himself as fury rose unbounded within him. She’s weakening me! She wants the kill for herself! With his power suddenly rising once again, he unleashed his attacks, tearing repeatedly at the Alpha wolf until finally it collapsed before him, vanquished by his power.
+
+His body twisted as he released his Wolf Form, and he stood there panting from exertion, red mist still seeping from his pores and clinging to his body.
+
+“What the fuck were you thinking?” Malika yelled at him.
+
+His anger flared at once, and he shouted back at her, “I was fighting and saving you by taking your damage.”
+
+“You got another monster in the middle of the fight, that is risky and dangerous!” Malika stood her ground. “I even had to heal you.”
+
+“Don’t heal me so much!” Mato roared. “It reduces my power! My Primal Rage needs damage.”
+
+“Your skill makes you stupid,” Malika said quietly as she stepped up and, faster than he could react, she punched him in the stomach.
+
+Mato felt the same burning rush of healing magic surging through his body and suddenly, his mind snapped clear, and the redness in his vision lifted.
+
+“You stopped healing yourself halfway through the fight,” she finished. “You need to be more careful.”
+
+Mato blinked in surprise as the truth of what she had said hit him like a brick.
+
+“Let’s have Calen get the next group,” Malika suggested, her voice calm, but her eyes still hard and angry. “Mato, use your bear, you said it has armor, that should help. And make sure you’re always using your healing.”
+
+Shaken by her words, and yet still trembling from the aftermath of his rage and anger, Mato turned away, checking his notifications.
+
+Your group has defeated Starving Wolf – level 1-3 x4.Your group has defeated Sewer Rat – level 2.Your group has defeated Starving Wolf Alpha – level 5.Druidic Shapeshifter has reached level 2.+10 attribute points.Arboreal Sanctuary has reached level 2.Brutal Restoration has reached level 2.Wolf Form has reached level 2.Primal Rage has reached level 2.
+
+Mato puffed out his cheeks. Decent. But… Calen’s words from earlier came back to haunt him. What if I really do lose control. What if I turn on my friends during battle?
+
+Calen
+
+Calen sat quietly with his back to a worn, half-buried boulder, waiting for his mana to regenerate before they continued onward. With nothing better to do, he watched Ali using her strange magic on the corpses of the wolves, turning them into tiny sparkles of light and mana that drifted away as they faded. But not even that display could distract him from wrestling with the implications of what had just happened.
+
+It was worse than he had feared. Mato had become unreasonable and aggressive, and he had endangered himself and the entire group by attacking a passing monster in the middle of a big fight. A monster that, on its own, would likely have passed them by without getting involved. He had also forgotten to heal himself and he had even snapped at Malika.
+
+This is not like him, he thought. Calen and Mato had been close friends for years. What had just happened was not normal. Mato had never lost control or endangered his friends in all the time Calen had known him – and that included many brawls. No, it was especially true when he was fighting. In fact, time and again he had witnessed Mato’s fierce loyalty and commitment to his friends and family coming before even his own health and happiness.
+
+That was simply who Mato was.
+
+He glanced up at the sound of footsteps and found Malika approaching, a frown creasing her forehead and a hard glint in her eyes. This was the second time she had gotten angry with Mato, and she was definitely not happy. Honestly, though, Calen could sympathize with her feelings.
+
+“Your friend has a Berserker skill.” It wasn’t a question.
+
+“Yes.”
+
+He half expected Malika to yell at him too, after the scene he had witnessed, but she just sighed.
+
+“Can you remind him to heal himself? I think he will be more likely to listen to you in the heat of battle than me.”
+
+“You could heal him too, it snapped him right out of it,” Calen said.
+
+“I can stay close to him during the fight and heal him if it gets out of hand, but my heal is touch range, and I’m tanking,” Malika said. “I can’t be chasing after him if he decides to run off again.”
+
+“Thank you,” Calen said. Unfortunately, she was right, there were seldom opportunities for someone tanking to run around. “I’ll keep an eye on him too and remind him to be more cautious.”
+
+“I hope he doesn’t get us all killed.”
+
+Calen glanced over to find Mato sitting by himself staring at the ground. “He’s not normally like this.”
+
+“You may need to get used to the new version,” Malika said soberly. “Unless something changes, that’s his skill. If he can’t learn to control it, he’s going to be a liability.”
+
+Calen opened his mouth, needing to defend his friend, but he shut it without saying anything. Malika’s assessment was exactly what he had feared the moment Mato had shared Primal Rage with him. Berserker skills had a reputation for a reason.
+
+Berserker skills were extremely powerful, and for that reason, some people were drawn to them. However, they were essentially skills that surrendered will and reason to the fury and rage, the call of battle. They were notoriously difficult to control and often caused ugly situations. Many groups, guilds, and organizations outright banned berserkers for exactly that reason – too many would inevitably lose control and hurt or kill their allies.
+
+Having grown up with his father, Mato had never learned to fear the Berserker’s rage.
+
+“When you’ve recovered enough mana, could you bring the next group of wolves here?” Malika said, breaking his dark thoughts. “This is a good open spot, and if we fight in the middle, we can probably avoid drawing any stray monster adds again.”
+
+“Got it,” he answered, activating his Eclipse stealth skill. As he faded into the shadows, Malika turned and headed back to the others.
+
+***
+
+Calen placed his feet with deliberate care, following the tracks while trying not to breathe or make even a hint of a sound. His eyes darted back and forth, searching the decaying wood, rough boulders, and shadows for even the slightest hint of movement. Mana trickled slowly into his stealth skill, Eclipse. The shifting shadows that played across his body were quite a reassurance, working hard to make his form virtually impossible to see. But he was still walking around alone in the darkness of a dungeon, tracking monsters. The advice he had read so many times upon the pages of Lyeneru Silverleaf’s book lingered, never far from his mind. Stealth was not foolproof. If the wolves caught wind of his scent or heard his footsteps, his stealthy cloak of shadows would be worthless.
+
+The pawprints led a meandering path around the dead wood and strewn bones. They were not exactly lit up by magic, but they may as well have been, given how clearly they stood out on the ground, lit up by his powerful new perception skills.
+
+And they were fresh.
+
+He took a slow, steady breath and then held it as he snuck quickly around a big tree trunk that stank of wet rot and fungus. There, on the far side, he saw them. He shrank back quickly, cozying up to the tree trunk and the deeper shadows around it. There were five wolves in the pack, slowly stalking along a clear path, just like the group they had fought earlier. The larger Alpha walked in the center, head up and eyes alert, while the smaller Starving Wolves scouted the terrain, sniffing and searching for something.
+
+He studied them carefully for a while. It was easy to tell that this slowly decaying underground cavern was not normal wolf territory, and yet he still couldn’t figure out if these were simply dungeon monsters, or if they had somehow found a way in and were hunting rats or something else in the darkness.
+
+And if they are dungeon monsters…
+
+The legendary Pathfinder’s warnings about the dangers of dungeons loomed larger in his mind.
+
+With silent, practiced movements, he unslung his bow. He pulled an arrow from the quiver slung on his back beside his small pack and nocked it to the bowstring, drawing it all the way back to his cheek. He sighted along the shaft, aiming at the Alpha wolf – the biggest target. If he drew the Alpha into chasing him, the pack was certain to follow. He channeled a tiny sliver of mana into Arrows of Brilliance, imbuing his arrow with the power of his light affinity magic.
+
+The arrow, still nocked on his bowstring, flared with intensely brilliant white light, a radiance that shone out, spilling across the slimy black fungus and tree trunks, and reflected off the heaps of gray-white bones.
+
+The wolves all froze, their heads snapping around toward him. The howl of the Alpha wolf echoed in the sudden daylight.
+
+Shit. Calen didn’t typically like swearing. He preferred retaining his composure. But he had just dispelled his own stealth, giving away his position with his ammunition enchantment skill. Amateur!
+
+He hastily released the arrow, sending the bright shining light hurtling out into the darkness but thankfully, his magic startling the pack hadn’t wrecked his aim. His arrow lodged itself low in the Alpha wolf’s left shoulder as it sprang forward to charge him. More howls broke the silence, but Calen simply turned and fled.
+
+Stamina bled from him as he pushed his body to its limit, suddenly immensely grateful he had decided to sacrifice the steep mana cost required to reserve Blessing of the Dawn and boost his dexterity.
+
+With the howls and snarling of an angry pack of wolves breathing down his neck, he turned the corner into the clearing at a dead sprint. Malika stood at the ready, bouncing on the balls of her feet with Mato already in his Bear Form beside her. He hurtled across the clearing, releasing a Mote of Light into the air above Malika and Mato as he passed between them.
+
+Only when he reached Aliandra, peering through her golden barrier with an expression of pure focused determination, did he stop and turn. His mote hovered above Malika tanking the Alpha and another Starving Wolf, shedding clear white radiance across the battlefield. Mato was roaring as he swiped at a third wolf. Out near the perimeter of his magical light, one wolf struggled against the thick roots binding it to the ground, while another snarled and snapped at Aliandra’s two summoned rats.
+
+Calen took a deep breath, trying to steady his frantically pounding heart. When he had first met Ali, she had been on death’s door – with only a few measly scholarly skills. Struggling for their lives in that cave against that first wolf pack, he had been astonished at the outsized influence she had brought to bear on the battle with such ineffective tools. Now, with proper control skills, she was taking care of nearly half the wolf pack by herself, and still able to deal damage.
+
+Beside him, golden flashes burst in a rapid staccato as a stream of magical bolts launched from Aliandra’s palm, arcing up and over her barrier to slam into the wolf that Mato was fighting.
+
+Calen drew his bow, aiming for the same wolf. He used Arrows of Brilliance again, wincing at the intense flash of light as his arrow flew out, but the sudden clench in his gut eased as he realized all the wolves were properly controlled and he could unleash his magic freely. He fired several shots into the Starving Wolf before the combination of his arrows, Aliandra’s magical strikes, and Mato’s claws dropped it.
+
+This would be much harder without our magic affinities.
+
+Magical affinities were supposed to be fairly rare, with estimates ranging from five to ten percent of classes having one. People blessed with an affinity typically unlocked access to powerful specialized abilities and skills, just like his Eclipse and Arrows of Brilliance. His mother did not have an affinity, but somehow all four of them had received an affinity from the shrine.
+
+That can’t be normal. What else might our little Fae friend be hiding?
+
+Mato lunged forward, his paw lashing out with great power from within the red mist that was growing ominously dark and dense. The wolf peeled away from Malika, spinning about and snapped its jaws, tearing a deep bloody gash across Mato’s shoulder. Calen’s eyes narrowed as he suddenly realized he couldn’t see the telltale green flickering energy of Mato’s nature affinity.
+
+“Mato! Use your heal!” he shouted.
+
+The angry bear roared furiously and lashed out again with a brutal strike of his heavy forepaw, but Calen’s sharp eyes noted the little flicker of green as his claws struck. He breathed a sigh of palpable relief as the dense red mist began to slowly dim and he raised his bow, adding a stream of arrows to Aliandra’s magic.
+
+It seems he will listen, Calen thought. If Mato could take guidance during the fight, then the situation with his berserker skill should be manageable. Maybe.
+
+He did have to remind Mato to heal several times through the battle, but each time he responded by activating his healing magic and diminishing his powerful rage skill. By the time the last wolf died, much of Calen’s anxiety had faded. Mato had listened, and he had not attacked anyone. Nor had he rushed off on his own again.
+
+As soon as the battle concluded, Calen headed out to hunt, trusting that the others would be ready by the time he returned.
+
+They continued hunting wolves in this part of the cavern for several hours, each of them growing more used to working with the abilities and personalities of their teammates. To his great relief, there were no more issues or squabbles – and even Malika’s suppressed ire seemed to have faded.
+
+He had to admit, though, that Mato’s skill was every bit as crazy as its reputation claimed. The power with which he unleashed his claws upon the monsters was unreal. When the red mist was dense, he was a force of nature, tearing through monsters like they were made from tissue.
+
+With the unfortunate downside of messing with your mind. I could never pick a skill like that.
+
+Although for Mato it hadn’t been a choice; it had been one of his first six class-assigned skills.
+
+Weary, but tentatively happy, they returned to the now moss-covered shrine area and the clearing which Aliandra had explained was part of her domain. As he sat to recover, Calen checked the results of the day’s battles.
+
+Your group has defeated Starving Wolf – level 3.…Your group has defeated Starving Alpha – Wolf – level 5.
+
+It was a surprisingly long list of kill notifications. Calen browsed them all, studying them carefully. But then he reached the end and stared at the final set of messages.
+
+I leveled up! Excellent!
+
+Archer of Light has reached level 3 (+2).+20 attribute points.Radiant Archery has reached level 3 (+2).Arrows of Brilliance has reached level 2.Motes of Light has reached level 2.Blessing of the Dawn has reached level 2.Eclipse has reached level 3 (+2).
+
+The gains for the day’s hunt were impressive. He had gained two levels and settled into a comfortable flow with the group. His biggest limitation seemed to be running out of mana and being forced to wait for it to regenerate. His class seemed to lack an effective mana-regeneration skill like Malika’s Meditation, or Ali’s Deconstruction.
+
+I’ll put some of my points in wisdom, he decided, hoping the increased mana pool would offset the regeneration problem and the cost of reserving so much of his mana for Blessing of the Dawn. He pulled out his pen and notebook from his pack and began calculating the new costs and damage values for all his skills, given the level increases.
+
+Apart from his mana issues, and the conflict between his light magic and his stealth, the biggest problem he could see was his defenses. His dodge rating now that he had reached level three had dropped from thirty percent to twelve-and-a-half. Technically, it hadn’t dropped – he still wore the same leather armor – but the effective dodge rating was relative to monsters his own level. And he was basically three times higher in level, now.
+
+But he still noted that replacing his armor with something higher-level was an urgent priority.
+
+And getting some mana potions.
+
+***
+
+Name: Calen AveryRace: Half-ElfActive Buffs: Blessing of the DawnClass: Archer of Light – level 3- Radiant Archery – level 3You are proficient with a bow and ranged combat.Stamina: Attack with your bow. Your damage and accuracy are increased by +80% [40 + skill + dexterity].Physical, Attack, Ranged, Dexterity- Arrows of Brilliance – level 2Mana: Imbue your arrow with additional Light damage.Light, Ranged, Intelligence- Motes of Light – level 2Mana: You can summon up to 1 [1 + skill / 10] motes that emit clear light and can dispel stealth effects. You can freely control the motes of light anywhere within your range. Duration: 12 minutes, Range: 530 feet.Light, Area, Intelligence- Explorer – level 4You have enhanced spatial perception and perfect recall for places you have explored. You can discern important details about the places you are exploring and the creatures that inhabit them.Stamina: Use your enhanced perception to track your prey.Knowledge, Identify, Scouting, Tracking, Perception- Blessing of the Dawn – level 2Mana: Your Dexterity, Perception, and Intelligence are increased by +43.7% [40 + skill + base intelligence / 10]. Reserve: 20%Light, Buff, Intelligence- Eclipse – level 3Mana: You have stealth in shadowy or dark places. (This effect ends when you take an action that draws attention to yourself.) Light, Stealth, Illusion, Intelligence- [Locked]- [Locked]- [Locked]- [Locked]General Skills- Bowcraft – level 4- Wood Carving – level 3- Cartography – level 4Aptitudes- Languages: Common- Mana (Affinity): Light- Perceptive (Racial): +11 to Perception- Quick (Racial): +5 to Dexterity- Timing (Class): You have an innate sense of timingAttributes- Vitality: 14- Strength: 9- Endurance: 10- Dexterity: 37 (+11)- Perception: 40 (+12)- Intelligence: 24 (+7)- Wisdom: 12Equipment- Weapon: Bow – level 1- Body: Leather Vest – level 1Evasion: 12Dodge: 12.5%Health: 140/140Stamina: 100/100Mana: 96/120 (24 Reserved)
+
+Even though he was struggling a little with mana and regeneration, Calen had still not turned off his Blessing of the Dawn since he had first earned his class. It was simply far too powerful to pass up the improvements to his primary attributes: dexterity, perception, and intelligence. Even though his blessing reserved a whopping twenty-four mana at this point, he knew it was far too good to ever turn off. Already he found himself regularly using the improved dexterity to outrun wolf packs and improve his accuracy with his bow.
+
+Better than being bitten in the butt, right? He grinned to himself. Still, it did so much more than that. Dexterity improved his reaction speed and his damage too. Intelligence improved the damage he did with his Arrows of Brilliance light magic enchantment, and any improvements to his perception attribute fed directly into how sensitive all his senses were – and improved his Explorer skill.
+
+Happy with his improvements today, he carefully laid out all the arrows he had retrieved on the moss in front of him, studying them carefully for damage, and settling in to repair the ones that needed some work. His general skill, Bowcraft, looked like it might just be his most financially savvy skill investment ever – certainly if he regularly needed to fire the sheer number of arrows he had today.
+
+Aliandra
+
+Ali sat on the moss with her companions at the end of a long, but surprisingly productive day hunting wolves. She had been careful to choose a relatively dry spot, hoping to avoid dirtying her awesome new brown pants and beige t-shirt. They were both clearly too large, but she didn’t care. Rolling up the legs a little and tying a knot in the shirt had worked perfectly.
+
+And it helps that I didn’t get hit and bleed all over my new clothes for a change.
+
+Initially, fighting the monsters had been just as terrifying as always. But after so many fights, her fear had finally accepted that Malika and Mato would prevent the wolves from eating her – and, for the ones they couldn’t catch, she had her roots and her rats. She had barely needed her barrier the entire day, and even when she had, it was mostly precautionary; a backup in case the rest of their team’s defenses proved shaky.
+
+With the way the others had spoken of the town of Myrin’s Keep above their heads, Ali had been less than excited about visiting it, but now, as she was wearing the high-quality craftsmanship of her comfortable clothing, she had found a reason to go.
+
+Calen’s mother made this? Simple as her outfit was, the fabric felt soft and yet strong to her touch. While her combat skills were progressing well, she sorely missed having her closet and clean clothes every day. With such a skilled tailor within reach, if she could secure a few more outfits, perhaps her life might return to something a little more normal. Maybe I can ask her to adjust these, so I don’t trip over the trouser seam while fighting wolves. Just the fact that such a thought might even cross her mind was still so unfamiliar, she might even call it shocking.
+
+Grove Warden has reached level 5.+10 attribute points.Grasping Roots has reached level 5.Arcane Bolt has reached level 6.Barrier has reached level 6.Grimoire of Summoning has reached level 8.
+
+Level five already! Sweet! When Armand had told her he had reached level seven in his warrior class, she had been impressed. And rightfully so – he had earned it quickly. But her progress, by comparison, was nothing short of unbelievable. She felt so much more capable today than she had been when she had first received her class – and there was no comparison to her weakness when she had been unclassed.
+
+Her barrier no longer cracked after a few good hits – if she even needed to use it. Arcane Bolt could burn down a Starving Wolf or a Sewer Rat so fast that they could easily take on groups of five or more monsters at a time.
+
+Imprint: Starving Wolf completed.
+
+She had known this notification waited for her simply by the pressure in her mind. It was with great joy and anticipation that she committed it to her Grimoire in the usual flurry of light and magic.
+
+“Starving Wolf,” she said, answering the curious looks from her companions in reaction to the light show.
+
+Given how the fights had gone, she decided she could ease up on vitality a little, so she divided her attribute points among wisdom and intelligence. Compared to the first couple of fights, Ali felt like she was in little to no danger now. Whether this was because they had four of them now, her skills growing, or simply more familiarity with combat, she wasn’t certain.
+
+Probably a little of each.
+
+Certainly, their teamwork seemed to be improving. Malika was every bit as strong as Ali had expected, taking a bit of a leadership role in their rag-tag band, and doing most of the tanking. It was incredible how tough she was. Despite being bitten and mauled by multiple wolves, she easily kept going.
+
+Calen was definitely shy, even introverted. The Half-elf didn’t often speak his mind unless asked, but Ali could already tell he was remarkably smart. His magic archery was as beautiful as it was effective, and it was quite useful to not have to use her barrier magic merely for light. He seems quite brave too, she thought, recalling how he would leave to track through the darkness by himself, protected by nothing more than his speed and his stealth skill in a cavern full of monsters, coming back with an entire pack every time.
+
+She glanced over at Mato who was sitting off by himself, looking a little subdued. Well, subdued compared to when she had first met him. He had seemed so excited about his class when they had started, but then there had been that little fight where Malika had yelled at him, and a lot of the life and energy had drained out of him.
+
+Is he still upset about that? Worried? Did something happen up in town?
+
+While she hadn’t known her companions longer than a couple of days, they were the only people she knew, and she found the lingering awkwardness bothered her much more than she expected.
+
+“So, Mato…” she began. His head snapped up at the sound of her voice as if expecting a rebuke. He does feel bad. Ali suppressed a grin, trying hard to keep a straight face. “Where do your clothes go when you shift?”
+
+“I…,” he started, trailing off as he looked surprised and confused all at the same time. “I have no idea?”
+
+Suddenly, he chuckled, and as if it was a trigger, everyone started laughing at the absurdity of the question and the fact that none of them had any idea of the answer.
+
+“Good thing you keep them, eh?” Malika teased.
+
+Mato reddened. “Er, yes. Right.”
+
+That’s better. Ali much preferred this mood to the prior one. “Do we have any food?” she asked after everyone quieted down again.
+
+“I got you,” Mato said, upending his pack onto the moss, his mood seemingly much more relaxed now. Several apples, wrapped bundles of what looked like packed food items, and some equipment fell out, and suddenly Ali’s eyes widened in surprise. Tumbling out of his pack came a thick, green-bound book.
+
+“You have a book!”
+
+One of the things Ali truly missed, to the core of her being, was everyday access to her favorite books. Impressions and memories flitted through her mind – the pure joy of sitting down to read in one of those comfy recliners large enough to almost swallow her up, the smell of the library, leather-bound books, old ink, and the soft rustling sound when she turned the pages. The flights of imagination she might embark upon, carried by the words of the story, or the new knowledge she might uncover waiting for her within the covers …
+
+“Mato? When did you get a book?” Calen asked, obviously surprised.
+
+“Oh, yes,” Mato answered, “My mom gave me a book on Druidic magic as a gift for earning my class.”
+
+“May I see it?” Ali asked excitedly. Her hands yearned to touch it, and her curiosity about what it contained was almost unbearable. It didn’t matter that it was a Druid book.
+
+“Sure,” Mato replied easily, placing the large book on the moss in front of her.
+
+She opened the cover, excitedly anticipating the words that might be revealed.
+
+“Oh,” she exclaimed in dismay, looking forlornly at the unintelligible script on the pages. “I can’t read Common yet. That is Common, right?” Ali hadn’t had a chance to even try reading, and so her skills had not helped her learn it yet. The frustration of having a book right there in front of her and not being able to read was excruciating.
+
+“It’s Common. Why don’t you read it for her, Mato?” Calen said, as he got up and walked over carrying another book. “Here, you can read this, too.”
+
+Ali wanted to hug him, her heart immediately filled with the joy and excitement his suggestion had sparked. “Would you? Please?” she asked, trying to convince Mato despite the dubious expression on his face.
+
+“Ok, sure,” Mato answered, “I’m not much of a reader, though. I never unlocked a specific skill for it or anything.” He sat his large frame down next to her, opened the book, and began to read, pointing at the words as he did so she could follow along.
+
+He’s a big softie.
+
+The words on the page slowly began to resolve into meaning as her memories – and her hard-working Sage of Learning skill – began to connect her understanding of the Common language to its written form. More and more words popped from the page as her mana drained to feed the disconcerting sensation of Sage riffling through her mind.
+
+She had to ask for numerous clarifications, given the technical nature of the book, and Calen stepped in to explain usage and interpretations. However, to her surprise, Malika often had answers and further perspectives to offer. Despite being a Street Rat, she had clearly received a decent education at some point in her earlier life.
+
+She expected that Mato would tire of reading after just a bit, but he didn’t. After what must have been nearly an hour, something within her mind seemed to click together and her notification chime sounded.
+
+Sage of Learning has reached level 5.Your proficiency with the Common language has improved.
+
+She glanced surreptitiously at Mato, but he seemed to be enjoying reading to her. She found she quite liked the low, peaceable rumbling of his voice, too, so she simply let him continue. Even though she could now read most of the page in a glance with her Reading skill.

@@ -1,0 +1,317 @@
+---
+id: a3c14a96-80e4-5bb6-b9ab-9e3c969efdef
+page-type-slug: story-chapter-royal-road
+title: "Chapter 149: The First Boss"
+slug: 0152-chapter-149-the-first-boss
+partOf: dungeon-of-knowledge-complete
+position: 152
+ownLength: 5335
+unit: words
+ownProgress: 5335
+publishedAt: 2024-10-29
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1874039/chapter-149-the-first-boss"
+royalRoadId: "1874039"
+markedReadAt: "2026-06-29T20:16:06.477Z"
+---
+
+Due to the enormous potential for economic disruption, every Silver Cog Trading Co. Appraiser must be familiar with the major classifications for dungeons. Whenever a new dungeon emerges in a region, ascertaining its value before the competition is of paramount importance to reevaluating and pivoting our business interests in the area, and must be accurately completed before the economic fallout materializes.
+
+The categorizations then, in order of increasing importance, are:
+
+Trap or Puzzle Dungeon: This category of dungeon spawns few to no monsters, instead using traps or puzzles to protect itself from invaders. Unless the dungeon has learned to use valuable resource nodes, items, or treasure to lure in adventurers to feed its growth, dungeons like this are of little value and should be ignored. They are dangerous, best reported to our Public Disinformation Department for use in distracting our opponents.
+
+Resource Dungeon: The typical resource dungeon manifests one or more valuable resources that can be harvested. Usually featuring beasts, plants, oozes, or some kinds of undead such as ghosts, these dungeons boast no useful items. But monster parts or mining nodes may be present that can be harvested for a steady profit. Spider dungeons may be harvested for venom or silk, dragon dungeons for scales and bones, plant dungeons for alchemical and herbalism reagents, and so on. A standard agreement with the local guild, if present, is the recommended approach, unless the resource is of extraordinary value. Consult with the resource catalog for more information.
+
+Item Dungeon: Typically containing humanoid monsters such as Goblins, naga, lizardfolk, Kobolds, or even zombies and skeletons, item dungeons strengthen their monsters by creating equipment for them to wear. Depending on the level and quality of the items, and ease of access to the dungeon, the appropriate response might be anything from a standard agreement with the local adventurer guild to investing in a full Silver Cog chapter or even funding the development of a dungeon town.
+
+Obviously, there is incredible variety and crossover when considering specific examples. Be certain to categorize the dungeon by the most valuable resource or item available.
+
+- Internal Manual on Dungeon Economics by Bixi Bargainhunter, Silver Cog Trading Co.
+
+Ali shut the book – a stodgy tome titled ‘The Elven Grammatica: An In-Depth Treatise on Elvish Language’ – deciding that this was a good point to stop their lessons. Ryn had found the dreary book lurking in the Vertias Library a few days ago, and Ali had decided to lighten it up by giving her copy a bright yellow cover instead of boring old brown. Both Calen and Ryn were making fantastic progress – especially Ryn, with the pretty silver enchanted hairpin Calen had found for her at the Pathfinders Guild boosting her intelligence. Still, it would probably be a while before either of them fully mastered the language.
+
+“Thanks, Ali,” Ryn said, smiling and sitting back to roll her shoulders and knead knots out of her neck with her fingers. In typical Ryn-style, she hadn’t even batted an eyelid at the news of her possible magical heritage, being far more concerned with what the story had meant for Ali than herself.
+
+“You’re welcome,” Ali answered, taking out her Grimoire and paging to the Kobold chapter, relishing the sharper insights into the runic magic from the perception boost that came with Calen’s thoughtful gift.
+
+“What are you going to work on, now?” Calen asked curiously.
+
+“I should resummon the monsters the adventurer group killed in the sewers,” she answered. It was a chore she had to do more and more frequently now that her minions were defending against both the eager adventurer groups wanting to train, and the incursions of zombies and skeletons that had continued unabated ever since Alexander Gray had arrived. “Also, a level twenty zombie showed up through the cavern system and took out some of my defenders.” Her minions were doing a great job at keeping most of the monsters out, but she needed to replace them as soon as possible in case they got overrun again.
+
+“I really like the improvements to your security, Ali,” Calen said. “You even learned to see me in stealth.”
+
+“The bats and the slimes are good at detecting stealth,” she explained. “Wolves too, if they’re close enough.” Her enhanced perception was even helping with Martial Insight.
+
+“Could I offer some advice?”
+
+Ali puffed out her cheeks, “I didn’t really want to jump on you the minute you got back, Calen, but yes, I’ve been wanting to ask you… uh, a lot of questions.”
+
+“Aah, thanks. Well, the Poison Cloud traps in the sewer are a great choice, but they all trigger on the third activation. I could stroll right through without setting any of them off. Can you make them more random?”
+
+“Oh, I didn’t think of that,” she answered. She had just assumed she would be targeting the third person in whichever group was walking through the sewer, without even considering the possibility of people coming down solo. It was an insightful observation – even if it should have been obvious – of the kind she had come to appreciate from him.
+
+She considered the options for a bit, deciding that she could mix it up with timers instead of counters so that some of the traps triggered on a fixed duration, and she could also vary the counter traps to have a different number. She wrote it down, adding it to her to-do list. “Any other ideas?”
+
+“Hmm… yes, maybe put some of those Grasping Roots traps in the Poison Clouds? I think they’re a little far apart, still.”
+
+Ali noted it down for her to check on later. It was a good idea – especially if she could find something other than poison for the combination so it worked on the undead. “Hey, Calen. I unlocked a skill advancement for Domain Mastery earlier, and I’m pretty sure it’s for making boss monsters. Do you want to help me figure it out?” Even though she had learned it from the Lich’s book, she had been antsy with anticipation all morning, but she had no idea where to even start.
+
+Calen brightened visibly. “Now we’re talking. What did you get?”
+
+Ali shared the advanced Domain Mastery description with him.
+
+“What do you need help with?” he asked, frowning slightly. “It seems fairly straightforward, right?”
+
+Ali did not miss the sudden appearance of his notebook and the happy grin on his face as he began jotting down notes. She could not be annoyed with him when he was in this kind of mood, so clearly happy to be back with them.
+
+“How do I make a good boss?” she began. “I don’t want mediocre ones – I don’t have the mana for that! Which monster should I choose? How does the enhancement work?” In truth, Ali had a million questions, some of which she knew she would only be able to answer after she had fully explored the skill.
+
+“Whoa, slow down there!” Calen laughed. “I’m not a dungeon, so I’ve never made a boss before. Why don’t we start by thinking about where you want to put it first? Bosses can be used to guard important places, for example, or to restrict access to different parts of the dungeon.”
+
+“Like the library? Or do you mean the ventilation shaft down to the ruins? I could block the entrances where the zombies are getting in. Oh, I know – let’s start with the rockfall separating the sewer and the forest cavern!” Calen’s suggestion had instantly shifted her thinking from what the boss was, to what she wanted to use it for, and she found it focused her quite effectively.
+
+“All good ideas. The rockfall is a strategic chokepoint, and you could put something like a slime or a Kobold there to guard the entrance to the rest of the dungeon.”
+
+It was also how Roderik had got in. “Can we go try it now?” Ali’s mind was already bubbling with ideas, and she could barely wait to test them all.
+
+“Yes, let’s go,” Calen answered, an excited grin on his face matching her own.
+
+“Can I come?” Ryn asked. “I want to see this, too!”
+
+“Of course, Ryn!” Ali flew them all across the Forest Cavern, arcing up through the hole and into the sewer chamber she had enlarged. Her slimes and Kobolds still guarded the area, undisturbed so far by the novice adventurers – presumably because she had put several higher-level challenges closer to the stairway down into the forest.
+
+“Are you going to keep it low-level for the novices?” Ryn asked. “I read that dungeons get progressively more dangerous.”
+
+“I think so. I mean, it makes sense.” She didn’t want to create something that would instantly kill them – the image of Havok’s beaten and bruised body sprung to her mind – and she shuddered at the thought of her being responsible for their deaths. Besides, it would invalidate the entire purpose of her agreement with the Guildmaster, which was to help the novices grow – at least, in the sewers.
+
+“That will make the novices happy,” Calen approved. “Nothing too brutal up here. We want them alive, right Miss Dungeon-Breath?”
+
+“Calen! Be serious – of course I don’t want the test to be deadly, not for novices… ah, this is hard. It needs to be challenging… maybe it’s a perfect way to test out my skill,” Ali said, intending to take advantage of Vivian’s request to its fullest. Starting with a low-level monster would be the perfect way to learn what her new skill did, especially considering her higher-level monsters reserved so much more mana and she was running a little tight at the moment. Hopefully, her new boss would also be able to provide her some early warning for higher-level raiders and assassins coming into her dungeon from the town.
+
+“I think a Kobold,” she decided, surveying the monsters in the chamber. She chose a muscular, green-scaled Kobold warrior sporting a sword and a shield and called him over.
+
+“Command me, Ancient Mistress.”
+
+“I’m going to try a new skill on you that should make you more powerful,” she told him.
+
+“I am ready,” the Kobold answered, flashing her a toothy grin, presumably the idea of becoming more powerful sitting rather well with him.
+
+Warrior – Kobold – level 10
+
+“Here goes.” Ali used her new Domain Mastery ability and picked the warrior as her target. Immediately, a golden line of text chimed into her mind, waiting for her to make a decision.
+
+Choose Domain Enhancement Level: Domain, Boss, or Raid.
+
+“I have to choose Domain, Boss, or Raid,” she said, shrugging. “What do these even mean?” She knew what each one meant, individually, but why were these three things grouped as a choice?
+
+“Can you get more information from the enhancement levels?” Calen asked.
+
+“How?”
+
+“Try with your Sage of Learning? Sometimes skills like that allow you to unveil more insights,” Calen suggested.
+
+“I didn’t think of that,” she said. Calen always seemed to know the most obscure details about anything to do with monsters, skills, strategies, or dungeons. Trying to invoke her Sage of Learning on the Domain Enhancement took substantial focus, but suddenly she received a notification, and a rush of golden text scrolled across the parchment in her mind.
+
+DomainRequirements: Anything created from, and within your domain manax1.2 damage multiplierDomain area restrictionRespawn capableDomain Enhancement
+
+Studying the description merely gave her more questions, so she focused on the other two.
+
+BossRequirements: minion, medium density domain mana+2 Domain Magic skillsx5 to Health, Stamina, and Manax5 to mana reservation costx2 damage multiplierDomain area restrictionRespawn capableDomain EnhancementRaidRequirements: minion, medium density domain mana+3 Domain Magic skillsx10 to Health, Stamina, and Manax10 to mana reservation costx2.5 damage multiplierDomain area restrictionRespawn capableDomain Enhancement
+
+“Oh, domain magic!” Excitement bubbled within her as she shared the information with Calen and Ryn. It was the first time anything in her class had referenced the strange ‘Domain Magic’ she learned every time she deconstructed a boss.
+
+“Well, that’s interesting,” Calen said, his quill scribbling furiously.
+
+The details were a mix of straightforward and confusing, so she simply decided to try ‘Raid’. What was the point of going with anything less when she was trying to figure out what the skill would do? Besides, whatever she made would need to be strong enough to defend her domain, and of all the bosses she had fought, the raid-level ones were the most effective.
+
+“I picked the ‘raid’ enhancement since the Kobold is only level ten,” she said, explaining her choices to Calen and Ryn, who nodded together. She triggered the magic.
+
+An unexpectedly powerful surge rippled through her domain mana, centered on the Kobold warrior. Thick streamers of golden arcane and luminous green nature mana burst upwards and swirled through the creature as he was physically levitated from the ground under the power of the magic coursing through him. Ali took an involuntary step backward, trying to study the complex formations spawned from her domain mana. The arcing and swirling magic was doing something to him, connecting his core to the structure of the domain all around them.
+
+That seems… a lot?
+
+The rush of magic cut off with a visible flash, and the Kobold crashed to the ground. He shook his reptilian head and slowly got back up to his feet, towering head and shoulders above the other Kobolds who were all staring at him with awe. Domain mana still flowed through him as he stood there and examined his enhanced body, now substantially larger and more muscular than before. Even his gear had grown larger, triggering a sympathetic ripple through the Grimoire as it recorded the larger sized variations. It looks just like the Skeletal Wyvern. Obviously, her mana affinities were different, and this was a Kobold, but the way the domain mana interacted with him was unique – unmistakably similar.
+
+“Wow, he’s bigger than Thuli,” Calen said.
+
+“Wait, I’m getting more notifications,” Ali said, nibbling at her lower lip. That was a lot of Kobold.
+
+Domain Respawn applied to Kobold Warrior.Raid Domain Enhancement applied to Kobold Warrior.Select additional Domain Magic skills for Kobold Warrior.Choose up to three:Attribute EnhancementSource: Class, Piercer Scorpion, Twin Wights, Skeletal WyvernAttributes: Strength, Endurance, Dexterity, Intelligence, Wisdom+50% to the base attribute of a monsterCan be chosen once per attributeSkill – Domain MagicMinionsSource: ClassAssign minions of the same or lower level to your enhanced monster. The cumulative level of the assigned minions must be less than or equal to [monster level x 3] for a Boss enhancement or [monster level x 4] for a Raid enhancement. Minions assigned in excess of this amount will be held in reserve and then a random set of minions will be summoned every respawn.Skill – Domain MagicSummoningSource: Skeletal WyvernAssign a creature imprint for your minion to summon during combat. The amount and rate of summons depends on available mana, and creature type, and enhancement level. Summoned creatures must be compatible.Skill – Domain MagicEnrageRequirements: Raid EnhancementSource: Skeletal WyvernYour creature will gain increased damage and haste below 20% remaining healthSkill – Domain MagicNova StrikeSource: Piercer ScorpionEnhance a magical manifestation skill to produce a powerful nova centered on your minion, striking all targets within range.Skill – Domain MagicAffinity AuraRequirements: Choose a compatible Magical affinitySource: Twin Wights, ClassAffinities: Death, Nature, ArcaneEnhance your summoned creature’s natural affinity to produce an aura of magic that fills the area around it. The nature and effects of the aura are dependent on the type of mana affinity. When used with a raid enhancement it will produce a significantly more powerful effect.Skill – Domain MagicTwin BindingRequirements: Raid Enhancement. Two minions.Source: Twin WightsChoose a second minion as the twin target, binding both together with the bonds of magic. Each minion of the pair can be assigned a single Domain Magic skill. When one of the pair dies, the other is restored to full health and gains the Domain Magic skill of its partnerSkill – Domain Magic
+
+“Oh, Calen! This is what the Domain Magic skills are for!” she exclaimed, excited to finally see the details of the skills she had been learning whenever they killed a boss. She shared all of them with her companions immediately.
+
+“This is getting quite complicated,” Ryn said, wrinkling her nose as some or other skill made her eyes flicker with subtle movements of mana.
+
+“It had to be something like this,” Calen answered, agreeing. “The names of the skills matched too closely to what we saw the bosses doing.”
+
+“What should I pick?” It was a tough choice. While the descriptions were terse, she had faced most of these abilities in combat and had a very clear idea of what they would do. Each had been challenging, but it was the combinations that made the boss work. The only ones she hadn’t seen were the ones her own class had provided. Minions…
+
+“Perhaps the ‘Minions’ one?” Calen said, almost echoing her thoughts. “I’m guessing that allows you to make a group fight?”
+
+“Sounds suitably bossy,” Ryn agreed. “Didn’t you say you wanted to use this to test it out?”
+
+“That must be what the Swordmaster Kobold had,” Ali mused. The monstrous Kobold in the entry hall of the ruins of Dal’mohra had to have been a boss, and he had several minions with him. It had been a dangerous fight for her and Mato, but they had won because of his tenacity and her Martial Insight skill.
+
+She hadn’t had her Arcane Insight skill back then, nor the Magical Analysis for her Sage of Learning, both of which she was certain were required for her to learn the Doman Magic skills of their defeated enemies.
+
+“We need to find some more bosses for you to deconstruct,” Calen said, still studying the list. “The more Domain Magic you collect, the more options you’ll have for stronger bosses or bosses with unusual and powerful skill combinations.”
+
+“How do you always think so clearly, Calen?” Ali said, annoyed that she hadn’t thought of it first. What he was saying made sense. If she hadn’t been able to analyze the spells, she would have only two attribute enhancements and the minions one, and nothing else. Because of her Sage and Insight skills, she now had the potent abilities of three other bosses she could use whenever she needed.
+
+“I can do some research, if you’d like,” Ryn offered. “I’ve been reading up on dungeons a lot, lately.”
+
+“That would be perfect,” Ali said, offering her a smile. Turning to her waiting notification, she chose the Minions skill for her warrior’s first Domain Magic.
+
+Select or create minions: 40 levels remaining.
+
+“I have forty levels to use…”
+
+“Make a healer,” Calen suggested.
+
+Ali considered her options and then created a level ten Kobold Acolyte and assigned it to her warrior as a minion, causing the available levels remaining to immediately drop to thirty.
+
+Select or create minions: 30 levels remaining.
+
+“This seems pretty straightforward,” Ali said. “Thirty more levels.” She could make three more minions of the same level, or presumably more if she wanted to use lower-level monsters.
+
+“What’s next?” Ryn asked.
+
+“Some damage classes?” Ali asked.
+
+“Yes, maybe a spell caster and another melee class?” Calen suggested.
+
+“Easy enough.” Ali summoned a Fire Mage and a Dagger Rogue, customizing their levels as she summoned them so that they were both level ten, and then assigned them to the Kobold warrior as his minions.
+
+Select or create minions: 10 levels remaining.
+
+“I have ten levels left,” Ali said, running through her Kobold options in her mind. “An archer? A Bone Mage? Maybe one of those Slingers?” She hadn’t used her sling wielders much – she always found fire to be far more effective.
+
+“What about some of those oozes?” Ryn said, pointing to the water channel where one of her Brine Oozes lurked.
+
+“Oh, good idea,” Calen said. “They might make a nice surprise.”
+
+It wasn’t as if she had any reason to stick to Kobolds, so she picked two level five Brine Oozes and added those.
+
+Minions assigned.
+
+“What next?” Ali asked. “I have two more Domain Magic skills to choose.”
+
+“You have a strong party – tank, healer, and two damage classes. Perhaps give the warrior some attribute boosts?” Calen suggested.
+
+“Like endurance? Or strength?” Ali hadn’t considered the effects of the attribute enhancements, but an endurance boost for a tank would probably be quite strong. Or even strength. How do I choose?
+
+“Why not both?” Calen asked. “Warriors scale extremely well on both attributes, and you have the space for both.”
+
+“Why not?” she decided, and committed to the idea.
+
+Attribute Enhancement (Endurance) applied.Attribute Enhancement (Strength) applied.
+
+Her domain mana surged once again, and the reservation for her three Kobolds and two Oozes assigned as minions was released, transferring visibly to the Kobold warrior as an attachment of their mana formations. The domain mana flowed through them causing them to grow just like the warrior, although not quite so large.
+
+Her chime sounded.
+
+Domain Enhancement complete.Your reserved mana has increased by +222.Domain Mastery has reached level 21.
+
+“Wow, it’s expensive!” She had already been tight on mana, and this enhanced Kobold warrior had just reserved ten times the cost she had paid for the original, unenhanced version. Perhaps it was too much to expect that it would be free like her domain-attached runic circles. It made sense though; the monstrous Kobold was huge compared to his kin and infused with the power of her domain which coursed through him like a river. He was supporting two powerful domain attribute enhancements, and maintaining five other minions of his own. The consolation was that the mana reservation for his minions had transferred to him, or the domain itself, and Ali was only paying the single – albeit exorbitant – cost for her boss.
+
+“How do you feel?” she asked her Kobold warrior.
+
+“Powerful, Ancient Mistress.” He bared his teeth and stretched his muscles, causing cracking noises to fill the chamber. Ali took an inadvertent backward step. “I wish to fight.”
+
+“You will have your chance soon,” she said, slipping into the senses of her first boss, and exploring his world. As the skill had described, he was now restricted to the chamber in which she had enhanced him, though his range extended a fair way down the tunnels and even down the stairs into the Forest Cavern. She had him run around a little and when he reached the limits of his range, she could sense the pull of the domain mana preventing him from leaving.
+
+“So, he’s stuck here now,” Ali said.
+
+“That makes sense,” Ryn said. “Lots of dungeon books talk about ‘boss tethering’ behavior.”
+
+“Yup,” Calen agreed. “Some people even use it as a strategy. You’ll need to learn to account for it when you design the bosses.”
+
+“I see.” So much to consider. She could even see the effect with her mana-sight – the domain looked somehow subtly thinner, perhaps stretched – as if it were under some sort of load to support the new domain enhancement, and this load coincided with the range of the Kobold. But he felt exceptionally powerful, just as he had said.
+
+She pulled up his status sheet to see what her newest skill advance had created.
+
+Race: KoboldActive Buffs: Raid, Respawn, Warrior's FortitudeClass: Warrior – level 10- Strike – level 9- Shield Bash – level 5- Demoralizing Shout – level 4- Warrior's Fortitude – level 8- Rush – level 4- Shield Mastery – level 10- Rallying Cry – level 1- [Locked] - [Locked] - [Locked]General Skills- Identify – level 7Domain Magic- Damage Multiplier: x2.5 to all attack and spell damage- Minions: 5- Enhanced Attribute (Strength): +50% to base Strength- Enhanced Attribute (Endurance): +50% to base EnduranceAptitudes- Language: Draconic- Draconic Blood (Racial): Resistance to Fire is increased by +70- Kobold Trickery (Racial): +5 to Dexterity and Intelligence. - Unbreakable (Class): +20% to armorAttributes- Vitality: 52 (+18) - Strength: 70 (+24) - Endurance: 89 (+31) - Dexterity: 26- Perception: 18- Intelligence: 16- Wisdom: 16Equipment- Body: Masterwork Steel Breastplate – level 10- Weapon: Bone Shortsword – level 10- Off Hand: Bone Buckler – level 10Armor: 244Physical Damage Reduction: 46.56%Health: 5200/5200Stamina: 7120/8900 (1780 Reserved)Mana: 1600/1600
+
+Ali studied the changes in mute astonishment, wordlessly sharing the warrior’s status sheet with Ryn and Calen.
+
+“Ali…”
+
+“Wow!”
+
+Wow is right, she thought. The first changes were the two active buffs imparted by her domain magic. When she inspected the respawn buff, she learned that her Kobold had a six-hour recharge before her domain would presumably resummon him using the imprint recorded in her domain mana – probably using the magic of her Grimoire of Summoning. It wasn’t exactly clear, given that she hadn’t studied the magic in action, but she assumed that was how it would work.
+
+“Six-hour respawn,” she said.
+
+“Will it resummon his gear?” Calen asked.
+
+“I presume so,” Ali said. It would be a bit stupid if it didn’t. “My Grimoire usually summons them with reasonable default gear choices now that I have customization.” Same with the minions, but she quickly verified that they had the Respawn buff also. She had so many questions, but most of them would need to wait till she had time to run some extensive testing.
+
+Below the usual skills on his status sheet, she found the three assigned Domain Magic skills – enhanced endurance, strength, and minions, but there was something else in that section she had not expected.
+
+“Does that damage multiplier double everything?” Calen exclaimed, catching up to her accelerated reading speed, and stopping at the same point.
+
+“It’s more than double,” Ryn said.
+
+“What else is there, other than attack and spell damage?” Ali asked. It was perhaps not all damage, but there was not a lot else that mattered in combat. If the warrior had poisons or something, perhaps that wouldn’t be affected, but in this case, it seemed that everything would hit a lot harder.
+
+“Maybe alchemical explosions won’t be affected?” Calen mused.
+
+“Wouldn’t that count as an attack?” Ryn asked.
+
+“Yes, maybe…”
+
+Then there were the attributes. Coincidentally, she had chosen to enhance his endurance attribute with one of her Domain Magic skill slots, which happened to be the attribute his Warrior’s Fortitude skill was based on. That made it boost its vitality and strength a little more in addition to the usual benefits of endurance. The base improvement to strength would make the warrior hit a lot harder and block substantially more attack damage.
+
+“Did you see the resources?” Ali asked. It was the health, mana, and stamina at the end of the status that grabbed her attention.
+
+“That’s a lot of health,” Calen observed, when she pointed it out. “Is he getting a hundred points per attribute?”
+
+“I think so,” she answered, checking the numbers with the description she had for the raid enhancement. It seemed that the major enhancement to her Kobold was an enormous increase in health, stamina, and mana. Most races received ten health per vitality point – and the same from endurance and wisdom to produce stamina and mana. Some variation was possible, just rare – like her own race having less health, but correspondingly more mana – but her Kobold had just gained ten times the normal amount in every resource from her domain enhancement, turning it into an absolute powerhouse of a monster.
+
+“If this is the way dungeon bosses typically work, it’s no wonder they take so long to kill,” Calen said, furiously scribbling notes and calculations.
+
+“You’re right,” Ali said, thoughtfully. His comment – if correct – explained precisely why they had had to fight for so long to kill the Skeletal Wyvern and the Twin Wights. Both had been Raid-level bosses. Curious now, she checked with each of the Kobold warrior’s minions, finding that with the exception of the domain skills, they had all been similarly enhanced. At least her ability to check their status sheets answered one other question – even though she had ceded the mana reservation for the three Kobolds to the warrior, they still counted as her minions for Martial Insight, even though they were also the warrior’s minions.
+
+Calen’s eyes suddenly widened, and his head snapped around in alarm. “Ali, I think we might have a problem!”
+
+“What is it?” Ali asked, surprised by the urgency and worry in his voice, the expression of surprise and alarm on his face.
+
+“This is a raid boss!”
+
+“Yes? I needed a good defender.” She had chosen raid enhancement on purpose, that was the point of the entire exercise.
+
+“Here, look,” he said, sharing the results from his Explorer skill.
+
+[Explorer]Category: Dungeon BossThreat Level: RaidMonster Type: KoboldDamage: PhysicalKnown Abilities: Minions.
+
+“Even the identification for your dungeon has been updated.”
+
+“Is that a problem?” Raid bosses were the strongest dungeon monsters, and now that she could make them, she would be able to finally address Lyeneru’s harsh criticism of her defenses. Bosses meant safety for her dungeon, fewer assassins getting in, and fewer random monsters wandering in like the dire bear or zombies and skeletons. All she needed to do was place one at every entrance and chokepoint – raid bosses were the pinnacle of dungeon power; she finally had the tools to protect herself.
+
+It also explained why she had been able to select three Domain Magic skills – it was consistent with what she had observed from clearing the Ruins of Dal’mohra, she should expect three Domain Magic skills for a raid class boss, and two for a normal boss.
+
+“The novices have been practicing on groups of isolated Kobolds and slimes. If this is the next threat they will face, how do you think they’ll fare?” Calen asked.
+
+Ali’s eyes settled on her oversized Kobold and his matching minions – an almost optimal group of classes, equipped with some of her best items and suffused with the power of her domain mana. Her mind conjured images of the novices – Havok, Aiden, Teagan, Seth, Basil… all brimming with curiosity, excitement, and the potential of their powerful new classes. It was them who would be facing her creation. None of them had even reached level ten yet, and all their experience was in groups of three to five, facing her weakest minions. This fight would be far worse than Mato and her facing the Swordmaster Kobold, or the four of them facing off against the Bugbears and Goblin shaman way back before all of them had reached bronze level or even joined the guild.
+
+“Shit! I need to talk to Vivian,” Ali said, a sudden weight settling into her chest. If they didn’t have some warning, the novices were all going to unwittingly stumble into the final chamber of the sewers and die.
+
+Calen made a calming gesture. “Don’t look so worried, Ali, this is all good learning.”
+
+“Not if learning is quite so dangerous,” Ryn said, wide-eyed. “I think you need to help Ali plan this better, Calen – and, to be fair, Ali, you had no idea just how much more powerful your raid-level boss would turn out to be. Those numbers are scary.”
+
+Whipping out a scrap of cloth, Calen mopped Ali’s forehead and said, in his squeakiest falsetto, “I’m so scary, Ryn, I know!”
+
+“Calen, you’re terrible!” Ali smacked his arm as he cracked up at his own joke.
+
+“I know,” he said, grinning – but then his face took on a more serious cast. “On a more serious note, I think talking with Vivian is appropriate. We don’t want any accidents.”
+
+“I just hope it’s not a mistake.”
+
+“Remember when we took down that Skeletal Wyvern?” Calen said. “All it took was some advice and a good plan – this boss has the potential to really accelerate those novices’ levels.”
+
+“Ok,” Ali said. She liked this more confident, easygoing Calen. Something must have happened to him at the Pathfinder Guild, she realized. Something good.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

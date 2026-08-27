@@ -1,0 +1,151 @@
+---
+id: 90818c9b-5a80-59ec-a794-0c6ac9cd79dc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 219: Blood Shaman (Part 1)"
+slug: 0246-chapter-219-blood-shaman-part-1
+partOf: dungeon-of-knowledge-complete
+position: 246
+ownLength: 2579
+unit: words
+ownProgress: 2579
+publishedAt: 2025-04-05
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2176659/chapter-219-blood-shaman-part-1"
+royalRoadId: "2176659"
+markedReadAt: "2026-06-29T20:19:30.757Z"
+---
+
+The troll race is broad and ancient, and their magic spans the entire constellation of affinities with few exceptions, however, within a given tribe or kingdom, most individuals inherit only a few signature affinities, generally following their potent bloodlines. This gives rise to a strong cultural identity that fractures the race into small kingdoms or tribes all sharing the same bloodline and similar magic.Across the entire race, there is a consistent theme that relates to the use of spirit magic, sometimes identified as ‘soul’ magic, ritual consultation, and interaction with the so-called Spirit Realm. Common class types revolve around witchdoctors, herbalism, and shamanism.One of the most intriguing features of their race is the complete lack of any fire magic – an affinity that is remarkably common among most other races, particularly humans and dwarves. Indeed, because of its ability to negate their innate regeneration, the use of fire in their culture is taboo, typically reserved for occasional cooking and torture and little else.- Excerpt from Cultures of the Modern-Day Kingdoms by Evanna Quillmore the Scribe.
+
+You have been afflicted with Domain Withdrawal.Separation from your domain weakens you.-10% to maximum health.Affliction – Duration: Indefinite. Count: 1
+
+Ali woke early to the sound of her notification chime and the now-familiar stabbing pain of prolonged separation from her domain. Their camp was still mostly asleep, and the birds were only just beginning to chirp in the trees as the jungle started to wake in the predawn light. She got up carefully, getting used to the feel of her body weakened by withdrawal, and walked over to where Malika was keeping watch, sitting cross-legged on a fallen tree. Her friends had neglected to wake her for her shift – again.
+
+“Good morning,” Malika said, greeting her with an offer of some fruit.
+
+“Hi, Malika,” she said, easing her aching body onto a perch beside her on the mossy tree trunk. She took a peach gratefully, enjoying the ripe sweetness of the fruit.
+
+“Withdrawal?” Malika asked.
+
+“Yes,” she said, nodding. Even after all this time, and all her growth, she still struggled with the pain of it. She knew she could function, but it took a while to reacquaint herself with the weakness. “You skipped my watch.”
+
+“You worked hard yesterday,” Malika said.
+
+“So did you,” Ali grumbled.
+
+“I got to rest while you unlocked the way forward,” Malika offered. “Besides, your minions keep watch even while you sleep.”
+
+“Thanks,” Ali said, letting it go.
+
+As she broke her fast with Malika, chatting quietly together, she realized that she had quite a lot to review. In the tumult of the events of yesterday, she hadn’t even checked her notifications, rescuing Gara and dismantling the Blind Lich’s necromantic masterpiece had taken urgent priority. Once they were done here, she most definitely needed to share her discoveries with Lyeneru and the Council of Archmages – they deserved to know what was going on, and perhaps they would be able to do a better job of discerning its precise function, and thereby intuit Nevyn Eld’s dark purpose.
+
+“Hey, what happened to the troll corpses from the battle?” Ali asked. She had deconstructed Kir’mogan, but she had been distracted by Calen’s discovery of the barrier, and she hadn’t finished the rest of the boss’s minions. Leaving them lying about was just asking for this dungeon to raise them as undead, something she couldn’t allow.
+
+“We saved them for you,” Malika said, quickly producing several troll corpses from her ring and laying them out on the ground.
+
+“Thanks,” Ali said, relieved that she wouldn’t need to face these again as zombies or worse. She hopped down and deconstructed Kir’mogan’s four minions and the several zombie corpses Malika had collected.
+
+Imprint: Undead completed.Variant: Blood Shaman added to Imprint: Troll.
+
+This time, her Grimoire had decided that zombies and skeletons should be combined – perhaps she had deconstructed enough of them to pass some obscure threshold? As usual, she simply dismissed the undead imprint. Every time she did, she considered Calen’s suggestion of keeping it so that she could use Slayer against the undead, but every time she came to the same conclusion; imprints were extremely valuable and altogether too scarce to waste on another monster she couldn’t use.
+
+Perhaps later, she thought as she turned to her notifications.
+
+Grove Warden has reached level 73 (+4).+40 attribute points.
+
+Four levels for him. She glanced at Malika using Identify, confirming that her friend had gained five levels – one more than her. But she had been five levels ahead of her at the start of the fight, so that made sense, and she didn’t mind that the gap had closed a little, both of them having earned substantial growth. She smiled, happy that her friend was growing so quickly, knowing that she was rapidly becoming the strong warrior she had always dreamed of being.
+
+Ali pursed her lips for a moment and then spent twelve points each on wisdom, intelligence, and perception – the three attribute traits that influenced all her skills. Then she put two points into vitality and one each into dexterity and endurance. Immediately, her domain withdrawal eased up. And the dexterity investment would help her zip around on her barriers a little better.
+
+Yes, that seems good.
+
+Arcane Insight has reached level 43 (+5).Arcane Recall has reached level 15.Barrier has reached level 52 (+2).Runic Script has reached level 34 (+3).Sage of Learning has reached level 31 (+6).Martial Insight has reached level 50 (+4).Empowered Summoner has reached level 37 (+3).Inspiration has reached level 15.
+
+It had been a challenging fight, but despite knowing it, seeing the enormous skill growth across the board brought her up short. That’s… a lot. But when she examined the details, she realized how it had happened. Arcane Recall and her Grimoire of Summoning had both leveled up in a prior fight, when she had summoned her Armored Drake in the air and dropped it on the terrifying hasted, blood-enchanted trolls.
+
+The massive growth in Sage of Learning, Runic Script, and Arcane Insight had come after the battle with Kir’mogan, studying Kir’mogan’s strange runic tattoos, and her long hours spent learning and dismantling the necromantic array. Even so, her growth for the battle had been phenomenal with all her barrier and minion enhancement skills growing substantially.
+
+Variant: Blood-Drenched Moss added to Imprint: Moss
+
+The new moss variant would go nicely in the cave with the Abyssal Stalker – something for Basil to play with. But the imprint change she was most interested in was the new troll variant.
+
+Blood Shaman.
+
+She was pretty sure their rescued troll – Gara – had the same class, and she was burning with curiosity to figure out what that powerful blood magic skill was. She pressed her lips together, still a little uncomfortable about summoning trolls, but she had a responsibility to her friends – she couldn’t afford to leave such a potentially powerful advantage unexplored. She opened her Grimoire and began to summon it.
+
+Blood Shaman – Troll – level 71 (Blood)Your reserved mana has increased by +501.
+
+“You learned the shaman?” Malika asked, examining the tall, wiry troll with undisguised curiosity.
+
+It was a redundant question, given the very real shaman standing before them, but Ali nodded anyway, studying her new minion. She looked really powerful, even just standing there in the shabby, crude leather armor her Grimoire had picked with her now-familiar intricate crimson runes contrasting starkly against her greenish skin.
+
+“Well, that gear won’t do,” Malika said, her tone suddenly brusquely practical. “Here, use this.” She dumped out several vests from her storage – dark leather, decorated with abstract red stains.
+
+Blood-Stained Leather Vest – level 69Armor: 579Evasion: 579+44 Wisdom+35 Dexterity+17 Perception2% of your Physical damage is returned as Health over 30 seconds. Requirements: Dexterity 138, Wisdom 138Created by Zor’kan.Body – Leather
+
+“Wow, those are amazing,” Ali said, examining the thick leather vest.
+
+“Uncommon grade,” Malika said. “Too bad it’s wisdom and dexterity – not a very popular combination.”
+
+“Would work for you.”
+
+“If I could wear body armor,” Malika agreed. “Too much wisdom for Calen, too much dexterity for Mato, but the shamans all had one – you should learn it.”
+
+“Ok.” It was another solid uncommon-grade addition for her Grimoire. Whoever this Zor’kan was, he was certainly prolific – so much so that the dungeon was still using originals instead of copies. While the vests looked hideously stained with what was evidently real blood, even without leatherworking expertise, Ali could see how finely wrought the enchantments were, and how integral the ‘decorative’ coloring was to the proper functioning of the piece. Truly the inspired work of a master crafter.
+
+Variant: Blood-Stained Leather Vest added to Imprint: Armor.
+
+Ali paged back through her Grimoire and created a new vest while Malika produced a shaman bone mask, a fresh set of the Swift Bone-Studded Jambeau, and a garishly painted bone buckler from storage for her to use.
+
+“Do you have any more of these?” Ali held up the Ancestral Spirit Beads she was wearing on her wrist. Malika produced another two of them, one from her own wrist and the other from storage. Ali carefully deconstructed the one she was wearing, along with the two Malika had given her, and shortly the expected notification chime sounded.
+
+Imprint: Bone Bracelet (Hands) updated to Imprint: Charm (Hands).Imprint: Ancestral Spirit Beads has been added to Imprint: Charm (Hands).
+
+She worked quickly, creating several bead bracelets, handing one to Malika before twisting hers back into place on her own wrist.
+
+“Put these on,” Ali said, indicating the pile of gear.
+
+“As you ask, Seeker,” the troll answered with a respectful tone and began equipping herself. She was tall – taller than both Calen and Mato and taller even than Gara – and as she donned her armor, Ali could see the runes that adorned her skin lighting up with the deep red of blood-affinity mana. It was a strange phenomenon, she could see the magic within the runes, but she could not see the mana that had produced it.
+
+“Is this your Ancestral Spirit Runes skill?” Ali asked, touching one of the strange glowing runic tattoos on her leg.
+
+“It is as you say, Seeker,” she answered, dipping her head.
+
+“What is that?” Gara said, and Ali glanced up to find her awake and staring at her new Blood Shaman with a strange expression on her face, keeping a fair distance as if afraid to approach. “I smell the bloodline of Aman Rak, but she is no troll I have ever met. Why does she show deference to you? It is unseemly, you are not a Troll.”
+
+“I learned to make her after the battle against Kir’mogan. It’s part of my class,” Ali said, worried about Gara’s reaction at seeing her troll minions.
+
+“You are… a summoner?” she asked, turning to stare incredulously at Ali.
+
+“Yes, that’s part of my class,” she answered, not wanting to go into too much detail with someone she had only just met. “I don’t mean to cause any offense.”
+
+“Offense?” Gara seemed puzzled by the word.
+
+“By summoning your race as my minions,” Ali clarified, wondering if her command of the troll language was still not quite right.
+
+“I would summon trolls too, if I was a summoner. Trolls are the strongest,” Gara said, coming over to sit on the ground nearby, seemingly comfortable now that she understood what was going on.
+
+Fair enough. Ali almost laughed out loud, but caught herself and bowed briefly to Gara in a gesture she had discovered was part of their language. I had forgotten how arrogant trolls are, she thought. Of course, she thinks they’re the best.
+
+While the rest of the camp roused, Ali slipped her awareness into her troll shaman and was immediately assaulted by the powerful stench of blood. It was just like her Abyssal Stalkers’ perception, although in a much higher-level minion. She could smell the blood-affinity mana pulsing through the domain all around them, but the skill was so much more sensitive than that. She could easily distinguish Gara’s blood from Malika’s from where they sat nearby. She could smell Mato and Calen where they moved about camp, and she could even smell the stale blood from all the way over at the Temple of Bone – the aftermath of their fight. If she focused, she could even tell precisely where to hit Gara or Malika to strike the biggest arteries.
+
+It was easily one of the most bizarre perception skills she had experienced, and she spent a little while locating each of her minions using scent just to familiarize herself with the higher-level nuances. Her imps and wargs had a sulfurous odor to their blood, presumably due to their affinity or their realm of origin. The Armored Drakes had a lot of blood, and the dragons’ blood had a rather unique scent to it. And… wait? She suddenly realized she couldn’t sense her Forest Guardian at all. The hulking elemental was clearly visible, but to her shaman’s unusual perception skill, it might as well have not existed.
+
+No blood, she realized. Her Forest Guardians were plant elementals and therefore had a completely different biology. Some kind of sap. I’d bet none of their blood magic works on it either, she thought, considering the implications further. Probably wouldn’t work on Lira, either. Everything she had learned about the limitations of her Abyssal Stalkers probably applied to the Blood Shaman also.
+
+“Summon your totems so I can see them,” Ali asked, to which the troll simply nodded and summoned three small wooden totems, that seemed to have been permanently stained with blood. Gara looked on with interest as she explored her shaman’s abilities.
+
+Armor – Totem – level 42Resistance of Blood – Totem – level 42Blood Restoration – Totem – level 42
+
+“Those are very nice,” Malika said. “I just got 294 more armor and 352 more magical resistance.”
+
+Before taking a look at the shaman’s status, Ali quickly verified that she was getting the same bonus to armor and resistance.
+
+Race: TrollActive Buffs: Ancestral Spirit Runes, Armor, Resistance of BloodClass: Blood Shaman – level 71- Lacerate – level 41- Blood Shield – level 32- Blood Siphon – level 44- Blood Manipulation – level 33- Summon Totem – level 42- Ancestral Spirit Runes – level 37- Blood Walker – level 29- Vampiric Hex – level 41- Scent of Blood – level 28- Bloodlust – level 22General Skills- Identify – level 23- Cooking – level 18Aptitudes- Language: Troll- Mana (Affinity): Blood- Troll Wisdom (Racial): +15 to Wisdom- Bloodline (Aman Rak): +30% to range and power of Bloodline skills- Regeneration (Racial): +600% health regeneration. Can regenerate mortal injuries. Fire damage cannot be regenerated- Blood Magic (Class): You can use health to pay for any mana costs. You have no mana. Instead, you gain 10 health per point of WisdomAttributes- Vitality: 365 (+232)- Strength: 76- Endurance: 146 (+32)- Dexterity: 652 (+500)- Perception: 93 (+17)- Intelligence: 57- Wisdom: 710 (+523)Equipment- Weapon: Bone Axe – level 70- Off Hand: Painted Bone Shield – level 70- Head: Ancestral Bone Mask – level 65- Hands: Ancestral Spirit Beads – level 64- Body: Blood-Stained Leather Vest – level 69- Feet: Swift Bone-Studded Jambeau – level 60Armor: 294Physical Damage Reduction: 12.88%Evasion: 1030Dodge: 34.12%Resistance: 1176Magical Damage Reduction: 37.16%+57% to mana regeneration.+4% of your damage is returned as Health over 30 seconds.+15% to Movement speed.Health: 8600/10750 (2150 Reserved)Stamina: 1460/1460
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

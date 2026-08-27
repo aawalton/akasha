@@ -1,0 +1,247 @@
+---
+id: 833f655a-e981-5cda-955b-dbd897b38871
+page-type-slug: story-chapter-royal-road
+title: "Chapter 97: Naia"
+slug: 0098-chapter-97-naia
+partOf: dungeon-of-knowledge-complete
+position: 98
+ownLength: 3434
+unit: words
+ownProgress: 3434
+publishedAt: 2024-07-11
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1713710/chapter-97-naia"
+royalRoadId: "1713710"
+markedReadAt: "2026-06-29T20:14:15.761Z"
+---
+
+Naia’s membrane quivered with agitation as the creature called Aliandra touched the impenetrable wall-with-no-cracks with one of her stiff tentacles and a bright intense beam of mana burned out, searing into the stone.
+
+What is she doing? A vibration she had never imagined thrummed through the rock, sending quivers of excitement and terror through her as her senses felt the wall giving way to this strangely familiar-seeming power.
+
+There was an explosion of mana and instantly she could feel the shape of the wall had changed. A hole? Naia liked holes. The smaller the better. She could squeeze inside them and be safe from the scary people who sometimes came to hunt her.
+
+But this was a hole in the wall. She was terrified. She had struggled for as long as she could remember, trying in vain to even scratch this wall. Aliandra had shown up with her oppressive aura of ancient power and torn a hole through it in seconds. But she didn’t know what lay beyond. She couldn’t even remember much of what was outside her dungeon.
+
+“Well, shall we see what’s on the other side?”
+
+Aliandra’s word-vibrations came to her through the air and the rock, carrying information and thoughts she had long given up on in despair and frustration.
+
+Other side?
+
+Naia collected her wits. Ever since she had eaten the two new pretty slimes, her mind seemed more complex. Thoughts that she had never thought before swirled around in her consciousness, demanding her attention. She had been convinced Aliandra would kill her with her powerful magic, just like everyone else had tried to do, and yet, somehow, she was still alive. She felt the soft tremors to the side, and her new pretty slimes were still there, not vanished like a dream.
+
+Freedom? Danger? Choose?
+
+Naia could remember the last time she had experienced something new. It had been when she evolved the Scalding Slime. She remembered how happy she had been then – but that was so many years ago…
+
+The strange Aliandra vanished, squashing her strange body of stiffness and flesh through the hole. Naia briefly felt sorry for her disability, since squashing through holes with a slime body was perfect. What must it be like to be unable to bend or stretch?
+
+Trust.
+
+It was one of the strange concepts that had come to her after she ingested the Toxic Slime. Similar to Aliandra’s word-vibration ‘friends’. Naia wasn’t certain she truly understood what it meant, but Aliandra still hadn’t killed her, and she had given Naia the priceless gift of two slimes.
+
+Suddenly, the Fae invader poked some of herself back through the hole, reaching a stiff tentacle out toward her.
+
+“Come, Naia, come and see!”
+
+Choose? Choose! Freedom? Safety? Her mind replayed the crushing despair of her prison, the endless years of yearning for freedom, the weirdly rigid appendage reaching toward her, and she chose. Her pseudopods shot out, latching onto the strange flesh filled with its sparkling gold and green mana, and she pulled herself up through the hole.
+
+Naia popped out the other side and landed on the hard rocky ground, instantly shifting her form to match, as the vibrations of the waterfall thrummed through her body.
+
+“Look,” Aliandra spoke again, still holding onto her pseudopod with a warm hand. Naia decided that the sensation wasn’t unpleasant, so she let her keep holding on. Besides, the deeply unfamiliar touch seemed to calm the vibrations within her.
+
+What is look?
+
+She felt. She couldn’t feel the shape of the cave in most directions. It was simply open past her range, and after so many years confined to her little cave where she could feel everything, she found the sensation of the wide unknown beyond her senses to be terrifying. She could feel the warmth from Aliandra’s hand, the swish-swish of the ooze that flowed within her strange tubes, pushed about by the thumping of the busy thing in the center of her chest.
+
+Aliandra seemed calm, and Naia easily detected the powerful magic she wielded, formed into a disk in front of her. She reached out with the rest of her senses, sensing faint wisps of ambient mana way beyond her ability to feel the space. But it was her membrane that finally helped her see. The vibrations of the water resolved into a shape, thundering in the distance into a huge pool that was filled with water. And she felt things out in the space. Things that wriggled and crawled and hid in tiny crevices. With each vibration, her mind constructed the map of her new world.
+
+Big. Too big.
+
+It was overwhelmingly large. Way bigger than her steam-vent cave. And she could feel the monsters crawling around inside it.
+
+“The water is full of those mushrooms,” Aliandra said. “And there are bats on the ceiling and fish in the water, which means that this place is connected to the outside.”
+
+Outside? Naia wasn’t even sure if she knew what that was anymore. But she remembered it was a place that was even bigger than this cave.
+
+Suddenly, a fast-moving shape appeared in her shape-sense, sharp pulses of loud vibrations hammering into her membrane. She reacted instantly, withdrawing her pseudopod from Aliandra’s hand and turning herself into a flat rock on the ground. The blazing disk of magic moved, and the shape smacked into it and fell to the ground.
+
+Cave Bat – level 12.
+
+“Can you fight?” Aliandra’s voice penetrated her mental fear-fog like the long-forgotten dawn chasing away a morning mist.
+
+I remember.
+
+“I fight.” Naia reached out with her mind and called her three slimes to her. They burst through the hole together, plopping onto the ground right beside her, and merging her mind with their senses, she attacked, launching pseudopods, and blasting strange dazzling magic from the Luminous Slime at the downed bat. She didn’t know what it did, but the bat simply flapped along on the ground, so she decided the attack was good and did it again.
+
+The two Toxic Slimes were weak, but she reached with the Luminous Slime, extruding its body around the fallen struggling bat until she had it fully caught. Then she expanded the Luminous Slime to ingest the entire bat.
+
+A chime sounded in her mind, along with a flicker of a notification that she had not heard in a very long time.
+
+Your group has defeated Cave Bat – level 12.
+
+She gawped at the message for a bit before she asked. “Can I eat it?”
+
+“What?”
+
+“Can I eat the bat?”
+
+“Sure,” Aliandra answered, moving her mouth into the shape that meant happiness.
+
+Immediately, her Luminous Slime consumed the monster, and Naia felt the surge of mana released into it and flowing along the connection of mana she held with the slime, filling her.
+
+Naia slowed the fresh influx of mana, storing most of it in the Luminous Slime while she turned part of her own body into the steam affinity, and split off a new Scalding Slime. She let the mana flow back to her and did it again, making a second.
+
+Expanding her awareness to include her two new slimes, she flattened them up against the wall and began to climb rapidly to the ceiling, seeking out all the cracks and folds in the rock to speed her way. Her senses expanded as her slimes spread out, taking in more and more of the cavern.
+
+“I didn’t know slimes could climb so well,” Aliandra said, still standing beside her.
+
+Naia felt a surge of pride hearing that her pretty slimes had impressed the ancient Fae.
+
+Way up above on the cavern roof, she felt the thump-thump of the roosting bats as their pump-thing pushed their red slime around in their weird bodies. She didn’t know why they insisted on having this thing inside them, but it made hunting very easy. She stretched and flowed her Scalding Slime across the ceiling of the cave until her pseudopod reached out and encircled its leg.
+
+It screeched and took off, but she simply latched on and flowed more and more of her body onto the frantic creature. When she released her hold on the rock, she fell, shooting jets of superheated steam into the bat as it dropped. She felt the distinctive vibrations of falling into water both through the rock to her main body, and directly through the senses of her Scalding Slime. It sank quickly into the huge pool, shooting steam and grappling with the bat until it ceased struggling.
+
+You have defeated Cave Bat – level 14.
+
+She didn’t hesitate, engulfing the corpse and consuming it immediately, feeling the rush as the mana flowed back to her. She could sense the flow of mana following the mana trail her slime had left during its climb up to the ceiling.
+
+She poured the new mana directly into making more slimes. First, she created another Scalding Slime, and then, intent on exploring the lake too, she created a dozen stinging jellies, ejecting them over the edge and into the water she now could see through her Scalding Slime’s senses.
+
+Aliandra had said there were fish. And she wanted to know what fish tasted like.
+
+What is this feeling? She paused for a moment to consider what was happening to her. Joy? Happy? Beside her, the thump-thump in Aliandra’s chest seemed steady and the Fae was making encouraging vibrations.
+
+Above on the roof, her second Scalding Slime caught a bat, and she fought it all the way down, till it splashed into the water and died.
+
+You have defeated Cave Bat – level 15.
+
+Slime Lord has reached level 25.+15 attribute points.
+
+Your Scalding Slime has reached level 24.
+
+What is that?
+
+Ali watched Naia tearing through the cavern with a shocking escalation of power and energy as she rapidly devoured everything that moved. Whenever she consumed a monster, the mana pulsed along the trails her monsters left everywhere, returning to her as she huddled on the ledge beside her, still pretending to be a rock. But every time there was an influx of mana, she would grow a new slime from her body and send it off to explore or fight.
+
+But Naia’s obvious excitement and joy at being free was worth it.
+
+Every time the mana pulsed along the trails, the tendrils thickened and strengthened, spreading the bulk of the mana harvested into the surrounding area, and Ali could quickly tell that this entire cavern would soon be filled with Naia’s domain mana.
+
+Suddenly, Naia quivered, and then bounced up and down in a gesture that Ali was beginning to associate with extreme excitement.
+
+“Aliandra! I gained a level!”
+
+Mimic Slime – Anomalous Ooze – level 25 (Water)
+
+“Congratulations!” Ali exclaimed, sharing the excitement of what must have been a profoundly significant event for her little friend.
+
+“I put some points into intelligence,” Naia said. “So, we can talk better.”
+
+“Good,” Ali said, “Because there’s something difficult I need to tell you.” Naia’s progress was incredible, but Ali was well aware of just how vulnerable she was. If the Lord of Volle discovered she was growing, Naia would be exterminated in a heartbeat. And level twenty-five wasn’t nearly enough if the guards outside were anything to go by.
+
+Naia stopped bouncing, but Ali was grateful she didn’t ask if she was going to be killed for a change.
+
+“I have to go soon. If I don’t, the people will come to find me, and then they will find you and I don’t want that.”
+
+“I can hide,” Naia said, bouncing a few times.
+
+“Yes, but you will need to be smarter. If they come back and find you gone, they will know that something is wrong and they will hunt you down and kill you.”
+
+“I don’t want to go back in there,” Naia said, sounding forlorn. “I want to be free. Please don’t make me.”
+
+“When they come down, they need to find everything in the caves exactly the same as always. Otherwise, they will be suspicious. The same slimes, the same levels. The same water where they expect it.”
+
+“I understand,” Naia said, sounding terribly depressed and even looking deflated.
+
+“Naia, you don’t have to be in the prison anymore. You can play out here and grow and have your new monsters. But keep the caves back there the same to protect your secret.”
+
+“Oh!” Suddenly Naia got it, and she perked up. “Naia mimic… old Naia?”
+
+“Exactly.” I just hope nobody has an Advanced Identify that works on her domain mana…
+
+“Aliandra… friend?” Naia said, reaching a pseudopod toward her.
+
+“You can call me Ali, all my friends do,” she answered, taking the offered limb in her hand.
+
+“Ali…” Naia tried it out. “Ali, you came to get the mushrooms. Why?”
+
+A couple of thoughts collided in Ali’s mind at the sudden question, not the least of which was how much Naia’s growth in intelligence had pushed her to a clearly deeper understanding of what was happening to her. But Ali decided she was intelligent enough to understand the full story, so she shared how she had got this job, and how she came to be here. And why.
+
+“You were going to kill me?” Naia asked, quivering again.
+
+Perhaps I should have skipped that part.
+
+“I didn’t want to as soon as I met you,” Ali explained, hoping her new friend would understand. “I thought I would find a monster, but I found you. I can’t kill you. You’re my friend.”
+
+Naia mulled it over for a bit before she reached out with her pseudopod again.
+
+“The mushrooms don’t make the water,” Naia said suddenly.
+
+“What do you mean?” Ali had already learned the mushrooms and she had been ready to leave with her prize.
+
+“Feel,” Naia said, drawing her toward the ledge overlooking the huge pool. “Mushrooms in there, but it’s not the water you want.”
+
+Feel? What an odd choice of words. Does she not even understand sight? Ali studied the pool below them and sure enough, when she identified it, the water was just normal water. Extraordinarily pristine water with amazing clarity, and a beautiful blue color, but it didn’t glow like the pool in the smaller cave.
+
+“Before you go, I give you a present,” Naia said. Her body warped, producing several bulbous protrusions as she used her bizarre body-splitting skill to summon her creatures. Within each protrusion, a kernel of mana began to glow with a hauntingly deep blue light. Slowly they pinched off leaving the glowing oozes on the ground beside her, each one swelling till they were almost the size of Ali’s head before they stopped growing and just sat there gently pulsing and shedding their intense blue light.
+
+Aetheric Slime – Ooze – level 12 (Arcane)
+
+“I made these before I was imprisoned. There was a mana storm in the stream, and my slime evolved. If you put these slimes in pure water, they will make the mana-purified water you need. The mushrooms can clean the water, but only the slime can put the mana into it.”
+
+“You want to give these to me?” Ali was astounded. Naia had guessed she wanted the mushrooms and connected them to the water, realizing that she didn’t have all the pieces she needed. And she had simply offered to share.
+
+“Yes. Friends. Help each other out. Stuff like that.” Naia said, making a remarkably good mimicry of Ali’s voice.
+
+“Thank you, Naia. That’s very thoughtful.” Wait, how does she know I needed three?
+
+Variant: Aetheric Slime added to Imprint: Ooze.
+
+Ali bent down and hugged Naia, feeling the squishy slime body bouncing up and down happily before she let her go.
+
+“Come and visit me in Myrin’s Keep if you learn to travel, and I’ll try to come back and see you soon.”
+
+***
+
+Ali had a lot on her mind as she swam back to the surface through the deserted underwater caves. For one thing, she was worried about Naia, and hated leaving her new friend all alone, even though she seemed to be having fun exploring and was now free.
+
+I helped a dungeon.
+
+That was the big problem. Dungeons were evil monster factories that decimated towns and kingdoms and required progressively higher- and higher-level adventurers to subdue and destroy them. This was precisely what had gotten them in this situation in the first place – destroying the Ruins of Dal’mohra as part of the Adventurers Guild had gotten her friends drained, and then she had taken this job to help them out.
+
+But in the process, she had taught a dungeon two new monsters, and freed it, letting it loose on the outside world. In her mind she could see Naia’s incredible aggression and power as she was loosed in the large cavern, expanding, and growing until she could destroy everything.
+
+Did I just make a huge mistake?
+
+But she couldn’t figure out where she had gone wrong. When she had thought of ‘it’ as a dungeon or a monster, it was easy to consider killing it. She would be doing the world a service by destroying it. Like taking out trash, only more dangerous.
+
+The moment she met Naia, she knew she couldn’t kill her. She wouldn’t have been able to live with her conscience if she had left knowing she could have freed her from such a horrible imprisonment.
+
+She surfaced out of the last pool, hopped onto the rocky ground, and unsummoned all her minions. It wouldn’t do to have the guards realize what she had done. Any of it.
+
+I wish Malika was here. Malika always seemed to have a clear understanding of what to do, and what was right or fair. She could hear Malika’s voice saying something remarkably simple and suddenly things would be less murky in her mind.
+
+Does helping Naia make me a bad person? But all she could feel was Naia’s happy bounce when she realized she was free, and the little squishy pseudopod that had reached for the comfort of her hand when she was afraid of the open space.
+
+“You took long enough, girlie, did the big scary slimes get you?”
+
+“You seem a little damp.”
+
+Ali purposefully ignored the rude guards and their crass laughter and checked out with the official at the tent before retrieving her Potion of Recall they had confiscated for ‘safekeeping’ and smashing it, perhaps with more vigor than strictly necessary, and whisking herself back to Myrin’s Keep, glad to put the miserable environment of Volle behind her.
+
+The big scary slime was the only nice person I met.
+
+Tala sat on the rooftop of the Town Watch training grounds, enjoying the screams of pain and the groans and cries of the injured recruits as Kieran Mori laid into them with his typical unemotionally brutal training regimen.
+
+They will learn to appreciate it in time. She remembered when it had been her down there, subjected to his ministrations. At her memories, her mouth twisted into a disapproving scowl. At least I never embarrassed myself by crying or screaming. These new recruits from the Adventurers Guild were weak and soft and needed every ounce of Kieran’s discipline. It was a good thing he contracted them first, otherwise, Tala was certain none of them would still be here by morning.
+
+It had been a simple task Kieran had set her, and she had despised it at first as it took her away from her passion. Spreading rumors and stories did not move her the way blood spraying from her daggers did. But he had promised her a gold coin in bounty for each combat class she convinced to join the Watch. She tossed the satisfyingly heavy coin pouch and caught it again. All in all, it had been exceptionally profitable work – and so easy. These so-called adventurers had been ripe for the plucking, ready to jump ship for the price of a little coin.
+
+All it had taken was a few choice assassinations and spreading the rumors of the Silent Assassin.
+
+Perhaps I should treat myself to a new pair of daggers? There was a traveling merchant in town, according to her sources, and she did have a new job for later this evening. And she was eager to try out the new advance to her Mutilate skill.
+
+New daggers it is, she thought happily as she activated her stealth and leaped down from the roof, marking fake ambush attacks on each recruit as she darted unseen across the training ground.
+
+Flawless…

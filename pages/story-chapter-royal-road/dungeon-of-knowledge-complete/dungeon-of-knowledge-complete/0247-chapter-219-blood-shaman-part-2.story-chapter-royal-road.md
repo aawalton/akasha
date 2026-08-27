@@ -1,0 +1,161 @@
+---
+id: 497c0c75-3d35-584d-8a55-ecda5bc28e0c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 219: Blood Shaman (Part 2)"
+slug: 0247-chapter-219-blood-shaman-part-2
+partOf: dungeon-of-knowledge-complete
+position: 247
+ownLength: 2399
+unit: words
+ownProgress: 2399
+publishedAt: 2025-04-06
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2179105/chapter-219-blood-shaman-part-2"
+royalRoadId: "2179105"
+markedReadAt: "2026-06-29T20:19:32.904Z"
+---
+
+Ali shared the Blood Shaman's status with her friends. Seeing the strangely forlorn expression on Gara’s face, she decided to share the information with her too. Having just lost her home and her entire people after being betrayed and tortured, Ali couldn’t bear to leave her out any more than necessary. She must already feel isolated because she didn’t speak common. She was happy to see Gara’s interest perk up when she shared the status.
+
+“Well, that’s a ridiculous amount of health,” Malika exclaimed. “That’s more than Mato, by a lot.”
+
+“More than double,” Mato said, walking over to join them.
+
+“But that’s her mana pool too,” Ali said, pointing out the fact that the Blood Magic aptitude forced the shaman to use her own health to power her spells. She knew only too well how often she blew most of her mana during a fight, and she wondered how free she would be with it if it was also her health. The shaman could probably quite literally kill herself by casting too many spells.
+
+“Well, that explains why I couldn’t drain their mana,” Malika said. “They don’t have any.”
+
+“On the other hand, regeneration is a percentage of maximum health,” Calen said. “That’s still quite incredible with the troll regeneration.”
+
+“Ok, let’s see how her skills work,” Ali said, opening the detailed descriptions and sharing with her friends, as Mato began stoking the cookfire and pulling out pots for making breakfast. To her surprise, Gara got up to watch curiously as Mato began to cook, and in true Mato-fashion he kept up a relaxed monologue, quietly explaining what he was doing to her, not caring in the slightest that she didn’t understand a word. He even handed her a knife, a cutting board, and a bunch of carrots, which she accepted without complaint.
+
+Lacerate – level 41Requires: Blood ManipulationYou are proficient with simple slashing weapons (dagger, sword, axe)Stamina: Execute a slashing attack that does weapon damage +650% [skill + dexterity].Stamina: Your next Lacerate has +106.2 [skill + dexterity/10] % increased critical strike chance. Recharge: 30 seconds.Health: Infuse your weapon with blood to do additional blood magic damage on hit. Your weapon will soak up the blood of your enemies, further enhancing the enchantment. Channeled.Blood, Physical, Melee, Channeled, Dexterity Blood Shield – level 32Requires: Blood ManipulationYou are proficient with a shield.Stamina: Block. Blocked attacks cannot cause critical damage.Health: Enchant your shield with blood magic, improving the robustness of your shield and the amount blocked. Channeled.Blood, Melee, Defense, Dexterity, Wisdom
+
+“Can you show me your Blood Shield skill?” Ali asked the shaman.
+
+The shaman immediately sliced a gash across the back of her forearm with her axe, and thin ribbons of blood floated from the wound, seeking the shield. In seconds, the shield was drenched with blood and dripping, and Ali could see that the shaman’s magic was maintaining the blood flowing to power the magic. Ali’s stomach lurched a little at the gruesome display, but her mind found the display of the unusual magic to be quite complex and fascinating.
+
+“The attack and block skills both have a continuous self-bleed?” Malika asked.
+
+Ali nodded, “Looks like it.” Both skills required Blood Manipulation, presumably to keep the bleeds running and have the control to place the blood where it was needed for the magic to function. Ali could see her health ticking down slowly, countered somewhat by her powerful troll regeneration.
+
+The blood dripping from the bottom of the shield pooled into a thin streamer that flew over to Gara and circled above her hand.
+
+“I have these skills too,” Gara said and then released the swirling blood to splash on the ground. “But they took my sword and shield. How will I reclaim the sacred land of my ancestors?”
+
+Ali’s heart ached for her, knowing the pain that must be lodged there. Instead of pointing out the absurdity of a person with a level twelve class defeating a dungeon with bosses over level eighty, she simply opened her Grimoire and summoned her a level-appropriate Eimuuran steel axe, and a bone shield. And then, realizing that Gara was effectively standing beside Mato in her underwear, she summoned a nice piece of leather armor for her to wear, and the same wooden bracelet of mana regeneration she had worn for so long.
+
+“It’s not much, but I hope it helps,” Ali said.
+
+“This is a good axe,” Gara said, inclining her head in a gesture far more profound for having come from a Troll.
+
+Ali moved on to the next skill – one she was extremely curious to learn about.
+
+Blood Siphon – level 44Requires: Blood ManipulationHealth: Your target is drained of health. Blood Siphon will chain through 3 [1 + skill / 20] targets. If your target is an ally, Blood Siphon heals instead. Range: 23.2 meters. Recharge: 10 seconds.Blood, Ranged, Healing, Wisdom
+
+“This seems very versatile,” Ali said, sharing it with her friends. A direct damage drain attack that chained to two additional targets, which could also double as a chained heal for allies. Its only limitation was a rather short range. Oh, and perhaps the blood thing, she thought.
+
+“I need to test something,” she said, bringing her Forest Guardians over. “Use your Blood Siphon on that,” she told the shaman pointing at the enormous creature of wood and bark.
+
+“I cannot, Seeker,” she said. The troll looked quite devastated that she was unable to comply with Ali’s request.
+
+“Why not?”
+
+“It has no blood,” Gara answered for her troll. “I cannot smell it.”
+
+Well, that answers the question, Ali thought. Clearly blood magic was powerful, but it had some rather severe limits.
+
+“Undead don’t have blood either,” Calen observed, once Ali translated. He already had his notebook out and seemed quite absorbed in writing his notes. “Can you ask her about them?”
+
+“Yes, I cannot use blood magic on the zombies and skeletons. It is why the undead ambush was so devastating for us,” Gara confirmed. “Half of the defenders of Aman Rak have blood magic. Had…”
+
+“I’m sorry,” Ali said.
+
+“I do not need pity,” Gara declared, but she turned a little too quickly to her vegetable chopping.
+
+Ali let her be for now, turning to the next skill.
+
+Blood Manipulation – level 33You can manipulate nearby blood. You gain +33% [skill] to critical damage. Critical damage is applied as a bleed. Your bleeds last 30% longer.Blood, Bloodline, Mastery, Wisdom
+
+“It seems the shaman is heavily invested in bleeds,” Malika said. “It makes sense, every critical hit applies a bleed, and it can use the blood with its manipulation skill. It seems consistent with what I experienced. Can you show the totem skills? One of the totems kept absorbing blood.”
+
+Summon Totem – level 42Health: Create up to 3 [1 + skill / 20] magical totems from your known totems. If two totems apply the same kind of bonus, only the highest effect applies. Range: 10 meters. Duration: 5 minutes.Known Totems:Free Action: Once a second pulse granting a chance to dispel movement impairing effects.Armor: +294 [skill x 7] Armor.Evasion: +294 [skill x 7] Evasion.Resistance of Blood: A blood-enhanced resistance totem. +352 [skill x 7 x 1.2] Resistance.Blood Restoration: Once a second pulse healing allies in range. Requires a source of blood and Blood Manipulation.Blood, Totem, Area, Wisdom
+
+“That’s the one,” Malika said. “Blood Restoration, it has to be.”
+
+“It is sucking up all the blood in the area,” Ali said, pointing to the thicker totem jutting out of the ground nearby. Sure enough, as the shaman’s shield dripped, the totem drew the blood toward itself. It was even drawing tiny trickles of blood from a patch of blood moss at the base of one of the trees. Every few moments Ali felt the pulse of the totem trying to heal her, but subtly different than Malika or her Acolyte’s magic. This felt more like a rush in her blood, like a brief surge of adrenaline.
+
+“This shaman is going to change our strategy a lot,” Calen said. “It looks like that totem can do area healing like your Forest Guardians, although I’d wager it’s better because they’re a lot higher level.”
+
+“You’re probably right,” Ali admitted. The Forest Guardians had been disappointing in the last few battles. Not exactly that surprising, given the relative power of the monsters they were facing. A level eighty-one boss wasn’t going to be much bothered by a level forty-five or fifty elemental. If this totem is effective, I may want to replace them, she thought. The totem skill seemed particularly versatile because she could use any three of them at the same time, but on the other hand, she was admittedly partial to her Forest Guardians. Such a shame she could not level up her minions!
+
+“Do you have this totem too?” Ali asked, speaking in troll for Gara. She had more or less confirmed that Gara had the identical class, only at a much lower level.
+
+“No,” Gara said. “Most shamans get that one at level sixty. And I can only summon one totem, not three like her.”
+
+Ali nodded and opened the next skill.
+
+Vampiric Hex – level 41Health: Whenever you successfully attack or block with a blood-enchanted weapon or shield, you can curse your target. Duration: 30 seconds. Recharge: 30 seconds.Blood, Melee, Curse, Intelligence
+
+“Interesting, they can only curse with a melee attack or block, and only if the weapon is enchanted with blood,” Ali said.
+
+“The curse is strong, though,” Malika said. “It increases vulnerability to bleeds, heals anyone that attacks the cursed target, and the shaman can refresh it by hitting it with any blood magic. That siphon skill worked.”
+
+“If you put that curse on a boss, it could heal the entire group,” Calen said. “We definitely have to try it out. Especially with all of Ali’s minions.”
+
+Ali skipped over Scent of Blood, checking only to verify that it was identical to the skill her Abyssal Stalkers had, and instead shared Bloodlust.
+
+Bloodlust – level 22
+
+Health: Your blood, and that of your allies, calls for battle. +28.6 [skill * 1.3 (bloodline)] % strength and melee haste for yourself, and all chosen allies. Due to the extreme strain on the target’s life and mana, Bloodlust and similar magic cannot be used on the same target more than once every fifteen minutes. Duration: 35.5 [wisdom / 20] seconds. Recharge: 15 minutes, Range: 33.2 meters.
+
+Blood, Bloodline, Buff, Area, Wisdom
+
+“No wonder we struggled with this,” Malika said.
+
+Even though the shaman’s most dangerous skill was also its lowest-leveled one, it was still a monstrously powerful bloodline skill. Nearly thirty percent more strength and melee haste for an entire group was ridiculous. After having looked through all the skills and finally understanding what they had been seeing when they faced the shamans, Ali was excited to try her out in battle.
+
+“This is the pride of our shamans, the pride of our bloodline,” Gara said. “I can’t wait to reach level forty.” And she truly seemed to light up at the thought.
+
+“I’m sure you’ll get there soon,” Ali said, trying to be encouraging, but not knowing exactly how to help the lonely, grieving Troll.
+
+“I guess the blood magic restriction also explains why the Bloodlust never worked on any of the zombies or skeletons,” Calen said, returning the conversation to the skills of the Blood Shaman.
+
+Ali swallowed uncomfortably. It hadn’t even occurred to her to think what the Kir’mogan fight might have been like with hasted and empowered zombies, instead of just the live trolls.
+
+Dexterity or wisdom? Ali wondered. The troll had exceptionally high values for both attributes and if it turned out wisdom had the higher base value, she would finally be able to improve her own attributes using Empowered Summoner.
+
+“Can you disable Ancient Spirit Runes for a moment?” she asked, not wanting to do the trivial arithmetic, but also curious to see if she might learn something about the elusive runic spell by watching it activate and deactivate.
+
+To her surprise, the troll reacted with shock, and even Gara let out a horrified strangled gasp.
+
+“Please, Seeker, not that,” she said. It was the first time any of her minions had not instantly carried out her requests.
+
+“What happened?” she turned to Gara, not understanding anything other than she had just tripped over something important.
+
+“Every troll has that skill. It is our personal connection to the ancestral spirits. There is no troll alive who would willingly abandon that connection,” Gara explained. “Even if she is just a summoned troll, please don’t make her do this.”
+
+“Very well,” Ali turned to the conflicted shaman who still wore a tortured expression on her face. “I won’t ask you to turn it off again.” The shaman’s expression instantly changed to one of gratitude and relief. She puzzled over it in her mind for a moment, but the only thing she could think of was that the connection to the skill must be a racial thing, a part of their bloodline and probably built into each troll from birth.
+
+Ali glanced over the values on the shaman’s status sheet and did the calculations in her head. By her reckoning, the shaman had 187 base wisdom and only 152 base dexterity.
+
+Gear and skills really improved her attributes a lot, she realized. And her wisdom is higher, so…
+
+Suddenly excited, Ali swapped her Empowered Summoner target from her Acolyte to her new Blood Shaman. Her mind broadened, once a pool, now suddenly a deep and expansive lake. Her wisdom leapt by one hundred and two points, and her mana pool grew over three thousand in the space of a heartbeat. She sucked in her breath, gasping as the sensation took her.
+
+“What’s wrong?” Malika asked.
+
+“Wisdom creature,” she answered. “It’s a lot.”
+
+Initially, she had been uncomfortable about learning the troll imprint, but as she became more familiar with her new minions, and after talking with Gara, she had begun to appreciate them more. Certainly, the Blood Shaman seemed versatile and powerful, and Ali was eager to try her out in combat, but the wisdom boost from just having her troll nearby made her excited just thinking about it.
+
+“That means you can summon more bosses?” Calen asked, getting it immediately.
+
+“Yes!” Ali said, grinning from ear to ear.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,193 @@
+---
+id: 7115ebcc-8529-536b-bc3d-94e0bcb95afe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 256: Poet"
+slug: 0288-chapter-256-poet
+partOf: dungeon-of-knowledge-complete
+position: 288
+ownLength: 2975
+unit: words
+ownProgress: 2975
+publishedAt: 2025-05-22
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2297537/chapter-256-poet"
+royalRoadId: "2297537"
+markedReadAt: "2026-06-29T20:21:00.900Z"
+---
+
+I hope this meeting doesn’t go too late, Lydia thought, eyeing the fading afternoon sun as she hurried along the main street on the way to the Adventurers Guild. She had begun to believe that Myrin’s Keep was turning around, becoming safer, and then suddenly the horrific news of William Turner being stabbed to death in his home had spread like wildfire through the influential circles. Who could have done such a terrible thing?
+
+She glanced at the letter of invitation she had received, but other than the fact that it was signed by Weldin Thriftpenny, it offered little insight as to the purpose of the supposedly urgent meeting. Hopefully, this doesn’t take too long. The streets were already emptying, and even though she was far higher leveled than most, she wouldn’t put it past this town to have someone try something. If they can get William…
+
+Presently, she arrived at the big doors of the new guild hall, familiar from so much business with the guild store. She waved her greeting to Tabitha, who was busy closing shop for the day, and then entered the guild.
+
+“Hi, Lydia,” Mieriel said as soon as she entered the hall. “They’re in the larger meeting room at the back. You can go on in, I’ll be along in a moment.”
+
+“Thank you, Mieriel,” Lydia answered, happy to see one of her most loyal customers wearing a custom-made business suit she had crafted for her. Hmm, maybe I can tighten it up at the waist a little next time, she thought, examining the fit with a critical eye.
+
+She knocked and entered the indicated meeting room, and found herself looking at a crowded conference table with many of the crafters she already knew, either by reputation or by repeated encounters doing business with Weldin.
+
+“Welcome, Ms. Avery,” Weldin said, glancing up from his position at the head of the table, his hands fussing with a tidy stack of paper before him. “Take a seat anywhere, we’re just waiting for one more.”
+
+Lydia glanced around and then picked a seat next to the dwarven blacksmith, Thuli. He nodded to her, and she returned the wordless greeting. Sitting across from her were Morwynne Fizzlebang, the alchemist from across the street, and Eliyen Mistwood. The presence of the elegant Wood Elf was something of a surprise, but herbalists were a critical resource to many crafts. She waved a greeting to Hilda sitting on the other side of Thuli.
+
+The door abruptly thudded open.
+
+“Welcome, Ms. Clicksprocket,” Weldin announced, and the diminutive Gnomish jeweler with the giant personality strode in.
+
+“What’s this all about, Weldin?” she demanded, perching her hands on her hips.
+
+“I’ll get to it in due time, Giddy,” he said calmly. “Please take a seat. All of you already know Mieriel, the guild administrator.” Mieriel and Giddy both took seats, one elegant and calm, and the other looking like the lid of the pressure cooker might come off at any moment.
+
+“Best make it snappy,” Giddy muttered. “I got orders to fill.”
+
+Weldin cleared his throat and adjusted his eyepatch. “I called you all here today because you are my most important customers, and you have all grown incredibly fast from the bounty collected by the adventurers and Aliandra’s dungeon. Some of you,” he glanced pointedly at her, Thuli, and Eliyen, “are even approaching your first evolutions. A stressful and trying time, I’m sure.”
+
+Lydia bit her lip as Weldin’s comment unleashed the anxiety she had been trying to suppress all day. Whatever Calen and his friends were up to had to be exceptionally dangerous because she had leveled up again this afternoon, and this time she had broken ninety. And it had been every day so far this week. She hadn’t even considered the issues around evolving her class, she just wanted to know Calen was safe and not being irresponsible.
+
+You know he’s smart and careful, she told herself, trying to calm down, but knowing was not the same as seeing him safe in person. She bit her lip. Stay safe, Calen.
+
+“As you all grow, my business grows, but we’re starting to run up against the limits of what Myrin’s Keep can offer. It’s simply not big enough for what you are all capable of making, and I can’t get my hands on the materials you need, not unless the adventurers can pull it out of a dungeon. We need access to the broader market out there or we will stagnate,” Weldin said. “I’m looking for some ideas for how we can solve this problem, and I thought I’d ask you all because it affects you most.”
+
+In the outburst of voices that answered the pronouncement, Lydia sat back, considering his words. It was true, she had already scaled back on her fashion business because there were only so many nobles and parties in Myrin’s Keep. She could continue making low-level adventurer gear for the guild, but Elton was soon going to take over much of that. Which left her making items for Aliandra whenever she leveled up. Which must be a lot by now, she thought, her worry rushing back.
+
+“The guild adventurers are growing quite quickly,” Mieriel said. “They will continue to need more and more advanced gear.”
+
+“That is no doubt true,” Thuli said, “but my forge can make more than just shields and armor for five people. My apprentice grows more from working on the rest. Once I get through Commander Brand’s commission, I will be back ta making pieces of personal interest ta practice my techniques.”
+
+“Same,” Lydia offered. Other than Aliandra, there was nobody who wanted her high-level gear. Donella Novaspark already had good equipment and everyone else was too low-level to advance her craft now. She had actually been considering the very same strategy; making items to practice her craft, rather than sell them to people who needed them.
+
+“The south road is closed,” Hilda said. “Most of the best threads and weaves come through Ciradyl and all but the most critical trade is shut down.”
+
+“And the north road is closed because of tensions between New Daria and the Kingdom of Toria,” Giddy said, bringing her fist down on the tabletop. “Besides, even if the trade routes were open, the only trading company is Hawkhurst. You all know what that means. It would be different if we had a proper merchant courier able to teleport products in and out, but somehow that never materializes.”
+
+“I’m certain that Jax Hawkhurst is abusing his position on the council to ensure that never happens,” Mieriel said. “It would be disastrous for his business.”
+
+“It’s not fair that he gets to monopolize trade into and out of Myrin’s Keep,” Giddy said, gesturing emphatically with both hands.
+
+Lydia nodded. There was no way she was dealing with the Hawkhurst Trading Company – they had shaken down her store more times than she could count, and although that had been much less frequent of late, Jax was also affiliated with the kingdom’s Guild of Tailors, and she was still on very bad terms with them.
+
+“What about petitioning one of the larger trading companies and convincing them to add Myrin’s Keep to their routes?” Lydia asked. “Perhaps we can ask Bastian Asterford or Hadrik Goldbeard to intercede with the Royal Trade Company on our behalf?” Competition would be a good thing, and she could handle the royals and their taxes if it meant she didn’t have to deal with Jax Hawkhurst.
+
+There were several murmurs and nods of agreement from the others.
+
+“That’s a good idea, but the south road is still closed, though,” Mieriel answered.
+
+“How are we doing on opening that up again?” Thuli asked, squinting at Mieriel as the grip of his massive hands made the arms of his chair creak ominously.
+
+“The guild adventurers are getting to high enough levels to tackle the problem, but it’s been a struggle. We scouted a rather large undead dungeon that has taken root in the remnants of the forest, and that must be wiped out before we can proceed,” Mieriel explained.
+
+This was another dangerous thing Calen had done without telling her. She had almost tried grounding him when she found out he’d scouted that solo, but that was a strategy that had stopped working ten years ago. Sometimes she wished he was still a kid.
+
+“My cousin on my mother’s side’s best friend works for Silver Cog,” Weldin said. “I could write to him.”
+
+“Can we trust them?” Hilda asked. “They only hire Gnomes.”
+
+“What’s wrong with that?” Morwynne and Giddy both exclaimed in chorus.
+
+“Silver Cog is a good idea,” Mieriel said. “They are quite influential and would be able to stand up to the Hawkhurst Trading Company.”
+
+That is a good idea, Lydia thought. Silver Cog had a reputation for fairness, even though they only hired Gnomes.
+
+“They buy good crafting no matter who makes it, and they will sell to everyone,” Weldin said.
+
+She had to admire the dapper merchant – he kept his cool no matter what. He might look good with a Fire Silk eye patch, she thought, her mind unable to ignore just how good the subtle interplay of colors would look on him.
+
+“Their biggest advantage is the treaties they have with most of the major kingdoms. They can travel through borders closed to nearly all kinds of traffic, even during times of war,” Lydia said.
+
+“Right ya are, lassie,” Thuli said. “I forgot about that – they could use the north road and open trade with the Torians and the rest of the continent.”
+
+“They are also known for their spatial magic auction house, provided they believe there is enough profit in a region,” Weldin added.
+
+“But how do we get them to bite?” Giddy asked.
+
+“That’s easy – just expensive,” Lydia said, seeing a few of the heads nodding as they came to the same conclusion. “We send them samples of our best work. I will offer a pair of Fire Silk slippers for this endeavor.”
+
+“I will add several essences and this,” Weldin said, holding up a small sliver of green glowing crystal.
+
+“Is that magicite?” Giddy asked, her eyes growing wide.
+
+“It is,” Weldin answered, demonstrating with that gesture just how serious he was about this plan.
+
+“I will draw up a letter for you all to review,” Mieriel said. “Make sure to sign your work before we send it – and I don’t need to tell you to keep this on the down-low, we know who we’re up against here. Hawkhurst’s people have been staking out the guild store a lot lately.”
+
+Ali took a deep breath, trying to recover her dizziness when someone stepped up beside her.
+
+“You ok?” Malika asked, looking down at where she was sitting in the middle of the bloody battlefield.
+
+“I’m just dizzy,” she said and then snapped her eyes back to Malika as she remembered. “Malika, I’m sorry. I didn’t mean to swear at you.”
+
+“It’s ok,” Malika answered.
+
+“No really, I feel terrible. I saw how hurt you looked.” The full force of her embarrassment and devastation came crashing down on her now that her mind was once again clear.
+
+“It’s ok, Ali. Really. Do you need a heal?” Malika said.
+
+Ali examined her face, searching for any sign that she might be trying to hide her feelings.
+
+“She’s fine,” Mato said, dropping himself into the dirt beside her. “She survived you clouting her into the next kingdom – how much strength do you have? Besides, you screamed much worse at everyone else.”
+
+“I did?” she asked, aghast. She remembered none of it. Not believing his words, she glanced at her status sheet. “Three hundred and seventy-five strength? Oh… oh, Malika! I’m so sorry!”
+
+“It’s ok, Ali,” Malika said, “I healed it. You pack a serious wallop – that’s a lot more strength than I have. I think only Mato has you beat.”
+
+“I think Malika realized it wasn’t personal when you called Calen the mangy offspring of a pig and a donkey in trollish,” Mato chuckled. “That language is so colorful.”
+
+“I… what?” Ali exclaimed, her face heating up to boiling point.
+
+“You, young lady, have the soul of a poet,” Zor’kan said, walking up to join her. “You would make a fantastic Troll. It’s too bad you weren’t born one – where did you learn to insult people like that?”
+
+“I…” It was all too much for her and she just sat there dumbfounded. She had been so worried about losing control of her berserkers, but it seemed she had become foul-mouthed and aggressive toward everyone. Did I really hit her? She glanced worriedly at Malika again.
+
+“There’s an alchemist back in Myrin’s Keep that swears like that, never repeats herself either,” Malika said.
+
+“You must introduce me to them,” Zor’kan announced. “And maybe, after that, you can teach them to speak Trollish. She reminded me of the legendary troll, Kitu, who was said to be able to slay her foes with nothing more than a well-crafted poem.”
+
+“Trolls are weird,” Ali finally managed.
+
+“Most of the berserkers study poetry,” Zor’kan continued nonchalantly, apparently unoffended by Ali’s opinion. “After all, how can someone fight you with honor if all the spectators are laughing at them because of your inventive insults and the eloquence of your challenge? Combat poetry is a big part of troll culture and a phenomenal way to settle disputes. I mean, even you lesser races have the concept of talking out your differences, don’t you?”
+
+“I don’t think that’s supposed to be done with insults and swearing, I think something might have gotten lost in the translation,” Ali said. But somehow, they had deflated her fears that she had broken the friendships she valued so much. She glanced up to see Malika smiling at her, and her heart immediately brightened like sunshine breaking through from behind rain clouds.
+
+Ali slowly got back to her feet and got her first glimpse of the battlefield.
+
+“What the…,” she stopped herself before she formed a bad habit. “What happened?” The battlefield was strewn with the bloody remains of most of her minions. She had a single drake, her giant berserker, one shaman, and her witch doctor left. Most of the blood staining her robes was red, fortunately.
+
+“Your minions became very reckless and aggressive when you started screaming,” Malika answered. “And your berserkers stopped caring about who they hit. The combination meant a lot of your minions died to those bloody axes.”
+
+“Our resident Fae even got in a solid punch against Joraa,” Calen added. “Good idea, but perhaps let’s not use this strategy again.”
+
+“Please tell me you remember how much damage your trolls were doing at the end,” Mato asked, clearly the most important question on his mind. “Your punch set up such an epic last strike, there was even a sonic boom.”
+
+“I don’t remember much,” Ali answered, honestly. “I calculated they should have three or four hundred percent more health with Last Stand and the temporary health from Ritual Infusion. The damage multiplier was enormous when they were close to death.” It had been a ridiculously difficult combination to set up – both Last Stand and Ritual Infusion granted short-term maximum health – and before it wore off, she had had to get them from maximum health to almost zero in order to take full advantage of the combination of rage, elevated health pool, and bloodlust.
+
+But she did remember the visceral pleasure of crushing Joraa’s jawbone with her little fist, an image that now turned her stomach.
+
+“Yes, let’s keep this strategy for emergencies,” Ali said, deciding it was for the best. Besides, she didn’t want to develop a habit like Morwynne. “I’m going to check what I got.”
+
+Your group has defeated Joraa [The Betrayer] – Troll – level 98 (Blood).Grove Warden has reached level 92 (+7).+70 attribute points.
+
+Her jaw dropped. Seven levels? Now that’s truly poetic! Eagerly she read on.
+
+Arcane Insight has reached level 48.Barrier has reached level 58 (+2).Sage of Learning has reached level 39.Martial Insight has reached level 60 (+4).Empowered Summoner has reached level 46 (+3).
+
+With seventy points to spend, Ali decided she could afford five points for vitality, two for endurance, and three for dexterity. Then she spent fourteen points on perception and twenty-three each on intelligence and wisdom. Still a little shaky from the intensity of the fight, she made her way over to deconstruct everything from the battle.
+
+Variant: Blood Thrall added to Imprint: Ooze.
+
+Before she returned Joraa’s corpse to the ambient background mana, she studied the body. While he had the typical runic markings of a Blood Shaman and much of his gear was painted, he did not have a personal set of runic tattoos like Kir’vella and Kir’mogan. Was he not considered worthy? He was wearing some decent-looking armor, and he had a tusk ring which Malika would no doubt be interested in. Finally, she reached out and deconstructed his corpse.
+
+“Good riddance,” Zor’kan said.
+
+Ali glanced at the troubled troll, but he turned around, seeming uninterested in further conversation, so she checked her latest notifications instead.
+
+[Sage of Learning]Domain Magic analyzed: Affinity Aura (Blood).Domain Magic analyzed: Summoning.Domain Magic analyzed: Attribute Enhancement (Wisdom).
+
+Too bad it wasn’t vitality, she thought. But that blood-affinity aura does look interesting. She had several blood magic monsters now, and she could see how using Joraa’s Affinity Aura (Blood) could make for a very effective defender. Summoning and Wisdom were already part of her collection, but the presence of the wisdom enhancement helped explain the ridiculousness of the fight – for Blood Shamans – or any troll with the blood magic aptitude – wisdom was just as good as vitality for increasing health.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

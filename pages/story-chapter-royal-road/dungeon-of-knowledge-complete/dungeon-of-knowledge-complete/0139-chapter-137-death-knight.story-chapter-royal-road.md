@@ -1,0 +1,301 @@
+---
+id: 1b0bfaa4-35cf-5735-91e9-20394f9548d6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 137: Death Knight"
+slug: 0139-chapter-137-death-knight
+partOf: dungeon-of-knowledge-complete
+position: 139
+ownLength: 5413
+unit: words
+ownProgress: 5413
+publishedAt: 2024-10-01
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1829715/chapter-137-death-knight"
+royalRoadId: "1829715"
+markedReadAt: "2026-06-29T20:15:31.479Z"
+---
+
+Do not mistake its true nature – stealth is an attack against the perception attribute, skills, and focus of the defender. This is why it is so much harder to regain it once lost.
+
+- Excerpt from The Adventurer’s Guide, Third Edition
+
+“Which way?” Lyeneru asked.
+
+Calen fed a trickle of mana into the Wanderer’s gift – his powerful tracking advancement – and felt a distinct pull. “That way,” he said, pointing past the distant trees toward the low foothills. “It seems to be moving slowly.”
+
+“Good, we’re catching up,” Lyeneru said, flaring her wings and accelerating forward.
+
+She always made him track the Death Knight while they hunted from the air, but her subtle comment about catching up was proof that she had far better tracking skills than him. While his advanced tracking ability was amazing, it was only a direction – he couldn’t tell if they really were gaining on the powerful undead creature. Huh. Does that mean she effectively put me up to this… surely not?
+
+Checking in regularly, Calen adjusted their course as they skimmed the treetops until he found himself drawn to a valley nestled in the foothills of the mountains. Far below, seen as occasional glimpses between the trees, he caught sight of the silver ribbon of a river tributary winding its way out of the valley.
+
+Wait, something’s not right…
+
+Trusting his hunch, he squinted, zooming in through the greenery with his vision skill till he saw what had been noticed by his subconscious mind. It’s not moving. “The river is frozen,” Calen pointed out.
+
+“It is,” Lyeneru said. “We’re right on track, look.” She indicated a spot further into the valley and, with a glance, Calen realized that even the trees were frozen – a broad swathe of ice cutting a straight line through the valley and its verdant undergrowth.
+
+“The Death Knight?” he asked, although, what else could it be?
+
+“Yes, we’re here,” Lyeneru said, a tight grimace flickering across her features as she narrowed her eyes, studying the frozen forest. “Here’s our plan. You will use stealth to get ahead of it and draw it out to that clearing over there. Your job is to pull it, not to fight – your distraction will allow me to prepare my Ambush. After I engage, you back off and fight it from the air, and do not hesitate to disengage if you take too much damage. Watch out for the fear and ice auras – you’ve figured out their range already, right?”
+
+“Yes,” he said, nodding. The plan seemed simple, but he had seen the monster up close before, and the reality of what he was about to attempt sent a chill of fear crawling down his spine. She would allow him to fight a little, but that also meant he was fighting a Death Knight who could easily kill him if he made even the slightest mistake. “Will my stealth be good enough against it?” Hadn’t she said it was almost level two hundred?
+
+“This one has excellent vision and hearing, but all of its advanced perception skills are omnidirectional and limited to the range of the fear aura. Use your new Mirage Armor – the illusion should help your stealth. With luck, if you avoid the aura and use the shadows and trees, you should be ok.”
+
+“Luck…” he echoed, recalling one of his patron’s traits. He retrieved a Dal’mohran gold coin from his dwindling money pouch. “Can’t hurt to buy a little more of that.” He stilled his trembling hand and then flipped the coin into the air, pulsing a little mana into it. The gold gleamed, catching the sunlight as it tumbled over and over in the air, and, at the very apex, it vanished in a small puff of glowing sparks.
+
+You have gained the Blessing of the Wanderer+12 to Dexterity.+8% to Movement speed.Blessing – Duration: 3 hours.
+
+Lyeneru quirked an eyebrow at him, so he shared the details of his buff with her.
+
+“Well, that’s perfect for this fight,” she said approvingly. “Lady Luck is good to you, you’ll need every advantage you can eke out. We both will. When you draw it out, stay on the ground if possible and use the trees for cover. It has a powerful ranged ice magic attack – if you’re in the air before it’s fully focused on me, you will present an easy target.”
+
+“Ok, I’m going,” he said, mostly to convince himself this was not a swift way to commit suicide. He reserved the mana for Mirage Armor, marveling at the sight of his arms blurring into an indistinct shimmer, but by the time he turned back, Lyeneru had vanished. Suddenly alone, he shivered and then spiraled downward through the treetops for cover as he sought to place himself directly into the path of the oncoming undead calamity of ice, fear, and steel. As soon as he landed, he dismissed his wings and activated his stealth and silence, sprinting across the carpet of decomposing leaves and darting through the trees, willing his heart to stop beating so loudly.
+
+He set up just off a game trail that cut across the path of the Death Knight, finding his bearings and settling into the dark shadow of a huge spreading tree.
+
+Just as he was beginning to get his jangling nerves under control, a creeping, cracking noise came to his hearing, and white ice crystals began to appear on every surface, proliferating along the boughs and trunks of the distant trees. The temperature plummeted as if they’d been caught in the breath attack of a furious Frost Dragon. The crunch of heavy steel sabatons breaking sheets of ice echoed through the forest and a deadly chill bit his skin.
+
+It’s here. Time to – shit!
+
+As if his thoughts had summoned it, the dark, shrouded form emerged into the open, stepping out from between two enormous trees and onto the game trail. It approached, striding down the narrow path oozing power and purpose to the sounds of ice creaking as the trees froze solid in its wake. Suddenly, an oak to the left side of the trail exploded, shattered into flying shards of ice and wood by the extreme cold. Shrapnel bounced unnoticed from the Death Knight’s heavy plate armor. Calen shivered, struggling with his inner war against his own body and the fear demanding he scream and flee.
+
+Death Knight – Undead – level ???[Explorer]A terrifying relic of ages past – a dark, heavily armored undead knight wielding a greatsword, fear, and ice.Category: MinionThreat Level: EliteMonster Type: Greater Undead, Death KnightDamage: Physical, IceKnown Abilities: Fear Aura
+
+He drew his bow and carefully nocked an arrow. Holding his breath in the hope that the steam would not give him away too early, he tracked the approach of the Death Knight, exquisitely aware of both the range of his bow and the estimated range of the invisible fear aura that undoubtedly welled up and outward from the monster. To his immense relief, his white-knuckled hands held steady.
+
+He imbued his arrow with Increased Range and fed stamina to his Eclipse skill to attempt an Ambush. Feeding mana to his light damage enchantment, he withheld it on the brink of completion and loosed his arrow. The fletchings brushed his cheek as the arrow shot forth and his heart began to hammer in his throat as he abruptly passed the point of no return.
+
+Practice and habit took over, his eyes traced the path of his arrow, and at the last possible moment, he released his withheld enchantment. His arrow burst into shining radiance. Ambush triggered; a lurching release felt through the skill itself. His arrow slammed home through a gap between the heavy plates of armor. The Death Knight let out an ethereal, chilling hiss and its intense glowing blue eyes instantly transfixed Calen, driving sudden terror and dread into his impaled soul. He had never felt so small and insignificant. A bug under the armored boot of a giant.
+
+“You will die for that, half-elf,” it rasped.
+
+The calm, cold hate in its voice ironically restarted Calen’s heart, and he took a shuddering breath of his own, spearing a deathly chill up his nostrils that conversely cleared his mind like a brutal slap to the cheek. Collecting himself abruptly, he turned and fled, leaping over bushes and dodging trees at a dead run, taking full advantage of the Blessing of the Wanderer. He ran flat out, making for the suddenly impossibly distant clearing while his ears picked out every crunch and crash of the Death Knight’s boots breaking ice behind him.
+
+It's gaining on me! Lyeneru’s assessment that it was slow was clearly relative. Especially when it was annoyed by the fleeing flea! He risked a panicked glance backward, just in time to jerk back from an ice bolt hurtling toward his head. It swished an inch past his face and punched a hole through the trunk of a tree just as Calen swerved smoothly past it.
+
+He was preternaturally aware of the range of the Death Knight’s auras, and he could already feel the unnerving fear beginning to trickle through his mind, sowing weakness in his muscles as the world around him grew colder.
+
+Desperate for every inch of speed, he triggered his Righteous Fury. His body blurred as it accelerated, his Mirage Armor working hard to obscure his position. Another ice bolt whistled past his other ear. He performed his well-practiced spinning leap as he cleared a branch and he fired an arrow back at the Death Knight, using both his damage and his grappling enhancements. The arrow punched into the Death Knight’s arm with no visible effect, and the chains of light instantly shattered as if they were gossamer threads – clearly offering no more resistance than a spider web for the relentless dark monster.
+
+Where is she? Any time now!
+
+His breath rasped heavily in his throat as he struggled for enough air to barely keep ahead of the monster. He dodged another ice bolt and summoned a mana potion from his storage, downing it to push his skills just a little longer.
+
+Where the fuck is the clearing? I’m not going to make it! Panic made his inner voice shrill and brittle as he began to realize just how far it still was.
+
+Righteous Fury faded, and he felt his mana cool. Calen’s frantic speed slowed. The crunching and cracking of the Death Knight barreling through frozen trees behind him grew louder and louder. The chill began to bite, slowing his muscles. Frost and rime coated the leaves in front of him, and high-speed splinters shot past his neck as yet another tree detonated from the extreme cold.
+
+Suddenly he jerked to an abrupt stop, his foot trapped in the ice. He pitched forward, slamming hard against the ground. Desperately, he struggled, trying to regain his feet to the sound of cold, mocking laughter. Yanking furiously, he felt his frozen leg snap, shattering at the ankle in a shower of icy chunks of broken flesh and bone. Calen dragged himself to his feet, taking off in a staggering, shambling run on one good foot and a frozen stump. He summoned his wings, ignoring Lyeneru’s instructions to remain grounded, but to his horror, even the magic of his manifested wings creaked and froze, aborting his escape before he even got off the ground.
+
+His arms and legs trembled uncontrollably as the undeniable power of the fear aura blanketed him. He tripped again and fell, rolling over to find the Death Knight towering over his prone form. All he could do was stare in horror, unable to even summon his recall potion as the fear banished his willpower.
+
+Slowly, it drew its enormous glowing sword and spoke a single word.
+
+“Die.”
+
+A blur flashed by from the side. Calen’s body reacted to the concussion of the blast before his ears even registered the deafening crack and bone-shaking explosion. Calen’s face scorched from the blistering heat and lightning crackled all around as the Death Knight was tossed through a nearby tree trunk from the force.
+
+Lyeneru.
+
+A blazing avatar appeared from among the trees trailing sparks from her eyes. Her flaming bow remained steady, trained on the impact crater the Death Knight had made. “Move,” she ordered.
+
+Struggling to keep conscious, he forced his trembling, battered body to move. He hadn’t quite made it to the clearing, but she had saved him, nonetheless. Something moved within the crater. Something dark. Instantly, Lyeneru filled it with blazing arrows fired from her bow with immense power and speed – the force of the detonations knocked him over again.
+
+Scrambling onto his knees, he summoned his wings and took to the sky just above the treetops, getting a healthy distance between himself and the titanic clash of flame, lightning, and ice that erupted below.
+
+Now, that was an Ambush! If he had been her target, he would have been vaporized by that attack, and yet he could already see the grim Death Knight clawing its way out of the crater, unleashing a hail of ice on the rapidly dodging Night Elf. Arrows of fire and lightning hammered against a thick wall of ice. While her opening attack had been unimaginably powerful, he had the wits to notice she had used the same trick he did – delaying her magic till the last possible moment to eke the maximum benefit from stacking her skills. Of course, the comparison between their attacks could hardly be called close, but he found comfort in learning his tactics were on the right track.
+
+With a little distance gained from the epicenter of the clash, his heart began to calm a little and the fingers of fear released their hold on him. Some semblance of control began to return to his trembling hands, still numb and blue from the brutal cold.
+
+Calen nocked an arrow and sighted down the shaft, forcing his breathing to even out in order to steady his grip. Already, large swathes of the forest were burning or covered in thick sheets of ice. The Death Knight charged forward, felling trees with every swing of its great rune blade as it chased the tenacious Night Elf and filled the air with deadly shards of ice. Lyeneru flew in dizzying arcs with her powerful wings, teleporting every few seconds and unleashing a hail of devastating volleys from every possible angle, filling the air with the stench of burning and ozone.
+
+Calen took a deep breath and held it, finally settling his frayed nerves. Right after Lyeneru teleported into the air, he unleashed his arrow, not wanting to interfere with her fighting in any way – but there was no way he was just standing by without trying to help.
+
+Even if the Death Knight is too strong for me to damage, I’m alive and I’ll do my part. He fired again and again as his mana slowly ticked up from his potion. He studied the battle unfolding below. For all Lyeneru’s immense power, the Death Knight was visibly stronger. With his fear, heavy armor, and potent ice magic, it would have had her at a disadvantage but for the fact that she could fly and teleport like a demented bat. No wonder she’s been hunting this thing for ages.
+
+Calen downed another mana potion as soon as the first expired and resumed his careful marksmanship, although he may as well not be present for all the attention the Death Knight paid him. For his third, he took a health potion instead to try to recover some of the damage sustained from his brief stint in that frost aura. He fired arrow after arrow into the stalemate as the two titans turned the once-pristine forest valley into a hellscape of destruction.
+
+My recharge will be up soon. It was like an instinct – his class-provided sense of timing. He didn’t even need to check his skill, when he sensed it was recharged, he lit the sky by igniting his mana. He aimed and loosed a storm of arrows at the Death Knight’s head and shoulders, imbued with Righteous Fury’s intense power. Even at his strongest, his arrows seemed pale and tiny against the backdrop of magical fury being unleashed below. But he put everything he had into it.
+
+I hope I can at least do something.
+
+An arrow struck the back of the Death Knight, somehow finding a minuscule gap between the heavy plate pauldron and the shrouded neck, sprouting there like a glowing shard. The creature whirled with a hiss Calen could hear from all the way up above the treetops. Suddenly, the air around him was thick with flying shards of ice, and the only thing he could do was dodge at top speed. He flared extra mana into his wings, accelerating his speed, but still, a thick shard of ice impaled his right thigh just above the knee. Another shard shattered his shin from the force of the impact, while dozens more swished by, leaving grazes and scrapes where he barely managed to dodge their razor-sharp edges.
+
+A deathly chill seeped into his body, creeping out from the wounds. As his legs began to freeze, he used the last few seconds of Righteous Fury to flee the storm of ice, darting higher overhead and hoping he wasn’t making himself an easier target. He glanced back down, finding the Death Knight staring up at him, about to launch another storm of ice.
+
+Where’s Lyen–
+
+A detonation rocked the valley below, blasting a new crater into the ground. Splinters of trees and chunks of dirt and rock hurtled past his head as he took sudden evasive maneuvers. But as the debris and smoke cleared an eerie silence returned to the forest – what was left of it. Flame crackled along the trunks of toppled forest giants, slowly burning out. Sparks arced along the ground, tracing the edges of thick blocks of ice.
+
+Down in the crater, the Death Knight lay with a smoking hole in the center of its torso. Lyeneru hovered above, bow drawn, magic mounting.
+
+“It is futile, Night Elf,” the Death Knight said, his voice sending chills down Calen’s spine. “The Master will raise another. He will keep hunting you until you die. And then you will serve–”
+
+“He’s welcome to try,” Lyeneru answered, her voice flat and harsh. Then her bow burred one last time. Her arrow punched a hole through the Death Knight’s head.
+
+Calen gasped at the sound of his chime.
+
+Your group has defeated Death Knight – Undead – level 193Your actions have increased the reputation of your patron.The duration of your Blessing of the Wanderer has increased by +3 days.
+
+Holy shit! She did it! He could scarcely believe his eyes. And yet the notifications did not lie.
+
+Archer of Light has reached level 43 (+3).+30 attribute points.Arrows of Brilliance has reached level 30.Blessing of the Dawn has reached level 21.Eclipse has reached level 22 (+2).Righteous Fury has reached level 15 (+2).Azrael's Wings has reached level 14 (+2).Mirage Armor has reached level 6 (+5).
+
+Calen slowly drifted down.
+
+Three levels. My contribution must have been tiny compared to Lyeneru’s, but I still leveled three times. At what cost? He glanced down at his missing foot and the shattered remnants of his favorite boots that still clung to the stump.
+
+“Well done, Calen,” Lyeneru said, taking her eyes off the fallen Death Knight to look at him.
+
+The sound of his name from her lips sent a thrilling surge of pride through his exhausted, broken body.
+
+“You distracted him well enough that I was able to get off a second Ambush,” she said, confirming what he had guessed. “That contribution probably earned you at least two of those levels.” She wore an uncharacteristic grin on her face.
+
+Calen winced at the jarring pain as he lowered himself to the ground. With the Death Knight’s death, its magic no longer invaded his body, but his legs were still shattered and bleeding. His health potion hadn’t restored his missing foot and with the receding frost, came a powerful surge of pain. He drank another healing potion, wishing Mato or Malika were around.
+
+“I’m just glad I could help a little,” he said, speaking through gritted teeth. “You were right. I love Mirage Armor.” He had dodged an entire storm of ice shards and even just the two that had hit had destroyed his legs.
+
+Lyeneru’s grin widened. “The Pathfinder Guild needs the Death Knight corpse, but you can take the plate armor and sword if you like. Perhaps you can sell it to feed your insatiable potion addiction.” She tossed the equipment in his direction and stored the corpse.
+
+Did she just make a joke? But he understood her infectious smile and good humor. They had achieved something incredible – they had rid the world of a Death Knight – a Greater Undead and scourge on the living. The world would be safer without its evil.
+
+Well, it was mostly her power, but I did help with my piddling shots – well, except for the one that penetrated, he corrected himself, almost as if Mato were listening to his thoughts. He was still trying to wrap his mind around the power that had created the giant crater they were sitting in and had ended the Death Knight.
+
+“You can sell that stuff in Ciradyl when we get there.”
+
+“Ciradyl?” Calen asked, confused. He had only seen pictures of the beautiful elven forest city. She wants to go there?
+
+“Yes,” she answered nonchalantly. “The Pathfinders Guild is there, and you are joining. I will sponsor you for the rank of initiate. After today’s performance, you can skip the entire novice rank.”
+
+Wait, Pathfinder? Initiate? Calen’s brain reeled from Lyeneru’s announcement. Me? His disbelief must have been plain to see because Lyeneru just chuckled.
+
+“My only critique is you’re not powerful enough yet, and that is something you will solve with time and training. That is what the guild is for. You have demonstrated courage against a terrifying foe far above your level, smart combat skills, the ability to follow directions even when they’re challenging, and good improvisation and situational awareness,” she said, pinning him with a look that plainly said he had better live up to her assessment, or else. “Nothing in the standard trial could hold a candle to this fight. You have earned your Pathfinder badge.”
+
+“I… thanks!”
+
+“Come, let’s get you a proper healer, those weak potions won’t regrow your legs,” she said, reaching toward him. “Here, take my hand.”
+
+As soon as he did, he felt the familiar lurch of long-range teleportation and found himself suddenly sitting in the center of a silvery, glowing teleportation locus inscribed into a solid wooden floor. Almost immediately, a hazel-eyed Wood Elf Healer with flowing dark green hair stepped forward with the iconic cloak of the Pathfinders swishing from her shoulders.
+
+She spoke a few soft words in the lilting speech of the Elves and placed her hands on his wounded legs, sending a gentle stream of healing magic flowing into him. Calen slumped back on the aged floor, groaning, “Oh… beautiful.”
+
+Then he caught the slightest of smiles curving her lips.
+
+“Uh – the, uh, sensation – I meant!” he stammered, fearing he had just inserted his remaining foot into his mouth, right up to the knee. Did I say, ‘you’re beautiful?’ Huh?
+
+Switching languages, she replied, “I’d say the same for you, young half-human. Now, if only you were two hundred years older…”
+
+Lyeneru snorted, “Evidently, he’ll be just fine.”
+
+“I can’t wait to get back to my domain,” Ali said, sighing. She was well and truly done with this Domain Withdrawal.
+
+“I bet,” Mato said. “Here…” He bent over and hauled up the iron grate.
+
+“Thanks,” she said, stepping onto a barrier disk and levitating herself down into the sewers. She wrinkled her nose at the foul odor. This was so much nicer when I owned this space. I should reclaim it and purify the water. At least it might smell better.
+
+Mato grunted from above as he replaced the iron grate and began climbing down the ladder.
+
+“What do you want to–” she began, but suddenly she was interrupted by a moaning noise. She snapped her head around to find herself staring into dead eyes set in a rotting face.
+
+“…rrraaarhg…”
+
+Warrior – Zombie – level 8
+
+She snapped a second barrier up just in time to catch the grasping bony hand. It splatted against her barrier, leaving a handprint of nasty-looking black ooze dripping down its surface. “Mato! Zombie!”
+
+Moments later, the bear charged by, and slashed through the zombie with a powerful Swipe of his claws.
+
+Your group has defeated Warrior – Zombie – level 8
+
+“What the fuck is that doing here?” Mato demanded after shifting back to his Beastkin form.
+
+“I don’t know,” Ali said. “But we need to find out.” She crept up to the intersection and peeked around the corner.
+
+Warrior – Zombie – level 4-12 x7
+
+“Uh, there’s a lot of them,” Ali said. “Do you think they’re left over from that Necromancer?”
+
+“Probably, what else could it be?” Mato said, immediately warping back to his Bear Form.
+
+“Can I leave those to you while I summon a mage?” Ali asked.
+
+She got a grunt in reply, which she took to mean yes. By the time she had summoned a Fire Mage, Mato had cleared the tunnel. “At least they’re low level.”
+
+They pressed on, clearing tunnel after tunnel until they reached the entrance to the cavern, and here Ali stopped and stared. As far as she could see, her home was crawling with zombies and skeletons.
+
+“Looks like we have some work to do,” Mato said. “Summon some more monsters, I’ll wait.”
+
+Ali climbed down into the cavern, following Mato, and then opened her Grimoire to summon a second Fire Mage.
+
+“You two, clear the cavern. Kill all the undead,” Ali commanded.
+
+“Yes, Ancient Mistress.” Her Kobold Mages bowed, eyes gleaming red in the dark, and then they scampered down the rise with delighted chirps, summoning flame to their hands.
+
+“Lira did say my domain would attract monsters, but this is a jolly horde,” Ali said, paging through her Grimoire and selecting a shaman for her next summon.
+
+“There may be higher level undead, we should be careful,” Mato said.
+
+Ali nodded and summoned an Acolyte. She wanted a full complement of monsters before they headed out into this mess. I just didn’t expect them to show up in such numbers. Back to the drawing board with my defenses, clearly…
+
+***
+
+The chime sounded as Ali entered Lydia’s Allure with Mato and her two Kobolds. It was remarkable how much better she felt after spending a few hours in her domain recovering from her withdrawal while Mato and her monsters cleared the cavern of undead. Even after her rest, they were still picking off stragglers, so she left her Kobolds and Goblins with orders to wipe them all out. At least there was nothing over level fifteen. This time.
+
+As if on cue, her chime sounded again.
+
+Your minions have defeated Warrior – Zombie – level 6
+
+The endless stream of notifications had slowed dramatically, however, like sand, the undead had gotten in everywhere, and her minions were still flushing them out of nooks and crevices.
+
+After she had recovered, Mato had graciously agreed to accompany her to Lydia’s shop, citing safety in numbers – especially given that there was most likely still a bounty on her head.
+
+“Oh, hi Aliandra, Mato.” Lydia glanced up at the sound of the door chime and greeted them. She looked busy, sitting behind the counter where bright fabric panels cut into strange shapes adorned the surface while thread and needle flew, accelerated by her tailoring skills.
+
+The store was empty of customers, but it was full of boxes, packed and arranged in orderly rows ready for transport. It seemed business was booming.
+
+Tailor – Human – level 61
+
+Ali identified her automatically, but what she saw made her suddenly pause. I can identify her! It was one thing to see your class grow, but sometimes it was in the little, unexpected details that she really appreciated the progress.
+
+“Hi Lydia,” Ali greeted her. “I just wanted to let you know Calen is going to be busy for a few days.”
+
+“He hasn’t gotten himself into trouble again, has he?”
+
+“This is Calen,” Mato answered with a chuckle. “I’m the one who gets into trouble, not him!”
+
+Lydia gave him a look that spoke volumes about just how unimpressed she was with his wit. Ali wondered just how many versions of that conversation they had had over the years.
+
+“He went on a quest with Lyeneru Silverleaf,” Ali put in, before Mato got himself scolded. “She wanted his help to track the Death Knight. They left in a hurry, which is why he probably didn’t stop by and tell you himself.”
+
+Lydia’s eyes widened briefly. “She had better take care of him, or I will have words with her.” She downplayed it with her understated humor, but there was deep worry in her eyes.
+
+“I met her,” Ali reassured Lydia quickly. “She is unimaginably powerful – a three-mark Pathfinder – Calen couldn’t be in better hands, even against a Death Knight.” She neglected to mention that she had had to stare down the wrong end of Lyeneru’s bow, deciding that would not be reassuring in the slightest. However, in the end, it seemed she could chalk that up to a misunderstanding, and it had all worked out. Worked out in a way that left Ali with a lot of unfinished homework.
+
+Lydia sighed. “Ok, thanks for letting me know.”
+
+“Business seems good?” Ali asked, indicating the boxes – there were quite a few of them, many addressed to ‘Weldin Thriftpenny, Adventurers Guild’.
+
+“Yes, I’m always busy now. The idea of pairing up with the Adventurers Guild shop has gone extremely well. As soon as the word got out, half of the Novaspark Academy stopped by and cleaned out every piece I made. The cloth armor is very popular among the lower-level mages and healers.”
+
+While she sounded happy, there did seem to be an undercurrent of something that bothered her.
+
+“Just the lower levels?”
+
+“Yes,” she sighed. “I think I am reaching the limits of what I can do on my own. The higher-level mages are looking for more enchantments – high-level magical or uncommon grade pieces, and I haven’t been able to discover that technique on my own. All I have are the self-repair enchant, and the minor healing and bone magic enchants you helped me learn. The healing enchant is in high demand, but bone magic affinity is pretty rare. And there’s no way the guild tailors are going to part with their secrets now that I’ve proved to be competition.”
+
+“I see,” Ali said, her brow furrowing in thought. It was a real predicament.
+
+Lydia sat up a little, composing herself. “Enough about my problems. You’ve leveled up quite a lot, would you like me to upgrade your armor?”
+
+Was that hesitation in her voice? Ali wondered if she was reading more into it than there was, but she felt that Lydia was bothered quite a bit more than she was letting on.
+
+“That would be fantastic,” Ali answered. In truth, she had been meaning to get an upgraded armor set but had simply not had the time for a town trip in quite a while, and she had really outgrown her old piece.
+
+“Thank you,” Lydia said. “I get most of my levels from you. I will be sad when you outgrow my work. At least for now, I’m glad I can still be a help.” She smiled at Ali. “Why don’t you come by and pick it up tomorrow?”
+
+“Ok,” Ali answered. So, I wasn’t imagining it. Lydia was worried about hitting a progress wall and it seemed she didn’t know how to solve it. For that matter, Ali had no idea how to help her either, unless she stumbled upon some gear with an important enchantment and mass-produced it for Lydia to study – but there was little chance of finding anything in the jungle wearing mage robes.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

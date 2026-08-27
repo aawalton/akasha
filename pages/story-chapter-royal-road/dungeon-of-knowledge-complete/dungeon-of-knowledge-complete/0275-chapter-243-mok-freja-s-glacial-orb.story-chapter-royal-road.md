@@ -1,0 +1,93 @@
+---
+id: f0ca8404-8b54-5850-a98f-5b17302191d0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 243: Mok’freja’s Glacial Orb"
+slug: 0275-chapter-243-mok-freja-s-glacial-orb
+partOf: dungeon-of-knowledge-complete
+position: 275
+ownLength: 2116
+unit: words
+ownProgress: 2116
+publishedAt: 2025-05-08
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2264604/chapter-243-mokfrejas-glacial-orb"
+royalRoadId: "2264604"
+markedReadAt: "2026-06-29T20:20:32.893Z"
+---
+
+Malika sat calmly, her mind relaxed with her awareness flowing through both her mundane senses and her Soul Sight in the training exercise Rezan had taught her. It had initially proved frustrating to learn, but now she used it to relax after the stress and frenetic pace of battle. As she took each long, slow breath, her energy rose within her, swelling upward through her spine and heart. Then, as she exhaled, her energy spread outward through her body in a relaxing wave. Their camp was quiet in the darkness of the night, with nothing but the ambient sounds of frogs and insects in the surrounding jungle and the incessant dripping from the slowly melting ice.
+
+Ali’s minions stood around the perimeter of their camp, unnaturally still in the darkness, but she knew they kept watch. Malika missed her, even after just a few hours’ absence, but Ali was still looking out for them. With the destruction of the profane altar, they had not been bothered by any more specters, nor had the dungeon respawned Mok’freja yet. It had only been a few isolated Nightwing bats that had interrupted their sleep, but the bats were easy to dispatch, especially now that Divine Step allowed her to teleport in any direction. With the combination of teleportation and the ability to walk on the air itself, she could engage the agile bats for the full duration of an aerial battle without ever needing to touch the ground. Mato preferred sleeping – well, resting – in his Tree Form whenever possible, so she hadn’t been bothered much by the diseases.
+
+She studied the item in her hand with all her senses. The translucent sphere emitted a soft blue glow, visible both to her eyes and as wisps of brilliant blue energy in her Soul Sight. Nestled in her hand, Mok’freja’s orb radiated a chill that was not quite cold enough to be uncomfortable, but far more than sufficient to demonstrate the immense power of the mana within. As she turned it over, the mana wisps swirled within, a miniature recreation of the blizzard its owner had unleashed within the Ice Palace.
+
+It's pretty.
+
+Glacial Orb of Defense – level 80A perfect polished translucent sphere of cerulean crystal, icy to the touch. Resistance: 576+50 Intelligence.+20% Spell damage to Ice skills.+23% Spell power to Defense skills.+15% Spell haste.Requirements: Intelligence 280Quality: Uncommon.Value: 43 gold.Off Hand – Orb
+
+I wish Ali was around so I could ask her about this, she thought. Obviously, Ali wouldn’t be able to make use of the spell damage bonus to ice-affinity skills, but if her Barrier skill had the Defense trait, it may be worth her using it. And, of course, spell haste would be useful for everything. Although Ali doesn’t have a lot of skills with a long cast time. At least the ones she uses in battle.
+
+Malika returned her focus to her senses, slowly familiarizing herself with her new skill advancement for Soul Sight – her reward for their defeat of Mok’freja – trying to take advantage of the quiet to master the perception changes before being thrust into the chaos of whatever challenge this dungeon coughed up next.
+
+Soul Sight gains Mana Sight.Soul Sight – level 25You can see the flow of energy all around you. You can sense hostile intent. You can anticipate the physical movement, attacks, and spells of your opponents. Range: 52.5 feet.Soul, Bloodline, Perception, Wisdom
+
+The text describing the skill had barely changed, but the same could not be said for how she experienced her sight. Where previously she had been aware of white streamers of energy within and around people and monsters – which she had learned to interpret as the flow of their stamina powering their bodies and martial skills – she was now assaulted with a riot of blue energy intertwined with the white. It had been easy to figure out that she was seeing mana usage flowing through her friends, but the riot of new information was taking her a while to get used to. It was nothing like how Ali described her mana-sight.
+
+But more importantly, this was a bloodline skill advancement, and it was the very skill that had sent her bloodline spiraling into destruction – and so, she was being very cautious, using all the meditations and rituals Rezan had taught her up there on the stone shelf above Kezda, sitting beside his favorite waterfall. I need to visit Kezda again. She smoothed the frown off her brow, reconnecting with the calmness within. Figuring out this dungeon was urgent – checking in with Rezan would need to wait.
+
+After an hour, she was almost convinced her skill would remain stable, and she had achieved a basic familiarity with her new passive perception; something that was essential for her to function well – it wasn’t a skill she could turn off whenever she felt like it. She set the orb aside for now, having served its function as a source of magic for her to focus on, and turned to the other items they had retrieved from Mok’freja’s corpse. The mage had equipped herself much like all the other ice trolls with a Frozen Charm Bracelet, a Frosted Sapphire Drop earring, and a higher-level version of the Frostweave Robes of Ice that Malika thought Ali might consider wearing to replace her old, crafted level fifty fire robes. But Mok’freja had also wielded the Glacial Orb of Defense – and a singularly remarkable wand.
+
+Winter’s Desolate Celerity – level 85 (Ice)A delicately carved wand of quartz with a deep core of glowing blue energy.+52 Intelligence.Charge: Cast Winter’s Desolate Celerity. Your target gains +85% [skill] to spell haste. The bonus is doubled if the target is chilled or frozen. Duration: 10 seconds. Charges: 3/9.Requirements: Intelligence 596.Quality: Rare.Value: 172 gold.Main Hand – Wand
+
+Malika had not even noticed the ridiculous value of the wand for several minutes as she had been so focused on what the wand actually did. Eighty-five percent spell haste! It was a ridiculous amount even for just ten seconds. And yet Mok’freja was always chilled, and so its effect on her had been double that. She would never forget the wave of helplessness she had felt seeing so many ice bolts suddenly accelerating toward Ali, knowing she had no chance of reaching her friend to save her.
+
+Generally, rare-grade items had five or more enchantments, but the wand had been inscribed with a level eighty-five skill that could be cast on anyone in range. It was extraordinary.
+
+We need to be more careful. The surprise created by this wand almost killed Ali. Besides an assortment of potions, Malika found two more identical wands when she emptied Mok’freja’s tusk ring, both already depleted with no charges remaining, making this by far the most valuable haul they had ever earned. Wands could be recharged, and she knew that the Novaspark Academy provided such services for a small fee – although she wasn’t certain they would even be able to work with such a high-level item. At the very least, it was worth a conversation with Donella.
+
+She stored the items. There would be time enough to discuss them with Ali when she returned. In the meantime, she had a few points to spend.
+
+Soul Monk has reached level 81 (+6).+60 attribute points.Martial Artist has reached level 39 (+2).Soul Strike has reached level 45.Healing Mantra has reached level 49 (+3).Perfect Body has reached level 30 (+2).Soul Armor has reached level 36 (+3).Enlightened Evasion has reached level 39.Divine Step has reached level 41.Second Wind has reached level 25.Clarity has reached level 25.Soul Sight has reached level 25.Appraise has reached level 23.
+
+Malika nodded with inner satisfaction. Liking it! Her first points went to her resources: twelve each to endurance and wisdom. Immediately she felt the reaction in her tagged skills as her muscles and skin grew denser and her attributes swelled under the influence of Perfect Body. Not bad, not bad at all. She reserved six points for vitality and one for strength to make sure her most important secondary attributes didn’t lag. Finally, she spent fifteen points boosting her dexterity and fourteen on perception to feed her newly advanced Soul Sight.
+
+There, that should do it. She felt ready – ready to face whatever they found behind the next barrier.
+
+Ali woke, momentarily disoriented by the unexpected feeling of being cradled in the embrace of her own domain mana. She sat up, surprised to find herself feeling alert and fully rested.
+
+Amazing how quickly I got used to the jungle, she thought as she stretched her arms overhead and then stored her sleeping bag, still feeling too lazy to climb out of it the normal way. She checked everything carefully, verifying that her withdrawal had faded overnight, dissipated by the mana of her domain. A touch of chilly air brushed goosebumps across her skin, rolling in from the two ice trolls she had summoned to guard her while she slept. She had promised Mato she would be careful, but although she felt safe and at home within the library, the periodic incursions of assassins had taught her to mistrust that feeling – often with brutal or gruesome results.
+
+I really need to get an apartment sometime, she thought. As comfortable as her sleeping bag and tent were, she was still sleeping on solid stone, and she could already hear the low voices of the early risers of the guild, arriving for study or research. She loved the library being filled with people learning, but that meant that it was becoming increasingly awkward to just plop down her tent and camp here whenever she felt like it. That, and she honestly missed sleeping in a real bed. Living in Myrin’s Keep proper held little appeal for her but, while she wasn’t sure she wanted the memory of her cute first apartment wrecked by finding its ruins out there in the darkness, filled with skeleton bones or ancient kobold eggshells, she still had access to the entire expanse of Dal’mohra. Perhaps I should restore some houses? It would be a lot of work, but it might be a fun project for when they were done with Aman Rak.
+
+She emerged from her tent, allowing it to collapse and fold itself up for the cost of a minuscule amount of her mana before storing it in her ring. She glanced about, finding Lira sitting regally on the couch with her precious steaming cup of tea.
+
+Ali walked over to join her. “Morning, Lira.”
+
+“Morning, dear. Some tea perhaps?” Lira asked.
+
+“I’m good for now,” Ali smiled. It was a wonder Lira didn’t turn into a teapot with how much she loved tea. “I did have something I want to show you, though. I need your advice.”
+
+Lira quirked an eyebrow at her, so she quickly created a planter and summoned several Soulshade Blossoms in it. She also attempted to summon the undead Spectral Nightroses, but those failed like every other undead she had attempted.
+
+“Well now, where did you find this?” Lira said, reaching out a hand to delicately cradle one of the blossoms. “I have not seen one of these in an age.”
+
+“In Aman Rak,” Ali admitted. “They seem to sprout around these terrible necromantic altars. Also, in the necromantic formation Nevyn Eld built in the Spirit Realm.”
+
+Lira’s eyes widened as she abandoned the softly glowing blue flowers to lock on to Ali. “That is… disturbing news. These flowers only bloom when the energy of the departed lingers. If he is involved, it cannot be for honorable purposes.”
+
+“That’s… what I was worried about,” Ali said. Her worries had been nebulous and diffuse, but Lira’s reaction had crystallized the feeling into diamond hard certainty. The array, the undead, the altars, even Aman Rak itself – all of it was being bent to a singular awful purpose.
+
+Lira’s eyes hardened as her gaze returned to the blue flower nestled in her fingers. Then she plucked it.
+
+Ali gasped. It was a gesture so mundane, and yet something she could never have imagined seeing Lira do. Moments later, a Spectral Nightrose bloomed in its place, this time flowing with death-affinity mana – an undead thing, somehow inexplicably attached to her domain. She shivered.
+
+“Could you make a few more,” Lira asked. “I’ll invite Eliyen Mistwood to examine them, and there are a few books in Ciradyl’s library that could help unravel this mystery.”
+
+“I’ll ask Ryn to investigate,” Ali said, summoning several more pots filled with the blue flowers. Ominous as it sounded, Ali was grateful to have some help figuring it out.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

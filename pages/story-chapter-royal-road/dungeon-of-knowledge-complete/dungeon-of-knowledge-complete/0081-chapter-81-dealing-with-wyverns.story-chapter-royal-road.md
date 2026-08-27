@@ -1,0 +1,171 @@
+---
+id: dd6e97ef-9b12-5281-8cf6-5c5b9859ea9a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 81: Dealing With Wyverns"
+slug: 0081-chapter-81-dealing-with-wyverns
+partOf: dungeon-of-knowledge-complete
+position: 81
+ownLength: 3984
+unit: words
+ownProgress: 3984
+publishedAt: 2024-06-04
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1663439/chapter-81-dealing-with-wyverns"
+royalRoadId: "1663439"
+markedReadAt: "2026-06-29T20:13:38.862Z"
+---
+
+Ali’s mana flowed, shaping the elegant glowing runes in the center of the new, smaller square Calen had chosen for them today. It wasn’t as defensible as their last spot, but after fighting for most of yesterday, they had been able to make up a lot of ground. In the distance, between the buildings, Ali could make out the slender stone bridge that arched out across the void to the second, slightly lower ring, silhouetted against the soft dim glow that filtered up from below.
+
+With a familiar snap, her Runic Circle closed, and she surveyed her work. Good. She had decided to make one Cure Poison circle and one Inspiration circle. Some of the fights had been drawn-out affairs – battles of attrition – where a little extra mana might have come in very handy.
+
+“Ok, ready,” she announced, and Calen’s lithe body shimmered, blending with the shadows as he began to run, seen only by the soft floating wisps of mana that shrouded his form from view.
+
+Ali surveyed the disposition of her minions, but everything seemed ready. Calen had been amazing, giving up an hour of his sleep last night just to help train her archery via her Martial Insight. He had also taught her how to approach ‘strategic deployment’ – as he called it – from the perspective of an archer. Each one of her minions had been carefully assigned a spot inside a building shooting out of a door or window, or with a nearby wall or corner to hide behind – all spread out widely enough that a single spray of poison could not hit more than one of her minions at a time, and yet close enough to be easily accessible to Malika and her Acolyte healers.
+
+While she waited, Ali summoned her Grimoire and began creating arrows. With a couple of Kobold archers in her forces and Calen all shooting arrows up into the sky, and often losing them over the edge of the ring, they ran out faster than she had anticipated, and so she took any downtime to make sure everyone stayed fully stocked.
+
+Grimoire of Summoning has reached level 21.
+
+Oh nice! Her Grimoire rippled as it added a new chapter to the end.
+
+Above the distant bridge, an arrow soared rapidly into the sky, a brilliant flare against the darkness, signaling that Calen had found a mark. Quickly Ali put her Grimoire away and summoned a precautionary barrier, happy that her practice copying the Glimmer Shards allowed her enough control to shape the barrier taller than it was wide to better cover her entire body.
+
+Skeletal Wyvern – Undead Dragon – level 31 (Poison)Giant Bat – Zombie Bat – level 24-28 (Sound) x2.
+
+Undead! Does it have to be? Ali shook her head, trying to dislodge the gut-wrenching sense of dread that threatened to send her into a panic. The monsters soaring above Calen’s agile form darting back and forth as he sprinted along the ground were all undead – and even though Calen had warned them, and she had expected it from the death mana affinity of the dungeon – she still struggled to face undead without fear.
+
+While not quite as large, the Skeletal Wyvern looked identical to the terrifying monster they had faced in the depths of the library atrium. Skeletal wings soared through the air as if they could hold its bulk aloft, even though there was no wing surface between the slender long bones. She could see clear through its ribcage past the bony ridges and plates of armor. Filling the gaps between the bones and trailing behind the monster was a dark pulsating miasma of green mana that traced its distinctive, threatening outline.
+
+The two bats that zipped back and forth looked identical to the bats they had been facing previously, with the exception that their flesh showed great rents of unhealed wounds that seeped a putrid goo, and parts of their wings had holes and tears. As they dove and darted through the air, their shimmering sonic attacks buffeted the ground, barely missing Calen and raising clouds of dust wherever they struck.
+
+“Fire,” Ali commanded, focused on the Skeletal Wyvern first, and her minions responded to her will with an instant barrage that filled the air with magic and arrows. But she immediately saw the problem – while her mages and shamans were unaffected, most of the arrows were passing clean through the wyvern.
+
+“Bats first,” Calen said, breathing heavily as he skidded to a dramatic stop beside her. Swirls and glyphs of radiant light crawled across his skin and seared out from his eyes, ignited by his incredible Righteous Fury. His arrows burned a rapid-fire tracer stream into the sky, slamming into the nearest zombie bat.
+
+“Archers, shoot that bat!” Ali redirected her minions to follow Calen’s lead, and they rapidly turned the decaying bat into an undead zombie pincushion. With most of their battles, Calen’s powerful skill was sufficient to take out a single bat all on his own, with time left over to move to a second target. But the zombie bat proved substantially more robust, taking the full duration of his skill, all the arrows of her Kobolds, and her continuous stream of Arcane Bolts, before they finally grounded it, still screeching and thrashing about.
+
+At least Mato is excited, she thought, watching him charge the downed monster with a bloodthirsty roar.
+
+“Next target,” Calen said, shifting his shining arrows to the second bat, clearly happy to leave the flailing grounded monster to Mato to finish off. Mato’s happiness showed in the way his finishing Swipe lifted the creature right off the ground and flung it aside in a lifeless heap.
+
+That’s my friend! she thought happily, surprised at herself. No, she no longer feared him.
+
+With a thought, Ali summoned a barrier above her Acolyte, deflecting the poison spray from the swooping Skeletal Wyvern, and then retargeted her minions onto the second bat while trying not to choke on the toxic stench of the green fluid sizzling on the ground. Mentally fixing it as her target was becoming an automatic skill, and her Arcane Bolts soared into the sky, barely taking any of her focus from directing her minions and blocking with her barrier. The agile zombie bat highlighted the value of her Arcane Bolt skill in Ali’s mind. With her archers and mages, she had to anticipate the trajectory of the bat – a tricky undertaking given its rapid and unpredictable darting direction changes – and fire ahead of where it might be when the spell or arrow arrived. Fully half, if not more, of her minions’ shots missed. But her Arcane Bolts always hit – if not on the first pass, they would gracefully arc around and chase the bat indefinitely as long as she kept her focus. Well, not indefinitely, she reminded herself. Her bolts only lasted so long, but it was easily more than enough for what she needed here.
+
+She ignored the chime of the first bat dying, focusing on tracking the Skeletal Wyvern as it swooped, splashing poison against the entire front of a building, and catching her Kobold Bone Mage before it could duck behind cover. Quickly, she moved her poisoned Kobold to the cure circle while shifting her barrier around to catch the next stream of poison aimed at one of her Acolytes.
+
+In the background, she heard a chime and a crash as her Arcane Bolt skill target vanished from her mind. Quickly, she shifted to the Skeletal Wyvern, struggling to find any way for her archers to hit it. It took several long moments of frustration before she simply gave up.
+
+“Fireball it,” she instructed, watching the incendiary balls of fire shooting up into the dark sky directly into the path of the swooping undead monster. Easier to be accurate with a giant explosion of fire, she decided, watching the flame blossoming in the air and raining down crackling gobs of fire to the deafening repeated thumps of the explosions.
+
+Calen stood quietly on the apex of the arched stone bridge, suspended midway between the inner-city ring behind him, and the enormous spread of the partial ring of stone and buildings that lay suspended in the air below, connected by the tiny sliver of stone he stood upon.
+
+Even ruined as it was, the sight of uncountable tons of slate and granite suspended in the air by the ingenuity of the ancient Dwarven crafters left him in awe. Sprawling out along the stone ring was the entire industrial district of a major city, large multi-story buildings in various states of disrepair and ruin, many of which were now covered by bone and crawling with undead monsters.
+
+Calen had always found spatial perception came easy to him, and now enhanced by his powerful Explorer skill, he found it easy to see the entire three-dimensional layout of the city captured in his mind. The magic of the suspended rings was anchored to the enormously tall pillars that extended up through each ring and the roof above, coinciding exactly with the ventilation shaft and similar constructions rising from the residential level above. Presumably, they extended even further downward into whatever lay below. Even the grand library acted as an enormous city-scaled structural pillar that rose through the center of it all. Whoever had conceived of this place had certainly had an extraordinary vision.
+
+His acute vision picked up more bats and wyverns circling in the distance. After the better part of two days fighting them, they had finally cleared the bridge and reached the second ring. Initially, most of the monsters he had brought back for his team to fight were not even dungeon creatures – somehow the bats and the wyverns came from outside the dungeon and were fighting endlessly with the dungeon itself. However, as he progressed, more and more of the monsters were undead – zombies or skeletons – and on this his Explorer was clear, those were most certainly the minions of this Ruins of Dal’mohra dungeon.
+
+He waited, studying the rooftops of the buildings below. The stillness in the air made it impossible for him to forget they were in an underground cavern, regardless of how big it was. Could this be the dungeon’s core? Must be. So much of the surface below was covered with bone spikes and ridges that some buildings appeared to be little more than gray lumps. While the way forward was clear, he still waited, patience coming easily to him as he stood and observed within the shroud of his Eclipse stealth. It would not do to advance prematurely and run afoul of a wandering patrol of bats or wyverns, especially if, as he suspected, the creatures in this new section of the city would be even more powerful than before.
+
+He trained his eyes on a problematic group of four bats that seemed to venture close enough that they might cause problems. For several minutes he studied their path and habits before pulling out his bow and nocking an arrow.
+
+If I’m right, they should come around and be just in range… He waited, while the bats turned another great circle in the sky, and then he drew his arrow, sighting along the shaft while he judged the distance. For a few moments, he simply stood still, not even breathing, while the bats flew on silent wings. At the perfect moment, he triggered his increased range and loosed his arrow to the sky, aimed to intersect the lead undead bat’s path as it flew toward him. He held his position until the last possible moment before igniting his arrow with the brilliant flare of light magic. The warped screech of the zombified bat chilled him to the bone, even though it was by now quite a familiar sound. He turned and darted away, pushing his speed to the utmost, making the most of his enhanced dexterity and the speed enchantment on his boots to stay ahead of his pursuers, dodging to the side whenever they tried to hit him with their sonic scream attacks.
+
+He sprinted around a corner, turning, and firing back at the bats before ducking behind the cover of the building. There had been several times when he had lost the interest of his quarry before he had reached their prepared ambush site, and he had had to go back and start over. He wasn’t about to let that happen again.
+
+He sprinted the last stretch flat out, pulling up near Ali in the square.
+
+“Four zombie bats,” he announced, glancing at Mato tossing his head in frustration. “Throw a house at them,” he suggested.
+
+The bear made an unamused growl deep in his throat.
+
+From the windows and doorways arrows, firebolts, lightning, and even spears of bone flew up to meet the bats as they swooped into the square to fight.
+
+Calen activated his Righteous Fury immediately. Against the agility of these bats, his potent magic enhancement skill was his best chance of downing one of their foes as soon as possible, and substantially reducing the danger. His mana burned within his veins as his magic surged. The entire battlefield slowed, crystallizing into preternatural clarity as his Blessing of the Dawn supercharged both his dexterity and perception, and his Eyes of the Archon was enhanced. He unleashed a veritable storm of arrows powered by his light magic, not bothering to delay it. While his Righteous Fury was up, he didn’t hold back, burning through his mana at a phenomenal rate. His arrows tore a continuous tracer line slamming into the bat as it began dodging and diving to try and avoid his assault. With his enhanced reaction speed, he saw the bat moving almost in slow motion allowing him to hit with almost two-thirds of his shots.
+
+With a few good hits with Lightning Bolts and the full fury of his burning mana, the bat faltered, spiraling down to hit the ground with a loud thump, and the cracking of bone. Injuries that he knew wouldn’t stop the monster from attacking anything nearby. He ignored it, hearing Mato’s roar and thundering charge, instead retrieving a mana potion and downing it in a smooth practiced move before turning to the next bat and resuming his attacks intent on eking out every last second of his powerful buff before it expired.
+
+He managed a respectable number of hits before the light in his eyes dimmed, and the world around him seemed to speed up back to normal.
+
+This skill is going to make me go broke, he thought, stepping over his discarded empty mana potion vial and into Ali’s Inspiration circle. Well, I’m already broke, he thought ruefully. He had had to rely on Ali to afford his last batch of mana potions, and she was even supplying him with all his arrows, so he didn’t have to buy those too. The only consolation was that with his relatively small mana pool, he didn’t have to buy the more expensive mana potions. Now, if only I can learn to conjure arrows from fresh air… burning my mana faster. Right.
+
+While he waited for his mana to refill, he cast an eye across the battlefield, paying careful attention to Ali’s new Kobold archers. They’re doing a lot better, he thought, satisfied. When Ali had asked him for help, their technique had been best described as mediocre. But she had studied his advice and technique with impressive diligence, and Calen could see the dramatic improvement.
+
+Close enough, he thought, checking his mana level. Picking the bat targeted by Ali’s Arcane Bolts, he began firing. Maybe if the battle goes long enough, I can use Righteous Fury again.
+
+As the final bat spiraled down to the ground, taking several more of his arrows on the way down, Calen heard several chimes sounding. Oh, something new? He hadn’t bothered with the notifications all morning, but several chimes together like that usually meant something worth looking at.
+
+Oh, I leveled.
+
+Your group has defeated Giant Bat – Zombie Bat – level 24-28 x4.
+
+Archer of Light has reached level 27.+10 attribute points.
+
+Radiant Archery has reached level 18 (+2).Arrows of Brilliance has reached level 21 (+3).Motes of Light has reached level 11.Explorer has reached level 17.Eclipse has reached level 14 (+2).Eyes of the Archon has reached level 14.Righteous Fury has reached level 7 (+4).
+
+Cartography has reached level 7.
+
+Quickly, Calen spent two points each on vitality, dexterity, perception, intelligence, and wisdom, shotgunning all the attributes he used evenly – but that wasn’t the last notification. Hurriedly, he read on, having to stifle a chortle of satisfaction. Yes!
+
+Arrows of Brilliance has gained a new enhancement.
+
+Blinding FlashMana: Cause an extremely bright flash when your arrow hits, blinding nearby targets. Range: 20 feet.Light, Area, Ranged, Intelligence
+
+Armor PiercingStamina: Your arrows will pierce armor, ignoring a percentage of the target’s armor value.Physical, Ranged, Dexterity
+
+Mote of LightMana: Attach a Mote of Light to your arrow, fixing it at the destinationLight, Ranged, Intelligence
+
+Grappling ShotMana: Bind your target with light magic, pinning it to the ground and impeding its movement.Light, Ranged, Intelligence
+
+Choose one enhancement.
+
+Calen smiled seeing his new advance, and he almost picked his anticipated Armor Piercing, before he suddenly noticed the new entry in his list of choices.
+
+Grappling Shot? The skill sounded almost deceptively simple, but it would change everything for him. In her book, Lyeneru always stressed the importance of strong kiting skills. If you wanted a monster to chase you, you either had to be faster than it, or you had to make it slower than you. According to her, control skills that prevented your enemy from reaching you were vastly more useful from the perspective of usable, practical tactics in combat. And here was a skill that he could use with his bow, presumably stopping or at least slowing creatures.
+
+He took a longing look at the Armor Piercing advance he had been waiting for. It was still an extraordinarily strong choice.
+
+Which wins? Control? Or power?
+
+But Mato just got his Living Rend, he thought, considering how much that skill had enhanced his damage. It spoke for the value of armor piercing, but it also suggested he might be able to wait a little longer, relying on his friend instead. He examined Grappling Shot once more.
+
+It doesn’t say anything about the monster needing to be on the ground, he suddenly realized. Many trap skills placed something on the ground that needed to be stepped on for them to activate. But this would be delivered by his arrow.
+
+Can I shoot monsters out of the sky? Worth trying it out.
+
+***
+
+Calen didn’t have to wait too long this time, a group of two skeletal wyverns and three zombie bats swooped over his vantage point on the bridge. Following the same pattern, he enchanted increased range and fired, adding his light damage right before his arrow hit the lead wyvern. He turned and sprinted, using a weaving path to avoid the poison spray. Bats by themselves were easier to outrun, and once he had learned to anticipate it, their narrow-focused ultrasonic stun was not particularly difficult to avoid. It was the wyverns with their poison spray he had to be careful of – a broad arc that splashed everywhere – and even the splash caused poison damage. He ducked and evaded his way down the street taking the shortest path back to their waiting ambush.
+
+“Two wyverns and three bats,” he announced, as he sprinted through their position. Mato’s typical response was a furry frown.
+
+I want to see his face if this works!
+
+Calen turned amid the storm of magic and arrows unleashed by Ali and her minions, stopping beside the solid bulk of Mato’s bear. He nocked one of the Arrows of Accuracy to his bowstring and drew, sighting down the dark gleaming arrow shaft at the unnatural flying skeleton of a wyvern. He enchanted his arrow with Grappling Shot and loosed it into the sky, to the pull of a substantial chunk of mana vanishing into his magic.
+
+Oof, that’s expensive. He would need to be careful and strategic with this new skill – and probably he would need more mana potions. Again.
+
+His arrow soared into the sky, trailing a thin chain that seemed to be made entirely from pure light energy. The arrow flew true, apparently unimpeded by the trailing chain that seemed to attach itself to the ground by his feet. As soon as his arrow struck, the chain surged out, wrapping itself rapidly around the skeletal wyvern before snapping taut. The wyvern let out a furious roar as the chain dragged it bodily to the ground, despite its thrashing and struggling.
+
+“Ooh!” Ali exclaimed from behind him, as Mato roared with what Calen imagined was unrestrained joy.
+
+Oops! Calen dove to the side as the wyvern crashed into the ground right beside his feet.
+
+You have been afflicted with Poison.+3 Poison damage per second.Poison – Duration: 10 minutes. Count: 1
+
+Stupid! He had been poisoned just by proximity to the undead monster. Quickly, he scrambled out of the way of the thrashing bony wings, tail, and the furious spray of poison that shot out in all directions. Calen ran for the cure poison circle, hearing the crunch of bear claws tearing through bone, and the rapid flash and crack of Malika’s strikes.
+
+Calen downed a mana potion and examined his handiwork. For about twenty seconds, the Wyvern remained bound to the ground by the chains of his magic. But, all too soon, the chain of light shimmered and evaporated into tiny sparkles of light freeing the monster. Immediately, it swept its wings downward and leapt into the sky, but although Mato’s frustrated roar throbbed nearby at his prey escaping, it was clear that even just the short amount of focused time he and Malika had spent on it had left it battered and broken.
+
+A sarcastic grin curved his lips. Do come visit again. I hope you enjoyed your stay.
+
+Leaving the slower, damaged wyvern to Ali and her minions, Calen sprinted over to Mato and shot the second skeletal wyvern. Once again, his mana drained into the skill as if he had pulled out a plug, forming the thin, but strong binding chain, and dragged the undead creature to the ground.
+
+Having learned his lesson the first time, Calen was well clear by the time it crashed to the ground and straight into Mato’s waiting Swipe, which cuffed its head so hard the monster was left looking backward for a second.
+
+Calen smiled, thoroughly enjoying the enthusiasm with which Mato was tearing into the skeletal wyvern, clearly venting two days of frustration against a foe that was finally in range of his paws.
+
+***
+
+Name: Calen AveryRace: Half-ElfActive Buffs: Blessing of the DawnClass: Archer of Light – level 27- Radiant Archery – level 18- Arrows of Brilliance – level 21- Motes of Light – level 11- Explorer – level 17- Blessing of the Dawn – level 14- Eclipse – level 14- Eyes of the Archon – level 14- Righteous Fury – level 7- [Locked] - [Locked]General Skills- Bowcraft – level 7- Wood Carving – level 3- Cartography – level 7Aptitudes- Languages: Common- Mana (Affinity): Light- Perceptive (Racial): +11 to Perception- Quick (Racial): +5 to Dexterity- Timing (Class): You have an innate sense of timingAttributes- Vitality: 34- Strength: 9- Endurance: 21- Dexterity: 180 (+76) - Perception: 122 (+46) - Intelligence: 116 (+44) - Wisdom: 40Equipment- Weapon: Hunter's Bow – level 10- Body: Leather Armor – level 20- Hands: Bracers of Accuracy – level 10- Feet: Simple Boots of Swiftness – level 15- Ring: Bronze Guild Ring – level 10Evasion: 240Dodge: 24.09%+5% to Accuracy rating.+5% to Movement speed.Health: 340/340Stamina: 210/210Mana: 320/400 (80 Reserved)

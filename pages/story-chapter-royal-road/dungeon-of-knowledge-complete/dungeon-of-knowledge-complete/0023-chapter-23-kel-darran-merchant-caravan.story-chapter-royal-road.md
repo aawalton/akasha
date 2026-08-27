@@ -1,0 +1,279 @@
+---
+id: 5b8a2c84-9f1c-5a1a-a63e-41c8c12c0fb9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23: Kel’darran Merchant Caravan"
+slug: 0023-chapter-23-kel-darran-merchant-caravan
+partOf: dungeon-of-knowledge-complete
+position: 23
+ownLength: 6334
+unit: words
+ownProgress: 6334
+publishedAt: 2024-02-19
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1524260/chapter-23-keldarran-merchant-caravan"
+royalRoadId: "1524260"
+markedReadAt: "2026-06-29T20:11:45.448Z"
+---
+
+Malika’s awareness surfaced through a leaden sea of lethargy like a drowning swimmer trying to catch a breath. Her mind was hazy with an undercurrent of panic, barely registering the hard wooden floorboards bouncing and bucking beneath her battered body, and the strange crashing noises in the background. She struggled weakly but nothing seemed to work. A few moments later, the crushing exhaustion bore down on her, dragging her consciousness under once more.
+
+Not again…
+
+She was awoken abruptly as her body floated, briefly weightless, and then suddenly slammed into the hard wooden surface below her. Something snapped, right next to her sternum, sending a lance of pain through her chest. Her ears rang with a cacophony of frantic rattling and crashing as the floor jolted and bounced, trying its best to toss her into the air again.
+
+The air inside … wherever this was … was thick with a mix of dust and the acrid stench of smoke. Above the din, she could hear distant screams and the unmistakable sound of steel clashing against steel.
+
+Where am I?
+
+A tremendous paroxysm of pain hammered through her muddled mind as she struggled to make sense of what was happening. Reaching for her head did not work, as her arms failed to respond. Vague memories swirled through her mind, images of being attacked, waking up, and falling unconscious repeatedly.
+
+Bound. Her arms didn’t work because they were bound.
+
+Wait, I can heal. She reached for her magic and activated Healing Mantra, but nothing happened. A profound sense of déjà vu stopped her in her tracks as she struggled to figure out what any of it all meant in the midst of her confusion. Her eyes seemed to be glued shut by something sticky, but she managed to crack one eye open.
+
+A little way from her, lying slumped against the wall was a body with silver-white hair. Calen? For a moment, she thought he might be dead, but then she saw his chest rise slowly and then fall. The all-consuming lethargy rose within her, threatening to snatch her away.
+
+No! There was something really messed up with her mind. Again? Acting on instinct, she sat up and closed her eyes, looking within for a place to center herself. She breathed in, and then out, feeling the familiar sense of her Meditation cradling her mind and body. She breathed again, and suddenly the lethargy began to ebb, receding into the darkness – an island of calm in a sea of lurching and jolting chaos.
+
+What the fuck was that? she thought as her mind slowly began to clear. She remembered being captured.
+
+Adrik and Edrik.
+
+She remembered being punched in the head by Kieran Mori – and then waking to be punched in the head by Edrik, a sensation she was more than familiar with. Less so, that relentless assault. Usually, the thugs had left her somewhat functional so they could beat her up again whenever the fancy took them. This was on another level. A Kieran Mori level. She shouldn’t be alive.
+
+I had no mana. Then, she remembered the cuffs. Twisting her body, she caught a glimpse of the cuffs binding her wrists behind her back – but these were thicker and inscribed with what appeared to be silvery runes.
+
+Cuffs of Greater Suppression – level 20Sturdy steel handcuffs, designed to restrain people with classes by sapping mana and stamina. Requirements: None. -20 to level requirement.-227% to Mana and Stamina regeneration.Locked.Quality: Magic.Value: 5 gold.Created by Indacus Argyle.Hands – Handcuffs
+
+Fuck, level twenty? Malika groaned in understanding. These cuffs were substantially more potent than the ones she had been forced to wear before. The amount of suppression well exceeded her regeneration. And if someone was stuck with zero stamina for long enough, they would typically fall unconscious until their stamina recovered.
+
+The only reason I’m awake is because of my Meditation.
+
+Meditation – level 3Focus: Enter a meditative state during which mana and stamina regeneration is increased by +80% [35 + skill x 15]. Movement or using an active skill cancels your focus.WisdomHealth RegenerationPercentage of maximum health regenerated per hour.Total: 0%Stamina RegenerationPercentage of maximum stamina regenerated per hour.+100% Racial (Human).+100% Relentless Aptitude.+80% Meditation.-227% Cuffs of SuppressionTotal: +53%Mana RegenerationPercentage of maximum mana regenerated per hour.+100% Racial (Human).+80% Meditation.-227% Cuffs of Suppression.Total: -47%
+
+She was regenerating a slow trickle of stamina, maybe two per minute, if that. It’s going to take ages to recover enough to heal my broken ribs, and whatever else they did to me.
+
+As she tried to make a plan, any plan, a distant whistling sound caught her attention, dragging her back to the situation around her. The floor was still banging and bucking and the sounds of screaming and clanging continued unabated. As her perspective jolted up and down, she recognized she was inside a covered wagon. And we must be in the middle of a battle. The wagon was going entirely too fast and seemed out of control. When this stops, it’s going to hurt like hell.
+
+The whistling sound grew rapidly louder and suddenly the wagon leapt into the air, tossing her flying, suddenly weightless amid the sound of a deafening detonation and concussion of incinerating heat. She tucked into a ball but, bound and drained, she was powerless to prevent her body from smashing into the side of the wagon as she cartwheeled out of control, coming to a sudden, bone-grinding stop. Malika’s body bounced once and something else cracked painfully, but she had tucked in her head, preventing herself from being knocked unconscious or worse. She winced as she crashed into the bars of the roof of the now upside-down wagon.
+
+“Ugh…” she groaned, spitting up a mouthful of blood.
+
+Wounded and bruised, and in no small amount of pain, Malika levered herself awkwardly into a sitting position and looked around as best she could. Her energy began draining away and she quickly reached for the calm focus of her Meditation skill once more.
+
+The tarp covering the wagon – concealing them from prying eyes – had been torn away in the crash. Through a smoky haze, Malika saw shadowy shapes struggling in a gloomy forest. Swords gleamed and arrows buzzed overhead, accompanied by occasional flashes and flickers of offensive magic. The corpses of several Kel’darran merchants lay strewn about like so much litter, their lizard-like features more than enough to tell Malika that it was she and Calen who were the merchandise.
+
+That much is promising. At least it explained why she wasn’t dead. Yet.
+
+At once, a small, leathery, green-skinned figure ran past wielding a wickedly curved scimitar of dubious quality, considering the point was rusted right off, shrieking as it disappeared among the trees.
+
+Goblins!
+
+Goblins were vicious and cunning. And where you saw one, there were undoubtedly twenty more hiding somewhere nearby just waiting to shank you and steal your stuff. Goblins typically ate prisoners. Without Calen, she couldn’t even use Identify to figure out just how screwed they were.
+
+We have to get out of here, fast!
+
+Malika struggled violently against the suppression cuffs, but it was hopeless. She was still bound at the wrists and ankles and locked within the cage-like Kel’darran slave wagon.
+
+Think!
+
+She sat as still as possible, working on regenerating her stamina while she racked her brain trying to figure out how to escape. From the distant treeline, a figure burst into the clearing, sprinting toward her, wide-eyed and screaming. A woman – Human, not Kel’darran like the several corpses she had already seen – was running right for the wagon and Malika.
+
+Is that a guard? A Kel’darran merchant insignia had been affixed to the front of the woman’s dark brown leather shirt and her long, pinned hair was beginning to come loose. She looked frantic, in fear of her life. In the distance, Malika heard the same low whistle and saw a glowing fiery red orb approaching at high speed.
+
+Shit! Oh, shit no… She threw herself to the ground, covering Calen’s head with her body as the fireball detonated, rocking the ground. A tremendous concussion of flame punched her in the back, searing her flesh, before she was pelted with clods of flying dirt and pebbles that rained down on the stricken wagon.
+
+Malika stifled a groan of pain at her fresh burns and cautiously poked her head up to look around, reactivating Meditation because she had lost her focus. Something about a giant explosion of fire made focus a little challenging. In the distance, among the trees, a small, red-robed figure turned and disappeared, and a wicked cackle carried across the clearing, heard over the ringing in her ears.
+
+A mage? He has one hell of a temper… Elite or unique Goblins were supposed to be rare. Worse, his cackling laughter had sounded downright demented. She lay unmoving beside Calen, pretending to be dead until she could no longer hear him.
+
+Shuffling and twisting awkwardly, she gritted her teeth against the pain of her broken ribs and dragged herself across the bars on the ground to the edge of the wagon cage, where the mangled and burnt remains of the female guard lay sprawled and broken. Wisps of smoke rose from the body, and the stench of overcooked meat filled her nostrils. Awkwardly, and with frequent pauses as her ribs tried to skewer her lungs, she placed her back up against the bars and slowly levered herself up until she could reach the body. Grimacing as her hands encountered all sorts of burnt and bleeding flesh, she finally found what she was looking for – a simple metal hairpin.
+
+It took a frustratingly long time to snag the hairpin between her fingers and tug it free, but eventually she managed, slumping back to the ground with her prize. The sickening stench turned her stomach, but she put it out of her mind for now, focusing on bending the metal hairpin the way she needed. Her normally dexterous fingers struggled with a task made significantly harder by being bound behind her back. By the time she had it right, she had regenerated just about enough stamina to use her skill. With a few deft flicks and twists, and most of her hard-earned stamina, the lock on the cuffs binding her hands clicked open and they fell to the ground.
+
+Lockpicking has reached level 5.
+
+Malika grimaced. Much as she hated the lifestyle that had earned her this skill, it sure came in handy for … unusual situations. Her pragmatism had always won out over her feelings, and she had never removed the skill – even after she had earned her class. I don’t have to like it. Just use it. Stay alive.
+
+She massaged her wrists, enjoying the sensation of her stamina and mana beginning to regenerate normally. Reaching through the bars once more, she retrieved the dead guard’s dagger from the sheath on her belt and freed her legs from the rope bindings. Carefully concealing herself beside Calen’s unconscious body, she Meditated, waiting for her stamina to recover enough to use. She organized her priorities in her mind. Calen’s breathing sounded ragged but regular, and she needed to remove his cuffs – but she was also defenseless in the middle of an ongoing Goblin raid. If any Goblins found them it would be a quick arrow or a fireball to the face. Or more likely a mob with clubs and sticks beating them to death.
+
+As soon as she had enough stamina, she turned on Perfect Body, giving herself an attribute boost to increase the size of her mana and stamina pools – and consequently improving her regeneration. Then, she picked the lock on Calen’s cuffs, allowing him to begin regenerating normally. As her resources slowly recovered, she enabled her defensive skills one at a time and then healed Calen and herself.
+
+Malika winced as her healing magic burned through her body, causing her broken bones to shift and snap painfully as they knit together. She didn’t have enough to heal both of them fully, but she could put up with some burns for now, as long as her body worked.
+
+Calen groaned and rolled over. Quickly, she silenced him, his eyes snapping open in alarm as she covered his mouth. But she saw the alertness and recognition rapidly kindled within his eyes, so she released him. None of their equipment was anywhere to be found, but she had her hairpin, so she quickly picked the lock on the wagon’s cage door.
+
+Climbing up and out of the upside-down doorway, Malika was finally free of the cage.
+
+Now we just have to avoid the Goblins and find out where we are.
+
+She examined the guard, finding a bow and a half-empty quiver which she tossed to Calen as he landed beside her.
+
+“Which way?” she whispered.
+
+Without hesitation, Calen pointed back along a trail through the forest. There were more bodies strewn about in that direction, and burnt or smashed crates and upturned wagons everywhere, several of which were on fire. Malika headed off at a run, trying to look everywhere at the same time. Calen’s body faded into the shadows. If she hadn’t known he was nearby, she would have believed herself alone. He moved without a sound and was nearly invisible in the darkness.
+
+Malika dodged around an overturned wagon and skidded to a stop, suddenly finding herself face-to-face with a Goblin. He was in the process of looting a corpse and stood up and stared at her with his small black eyes. The Goblin wore nothing more than a dirty loincloth and his scarred, leathery green skin. He snatched up a spear and screeched something, and immediately several other Goblins appeared. Some clambered up on top of the wagon with handfuls of rocks while others emerged from behind it wielding all manner of slings, rusty daggers, and swords.
+
+Six! Curse my luck!
+
+Clearly the leader, the Goblin with the spear and loincloth advanced. “Grak hungry. Grak eat girl.” He spoke with horrendously broken Common, his long red tongue moving grotesquely across his broken yellowed teeth as he pointed a filthy finger at her.
+
+Shit! He’s an elite! There was no avoiding them now, the leader was a cut above the rest and probably far higher level than the others, but two of them had already moved in behind her to cut off her escape. Rogues? she thought, eyeing the daggers. With the spear-wielding warrior in front of her and the wagon to the side, she was effectively pinned. The rest of the Goblins readied their slings and daggers, using the wagon for cover.
+
+Don’t let your enemy take the initiative.
+
+It was her father’s teachings, echoing in her memory, that snapped her out of her surprise. Malika burst into motion, side-stepping his spear thrust and returned the favor by punching Grak in the snout using her Soul Strike to enhance the damage. Immediately, the two dagger-wielders behind her closed in, pressing their advantage, and she was suddenly dodging a flurry of blades and flying rocks from all directions. The warrior attacked, stabbing with his spear. Malika dodged but took a stray dagger slash to her upper arm.
+
+I’m being flanked.
+
+For all their reputation of being weak, Goblins were cunning fighters, and they had the advantage of numbers and solid teamwork. She had never fought Goblins before, obviously, but she knew enough to know she was in trouble.
+
+There are too many…
+
+Suddenly, a streak of brilliant white seared past a mere half-foot above her head. One of the stone-throwing Goblins toppled off the wagon with an arrow jutting out of its neck. It screeched and thrashed on the ground, spitting up blood as it fell among its comrades, and Malika took advantage of the distraction to deliver a powerful kick combination to the warrior’s ribs, dodging his deadly spear. Her Soul Strike stole health in small chunks, repairing the wound on her arm from the dagger strike. She still hadn’t fully recovered her mana, but this was not the time to be frugal. Unfortunately, the rogues recovered quickly, and the warrior, Grak, simply laughed at her and thrust again, making his spear swish with uncanny speed. She punched him in the face. His vicious forward thrust slammed into her ribs, striking with unbelievable power. Her blood sprayed across the nearby Goblin rogue, and she could tell from the crack that he had broken her rib again.
+
+Did he get stronger?
+
+Grak cackled with glee, and from the back of his shoulders and his wiry arms, a faint red mist began to form. A mist that looked suspiciously like Mato’s skill.
+
+Berserker! Just my luck.
+
+Malika wrestled with a difficult choice. She could either continue and try to kill the Berserker warrior before his damage got out of hand, while simultaneously trying to survive the rogues and other Goblins. Or she could try to take out the weaker Goblins and avoid feeding the warrior’s rage skill until the end. But she would undoubtedly take some spear strikes from the skilled elite Goblin in the meantime.
+
+A second scavenger fell screaming from the wagon above, the brilliantly glowing arrow in its throat fading as it hit the ground.
+
+I’m not alone, she reminded herself as her choice suddenly became clear. Calen’s whittling them down already.
+
+Malika switched to the weakest-looking rogue and kicked it in the stomach. Calen would deal with the Goblins on the top of the wagon. I hope I have enough left to finish it, she thought, as she went all out on the rogue, trying to kill it as quickly as possible. Her punches landed in quick succession, each burning a portion of her stamina to power Soul Strike and return some health. The wounds on her ribs began to knit together, and even some of the burns began to heal as she dug in.
+
+The rogue retaliated with a rapid pair of strikes, both of which Malika dodged. But she wasn’t quick enough to dodge the warrior’s spear thrust to her thigh. As she stumbled, the second rogue leapt in and stabbed her in the back twice before she could even react. She was never so thankful she had an excellent armor skill – and that she had waited to regenerate enough to reactivate it – as she winced from the pain of the devastating attacks. The Goblin warrior’s cackling laughter was getting on her nerves. Pulsing her Healing Mantra briefly to restore a little more health, Malika surged to her feet and kneed the rogue brutally in the sternum, triggering Soul Strike again. Carefully judging the angles, she feigned a stumble, dodging back away from where she judged Calen to be hiding. Hungry for her blood, the Goblins took the bait hook, line, and sinker, rushing forward and presenting their backs to the Half-elf archer concealed among the trees.
+
+Not too smart…
+
+A brilliantly glowing arrow streaked across the battlefield and pierced clean through the throat of the most injured Goblin rogue from behind, killing it with a wet gurgle and a shower of blood. Thanks, Calen. Teamwork. She mentally thanked him for the strategic choice. One less Goblin I need to dodge. She spun on her heel and performed a round kick to the remaining rogue’s head, and then had to scramble to dodge a stab combination from the Berserker warrior’s spear. Her dodge wasn’t nearly as effective against the higher-level Goblin, and she earned a slash to her forearm and a nasty stab wound to her ribs.
+
+I just healed those! Seriously?
+
+Bleeding freely again, she kept a careful eye on the dangerous elite Berserker while she resumed her attack on the rogue. She dodged and weaved, slipping in punches and kicks whenever she had an opening and trying to force the Goblins into tangling each other up. Suddenly, the Goblin rogue turned and fled, leaving bloody footprints as it ran. Malika desperately wanted to chase it down, but she was still pinned in place, trying desperately to avoid a dangerously skillful spear.
+
+If it gets away, we will be facing the entire army. As if he had read her mind, the dazzling white streak of Calen’s empowered arrow tore across the clearing, plugging in the fleeing rogue’s back with a dull thud. It dropped to the ground. Phew! She let out her breath and gasped as she barely avoided a spear point that aimed to aerate her windpipe. Focus! It’s an elite. He fought with a continuous cackle and a crazy look in his eyes. However, there was nothing off about his spear. Each strike was quick and precise, and Malika found herself taking constant cuts and stabs, despite her frantic efforts to dredge up every defensive move she knew. Without her armor and her dodge skills, she would probably have already died.
+
+Pulsing another heal through her body, she stepped up her counterattacks. Even though her resources were running low, she knew she could not afford to hold back against the elite Berserker. Each punch and kick flickered with her magical energy. Each point of health recovered went to restore her wounds. And with every strike, the Berserker came back stronger.
+
+Arrows whistled through the air like glowing rain as Malika wrestled for position, struggling to create openings for Calen. But every arrow that buried itself in the Berserker’s back only fed the growing mist.
+
+After several minutes, the laughter suddenly cut off. Grak roared, and the mist pouring out of his thick green hide deepened to a dark red, his eyes bloodshot and beginning to glow. He swiped sideways with his spear and Malika could barely see the shaft as it smacked into her shin, tripping her. Immediately he stabbed, punching the point of the spear right through her thigh. Out of sheer desperation, she grabbed the shaft of the spear, locking it in place, and clocked him in the jaw. It felt like hitting a boulder. She almost blacked out as the Goblin twisted the spear impaling her thigh. Through the haze of her pain, she saw two arrows slam into the Goblin’s back and neck while she lashed out at him again, but he seemed immune to the pain.
+
+With a roar, he hauled on the spear, wrenching it from her grasp and tearing it out of her leg in a horrific spray of blood. Malika answered her body’s agonized screaming at the violation with a full-power Healing Mantra, burning the last of her mana, scrambling out of the way of a vicious high-speed lancing attack, the spear point gleaming wickedly as it passed a fraction of an inch from her left eye. A brace of Calen’s arrows feathered from its left flank as if magically teleported there. From the ground, she executed a low kick and connected solidly, sweeping the Goblin off his feet. Desperate to gain any advantage, she leapt on him and punched him repeatedly flush in the face, each strike flashing and cracking as his head ricocheted off the hard ground.
+
+The warrior heaved her off him with unbelievable strength and, with an overhead punch, struck her on the shoulder. Her collarbone cracked as she was driven to her knees by the unnatural power of the Berserker’s rage. Meanwhile, another arrow buried itself deep into his back, but the Goblin paid it no mind, charging Malika with his spear raised to deliver a lethal strike. With a supreme effort, she leapt up and backward, sucking in her stomach. The scything blade scored a deep crimson line across her skin but missed anything vital. Malika lunged forward, solid footwork and a twist from her torso powering an elbow strike to his throat. With a flash of her Soul Strike, and a sickening crunch, the elite Goblin Berserker collapsed in a lifeless heap.
+
+Got you, ugly bastard!
+
+Your group has defeated Berserker Warrior – Goblin – level 9.Your group has defeated Dagger Rogue – Goblin – level 2-3 x2.Your group has defeated Skirmisher – Goblin – level 2.Your group has defeated Scavenger – Goblin – level 1 x2.
+
+Malika let herself slump to the ground, too, drawing down most of her remaining stamina to heal herself. Her heart still hadn’t realized it was over, and her arms were trembling from the aftereffects of adrenaline. She stared at the corpse of the Berserker, still grinning in death. Grak no eat girl today, that’s for sure! she thought and then she settled in to recover her mana and stamina with Meditation as Calen appeared to check on her.
+
+Soul Monk has reached level 6.+10 attribute points.Martial Artist has reached level 5.Soul Strike has reached level 6.Soul Armor has reached level 5.Enlightened Evasion has reached level 4.Appraise has reached level 6.
+
+Wow, that was worth it! She waited while Calen systematically searched all the corpses, recovering all of his arrows before she felt able to get to her feet.
+
+“That guy was an elite,” Calen said. “We need to be careful out here.”
+
+“Yes, I figured,” she answered, meeting his droll smile with one of her own. “Let’s move.”
+
+Together, they sprinted the rest of the way to the relative safety of the trees.
+
+***
+
+For nearly an hour, Malika followed Calen as they snuck through the woods, dodging patrols. They killed a few isolated Goblins when Calen identified them as being low-level and hid in the undergrowth when another elite Goblin ran by. Eventually the sounds of the Goblin raid began to fade and Calen drew to a halt in a secluded clearing with some cover.
+
+“I think we should be safe here for a bit,” Calen said. “Let’s get some rest.”
+
+“Ok.” As she hunkered down, her chime sounded again for no apparent reason. Startled, and unable to resist her burning curiosity, Malika opened her notifications at once.
+
+Requirements met for skill advancement.
+
+She almost blurted it out, but she caught herself and glanced surreptitiously toward Calen. He seemed busy with his arrows and hadn’t noticed her surprise.
+
+She hesitated. Her instincts, honed over the brutal years surviving the slums, clamored for her to keep her power secret. He didn’t need to know. The more she shared, the more people might take advantage of her.
+
+He had my back out there.
+
+She studied the Half-elf in profile while he worked, muttering something about the awful quality of Goblin arrows. But in the end, she had to trust her instincts. They were the only reason she had survived, after all. She read on.
+
+Martial Artist has reached level 5.Tanked five or more monsters simultaneously.Survived a critical strike from an elite monster.Received master-level training in defensive melee fighting.Used two or more Defense-trait skills in combat simultaneously.Martial Artist gains Artful Blocking.Martial Artist gains the Defense trait.Martial Artist – level 5Requires: Unarmed.You are proficient with unarmed and acrobatic martial arts fighting styles. Your reaction speed is enhanced.Stamina: Deliver a Melee Attack with any part of your body. Attack damage is increased by +92% [40 + skill + dexterity].Stamina: Block or deflect a Melee attack reducing damage taken proportional to dexterity and skill. Blocked attacks cannot cause critical damage. Physical, Melee, Attack, Defense, Mastery, DexterityAccept this advancement?
+
+Hell, yes! This is perfect!
+
+Malika accepted the advance without hesitation. Normally, one was supposed to carefully consider the future impact of skill advances, making sure to only accept those that were in line with the direction you wished to grow. Accepting advances would often block other subsequent, perhaps better, or more aligned choices from being offered later. But she knew that being able to block, guard, or deflect attacks was a fundamental martial arts technique and something she would certainly have used extensively against Grak. This advancement was perfectly aligned with Malika’s goal to become a powerful martial artist, but even so, she was not exactly in the position to be hesitant about taking something that may save her life out here.
+
+“I thought Goblin elites were rare,” Malika said, picking a safer topic.
+
+“Yes,” Calen nodded. “That probably means there’s an entire Goblin horde or warren nearby. I saw tracks that looked like Timber Wolves and Bugbears. If they have Bugbears, it will be a big group – far more than we can handle.”
+
+“Yes. I saw a Goblin Fire Mage earlier, too. This close to the town, I think we should investigate,” Malika said. The idea was fraught with danger. If they were caught, they would most likely die and be eaten – in that order, if they were lucky. On the other hand, the town would need to know the danger they were in, and the more information they could bring the better their chances.
+
+“I agree,” Calen replied soberly. “Surprised?”
+
+“Uh, sorry. I shouldn’t be.”
+
+Malika sat quietly Meditating allowing Calen to finish his work. He had all the arrows laid out neatly in front of him, and with painstaking meticulousness, he was trimming and repairing the damage with their only dagger.
+
+Meantime, she considered her situation and what must have transpired. The thugs from the Town Watch had captured them – most likely Tala’s doing – and it was serious enough that Kieran Mori himself had gotten involved. Myrin’s Keep is going to be dangerous for me from now on. We must have been sold. It was the reason for the Kel’darran merchant caravan – and the only plausible reason Kieran Mori had left them alive. It had taken a fat slice of luck, some skill, and a full-on Goblin raid to escape their Kel’darran slave caravan, and now she was stuck out here, lost in the wilderness with a Half-elf she barely knew.
+
+Can I trust him? She glanced at Calen, wholly absorbed in repairing his arrows. He had had her back during the fight without question, and he seemed incredibly smart, but she disliked being dependent on him to guide them back to safety.
+
+Her thoughts drifted back to the fight that started this whole disaster, and the conundrum that she hadn’t been able to unwrap. Mato… why did you get involved? She hadn’t been particularly nice to the Beastkin boy, and she knew he knew it. She wrestled it around in her mind for a while, but it still twisted around in her conscience. I owe him, and I hate that.
+
+She looked speculatively at Calen, who hadn’t spoken a single word since he sat down.
+
+“Calen,” she began, “why do you stick up for him? Mato?”
+
+Calen’s dagger paused briefly before he answered. “He’s my friend.”
+
+It was a simple answer, honest and truthful to her assessment, and yet, it wasn’t nearly the whole story. She considered him for a while, debating how to approach it.
+
+“It seems more than that,” she finally pointed out. At his surprised glance, she pressed on, committed now. “You seem to be very smart and perceptive, even though you don’t talk much. You must know how bad his Berserker skill is for a group. And yet you stick up for him, and look out for him, and don’t call him out when he takes unilateral action. He attacked Edrik while Kieran Mori was watching, is he stupid or something?”
+
+Calen paused, and then finally put his dagger down carefully in front of him. He stared into the distance for a while, his eyes somewhat unfocused before he began to speak quietly.
+
+“I am the bastard child of a Human and a Sun Elf. My father ran off before I was even born.” Calen’s eyes took a harsh cast and though his voice remained calm, Malika could trace every line of the tension in his neck and the fists he had formed in his lap.
+
+His repressed anger caught her attention as surely as the unexpected personal revelation. All her interactions with him told her that he was quiet, introverted, shy, and calm. She sat quietly as he reined in the anger and covered the cracks in his internal emotional defenses.
+
+“Nobody likes a bastard, and everyone hates half-breeds,” he continued, apparently calm once more. “Most Elves treat me like I’m inferior in every way. At best, I get pity. Most humans are distrustful of my Elven heritage. As Myrin’s Keep began to slide into crime and anarchy, things only got worse for me and my mom. At first, I’m sure she stayed because she was hoping he would come back, but after a while, with the falling out from the Guild of Tailors and the Town Watch’s ever-increasing taxes for protection against criminals, we could no longer afford to leave.”
+
+“The Town Watch are puppets of the Hawkhurst Trading Company’s criminal syndicate,” Malika said, unable to keep the frustrated anger from her words.
+
+“I know. Most people know, but what can we do? My mom is almost level sixty, but a Tailor class is powerless against even a level twenty with a sword and the combat skills to back it up.”
+
+Malika fell silent. He’s right. She knew it, and many people did too. It was unfair all around, but like her, they all seemed trapped in it.
+
+“When I was younger, Donavan and his clique of hangers-on and wannabe nobles would pick on me almost every day, telling me it was my own fault for being born a half-breed. One day, they had me pinned on the playground and they were taking turns practicing their punches. They said it was for my own good, that as a Half-elf I should feel honored to help my betters practice their combat skills. Mato walked up to him and knocked him out cold with a heavy branch. He sent three of the others to the school healer before the group overwhelmed him and beat him up.”
+
+“Is he stupid? Why would he get himself beaten up in a fight he had no chance of winning?” This scenario was the same as the one which was bothering her. “Why fight if you cannot win?”
+
+“Mato sees the world differently than most. Things like this are very simple and direct for him. Normal people might evaluate the enemies arrayed against them before getting involved, weighing the risks and benefits. Someone like you or me would run for help. Mato just sees an injustice, or his friend in need, and gets involved. The risk isn’t part of his calculation. That’s why he charged in to save Ali from an entire pack of wolves. You and I both thought it was an unreasonable risk, an unwinnable fight, and that made us hesitate. All he saw was that she was about to die, and he could not stand by and not help.”
+
+It made a weird sort of sense. All the actions Mato had shown seemed to fit Calen’s assessment. It’s going to get him killed though. But one thing still didn’t make sense.
+
+“You said he sticks up for his friends without question. I can respect that. But why me? I’m not even nice to him.”
+
+“Mato decided to give you his friendship. It doesn’t particularly matter to him that you don’t reciprocate. After he defended me on the playground, I wanted nothing to do with him for months. But it didn’t bother him at all – he simply kept doing it.”
+
+“He’s a fucking idiot.” Understanding Mato better simply made her more frustrated and annoyed.
+
+“Yes, but it’s not stupidity – he’s smart, he just sees the world differently. He was the only person other than my mom who accepted me without question.” Calen picked up his dagger. “He’s also a half-breed, and his dad is a literal monster in the eyes of most. He would never show it, but I think he needs friendship even more than I do.”
+
+With that, Calen returned to his repairs, leaving Malika alone with her thoughts.
+
+In the quiet space of her Meditation, she considered Calen and his story. Sometimes she forgot that she was not the only person with a harsh life. Being abandoned by his Elf father seemed to be an intensely personal issue for Calen, but even she had seen how poorly half-breeds were treated in this town. If he had been slender and physically weak growing up, it would have been so much worse. Mato might be a half-breed with a monster race, but he was certainly big and physically powerful.
+
+So many times, she had wished for someone to come and save her from her own life and struggles. But it wasn’t even that she wanted to be saved – it would have been enough just to have someone with her. Someone on my side. No matter what. She shook her head, finally realizing why Calen stuck with Mato.
+
+He’s still an idiot. But she found that much of her frustration and anger towards the Beastkin had faded after hearing Calen’s tale. She found herself trying to imagine what life might have been like if she had just had a similar idiot willing to take a beating to be on her side. At least I understand Calen’s feelings now. And maybe Mato is just as lonely as the rest of us? Still, I mustn’t get too involved here. I can’t afford it.
+
+***
+
+Name: MalikaRace: HumanTitles: Street RatActive Buffs: Perfect Body, Soul Armor, Enlightened EvasionClass: Soul Monk – level 6- Martial Artist – level 5- Soul Strike – level 6- Healing Mantra – level 4- Perfect Body – level 6- Soul Armor – level 5- Enlightened Evasion – level 4- [Locked]- [Locked]- [Locked]- [Locked]General Skills- Meditation – level 4- Dancing – level 4- Calligraphy – level 3- Lockpicking – level 5- Appraise – level 6Aptitudes- Languages: Common- Bloodline (Ahn Khen): Dormant- Mana (Affinity): Soul- Relentless (Class): +100% to Stamina Regeneration- Relentless (Class): You can pay for any abilities with stamina instead of manaAttributes- Vitality: 20- Strength: 10- Endurance: 26 (+8)- Dexterity: 47 (+15)- Perception: 12- Intelligence: 10- Wisdom: 41 (+13)Armor: 35Physical Damage Reduction: 17.24%Evasion: 28Dodge: 14.28%Health: 200/200Stamina: 234/260 (26 Reserved)Mana: 287/410 (123 Reserved)

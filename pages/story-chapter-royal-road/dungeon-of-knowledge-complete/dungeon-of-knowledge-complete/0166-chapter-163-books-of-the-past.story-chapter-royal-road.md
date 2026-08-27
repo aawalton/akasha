@@ -1,0 +1,359 @@
+---
+id: 3896785f-a97f-5aad-8f49-cdf049e89026
+page-type-slug: story-chapter-royal-road
+title: "Chapter 163: Books of the Past"
+slug: 0166-chapter-163-books-of-the-past
+partOf: dungeon-of-knowledge-complete
+position: 166
+ownLength: 7326
+unit: words
+ownProgress: 7326
+publishedAt: 2024-11-28
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1928746/chapter-163-books-of-the-past"
+royalRoadId: "1928746"
+markedReadAt: "2026-06-29T20:16:38.076Z"
+---
+
+Your minions have defeated Cavern Crawler – Spider – level 5.
+
+Ali woke to the sound of her chime and slowly sat up. Yesterday had ended on a rough note and she had retired to the library to withdraw from the world, but a long discussion with Lira over tea before bed had helped settle her heart, and she looked around the library with her cautious optimism mostly recovered.
+
+If she considered the day as a whole, it had been a resounding success. Twenty-one people had gained new classes, more than two-thirds of them had unlocked magical affinities, and nobody had died in the assassination attempt near the end. She would need to chat with Vivian Ross about that, though – she had assumed they were trying to kill her for being a dungeon, but it was abundantly clear that they had also been targeting the newly advanced novices.
+
+Were they trying to disrupt the guild’s use of the shrine?
+
+She despised them for invading her home and trying to murder the novices under her care. She loathed them for thrusting their imprint on her – and hated that it had taken her till morning to discard it. She grimaced. It was clear her aversion was not rational – she had Goblin and Kobold imprints to prove that she would not be summoning people, and as a dungeon, she would almost certainly encounter imprints like this again. It would undoubtedly be powerful, but still…
+
+Then there was Nathaniel Sunstrider. She still didn’t know what to make of him. An Elf from Ciradyl, the Guildmaster of the prestigious Pathfinder Guild that Calen had joined, and a member of the Elven Council of Archmages. He was a scholar of international repute, and widely respected across the continent.
+
+So why does he creep me out?
+
+He had done nothing overtly hostile unless she counted invading her domain while shrouded and spying on her activities. Likely she would have been in awe from meeting one of the most preeminent scholars of this age, except for the strange vision of the shadowy barbs in the eerie and silent gray world of her Arcane Recall.
+
+What the heck was that? An involuntary shiver shook her at the disturbing memory. Spying an impressively large pile of books on the table and a handwritten note, Ali made her way over and sat down, trying to decide how she was going to handle the Archmage when he inevitably showed up to talk.
+
+“Good morning, dear.”
+
+Ali smiled and accepted the cup of a new Elven green tea that Lira offered. “This smells amazing!” she said.
+
+“Your dear friend Basil grew that,” Lira said with a gentle smile.
+
+“Aunt Lira, would you mind keeping me company today when that Archmage comes to talk?” While she felt a lot better today, she was certain Lira’s presence would settle her, and she really didn’t want to face him alone, irrational as that seemed.
+
+“Of course, dear, that young boy can be a bit pompous and aloof.”
+
+Ali chuckled quietly over her tea at the way Lira referred to the Elf, who was probably centuries old and past his evolution, as a ‘young boy’. But she supposed everyone was young to Lira.
+
+Technically, I’m older than him too. But because she hadn’t experienced all the intervening millennia, she didn’t feel older and wiser.
+
+Ali enjoyed her quiet teatime chat; Lira was a great listener, and she unloaded most of her worries to her receptive ears. After they finished, she sat herself down in front of the huge pile of books and decided to do something productive while she waited for everyone to wake and the day to begin.
+
+“Bring me that spider,” she said, using Martial Insight to send the command to her two trash-collector Kobold rogues who had just finished dumping their haul from the night into the sewers. Ryn had suggested she work on finding a spider imprint if she wanted creatures with good perception, and she wasn’t about to let the one that just fell into her lap go to waste.
+
+As usual, Ryn had collected a wide variety of interesting books, but right on the top of the pile was a cloth-bound book with the title: ‘Essential Tailoring Enchantments.’ Ali picked it up and paged through it, glancing at the well-organized contents, explanations of technique, and magical runes that would presumably help someone with a tailoring class understand how to weave them into their creations. Ryn had clearly outdone herself, there was even an entire chapter on resistance enchantments.
+
+This is perfect, she thought, quickly memorizing the entire book with her Sage skill. But then she paused for a moment – the book was written in the elegant Elvish script, which she was certain Lydia did not read. She could spend the time teaching her, but a different idea popped into her head. Carefully working her way through the entire memorized book, Ali translated it to Common in her head and then re-memorized it. It took a while to get the hang of holding both images in her mind simultaneously, but she had invested so much in her intelligence attribute at this point that it turned out to be rather easy once she got it.
+
+In just a few minutes of working with her Grimoire, she produced two almost identical books, both copies of the original tailoring manual. But the one on the left was in the original Elvish and, with a quick browse through, she verified that the other was a correctly translated version in Common.
+
+A clatter and a thump pulled her attention from the books, and she found her two rogues standing beside the corpse of the Cavern Crawler. “Good work,” she said. “Bring it here.” When they did, she deconstructed it and then switched back to the books on the table, practicing her newly discovered ability by translating them each to random languages she knew in addition to copying the original.
+
+An hour or so later, she glanced up from her work, noticing for the first time the clang of pots, the crackle of a fire, and the aroma of Mato’s cooking. Malika was meditating quietly beside her at the table waiting patiently for her to finish her work.
+
+“Morning, Malika,” she said, greeting her friend. She and Mato had both been extremely supportive yesterday, helping to ensure the safety of the novices and even helping some of them make good class choices.
+
+“Hi Ali,” she said, opening her eyes. “Can I ask a favor?”
+
+“Of course.” Ali’s eyes caught her touching a new bronze ring.
+
+“I picked this up off the corpse of the assassin yesterday,” Malika said, answering her glance. “I hope you don’t mind if I use it? I took the value out of my share.”
+
+It was a moment of surprise as she realized Malika was still dividing all their loot fairly among the four of them, something she had actually forgotten. And that’s why we picked her to manage it.
+
+Seal of the Quartermaster – level 40A sturdy plain bronze ring+30 Strength+12 VitalityMana: Store or retrieve an item. Capacity: 0 / 1000 kgRequirements: Dexterity 140, Strength 37Ring
+
+“I think you’re the only one of us who can use it,” Ali said, studying the requirements closely. It was a rather nice ring of uncommon grade – particularly useful for Malika, who was always the one carrying whatever they found to Weldin Thriftpenny’s store for sale.
+
+“I think Calen could equip it too,” Malika said, twisting it around her finger in thought. “He might have the strength for it now.”
+
+“I still think it works better for you,” Ali said. “That vitality will come in handy in the mines.”
+
+“There was also a picture of you, and a map to the shrine inside it,” Malika said. “We should probably talk to Mieriel about gathering some information.” As she spoke, Malika retrieved a stack of nine leather-bound books from her new ring, placing them with utmost care upon the table beside the library books she had just duplicated.
+
+“The Nine Paths?” Ali asked, recognizing the drake-leather bound ancient books instantly.
+
+“Elder Rezan offered to lend them to you while he is here in Myrin’s Keep. He says you have permission from the elders to copy it for yourself,” Malika answered. “Ali… would you teach me to read them? I want to study the forms and techniques – and I think there might be something in there that could help me against the fire elementals.”
+
+“I can translate them into Common if you’d like,” Ali said, staring at the books, feeling a little guilty at the acquisitive instinct that bubbled up within her. The Nine Paths of Ahn Khen represented an entire system of ancient knowledge, simply waiting within the pages for her to study. If Malika and Calen were right, she should be able to teach the techniques to her minions using Martial Insight. Having already examined the books, she also knew there was a wealth of Ahn Khen magic inscribed within those ancient tomes.
+
+“That would be very convenient, and probably quicker,” Malika answered. “But I think I would like to learn the language of my ancestors.”
+
+Malika sounded a little uncertain, and Ali could guess why. For at least half her life she had believed the ancestors of her people had forsaken her, and she had actively ignored them ever since. But now, she seemed to be reaching out and seeking to reconnect with her culture and heritage. First with the Elder as her mentor, and then by making friends with his students. This would be a step further, a substantial investment in learning the language and advancing her techniques according to the ancient path.
+
+“Ok, let me copy them quickly and then we can start,” Ali didn’t believe the ancestors offered guidance or wisdom, but she wanted to support Malika’s search. “Do you think he’d like a couple extra copies to take back?”
+
+“I think you’d make his decade,” Malika said with a wry smile.
+
+Nathaniel had accepted a room at the Adventurers Guild for the night – plain lodgings, to be sure – but he had been way too busy to sleep. Even from outside the domain, he could still sense the mana. Study it. Test it.
+
+He had so many questions, and all of which hinged on who exactly Aliandra was, and why her dungeon was created in that precise fashion. He had seen the name ‘Aliandra Amariel’ on the shrine, but he had not connected it to the book until she had asked him to bring it with him.
+
+Elowynn Amariel’s daughter. Not her descendant – she had claimed Elowynn was her mother. The premier mind in magical research of the entire age. They were lucky – he was lucky – to possess her book. Somehow, the tome had survived The Breaking intact, and even after all his centuries of study, there were still chapters he barely understood.
+
+He spent most of the night studying Elowynn’s book, searching for insight into the things he had witnessed, but the dense text and abstract concepts yielded far more questions than answers. His first, and foremost question was what had caused the remnants of the magical disaster at the shrine. The second question was to understand the glowing golden arcane magic – what made it golden rather than purple or violet like his own and that of every other arcane mage? Other questions could wait – like why a level fifty dungeon possessed such dense mana, and why she radiated the presence of an ancient being, and yet was so clearly just starting out.
+
+By the time dawn broke, his patience had long vanished. He had agreed to come back ‘tomorrow’, and it was tomorrow. He grabbed the heavy tome and teleported directly back into the dungeon, appearing just as he had the day before. He burned another page of his spellbook shrouding himself so that the denizens of the dungeon would not see him, and he flew down to the shrine and began to study the flow of mana.
+
+Glowcaps were common mushrooms, present in huge varieties across the continent and often used in many simple and low-level tinctures and potions. But, down here, even the mushrooms emitted the golden arcane mana, spilling it into the domain, binding it, and structuring it into a delicate lattice that filled the entire space. Elowynn spoke at length about domains, but so much seemed to rely on long-lost knowledge that he struggled to piece it together. The fragments of golden shards seemed to predate the dungeon, but that was just about all he was able to determine.
+
+Enough waiting, I must speak with the dungeon at once. That he ignored the shrine just demonstrated the magnitude of his frustration. He turned, sending his senses roaming through the area, and quickly homed in on the vast pillar of dense nature mana bursting upward in a geyser the likes of which he had only ever seen in the strongest evolved dungeons.
+
+He took off, flying in the direction of the mana-gusher, surveying the wide variety of plants and trees as he went. As soon as he passed beyond the cavern and entered a second forested cavern, he sensed something had changed. This area was mostly filled with the enormous nature-affinity oaks, but the mana had changed. The original lattice and structure of the sparkling arcane and nature mana was still visible to his perception, but layered on top of it, was the heavy dark green nature mana of an even more ancient and powerful being.
+
+What is down here?
+
+For the first time on this trip, he readied his escape spell, a hair-trigger teleport designed to be impossible to disrupt, and headed deeper into the forest. Moments later, he froze in surprise. Before him, towering up through the center of a ruined building, was the canopy of an oak that was surpassed only by the magical trees of Ciradyl itself.
+
+Lirasian Oak – Elder Tree – level 173 (Nature)
+
+Speechless, he studied the impossible tree. It was an evolved tree, which in the absence of something like the Well of Souls was almost unheard of. There was no way a level fifty dungeon had made a level hundred and seventy-three tree, and yet her domain mana poured from it like a never-ending waterfall.
+
+Keeping his defenses at the ready, he flew into the ruins, following the enormous tree trunk downward, scattering nature wisps as he went.
+
+You have entered the Grand Library Arcana. All Learning and Knowledge magic is enhanced by 10%
+
+Dal’mohra? The Grand Library? Lyeneru had mentioned it, and yet he had not believed her. Yet here he was, in the hallowed halls of the greatest library in recorded history. Perhaps she’s savvier than I gave her credit for. He was certain that if Lyeneru had mentioned the legendary city of Dal’mohra to anyone else, it was unthinkable that he would be the first person inspecting this dungeon.
+
+I’ll need to be careful with the council. Councils. Both the Shadow Council and the Council of Archmages would become unmanageable if knowledge of this got out.
+
+“Welcome, child.”
+
+Nathaniel jerked to a flustered halt as an ageless green face emerged from the trunk of the enormous tree right in front of him, staring at him directly despite the magic of his Greater Shroud. Her voice was melodic and resonant, filling the entire space with soft and gentle echoes, sounds that vibrated along the strings of her mana.
+
+Dryad [Great Mother of the Deep Woods] – Sylvan, Tree Spirit – level ??? (Nature)
+
+Lirasia? What is she doing here?
+
+“Great Mother of the Deep Woods,” he said, instantly dropping his shroud spell and bowing to the Dryad. For a spell designed to cloak him from all senses, it had been undone twice now in as many days. He would most certainly need to go back to the drawing board.
+
+“Why don’t you join us in the library for tea?” Lirasia said, drawing herself out of the trunk and dancing barefoot along one of the giant branches. “Aliandra awaits you there.”
+
+“It would be my pleasure,” he answered, following her downward to where several tables and couches had been arranged around a cooking fire.
+
+So Lirasia survived the scourging of her forest. The fact that she was here explained the uncommonly dense nature mana, but how it coexisted with the domain of Aliandra’s dungeon he could not say. It was a feat that defied everything he had ever learned about domains. Just one more unanswered question to which I will divine an answer. Yet these familial ties demand caution, yes, and a different approach. His lip curled. I must allow this dungeon to live, it seems – for a time bounded by convenience.
+
+He flew down and alighted by a surprisingly ordinary-looking couch. Beside the couch was a small teapot emitting wisps of steam and an aroma of high-quality brewed Elven tea. “It seems you have excellent taste,” Nathaniel observed.
+
+“Thank you,” Lirasia said.
+
+Off to the side, a dark-skinned monk girl sat reading a book in the center of a poison cloud runic circle, her body periodically flickering with healing magic. His eyes narrowed slightly. One of Elder Rezan Jin’s disciples who had fought the dungeon boss yesterday.
+
+And sitting at the table surrounded by dozens of books sat the Fae herself. “Hello Aliandra,” he greeted her equably, accepting an offered chair at the table where she sat next to a dark-haired librarian, unloading an enormous pile of books.
+
+About to launch into his first question, he suddenly noticed the strange blend of violet divination and arcane dissipating from the Librarian – arcane mana that glittered just as golden as the Fae. His words lay forgotten upon his tongue.
+
+“Thanks for rescheduling,” Ali said. Nathaniel Sunstrider appeared to be a touch rattled – perhaps at the sight of Lira – and it took a few moments for him to collect himself.
+
+“It was nothing,” he said, looking around, his piercing blue eyes taking in everything. “So, this is the Grand Library Arcana?”
+
+“Yes,” Ali answered. She was still not quite sure she trusted him, but she felt safer because Lira, Mato, and Malika had decided to stay, lending her some much-needed moral support.
+
+“Are you truly her daughter?”
+
+“I am. And this is my aunt Lira.”
+
+“How is that even possible?”
+
+“My mother bound me in a barrier spell of arcane magic, and I survived the destruction of Dal’mohra, waking up here when it finally expired.” She didn’t go into detail, but she was well aware that the Archmage had the power to wipe her out or order people like Lyeneru to do it. He seemed to be more interested in asking questions for now, so she would oblige.
+
+“That must have been quite a spell,” he prompted.
+
+“Legendary grade,” Ali admitted, taking more than a little pride at her mother’s final achievement.
+
+“So that’s how it happened. I would have given much to see it,” Nathaniel said.
+
+“Perhaps not,” Ali demurred. “The Blind Lich was present, and in the process of unleashing The Breaking upon the world.” The last was a deduction on her part, but everything Ryn had been able to dig up on the subject so far had pointed to her personal tragedy coinciding with the grand-scale catastrophe that had been unleashed upon the world.
+
+“Aah, of course,” Nathaniel murmured, stroking his chin in deep thought. “I wonder… can you tell me why your mana is golden? It’s a highly unusual manifestation.”
+
+“I don’t know. It’s always been that way.” The answer was clearly not what he wanted to hear, but it was the truth. She had always been happy that her magic looked like her mother’s, ever since she had been old enough to wield her first cantrip, but even back then, her mother’s mana had been unique.
+
+He proceeded to bombard her with an unrelenting assault of questions, and Ali continued answering as best she could without giving away too many secrets. With the Town Council trial, she had at least been prepared in advance – here she was entirely at the mercy of his intense scrutiny and towering intellect. Although Nathaniel appeared at ease, his manner remained aloof. Ali was exquisitely aware of the unstated threat his presence presented. She had been worried about advertising her class to the town of Myrin’s Keep – but here was a member of the Elven Council of Archmages – who knew how far his influence reached?
+
+However, every time Ali began to flounder, to feel overwhelmed, Lira would interrupt with a seemingly innocuous question for the Sun Elf that knocked him disproportionally off his stride. A moment of respite Ali used to recover her composure while the Archmage grappled with Lira’s unshakeable poise.
+
+Suddenly he gasped, leaping to his feet mid-sentence. “What is this?” Before Ali could react, he reached for her bookshelf and snatched up the ominous black-and-silver tome. Nevyn Eld’s book.
+
+“This is an extremely dangerous book,” Nathaniel said, staring at it, purple mana formations flickering rapidly in his eyes. Potent wards snapped into place about him, leaving Ali’s skin prickling from mere proximity to the Archmage’s spells. “Where did you find it?”
+
+“It survived in a secure preservation enchantment in the library,” Ali said. “Ryn found it.”
+
+“I’m afraid I will have to take this with me, it is too dangerous to leave here.”
+
+“I don’t think so,” Ali said, standing up from her chair. “I am the sole survivor of Dal’mohra, and that book is the property of this library. I’d thank you for not engaging in petty thievery.”
+
+He leveled a hard stare at her, but she met his gaze with unflinching resolve. She was not about to give up her book – even if it was the Lich’s magnum opus. “I watched my mother holding off his dark necromantic bolts. I saw his Death Knights, raised from the Council of Kings. I watched while he tore the city down around me. And I was forced to watch helplessly when my mother gave all her life energy to save me from his grasp. You may not take that book. It is mine, and I intend to use the knowledge it contains to defend myself and my friends.”
+
+She held his gaze, their wills at an impasse. He could certainly take it by force, but she would not back down even in the face of his arrogance and obvious power. Besides, he would have to demonstrate he was going to steal it in front of Lira, someone he appeared to hold in high regard.
+
+“In the wrong hands, this book can be used to –”
+
+“Make dungeons stronger?” Ali finished. “I’m well aware of that. In fact, I’m counting on it. The only way I’m letting that book go is if you offer my mother’s book in trade.”
+
+He sighed, breaking the stare, and sat back down, laying the black tome on the table before him. Then he produced the heavy, worn tome she had seen in his hands the first time she saw him, retrieving it from inside his robe instead of from a storage enchantment. He laid it beside the first one. It was scuffed and scratched from ages of use, but she could not fail to recognize it.
+
+“I cannot let you have –” he grimaced, at least realizing what he was saying “– your mother’s book. It contains far too much knowledge and magic crucial to the survival and defense of the realm. It is for this very purpose that the Pathfinders were founded so many thousands of years ago. We stand against the timeless tides of evil first unleashed by the Blind Lich – it is why we exist. Without this book, I cannot be certain to hold the encroaching darkness at bay. Death Knights assemble in the far south under the command of the undead general, Haverron, The Devastator. The Dracolich, Kryostria, raids the northern kingdoms. I wish I could give you what you want, but I cannot.”
+
+So, Kryostria was turned, then. Ali shivered. Lira had mentioned it – and Ali could scarcely believe it – but the fall of the great blue frost dragon known as The Frozen Scourge had to have shaken the world. This was the true terror of the Blind Lich – his bony fingers had reached out and grasped the hearts of the world’s greatest heroes and twisted them, corrupting and turning them into undead servants, slaves to his dark will. “Perhaps a different trade then?” Ali suggested, deliberately moderating her tone as she stared at her mother’s finest work with a strange ache in the depths of her heart. “I will copy Nevyn Eld’s work for you if you let me make a copy of my mother’s book for myself.”
+
+“No scribe has been able to copy this book, it is too steeped in magic,” Nathaniel scoffed.
+
+“I bet no scribe you ever met had Runic Script and a dungeon’s creation magic,” Ali countered.
+
+Lira murmured, “Intriguing.” That was all she said, but it seemed her words rippled across the tense stillness of the room, soothing and even inviting.
+
+For a long moment, the Elf steepled his fingers, concentrating on a future perhaps only he could perceive. Then he sighed. “Very well, if you succeed in copying it, I will agree to your trade.” His tone indicated skepticism, but she didn’t miss the eager, covetous glance at the black tome of the Blind Lich, but it was far too fleeting for her to be certain.
+
+“Interrupt me if he does anything weird.” She sent the mental command as a set of intentions, impressions, to her Kobolds, earning several nods and the impression of alertness echoed back along her connection.
+
+Then, she activated her study trance and got to work. It was a process she had practiced countless times, growing the small collection of books every time Ryn returned from the various libraries. They had started from nothing, and although it was still tiny, the several bookshelves that now made up her library were a source of great pride to her. She rapidly committed Nevyn Eld’s book to her memory using Sage of Learning, Arcane Insight, and Runic Script to ensure her recollection of every word, every inscription, and every rune was perfect.
+
+Then she reversed the process, using Grimoire of Summoning, recreating the book in all its dark malevolence until her spell was completed and the book appeared on the table in front of her. She was most certainly getting better at this – the book was almost indistinguishable from the original.
+
+She pushed it over to the surprised Archmage, watching him struggle to keep his excitement from leaking past his mask of composure. But he reciprocated, placing her mother’s book in front of her.
+
+The Nature of Magic. Elowynn Amariel.
+
+Ali’s hands trembled as she reached for the cover. It was bound in a similar black leather to Nevyn Eld’s book, but instead of the cold silver runes and a dark foreboding aura, this book shone with the golden glow of hundreds of tiny runes inscribed into the cover and along the spine. It was worn and scratched, sporting several dents, but otherwise seemed fully intact – and as beautiful as the first day her mother had shown it to her.
+
+The book shivered as she laid a hand on the cover, or more accurately, her hand still trembled. Beside her, Nathaniel was already engrossed in reading his copy, so she began.
+
+Ali activated all her skills, for this was no ordinary mundane text. The pages exuded mana like an endless geyser of golden dust and the dense script glowed with the light of hundreds of runic markings outlining the concepts and principles within.
+
+Her awareness of the room and the arrogant Elven Archmage faded until there was nothing but her existence and the book itself. Time passed unnoticed as she struggled to commit the book to memory, to read every line, and to recall every rune. She had to reread many pages and spells to ensure she had gotten it just right before she was able to move on.
+
+Finally, she closed the book and looked up to find Nathaniel studying her with an inscrutable expression on his face, his reading presumably long completed. It didn’t show, but Nathaniel had to be old. Either that, or the manner and fashion of the elves had not changed much in three thousand years. If it were not for the arrogant cast to his eyes, and the harsh line to his mouth, Ali might have considered him handsome for an elf – especially dressed in his almost regal enchanted robes. Nothing like the creature of mist she had seen bound and hooked by tendrils of ominously dark barbed mana. That had been a disturbing sight, and one which had vanished the moment her Arcane Recall ceased. She wasn’t quite certain how her spell worked, but she decided she was curious enough to try it again. If he knows about me, I need to know more about him.
+
+She stopped time. The library dimmed, and everything froze in the familiar silent stasis of gray. Nathaniel Sunstrider sat before her, unshrouded this time and also frozen. The dark tendrils of strange mana writhed and twisted about him; their barbed hooks still embedded into the image of his body. She studied the disconcerting phenomenon for a while, but she could find no explanation. All she could guess was that it was something unique about him – and that magic was the only thing that moved in this strange world. And that it creeped her out like nothing she had ever experienced before.
+
+Well, besides that terrifying monster at the logging village. She shuddered at that memory.
+
+She ignored Nathaniel and summoned her Grimoire, beginning to work before the giant image of her mother’s book began to fray in her mind. She poured her mana into the construction, channeling her Runic Script to reproduce the magical runes, and studying the entire formation with her Arcane Insight. But her magic slowed, almost resisting her efforts as if something important was missing.
+
+It wants…
+
+The original book lay upon the table – even the sparkles of arcane mana hanging in the air frozen and gray. The same mana her mother had used to create the barrier that had saved her. The same as her own barrier magic. Trusting her intuition, she fed her barrier magic into the construction, hoping that the construct was detailed enough to repurpose the spell as it needed. Something connected right then, and her mana drained rapidly as the construction of the book neared completion.
+
+The snapping of a whip caught her attention. One of the barbed tendrils of mana had come loose from Nathaniel, recoiling back and then flicking forward again. It paused, and to Ali’s horror it seemed to search around – like a monster, sniffing the air – and then sinuously began to weave its way toward her, as if seeking out the mana of her spell.
+
+She struggled instinctively, but there was no way for her to move a muscle, or even feel her body. Her Arcane Recall spell would not end until her creation was completed – if that would even be any protection against whatever dark magic this thing was. She grappled with the unruly complexity of her creation, barely hanging on to her magic while the dark tentacle rushed in from the corner of her eye.
+
+Right as the dark barbed serpentine magic was about to reach her, her mother’s book flared with an intense golden light – a sudden flash of brilliant color against the stark backdrop. Spontaneously activated runes burned with furious golden energy, flowing out to cover the book with an intricately formed barrier. The cover popped open halfway, and the barrier grew across the opening of the book in sharp, jagged protrusions that looked shockingly like fangs. Then the book leapt, snapping shut on the tendril of dark mana like the jaws of a crocodile crushing bones.
+
+What the – Ali would have screamed, but she could not.
+
+The dark mana ruptured into a cloud of magic dust, and the remainder of the tendril recoiled away into the distance emitting a wail that faded rapidly. Like something far beyond ordinary sight snatching back a wounded limb. The book dropped back to the table and simply bounced up and down for a bit, as if proud of itself, a broad crimson silk bookmark hanging out from between its pages and its rather vicious-looking jagged golden fangs. Its insouciant manner made her want to smile slightly despite the nausea clawing at her gut.
+
+Before Ali could form another coherent thought, her spell finished, and the duplicate book appeared on the table. But Arcane Recall failed to end. She remained frozen in the gray world, the only source of color being the bizarre creature her mother’s book had turned into, and her floating Grimoire.
+
+What? How is this possible?
+
+She didn’t know how to end it. The binding of this place had always faded immediately. Movement caught her attention once again as the strangely animated book shuffled across the surface of the table to the gray duplicate she had just completed. It snuffled around for a moment, looking for all the world like it was sniffing her copy. A pulse of magic, almost too fast for her to register, enveloped the new book and suddenly the copy exhibited identical scuff marks, dings, and scratches, making it indistinguishable from the original.
+
+Her jaw would have hit the table if that were possible.
+
+Then to her absolute astonishment, the book scooted around and shoved the copy across the table, trading places with it, and then settled down by turning around once and plopping itself onto the wooden surface in front of her. The barrier magic slowly receded, and the fangs faded, leaving the book as it was before she had started. Then even its color began to leech away until it too appeared gray and lifeless.
+
+Her spell ended.
+
+Immediately, notifications appeared before her.
+
+Arcane Recall has reached level 9.Barrier has reached level 38.Grimoire of Summoning has reached level 31.Runic Script has reached level 26.Sage of Learning has reached level 22.Reading has reached level 13.
+
+What… the heck was that? I had no idea my mother was so full of mischief!
+
+***
+
+Nathaniel stayed for ages, unleashing a formidable curiosity and a deluge of questions about her past, Dal’mohra, her mother, and her magic. Ali answered all of it as best she could, but lurking below all her polite civility was a burning curiosity and confusion directed at the now deceptively inert book resting on the table.
+
+The book’s surprising animation, vicious magical teeth, and its power to manipulate her spells were quite terrifying – and she would have blurted out the entire thing, demanding answers, save for one thing. The book had undoubtedly saved her from the even more ominous dark magic that seemed to infect the Elven Archmage. Or perhaps it originated from him, she had no way to tell. All through Nathaniel’s barrage of questions, Ali carefully avoided looking at the book. Every now and then, her guilt worked its way to the surface of her mind, and she would again be tempted to tell him about the switch. But she always came back to the fact that the book had chosen her and had in fact gone to quite some lengths to make the switch undetectable even to the powerful scrutiny of a three-mark Archmage.
+
+His copy isn’t missing any information, she told herself. But it was a poor consolation because she was quite certain she hadn’t duplicated whatever it was that had caused the book to wake up. Cautiously, she identified it.
+
+The Nature of Magic – Book – level 47
+
+Both books identified as exactly the same. She knew every single word and rune was copied exactly – Nathaniel would have what he needed, even if he didn’t go home with the original, and yet…
+
+“I’m not sure you understand the significance of your shrine, Aliandra,” Nathaniel said, collecting the copy of the book she had just made and tucked it into his robe. “The only other Great Shrine on the continent that isn’t buried deep inside a hostile dungeon resides in the Troll city of Aman Rak, and they’re notoriously aloof and condescending toward other races. It was exceptionally difficult to gain even limited access to study it and they always prioritize spending their precious shrine mana on Troll advancement – even their adversaries – over all other races. As you know, I’m also the Guildmaster for the Pathfinders Guild in Ciradyl. Would you be open to allowing me to study your shrine at some point in the future? Would you consider taking a few Elven novices to join your class advancement ceremonies? I can offer a substantial remuneration per magical class unlocked.”
+
+“That would be fine,” Ali answered. She knew her shrine was special, but she hadn’t realized it was quite so rare. “Please coordinate the novices with Vivian Ross – she’s responsible for setting up the groups. But I’m a dungeon, I have no need of gold.” She pulsed some magic through her Grimoire, creating a Dal’mohran gold coin and dropping it on the table in front of him.
+
+“What can I offer, then?”
+
+Behind the carefully controlled façade of his calm, schooled expression, she could tell he was eager to gain access to her shrine services.
+
+She was about to repeat her commitment to keeping her shrine free, but she glanced at Ryn busy sorting books and a different idea popped into her head. “I would like Ryn to be able to borrow books from the restricted section of the Ciradyl Grand Library,” she suggested, gaining a sudden excited gasp from Ryn and a shocked expression from Nathaniel.
+
+“You know those books are irreplaceable?” he said, after recomposing himself.
+
+“Not after I’ve borrowed them for a day or two,” she answered, gesturing to the pair of books on the table in front of her. “I’ve already duplicated the previously lost Nine Paths of Ahn Khen several times for Elder Rezan. Consider it security for your most valuable knowledge – a backup copy, if you will.”
+
+“Would you accept keeping it to a single book at a time?” Nathaniel asked, his face paler than normal.
+
+“Perfect,” Ali answered. In response, he retrieved a sheet of paper and an expensive-looking pen. He wrote a note and then imbued the entire page with his mana signature before passing it to her. “Thank you,” she told him.
+
+He seems strangely eager about all this. I still don’t trust him. When the Archmage looked away for a moment, she flicked her gaze to her Aunt. Lira nodded almost imperceptibly. Huh. Well done, be warned, keep going? Thanks.
+
+“I will have Lyeneru create a quest for Calen when we have some candidates for the shrine,” the Archmage said. “Have him keep an eye on his ring, it will notify him when the quest is available.” He finally rose to his feet. “I must take my leave and return to Ciradyl. This has been a very productive meeting, thank you, Aliandra. I will be in touch.” And with that, he vanished, leaving the remnants of his Greater Teleportation spell slowly dissipating into the library.
+
+Ali immediately tried to store the book in her ring, but for some reason, that failed. She let out a big sigh and flopped back into her chair. It had indeed been productive, but the unrelenting tension had turned her knees into jelly.
+
+“Are you ok?” Ryn asked, reacting to her sudden display of pent-up emotion.
+
+“Yes, that was just very stressful.” She hadn’t quite realized how much she had been holding bottled up until the pressure was abruptly removed and she was once again alone with her friends. She retrieved Nathaniel’s permission note and handed it to Ryn.
+
+“At least you got a copy of your mom’s book, right? I got a level when he read the book you made for him.” Ryn said, examining the note excitedly before making it vanish.
+
+“Yes, about that…” Ali glanced over to the big table where she had left the suspicious book, but that spot on the table was suddenly empty. What?
+
+“On the coffee table, dear,” Lira said mildly. “Another cup of tea with a drop of honey?”
+
+There! Ali paused mid-leap to the coffee table, arrested by the almost playful offer – much like her mother’s apparent shenanigans with the book – and the fact that the tome was quietly resting on the coffee table right in front of her couch, like nothing had happened. Ali hadn’t even sensed any magic. Clearly, she had been premature in blaming the Archmage. Oops. And she had even stood up to him – where had that suddenly come from? Could the book have… surely not?
+
+“What are you?” she asked it, and then squeaked and leapt backward onto the couch when it wiggled slightly. “Aunt Lira! It – it just –”
+
+“Yes, dear?”
+
+Ali tried to wave away the teacup with a shaking hand, but her aunt had other ideas. A deft touch found her gripping the saucer and she took a desperate unsteady sip of the brew, inhaling its fresh herbaceous scent as she stared through the swirling steam at the book. She identified it again.
+
+The Nature of Magic – Eldritch Tome – level ? (Arcane)
+
+“What is an Eldritch Tome?” she asked, embarrassed to hear the quaver in her own voice. And… why the heck can’t I Identify… a one-mark book? The impossibility of it was unnerving. It had just been level forty-seven and easy for her to inspect, and now it inexplicably registered as less than level ten but obscured to her Identify skill. This makes no sense at all!
+
+“It’s a monster, why? … Oh!” Ryn exclaimed as she saw the book inching its way closer to Ali.
+
+Suddenly, the cover of the book burst open, and the pages riffled past, too fast to track, until it fell open and propped itself up as if inviting her to read.
+
+Cautiously, Ali leaned forward, her barrier ready in case the sharp magical teeth made a reappearance, but what she found was a page she knew for certain hadn’t been there when she copied the book.
+
+Dear Ali,
+
+Congratulations on earning your Class. It is a milestone I know I have been anxiously anticipating, and with it, you have passed the final step from youth to adulthood. I do not know which Class you will choose, but I am certain it will reflect your love of magic and study. Whatever you choose, I want you to have this book in the hopes that it may help you with your chosen path. Remember that your father and I will always love you and be there to help if you ever need us.
+
+Love beyond eternity,
+
+Mom.
+
+It was a note and a thoughtful gift, intended for a future that her mother had missed by a week, and she had missed by three thousand years. Coming on top of the stress of talking at such length with the Archmage, barely surviving an unknown and scary magic attack in the middle of her spell, and the bizarrely terrifying book that had saved her, Ali broke down and cried.
+
+After a few minutes of tears with Lira and her friends trying to comfort her, a sudden presence of weight drew her attention downward, and there, nestled in her lap, was the book, as if it too wished to console her.
+
+She laid her hand upon the cover. Mom, if only…
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

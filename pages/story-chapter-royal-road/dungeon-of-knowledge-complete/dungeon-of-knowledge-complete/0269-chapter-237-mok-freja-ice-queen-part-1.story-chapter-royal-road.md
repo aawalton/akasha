@@ -1,0 +1,117 @@
+---
+id: 23abcf5d-b99b-548f-974c-99e9568c9603
+page-type-slug: story-chapter-royal-road
+title: "Chapter 237: Mok’freja, Ice Queen (Part 1)"
+slug: 0269-chapter-237-mok-freja-ice-queen-part-1
+partOf: dungeon-of-knowledge-complete
+position: 269
+ownLength: 2091
+unit: words
+ownProgress: 2091
+publishedAt: 2025-05-01
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2246325/chapter-237-mokfreja-ice-queen-part-1"
+royalRoadId: "2246325"
+markedReadAt: "2026-06-29T20:20:20.383Z"
+---
+
+Why bother with pitiful sparks of fire or the feeble whispers of wind, when ice can freeze time itself? All other magic trembles before the onslaught of cold, for only ice commands the power to stop, preserve, and conquer eternally.- Kryostria [The Frozen Scourge], Elder Frost Dragon.
+
+Ali hovered above the snowy ground, looking down at the spectral trolls and shivered, drawing her robes tighter around her neck and hugging her body to keep the icy wind from stealing her scant remaining warmth. It was the fifth or sixth group so far, none of them particularly large, but they had been encountering the patrols more and more regularly and all but one group were comprised of the incorporeal undead, promising another altar and its attendant formation of death magic somewhere up ahead.
+
+She glanced back at her Ice Mage, the troll looking particularly elegant in his frostweave robes and sparkling sapphire-and-silver jewelry. She had initially been worried that his relatively low health would render him mostly worthless, a novelty in battle, but again and again, her mage had impressed her with his remarkable durability. Protected behind stacked layers of defensive ice magic: Ice Shield, combat teleportation, and the pervasive chill and freezing that accompanied all his spells, her mage was almost always uncontested, standing at the back, free to loft his Ice Bolts across the frontline with impunity, never needing even the slightest healing because he so seldom took even a single hit.
+
+Speaking of not needing healing anymore… Ali glanced over at Calen. The half-elf archer had always been hard to hit due to his exceptional evasion and Mirage Armor skills, however the moment he had donned those dazzling blue bracers Zor’kan had crafted, he had been transformed into an unstoppable force of nature. With the mana leech from his new gear, he no longer had to be frugal with his shots, unleashing an unrelenting storm of arrows where his strategy now revolved around choosing targets and adjusting his arrow enchantments instead of resource management. But with dozens of arrows hitting per second, all empowered with his magic, his damage had shot through the roof, and consequently so had his health and stamina leech. Healer’s Sight had shown his health dip once or twice when he had failed to dodge, but his health had recovered even before her healers could react.
+
+He had spoken tirelessly of his pursuit of Lyeneru Silverleaf’s ideals and style, and every time Ali had seen him chugging down mana potions, she had worried he might despair, forced to give up on a dream that she had been half certain was unreachable. After today, there wasn’t a shadow of doubt in her mind; Lyeneru had better watch out or he was going to pass her someday.
+
+He caught her eye, and she grinned and waved.
+
+When they started encountering roaming Nightwing bats among the undead patrols, Ali experimented with creating her own Nightwings – both the Spirit and Vampiric kinds – but it had been her Ice Mage that had been pivotal – pulling the bats out of the sky by the simple expedient of freezing them and letting gravity do its thing. As soon as she had seen that, she had unsummoned her bats – their Blood Contagion was far too dangerous to their forces to be worth using. Ice, and Calen’s chains of light, were far more efficient.
+
+Perhaps the bats will make a good boss back home, she decided, not willing to give up on her new minions quite yet.
+
+The Ghost Stalker wolves and the other Spirit Beasts had been interesting; after summoning them they instantly phased over to the Spirit Realm, only shifting back occasionally to attack monsters in combat, but their lack of a broad set of diverse skills and preference for the Spirit Realm made them quite inefficient for clearing patrols, and so she had abandoned them too. I don’t want to haunt the undead, she thought, setting herself down on the snowdrifts. She had enough specter corpses for Seth and her storage was getting rather full, so she simply deconstructed these.
+
+Variant: Spectral Mage added to Imprint: Troll.Variant: Spectral Warrior added to Imprint: Troll.
+
+The notifications came as a rather big surprise. Troll? The specters were trolls, but they were clearly incorporeal undead, and she would have expected her Grimoire to offer her the Undead imprint once again, but instead, it had incorporated them as variants of the basic troll imprint. And, judging by just how little space the variants consumed in her spell book, they had to be almost identical to the live trolls with the same classes.
+
+Curious, she summoned a Spectral Mage, but as usual, the undead summoned without mana reservation and simply collapsed as soon as it appeared.
+
+Ali frowned as she looked at the corpse of the dead-on-arrival troll. Dead-dead, not undead, she thought, deciding that she needed to clarify that it wasn’t the deadness of undeath, but actually non-functional dead. A dead undead. But the description sounded clumsy no matter how she massaged it.
+
+She paged to the beginning of the imprint after deconstructing the corpse, intending to remove the two variants, but then hesitated. Is this a way to get Undead Slayer without using a chapter? The variants themselves had taken almost no space, and perhaps they might be useful after all. She closed her Grimoire, deciding that she would keep the variants for now, at least until she had the opportunity to test it out back home.
+
+“Hey, Ali, come look at this,” Mato said.
+
+She looked up to find him crouched at the foot of a large tree, gently brushing snow out of the way to expose the frozen ground below. She hopped on her barrier and flew over to him, ignoring the icy breeze and brushing the snow buildup off her barrier before she descended to join him.
+
+There, on the ground, revealed beneath the fresh drifts of snow was a small patch of tiny blue flowers.
+
+Alpine Forget-me-not – Wildflower – level 35 (Ice)
+
+The tiny five-petaled azure flowers had a center of pure white, and each flower emitted an intense glow of pure ice-affinity mana, causing the air about them to freeze into fresh ice crystals that slowly drifted to the ground in a continuous miniature snowfall.
+
+“Pretty flowers,” he rumbled.
+
+Ali’s eyes shot upward at his teasing tone.
+
+“I don’t know how they got here, but some of the plants seem to have adapted to the ice mana in the air,” Mato added, immediately more serious. “Or perhaps, they were deliberately seeded here. It can’t be a native inhabitant of this jungle, that’s for certain. I would have expected something like this at a much higher altitude, or in a much colder climate, but I think this unnatural density of ice mana is making it thrive here. I want to bring some back for Eliyen and Basil, but I think you should just add them to your imprint and make them for him later. I bet they can make ice resistance elixirs from it or something.”
+
+“Those grow all around the peaks of Telim Gor,” Zor’kan said as he stopped to examine them too. “This must be the work of Mok’freja and her delegation.”
+
+Ali studied the flowers for a moment and then quickly picked out other patches beneath the snow by the pooling of dense mana. Carefully, she brushed the snow away exposing more of them, and then deconstructed several good samples until her Grimoire reacted.
+
+Variant: Alpine Forget-me-not added to Imprint: Wildflower.
+
+“I will wait for you here,” Zor’kan said, stepping off the road into the bush. “About five minutes from here, around the big bend, you will reach the bloodsteel quarry and, based on the level of cold, I’m certain that is where you will find Mok’freja.”
+
+“Thanks for the information,” Calen said, squinting his eyes and staring off into the distance.
+
+“I advise you to prepare carefully, before she was a Mok, she was the Kir for all of Telim Gor. She is truly an ice champion and a formidable adversary. All of this,” he gestured to the snow, their frozen breath on the bitterly cold air, and the tiny ice-affinity flowers on the ground, “is simply due to the presence of her magic.”
+
+“Do you have any suggestions for the battle?” Ali asked.
+
+“It would be dishonorable to suggest fire in a battle against a Troll,” he said.
+
+Ali waited for him to finish, but he didn’t say anything more, instead turning to find himself a spot in the frozen jungle to hide from any monsters coming down the road, his bearing every bit that of a proud troll, but his voice had carried a sense of defeat.
+
+“What do you think?” Malika said as she and Calen joined her and Mato by the side of the road.
+
+“I’m going to make more fire,” Ali said, taking out her Grimoire. She summoned three more Hellfire Imps and another Armored Drake, bringing her totals up to six and three respectively. Checking and finding that she still had plenty of mana left, she summoned one more each of her Ice Mage, Blood Shaman, and Bone Warriors.
+
+Armored Drake – Dragon – level 71-75 (Fire) x3Hellfire Imp – Demon – level 55 (Hellfire) x6Abyssal Stalker – Demonic Spider – level 45 (Blood) x2Bone Warrior – Troll – level 65-66 (Bone) x3Blood Shaman – Troll – level 71 (Blood) x3Ice Mage – Troll – level 78 (Ice) x2Witchdoctor – Troll – level 78 (Soul)Grimoire of Summoning has reached level 37.
+
+“There,” she said, surveying her army with some satisfaction. Twenty minions was the largest army she had ever summoned, not counting the dungeon itself, putting her total mana reservation at almost thirteen-and-a-half thousand, leaving her with five thousand four hundred mana to play with during the battle.
+
+“That’s a lot of fire,” Calen said.
+
+“I know,” Ali answered. “Perfect for an Ice Mage, I hope.” The army sure looked impressive – every troll was decked out in the best gear she could make, and the nine of them looked rather terrifying just on their own, but the huge Armored Drakes looming behind them, with their tough dragon scales and sharp fangs, certainly lent the army some intimidating weight. Would it be enough for this foe?
+
+Really, the only reason she could afford to summon such a powerful army was the rapid growth of her class and her habit of laying down substantially more domain than she needed. And of course, the use of new powerful items and her Blood Shaman boosting her wisdom attribute. “I’m not sure if the imps will work out, though.”
+
+“Why not?” Calen asked. “They do a lot of damage.”
+
+“They’re vulnerable to ice,” Ali said. “I’m hoping that they won’t get hit much with the Drakes in front.”
+
+“It’s worth a try,” Malika said.
+
+“I’m ready, then,” Ali said.
+
+Ali’s companions seemed unnaturally calm as they followed the path winding its way up through the icy jungle, a stark contrast to the heartbeat hammering in her chest. She might be a veteran of many fights now, but something about Zor’kan’s despair and defeat had lodged in the back of her mind, telling her that Mok’freja was terribly bad news.
+
+She had not dislodged her premonition by the time the path curved around a rocky ridge, and she caught sight of Mok’freja’s ice palace.
+
+The giant glittering edifice of ice was set in an excavated amphitheater of stone, hewn from the overgrown mountainside by ancient troll hands and nestled into the embrace of the jungle. Piles of rocky ore and scree had been stacked up around the edges and there was even evidence of ancient, ruined stone buildings.
+
+But everything was covered with slabs of deep blue glacial ice, stabbing upward toward the sky, creating soaring spikes and towers that seemed to serve no purpose other than to glorify the owner, lounging regally on a massive throne of ice in the center of the courtyard clearing. Hanging from the ice pillars and spires behind the throne were vast sheets of glittering webbing, in which several troll-sized bundles were embedded – cocoons of ice, hanging from the web. From deep within the darkness of the web, Ali caught the glittering blue glow of eight eyes peering out.
+
+“Oh, this looks like fun,” Mato said, but his eyes were fixed intently on the Troll on her throne, with not a shred of his usual humor in his voice.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

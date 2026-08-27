@@ -1,0 +1,395 @@
+---
+id: 16682457-8de4-5398-a0e1-aaf67003260a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 176: Figuring out a Strategy"
+slug: 0179-chapter-176-figuring-out-a-strategy
+partOf: dungeon-of-knowledge-complete
+position: 179
+ownLength: 6327
+unit: words
+ownProgress: 6327
+publishedAt: 2024-12-29
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1980493/chapter-176-figuring-out-a-strategy"
+royalRoadId: "1980493"
+markedReadAt: "2026-06-29T20:17:07.382Z"
+---
+
+“We found it,” Malise said, emerging from the shadows beside Sabri and startling her. “That’s a boss. The entire room is filled with a poisonous cloud, and it knows we’re here. I couldn’t even get close.”
+
+Sabri stared into the gloomy chamber. There were a few of the glowing mushrooms providing light that diffused through a greenish mist that filled the room. Dangerous-looking red-and-white toadstools sprouted in clumps around most of the perimeter of the chamber. Of the boss, she could see no sign, other than the dense webbing that hung in drapes from the roof and down the walls. Creepy as the scene was, she gave no sign of her unease. Courage! We can take this.
+
+“I want some of those mushrooms,” Malise said, grinning and showing her gleaming white pointed canines. “Good poisons for my daggers.”
+
+“We should collect the web after we beat it,” Brena added. “I saw a quest for it on the jobs board this morning. It pays quite well.”
+
+Oh nice, Sabri thought, perking up at that. At least she could make some money today and make a dent in some of her debts. Maybe stock up on health potions, too.
+
+“Everyone ready?” Brena asked.
+
+Sabri nodded, getting to her feet and readying her shield and sword. “Where is it?”
+
+“In the center, up on the roof,” Malise said, pointing, and then she stepped into the shadows and vanished again.
+
+“Thanks,” Sabri said and advanced into the greenish mist.
+
+You have been afflicted by Poison Aura.+0.3 Poison damage per second within the aura.Duration: Indefinite.
+
+The green miasma clawed its way down her nostrils and into her lungs, provoking a bout of nausea and dizziness, but she strode to the center of the room, gazing upward into the dense shadowed webbing. Something lurked up there, deep within its lair. A hiss prickled the hairs on the back of her neck, and a massive black and green spider dropped down into the chamber suspended upon a silken thread as thick as a rope. Legs unfurled and it leapt.
+
+Sabri dropped her weight into a defensive crouch and swung with her shield, imbuing it with her soul magic to strike with more damage. Her shield caught the spider right in the face, with a resounding crack, making the monster shy back, hissing angrily.
+
+The spider’s legs clawed the ground like swords scraping across granite and it advanced, nearly as tall as Sabri – far larger than all the spiders they had fought on the way to the lair. Vibrant green markings on its razor-sharp legs glistened with viscous venom that flicked into the air as tiny droplets as it lashed out. She dodged backward, deflecting the strikes with her sword, and then retaliated with a counterthrust of her own.
+
+“Avast, foul beast!” Theon yelled, rushing in with his heavy two-handed hammer already descending. Sabri winced as the massive steel head struck the spider with a loud crack, but this time the spider stuck to her instead.
+
+The sword-like legs blurred toward her, one strike blocked by her breastplate, but Sabri judged the attack poorly, and her guard was just a little too high. The second strike slashed deeply into the flesh of her forearm, slicing down to the bone in an instant.
+
+You have been afflicted with Poison. +0.3 Poison damage per second.Poison – Duration: 10 minutes. Count: 1
+
+To her dismay, the poison stacked with the aura, leaving her seeing double for a moment and taking damage twice as fast. With the speed and power of its strikes, she would need to be extremely cautious. She didn’t hesitate, immediately retrieving one of her potions and downing it.
+
+The loud crack and flash of lightning and trails of flame announced Brena and Cai’s entrance into the chamber, but Sabri had eyes only for the monster before her as it lashed out again. Desperately, she blocked and deflected its rapid slashes, retaliating with another sword strike, but she didn’t come out of the exchange unscathed.
+
+Your Poison has increased to 2.
+
+Theon hammered at the spider’s abdomen, drawing its attention away from her, and she reacted by using her Soul Shout, taunting it back to her before he could get bitten or slashed. But the strike intended for him glanced off the edge of her shield and found a gap between the plates of her armor, slicing into her leg.
+
+Your Poison has increased to 3.
+
+She grimaced at the wave of dizziness and weakness from the rapidly mounting poison and hit back at the spider, trying to ensure that it would stay focused on her. She fell into an anxious zone of blocking and deflecting while seeking openings to strike, but her health dwindled steadily away, even with the magic of her healing potion working to repair her wounds.
+
+Your Poison has increased to 4.
+
+Ugh, that poison. As soon as her healing potion wore off, she downed a second one, but her health was not doing well at all. As she blocked another furious flurry of strikes – some of them so sharp and fast, all she felt was the warmth of her own blood – her health dipped below half and continued to fall.
+
+Twenty percent was their trigger to run and as she saw her health decline under the heavy strikes and constant poison drain, she dreaded having to be the one to call the retreat. Theon would not let her live it down.
+
+But it was Brena’s voice that called out, “Run!”
+
+She smacked the spider in the face with her shield and sprinted out after the others, feeling a guilty sense of relief flooding her body, but the massive spider did not give up the chase until they had entirely left the long web-covered tunnel. It chased them all the way, keeping the aura of poison on them right up until it finally gave up and returned to its lair.
+
+“Why did you run?” Theon demanded. “I was just getting going.”
+
+“I am on fifteen percent health,” Brena told him angrily.
+
+“Well, use a health potion!”
+
+“I did. You need to heal, Theon. Remember what the Guildmaster told you about your role on the team?” Brena’s face was flushed with anger.
+
+“But then I can’t hit it,” he objected.
+
+“I saw you heal yourself twice,” Malise said, joining the argument.
+
+“Guys…” Sabri said, trying to make herself heard over the arguments. Her health had passed twenty percent and was still spiraling downward at an alarming rate. The spider’s venom still coursed through her veins, only the aura having been withdrawn.
+
+“That’s not the point!” Theon yelled back.
+
+“I need a heal!” Sabri yelled, losing her patience.
+
+“What the fuck for? Take a potion,” Theon yelled.
+
+“I used two already, I have ten stacks of poison. I’m going to die if you don’t heal me immediately.”
+
+“Stupid weakling,” he snapped, but she felt his healing magic infusing her body with warmth, and her Tenacious aptitude reacted to improve the amount healed.
+
+“Thank you,” she said. “I’ll need another one in a minute.”
+
+“Fine. Whatever.”
+
+The whole team sat down to wait out her poison, and she tried to ignore the daggers Theon was glaring her way.
+
+***
+
+Sabri slumped down on the couch in the guild hall, tired and sore, and feeling rather sick after all that poison in her system. They had made several attempts to kill the spider, but they had not been even close to successful. To his credit, Theon did heal her during the later fights – whenever she asked for it – but he grumbled about it every time, and she had been forced to call the entire thing off when she had run out of health potions, earning even more glares and grumbles.
+
+She tried to ignore everyone, wanting to be alone, but she basically lived at the guild and had nowhere else to go. To her surprise, one of the bronze-ranked girls walked over and sat on the couch beside her.
+
+“Here, you look like you could use this,” she said, offering Sabri one of the skewers she had sampled that morning – when she was still full of hope and excitement about hunting the new boss. Normally, she would have refused, but she felt miserable, and hunger was at least a part of it. With the number of health potions she had wasted today, she would be on light rations for the rest of the week.
+
+“Thank you,” she said. And then remembering her manners, “I’m Sabri.”
+
+“Teagan,” the girl replied and Sabri remembered she was the lead for one of the higher-level groups. A shaman.
+
+She ate her skewer in silence for a while, and then because the girl seemed relaxed and friendly, she decided to ask. “How do you handle poisons in your group?”
+
+“I have a poison cure spell,” she answered.
+
+“Well, that’s not fair,” she muttered, uncharacteristically frustrated.
+
+But the other girl didn’t seem offended. “Did you find a monster with poison?” Teagan asked, studying her curiously.
+
+“We found the second sewer boss. It’s a level-eight venomous Tunnel Weaver with a poisonous aura that fills its entire lair. After I get about ten stacks on me, I can’t survive and we have to run, even with all my healing potions and Theon’s healing. When he remembers to heal.” She couldn’t help letting the frustration creep into her voice, even though her mother had taught her not to say unkind things about other people.
+
+“That sounds difficult,” Teagan said, pursing her lips. Then she looked up and yelled loudly across the guild hall, “Hey, Basil, do you have a minute?” A quiet, studious-looking boy turned to face them, seeming a little startled at the volume.
+
+Sabri hadn’t intended to let the whole world in on her problems and so she found herself fighting off a wave of heated embarrassment as Basil scurried across the hall to join them.
+
+“What do you need, Teagan?”
+
+“Sabri is struggling with poisons.”
+
+Teagan said it so matter-of-factly that Sabri wanted to just sink into the floor and disappear. But Basil smiled at her.
+
+“What kind of poison?” he asked.
+
+“Venomous Tunnel Weaver,” Teagan supplied.
+
+“Oh, that’s easy, here take these,” he said, retrieving a small crate with several dozen vials filled with dark viscous green liquid.
+
+Antidote Potion – level 5Consume: Attempt to cure toxins, venom, or poisons afflicting you. Duration: 30 seconds.Created by Morwynne Fizzlebang – “Also good for a tummy ache!”Potion
+
+“But… those are expensive,” she stammered, not wanting to take such a valuable gift.
+
+“Morwynne let me have these to help with my studies, but now that I’ve learned the recipe I don’t need the extras,” Basil answered. “You can owe me a favor. Maybe bring me some samples of the spider venom, or a few poisonous mushrooms to play with and we can call it even.”
+
+“I… thank you,” Sabri said, accepting the gift.
+
+I’ll need to talk with Brena – maybe we can defeat that ugly spider, now.
+
+Calen stepped into the Landing and surveyed the now almost empty chamber. Ever since Malika’s skill advancement, the more difficult groups of elementals had been going quite smoothly – even the few double Living Flame pulls had been tanked and burned down with minimal chaos and panic. Once they had figured out just how far to split them apart, that was. Double explosions were no joke, and they had wiped out most of Ali’s lower-level minions a few times figuring that out.
+
+The key had been learning just how fast the elementals could move and judging the distance to the first explosion. That, and making sure that they didn’t get bunched up in the archway and detonate on top of Malika and Mato while they were scrambling to secure them.
+
+All that remained now were the two enormous elementals guarding the three stone doors at the far side of the landing. Towering substantially taller than all the other elementals that they had fought thus far, he knew he was looking at a boss, even without using his Explorer skill.
+
+Living Flame – Elemental – level 65 x2[Explorer]Category: Dungeon BossThreat Level: GroupThe narrative has been taken without permission. Report any sightings.Monster Type: ElementalDamage: Fire, Physical
+
+“Can we fight them one at a time?” Ali asked, standing behind him at the arched stone entrance to the Landing.
+
+“I don’t think so,” he answered. Explorer identified the pair as a singular boss. It didn’t matter which one he focused his skill on, the result was the same.
+
+“The flame auras are a lot wider, and they look more powerful,” Ali said, squinting into the room. “I can’t see the full extent, but they’re filling the entire Landing.”
+
+“I see,” Calen said. It was a good thing they had decided to pull each of the elementals out of the chamber to fight them in the smaller cavern entrance before the archway. The boss auras would have made all the elementals in the room impossible to kill by healing them with their fire auras.
+
+“Ali, how far do you think the boss will chase us before it has to return?” They had been down here quite a while and, at some point, the elementals back in the tunnel were going to be respawned. It would be rather risky to flee from the boss right into fresh elemental respawns.
+
+“Maybe into the tunnel?” she answered, looking back over her shoulder.
+
+“Ok, I think we should check that first,” he said, retrieving a gold coin from his storage, flipping it into the air, and pulsing a little mana into it.
+
+You have gained the Blessing of the Wanderer+12 to Dexterity.+8% to Movement speed.Blessing – Duration: 3 hours.
+
+He smiled happily at his patron’s blessing – for a boss with an unknown set of abilities, being able to run faster would be perfect. He didn’t even mind the loss of a gold coin this time.
+
+“Let’s all back up into the tunnel and be ready to run. I’ll pull it and see how far we can go.” Everyone backed up to the far tunnel, but Calen remained in the archway entrance by himself. Right before they got into position, all of Ali’s Acolytes loaded him up with Restoration spells. He smiled a silent thank-you and slipped into the illusion of his stealth magic, vanishing from sight as he ran forward on silent feet.
+
+The instant he entered the Landing, his body began to burn, ignited by the powerful auras of flame emanating from the two boss elementals at the far side. At least this would be a fight he would not be starved for mana. I’ll need to be quick. He hit his maximum range, and drew his bow, firing a single shot at the closest elemental instead of using multishot, not bothering to ambush or preserve his stealth. The bosses were certainly linked, but it didn’t hurt to be thorough. As soon as his arrow struck, both elementals turned, surging toward him in a smooth, flowing rush, while the air around them sizzled and shimmered with the intense heat and flame. I guess that would have been too easy.
+
+He spun about and sprinted back, making full use of his movement speed buff, but the two elementals were fast, almost keeping pace with him across the rocky ground of the Landing. He hopped over rivulets of lava and dodged rocks as he passed through the archway, running flat out, but he hadn’t been able to outrun the twin auras, and the intense burning was beginning to eat into his health as the restoration magic began to expire.
+
+As he closed in on the tunnel where his friends waited, he saw them beginning to back up further, and the Kobolds refreshed their restoration magic when he reached the maximum range of their spells. But as they did, their little bodies ignited from the fire auras in a wave that clearly depicted the forefront of the flame aura. They scrambled to make more distance, letting out shrill chirps of alarm.
+
+Calen sprinted up the tunnel, easily catching up with them, but suddenly the intensity of the flame abated, and he spun to find the two giant elementals returning to the Landing after almost reaching the tunnel.
+
+“That looks like the limit of the domain enhancement,” Ali observed. “They’re tied to the area in the Landing.”
+
+“Not quite to the tunnel,” he said. “That gives us a bit of time.” The dungeon would respawn the elementals in this region of the tunnels at some point, but not for a while yet. Now he just needed to figure out how to split them apart so they could kill them safely.
+
+He made his way back to the arched stone entrance and surveyed the chamber beyond. Other than the twin Living Flames and the stone doorways behind them, the chamber seemed to be a roughhewn artificial cavern, carved out of the stone and left unfinished simply because the miners had little need to make it pretty.
+
+“Let’s try having Mato tank one on that side by the wall, and Malika tank hers over here by this wall,” he suggested as the others looked in on the chamber beside him. It was just about as far as they could get within the Landing itself.
+
+“You mean to fight it in the Landing?” Malika asked.
+
+“Yes, there are no other monsters left,” Calen said.
+
+“I’m not sure that will be far enough,” Ali said. “The aura coverage is huge.”
+
+“Let’s try it,” Mato said. “We can run out if it doesn’t work.”
+
+“How do we split them?” Malika wanted to know as she stared nervously at the two enormous Living Flames. While she had unlocked a potent tanking upgrade, it was recent enough that she was probably still a little uncertain of her abilities – and Calen had to admit, the larger elementals sure looked intimidating.
+
+“Wait in the center with Mato, and the two of you agree which one you’re going to hit. I’ll pull them up the center to you guys and then you hit one and run off to your spot.” This wouldn’t be a difficult pull, he just had to make sure he didn’t do unnecessary damage so that it was easy for them to redirect their target’s attention from him, and for that, unenchanted multishot was perfect. It even split the damage so each shot would be weaker individually.
+
+“Hmm, ok,” Malika said, hopping on one leg and then the other to limber up.
+
+“Over here,” he said, leading them into the Landing, to where he had marked – just out of the range at which the two giant elementals had noticed him – and then gave them a few moments to set up.
+
+“We’re ready,” Malika said after Mato finished transforming.
+
+“Getting them.” Calen conjured two glowing arrows of light onto his bowstring, enchanted them with increased range, and then fired, immediately backing up to wait behind Mato and Malika.
+
+The surge and hiss of the elementals gliding toward them was followed immediately by the sudden intensity of the flame washing over him. It felt like being dunked into a pool of raging fire, and his hair, and even the skin on his arms and ears, caught alight. The pain was mitigated quickly by the holy restoration magic from Ali’s minions, but nothing could be done about the stench of burnt fur, hair, and cooking flesh.
+
+The pull went off like clockwork. The two Living Flames surged forward and there was a flurry of punches and clawed swipes and then Mato and Malika took off in opposite directions, and he took the opportunity to back away, trying to exit the aura of flame.
+
+“Explosion! Double!”
+
+Calen sprinted at Ali’s shout, only stopping when he was certain he had outranged both Living Flames. But the simultaneous detonations filled the entire Landing, a shockwave crashing into him from the left and then, as he became airborne, the second catapulting him to the right. His ribs crunched from the first impact, and his arm snapped audibly on the second. Ugh, fuck. Flaring his wings briefly, he dropped himself down to the ground and surveyed the damage.
+
+Ali hovered in a golden bubble while Mato and Malika had both weathered the explosions well enough, bouncing off the walls and still holding the attention of their respective targets in more or less the appropriate location. But at least a third of Ali’s minions slid down the rock walls, landing in crumpled unmoving heaps, or splashed down in lava pools.
+
+“Healers?” he asked, checking in quickly.
+
+“Three alive,” she responded.
+
+“How does it look?” If they were not in immediate danger of a wipe, he was most curious to see how the strategy would work.
+
+“Not nearly far enough,” Ali answered. “Both of their auras fill the whole Landing.”
+
+“That’s not going to work,” he muttered. Then, raising his voice, he yelled, “Retreat for now!” Everyone scrambled for the archway and the anticipation of safety in the tunnel beyond. Well, Ali sacrificed two of her Kobold healers to ensure Mato and Malika made it back safely – mostly Mato. Malika’s sprint left her Living Flame far behind.
+
+“That didn’t go too well,” Malika observed as the giant elementals gave up and returned to their lair.
+
+“Crispy,” Mato agreed, gruffly.
+
+“I’m honestly not sure how to do this,” Calen admitted, eyeing the Living Flames as they glided smoothly back into the Landing. The auras were bigger than he had anticipated, and so were the radius and power of the explosions.
+
+“Calen, the auras cast shadows,” Ali said.
+
+“What do you mean, shadows?”
+
+“I see it as a bright, turbulent glow of fire mana that fills the entire room. It’s a little like a ghostly bonfire burning on the rock. But it works like a light, the space behind the archway is dark, it only comes through the gap.”
+
+“Wait, so we can hide out of line-of-sight, and it won’t hit us?” he asked.
+
+“Yes, the flame aura projects out of the archway like a beam, about halfway into this space even from where they are right now.” She drifted over toward the archway and stopped a little off to the side. “Here, I’m next to the flame aura, but I’m not in it.”
+
+He joined her, noticing that the ever-present burning sensation of this dungeon’s ambient atmosphere felt ‘normal.’ He stepped sideways to where he could see the twin elementals and suddenly his hair ignited, and his skin began to blister. Stepping back to where Ali was made it vanish instantly.
+
+“Oh, well that changes everything,” Calen said, studying the space with an entirely new focus, trying to imagine the auras he was blind to, and where would be the best setup.
+
+“Yes, Mato could do his cooking right here,” Malika suggested, wiping her brow. It only caused more soot to smudge across her forehead.
+
+“If you like cinders,” Mato agreed. “What’re you thinking, Calen?”
+
+“We should tank them here,” he said, walking up to the rock wall next to the stone archway, but a little off to the side – and outside of the Landing.
+
+“Both of them?” Malika asked.
+
+“Well, we should put the other one on the inside of the Landing. Backing up to the same wall.”
+
+“Oh, back-to-back, with a wall between them?” Malika asked.
+
+“Exactly,” Calen answered.
+
+“Where do I put the healers? In the archway? Won’t they get burnt by both auras?” Ali asked.
+
+“I’m thinking two inside and two on the outside, near the wall so the explosions don’t blow them around so much,” he suggested.
+
+“That could work, so the wall provides cover blocking the damage from the other one,” Malika said.
+
+“Yup, that’s the idea,” Calen confirmed.
+
+“My minions are too weak to survive the pull, though,” Ali pointed out.
+
+“Actually, I had a thought for that,” Calen said. He remembered something Mato had told him about his trip to the alchemist for fire elixirs. “Mato, how many of the level-twenty elixirs did you get?”
+
+“Twelve,” he answered.
+
+“You want to use them on my minions? Isn’t that expensive?” Ali seemed a little surprised.
+
+“Well, if we hide them behind the wall on the first pull, only Mato’s healers will be exposed to the double aura. With some elixirs and careful barriers, I think we can make sure they survive long enough to beat the boss.” Burning fire resistance elixirs was going to be expensive, and he was sure people would think him crazy for spending them on minions. But the kobolds contributed enormously to their group’s healing and damage and making them more robust just seemed to be a sound strategy. Besides, for them, the potions and elixirs cost a few essences. Mato could easily harvest a batch of Ali’s fire grass and flowers, and then there was just the time for Eliyen and Morwynne to make them – a chore for certain, but a relatively reasonable investment.
+
+“That actually sounds like a good plan,” Malika approved.
+
+Calen quipped dryly, “I know, who would have thought – us having an actual plan?”
+
+“Let’s try it!” Mato sounded excited already and quickly transferred the softly glowing red vials from his ring to Ali and her minions as she replaced the ones that had died.
+
+“Why no shamans, this time?” Calen asked. Ali had switched up the distribution of her minions dramatically, heavily favoring rogues and bone mages, and had made an extra Hobgoblin and Acolyte.
+
+“I can’t make them above level nineteen, so they can’t use the elixirs. The explosion is so large nothing can outrange it, so the rogues and hobs do more damage than the archers. I need to get some higher-level minions,” she said, sounding a little frustrated.
+
+But it was understandable – they were facing a level sixty-five boss, and most of her minions were barely above twenty. It was probably only due to the fact that she had extraordinary gear and elixirs, and the Kobolds had a natural racial resistance to fire that this was even working at all.
+
+“Ok, Mato, you take yours to the inside of the Landing. Malika, bring yours out here, we’ll kill it first and then all go inside.”
+
+He set up the pull again, noting that Ali had hidden almost her entire force of minions behind the wall, leaving only herself and two Kobold Acolytes waiting near Mato’s tanking spot, barriers already up to protect them.
+
+He fired. The glowing pair of arrows soared through the scorching air, striking both Living Flames dead center in their cores. Did that even touch their health? The familiar hiss and sizzle filled the Landing as they surged forward, gliding effortlessly across the broken rock and lava pools.
+
+He waited, a little behind Mato and Malika as the two towering elementals bore down on him. His heart raced as his skin sizzled and scorched, but the two of them were fast, locking down their respective elemental before they reached him.
+
+Calen sprinted back, following Malika out of the Landing, while Mato diverted to his side. Up by the archway, behind the golden barrier, a tall pillar of holy light told him that Ali had preemptively burned one of her acolyte’s Devotion recharges to ease them through the chaotic first moments of the pull.
+
+“Explosions!”
+
+Calen barely made it through the archway when the detonation slammed into his back, flinging him across the room and sprawling down the tunnel before he was even able to summon his wings. But he had only been hit by a single explosion this time, and as the Goblins and Kobolds rained down across the room, only a single mage failed to get back up.
+
+Momentarily out of view in the tunnel, Calen triggered Eclipse to regain stealth. Sneaking back into the chamber, he lined up his shot and then unleashed it with a quality of technique that would have made Nendir proud. His arrow flared into brilliance at the last possible moment, smashing the elemental’s core back against the rock with the full force of his enormous Ambush critical strike. The elemental flames dimmed dramatically as they splashed against the rocky wall like water. He grinned, lining up his next shot – there was nothing quite like the feeling of a good Ambush.
+
+While the boss’s damage output seemed much higher than the Living Flames they had encountered so far, just judging from the intensity of the flames, it had no particular surprises for them. The first explosion was followed by three more on the predictable timer, followed by a flame tornado and shield combo, just as expected.
+
+“How much mana does this thing even have?” Malika complained.
+
+“Probably five times more than the normal ones,” Calen said. At least, he assumed that number just based on Ali’s skills and how much extra mana her bosses had.
+
+It took four cycles through the regenerating fire before the first Living Flame imploded and collapsed to the ground. Calen let out a sigh of relief. Their plan had not been flawless, and there had been many rather close calls during explosions, but their group seemed robust. Halfway there, he encouraged himself as they all charged through the doorway to where Mato was still tanking the other Living Flame.
+
+“Calen, do you have any spare mana potions for my healers?” Ali asked.
+
+“Yes,” he answered, flying over to each one in turn, handing out some of the cheaper mana potions he used for his own small mana pool. They probably wouldn’t help Ali much, but they should be ok for the Kobolds. He smiled to himself. There had been a time he could barely afford these, and now he considered them to be cheap.
+
+The shield went up to the distinctive clang of Mato’s claws scraping against the impervious magical barrier. The flame tornado filled the inside of the giant bubble with a roar that caused the ground to vibrate. Calen returned to shooting, deciding to save his Righteous Fury for the one after it was drained.
+
+“Unknown powerful magic spell!” Ali called out, making his heart lurch with anxiety. “It’s a domain magic!”
+
+What is it doing? But all he could do was keep firing at the shield. This was the thing that could disrupt their entire strategy, and not knowing what it might be filled him with dread.
+
+“Fuck!” Ali shouted. “It’s a domain respawn! It’s resurrecting the other one!”
+
+“Seriously?” Malika exclaimed.
+
+Calen’s eyes widened in shock. “Hit it hard! Get ready to run!” If it could raise the other one to life again… well, it was a good thing he had invested in extra recall potions to get Mato out of there.
+
+Everyone unleashed their attacks in a furious assault, but Calen kept glancing at the intense frown on Ali’s brow and the pure focus with which she stared at the monster before them. Seconds ticked down one by one like the beads of sweat dripping down his back. Daggers cracked against the shield while magical spells and his own arrows rained down upon the transparent spherical shield like the endless roar of hail on a tin roof. Suddenly, the barrier cracked and splintered, and his arrow flew through a gap, striking the Living Flame squarely in the center of its core.
+
+“It… broke? The formation is gone.” Ali called out with uncertainty and surprise in her voice.
+
+“Good. Keep a lookout for it,” Calen said. He had no idea what had just happened but tried to put it out of his mind for now. Worrying would do no good. “Ali, can you deconstruct the remains?”
+
+“Explosion!” Ali yelled; all traces of hesitation vanished.
+
+The boom of the detonation echoed in the empty rocky chamber, kicking up sprays of lava from the rivulets and pools. This time everyone rained down inside the Landing, some of the minions dropping hard onto the rock, and some splashing down in pools of lava, but the extreme fire resistance seemed to be doing the trick and almost all the minions were able to swim out and sprint back to the fight.
+
+For four shield cycles, they endured. Each shield came with yet another panicked call from Ali that the Living Flame was attempting to resurrect its companion. And each time they managed to shatter the barrier before anything happened. It has to be connected, somehow…
+
+“It’s empty!” Malika shouted.
+
+“Oh, thank goodness,” Calen muttered.
+
+“Domain Respawn!” Ali yelled.
+
+“Ali, we need the dead elemental core deconstructed!”
+
+“I did already! It’s not helping!”
+
+The shield sprang up, and Calen burned his Righteous Fury. This was the critical shield, the faster they could shatter it the less mana it could regenerate, and starting on empty it might mean they might be able to kill it before the next one. He enchanted all his arrows fully, burning the expensive ones from his ring for just a little more damage, and even blowing mana on his explosion enchant when he could manage to clip the top of the elemental’s shield without risking hitting Mato. He downed a mana potion without missing a beat, and he still had ten seconds on his Righteous Fury when the shield splintered in a great shower of magical shards.
+
+It didn’t last long after that. A short flurry of notifications made him sag in relief. We did it. Yes!
+
+Your group has defeated Living Flame – Elemental – level 65 x2.Archer of Light has reached level 48 (+2).+20 attribute points.Radiant Archery has reached level 30.Arrows of Brilliance has reached level 34.Motes of Light has reached level 18.Explorer has reached level 28.Blessing of the Dawn has reached level 23.Eclipse has reached level 24.Righteous Fury has reached level 17.Mirage Armor has reached level 9.Cartography has reached level 11.Basic Daggers has reached level 2.
+
+Following his computed attribute trajectory, he spent seven points each on dexterity and intelligence and put the remaining six into perception, marveling that, even now, he could sense the subtle sharpening of his eyes, and the lightening of his limbs as the attribute improvements took effect. He smiled – level forty-eight was phenomenal progress, but the thing that really caught his eye was that Radiant Archery had just reached level thirty.
+
+One more arrow. His multishot skill had a regular, built-in mini advancement now – every ten skill levels he would be able to conjure an additional magical arrow, and the jump from three to four would certainly be noticeable. Fighting the spider swarms with four arrows and four simultaneous explosions was going to be a dramatic improvement every time they fought their way down to the Landing – and it would make clearing the Flame Broodmother’s summoned spiders that much quicker, letting him return to shooting the boss much faster.
+
+His chime sounded once more and Calen sucked in his lips as he read on with mounting excitement.
+
+Requirements met for skill advancement.Patron deity: The Wanderer.Blessing of the Dawn has surpassed level 20.Has exhausted stamina during a battle.Has exhausted stamina during training.Intelligence has surpassed 200.Sought out master-level training in stealth and movement.Successfully used Ambush during combat.Blessing of the Dawn gains Inexhaustible Stride.Blessing of the Dawn – level 23Mana: Your Dexterity, Intelligence, and Perception are increased by +76% [40 + skill + base intelligence / 10]. The stamina cost for your skills is reduced by 50.37% [3% reduction per skill level]. Reserve: 20%Light, Buff, IntelligenceAccept this advancement?
+
+He studied the Wanderer’s influenced advancement carefully, but it was just about perfect for him, and he quickly accepted it. He was always running out of resources in combat, and a whopping fifty percent reduction in the growing costs of his stamina skills would dramatically improve his staying power in combat and enhance his ability to scout longer and range farther with stealth before having to recover. And it would get progressively better as he leveled his skill up. Of course, the skills grew more expensive as they grew in power too – he would need to redo all his calculations. Now I just need one for mana too.
+
+He stored his bow and sighed. I might need to invest in another notebook.
+
+Mato shifted out of Bear Form and joined his friends in the aftermath; it had been perhaps the most boring fight he had experienced so far. His job had been to tank his elemental in the Landing, almost alone, accompanied only by two tiny Kobolds in their fancy shimmery robes, hiding behind their golden barriers. He had done that for half the fight, not worrying about doing any damage or anything complicated – just surviving, keeping his Brutal Restoration stacked, and blocking as much as he could to preserve his two little companions’ mana.
+
+He hadn’t been able to see how the others were doing, but he could hear them shouting to each other. After a while, everyone joined him, and they had killed his one. Sure, there had been explosions that smacked him into the wall, cracked his bones, and burned his flesh, but he really didn’t have to actually do much.
+
+I hope there’s something more interesting once we open the door. Let’s check what I got.
+
+Druidic Shapeshifter has reached level 49 (+2).+20 attribute points.Swipe has reached level 31.Brutal Restoration has reached level 34 (+2).Bear Form has reached level 30.Bestial Combat has reached level 28.Natural Prowess has reached level 21.Survival Instinct has reached level 23 (+2).Battle Trance has reached level 14.Last Stand has reached level 4.
+
+He studied his skill growth carefully, grunting in satisfaction as he plopped himself down on the ground beside Malika. Just one more level to fifty! He dropped five points into each of his primary tanking attributes: vitality, endurance, and strength. Two of the remainder he spent on perception to improve his Survival Instinct, and the final three went to wisdom.
+
+Not bad for being a punching bag for a giant animated fireball.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

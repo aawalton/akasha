@@ -1,0 +1,255 @@
+---
+id: 5431eba0-e754-5d3f-8dac-86c7fc7765b1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 168: Protégé"
+slug: 0171-chapter-168-protege
+partOf: dungeon-of-knowledge-complete
+position: 171
+ownLength: 3854
+unit: words
+ownProgress: 3854
+publishedAt: 2024-12-10
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1949510/chapter-168-protege"
+royalRoadId: "1949510"
+markedReadAt: "2026-06-29T20:16:49.366Z"
+---
+
+There was a brawl going down in the middle of the guild shop, and the few adventurers that were loitering in the guild hall had all stopped to stare. It was not a knock-down drag-out brawl like it might have been if someone like Mato was involved, but it was most assuredly a fight. The two combatants circled one another in their stylish outfits, unleashing ripostes and parries with words and glares.
+
+Malika pulled up a stool and sat at the display table on the outskirts of the guild shop eavesdropping on the altercation. It wasn’t as if it was a secret anyway, everyone in the building could hear it.
+
+Weldin thrust an angry finger at his opponent’s face and shouted, “Giddy Clicksprocket! You take that back this instant! I am no Dwarf-loving, Gnome-hating brigand!” He was red in the face and clung to the bare remnants of his civility with an intensity that set his good eye to twitching.
+
+“I stand by what I said! Why would you sell them to the Dwarf and not your own kind? You’re a sellout!” His opponent was a slightly built female Gnome, but she was no slouch in this kind of fight, standing up to him with confidence and bristling passion. For a moment Malika thought she might even bite his finger. “Everyone with eyes can see that Beastkin’s armor has a twenty-five percent fire resistance enchantment. You can only make that with Essence of Flame! Where else would he have gotten that, if not from you?”
+
+“For the twentieth time, I did not sell him the essence. I did not even see it!” Weldin exclaimed, barely holding back from a yell of frustration and anger.
+
+Oh! She sat up straighter. Are they arguing about Mato’s armor? They had been up and around town both today and yesterday and Mato’s eye-catching burnished reddish Fireforged Steel plate had definitely turned some heads. Obviously, anyone with Identify or Appraise could look at it.
+
+“If you did not sell it, then I will have words with Hadrik Goldbeard. Heads will roll!” she declared, spinning on her heel as if to storm out of the shop.
+
+Weldin mopped his forehead theatrically. “Heads other than mine!”
+
+Malika quickly weighed up the consequences of getting involved or letting it play out. On one hand, it was not polite to butt into an argument, especially when there was a good chance she might get drawn into it. But on the other hand, they were already on rather shaky footing with Hadrik anyway, given Ali’s class, and they had to play it by the book.
+
+“It is legal to offer material components in lieu of payment for commissioned work. I have all the proper invoices,” Malika said, injecting her words into the boiling silence, earning a startled glare from the angry, red-faced Gnome jeweler.
+
+“It was you?” she snapped, firing the question with all the sharp force of a crossbow bolt. Malika had the sudden disconcerting urge to dodge somehow. “Are you not aware that resistance enchants are my specialty? I could have made a stylish hairpin or a beautiful pendant instead of some bulky, clanky metal suit. I’m the best jeweler in this town and I should have had the job. How many essences did you give that filthy Dwarf? Two? Three?” Her voice continued rising to higher and shriller registers as she planted her fists on her hips.
+
+“Twelve.” The idea of Mato charging into battle with a stylish hairpin in his fur instead of his plate armor almost made her laugh out loud. Almost.
+
+“What!” Giddy yelled, growing even more livid.
+
+“He’s a tank,” Malika explained, leaning on her skills to project patience. “We need plate armor with resistances. He still needs to be able to take a hit. And our summoner needs chain mail and plate armor sets for her minions. Are you able to make something like that?”
+
+“No.” Giddy Clicksprocket plopped herself down on a chair with a glower and a pout, crossing her arms across her chest and making certain that everyone in the room could appreciate her unhappiness. “Hmph! Nobody respects real skill anymore.”
+
+“Hi, Malika,” Weldin said, his expression still tightly controlled, but his voice coming down several notches in volume. “I’m sorry about that. What can I do for you today?”
+
+“Dwarf lover,” Giddy muttered, staring pointedly at the wall. The grumbled insult was made in a faux whisper designed to be heard by everyone, and Malika could even hear Weldin grinding his teeth together in an effort to not lose his calm.
+
+“What was that about?” Malika asked.
+
+“Ever since Giddy noticed that enchantment your friend is wearing, I’ve had every single crafter and artisan in town beating down my door to get in on the essence ‘action’,” Weldin complained.
+
+“But why?”
+
+“They’re incredibly rare, especially here off the beaten path and out of the major merchant guilds’ trade routes. Not to mention, many crafters around her level stagnate unless they can work higher level components and enchantments.”
+
+“So, they need the essences for experience?” It seemed understandable, just surprising that something like Mato’s armor would trigger a frenzy of jealousy among the crafters. It was particularly ironic, considering what she had for trade today.
+
+“Yes,” he answered with a big sigh. “It’s rather tiresome.”
+
+“If you’d just sold them to me, you wouldn’t be in this mess,” Giddy snapped.
+
+“Giddy Clicksprocket! Don’t make me get the Guildmaster!” Weldin snapped, rounding on her for a moment. He glowered at her until she relented and looked away.
+
+“Well, I’m about to make your life a lot more exciting, then,” Malika chuckled, and dumped most of their haul from the dungeon onto the steel surface of the nearest display table, keeping a few back just in case.
+
+Lesser Essence of Flame x20Fire-affinity crafting reagent.Mana: Combine 3 Lesser Essence of Flame into one Essence of FlameValue: 5 goldReagent – Mana Essence
+
+“Holy, ever-loving sprockets and cogs!” Giddy had her body pressed up against the table in less time than it took to blink, staring wide-eyed at the pile of ever-burning flame essences as if she had just witnessed a miracle.
+
+“Giddy…” Weldin said, and the excited Gnome suddenly realized she was rudely interrupting a deal and returned to her seat, but now with her eyes glued to the flaming essences with a palpable anxiety.
+
+“Same percentage as last time?” Malika asked. Essences were expensive and, like Magicite, it was unlikely that Weldin had enough coin on hand to pay her outright. This way, Weldin could sell them first and leave a cut of the profits in her account instead – and it had the benefit of not advertising their agreed-upon price to the world of curious Gnomish ears.
+
+“Deposited into your account, as usual?” he asked, nodding to her with a frazzled smile.
+
+“Yes, thank you.”
+
+“It’s my pleasure,” Weldin smiled, making the essences vanish with a wave of his hand.
+
+“Have you made any progress on my other request?” Malika asked. She was still looking for fire resistance options to augment what they already had, and if possible, any base resistance that did not come on a shield or armor.
+
+“As much as she annoys me, Giddy is probably your best shot. She works for the Novaspark Academy and it’s her mana signature on your guild ring. She isn’t just boasting, she’s the best jeweler you’re likely to find in a hundred miles.” Weldin delivered this in a voice pitched low enough that she was certain the Gnome couldn’t hear them – unless she had some unlikely perception skill.
+
+“Ok, thank you,” Malika said. It was curious that Weldin would stick up for her skills even though they’d been fighting so vociferously just moments ago. Sometimes people expressed their caring for one another with passion and emotions, but she would not have expected that from the elegant and proper storekeeper.
+
+She turned toward the jeweler, but Giddy had eyes only for Weldin, springing up as soon as Malika turned, indicating her business was done. She was on him like a leech.
+
+“How much? I’ll buy all of them.”
+
+“Six gold,” Weldin answered evenly.
+
+“For twenty? I’ll take them,” Giddy declared, her words bumping against each other in her urgency.
+
+“Each,” he countered.
+
+“What? Are you trying to rob me?” Her expression reddened with outrage.
+
+“Your Appraise skill is just as good as mine, don’t give me that act,” Weldin said shortly.
+
+“But then… I will only be able to afford one…” Giddy said mournfully, and Malika suddenly realized that this was her genuine concern. The jeweler must be struggling, and to see the answer right in front of her and fail to acquire it because she couldn’t afford it must be eating her up inside. She probably couldn’t afford the materials to make anything that would get her out of that hole either – a chicken-and-egg problem indeed.
+
+“One it is, then,” Weldin pronounced, producing a single essence and offering it to the Jeweler.
+
+“Thank you,” she said, her expression forlorn, but she handed over the gold quickly enough and turned away with her prize.
+
+“Ms. Clicksprocket?” Malika called out before she fled the guild hall.
+
+“What? You want to gloat?” Judging by her expression, she was ready to fight again, but Malika was beginning to realize this might be her default demeanor.
+
+Before it could escalate, Malika asked, “Can you make any jewelry with a flat resistance enchantment on it?” This was the biggest problem for her. A percentage increase in resistance was worthless if you had zero to begin with.
+
+“I can. And I can also do the twenty or the twenty-five percent resistance enchants for most common affinities,” Giddy puffed her chest up proudly. “Why?”
+
+“How much essence would that take?”
+
+“I can make about three good pieces out of one of these, maybe more if I’m lucky,” she answered, her face now burning with curiosity. “You want a cute hairpin for your Bear?”
+
+“Something for me, and for her,” Malika countered, pointing across the hall to where Ali and Seth were chatting beside the jobs board.
+
+“A mage and a monk, hmm… perhaps a silver hairpin with a ruby to hold the enchantment?” Giddy said, her expression instantly shifting to an intensely focused thoughtfulness. Probably, she had small waterfalls of gold tinkling inside her ears. “Definitely topaz to go with her coloring. Resistance and the extra fire percentage? It will probably be quite expensive; how much do you want to pay?”
+
+“How about this?” Malika offered, producing another Lesser Essence of Flame.
+
+“Ooh!” the Gnome said, her eyes going big and round, reflecting the dancing flame. Giddy must have been assuming she would make Malika’s order from the essence she had just purchased. Offering a second one in lieu of payment would allow her to craft at least six items, and the lure of all that experience must be strong – especially considering she could now sell the remaining pieces and make some obviously much-needed coin.
+
+“That… might work,” she murmured, still seeming stunned.
+
+“Giddy, you need lessons in being a merchant. Take the deal,” Weldin said.
+
+“But…”
+
+“Look, where do you think they are getting twenty essences from? Why would they need fire resistance?” Weldin said, taking a patient tone with her for the first time. “They will be wearing your pieces when they fight whatever high-level fire demons or elementals they have found. You will be gaining adventurer experience, too.”
+
+From the silent ‘oh’ she made with her mouth, it was clear that Giddy had not even considered that part. “Thank you,” she said, reaching out and accepting the second essence. “I will have your pieces done by morning and I will drop them off at the guild. Is that ok?”
+
+“That’s perfect,” Malika answered, smiling at her, happy to finally have some progress on protecting herself from the insane fires in the dungeon.
+
+“Oh, Giddy,” Weldin said, his words bringing her up short yet again. “Hawkhurst’s people have been lurking around the store every afternoon. You know what that means, right?”
+
+Hawkhurst? The name jolted Malika into sudden vigilance as she glanced around. The standard Hawkhurst playbook would be intimidation or cornering the market on the rare resource and, with the Guildmaster always present, the intimidation strategy was probably off the table. If his people were visiting, that meant they would certainly buy up all the rare essences, doling them out to the crafters at an unreasonable markup, or selling them in the capital instead. This was how they maintained their grip on the local crafters and artisans, forcing them to become more and more beholden to Hawkhurst Trading Company for any progress or growth.
+
+“Oh… Oh!” Giddy exclaimed, suddenly looking far more worried. “I’ll tell Belli and Fyr immediately. And Hilda and Forin. We’ll buy out your entire stock. Wait for us!” She spun around and left the guild hall at a dead run.
+
+Malika pursed her lips. Jax. The name stank worse than the town’s sewers before Ali got ahold of them. She should have a word with Vivian.
+
+“Aah… Miss Aliandra, do you have a few moments?”
+
+Ali stopped scanning the jobs board and glanced down from her perch atop her barrier to find Seth staring up at her. He had cut his hair and sported a bright red t-shirt and navy pants that looked new.
+
+Mage – Human – level 16 (Death)
+
+“Hi, Seth,” she greeted him with a smile. “Nice outfit.”
+
+“Oh…” he said, glancing down. “Lydia made it. She said I should do something more stylish, but I just couldn’t wear anything that fancy.” He shifted from foot to foot as if the very idea made him uneasy.
+
+“You’re leveling up fast.” The boy seemed to have a new level or two every time she looked at him.
+
+“Oh, yes. Well, I take jobs at night because my Life Drain rejuvenates me. I don’t need to sleep much anymore.” He grimaced momentarily and added, “Also, nobody sees my zombies or skeletons in the dark.”
+
+Wouldn’t they be more terrifying in the dark? she wondered, but she kept it to herself. Most people feared necromancers and the undead, and after the attack by Alexander Gray, almost everyone in the town had some personal story to reinforce that fear. She felt sorry for him, but at least Seth had some friends among the adventurers and seemed to be progressing well. His Life Drain appeared to offer a stupendous advantage.
+
+“What’s up?” she asked, lowering her barrier till she wasn’t looking down on him during their conversation.
+
+“I took a kill-quest for spiders at one of the outlying farms last night… and I found these,” he said, dumping a corpse onto the floor in front of him. It was a black spider about half the size of her entire body with dark green markings on its abdomen and legs. Markings that still glowed with the light of poison affinity mana.
+
+Tunnel Weaver – Spider – level 8 (Poison)
+
+“Seth! Carpet!” Mieriel yelled from across the room.
+
+“Sorry,” he said, storing the spider and moving off the carpet to a location of bare stone before producing it again.
+
+It was an interesting spider, but she wasn’t quite sure what he was after yet, so she floated down to the floor and stepped off to get a closer look. There were remnants of web around its feet and abdomen, but nothing else seemed out of the ordinary. Ali reached out and pulled something gray from a staved-in section of the chitinous abdomen and then grimaced at what she found. Holding it gingerly between two fingers, she offered the gray finger bones to Seth.
+
+“Oh… sorry,” he said, retrieving them. “I wondered where those went.”
+
+“Do you have any more spiders? Can I buy them from you?” Ali asked. She had just inscribed her first spider imprint, and this one looked like a nice low-level addition to fill out her Grimoire.
+
+“I took the quest because I heard you talking about spiders,” Seth admitted.
+
+“You took it because of me?” It had to have been when they were in the guild last, and he must have overheard something. But for him to take the job just to collect some spiders for her was entirely unexpected.
+
+“I did. I sold the Monstrous Silk they weave to Weldin. That’s how I could afford this new shirt,” Seth said. In a sudden rush, he added earnestly, “Weldin said the tailors are going to be quite excited about the silk and I thought maybe we could get some more caster gear. A lot of the newer adventurers are struggling to find enough money to buy potions and armor, so, I was hoping you’d learn these spiders and put some in the sewers for people to kill? We could farm for silk or spider venom.”
+
+He’s thinking about his lower-level guildmates? Necromancers, almost by necessity, would tend to be loners. Even Seth was already taking jobs on his own in the dead of night, simply because people wouldn’t understand. But he was bringing back resources to make his friends stronger – both through money, better gear, and something they could hunt for experience.
+
+“It’s not entirely altruistic,” Seth said, almost answering her thoughts directly. “My skeletons and zombies are immune to poison. The Tunnel Weavers are very easy to hunt and they make great zombies – they have Venomous Strike and Web Sense. I can’t usually bring my undead into town, so often I have to lose them – and then rebuilding my army when I leave on a job is a real chore. If I had access to an easy monster that I could hunt right here in the sewer, it would make my life a lot easier.”
+
+“Web Sense sounds interesting, what’s that?” Ali asked.
+
+“I thought you might be interested. It allows the spiders to extend their senses through the web they spin,” Seth said.
+
+“That does sound intriguing,” Ali said. “If you have enough spiders, I’ll add some to the sewer for you.” His proposal was remarkably well considered, and it would seem he would benefit while simultaneously giving everyone else something they needed. Basil had already learned proficiency with anti-venom and anti-toxin potions, so it would take some remarkably bad luck or stupidity for any prepared adventurer group to die to the spiders.
+
+“Here you go,” Seth said, dumping out four more Tunnel Weavers, much to Mieriel’s dismay, but Ali deconstructed all of them quickly, including the puddle of ichor that had collected on the polished stone floor.
+
+Imprint: Flame Skitterer updated to Imprint: Spider.Variant: Tunnel Weaver added to Imprint: Spider.
+
+“Thank you, Seth.”
+
+But it seemed Seth wasn’t quite done. “I have one other request, but this one is harder. I don’t know how to make it valuable for you.”
+
+“What is it?”
+
+“Vivian Ross gave us a lecture on the importance of mentorship and choosing the right person, matching traits and intents. Some of the bronze ranks have already found good mentors, and they’re growing much quicker now. Willow unlocked a very nice skill option because of hers, and Teagan is going to ask Theia. Druids and Shamans have a lot of overlap. It seems like a huge advantage.”
+
+“It is,” Ali agreed. Mato had Lira, Malika had Rezan, and Calen had Lyeneru – all three of them had unlocked unbelievable skills and advancements because of it. Mato’s Tree Form had already helped defeat Alexander Gray. Calen had a Mirage armor of illusions and multishot, and Malika could dodge fireballs. “You really do need to pick well.”
+
+“Yes, but… can you think of any sane person who would mentor me? I’m a necromancer. I’m sure only another necromancer would agree to it, but most of them are mad or evil like Alexander Gray, and thankfully he’s dead.”
+
+Who would mentor a dungeon? The thought had crossed her mind many times, ever since Mato had gotten his mentorship. She had even been jealous of him for a while, but while Lira would have been willing, she could no longer offer Ali her mentorship. She most certainly understood the difficulty facing the bronze-ranked necromancer shuffling his feet before her.
+
+“Aliandra, would you… mentor me?”
+
+“Me?” He was asking her to be his mentor? “But I’m arcane and nature.”
+
+“I know, I’m not going to find a good match for death magic. But your class must follow the intelligence, wisdom, and minion traits – we share those. What do you think? Am I crazy?” His eyes seemed filled with hope.
+
+That’s… actually not that crazy, she thought. She likely shared Perception and Defense with him also. Knowledge, Domain, and her affinities would not match, but it was hardly a problem to not overlap all traits. Ali nodded slowly. “Seth, I’d be willing. Let’s go talk with Vivian. I’m not even sure I know how to do it.”
+
+***
+
+“It should work,” Vivian said after Ali explained the situation. “Normally you would need to be much higher level, but having a high wisdom attribute allows more protégés and mentorship at lower levels.”
+
+“How is it done?” Ali asked. She had studied the theory, and even seen Thuli do it with Kavé, but she had no idea how it worked in practice.
+
+“It can be a bit tricky; you must release your mana without casting a spell, and then focus it into him. If it works, he will get the option to accept it. Probably it will be easier for you because you can see mana, right?”
+
+“Yes,” she answered. So just like mana manipulation exercises then. She had earned her first cantrip magic by emulating Lira doing precisely the same thing Vivian had just suggested. Only she had never tried to give it to someone.
+
+She concentrated, releasing a small flow of her mana, both affinities swirling together, entwining into a ribbon of gold and green that drifted out from somewhere near the center of her heart. The sight of it reminded her of the way her mana reached her minions and connected to the core in the center of their chests or whatever their middlemost point seemed to be.
+
+It was easy to control the ribbon of mana, much easier now that she could see it than when she had sat on Lira’s knee, practicing her first use of magic. She made the ribbon stretch out toward him and her notification chimed the instant it touched.
+
+You have offered your patronage to Seth Weston.
+
+“It worked!” Seth exclaimed excitedly. “I see it! Um… are you sure? Can I accept?”
+
+“Go ahead,” she told him.
+
+Your patronage has been accepted.Seth Weston added as a Protégé.Protégé – Seth WestonClass: Undead CommanderTraits: Death, Minion, Intelligence, Wisdom, Perception, Defense, Curse.Your experience, mana, and traits will influence the experience gain of your protégé. Experience tithed back to you via the mentorship tithe may influence your own traits and growth.Enchantment – Tithe
+
+“Thank – thank you, Aliandra.”
+
+She glanced at him as his voice cracked. “I’m honored by your trust, Seth.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

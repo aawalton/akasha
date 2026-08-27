@@ -1,0 +1,343 @@
+---
+id: 56aea503-a96a-5d75-9b13-c921e63f135d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 144: Traps and Triggers"
+slug: 0146-chapter-144-traps-and-triggers
+partOf: dungeon-of-knowledge-complete
+position: 146
+ownLength: 6629
+unit: words
+ownProgress: 6629
+publishedAt: 2024-10-17
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1854809/chapter-144-traps-and-triggers"
+royalRoadId: "1854809"
+markedReadAt: "2026-06-29T20:15:53.117Z"
+---
+
+It was day three of our delve and we still had no idea how devious the poison dungeon really was. We had fought our way through several densely populated caverns filled with scorpions, spiders, and venomous snakes and already Faelor, our tank, was complaining about how much he hated the dungeon. Near the evening, we found a tunnel leading to what looked like a decent place to camp. As we carefully made our way through the dark passage, two things happened simultaneously. Several giant spiders dropped on us from hidden cracks in the roof. And Seraphine fell into a concealed pit trap filled with snakes. It was only through luck and grit that we escaped with our lives. That day, we discovered that the dungeon had learned to delay activating its traps until the third or fourth person had walked over it, targeting the healer or the mage. Removing our healer in the middle of a surprise battle was such a devastating tactic that it earned the dungeon many nasty names in the language of my Dwarven colleague, which I will not reproduce here.– The Unexplored Lands, by Lyeneru Silverleaf, Elven Pathfinders Guild.
+
+Calen followed Lyeneru through the great wooden doors set directly into the side of a huge branch.
+
+“The Pathfinders Guild,” Lyeneru said, gesturing to the room.
+
+Calen held his breath and stared. The fabled Pathfinders Guild had been a feature in all his favorite stories growing up, he could scarcely believe he stood in its hallowed halls. The welcome hall was larger than he expected, a beautiful space of elegantly curved mahogany walls, warmth, and life – all seemingly grown from the heartwood of the tree itself. It smelled… of adventure, he thought dazedly. Adventure and ancient myths and languid evenings spent reminiscing with one’s lifelong friends.
+
+Dumbfounded, staring like an idiot, he followed Lyeneru as she led the way further in.
+
+“We’ll get you signed up first,” she said.
+
+Calen found himself entering a wide open-plan reception area, tastefully decorated with plush rugs, comfortable furniture, and a wealth of forest plants.
+
+People bustled back and forth, going about their business, with only a few stopping to glance at him before continuing on their way. The vast majority were Elves, and most of those were Wood Elves – many at a higher level than his skills could identify. Yet, somehow, the space did not feel crowded.
+
+Some lyrical words in the tongue of the Elves caught Calen’s attention. The receptionist, a green-haired male Elf, greeted Lyeneru with a respectful bow and Calen with a curious stare. With Lyeneru’s advice still fresh in his mind, he returned the gaze, but his discomfort mounted rapidly.
+
+Thankfully, Lyeneru broke the moment. “This is Calen Avery. I am registering him as an initiate-rank member under my mentorship.”
+
+“Of course,” the receptionist said, taking his cue from Lyeneru and answering in flawless Common. Turning around, he retrieved a thick package from a closet behind him and placed it on the table in front of Calen. “You’ll find your cloak and ring in there. Please channel some mana into this panel so that we can register your class and mana signature for the records.”
+
+Calen did as instructed, and after a few more formalities, he was officially registered. With rising anticipation, he tore open the package to reveal a thick cloak of stunning forest-oak-green. He carefully unfolded it, marveling at the texture, and the pathfinder guild logo proudly emblazoned on the back.
+
+“Put it on,” Lyeneru said.
+
+He did not need to be told twice. Somebody pinch me, he thought as he fastened the cloak around his shoulders and turned to show it off.
+
+“It looks good on him,” the receptionist said, nodding to Lyeneru.
+
+“He earned it,” Lyeneru said. “Go on, put the ring on too.”
+
+Calen picked up the delicate silver ring, fashioned to look like a wreath of leaves. “Um… I can’t…”
+
+“Oh, I’m sorry,” the receptionist said. “Here you go.”
+
+Immediately, Calen’s notification chime sounded as the elf shared the ring’s identification with him.
+
+Pathfinder Initiate Guild Ring – level 40An elegant silvery ring crafted in the shape of a wreath of leaves signifying membership with the Pathfinders Guild.Owner: Calen AveryQuests: --+30 Intelligence+24 VitalityMana: Teleport yourself and one other to Ciradyl. Recharge: 7 days.Created by Nathaniel Sunstrider.Ring
+
+“Thanks,” he managed, blushing with embarrassment that he needed help to identify his ring.
+
+“It’s no problem,” the Elf said. “It’s surprisingly common for rangers and scouts to have Advanced Identify skills that do not work on items. You would not be the first to ask.”
+
+“Aah. Thank you,” Calen said, somewhat mollified. He glanced at his other hand wearing the ring of the Adventurers Guild, but before he could ask, Lyeneru answered his question.
+
+“You should check with your Adventurers Guild, but most towns and guilds count it as a point of prestige to have a Pathfinder as a member. You do not need to give up your other guild, and in fact, it will likely prove to be as much of an asset for you as for them.”
+
+“Ok,” Calen said, studying the ring’s abilities. That must be what she used to bring us here, he thought, observing the seven-day recharge teleport skill enchanted onto the silver band. Useful. Then his eyes caught the pair of attribute enchantments for intelligence and vitality. Wow! An uncommon item! Those are decent boosts.
+
+Lyeneru led him away toward a towering board plastered with parchments and notices. She coughed, “I just assumed you’d be ok having me as a mentor when I signed you up. Are you ok keeping my mentorship enchantment?”
+
+“What?” Calen spluttered for a second as the implication of her words sank in. It’s not temporary? “Uh… yes? I… I mean yes, of course!”
+
+Lyeneru chuckled softly, “Well, then, I have a few rules. You skipped the novice rank, and so you are missing a lot of the training fundamentals. For the first couple of months, I will pay to teleport you back home every time you visit, provided you take one of the foundational classes. We take training seriously, and so should you – it will save your life. I ask that you take at least one class a month, preferably more. You can sign up on this board here.” She tapped the board with a finger.
+
+Calen stared at the enormous wall-spanning board covered with magically signed postings of training classes. There were hundreds of them, offered directly by the guild, or by externally contracted trainers, an overwhelming array spanning everything from knitting to advanced military strategy on the level of commanding battalions.
+
+“Uh… what should I take first?” The amount of choice left him more than a little at a loss for how to decide.
+
+“Advanced Archery for sure, your technique needs a few professional pointers. Pick up a melee weapon proficiency for backup when you can’t use a bow. Dagger Mastery works well with dexterity classes. Scouting, Stealth,” she pointed to several classes on the board, tapping each one with a finger to punctuate her suggestions. Then she studied him speculatively with her head tipped a little to the side. “I’d also recommend a gathering skill, so you can sell more things for mana potions, perhaps Skinning? It synergizes with Dagger Mastery.”
+
+He grimaced at how obvious his dependence on mana potions must be for her to point it out again. But he still hadn’t found a cheaper alternative that was even remotely effective. “Sounds like a pretty standard setup?”
+
+“Nothing wrong with that,” Lyeneru said. “You can forge your own path, but do you really want to be making mistakes with your skills and choices?”
+
+“I understand,” he answered, trying not to sound surly. No need to antagonize her…
+
+“Look, you already have a unique enough mana affinity, Calen. Light and Illusion mixed with archery is going to be enough of a challenge to navigate – there’s nothing wrong with picking a tried and tested approach for the rest of your fundamentals.”
+
+“That’s probably true,” Calen grimaced, recalling how difficult it had been to unlock Ambush and learn to use his shining damage enchantments from stealth.
+
+“I will also set you some missions occasionally, mostly fieldwork,” she continued. “Check your ring’s quest log regularly – I can use it to communicate these missions with you without paying for a Sending, or a Telepath.”
+
+“I should tell my friends I’m going to be busy,” he said, thinking of Ali, Mato, and Malika. He would miss their adventures together.
+
+“You’ve read my book, right?”
+
+Calen nodded.
+
+“What’s rule five of the Dungeon Survival Guide?”
+
+“Teamwork,” he answered automatically.
+
+“As a Pathfinder, I expect you to make use of your assets,” she said. “All your assets. Good friends, teammates, and allies are often your strongest assets. You will need them for what we’re doing.”
+
+“I can bring Ali, Mato, and Malika?”
+
+“Unless I explicitly ask you to do something solo for training, yes you may,” she said. “And you probably should.”
+
+It was only when the sense of relief surged through him that he realized how much he was worried about missing his friends.
+
+“Can I ask you some questions about leveling up?”
+
+Lyeneru nodded.
+
+“Your class is similar to mine, right? I mean prioritizing dexterity, intelligence, and perception mainly?”
+
+“Yes.”
+
+“I keep running out of mana and stamina,” he said, finally admitting it out loud. “Do you have some tips? Should I find some regeneration equipment or just keep buying mana potions?” She had joked about his potion addiction twice now, and it was something he was rather embarrassed about. However, he had not been able to find any information on how to solve the problem. He was honestly jealous of Malika’s seemingly inexhaustible supply of stamina, Mato’s regeneration skills, and Ali’s deep mana pool.
+
+“This style is based on two damage attributes – none of our primary attributes improves resources. Most people with this kind of class specialize in maximizing their peak damage because they cannot sustain it. This is why your Ambush advancement is so powerful,” she explained. “It makes this kind of class functional above level fifty. With your illusion skills, you could work toward true invisibility, invest heavily in critical damage, and become an incredible assassin.”
+
+“Assassin?” he said, wincing.
+
+“Assassins are good in dungeons, Calen,” Lyeneru said. “This kind of build specializes in hunting monsters they can kill instantly or focuses on kiting. Stealth, Ambush, and very high burst damage – it’s the same profile as an assassin, or a rogue, but at range. An invisible sniper.”
+
+“I see,” Calen said. It was not the direction he had envisioned for himself, and the idea of aiming for an Assassin specialization somewhere down the line didn’t sit well with him. She must have seen him frown though, because she continued.
+
+“Imagine having a member of your party who can sneak up on a monster pack and assassinate the healer from a distance. How valuable is that?”
+
+“Aah, I see,” he said, suddenly understanding what her focus was. It was something of a niche role, but he could see how effective it would be under the right circumstances. Was it right for him, though?
+
+Before he could dwell upon it, she added, “Regeneration won’t help you much because it is a percentage based on your total mana or stamina. The simplest approach would be to invest in skills that use all your mana for the maximum power and then combine it with your stealth and ambush. Put just enough of your attribute points into wisdom and endurance that you can cast your biggest attack.”
+
+“But that’s not what you’re doing,” Calen noted. “You seem to have high damage output, and you can sustain it indefinitely.” One of the most valuable experiences he earned from his trip was the opportunity to study her in action. She seemed just as relentless as Malika but with a vast well of personal power to back it up.
+
+“Good, you’re observant,” Lyeneru said. “But my approach is either ridiculously expensive or you will need to get incredibly lucky. It’s not worth pursuing.”
+
+“Assuming I have a dungeon as a friend,” he said, “and she has a lake full of mana-purified water to sell, and a spellbook that can make Ancient Dal’mohran gold coins, how would I do it?”
+
+Lyeneru shot him a complex look. But she raised an arm, “Here, look at this.” At the same time, Calen’s notification chime sounded as she shared the item with him.
+
+Vampiric Bracer of the Bat – level 64A sleek, masterfully crafted leather bracer designed for archery.+45 DexterityGain +3.5% of your attack damage as mana over 30 secondsGain +2% of your attack damage as health over 30 secondsRequirements: Intelligence 128, Dexterity 128Created by Zor’kan.Hands – Bracer – Leather / Bone
+
+“You’re wearing a level sixty-four bracer?” Calen asked incredulously. She must be at a far higher level than that. At least nearly two hundred to face that Death Knight. The bracer seemed heavy, made from delicately tooled red leather and inlaid with heavy studs made of bone that created a set of abstract-looking patterns. The bone studs were absent on the inside of the forearm, leaving a smooth leather surface that would not interfere with a bowstring.
+
+“Yes,” Lyeneru said, “I saved an Aman Rak troll leatherworker from a slaver ring once. Trolls seldom acknowledge debt towards members of other races, but the slavers who had captured him were quite powerful and had an artifact to force his compliance. He was motivated to make me this as a token of his gratitude, or perhaps to preserve his honor. It’s hard to know with trolls sometimes.”
+
+Calen glanced at the mana signature inscribed on the bracer. Zor’kan.
+
+“For my skills and class, nothing comes close to the effectiveness of this bracer. With those two leech enchantments, all my most frequently used attacks generate more mana and stamina than they cost. Instead of stacking regeneration, I simply maximize my damage, increasing my resource return because of that bracer, and I abuse skills with reservation or percent of maximum mana costs because they are relatively cheap when you have low mana or stamina pools. Like that Heaven’s Strike skill that you were offered at level forty.”
+
+“Where do I get one?”
+
+“I know of only one Gnomish enchanter who can make a weaker version of this. But he will charge an enormous fee for it, and you’re not at a high enough level to use it. Once you advance, I will give you his details and you can decide.”
+
+Will Ali be ok with making money for this? Calen wondered. It was literally the scenario that Ali had said bothered her. On the other hand, it was the perfect answer to the problem he had with sustained damage.
+
+Perhaps I can make enough money by then, he thought. At least he had some idea of how it might be done.
+
+“Come, Calen. Let me introduce you to our Guildmaster, Nathaniel Sunstrider. He also serves on the Elven Council of Archmages,” Lyeneru said and led him from the guild hall and deeper into the tree. “It was him who sponsored my guild membership many years ago now.”
+
+Nathaniel Sunstrider! The legendary Archmage? With a fluttering heart, Calen scrambled after Lyeneru. “Wait, wait… I can’t meet Nathaniel Sunstrider with only one boot on!”
+
+***
+
+Name: Calen AveryRace: Half-ElfActive Buffs: Blessing of the Dawn, Mirage ArmorClass: Archer of Light – level 43- Radiant Archery – level 26- Arrows of Brilliance – level 30- Motes of Light – level 14- Explorer – level 26- Blessing of the Dawn – level 21- Eclipse – level 22- Eyes of the Archon – level 23- Righteous Fury – level 15- Azrael's Wings – level 14- Mirage Armor – level 6General Skills- Bowcraft – level 7- Wood Carving – level 3- Cartography – level 10Aptitudes- Languages: Common- Mana (Affinity): Light- Perceptive (Racial): +11 to Perception- Quick (Racial): +5 to Dexterity- Timing (Class): You have an innate sense of timingPatrons & Tithes- Deity: The Wanderer- Mentor: Lyeneru SilverleafAttributes- Vitality: 70 (+24)- Strength: 13- Endurance: 31- Dexterity: 256 (+107)- Perception: 199 (+83)- Intelligence: 242 (+131)- Wisdom: 50Equipment- Weapon: Hunter's Bow – level 30- Body: Leather Armor – level 20- Hands: Bracers of Accuracy – level 10- Ring: Silver Guild Ring – level 30- Ring: Pathfinder Initiate Guild Ring – level 40Evasion: 729Dodge: 37.71%+5% to Accuracy rating.Health: 700/700Stamina: 310/310Mana: 350/500 (150 Reserved)
+
+Ali was still shaking when she entered the library, but the cool and quiet atmosphere immediately calmed her down. This was her comfort zone, her happy space, but she had to remind herself she had been attacked even in here, and to not let her guard down.
+
+“Aunt Lira?” she called out, her voice echoing slightly in the softly lit wide open space, but her aunt did not immediately appear. She must be busy.
+
+Ali’s unexpected adventures in the Forest Cavern had shaken her more than she liked to admit, and it would have been nice to have someone to talk it over with over tea, but it wasn’t urgent. More than anything, her experience had confirmed that her new strategy was far more effective than she had imagined.
+
+That was rule two, she thought. Using her monsters to flush out the invisible assassin had been the only way she could have imagined surviving that encounter. She didn’t want to guess what might have happened if his invisibility persisted after shooting his fireball – she had come to rely so much on Arcane Insight to see mana, but he had found a way to cloak even that.
+
+Rule three also. After Lyeneru had pointed out that her slime could detect conventional stealth, she had deduced that acquiring monsters with a diversity of perception skills would benefit her greatly. Her reasoning had just been confirmed, in the most spectacular and immediate fashion.
+
+She dispelled her barrier, letting her Kobolds and slime down, and walked over to the couch. It had taken more than an hour for her monsters to collect all the zombie corpses for her to deconstruct, but it was time well spent – she wasn’t about to leave them lying about, stinking the place up as they rotted.
+
+Oh, she thought, eyeing the couch. Ryn got it fixed! She glanced about, and sure enough, on her favorite walnut table, she spied a fresh pile of books with what appeared to be a note on top. Her lethargy vanished in a flash as she skipped up to the table and sat, excited to see what Ryn had managed to dig up.
+
+Ali,
+
+The money-grubbers at the Vertias Library demanded an additional deposit of forty gold to borrow magical books. I couldn’t find you to ask, so I took the money from your account. I hope you don’t mind. It does mean that your account is low again.
+
+I found the book on arcane triggers you requested in their collection – it’s the plain-looking one bound in black. I also had the couch repaired, I’m not sure what happened, but it looked like something burned it. I’ll be back after I search the Myrin’s Keep library for your other requests.
+
+– Ryn.
+
+Ali smiled at the note, happy to see Ryn making such an important decision for herself. The gold was not a problem for her, and the access to knowledge seemed well worth it. But after growing up in Dal’mohra, Ali couldn’t imagine how much poorer people were for not having free access to the knowledge of books.
+
+Forty gold. It must be a fortune for most of the common townsfolk. Likely the libraries supported themselves on the patronage of the wealthy, nobles, rich merchants, and the like. However, no normal person was going to pay forty gold when they were struggling to find food, pay rent, make interest payments, or pay for protection scams.
+
+Maybe one day… she thought, glancing at the small collection of books on her shelf, grimacing at the amount of work it would take to turn this into even a tiny library, let alone restore it to some semblance of its former glory.
+
+She put the note to the side, and then quickly copied the books Ryn had brought, making a neat pile on the table for her to shelve later. Ali wasn’t quite sure how Ryn’s organization system worked, so she would leave it up to her to decide where they went.
+
+Then she reached for the small, nondescript book and picked it out of the pile, laying it on the table in front of her. She examined it carefully. She didn’t know exactly how other dungeons created their traps – the details were unclear in Lyeneru’s accounts – but she had high hopes that within the pages of this book, she might find a clue. Or at least, a way to fake it well enough with her Runic Script skill.
+
+She would never have considered runic circles for traps given how bright they appeared, but it turned out that none of her friends could see them easily. She always had to point out where she made them so that they could find them. It was only when she realized that they required mana sight to see that everything made sense: she had observed the novices tripping up her Grasping Roots in the sewer, and the circles worked exceptionally well on zombies. It just went to show how familiar she had become with her Arcane Insight that she hadn’t realized she wasn’t using her mundane vision when creating them at all.
+
+The unassuming volume resting on the table had none of the typically ostentatious mana-embossed runes evident on the cover. It was a no-frills textbook, probably made for some obscure class at the university or marketed to specific scholarly mages or crafters. With a rising sense of anticipation prickling across her skin, she reached out and opened it.
+
+Trigger magic is the simple approach of using one magic to cast another. Widely regarded as a niche field, this nonetheless should not be ignored by the aspiring archmage for its sheer versatility. By far the largest collection of useful triggers can be found in the Arcane affinity. In its simplest form, a Timer spell may be linked to an Arcane Blast, resulting in the Arcane Blast being cast with a delay pre-determined by the caster. There are many different types of links and triggers, useful for just about any occasion, and they can even be chained for more complex effects.
+
+– Excerpt from Arcane Trigger Magic by Archmage Ridelus Brightspark.
+
+She paged through the book finding it organized in a straightforward manner, showing a single trigger spell per chapter, and offering tips and hints on how to attach various other spells to them, variations, and suggested uses. She still had it memorized from when she had duplicated it, but something about physically turning the pages helped her to focus.
+
+Perfect.
+
+She sat at the table with the book opened at the table of contents and retrieved a blank notebook. It would take a bit of work for her to extract what she needed – the book was clearly an academic work, focusing on the most basic example spells, likely chosen for their utility to illustrate the theory, rather than actual usefulness.
+
+Still, there seemed to be many applications to crafting, such as a combination that would activate a heat enchantment when placed into water and deactivate when it reached a specific temperature. Useful for heating a bath. Really? The sacrifices a girl must make… She paged further, pausing at a chapter devoted to the creation of the ubiquitous doorway chimes she had found all over town. There was even an example of how to create an alarm when anyone other than the owner opened a spellbook.
+
+Typical Archmage paranoia, she thought, grinning. Most archmages she had met had been rather possessive of their secrets, choosing only to share when they got academic recognition for publishing their work.
+
+She placed Lyeneru’s book on the table beside the arcane trigger manual and opened it to the chapter on the poison dungeon, reviewing the account of the trap that had almost wiped their party.
+
+What makes a good trap? She considered the problem for a while. This dungeon had been considered devious because the trap had been unexpected and surprising – it had triggered only as the third person walked over it, and it had happened when they were distracted by other monsters. The effect of the trap was much more dramatic for having targeted the healer specifically. Deadly, not dramatic, she corrected, considering the account soberly. It had nearly killed someone.
+
+This is who I need to become. She shuddered softly at the idea, but the point of making dungeon traps was to be deadly – she had to keep reminding herself of this fact. She wouldn’t make anything too devious in the sewer to avoid killing the novices, but she would make good use of them to test her spells. Her real traps would need to protect her against zombies and people like Roderik or that fire assassin, and for that, they would need teeth. Just like Lyeneru said. Layers. I need layers of defenses.
+
+She sat up a little straighter and turned the page.
+
+I need a versatile way to determine the trigger conditions, an element of surprise, and a good effect. She paged through the triggers, appreciating the author’s effort to present them in a clearly organized manner.
+
+Hmm, this one looks good. Detect. She marked the spell down in her notebook. Detect was a perfect answer for how to initiate her traps. It was a proximity detection trigger that cast Identify on anything coming into range and could trigger based on a simple, but versatile set of predefined conditions. The textbook showed an example of having it detect humanoids, but Ali could see how she could easily tweak it to detect any specific category of creature. She could even have it detect class types or level ranges – almost anything Identify could reveal.
+
+Here's another good one. Timer. While not useful for duplicating the poison dungeon’s trap, Archmage Ridelus expounded greatly on the versatility of this simple Timer trigger, and Ali decided it would be a great way to add unpredictability to her traps. The textbook example was a delayed Fireball. It was also one of the simplest spells she had seen in the book and would be a great way to practice. All it did was trigger after a preset elapsed time, anywhere from zero to many centuries, although why anyone would need a timer that triggered after so long, she couldn’t imagine.
+
+Counter looks interesting too. She chose the Counter trigger simply because Lyeneru’s story had so inspired her. Counter, it seemed, would trigger after a specific number of things. Ali wanted to try to make a humanoid Detect and link it to a Counter for the number three and see if she could duplicate the strategy of the poison dungeon Lyeneru had described in such detail.
+
+But I probably won’t link it to a pit trap, she thought. Although the book did contain inverse triggers – spells that would disable things when they triggered, instead of turning them on. She could conceivably set such a trigger to turn off her barrier spiral staircase, causing people on it to fall, but she decided to leave the exploration of those till later. Instead, she took a quick look at the runic spell options she already knew, writing two lists in her notebook.
+
+Runic Nature Spells1 – Restoration2 – Grasping Roots3 – Cure Poison4 – Cure DiseaseRunic Arcane Spells1 – Cleanse 2 – Inspiration3 – Teleportation Locus4 – Static Teleport
+
+Not a lot of offensive options, she realized, inspecting her lists – curing an invader of poisons and diseases wouldn’t make for a trap with any impact. She decided she could worry about that later, for now, she could use any spell just to learn how the triggers worked.
+
+She channeled her mana, dropping into the study trance of her Sage of Learning, and began to work her way through the three spells she had selected.
+
+Sage of Learning has reached level 20.
+
+It had been too long since she had truly had the time to sit down and study magic, and she found her mind racing with new possibilities and connections, imagining all the ways she could use her new spells.
+
+She flipped the pages to the section where Archmage Ridelus described how the trigger links worked, and she began to design her first linked compound spell. She didn’t need it to serve a purpose, but she did want to explore the ways in which magic was linked, so she picked Inspiration as her payload – the anchor or locus for her new creation. Then she sketched in a Detect trigger and a Counter trigger, referencing the manual regularly to understand how the runes needed to be adjusted to facilitate the connections.
+
+There seemed to be several tricky principles, but fortunately, the Archmage seemed to be gifted at clear, if decidedly dry explanations, and Ali grasped the ideas quickly.
+
+So, it should work like this…
+
+She inscribed the runes on the floor of the library with her Runic Script skill. It took several tries before she perfected the more subtle links, but suddenly it snapped together with a ringing chime, and she smiled as her first creation of linked trigger magic glowed in a bright golden circle of runes on the ground.
+
+Inspiration – Linked Magic – level 15 (Arcane)Creates an Inspiration aura within the circle.Detect: FaeCounter: 0/3Runic CircleRunic Script has reached level 23.
+
+She studied the circle carefully, all the details laid bare for her to see, but she could find no flaw in the runic connections. At least most people can’t see this, she thought, reminding herself that someone would need a specialized perception skill to see what she saw. At least Runic Script, or some form of mana sight or a trap detection skill probably. Otherwise, it would make for a very poor trap if everyone could tell what it did from a distance.
+
+Just to double-check, she swapped to the eyesight of her nearest Kobold, relieved to find the entire runic circle was simply not visible at all.
+
+No wonder Lyeneru’s guide insists that mana sight is an essential skill. She already considered her Arcane Insight skill to be one of the best perception skills, but if other dungeons used similar approaches for their traps, being able to see them would be an incredible, life-saving advantage.
+
+The Fire Assassin had some way to conceal his mana from me. It was a crucial observation, in her opinion. If she truly wanted the best traps, she would need to do some research into how that had been achieved. He was an illusion mage, she thought, which wouldn’t do her much good, but it didn’t mean there weren’t arcane solutions to the same problem – but she probably wouldn’t need to add mana cloaking to her traps for a while. She simply made a note to ask Ryn to look into it.
+
+Ali stepped over her new runic circle. The mana within the construct twisted, with several runes flipping into different shapes, but other than that, nothing happened.
+
+Inspiration – Linked Magic – level 15 (Arcane)Creates an Inspiration aura within the circle.Detect: FaeCounter: 1/3Runic Circle
+
+Her circle was entirely unchanged, with the crucial exception that the counter had incremented. She stepped outside the circle.
+
+“Go stand there,” she instructed, and her Acolyte shuffled into the circle.
+
+“Here, Mistress?”
+
+“Yes,” Ali answered absently, studying the shifts in the runic structure of the Detect trigger. Nothing changed, and the counter remained fixed at one. She made the slime step – err, blob? wobble? – into the circle too, being thorough with her testing. It, too, caused no change.
+
+She stepped into the circle again, noting the counter increasing to two, and then one more time where it briefly reached three before resetting back to zero. Immediately, the circle filled with the blue glow of Inspiration, and she felt her mana regeneration quickening.
+
+It works! Even though her trigger-linked Inspiration circle was strictly less useful than an ordinary Inspiration circle, she was elated with her success. Her possibilities had exploded, and her mind was filled with more and more ideas.
+
+I could just set the Detect spell to trigger on Healer, she thought. But then she recalled that Mato identified as a Druid, and Malika as a Monk – and both of them had healing magic. She had far too little experience with the typical adventurer or delving group composition to make a good decision here, but perhaps it was something she could ask Ryn to research, or she could ask Vivian Ross next time she stopped by the guild. At least with the Counter or the Timer, her trap would trigger on any group composition.
+
+“Hi, Ali, I’m back.”
+
+Ryn popped into the library atrium with a shower of her distinctive golden mana tinged with violet sparks and flew down to where Ali stood beside her creation.
+
+How is her arcane mana so similar to mine? Ali wondered briefly as she studied the golden cascade of free-floating mana drifting away in the wake of her Teleportation spell.
+
+Ryn landed beside her, her eyes flickering across the table and the open books and notes that lay there. “What are you working on? Was the trigger magic book helpful?”
+
+“It’s perfect, thanks Ryn! Come and see this!” Ali spent the next ten minutes excitedly explaining what she had done, showing Ryn her notes and demonstrating the circle and its properties, enjoying the pleasure of Ryn’s enthusiastic interest and engaged questions.
+
+“Can you detect class levels?” Ryn asked when Ali paused in her excited explanation.
+
+“Yes, anything Identify can see,” she answered.
+
+“Can you make an alarm for high-level people?” Ryn asked. “Does it work through stealth?”
+
+“I didn’t think of that,” Ali said, quickly returning to the table and making some notes for her future testing. Perhaps the level of the detect spell limited how high level it could identify. She wasn’t quite sure.
+
+“Are you going to go make some now?” Ryn asked.
+
+“I still need to find a good offensive spell and learn it before I can make a good trap,” Ali said, scrunching her brow. “Grasping Roots is all good and well for the sewer, but I need something with more bite.”
+
+“What about your barrier magic?” Ryn suggested, picking the obvious choice, but then she added her own personal spin on the idea. “You could block off passages or imprison people for a while.” She suggested, entirely skipping Ali’s thoughts of making traps by removing barriers out from under peoples’ feet.
+
+“Like the Bone Prison?” Ali wondered aloud.
+
+“What’s that?”
+
+“Oh, a spell the Wights used,” Ali answered, her mind still mostly absorbed with the new idea. “A cage of bone that sprang up out of the ground to prevent you from moving.”
+
+“Something like that,” Ryn nodded.
+
+“The problem is, I still need to take care of the monster,” Ali observed. Her barrier was good for trapping things, but she doubted her new triggers were up for the task of duplicating her barrier trick that had killed the invisible flying mage with his own fireball.
+
+They continued brainstorming back and forth for ages, and Ali found herself having just as much fun with the discussion as she had had learning the trigger technique in the first place. By the time they were done, Ali had several pages of her notebook covered with ideas to explore.
+
+“Oh, I almost forgot, I found some fun books at the Myrin’s Keep library.” Ryn deposited a pile of books on the table. “There’s a nature magic book in there, perhaps you can find some good trap spells?”
+
+“Oh, cool!” Ali exclaimed, her eyes lighting up at the sight of the new books. She copied them quickly while Ryn busied herself organizing the shelves. She seemed to be constantly refining the book ordering and placements, but Ali left her to it.
+
+When she opened the nature-magic book Ryn had brought, she immediately found the perfect trap spell. Sitting down with her Sage of Learning active, she quickly learned the Poison Cloud spell. It wasn’t a particularly high-level spell, and it wouldn’t work on zombies, but she decided it would be perfect for testing out her designs in the sewers.
+
+Poison Cloud mixed with Grasping Roots could make a pretty good challenge. She sighed through her teeth. For newbies, yes.
+
+***
+
+Ali examined her work with a happy smile. Several new runic circles decorated the crumbling brickwork of the final room before the entrance down into the Forest Cavern. With her current Poison Cloud being a level eight spell, she had kept her new traps to the latter areas of the sewer where she had placed the higher-level monsters. She wanted a challenge for the novices, but she recalled Havok’s enthusiasm and Aiden’s bright-eyed optimism the day they’d earned their classes and knew she couldn’t be too mean to people who had just unlocked their class for the first time.
+
+Of course, now that they all had a few levels under their belts, it shouldn’t be as much of a problem. She studied her creation.
+
+Poison Cloud – Linked Magic – level 8 (Nature / Arcane)Creates a Poison Cloud within the circle.Detect: Humanoid (exclude Minions)Counter: 0/3Runic CircleRunic Script has reached level 24.
+
+This will work. Ali was particularly proud of her discovery of an obscure option for her Detect trigger, tucked away in a corner of her book. She had learned that if she excluded any minions, her own creatures would not trigger the traps. The option seemed designed to ignore pets, familiars, and Beast Tamer companions, but it was ideal for her. Now she wouldn’t need to teach her Kobold warriors to avoid stepping in her poison traps. Setting up the conditions reminded her how much she had liked her logic teacher back in school.
+
+I have my first real traps! She grinned to herself, it wasn’t so long ago that she was terrified of finding out she was a dungeon, and now she was making proper dungeon traps. Take that, Lyeneru Silverleaf!
+
+***
+
+Name: Aliandra AmarielRace: FaeTitles: AncientActive Buffs: Empowered SummonerClass: Grove Warden – level 50- Arcane Insight – level 26- Arcane Recall – level 6- Barrier – level 37- Grimoire of Summoning – level 29- Runic Script – level 24- Sage of Learning – level 20- Martial Insight – level 29- Empowered Summoner – level 24- Domain Mastery – level 19- Minion Teleport – level 10General Skills- Reading – level 11- Identify – level 13- Sculpting – level 5- Inspiration – level 8Aptitudes- Languages: Ancient Dal'mohran, Elvish, Dwarven, Common, Draconic, Goblin, Ahn Khen- Mana (Affinities): Nature, Arcane- Tiny (Racial): The effects of Strength and Vitality are reduced by 50%- Magical (Racial): The effects of Wisdom and Intelligence are increased by 50%- Domain (Class): Your maximum mana increases with the size of your domain, up to +100%- Domain: -10% maximum health per day domain withdrawal. You have Domain SenseAttributes- Vitality: 59- Strength: 6- Endurance: 17- Dexterity: 36- Perception: 95- Intelligence: 230 (+52)- Wisdom: 266 (+87)Equipment- Body: Tailored Cotton Clothing – level 45- Hands: Wooden Bracelet – level 11- Ring: Silver Guild Ring – level 30Resistance: 648Magical Damage Reduction: 31.64%+21% to mana regeneration.Health: 295/295Stamina: 170/170Mana: 1622/7980 (6358 Reserved)Grimoire Imprints1- Stone2- Wood3- Armor (Body)4- Arrow5- Axe6- Bone Bracelet (Hands)7- Book8- Bow9- Coin10- Dagger11- Shield12- Sword13- Creeper14- Grass15- Moss16- Mushroom17-19- Tree20- Wildflower21- Bat22- Dragon23- Elemental24- Goblinoid25,26- Kobold27- Ooze28- Wolf29-
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

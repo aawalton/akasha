@@ -1,0 +1,111 @@
+---
+id: 4ed08b0d-d276-5df2-a035-3f3fd85a00e7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 257: Ominous Missives"
+slug: 0289-chapter-257-ominous-missives
+partOf: dungeon-of-knowledge-complete
+position: 289
+ownLength: 2254
+unit: words
+ownProgress: 2254
+publishedAt: 2025-05-24
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2302539/chapter-257-ominous-missives"
+royalRoadId: "2302539"
+markedReadAt: "2026-06-29T20:21:03.158Z"
+---
+
+“Thanks, Ali,” Malika said, sorting through the items she had collected.
+
+“This might be interesting,” Ali said, holding a heavy gold band on her outstretched palm. “Joraa’s tusk ring.”
+
+“Well, let’s see what we have here,” Malika said, slipping her awareness into the now-unbound storage ring. There was the usual assortment of potions, backup gear, and supplies, but her attention was immediately drawn to several letters stashed away in a corner. She pulled them out and glanced through each. “Hey, Calen, didn’t Lyeneru want information about what’s happened here?”
+
+“Yes, she did,” he said, walking over to join her. “Did you find something?”
+
+“Missives from Telim Gor and Mere Kada,” she said, offering them to him to read. They were addressed directly to Joraa, discussing some unnamed deal or bargain – she didn’t know how to translate the word yet, but Calen was better at Trollish than she was, and if that failed, they had Zor’kan and Ali.
+
+“Wait, what is this?” Calen said, glancing through the papers quickly. “If Joraa instigated the bargain with the Blind Lich…”
+
+“I think this means that Aman Rak was not an isolated attack,” Malika said, finishing his thought.
+
+“They could be in danger!” Ali gasped.
+
+“Yes. We need to finish up quickly. Lyeneru needs to see this so they can warn the other Troll kingdoms. Maybe Ciradyl can offer aid,” Calen said.
+
+“Not like we can do much until we go and see what’s waiting up there,” Malika answered, nodding toward the gate and the Temple of Blood lying beyond.
+
+“Right. And I promised Zor’kan we’d see this through,” Calen said. “Ali, how much time do you need to resummon your minions?”
+
+“About twenty minutes,” she said. “I’ll get started at once.”
+
+Malika sat beside Mato and began checking her notifications, assigning her attribute points so she would be in peak fighting condition as soon as possible. By the glazed look in his eyes, she could tell Mato was busy with the same task.
+
+She had to admit, the shock of hearing Ali swearing at her had hurt for a bit. Even more than getting backhanded across the clearing. That, she had not seen coming. Well, it still smarted a little, but Ali’s apology was sincere, and she had been mortified by losing herself to the rage flowing from her enormous berserkers. Though it was curious to see how well her Touch of Clarity had worked to protect Ali from even the effects of berserker rage – it had taken till the giants were well past normal levels of rage before Ali had fully lost control.
+
+Not quite lost, she thought, recalling her surprise at seeing the berserker execute a fundamental element of Ahn Khen martial arts footwork for the final strike – and the beautiful punch Ali had thrown. She smiled, remembering how much fun she had teaching that move to Ali. Almost as good as hearing her cussing like the crustiest thug.
+
+Soul Monk has reached level 88 (+6).+60 attribute points.
+
+Hmm, six levels. Am I falling behind again? Ali had mentioned gaining seven, but Malika couldn’t directly check. That would put her friend squarely at level ninety-two. I just have to work harder next time.
+
+Martial Artist has reached level 43 (+3).Soul Strike has reached level 47 (+2).Healing Mantra has reached level 54 (+3).Perfect Body has reached level 32.Soul Armor has reached level 41 (+3).Enlightened Evasion has reached level 41 (+2).Divine Step has reached level 46 (+3).Second Wind has reached level 29 (+3).Clarity has reached level 30 (+3).Soul Sight has reached level 26.Appraise has reached level 24.
+
+Oh, that’s not a bad haul! She might not have earned the same number of class levels as Ali, but her skill growth was nothing short of phenomenal. Especially her main combat skills. More than that – it had been a crazy battle, dodging the explosive oozes, dodging blood siphons, healing Ali with Clarity, and chasing down a highly mobile boss and her notifications were proof that she had pushed herself past her ordinary limits.
+
+Ok, points. Malika took a deep breath and dug in. She had much to balance for the diverse requirements of her class and despite having a whopping sixty to spend, she knew it would never be enough. Juggling her needs a lot and agonizing over it for far too long, she decided to skip intelligence entirely. Next time, she promised. She spent thirteen points on wisdom, perception, and endurance, and sighed at the sense of her mana and stamina pools expanding into new reaches. Ok, dexterity… She wavered back and forth for a bit, but ultimately decided on fourteen points, leaving five for vitality and the final two to keep her strength growing.
+
+There, that should do it. As always, she felt stronger but was left with the discomfort of having had to make hard tradeoffs. She glanced up, about to ask Mato about his levels when her chime pinged again. What’s this? Please let it be good…
+
+Requirements met for skill advancement. Mentor: Rezan JinSoul Armor has surpassed level 40.Wisdom and Endurance have both surpassed 500.Studied the defensive arts from the Nine Paths of Ahn Khen.Survived at least five different raid-level damage auras.Survived at least eight different damage-over-time ailments. Willingly endured hours of damage for the sole purpose of training.Consistently tanking or healing under adverse conditions. Soul Armor gains Resilience of Mind and Body.(Physical and Magical damage reduction based on endurance and wisdom.)Soul Armor – level 41Requires: No body armor or shield equipped.Mana: Your soul reinforces your body, increasing your natural defenses. Reserve: 10%Armor +1359 [skill x 7 + endurance x 2]. Resistance +1665 [skill x 7 + wisdom x 2].Physical damage is reduced by 53. [endurance / 10]Magical damage is reduced by 68. [wisdom / 10].Soul, Melee, Defense, Endurance, WisdomSupport the creativity of authors by visiting Royal Road for this novel and more.Accept this advancement?
+
+Oh, now this is amazing! Malika accepted the advancement immediately, not needing any discussion or much thought. Flat damage reduction was a powerful mitigation ability – perhaps not one suited for the kinds of strikes the berserkers put out, but for constant damage like bleeds or diseases, or sitting in lava, it would be worth its weight in gold. To top it off, they scaled with endurance and wisdom, attributes she could never have enough of.
+
+Bring on that bleed aura, she thought, grinning at the prospect of facing something like Joraa again in the future.
+
+Odd fight, Mato decided, finding a clear spot to sit down for a moment where he wouldn’t crush any of the occasional blue flowers dotted through the grass; they were pretty, but he disliked their undead alter-egos. The oozes had been annoying, blowing up in his face regularly, but other than that, the boss hadn’t been anything special – at least, once he had gotten used to the continual bleeding.
+
+But not being able to kill it reminded him of the frustration of the Corrupted Fire Drake in the Emberforge Mines back home, and he was just grateful that Ali had come up with some way to do enough damage – even if it had meant losing her cool so spectacularly. He chuckled to himself at the memory of the shock on the faces of the others – and the incongruous image of Ali breaking his jaw with her fist.
+
+Druidic Shapeshifter has reached level 89 (+7).+70 attribute points.
+
+Hey, not too shabby. It was the first time he had been able to use his new bindings and greaves in a boss fight, and one thing was certain – they had made an incredible difference. He had also learned a valuable lesson; Malika had explained how important dexterity was for blocking speed, and his newly altered Blood-Soaked Greaves provided him with a substantial boost relative to his base – a little more than double.
+
+He had always ignored dexterity entirely, preferring to focus exclusively on strength for damage, but, in this fight, he found he was able to block substantially more hits. He was just ready faster.
+
+I can’t afford to ignore dexterity anymore, he decided. Based on the same reason, he probably shouldn’t avoid intelligence either. The only problem was that he now found himself in a similar position to Malika – needing some points for every attribute and struggling to split them up.
+
+I’ll ask her for tips later, he decided. He already had a reasonable idea of how she split them up and, provided he just put a few in the weak attributes to prevent them from dragging him down, he would most likely be fine. Yes. He spent seventeen points each on his primary tanking attributes: vitality, strength, and endurance. Then, because he was a druid, he spent seven on wisdom, boosting his skills across the board. Next, he allocated six to perception, bringing up his sensitivity with his ordinary senses and Survival Instinct. His last six points he split evenly into intelligence and dexterity. That’ll do it. Now, skills…
+
+Arboreal Sanctuary has reached level 41 (+2).Swipe has reached level 48 (+2).Brutal Restoration has reached level 48 (+2).Bear Form has reached level 42.Rampant Growth has reached level 21.Bestial Combat has reached level 40 (+2).Natural Prowess has reached level 36.Survival Instinct has reached level 43 (+3).Battle Trance has reached level 29 (+2).Last Stand has reached level 14.
+
+Ok, enough of that, he thought, grunting as he stood up. While Ali began resummoning her army, he explored the perimeter of the blood pool, harvesting any unusual herbs he could find. He had quite the collection now and he was growing more and more eager to show them to Basil.
+
+Herb Gathering has reached level 18.
+
+He’s going to freak out when he sees all this stuff, Mato thought, grinning at the image his imagination conjured up for him. Not to mention, Ali could make most of them, which meant a regular supply for the Herbalists.
+
+Where is Lyeneru? Calen thought, staring at the papers in his hand. The more he studied the missives Malika had retrieved from Joraa’s ring, the more ominous it seemed, and without his mentor, he had no idea what to do about them. He had entered Aman Rak believing that Nevyn Eld had destroyed a troll kingdom, but now, as the insidious black tendrils of the Blind Lich’s plans were coming to light, it seemed that the scope of his evil reached far beyond this mountain. The taint of his sinister grasp could now be seen clawing toward two other troll kingdoms and possibly the dwarven city of Thorel Moldur on the way, which could only mean his ultimate purpose must be Ciradyl. Now he was forced to question if even that was merely a stepping stone to something much grander and entirely more terrifying.
+
+With Zor’kan’s help, he had understood a little more of what had happened, using both his experience and the content of the letters. While Tol’brekk was the undisputed power and ruler of Aman Rak, Joraa was his political right-hand advisor; by all accounts as slimy and cunning as they came. Joraa had always been vocal about his dissatisfaction with the trolls’ place in the world; most trolls believed in the superiority of their race, but Joraa was an extremist even according to Zor’kan’s assessment. It seemed he had masterminded the bargain with the Blind Lich and with the authority of Tol’brekk’s power had drawn Meere Kada, and even Telim Gor into it, according to the letters, without their knowing the full extent of what was to come.
+
+I just hope Lyeneru returns in time for us to warn them. The idea of both the other troll kingdoms on the Dol Kerriadh peninsula falling to the undead was too horrible for words. And yet, he must consider it rationally – with the shield of the troll kingdoms in imminent danger of falling, nothing stood in the way of Ciradyl or even most of the southern half of the continent.
+
+Not much I can do right now, he told himself, but it did nothing to allay the deep knot of worry within him. Attempting to distract himself, he turned to the mundane, assigning his attributes and studying his advances. Ali was almost ready, and he needed to prepare for whatever came next.
+
+Archer of Light has reached level 87 (+6).+60 attribute points.
+
+Decent progress. Yes. Consulting with his projections, he spent twenty points on dexterity immediately, following it up with ten points on perception and eighteen on intelligence. His eyes sharpened at once and he rolled his shoulders, getting used to the changes in his body. He spent five points on vitality next, bringing up his health total. Even with so much health leech, he still didn’t want to risk being killed by a single stray hit. He put two points into strength, making certain he kept pace with his growing bow, and three points into endurance. The final two went to wisdom, growing his mental fortitude and mana pool a bit.
+
+There, that should do it. What about the rest?
+
+Radiant Archery has reached level 47 (+2).Arrows of Brilliance has reached level 50 (+2).Motes of Light has reached level 30.Explorer has reached level 46 (+2).Blessing of the Dawn has reached level 36.Righteous Fury has reached level 29 (+2).Mirage Armor has reached level 28.Cartography has reached level 18.Howling Hellfire Bow has reached level 69.
+
+Calen grinned at the sight of the notification showing the growth of his bow. More damage! That boosted everything for his class.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

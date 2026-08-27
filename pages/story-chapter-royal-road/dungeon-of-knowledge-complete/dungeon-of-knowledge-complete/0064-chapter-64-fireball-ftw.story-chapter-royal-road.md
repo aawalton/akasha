@@ -1,0 +1,271 @@
+---
+id: f8936d1f-1310-5720-bfd5-c0495c215e08
+page-type-slug: story-chapter-royal-road
+title: "Chapter 64: Fireball FTW"
+slug: 0064-chapter-64-fireball-ftw
+partOf: dungeon-of-knowledge-complete
+position: 64
+ownLength: 5296
+unit: words
+ownProgress: 5296
+publishedAt: 2024-04-25
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1610514/chapter-64-fireball-ftw"
+royalRoadId: "1610514"
+markedReadAt: "2026-06-29T20:13:04.374Z"
+---
+
+What do you mean I can’t Fireball that? Watch me!- Delwin “Boom” Cindershower, Gnomish Pyromancer.
+
+Ali perched on a bony ridge protruding from the wall, simply staring vacantly into space while her Inspiration slowly refilled her mana pool. Behind her, and behind the wall, the storm of magical bone spears raged on unabated, smashing into splinters against the stone floor with a deafening thunder that filled the air and shook the entire room.
+
+Ali ignored it. It was all too much. She was exhausted. The constant focus for the entire duration of this endless battle had sapped her mental reserves and drained her. One small lapse in concentration was all it had taken for her to instantly lose a Kobold mage.
+
+That could have been my friends. Ali shuddered as her tired mind conjured unwanted images of her friends, impaled and bleeding. She just couldn’t make another mistake. How can I get through this? I can’t let them down!
+
+It hadn’t helped that a couple of rogues had killed her second Acolyte. That had just ratcheted everything up several notches into the realm of insanity. Her remaining Acolyte was constantly running low on mana, even parked permanently in the Inspiration circle, and using its strange hands-clasped prayer-like skill to recover. There had been a few close calls – really close – where, if Malika hadn’t intervened at the perfect time, Mato would likely have been crushed, impaled, or immolated.
+
+She had recovered a lot of mana by deconstructing the giant Piercer Scorpions, and now she was just using her new Inspiration skill to finish topping up her mana pool as much as possible before she had to wade back into the fight. Her mind drifted with the soothing shifting blue glow of her magic and the comforting sensation of her mana regenerating; like droplets of warm golden sunshine slowly filling her from the inside. The thunderous roar beyond the wall faded into the background of her awareness as her mind just drifted for a while. I’m not scared anymore. She was a little surprised at the realization. It seemed like she had run out of room inside her for fear.
+
+“You doing ok, Ali?” Malika asked, glancing up from where she sat on the blackened flagstones as the thunderous roar of the Skeletal Wyvern’s breath attack began to wane.
+
+“Just tired,” she said. She could even hear the creaky weariness in her own voice.
+
+“Yes, same,” Malika said, hopping to her feet with a display of energy Ali would never have been able to muster.
+
+I haven’t shot a single bolt, she realized, reflecting on the battle. But she had no idea where she would find additional scraps of mana to use her Arcane Bolts, let alone the time between frantic barrier casting, and coordinating all her minions. If she ran out of mana, failed to create a barrier in time, or misread the wyvern’s mana, someone would die.
+
+No, without mana she would be helpless to protect her friends. This fight had been going on for so long that she had already consumed all of her potions. In the light of his magic motes, Ali saw Calen pull out yet another potion and down it, reminding her to rotate some of her mages into the Inspiration circles to recover their mana, too.
+
+“Everyone ready?” Calen asked, getting nods from her and Malika, and a grunt from Mato.
+
+He drinks those like candy. As far as she could tell Calen had been drinking a mana potion every three minutes – knowing him, precisely when the prior one expired.
+
+“I wish I could make another Acolyte,” she muttered as she wearily clambered to her feet, but nobody heard her over the final clattering of bone spears. Resummoning her dead Acolyte would take a lot of the pressure off, but she had neither the mana nor the time to summon even a single creature, let alone the countless failed attempts she would need to summon an Acolyte specifically.
+
+The incessant roar of bone spears smashing on stone faded to an eerie silence, all ambient sounds abruptly extinguished. Not even the crunching of the bone worms broke the suspended tension hanging in the air as if the whole world held its breath.
+
+The deafening roar of an apex predator, reminding its prey of their insignificance, shattered the moment. Insignificant though she may be, Ali summoned her barrier and stepped out into the open, fixing her attention on the great Skeletal Wyvern hovering in the air over the atrium. Specifically, the complex interplay of the mana it was using. The purple mana flame flickered within empty eye sockets as the monster turned its head to transfix her with a piercing glare.
+
+Something is different. The mana swirling around the monstrous head and roiling within the enormous ribcage where the undead creature’s heart would have been – if it had one – was darker, denser, and far more baleful in appearance than before.
+
+Ali recognized the shimmering and shifting mana formation that signaled a Bone Spear, again worrying that it seemed far denser, and formed far faster than previously. As soon as she saw the critical moment, she summoned her barrier to block it. The spear slammed into her magical barrier in an explosion of bone shards and a tinkle of shattering glass, sending the golden slivers of her magic bursting out in a cloud. She gasped at the sight of the second spear, fired right behind the first, flying through the airborne debris at high speed on its way to impale Calen in the back while he was distracted by a freshly summoned Piercer Scorpion.
+
+Two! “Calen, duck!” she screamed.
+
+Desperate to save Calen from the cunning double strike, she released her personal barrier and resummoned it right behind him. Barely in time, the golden barrier flickered to life, instantly exploding into thousands of shards, some of which sliced into Calen as he dodged to the side. A trickle of blood ran down his face from a cut above his eyebrow, but thankfully he was still able to run.
+
+“Thanks…” he said as he rushed past.
+
+The foreboding mana coalesced once again forming spears. Again, Ali had to use both her barriers to block a pair of spears launched back-to-back.
+
+They’re double, and they’re coming far faster. It felt terribly vulnerable to be standing out in the open without any personal protection, but Ali had no other choice as the Skeletal Wyvern continued to chain-cast Bone Spears at a dramatically accelerated rate.
+
+The black and gray clouds of mana condensed rapidly within the wyvern’s maw, with the telltale vortex sucking streams of mana from the environment around it.
+
+“Hide!” Ali yelled the instant she saw it. That was quicker too, she thought as she dashed for cover. How’s it doing this?
+
+As soon as she and her minions made it to the protection of their wall, Calen called for fireballs. Ali glanced up, and to her surprise found that Mato was already facing four of the Piercer Scorpions. I’m going to run out of mana at this rate. She worried about her minions too. If everything was coming quicker, they would be in serious trouble very soon. She began her Inspiration while instructing her casters to destroy the scorpions. As soon as they all died, Ali ran over to deconstruct as many as she could before the battle resumed. I need to be more efficient. Her deconstruction recovered a lot more mana than the short time she could use Inspiration.
+
+“Is everything faster now?” Ali asked.
+
+“Yes,” Calen answered. “I think the Skeletal Wyvern is enraged. Even the elementals are being summoned almost twice as quickly.”
+
+“That’s not good,” Malika said. “Mato can’t handle much more, and I’m almost out of stamina.”
+
+“Here,” Calen said, producing a pair of small yellow potions and passing them to Malika.
+
+“Thanks,” she said, downing one and making the second vanish. “Hey, are we even doing any damage to that flying bag of bones? Should we quit and come back later?”
+
+“My arrows aren’t doing much, but Ali’s shamans are tearing it to pieces,” Calen said.
+
+“Yes, but we’ve been shooting it forever,” Ali said. “How much health does it even have?”
+
+“I’m not sure,” Calen admitted. “But maybe we can make it one or two more rounds and see how things are at that point?”
+
+“Ok,” Ali said, dubiously. The enrage and the acceleration in attacks were nerve-wracking, but if the others could continue, she would try to stick it out.
+
+They all fanned back out into the open space in front of the atrium as soon as the wyvern ceased its devastating breath attack. The Bone Spears flew thick and fast, launched in deadly accurate pairs, forcing Ali to scramble to block, pushing her focus and the capacity of her Barrier spell to their limits. Her jaw began to ache from clenching her teeth every time she barely caught a spear about to impale somebody. She glanced into her storage ring’s enchantment, but she had finished the last of her mana potions long ago. Shit, I’m not going to make it. She watched helplessly as her mana dwindled, like water flowing down a drain. And still, the Bone Spears flew unabated.
+
+“I’m running out of mana,” she shouted as Calen sprinted past her on light feet, with a Piercer Scorpion in tow.
+
+“Hang on one moment,” he called out as he maneuvered his pursuer into a good position for Mato. A few moments later he was sprinting back out, heading for where another scorpion had already appeared by the remains of what might have once been a shattered desk. “Here,” he said, tossing something to her as he sprinted past.
+
+Ever grateful for the points she had chosen to invest in dexterity, she caught the corked glass vial filled with dimly glowing blue liquid in one hand.
+
+Mana Potion – level 12Consume: Gain 200 mana over 3 minutesCreated by Morwynne Fizzlebang – “Drink up, buttercup!” Potion
+
+In between summoning another couple of barriers, she yanked the cork out with her teeth, spat it out, and downed the potion, grimacing at the sickly-sweet taste clashing with the minty flavor and the sensation of her mana pool beginning to refill. It wasn’t a lot compared to her maximum capacity, but she would have to make it work. She dropped the glass vial, tossing it behind her, and scrambled to summon new barriers as the wyvern attempted to impale Malika. Back in the zone once more, she locked her focus on the flying monster’s mana and chain-cast her barrier spells as she studied the interplay of the monster’s magic against the backdrop of the continuous barrage of her minions’ Lightning Bolts and Firebolts, and the periodic volleys of Calen’s bright arrows.
+
+As soon as she saw the heavy streamers of dungeon mana spiraling into the vortex, she screamed, “Hide!” She sprinted for the cover of the wall, realizing that she was down to twenty-three mana remaining. That was close. Too close.
+
+Once again, Calen immediately called for her fireballs. Mato bled profusely from several serious gashes and puncture wounds as he swiped at five Piercer Scorpions. Even to Ali’s inexperienced eye, he was struggling.
+
+“Five!” she exclaimed.
+
+“I know, be careful with the fireballs,” Malika shouted, trying to be heard over the din in the background.
+
+Please don’t kill him, she wished, while instructing her minions to begin the assault. As soon as the first fireball detonated, Malika danced in to heal Mato. She looked tired also, her movements slow enough that she missed dodging a spear strike to her arm and barely got clear in time for the second fireball. In between the blasts and flashes of fire and lightning, Ali could see Mato’s silhouette lashing out with his huge paws, and being stabbed and sliced by the Piercer Scorpions who even now did not let up with their aggression. His fur was on fire and his body flickered and flashed with the colors of healing; blue-white from Malika, golden-yellow light from her Acolyte, and the deep viridian green of Mato’s own magic and the runic circle. He strobed brightly in the center of the chaotic ball of fire, lightning, and bone magic that filled her vision. As the smoke cleared, Ali breathed a sigh of relief to see Mato still standing, a little dazed and heavily burnt, but alive.
+
+Ali dashed over and began to deconstruct as many of the corpses as she could in the little time she had available, gagging at the stench of burnt flesh and fur. But she powered through, knowing she would desperately need the mana for what was to come. When she was done, she turned on her Inspiration for whatever extra she could regenerate and turned to Calen.
+
+“Thanks for the mana potion,” she said. “That really saved me.”
+
+He answered with a smile, looking almost as tired as she felt, and tossed her another potion while downing one himself. “Just in case. We’ve got this.”
+
+I’m not sure where he gets his confidence from.
+
+As silence returned to the battlefield, Ali emerged to find the Skeletal Wyvern circling above, slowly descending from its usual place high over the atrium.
+
+“It’s landing again!” she shouted, her voice loud in the silence.
+
+Mato burst from cover, tossing an empty vial to the ground as his body twisted and stretched, resuming his Bear Form.
+
+Everyone is running on fumes.
+
+As soon as his transformation was complete, Mato charged the Skeletal Wyvern. As he deftly maneuvered the giant creature into place, Ali arranged her minions.
+
+How does he keep its attention? She had been shooting the wyvern in the air for ages, and yet the moment it landed, it stuck to Mato like a fly to dung. Undead were not reputed to be the smartest monsters, but Mato didn’t have a Taunt skill as far as Ali was aware. Perhaps proximity helps? She made a mental note to ask Vivian Ross next time she got the chance.
+
+“Attack,” she instructed, sparking the storm of firebolts and lightning. The shamans immediately threw their totems behind the grounded wyvern, and, by her Arcane Insight, Ali saw the tendrils of the Lightning Vulnerability curse settle on the giant skeletal monster.
+
+Good. She was about to use her Arcane Bolts for the first time in the entire fight when the wyvern launched itself off the ground with its wings and unleashed a near-continuous stream of Bone Spears from its mouth. The ground shook and bucked as the wyvern went on an all-out assault trying to skewer Mato with its heavy talons and spears while the wickedly bladed tail tore the flagstones to shreds, spraying chunks of stone in all directions. Ali immediately summoned her barriers, casting repeatedly into the hazy cloud of shattered magic and splintered bone. There was no finesse or strategy as she flung as much defensive magic as she could muster into the path of the deadly bone spears.
+
+A great pillar of yellow-white light bloomed from the Kobold Acolyte like a spotlight shining down on her as she invoked a spectacular construction of holy mana. Ali would have stared in amazement at the increase in power and speed of the Kobold’s casting if it weren’t for the fact that she was desperately trying to summon her barrier magic faster than the deadly spears.
+
+“Attack there!” Ali instructed, eking a little more focus from who knew where to pay attention to the strategy of her minions’ attacks. “All of you.” The spot she had selected, on the Skeletal Wyvern’s torso, just under the left wing, suddenly bore the brunt of every single lightning strike and firebolt. In seconds, Calen and Malika both adjusted to target the same location. Bone splintered and smoking shards flew in all directions. Malika was fighting in the thick of it, heedless of the spray of sharp bone and the blood streaming down her arms.
+
+As their combined bludgeoning opened a hole in the outer layer of bone plate armor, and Ali saw the firebolts striking the inside of the wyvern’s ribcage. Good thing he’s mostly hollow. Recalling the strategy she had used so effectively on the Spitter Drones and Piercer Scorpions, she commanded her mages to switch to their fireballs.
+
+The three Kobold mages began summoning their most powerful magic, bathing Ali’s skin in radiant heat while she still poured her mana into her barriers. With a loud sizzling hiss, the fireballs shot across the battlefield like a trio of burning meteorites, passing through the rapidly shrinking hole they had created as the monster tried to regenerate.
+
+Three simultaneous detonations rattled the Skeletal Wyvern’s ribcage, igniting it like a bonfire exploding behind a metal grating. The explosion sounded muffled by the sheer bulk of its body, but its deafening roar of rage was certainly loud enough, accompanied by an explosion of flaming chunks of bone that scattered across the atrium.
+
+“Yes!” Calen shouted. “Now that was some damage!”
+
+“Again,” Ali instructed calmly. I just hope they have enough mana.
+
+The great wings flared wide, surging with mana, and the Wyvern took to the air, leaving Mato slashing uselessly at the air and roaring in frustration. The lead fireball detonated on the outside of its armor, spraying fire everywhere. Mato and Malika had to dodge smartly. In the giant maw, the monster’s mana began to condense, forming the terrifying maelstrom that signaled the rain of bone spears was imminent. Once more, the increase in power was palpable, visible as the wyvern inhaled mana from the entire breadth of the atrium, compressing it all within the gaping jaws.
+
+“Hide!” she screamed, sprinting for cover, while at the same time her Storm Shamans unleashed their Lightning Bolts, ripping through the rapidly closing hole in the Skeletal Wyvern’s armor, tearing chunks of bone off to fall into the abyss below.
+
+She felt a rush of heat on her back as the final two fireballs completed, launched high over the atrium as they shot toward the slowly rising wyvern. Both fireballs flew true, passing right through the hole to be swallowed by the monster’s enormous bulk. A shockwave of compressed air and heat rocked the room as the wyvern voiced a shuddering roar.
+
+From nowhere, a flying plate of bone slammed into Ali’s side, knocking her to the ground and shattering her arm with an audible snap. She cried out as her head slammed into the shattered shards of the bone spears littering the ground. Dazed, she desperately tried to scramble to her feet, but she stumbled again. She was vulnerable out in the open, and the potent spell the wyvern was about to unleash would leave her as little more than paste on the ground.
+
+As she turned over, Ali froze, staring aloft. From her spot, sprawled on the ground, she could see the vast bulk of the stricken Skeletal Wyvern weaving above the atrium, now spewing flame from various holes blown through its dense armor. Had the bone itself ignited? One wing was entirely missing, and the bottom of its ribcage had been blown away. It bobbed and lurched erratically as it struggled to fly with just one wing, and then began to plummet toward the stone floor in an uncontrolled spiral. Her eyes flew wide.
+
+Then, the wyvern smashed down with a ground-shaking thump accompanied by a strange clattering sound that she belatedly realized was snapping bones. It twitched once, twice, before collapsing. Thick tendrils of black smoke rose slowly from the crumpled heap of shattered and broken bones.
+
+The purple mana fire in the huge eye sockets flickered with one final, baleful glare as if the beast contemplated some hideous eternal revenge, before it was snuffed out. Ali’s chime sounded in her mind.
+
+Your group has defeated Skeletal Wyvern – Undead Dragon – level 37 (Bone).
+
+Distantly, she heard Mato’s triumphant roar, and surprisingly, an uncharacteristically exuberant whoop of joy from Calen.
+
+It’s over. Finally.
+
+Ali flopped onto her back and just lay there staring at the smoldering wreck of the undead dragon and the lingering remnants of flame that clung to everything. She was wrung out, drained, and could barely move a muscle. Her head hurt, and her arm throbbed with pain with every pulse of her heartbeat. Even from this distance, her eyes began to water from the acrid smoke and the sulfurous stench of Kobold fire. She almost didn’t notice her Acolyte scampering over to her side, but the relief as the gentle healing magic filled her body and repaired her arm finally got through to her.
+
+“Thank you,” she said, glancing over at the Kobold, who looked very much the worse for wear, covered in soot with smoke still rising from blackened scales. The Kobold simply bowed her head and sat down nearby, her previously pristine white robes covered in dust and debris and splatters of blood.
+
+She worked hard in this fight. Even right through to the end, when Ali had been certain Mato would die from the accelerated ferocity of the wyvern, this little Kobold had saved the day by pulling off a powerful magic enhancement and keeping pace with the unfathomable damage output of an enraged dragon.
+
+Ali’s friends emerged from the burnt wreckage of sundered bone, moving like wraiths through the haze of smoke, but the exhaustion etched on their faces couldn’t hide the smiles. Everyone made it. I have no idea how, but I’m just… grateful.
+
+“That was a fight,” Malika said, grunting inelegantly as she flopped down onto her back beside Ali. Malika had almost given Ali a heart attack several times during the fight when she had stepped directly into harm’s way to heal Mato. A stray claw or spear would have been all it took to end it, but she had dodged everything, saved Mato, and waltzed out looking cool and graceful.
+
+“You can say that again!” Mato said. He was still grinning from ear to ear, the silly man. “I couldn’t quite hold that wyvern, blasted wings, but you still managed to shoot him out of the sky!”
+
+Calen sat nearby, part of the circle, but kept quiet, just sharing smiles with everyone.
+
+We won. It finally began to settle in her mind. They had beaten the monster. And it had taken outstanding teamwork, a healthy slice of luck and basically everything they had to do it.
+
+Grove Warden has reached level 28 (+5).+50 attribute points.
+
+“Holy sh …” Ali trailed off at the sudden looks of alarm from her friends. “I got five levels.” Her tired mind balked, refusing to believe it. However, the notifications didn’t vanish as she half believed they might. She had really gained five levels – and they weren’t the easier early levels either. I didn’t shoot a single thing.
+
+“Wow,” Mato said.
+
+“I think we all did,” Calen said. “It was a raid boss, after all.”
+
+“I got six,” Malika added, a little awed.
+
+Mato nudged her with his elbow, “Didn’t know we were in a competition?”
+
+Yet he sounded so chuffed for her that Malika’s expression cracked into a grin, banishing the weariness. “Next time, I get to stand around and slap their faces while you run around like a rabid rabbit, alright?”
+
+Focusing on her breathing for a moment, Ali let her mind clear. Each of her friends had the distant expression on their faces that implied they too were studying their notifications. Ali turned her attention back to hers.
+
+It was level 37. And if Calen’s Explorer skill was to be believed, it was a boss for the dungeon and a raid-level threat. Not that Ali doubted it for a moment – certainly not after experiencing the fight first-hand.
+
+Perhaps the levels aren’t unjustified.
+
+Arcane Insight has reached level 17 (+3).Barrier has reached level 21 (+3).Grimoire of Summoning has reached level 16.Runic Script has reached level 12.Sage of Learning has reached level 13.Martial Insight has reached level 14 (+2).Empowered Summoner has reached level 12 (+4).Inspiration has reached level 5 (+4).Imprint: Bone Elemental completed.
+
+Even her skills had grown dramatically, especially the ones she had been heavily using for the full duration of the fight. Three levels each for Arcane Insight and Barrier. Four levels for Empowered Summoner. And her newest skill – Inspiration – had skyrocketed too.
+
+In addition, she had fifty new attribute points. Thinking carefully, she spent five more points on dexterity, just for general usefulness – for instance, catching potions in mid combat. Her most crucial skill in the fight had been Arcane Insight – without the ability to see magic, they would have floundered. She spent thirteen points on perception, noticing a sudden sharpening of the ambient mana around her in response. The remaining thirty-two points she split evenly among her primary attributes: wisdom and intelligence.
+
+But there were reams of golden glowing text still marching across the parchment of the tome in her mind.
+
+Requirements met for skill advancement. Barrier has reached level 20.Intelligence has surpassed 85.Used Barrier continuously to protect yourself and allies for more than half an hour.Saved an ally from certain death with your Barrier.Barrier gains Automatic Defense.(Choose an ally. Half of your barrier capacity will be reserved to automatically block any magic targeting this ally.)Requirements met for skill advancement. Barrier has reached level 21.Intelligence has surpassed 120.Dexterity has reached at least 20.Used a Barrier to prevent yourself from falling to your death.Used a Barrier to stand or sit on, or to levitate your body. Defeated a flying raid-level threat higher than your class level with a team of only four.Barrier gains Barrier Mobility.Barrier gains the Movement trait.(You can move your barriers freely.)Choose one advancement.
+
+An advancement for Barrier? Ali sat up, intrigued and excited, reading through the options. They both look so good!
+
+“Did you get something good?” Calen asked.
+
+“One moment,” Ali said.
+
+It seemed that she was being given the choice between two different directions. The first advancement – Automatic Defense – seemed to be directly related to her challenges in the battle to defeat the Skeletal Wyvern. It would free up a lot of her focus and attention by automatically defending anyone she selected.
+
+On the surface of it, she loved the idea. She had struggled to focus. But the limitations might be tricky. The change would sacrifice half her capacity, and she had to choose an ally. Wouldn’t I just have the same trouble? she wondered. Part of the problem, and the reason she had struggled, was that the wyvern had intelligently switched targets if she summoned her barrier too early. If she picked an ally, what would stop it from simply blasting a different one? Oh, it may work well if she applied it to Mato while he was tanking, but how often would there be little to no risk for the rest of them?
+
+Her second choice – Barrier Mobility – seemed to have been earned earlier and only just unlocked now as her barrier had reached level twenty-one. Clearly, the requirements referred to her accident with the lake when she had blown herself high into the air and had to catch herself from falling with her barrier magic. It was there that she had learned to split her magic too. And ever since then, she had been using her magic as a stepladder or a seat. But there was also the reference in the unlock requirements to defeating a raid-level threat monster.
+
+Seems a little frivolous? She struggled to see how it might be useful in battle other than that she could move the barriers to adjust when the enemy changed their aim. Although, the more she thought about it, the more she felt that might actually be slightly better than the first option.
+
+“What do you guys think about this?” Ali asked, sharing her two choices.
+
+“You can fly?” Calen asked.
+
+“What?”
+
+“Barrier Mobility gives your skill the Movement trait,” he said. “That implies it can be used to move you.”
+
+“Oh.” Several thoughts collided in her head at that moment. It would not be the pretty wings she had so envied or dreamed of, like the ones her mother had, but she had always admired the people flying around the library on levitating platforms, flying carpets, or other rune-inscribed devices of cunningly wrought artifice. Or, if they had the skills, conjured wings and flying spells of endless varieties. And if she was hovering a few meters above the ground, how was a rogue going to sneak up on her?
+
+Without hesitation, she chose Barrier Mobility.
+
+Barrier – level 21Mana: Summon an arcane barrier shield. The barrier is a freeform arcane magic surface that resists physical and magic damage. You can move your barriers freely.Arcane, Defense, Movement, Intelligence
+
+Eager to test it out, she summoned a barrier. Much to her surprise, she instantly felt a dramatically increased capacity, and she easily produced a horizontal disk of dense golden light a little larger than three meters in diameter.
+
+Wow! That’s more than doubled in size.
+
+“Impressive,” Mato said.
+
+She reached out with her will and tentatively pushed at the barrier, half expecting the stubborn immobility of before, but the barrier responded instantly, sliding sideways smoothly. She made it move up and down, sideways, and then even flipped it over. It was easy and remarkably intuitive. She simply willed it wherever she wanted, and it moved.
+
+With rising excitement and a little trepidation, she willed it to settle on the ground beside her and gingerly stepped out into the middle.
+
+“Perhaps sit down to start?” Malika suggested.
+
+Calen added, “And take it slow.”
+
+Ali couldn’t help noticing all their eyes were on her.
+
+That’s good advice. She settled down sitting cross-legged in the middle of her barrier and then reached out with her will once again. Without a hitch, the barrier smoothly rose about a meter off the ground. With her still sitting on it.
+
+I’m flying!
+
+Technically she was levitating herself with her magic, but she didn’t much care about the distinction. Her short, useless little wings buzzed against her back with her rising excitement as she made a slow circle around her friends – as if they too wished to help her fly.
+
+“This is awesome!” she exclaimed, as her excitement threatened to bubble over.
+
+“Go, Ali!” Mato chuckled.
+
+She sped it up, and within moments she was flying circles around her friends, unashamedly showing off, all the while laughing with sheer joy.
+
+***
+
+Name: Aliandra AmarielRace: FaeTitles: AncientActive Buffs: Empowered SummonerClass: Grove Warden – level 28- Arcane Insight – level 17- Arcane Bolt – level 14- Barrier – level 21- Grimoire of Summoning – level 16- Runic Script – level 12- Sage of Learning – level 13- Martial Insight – level 14- Empowered Summoner – level 12- [Locked]- [Locked]General Skills- Reading – level 8- Identify – level 9- Sculpting – level 2- Inspiration – level 5Aptitudes- Languages: Ancient Dal'mohran, Elvish, Dwarven, Common, Draconic, Goblin- Mana (Affinities): Nature, Arcane- Tiny (Racial): The effects of Strength and Vitality are reduced by 50%- Magical (Racial): The effects of Wisdom and Intelligence are increased by 50%- Domain (Class): Your maximum mana increases with the size of your domain, up to +100%- Domain: -10% maximum health per day domain withdrawal. You have Domain SenseAttributes- Vitality: 54- Strength: 4- Endurance: 15- Dexterity: 25- Perception: 54- Intelligence: 127 (+37)- Wisdom: 108Equipment- Body: Tailored Cotton Clothing – level 15- Hands: Wooden Bracelet – level 11- Ring: Bronze Guild Ring – level 10Resistance: 216Magical Damage Reduction: 21.6%+21% to mana regeneration.Health: 263/270Stamina: 82/150Mana: 315/3240 (1242 Reserved)Grimoire Imprints1- Moss 2- Arrow 3- Armor (Body)4- Dagger 5- Wolf 6- Mushroom 7- Stone 8,9- Kobold 10- Sword 11- Tree 12- Ivy 13- Toxic Slime 14- Goblinoid15- Shield16- Bone Elemental

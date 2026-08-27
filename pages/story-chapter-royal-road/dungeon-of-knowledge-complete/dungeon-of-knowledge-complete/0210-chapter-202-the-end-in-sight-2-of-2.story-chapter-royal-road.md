@@ -1,0 +1,165 @@
+---
+id: ad0039dc-09b3-5bb9-9de4-83ae30325128
+page-type-slug: story-chapter-royal-road
+title: "Chapter 202: The End in Sight (2 of 2)"
+slug: 0210-chapter-202-the-end-in-sight-2-of-2
+partOf: dungeon-of-knowledge-complete
+position: 210
+ownLength: 2815
+unit: words
+ownProgress: 2815
+publishedAt: 2025-02-25
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2088832/chapter-202-the-end-in-sight-2-of-2"
+royalRoadId: "2088832"
+markedReadAt: "2026-06-29T20:18:15.310Z"
+---
+
+The task of clearing out all the terraced steps and rooting out the monsters hiding behind the pillars and in dark, hidden alcoves and small caves leading off the main chamber took the better part of several hours, meaning the way back was already well respawned by now and their only recourse to leaving would be teleportation or hours of fighting their way back out of the dungeon.
+
+Ali refreshed her emergency escape teleportation circle, bringing it up closer to their position. She had to move it frequently enough that the degradation in her spell due to the dungeon’s mana never had enough time to become problematic.
+
+At least, with the huge number of monsters they had defeated both here and in the hatchery, Calen had filled his and most of Malika’s storage with scaled dragon hide for sale the next time he visited the Elven city of Ciradyl.
+
+After what seemed like forever, they finally passed through another stone-carved archway at the end of the vast chamber, entering a comparatively smaller antechamber containing a single pack of monsters guarding the door at the far end. But her blood ran cold at the sight of what awaited them.
+
+Armored Drake – Dragon – Level 76-78 (Fire) x2Living Flame – Elemental – level 65 (Fire)Warlock – Flamecaller Elemental – level 67 (Hellfire)Hellfire Imp – Demon – level 53-57 (Hellfire) x4
+
+“Oh, shit, two drakes,” Malika said.
+
+“No. That’s insane,” Ali said, staring dejectedly at the most powerful group of monsters they had yet encountered. Even the phoenix seemed easier than the menacing group of monsters blocking their way forward.
+
+“I don’t think we can defeat this,” Calen said, not volunteering a cleverly thought-out plan for the first time in ages.
+
+As Ali studied the group, it got worse and worse. Living Flame – according to the newest information she had from the rewards after the phoenix fight – had Curse Proliferation. The biggest challenge with the warlocks had always been their devastating curses: Agony of Flame and Explosive Conflagration. In a configuration like this, Malika would be needed to tank the Living Flame, and hence she would be unavailable to lock down the warlock with her mana-leeching skills.
+
+“I can’t survive two drakes,” Mato said.
+
+If Mato was balking at a fight… then they truly had no chance.
+
+“If we can’t tank both drakes there is no way I can see to do it. We should go home,” Calen said with a note of disappointed finality.
+
+“I definitely can’t tank a drake yet,” Malika said, sounding a little frustrated. “I could do the Living Flame or the warlock, but not both.”
+
+“And we need you for both,” Calen observed.
+
+“This is unfair,” Ali said. To come so far through the dungeon, only to be stalled by this pack of monsters. She clenched her small fists and frowned. “I’m sure the forge is just around the corner.”
+
+“Not much we can do about it,” Calen said. “If we can’t control both drakes… and Mato is the only one who can take a hit… that leaves no margin. To be fair, we’ve been rubbish at knowing when we’re overmatched – I think we need to change that.”
+
+Ali couldn’t deny it – they had all seen the insane Cleave strikes that the drakes were capable of, and their dragonfire breath seemed just as terrifying. Back at the spot where they’d faced the last group, there were still large gouges left in the solid stone where drake talons had slashed with devastating force.
+
+“You need a lot more armor,” Mato said. “And health.”
+
+“And fire resistance, don’t forget about that,” Calen added, glumly.
+
+Ali’s gaze settled on the two huge drakes, massive muscles ripping below their hard dragon-scaled hides, talons grating on the stone as they moved, and a crazy idea suddenly popped into her head.
+
+What has ridiculous armor and resistance to fire?
+
+“I have an idea, but it may be a little too crazy,” she said, pulling out her Grimoire at once and noticing how their despondent, defeated expressions gave way to just a little curiosity. She turned to the dragon imprint and began to summon her minion. The Armored Drake imprint was at a higher level than she was, but by now, she had had more than enough practice using her customization to regress the levels of whatever she summoned to create appropriate-level threats for the guild adventures. Her magic completed and suddenly an enormous drake towered over her, shockingly large from being so close. Ali stepped back to get a better look at it.
+
+Armored Drake – Dragon – level 68 (Fire)Your reserved mana has increased by +488.Grimoire of Summoning has reached level 34.
+
+“I thought you couldn’t use those in here?” Calen asked, surprised by her choice of minion.
+
+Ali switched perspective momentarily, taking a snapshot of its status and aptitudes. “It’s immune to fire, and it has enormous values for armor and health…” she said. The idea felt wrong, given how long she had been operating under the assumption that fire-affinity monsters would be worthless down here, but she couldn’t see any reason why it shouldn’t work. “What do you think?”
+
+“It’s big,” Mato said, getting to his feet to study the monster.
+
+“You need a drake form,” Malika said, elbowing him.
+
+Calen paused considering the giant drake now standing among them. “I hadn’t thought of it that way. They will both be immune to each other’s breath attacks and just hit each other for a while. You know, I think it might just work.”
+
+“I just don’t know how to handle the warlock and the Living Flame, though,” Ali said. She had been studying and practicing novel combat strategies, and learning from Calen’s ideas, but this fight was beyond her skill. Their approach to both the Flamecaller Warlock and the Living Flame elementals had been to drain their mana with Malika’s attacks, but she couldn’t be in two places at once.
+
+“I got that part,” Calen said. “We do a split-pull through the doorway into the larger chamber. Malika tanks the Living Flame against the wall over there. We put the two drakes on that other wall, and you tell yours not to breathe fire into the room.”
+
+“What about the warlock? Curse proliferation is going to be a disaster.”
+
+“They have blood, right? Tell me you tested that already?” Calen asked, his eyes catching hers with an expectant hope.
+
+“They do…” Ali said, the core of his idea suddenly taking root. “You want to tank them with the Abyssal Stalkers?”
+
+“Yes. We can use their stuns to disrupt the spells with longer cast times,” Calen nodded. “I’ll use Righteous Fury right at the start, and we go all out to kill the warlock, and then the imps.”
+
+“That could work,” Ali said, considering the novel idea. “I think I can afford to make three.” She still had the same army she used for the phoenix, minus the Death’s Acolytes and only one of the sparkling oozes. Even with the drake, she had enough mana for the stalkers, though it might get a little tight if the battle went poorly.
+
+“Can you just make two drakes?” Malika asked, poking the huge monster’s scales.
+
+“I don’t think I have enough mana for that,” Ali said, quickly running some mental calculations. “Well, not if I have to make enough Acolytes to keep them alive and summon so many Stalkers.”
+
+“In that case, maybe we should give the Acolytes some mana potions?” Malika suggested. “It’s probably going to be a long fight.”
+
+“If we pull into the big room, I can do better and inscribe an inspiration circle,” Ali said. I have enough mana for that, at least. She would still have mana potions ready, but the inspiration circle could be used for the entire duration of the battle – and over longer battles where she got the chance to prepare the battlefield, it would generate much more mana than a potion. Still, she summoned a couple of extra Acolytes just to be sure. Her drake was lower level than the ones they faced.
+
+It took quite some time to get everything set up, but eventually, Calen called out, “Right, everyone ready?”
+
+“Yup,” Ali said, adding her response to the other nods and grunts.
+
+I’m ready. Two archers stood by the doorway, ready for the split pull. Three Abyssal Stalkers lurked high up on the wall above the archway. The rest of her minions ranged widely, spaced far enough apart that they wouldn’t drag extra damage on their neighbors if the warlock got off a few of its nasty curses.
+
+Satisfied, she gave Calen a nod, and he vanished back into the smaller chamber to get the monsters.
+
+“Here it comes,” Malika said, bouncing on the balls of her feet.
+
+Twin roars split the silence and Calen sprinted back into the room at top speed, spinning and charging for Malika’s spot with the entire group of monsters hot on his heels. With her awareness focused within the two archers, Ali sighted and fired. The two arrows shot out, striking the two drakes and shattering against their scales, but with Calen’s Motes of Light pulsing in the air above them, and her own Empowered Summoner, their arrows carried enough magical damage to instantly snap the drakes’ attention to them. It wasn’t as if it was a particularly difficult shot, those drakes were the size of small barns.
+
+Thundering fit to split the foundations of the chamber, the pair of Armored Drakes charged, an incredible force of nature in motion. Ali sent her Kobolds scurrying for cover behind Mato and her own summoned draconic tank.
+
+But her job was nowhere near done. Slipping her awareness into the senses of her Abyssal Stalkers, she waited while the Hellfire Imps capered into the room, lobbing accelerated fireballs at everything they saw. Barriers flickered from her fingers, intercepting hellfire detonations with the skill of long practice.
+
+The Flamecaller Warlock slithered into the larger chamber, last through the doorway, and immediately began channeling its potent area curse, Agony of Flame. Ali could hardly forget the swirling flame and twisting mana as the dark red and black burning runes began to propagate across the stone floor.
+
+“Ambush,” she urged, and the three stalkers dropped down from above the stone archway onto the Flamecaller Warlock’s back, blood magic surging as their scythe-like front legs sliced and stabbed with blurred speed.
+
+Instantly, the runes winked out as the Ambush strikes ripped through the warlock’s scales like butter. Dazed, the Flamecaller Warlock’s blood splattered across the stone, painting the entire right-hand side of the archway in crimson.
+
+“All out,” Calen shouted, punctuating his cry by igniting his mana with Righteous Fury and firing multiple volleys of arrows, striking the warlock and the randomly teleporting imps wherever they landed.
+
+“Go!” Ali commanded, echoing Calen’s call to action among all her minions. Immediately, arrows and spears of bone filled the air, lightning flashed, and the Hobgoblins charged into battle shouting their booming battle cries.
+
+Ali would have liked to pay more attention to the fight itself but, as important as locking the warlock down was to the group, her mind was suddenly filled with tracking the imps and blocking the fireballs from destroying her healers while they valiantly strove to keep Mato and Malika alive.
+
+One of the Acolytes standing in the inspiration circle suddenly burst into flame from the Explosive Conflagration curse and then an instant later, half of the room – every single minion in the fire aura of the Living Flame, save two Acolytes she bubbled in time – caught fire too.
+
+“Explosion,” Ali shouted, recognizing the Living Flame’s skill signature nearly automatically the instant the formation began to condense. The enormous blast wave of fire ripped through her formation, sending most of her minions flying. Ali reacted with Minion Teleport and a flurry of barriers trying to minimize the flight time for her healers and the falling damage for her more vulnerable minions. Then she scrambled to adjust as the burning minions fell like a meteor shower among the rest of her forces, bringing the Explosive Conflagration curse perilously close to the tank healers. In a mad panic, she moved her minions, making some of them sprint for the walls just to get out of range before they exploded, carefully avoiding the Living Flame’s aura.
+
+“Warlock is down. Ranged on the imps, everyone else on the Living Flame.” Calen’s call came not a moment too soon. She didn’t doubt it, but a glance confirmed the crumpled, mutilated corpse of the warlock and the gruesome bloody wall behind her gleaming Abyssal Stalkers.
+
+What about the curse? She quickly glanced at Malika, but she had somehow avoided catching the conflagration. Dodge shenanigans, no doubt. This might just work. Ignoring Calen’s directive, Ali withheld her melee minions, keeping them well outside of the Living Flame’s aura till the curses all detonated and expired. One by one, she sent them into the flame as she absently blocked a hellfire fireball with a barrier, ignoring the imp hitching a ride that splatted up against her magic, its body already a dying pincushion filled with Calen’s arrows.
+
+“Tanks are still good,” Ali called out after checking them with Healer’s Sight. “Curses down.”
+
+Malika’s health bounced around erratically, dipping by large amounts, followed by seconds of nothing when she hit a dodge streak. Mato’s health bounced up and down like a yo-yo, regularly dipping massively, followed by a strong regeneration upward from all the holy and nature healing magic on him. But her biggest surprise was finding that her drake was tanking just fine. It was substantially lower level than its foe, but the two of them simply duked it out with cleave attacks and bites, with the monster trying to breathe fire on her minion, but without any effect. She had placed it close enough to Mato that it could benefit from his Sanctuary aura sharing his regeneration, but she could tell that he was actually stealing damage from it regularly, meaning he was comfortable with his healing.
+
+Quickly, she cycled her healers through the Inspiration circle one more time and then refocused on the Living Flame. She glanced about, but it seemed Calen had taken care of the last imp. Ali settled in to wait for Malika to cinch it.
+
+“It’s dry,” Malika called out after only two explosion cycles. The regenerative tornado and shield combo popped up, but they burned through it quickly and the giant elemental succumbed to their onslaught with a final sigh and implosion of fire.
+
+“Kill Mato’s drake first,” Calen said. “It has the armor penetration debuff.”
+
+His explanation made sense, so Ali marshaled her forces to attack the powerful, though somewhat battered-looking drake. With both drakes solidly locked down, the fight was quite straightforward, all she had to do was make sure her minions avoided the tail and avoided the front where the breath and cleave attacks would eviscerate and char anything that wasn’t being healed by an army of Kobolds.
+
+As soon as the first drake fell, Mato charged his neighbor, striking with claws that ripped and rended the scales in great swathes. Ali had spent much of the remainder of the fight studying the combat of her Abyssal Stalkers and watching the health of her drake tank, but the difficult part was already over. The final drake collapsed with an echoing crash soon after, and Ali’s chime rang out in her mind once more. She was easily in the habit of ignoring them during battle now, merely using the sound as an indicator to shift her attention to the next foe.
+
+“That worked surprisingly well,” Malika said, clasping her hands behind her back and reaching outward to stretch her shoulder.
+
+“Difficult, but not scary,” Calen agreed.
+
+Difficult, but not scary, Ali thought. It was a good thing to strive for, almost like a motto. She didn’t mind difficult so much, but scary was… well, scary.
+
+“I think we’re quite close to the forge and Thovir Emberforge’s anvil,” she said. “I remember that room in there. I think it was the antechamber.”
+
+They all trooped through into the room, and Ali saw that she had remembered correctly. It was a round room, crafted entirely with ornate dwarven stonework with thick arches and supports for the ceiling. Most of the wall surfaces were decorated with carefully sculpted reliefs depicting various crafters at work. She recalled being surprised that it wasn’t smith- or forge-themed, rather than the broad coverage of all kinds of crafting. Seeing it now reminded her of the curiosity and fascination she had experienced in her youth.
+
+“It should be through that door,” Ali pointed at an enormous archway at the far side of the room.
+
+“Careful,” Malika cautioned. “We still haven’t found the last boss.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

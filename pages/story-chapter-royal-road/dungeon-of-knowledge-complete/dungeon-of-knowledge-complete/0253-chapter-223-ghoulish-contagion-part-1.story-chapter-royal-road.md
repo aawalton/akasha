@@ -1,0 +1,157 @@
+---
+id: c23fd496-d043-56b2-9491-84e6a4309b2e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 223: Ghoulish Contagion (Part 1)"
+slug: 0253-chapter-223-ghoulish-contagion-part-1
+partOf: dungeon-of-knowledge-complete
+position: 253
+ownLength: 2465
+unit: words
+ownProgress: 2465
+publishedAt: 2025-04-13
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2198484/chapter-223-ghoulish-contagion-part-1"
+royalRoadId: "2198484"
+markedReadAt: "2026-06-29T20:19:45.314Z"
+---
+
+You have been cursed with Spirit Banishment.
+
+The air about Mato shimmered suddenly, and everything shifted to gray as he was banished to the Spirit Realm.
+
+Here we go. I hope they can control the trolls without me, he thought, using his shapeshifted guild ring to summon one of the fried ghost mushrooms he had prepared, crushing the tiny sliver with his powerful jaws.
+
+Mm, just the right amount of salt. I wonder if there’s a market for these in Myrin’s Keep? Ooh, I’m sure Tabitha will want to learn to make them, and Ali is sure to grow the mushrooms when we get home. Wait, I hope these aren’t illegal, what would Mom say?
+
+A pleasant sense of solidity flooded his bones and muscles as color returned to his body.
+
+An incandescence from behind him rippled across his Sanctuary aura and Mato wheeled about in time to see the witch doctor stepping across the veil into the Spirit Realm. He ignored the problems of the real world, trusting his friends would figure it out, and charged, slamming into the witch doctor with a roar and a swipe of his claws.
+
+The witch doctor immediately backed away from him, and Mato felt the trigger of his Swipe Battlemaster. His instant attack flattened the witch doctor, knocking him to the ground with a thump and a crack, as thick roots sprang from the gray dirt to grasp at his body.
+
+The witch doctor responded by conjuring a potion and downing it, immediately freeing himself from the roots, and then lashed out with arcing beams of blue that began to rapidly leech Mato’s health and mana.
+
+Oh, no you don’t! Mato retaliated with his new knockback Swipe, trying to interrupt the channeled drain that was consuming his health and mana. He lined up his momentum and struck with all his force, slamming the witch doctor into the air with the full power of the augmented blow. In the instant he was airborne, his Battlemaster triggered again. He didn’t think, he simply reacted, smashing downward with a point-blank, powered strike using both paws.
+
+You have gained Azryet’s Favor.
+
+His claws trailed small eddies of swirling black, ripping through the witch doctor’s flesh and bone, slamming him into the ground. He bounced once and lay still.
+
+It was only then that Mato realized his chime had sounded again.
+
+Your group has defeated Witchdoctor – Troll – level 80.
+
+Yeah, take that! He suppressed the urge to blow the smoke off his claws. Childish, right? Thanks for the damage, that was awesome.
+
+Hmm… now what? He glanced about. His battle with the witch doctor had been sudden and brutal, and he hadn’t even noticed the dead spiders, caught in the fury of the fight. His curse still had a while to go, and he had nothing to do and no way back until it inevitably expired. He switched to his Beastkin Form and stored the corpse of the witch doctor, and then on a whim he gathered most of the dead spiders just in case Ali wanted them and set off in search of more mushrooms. I may as well level my Herb Gathering, he decided, sprouting vines and roots around him to prevent the remaining spiders from interfering.
+
+Your Vitality has cured your Blood Contagion.
+
+Now that’s what I’m talking about. Putting all that vitality to work.
+
+He was halfway across the clearing when he realized what had happened in the fight. He had used his Swipe Knockback skill for the first time – a skill he had not been all that excited about – just to try and interrupt the witch doctor’s channeled drain. The knockback had forcefully driven the witch doctor away from him – which had, surprisingly, triggered his Swipe Battlemaster. The implications finally sunk in. He had been considering his battlemaster-triggered retaliation to be a situational, but extremely powerful, strike, useful for flying creatures. But his new Swipe advancement had given him the ability to force it to trigger every thirty seconds. In the battle against the witch doctor, he had managed to pull off two monstrous hits back-to-back, and the enormous resulting damage had been enough to end the fight.
+
+It didn’t hurt that Azryet’s patronage bonus had triggered, again at a rather opportune moment.
+
+When his curse finally wore off, the world around him once again regained its color. The others were finishing off the last remnants of the troll forces, and a few moments later they were gathered in the clearing surveying the debris and wreckage from the battle. Mato retrieved the corpses from his storage enchantment and dumped them on the ground beside Ali.
+
+“Got you a present,” he said, getting a smile of thanks from the tiny Fae.
+
+“You finished him off pretty quick,” Calen said, obvious curiosity on his face.
+
+“Well, you sent him to me with an Ambush…” Mato said. “And I discovered my knockback skill triggers my Battlemaster retaliation.”
+
+“Wow, that’s nice!” Calen’s eyes lit up with excitement, just as he’d known they would. Calen loved this kind of detail, and Mato had to admit, he was quite excited about the combination too. Apparently, he hadn’t entirely outgrown the desire to dish out large amounts of damage. Oh yes, and there had been a leveling notification too, hadn’t there?
+
+Druidic Shapeshifter has reached level 71.The story has been illicitly taken; should you find it on Amazon, report the infringement.+10 attribute points.Swipe has reached level 43.Brutal Restoration has reached level 42.Bear Form has reached level 37 (+2).Rampant Growth has reached level 15 (+2).Bestial Combat has reached level 36.Natural Prowess has reached level 30.Survival Instinct has reached level 34.Herb Gathering has reached level 16 (+2).
+
+“What are we going to do about this Blood Contagion?” Malika asked.
+
+“I got it,” Mato said, and as the others gathered, he planted himself in the middle of the clearing, shapeshifting into his Tree Form, so they could all heal.
+
+“The ghost mushroom chips really worked,” Ali said, walking over to the center as everyone gathered up by the small huts. A quick inspection showed that they were empty, stripped clean by the dungeon, or its denizens.
+
+“I told you it would be good,” Gara boasted, clambering out of her hiding spot in the brush and coming forward to join them as soon as the awful Blood Contagion faded.
+
+Ali quickly deconstructed the trolls, gathering up the gear for Malika to sell. She paused and studied the dead bat. “What are these things?” she asked. It had been grappled to the ground by Calen’s chain of light, and then trampled and burned by her drakes. For a bat, it was surprisingly big – significantly larger than she was, and the red-and-black design reminded her of her Vampire Hornets.
+
+“Kir’vella’s pets. She breeds them. They have been part of Aman Rak for as long as she’s been Kir,” Gara said, not bothering to translate the complex Trollish title.
+
+“Interesting,” Ali said, studying the unreasonably powerful blood-affinity bat. What kind of person is this Kir’vella? Nevertheless, she would need a few more bats before she could add them to her Grimoire, so she deconstructed this one and put it out of her mind for now.
+
+“I don’t see the Seeker,” Gara said, searching the older bodies that remained from whatever disaster had befallen this clearing. “Where is Val’korr?”
+
+“I see tracks leading that way, someone was dragged off,” Calen said, pointing to where the path exited the clearing on the far side.
+
+“That leads toward Kir’vella’s cave,” Gara said, much of the hope visibly draining from her body at the news. With a sigh, she turned back to Ali. “May I ask you to dispose of them? I have seen your magic; could it save their spirits from suffering the indignity of being raised as zombies and skeletons?”
+
+“Of course,” Ali said, and set to the task of deconstructing the scattered corpses strewn about among the boulders; several even lying crushed under the debris that was all that remained of a shrine. Much to her dismay, her Grimoire reacted by adding an unclassed Troll variant to her imprint, but she said nothing, knowing it would distress Gara even more.
+
+“Lyeneru told me that this was the most important shrine on the continent. The only one capable of guiding class evolutions,” Calen said, looking sadly at the pieces.
+
+“It is true,” Gara said, pride filling her voice momentarily until her eyes settled back on the rubble. “Aman Rak was known for this shrine, and Val’korr was its custodian for as long as anyone can remember. People came from every kingdom when they reached their evolution, and we would hold a recharging ceremony. Every classed troll would gather and Val’korr would drain their mana to fill the shrine and then offer the evolution. I remember the zone notifications; I would record their classes.”
+
+“Everyone who evolved used your shrine?” Ali asked, deconstructing a massive chunk of the black rock to reach one more corpse crushed beneath it.
+
+“Only those who the elders deemed worthy,” Gara said.
+
+“Lyeneru said she used this shrine, and she was approved because she saved a troll,” Calen said. “Supposedly, it took a week for the Aman Rak trolls to recharge the shrine sufficiently for her use.”
+
+Gara nodded.
+
+“That’s…” Ali began, but she failed to find any words. She hadn’t considered quite how valuable shrines must be if their services were so rare. Worse, how expensive would it be for a normal person to recharge the shrine? Hers had over two million mana already. Two million. Without the domain and the shrine’s mana siphon, she couldn’t imagine how hard it must be to fill something like that. But Gara seemed to indicate that this Val’korr could drain mana and reuse it – which meant he could distribute the cost across the entire troll population if necessary.
+
+“This Val’korr, the Seeker, is he a witch doctor too?” Ali asked, deconstructing another boulder. The witch doctors had the blue beam drain which hit five people simultaneously. It drained mana and life – so it could conceivably be the same skill.
+
+“The strongest witch doctor,” Gara confirmed.
+
+“I see. Do you mind if I deconstruct the rest of this stone?” Ali asked, pointing at the rubble on the ground. She had no idea what shrines were made from, and her Identify was telling her it was a ‘shrine fragment’ but expanding her stone imprint might be worth something.
+
+“Do what you will; it is destroyed, as is Aman Rak,” Gara answered.
+
+Ali wished there was some way to cheer her up, but they were literally walking through the dungeon that had consumed her people and her home. The shattered shrine was merely another corpse of Aman Rak.
+
+Variant: Adamant Onyx added to Imprint: Stone
+
+Ali was halfway through the rubble when the notification sounded and her Grimoire inscribed the new variant, taking a remarkable number of pages to do so. Something about this adamant onyx seemed powerful. With the somber mood descending on the clearing, Ali kept to herself and set to the task of deconstructing all the remaining stone fragments. It wasn’t long before Sage of Learning began consuming progressively more and more mana, until near the end, she had to rely on Inspiration because she wasn’t regaining enough from deconstruction to keep her mana pool filled. Then, as the final fragment evaporated, her chime sounded once more.
+
+Runic Script has reached level 35.Sage of Learning has reached level 33 (+2).Domain Mastery has reached level 30 (+2).
+
+Now that’s a lot of skills for a cleanup job, Ali thought, staring at the golden text. Five skill levels, across some of her trickiest skills to grow. But, as she studied her mind’s parchment pages, more text began to appear.
+
+Requirements met for shrine advancement.You have been Soulbound to a Shrine.You have Deconstructed a Shrine.You may choose one of the abilities of the deconstructed Shrine.Shrine of the Ancient Grove gains Blood or Bone.You may instill an affinity for Blood or Bone mana.Shrine of the Ancient Grove gains Evolution.Process a class evolution. Shrine of the Ancient Grove gains Revert.Roll back a class advancement or evolution to the prior state, losing all intervening experience and levels gained. Choose one advancement.
+
+“Oh. Oh, wow,” Ali exclaimed, as the golden text scrolled across her vision.
+
+“What?” Malika asked.
+
+“I just got a shrine advancement for deconstructing all this.” Still somewhat reeling, she shared the options with her friends. It seemed that the Shrine of Aman Rak must have been vastly more advanced than her own.
+
+“Those are incredible!” Calen exclaimed. “Undoing a class advancement would let people who were forced into classes make a new choice. You can give people with no mana affinities one of blood or bone. And there’s an option for class evolution, too!” He seemed rather excited. But there was just one catch.
+
+“I can only choose one,” Ali said.
+
+“Oh,” Calen said, suddenly crestfallen.
+
+“Don’t think of it like that,” Malika said. “You get to choose one of them, and they’re all amazing.”
+
+“A guaranteed affinity is strong,” Calen said, “but not as strong as the other two appear to be – in my opinion.”
+
+“I’m going to pick evolution,” Ali said after a long pause. I’m sorry, Seth. She had considered it, but the choice seemed obvious to her. “Revert would help a lot of people who have bad natural classes. While evolution would help fewer people, but they are also much more powerful. In the fight against Nevyn Eld, we will need strong people to survive.”
+
+She paused, deep in thought. Lyeneru had said that the evolution option was unique; she hadn’t even mentioned the other one, so it must be available somewhere else, or less unique. Unless it’s so rare she never heard of it.
+
+It was too bad she couldn’t pick all of them and help all those people with broken or unwanted classes, but Malika was right – they were all good – and she had the option of saving the unique class evolution function that only Aman Rak had been able to provide before its demise.
+
+“And, we’re likely to need the evolution one ourselves at some point,” Mato added.
+
+Ali nodded and made her selection. I hope this is the right choice. She couldn’t immediately check her shrine abilities from here, but her Grimoire manifested, and her mana began to drain into it rapidly. With a quick thought, she transferred her awareness into her Forest Guardian boss near the shrine. The ground quaked beneath her huge wooden feet as the stone shrine glowed brightly and grew taller and wider.
+
+It's huge! Wow! She swallowed hard, unexpectedly ambushed by melancholy. Dad, this one’s for you…
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

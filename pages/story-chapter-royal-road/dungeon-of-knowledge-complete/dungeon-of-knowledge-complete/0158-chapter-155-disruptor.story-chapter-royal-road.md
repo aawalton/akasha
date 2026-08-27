@@ -1,0 +1,321 @@
+---
+id: 7c8d8731-4444-53fb-b8bf-b9113857fbf5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 155: Disruptor"
+slug: 0158-chapter-155-disruptor
+partOf: dungeon-of-knowledge-complete
+position: 158
+ownLength: 5888
+unit: words
+ownProgress: 5888
+publishedAt: 2024-11-10
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1895559/chapter-155-disruptor"
+royalRoadId: "1895559"
+markedReadAt: "2026-06-29T20:16:19.912Z"
+---
+
+Malika had said her goodbyes, but as the billowing smoke of the recall potion yanked her body out of Toria, dumping her in the receiving room at the Novaspark Academy of Magic, she knew it wouldn’t be goodbye forever.
+
+She settled her teleportation fee quickly and headed out into the sunshine and the familiar bustle and ever-present undercurrent of suspicion, anxiety, and fear that made up the unique atmosphere of the streets of Myrin’s Keep.
+
+But she didn’t let it intrude on the calm serenity of her mind. She had gained so much from her short stay in Kezda. When she had left Myrin’s Keep, she had scarcely been able to pay attention to anything, wholly reliant on her friends and struggling against the onslaught of the pain of her bloodline consuming her body and soul from within, but somehow Ali, Mato, and Ryn had found an Elder and she had been healed. Now, she was back on the streets of Myrin’s Keep with an awakened bloodline, an active Soul Sight skill, and the ability to dodge magic. Much more even than that – she had Rezan’s mentorship and an Ancestral Name.
+
+That Street Rat with a target on her back seemed more than a world away. Her old tormentors were gone, but Kieran Mori still lived…
+
+Standing there in the ruins of Bakahn Village, staring at the blackened foundations that were all that remained of her old home – the resting place of her parents – Malika had finally made peace with her past. For so long, she had borne a heavy guilt, blaming herself for surviving when they had not. Her memories of that time would always be rough, but seeing Sabri, just as bright-eyed and filled with excitement as she had once been for the martial artist she might become had triggered a startling clarity. Without her class, and the progress she now enjoyed, she had been powerless – just like Sabri was now. With this new perspective, much of her guilt had faded.
+
+Her steps were light as she reached out to open the door to the Adventurers Guild, eager to see her friends after so long – Ali’s studious manner and unpretentious brilliance, Mato’s easygoing humor, and Calen’s shy tactical genius.
+
+I wonder if Calen is back already, she thought as she stepped into the guild hall, but the only people present were Mieriel and Vivian, both of whom raised their heads from a pile of paperwork at the sound of her entrance.
+
+“Oh, hi Malika, welcome back,” Mieriel greeted her with a cautious smile. Things had become much easier since she had come clean with her class and abilities and had played a big part in helping them with the Town Council trial. However, she still sensed an undercurrent of uncertainty.
+
+“Hi Mieriel, do you know where Ali is?” Malika asked. She had already decided to forgive the Elf, figuring that if she held a grudge against someone who genuinely seemed to want to be better, then she didn’t deserve the friends she had. It didn’t hurt that she had a lot more wisdom now. She made a point of returning Mieriel’s smile.
+
+A flicker of relief and happiness creased Mieriel’s eyes and she said, “I haven’t seen her today, but Ryn stopped by a few hours ago with an egg-sized chunk of light-affinity magicite for Weldin, so I assume she’s probably still down underground.”
+
+Malika glanced at the empty guild store, realizing that Weldin had probably dashed off to the Novaspark Academy to negotiate the best price – he did love a good haggle, after all. Light affinity was not the best for value, but all magicite was extremely rare and an egg-sized piece would fetch a handsome price. I hope Ryn bargained properly.
+
+Vivian got up and strode across the carpet to join them, powerful flickers of stamina coursing through her muscles as she moved, strangely twisted and tangled as if her body were at odds with her energy. “Welcome back, Malika. It seems you’ve grown stronger.”
+
+“I trained in Kezda under Elder Rezan,” Malika said.
+
+“It shows. I overheard you asking Mieriel about your friends – I was at the shrine earlier today with Mato,” Vivian said, her expression turning grave. “He uncovered an undead abomination that spreads the Blight and wanted to show me without infecting the whole town. Aliandra was there with him.”
+
+“Ok, thanks.” It seemed everyone had been busy while she was training. She knew Mato cared a lot about the land and the destruction of the forest had hit him hard. It didn’t surprise her that he had continued working against the undead at the core of the blight.
+
+She would probably never fully forgive Vivian for what she had done, but the Guildmaster had been a model of good behavior ever since – and Malika was not above using her and her vision to grow her friends and further her own goals.
+
+“By the way, while I was in Kezda, I invited the Elder to bring one of the girls from the village here to use Ali’s class shrine. I told him to look you up if he couldn’t find me or Ali. I hope that’s ok.”
+
+Vivian’s raised eyebrow signaled a little surprise, but she didn’t otherwise show it. “That’s not a problem,” she said. She paused for a moment as if hovering in between a decision and then continued. “Malika, can I ask a favor? Recruitment is not going very well at all–”
+
+“Maybe recruitment is bad because you keep kicking people out?” Mieriel said with a wry smile.
+
+Malika ironed a smile off her lips. Blunt as the backside of a cart.
+
+“Well, we’ve only lost the unmotivated and the weak so far,” Vivian said, acknowledging Mieriel’s point. “But it’s also hard to get people who are interested in taking combat classes – and so many of those want reliable, less risky jobs instead of the guild.”
+
+“Why is it so hard to get people to sign up?” Malika asked curiously. It seemed obvious for the people of Kezda, given the ridiculous cost, but Ali refused to take money for the service, even if she had a pretty good idea why her friend might be hesitant to do it again.
+
+“There are not enough people in the town, only a few are ready, and most are crafter applicants,” Vivian sighed.
+
+“That’s not true, this town is enormous, there are lots of people. I think you’re just not looking in the right places,” Malika said, suddenly realizing the nature of the issue. Class shrines cost money that most people couldn’t afford. If Vivian was pitching the guild and the shrine to those who showed up to the mayor’s advancement ceremony, she would only be looking at a small fraction of the potential – those who could afford it. Or those who have Pickpocket, she thought wryly remembering her own class unlock. Right. Still, that’s the barrier I see.
+
+“What do you mean?”
+
+“The slums and the poor quarters have tons of people. Desperate… people.” She cleared her throat awkwardly. “After the perfect advertisement, courtesy of the Town Council trial, many people know that Ali’s shrine is free. You simply need to let them know to contact the guild if they are interested.” For people like her, screwed over by the circumstances of life or birth, opportunities were hard to find. Something unheard of, like a shot at a good class, would be life-changing for many people and their families. Even though Ali’s shrine was probably public knowledge, most people either didn’t know how to get to her – or maybe even thought it was a scam. On the other hand, if it were backed by something a little more credible, like the Adventurers Guild…
+
+“It’s a good idea, but people train hard for the combat class trials. I can’t send the unclassed against monsters with absolutely no preparation – they will just die,” Vivian answered firmly.
+
+Oh, now we have a conscience? Malika seethed inwardly. What’s with you, woman? Suddenly, she wondered about Vivian’s background, the stiffness in her manner that she had simply taken for age or world-weariness. Her eyes flickered briefly between the two.
+
+Mieriel prompted, “You have an idea, Malika?”
+
+“Train them. Invite them to the guild, give them a sword, and get them some basic training. Then they will be ready for Ali’s sewer monsters.” To her it seemed obvious – she had been trained rigorously from birth, but basic dagger or sword skills were not that hard – certainly not with expert instruction. At least to the level required to kill a toxic slime in a group of five. For someone as experienced as Vivian Ross, it should be a matter of a week or two to get a motivated person ready, and who would be more motivated than someone facing a life of poverty and crime?
+
+“I…” Vivian closed her mouth with a frown upon her brow. “That’s a very good idea.”
+
+“Some of the nobles will be pissed off,” Mieriel countered.
+
+“You couldn’t pay me to care,” Vivian growled, but with a thoughtful expression that suggested an undercurrent of excitement. “Part of the long-term mission of this guild is to be a stabilizing force for the town. Giving the poor opportunities for powerful classes and training to those who have little hope of anything is a great way to turn this town onto a much better path.”
+
+“And likely a substantial boon for the guild,” Malika said, driving her point home. Against her expectations, the Guildmaster’s delivery sounded genuine rather than condescending. Again, she wondered what secrets the powerful warrior might be hiding.
+
+Vivian’s brow furrowed. “I asked Aliandra if we could use the shrine for more people, but she seemed quite hesitant. Would you mind asking her about it, Malika?”
+
+“I’ll chat with Ali. I think I can convince her,” she answered. “I don’t mind helping to train the initiates or whatever you decide to call them.” It wasn’t just that she didn’t mind. There was no way she was letting this opportunity slip her by. Training was a way of life for her, and for most of the Ahn Khen, and this would be an important step to achieving the kind of life she wanted to live. Nobody deserved to be forced into being a Street Rat, to become entangled with the likes of Kieran Mori, or that girl Tala – whatever had become of her?
+
+Her hands tightened into fists by her sides. Yes. Helping people claw their way out of poverty by giving them proper training, a chance at a good class, and a place to belong would be something she could certainly be proud of. And with any luck, their growth would reduce the crime and corruption that plagued this town.
+
+Ali pottered around within Mato’s broad aura, letting the soothing regeneration of his Vitality Rejuvenation slowly dissolve the Blight that had infected her when she deconstructed the abomination. Ridding the world of that horrific thing had been worth the few moments of discomfort, and while she recovered, she busied herself planting more of the gentle white soul-affinity peacebloom flowers. She wasn’t bothered by the fact that she couldn’t talk to Mato in his Tree Form – rather, it felt much like sharing a couch with a friend while reading a good book.
+
+Well, a friend who is the couch? She giggled inwardly.
+
+Ali bent down toward her new batch of flowers and inhaled deeply, calming herself. The scent was beautiful, and she wasn’t about to let Lyeneru Silverleaf discourage her from growing flowers simply because they weren’t useful for defenses.
+
+As the last remnants of the Blight finally faded, she turned to study Mato’s huge form, growing near the shrine. He still had patches of rot and ugly twisted black mana infecting his trunk and branches, so she let him be, heading out toward the flower garden Basil had helped her with. She stepped out over the edge of the threshold of new mossy growth and felt the regeneration of Mato’s powerful Sanctuary fade.
+
+The flower garden doesn’t have enough peacebloom yet, she decided, considering whether to widen the garden or simply interleave the new tiny white flowers.
+
+She was halfway through sprucing up her flower garden when an unusual vibration impinged on her senses shared almost constantly with the slime that she kept by her side. Immediately, she sensed another, and then another, and a fourth. Her head snapped up and her mind reached out to the eyes of one of her Timber Wolves, just in time to see a flare of flame and feel the reservation supporting her minion snap as it died.
+
+Gasping, she cast her attention wider, reaching for several more wolves, and found a trio of figures tearing their way through her minions, magic flaring brightly as they shouted to one another.
+
+Mage – Human – level 63 (Fire / Arcane)Warrior – Human – level 53Hunter – Half-Elf – level 56 (Ice)
+
+She froze. The hunter and the warrior were in front, but the mage flew behind them wreathed in a nimbus of flame, firing a continuous stream of firebolts at her minions, killing most of the wolves with single shots.
+
+“There she is!” the Half-elf invader shouted, launching a powerful, coruscating bolt of bluish ice from his bow.
+
+Ali snapped a barrier in place just in time to intercept the bolt, causing it to shatter into thousands of pieces right in front of her face. Her heart thumped loudly in her chest at the sudden aggression and violence directed at her, shattering her peaceful mood like the shards of ice that rained down to the ground.
+
+A firebolt sizzled and crashed into the barrier but it held, bolstered by the power of her domain magic. Her mind raced, trying to catch up from the surprise attack.
+
+There were four. She could only see three of them, but her slime had most definitely sensed four distinct vibrations. Four – it’s an assassination team!
+
+Ali cast about briefly. Where’s the rogue? It had to be a rogue.
+
+Fear chilled her bones as she realized just how far she was from Mato’s Sanctuary, and the fact that he couldn’t sense anything beyond it in his Tree Form and would therefore be unable to help her. She was on her own out here.
+
+“Come! Now!” she called, reaching out to every single minion. Her barrier popped into place, lifting herself and her two Kobolds into the air while she fended off arrows and firebolts with a second barrier. She fled toward the giant tree and the safety of his Sanctuary.
+
+Suddenly, the barrier beneath her feet vanished, and she found herself falling headlong toward the ground.
+
+What?
+
+She summoned another barrier to catch herself, but nothing happened, her skill failing with a fizzle of unused mana. Desperately, she tried again, her eyes fixated on the rapidly approaching ground, a boulder-strewn patch she definitely did not want to visit at high speed. At the last possible instant, she switched skills, exchanging positions with a Moss Creeper almost twenty meters away using her Minion Teleport skill.
+
+She fled, running toward the far too distant green glow of Mato’s sanctuary, ever thankful for the accelerated mental reflexes provided by Arcane Recall. She pulled up the description of Barrier, desperately urging her minions to fly, run, or crawl faster, and discovered that her skill had inexplicably gained a thirty-second recharge.
+
+What the fuck?
+
+Her frantic mind suddenly registered the laughter from above and the flying Fire Mage shouted, “No mage can win against my Disruption!”
+
+Why are they always laughing when they try to kill me? His attitude, and entirely inappropriate violence, triggered the fury deep within her breast. As the warrior activated a rush skill toward her, she reached out and teleported again, but complex formations of purple arcane magic flickered about the flying mage and her teleport failed, leaving her stranded thirty meters from Mato’s Sanctuary with Sage of Learning drawing heavily on her mana.
+
+Not now! It was literally the worst possible moment; she was already almost out of mana and there were four of them – one still invisible – charging toward her. Whatever the mage had done had given Minion Teleport a forty-second recharge instead of the ten seconds it was supposed to have.
+
+Separated from her minions, and with neither her Barrier nor her Minion Teleport available, she used the only option she had – she sprinted, running as fast as she was able while the warrior and the hunter closed in. A heavy thump detonated heat and flame behind her, knocking her down, and her reservation to her nearest pair of Kobolds snapped as they both died. Instantly, her intelligence and wisdom dropped – and with it, her maximum mana plunged, well below the total she had reserved for monsters. Throughout the cavern, screeches and howls broke out as dozens of her minions were forcibly severed from her mana, instantly going wild.
+
+She scrambled up and sprinted forward, but a bolt of ice pierced her right arm, shattering the bone, and sending her sprawling in pain. As she rolled over and over, spitting dirt and moss from her mouth, she felt the presence of one of her Kobold rogues sprinting into range. At once, she reached for it, swapping it in as her Empowered Summoner target, and her dexterity jumped by nearly one hundred and thirty.
+
+With unexpected agility, she sprang up from the dirt so fast that her feet cycled in the air before she landed and sprinted off at multiples of her usual speed, feet barely making contact with the ground. Desperately recalling how Calen sometimes ran, she tried to emulate his zigzagging and felt the whoosh of a near miss from the ice archer caressing her cheek. Where’s that rogue? He was the one she most feared.
+
+A moment later, a second detonation slammed into her, knocking her flying through the air, searing her skin, and filling her nose with the stench of her own cooked flesh. At the snap of her reservation breaking, her body suddenly felt like she had been plunged into molasses.
+
+But the brief burst of speed and the detonation had knocked her across the threshold and into the vast ring of thicker moss. Sanctuary. Instantly, the surge of Mato’s regeneration kicked in, and the burns on her back began to slowly heal as she landed on them, the wind knocked from her lungs and the pain still gripping her mind.
+
+But her fury kept her conscious despite the pain.
+
+She drew a little mana from the orb still strapped to her wrist and connected with the senses of a Giant Bat soaring in from the north of the cavern, dodging the wild monsters that tried to attack it. With the first click of its echolocation, she saw him. The hidden rogue loomed large right behind her, dagger raised to strike downward at her prone form. Aloft, flying nearly close enough to bathe Ali in his flaming nimbus, was the mage who had disrupted her magic, currently completing the mana formation of a massive fireball. He was still laughing like a maniac.
+
+Mato, I sure hope you have my back.
+
+She drew on her orb once again and stopped time. She would have sighed in the suddenly still gray world if she could have breathed, but the pain of her burns and shattered arm was mercifully gone, if only temporarily. She opened her Grimoire, judged the maximum distance, and then summoned a Forest Guardian several meters above the flying Fire Mage.
+
+Let’s see you disrupt this.
+
+Time restarted, and she made her Giant Bat unleash its stun attack, the conical sonic weapon striking both herself and the rogue behind her. There was no other way, he was already too close to her to avoid it, and she had no more time. The bat screeched. The air shimmered and she blacked out.
+
+Ali’s vision shuddered as she came to with a jolt, a tremendous headache slamming through her brain. The splattered remains of something that had possibly once been human were churned up into muck beneath the feet of an enormous, and very angry Forest Guardian. Behind her were the charred remains of the rogue, tightly bound in the brambles and roots of Mato’s Rampant Growth spell. Shakily, Ali clambered to her feet, careful to summon a barrier to protect herself from any stray shots from the warrior and the ice archer who still clashed with her powerful Forest Guardian.
+
+Absently, Ali wiped something from her face, and then almost threw up when she realized it was a piece of the Fire Mage. With a roar that echoed through the cavern, Mato barreled into the fight in his Bear Form, slamming into the hunter and knocking him down where he became pinned by the double growth of her Guardian and Mato’s magic and was immediately trampled. Ali winced at the loud cracking of bones.
+
+She fired a barrier shard into the fray right as a burst of petals filled the entire area, blinding everyone. But Mato had Survival Instinct, and she was using the senses of the bats that were now arriving in droves. She quickly gave up on her shards, relying on the bats to dive-bomb the remaining intruders with their claws and teeth, and adding the occasional stunning attacks.
+
+Your group has defeated Flame Disruptor – Human – level 63 (Fire / Arcane)Your group has defeated Dark Assassin – Human – level 52Your group has defeated Kinetic Sword – Human – level 53Your group has defeated Ice Archer – Half-Elf – level 54 (Ice)Grove Warden has reached level 51.+10 attribute points.Arcane Recall has reached level 7.Grimoire of Summoning has reached level 30.Minion Teleport has reached level 11.Identify has reached level 14.
+
+Mato shifted out of his Bear Form. “Ali, you’re a maniac!” he exclaimed.
+
+“What?”
+
+“You shot yourself with your own bat, and then took a Fireball to the face while stunned, just to take out that rogue.”
+
+“Yes… I guess so?” she answered, looking down at her heavily burned robes, splattered by gore and blood. It was a gruesome sight, one that churned her stomach. But the feeling passed quickly as she recalled the mage’s insane laughter as he tried to kill her.
+
+“And you squashed that mage…” His eyebrows waggled expressively.
+
+“Aah…” She had no desire to look at whatever was left of him. Instead, she pulsed a little mana into the self-repair enchant Lydia had put on the clothing that had no doubt helped her to survive the abundant magical damage from the Fire Mage and the Ice Archer – and her own bat.
+
+She glanced up and blushed at Mato’s expression of open amazement. “Respect, little one,” he said.
+
+“I’m not little, you’re just…”
+
+“Big,” he finished for her. “You’re pretty big yourself. But next time warn me before you decide to tank a level sixty-three Fire Mage, a Giant Bat, and a Dark Assassin simultaneously–”
+
+“Too busy swallowing Fireballs.”
+
+“Yes, but that was more damage than you could have survived on your own,” he said softly.
+
+“Thanks for having my back,” she said, as the reality slowly trickled in. It had been very close, and she was not nearly as prepared as she had thought she was. One mage with a fancy disruption skill and suddenly she had been left stranded and vulnerable, unable to defend herself. Mato had always been the one telling her to make minions to protect herself, and she suddenly realized she hadn’t made nearly enough.
+
+“You’re welcome.”
+
+“I just hoped you weren’t asleep in there,” she said, trying to lighten the mood a little.
+
+He chuckled. “For reference, I can’t sleep in Tree Form. It’s more like how Malika always describes her meditation. I’m always aware of what’s going on. Come, let’s collect this stuff for Malika to sell when she gets back. Or maybe Calen would like a new bow? This one looks decent.”
+
+Ali braced herself for the gruesome task of cleaning up, deconstructing the remains of the attackers, and the monsters she had lost when she had run out of mana, now dead, killed by the remainder of her minions.
+
+I need to get stronger. A lot stronger. I wonder who sent this team? Bet I can guess…
+
+She would never be able to pull it off without mana. For one thing, she was vulnerable to losing her minions and therefore her Empowered Summoner buffs, and as she had discovered, she would lose minions if she didn’t have enough reserved to cover them all. She resummoned her Acolyte and her mage, so she could reactivate her buffs when the recharge expired.
+
+Stronger minions should be a priority. But it wasn’t something she could fix immediately. Instead, she dropped all her free attribute points for level fifty-one into wisdom and then called her Forest Guardian over while she waited out the full duration of her recharge. When she had summoned it using the stored mana from her orb’s mana battery, the reservation had bumped several other lower-level minions out of her reservation. She wasn’t sure if it was based on level, a queue, or some other system, but she wasn’t that keen on needing to find out in the middle of combat again. While she waited, she ran over several ideas to test it with the minimum of risk. It was just fortunate that her Guardian and the nearby bats had remained under her control – things would have gone horribly wrong if one of those had been released forcibly.
+
+Finally, her recharge expired, and she added her Acolyte to her Empowered Summoner targets, feeling the welcome surge in her wisdom and mana pool. Then she turned to her enormous minion.
+
+Forest Guardian – Wood Elemental – level 40 (Nature)
+
+She reached out, resting her palm against the bark on its foreleg, and activated Domain Mastery.
+
+Choose Domain Enhancement Level: Domain, Boss, or Raid.
+
+“Raid,” she said, directing her will into her skill. She had a very clear idea of what she wanted for this boss, and it was likely to become the most powerful creature in her entire dungeon.
+
+Domain Respawn applied to Forest Guardian.Raid Domain Enhancement applied to Forest Guardian.Select additional Domain Magic skills for Forest Guardian.Choose up to three:Attribute EnhancementMinionsSummoningEnrageNova StrikeAffinity AuraTwin Binding
+
+She immediately chose Minions for the first ability.
+
+Select or create minions: 160 levels remaining.
+
+She called over four Floral Menaces, and three Spore Spreaders, did a quick bit of math, and summoned one more Floral Menace to fill out the one hundred and sixty levels she could use.
+
+Minions assigned.
+
+For her second ability, she chose Summoning.
+
+Choose an imprint.
+
+She opened her Grimoire and paged to the Bat imprint. She could tell her customization would allow her to restrict the summons to specific level ranges and variants, but she chose the entire imprint, deciding that random bats would be fine.
+
+Summoning (Bat) assigned.
+
+And for her final enhancement, she selected its strength attribute. Forest Guardians had enormous power – already having twenty attribute points per level. She wanted something that provided an overwhelming force to guard the forest cavern and the shrine in particular, and doubling down on strength would leverage one of its innate advantages. She had already tried to be thrifty with her limited mana, but this surprise encounter had violently disabused her of that notion.
+
+Attribute Enhancement (Strength) applied.Domain Enhancement complete.Your reserved mana has increased by +2146.
+
+There was a powerful surge through the mana of her domain and the Forest Guardian drew it into itself, growing even larger, legs thickening, torso broadening, and bark armor growing until it was fully twice the size. Its minions grew too, huddling in the shadow of the behemoth of wood and bark.
+
+“That’s sure impressive,” Mato exclaimed. “What does it do?”
+
+“I copied the synergy between the Floral Menace petal attacks and the bats. This thing will summon bats while the Floral Menaces will make it impossible to see.” She could again see the weight of the enormous enchantment straining her domain mana throughout the broad area around them. It was abundantly clear that this boss was nearing the limits of what her domain would be able to support and, if she needed to make another, she would need to do it outside of the range entirely.
+
+“And the bats can use echolocation? Clever…” Mato said. “And the Spore Spreaders… wait, don’t tell me…”
+
+“Yes, they will fill the air with Dreamcloud spores and put anyone to sleep – like the one that got you and Malika,” Ali said. “The Guardian can heal its minions, and it has the roots to trap people in the spore cloud.” This boss even had Life Sight, which would be a potent asset in detecting rogues and assassins.
+
+“That sounds pretty vicious.”
+
+“After facing the guys that came after us, I’ll take that as a compliment.”
+
+She had guessed approximately how much it would cost, and with the loss of her lesser minions and her additional wisdom, she could barely afford the cost. But it was still a steep reserve, over two thousand mana for a single monster, and she was unlikely to be able to afford another like it for a while.
+
+“Defend the shrine. Oh, and me,” she instructed, setting her monstrous raid boss to patrol along the shores of the lake and around the grove. It raised its head and rumbled, making the ground shake, before it ambled off with its little minions following like ducklings after their mother leaving a trail of mushrooms and flowers in its wake.
+
+***
+
+Race: Forest Guardian – Wood ElementalActive Buffs: Raid, Respawn, Elemental Vitality, Regeneration AuraClass: Forest Guardian – level 40- Maul – level 27- Trample – level 22- Bark Armor – level 28- Elemental Combat – level 23- Regeneration Aura – level 25- Rampant Growth Aura – level 29- Self-Heal – level 31- Elemental Vitality – level 21- Life Sight – level 14- Monstrous Defender – level 4Domain Magic- Damage Multiplier: x2.5 to all attack and spell damage- Minions: 8- Summoning: Bats- Enhanced Attribute (Strength): +50% to base StrengthAptitudes- Mana (Affinity): Nature- Damage Absorption (Racial): Nature and Poison damage is absorbed as healing- Vulnerabilities (Racial): +50% extra damage from FireAttributes- Vitality: 335 (+147) - Strength: 610 (+268) - Endurance: 312 (+137) - Dexterity: 67- Perception: 94- Intelligence: 81- Wisdom: 107Armor: 1528Physical Damage Reduction: 57.7%Resistance: 400Magical Damage Reduction: 26.31%Health: 33500/33500Stamina: 31200/31200Mana: 4815/10700 (5885 Reserved)
+
+Rezan knelt quietly under the shade of the old peach tree, watching Basir and Hala spar in the ring. Somehow, the two of them had both been individually inspired by Malika’s exquisite command of her fundamentals and had both made significant advances in their understanding of their martial arts technique. It was quite clear that Malika had had exceptional instruction in her youth.
+
+A little off to the side, so as not to disturb anyone, Sabri practiced. Even she had picked up some of Malika’s martial arts movement from the short opportunity she had had to observe it. It made him proud to see her so diligent with her practice.
+
+His attention shifted back to the match in the middle of the ring, but suddenly he caught a powerful shift in Sabri’s energy, and his head snapped around to see her standing still, staring off into space. As he watched, her expression crumbled, and he knew with a chilling certainty what had just happened.
+
+“Class?” he asked.
+
+She nodded, holding in what looked like an imminent flood of tears. “Laborer,” she whispered, and then turned and fled.
+
+***
+
+“She hasn’t moved since she came home. Is there nothing that can be done? Maybe I can go to Vertias and beg for an exception? Do you think they will take the farm as payment?”
+
+Sabri’s mother was almost as distraught as she had been. For her to offer to sell the family farm to cover Sabri’s shrine fee was a testament to just how desperate she was. He didn’t have the heart to tell her the farm wouldn’t even come close to covering the fee that Vertias had started demanding.
+
+Laborer.
+
+The word had landed like a gut punch from a Dragonkin Brawler, and Sabri’s reaction had crushed his heart in an instant. Sabri loved martial arts. She spent every free moment studying it. For someone like her to be stuck for life as a farmhand because her natural class was Laborer was an affront to the Ancestors themselves.
+
+“I’m sorry, Seyah, there’s nothing we can do.” He simply didn’t have enough money to pay the fee. In fact, the entire town probably didn’t have enough money. But as he said it, his mind recalled Malika and her unthinkable offer, and his heart squirmed at the thought of leaving the untruth spoken.
+
+“What is it, Rezan?” Seyah asked, clearly clutching at anything, desperately hoping.
+
+“It’s just something Malika said before she left. Her friend Aliandra has a shrine, and she offered to let Sabri use it for free.”
+
+“Why didn’t you say that before, Rezan?” she exclaimed.
+
+“Because Aliandra is in Myrin’s Keep. And she is a dungeon.”
+
+Seyah’s face blanched instantly. But it was Sabri’s teary voice that called out from the house.
+
+“I’ll go.”
+
+She heard. It can’t be unheard… yet, those two words gutted him. Dungeons were fickle and dangerous, way worse than monsters. But in the back of his mind, his conscience prickled, a sensation he had long learned to respect.
+
+“Sabri!” Seyah exclaimed.
+
+“I trust Malika, Mom,” Sabri said, emerging from the doorway, her face a mess of smeared dust and tears.
+
+Aliandra’s image sprang unbidden to Rezan’s mind, a small Fae who, even supposedly being a dungeon, had traveled across the kingdom to find help for Malika. A person who, with absolutely no chance of winning, had still interposed herself between him and Malika when she had believed he would kill her.
+
+And she was also less than level fifty, he thought, chiding himself for being afraid of her simply because she was a dungeon. Am I willing to waste Sabri’s life because I’ve become so rigid in my old age that I won’t risk going up against a baby dungeon?
+
+“I can’t afford the teleport cost…” he said.
+
+“I’ll walk,” Sabri said instantly.
+
+“Don’t be silly, you can’t walk to Myrin’s Keep in a week,” he countered. “But… I think I can afford to rent a fast mount. If we go now, we can make it with a day or two to spare.”
+
+“You would go with her?” Seyah asked.
+
+“I won’t let her face an unknown town in another kingdom, and a dungeon, by herself. I can’t promise there is a shrine or a class, but I will protect her,” he said, and then turned to Sabri. “We will need to leave immediately. Go get your things.”
+
+“I’m ready,” Sabri said without moving. But it was the joyous smile on her face, the radiance of hope he could feel from her that told him he was making the right choice.
+
+I will trust you, Malika, he thought as Sabri made her hasty goodbyes with her mother.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

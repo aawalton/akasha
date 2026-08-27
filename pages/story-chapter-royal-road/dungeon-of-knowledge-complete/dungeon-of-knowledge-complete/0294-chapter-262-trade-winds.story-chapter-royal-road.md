@@ -1,0 +1,103 @@
+---
+id: 8cf86d27-7808-5016-b2cd-7fcefc5c1f3a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 262: Trade Winds"
+slug: 0294-chapter-262-trade-winds
+partOf: dungeon-of-knowledge-complete
+position: 294
+ownLength: 1454
+unit: words
+ownProgress: 1454
+publishedAt: 2025-05-29
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2314406/chapter-262-trade-winds"
+royalRoadId: "2314406"
+markedReadAt: "2026-06-29T20:21:13.811Z"
+---
+
+Worthington sat quietly daydreaming. The Silver Cog weekly strategy meetings were almost always a serious bore, and he couldn’t wait to get back to his warehouse and the newest cloth shipments that were scheduled to arrive this afternoon from his eastern trade route. He was going to make so much money from that deal, he could already feel the gold coins raining from his fingers.
+
+“And that concludes our regular business,” Bixi said.
+
+Bixi Bargainhunter, the head of business and acquisitions, was always too chipper. But anyone stupid enough to let the bouncing green pigtails and the ready grins distract them was bound to lose their entire business – and probably their coin purse, shirt, and favorite childhood stuffed toy – before they even noticed.
+
+It had been under Bixi’s inspired leadership that Silver Cog Trading had expanded across the seven southern kingdoms over the last two decades, dominating and crushing all competition as they grew. A feat none of the other major trading houses could even come close to matching – and not for want of trying. Bixi’s crowning achievements included securing a strong foothold on the Dol Kerriadh peninsula: proper trade agreements with the elusive elves of Ciradyl itself, and even several of the notoriously parochial troll kingdoms – a feat which had opened the floodgates of profit that had swelled their coffers.
+
+Worthington sighed and began to push his chair back, but Bixi continued.
+
+“We received a formal petition from a town called Myrin’s Keep,” she said, producing a large white box and an accompanying letter from her jeweled storage ring to the sounds of several groans from across the table.
+
+“Myrin’s Keep?” Worthington asked. The name sounded familiar for some reason.
+
+“Isn’t that the border town between New Daria and the Torian Kingdom?” Filius suggested.
+
+“Oh, that’s right,” he said, pursing his lips and recalling the dismal little town. It had come up briefly during their discussions about exploiting the interminable conflicts between Toria and New Daria, but beyond the obvious strategic importance of its location, the town had nothing much of value. Worse, it was now in the epicenter of a particularly persistent blight that had wiped out much of the logging and farming for the entire area and had forced him to shift his investments to cloth to recover his losses.
+
+“Let’s see if the rocks they sent us are at least shiny,” Worthington said, shaking off the depressing thoughts with a half-hearted attempt at a joke. It was a sad state of affairs – without recognition from an established trading company like Silver Cog, many towns would remain isolated backwaters, fated to stagnate, and so, they would regularly petition all the major trading companies trying to ‘procure’ interest. Unfortunately, without something of value to sell, there was no reason for a trading house to even visit, and so these petitions almost always amounted to pathetic begging or blatant bribery. He got a few chuckles from around the table as Bixi unfolded the expensive parchment and began to read from the letter.
+
+“Supposedly, this is signed by one Weldin Thriftpenny, guild merchant for the Adventurers Guild,” Bixi said, her eyebrow raising as if impressed.
+
+“That’s a good Gnomish name,” Filius offered.
+
+“It’s also signed by several crafters and by the guild administrator,” Bixi added. She reached into the box and pulled out a professionally packed carrying tray of swirling black potions.
+
+Potion of Recall – level 10Break: Creates a cloud of black opaque smoke, teleporting you to a set teleportation locus.Locus:  Novaspark Academy of Magic, Myrin’s Keep.Created by Morwynne Fizzlebang – “Run away!”Quality: MagicalValue: 15 silverPotion – Consumable
+
+“What is this? Some kind of a joke?”
+
+“Level ten potions? Seriously?”
+
+“A level ten teleportation potion without a range limit,” Bixi said, and the clamor shut up instantly. “Smoke magic is cheap; we could sell thousands of these to every single Adventurers Guild on the continent.”
+
+“This Morwynne Fizzlebang seems to be a bit of a smartass,” Worthington said, reading the mana signature. He’d known a few Fizzlebangs, but they had always been Fire Mages, pyromaniacs with a penchant for blowing themselves and everyone else around them up.
+
+Bixi nodded and put the potions down carefully, reaching into the box a second time and pulling out some bolts of cloth, one shimmering with light, and the other with red flame. “Fire Silk, and Shimmerweb,” she said, placing them on the table. “Interested, Worthington?”
+
+“Potentially…” he said, trying to keep a professionally even tone. In spite of himself, Worthington was impressed. The Fire Silk seemed to have an exquisitely fine weave, and its creator had somehow managed to produce it in pure white with the flames of the fire enchantment dancing within like an illusion – a simple detail, but one which would vastly increase its value as a source for fashionable outfits. His Appraise suggested the unusual Shimmerweb might be even more valuable to the right buyer, given its lower-level requirements. Something suited to the wealthy, for sure.
+
+Bixi produced another couple of potions, this time glowing with a vibrant green. “Elixir of Vitality Rejuvenation by one Eliyen Mistwood.”
+
+This can’t be right, he thought. It was Myrin’s Keep – those elixirs were advanced magic, worth several gold per potion. There were three in the box.
+
+“Fire Silk slippers with four enchantments, level eighty-five, by Lydia Avery,” Bixi said, laying a beautiful pair of designer slippers that would have been perfect for a grand evening party beside the green potions. Murmurs of appreciation greeted the slippers as necks craned to get a closer look.
+
+“A level ninety sword made from Fireforged steel by Thuli,” Bixi said, placing it beside the bolts of cloth.
+
+“That’s a very good sword,” Filius said, nodding firmly. “Excellent enchantment spread, attractive to both warriors and rogues.”
+
+“Ooh! These are pretty,” Bixi said, pulling out two emerald earrings. “Level sixty-five earrings of poison resistance by Giddy Clicksprocket.”
+
+Another good Gnomish name, Worthington thought. At least this petition was not stupid. But it was growing more and more unbelievable as Bixi continued producing surprises from the box.
+
+Bixi grinned as she held the emeralds to her ears and struck a pose. Then she glanced down into the box once more and froze, surprise playing across her face as she pulled out several essences. “Flame, Inferno, Living Flame, and Hellfire. A vial of mana-purified water. According to the notes these were gathered from a dungeon they have under the town. There’s also this,” she said, cradling something in her palms and placing it with exaggerated care on the table.
+
+The green crystal sliver shone brightly, catching the attention of every eye in the room.
+
+Is that…
+
+“Magicite!” Instantly, the entire room erupted into exclamations and shouts as people leaned in to get closer looks. Bixi sat back in her chair stroking her chin while the clamor slowly calmed down.
+
+“What do you think?” Bixi asked when most of the faces had returned to her.
+
+“I think it’s too good to be true,” Worthington admitted. “Myrin’s Keep is a nothing town in a poor part of the kingdom with a history of insignificance. They claim to have a tame dungeon they can pull magicite from, but what proof do we have? If they really had a new dungeon, I could understand all this wealth, but that is extremely unlikely. No, they bought an ancient wand and cracked it to get that magicite. The rest of the stuff is too high level for a border town crafter – there is no way the Guild of Tailors doesn’t have their claws in whoever made those slippers or that silk.”
+
+He got nods and mutters of agreement from the senior merchants and inspectors around the room. It was a sophisticated bribe, but a fake one, nonetheless. Nothing they hadn’t seen many times before.
+
+“But we still need to check it out,” Bixi said. “Remember how we got rich. We were thorough and found the deals the other companies missed.”
+
+Worthington suddenly felt a prickle of premonition as he struggled to recall who had been saddled with this job last time.
+
+“Worthington, I do believe it’s your turn,” Bixi said, confirming his worst fears.
+
+Ugh, this sucks. “Do I at least get travel compensation because it’s so far?” he asked. She was right though, it was his duty to the company, but it didn’t mean he wasn’t going to complain bitterly when he got out there and uncovered the ruse for what it was.
+
+“Yes,” Bixi said. “I recall that Myrin’s Keep has a local trade company called… Hawkhurst Trading, I think. Start with them.”
+
+“Right,” Worthington said, already mentally rearranging his schedule for the next few weeks.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

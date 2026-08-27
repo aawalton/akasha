@@ -1,0 +1,335 @@
+---
+id: 77e8e0ab-dc52-59e2-97dc-f840a3aa34d2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 27: Insight"
+slug: 0027-chapter-27-insight
+partOf: dungeon-of-knowledge-complete
+position: 27
+ownLength: 6115
+unit: words
+ownProgress: 6115
+publishedAt: 2024-02-23
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1529217/chapter-27-insight"
+royalRoadId: "1529217"
+markedReadAt: "2026-06-29T20:11:52.954Z"
+---
+
+We’re not out yet. Keep alert.
+
+Mato held his emotions in check as he followed Ali out of the shattered stone doors of the ruined underground city, heading towards what she assured him was the forest cavern above. She was clearly emotional as they left the dark Kobold-infested ruins behind, but he remained vigilant, keeping an eye on the shadows just in case.
+
+He limped a little as he walked, pain throbbing through the partially healed muscles that had been shredded by the bone sword of the Kobold Swordmaster. I didn’t wait long enough in Ali’s restoration circle, he thought, but he didn’t feel any regret. Ali had seemed eager – bordering on desperate – to leave the dangerous ruins, and he couldn’t say he didn’t feel the same way. The remaining injuries would heal in time – he had his regeneration aura now.
+
+They followed the broad, rocky tunnel for what seemed like ages, but despite his vigilant glances into every shadowed nook, all remained quiet, save for the soft trickle of water seeping through cracks in the rock and the sounds of their own footsteps. His fears that new monsters might leap out to confront them began to disperse as the passage slowly broadened and flattened out. Eventually, he stepped out into a broad, familiar underground cavern, filled with the mind-bogglingly enormous, blackened tree trunks that supported the uncountable tons of rocky roof far above his head.
+
+Never in his life would he have believed he’d be so happy to find himself in a dark hole underground.
+
+Ali’s excitement was growing with every step, and it was hard to not be pulled along with it. As she led the way around a large trunk, he suddenly found himself standing at the edge of the ancient Grove. Ali’s moss carpeted the ground, lit by the tiny glowing mushrooms lining the stone pathway and surrounding the looming dimly glowing mass of the shrine itself. Strewn across the open space were the still-glowing golden shards and fragments – remnants of the magic Ali had said preserved her through the ages.
+
+Ali let out a whoop of joy and grabbed his hand, drawing him to the center of the moss-covered clearing to sit beside the shrine. His heart nearly stopped at the electric jolt of her touch – a spontaneous connection, pure and unmarred by fear and terror. The surge of relief he felt as he lowered himself to sit – safe now in the familiar Grove – was so powerful it made him lightheaded.
+
+Or perhaps I’m just dizzy because we haven’t eaten for over a week. I could eat this moss!
+
+He sat quietly on the springy moss, enjoying Ali’s joyous smile.
+
+We made it.
+
+The thought slowly percolated through his mind and settled in as he finally let himself relax. We really made it out, somehow. He struggled to fully accept the truth after so long being trapped down there.
+
+They had very nearly died. Many times. Mato reflected on their ordeal, as his eyes roamed around the safe space, still half expecting to see the shadows move or hear the chirping calls of Kobolds or the clacking ungainly movement of a skeleton. He knew he preferred to take life as it came – and liked to say it would all work out in the end. But…
+
+I almost killed her down there.
+
+This thought weighed on him, refusing to let go. All through his childhood, he had looked out for Calen, protecting him from the bullies who wanted to prey on the slender Half-elf. He was big and powerful, and Calen was smart – it was only natural that he would take the punches and fight back, while Calen would look out for him when they needed to think their way out of problems. It wasn’t really a consideration; it was simply how things were.
+
+When he had first seen Ali, he had followed his instincts, jumping in to protect her from the wolves. It had felt natural and right – and somewhere along the way she had become a friend. But he had lost control of his power down in the darkness, and he had hurt her. The sound of her bones crunching in his jaws, her screams, the blind fury of his rage, and the taste of her blood filling his mouth would haunt him for the rest of his life.
+
+He didn’t know how to be anymore. His instincts told him he should protect her as his friend. But down in the ruins, she had looked at him with the same terror she looked at the monsters.
+
+I am a monster.
+
+He shook his head, trying to dismiss the deeply disturbing thoughts. Thoughts that had been easier to suppress while they were in danger, fighting for their lives, now gushed up inside him and threatened to overwhelm his heart.
+
+She got a new skill at level ten, he thought, sudden hope shining through the dark turmoil weighing on his heart. Maybe I can fix this? Their last battle had been hard, unbelievably so, and he had been level eight when they had engaged. Ali and her minions had done the bulk of the damage, but surely he must have earned something from the fight?
+
+With an equal mix of hope and trepidation, he approached the glowing tree in his mind and asked it for the notifications he had suppressed earlier.
+
+Your group has defeated Fire Mage – Kobold – level 17.Your group has defeated Dagger Rogue – Kobold – level 14.Your group has defeated Warrior – Undead Skeleton – level 11.Your group has defeated Slinger – Kobold – level 11-13 x2.Your group has defeated Swordmaster – Kobold – level 21.
+
+He stared at the last kill notification as a torrent of emotions and memories of the fight coursed through him. He, a level eight Druid, should not have survived against a level twenty-one Swordmaster. A dungeon boss, if his guess was correct. He knew just how close it had been. So many times, he really had lost control to the rage, and it was only his armor and the fact that his healing magic restored his health over time that had dragged him back from the brink again and again. He had no idea how he had even remembered to use his Brutal Restoration skill in the haze of his mindless rage – perhaps Ali’s voice screaming for him to use his heal would haunt his dreams.
+
+Druidic Shapeshifter has reached level 11 (+3).+30 attribute points.
+
+The last, simple notification truly underscored the incredible risk and danger of the fight for him.
+
+If Ali hadn’t been there with her mosquito bolts and shouts …
+
+After learning to make Kobolds, Ali’s summoner class had really begun to reveal its power. If she hadn’t been able to bring five strong Kobolds and empower them with her new minion damage skill, they would be slowly cooling corpses down there in the darkness right now. And even then, she had still lost most of her creatures, and the two of them had barely escaped with their lives.
+
+Arboreal Sanctuary has reached level 7.Swipe has reached level 7 (+2).Brutal Restoration has reached level 9.Bear Form has reached level 8.Primal Rage has reached level 8 (+2).Identify has reached level 6.Class skill slot unlocked.
+
+There it is. Yes! The notification sent a ripple of complex emotion through him. Just like Ali, he had unlocked a new class skill slot upon reaching level ten. He closed his eyes and took a deep breath, daring to hope. Many people believed that the skills offered were related to your achievements, natural aptitude, or even your needs and desires.
+
+He desperately hoped the latter was true.
+
+I will do it regardless, he vowed, resolving to replace Primal Rage with anything he was offered, no matter how bad. I just hope it’s not too terrible.
+
+He opened his eyes and read the first skill.
+
+New skills are available for Druidic Shapeshifter.New skill unlocked.Class level has reached 10.Strength has surpassed 35.Defended against multiple higher-level melee attackers simultaneously.Bestial CombatRequires: Shapeshifted form.You are proficient at fighting while shapeshifted, using natural weapons and forms.Stamina: Block a Melee attack, reducing damage taken proportional to strength and skill. Blocked attacks cannot cause critical damage. Physical, Melee, Defense, Mastery, Strength
+
+He could scarcely believe his eyes as he read through the Bestial Combat skill offering a second time, verifying that yes, his class was offering him a different direction. A physical combat mastery skill focused on shapeshifting instead of rage and the amount of damage he took.
+
+Do other people get more than one option for this? Or was it offered because of what happened? He doubted he would get an answer any time soon.
+
+It seems … perfect?
+
+The passive proficiency with fighting in shapeshifted form sounded enticing. Sounds like it might be a skill-based improvement. It had the Mastery skill trait, so he might need to practice the same way Calen trained with his bow. Blocking melee attacks sounded strong – perhaps a bit on the defensive side, but right now he was willing to accept anything to replace Primal Rage. Again, something he would need to get a feel for, but nowhere in the description did it even hint about losing control of his mind – and that made the skill perfect.
+
+Obviously, the loss of Primal Rage would severely impact the amount of damage he did, but if he never had to see the fear on the face of his friends again, it would be more than worth it.
+
+New skill unlocked.Class level has reached 10.Killed more than ten enemies above your class level.Wrath of NatureMana: Fire a bolt of nature magic to strike your enemies. Range: 30 yards.Nature, Ranged, Intelligence
+
+Wrath of Nature seemed to be a pure damage skill, working from the safety of range. I don’t have any ranged attacks, he thought, with the technical exception of his bear-form charge.
+
+Is ranged damage a smart choice? He replayed the fights against Kobolds in the darkened ruins. Nowhere in any of their fights could he think of a place where the range might have made the difference. Calen, I wish I had your advice right now. His friend always came up with smart deductions, excellent insight, and saw the details that Mato often missed. He loved to read up on this kind of stuff too, and Mato simply never had the patience for that. And now he was forced to confront the decision on his own.
+
+I’m always in the thick of things, he finally decided. His recent traumatic experience with Primal Rage notwithstanding, Mato knew he enjoyed being up in the front of the battle. He mentally noted Wrath of Nature as his backup in case there was nothing better.
+
+New skill unlocked.Class level has reached 10.Wisdom has reached at least 20.Fought and survived in multiple shapeshifted forms.Natural ProwessThree of your attributes appropriate to your form are increased by + [40 + skill + base wisdom / 10] %. Mana: Wisdom, Intelligence, and Perception are increased. Beastkin, Reserve: 20%Stamina: Endurance, Vitality, and Strength are increased. Bear Form, Reserve: 20%Stamina: Perception, Dexterity, and Strength are increased. Wolf Form, Reserve: 20%Nature, Buff, Wisdom
+
+As soon as Mato read his third and final skill offering, Natural Prowess, his decision was made. A straight-up boost to his attributes would suit him perfectly. Both Calen and Malika already had a similar skill, and he had seen just how effective they were. And this skill would have made a big difference to every fight in the ruins – which passed his test.
+
+Cautiously happy, he selected Natural Prowess for his newly unlocked skill slot.
+
+You have gained the class skill Natural Prowess.
+
+Now for the real test.
+
+He called up the list of skills available to him and chose Bestial Combat from the two remaining options.
+
+No free skill slots available, choose a skill to replace.
+
+He selected Primal Rage.
+
+Primal Rage will be replaced with Bestial Combat, all skill levels will be lost.
+
+He confirmed the replacement without hesitation.
+
+You have lost the class skill Primal Rage.You have gained the class skill Bestial Combat.
+
+Immediately, he felt a lightness suffuse his entire body, as if a heavy weight had been dropped from his shoulders and the terrifying skill was relegated to the list of unchosen skills, never to be touched again.
+
+He let out a deep sigh and just sat there for a few moments.
+
+I think I have enough vitality for the moment. He considered his thirty attribute points. He spent a few points to increase his lowest attributes, and then split the remainder among strength, wisdom, and endurance. He switched to his Bear Form and enabled Natural Prowess to check his combat status.
+
+Name: Mato BahrRace: BeastkinBuffs: Bear Form, Natural ProwessClass: Druidic Shapeshifter – level 11- Arboreal Sanctuary – level 7- Swipe – level 7- Brutal Restoration – level 9- Bear Form – level 8- Wolf Form – level 2- Bestial Combat – level 1- Natural Prowess – level 1- [Locked]- [Locked]- [Locked]General Skills- Identify – level 6- Cooking – level 4- Wilderness Lore – level 5Aptitudes- Languages: Common, Beast- Mana (Affinity): Nature- Strong (Racial): +7 Strength- Tough (Racial): +10 EnduranceAttributes- Vitality: 86 (+26)Unauthorized tale usage: if you spot this story on Amazon, report the violation.- Strength: 60 (+18)- Endurance: 61 (+18)- Dexterity: 8- Perception: 7- Intelligence: 9- Wisdom: 28Armor: 289Physical Damage Reduction: 48.4%Health: 860/860Stamina: 488/610 (122 Reserved)Mana: 280/280
+
+He had lost a lot of skill levels by removing Primal Rage, but he was relieved to have made the change.
+
+I can just level up the new skills, he thought, considering the changes carefully. It might take a little while, but the time invested would be a small price to pay for peace of mind. On the other hand, Natural Prowess had just boosted his vitality, strength, and endurance significantly. His body felt powerful, just standing there. On balance, this change looked like it would improve his combat abilities more in the long term than his old skill, and it would continue to get better as he developed his two new skills.
+
+He released his Bear Form feeling a strange snap as Natural Prowess switched over from reserving stamina to mana, and his attribute enhancements changed to match his form. He breathed deeply, surprised by just how much tension had simply evaporated with the change.
+
+“It’s gone,” he said to Ali who was sitting next to him, looking somewhat preoccupied. Presumably, she was busy with her class notifications just like he was.
+
+“What is?”
+
+At her puzzled look he elaborated, “I replaced Primal Rage. I won’t lose control again.”
+
+She stared at him for a long time before speaking. “Thank you, Mato.” She let out a heavy sigh, and the tension in her shoulders and face visibly melted away.
+
+“I’m really sorry,” he apologized once more. “I came very close to losing it during that last fight, too. Thank you for staying with me, I would never have made it out alive without you.”
+
+“I was terrified.” Ali spoke quietly, staring off into the dark cavern. “Not just of you. The Kobolds, the rogues in particular, and the withdrawal. Thanks for trying to keep my spirits up even when I had lost hope. I would have given up without you.”
+
+Mato sat quietly for a moment, slowly realizing that Ali didn’t actually hate him. She is much more forgiving than I would have been.
+
+“How long do you think your domain withdrawal will take to heal?” he asked eventually.
+
+“It’s already getting better,” she answered, smiling. “Probably a couple of hours.”
+
+“Will you be ok by yourself if I go report Calen and Malika missing to the garrison commander and see if there’s any news?” he asked. “I’m worried about them.” It had been over a week. I hope they’re still alive.
+
+“Yes, I have my rogue,” she answered, pointing to the dark Kobold standing guard. “And I can make another one just in case. It will be good to figure out if they need help. Come and get me when you find out anything?”
+
+Nodding, Mato got up and headed to the town above. I need to swing by the house. Mom will be worried sick. And Ali is probably starving.
+
+Ali sat cross-legged on her moss carpet next to the shrine, savoring the sensation of her domain withdrawal slowly dissolving. She wouldn’t be able to do much until she had fully recovered from her withdrawal, so she had watched Mato head up to town on his own to see if he could discover what had become of Malika and Calen.
+
+Alone with her thoughts, and in her familiar space, the panic and fear of the traumatic days in the underground ruins of her old city slowly began to fade.
+
+When did this new Grove start to feel like home? It had certainly featured regularly in her dreams while she was struggling to survive. At first, she had grieved for the loss of her parents, her city, and particularly the Grove as it had been before. But now she felt like this new place was hers. Perhaps it was the familiarity of the shrine, but there were also the small details of her moss and the tiny beautiful glowing fairy rings of mushrooms she had created from her own magic.
+
+Ali had told Mato she had been close to giving up. She hadn’t told him just how close she had come.
+
+I am weak.
+
+She recalled her terror as the rogue ambushed her. Her fear of the fire-wielding Kobold mages. Her fear of running out of health due to her domain. Ali had been so deathly afraid of everything that was happening to her, that often she had been ready to lie down in the darkness and simply wait for it all to end. As she sat in quiet contemplation, she realized that she had been carried along by the tide of events ever since the day Nevyn Eld had destroyed Dal’mohra. The only real decision she had made was her class choice. Even the choice of her level ten skill, Martial Insight, had been dictated by circumstance, rather than her own preference.
+
+I need to start making more active choices. I’m weak, and if I can’t choose my own path, I will stay weak.
+
+She opened the description for her newest skill.
+
+Martial Insight – level 5Your mana empowering your summoned creatures now carries your accumulated experience. Your creatures gain +46.1% [40 + skill + perception / 10] to combat abilities. Martial Insight only gains experience when you observe your minions’ combat.Nature, Minion, Mastery, Perception
+
+Even just at level five, her skill had already begun to show its power. The growing bonus to combat abilities had been vastly more effective than she could have hoped for. Her Kobolds’ damage and defenses had been incomparably stronger, and it was abundantly clear that this skill had saved them. There really hadn’t been enough time to find another exit, and Martial Insight had been the key that allowed them to pass the Kobold Swordmaster guarding the exit. And his skill, she thought. If she were honest, the sheer power of Mato’s Berserker rage had been just as crucial to defeating the monsters.
+
+I wanted Arcane Insight.
+
+The thought popped unbidden into her mind. It seemed like a silly thing now, perhaps a little petulant, but the ability to see mana and magic in action had always captured her imagination and her heart. Somehow, she couldn’t let go of it. If she hadn’t been in dire circumstances, she would never have picked Martial Insight over Arcane Insight, but now that she had experienced how powerful the skill was, she couldn’t discard it in good conscience. Maybe I can replace something else, like Mato did?
+
+My two least used skills are Runic Script and Sage of Learning, she thought, scanning through her skill list. She was at least moderately annoyed with Sage for consuming her mana at the most inopportune moments – including in the middle of a life-or-death battle – but she was similarly reluctant to part with either of them.
+
+They’re both a part of who I want to be.
+
+She considered Barrier and Arcane Bolt briefly, but they were her combat mainstays. I definitely cannot afford to give up these. No way. What would Malika say?
+
+Her gaze settled on Grasping Roots. This was the skill that locked down rogues from getting to her once she entangled them. And Ali was still traumatized by those dreams of rogues hiding behind her in every shadow, daggers ready to stab.
+
+But I really want to see magic…
+
+Ali agonized over her skills, vacillating for ages.
+
+What if I need it?
+
+But… mana sight!
+
+Eventually, she sat back and sighed. Mato swapped his skill out, she thought, suddenly remembering that he had said his Primal Rage hadn’t gone away – it had simply been relegated to his list of unselected skill offerings.
+
+That means I should be able to swap it back if I need to… I think.
+
+She immediately selected Arcane Insight from the list of available skills.
+
+No free skill slots available, choose a skill to replace.
+
+Choosing Grasping Roots in response to the prompt, her notification chime sounded again.
+
+Grasping Roots will be replaced with Arcane Insight, all skill levels will be lost.
+
+She paused. I will lose all the levels I earned on Grasping Roots. Deciding that the experiment would be worth it, she confirmed the choice.
+
+You have lost the class skill Grasping Roots.You have gained the class skill Arcane Insight. You have lost the aptitude Mana Sense.
+
+She heard the chime and her vision exploded as her mind saturated with a sudden, enormous sensory overload. Searing light hammered into her mind like a dense green Fireball had been detonated within her skull.
+
+What? She stumbled, falling to the ground.
+
+She squeezed her eyes shut, but the brilliance continued unabated, projected directly into her mind by the unhinged skill. Consumed with confusion and pain she struggled with it for a while, eventually realizing she couldn’t turn it off. She brought up the skill description again looking for anything to explain what was happening.
+
+Arcane Insight – level 1You can see mana. Arcane, Perception
+
+Relieved that she could still see the notifications, she read over the text three times, but it gave her no answers. The description was simple, there was no cost to using the skill meaning it would always be on. Much like her Sage of Learning, she couldn’t control it.
+
+The pain of her headache and sensory overload pounded inside her head, causing her substantial discomfort even though her endurance attribute was supposedly helping her manage it. It’s not quite the same situation, but maybe the same approach might help? Arcane Insight didn’t list exactly how, but the perception trait implied that the skill scaled somehow with the attribute.
+
+It’s worth a try.
+
+Carefully, she spent a point on perception, noticing that the intensity of the light shifted. It isn’t necessarily better, but something definitely changed. She spent points slowly, noticing how the light began to clarify. When she had spent ten points on perception, she could clearly tell that the light was emanating upward from the ground.
+
+That’s odd. She tilted her head to gain a different angle, causing a sudden intensification of the stabbing pain behind her eyes.
+
+Arcane Insight has reached level 2.
+
+The distinction suddenly clarified dramatically. The extraordinary light emanated from the ground in viridian streamers, lazily trailing upward as it flowed like a soft mist or an aurora originating from below. The intense brilliance hadn’t faded, but it seemed much more manageable.
+
+It’s coming from the moss!
+
+Suddenly, it clicked. Of course! It’s my domain… A domain, by its very nature, was an intense aura of magical energy. No wonder it was so bright. I’m doing this to myself. Genius.
+
+“Help me,” she said in Draconic, calling her Kobold rogue over. She made it guide her to the edge of the domain, stumbling all the way – she still couldn’t trust her vision. In the shifting brilliance of her surroundings, she noticed a core kernel of gold and green deep inside the Kobold’s chest. Ali puzzled over the effect. Is that my reserved mana?
+
+At the edge of her domain, she was confronted by something just as inexplicable. The entire cavern was filled with swirling streams of brilliant darkness. She deliberated on the apparent contradiction in her mind, but it was the best explanation she had. Somehow, what she was seeing looked like a brilliantly intense light show, but the colors were inexplicably black and a malevolent dark purple. Watching it made her queasy in the pit of her stomach. Corruption? A different kind of mana? Is this Nevyn Eld’s legacy?
+
+Ali retreated into her domain on the arm of her Kobold, who seemed worried by her strange behavior. She sat down, and then finally lay flat on her back, discovering that upward was the least painful direction to be looking. The moss tickled the back of her neck, a delightful reminder that she was no longer down in the ruins, forced to sleep on the cold and dusty stone floors, with creepy Bone Skitterers trying to crawl all over her.
+
+After lying on the ground for a few minutes, Ali decided to try something. Raising her hand, she created a small barrier disk. Against the dark backdrop of the cavern roof, she studied the mana that created the golden magical construct. It glowed with far more brilliance than when she had viewed it with only her mundane senses. With her new sight, she could see how the mana structured itself within the construct – an ordered arrangement that seemed almost crystalline. Unlike her moss, which was spewing mana in all directions, her barrier neatly constrained the mana in what looked to be a much more efficient arrangement.
+
+Next, she tried the same test with her Arcane Bolt skill, choosing a distant tree trunk as her target. The golden bolts appeared much like the barrier, but they manifested small eddies and flows of mana around the outside of each one.
+
+Is that how it moves?
+
+Whatever the reason, Ali was fascinated to see how the magic worked. Even if she didn’t quite understand how.
+
+My headache is gone, she realized, and slowly sat up and looked around. The mana streamers were still just as active and bright, but somehow her vision was no longer being overloaded by the sensation.
+
+Curious to see more, Ali pulled out her Grimoire, the book appearing in a riot of gold and green light. She examined the book for a while, taking time to get used to how everything magical now looked quite different to her. She flipped through the entries, studying the mana flowing within the runes inscribed on its pages.
+
+Finding herself examining the chapter for her mushroom imprint, she decided to give it a try. The light show of her mana flowing into the script on the pages was spectacular. Each rune lit up in rapid succession and then the impression of that symbol rose from the pages as a floating runic structure of pure mana. Swirling together in an intricate dance, each spell structure delivered its unique payload, contributing to constructing the mushroom.
+
+No wonder it’s so complex…
+
+The spell finished and a mushroom appeared on the verdant moss beside her.
+
+Common Glowcap – Mushroom – level 2 (Arcane)
+
+Arcane? The mushroom was now identified with an additional Arcane tag she hadn’t seen before. Identify, she remembered, had some relationship with other skills.
+
+Identify – level 7Mana: Discern information about a creature or item up to level 19 [class + skill]. Synergizes with any relevant Perception, Knowledge, or Information skills. Synergy (Arcane Insight): Identify will show the type of mana for any visible magic effects.Knowledge, Perception
+
+This little mushroom has an arcane affinity? Ali spent quite some time studying the golden energy that slowly began to fill the small mushroom. After some time, the mushroom filled with so much mana it began to spill out into the surrounding air as tiny streamers of light – golden versions of the viridian mana being released by the moss.
+
+Ali looked around, curious to learn more about her new skill and abilities as if an entirely new world had suddenly opened to her.
+
+Verdant Moss – level 1 (Nature)
+
+My moss has a Nature affinity! Ali was excited by that for a while, but then she stopped, a strange thought occurring to her. She had found the mushrooms and the moss within ten meters of the shrine when she had woken up, and so far, she had found neither of them anywhere else. And they represented both of her own personal mana affinities.
+
+How much of a coincidence can it really be?
+
+Her father had been a nature mage, and this had been his domain. Ali even recognized the moss as the same as that which covered large areas of his forest domain. But how did it survive just here, when everything else is decay and bone? She puzzled over the problem for a while.
+
+Maybe the shrine protected this area? It had been charged with an astronomical amount of what was presumably her father’s mana. And mana, she knew, had the ability to influence things it came into contact with.
+
+And that would explain the arcane mushrooms too, she thought, her gaze resting on the shards of her mother’s magic that still glowed with powerful energy – much more visible now in her new sight.
+
+While she couldn’t really prove it, she was happy with her explanation for now.
+
+“Let’s try something a little more ambitious,” she told her attentive Kobold.
+
+“Of course, Ancient Mistress,” came the soft response.
+
+I’m going to have to do something about that ‘ancient’ part, she grumbled, but the excitement of discovery couldn’t be suppressed by trivialities. She paged through her Grimoire to the Kobold chapter and began summoning a new Kobold. Mana exploded in her sight into a riot of movement and light, vastly more complex than before. Halfway through the summoning, her chime sounded, and her vision dramatically clarified. She could see the strands and tendrils of mana flowing and entwining as it poured forth from her Grimoire creating all the parts of the summoned creature. As it completed, the mana flows settled into a pulsing gold and green core deep within the chest of the Kobold, right around where Ali imagined the Kobold’s heart to be.
+
+Arcane Insight has reached level 3.Your reserved mana has increased by +80.Rogue – Kobold – level 11
+
+Ali didn’t stop there, she continued creating gear for her new Kobold, watching the display of magic in action with rapt attention.
+
+With her improved clarity, she took in the mana from her domain once more, noticing something unusual near the shrine. She got up to investigate. The shrine itself stood dark, as expected, but it was actually glowing now – just not particularly obvious against the backdrop of the magical light show created by her moss and mushrooms. All around the shrine, the mana swirled, forming thick streamers of magic that circled the black stone obelisk. It was as if the shrine was the eye of a maelstrom, sucking everything in toward it.
+
+Is it consuming the mana? Filtering it? She couldn’t quite tell, but it was definitely doing something.
+
+On an impulse, she Identified the shrine.
+
+Shrine of the Ancient GroveAn ancient mystical shrine of unknown origin. Offers advanced class features and attunement of latent mana affinity.Owner: Aliandra AmarielMana Siphon (Active)Mana: Unlock class experienceMana: Unlock or enhance latent magical affinitiesMana: Unlock alternate classesOwner’s Mana: Recharge the shrine’s mana reserve. 79,325/1,250,000Shrine – Artifact
+
+The shrine had substantially more mana in its reserve than it had when she had last checked it. As she watched, the number ticked up to 79,327.
+
+It’s recharging!
+
+While it had obviously been the best use of the shrine, Ali had been sad to have drained it. And so, she watched it recharging from her domain mana with excitement. She had initially calculated it would take her years to recharge it herself, but astonishingly, the shrine recognized her domain mana as hers and was on track to complete recharging in what looked like it might be mere weeks.
+
+Perhaps that’s what the Mana Siphon ability is? She experimented by deactivating the ability. Instantly, the swirling of mana around the obsidian surface ceased, returning to a calm stationary field, and the shrine’s mana reserve ceased increasing. Happy to have figured it out, she activated it again, deciding to leave it on until the shrine was fully recharged.
+
+Synergy detected.
+
+Her notification chime surprised her right out of her celebration. What?
+
+Requirements met for skill advancement. Able to perceive magic.Studied advanced magical systems.Directly observed at least three active complex magical systems.Sage of Learning gains Magical Analysis.Sage of Learning – level 8Your ability to learn languages, magical systems, history, and similar academic knowledge is significantly enhanced. You have enhanced memory for the content you have studied.Arcane, Knowledge, Perception, IntelligenceAccept this advancement?
+
+Biting her tongue in excitement, Ali accepted the advance without hesitation. The only change to her skill description was the addition of ‘magical systems’ in the list of things Sage of Learning would help her understand, but it was more than enough.
+
+Just learning Arcane Insight had triggered a potentially powerful advance for her Sage skill. Ali didn’t have to think hard to figure out which magical systems had helped unlock it for her: her domain, her Grimoire and its summoning magic, and the shrine itself would all be considered incredibly complex, intricate magical systems by all the researchers she had worked with. Notoriously difficult puzzles to unravel and understand.
+
+Ali had motivated her skill switch in her mind as an experiment. But now she knew the change was permanent. There was no way she was giving up this skill. Going back would be like choosing to be blind. She was certainly not doing that to restore Grasping Roots.
+
+She spent the next couple of hours experimenting with the abilities and limitations of her new sight, growing large swathes of moss and mushrooms to expand her domain, and pestering her two Kobolds for the draconic names for everything she could see. She examined and studied everything, learning that the Blackened Deathcap mushrooms had an affinity with death magic, watching with fascination as her domain mana slowly trickled into the moss she planted, and even stepping outside her domain to study the dark mana that was being emitted from various bone piles and mushrooms.
+
+Ali felt happiness for the first time since she had fallen down the dark shaft. However, the memories of her experiences lent a serious cast to her efforts. She spent significantly more time and mana expanding her domain, knowing that if she had been more diligent before falling down the hole, she would have been able to summon another Kobold or two, making the last fight that much easier. After the battle with the Swordmaster, Ali was exquisitely aware of just how important mana was to her class.
+
+Abruptly, she found herself rubbing the gooseflesh on her arms. Just think of how extensive a domain Dad needed… and still, it had not been enough. On that sobering note, she finished spending her attribute points, dividing the remainder evenly between wisdom and intelligence and settled in to study her domain more while she waited for the remnants of her domain withdrawal to dissolve.
+
+***
+
+Name: Aliandra AmarielRace: FaeTitles: AncientClass: Grove Warden – level 12- Arcane Insight – level 3- Arcane Bolt – level 11- Barrier – level 11- Grimoire of Summoning – level 9- Runic Script – level 7- Sage of Learning – level 8- Martial Insight – level 5- [Locked]- [Locked]- [Locked]General Skills- Reading – level 7- Identify – level 7- Sculpting – level 2Aptitudes- Languages: Ancient Dal'mohran, Elvish, Dwarven, Common, Draconic- Mana (Affinities): Nature, Arcane- Tiny (Racial): The effects of Strength and Vitality are reduced by 50%- Magical (Racial): The effects of Wisdom and Intelligence are increased by 50%- Domain (Class): Your maximum mana increases with the size of your domain, up to +100%- Domain: -10% maximum health per day domain withdrawal. You have Domain SenseAttributes- Vitality: 50- Strength: 4- Endurance: 15- Dexterity: 10- Perception: 21- Intelligence: 43- Wisdom: 47Equipment- Body: Tattered Robes – level 7Resistance: 67Magical Damage Reduction: 16.62%Health: 250/250Stamina: 150/150Mana: 611/745 (134 Reserved)Grimoire Imprints1- Verdant Moss2- Wood3- Crude Leather Armor4- Crude Dagger5- Starving Wolf6- Mushroom7- Stone8- Kobold9- Sword

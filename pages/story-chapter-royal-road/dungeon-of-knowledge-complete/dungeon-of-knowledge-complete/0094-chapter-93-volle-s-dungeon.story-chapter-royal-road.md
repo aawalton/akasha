@@ -1,0 +1,245 @@
+---
+id: 175f722e-2b18-51f6-9e1b-06d1084741b6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 93: Volle’s Dungeon"
+slug: 0094-chapter-93-volle-s-dungeon
+partOf: dungeon-of-knowledge-complete
+position: 94
+ownLength: 5068
+unit: words
+ownProgress: 5068
+publishedAt: 2024-07-02
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1701832/chapter-93-volles-dungeon"
+royalRoadId: "1701832"
+markedReadAt: "2026-06-29T20:14:06.692Z"
+---
+
+Dungeon Farming is adventurer jargon. When high-level adventurers or delvers kill the same low-level boss or monster over and over for resources or item drops, they are said to be farming it. Risk is eliminated by significantly out-leveling the threat, and the only thing that matters is time efficiency in exploiting the dungeon respawn for profit. Even the opportunity for earning experience is eliminated by this strategy due to the rapidly diminishing returns.
+
+On the plus side, this behavior creates a steady supply of whatever resource is being farmed. But there are many downsides. If the resource is consumable, there is an economy, but if it is an item, then the value of said item will rapidly drop until the value in farming it vanishes.
+
+For valuable drops or resources, competition naturally arises, with various groups vying for access to restricted spawns. This often leads to infighting, and in the most extreme cases, wars have been fought over access to important dungeons.
+
+The Adventurers Guild was formed primarily to prevent this problem, and various adventurer groups can claim spawn instances via the guild, along with access to non-combat conflict resolutions. However, the guild cannot control mercenaries, independent groups, or towns or kingdoms that do not subscribe to their rules.
+
+Furthermore, many ‘enterprising’ entrepreneurs will try to restrict access to valuable dungeons either through rules and policy, policing, or secrecy, in the hopes of hoarding the resource or cornering the market. This practice is fraught with peril. By their very nature, dungeons grow from combat and consumption. Anything left in a dungeon will become food for its growth, and thus locking down a dungeon properly is far from easy. Access must be rigidly controlled, all entrances found and guarded, not just against competition, but dungeon mana attracts all kinds of monsters to their halls. There must be absolutely no chance of failure during farming. If a dungeon grows, the surprise will kill the farmers and suddenly it becomes a danger to the entire area. While it is not proven, there are too many examples of dungeons that throw off the chains of their exploiters and immediately launch devastating dungeon-breaks upon the region.
+
+It is official policy that Silver Cog Trading Co. does not work a dungeon without an official guild presence – it is simply too risky of an investment when rules are ignored. Exceptions require executive approval.
+
+- Internal Manual on Dungeon Economics by Bixi Bargainhunter, Silver Cog Trading Co.
+
+The Novaspark Academy of Magic certainly looked impressive from the outside. It had expensive-looking metal window frames and built-in stone relief sculptures that must have required an exceptionally talented stone mage to create. It was the first time Ali was really noticing the building from the outside – every other time she had been here, she had entered through the teleportation locus using the magic of a recall potion while escaping some imminent disaster.
+
+It was clear that the architect had envisioned this as the most important building in Myrin’s Keep, if one discounted the city defenses, towering well above the surrounding structures. There were even several spires soaring to greater heights out of the roof – Ali chalked it up to the stereotypical scholarly mage obsession with towers colliding with the elegant structure and design favored by the architects and stonemasons.
+
+It stood as an isolated and fortified bastion against the storms of crime and corruption that prevailed in Myrin’s Keep, dedicated to magical study and education. In a way that was common in many similar towns, even back in her time, it also served as the hub of information and travel – a nexus connecting the entire town to the outside world. Here it was that one would find the telepath classes connecting to the kingdom’s information and news networks; the teleporters, both classes, and artifacts, that powered the most urgent of couriered letters, packages, and even the transport of people and merchant stock, provided one had enough gold.
+
+“What are you guys going to do while I’m gone?” Ali asked, suddenly realizing that everyone had been helping her to prepare, but she had no idea what they were all planning.
+
+“Captain strategy professor here was retained by the Guildmaster herself to deliver a lecture to the newbies this week. So, he will be anxious and studying,” Mato said, nudging Calen with a good-natured smile on his face.
+
+Mato was clearly proud of Calen, and Calen was just as clearly embarrassed and uncomfortable by being unexpectedly thrust into the spotlight.
+
+“Um… I forgot to ask if there’s anything you don’t want me to share about your skills? I have to talk about our two raid fights,” he said, fighting a little against a blush.
+
+“I trust your judgment, Calen,” Ali said with a smile.
+
+“Be safe, ok?” Malika said, giving her a quick hug before pushing the door open for her.
+
+Goodness, a hug? Is she worried about me?
+
+“You too,” Ali said, wishing her friends goodbye before she headed out on Eliyen’s quest, hopefully to return with the reagent they needed to recover. It was awkward to have to travel everywhere in town as a group, but Ali appreciated the priority her friends had placed on each of them being safe, particularly with unknown assassins prowling around looking to score a quick bounty.
+
+Ali flew into the opulently styled lobby and joined one of the many lines to see the busy receptionists. She hovered about waist high to a human, mostly to ensure she didn’t get stepped on or tripped over in the busy throng, rather than any need to be taller. A few people glanced at her in surprise, but most seemed to be intent upon their destinations.
+
+Soaring above her were high vaulted ceilings, buttressed by dark gray marble pillars. The polished stone floor was inlaid with delicate tracery, and artistic designs, and adorned with expensive-looking carpets, and even the reception desks seemed to be made of dark, mana-imbued, polished wood. It was as clear a statement of established wealth as any Ali had ever seen, and served to contrast just how new and basic the Adventurers Guild was – simply by the comparison with their respective lobbies. But it was the abundance of magical enchantment that really caught Ali’s attention. Everything leaked, oozed, effused, and shone magic – as if the entire lobby had been the subject of generations of magical projects by graduating students. The walls had protection enchantments, cleaning enchantments, light enchantments, and hundreds of things Ali couldn’t even guess at, forming a riot of color and motion in her mana sight.
+
+She presented her paperwork and was immediately and efficiently escorted by an intern to a private office somewhere deep in the bowels of the academy. Suddenly, her hurried guide vanished, and Ali found herself alone in an unfamiliar corridor, before a nondescript wooden door with a simple sign beside it.
+
+6301: Prof. Addlestone, Teleportation.
+
+Ali reached up to knock, but before she even touched the door a soft chime sounded amid a burst of unusual mana that briefly bent and distorted the air around it.
+
+“Please come in.” The voice sounded raspy and crackly, like the auditory equivalent of the texture of ancient parchment.
+
+Ali pushed the door open and flew in, finding herself in a small, extremely cluttered office lined with bookshelves and bizarre pieces of apparatus. Hovering above a desk covered with dog-eared books, unfinished scrolls, discarded pens, and dried-up ink was a wizened man with a shock of crazy untamed gray hair, wearing a rumpled rune-covered robe. All around him floated a cluster of books and scrolls like a flock of attending birds just waiting on his attention, or perhaps hovering over the desk unable to find space to land.
+
+Mage – Human – level ?? (Space)
+
+“Mmm…” the old mage responded, squinting at the document she handed to him. “Teleportation service, of course.” He looked at Ali with a smile that looked equal parts good-natured and manic.
+
+“If you’re ready, we can have this done snip snap!”
+
+He seems a little eccentric, Ali thought, nodding her answer to his question. But she couldn’t deny she was excited to see his unusual space magic affinity in action. She just hoped he would be using his own skills, rather than some artifact to send her.
+
+“Why don’t we have you stand in this ring here,” he said, indicating a spot on the cluttered floor. They both looked at the ground, and the mess down there, and then Ali met his eyes again raising an eyebrow in question.
+
+“Oh, hmm…” he waved a hand and Ali was treated to the glorious pulse of his reality-bending mana radiating out from the center of the messy floor, pushing the discarded books and papers to the edge of the room and revealing a beautifully etched teleportation circle.
+
+“Sorry about that.”
+
+“No problem,” Ali answered with a happy smile, alighting in the center of the runic circle, quickly pulsing her Sage of Learning and Runic Script skills to memorize the unfamiliar runic structure.
+
+“Right, maybe dismiss the sparkly golden disk? Just in case it interferes.”
+
+Ali obliged. Her barrier probably wouldn’t interfere with his space magic, but it didn’t hurt to be careful, especially considering the delicate nature of long-distance teleportation.
+
+“Let’s see, where were you going again?” He consulted the paperwork, reinforcing Ali’s association with eccentric absent-mindedness. “Aah yes, Volle. Miserable town, that one. I don’t recommend staying longer than you must.”
+
+Because Myrin’s Keep is so delightful? Not quite able to suppress a smile, Ali followed the pulse of his unusual mana as it surged within him, erupting outward to pour energy into the runes inscribed around her feet.
+
+“Hold onto your hat!” he announced with a gleeful grin, as his long wispy white hair began to float and wave in the currents of his magic.
+
+“I’m not wearing a…”
+
+There was a sickening lurch as the entire office bent inside out, and Ali was suddenly elsewhere.
+
+“…hat.”
+
+“That will be one silver for entering the town of Volle.” The voice sounded as scratchy as an irate cat and quite bored. “And I’ll need to know what business you have in town.”
+
+Ali shook off the lingering sense of disorientation and retrieved the silver and her permit papers while examining her memory of the shape and structure of Prof. Addlestone’s impressive teleportation spell.
+
+“Oh, you’re here for the dungeon. It’s a mile out of town on the northern road. You can rent a cart for a reasonable price, or you can make your own way there.” The man took her silver and returned her permit along with a receipt for the entrance fee. “Keep that receipt, the guards will want to see it. Destructive magic is strictly prohibited within the town.”
+
+Hmm, does that include Deconstruction? I’d best be careful. Ali stored the papers in her spacious and mostly empty guild ring storage enchantment. Knowing that she would have to empty it for inspection, she had made sure to bring only the necessities for her mission, leaving everything else with Malika for safekeeping.
+
+As soon as she stepped outside the building, she was assaulted by the stench and sight of squalor.
+
+What’s this? All the discussion with Eliyen, and her own – admittedly inadequate – research had led her to believe this town was wealthier than most. By all accounts, it was a town that had grown rich by exploiting the local dungeon and its rare reagent for decades. But everything around her was shabby, smelly, and run-down. While the building she had arrived in seemed to be in good repair, with tall imposing fences and guards, everything else was a borderline slum. The houses were run down, with boarded-over windows, some of them even constructed from mismatched and discarded pieces of wood. Potholes dotted the main road, having lain unrepaired long enough for weeds to be growing out of them.
+
+Every second building along the way was a vendor or shop with someone desperately trying to attract her attention to sell her cart rides, maps to the dungeon, or other equipment that she knew she didn’t need. People were literally following her in a growing mob as she flew down the street, yelling for her to come back and buy their wares, claiming that the dungeon would surely eat her if she didn’t have whatever worthless gimmick they were peddling.
+
+Ali felt awfully vulnerable and exposed, alone in an uncomfortable and unknown town, unable to rely on the protection of her minions. Given how paranoid those controlling the dungeon access seemed to be, with many obscure rules and permits, she had immediately decided she would need to pose as a regular mage to allay their fears that a summoner might be too strong and destroy their golden goose. This meant she had to make do without any of her minions until she was alone, and knowing she had a smart reason of course did nothing to calm her anxiety and fears for her safety.
+
+She hurried along toward the northern gate, grimacing as she waved off yet another overzealous merchant galloping after her down the street with shouted offers of an ‘almost free’ cart ride to the dungeon for the ‘bargain price’ of twenty silver.
+
+As she finally approached the north gate, the town changed dramatically. Well-constructed multi-story extravagant houses with well-tended gardens replaced the slums. Tall fences were patrolled by guards, and the annoying vendors vanished.
+
+I see. Volle was wealthy. But the wealth was confined to the few elites, leaving the rest of the town to scratch around in the dirt for crumbs and scraps. If any confirmation was needed, this backed up Eliyen’s story clearer than words alone.
+
+It was with a great sense of relief that she left the town behind after showing the guards her paperwork. Out in the mountainous countryside, she could breathe a little easier, and the eccentric old wizard’s comments about the town now made a whole lot more sense.
+
+She continued to follow the winding road in silence for a while, until she finally came upon an open canopy tent erected to the side with several people sitting at a table, clearly bored. There were several vendor tents further along and a couple of burly warrior-types that looked to be guarding the whole affair.
+
+This must be the place.
+
+Ali flew up to the table and presented her permit to the most official-looking fellow out of the trio, who yawned right in her face. He had at least three gold teeth and breath that would have staggered a Troll. Ali tried not to gag as he made a show of pawing through the paperwork and even checking the back of the permit, which was blank.
+
+“This all seems to be in order,” the official finally admitted, as if pained in every bone of his body. “Please empty your storage enchantments onto the table here. Remember, your signature on this permit is binding, you agree to not leave without inspection when you are done. There is a severe penalty for avoiding the inspection.”
+
+So paranoid, Ali thought, wondering how often people tried to skip their taxes and fees while she emptied her ring, placing her potions, papers, and the coins and empty vials she had brought for the mission onto the table for him to inspect. He carefully noted every item down in a journal, and if he noticed that she was traveling light, he made no comment. Instead, he pulled out a device and scanned her with it. It was disappointingly boring, and she guessed he was simply scanning her body for hidden storage enchantments.
+
+“Good,” he announced when the device dinged, and Ali wondered if there was a central academy that trained officials in the important arts of being bored and disinterested. But then she decided she was being unkind – she wasn’t the one stuck doing a job eternally waiting at a tent to inspect the occasional dungeon delver – and it was easy to tell that this guy was not one of the people actually profiting from the dungeon.
+
+“You seem to be well equipped,” he said, indicating the underwater breathing potions and the map. “If you need anything else, you can see one of the vendors on the way in. Follow that path till you enter the cave. There’s nobody ahead of you, so you can go right on in. Remember, you can only take ten vials with you when you leave, any more will be confiscated and you will be heavily fined. Have a nice day.”
+
+The official spoke the last part without any pauses as if reciting something in a language he did not understand.
+
+He must say that so many times he can’t even hear it anymore.
+
+“Thank you.” Ali re-stored her items in her ring and made her way along the path toward the cave entrance.
+
+“Slime repellant. Only twenty-five silver.” Ali ignored the vendor who didn’t even look up as she passed by.
+
+Is slime repellant even a thing?
+
+Finally, Ali found herself hovering in front of the two guards slouching beside a hole in the cliff face at the end of the pathway.
+
+“Are you sure you can handle this? Don’t get slimed in there, girlie,” one of the guards taunted. His companion glanced up snickering and fixing her with a look of caricaturish lewdness.
+
+Rude. Ali frowned at them, feeling gross all over, but all she got was a round of laughter.
+
+She set her shoulders, lifted her head, and simply flew past them and into the cave without looking back.
+
+How is it that an entire region can be so unpleasant? The indifferent official had been the nicest person to her so far, and that was not a particularly high bar.
+
+She flew for several minutes through the long tunnel, following the conveniently placed lit torches, until she finally emerged into a spacious cavern. Soaring high above her head, the rocky ceiling was covered with stalactites that dripped water into the blue glowing pools that covered the ground. At the far end of the cavern, she could hear the roaring thunder of a waterfall as it cascaded down into a larger pool that, if the map was accurate, would be the entrance to the dungeon proper.
+
+Ali took a deep breath, listening to the sound of water. Nothing else permeated into this space, as if she were cut off from the world outside. She had imagined many emotions upon finally facing the dungeon by herself, but relief and calm had not been on her list. She wondered for a moment what it said about her that she felt more relaxed and at home on the threshold of an unknown dungeon than up in the human world above.
+
+The pool of water ahead of her glowed with a deep suffusion of dense water affinity mana, but all around the pool, she spied tendrils and trails of thick mana, as if laid down by slithering creatures that might emerge from the water. It was shot through with strange traces of other affinities and colors as it all shifted and twisted under her inspection.
+
+Time to get to work. The official of Volle had told her she had several hours before they sent someone in to kick her out. In that time, she had to explore the dungeon, find the source of the water, and hunt down the mushrooms for Eliyen. All before her potions expired.
+
+She manifested her Grimoire of Summoning and began to create her minions.
+
+Acolyte of Azryet – Kobold – level 23 (Holy)Bone Mage – Kobold – level 21 (Bone)Storm Shaman – Goblin – level 19 (Lightning)Luminous Slime – Ooze – level 20-33 (Light) x10.
+
+Your reserved mana has increased by +1715.
+
+She used her Unsummon to ensure that the Kobold and Goblin minions were high-level variants, wanting to optimize her potion usage. But when it came to the slimes, she just kept summoning more till she used up her mana budget, caring more about quantity than level. The ten Luminous Slimes she summoned made for an impressive sight, an army of bright wobbly spherical shapes that simply sat there lighting up a large chunk of the cave. It remained to be seen how useful they would actually be.
+
+She hopped onto her barrier and flew closer to the entrance, with her mass of wobbly yellow jelly following along on the ground just below her. As she neared the waterfall, the mana became clearer.
+
+It’s definitely a domain, she thought, studying it for a few minutes. It reminded her a little of the bone and death domain of the Ruins of Dal’mohra dungeon, but it seemed much more fluid – almost an amorphous structure of water mana, shot through with the trace elements she had seen before.
+
+She consulted the map and then retrieved her potions, drinking one herself, and then handed one each to her two Kobolds and Goblin and instructed them to drink also.
+
+Underwater Breathing – level 15 (Water)Consume: You can breathe underwater. Duration: 2 hours.Created by Morwynne Fizzlebang – “Seems fishy.”Potion – Consumable
+
+The water in the pool was so clear that she could see all the way to the bottom, where a darker blue tunnel entrance led further into the dungeon itself. As she studied the mana, she suddenly saw a flicker of azure light – a barely visible ripple in the water mana near the tunnel before it vanished.
+
+I need to be on guard, she thought, but she stepped forward into the pool, surprised to find the water was only slightly cool, almost refreshing as she submerged herself. There were a few uncomfortable moments where she struggled to breathe before the primitive parts of her brain insisting that she was insane and about to drown finally caught up with the fact that she was not actually dying.
+
+“Come,” she instructed, and all her minions joined her in the water, sending bright light coursing out through the pool, illuminating all the edges and cracks in the rock.
+
+It took a few awkward moments for her to realize that sitting on her barrier was simply not going to work. She kept getting washed off by the weight and pressure of the water as she tried to ‘fly’. Instead, she created a smaller disk, and hung on to the edges with her hands, using her magic to drag herself through the water.
+
+That’s better, she thought, diving down toward the tunnel at the bottom. She sent the slimes crawling through the passage ahead of her, and then she followed. It was a strange sensation breathing underwater, but the potion seemed to be working well. By happy coincidence, her choice of minions made the problem of seeing where she was going a rather definite non-issue.
+
+She followed the tunnel diagonally downward for a long way, the walls smoothed by the flow of water, until they finally emerged into an expansive underwater cavern, large enough that her slimes were unable to light the far wall.
+
+Nothing is growing here, Ali noted. The walls were bare rock, smooth and devoid of any kind of life. Just rock and water.
+
+Suddenly, she was blinded by an intense flash of blue light, causing her to jolt backward reflexively, releasing her barrier and casting herself adrift. A sharp, debilitating pain stabbed through her as something unseen pierced clean through her leg. In her panic she summoned a new barrier, instinctively trying to wrap it around herself in an attempt to block unseen attacks from any direction. The result was a lopsided, misshapen egg of magic that surrounded her but consumed her full capacity for barrier magic.
+
+She sensed a flare of mana from the side and another attack struck, this time silently bouncing off her hastily erected barrier. It was answered immediately by intense blasts of light magic that lingered incandescent in her mana sight.
+
+“No dazzle,” she instructed, sending the simplistic thought to her slimes using her connection while struggling to suppress the throbbing pain and the sensation of rising panic at being attacked by unknown monsters. The flares of intense light ceased as her slimes complied with her wishes.
+
+The soft glow of holy magic settled into her body as her Kobold Acolyte healed her wound. The magic pulsed through her slowly restoring her vision to normal.
+
+Right. Time to see what we’re fighting.
+
+Brine Ooze – level 18-21 (Water) x4
+
+Ali could barely make out the transparent bluish monsters in the water. But the flickers and flashes of water affinity magic tearing through her Luminous Slimes and leaving tiny trails of yellow glowing liquid to drift along behind them from the impact of the high-speed bolts were clear in her mana sight.
+
+It was a disconcertingly furious but silent and almost invisible assault.
+
+“Wall,” she sent her intent through her connection to her Bone Mage. While her potion enabled her to breathe underwater, it did little else, and speaking was entirely impossible unless she wanted to have a mouthful of water. Her mage reacted with admirable speed, erecting a magical wall of bone between her beleaguered slimes and the ranged onslaught of water magic bolts from the Brine Oozes.
+
+“Attack,” she instructed her mage and her shaman. A high-speed projectile of white bone shot forth, puncturing one of the Brine Ooze creatures and leaving a trail of cavitation bubbles in its wake. Then her Storm Shaman broke the eerie silence with a thunderous bolt of lightning, vastly louder and more painful underwater than usual. Good thing I tested that. Two of the Brine Oozes collapsed unresponsive, and her team of slimes overwhelmed the remaining injured ones quickly, tearing them apart with glowing pseudopods of light.
+
+Being surprised is bad, Ali realized. Once she could understand what she was facing, the battle hadn’t been particularly difficult. She resummoned her barrier-sled and flew herself past the slowly crumbling bone wall to the remnants of the battlefield. It was still, now, even in her mana-sight, only the slow pulse of holy magic remained, working to restore her injured slimes.
+
+She deconstructed the remains of the four Brine Ooze monsters, and for a brief moment, she felt a surge of panic as her Grimoire manifested underwater. But her book was made of magic, and she had worried needlessly. It was entirely unaffected by the water.
+
+Variant: Brine Ooze added to Imprint: Ooze.
+
+It was time to begin implementing Calen’s suggested strategy for overcoming this dungeon. His insight had been deceptively simple, and yet she was certain it would prove to be a remarkably effective strategy.
+
+I will turn this dungeon’s monsters back on itself. With that, she summoned the newest ooze she had just committed to her Grimoire.
+
+Brine Ooze – level 19 (Water).
+
+Your reserved mana has increased by +83.
+
+Her new Brine Ooze floated in place, nearly invisible in the water, even though she could sense where it was, and her Luminous Slimes were still emitting decent amounts of light. Without the stress of battle, she studied the monster for a few minutes, noting how perfectly it was adapted to this environment, barely needing to move its body just to float there with the perfect camouflage. If she hadn’t been able to see its water affinity mana, she was certain it would be invisible to her eyes.
+
+“Shoot that wall,” Ali instructed, directing her newest acquisition to the bone wall, and focusing her attention on the sight of the mana gathering within it. Water mana seemed to flow, its structure fluid and malleable. It collected rapidly within the body of the Brine Ooze, and then somehow it squeezed tight before shooting out with enormous speed, seen as barely more than a flicker or ripple through the water before it punched a hole in the bone wall.
+
+It looks a little like a firebolt spell, she thought, recognizing some similarities. She was certain that if the Brine Ooze fired it through the air, the high-pressure bolt would probably appear much like the firebolts her mages used, only transparent, blue, and substantially faster. While it didn’t have the destructive power of fire and burning, it seemed more optimized for stealth and high-speed piercing damage.
+
+She would need to continue to study how the monster fought, but the similarity placed the Brine Ooze in the ‘ranged magic spell’ strategy spot in her mind. She would begin by using it like a mage with a simple ranged attack.
+
+She turned her gaze to the brilliant Luminous Slimes. With their dazzle attacks disabled, they were relegated to physical attacks. Unarmed fighters, I guess, she thought. Many-armed? Tentacles? Ali gave up trying to categorize the fighting style of her slimes in terms of humanoid descriptions. Likening the slime-style to a fighting octopus would probably be more accurate, but not by much. Mentally, she labeled them as taking the tank or melee fighter slots in her strategy.
+
+Ali got moving again, remembering she was on a tight schedule with the duration of her potions and the Volle guards willing to kick her out if she took too long. The map had indicated an exit at the bottom of this cave, near the far wall, and she directed her slimes to search for it, following them as they explored downward, experimenting a bit with trying to duplicate and refine the spherical barrier shape she had accidentally created during the fight.
+
+About halfway through her descent, a flicker of water mana suddenly drew her attention to the rocky wall, and something vanished, sucked into a tiny crack, disappearing from her view before she even had a chance to truly see it. It was the same flicker of bluish light and barely visible ripple in the water that she had seen at the entrance to the dungeon, and it left her with the uncomfortable feeling that she was being watched, stalked by an unknown monster that lurked down here.
+
+But it didn’t come back, and soon Ali was swimming down through the exit tunnel among all her slimes, easily overpowering the occasional Brine Oozes that came at them one at a time.
+
+So far so good, she thought. But the crudely drawn map had indicated some unspecified danger in some of the upcoming chambers. I wish there were more details. She would just have to remain vigilant.

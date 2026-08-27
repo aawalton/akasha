@@ -1,0 +1,93 @@
+---
+id: c76a6a22-ab68-5e14-966e-39445861dde5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 210: Mana Eater (Part 1)"
+slug: 0225-chapter-210-mana-eater-part-1
+partOf: dungeon-of-knowledge-complete
+position: 225
+ownLength: 1897
+unit: words
+ownProgress: 1897
+publishedAt: 2025-03-13
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2123900/chapter-210-mana-eater-part-1"
+royalRoadId: "2123900"
+markedReadAt: "2026-06-29T20:18:46.728Z"
+---
+
+Mato opened with his most powerful combination, sacrificing life and mana to use both Bestial Combat and Brutal Restoration to power his Swipe. His claws ripped through the tough bark and heavily armored woody trunk of the plant monster towering over him, spraying wood chips into the air. Warped malice and an insatiable hunger for violence rolled out from the aberration in waves, and for the first time, he wished he did not have his plant empathy. Whatever this thing was, it did not follow the natural order and balance. Not even close.
+
+Feels like hitting a Forest Guardian. Without the benefit of his Living Rend piercing its gnarled armor, it was unlikely their archers or melee would be able to damage it in any way. His restoration magic immediately infused his body, starting to restore the health he had spent as the thick, thorny brambles began to lash out at him in response.
+
+The massive branch with the heavy bud-like ‘head’ slowly turned toward him and cracked open down the center, revealing a wide maw with rows upon rows of gleaming, magically enhanced thorny fangs, some longer than his forearm, all dripping with a putrid black tar-like sap that shone ominously in his new mana perception. Suddenly the head twitched, and his danger senses clamored their warning as it whipped downward and snapped shut on his shoulder, thorn teeth gnawing on his heavy armor. A few found gaps between the protective plates and ripped through his hide, tearing the muscles below.
+
+You have been infected with Mutagenic Corruption.Infused with warped nature magic, your body struggles to heal.-10% to healing received.Corruption – Duration: 15 seconds. Count: 1
+
+The second head split, revealing similar fangs, and lashed out to bite him, fangs raking across his forepaw as he attempted to block.
+
+Your Mutagenic Corruption has increased to 2.
+
+Shit, it stacks! His Restoration worked to repair his wounds, but suddenly it was struggling like his body resisted the flow of his magic. Then, to his dismay, all the thorns on the whip vines began to ooze the same black fluid.
+
+Ali’s minions charged in, spiders appearing from nowhere with rapid strikes, drakes shaking the room with their heavy charge, and the booming shouts of the Hobgoblins ringing out, echoing loudly in the cavern as they boosted their allies with their war cries. Naia’s slimes began dropping down from the roof, landing with splats and plops. One of the monster’s heads continued attacking him, but the second one turned and snapped shut like a bear trap on a Hobgoblin’s arm to the accompaniment of the gruesome sounds of ripping flesh and crunching bone.
+
+“Healing disruption. Help me tank.” He sent the thoughts in the images and impressions of the beast language to the massive drake beside him, hoping that Ali was paying attention.
+
+“It’s interfering with healing?” Ali said, her voice coming from the far end of the cavern, sounding smaller and distant over the creaking of wood, smashing impacts of the whip vines, and the crashes of drake claws.
+
+Your Mutagenic Corruption has increased to 3.
+
+“Yes,” he confirmed. It was a remarkable experience to be able to communicate, even through the inefficient intermediary of one of Ali’s beast-type minions, a skill he hadn’t been able to use effectively for a long time. With a quick thought, he shared the details of the corruption notification, even though by now Ali must have seen it from inspecting her minions.
+
+He ducked his head under a sweeping lashing whip vine and struck at the resilient wood of the plant’s trunk, adding more to his Brutal Restoration. He was down thirty percent in healing effectiveness, and he would need as much as he could get. As he leaned into his Swipe, an unfamiliar mana pulsed across his claws, cutting through the air with a buzzing sizzle, leaving trails and eddies of baleful utter blackness.
+
+You have gained Azryet’s FavorThe Calamity smiles upon your actions.Your attacks gain additional Void damage on hit.Blessing – Duration: 1 second.
+
+His paw struck like a mace through a pile of kindling, the outspread claws disintegrating large chunks of the incredibly dense almost impervious wood armor with an acrid stench that made his eyes water as the black wisp-like mana dissolved even the wood chips as they flew.
+
+Thanks for the damage, he thought, suddenly understanding the preferred benediction of Havok’s churchgoers.
+
+But the strange blue flowers on the trunk of the monster quivered, fluorescing with delicate mana. As one, they turned toward him, spewing a dense cloud of extraordinarily fine dust or spores that hung in the air. He had time only to cough and blink before he felt the queasy tugging pull from within as his mana drained precipitously from almost full to almost empty in an instant.
+
+“Fuck! Mana drain,” he sent, desperately warning Ali as the implications crashed down on him. While he had good regeneration, it would be a desperately long time before he had enough mana to cast anything freely. In a single stroke, the plant had stripped him of his Rampant Growth, Arboreal Sanctuary damage redirection, and most importantly, his Brutal Restoration. He summoned a mana potion to his mouth and bit down, but even the fresh alchemical regeneration was sucked away by the spores.
+
+Barely a moment later, the ground around him exploded with fresh bramble vines and lashing thorn whips – a spell that looked nearly indistinguishable from his own Rampant Growth. The significance of the burst of new activity right after draining his mana was not lost on the bear – and worse, all the new thorns dripped with that same black ichor.
+
+Mato braced himself. This is getting ugly…
+
+Ali summoned three barriers in rapid succession, trying in vain to block all the thorn-studded whip vines that lashed out at her and her minions. Nowhere in the cavern was safe. Somehow, the nature magic of the Mana Eater extended the reach of the vines, a disorienting stretching that allowed them to strike at every single minion in the cave, including Naia’s slimes clinging to the roof.
+
+With a sharp double crack, the barrier protecting her face shattered as two separate vines struck it with devastating force. She immediately burned the mana to resummon it, but not before a third vine split the air with a thunderous crack as it curved around, whip-like, and struck her from behind, scoring a deep gash along her arm and lower ribs.
+
+You have been infected with Mutagenic Corruption (Nature).Infused with warped nature magic, your body struggles to heal.-10% to healing received.Corruption – Duration: 15 seconds.
+
+Her eyes widened and she gasped at the sense of wrongness that invaded her body like insects burrowing under her skin. It was a nauseating twisting of nature, causing her flesh to warp and struggle against her body.
+
+Ugh. It wasn’t particularly hard to deal with – all she needed was to avoid being hit for fifteen seconds and it would pass. But Mato… he already has five on him. Her Acolytes already struggled to heal him, especially after his warning about the mana drain and his consequent inability to use his personal healing magic. She pulsed her mana, deploying barriers rapid-fire around the cavern in response to the blistering whip strikes.
+
+But although she was struggling against the insane reach of the plant monster, they were certainly having an impact. Mato’s recommendation of using fire had been on point. The Armored Drakes breathed flame whenever they could – less frequently now that their modest mana pools had been drained – but they had set the left-hand side of the plant monster ablaze. Naia’s Lava Lurkers were tearing the plant to shreds, and her Fire Mages’ Firebolts were steadily burning away its health. She kept her Hellfire Imp in reserve, not wanting to hit Mato with its fireballs, only allowing it to blast the upper extremities of the aberrant plant monster – but the nasty black hellfire caused the plant to flinch every time it struck.
+
+Her eyes were drawn suddenly to the core of the Mana Eater as the domain mana twisted up into an ugly knot of a magical formation deep within it – a formation she recognized even though the nature mana was laced with death.
+
+“It’s summoning,” she called out. The fungal creep lining the walls began to bubble, balloons that swelled, pulsating with putrid vitality. Like a shiver, a ripple passed through the living walls, circling the room, and in its wake the bubbles burst, disgorging slime-covered Creep Spores in an echoing wave of popping. Ali launched herself into the air as the ground seethed with scuttling chaos and the violent detonations of the Creep Spores exploding on contact with anything living.
+
+To her horror, the putrid fluid that sprayed from the nearest explosion splashed onto her leg and her flesh instantly began to rot, blackening and dripping off onto the ground, filling her nose with the sickening stench of decay. Despite all her experience fighting, she threw up from the repulsive stench and the pain of losing half her leg in seconds.
+
+A pulse of holy magic settled on her, and her wound slowly began to close, the healing still struggling against the mutagenic corruption.
+
+Forcing down the bile in her throat, Ali balanced by gripping her barrier with both hands and checked on everyone. She had lost an archer, her Bone Mage, and an Acolyte, and three slime corpses fell to the ground in the middle of the room near the melee. But the summoning magic was still continuing, and the fungal creep continued budding, growing more Creep Spores by the second.
+
+“Naia, help me kill the spores!” she shouted. She couldn’t tell where Naia was hiding, but she knew the little slime could hear her. At the same time, she redirected her shamans and her Hellfire Imp to blast the bubbles of fungal creep while she scrambled to spread her ranged minions out to avoid overlapping explosions. It would make her job of blocking the whips with her barriers harder, but the explosions were far more dangerous right now.
+
+“Ok…” came Naia’s strangely disembodied voice, and the rain of exploding light orbs redirected toward the seething walls.
+
+Ali floated forward to get away from the edge of the room and as she did, she witnessed a strange pulse of mana that made the flowers on the Mana Eater wave, turning in her direction. With a soft puffing noise, a jet of fine spores sprayed out across the room, engulfing her. Immediately she bubbled herself inside her barrier, but the golden magic began to melt, running like candlewax and dripping down onto the floor. She coughed as the blue glowing spores filled her lungs and suddenly, she felt her mana draining, ripped right out of her. With rapidly dwindling mana, she teleported, swapping herself with her remaining archer, desperately coughing to try to dislodge the remaining spores from her lungs.
+
+Desperate to halt the downward spiral, she deconstructed a Creep Spore and activated Inspiration, and to her relief, her mana began to stabilize. Lucky – any further and she would have been losing minions as it drained the reservation for them away. Being stuck in the middle of a fight with her own minions turned against her would be an unmitigated disaster. No thanks.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

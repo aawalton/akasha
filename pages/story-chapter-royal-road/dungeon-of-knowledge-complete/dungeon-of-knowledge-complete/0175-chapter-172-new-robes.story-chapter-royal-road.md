@@ -1,0 +1,317 @@
+---
+id: c18ed260-2ff6-5ac5-8d75-c56945dc2549
+page-type-slug: story-chapter-royal-road
+title: "Chapter 172: New Robes"
+slug: 0175-chapter-172-new-robes
+partOf: dungeon-of-knowledge-complete
+position: 175
+ownLength: 5670
+unit: words
+ownProgress: 5670
+publishedAt: 2024-12-19
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1964352/chapter-172-new-robes"
+royalRoadId: "1964352"
+markedReadAt: "2026-06-29T20:16:58.364Z"
+---
+
+It turns out that the so-called ‘Crafter Wall’ is a natural side effect of the economic disruption wrought by dungeons. The fact that artisans and crafters seldom advance to the second tier is primarily due to the widespread availability of cheap dungeon gear. Dungeon farming produces an enormous supply, resulting in lower-level crafters having to compete with items that can be purchased far below the cost required to make them.
+
+And of course, nobody in their right mind would pay extra to help out the crafters, so they are forced into guilds that can sponsor their leveling. Or they beg for patronage from a wealthy noble or merchant, or the crown. This further limits the development of the crafters because all the valuable plans, enchantments, and formulas become highly restricted, property of the guilds and reserved for the favorites. This practice has typically pitted the crafter guilds against the adventurer guilds in a vicious cycle of price wars and economic conflict.
+
+Unfortunately, the largest side effect of the Crafter Wall is that adventurers cap out long before platinum rank because they cannot gain access to proper gear. At this stage, dungeons are so dangerous that they require specialized and optimal gear – something that can seldom be achieved without the customization of a high-level crafter. And because very few crafters achieve elevated levels, the reagents and components needed cannot be farmed out of dungeons due to the extreme risk inherent in under-geared delving.
+
+This creates several opportunities for Silver Cog Trading Co. First, and most obviously, every assessor should be keeping their eyes open for unaffiliated crafters of high level, or with the potential to reach high levels. Decent contracts with such individuals can be extremely lucrative. Secondly, items in this level range tend to be highly valuable and easily traded – particularly on the Auction House.
+
+- Internal Manual on Dungeon Economics by Bixi Bargainhunter, Silver Cog Trading Co.
+
+After the quick breakfast Mato fixed, Malika headed up with him and Calen to visit the guild once more. It was clear that progressing past the Landing in the Emberforge Mines was going to take more than just a pretty hairpin for her to survive. Never had she been forced to spend so much stamina on her healing so fast, just to stay alive.
+
+The Flame Broodmother had been a challenging fight, but she had been able to avoid the brunt of the flame blasts that the spider had used to melt the rock wall behind Mato. But against the Living Flames, she was forced to survive the aura and the blast just to hit it. And she was certain it had some form of retaliatory flame attack that burned every time she struck – something particularly problematic for her hasted melee strikes.
+
+Soul Monk has reached level 45 (+3).+30 attribute points.Martial Artist has reached level 24.Soul Strike has reached level 26.Healing Mantra has reached level 28 (+2).Perfect Body has reached level 18.Soul Armor has reached level 21.Enlightened Evasion has reached level 27 (+2).Clarity has reached level 12.Soul Sight has reached level 9 (+2).Appraise has reached level 14.
+
+At least she was getting stronger – the Broodmother had been worth three levels for her, presumably because her class level was lagging behind Ali’s by a substantial margin now.
+
+But she had earned no breakthrough advances for all her study and meditation sitting in poison or fire. Frustration was beginning to wear on her. I don’t want to be the weakest in the team. If she didn’t do something, make some breakthrough, she was going to struggle when they returned to the Landing.
+
+At least my Healing Mantra is growing fast, she thought, trying to find the silver lining. My Bloodline must help… but I had hoped it would give me more of an edge. Was taking this class a mistake after all?
+
+Malika twisted her mouth as she considered her thirty attribute points. On one hand, she needed to survive, so vitality was a must. So was wisdom to boost her Healing Mantra. The monsters don’t just hit with fire, she thought, recalling just how hard their strikes had been – which meant dexterity and endurance were essential for boosting her defenses. And then, there was Rezan’s advice that she shouldn’t neglect strength just because her class rewarded accuracy over power. Ugh. She wrestled with the dilemma for most of the trip up to town before she finally decided to trust the Elder and spent ten points on strength, reasoning that she could drop five points into wisdom and vitality each to boost her survivability against fire by splitting the difference between health and healing power. Then she spent five on dexterity to improve her ability to dodge, and at the last minute, she traded endurance for perception, deciding to invest in her Soul Sight this time around.
+
+They entered the guild hall, and Malika was greeted with the unexpected sight of a line of grumpy merchants waiting to talk to Weldin. While nobody was fighting this time, the mood was undeniably tense and sour.
+
+She nodded and smiled to Lydia who was next in line and walked up to the front with Calen who clearly just wanted to give his mom a hug.
+
+“If you give me the money upfront, I can put you on the reserve list, but only one essence can be reserved each. You get your money back if I can’t fill the order in a week,” the Gnome said. Weldin must have given the same speech multiple times and the bored look on his face vanished the instant he saw her entering his shop.
+
+“Would you like to go first?” Lydia asked, offering her the front spot in the line.
+
+“Thanks,” Malika answered with a sliver of a grin for Lydia, guessing what would happen next.
+
+“Hey! No fair!”
+
+“No cutting the line!”
+
+“We’ve been waiting all day, you know!”
+
+Yup, she thought, ignoring them and walking up to Weldin’s steel-topped counter and dumping out all the essences they had collected from their delve. Clearing everything all the way down to the Landing had been extremely lucrative.
+
+The angry voices turned to excited gasps as the pile of flame essences grew larger and larger as she unloaded her stores.
+
+“Eighteen today,” she said, as usual, keeping a few in reserve.
+
+“Usual price?” Weldin asked, his eye gleaming with delight and no small amount of amusement at the theatrics.
+
+“That’s good for these,” Malika said. “We found something new, though.” As Weldin stored all the essences, she dumped out a huge pile of Flame Web, recovered from the respawned Flame Spinners in the tunnels, and the Flame Broodmother herself. A new round of gasps or annoyed inquiries as to what the hold-up was greeted this new feat.
+
+“Oh!” he exclaimed.
+
+“Good delving?” someone yelled.
+
+“Yes,” Malika threw over her shoulder. “Be careful with this, it’s very sticky.” She was certain he hadn’t seen Flame Web before, so he probably didn’t know who would buy it, but Lydia was right there at the front of the line.
+
+“Would you like some help?” Lydia asked, pulling out a spool from her storage, and after a quick nod from Weldin, she quickly wound it onto the spool and handed it back to him. “I’ll buy all of this if you want to sell it.” To punctuate her statement, she produced a heavy purse that snagged Malika’s Appraise sense like a bloodhound catching the scent of prey.
+
+“You can use it?” he asked.
+
+“Hilda can turn it into cloth, and I can craft with that. I recommend you sell any more you get to her,” Lydia explained. “But I’ll happily take it all off your hands right now and settle up with her on my own.”
+
+Malika quickly negotiated a price with Weldin and then left Lydia to purchase her web and essences and headed off downstairs to the training rooms, leaving a babble of excited, far more amenable voices in her wake. Vivian’s program had attracted a particularly enthusiastic group of fresh recruits, and she was excited to see how much progress they had made since the last time. Some of them should be just about ready to unlock their basic weapons skills.
+
+Calen grinned as he darted up the stairs to the meeting room he had reserved for the strategy class, happy to have run into his mom at the guild store on the way in. Even before he identified her, he knew she had done something important. She was too excited for it to be anything else – all the despondency over her class being stuck had vanished.
+
+But she had seemed busy, so he left her to her business.
+
+Lyeneru had impressed upon him just how important these strategy classes would be for his own development, and Vivian had seemed excited to have a Pathfinder to help train the novices – even if he was just starting out. Even though he wholeheartedly agreed, he still experienced anxiety over the idea of taking the lead and putting himself on the spot.
+
+At least it’s a small group. Admit it, Calen, he chuckled to himself, you’d rather face the Twin Wight’s solo, right?
+
+He was more than ten minutes early, so the meeting room was empty when he arrived. He left the door open and sat to review his notes and the notifications he had received from their delve through the Emberforge Mines yesterday. He had planned to discuss the Flame Broodmother today, to dissect the strategy and take the opportunity to refine his plans – especially given they would likely have to kill it several times as they pushed deeper into the dungeon. It took less than a minute for him to finish adding the new details to his map and checking his notes on the abilities the boss had displayed during the fight, and then he turned to his class and skills.
+
+Archer of Light has reached level 46 (+3).+30 attribute points.
+
+Good. He had spent all his points immediately on receiving them after the fight – and a good thing too, given how badly the Landing had gone. Two points went to wisdom, endurance, and vitality. Eight each went to intelligence, dexterity, and perception. He made a quick note that he would need to shift things up a little the next time to get his points back on the curves he had plotted. Now, what about the rest?
+
+Radiant Archery has reached level 29.Arrows of Brilliance has reached level 33 (+2).Motes of Light has reached level 17 (+2).Blessing of the Dawn has reached level 22.Eyes of the Archon has reached level 24.Righteous Fury has reached level 16.Azrael's Wings has reached level 15.Mirage Armor has reached level 8 (+2).Cartography has reached level 11.
+
+Cartography? Huh – oh. He glanced up at the sound of the door opening to find Vivian Ross escorting four people into the room. Aiden and Teagan he recognized immediately, happy to see their class growth, but the two new people he recognized only from faces seen in passing at the guild hall.
+
+Mage – Gnome – level 4.Priest – Dwarf – level 3.
+
+By their extremely low levels and the copper rings he saw on their fingers, he assumed they had just recently earned their classes and they were part of Ali’s new crop of adventurer recruits for the guild.
+
+“Hi Calen, I want you to meet Brena and Belmar,” Vivian introduced them. “I have selected them as provisional team leaders for two new groups, and I wanted to start them early on strategic thinking and planning – even if the fights are substantially more advanced than they will be facing, it will do them good to begin honing their thinking.”
+
+“Hi,” he said, nodding in greeting. “I’m Calen.”
+
+“You’re a Pathfinder?” Brena asked, staring at his cloak with the distinctive sigil of the Pathfinders Guild.
+
+“I am, but I’m also a member of this guild. I’m part of Aliandra’s group, who I assume you’ve both met?”
+
+They both nodded.
+
+“Good to meet you,” Belmar said, dumping himself heavily onto a chair in the casual manner of most dwarves he had met.
+
+“It’s probably a good thing they’re here,” Calen said, turning back to Vivian. “Did Ali mention the two new bosses she made in the sewer?”
+
+“Yes, she did,” Vivian said, seating herself at the table, much to Calen’s surprise. He hadn’t expected that the Guildmaster would sit in on his discussion group. “What are we discussing today?”
+
+“I wanted to break down a fight we just had. A monster called the Flame Broodmother – a fire-affinity spider with a Web Explosion skill that immobilizes the entire group, a swarm-summoning ability, and a breath weapon that melts stone. I was hoping we could brainstorm ideas to make the fight more efficient in the future because the dungeon will respawn it every time we go down.” He shared the results of his Explorer skill identifying the boss.
+
+“You want us to help you with a fight?” Brena asked, wearing an incredulous expression.
+
+“Active participation makes for better brainstorming,” Aiden answered, parroting one of the Guildmaster’s mantras. The obvious eagerness of the mayor’s son anticipating the discussion went a long way toward easing Calen’s anxiety.
+
+Calen leaned forward. “Ok, here’s what I’ve learned about the boss and what it can do…”
+
+Mato strolled through town, idly watching the weeds reacting to his aura as headed to Thuli’s Steelworks to pick up Ali’s order of plate armor for her Hobgoblins. Becoming something of an expert on heavy armor – at least for their group – he inspected the craftsmanship carefully, but if there were any mistakes in Thuli’s work it was well beyond his abilities to detect them.
+
+After paying Thuli and thanking him for all the hard work he’d put in, he left on the rather strange quest his father had given him. He had crashed brunch at his parents’ place instead of visiting the guild with the others, and it had been at the family dining table that he had asked his father about new recipes for his cooking skill. But instead of sharing, his dad had told him to seek out a certain ‘Tabitha the Crone’ who lived in the slum district, and sample her cooking. According to him, it was a rite of passage of sorts for the Bahr family men, but knowing his father, and judging by the smirk on his mother’s face, he was almost certainly being set up for an elaborate prank. The only reason he was going at all was that his father’s pranks always yielded something of truth or value.
+
+The streets grew progressively narrower and dingier, eventually becoming more like alleyways – strewn with trash and dotted with potholes. Yeah well, I’ve been practically living in a sewer recently, he told himself, stepping around an unfeasibly large heap of manure. Huh, maybe I should work with Ali on soil improvement skills to enhance her domain growth?
+
+As he strolled through the slums, he drew a rag-tag group of dirty children and stray dogs that followed along behind him, always hovering between fifteen to twenty feet away – just far enough that they could bolt if he got upset, but close enough to dip into his Sanctuary aura. This kind of thing had become more common lately – likely the kids had injuries or illnesses that they could not afford to have healed, and he was pretty much a walking regeneration potion that was always on.
+
+He slowed down and took the time to check his advances from the battle in the mines, but mostly to allow them the time to fully heal. He was not in a particular hurry.
+
+Druidic Shapeshifter has reached level 47 (+3).+30 attribute points.
+
+The moment they had defeated the Broodmother, ten of his points had immediately gone into vitality. And it was a good thing too – he had needed it during the Landing fiasco with the Living Flame. For the rest, he split them five each to endurance, strength, perception, and wisdom.
+
+Swipe has reached level 30.Brutal Restoration has reached level 32 (+2).Bear Form has reached level 29.Bestial Combat has reached level 27.Natural Prowess has reached level 20.Survival Instinct has reached level 21.Battle Trance has reached level 13.Last Stand has reached level 3 (+2).Herb Gathering has reached level 3 (+2).
+
+It had been a great fight for him. The Flame Broodmother’s hasted attacks had pushed him to the limit, earning him skill growth in most of his defensive skills, and when it had enraged, he had required Survival Instinct to guide him as he used Last Stand to give him time to outlast the web.
+
+And then again, when he got tossed into the Landing. He scowled at that memory, but hastily wiped the irritated expression from his face as several of the urchins startled, clearly primed to flee if his mood changed.
+
+Finally, after getting lost twice, and having to ask one of the urchins for directions, he found the dilapidated wooden hut situated in a surprisingly open plot of unkempt land. Weeds sprouted everywhere, some as tall as himself, and the path to the half-rotted door, barely hanging onto its hinges, was a simple rut in the dirt, free of growth only because of the passage of the owner’s feet. The urchins and even the stray dogs vanished as soon as he entered the property, but he didn’t pay them too much heed, walking up to the door and knocking carefully. It wouldn’t do to break her door down because he forgot his strength.
+
+“Go away!” the raspy thin voice echoed from somewhere inside, followed by a bout of chronic-sounding coughing.
+
+He knocked again.
+
+“I have no money, don’t bother robbing me.” There was more coughing followed by something that sounded awfully like choking before the voice called out again. “Piss off.”
+
+Polite, he thought. “I’m not here to rob you. I’m here to talk to Ms. Tabitha.” He decided to drop the crone title because it sounded very much like an insult.
+
+There was some stomping inside and then the door creaked open just a little and an eye peered out. “Oooh, nobody has called me Ms. Tabitha in a hundred years! Most folks call me ‘The Crone’, or ‘The Hag’ and throw rotten vegetables at me.” The door opened a little more, revealing an old woman clad in ragged homespun clothing, hunched over a walking stick that seemed to be nothing more than a branch hacked down to approximately the right length.
+
+Laborer – Human – level 17.
+
+He doubted this woman had lived more than a hundred years.
+
+“Who be you, young man? You look handsome – have you come to ravish me?” She sounded surprisingly eager about the last suggestion before breaking into cackling that soon became another bout of hacking coughs.
+
+“I was told to come try your cooking,” he said, a little nonplussed by her attitude.
+
+“Excellent,” she replied, rubbing her hands together and a gleeful expression lit up her wrinkled face. “Come in. Come in.” She stepped away inviting him to enter the dark and messy home. “I just so happen to have a stew on the fire.”
+
+He entered the room and followed her to what passed as a kitchen – little more than a firepit in the dirt floor with a cauldron bubbling on top. The aroma that wafted from the stew was… well, he wasn’t sure what it was, but it did not smell like any food he had ever had.
+
+“Here you go,” she said, dunking a ladle into the pot. She pulled out a dripping helping of the steaming stew and offered it to him. “Eat up.” And then she fixed him with an expectant gaze as if waiting for something to happen.
+
+I’m going to turn into a frog for sure. He hesitated, uncertain of the smell, or what he was getting himself in for, but his father wouldn’t have recommended anything dangerous. Well, maybe a little. He lifted the ladle and took a generous mouthful.
+
+His mind literally froze as the taste overwhelmed his senses. It was by far the most disgusting thing he had ever tasted, more disgusting than he could imagine. It made his toenails feel like they would curl up and fall off. He manfully summoned his willpower and choked it down, clamping his teeth and throat shut against the powerful urge to hurl. His stomach turned into several painful knots as it violently clenched, trying desperately to rid itself of the violation he had just subjected it to.
+
+“Delicious, isn’t it?” Tabitha said, cackling gleefully.
+
+“It’s absolutely vile,” he croaked, which only set her off into gales of laughter and knee-slapping, punctuated by hacking coughs, but he still had enough presence of mind to notice the coughing seemed a touch less extreme and not quite as debilitating.
+
+You have become Well-fed.+4 to Vitality.Duration: 6 hours.
+
+Oh, wow, he thought, still unable to speak comfortably. That’s what he meant! Mato choked down the last bit. When his body had calmed down a little, he asked, “How did you get it to buff my vitality?”
+
+“Aah, there’s a secret,” Tabitha gasped, still out of breath from her fit of laughter. She paused, looking at him expectantly, but Mato just raised an eyebrow. “Ach, fiddlesticks,” she said. “You’re the only person who’s been interested in ages. Here, this is my key ingredient.” She produced half a mushroom and waved it in his face like a kid displaying their favorite mudball.
+
+“That’s…” Mato gasped, staring at the golden mushroom. The glow had faded a lot, but there was no mistaking where it had come from. As to how Tabitha had gotten her grubby fingers on it was anyone’s guess.
+
+“Aah, you see it, don’t you!” she cackled, and then her voice dropped to a conspiratorial whisper as she glanced about furtively, as if there could be hidden ears in her tiny hovel. “The secret ingredient is dungeon-grown food!”
+
+“But…” Mato said. He had cooked with Ali’s mushrooms before, and eaten her dungeon-grown fruit, and nothing like the ‘Well-fed’ buff had happened. “There has to be more to it than just that.”
+
+“Oh, there’s a little trick to the preparation,” Tabitha said, tapping the side of her nose knowingly.
+
+“Can you teach me?” Mato asked. “I can pay you for your time.”
+
+“Of course, I can teach you, you seem to be good for my cough,” she cackled again, “But there’s not enough of this left,” she said, staring at the mushroom piece mournfully. “You would need to bring me some more dungeon-grown ingredients.”
+
+“How about these?” Mato asked, summoning several large apples. He liked to keep them on hand for snacks, especially for Ali, given that she often forgot meals.
+
+“Ooh!” Tabitha crooned, caressing one of the apples in a way Mato frankly would have preferred not to see. “How about apple pie?” Without even waiting for his answer, she moved about the tiny kitchen and began to explain her recipe and how she cooked it. As he listened to her words, he realized she must be one of the typical poor people – handed a weak or inappropriate class by chance, and then eking out a living by developing a general skill far beyond what was normal.
+
+She was an incredibly knowledgeable and skilled cook, held back more by a lack of appropriate ingredients or decent cooking utensils.
+
+What could you have done with a proper chef class?
+
+He had just one burning question though. “Does it have to taste so foul?”
+
+“Of course not,” she answered, grinning like a lunatic. “But where would the fun be in that?”
+
+Several hours passed surprisingly quickly as he came to realize that he would need to visit the old lady Tabitha more often if he wanted to truly explore the possibilities of his cooking. And the apple pie tasted heavenly.
+
+Cooking has reached level 12 (+4).
+
+“You know, you could make a good living selling this outside of the Adventurers Guild,” he said after tasting it. “This one, not the first one. You could even buy dungeon monster meat or these apples from the guild to explore some of the more potent recipes you were telling me about.”
+
+“Tch. I do not have the money for a cooking cart, and with these old bones and my cough, I wouldn’t make the walk. I’m so slow, even a sloth could mug me.” She brandished her stick at him for emphasis.
+
+“Well, I think I can help you with both of those issues,” Mato said, earning a look of surprise from her for his trouble. “Here. This is for teaching me four levels of Cooking, and sharing your recipes,” he said, handing her a gold coin. It was probably way more than she would have even asked for, but if she was to set up a small business, she would need a little more to get started. At least her eyes grew satisfyingly wide and round at the sight of gold.
+
+Then he said goodbye, leaving via the rickety front door, and picked a spot in her yard. Vitality Rejuvenation should do it, he thought, and planted himself among the weeds, shifting into his Tree Form.
+
+“Well, there’s a nifty trick,” Tabitha said, hobbling out of her hovel and smacking his trunk a few times with her stick. “Put your back into it, young ‘un.”
+
+As soon as his transformation completed, his aura bloomed outward, filling her entire yard and beyond into the slums – and the sense of her injuries and the blight that had infected her lungs for what seemed like decades began to slowly erode under the influence of his magic. If he had a mouth, he would have smiled as he felt first one, then another, and then a slow but steady trickle of people emerging from the surrounding shacks to sit for a while in the aura of his magic.
+
+I think I’ll stay here for a while.
+
+Ali entered the guild hall to discover Lydia sitting on one of the couches as if waiting for someone.
+
+She zipped across the hall to meet her. “Hi Lydia, what brings you over to the guild?”
+
+“I had some business with Mr. Thriftpenny, but I also have something for you,” she said. Her expression seemed calm, but there was an undercurrent of suppressed excitement in her voice and a bit of a twinkle in her eyes. On a hunch, Ali identified her.
+
+Tailor – Human – level 64.
+
+She leveled up! Lydia still had dark smudges under her eyes, but she seemed much happier than she had been in a while, and the two levels she had gained spoke to a very important breakthrough.
+
+“Here, this is for you,” Lydia said, retrieving a flat box from her storage enchantment and handing it to her.
+
+“For me?” Ali asked, eyeing the fancy flat white box tied shut with an elegant burgundy ribbon.
+
+“Of course. Go ahead, open it,” Lydia smiled.
+
+Carefully, Ali untied the ribbon and lifted the lid of the box. Instantly, her eyes were drawn to the fabric of what looked like a carefully folded robe. It seemed to be made from a fine white silk, but it shimmered with a life of its own. Deep red patterns played out through the material like dancing live flames. Echoing the mesmerizing visual effect, fire-affinity mana rippled and waved through the robe. It was undoubtedly the most beautiful garment she had ever seen.
+
+“What… is this?” Ali asked breathlessly as she carefully lifted it out of the box.
+
+“Fire Silk,” Lydia answered with a beaming smile. “It was a bit of a breakthrough for me. When you showed up with all that web, I had Hilda spin it into this cloth, and it really likes fire enchantments. It was so easy to craft that I was able to learn how to do a double enchant in only a few hours. Take a look.”
+
+Elegant Robes of Fire Resistance – level 50Elegant robes crafted of the finest Fire Silk. The fabric shimmers with the dancing of red flame seemingly trapped within the weave. Resistance: 720+25% to resistance against Fire damage.+35 to VitalityRequirements: Intelligence 175Created by Lydia Avery.Body – Fire Silk
+
+Ali’s jaw dropped when she identified the robe. Not only did it have the most resistance she had ever seen on a single item, but the twenty-five percent resistance to fire damage would be absolutely insane combined with the resistance from her new hairpin. The unexpected extra vitality would definitely come in very handy down in the fires, especially after what she had seen of the Landing itself. The fabric felt delightfully silky on her skin as she briefly ducked into a side room to put it on.
+
+“Oh, my!” Mieriel exclaimed and came rushing over to see. “That is stunning!”
+
+Ali spent the next few minutes doing turns and letting various people touch the robe as half the room wanted to know where it came from and how they could get one too. After they finally calmed down a little, Lydia produced five more flat boxes.
+
+“Here, I made five of these,” Lydia handed her the entire stack. “These are all level twenty, which is the lowest I could get this fabric to go, cut to fit your Kobolds. The resistance percentage is lower because the item is lower level, but I hope this still works for you. I still can’t control the attribute for the second enchantment yet, so I’m sorry if some of them seem a bit random. I got lucky with your piece.”
+
+“That’s perfect, Lydia, thank you so much!” She was honestly ecstatic; the extra enchantment was an entirely unexpected bonus, and anything was perfect. She pulled the robes out of the boxes one at a time and deconstructed them to the sound of an odd, strangled gasp coming from Mieriel, but she didn’t miss Lydia’s class leveling up again as she finished.
+
+Variant completed, but the imprint is full. Make space or select a new chapter.
+
+She chose her last remaining open chapter and committed the variant to her Grimoire.
+
+Variant: Elegant Robes of Fire Resistance added to Imprint: Armor.
+
+“How much do I owe you?” she asked.
+
+“Nothing,” Lydia answered firmly.
+
+“But you need to make a living,” Ali objected. She wasn’t just going to take such incredible craftsmanship without Lydia getting anything in return. “I’m not stealing the bread out of your mouth.”
+
+“You saw the reaction to your robes,” Lydia answered. “The entire noble court is going to be bashing down my doors to get their hands on this. For many of them, the minimum level requirement of twenty is going to be exceptionally upsetting, but the exclusivity will just drive the price higher. Trust me, I won’t run out of money any time soon.” Then she leaned in a little closer, pretending to straighten the robe Ali wore, and whispered, “The book is more than enough payment for these.”
+
+“Thank you,” Ali answered. She loved the robes because of the stats and enchantments, but she hadn’t expected them to be so beautiful.
+
+“Is there any way to ensure that the web you sell to Mr. Thriftpenny gets to Hilda? It would be sad if someone else bought it all,” Lydia asked.
+
+“I don’t know, but we could go ask him.”
+
+“If I may, Aliandra?” Mieriel interjected. “You could use the guild’s quest service.”
+
+“How does that work?” Lydia asked, and suddenly Ali was curious too. She had wondered how she might use it to collect more varieties of spiders and had wanted to talk to the Guildmaster about that today.
+
+“A collection quest is a type of quest we’re authorized to offer. You set your price and pay a small fee to the guild, and we put the quest on that board. If any adventurer collects the item, we pay them your fee, and deliver the item to you,” Mieriel explained. “It’s a way to buy something when you don’t know who will get it for you. The guild shop is a way for adventurers to sell stuff when they don’t know who to sell it to. In your case, because Aliandra is sourcing the web and you’re buying, the quest system allows you to effectively buy it directly from her without upsetting Hadrik Goldbeard.”
+
+“Will I be taking business away from Mr. Thriftpenny?” Lydia asked.
+
+“He handles the item or reagent collection quests for us, so he gets paid for each one.”
+
+“Oh, good. Can I put in the quest with you now?”
+
+“Of course,” Mieriel said. “Will this timely information push me up the queue for your next piece?”
+
+“It might,” Lydia said, a shrewd businesslike look coming over her in an instant. “You wouldn’t perhaps be going to Bastian Asterford’s party this weekend, would you?”
+
+“I have an invitation, but I wasn’t planning on going,” Mieriel admitted. “Would you like me to spread the word?”
+
+“No, I was thinking I’d make you a piece with my mana signature and you just show up and make light conversation for an hour or so. Why don’t you stop by the shop later and we can talk about what style would best suit you? I have a few ideas.”
+
+“Perfect,” Mieriel said, a genuine smile gracing her lips.
+
+Ali got the distinct impression of two predators discussing a hunt, and their prey had absolutely no chance of avoiding the descending talons.
+
+After they were done, she placed her own quest titled ‘Spider Hunter’ – a simple collection quest for spiders she didn’t already have, inspired by Seth’s gift of Tunnel Weavers, with bonus bounties paid for interesting perception skills or even mana affinities.
+
+I hope this goes well, she thought, watching as Mieriel pinned her quest to the board near Lydia’s one for collecting the Flame Webbing and Monstrous Silk.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

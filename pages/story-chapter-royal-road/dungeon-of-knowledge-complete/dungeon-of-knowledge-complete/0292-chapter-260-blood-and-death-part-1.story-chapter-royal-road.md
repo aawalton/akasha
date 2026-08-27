@@ -1,0 +1,117 @@
+---
+id: 19e8d0a4-02a9-5f38-8a65-15781f73b550
+page-type-slug: story-chapter-royal-road
+title: "Chapter 260: Blood and Death (Part 1)"
+slug: 0292-chapter-260-blood-and-death-part-1
+partOf: dungeon-of-knowledge-complete
+position: 292
+ownLength: 2102
+unit: words
+ownProgress: 2102
+publishedAt: 2025-05-27
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2309333/chapter-260-blood-and-death-part-1"
+royalRoadId: "2309333"
+markedReadAt: "2026-06-29T20:21:09.653Z"
+---
+
+Standing within its roaring fury, Malika became exquisitely aware of why the Blood Vortex was so devastating. The individual slashes from the blood blades might have been relatively small, but they lashed against her body with the fury of a storm, unremitting whirling strikes that sliced across her skin dozens of times per second – a literal death-by-a-thousand-cuts attack.
+
+But Resilience of Body and Mind, her newest Soul Armor advancement, proved to be the perfect counter to this kind of attack, reducing every single strike by a fixed amount of damage; in effect, an infinite-speed block that allowed her to stand comfortably within the vortex, calmly healing Mato.
+
+The only real danger came from the spinning greataxes wielded by the giant troll generating the storm, and those she could follow by tracking the stamina he used to control them. She would not have been able to survive more than a couple of direct hits of those giant whirling bloodsteel blades, but dodging them was relatively easy given that she didn’t have to worry about the thousand blades of blood anymore.
+
+The vortex subsided, great whorls of blood splashing down onto the dirt only to be sucked up by the many blood-fueled weapons and totems, and Mato stepped up to face Tol’brekk, bristling with an impenetrable wall of stamina forming within him. Malika recognized the overhead strike and dodged backward out of the way, but it never reached her. The explosive retaliation of Mato’s Critical Block halted the deadly blade, amplifying and reflecting the damage with such a powerful blow that the giant troll froze for a moment, as if stunned – and then, to her astonishment, Tol’brekk toppled sideways, collapsing to the ground with a great crash.
+
+Oh, thank goodness. Relief suffused Malika’s entire being at the sight of the terrifying form of the final boss – the most powerful troll – lying defeated in pools of his own blood on the ground.
+
+But as she gazed at the enormous body lying there, something nagged incessantly in the back of her mind – something elusive and unsettling. She studied him closely, but he wasn’t breathing, and neither could she detect any movement of stamina or mana flowing within him. She scanned the buildings and the nearby trees, but apart from some weak struggles from the aged troll with the axe blade sticking out of his chest, pinned to the wall on the far side of the courtyard, nothing moved.
+
+“He was tough,” Ali said, floating up on her magical barrier, gathering her minions around her.
+
+“I can see why he was the Tol,” Calen said as he walked over to join them, chatting about various stressful parts of the battle.
+
+Malika jumped backward at the sight of movement all around, but it was just a ripple of death-affinity mana as a field of undead flowers sprouted around the corpse. Her mind pursued her distraction, refusing to let it go, and she didn’t join in with the celebrations. The battle had been hard-won, and it had been a powerful sense of relief to finally see him topple over and collapse to the ground – but somehow it lacked a sense of completion – of closure. What am I missing? When Mok’freja had died it had been so satisfying – a hard task completed, a grinding victory won against the odds. She still remembered how she had felt when the chime had finally rung out in her mind and…
+
+Shit… With rapidly mounting dread, Malika scoured her notifications from the fight as her worst fears materialized before her eyes. She scanned them again, failing to find what she searched for. What she feared would be missing was indeed not there.
+
+“Hey guys…” she interrupted their celebration with a sense of urgency, desperate to warn them before something happened. “I don’t see a notification for his death.”
+
+Her friends’ faces registered disbelief that turned into shock as they realized what she had just discovered. Mato shifted immediately to his Bear Form. Calen’s bow reappeared in his hand. A glittering barrier snapped into place around Ali as a wave of fresh alertness rippled through her forces.
+
+A soft swish and the shade of a cloud passing before the sun were the only warnings. Flickers of black energy played about the courtyard of the Temple of Blood. Malika’s eyes snapped upward to find a gaunt figure, black as night, slowly descending. He wore his crimson blindfold and magus robes and as he alighted beside the rune-inscribed stone prism that was the heart of the Aman Rak dungeon, his suffocating, malevolent aura of dread bore down upon the living and the dead like the palm of a vengeful god reaching down from the heavens to squash a bug.
+
+An aura Malika knew all too well.
+
+“Nevyn Eld,” Ali whispered, her voice coming like gasps between her panting breaths.
+
+Fuck! The Blind Lich. It was only her high wisdom and Clarity that kept her mind from instantly fleeing, terrified, to a tiny room somewhere in the darkest corners of her head and slamming the door. She gritted her teeth and endured the potent magical fear that emanated from his decrepit body, reaching out with a hand to touch Calen’s trembling shoulder as he whimpered, kneeling in the blood-soaked dirt, and trickled her healing into her overcome friend. His trembling slowly faded, and he gave her a quick, tense nod of gratitude. She healed herself for good measure.
+
+You have gained Clarity.
+
+A coarse hissing, scratchy sound emanated from all around, heightening her fear and making her skin crawl, and she suddenly realized the undead monster was laughing.
+
+“I guess I should thank you, insignificant mortals, for completing the ritual,” Nevyn Eld said, turning his head as if gazing at them, even though half his grim face was obscured behind the rune-stitched crimson blindfold.
+
+The Blind Lich’s haughty voice rang out across the Temple of Blood and yet simultaneously whispered into the back of Malika’s ear as if he hovered just behind her, breathing on her neck. A wave of prickling gooseflesh crawled across her skin as the echoes of his voice drilled into her mind.
+
+In a gesture of casual disregard, he turned away from them. Reaching out with his withered hand, he snared something ­– something that struggled impotently against his deathly grasp, something Malika could see only with her Soul Sight. He tore… whatever it was… loose and bound it in a powerful web of black energy before flying over and thrusting his fist through Tol’brekk’s unmoving chest.
+
+Much to Malika’s surprise, the orb of struggling energy and the Lich’s bony arm passed seamlessly through the body and into the corpse, plunging into the huge, still heart.
+
+“Arise!”
+
+The power of the Lich’s magic thrummed through the voice, making the buildings and nearby trees quake. Ancient syllables of power uttered in unintelligible words and strange languages rolled across the temple as a flicker of stamina kindled within the giant heart. Malika gasped as the heart suddenly convulsed, contracting around the Lich’s withered bony fist.
+
+Mato growled and Ali gasped, and to Malika’s horror and disgust, the corpse of Tol’brekk stirred. Muscles along his massive jawline twitched as his skin rapidly darkened to an ebon-gray, withering before her eyes. The runes tattooed upon his skin began to brighten as mana began to flow, and when he finally opened his eyes, she could see intensely glowing red orbs floating within now sunken and hollow eye sockets.
+
+A sonorous gong rang out, the sound coming from everywhere and nowhere, vibrating through her very bones, and just like with the ascension of the Elder Tree within the library, the text of a zone-wide notification appeared before her eyes. Only this time, it was black, surrounded by a rage-red mist.
+
+[Zone] Death Knight Berserker has advanced to the second tier.
+
+“Fuck. He evolved?” Calen whispered.
+
+“Tol’brekk,” Nevyn commanded.
+
+“Master…” The Troll’s voice had grown deeper, grinding like enormous boulders being dragged through a crypt. Eerily devoid of feeling and inflection, it had the sound of a voice that had lain buried and unused for an age.
+
+“Take care of these pests whilst I prepare the array for the next stage.” The ethereal, echoing voice of the Lich still somehow managed to sound vaguely annoyed as he delivered his judgment upon them.
+
+“At once.” The newborn Death Knight, once a giant troll and the Tol of Aman Rak, turned his hateful red, glowing eyes on them and slowly, deliberately collected his two axes. Blood the color of pitch gushed from his arms, spiraling into the two great weapons as he raised them above his head. He roared, a blood-curdling, earthshaking challenge, and the chill that ran down Malika’s spine had nothing to do with the aura of fear the Lich was emitting.
+
+The Lich waved a hand, making the barrier of death magic arching high overhead shimmer. Insubstantial claws sank into Malika’s very essence, wresting her energy from her. She clenched her jaw, feeling the grinding of her teeth against the pain. From every living being, wisps and streamers began to flow, drawn upward into the Lich’s array as his sepulchral laughter raised the hairs on the back of her neck.
+
+You have been afflicted by Soul Drain Aura.
+
+Mato roared, delivering his challenge to the Lich’s newest Death Knight, raking his claws across the thighs of the undead monster. The whistling blur of a greataxe met his Critical Block with a shockwave that split the ground beneath his feet and launched a spray of pitch-black blood into the air. The second cleaving axe struck Mato heavily in the ribs, throwing him through a stone wall in an explosion of rock and dust.
+
+“Defensive formation!” Calen screamed, his bow already buzzing and howling. “Heals on Mato!”
+
+Yes, but what about that aura? Malika moved, blurring into action, arriving as the last of the rubble crashed down on Mato’s scrambling form. She slapped him with a full-power heal and dodged the next whistling axe strike, and, as if she had been the catalyst, the entire battlefield burst into chaos and noise; arrows and magic flying as everyone reacted to the powerful new threat. Ribbons of blood darted back and forth across their forces as the shamans struggled to out-heal the drain of the death-magic array even while their own stamina and health were being drawn off to fuel the Lich’s dark purpose.
+
+Behind her, visible only with Soul Sight, a construct of astoundingly delicate complexity grew, floating around Ali’s outstretched arm, like years of tree growth compressed into mere moments. The construct condensed, and a beam of golden sparkling magic shot into the sky, slicing effortlessly through the death-magic barrier array, ripping and tearing at its fabric until an explosion detonated through the structure, sending dust and rubble bouncing from the overhead shockwave.
+
+“You dare!” the Lich howled, frustration and anger thrumming through the air of the temple and the surrounding forest.
+
+The aura draining Malika’s soul vanished.
+
+Snapping about in fury, Nevyn Eld fired a beam of absolute darkness at Ali, and where the beam met her barrier, Malika could only watch as the golden magic rapidly eroded while her friend struggled to block his overwhelming power.
+
+“How do you have her mana?” the creature hissed; the single pronoun amplified to a deafening chorus by a surge of his mana.
+
+“No! Ali!” But right as Malika was about to teleport to her friend, without even the faintest idea of what she would do, a second form appeared in the air above the temple.
+
+“It is time to end your reign of evil, Nevyn Eld!” Lyeneru Silverleaf hovered above the courtyard, looking every bit the hero who sweeps in to save the day. The elegant ebony of the northern Night Elf was wreathed in fire and lightning and her bow glowed with potent magical energy.
+
+“Lyeneru!” Calen exclaimed.
+
+But the illusion of the powerful hero coming to save them shattered as the details crashed in on Malika’s awareness: Lyeneru’s energy was almost extinguished, small flickers and wisps remained circulating in and through her wracked body, barely enough to sustain the fire and lightning. One arm hung nerveless at her side, withered by some horrendous unnamed necromancy, and her torso bore grievous wounds decayed by the death magic of the Lich. As she turned her head to survey the battlefield, she revealed the empty eye socket and the bone exposed from the decayed, missing left side of her face.
+
+“No…” Calen wailed at the sight of his beloved mentor’s grievous state.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

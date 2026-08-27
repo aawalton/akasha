@@ -1,0 +1,267 @@
+---
+id: 79686061-d4c7-5641-a690-b927b4a080be
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42: Newbies"
+slug: 0042-chapter-42-newbies
+partOf: dungeon-of-knowledge-complete
+position: 42
+ownLength: 4345
+unit: words
+ownProgress: 4345
+publishedAt: 2024-03-09
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1547737/chapter-42-newbies"
+royalRoadId: "1547737"
+markedReadAt: "2026-06-29T20:12:21.902Z"
+---
+
+Because the number of marks shown by Identify is far too coarse a measure for practical concerns, the Adventurers Guild has always used a finer-grain ranking system. This facilitates a more reliable way to pair jobs and quests with people who have the power and skills to survive them. Unclassed guild members, and non-combat classes, are typically not referred to as adventurers. Instead, most guilds assign them ‘recruit’ or ‘staff’ titles depending on their expected roles. Single-mark adventurers – the so-called ‘newbies’ or novices – are unranked and most guilds will not allow them to take jobs unsupervised. This is to mitigate the steep death toll over the first couple of levels where people are far too unfamiliar with classed combat and tend to make fatal mistakes. Upon achieving their tenth class level – and their second mark – adventurers earn the bronze rank and are considered experienced enough to join a team and take jobs unsupervised. Bronze-ranked teams make up the bulk of most guilds, handling most of the jobs. Still, there is an enormous range of risk between a level ten threat and a level twenty threat, and adventurers are advised to exercise appropriate caution when choosing jobs. Silver rank is earned at level thirty, and gold at sixty.Platinum rank is reserved for those few rare individuals who manage to survive the transition to level one hundred, and finally earn their third mark. - Excerpt from The Adventurer’s Guide, Third Edition
+
+Teagan nervously readjusted her leather vest. It had been a gift from her grandmother when she had earned her class and she had been super excited when she first tried it on. But it chafed uncomfortably under her armpits, clearly not designed to be worn over a dress.
+
+“I’ll go first,” Braden decided, securing his buckler to his belt before hauling the grate up off the hole in the ground. He lit his torch. It was just a rag tied to the end of a stick and dipped in cheap lamp oil – cheap enough that it made a sooty flame. “Follow me, everyone.”
+
+“Don’t fall on your face, o mighty warrior,” Willow said, lighting her own torch and following him down into the hole, her blonde braid somehow never tangling with the bow slung across her back.
+
+The ladder leading down into the sewer was nothing more than a set of rusty iron staples jutting from the stone wall. This is hardly safe. She reached out and stepped on the first one, holding her breath as she began her slow descent into the dark sewers. Well below her feet – entirely too far down – the light of the torches danced and bounced around as Braden and Willow reached the bottom.
+
+Darkness closed in as her head passed below the street level, and immediately the muffled crashing and thumping of the Goblin siege weapons faded, leaving only the soft sounds of dripping water, and the clanking of Basil following her down the ladder, showering her with rust and dirt with every step. He acted even more timid than her. Not exactly setting the bar high, are we?
+
+Teagan finally placed her bare foot on the cold, damp, and rather slimy brick of the sewer tunnel floor and stepped aside for the Herbalist’s apprentice, Basil. This ‘adventure’ had been his idea – apparently, someone had claimed to see mushrooms growing down in these sewers, and he had insisted on posting a job on the guild quest board.
+
+Normally, the Guildmaster would have vetoed them taking the quest since they had only just reached level two before the Goblins had arrived – using the quest board required bronze rank – but there was nobody else. The garrison was so low on resources that Vivian Ross finally relented and asked them to escort Basil to collect whatever could be used for the defense of the town. In theory, they were still within the town down here, and it should be safe, but Vivian Ross had insisted they were to run if they found any monsters above their level.
+
+Which is pretty much any monster at all.
+
+Honestly, she had been excited just to be doing something – anything – that might be useful. Sitting around during a dungeon-break and doing nothing, even though you had unlocked a combat class, was beyond frustrating. But now, standing in the dank, smelly sewer and hearing the trickle of water in the darkness, she was suddenly not quite so sure of herself.
+
+What if there are monsters? What if we can’t run fast enough?
+
+“Come on, let’s go,” Braden announced and began walking down the sewer tunnel, holding his torch high above his head to light the way. The normally soft metallic clinking of his well-worn chainmail shirt sounded unnaturally loud down here.
+
+Brown-haired, stocky Braden liked to play leader, but Teagan knew he would happily lead them into a forest without a map and get them hopelessly lost. It would be Willow that had the wits to remember the way back.
+
+I hope she finds a good companion soon. Willow – a tall Human from Hickory Hollow, deep in the great southern forest – had been struggling with her Beast Tamer class. Nearly half her initial skills required her to form a bond with a companion beast, but she hadn’t found anything suitable yet. Maybe we can find something down here? But that would mean facing monsters. She shivered, then forced out a giggle. Monster slug? Sure, Willow, just what you always wanted.
+
+She let Braden and Willow take the lead, keeping up the rear with Basil.
+
+Healers at the back, she reminded herself, taking her place. At least, the Guildmaster had been more than thorough about drilling them on the basics of adventuring. She followed along in silence, choking back an urge to gag as the fetid odor of the sewer channel assaulted her nose. She glanced back to check on Basil, but he didn’t seem to be much of a conversationalist – certainly not like Willow and Braden. He followed along in silence, his eyes searching the surroundings constantly.
+
+He's certainly putting on a brave face, she decided. He didn’t even have a class yet, and she had heard the rumor that he had faced a Goblin attack inside the town and got lucky enough to be saved by a patrol.
+
+They had walked for quite a while before Teagan suddenly noticed something different. The tunnel was still dark, but she felt the crisp springiness of a mossy carpet under her bare feet, rather than the slimy, damp brick.
+
+“The ground feels different here,” she announced, and everyone stopped to look.
+
+Basil bent down to examine the mossy carpet while Willow held some light for him. “Verdant Moss,” he said, a pronouncement of surprising confidence from the previously quiet boy. “Somewhat unusual, but I don’t know of any important uses for it.”
+
+He got up, and they continued, rounding the bend in the tunnel, and Teagan stopped and gasped. The sewer tunnel ahead of them was just like any other, dark, and filled with a central channel of filthy water. However, the floor was carpeted by a thick layer of moss, and receding into the distance, the tunnel was lit by a breathtaking sprinkling of mushrooms that sparkled and glowed with a soft golden light.
+
+“Wow…” It’s beautiful. Weird, but beautiful.
+
+Braden stepped forward raising his torch, shedding more light down the mystical tunnel. All along the sewage channel, mushrooms sprouted. Several varieties even, not all of them glowing. They all stepped carefully into the tunnel; their footsteps muffled by the soft springy cushion underfoot.
+
+A swirling movement in the middle of the sewer channel caught her eye. With a bubbling, sloshing sound, two shapes flopped out of the muck and onto the moss, blobbing slowly across the carpet, dragging themselves along with protrusions and extensions rapidly extruded from their amorphous bodies, leaving a filthy trail of slime and sewage behind them.
+
+“Slimes!” Willow shouted.
+
+Teagan’s heart left the gate in a shot, racing as fast as she had ever experienced. Monsters! Run? What should I do? But the lessons the Guildmaster had drilled into them sprang into her head to save her from a mindless panic. She remembered to use her skills.
+
+Toxic Slime – Ooze – level 1 x2
+
+“Level one, do we run? Or kill them?” Willow asked, her tone rushed and urgent, clearly having identified the monsters, too.
+
+Teagan’s panic abated, but only a little. They were still facing real monsters.
+
+And we’re only level two.
+
+“We got this,” Braden answered with a catch in his voice that betrayed his nervousness.
+
+“Ok?” Teagan said. Why are they all looking at me?
+
+Apparently, that was all Braden needed.
+
+“Have at you, you foul beasts!” he yelled, brandishing his sword and shield at the monsters and charging forward.
+
+He’s such an idiot sometimes. But Braden’s ridiculous shout had the surprising effect of calming her nerves. Braden had almost reached the two slimes when thick, gnarled plant roots burst from the ground, with the creaking and grinding of tortured wood, and wrapped themselves around his ankles, trapping him in the middle of the sewer tunnel.
+
+The two slimes simply ignored his screams and flailing sword and continued by.
+
+They’re coming for me! Help!
+
+She froze, staring at the approaching monsters in horror, her mind suddenly blank and her legs trembling.
+
+From her right, the twang of a bowstring snapped her out of her frozen panic and a wet thud echoed through the tunnel as Willow’s arrow buried itself up to the fletching in one of the slime monsters. Immediately, it changed direction, angling toward her with the arrow still sticking out of its amorphous body, but Willow executed a spectacular leap to the other side of the sewage channel and nocked another arrow.
+
+All her practice and training at the guild came back to her in a rush. Quickly, Teagan summoned a Free-Action totem and dropped it near the furiously struggling Braden. It pulsed softly, and the roots binding his ankles loosened, releasing him. At the same time, she backed away from the menacing slime, remembering to enchant her shield with her softly glowing green magic.
+
+Even though Braden was an idiot, he was always reliable. As soon as he was free, he charged the slime, smacking it with the flat of his shield. A dull, wet splat echoed through the tunnel. Clearly upset, the slime retaliated by spraying a foul-smelling green liquid into Braden’s face. He screamed in pain, swinging his sword blindly while clutching at his eyes, but still managing, somehow, to connect with the monster.
+
+Teagan put two and two together.
+
+Poison! And she had just the antidote. She cast Cure on Braden and followed immediately by channeling her mana into her Heal skill. The green beam of her healing spell connected her to him and immediately his screaming ceased, and he refocused on the slime, sword swishing through the air.
+
+Teagan had only had her class for a few days, and she could still scarcely believe she had healing magic. The slime continued to strike at Braden with blobby appendages, but he seemed to be on good footing now, blocking the attacks with his shield as he yelled, “Take that, and that, you fiends!” Her heart filled with a burst of warmth and excitement at the sight of her magic banishing his pain.
+
+She glanced over to see if Willow was ok, but she seemed to be leading the other slime on a merry chase around the sewer tunnel. She had a pattern – she leaped across the water to shoot the Toxic Slime with arrows until it crossed over, and then she repeated the leap back to the other side, making it chase after her. Willow had always been a quick learner, and Teagan could see how she was making certain to stay out of range of the toxic spit.
+
+The Toxic Slime in front of her sprayed Braden again, but this time he caught the brunt of it on his shield, getting just a little splash down his chainmail shirt. His sword took on a ruddy glow as he used one of his warrior skills, and it blurred as the overhead strike cleaved the writhing blob in two. Teagan ignored the monster, simply healing Braden again to make sure he was in top shape before he rushed off after the slime that was chasing Willow.
+
+“I have you now!” Braden yelled, his charge, and the solid impact of his shield, causing the blobby creature to explode in a wet spray, covering the mossy ground with a greenish-brown sludge that bubbled and frothed for a while before subsiding.
+
+Willow nodded, “Nice work, Braden.”
+
+In the silence that descended on the sewer, Teagan’s notification chime sounded. She sank to the ground, her legs trembling as the adrenaline rush began to fade. It had been even more terrifying than unlocking her class out in the forest with a group of five. Down here, it was just the three of them in the dark.
+
+“Too bad it’s a slime. No loot,” Braden said, kicking the corpse of the monster. “Sorry about the, uh… near beheading there, Willow. I got carried away.”
+
+“I don’t mind, I got to level three!” Willow answered, a wide smile wreathing her face.
+
+She’s level three already? Jealously, Teagan confirmed the advance with Identify. Oh! I wonder… Her attention flickered inward to find the image of her totems and the notifications that hung glowing in the air among them.
+
+Your group has defeated Toxic Slime – Ooze – level 1 x2.Restoration Shaman has reached level 3.+10 attribute points.Cure has reached level 2.Heal has reached level 3.Summon Totem has reached level 2.
+
+“I’m level three, too!”
+
+All her nervousness and shaking were suddenly worth it. She had leveled up!
+
+A little movement from behind her drew her attention to Basil, who was still cowering behind the corner, and the reason they were down here in the first place.
+
+“I think it’s safe to come out,” she told him, getting a nervous smile as he emerged from his hiding spot. To encourage him, she got up and walked with him to where Braden and Willow were still examining the dead slimes.
+
+“Hey, there’s a dead Goblin here,” Willow called out. “It looks like it’s been half-eaten by the slimes.”
+
+Basil made a gagging noise in his throat and averted his gaze. “Don’t touch it.”
+
+“Does it have any gear?” Braden asked curiously.
+
+“Nothing that’s still intact,” Willow answered, earning a muttered curse from Braden. She grinned at him. “I mean, you’d smell like a Goblin, too.”
+
+“Fresh eau de corpse? Count me out,” he chuckled. “Besides, their stuff is too small for me, I was hoping to find something to sell.”
+
+Teagan wasn’t particularly interested in dead Goblins unless she had to run away or fight them, so she turned back to find Basil on his knees examining the mushrooms.
+
+“Oh wow! These are amazing!” he exclaimed, looking up with a beaming grin. “Three different kinds of mushroom, all magical. Look, this here is a Blackened Deathcap, a death affinity mushroom.”
+
+“Why would we want a death magic mushroom?” she asked. It sounded creepy. Actually, it looked creepy, too. It was black and misshapen, and surprisingly large.
+
+“It’s used for a necrotic poison,” Basil explained. “Some archers and rogues prefer it to regular poisons because it acts faster. And here,” he carefully plucked a vibrant red and white spotted mushroom from the moss with a gloved hand. “This is a Forest Amanita – a poison affinity mushroom.” He wrapped it and placed it in a bag he had produced from his pack, taking care to avoid letting it touch his skin.
+
+Well, somebody’s finally in his element. Teagan could not help but warm to his enthusiasm, even if it was over vile poisons.
+
+“But the real find is this beauty,” Basil said, his voice dropping to an awed whisper as he gently gathered one of the golden glowing mushrooms. “This is a Common Glowcap, an arcane mushroom. Despite their name, they’re incredibly rare, found only near powerful sources of arcane magic. I have no idea how it’s growing down here.”
+
+“What’s it for?” Teagan asked, surprised at how curious she was about the strangely beautiful mushroom.
+
+“Arcane magic plants can be used to make mana potions. These are low-level so would only supply low-level potions, but they do go a long way. Eliyen is going to be over the moon to see these. The garrison mages guzzle them like kids with candy.”
+
+“How many should we get?” Teagan asked, excited by the prospect that their first foray into the sewer was going to be extraordinarily useful.
+
+“I think ten should about do it for now,” Basil answered. “I mean, if that’s ok – I know you guys might have to fight more of those slimes.”
+
+“I’m game,” Braden announced, and Teagan knew the idea of earning a little coin from their job had made his day. “We did fine, nothing we can’t handle.”
+
+“Says the guy who tanked a face-full of poison,” Willow chipped in from the side. “I’d like to try to get to level four,” she added, making it clear that she was voting to continue.
+
+“Me too,” Teagan added, surprised to find her fear had vanished, replaced by an undercurrent of excitement.
+
+After Basil had collected the mushrooms, they ventured down the mystically lit sewer tunnel in search of the next clump.
+
+“Can you tame slimes?” Teagan asked, no longer feeling the need for absolute silence as she walked beside Willow.
+
+“No, I need to find a beast, and slimes are not even intelligent,” her friend answered. Willow looked ahead and called out, “Hey, doofus, try avoiding the root traps this time. There’s a glow on the ground.”
+
+“Not for me,” Braden answered over his shoulder. “I don’t have trap detection.”
+
+“I’ll gladly help you fall into the next one.”
+
+“Only falling for you, milady Willow,” he said, pressing the back of his hand to his forehead in a pretend swoon.
+
+Willow and Braden’s banter continued to lighten the mood as they headed deeper into the sewer in search of mushrooms.
+
+Once again, Ali wished the sewers didn’t smell quite so foul. She felt as if she had made a bit of a breakthrough discovery with her mushrooms, but with the Goblin siege and all the sudden work, she hadn’t had nearly enough time to claim the entire sewer yet, nor experiment with the effects she had noticed earlier.
+
+Things in town seemed to be getting worse. She had paired up with Malika for her patrol this evening because Calen had taken a job shooting from the battlements. The sounds of Goblins screeching outside the walls had been unceasing, interrupted only by the periodic explosive reports of fireballs or lightning as the elite Goblins took potshots at the guards on the battlements.
+
+Their patrol had been quiet, with almost everyone respecting the evening curfew. Only a few criminals braved the streets, and those had been weak enough that they had simply fled when she and Malika approached.
+
+“I’m looking forward to some food and sleep,” Malika said as they walked the dark tunnels by the light of Ali’s occasional barriers.
+
+“I still need to make some more arrows before bed,” Ali grumbled. The Guildmaster had personally asked her if she could make more. Apparently, the garrison was using them up at a furious pace, and it wasn’t like it would be easy to retrieve them from the Goblin horde camped outside the gates.
+
+Her meandering thoughts were suddenly interrupted when she bumped into the back of Malika’s leg.
+
+“Shh…” Malika hushed her before she could ask any questions.
+
+In the silence, Ali heard muffled shouting and banging coming from up ahead. That sounds like fighting. Ali peered around Malika’s leg and the corner of the sewer tunnel. Panicked fighting.
+
+A little way down the tunnel, a discarded torch flickered on the mossy ground where it lay. A brown-haired boy wearing a chain shirt at least three sizes too big for him waved his sword and shield, cursing as he struggled against the roots from one of Ali’s runic circles.
+
+What is he doing? Her traps were for Goblins, not people.
+
+On the far side of the channel, a blonde human girl wearing brown leather armor darted and weaved, jumping like an excited grasshopper across the channel while firing arrows at one of her Toxic Slimes. A second slime bore down on a red-haired girl who looked to be frozen in terror. She was barefoot and wore an impractically long, flowing forest-green dress with a hem stained from being dragged around in the sewers. A leather vest had been awkwardly strapped over the dress.
+
+Hardly appropriate wear for a sewer.
+
+Cowering behind a large pile of rotting trash, observing the debacle, was a fourth. A boy that Ali instantly recognized as the one she and Calen had rescued.
+
+What’s Basil doing here? He doesn’t even have a class yet. Even she had not been that much of a liability in a fight – she hoped.
+
+Hunter – Human – level 2Warrior – Human – level 2Shaman – Human – level 2 (Nature)Human
+
+Low levels, no wonder they’re struggling. Ali tried to step past Malika, but she felt her friend’s hand settle on her shoulder.
+
+“Wait,” Malika whispered.
+
+“I have to tell my slimes to stop attacking them!” Ali replied with an urgent whisper.
+
+“I recognize them. They’re newbie adventurers from the guild,” Malika said. “I think this might be their first solo fight.”
+
+“My slimes are going to hurt them.” Ali trusted Malika, but right now she didn’t understand why the other girl was suddenly being so obtuse.
+
+“I think they’ll be ok,” Malika insisted, her gaze intent on the unfolding scene. As if on cue, the boy, now freed of the roots by the presence of a strange wooden totem emitting vibrating nature magic, charged the slime and earned himself a face full of toxic spray. He screamed.
+
+Ali glanced at Malika in concern.
+
+“If we get involved, they won’t earn any experience,” Malika cautioned, apparently unmoved by his shrieks. “Watch, I think the redhead is a healer.”
+
+The previously terrified, barefoot girl was now wielding her magic. Ali’s eyes widened in astonishment as the nature mana burst from the girl’s hand flowing out in a swirling streamer of brilliant green to connect her with the hurt boy desperately trying to stab a slime he clearly couldn’t see.
+
+Healing magic, Ali immediately recognized it. While it was quite different in composition than the druidic restoration magic that she could create with her runes, it bore enough similarities that she could tell simply by looking.
+
+She’s a lot like that Goblin shaman, Ali realized, seeing similarities in the fundamental class skills. Her mana was Nature, not Lightning, and the totem was wooden instead of metal, but the mechanism seemed similar. The girl threw totems, used healing beams instead of lightning bolts, and wielded a shield that glowed with nature magic. Is that some kind of healing buff?
+
+And a few moments later, both slimes were dead.
+
+The boy complained loudly about the lack of loot while the blonde girl excitedly shared that she had leveled up. Ali’s simple use of Identify confirmed that all of them except Basil had just leveled.
+
+“They just got level three,” Ali whispered.
+
+“Don’t they just remind you of us when we first got our classes?”
+
+“Were we ever that scared?” Ali asked. She thought about some of the early fights she had had. “Actually, don’t answer that. I think I was way worse.”
+
+Malika snickered lightly in response. “No, they take the prize.”
+
+“Hey, he’s picking my mushrooms,” Ali complained. It had taken most of the day to plant everything and now Basil’s excited voice echoed through the tunnel as he uprooted her mushrooms and stored them in a bag.
+
+“Listen,” Malika whispered. “He just explained that those two are good poisons.”
+
+Ali concentrated on their conversation and caught them talking about how the Glowcap mushrooms could be used to make mana potions. Oh! My mushrooms might actually be valuable after all. Mana potions are always in demand.
+
+“Perhaps you can sell some of those too,” Malika suggested.
+
+“They’re going to search for more?” Ali asked incredulously as the party of four retrieved their discarded torches and packs and headed further down the tunnel.
+
+“Looks that way.”
+
+“What should we do?” Ali was still trying to unpack what had just happened. “They’re killing my slime sentries and stealing my mushrooms.”
+
+“Let them continue? They’re level-three adventurers. This is probably their very first quest. I’m sure they’re just trying to help the town with some of the jobs and earn a little experience along the way. Besides, didn’t you say Basil is cute?”
+
+“No!” Ali squeaked crossly. Cute as in a Bugbear would stomp him flat in one second? Ouch. Was I ever that bad? Hmm. Ali didn’t share Malika’s positivity, but she followed the other girl as they headed off in the opposite direction, unnoticed by the novice adventurers.
+
+“You can just make some more later, right?” Malika asked. “Did you see how effective your Grasping Roots trap was? The slimes just ignored that warrior and went straight for the healer. If she hadn’t freed him, they might have been in some trouble. I like that redhead shaman – she seems sharp.”
+
+I guess they really are just as hapless as we were, Ali thought. While it would be annoying to replant, it didn’t seem like too much of a chore. The guild and the herbalist would get some good materials, the town would get some mana potions, and the three adventurers had just grown a little stronger.
+
+Perhaps it wasn’t such a bad outcome after all. The only downside is I don’t get paid for those mushrooms I made! Jolly thieves!

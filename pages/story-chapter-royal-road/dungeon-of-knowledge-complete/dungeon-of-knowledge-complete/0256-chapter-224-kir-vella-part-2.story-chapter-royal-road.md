@@ -1,0 +1,175 @@
+---
+id: 67b96b1d-d0af-5e9d-a5ff-a8705f424b7f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 224: Kir’vella (Part 2)"
+slug: 0256-chapter-224-kir-vella-part-2
+partOf: dungeon-of-knowledge-complete
+position: 256
+ownLength: 3154
+unit: words
+ownProgress: 3154
+publishedAt: 2025-04-16
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2206767/chapter-224-kirvella-part-2"
+royalRoadId: "2206767"
+markedReadAt: "2026-06-29T20:19:52.876Z"
+---
+
+Not good, Malika thought, staring at the continuous stream of bats pouring from the cave, darkening the skies with their black-and-red wings. While she could get up there and hit them using Divine Step, she had no area damage capabilities and knew she would be ineffective against so many monsters, getting herself more in the way than anything.
+
+But it was the Blood Contagion that was worrying her most; she was already infected, and she knew it would grow every time she had to converge on Kir’vella to attack. Not good for a melee fighter, and now with more bats it was likely to get worse.
+
+Suddenly, Kir’vella vanished, leaving her with nothing to do, but she suddenly noticed a strange vial arcing through the air toward Calen. She shouted a warning, but it was too late, and the vial exploded into a puff of purple smoke.
+
+Then, inexplicably, Calen burned his Righteous Fury and shot Mato with an explosive arrow. The manic cackle of his laughter rang out across the clearing, in stark contrast to his normal personality. And Malika could feel none of the power he usually shared with his skill.
+
+That’s not Calen!
+
+She took off, sprinting across the grass and dodging a hail of his arrows as she charged him down. As soon as she reached him, she lashed out with her fist, but he dodged.
+
+You have resisted Curse of Insanity.
+
+I knew it! Malika thought, lashing out with an accelerating flurry of punches trying to hit Calen through his incredible dexterity and Mirage Armor, but he kept dodging. Have you learned nothing, Malika? she thought, mimicking Rezan’s chiding tone, and closed her eyes, trusting her Soul Sight to hit him where his energy was. She punched, and her fist struck him solidly in the chest, not quite where her eyes had insisted he stood.
+
+In that moment she released her Healing Mantra, repairing the damage caused by her punch, and bestowing Touch of Clarity on him.
+
+Instantly, Calen’s eyes cleared, and he stared at her in shock, an expression that rapidly changed to horror as his eyes tracked across the battlefield to his best friend.
+
+“Don’t worry, he’s tough. Dodge those vials next time,” Malika growled, and sprinted off to rejoin the battle. While she had been occupied with Calen, the bone altar had summoned another ghoul. But Calen had burned his most powerful skill, and now they wouldn’t have access to it for fifteen minutes.
+
+***
+
+Your Blood Contagion has increased to 6.
+
+Malika dodged the beams as much as she could, but this was her sixth stack of Blood Contagion and her body was continuously dying from the disease, kept fighting fit only by the regular stream of healing from the shamans and her own magic. And it was not just her, all their forces, especially the all the melee fighters, were riddled with it. You just had to look at the blood pouring from the ugly sores.
+
+She glanced over to find Ali shimmering back into the normal world, but then she saw something weird flickering behind her.
+
+That’s new, she thought. A ghostly blue outline of a wolf was stalking around the battlefield trying to bite Ali. Actually, it is biting her! she realized, seeing the blood as the creature passed effortlessly through the golden barrier. Malika blurred into action, sprinting across the battlefield to Ali’s side. She lashed out with a powerful kick, thrown off balance when her foot passed clean through the ghostly wolf, and then the monster vanished.
+
+What? It isn’t soul?
+
+A similarly ghostly scorpion appeared in its place, its stinger lashing out and stabbing right through Ali’s barrier to hit her in the back. She collapsed from the force of the blow and Malika had to heal her before punching the scorpion. But again, her fist simply passed right through the creature as if it wasn’t there.
+
+The wolf reappeared, and this time with a friend. The new arrival was slightly bigger, and instead of attacking Ali, it lunged at her. Malika blocked the attack, but the ghostly fangs passed through her arms, biting her in the shoulder.
+
+Shit!
+
+She healed herself and then healed Ali. I think I gave her the corruption, she thought. Her eyes caught the flash of something flying and she lashed out to block the incoming vial Kir’vella had tossed, but it shattered against her arm, dousing them both in purple poison.
+
+You have resisted Curse of Insanity.
+
+In a flash, she lashed out and struck Ali on the shoulder, pulsing healing magic into her body faster than she could summon a barrier to block. Ali’s eyes registered shock and surprise, but then she simply said, “Thank you,” clearly realizing what had just happened.
+
+Clarity is a lifesaver. It was right as she was about to attempt another futile kick against a ghostly wolf that she was suddenly yanked into the Spirit Realm by the banishment curse.
+
+You have been cursed with Spirit Banishment.
+
+Her kick connected. Well, her foot passed right through the creature, but her soul magic connected, causing the wolf to recoil in pain. I can hit it here! Immediately, she retrieved a glowing fried ghost mushroom and chewed it with gusto. While her soul magic seemed to work just fine in this realm, the mushrooms Mato had cooked would allow her physical strikes to hit also.
+
+Her form regained substance as she swallowed the mushroom, and her kicks and punches began to hammer into the ghostly beasts that were gathering around her. She smiled as she finally found something she could actually do, and with Abiding Perseverance providing a cumulative discount to her stamina costs the entire fight, she could truly let loose. Hopefully this would keep them off Ali for a bit.
+
+Mato charged the Spirit Nightwing as Calen’s magic reeled the giant glowing blue bat to the ground. He Swiped the creature with his Bestial Combat’s armor penetration activated, his claws ripping through the bat’s tough hide as if it were made of paper. Brutal Restoration ticked as he struck, easing the pressure on his health.
+
+He was struggling in this fight. The boss refused to be pinned down, skipping out to the Spirit Realm whenever he closed to melee range. They were on the fourth wave of bats, and he was taking sixty damage a second from the Blood Contagion already – and that was even after healing several instances of the disease with his vitality. It started slow, but every time the bats appeared, he would stack up more and more – and now that it was so high, the melee was feeding each other’s corruption at an accelerating rate.
+
+The others must be struggling.
+
+The Spirit Nightwing blasted him with a sonic scream, causing him to black out momentarily. When his conscious awareness recovered, the bat was draining his mana with tendrils and ribbons of magic, similar to the Vampiric Nightwing bats, but blue. Even with his new Battle Trance advancement, he was still almost out of mana because of the powerful drains. He smashed his paws into the creature, spending health on his Bestial Combat, and doling out yet another portion of his precious mana to add another strike of Brutal Restoration. Ali’s drake, warrior, and shaman charged in attacking the downed bat, dropping its health rapidly now that he had ripped its armored hide.
+
+Your Blood Contagion has increased to 24 (+3).
+
+Ugh. As much as he loved tanking, this couldn’t continue. He was going to die from the Blood Contagion. Or he was going to run out of mana, and then die. Or Ali’s shamans were going to run out of mana – or health – and then he would die. Positive thoughts, right?
+
+The bat collapsed to the ground, and everyone spread out to minimize further infection.
+
+Mato looked over at the cackling Kir’vella as her form wavered and vanished.
+
+Fine. Time to change it up.
+
+He sent a message to Ali via the nearby drakes and then stretched his claws into the dirt, his body deforming and twisting as his spell took hold. The claws elongated, transforming into roots that penetrated deep into the soil, while his body stretched upward, growing branches that reached into the sky. The world around him faded from his vision but his Sanctuary aura exploded outward, infusing the entire battlefield with his domain. He could feel the trees of the jungle, the worms in the earth, and the birds in the sky – what few of them were still hanging around. He could taste the blood leaking into the soil and feel the disturbing wrongness of the powerful corruption emanating from the bone altar.
+
+As his mana surged and his aura took hold, he began dissolving the Blood Contagion everywhere within his domain, transferring a portion of the damage from everyone to himself. A sense of rightness reasserted itself, imposed by his Sanctuary as the diseases began to dissipate and his mana transferred his regeneration to all his allies. In the peaceful calm of his tree, he knew this was the right choice, the most powerful action he could take in the fight was to simply be a tree and reassert the balance of the natural order.
+
+He felt another Spirit Nightwing pulled to the ground by Calen’s magic, and the characteristic shimmer as Kir’vella reappeared. He reacted with Rampant Growth, roots and vines exploding from the ground throughout his Sanctuary, tangling and twining around the bat and Kir’vella, pinning them in place for the remainder of the melee to strike them freely. Kir’vella simply shifted through the Spirit Realm to free herself, but the downed bat stood no chance.
+
+Ali hovered above the ground, trying desperately to avoid the ghostly monsters of the spirit realm. There were about twenty of them now, and they could leap remarkably high, but if she flew any higher the bats would swarm her.
+
+She had been pulled into the Spirit Realm twice in a row, and without her minions, she had struggled to kill any of the beasts attracted to Kir’vella’s spirit beacon. Kir’vella’s magic was extraordinary, simply sitting there in the Spirit Realm, attracting all manner of spirit beasts: wolves, saber-toothed cats, scorpions, snakes, spiders, it seemed anything worked for the spell that was haunting them. And now the entire horde stalked the battlefield, biting and clawing at everything, phasing in and out of the realm at random, and making the shamans’ jobs incredibly difficult.
+
+On the other hand, Mato’s tree was simply magnificent. Her mana pool was almost full, and all of the dreadful Blood Contagion had been dissolved away. His singular action had stabilized the fight, allowing them to last much longer.
+
+Now we just have to kill this wily witch doctor. What can we do? Come on, Aliandra. Think!
+
+Kir’vella paused to summon another wave of bats while tossing jars full of random creatures, snakes, scorpions, and biting insects – but all of those were mere annoyances as Mato’s roots and vines simply crushed them. Whenever she conjured the purple vials of insanity, Malika would catapult herself after them, occasionally even catching them before they landed, but otherwise healing whoever it hit, freeing them from the curse of insanity. Behind her, Calen vanished in a scintillation of light.
+
+Oh, she thought, staring at the enormous ominous cloud of bats forming in the air – bats that they would now struggle to kill without Calen’s powerful explosive arrows.
+
+“Attack the bats,” Ali instructed, alighting on the ground to free up more of her barrier magic, and then immediately followed the same orders she had just given her imps and bone warriors, sending what little damage she could muster with her shards into the cloud as contagion and drains rained down on their beleaguered forces.
+
+The fireball detonations were continuous and deafening, but the bats kept coming. And while her vampire hornets had been amazing at the start of the fight, they were all gone now, victims of the continuous aerial barrage of exploding hellfire and bone.
+
+I wish I had made more imps, she thought. A lot more. Although she had to be grateful; at least with Mato’s aura, they weren’t running out of mana keeping up the continuous aerial barrage of fire. And she was sure Malika was doing something too, she would regularly heal Mato and the regeneration aura would intensify. She just hoped it was because Malika wanted to buff the regeneration, and not because Mato needed it given the cloud of screeching bats circling his branches, delivering their continuous sonic attacks on him. But she had to believe he was ok; without her Acolyte, she couldn’t see his health. And in this form, he had sap, not blood, so she couldn’t even use Scent of Blood to gauge it, or the Blood Shamans to heal him.
+
+She focused on her minions, adjusting their targets, when she saw a curious thing. The ghostly spirit beasts were simply falling over and fading away one by one.
+
+Calen?
+
+Suddenly, Kir’vella reappeared with a screech. “Vile wretches! I will rend your souls and feast on your bones!” And with a vast ripple through the domain mana, her Troll Form warped into the shape of a giant bat with blue and red jagged patterns painted all over her hide and took to the air on massive, heavy leathery wings. As she soared across the battlefield, continuous beams of red and blue drain magic arced out to strike minions, prisoners, or her friends indiscriminately. The domain mana continued pouring into her as her ever-growing cloud of bats began to circle above like a dark, malevolent maelstrom.
+
+One of the prisoners collapsed against their restraints, completely drained of life, and then another.
+
+Ali continued to fire the barrage of fireballs into the sky, but the bat-form of Kir’vella was way too nimble, deftly dodging almost every single attack. The axes her Bone Warriors threw had more success, but the sheer volume of drain magic that Kir’vella was tossing about kept her firmly at maximum health, even while charred Vampiric Nightwing corpses fell from the sky like rain.
+
+Ali’s barrier shards were unable to do enough damage, but her dismantle recharge was up, so she dispelled the last Frog Hex on Malika, not that she would be much help against the agile bat. With Mato’s aura curing the disease, she had had to revert once again to using bleeds and her dismantle to counter the Frog Hex whenever Kir’vella used it.
+
+Just as she was beginning to despair, Calen reappeared from the Spirit Realm and raised his bow. The thin, delicate-looking chain of light magic that trailed his arrow grasped Kir’vella firmly and dragged her form to the ground, where Mato’s roots and vines instantly tangled her body, pinning her to the ground. Oh, yes!
+
+Calen’s form ignited with brilliant light, and Ali reacted instantly.
+
+“Bloodlust!”
+
+Malika, the Armored Drakes, Bone Warriors, Abyssal Stalkers, and Blood Shamans all accelerated as the powerful magic took hold. Ali sliced with her barrier shards, keeping an eye on her dismantle recharge, but it seemed that Kir’vella was unable or unwilling to use her curses in this form, sticking to a powerful, stunning sonic attack that caused the air to shimmer in front of her, and the continuous drain beams.
+
+The air beside her glittered golden, and a flying book appeared with a popping noise, a small rubber ball held between its covers.
+
+“Clarence?”
+
+The book flew down and dropped the ball on the ground, making it roll along the grass to bump up against Ali’s foot, and then he backed away and riffled his pages expectantly.
+
+“What…. No, Clarence… I can’t play ball with you. I’m busy!” Ali turned away, feeling a pang of guilt about ignoring the book, but, honestly, what was he thinking?
+
+With the amount of healing and regeneration Kir’vella was using, Ali went all out, instructing her Hellfire Imps to get into the center and fire their fireballs point-blank, using every enhancement they could to get more damage. She was hitting her own minions, and Malika too, but she simply relied on her Blood Shamans’ totems, their vampiric hex, and Blood Siphon to keep everyone who wasn’t immune to fire alive. There was a sense of urgency to her attacks; she was not certain they could out-damage Kir’vella’s incredible regeneration in this form once the potent combination of Bloodlust and Righteous Fury dropped.
+
+It was going to be close; she could tell. She was not nearly as precise with Scent of Blood as she had been with Healer’s Sight, but Kir’vella was definitely getting low. Unfortunately, their remaining Bloodlust duration was almost up.
+
+Something moved by her feet, and she glanced down to find Clarence dumping a severed Blood Ghoul arm beside her and then backing up expectantly again.
+
+“Seriously? Not now, Clarence!”
+
+Suddenly, a fireball exploded, and both dragon-fire breaths synchronized, ripping through the remaining roots Mato was using to pin Kir’vella to the ground, and she catapulted herself into the air.
+
+No! Ali desperately summoned her largest barrier right above the flying bat, catching her before she was able to get too far, at precisely the same time as Malika’s athletic form blurred through the air, chasing down Kir’vella’s retreating Bat Form, while new vines and brambles exploded from the ground, reaching upward.
+
+Three fireballs lofted into the barrier, detonating around Kir’vella, amplified by the dome of Ali’s barrier magic above her, while Calen’s powerful stream of arrows slammed into the midst of the fiery explosion. With a final, despairing screech, the bat transformed back to a troll and crashed to the ground with a hard thump, returned to the embrace of Mato’s thorns and roots.
+
+Your group has defeated Kir’vella [Empress of Bats] – Troll – level 87 (Soul).
+
+Ali breathed a sigh of relief and sank to the ground, watching as some of her minions ran around cleaning up the pests Kir’vella had summoned with her jars. It may be overkill, but it was satisfying to watch dragon fire obliterating the annoying scorpions and spiders.
+
+An eager bobbing and riffling dragged her attention back to Clarence who was still waiting for her to play.
+
+“We really need to work on your sense of timing,” she chided.
+
+He flipped his cover open impatiently and then shut it with a firm click.
+
+“Fine,” she said, reaching out to grab the ball. There was no way she was going to touch that nasty, severed ghoul arm. Wherever did he even get that? What is going on here?
+
+Ali cast about, but there were no Blood Ghoul corpses running low on arms in sight. She drew her arm back and lobbed the ball across the clearing, and, despite the circumstances, she couldn’t help but smile as Clarence tore off after it with exuberant enthusiasm.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

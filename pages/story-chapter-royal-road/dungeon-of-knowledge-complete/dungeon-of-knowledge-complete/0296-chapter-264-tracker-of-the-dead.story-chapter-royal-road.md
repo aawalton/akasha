@@ -1,0 +1,145 @@
+---
+id: 4f640fe9-2470-53c0-af1b-084859dccaba
+page-type-slug: story-chapter-royal-road
+title: "Chapter 264: Tracker of the Dead"
+slug: 0296-chapter-264-tracker-of-the-dead
+partOf: dungeon-of-knowledge-complete
+position: 296
+ownLength: 2503
+unit: words
+ownProgress: 2503
+publishedAt: 2025-05-31
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2319513/chapter-264-tracker-of-the-dead"
+royalRoadId: "2319513"
+markedReadAt: "2026-06-29T20:21:17.981Z"
+---
+
+Calen gently cradled Lyeneru in his arms while Malika poured healing magic into her torn and shredded body. She looked so frail and small without her blazing wings, crackling bow, and the powerful force of her personality. Her skin was gaunt and her cheeks and eyes sunken as if she had grown old over the course of the battle – he didn’t dare to look at the rest of her body. The injuries she had sustained at the hand of the Blind Lich were more than he could bear, but the worst of it was a dripping hole of decayed flesh and rotted bone where she had been impaled at the end by the transfixing bolt of the Lich’s array-empowered necromancy.
+
+“Why isn’t she healing?” he asked. He could see Malika struggling, but the wounds refused to close.
+
+“I don’t know,” Malika answered, her eyes filled with worry. “I keep healing her, but the injuries aren’t getting any better.”
+
+Lyeneru’s eyes fluttered open, and her hand reached out to stop Malika. “It won’t work, I have been drained of too much life by the Lich’s corrupt death magic. It has already taken over.” She coughed up some clotted blood. “I don’t have long. Listen carefully. If you don’t take care of the corruption, I will rise as an undead – a servant of the Blind Lich.”
+
+“But we killed him!” Calen exclaimed. Ali had wrought a miracle with her delicate golden magic, and the massive explosion had launched the pieces of the Lich to rain down over the entire temple.
+
+“He escaped, as always.”
+
+“What? But, I saw…”
+
+“Did you see a notification?” Lyeneru asked, her voice a harsh whisper of desolation. “Liches don’t die, Calen. They retreat to their phylactery to be reborn in a newly constructed body after a long recharge period. That was just the latest in a long line of his avatars – and not even nearly the highest level one we’ve recorded. No, you must kill me.”
+
+Calen could only stare at her in horror, as the implications of her words wormed their way into his heart. I have to kill her? He couldn’t even imagine harming his mentor, much less taking her life. “I… I can’t…”
+
+Lyeneru coughed again, growing weaker. Her eyes searched his. “You must – and your Fae friend must deconstruct my corpse.”
+
+“I…”
+
+“I will not be that Lich’s servant.” Authority thrummed briefly through her voice, dying echoes of the legendary pathfinder, before her broken body shuddered and convulsed, racked by another coughing fit. “The world cannot afford… another…”
+
+Staring at her pallid lips, Calen breathed, “Damn… I can’t. Lyeneru! You can’t die!”
+
+“Mato! You’re up,” Ali called out, her voice firm and inexplicably calm as she and Mato walked over to join them.
+
+“On it,” he said, his body taking root right there in the bloody dirt of the courtyard. His branches reached skyward as his tree took shape. A few moments later there was a sound like a rustle and a soft breeze, and a surge of energy spilled outward filling the shattered Temple of Blood with flurries of ethereal green leaves before it settled into the familiar pulse of Mato’s regeneration aura.
+
+Lyeneru’s eyes flicked open, widening in shocked realization.
+
+“That’s why we used him in this form to defeat Alexander Gray,” Ali answered Lyeneru’s unvoiced question. “He learned this magic from Lirasia. It can dissolve necromantic blight, drains, disease, and corruption. If we could survive a Pit Lord’s corruption, we can heal whatever Nevyn Eld did to you.”
+
+Of course, Calen thought, knuckling his eyes at the sight of Lyeneru’s wounds finally beginning to close. He had been so distracted – distraught – by Lyeneru’s despairing request that he had failed to make the obvious connection. The Lich’s corruption: he had entirely forgotten his childhood friend possessed the ideal magic to help. It might be slow, but light was returning to her eyes and vitality creeping back into her limbs before his disbelieving eyes.
+
+“Um, sorry,” Calen mumbled, awkwardly releasing her as she slowly sat back.
+
+Lyeneru’s eyes crinkled slightly at the corners. It might have been all she could manage, but a sob caught in his throat and he swallowed hard.
+
+“Calen, would you mind getting Zor’kan?” Ali asked, providing a convenient distraction from the moment.
+
+“Right,” he said, hopping to his feet. He already knew where Zor’kan was hiding, and the master leatherworker needed to see this – the result of his impossible quest.
+
+***
+
+Calen returned to the Temple of Blood with a hopeful Zor’kan in tow, but the taciturn leatherworker let out a cry at the sight of the aftermath and rushed over to pay his last respects – or more likely last insults – to Tol’brekk’s blackened body.
+
+Calen left Zor’kan to deal with what was likely a very personal matter and walked over to where Lyeneru lay, still weak, in the shade of Mato’s branches. He found a spot between the roots and sat, placing his back up against Mato’s trunk and closing his eyes for a few seconds, overwhelmed by all that had happened.
+
+Thank you, my friend. He let the sense of relief and the newly kindled hope wash over him for a while.
+
+I killed a Death Knight.
+
+He had had the substantial help of his friends, but it still felt intensely personal. He had been so frightened and powerless the first time he had faced one of the universally feared undead generals. Back then he had needed Lyeneru’s help to even hurt it, but this time, Lyeneru had been more than fully occupied with fending off the Blind Lich in an epic battle in the skies. This Death Knight kill could rightly be called his own.
+
+He opened his eyes again, considering Lyeneru’s words. There had been no notification for the death of Nevyn Eld as she had said, which meant he was not gone. Not for good. It was a foul and bitter pill to swallow, especially after the triumph of watching Ali blow him up. Even so, the defeat of his undead body had been quite an achievement, especially considering the state he had left Lyeneru in. It was impossible to imagine the loss to the continent – no, the whole realm – if she had perished here.
+
+This could have ended so much worse.
+
+He sat quietly for a long time while Malika and Ali moved around looking after trolls and cleaning up.
+
+Where would a Lich go to feel safe? A being of such overwhelming arrogance must be obsessed with the obvious weakness inherent in tying their soul to a physical vessel. The hiding places of Lich Phylacteries were legendary, almost impossible to find, and even harder to recover and destroy, but he couldn’t help wondering where it might be.
+
+Wait… can I track him?
+
+When Explorer had hit level twenty, he had unlocked Sense Prey – a gift from his patron deity. It was a strange ability that had no range limit, but it provided only a sense of direction to a prey he had seen recently. He had no idea if it was restricted to the body of his prey, or if it could handle the loss of body and the subsequent travel to a magical device like a Phylactery.
+
+He only wondered for a few moments before he tried it.
+
+North and a little west. For the first time, his skill provided a vague sense of immense distance. What is out there? He had a decent idea of the world map – past Myrin’s Keep, and the northern-most border of New Daria, lay the Spine of the World – an immense mountain range capped by giant glaciers and a heavy wreath of permanent snow. And beyond that, the endless desert wastes of Brast before the northern kingdoms.
+
+Suddenly sensing eyes on him, he glanced up. Just outside the entrance to the Temple of Blood, a white-cloaked woman wearing a wide-brimmed hat stared in his direction. The moment he saw her, she inclined her head, and her image shimmered and faded away. A fresh chime sounded, and new, glowing rows of text appeared in his mind.
+
+Explorer has reached level 52 (+4).Your actions have greatly increased the reputation of your patron.You have earned the Title: Tracker of the Dead. You have tracked the soul of a Lich to its hidden Phylactery.+2 [1 + class level / 50] to skill level of Tracking skills when the target is undead.Title
+
+“What is it?” Lyeneru asked, startling Calen out of his surprise at the unexpected appearance of his patron and her gift.
+
+“Nevyn Eld’s phylactery is somewhere to the north and west, past the Spine of the World,” he answered, still reeling from the consequences of his impulsive actions.
+
+“How do you know?” she asked, suddenly alert. “Nobody has been able to find so much as a clue to his whereabouts for as long as the Pathfinders have been in existence. He has wards against every form of divination.”
+
+He simply shared his new title with her.
+
+“That’s a very strong title,” she said, pursing her lips for a moment. “You tracked him with your patron’s tracking skill?”
+
+“Yes. I’ll get the title’s bonus even if it’s not displayed, right?” he asked. This was his second title, and while he was mostly certain how it would work, he wanted to confirm it now that he had the choice.
+
+“Yes, the title you choose to display only affects how people see your class category when they Identify you, you should get the benefits of both your titles regardless of which you choose to display,” Lyeneru answered softly. “But the displayed title can have effects on how people regard you, which influences reputation gain and a few other minor things.”
+
+He nodded, quickly choosing to switch from displaying Rift Warden to his new Tracker of the Dead. If his patron cared enough to keep a close eye on his efforts, he would proudly display her reward for all to see.
+
+The strange thing about the tracking skill he had earned from his patron deity’s trial was that while it was vague about distance, he could still sense the direction with unerring precision. He retrieved his notebook, flipping the pages to a map of the continent, and then ruled a precise line through the center of Aman Rak in the direction he sensed with his skill. “Somewhere near here,” he said, circling a section of an otherwise entirely uninteresting mountain range and showing it to Lyeneru.
+
+“This is dangerous and unexplored land,” Lyeneru said. “Frost Dragon territory.”
+
+While she studied the map, he opened his notifications for the hard-fought battle.
+
+Archer of Light has reached level 96 (+9).+90 attribute points.
+
+Nine levels! Holy… something! He had known that there was a massive power breakpoint for most classes at level one hundred; most classes got their first evolution there, and most guilds rewarded the precious few adventurers that reached it with the rank of platinum. The zone-wide notification when the Blind Lich had raised Tol’brekk was all the proof he needed to know that the berserker death knight was most certainly an evolved class. Still, knowing why the reward was so high did nothing to dampen his surprise and elation.
+
+With so many points, he could afford to rebalance his attributes to the curves he had designed after his discussions with Nendir and Lyeneru. Perfectly timed to set himself up for hitting the second tier himself. Hopefully. First, he spent six points on vitality and two on strength, shoring up his vulnerabilities and ensuring he would still be able to wield his bow. Next, he increased his resources a bit, spending eight on endurance and ten on wisdom. Finally, for his primary attributes, he allocated eighteen each to intelligence and perception, leaving the final twenty-eight for dexterity.
+
+Yes, this looks perfect. Now for the details.
+
+Radiant Archery has reached level 52 (+5).Arrows of Brilliance has reached level 55 (+5).Motes of Light has reached level 34 (+4).Explorer has reached level 52 (+6).Blessing of the Dawn has reached level 38 (+2).Eclipse has reached level 31.Eyes of the Archon has reached level 34 (+4).Righteous Fury has reached level 32 (+3).Azrael's Wings has reached level 22.Mirage Armor has reached level 33 (+5).Bowcraft has reached level 11.
+
+He studied his skills for some time, recomputing his damage numbers and messing around with possible changes to his skill rotations. With Radiant Archery surpassing fifty, he would now have access to a six-shot multishot – and that changed most of the efficiency balance of his archery skills. Explorer had done extremely well, gaining two levels during the fight, and the remaining four from his bout of ‘inspiration’ in deciding to track the Lich’s Phylactery.
+
+Howling Hellfire Bow has reached level 72 (+3).
+
+His bow was leveling nicely, and he was in no danger of failing to meet the strength requirements yet. However, with him rapidly approaching level one hundred, it might be time to do some research at the Pathfinder Guild and see if there was a way to commission or buy an upgrade.
+
+He smiled. Even though Lyeneru looked like she would be facing a period of convalescence, at least he would be going home with his mentor alive and his friends healthy.
+
+It was a good day.
+
+***
+
+Name: Calen AveryRace: Half-ElfTitles: Rift Warden, Tracker of the DeadActive Buffs: Blessing of the Dawn, Mirage Armor, Motes of Light, Blessing of the Wanderer, Well-fedClass: Archer of Light – level 96- Radiant Archery – level 52- Arrows of Brilliance – level 55- Motes of Light – level 34- Explorer – level 52 (+2)- Blessing of the Dawn – level 38- Eclipse – level 31- Eyes of the Archon – level 34 (+1)- Righteous Fury – level 32- Azrael's Wings – level 22- Mirage Armor – level 33General Skills- Bowcraft – level 11- Cartography – level 18- Skinning – level 12- Basic Daggers – level 2Aptitudes- Languages: Common, Elvish, Troll- Mana (Affinity): Light- Perceptive (Racial): +11 to Perception- Quick (Racial): +5 to Dexterity- Timing (Class): You have an innate sense of timingPatrons & Tithes- Deity: The Wanderer- Mentor: Lyeneru SilverleafAttributes- Vitality: 83 (+4)- Strength: 111 (+52)- Endurance: 61- Dexterity: 1052 (+754)- Perception: 610 (+384)- Intelligence: 743 (+507)- Wisdom: 87Equipment- Weapon: Howling Hellfire Bow – level 72- Head: Frosted Sapphire Drop – level 75- Body: Elusive Drake Scale Armor of Devastation – level 78- Hands: Vampiric Bracer of the Bat – level 73- Feet: Swift Bone-Studded Jambeau – level 60- Ring: Gold Guild Ring – level 60- Ring: Pathfinder Guild Ring – level 95Evasion: 3270Dodge: 54.88%Resistance: 871Magical Damage Reduction: 24.47%+21% to Attack speed.+27% to Movement speed.+12% Spell damage to Ice skills.+25% to mana regeneration.+10% to Fire resistance.+21% to Ice resistance.+3% of your damage is returned as Health over 30 seconds.+2% of your damage is returned as Stamina over 30 seconds.+2% of your damage is returned as Mana over 30 seconds.Health: 830/830Stamina: 610/610Mana: 304/870 (566 Reserved)
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

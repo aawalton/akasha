@@ -1,0 +1,425 @@
+---
+id: c4617a30-418d-51c9-93ba-8187ff63b2c6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35: Adventurers Guild"
+slug: 0035-chapter-35-adventurers-guild
+partOf: dungeon-of-knowledge-complete
+position: 35
+ownLength: 6193
+unit: words
+ownProgress: 6193
+publishedAt: 2024-03-02
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1539055/chapter-35-adventurers-guild"
+royalRoadId: "1539055"
+markedReadAt: "2026-06-29T20:12:08.477Z"
+---
+
+ATTENTION BRAVE SOULS OF NEW DARIA
+
+JOIN THE ELITE RANKS OF THE ADVENTURERS GUILD
+
+Are you tired of sitting on the sidelines while the forces of darkness encroach upon our lands? Do you hunger for glory, treasure, and the thrill of battle? Look no further! The Adventurers Guild wants YOU to be a part of the vanguard defending our realm from the perils that lurk beyond!
+
+WHY JOIN?
+
+GLORIOUS ADVENTURES: Immerse yourself in epic quests, face menacing monsters, and conquer treacherous dungeons. Every mission is a chance to carve your name into the annals of history.
+
+INVALUABLE EXPERIENCE: Sharpen your skills in the crucible of battle. Gain experience in combat and grow your skills! Whether you wield magic or the sword, the Adventurers Guild provides unrivaled training to mold you into a true champion.
+
+RICHES BEYOND IMAGINATION: Discover ancient treasures, lost cities, rare artifacts, and mountains of gold. Your efforts will be rewarded with spoils fit to make a dragon's hoard seem like loose change.
+
+BROTHERHOOD OF THE BRAVE: Forge bonds with like-minded warriors, mages, archers, and rogues. As a member of the only transcontinental combat organization, you will command respect wherever you go. Together, we stand united against the forces that threaten our nation, our realm, and our world.
+
+ENLIST TODAY, BECOME A LEGEND TOMORROW!
+
+Visit your nearest Adventurers Guild chapter or our Headquarters in Southport to begin your journey. The realm awaits, and your destiny beckons – will you answer the call?
+
+* Offer contingent on a full background check. The Adventurers Guild is not responsible for death, dismemberment or any other form of permanent damage incurred during guild duties. Support positions are available, non-combat classes are also welcome to apply.
+
+- Recruitment Advertisement for the Adventurers Guild in Southport, New Daria.
+
+Laurel’s Café had been fun, the food exquisite, and Ali had that contented happiness of a full stomach after some much-needed relaxation as they strolled back across town.
+
+Not that I want to do this every day, mind you. Even just walking down the street in her finery caught the attention of all the passersby, leaving her with the uncomfortable sensation of always being watched. She didn’t enjoy being the center of attention at the best of times. It was, however, far better than the occasional looks of distrust or fear, but certainly not relaxing.
+
+“That was a great lunch!” Mato said, rubbing his stomach, and burping contentedly. “I need to find out who their chef is.”
+
+Ali chuckled, her tummy feeling just as happy.
+
+“Mato!” Calen exclaimed, punching him on the arm.
+
+“What? I’m a Beastkin…” he answered, as if that explained it. Malika just rolled her eyes.
+
+Calen said, “There are ladies present.”
+
+“Who are laughing –”
+
+“I think we should all join the Adventurers Guild together,” Malika put in. She had mentioned wanting to join the guild during lunch, but this was the third time she was suggesting it.
+
+“Why would we do that?” Mato asked, frowning.
+
+Ali found herself nodding in agreement. The idea of joining a combat-focused guild filled her with something akin to anxiety. She had a combat class – or at least a hybrid – but her experience with combat so far hadn’t exactly left her hungry for more.
+
+“We could quest together?” Malika responded, seeming enthusiastic about the idea. “It also might offer some protection.”
+
+“The Adventurers Guild in Myrin’s Keep is not very well established,” Calen noted. “It’s really small and has few members.”
+
+“It’s still respectable work for combat classes like ours, and it doesn’t require joining the Town Watch,” Malika countered. “And a good Adventurers Guild can be a force of stability in a town, helping to reduce crime. Unless you fancy yourself a soldier and want to join the garrison under Commander Brand.”
+
+Mato snorted, “Do you really think a new Adventurers Guild can stand against the criminal syndicates?”
+
+“Um… that’s a good point,” she said, scratching her neck. “Still, I wondered …”
+
+“Actually, I think it might be a good idea,” Calen interjected.
+
+Everyone stopped and looked at him. Ali remained quiet throughout the debate – she had already let them know she was uncertain about the adventurer’s life, but she was willing to trust her friends. If they all decided to join, she would too, and see where it took them.
+
+“Joining the Town Watch is a hard no from me, but I’m pretty much broke – those thugs stole everything I had. The guild is likely to have quests for clearing out vermin and pests. They’re chores, but only combat classes can do them, so they would pay reasonably well. I’d like to buy new arrows and a replacement set of leather armor sometime soon – and pay my mother back for the money she’s lending me.”
+
+That derailed the conversation for another five minutes while her three friends vented their frustration about the Town Watch situation, lamented the lack of decent leatherworkers, and commiserated over how expensive everything was.
+
+“What about the Goblin horde?” Mato asked, finally bringing the conversation back on track. “Shouldn’t we be more worried about them?”
+
+“Almost certainly, the Adventurers Guild will have quests related to Goblins. Even if they don’t yet, they will as soon as they show up. That means we can earn money defending ourselves against them,” Calen pointed out.
+
+“Now you’re talking!” Mato said, clearly excited. His position on the Guild reversed the instant Calen suggested making money by fighting Goblins.
+
+“Does it cost anything to join?” Ali asked, deciding to get involved after all. If it was expensive, it would be entirely out of her means and the decision would become moot at that point.
+
+“I heard that this Guildmaster is offering free signups. The only obligation is that you do enough jobs or quests to pay off the cost of the guild membership ring,” Malika answered.
+
+“Membership ring?”
+
+“Oh yes, they have a ring with a quest tracker and a spatial magic storage enchantment,” Calen answered, his face lighting up. “It would be nice to have space to carry camping gear and extra arrows. We wouldn’t have to sleep on the ground anymore.”
+
+“And food,” Mato added.
+
+“And for you, a hairbrush and a few extra manners,” Malika teased the big Beastkin.
+
+“Ooh, that sounds nice!” And with that, Ali was convinced.
+
+***
+
+The Adventurers Guild was nothing at all like Ali had imagined. It was housed in an unassuming building of mixed wood and stone construction in a quiet part of town, rather near the market. Nestled in among several merchants and other businesses, it stood out precisely because it didn’t try to catch her attention with bright signs advertising services and wares.
+
+She waited as Mato pulled the heavy oak door open and held it for them and then stepped inside pausing to let her eyes adjust after the brightness of the sunshine outside. The guild hall that greeted them was not particularly large – wood-paneled walls decorated with trophies and stylized artwork depicting adventurers defeating monsters. The wooden floors creaked a little underfoot, covered with rugs in warm colors. A small reception desk stood near the doorway and, at the back of the hall, several people – mostly humans – sat at small tables near a bar finishing a late lunch, filling the air with the clinking of silverware on plates and the soft hubbub of quiet conversations. The aroma of toast and a hearty stew mingled with the sharper smells of polished steel and oiled leather. A stairwell, flanked by several potted plants, led to the second floor. There was a lounge area with several comfortable-looking chairs arranged around a hearth where a small crackling fire had been set, lending a radiant warmth to the entire room.
+
+Ali grimaced at the sight of the preserved head of a monstrous boar mounted over the hearth, turning her gaze to the handful of people she could see in the bar and lounge areas. They looked like adventurers, which she confirmed quickly by identifying everybody.
+
+Must be the members, Ali thought, noting that they ranged from level one up to around twenty. Nearly all were human, much like the demographics of the town itself, and most seemed to be warriors or rogues displaying a wide array of swords and daggers worn openly.
+
+“Hi, we’d like to join,” Malika announced, approaching the reception desk. Her direct approach drew a few curious glances from the guild members, but they soon returned to their own affairs.
+
+The pretty Elvish woman sitting behind the desk looked up with a ready smile on her face, which seemed to widen fractionally as she glanced at Calen. She had long flowing azure hair with big sky-blue eyes set in a delicate face. She wore a pair of stylish thin-rimmed glasses that flickered and shimmered in Ali’s mana sight. The fascinating magical interplay was rapid and surprisingly complex, leading Ali to guess it must be some type of communication device, or analysis tool.
+
+“Hi, my name is Mieriel. I’m the Guild Administrator. I’d be delighted to get you all signed up.” She had a soft lilting voice, and as her delicately manicured hand touched the glasses, the magical array muted dramatically.
+
+Out of habit, Ali identified her.
+
+Spy – Sun Elf – level ?? (Mind)
+
+Mieriel glanced at her, and an unfamiliar mana flickered briefly in her eyes, unlike anything Ali had seen before. Slightly disoriented, she caught herself staring and returned to the unusual notification.
+
+Analyst – Sun Elf – level 18
+
+Huh, wasn’t that just…
+
+“Oh my, how stylish!”
+
+Mieriel’s excitement caught her off guard, and she found herself staring at her once again.
+
+Her eyes…
+
+“I’d love to know who made your outfit, if you don’t mind sharing?”
+
+“Uh…” The soft fragrance of summer lilies filled the air, and, for some reason, Ali felt confused. Wasn’t there something…
+
+Mieriel just waited patiently, and Ali found herself answering automatically. “Oh, we were just at Lydia’s Allure, down on Artisan’s Row. Lydia made these for us as a favor.” Ali twirled, making her pretty dress flare as Malika had done earlier.
+
+“Thank you! I will definitely pay her a visit then,” Mieriel said, a pretty smile on her face. “She is truly a genius, and you wear that so well.”
+
+Ali smiled back and then waited while Mieriel processed everyone’s applications, the entire time bothered by a persistent feeling that there was something in the back of her mind that she just couldn’t remember.
+
+It’ll come to me later, she thought, putting it down when it was finally her turn. Mieriel kindly brought a low wooden step stool for her to use so that she wasn’t standing under the desk.
+
+“As I told the others, the guild membership ring is five gold. A percentage will be deducted automatically from your quest or job rewards until the cost is covered. Unless you wish to pay for it upfront?”
+
+“No, that’s ok,” Ali said, accepting the agreement. It wasn’t like she could pay even if she wanted to.
+
+Sliding a small glowing panel across the desk toward her, Mieriel said, “First, channel a little mana into this. The device will cast an Advanced Identify using your mana for the guild records.”
+
+So, they do have devices, she thought, studying the panel with great curiosity as she channeled a little of her mana into it.
+
+“Let’s see,” Mieriel said, scrutinizing the panel. “Aliandra Amariel. I love your name, so pretty! Mage class, Nature and Arcane. Race is Fae, obviously. Age…”
+
+Mieriel stopped and stared at her over the rims of her glasses in surprise. “Are you really three thousand two hundred and eighty-seven years old?”
+
+“Um… that’s … technically correct, probably?” Ali answered, feeling the skin of her cheeks growing warm.
+
+“I’m sorry, that was rude,” Mieriel said quickly, looking quite mortified.
+
+“No, it’s ok, it’s just complicated,” Ali reassured her. Well, now everyone knows exactly how decrepit I am. Me included. What’s a few millennia between friends?
+
+Mieriel reached into a drawer and retrieved a bronze ring. Touching it briefly to the panel, she handed it to Ali. “Here’s your ring. Channel a little mana into it to key it to your mana signature and it will bind itself to you. You can track quests by touching it to the quest scrolls posted on that board by the fireplace.”
+
+Ali channeled her mana into the ring, and then put it on her finger, happy to find that it adjusted to a comfortable fit automatically. She identified it.
+
+Bronze Guild Ring – level 10A ring signifying bronze-level membership with the Adventurers Guild.Owner: Aliandra Amariel.Quests: None.Mana: Store or retrieve an item. Capacity: 200g / 25kg.Created by Giddy Clicksprocket.Ring
+
+“Um, excuse me? It seems there’s something already stored in my ring…”
+
+“Mine too,” Mato said.
+
+“Oh, that?” Mieriel answered, smiling. “That’s a gift from the Alchemist shop on the corner, Pretty Powerful Potions. The proprietor, Morwynne Fizzlebang, thought it would be a great way to market her services by gifting every new adventurer with a Recall Potion. It’s an excellent way of getting out of trouble, as I’m sure you’re aware.”
+
+Mato nodded emphatically, grinning as a vial of the black potion appeared in his hand with a subtle ripple of magic.
+
+“Oh, nice!” Ali studied her ring. Her friends were all busy with their rings, but the controls seemed quite intuitive. All it took was a tiny trickle of her mana to activate the storage enchantment, and she suddenly found a view of what must be the inside of the ring’s spatial compartment somewhere off in the back of her mind – that same mental space where her notifications usually appeared, visible, but not interfering with her view of the world. She selected the only thing in it – a familiar-looking black potion – and suddenly it was in her hand. Same as the one Mato bought me. Ali found it even had the same smartass mana signature. Smiling, she used a few more points of mana and put the potion back in the ring.
+
+“Welcome to the guild!” Mieriel congratulated them cheerily. “If you’d excuse me for a second, I’ll go get the Guildmaster. She prefers to interview all the new members so she can understand what kinds of jobs are best suited for you. Feel free to sit, browse the quest board, or purchase some refreshments at the bar. I’ll be back shortly.” And with that, she disappeared up the stairs.
+
+Well, that was easy, Ali thought, joining the others over at the quest board. She dragged her wooden stepstool over so she could read the scrolls and leaflets pinned to the board. For a guild that had supposedly only just recently been formed, there were a rather surprising number of quests listed.
+
+Lots of work needs doing, I guess? There were requests ranging from help finding missing sheep, to collecting herbs in the forest, escorting merchant wagons, and exterminating spiders in a mine.
+
+The herb one looks interesting, she thought, looking a little closer. She didn’t know what ‘Blue Mana Grass’ was, nor ‘Fire Flowers,’ for that matter. If I can grow them, perhaps I can make a little money on the side?
+
+“Here, why don’t we get this one?” Mato suggested, putting a large finger on a scroll near the bottom of the board. The scroll was simple and to the point:
+
+By order of the mayor, William Turner, the following bounty is set for Kobold extermination.
+
+It was followed by a short list of payouts by monster level.
+
+Ali touched her ring to the scroll as Mieriel had suggested and her ring glowed softly for a moment as it updated the quest tracker.
+
+Bronze Guild Ring – level 10A ring signifying bronze-level membership with the Adventurers Guild.Owner: Aliandra Amariel.Quests: Eliminate hostile Kobolds in and around Myrin’s Keep – 0Mana: Store or retrieve an item. Capacity: 200g / 25kg.Created by Giddy Clicksprocket.Ring
+
+“Too bad it doesn’t count the ones we already killed.”
+
+“We’ll just get some more. It will be easier now that we’re stronger,” Mato reassured her with a kind smile. “It looks like it pays pretty well.”
+
+A few minutes later, Mieriel reappeared. “Please follow me. The Guildmaster is ready for you now.”
+
+They were led upstairs to a conference room of sorts. A little small and cozy, but there was a table with some chairs, and the walls were decorated with what must have been portraits of contemporary heroes. Ali didn’t recognize any of them, of course.
+
+“Guildmaster, these are the new members I told you about – Malika, Mato, Calen, and Aliandra. This is Guildmaster Vivian Ross.”
+
+Warrior – Human – level ???
+
+Three marks! Vivian Ross’s identification and her high level caught Ali by surprise, and she quickly stopped herself before she made it too obvious that she was staring.
+
+She must be over one hundred!
+
+The Guildmaster cut an imposing figure with her long jet-black hair tied back in a functional braid. She wore striking red-and-black scale mail armor that looked like it might possibly be Dragonscale, and hanging from her belt were two slightly curved swords tucked away into plain black lacquered sheathes. She had an athletic build and held herself with an easy confidence that hinted at substantial physical power.
+
+Ali felt a jolt as Vivian caught her gaze with her striking violet eyes, but her face and smile were welcoming.
+
+“Welcome to the guild, I’m glad you decided to join,” Vivian said. She spoke with an unhurried calmness and a resonance that compelled attention.
+
+“I’m Vivian Ross, a long-time adventurer and dungeon delver, now retired. I’ve seen the inside of the worst dungeons, and the most horrific bosses, and I’ve seen way too many novice adventurers, full of excitement and confidence, killed before they even reach level twenty. My vision for this guild is to train and educate people who wish to become adventurers and are willing to take advice, work hard, and value teamwork. Long-term, I believe that a strong and healthy Adventurers Guild will become a force against the crime and corruption that is so rampant here in Myrin’s Keep.”
+
+That’s the same thing Malika said. Hmm. Maybe with her around that Kieran Mori would be throwing a few less people down into Kobold caverns.
+
+Vivian studied each of them in turn. Ali suppressed an urge to apologize for not wiping her feet on the green mat outside this woman’s door. “You don’t need to share my long-term vision, but I insist that all members know and respect the guild’s goals. The guild is not your parent or school. If you do something stupid and die, it’s on you. This is a place to practice, find jobs, and people to work with and learn from. That said, if you actively sabotage the guild’s vision or any of its members, you will be expelled.”
+
+She seems so intense, Ali thought listening to Vivian explain the guild’s mission. Perfect for Malika, though.
+
+“Mieriel says you joined as a group, and I can see that you have at least enough skill and cooperation to pass the earliest levels on your own. You’re welcome to keep your current group, but four-person teams are quite rare – mainly because they typically lack some critical role, making them vulnerable. Five is our normal guideline. Once I understand your classes and experience a little better, I can also recommend people with compatible classes for you to consider. An actual choice will be up to you – I don’t make orders, but I’d ask that you seriously consider my recommendations.”
+
+She wants us to have another person? Anxiously, Ali’s mind flitted back to the guildhall and the faces of the various strangers she had seen. I’m not sure I’d want anyone else…
+
+“I know many people are private about their classes and capabilities, and for good reason. I won’t ask you to share more than you’re comfortable with – but the quality of my advice will be directly proportional to the quality of the information I have to work with. Just bear in mind that when you work with other members of the guild on bigger jobs, your abilities will become known quite quickly.”
+
+Ali glanced at Malika, knowing that she had been hesitant to share, but she seemed focused on what the Guildmaster was saying.
+
+She’s probably also assessing our knowledge, Ali worried.
+
+Vivian scanned across the group unhurriedly before her eyes settled on Calen. “Why don’t we start with you? Calen, right? How about you tell me what you’re comfortable with sharing and how you see your role on the team?”
+
+Clearing his throat lightly, he replied, “I’m an archer with a light magic affinity, ma’am. I have an archery proficiency skill and a magic damage enhancement for my arrows. My primary attributes are dexterity, intelligence, and perception, and I have an attribute boost skill for those. I have stealth, tracking, and silent movement. I have an advanced identification skill for monsters and areas, and for level ten I took a passive visual perception skill. My role on the team is scouting and doing as much ranged damage to monsters as possible.”
+
+Calen’s organized description was exactly how Ali had come to see him in the short time she had known him. She just hoped she would be as collected as him, and not look like a fool in front of the Guildmaster when it was her turn.
+
+Vivian nodded briefly, and Mieriel’s fancy glasses flickered as she took notes.
+
+“Ambush?” Vivian asked.
+
+“No.” Calen grimaced at the admission.
+
+“We can work on that with training,” Vivian said. “Okay, Malika, how about you?”
+
+To Ali’s surprise, Malika seemed to trust the Guildmaster and immediately spoke up, saying, “I’m a Monk. I have an unarmed martial arts proficiency skill and a soul magic damage enhancement for melee attacks. It has a small health drain component. I have an attribute boost, armor, and evasion skills, a touch-range heal, and a combat haste movement skill. I typically take the tank role.”
+
+Again, Vivian nodded while Mieriel took notes.
+
+“If she’s the tank, the Druid must be the healer?” she asked, turning toward Mato.
+
+“No, I do damage,” Mato answered gruffly, drawing a raised eyebrow from Vivian.
+
+“He’s a shapeshifter, and his heal is a self-heal,” Malika explained.
+
+“Oh, can I see?” Vivian asked curiously.
+
+Motioning the others to give him enough space, Mato showed off his Wolf and Bear Forms quickly.
+
+“So big,” Vivian commented when Mato changed to his Bear Form, taking up so much space in the conference room that it instantly felt cramped. She followed up with several detailed questions regarding the forms, armor, and his attributes.
+
+“I also have a damage redirection skill and an advanced regeneration aura,” Mato added.
+
+“Oh, that’s unusual,” Vivian said. “How does that work?”
+
+“I can take damage meant for other people within a twelve-foot radius,” he explained.
+
+Ali shivered at the memory of a dagger stabbing her – well acquainted with Mato’s life-saving skill.
+
+Vivian nodded, waiting for Mieriel to finish writing before turning to Ali.
+
+“Aliandra, how about you? The identify scan seemed a little confused about your class.”
+
+“I have a hybrid class – Mage and Scholar.” Ali saw real surprise flicker across the Guildmaster’s face for the first time.
+
+“I have a hard time seeing how you guys leveled up with two-and-a-half damage classes,” Vivian pointed out. “What does your class do?”
+
+Ali frowned as it suddenly dawned on her that Vivian had assessed her class as the half. Clearly, Mato and Calen were granted a full role as the damage classes on their team, but surprisingly, it was Calen who came to her defense.
+
+He chuckled quietly and said, “Ali does more damage than me.”
+
+“With a Scholar class?” Vivian sounded incredulous, but at least, she did not dismiss anything they had said so far.
+
+“I normally take the role of damage, defense, or control,” Ali said, glancing at Malika who had first taught her the names and roles for adventuring. Malika just smiled at her, and Ali took some measure of encouragement from the support of her friends.
+
+“I have an Arcane Bolt spell and a Barrier,” she began.
+
+“Can I see those?” Vivian asked.
+
+Ali summoned her barrier in the center of the table, quite substantially larger now than when she had first learned the skill. It popped into existence instantly and simply sparkled as Ali watched Vivian’s intrigued expression through the floating magic wall.
+
+Vivian reached out and flicked it with a finger, making a small ringing sound. “Very nice,” she said. “The gold color is unusual; did you do that on purpose?”
+
+“It’s always been that way,” Ali said. “My mother’s magic was the same.”
+
+“A Fae thing, then? Why don’t you show me the bolts?”
+
+“It needs a target,” Ali answered. “I don’t…”
+
+“I got you,” Malika said, standing up.
+
+Ali fired a few bolts at Malika before stopping. She was immediately reminded of the first time she had used the skill – that time also shooting her friend. Soul Magic looks so cool, she thought as Malika displayed her healing. We’ve come such a long way since then.
+
+“Seeker bolts, very nice,” Vivian approved. “But I still don’t see how you do more than the archer. What other skills do you have?”
+
+“I have some Scholar skills, something to help me learn languages and magic, Runic Script allows me to read and write magical runes, and a perception skill for seeing mana.”
+
+“Not much use in combat, though?” Vivian pointed out. “At least not for damage.”
+
+“She learned to inscribe a Druidic Restoration circle, which saved my life a few times,” Mato put in.
+
+“Hmm,” Vivian answered.
+
+“Mostly I don’t do much damage on my own,” Ali continued. “My minions do most of it for me.”
+
+“You’re a Summoner?” Vivian asked. Both she and Mieriel visibly startled, sitting up straighter.
+
+“Yes? My father was a Summoner, too.”
+
+“What can you summon?”
+
+“Mostly Kobolds,” Ali answered.
+
+“Why would you choose Kobolds for your class summon?”
+
+“I didn’t … choose? I just learned Kobolds.” What’s wrong with Kobolds? She was quite proud of them, actually. They had saved her and Mato’s lives down in the ruins – many times.
+
+“Wait, you didn’t choose a minion when you unlocked your class?”
+
+“No?” Is that how it’s supposed to work? Ali frowned, “I learned the Kobolds after we fought a bunch of them. I can make wolves, too.”
+
+“Wow, that’s… interesting,” Vivian deadpanned, punctuating her nonplussed reaction with a quick grin. “Do you mind showing me?”
+
+“Um, ok,” Ali answered, looking for support from her friends. She was feeling uncomfortable with this line of questioning, as if she were being judged by the intense scrutiny unleashed upon her class and choices, but her friends smiled encouragingly. At least they believe in me. But Vivian had such a high level – at least a hundred by the marks – and had to have an enormous amount of experience. Maybe this is just the opportunity I need to catch up on all that combat education I missed? She certainly knows how to focus on the important details, just like a good scholar, and she sounds like she might make an ally if we can keep on her good side.
+
+Ali produced her Grimoire and summoned a Kobold. As soon as the black-scaled rogue appeared beside the conference table, Ali turned the pages, summoning leather armor and a pair of crude daggers for him.
+
+Your reserved mana has increased by +57.
+
+Rogue – Kobold – level 9
+
+“I see. How many rogues can you make?”
+
+“I can’t choose which kind it makes, nor the level. I sometimes get warriors instead,” Ali answered. “This one reserved fifty-seven mana, and I have nine hundred and forty-five, so I guess I could make sixteen of those if I didn’t want to cast anything else. Oh, and I have a skill that increases the damage of all my minions if they’re in range.”
+
+“Well, that explains a few things,” Vivian answered cryptically. “I understand now how you guys have been leveling. Your group composition is very unconventional, and while you might still consider adding another member, I take back what I said before, you’re easily strong enough with just the four of you. In fact, you’re probably going to outperform many larger groups given the right conditions.”
+
+Does that mean she thinks my class is ok? Ali brightened, trying not to fidget as the high-level warrior considered her for a moment longer than felt necessary.
+
+After tapping her fingernails on the desk in front of her as if making a decision of sorts, the Guildmaster said, “I do have some immediate suggestions and advice for you all. As a team, you have all the major bases covered, albeit in unusual ways. I won’t recommend another person for your team unless you ask for it. I estimate that if you use your classes efficiently, you shouldn’t have trouble taking any of the bronze-ranked jobs suitable for your levels.”
+
+Why did she change her mind about our team’s strength? Ali wasn’t certain because Vivian didn’t seem particularly easy for her to read, but her attitude had seemed to change when Ali summoned the Kobold.
+
+“Normally, I would be careful telling a new team that they are strong for fear of making them overconfident – that usually gets novices killed quickly. But the fact is, you have a Summoner, and used efficiently, Summoners are unreasonably powerful. But she will also be the main vulnerability on your team.”
+
+I’m strong? Ali didn’t feel very strong. Malika and Mato were both stronger than she was. No, she said strong and weak. Great!
+
+“You will need to structure your team a little differently. Calen. For you, I recommend training to unlock an Ambush skill or advancement. Paired with stealth, that would give you a huge advantage on burst damage.”
+
+“Would you focus on burst rather than sustained damage?” Calen asked.
+
+“Your kind of class benefits mostly from investing in dexterity and intelligence – both damage-enhancing attributes – but neither of those help you with mana or stamina. With your kind of class, sustained damage is difficult to develop without diluting your focus. With a ranged Ambush, you can eliminate the most dangerous soft target faster than any rogue or Assassin.”
+
+Fire Mages, definitely, Ali thought, nodding her head.
+
+“You will be highly dependent on good gear and consumables, so get familiar with using mana potions and buy yourself a better bow. Your role should be scouting, damage, intelligence, and pulling or splitting difficult monster packs. Practice your kiting skills.”
+
+Kiting? I’m going to need to ask Malika to translate some of that later, Ali thought.
+
+“Mato, you should consider the role of main tank, instead of Malika.”
+
+Both of them glanced at her in surprise.
+
+“But…” Malika began.
+
+“Why?” Mato asked, folding his arms across his chest.
+
+“I’ll explain my reasoning, but you should decide for yourselves. Mato, you have a strong self-heal, and your aura regeneration benefits all the melee fighters near you – the more the better. In your team, that’s Malika and Aliandra’s Kobolds. All your skills are melee and, other than your Charge, you are slow. Pinning you down to take the hits from the boss doesn’t limit you in any meaningful way. Plus, you have more natural armor than Malika does. You should definitely talk to the blacksmiths after you gain a few more levels – some of them can make shapeshifter gear. Heavy plate armor scales very well for strength-focused classes.”
+
+Picturing a plate-armored bear in her mind, Ali did not know whether to feel excited or terrified. Mato’s normally open face was unreadable, his arms still folded across his broad chest and his expression carefully kept blank. Is he worried about Malika’s reaction to all this? Before she could consider it further, Vivian said:
+
+“Malika, your class provides mobility and speed, and a touch-based heal. You are the team’s only general healer. Pinning you down loses about half of what your class is capable of. You’ll never reach your full potential if you give up your mobility.”
+
+“What is my role, then?” Malika asked, scowling at her own hands.
+
+“In a standard team I would say primary healer every time, simply because healing is so rare and crucial to the success of the team, but the Bear can do a lot of his own healing. So, your value to the team is versatility. You can do everything. You need to get good at reading the fight and choosing when to be a healer, a second tank, or a damage dealer. You won’t be the best at any role, but with some good training and appropriate skill choices, you can become great at all of them.”
+
+Ali tried to read her teammate’s reaction. She’s not convinced.
+
+“Aliandra, your primary role is support. As a Summoner, you will be bringing most of the damage to the fight, but you must learn to be adept at adjusting, defending, and generally controlling the flow of the battle with your abilities. You will need to adjust too – you will take different roles in different fights. Your minions are all melee fighters. That’s a big limitation.” Leaning forwards with her clenched fists upon the tabletop, Vivian said, “If you can learn new minions, you should choose ones that increase your versatility – find an archer type, or, better yet, a mage. That way, you can customize your team configurations. In the meantime, you’ll need to get your rogues better weapons and armor – those daggers are frankly awful.”
+
+Ali squeaked in embarrassment, “Yes. Yes, they are.”
+
+“So, everyone. Your team’s strength is its versatility; you have two sources of healing, and you can bring two tanks to any fight. Your weaknesses are a lack of area damage and general crowd control. And you lack escape skills. Especially the shapeshifter – he cannot use potions.” Mato grunted unhappily at this. “If you ever run into monsters with mind control or charm, you might find yourself fighting Aliandra’s minions and will likely die. If you’re serious about sticking together as a group, you should prioritize skills that benefit all allies, area buffs like Mato’s regeneration aura, and ways to prevent your weaknesses from being exploited. Right. Thoughts?”
+
+It was a great deal of information for her to process, but Ali was very impressed with Vivian’s reasoning. Malika and Calen were both smart and knowledgeable, but Vivian was on a different level. Everything she had said made sense, especially her insights around using classes efficiently – gleaned from years of experience, no doubt. Although, maybe removing Grasping Roots was a mistake. Vivian had listed control as one of their weak points. It wasn’t all bad though, Ali hadn’t even considered the possibilities that would be unlocked if she had minions for different roles. Suddenly she felt much more excited to return to the ruins and try learning the Slinger Kobold, or even the Fire Mage. Could she even learn to summon a particular variant on command?
+
+“I’m still not sure about this,” Malika muttered. “I’m hand-to-hand, and I prefer being right in their faces using my martial arts skills.”
+
+Ali decided that both she and Mato seemed a little shell-shocked by the dramatic change in how they had perceived their roles on the team.
+
+“Isn’t her suggestion just like how we fought the Goblin Warband?” Ali asked as the entire picture suddenly clicked in her mind. “Mato, you tanked the Bugbears and helped Malika with your aura. She healed you when the shaman blasted everything with that Lightning Bolt, and did damage when you didn’t need as much healing. Calen and my minions took out the mage and the shaman.”
+
+“Oh…”
+
+“Hmm…”
+
+“Wait … you fought a Goblin Warband with elites and Bugbears?” Vivian’s demeanor flipped from lecture to serious in an instant. There was a razor edge to her piercing eyes that Ali hadn’t seen before, and the tone of her question silenced the room instantly.
+
+“Yes, in the forest to the south,” Calen answered. “Commander Brand’s aide kicked us out when we tried to report it.” He was still obviously frustrated by their experience not being taken seriously by the authorities.
+
+“Tell me everything,” Vivian insisted. Her intensity grew deeper, augmented with something that looked a lot like suppressed rage as Calen told her the whole story.
+
+“Mieriel, let Brand know I’ll be over in twenty minutes. Tell him it’s an emergency.”
+
+“Yes, Guildmaster.” Mieriel’s relaxed attitude vanished, replaced with that of an adjutant taking orders from her commander. She touched her glasses and a riot of magical formations flickered across the lenses.
+
+“I’m sorry to cut our meeting short,” Vivian said, brusquely. “I need to deal with this immediately. Please check back soon, Mieriel should have some new quests and jobs related to town defense placed on the board at the latest by tomorrow morning.”
+
+Clearly dismissed, Ali added her voice to the chorus of thank-yous from her friends headed back downstairs.

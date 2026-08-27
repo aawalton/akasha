@@ -1,0 +1,331 @@
+---
+id: 6fc04afa-4c18-5bd6-ae64-c92836bd5a30
+page-type-slug: story-chapter-royal-road
+title: "Chapter 48: Merchant"
+slug: 0048-chapter-48-merchant
+partOf: dungeon-of-knowledge-complete
+position: 48
+ownLength: 5461
+unit: words
+ownProgress: 5461
+publishedAt: 2024-03-21
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1562840/chapter-48-merchant"
+royalRoadId: "1562840"
+markedReadAt: "2026-06-29T20:12:33.278Z"
+---
+
+Calen led the way unerringly through the eerily quiet, dense forest. He had been here only once, and then under the imminent threat of being discovered by Goblin patrols, but his memory for places had always been excellent, and now with his potent Explorer skill enhancing it, this felt as easy as finding his way to his bedroom at home. He occasionally sighted the large, prowling shape of Mato scouting between the trees in his Wolf Form, but neither of them had sensed any apparent danger. The forest seemed devoid of Goblins, or even any creatures, most of them having probably been consumed by the horde.
+
+The clearing was exactly as he had remembered it, minus the corpses of the mercenaries Kieran Mori had murdered for their silence. Not even pausing, Calen sprinted through, maintaining his stealth and silent passage as he followed the fading tracks of uncountable Goblin footprints back to where he knew the cavern entrance lay, concealed behind a dense bramble thicket.
+
+He paused outside the cave entrance, enduring the palpable stench of rot wafting up from deep inside while waiting for Mato to join him. He scanned everything with his acute vision, but he could neither see nor hear anything moving.
+
+“This it?” Mato asked quietly.
+
+“Yes. I don’t see any newer tracks than the dungeon-break.”
+
+“I didn’t smell anything new either – just this rot. But the forest hasn’t recovered from the Goblin horde, do you hear how quiet everything is? It’s eerie.”
+
+“Yes,” Calen said, glancing at Mato and then they both stepped cautiously through the entryway. It was broad and high enough that even Mato could enter without ducking, and the cavern grew dramatically larger after only twenty feet. He wrinkled his nose at a draft of air carrying an extra helping of the nasty odor.
+
+Definitely a Goblin warren. Remains to be seen if any have respawned. Stay alert. Calen crept forward with Mato padding softly beside him, making almost no sound. It didn’t need to be said that they should be on their guard – they had both faced the sheer number of Goblins that had descended upon Myrin’s Keep, and Mato’s observation about the silence of the forest worried Calen a lot.
+
+They crept along stealthily, deeper and deeper into the maze-like warren following the steadily worsening stench and the week-old tracks that filled the place. Every few moments, Calen checked in with his Explorer skill, dreading a notification that the dungeon was still alive, but all was quiet, and no chimes broke the silence.
+
+It took almost an hour at their slow and careful pace before he sensed the end of the warren coming up – if for no other reason than the stench of rotting meat had become almost unbearable. As he stepped out of the tunnel and into an enormous chamber, the reason for the smell became suddenly obvious.
+
+Piled indiscriminately against the far side of the cavern wall was a heap of bodies; Goblins mixed in with whatever game had been present in the surrounding forest. It was clearly the Goblin warren’s food pile, but the reek from the week-old bodies stood as a powerful sign that nothing had remained behind to eat it.
+
+Lying beside the pile was the corpse of the largest Goblinoid creature he had ever seen.
+
+If that’s even a Goblin. It was several times larger than Mato, with the crimson-red skin of the Hobgoblins, but the resemblance to the elite Goblin fighters ended there. Its broad, heavily muscled back and shoulders were covered with coarse black fur, and the faces of both staring heads were brutish and feral, resembling Bugbears more than Hobgoblins. It lay in a large pool of what could only be dried blood.
+
+He identified the corpse using his Explorer skill.
+
+Warrior – Goblin Warlord – level ??[Explorer]Category: Dungeon BossThreat Level: DeceasedMonster Type: GoblinoidDamage: Physical
+
+“What is that thing?” Mato asked, shifting back into his normal form.
+
+“Warlord? I’ve never seen anything like it. But my skill says it was the dungeon boss.”
+
+“So, Mori’s mercenaries really did kill it?”
+
+“Looks like it. My skill hasn’t notified me of any dungeon, and this is the end of the warren.”
+
+“Boring mission,” Mato said, looking around. “I guess it’s an easy way to pay off our guild rings, right?”
+
+“Can you imagine if that thing had still been alive?” The corpse, he noticed, had been stripped of any weapons or armor. Presumably, the mercenaries had taken the spoils for themselves. The Guildmaster had been right to worry, if this warlord had remained, no doubt the entire dungeon would have been respawned in a few weeks and another dungeon-break would have been heading their way.
+
+Calen crept around the huge cavern, but there was very little to see. Some animal skins, and crude wooden furniture. A few cold ashes of cookfires, discarded trash, bones, and other nasty things he simply chose not to get too close to.
+
+“Hey, there’s something alive in here.”
+
+Calen’s head snapped around to find Mato dragging bodies from the carrion pile. His stomach squirmed queasily as he saw the rotten arm Mato was pulling separate from the corpse with a sickening, tearing squelch.
+
+“Are you sure?”
+
+“Yes. My aura can tell there is a living target, but it’s not certain if it’s an ally or not. I’m not certain?” He looked a little puzzled, but he pulled at something, drawing out a small body.
+
+“That’s a Gnome?” The body was in very poor shape. What might have once been a Gnome was missing a leg, and most of the right side of its face and body was charred to a crispy black and pierced by debris in what looked like the tell-tale signs of fireball damage.
+
+Merchant – Gnome – level 18
+
+“Yes, he’s alive. Barely,” Mato confirmed. “Do we have any health potions?”
+
+“I have a couple,” Calen answered, quickly handing one to Mato who immediately tried to force it down the throat of the unresponsive Gnome. How successful it was seemed debatable, because his throat did not move.
+
+“At least my aura is working on him now,” Mato said. “It isn’t as good as Malika’s healing, but hopefully it can take care of some of the injuries.”
+
+“Depending on how long he’s been like this, some of those injuries might be permanent,” Calen said. Nothing had been in here in at least a week, which meant the Gnome had somehow survived at least that long with his grievous burns and wounds. “How are we going to get him back to town?”
+
+“I have extra recall potions,” Mato answered as if that were the most natural thing in the world.
+
+His answer surprised Calen, but ever since Mato and Ali had survived being dropped down that hole, his friend had become a little more cautious than normal.
+
+“Ok, let’s get him to the priests at the Temple of Lunaré, and then go report to the Guildmaster.”
+
+***
+
+“Thank you,” Vivian Ross said, sitting back in the large leather-backed chair at the head of the table in her ‘briefing room’ – a repurposed meeting room adjacent to the main guild hall.
+
+They had just finished reporting the Goblin dungeon as destroyed, when the door to the guild opened and a small figure entered. He wore a bright purple waistcoat, and an eye patch, and limped into the hall slowly, as if unfamiliar with using his cane.
+
+Is that him?
+
+Merchant – Gnome – level 18
+
+“Can I help you?” Mieriel asked.
+
+“I’m looking for… a Calen? And Mato. I was told they are members of your esteemed guild.”
+
+His cultured speech confirmed that he was indeed the Gnome they had rescued, but the fellow looked entirely different. The burns were gone, replaced with some residual scarring on his face and hand. It looked like the priests had been able to regenerate his leg, but it clearly wasn’t a perfect heal. His eye must have been beyond repair.
+
+But dressed in new clothing, and walking around, he looked sharp and alert, and an entirely different person.
+
+“We’re over here,” Mato called out.
+
+“Weldin Thriftpenny, at your service,” the Gnome introduced himself, hobbling across the floor to where they had emerged from the meeting room. “I just wanted to thank you in person for saving me. The priests told me where to find you.”
+
+“You’re welcome,” Calen answered. “I’m sorry we didn’t get you in time to fully heal your injuries.”
+
+“I’m just happy to be out of that Goblin hole,” he said with a shudder.
+
+“How did you end up in the Goblin dungeon, anyway?” Mato asked.
+
+“I was fleeing Myrin’s Keep. I didn’t have enough money to cover the Town Watch dues this month. Adrik and Edrik burned down my shop and they told me they were going to come after me if I failed to pay, so I took everything I owned and packed it on my cart and ran for it. Unfortunately, a couple of days out of Myrin’s Keep I ran into a Goblin Fire Mage. He blew up my cart, and when I came to, I was in that awful pile of bodies, minus a leg, just waiting for that Warlord to decide he was ready for dinner.”
+
+“They had a Warlord?” Vivian asked.
+
+“Oh, yes, the biggest, ugliest two-headed brute you’ve ever seen. Always roaring and shouting and smashing everything he didn’t like. When those mercenary people showed up and killed him, they caused rather a lot of bother – so many Goblins rushing about like chickens without heads. I kept myself alive with food and water in my ring for a few days, but eventually, I must have just passed out.”
+
+“That sounds awful,” Mato said.
+
+Another merchant destroyed by this town and its crime, Calen thought. He worried that one day this would be his mother and him, forced to flee with nothing but what they could carry on their backs.
+
+“Anyway, I just wanted to say thank you before I left. I want to be long gone before those goons discover I survived and try to come for a piece of me. From the bottom of my heart, thank you, and farewell.”
+
+He turned and began making his slow and careful way across the hall, each shuffle of his feet punctuated by a sharp clack of his wooden cane striking the polished stone floor.
+
+Calen gazed at the back of the physically broken, down-and-out merchant, wishing there was something more he could do. He knew how hard it was setting up a business from scratch, just from watching what his mother had had to go through. If only this guild was bigger. Some of the larger and more established guilds in other more stable cities had in-house merchants and other non-combat support staff managing the business created by the adventurers.
+
+He glanced at Vivian. She might actually go for it.
+
+“It might be nice to have a Guild Merchant,” he said quietly, as they watched him go.
+
+Vivian Ross glanced over at him in surprise, and then her gaze flickered back to the retreating Gnome, quickly picking up what he had in mind.
+
+“Mr. Thriftpenny, do you have a minute to entertain a proposal?” Vivian called out.
+
+The Gnome stopped and turned around. “What do you need, esteemed Guildmaster?”
+
+“I know this guild is just starting out,” Vivian said, gesturing to the guild hall. “We don’t have many adventurers or the typical services, but I do have high hopes for expanding. As of right now, the position of Guild Merchant just happens to be free. Might you be interested?”
+
+A look of surprise flickered across the dapper merchant’s face for a moment before he regained his composure. His good eye glanced around at the guild hall and the people within it before settling back on Vivian. Guild merchant was a prestigious position in most established towns and cities, and merchants typically competed furiously for the right to have the first opportunity at anything the adventurers found on their delves and quests.
+
+He adjusted his eyepatch and then sighed deeply. “Your offer is extremely enticing, Guildmaster Ross, but alas, I cannot accept. Adrik and Edrik would finish off what the Goblins started just as soon as they got wind of it.”
+
+“Well, about that,” Vivian answered, a grin appearing on her face. “It so happens that Malika and Aliandra interrupted those thugs assaulting and burglarizing the Alchemist down the street a few days ago. Adrik and Edrik did not survive the encounter.”
+
+“They got Morwynne?” Weldin seemed aghast.
+
+“Morwynne Fizzlebang is fine, they were just in time to heal her before she succumbed to her injuries. She was so grateful that she has offered the entire guild a generous discount for her wares.”
+
+“Wow…” Weldin’s face showed a cascade of different emotions as he processed everything.
+
+In fact, Calen was surprised too. Ali and Malika killed them? The two thugs were notorious across town and had even paid his mother’s shop several visits. Fortunately, she had had enough saved up to stave them off each time. But now they’re dead… I need to tell Mom. This is good news. Great news!
+
+“In that case, I think I would like to accept your generous proposal,” Weldin declared, offering a bow which would have been elegant but for the stumble at the end as his injured leg refused to hold steady.
+
+Malika’s going to love having an in-house merchant, Calen thought, looking forward to sharing the news. And any discount on potions would be fantastic.
+
+Imprint: Bone completed.
+
+Ali dismissed the imprint, yet again, and redoubled her efforts to deconstruct the huge pile of bone her minions had collected. It had been a simple matter of time and persistence to fill the southern end of the cavern with her moss and trees, taking over the entire area she had swept clear with the flood she had unleashed. Above that too, she had expanded her foothold in the sewer system, taking over every available tunnel and chamber. The result was incredible – she had maximized the benefits of her domain aptitude, resulting in doubling her mana pool. Of course, she would probably need to keep expanding as she leveled up, but she no longer felt she was wasting one of the most potent benefits of her Class.
+
+For the last couple of days, she had been slowly, carefully encroaching on the boundaries of the bone and death magic dungeon and replacing it with her own moss and trees. It was a painstakingly slow process compared to filling the first half of the cavern because she had to clear out the dungeon’s bone and mushrooms piece by piece with her Deconstruction. Then she had to wait for the dense black mana to clear before she claimed an area, replacing the dungeon with her plants. Patience, though, was a virtue – she had no desire to have her domain collide with the dungeon and trigger a dungeon-rage again. While her minions could easily take care of the low-level wolves and skeletons now, the intense pain was not something she ever wanted to experience again.
+
+Ali finished deconstructing the huge pile and moved on to the next one her Kobolds had gathered. Inspired by how efficiently the Kobolds had collected items and bodies from the battlefield, she was now using them to clear the dungeon in chunks. She had them fan out and collect all the loose bone piles, uproot all the Deathcap mushrooms, and kill any respawned monsters, piling it all up in a great big heap for her to Deconstruct.
+
+It was hard work, but when she examined the results, she smiled, happy that it was entirely worth it.
+
+Health: 250/250Stamina: 150/150Mana: 1541/2160 (619 Reserved)
+
+With her Magical racial aptitude, she already earned fifteen mana per point of wisdom, which was fifty percent more than most races, but it was her Domain aptitude that really made the key difference. She could increase her mana pool by an additional one hundred percent if she simply planted enough moss and mushrooms, covering a broad enough area. This meant she was effectively getting thirty mana per point of wisdom – or three times the amount of a normal Elven or Human mage. Even with the steep reserve costs for maintaining her minions, she had surpassed two thousand total mana now, substantially increasing her capacity for summoning more minions, and even her regeneration too.
+
+Suddenly, a flicker of green light seen out of the corner of her eye caught her attention and she whipped her head around to try and catch whatever it was. She had noticed this phenomenon several times now, but each time she tried to observe it, the light had vanished somehow. She held her breath and stared at the giant oak where she had seen the flickering light, carefully studying the flow of domain mana for any changes.
+
+There it is!
+
+A fleeting flicker of green appeared again among the branches, followed by a rapid zigzag of light and movement, before it vanished behind a branch, leaving a softly fading trail of green mana behind like an afterimage.
+
+Ali stared at the spot where it had disappeared for several minutes, her curiosity slowly eroded by disappointment as she realized she had missed whatever it was yet again. Just as she was about to give up, a green flash appeared from behind a completely different branch of the tree, darting out and zipping back and forth with high-speed erratic motion before it stopped, hovering beside a branch in front of Ali. It bobbed gently up and down pulsing softly as if it were breathing, resting from its frenetic exertion.
+
+Wisp – Spirit – level 1 (Nature)
+
+The creature hovered, floating gently in the air beside her oak tree branch. It seemed to be an entirely formless orb of glowing green light, a touch smaller than her fist. Ali stared, fascinated to see the tiny tendrils and vortices of ambient mana being drawn into the creature as it floated. Each time the creature pulsed, tiny sparkles of green mana were emitted into the air surrounding it, creating a tiny but beautiful display.
+
+“A wisp!” Mato’s excited whisper startled her. She had not heard his approach, but his attention was riveted on the tiny floating green light.
+
+“What is it?” Ali whispered, turning her attention back to the fascinating nature spirit. It flickered again and darted around, coming to rest near the fork in the trunk of the tree.
+
+“Wisps are spirit creatures made of pure mana. The nature ones are typically found in dungeons or dryad forests where the nature mana is very dense. I think they feed on it.”
+
+“It’s very pretty.” Ali’s eyes and Arcane Insight tracked the tiny creature as it flitted around among the branches, presumably in search of the best source of nature mana.
+
+“They’re harmless, but they’re pretty rare. Many people think it’s good luck to see one.”
+
+“How did it get here?”
+
+“Most likely it was attracted by your mana. Although, some people think they’re created spontaneously in high-density mana areas.”
+
+“Do you think we can attract some more?” Ali gazed at the fascinating, fey creature, tracking its movement with her mana sight, imagining how pretty it would be if a whole bunch of the creatures took up residence in her forest.
+
+“Well, they’re creatures of nature and mana, so if you keep developing a rich natural environment filled with your mana, they should come on their own.” Mato grinned at her, and before she could even ask the question, he added, “Of course, I’d love to help you create the perfect environment! We can collect a larger variety of plants and trees and build a proper ecosystem. Maybe you can even attract other kinds of creatures too. For now, just keep planting trees, and spread out the moss and mushrooms. And maybe grow some ivy on the walls.”
+
+***
+
+When Ali and Mato returned to the shrine area and their camp, she found Calen and Malika chatting beside the various piles of Goblin equipment collected from the battlefield.
+
+“Welcome back,” Ali greeted him. “How was your scouting quest?”
+
+Calen looked up at her approach and smiled. “We verified that the dungeon really was destroyed by Kieran Mori’s mercenaries. So, no need to worry about another dungeon-break sending a horde of Goblins any time soon.”
+
+“Well, that’s a relief,” Ali said. She had no desire to repeat the experience of scouring the battlefield for survivors. Too many people had died in the siege, the horrific reality of trying to repel a horde of monsters and save the town.
+
+“Seriously glad that’s over,” Malika said, “but I think I’m going to get bored down here pretty quickly.”
+
+“What do you mean?” Ali asked.
+
+“I fought a couple of rats on the way down, and they’re not even remotely a challenge anymore. I think I will get more out of drills,” said Malika, showing off a few shadow-boxing moves, before she threatened Mato’s mild snicker with a fist that stopped just shy of his nose. “Something to say, Bear boy?”
+
+“I’m with the scary girl,” Mato drawled. “Onward to adventure. What shall we do next?”
+
+“I think we should go down to explore the ruins,” Calen answered quickly, looking surprisingly excited compared to his usual reserved self.
+
+Ali shuddered, remembering how much she had struggled down in the ruins.
+
+“It won’t be so bad this time,” Mato said, pulling out a selection of fruit and handing her some peach slices before offering to the others. “We’re much higher-level now, and much stronger. And it should be a good way to continue earning money.”
+
+“That’s a good point,” Malika said, gazing speculatively at the piles of equipment. “This stuff is going to be hard to sell after the battle. Probably most of the merchants have enough Goblin equipment.”
+
+“Oh, Malika,” Calen interjected. “We rescued a Gnome merchant on our scouting mission, and Vivian Ross offered him a guild membership as our Guild Merchant. He might be interested in buying some of this stuff to fill out his inventory. His name is Weldin Thriftpenny, and I think he’s going to set up in the spare conference room adjacent to the guild hall.”
+
+“We have a Guild Merchant?” Malika’s eyes lit up at Calen’s news. His broad wink drew a dry chuckle from her, “I’ll be sure to educate him. Fast.”
+
+Ali had been worried about how to make money, now that most of the jobs related to the Goblin siege were done. But if they could sell some of this equipment, she might be able to afford another trip to The Reading Corner. Maybe Ryn has the second book in my series! Ali had finished her storybook on the first evening after she had bought it, and it seemed that the author had written it as a trilogy. She couldn’t wait to find out what happened next, especially after the first book had ended on a cliffhanger. This habit’s going to get expensive…
+
+“Perhaps we should sort out the useful stuff before we sell the rest,” Malika mused. “Most of this Goblin gear is low quality, but there are a few normal-sized armor pieces that might fit Mato and Calen.”
+
+“Normal-sized?” Ali asked, arching an eyebrow at Malika and feigning confusion. “You mean ‘huge’ right?”
+
+Malika laughed. “Him for sure,” she said, pointing to Mato.
+
+“Hey, I can’t help that I’m bigger than all you pipsqueaks put together.”
+
+“Pipsqueaks?” Ali pretended outrage and mimed throwing her slice of peach at him, but in truth, there was no way she was going to waste such a delicious breakfast.
+
+“Is there some stuff you can learn in this pile, Ali?” Calen asked. “I think we should prioritize anything that makes us stronger before we sell the remainder. Anything you can make that improves your minions should count.”
+
+“I can add variations to my armor, sword, and dagger imprints with just three or four samples apiece. We can sell the rest. I don’t have any open chapters right now, so I can’t learn anything new.” It would be nice to learn some of the other items, like the spears, bows, or shields, but she had little immediate need for them. Swords and daggers covered her most frequently used Kobold minions, and she had a reasonable armor variant for each of her rogues and warriors, and even a robe variant for her Fire Mage.
+
+Malika immediately began selecting items from the various piles and handing them to Ali, and a few armors to Calen and Mato to try on.
+
+Ali simply deconstructed everything Malika found for her.
+
+Variant: Balanced Steel Shortsword added to Imprint: Sword.Variant: Boiled Leather Armor added to Imprint: Armor.Variant: Crude Plate Vest added to Imprint: Armor.Variant: Iron Poniard added to Imprint: Dagger.
+
+The new variants would be annoying, making it progressively less likely for her to make the ones she wanted, however, having the options available would make her minions stronger, provided she had the time to prepare properly. Definitely a worthwhile tradeoff, especially given that most of the Goblin equipment would fit her Kobolds, and some of the gear might come in handy the next time the guild posted equipment collection jobs.
+
+“Whatever are you going to do with that, Mr. Bear?” Malika’s voice teased.
+
+Ali looked up to find Mato clumsily swinging an enormous two-handed Bugbear mace, something clearly made to be wielded by one of the two-and-a-half meter monsters of muscle and fur.
+
+“Oh, I don’t know. I just thought it would look cool if I carried it around in town.” He put it down and tried on the leather armor Malika handed to him.
+
+“Is that going to work when you’re in your Bear Form?” Ali asked curiously.
+
+“No, it disappears when I shift. But I don’t want to die to a surprise attack in town or something equally stupid,” Mato answered.
+
+“I still think you should check with the crafters,” Calen told him. “The Guildmaster said there might be some way to make enchanted gear that works in your shapeshifted form.”
+
+Ali chuckled silently to herself at the image of a bear wearing leather armor and carrying a weapon in its mouth that her mind conjured. Still, maybe his Bear Form really could manage a weapon as massive as that mace.
+
+“Probably anything that would work would need to be custom-made,” Malika said. “Perhaps we can ask Thuli if such a thing is possible? You’re certainly strong enough to wear heavy plate.”
+
+“He might just grump at us again,” Ali answered sourly. While Thuli had come around, and eventually agreed to sell them some daggers, Ali found she still harbored some annoyance and resentment at the way she and Malika had been treated by the various town blacksmiths the last time they had visited.
+
+“Still, worth trying,” Malika answered. “If the bear has some armor, he can take a lot more damage. Anyway, can you guys store as much of this pile as you have space? I think these are the best items to try and sell.”
+
+Ali filled her storage enchantment with all manner of armor and weapons, noting that Malika had selected the highest-level items, preferring the Hobgoblin gear over the Bugbear items. Makes sense, she thought, storing another leather armored chest piece. Hobgoblins were close to the same size as Humans or Elves, so the gear might be much easier to sell in a Human-dominated town.
+
+***
+
+Ali followed Malika and the others into the guild hall, staring in surprise at the dramatic change. Mieriel’s reception desk had been moved. The wall behind where it had stood was now gone, creating a wide opening into what had once been a mostly unused meeting room. The chairs had been replaced with several empty display shelves and tables, and an elegantly dressed Gnome directed a few adventurers to rearrange the furniture.
+
+“Yes, that is just perfect,” the Gnome said and then looked up from his laborers as Malika walked up to him.
+
+“Weldin Thriftpenny?” she asked.
+
+“I see that my reputation precedes me,” he answered with a smile. He wore a bright purple satin waistcoat and a matching hat, supporting himself with a cane. Although his fashion sense seemed … antiquated at best, he looked dapper, and Ali decided that the black eyepatch and the scars on his face lent his otherwise elegant appearance something of a roguish cast. “How can I help you fine folk?”
+
+Merchant – Gnome – level 18
+
+“We have a few items to sell, and we heard that you were our new Guild Merchant,” Malika explained.
+
+“Certainly, why don’t you show me what you have, and we can do business – especially since your friends are my friends.”
+
+Ali conjured two steps with her barrier magic, hopped up and began unloading everything she had stored onto a large table while her friends did the same.
+
+Weldin’s smile, she noticed, grew brittle and his eyes widened with surprise as they continued unloading all the items they had brought.
+
+“This is it,” Malika finally announced, turning to the merchant Gnome.
+
+“I must apologize,” Weldin announced, sounding mortified. “You see, you are my first customers, and I do not yet have enough working capital to afford all these fine items. Would you perhaps be willing to wait till I can secure a loan from Hadrik Goldbeard?”
+
+Ali had no idea who this Hadrik Goldbeard was, but she assumed they must be a banker in town. Malika didn’t seem that put out, however.
+
+“How about we agree on a price now, and you can take the items immediately to get started?”
+
+Weldin nodded, clearly trying to disguise his eagerness. “Goods being as good as a capital advance, I’ve always said. Are you truly … willing?”
+
+“Of course. We’re friends, remember? Once you secure the loan, you can just leave it with Mieriel, and we can collect it at our convenience?”
+
+At the mention of Mieriel, Ali felt a sudden surge of uncharacteristic distrust. What if she takes our money? she worried. Surprised, Ali glanced at Malika, who seemed to share none of her concern, and then at the elegantly dressed Mieriel. Don’t be silly Ali, she’s always been nice to you. She dismissed her own surprising reticence and listened in silence as Malika negotiated with Weldin.
+
+“You are uncommonly generous,” he told her. “Thank you for your consideration.” What followed was a rather lengthy negotiation of price, complex enough that Ali quickly lost track of the major threads. What she did notice, however, is that the Hobgoblin gear was clearly the most prized by the Gnome, and that, by the time they shook on the price, both Malika and Weldin were smiling happily.
+
+As they left the guild store area and congregated in front of the quest board, Ali heard Weldin ordering his helpers. “Let’s lay out these daggers on this table, and swords on this rack here. Look lively, now that we have items to sell, I want this place to look like a proper shop! No, no, that won’t do at all – do you not have the first idea of marketing, you dolts? Put the shiny armor here where people can easily see it from the door.”
+
+Ali grinned at the flurry of activity that burst through the brand-new guild shop.
+
+“He was remarkably fair,” Malika said quietly. “We got almost a gold each from that haul. Ali, your and my rings will be completely paid off once he gets his loan and deposits our share with the guild administrator.”
+
+It was quite a bit more than Ali had expected, and once she was able to collect on it, the thought of visiting Ryn in The Reading Corner again filled her with excitement and anticipation.
+
+While the others examined the job postings, Ali quietly observed a couple of adventurers in the guild hall lounge area drift over to the shop, curiously browsing the newly displayed items. As she watched, she saw Weldin efficiently close a deal with a couple of coins changing hands and a level seven rogue returning to the lounge area with a smile and a new shiny dagger.
+
+“That was quick,” she said quietly.
+
+“He seems talented,” Malika agreed, surprising Ali that she wasn’t the only one who had seen the quick deal go down. “And I think that dagger is a substantial upgrade for her if I remember correctly.”
+
+It was a surprisingly satisfying feeling to know that someone was going to benefit from all the hard work they had put into killing Goblins and collecting the leftover gear and weapons. Besides, she had a reading habit to fill!

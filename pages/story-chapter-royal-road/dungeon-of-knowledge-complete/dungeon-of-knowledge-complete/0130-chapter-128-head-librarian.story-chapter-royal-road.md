@@ -1,0 +1,281 @@
+---
+id: 6ff6dd28-4dd0-53f8-8f4a-0044b76f1ce6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 128: Head Librarian"
+slug: 0130-chapter-128-head-librarian
+partOf: dungeon-of-knowledge-complete
+position: 130
+ownLength: 4225
+unit: words
+ownProgress: 4225
+publishedAt: 2024-09-10
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1796873/chapter-128-head-librarian"
+royalRoadId: "1796873"
+markedReadAt: "2026-06-29T20:31:21.854Z"
+---
+
+Ali closed her book and let her Sage skill drop. She closed her eyes and reviewed the story in her mind, perfectly memorized by her skill. It was a delightful story about a clumsy adventurer who wandered the lands solving problems by accident, often not even realizing the impact of his actions. She looked up and saw Ryn sitting on the stone floor of the library, her back up against an empty bookshelf and her untouched dinner still resting in her lap.
+
+I need to get some chairs. No. Old, comfortable couches.
+
+Ali got up and walked over, handing her the book Ryn had lent to her a few days ago. “I loved it,” she said.
+
+“I’m glad,” Ryn said, her face still looking a little downcast.
+
+Something is bothering her. “What’s wrong, Ryn?”
+
+“It’s nothing, I’m just being silly,” Ryn replied. But it clearly seemed to be enough of an issue to affect her entire mood.
+
+Ali sat down next to her friend. After a moment, she prodded Ryn’s ribs with an elbow. “Do you want to share? I’m told it’s good for you.”
+
+“When I got my class here, I had this idea,” she began, and suddenly her face lit up with a touch of her usual enthusiasm. “I wanted to help you fill the library with books. I thought we could work on it together – it would be so much fun!”
+
+The empty library faded, as Ali’s imagination replaced it with a scene of bustling energy, shelves full of books, and many people reading and talking together.
+
+“I love that idea,” Ali said quietly, reflecting on how much she missed the old library, the sounds, the smell of books, the feeling of vast amounts of knowledge at her fingertips, and the sense of studious learning taking place within these very walls.
+
+“The only problem,” Ryn continued sadly, “is that I work in a bookstore. I will never have enough money to fill even a tiny corner of this place.” She fell silent for a bit. “I don’t think I’m going to be very useful for this.”
+
+Did she want to try and buy enough books to make a library? Not even the illustrious mage-king, Thaldorien Stormshaper, had been wealthy enough to do that – and he had founded this very library.
+
+“I don’t think you’re being silly,” Ali said. In her heart, she desperately wanted to comfort her friend. “Here, let me show you something I learned while we were preparing for the council meeting.”
+
+Ryn glanced up, a little curiosity peeking through her dejected expression.
+
+Ali opened her Grimoire and began to create a book using the memory she had just formed from Ryn’s storybook. She hadn’t tried creating an entire book yet, but holding the memory of what she had read in her mind while directing the spell was becoming easier and easier each time she tried it.
+
+A short few minutes later, she was holding a brand-new book.
+
+“Here,” she said, handing it to Ryn. “What do you think?”
+
+“Ali, what did you do?” Ryn asked, surprise written plainly on her face. “Why did I just level up?”
+
+“Wait, what?” Ali wasted no time using Identify on her friend. She leveled up?
+
+Librarian – Human – level 6 (Arcane / Divination)
+
+“How is this possible? I didn’t even do anything…” Ryn said, glancing about as if a Bone Skitterer had tapped her on the neck.
+
+“Hmm…” Ali considered the order of events. Ryn had brought her a book to read, and she had just duplicated it in the library. “Ryn, you’re a librarian…” It had to be connected. “Is it possible that you contributed to enhancing a library?” Ali asked. “Perhaps it’s the same as me getting experience when I help to defeat a monster. I was always taught that librarians should work to improve the library, restoring books, acquiring new knowledge, things like that.”
+
+“I think so,” Ryn said. “Maybe?” She paged through the new book, wonder shining in her eyes.
+
+“Is there somewhere you could borrow more books?” Ali asked. “Then we could experiment and see how well it works while filling the library.”
+
+“I could ask to borrow a few from the store, but I usually have to buy them if I want to take one. The only other place is Myrin’s Keep Library,” Ryn said. “But I can’t afford the membership dues.” The sad expression returned to her face.
+
+She’s broke, and yet she still bought me that expensive monster compendium? She really has a heart of gold!
+
+Speaking of gold… “How much is it?” Ali asked, trying to keep her voice light and casual.
+
+“Five gold a year,” Ryn said. “But that only allows you into the building to read. If you want to borrow books and be allowed to use the services of a scribe to copy them, you need a full membership that costs twenty-five gold. Ridiculous, right? The money is a deposit against the chance of losing one of the expensive books or damaging it. It’s a small library, but I always dreamed of being wealthy enough to be able to use it.”
+
+I just figured out what to use all that gold for. “Hey, Calen, can I borrow a pen?” she asked.
+
+“Sure, here,” he said.
+
+Ali retrieved some paper from her ring and jotted a note, signing it with her mana before handing it to Ryn. “Take this to Hadrik Goldbeard at the Crown Bank. It authorizes you to withdraw gold from my account. Go get yourself a full membership.”
+
+Ryn’s eyes widened in shock and surprise. “Why? This is such a lot of money, Ali, I can’t…”
+
+“Congratulations,” Ali declared with a grin, “You are now the Head Librarian for the Grand Library Arcana. Among your many duties, you are to be responsible for book acquisitions.”
+
+“You want me to find books for your library?” Ryn whispered.
+
+“It’s now yours too,” Ali said. “Borrow whatever you think our library needs and I will copy them.”
+
+“That’s going to be tons of books,” Ryn said, clearly reeling.
+
+“We have a huge library to fill, and besides, I’m ordering you about. It’s what friends do,” Ali smiled. “Your teleport works to any library, right?”
+
+“As long as I’ve visited it, yes,” Ryn said. “Why?”
+
+“Let me know when you run out of interesting books at the Myrin’s Keep Library. I suspect we will get a lot of use out of your teleport skill,” Ali said, affecting a conspiratorial tone. “There are many libraries out there to plunder!”
+
+“Ali!” Ryn’s eyes grew round as she realized what Ali intended.
+
+Ryn stood before the imposing doors of the Myrin’s Keep Library, her hand clutched nervously around her bulging money pouch. She had never carried so much gold around with her in her life, and she was terrified someone might try to rob her. In fact, she had been amazed that the bank clerk had just handed so much gold to her in the first place.
+
+I must have looked like a nervous wreck. I still do. Shoulders back. Let’s at least act confident here.
+
+She cautiously opened the door and stepped into an opulent reception area overlooking the main floor of the library. Her eyes were immediately drawn to the rows of books before registering anything else. It wasn’t nearly as big as Ali’s library, but the room was filled with books of all colors and styles. The heady scent of parchment and ink mingled with the pregnant stillness that pervaded the room – and the weight of words just waiting to be read.
+
+A polite, cultured voice, the kind that took years of training to develop, broke the silence. “Can I help you?”
+
+Ryn turned to find a slender man rising to his feet behind a desk. He was dressed in rich blue robes and wearing wire-rimmed glasses on an angular nose, lending him an owlish look.
+
+“Uh…” she said, feeling awkwardly out of place.
+
+That’s silly, Ryn, she chastised herself. This is a library, and you are a librarian.
+
+“I want a membership,” she said, shuffling her feet. She noticed the expensive red patterned carpet in the reception area was quite new. Or very few people walk through here.
+
+The man raised an eyebrow and looked at her for a moment. “It will cost five gold for a membership,” he said.
+
+“Oh,” Ryn said, looking up. “I need to be able to borrow books and have scribing rights, so maybe a full membership…” she trailed off at his stare. He’s really stern. She had a sudden certainty that he would see through their plan to copy the library and throw her out.
+
+You’re being irrational again; scribing is explicitly allowed. That’s what you’re paying this ridiculous amount of gold for.
+
+He just raised his eyebrow again, a little higher this time.
+
+“A full membership is twenty-five gold,” he finally announced, as if it pained him to pronounce anything so baldly commercial. He looked even more surprised when Ryn quickly produced the fee and handed it to him with a soft clinking of heavy coins. “Well!” he commented. “Well then. Very good.”
+
+She had never spent so much money in her life. Ryn bit back on a feeling of nausea. “Is that… alright?”
+
+“Exceedingly. Everything on the main floor is accessible. With your full membership, you are also allowed access to the rare books in the restricted area,” he said, pointing to the raised and roped-off area at the back of the main room. “Those books cannot be removed from the library without an additional deposit. Or you can bring your scribe here for a small fee. You can borrow up to six books for a week at a time. If they are not returned, your membership and your gold are forfeited. The magical catalog is at the central pillar. Please ask if you have any questions.”
+
+“What about using magic within the library?” Ryn asked.
+
+“Anything that doesn’t damage the books or make noise is allowed,” he answered and returned to his desk. He prepared a small card with her name on it and added his mana signature. “This is your library access and proof of membership,” he said, handing it to her. “Please don’t lose it.” He then returned his attention to his work, dismissing her with a wave.
+
+Phew. Ryn let out her breath. She still half-believed she might wake up any moment.
+
+First thing, she thought. She activated her Library Teleport skill and set the lobby as her second library destination. Now I can teleport directly between here and Ali’s library without using the academy teleportation locus. The recharge time for Ali’s grand library still had a few hours to go, but her new destination seemed to be available immediately.
+
+She stepped out onto the soft carpet of the main library, finding she had the entire place to herself. She took a deep breath, closing her eyes briefly as she enjoyed the distinctive scent of books, and the muted silence that always seemed to settle in places of study. She had dreamed of this day, and yet lately she had despaired of ever being able to afford it. But Ali had simply offered her the membership fee – the enormous sum of twenty-five gold – as if it were trivial. She had even joked about making her the Head Librarian of the legendary Grand Library Arcana…
+
+She wasn’t being serious, was she? The almost impossible thought flicked through her mind, both tantalizing and terrifying her. She collected herself, not allowing the crazy dream to take root – she had been given a job to do, and she meant to do it well.
+
+What would Ali want? Something about magic, no doubt, but what?
+
+She glanced through her skills once again; even though she had memorized them in every detail, she still needed to become more familiar with how her class worked. A Librarian without a library was rather sad, and her class had simply refused to recognize the bookstore as a library.
+
+Seek Knowledge… Ali had described it as a ‘signature’ skill, and she had had only one real opportunity to practice it so far. It was rather spectacular, but – she glanced at the librarian studiously deep in his work – it didn’t make a lot of noise and it would certainly not damage the books.
+
+Before she could change her mind, she triggered the skill, trying to hold the question of which books Ali would want in her mind while she did so. She got the sense that if she kept her focus, she could direct the magic somewhat, but it was a rather vague feeling. Tendrils of her mana forked out into the room, flickering across the books and the shelves, as if caressing them. She could see it as flickering purple forked branches that reached out rapidly, decaying and reforming as if searching for a path the way lightning feelers did before the strike.
+
+A sudden surge of mana pulled at her, and one of the feelers swelled with golden power, instantly connecting her to a single book on a back shelf, heavy with darkness and significance, searing the sense and image of it into her mind.
+
+Seek Knowledge has reached level 4.
+
+She walked over excited to examine her find: Basic Necromancy: Summoning the Undead.
+
+Necromancy? Ryn shivered slightly, her hand hesitating before she reached out and pulled it from the shelf. Necromancy was a dark subject, and quite frankly, she was terrified of the undead. But it wasn’t as if the book itself was a ghost or a ghoul.
+
+I guess this might have something to do with the skeleton army they were talking about. With a few hours before she could return, and a budget of six books she could borrow, she decided she should be efficient and set about familiarizing herself with all the books in the library. Making liberal use of her Arcane Archive and Enhanced Reading skills, she began working out a priority order for which books she should bring back first for Ali to copy.
+
+Arcane Archive has reached level 3.Enhanced Reading has reached level 5.
+
+***
+
+Name: Liu RynRace: HumanClass: Knowledge Seeker – level 6- Memorize – level 3- Arcane Archive – level 3- Enhanced Reading – level 5- Fly – level 2- Library Teleport – level 2- Seek Knowledge – level 4- [Locked]- [Locked]- [Locked]- [Locked]General Skills- Identify – level 2- Summarize – level 3- Game Theory – level 4Aptitudes- Languages: Common- Mana (Affinities): Arcane, Divination- Studious (Class): +20% to Knowledge skills- Librarian (Class): You learn quicker in a libraryAttributes- Vitality: 10- Strength: 6- Endurance: 10- Dexterity: 19- Perception: 22- Intelligence: 31- Wisdom: 32Health: 100/100Stamina: 100/100Mana: 320/320
+
+“One more time, please,” Ali asked.
+
+Calen obliged, summoning his Mote of Light which slowly bobbed in the air, floating in front of her while she studied the flow of his mana and the construction of the glowing orb. But her Sage of Learning obstinately refused to draw any more of her mana. Nor could she find any new insights.
+
+His spell was a rather simple magic, the only part offering real complexity was the way in which the light acted as an oppositional force against stealth magic. But that was mostly due to the fundamental nature of the light affinity as far as she could tell. The control mechanisms that allowed him to direct the orbs wherever he wanted were relatively complex, too, but for flushing out assassins she didn’t require that amount of control.
+
+I didn’t miss anything.
+
+It was an admission of failure. She had already created several perfectly constructed runic circles duplicating Calen’s magic, and they would have been the perfect solution to her problem were it not for the limitations of mana affinities. She was truly stumped – neither her nature-, nor her arcane-affinity mana could power the set of light-affinity runes essential to getting the spell to work.
+
+She had tried having Calen inject his mana into the circle, but even that had failed. He would need a skill similar to her Runic Script to manipulate her magical constructs.
+
+“Anything?” he asked.
+
+“No,” Ali sighed. “Thanks for being patient with my experiments. I think I’m just going to have to find a different approach.”
+
+There must be some effective way to defend myself against stealth and ambush.
+
+“I don’t suppose you can run around with your barrier up all the time?”
+
+“I don’t think I can get much done from inside a permanent magical bubble,” she answered. Besides, it quite clearly didn’t protect her against some fairly important types of attacks and spells. The light magic beams of the Coruscant Rays or the Radiant Brawlers had ignored her barriers. She assumed spells like the Lich’s fear and Mieriel’s mind manipulation would similarly ignore her barrier magic. Although, she had to admit the perma-bubble strategy would have been quite effective against the last assassin.
+
+“I’m sure you’ll think of something soon,” Calen offered. She knew he was just trying to be encouraging but her entire experience with this line of study had left her feeling frustrated, and more than a little grumpy. It was worse than being unable to grasp the magic: the issue was that she completely understood it – her experiment had been a total success. Apart from the very important factor she had not considered – her mana was incompatible – making it vastly more frustrating than failing outright.
+
+There was a brief flicker in the ambient mana, followed by a pop and a flash. Ali jumped before she recognized the distinctive signature of Ryn’s teleport spell.
+
+“Hi Ryn, over here,” she called out, trying to get her racing heart back under control. I can’t spend the rest of my life jumping at shadows.
+
+“Ali!” Ryn called out, zipping down to alight beside her, flushed and out of breath. “I got the membership! I can borrow six books at a time! I brought them all, and I got one book for me…” she paused, only to take a quick breath.
+
+“Slow down,” Ali said, grinning at Ryn’s infectious excitement, her grumpy mood evaporating instantly.
+
+Ryn cast about quickly before frowning. “We need some tables.”
+
+“Easy to fix,” Ali said, pulling out her Grimoire. With a thought, she summoned the beautiful green marble from the Dal’mohran vault, making it flow like water with her Domain Mastery skill as she sculpted it into a beautiful, polished table. It was perhaps not the cleverest design – she was no crafter – but it did show off the beautiful stone to its fullest.
+
+“Maybe I should learn to make wood,” she muttered, studying her creation. While the green marble was certainly beautiful, it seemed more suited to floors and sculpture and was a little incongruous as a table meant for reading. With wood, she would be able to bring out the rich grain and softer, warmer tones, which would go a long way to making the library look more inviting and comfortable.
+
+“Wood is nice for a library,” Ryn agreed, unpacking some books and placing them on the surface of the new table. “But this is good for now.”
+
+“Maybe you can buy some chairs and couches for us?” Ali suggested.
+
+“No money, remember?” Ryn answered, a flicker of the sad frown returning to her face.
+
+“I didn’t put any limits on that bank release I wrote you,” Ali countered.
+
+“Oh,” Ryn said, staring at her with wide eyes.
+
+“So, which books did you get?” Ali asked, turning with mounting excitement to the stack of six books on her brand-new table.
+
+Ryn’s excitement returned as she showed off several magic books. Then she turned a little more serious and pushed a thick black book across the table toward her.
+
+“Ali, I tried my Seek Knowledge divination in the library, trying to have it figure out what you might want, and it picked this. I’m not sure how I feel about that, but I brought it just in case.”
+
+Necromancy? Ali looked at it with a rising premonition. She lacked a death mana affinity so there was no way for her to learn useful magic from the book – which meant it was likely that they would be encountering the Necromancer soon.
+
+At least if the divination was accurate.
+
+“Thanks,” she said, placing her hand on the cover of the problematic tome for a moment, thinking. Divination magic was notoriously fickle – a subtle and confusing magic intricately linked to time, probability, and causality. It could often find unbelievable connections through layers of the butterfly effect and chaotic entangled connections that only became clear after the events themselves were observed. Or, often, people would match outcomes post-fact to the prediction and claim success.
+
+Scholars had struggled to understand and quantify divination even back during the height of the Grand Library Arcana’s prominence, simply because divination was so rare, and the skills were almost always highly specific and niche in nature. There was never a skill that simply told you the future, but most lay people were certain that’s how it should work.
+
+Ryn’s skill seemed to have provided her a resource based on the probability of encountering necromancy in the near future, and the coincidence of having a powerful necromancer on their doorstep meant it would be irresponsible for Ali to ignore the dramatic portent.
+
+If nothing else, it should offer hints for fighting a necromancer. Ali put the book to the side, intending to study it properly.
+
+“What about this one?” Ali asked, picking up a book on basic Elvish grammar.
+
+“That’s for me,” she said. “I hope that’s ok. I thought I should try to learn to read and write other languages if we’re going to help restock the library properly.”
+
+“Good idea,” Ali said. “I can also help you study if you like, I can read and write Elvish and Dwarven. Those should be the most useful.”
+
+“Thanks!”
+
+Ali picked up the first book and began to memorize it. It didn’t take too long to work her way through all of them, though a couple of the magical texts contained magical runes. But it took her no more than a few moments to figure out how to use her Runic Script skill in combination with her imprint to reproduce the magic accurately.
+
+Finally, she duplicated the necromancy book. While memorizing it, one passage in particular caught her attention, so after she had copied it, she opened it and read it out loud.
+
+As a novice necromancer, you may be tempted to pass up the lowly skeleton in favor of the more powerful, fashionable, or exciting undead summons that may be available to you. However, the skeleton’s attributes make them highly suitable for necromancers of all levels. While they don’t have most of the class skills they possessed in life, they are exceptionally versatile, able to carry out simple instructions and perform menial labor. They are immune to poison, hard to damage with piercing weapons, and do not require sleep, food, or air. The raw materials to summon them are plentiful and available almost anywhere, and if they are not powerful enough, you can always summon skeletons from the corpses of more advanced monsters.- Basic Necromancy: Summoning the Undead.
+
+“I guess this confirms what you said, Calen. Skeletons are immune to poison,” Ali said. She had tried to use her wyverns on the skeletons at the small logging village and had discovered the hard way that their poison breath did not seem effective. The book also mentioned they would be immune to suffocation, and probably daggers and arrows would be poor choices too.
+
+“That makes sense,” Calen said, peering over her shoulder at the book.
+
+“Fire mages, I guess,” she mused out loud. Fire and explosions work on everything, she thought, deciding once again that she really wasn’t a pyromaniac. Can I help it if fireball is always the best solution?
+
+Ali turned her attention to Ryn, noticing her distraction.
+
+Librarian – Human – level 8 (Arcane / Divination)
+
+“Two levels for that?” Ali asked.
+
+“Mmm, yup,” Ryn said with a grin. “I think I’ll head back to town to do some furniture shopping for the library.”
+
+“Didn’t you already use your teleport?” Ali asked.
+
+“Each location gets a separate recharge,” Ryn answered, “I found that out today when I got my membership.”
+
+“Oh,” Ali said. “Maybe we should get you more libraries sooner than later.”
+
+“Why is that?” Ryn asked.
+
+“With the way your teleport works, can’t you just do a round through all the ones you know every day?” Ali asked. The only challenge would be getting Ryn to the library in the first place. But once she set the location, she could use it indefinitely. Ali could already imagine the piles of books Ryn would bring for her to copy.
+
+“Oh, yes,” Ryn squeaked, “I think that would work!” Catching Calen’s wide grin at her reaction, she turned redder than a tomato. “I’ll just… uh, go? Yes?”
+
+“Mmm,” Malika drawled as the librarian vanished.
+
+Spots of color leaped into Calen’s cheeks. “Don’t you start!”
+
+“Start what? Do you think she’s pretty? Do you? Calen?”
+
+“Oi, I get enough of that from my mom already! I’ve got work to do!”
+
+Ali hid a chuckle behind her hand.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

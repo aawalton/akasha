@@ -1,0 +1,225 @@
+---
+id: 3da6abe3-0fc0-548b-998f-5d4de599d658
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32: The Novaspark Academy of Magic"
+slug: 0032-chapter-32-the-novaspark-academy-of-magic
+partOf: dungeon-of-knowledge-complete
+position: 32
+ownLength: 3383
+unit: words
+ownProgress: 3383
+publishedAt: 2024-02-28
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1535184/chapter-32-the-novaspark-academy-of-magic"
+royalRoadId: "1535184"
+markedReadAt: "2026-06-29T20:12:02.643Z"
+---
+
+While the value of teleportation magic in combat, travel, or escape is undeniable, it truly shines when one considers commerce and the economy of nations. Long-range teleportation skills are both rare and expensive but with the addition of a simple locus and a mana storage device – or a battery of acolytes supplying mana – a town or city can dramatically shrink the distance between itself and the economic centers of the kingdom. Travel then becomes far easier for those with means, and the market for advanced crafting is dramatically expanded.
+
+- Lecture on economics at the University of Ciradyl. Nathaniel Sunstrider, Archmage, Scholar, and Guildmaster of the Elven Pathfinder Guild.
+
+Ali fitted the plain wooden bracelet around her wrist. It was a little bigger than she would have preferred, presumably having been made for a Goblin – a race that normally ran slightly larger than hers – but it was close enough. Although the worn, rough wooden circlet was never going to be mistaken as an elegant piece of jewelry, Ali was quite excited to have it.
+
+“It’s got a nice sheen to it,” she said, rolling it on her wrist to see which orientation had a better-looking pattern to the wood grain lying below the aged polish.
+
+Malika just smiled and continued sorting items.
+
+Wooden Bracelet – level 11 (Arcane)+21% to mana regeneration.Requirements: Wisdom 22Hands – Charm
+
+Ali had to admit the robust, green-skinned Storm Shaman had made a strong impression, holding up against her Kobold warriors and tossing around extraordinarily powerful lightning magic at every opportunity.
+
+She opened her status and focused on her mana to inspect the details of how her regeneration had changed with her new bracelet.
+
+Mana RegenerationPercentage of maximum mana regenerated per hour.+100% Racial (Fae).+21% Wooden Bracelet.Total: +121%
+
+While regenerating twenty-one percent more mana over the course of an hour didn’t look immediately spectacular or amazing, Ali knew from hard-won personal experience just how important that extra regeneration would be. There had been many battles where she had run out of mana and had to rely on Deconstruction to refill her pool under extremely dangerous circumstances. While this bracelet wouldn’t remove her reliance on Deconstruction – simply because of the amount of mana it could restore – it would make her less urgently reliant on it, giving her more leeway to make smarter choices in the middle of combat. Sometimes, just a few more points of mana could make an enormous difference.
+
+“Thank you,” she told Malika.
+
+“My pleasure,” Malika replied, as the tiny, but structured flows of mana she was wielding about the item in her hands slowly faded.
+
+“Is that your Appraise skill? How does it work?” It was remarkable how normal and everyday things like examining an item had suddenly become fascinating to her, now that she could see the action and interplay of the magic behind the skills.
+
+“It’s a general skill, common for people who need to evaluate items like… merchants,” Malika explained. “It gives me some idea of how the item works, and I can see the quality and rough value of the item, too. I can also sometimes see hidden item functions – like I can see your shrine’s recharge feature even though I can’t use it.”
+
+“What is the quality of this bracelet?”
+
+“It looks plain and worn, but its quality is ‘Magical’. That’s a step above Masterwork, reserved for items that hold one or two enchantments. My skill estimates I could get almost a gold if we tried to sell it – definitely the most valuable item the Goblins had.”
+
+“No!” Ali exclaimed, withdrawing her arm.
+
+“I told you it would be cuter once you knew what it does,” Malika chuckled.
+
+Ali could only laugh at how she had just unwittingly confirmed Malika’s prediction. She didn’t mind the teasing, knowing Malika well enough by now.
+
+And I’m just happy we found them alive.
+
+“Can I deconstruct this pile?” Ali asked.
+
+“Yes, none of that stuff is worth carrying back with us,” Malika answered.
+
+Quickly, Ali worked through the pile of Goblin corpses, and then the heavy Bugbear weapons and armor.
+
+Imprint: Crude Leather Armor updated to Imprint: Armor.Variant: Plate Pauldron added to Imprint: Armor.
+
+Ali glanced at her Grimoire in surprise. She had not yet figured out how her magic decided on categories, and then this happened.
+
+How is a Plate Pauldron similar to Crude Leather Armor? I wish I understood this better.
+
+Obviously, it was similar enough for her magic to merge, but the only common trait seemed to be that they were protective armor pieces for the body. Even the construction and materials were radically different.
+
+“Ali, are you done there?” Mato’s voice called from the treeline, stealing her attention away from the idiosyncratic behavior of her Grimoire. Curious as to what he had found, she ran across the clearing with her Kobold rogue following close behind.
+
+He simply pointed at the base of the tree where an unusual plant grew on the decaying remnants of a broken branch, sending out delicate yellow-green tufted frond-like leaves that made it look a little like a fern.
+
+Feather Moss – level 1
+
+“Maybe useful for your collection?”
+
+She smiled at the earnest expression on his face. He certainly showed a strong passion for the wilds and the importance of the balance of nature. He claimed he was just trying to help her out, but Ali could clearly see the excitement and energy that he poured into her quest to collect trees went well beyond simply helping a friend with a chore. Ali was certain he had always had an affinity for nature, and it was undoubtedly why he had unlocked a Druid class.
+
+It’s simply who he is.
+
+“Thank you, I’ll definitely take this one,” she said and carefully deconstructed the pretty moss around the black oak, hoping to update her Verdant Moss with the new variant.
+
+Imprint: Verdant Moss updated to Imprint: MossVariant: Feather Moss added to Imprint: Moss.
+
+I got it right! As predicted, her Grimoire had combined the two variants of moss into a single imprint. Although that was probably an easy one to guess, she thought, remembering the armor one that had just caught her by surprise.
+
+“Does this tree work for you?” Mato asked, pointing at the black oak beside them.
+
+“Looks good to me,” she answered and used her magic on it. That was number fourteen. She had been keeping a close count on the trees she had deconstructed, hoping that it would behave similarly to the other imprints. When she had deconstructed a variety of Kobolds, her Grimoire had created a general imprint directly. And sure enough, as she completed her deconstruction she could sense the impending weight of the knowledge within her mind, suggesting she was close. It was tricky to distinguish the feeling from the distracting sense of pain that came from her advanced domain withdrawal, but if she concentrated, it was beginning to be a little clearer.
+
+“I think I need one more,” Ali said, answering Mato’s expectant look.
+
+“That’s easy, let’s get this sugar maple over here,” he answered, leading her a short way through the trees to a maple with gorgeous red and purple leaves. “The Goblins made such a mess of the forest that some drastic pruning is needed. If we open up this area to some more light, perhaps it will encourage new growth.”
+
+Without any imminent threat or danger looming, Ali found herself enjoying the simple pleasure of walking in the forest collecting trees for her Grimoire, along with the simple contagious excitement Mato was showing in sharing in her experiment.
+
+She reached out and put a hand on the Maple, and used her magic, feeling the pressure rising within her as it began to dissolve into mana.
+
+Imprint: Tree completed.
+
+Her Grimoire flicked open to the last chapter and floated before her widening eyes, seeming almost expectant. She channeled the knowledge, accepting her Grimoire’s suggested chapter and the light show of swirling runic magic burst forth, inscribing itself upon the blank pages while the magical tome rapidly added more and more to accommodate the size of the imprint.
+
+“You got it?”
+
+“Yes! Thank you, Mato,” she answered happily. “I’m ready now.”
+
+“Ok, let’s get the others and go home.”
+
+They returned to the clearing where Mato shrugged on his pack, weighed down now with all the shaman’s gear. He retrieved his potion. The magic within the vial glowed black, which Ali reflected once again was a rather inadequate description for what she could see. He tossed it to the ground at his feet and it exploded into a large black plume of smoke, magic rippling and swirling around his body. And suddenly he was gone, smoke drifting away and dissipating into the forest.
+
+Ali looked at the vial she had just retrieved, impressed by the effect she had witnessed. Then she looked at her Kobold rogue standing beside her.
+
+Um…
+
+“I’m not sure this will bring you with me,” she said, using Draconic to speak with her Kobold.
+
+“I will run, Ancient Mistress,” the Kobold said, bowing his head.
+
+“You know where the town is?”
+
+“No, but I can follow the connection,” he answered, pointing to his chest where the golden-green globe of her magic softly pulsed within him.
+
+“Ok, but be careful of the Goblins,” she told him, getting a solemn nod in response. She didn’t like leaving him to run back, but she didn’t have any other choice. She needed to return before her withdrawal ran out. At least he can tell where to go, she thought.
+
+“Can you bring the wolves back with you, too?”
+
+“Of course, Ancient Mistress,” the Kobold agreed. Only two of them had survived, but she didn’t want to leave them out here in the forest to be eaten by Bugbears.
+
+She threw her potion to the ground and the vial exploded with a popping sound, filling the air around her with an opaque black smoke cloud that had the distinct smell of fire and soot. Her stomach lurched as the ground below her feet disappeared and then suddenly, she was stumbling on a hard, polished marble floor. Mato’s large hand steadied her as she struggled for a few moments to get her stomach under control.
+
+“Welcome to the Novaspark Academy of Magic in Myrin’s Keep, your teleportation fee will be five silver each.” The voice sounded bored and disinterested, and Ali got the sense that the words had been repeated so often that they had long ceased to have meaning for the mage anymore.
+
+She looked around. She stood in the center of a great circle of runic magic inscribed into the polished black marble of the floor. The circle glowed softly with the fading remnants of the violet magic that had connected it to the teleportation spell of her Recall Potion. As she watched, the runes flared with a brilliant infusion of purple mana, and Malika and Calen appeared beside her in the circle with a popping noise and a fresh puff of smoke.
+
+Teleportation Locus! Teleportation magic in all its endless variety had always been fascinating to Ali, and she couldn’t help but feel a sense of awe at seeing it in action with her Arcane Insight for the first time.
+
+Teleportation Locus – level ?? (Arcane)A magical locus that serves as an enhanced teleport destination.Runic Circle
+
+The locus was a magical construct that served as an anchor for other teleportation magic, enhancing both distance and accuracy and was an essential feature in most towns. Without it, travel, and even the economy, would simply not function. Although, they were reputed to be fairly expensive to maintain, requiring an almost endless supply of mana.
+
+Off to the side of the room, she found a small desk behind which a bored-looking official sat, operating some device. The room had only a single entrance which was flanked by two guards wearing identical ornate robes, several wands strapped to their belts.
+
+“You may also pay by tithing enough mana to cover the cost of your teleportation, plus the guild surcharge of twenty percent. For the four of you, that will come to…” the official behind the desk paused to check the device. “Three thousand one hundred and sixty-four mana.”
+
+“What if we don’t have enough mana?” Ali asked. Over three thousand mana was far more than her entire mana pool.
+
+The official glanced up at her and then indicated a couple of chairs arranged in one corner of the room. “You’re welcome to use the rest area while you regenerate,” he offered, not exactly majoring on the subtlety.
+
+Ali turned to her friends. “What should we do? I don’t have any money to pay.”
+
+“I can help with the mana tithe,” Malika answered. “As long as you don’t mind waiting for my Meditation.”
+
+Ali walked over to the desk, and after a brief explanation from the official, she placed her hand on the artifact sitting in front of him.
+
+Mana Battery (Arcane)A rechargeable mana storage device.Mana: Recharge the Mana Battery. 28750/40000Created by Donella Novaspark.Artifact
+
+Well, that explains how the locus is powered.
+
+She emptied her entire mana pool into the artifact, holding back only the mana she had reserved for her last remaining minions who were presumably making their way back to town through the forest at that moment. It was a little more than eight hundred mana, and she was quite proud of how much she had. Mato and Calen contributed two hundred and eighty and one hundred and forty respectively, but Malika shocked her by contributing eight hundred and seventy-five, more even than her.
+
+“How do you have so much mana?” she whispered to Malika as they moved to the waiting area.
+
+“My relentless aptitude lets me pay any mana cost with stamina,” she answered. “I need about twenty minutes to regenerate enough stamina and mana to finish it, and then I think we can go.”
+
+Malika’s skills are cool, she thought, leaving her to her Meditation, and instead walked over to the edge of the runic circle, taking care not to step inside it. She crouched down and began to study the runes and the magical connections using Runic Script, rather than simply sit around bored while she regenerated slowly. If she had anything to deconstruct it would have been much quicker to complete the payment – although, with Mato close enough to share his aura, and her new bracelet, her regeneration was already far higher than normal. But she was no longer in such a hurry. She would need to return to her domain and recover, but she had several days before it became urgent.
+
+She struggled to fully understand the magical connections within the high-level runic construct, even with the assistance of her Runic Script skill, but she still found the exercise fascinating. While Ali worked her way around the circle, several merchants appeared within the locus, coming and going quickly, simply dropping payment on the official’s table.
+
+That seems much faster.
+
+Still, she felt her understanding growing simply by watching the activation of the runes with her magical perception skill and was soon rewarded with a notification chime.
+
+Arcane Insight has reached level 6.Runic Script has reached level 8.
+
+“What do you use all the mana for?” Ali asked while Malika finished paying their fee.
+
+“Mostly to recharge the locus,” he answered, seeming to perk up a little at her interest. “We also have a recharge service for wands and similar items in the academy’s main hall which lets us make a little money to keep the rune circle staffed. If you have teleportation magic, feel free to memorize the locus, it will make your travel cheaper.”
+
+“I don’t,” she answered, before thinking the better of her reply. “Uh, not yet.”
+
+Ali knew the theory. From studying the circle, she had been able to deduce that this locus had range extension and some rudimentary support for circumventing suppression magic. Mages could use such constructs to boost their own teleportation magic to travel further or more accurately. It was far from the most elaborate locus she had seen, although seeing it activated with mana flows and reading the runic magic directly was quite a different experience than the dry textbooks she had studied previously.
+
+Finally settled up, Ali followed her friends through the doorway between the two guards and suddenly stopped, her eyes assaulted by a riot of magic and mana. Stretching out ahead of her was a broad hallway with dark marble pillars, lit by floating orbs of light. On either side of the carpet that ran down the center were stalls, and every single one of them carried something magical.
+
+“Come on,” Malika urged her, and she began to walk, but Ali simply stared at everything, barely even registering where she was going.
+
+On the left was a table lined with elaborate wands, on the right a stall with creatures in small cages – alight with every kind of magical affinity. Artifacts, jewels, spell books, and scrolls lay on display upon velvet cloth. Vendors calmly tried to attract her attention with robes and displays of magical prowess as she gawped, dumbfounded.
+
+“Don’t pay them any attention,” Malika bent down to whisper in her ear. “They’re showing off.”
+
+What…
+
+She glanced at Malika, feeling confused, but she felt the pull of Malika’s hand as she gently guided her forward and finally out of the door at the end, emerging into the sunlight of a main street.
+
+Ali looked back longingly at the door they had just emerged from. Dal’mohra had had similar magical marketplaces, significantly larger. But she had never witnessed one with the perception she now had.
+
+I want to go back in…
+
+“Ali, they’re not worth it.”
+
+“What?”
+
+“Think about it for a second. The only people who can afford teleportation regularly are the wealthy, powerful, or well-to-do. Almost everyone who comes to Myrin’s Keep by teleportation uses that Locus. The Novaspark Academy of Magic remains profitable because their private market of extravagant magic is the first thing all the wealthy visitors see. Everything in there is designed to get your attention and close a deal at a sizeable markup. You don’t want to buy stuff in there, I can get you better deals on anything you need in five minutes.”
+
+“Oh.” Ali took a deep breath and turned her back on the doorway. What Malika said made sense, but she wondered if she would need to be careful in the future. As much as she loved her new Arcane Insight, it would be problematic if she could be literally dazzled by something as simple as a merchant trying to sell fancy trinkets.
+
+Perhaps I need to spend more points on wisdom to prevent that from happening again?
+
+“What are we going to do?” Ali asked as she followed them down the street. The street, and the town in general, was quite a stark contrast to the extravagance she had just witnessed. Just several blocks from the academy, they passed a building that had been burnt to a husk, with rubble and the remnants of burnt furniture still visible inside.
+
+Her domain withdrawal ached in the back of her mind, reminding her that she really needed to get back to her shrine and moss to recover. And she was also excited to try out her new tree imprint when she did get back.
+
+“We should sell this stuff,” Mato said, hefting his pack.
+
+“I want to let my mother know I’m ok,” Calen said quietly.
+
+“We should report the Goblins to the garrison commander,” Malika added. “And we should keep well clear of Kieran Mori. Reporting his involvement might draw trouble down on our heads.”
+
+Calen seemed to struggle with something for a bit and then he said, “Reporting the Goblins is the highest priority, we should do that first. I really think we should be honest about Mori’s influence if we want Commander Brand on our side.”
+
+“I think you have a little too much faith in people doing the right thing,” Malika said, frowning.
+
+He’s really sweet to worry about his mother’s feelings, Ali thought, quietly deciding that taking care of her withdrawal and her desire to experiment could wait for these more important tasks.

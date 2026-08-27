@@ -1,0 +1,171 @@
+---
+id: dee491fa-4ee3-5085-bf93-f76682f1fd53
+page-type-slug: story-chapter-royal-road
+title: "Chapter 56: Piercer Scorpion"
+slug: 0056-chapter-56-piercer-scorpion
+partOf: dungeon-of-knowledge-complete
+position: 56
+ownLength: 3953
+unit: words
+ownProgress: 3953
+publishedAt: 2024-04-09
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1587520/chapter-56-piercer-scorpion"
+royalRoadId: "1587520"
+markedReadAt: "2026-06-29T20:12:49.046Z"
+---
+
+Strength is perhaps the most straightforward of the seven attributes. If you need to hit something harder or pick up something heavy, this is your attribute. As the saying goes, if strength doesn’t solve the problem, you probably don’t have enough.- Excerpt from The Adventurer’s Guide, Third Edition
+
+“I’ll go first,” Mato said, standing at the threshold. He leaned back a bit to gaze at the giant arched doorway high overhead and the remains of once great doors past which he could see nothing but darkness. Hundreds of bone creatures fled with an eerie, skittering chorus of tapping claws as he picked his way around the rubble and through the giant arched doorway, dragging Calen’s magical light behind him as if it were a balloon on a string attached to his back. Harsh shadows turned and shifted, and as he walked, he wondered how long it must have been since this place had seen any light.
+
+Calen’s mote of light rose, pushing back the boundary of the vast darkness, yet never reaching the edges. Bone-encrusted lumps that may have once been desks or chairs lay scattered haphazardly about. Constructions that may have been shelves were now covered with the thick gray-white of bone ridges and protruding spikes, clear evidence that the Spitter Drones had holed up in here. If Ali had not called it a library, Mato would never have guessed. Infesting the walls and the floors were hundreds of small white worm-like creatures crawling over everything, some as big as his outstretched hand. A muted, continuous crunching sound welled up in the dark as if something were chewing – the kind of noise termites made if you listened closely to a dead tree. Only, this was louder. Much louder.
+
+Bone Worm – Elemental – level 1
+
+More creepy creatures. They looked like oversized centipedes but with a segmented bone carapace, making them more similar to their giant Spitter Drone cousins. As he examined them more closely, he could see that many of them retreated into holes burrowed into the encrusted bone.
+
+He ventured further in, making room for the others to follow. His feet crunched on the bone ridges covering the ground, no doubt weakened by the burrowing Bone Worms. Calen raised the light orb further, illuminating the ossified remains of shelves, bookstands, and desks strewn between them and a distant railing encircling a dark yawning hole. He couldn’t see the other side, but by the way the railing curved away into the distance, he could tell that the dark space – an atrium – was vast.
+
+Large pillars supported a spiral stone staircase that circled the outer rim of the atrium, leading off beyond the reach of their light both far above, and into the darkness below. Much of the visible staircase and the pillars were covered with stalactites or icicles of hardened bone. Every available space on the soaring outer walls was crammed with tiny walkways, the remains of ladders and shelves, mostly covered with bone, extending up well beyond his visible range.
+
+“How is this place so huge?” he whispered, feeling small, dwarfed by the vastness. It was clear that some powerful magic was involved, but the fact that it still stood amazed him even more than the sheer scale.
+
+“This was the most important library in the world,” Ali answered, her hushed voice hitching.
+
+Mato glanced at her, saddened by the visible pain plainly etched in her wide-eyed stare at the remains of the library.
+
+A flicker of white and a flash of movement from behind the shelves on their left and Mato was instantly transforming into his Bear Form. What emerged from behind the bone-encrusted shelves could only be described as a nightmare – a monster that existed for no other purpose than slashing, stabbing, and killing.
+
+The creature was a broad, fifteen-foot-long, bone-white scorpion. It walked on six razor-sharp segmented legs that sliced deeply into the bone floor making a grinding crunch with every heavy step. In place of the usual pincers for forelegs, this monster had two segmented bone spears that gleamed in the dim light, held up in a way that reminded Mato of a praying mantis. Arching gracefully up from the back, its tail rose way overhead, ending in a wickedly serrated, sword-like blade.
+
+The mandibles clicked together as it turned its head and fixed far too many dark, gleaming eyes on him. The moment it caught sight of him, it let out a piercing hiss and charged.
+
+Piercer Scorpion – Elemental – level ??
+
+Mato roared to draw its attention away from his friends and charged toward the monster. His claws tore up a spray of bone dust and shards from the force of his skill’s acceleration. He let his momentum carry him past the monster, taking a powerful passing swipe at its mandibles as he shifted it sideways so that it was no longer facing his friends. The creature lunged, stabbing with its raised frontal spear legs. They darted forward in a blur, moving so fast Mato could barely register the attacks. The left missed, tearing a furrow through the bone-encrusted ground as easily as stabbing butter. Shards sprayed his legs to the sounds of loud crunching. The right spear drew a long slice of burning pain down his left flank, sending his blood splashing crimson onto the gray ground. He swiped again, empowering his attack with Brutal Restoration, but his claws bounced ineffectually off the dense bone plate armor. Only his nature magic penetrated at all. He felt the soft pulse of his restoration, but his skill was dependent on the amount of damage he did, and he hadn’t done a great deal with that strike.
+
+A blur and a subtle flicker were all the warning he received before the monster’s tail lashed down, impaling the serrated blade through his back. The pain threatened to overwhelm him as the bloody blade burst from his belly, piercing through his entire body and embedding itself into the stone below his feet. He struggled helplessly, pinned to the floor by the monster’s tail. With a flick, the Piercer Scorpion pulled its tail back, flinging Mato over ten feet to crash into a shelf, knocking it over and sending his blood spraying across the floor and the wall. Desperately, he struggled to his feet, fighting against the pain of his grievous wound, but his legs were not working correctly. The creature blurred again as it rushed him, spears flickering as it aggressively pressed its attack.
+
+Mato was knocked down again, his legs twitching uncontrollably from the damage to his spine. He couldn’t even feel pain in the lower half of his body. Suddenly, Malika stood beside him. Seeming confused by the appearance of a second target, the Piercer Scorpion hesitated, and the burning rush of Malika’s healing magic surged through Mato’s body. He twitched and spasmed as his damaged flesh and punctured organs were forcibly reconstructed. Sensation returned in a rush, and all he could do was groan in fresh agony. Malika dodged two spear strikes as the monster switched to her, giving him just enough time to regain his feet. He growled, slashing with the claws of his right forepaw. The monster lashed out toward him again. Malika backed off, but Mato’s attention was fully focused on the scorpion.
+
+Thanks, Malika. He knew she couldn’t hear him, but he had been mere inches from death. If she hadn’t stepped in right then, he knew it would have been over. He could only imagine the courage it must have taken to see him crushed, and then to step into harm’s way to help him, knowing that she had significantly less health and armor than he did. If she hadn’t dodged, she might have been on the floor dying beside him.
+
+I still need to get stronger. He roared his frustration and landed another Swipe attack, doing pitifully little damage to the heavily armored monster, pouring mana into Brutal Restoration in a vain effort to build up his healing in case he took another hit. The Piercer Scorpion lashed out again, spear limbs moving so fast he couldn’t even see the strikes that slashed his shoulders. But he did see something.
+
+The blade tips blur before they move!
+
+It was the smallest tell. He would need to dodge preemptively, guessing where the strike would land, but it was something. His wary eyes locked onto the ever-threatening tail-blade that hovered high above, curved to strike.
+
+There!
+
+The twitch in the tail and blur from the blade was the only warning he had, and he immediately dodged sideways, bracing himself. More deadly than anything he had seen so far, if he allowed that tail to land, he was likely dead. The tail blade whipped down, slicing deep, juddering across his rib bones and causing a gout of blood to shoot forth, yet another splash of crimson against the gray of the bone floor. As deep as the wound was, it failed to limit his movement, and he blocked the follow-up crisscross slashes from the frontal spears. He dumped more mana into Brutal Restoration as he struggled to do enough damage to power his healing skill.
+
+Twin thunderclaps and brilliant flashes told him the shamans had arrived. The Piercer Scorpion screeched as shards and splinters of bone fountained from a blinding impact against the left side of its thorax, some even drawing blood as they buried themselves in his flank. The sharp stench of ozone and scorched bone hung heavy in the air. A shiny gleam and clink told Mato precisely where the shamans had dropped their totems. Mato shifted sideways, drawing the Piercer Scorpion a little closer just as the two steel totems began to pulse their Lightning Novas.
+
+Mato deflected one of the blindingly fast spear strikes, missing the second and taking a deep gash to his shoulder. He caught himself before he stumbled – a death sentence against this monster – and spent even more of his precious mana to attack again. The bright red of Ali’s Fire Mages, a barrage of her golden magic, and the bright flashes of Calen’s arrows lit the side of the white bone creature. With everyone engaged now, and the volume of magical damage keeping the regeneration of the bone plate armor at bay, Mato finally landed a big Swipe powered with his Brutal Restoration, feeling the strong uptick in the power of his healing magic.
+
+Finally! Damn, I needed that.
+
+He shifted to a more defensive stance, lowering his center of gravity and prioritizing blocking. He rationed his dwindling mana, focusing only on strikes that could build his healing, rather than flailing against the heavy plates of bone armor covering much of the scorpion’s body. Attentively, he studied his enemy, alert for any edge on anticipating the deadly attacks. The tail blurred and Mato blocked, taking a deep wound to his left shoulder. Bad, but not debilitating.
+
+Suddenly, the creature’s tail reared up and pointed toward him, the frontal spears held crossed in a defensive guard. Quick on the uptake, Malika unleashed a powerful sequence of kicks from behind the back legs, impacting the left side of its abdomen.
+
+“Magic!” Ali’s voice echoed through the library.
+
+The tail flashed with light and a spear of bone the length of his arm appeared out of thin air, shooting downward and punching clean through his leg before Mato could even react. He wrenched his leg, snapping the spear, and burned the last of his mana for another Brutal Restoration-powered Swipe taking advantage of a minuscule gap in the monster’s guard. Malika darted in, giving him a clutch heal just in time for him to avoid the next strike. Her aggressive healing magic spat out the remaining shards of the bone spear from his leg as it repaired the wound. He was alive – for now – but he had spent the last of his mana. There would be no more Brutal Restoration. This was turning into one ugly scrap.
+
+He braced, blocking a spear strike, and taking a shallow wound across his left shoulder. He counterattacked, but his claws barely penetrated the regenerating armor. The tail twitched, blurring and he blocked, but it, too, left a gash across his right flank that dripped blood down onto the floor beneath him. Mato roared, using his attack on a weak spot just to ensure that the monster would not turn around and destroy his friends. It was only a matter of time and luck now. Sooner or later, he would fail to deflect an attack and take a wound that would hamper his movement – and then it would all be over.
+
+“Mato, heal!” Ali yelled.
+
+Sorry, I’m tapped out.
+
+The Piercer Scorpion lunged forward, both spear-arms blurring with attacks. Both of which Mato misread. Razor-sharp spears of bone punctured his body through the ribs on either side causing him to stagger. I guess it was sooner, not later. His fatalistic thought was interrupted by Malika stepping up to him. She quickly dodged a tail strike and backed off, but not before he felt the burning rush of her healing magic tearing through his body to repair the wounds.
+
+“Is he out of mana?” Calen sounded worried.
+
+“I think so,” Malika answered. “I’ll keep healing him.”
+
+“Ali, can you get some fireballs in there without hurting anyone?” Calen called. “We need to kill this thing soon.”
+
+“Yup, I’ll move the rogues and shamans.”
+
+In response, three roiling balls of fire lit the entire side of the library with their intense red glow. A few moments later, the fireballs shot forward impacting the back of the scorpion with deafening explosions. Even as far away as he was, Mato took damage from the concussion wave and flying gobs of flame. Twin Lightning Bolts flashed across the room, tearing scorched chunks of armor from the monster’s carapace. The scorpion reeled back, briefly stunned.
+
+Malika dodged in and healed him once again, using her agility to dodge back out before she got attacked. As Mato’s eyes and ears recovered, the tail shot up again and the spear legs retracted defensively.
+
+Not again! How tough is this thing? He coiled in readiness.
+
+“Magic!” Ali called again.
+
+It came to him then, in a flash of inspiration. Perhaps, if he had not been so low on mana and pressured by this creature, he would have discarded the idea as crazy, but Mato suddenly realized he had a couple of seconds while the monster summoned its magic. He dropped his Bear Form, retrieved a mana potion from his ring, and downed the entire thing in one gulp. Then he triggered his transformation back into Bear Form and lunged to the side, trying to block the incoming bone spear.
+
+Fortunately, his transformation was quick enough, and he avoided being impaled by a whisker. The spear slammed into the ground, cutting a deep gash along his hindquarters. As he felt his mana tick up, Mato lashed out, building up his Brutal Restoration once again.
+
+That was stupid, even for you, Mato. He had no idea if that had been a smart idea, or critically stupid. If he had been struck while in his Beastkin form, he would undoubtedly have been killed. He barely had any armor in that form – but it had worked, and now he had just a little breathing room to heal himself again. A bright arrow whizzed by and cracked against the bony ridges an inch above one of the scorpion’s many dark eyes.
+
+It took two more rounds of fireballs and lightning bolts before one of the fireballs penetrated through the carapace and detonated inside the creature. Bone plates flew everywhere, some even stabbing through his armored hide. The elemental monster stumbled. There was some yelling in the background and a stream of magical attacks, and a breath or two later the creature clattered to the ground in a heap of bony legs and shattered armor.
+
+His chime sounded, but Mato ignored it for now and shifted back to normal, breathing a deep sigh of relief. He was almost out of mana again, despite having used the mana potion with his risky mid-combat shift trick. He sat right where he was, breathing hard, and looked up only when Malika stopped by to check on him.
+
+“You saved me.” He stared at her for a long moment. “Thank you.”
+
+“Any time,” she said, slapping his shoulder lightly. “Your potion trick was crazy.” She grinned. “Crazy good.”
+
+He grinned back. It was crazy. Now that he thought about it, so much could have gone wrong, but if he hadn’t done something, he would have been so far up the creek he wouldn’t have been worried about paddles.
+
+His attention drifted inward to his notifications. Time to see if this was worth it.
+
+Your group has defeated Shield Warrior – Kobold – level 20.…Your group has defeated Piercer Scorpion – Elemental – level 28.Druidic Shapeshifter has reached level 20.+10 attribute points.
+
+Oh, twenty! Finally! Guess I should’ve paid more attention to my notifications. Quickly he spent three points each on vitality and wisdom, and then considering the dangerous battle he had just survived, he spent two each on endurance and perception. Hopefully, he would be a little tougher and maybe he could get better at reading the tells in combat.
+
+Swipe has reached level 14.Bear Form has reached level 12.Bestial Combat has reached level 14 (+2).Natural Prowess has reached level 10 (+2).Identify has reached level 7.
+
+Mato bit his lip, trying to contain his rising excitement. This has been a while coming. Now, let’s see…
+
+Class skill slot unlocked.New skills are available for Druidic Shapeshifter.New skill unlocked.Class level has reached 20.Earned at least 15 skill levels with Shapeshifter trait skills.Experienced extensive combat in a shapeshifted form.Panther FormStamina: Shapeshift into a panther. You gain Bite, Rake, and Ambush attacks. Your attack speed is increased in Panther Form, and you can use stealth. Reserve: 20%Nature, Shapeshift, Buff, DexterityNew skill unlocked.Class level has reached 20.Wisdom has surpassed 35.Healed more than three different allies in the same fight.HealMana: Channel your mana to heal your target. Range: 60 feet.Nature, Ranged, Healing, Channeled, WisdomNew skill unlocked.Class level has reached 20.Perception has surpassed 20.Survived magically enhanced attacks while enduring impaired senses.Survival InstinctYour natural senses of sight, hearing, and smell are significantly enhanced. You have a sixth sense about incoming attacks, how much damage they will do, and how to move to mitigate the most damage. Range: SanctuaryNature, Physical, Perception
+
+Another form? Mato got up and slowly limped over to where the others were gathered, taking a second to re-read his notifications and the descriptions of the new skills he was being offered.
+
+“Get anything nice?” Ali asked.
+
+Mato said, “Uh, how did you –”
+
+“Grin about this wide.” The little Fae spread her hands with a chuckle.
+
+Unsurprisingly, his perceptive friends had noticed his level almost immediately. “Yes,” he said and shared all his skill choices with them – the three new ones, and Wrath of Nature and Primal Rage which he had previously passed over or discarded, but were still available for him to choose if he wanted.
+
+He had his favorite, but he wanted to hear what the others thought. If it were entirely up to him, he would pick based on his gut instinct, but the others often thought of reasons he would never have considered.
+
+“Seems like a pretty easy choice,” Malika said. “I would go with Survival Instinct. You don’t seem to do much fighting from the back, so Wrath and Heal wouldn’t be your style.”
+
+“You ran out of mana in that last fight,” Ali said. “Do you think Survival Instinct would have helped with that?”
+
+“Yes,” Mato said. “Definitely. If I could have avoided more of those attacks, I wouldn’t have been in such a desperate need to heal myself. When I can just let Brutal Restoration keep me topped up, it’s much easier on my mana.”
+
+Mato looked over to Calen. “What do you think?”
+
+Calen took a moment with a furrowed brow before speaking. “I think it depends on what you want to do. Your class seems to offer you an enormous amount of versatility. You have choices that allow healing or damage from melee or ranged. You can switch forms for a whole variety of roles. How you choose should depend on how you want to grow your class – specializing will make you stronger, but less versatile. Survival Instinct is only useful if you’re getting hit. So, if you want to stick with tanking, I agree it’s the best choice. On the other hand, variety would require spreading your attributes out more and being less focused on any one role.”
+
+As usual, Calen had to be prompted to share his opinion, but his ideas were well thought out. Mato considered the versatility of the ranged healing and the stealth of the Panther Form. What do I really want?
+
+“Do you like tanking?” Ali asked him.
+
+“I think so, why?”
+
+“Don’t you have a Wolf Form that you barely ever use? Maybe you like tanking more than you think? I mean, I see that Wolf’s kind of a useful backup form for different situations.”
+
+She’s right. I pretty much only ever use my Bear. Mato considered. But I do like my Wolf Form… Survival Instinct had been his intuitive choice. He hadn’t even considered that it wouldn’t be used at all while he was in his Wolf Form – a form he used for scouting, or occasionally damage when he wasn’t being hit. Well, the passive sense enhancement would be nice. Might be good to use Wolf a bit more so it doesn’t fall behind. At least, that’s what Calen would say.
+
+Calen was trying to get him to think about his long-term growth, rather than just picking whatever felt right. The problem would be picking a role and a specialization that suited him.
+
+Do I really want to be a tank? It was the right role for the team. But if he made his choices based on this team, and they changed groups later, he might find himself far too invested to change. This kind of thinking hurt his head.
+
+“You can pick it now, and if you want to change your role, you can swap out the skill. You just lose the skill levels.” Ali reminded him.
+
+Just like when he had swapped Primal Rage for Bestial Combat. It would be a setback if he needed to change, but right now he didn’t see himself in any other role, and it felt right. As long as he didn’t go too long before committing to his decision, she was probably right.
+
+“Ok, I’ll give Survival Instinct a try.” I guess now I need to invest in perception more often. He already wanted vitality and endurance for resilience and survivability, strength for power, and wisdom for mana and resistance against taunts. Attributes are hard, he thought, switching to his Bear Form to check his status.
+
+Name: Mato BahrRace: BeastkinActive Buffs: Bear Form, Natural ProwessClass: Druidic Shapeshifter – level 20- Arboreal Sanctuary – level 11- Swipe – level 14- Brutal Restoration – level 12- Bear Form – level 12- Wolf Form – level 4- Bestial Combat – level 14- Natural Prowess – level 10- Survival Instinct – level 1- [Locked]- [Locked]General Skills- Identify – level 7- Cooking – level 5- Wilderness Lore – level 6Aptitudes- Languages: Common, Beast- Mana (Affinity): Nature- Strong (Racial): +7 to Strength- Tough (Racial): +10 to EnduranceAttributes- Vitality: 138 (+48)- Strength: 80 (+28)- Endurance: 97 (+34)- Dexterity: 8- Perception: 22- Intelligence: 9- Wisdom: 43Armor: 481Physical Damage Reduction: 46.2%Health: 1380/1380Stamina: 776/970 (194 Reserved)Mana: 430/430

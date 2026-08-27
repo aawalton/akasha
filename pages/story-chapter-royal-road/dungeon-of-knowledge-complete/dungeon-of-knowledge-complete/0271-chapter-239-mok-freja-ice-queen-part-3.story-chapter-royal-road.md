@@ -1,0 +1,121 @@
+---
+id: cf972278-ff83-57ec-b71b-1659a5fd5e37
+page-type-slug: story-chapter-royal-road
+title: "Chapter 239: Mok’freja, Ice Queen (Part 3)"
+slug: 0271-chapter-239-mok-freja-ice-queen-part-3
+partOf: dungeon-of-knowledge-complete
+position: 271
+ownLength: 2339
+unit: words
+ownProgress: 2339
+publishedAt: 2025-05-03
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2251736/chapter-239-mokfreja-ice-queen-part-3"
+royalRoadId: "2251736"
+markedReadAt: "2026-06-29T20:20:24.454Z"
+---
+
+Another spectral troll rose beside the altar, but right then the air rippled and the witch doctor returned from his spiritual jaunt. His appearance was eclipsed by a stunning flash of light and explosive hellfire as Calen appeared, landing what must have been a stupendous Ambush on Mok’freja.
+
+“Take care of the specter,” Ali sent to her witch doctor. “And then try hexing Mok’freja,” she added, as the idea popped into her head. But both curses against the Ice Queen were resisted – either Mok’freja was too high level or possessed too much resistance for the curses to affect her. The specter, on the other hand, vanished in a shimmer of light. They were going to run into a problem when all the curses expired, but she would have to worry about that later.
+
+At that moment an unreasonable idea popped into Ali’s head, fully formed. No, it’s too risky, she thought, her heart beginning to race but once the idea had caught hold of her, it refused to let go. Mok’freja had just used her teleportation spell, and enough time had passed that she had to be close to being able to reuse her Frost Nova, which made this the perfect time. Instead of flying away, Ali took off, flying directly at the regal ice troll with her focus locked onto her mana sight. She closed to less than two meters when the Frost Nova exploded outward, freezing everyone in its wake, leaving Ali vulnerable, stuck in a heavy block of ice right in front of the boss. There was no way Mok’freja would miss the opportunity.
+
+Sure enough, when the inevitable streams of Ice Bolts appeared, Ali could tell one was locked on her. Gotcha. Ali teleported, choosing her furthest frozen Armored Drake. Through the ice-penetrating sight of her mages, she saw the drake appear right in the path of the Ice Bolts. The shattering explosion of ice rupturing into the air ripped an enormous chunk of health from her minion but, freed from the icy grip, two meters wasn’t nearly enough distance to bother the enormous drake. The intense torrent of dragon’s fire jetting from its mouth engulfed Mok’freja in a roaring inferno that turned the swirling ice and snow into a flickering expanse of oranges and reds. A wave of heat blasted outward from the center while the dragon’s claws blurred with a devastating Cleave.
+
+Mok’freja’s Ice Shield shattered, the pieces sublimating into steam in the inferno, and she staggered backward, screeching in fury. At once, she reacted by freezing herself solid, protecting herself from the remaining dragon’s fire for a few precious seconds. As soon as her ice cracked and shattered off, she teleported away, again chased by the relentless Malika.
+
+“Nice move, Ali,” Malika shouted, pressing her attack.
+
+Given the high risk of that maneuver, she was excited with how effective it had been. What was more, Mok’freja had picked the least populated area to teleport to, but Ali could smell the pool of fresh blood she hadn’t noticed at her feet.
+
+“Go after her,” Ali commanded, and one of the Blood Shamans used Blood Walker to teleport into the puddle, unleashing a powerful Lacerate, drawing a bleed, and finally landing the Vampiric Hex curse on the boss. With a fresh source of blood, the shaman took the initiative to drop Blood Restoration and Resistance of Blood totems. The resistance totem immediately raised everyone’s resistance to the ice damage, and even with just that improvement, Ali could see her minions freeing up from the chilling slow for just a little longer with each pulse from Free Action.
+
+“I love this curse!” Malika shouted, unleashing a flurry of punches that topped her health up. Moments later, her shamans shifted their healing targets, no longer needing to heal the Ice Mages at the back as the Vampiric Hex filled them up under the influence of their high rate of attack.
+
+It’s time, Ali thought nervously, and once again sent her barrier swooping towards the boss.
+
+Mok’freja turned hateful blue eyes on her as she rushed in, and sent a stream of ice bolts swooshing towards her even before the Frost Nova detonated. Ali pulled some evasive swerves in midair, holding on to the edge of her barrier with all her paltry strength, winning a few more meters before she triggered her Minion Teleport, switching with an Armored Drake again. She didn’t bother waiting for the Frost Nova, having realized that with her strategy it simply didn’t matter.
+
+The drake landed in front of Mok’freja right as the potent Frost Nova exploded outward, freezing everyone. The ice bolts smashed into the drake, shattering its ice and it instantly reacted with a cleave and a gushing torrent of dragon fire.
+
+But Ali had miscalculated. Teleporting before the Frost Nova meant Mok’freja had chosen her as a target for a high-speed stream of Ice Bolts, and now she was frozen.
+
+Aah!
+
+The air in front of her rippled and shimmered, and her witch doctor appeared. With a cackle and a wave of his hand, he yanked Ali’s body into the Spirit Realm.
+
+One advantage of having intelligent minions, Ali thought, breathing heavily as the ice prison shattered on its own. She had taught him this trick with Calen, and he had simply repurposed it to save her.
+
+As soon as she finished shedding the ice, she moved off, flying to where the boss was now standing, and waited. They will just have to manage without my spectacular damage for a few moments, she thought, counting the seconds.
+
+It should be about Frost Nova time, she thought and dispelled her Spirit Banishment curse, appearing right behind Mok’freja, watching anxiously with her mana-sight.
+
+Frost Nova exploded outward, right on schedule, encasing her in the all too familiar ice. For a supposedly intelligent boss, you sure are predictable. She had her drake already picked out, but she waited till she saw the mana powering the ice bolts before teleporting the drake on top of the boss. With the Free Action and the Resistance totems granting a little more mobility to her forces, she saw that Mato and one of her Shamans were in range, along with Malika and the Armored Drake she had just teleported in. Her warriors were not far out, but they had access to ranged attacks. Her Hellfire Imps were nearly all dead, unfortunately, and the rest of her minions were magical or too far away.
+
+I’m not going to see another opportunity like this, she thought.
+
+“Calen, go!” she yelled, and simultaneously sent her shaman the command, “Bloodlust!”
+
+The powerful blood magic burst from the troll shaman’s chest, and Calen’s Righteous Fury shone forth spectacularly as he ignited his mana. The entire army of minions attacked in a sudden rising frenzy as the Bloodlust took hold. The Cleave and Dragon’s Fire ripped into the Ice Queen with deadly force while the rest of her minions unleashed their most powerful attacks.
+
+Even Ali’s witch doctor hunkered down behind an ice-encrusted boulder and began draining Mok’freja, and with an unusual twist of mana, began diverting it to the shaman who had just expended a lot of her blood powering the Bloodlust. Pink sparks erupted from the shaman, confusing Ali for a few seconds until she remembered that the witch doctor’s skill, Ritual Infusion, had a high chance of random chaotic side effects, but what he was really doing was transferring temporary health to the shaman.
+
+They got about half of the duration of Bloodlust before Mok’freja was able to teleport away, but the damage was done. Ali could tell from the Scent of Blood that the Ice Queen had taken a staggering amount of damage, and she was hemorrhaging blood from several deep wounds inflicted by the Blood Shamans. It was just as Ali had seen from her own mages – the challenge was not armor or incredible health totals – it was getting through the layers of defensive ice magic skills.
+
+Malika chased the boss down with her teleport, making the most of the powerful haste and strength bonus granted by the blood runes swirling about her head.
+
+Ali stood on the snow-covered ground, dispensing with her levitation to wield as many barrier shards as she was able, trying to make the most of Calen’s powerful Motes of Light and Righteous Fury combination. She didn’t gain anything from the melee haste and strength of the Bloodlust, but Calen’s potent magic enhanced every one of her shards with additional light magic damage.
+
+Right before the Bloodlust ended, and Calen’s magic ran out, Ali hopped onto her barrier, shooting towards Mok’freja. She wanted to be in place for the next nova, if at all possible, and she wanted this boss to die soon – her arms and legs were already blue with the cold.
+
+Ice mana surged and the Frost Nova exploded outward from Mok’freja, locking down the entire battlefield.
+
+Ali waited for the Ice Bolts, just like before, and switched with her Armored Drake. But unexpectedly, the Ice Bolts stopped, and Mok’freja waved a translucent wand, triggering a magic formation Ali had never seen before – a magic of exquisite icy complexity that settled onto the Ice Queen like an intricate blue-white veil. And then the Ice Bolts came. Shooting out at nearly three times the rate, the soft swooshing of flying ice rose to a thin, piercing whine, bypassing the Armored Drake entirely and homing in on her instead. And in that moment, it dawned on her that Mok’freja had faked her out.
+
+Fuck.
+
+The Blood Shaman beside her summoned a totem, and the ice Bolts smashed into her, shattering the block of ice imprisoning her body. The crushing pain of exploding ice ripped at her flesh and her health dropped precipitously while the bolt stream continued to punch through her at an unbelievably accelerated rate. Ali scrambled to get on a barrier and fly away. The air shimmered and her witch doctor stepped through from the Spirit Realm, his blue beam arcing across the battlefield to drain Mok’freja while he gestured with his free hand and unleashed a spray of magical sparks.
+
+You have gained temporary health.
+
+Ali jolted to a stop, her body freezing a second time as one of the Ice Bolts landed critical damage, but still, she failed to die.
+
+A ribbon of blood snaked through the air, and she felt the powerful surge of her shaman’s healing mana pulsing through her body as the next Ice Bolt shattered her frozen form, triggering the explosion of pain a second time. This time, she knew she had been below ten percent health and yet somehow, miraculously, she still lived. The shaman healed her again, and the Ice Bolts stopped.
+
+Ali sat there glancing around in surprise and confusion. Her skin had turned a deep shade of purple and was glowing softly, while her shaman stood nearby, pulsing healing through her body till she was restored to full health. At her feet were the shaman’s Resistance of Blood and Blood Restoration totems, along with a rather large stream of blood dripping from the shaman’s own arm. In the background, her witch doctor cackled softly at her.
+
+In the distance, an enormous Armored Drake stood looming over the crumpled form of Mok’freja, and the soft sound of her chime rang out in her mind.
+
+How… how is this possible?
+
+Your group has defeated Mok’freja [Ice Queen] – Troll – level 97 (Ice).
+
+And a few moments later, amidst more roaring, bursts of superheated flame, and a howl of arrows:
+
+Your group has defeated Frost Weaver – Spider – level 97 (Ice).
+
+Ali sat there, stunned, as her mind struggled to piece it all together. Mok’freja must have been quite close to death when she had faked Ali out. Malika, Calen, and the Armored Drake must have been enough to kill her as soon as her drake had thawed. With whatever powerup she had cast on herself with that wand, Mok’freja had frozen her twice and landed three critical strikes with her Ice Bolts in a matter of seconds.
+
+Ali should have died several times over if it weren’t for the extra resistance provided by the Resistance of Blood totem, and her shaman inflicting a massive bleed on herself so she could power the Blood Restoration totem and chain cast her Blood Siphon. The canny witch doctor must have siphoned enough temporary health with Ritual Infusion to create a buffer for keeping her alive under the onslaught. Which was why she was now glowing purple. She checked, discovering that she had almost twice her normal maximum health total, and she was certain that even with the increased temporary health, she had been dangerously close to dying a few times.
+
+It's like a miniature Last Stand.
+
+Her shaman stood there with only about forty percent of her health remaining, slowly ticking up from the effects of the Blood Restoration and her personal regeneration.
+
+That was way too close, Ali decided, taking a deep breath and shaking herself to pull it back together. But her shaman and witch doctor had earned new respect – what the two trolls had achieved was nothing short of astounding.
+
+“Thank you,” she said using the troll language. She had been lost without her normally reliable barrier to defend herself with, and yet her minions had taught her just how powerful they could be when she needed to rely on them.
+
+“Of course, Seeker,” the witch doctor said, bowing. “Shall I get the specters?”
+
+“Yes, I’ll warn the others,” Ali answered, limping over to the corpse of Mok’freja, her brain refusing to believe she was fine after such a close call. A few seconds later, the temporary health donation expired, and her maximum health reverted to normal.
+
+“Incoming undead,” she announced, and the air rippled again. But the aura of icy cold that had so hampered them was now gone, and everyone sprang upon the specters with renewed speed and energy.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

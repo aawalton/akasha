@@ -1,0 +1,113 @@
+---
+id: 9855f1b7-7f52-5dbf-a78d-28a2ae0f52bb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 63: Tanking Fire and Bone"
+slug: 0063-chapter-63-tanking-fire-and-bone
+partOf: dungeon-of-knowledge-complete
+position: 63
+ownLength: 3140
+unit: words
+ownProgress: 3140
+publishedAt: 2024-04-23
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1607768/chapter-63-tanking-fire-and-bone"
+royalRoadId: "1607768"
+markedReadAt: "2026-06-29T20:13:02.443Z"
+---
+
+Mato bit down hard on the bone-plated tail and dragged the scorched and cracked Piercer Scorpion corpse off to the side, straining a little against the enormous dead weight of the elemental. He was certain Ali wouldn’t have time to dispose of all of them before he had to start tanking again, and he had grown quite partial to the glowing green of the restoration circle over the course of the battle. Having his spot cluttered with huge bone corpses would severely limit his options.
+
+When they had come up with the plan for this fight, Mato had been frustrated that he wouldn’t be able to engage the Skeletal Wyvern itself, however, he was having more than enough fun tanking four Piercer Scorpions at a time. Between his Survival Instinct, his brand-new armor, and the extra heals, he was able to tank far more of them than he would ever have imagined. Such a vast difference compared to his first experience, being impaled by the tail strike and tossed across the room like a ragdoll.
+
+He returned to his spot, feeling the soothing pulse of the restoration circle topping up his last few points of health just as Calen appeared, sprinting toward him with a freshly summoned Piercer Scorpion hot on his heels. Mato backed up a bit and judged the distance carefully before charging. He slammed his armored shoulder into the giant monster of bone with a crash, stopping it dead with the momentum of his Charge – right in front of the circle. Inwardly he grinned at how well the maneuver went. He roared, attacking with claws empowered by his Brutal Restoration. The monster responded with a vicious crisscross attack with both spear limbs. Survival Instinct gave him the vague perception that the attack would be high, so he opted to crouch low, blocking with his Bestial Combat skill and taking two shallow cuts across his back and shoulders. The attack had done little in the way of serious damage, protected as he was by his dense hide and Eimuuran steel, and Mato could already feel the healing magic of the circle and his Brutal Restoration repairing the wounds.
+
+This circle’s amazing, he thought. Against these Piercer Scorpions he was rarely at full health, and, while the circle healed comparatively slowly, it was a constant source of health throughout the entire battle that had to have added up to an enormous amount of life restored.
+
+Survival Instinct prickled in his awareness warning him of a savage incoming attack. He immediately recognized the characteristic brutal violence of the tail strike and shifted to one side, avoiding the most serious damage – a deep wound in his back leg was vastly better than being impaled through his back or head.
+
+Splinters of stone and a spray of his blood exploded from the impact of the tail strike before the wickedly serrated blade was withdrawn with equal force and violence, tearing further gashes on the way out. The soft warmth of the Kobold Acolyte’s holy magic pulsed through him. She had cast a short buff on him which progressively healed him over time. He noted the similarity to the way his Brutal Restoration worked. Except the specialized magic of the Acolyte was significantly more powerful. He was not one to pay too much attention to the details of magic spells like Ali would, but it was impossible to ignore the visceral rush of health being restored before it was brutally ripped away again by a blade or a spear.
+
+Malika appeared, sprinting into view, a light sheen of sweat beginning to make trails and streaks in the bone dust and soot clinging to her skin. She seemed calm and intensely focused while her giant Piercer Scorpion shook the ground, trying to gain on her to impale her athletic body. But she was always just one step ahead and dancing out of reach, arriving in the perfect spot next to him to line her catch up beside the elemental he was already tanking. She simply stood there, body blurring to the left and right as she dodged the high-speed flurry of spear attacks, waiting for him to secure the monster.
+
+Mato didn’t keep her waiting, roaring a challenge to the monsters in front of him. His roar didn’t do much other than tell them he was here, but it felt right to challenge the monsters he was about to hit. He fed stamina to Swipe and mana to Brutal Restoration in a basic combination attack that had already become as automatic as breathing for him. His claws screeched against the hard bone plates, raking both monsters in front of him with a powerful horizontal attack, serving to deliver his nature magic to his enemies. His magic tore furrows and small cracks in the dense armor, fueling his restoration healing. Immediately, the new Piercer Scorpion switched its attention from Malika to him, unleashing a brutal combination strike that sent more of his blood spraying into the air. Malika’s healing magic tore through his body briefly before she vanished to continue her job.
+
+He barely noticed her leaving, mustering his entire focus to tanking the two powerful elementals. He kept unleashing his Swipe, striking both simultaneously and relying on the healing to deal with the incidental wounds he was continually racking up, reserving his focus for Survival Instinct. It gave him a slight edge, but that was more than enough to avoid or mitigate many of the most devastating attacks.
+
+“Hide!” Ali yelled.
+
+With only two scorpions collected so far, Mato knew they wouldn’t try and burn them down just yet. However, he welcomed the lightning totems dropped by the enthusiastic shamans. They pulsed brilliantly in the darkness tearing at the armor and health of the monsters and softening them up for his strikes. His sense of smell, now powerfully enhanced by Survival Instinct, caught the strong pungent scent of ozone, reminding him of a sudden summer thunderstorm, clouds dark and air charged, waiting for the big strike of lightning.
+
+Beyond the protection of the wall, the deafening sound of thousands of bone spears smashing into stone hammered relentlessly at his ears, while his friends waited it out, trying to recover what little mana and stamina they could. He simply hunkered down, focusing on his foes, trying to endure it while he mitigated as much damage from their attacks as possible with his heavy armor and blocking skills.
+
+He dodged one of the tail strikes, but he was unable to avoid a nasty gash on his left flank as the second Piercer Scorpion’s tail lashed out simultaneously. Warm holy magic flowed through his body healing the deep cut even before the tail withdrew. The pain began to ebb as the wound knitted itself shut. He added a dose of self-healing by spending some mana retaliating with his Swipe and Brutal Restoration.
+
+The pain in his ears suddenly vanished as the deafening hail of spears ceased. Within moments, Calen was sprinting toward him with the next Piercer Scorpion in tow. He locked it up quickly, and with three scorpions furiously attacking him, he shifted his focus to avoiding only the most dangerous attacks; the tail strikes and the occasional magical Bone Spears they could cast. The spears were the easiest to avoid, given the clearly telegraphed summoning for the skill, but he still had to be careful as the other scorpions would try to lock him down with furious attacks or synchronize them with the deadly tail strikes. Sometimes, it was all he could do to avoid getting hit in the head, relying on the hard-working Acolyte to restore life and function to his grievously damaged muscles and organs.
+
+When Malika appeared luring in the fourth scorpion, it took him several moments before he could hit it, as he desperately avoided a series of tail strikes and spears that threatened to end his life. She simply waited patiently, adding her healing to that of the Acolyte while dodging and deftly avoiding stray strikes in the dangerous zone in front of the scorpions. As soon as his Swipe landed, and he secured the attention of the new addition to his party, he began to prepare to endure the imminent explosive flame bath.
+
+“He’s landing! The wyvern is landing!” Ali yelled; her voice filled with surprised urgency.
+
+What? It didn’t do that before.
+
+A spear stabbed deep into his shoulder through a gap in the armor, punishing his momentary lapse of concentration. He winced, more upset that he had been distracted than the actual pain from the injury which was already closing from the abundance of healing magic.
+
+Calen’s calm voice called out, “Ali, fireballs, Mato, get ready to tank the wyvern when it lands.”
+
+Change of plans, I guess.
+
+Surprise in the middle of battle was a problem, but Mato felt his heart jump in excitement at the prospect of having to face the giant Skeletal Wyvern.
+
+Immediately, he spent some extra mana maximizing his Brutal Restoration heal – it would continue to heal him for a while, helping him through the inferno, and even when he had to get the wyvern. With four scorpions in front of him, his Swipe damage would be multiplied by each hit and his Brutal Restoration would become that much bigger.
+
+The enormous shockwave of intense heat and flame slammed into his body, as the first fireball exploded almost in his face, bursting his eardrums, and igniting his fur. The intense inferno of fire magic burnt clean through his tough hide, searing his flesh, and filling his nostrils with the sulfurous odor and the scent of burnt meat. A light touch on his flank was all the warning he had before Malika’s powerful magic tore through his body, reversing the damage.
+
+His vision flared to white as the triple Lightning Bolt tearing through his enemies blinded him with their brilliance. Still unable to see, he dodged, entirely dependent on Survival Instinct to avoid the vicious tail strike that lashed out from the chaos of magical destruction. A second explosion rocked his brain and body, burning his just-restored flesh. For a second time, he felt the surge of Malika’s magic coursing through him, adding to the healing from his restoration, and the runic circle. Malika was working hard now that they had lost an Acolyte. Mato hadn’t seen it go down, but he had deduced what had happened when Malika had dumped those rogues off on him.
+
+The third explosion detonated even louder than the prior ones, and he felt the potent flames ripping and burning at him with a kind of ravenous hunger.
+
+That must have been Ali’s highest-level mage, he thought. Having experienced their magic numerous times, he was beginning to learn to identify Ali’s minions by how much damage he experienced, and the feel of their fireballs detonating in his face. The inferno filled his vision until the world went black, the fire destroying his eyesight. Blind and deaf, he was left with only the acrid sulfurous odor of fire magic, the scent of his own burning flesh and fur, and the urgent need to dodge from his Survival Instinct. He clung to Survival Instinct, trusted it implicitly to save him, and dodged sideways, feeling the crushing impact of a tail strike ricocheting off the dense steel protecting his shoulder. Sharp shards sprayed his legs as the dangerous weapon smashed into the ground.
+
+At least their aim is off too, he thought, happy that they were suffering from the flames too.
+
+A warm surge of holy magic filled his body, repairing his flesh as it rapidly knit his hide together, and regrew muscle and tissue. The fourth Fireball synchronized with the Lightning Bolts and by the time he felt Malika’s heal, his entire body and mind were dazed and battered. Dimly, he realized that the Piercer Scorpions were no longer hitting him.
+
+“Mato!” Calen yelled. “Wyvern! Over here!”
+
+Somehow, Calen must have realized he was blinded and was trying to lead him to the wyvern by the sound of his voice. Mato ran toward the sound of his friend, blinking rapidly to try and clear his vision as the pulsing magic from the Acolyte began to repair his seared eyes. In the darkness, he could barely make out the enormous mass of bone and teeth alighting on the landing before him.
+
+Trusting his instincts, and the healing magic of the Acolyte, he charged forward, slamming into the monster with a roar of challenge and a swipe of his magically enhanced paw. His strike hit something reassuringly solid, and his nature magic pulsed at once, beginning to heal him.
+
+Over here, stupid skeleton! If there was one drawback to his awesome shapeshift skill it would be the lack of ability to hurl insults at monsters like this one. Somehow, doing it in his head was just not quite as satisfying. In his rapidly clearing vision, he saw the giant head turn toward him and the glowing eyes transfixed him with their malevolence.
+
+The wyvern opened its mouth and a spray of five bone spears shot out in rapid succession. The first one splintered upon an instant golden barrier while the others punched through the sparkling golden debris and flying shards before striking him several times. He wrenched sideways to snap the impaling spears and attacked with his Brutal Restoration, relying on the dedicated Kobold to patch up the spear wounds to his legs and flanks. He was already missing his favorite runic circle.
+
+I need to make sure it doesn’t move first. As soon as he was certain he had the wyvern’s undivided attention, he backed up, swiveling the creature so it was side-on to the atrium and the rest of their group. He backed up to a bookcase, careful not to expose himself to the yawning abyss of the atrium in case the wyvern tried to knock him over the edge.
+
+“Attack!” Calen shouted, his clear voice ringing out above the crashing and roaring of combat.
+
+With the monster now securely positioned, his friends unleashed their best attacks. The flash of lightning and glow of flames were the most prominent. Malika positioned herself along the flank of the creature, punching up a storm, remaining reassuringly close while she danced in and out to heal him whenever one of the spears shattered Ali’s barrier magic and impaled him.
+
+The Skeletal Wyvern lunged forward jaws wide, rows of huge fangs almost a foot long reaching for him. He anticipated the attack and ducked under the cavernous mouth, striking upwards after it passed and throwing all his weight behind his Swipe. His paw connected solidly with the underside of the giant jaws, forcing them to snap shut with a huge crash, biting on air.
+
+Can it even feel pain? he wondered, watching it rear back, recoiling its head from the attack. It was basically a giant armored skeleton animated by pure magical energy. His musing was interrupted by a premonition of intense urgency, and he immediately recognized his perception skill anticipating a heavily damaging attack and attempted to sidestep. A stream of rapid-fire Bone Spears shot out from the wyvern’s mouth, the first two shattering on magically appearing golden barriers summoned in quick succession, while the remaining three punched through the shards and slammed into his flank.
+
+That would have been my head and neck, he thought soberly, thankful again for the skill that had repeatedly saved his life. Maybe I should ask Thuli for a helmet. His high endurance made the pain tolerable, allowing him to keep his focus while the healing magic coursed through his body repairing the extensive damage. Malika and that little Kobold are working hard, he thought, wishing again that he had the additional safety of the runic circle.
+
+Mato’s mind and awareness shifted into a zone of instinctive attack and response, block and avoidance, entirely focused on the enormous Skeletal Wyvern that dwarfed even his bulky frame. He read its attacks, studied its movement, always poised for an opening, or ready to defend against the unexpected. More and more, he felt himself trusting Malika and the Kobold Acolyte with his health, needing his full attention and concentration to simply avoid the most critical strikes. They had proven they could heal enormous damage, but if he allowed himself to be incapacitated, even briefly, he knew he would be instantly overwhelmed. Nobody could heal him if he took a spear through the skull.
+
+He mixed up his Swipes, focusing on getting through regularly enough to maintain his Brutal Restoration, concentrating only on keeping the Skeletal Wyvern’s attention fixed on him even under the onslaught of magic and arrows that rained down on it from the side.
+
+The two bony wings unfurled and flapped downward, kicking up a haze of dust and pebbles from the ground and buffeting him with a sudden gust of wind. Mato’s Survival Instinct went wild, screaming several simultaneous confusing signals. He moved instantly, based entirely on intuition. Two sets of wickedly taloned claws lashed out to strike at his face and shoulders, gleaming in the shifting background of offensive magical spells. The attack tore at his hide, scraping at his armor, each claw wickedly sharp and almost as long as his arm.
+
+But it was not over, for concealed by the talon attack, the Skeletal Wyvern’s long, whiplike tail cracked through the space between them, tearing up chunks of the stone floor with a grinding ripping sound as the sharpened bone sliced through his flank, smashing ribs and sending him rolling across the ground in a spray of blood. He crashed into the wall with a bone-shaking jolt as two more bone spears impaled him, one through the shoulder and one embedded in his hind leg.
+
+In that moment, he felt the chill of fear and the inevitability of his demise. His mind questioned his sanity for facing such a powerful foe. At that instant, Malika’s hand slapped his shoulder filling his body with the burning rush of her healing magic.
+
+“I got you.”
+
+It was all he needed to chase the specter of fear away and he scrambled to his feet, bracing himself against the unrelenting ferocity of the Skeletal Wyvern’s attacks. The wyvern drew back its head and hissed, spreading its wings. Its talons crushed stone as it launched itself into the air and, flapping its bony wings, it soared up above them returning to its place flying over the atrium.
+
+“Hide!”
+
+At Ali’s yell, they all turned and ran for the relative safety of the large bone-covered wall that served as their hiding spot, urged on by the thunderous roar of the wyvern’s magic spears shattering on the stone walls close behind.
+
+Mato returned to his spot feeling the reassurance of the soothing magic of the restoration circle once again.

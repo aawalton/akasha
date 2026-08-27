@@ -1,0 +1,193 @@
+---
+id: eb46dc06-932f-55ee-9216-ba80986aeb0e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 55: The Grand Library Arcana"
+slug: 0055-chapter-55-the-grand-library-arcana
+partOf: dungeon-of-knowledge-complete
+position: 55
+ownLength: 3663
+unit: words
+ownProgress: 3663
+publishedAt: 2024-04-07
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1584702/chapter-55-the-grand-library-arcana"
+royalRoadId: "1584702"
+markedReadAt: "2026-06-29T20:12:47.112Z"
+---
+
+It is common knowledge that wisdom increases one’s mana pool. For most sentient races, each point spent on wisdom grows maximum mana capacity by ten, increasing both the mana available for spells and the absolute amount of mana regenerated over time. However, to efficiently allocate one’s precious few attribute points among the many and diverse needs of every Class, one should be better educated as to the lesser-known benefits provided by the attribute. Wisdom is sometimes referred to as willpower – or spirit – and it provides powerful benefits to mental fortitude, resilience, and resistance against magic. It is often stated that wisdom is to intelligence what endurance is to strength or dexterity – the bulwark of the mind, protecting your will and mana. Wisdom is the primary tool – other than artifacts, potions, and enchanted items – to defend against mind-altering effects such as Fear, Charm, or Taunt.A primary attribute for Shamans and Druids, wisdom is often associated with instinctive or intuitive knowledge, such as how a Druid might understand the natural order. Wisdom is considered important for any Class that depends on having a large amount of mana, such as mages and healers.- Excerpt from The Adventurer’s Guide, Third Edition
+
+Mato shapeshifted back to his Beastkin form, puzzled by the odd look Malika was giving him. “What?”
+
+“You were growling and baring your teeth.”
+
+“I’m just happy,” he said. Just thinking about the adrenaline-fueled chaos inside the ruined stone house with the huge angry bug monster put a broad grin on his face. “This is what adventuring is all about!”
+
+“A grinning bear is a terrifying sight to behold,” Malika said, plopping herself down beside him. “It is going well, right?”
+
+“Yup.” Mato reflected on the battle they had just won. They all sat on the ruined stone streets recovering their mana and stamina by the light of Calen’s floating orb. Beside him, the house they had used to contain the Spitter Drones for the last three consecutive fights was gone, reduced to rubble and pulverized stone. Calen had been luring the gigantic monsters one after another, but every few fights they needed to find a new building because even the vaunted stonecrafting of the ancient Dwarves could not stand long against the repeated detonations of the bone elementals’ corpse explosions on death.
+
+“It’s still moderately scary,” Ali groused, emerging from the wreckage after deconstructing everything useful.
+
+“We’re definitely getting better, though,” Malika said.
+
+“Yes, did you see how quickly we killed that last one?” Mato said.
+
+“It is faster,” Malika said, her brow furrowing for a moment. “But it’s still utter chaos in there.”
+
+“Thanks for having my back,” Mato said. He was extremely grateful for Malika’s impressive speed, sharp eye, and instantaneous healing. The Spitter Drones didn’t hit him particularly hard through his dense hide, but the vile spit they sprayed everywhere was devastating. The feeling of having his muscles and flesh turned to bone, crack, and slough off, would probably haunt his dreams for quite a while. Restoring big chunks of his body quickly was not something his skills were particularly suited to – his aura helped regeneration, preventing him from dying to injury, but it took minutes to heal even small injuries. It didn’t cost any mana, so in a long close-quarters fight, like the house, when he was surrounded by allies that were all taking damage, his aura was exceptional. Brutal Restoration required him to be capable of hitting hard, and even then, his healing magic was delivered over thirty seconds – which in a fast-paced chaotic battle was an eternity. It was Malika’s instant healing that had put him back in the fight every time he took the bone spit to the face or had a leg snap off to the horrifying magic.
+
+“No problem,” Malika said with a half-smile.
+
+“You all are nearly recovered, right?” Calen asked, getting to his feet. “Can I go get the next group?”
+
+“Yup,” Mato answered for the others. Given that he and Calen were the two that didn’t have mana recovery skills, he was always the last to be ready.
+
+“What’s up next?” Ali asked.
+
+“Kobolds,” Calen said before he darted off into the darkness.
+
+Beside Mato, Ali snarled and grunted a few times, and her two Goblins stood, setting themselves up in the center of the street, preparing for whatever Calen might bring. Shamans. Their lightning magic and totems were terrifying in the enclosed space shared with a huge hostile, angry monster. However, Mato had quickly come to acknowledge they got results. Their lightning ripped through the bone armor like it wasn’t even there, creating cracks and weaknesses that allowed his Swipe to even do any damage at all. What did it matter if he occasionally got clipped by a stray lightning bolt when it meant he could actually fight?
+
+Mato had never fancied himself as some grand strategist. It wasn’t that he was incapable – he understood the concepts – it was simply that Calen was so much better at it. He was well aware his friend would never step forward and share his ideas on his own, so Mato had simply cooked while the others hashed out the details. He had to admit the plan they had come up with for these Spitter Drones was simple and extremely effective. Exciting fights, every time! He enjoyed the tactics of placement and controlling the enemy, redirecting damage to save his allies, and the frenetic pace of trading blows. But he also liked winning, and their plan was a large part of how relatively easy the fights had become. He certainly wasn’t one to begrudge credit where it was due.
+
+“Incoming,” Ali said, a few moments before the dark street up ahead lit up as an orb of floating magic appeared, hovering in the air, and silhouetting the sprinting form below. Calen entered from the plaza and sped down the street toward them. A few moments later a group of smaller reptilian creatures barreled around the corner, yipping and screeching, murder written plainly in their gleaming eyes and raised weapons. The distinctive calls of the hunting Kobolds echoed across the stark stony street, reaching his ears as he rose to his feet and set himself on all four legs. He grinned again, happy to see how naturally his shy friend had taken point for their little team, and how well he executed the roles of scout and monster hunter. Honestly, he was also just happy for another fight.
+
+“Two warriors, three archers, levels eighteen to twenty,” Calen said, sprinting past Mato as he announced the enemies like a waiter announcing the catch of the day.
+
+Warrior – Kobold – level 19-20 x2Archer – Kobold – level 18-20 x3
+
+Mato easily picked out the archers by the short bone bows they carried, and shifted his attention, ignoring them. His role would be to take care of the warriors. As the monsters charged toward him, his mind shifted into battle mode, quickly evaluating gear, movement, and threats. The two warriors were up front, sprinting fast with their talons making harsh scratching sounds as they scraped the hard stone underfoot. The first one, a scarred veteran with only one eye, wielded a gleaming shortsword and a dark mid-sized shield that was held competently to guard his face and upper torso. The second warrior held twin blades at the ready, one in each taloned hand.
+
+That dual wielder looks dangerous.
+
+As soon as the Kobolds came into range, the defensive warrior’s shield flickered with a red glow as he powered a skill, and his form blurred into a charge. Mato responded with his own Charge, meeting the warrior with a head-on collision of ringing steel and the thump of his Swipe attack. Much to his surprise, it was his heavy body that was thrown back several feet on impact with the much smaller Kobold’s shield.
+
+The Kobold warrior drew a breath and shouted. The skill-powered sound hit Mato in the face with the force of a punch, and he felt a strange tugging sensation in the back of his mind.
+
+You have been afflicted with Demoralizing Shout.-19 Strength.Physical – Duration: 30 seconds.
+
+Shit. All his offensive abilities scaled with strength, and even his healing was dependent on doing more damage. This is really going to cramp my style.
+
+He roared his challenge and reengaged with a powerful sideways Swipe that knocked the Kobold’s shield out of the way for a quick follow-up attack. The second warrior danced around her companion, twin swords blurring as they sliced into his flank, sending trickles of warm blood dripping down through his fur. In the back of his mind, he wondered how he was able to tell the Kobolds’ genders apart. Not that it mattered, it was their swords he needed to worry about.
+
+You have been afflicted with Bleeding.+3 Physical damage per second.Physical – Duration: 30 seconds. Count: 1.
+
+Seriously? That’s just insulting. He attacked again with Swipe, powered with his Brutal Restoration, finally landing a hit on both of his adversaries, establishing his first thirty-second restoration heal. The wounds inflicted on his flank still bled profusely, but his magic began to reverse the continual damage. The cracks his claws had inflicted on the Kobolds’ armor rapidly faded away as the bone ridges protruding through their scaled hides grew back.
+
+He risked a glance across the battlefield, but it seemed the others had the archers pinned down, and Calen’s magic hovering above the dark street would cut down on any stealth shenanigans. It seemed he would be able to focus entirely on the warriors.
+
+The bright sparking light of Ali’s shaman enchanting her shield and mace beside Mato drew his attention back to his immediate surroundings. She gestured obscurely with the green arm that had her shield strapped to it, and the simultaneous thunderclap and flash as she discharged a Lightning Bolt burned his retinas and assaulted his ears. Bone splinters burst off both warriors, and Mato reacted, taking advantage of the damage to land another empowered Swipe attack before the armor had a chance to regenerate.
+
+The scarred Kobold warrior’s shield flashed again and slammed into the side of his head with brutal force. Again, he was the one forced to give up ground from the monstrous impact of the shield slam which left him momentarily seeing stars. The dual wielder made her dark swords glow with the power of a martial skill, and the speed of her twin-bladed strikes began to accelerate, growing faster and faster every time she struck.
+
+The dancing blades shimmered and flickered erratically, like each strike against him was echoed by an afterimage that struck at the shaman. The blood running down the shaman’s shoulder, mirroring the fresh wounds on his own flank, and the flickering retaliatory sparks from her shield told him they were not mere afterimages. Off in the distance he could hear Malika shouting, interrupted by a deafening explosion and a wave of heat.
+
+Area attack? The dual blades were clearly striking both of them simultaneously with every hasted slash.
+
+He pulled the damage of the next strike to himself using Arboreal Sanctuary. While the shaman was very robust, it would be better to take most of the damage himself and heal it with his Brutal Restoration, leaving the remainder to his regeneration aura.
+
+The whistling dark blade left a line of pain down his left forepaw, triggering the sound of a notification chime.
+
+Your Bleeding has increased to 2.
+
+Another bleed? The damage was beginning to stack up, and if he wanted to end this fight quickly, he would need to take care of the dangerous dual wielder, fast. He swapped from the defensive shield warrior to his quicker and nimbler companion and attacked with Swipe.
+
+In that instant, the shield warrior shouted again, refreshing the Demoralizing Shout duration, complete with the strange tug on his mind. His Swipe bounced off the shield with a sharp but ineffectual screech of claws against metal and he found himself disoriented and facing the shield warrior again.
+
+What? There was a powerful desire to crush the grinning Kobold hiding behind his annoying shield boiling within him. He struck again before he realized the dual wielder had free rein to flank him.
+
+Your Bleeding has increased to 3.
+
+With the sheer force of will, he shifted to face the dangerous flickering attacks, pulling even more damage away from the shaman, shaking his head to clear his confusion.
+
+A movement in the shadows caught his attention, but it was Ali’s rogue appearing to sink a dark blade into the back of the dual-wielding warrior. The dancing swords flickered faster, creating more echoes, and Mato suddenly found himself having to redirect damage from both the rogue and the shaman.
+
+The bleeds were quickly stacking up and, combined with the extra damage he took upon himself to keep Ali’s minions alive, his Brutal Restoration was falling behind.
+
+We need to kill this warrior now! He ground his fangs and shifted his position, drawing the Kobold warriors a little to one side. It would have been far more efficient if he could just tell Ali’s minions what he wanted with his beast language like he could her wolves. A soft chime sounded in his mind, and he glanced inward briefly, just long enough to verify a Kobold Archer had died and it wasn’t another bleed. At least the others are making quick progress.
+
+He landed a Swipe attack, adding a fresh set of Restoration healing, when the shield warrior shouted again. Mato struggled against the disorienting attack, finding himself yet again turning to face the defensive warrior with a powerful urge to crush his grinning, one-eyed face. Behind the warrior, Ali’s rogue had switched targets too, leaving just the shaman attacking the dangerous dual wielder.
+
+What the hell? The dual wielder clearly had a haste skill, a bleed, and an area damage skill that duplicated her attacks hitting all her foes simultaneously. Why on earth was he still trying to slam his way through this immobile shield?
+
+He forced himself to switch back as the shaman unleashed another Lightning Bolt through the female warrior’s torso, stunning her momentarily. Mato swiped across her exposed belly with his claws, taking advantage of the opening to hit the dangerous monster and stack just a little more restoration. He was already bleeding from three different wounds and taking nine damage per second. Not much more of this and he would be in real trouble.
+
+Another loud bang was followed by a pair of chimes, and then an incandescent arrow zipped past his left ear and buried itself in the left shoulder of the female warrior, making her hiss angrily, followed closely by a volley of Firebolts and Ali’s golden magic. He attacked with his Swipe one more time, and the combined assault finally staggered the warrior. She teetered back and forth momentarily before falling sideways, swords clattering to the ground. Now that he wasn’t taking the bulk of the damage for three people, his Brutal Restoration began to gain ground against the stacked bleeds.
+
+And now you, he thought, unleashing a powerful attack at the annoying Kobold hiding behind his annoying shield with his annoying grin. Time to die!
+
+By the time they killed the Kobold warrior, Mato’s bleeds had already stopped, and his magic had mostly restored his health to normal. What remained would regenerate easily over time.
+
+Your group has defeated Shield Warrior – Kobold – level 20Your group has defeated Bloodletter – Kobold – level 19Your group has defeated Archer – Kobold – level 18-20 x3
+
+He shifted back to his Beastkin Form and poked the annoying Kobold with his foot.
+
+“Ugh, this guy was so annoying,” he complained, sitting down to watch Ali deconstruct the corpse.
+
+“Why?” Ali asked.
+
+“Every time he shouted, I would get disoriented and then find myself attacking him instead of the other one.”
+
+“Must have been a Taunt skill, right?” Malika suggested, coming over to look at the Kobold.
+
+“I think so,” Mato answered. Now that he had a second to actually think through what had happened – well, he had not imagined a Taunt skill would be so … confusing. Every time that grinning one-eyed warrior had shouted at him, his body had seemed to just do stuff on its own without telling him and he would only realize it later. So annoying!
+
+“What’s a Taunt skill?” Ali asked, looking first at the dead Kobold and then at him.
+
+“It’s like when you’re on the playground and you insult the bully to provoke him into fighting you,” Mato answered.
+
+“Why would you want to do that?”
+
+“Well, you can make him start the fight, and then he gets into trouble.”
+
+“No, I meant why would a monster want that?”
+
+“Oh, well this Kobold had a shield and solid defensive skills. Whenever it made me attack him, the other one had free rein to slash me and cause bleeds on all your minions.”
+
+“Is that why my rogue kept attacking it instead of the other one?” she asked.
+
+“Probably.” The rogue had switched to the shield warrior every single time it shouted. But what he hadn’t seen was the shaman changing targets. He glanced at Ali’s Goblin speculatively.
+
+“What I want to know is why it didn’t affect the shaman when it affected me and the rogue,” Mato growled, more than a little annoyed at being pushed around by the Kobold’s skill.
+
+“Most likely the shaman has high wisdom,” Malika answered, sitting down beside them.
+
+“Wisdom? How does that help?”
+
+“I was always taught that wisdom is like endurance for the mind. It makes your mind more resilient to attacks. Taunts are mind-altering attacks, a suggestion, but powered by magic, so the shaman probably just resisted it.”
+
+“Ugh, so I need to invest in wisdom now?”
+
+“I think lots of warriors and rogues simply give up on avoiding Taunt attacks, wisdom doesn’t buy them much,” Malika answered.
+
+“But Mato is a Druid. He has spells, so it might be worth a little wisdom,” Calen added. “If everyone has enough mana, I can go get the next group.”
+
+As Calen set out, disappearing into the darkness of the ruins, Mato considered their words. Having his mind messed with really didn’t sit well with him, and if it were just a matter of spending a few more attribute points on wisdom, he might consider it. He glanced through his skill list, checking the trait tags.
+
+Arboreal Sanctuary, Natural Prowess, and Brutal Restoration, he thought, tallying the skills tagged with wisdom. Perhaps it’s not such a bad idea to invest in more wisdom now and then? Otherwise, I’ll just be a liability at some point.
+
+Ali stood at the feet of the kings’ statues, gazing out across the plaza. As far as her eyes could pierce through the gloom, the broad plaza was littered with piles of bone, trash, rubble, abandoned Kobold campfires, and huge encrustations of bone that were the work of Spitter Drones. Beyond the plaza loomed the dark towering edifice that had once been the Grand Library Arcana.
+
+Ali shivered.
+
+When she had last beheld the library, a horde of monsters had been encamped on the plaza, and she had despaired of ever crossing it. Now, however, it was as deserted as the day the Blind Lich attacked.
+
+“Who are these guys?” Mato asked, breaking off a piece of the bone encrustations that hung from the statues of the kings reaching as high as their waists.
+
+“The three kings of Dal’mohra,” Ali said, glancing up at them. And then, deciding that they deserved better, she continued. “The Dwarf with the Hammer of Justice is Bragni Doomhammer. The big guy with the sword is Artur Dragonsworn – legends say he wielded Dragon Fire. The Elf in the robes is Thaldorien Stormshaper, one of the wisest sages in the land, and the creator of the Grand Library Arcana.”
+
+“You knew them?” Malika asked, gazing up at the enormous stone renditions.
+
+“No, I was hardly important enough to hang out with kings and sages,” she said. She cocked her head and looked at Malika for a moment, and then back at the statues. “I did see Thaldorien once when he visited my mom. He was nice to me. I also remember the one day he just teleported into the center of the library while I was studying, and handed the Head Librarian an incandescent magical tome and vanished, leaving the entire library gasping. He was so cool!”
+
+“That’s an awesome story,” Calen said.
+
+The smile from that memory fell from her face as she remembered she had met them all one more time. “When I last saw them, they had been turned, raised as Death Knights by the evil necromancy of the Blind Lich.”
+
+Mato hissed at the mention of the undead.
+
+Ali shook her head to dispel the disturbing memories, focusing instead on the dark outline of the arched doorway into the library on the other side of the ruined plaza. At her back was the now cleared residential ring of houses where they had been systematically wiping out the horde of Kobolds, Skeletons, and Bone Spitters for the better part of the day now. She was weary but determined to see what had become of her beloved library. Still, just sauntering in there did not strike her as the wisest idea.
+
+Hundreds of tiny Bone Skitterers scrambled away as her feet crunched on the bone-encrusted plaza. The giant stone tower loomed larger as they approached, looking foreboding in the darkness. When she had last been inside, the entire building had been lit by runic magic. Now, it was dull and dark, with bone running up the walls, and what was left of the enormous stone doors hung shattered from ancient worn hinges.
+
+When she had last been inside, she had witnessed Maeria Runeweaver’s murder by a skeleton’s rusty blade.

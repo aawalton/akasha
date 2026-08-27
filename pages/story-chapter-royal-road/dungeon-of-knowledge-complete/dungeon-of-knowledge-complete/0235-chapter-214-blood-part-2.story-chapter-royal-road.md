@@ -1,0 +1,97 @@
+---
+id: b616957a-3c58-5f65-a6e8-4ae135e9c278
+page-type-slug: story-chapter-royal-road
+title: "Chapter 214: Blood (Part 2)"
+slug: 0235-chapter-214-blood-part-2
+partOf: dungeon-of-knowledge-complete
+position: 235
+ownLength: 1860
+unit: words
+ownProgress: 1860
+publishedAt: 2025-03-23
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2145541/chapter-214-blood-part-2"
+royalRoadId: "2145541"
+markedReadAt: "2026-06-29T20:19:07.959Z"
+---
+
+Malika instinctively dodged the hellfire breath from a warg, stepping in with a quick combination of punches before darting back out of range. The shaman reached out with his hand, and ribbons of blood erupted from his forearm and the blade of his axe, lashing out across the distance to strike her chest. She staggered back, choking from the impact of the potent blood spell, but it hadn’t stopped at her, punching clean through her body and jumping between her and a warg, piercing through the demonic wolf’s body on its way through to the nearest Hobgoblin. The fuck is that?
+
+“He’s healing!” Ali’s voice came clearly to her ears, carried over the din of the battlefield right as Malika’s notification informed her that she was still cursed, and the duration had just been reset to thirty seconds again, and she was now bleeding even more profusely.
+
+This thing needs to die. Now. The nearby bone-clad warrior switched from throwing the short gray bone axes and lashed out with a set of freshly grown bone tonfa blades. Malika channeled stamina into her Divine Step, accelerating her speed to her maximum as she unleashed the powerful driving combination of kicks and punches from the eighth form. She gave up entirely on stealing mana, instead empowering every strike to sap the shaman’s health, but he was annoyingly effective with his blood-soaked shield, and every time she hit it, or the shaman’s axe hit her, the Vampiric Hex curse was refreshed.
+
+Suddenly the shaman yelled something, and Malika’s high kick passed through a cascade of blood as his body collapsed into a crimson puddle, entirely gone. Malika stared in surprise, but the troll warrior next to her failed to capitalize on her distraction, charging off to the center of the battlefield. Malika whipped around, frantically searching for her foe, only to find the shaman’s body reforming out of blood beside his totems.
+
+Shit! Malika tore across the battlefield, chasing down the shaman as it and three of the warriors charged at Ali’s Acolytes.
+
+But before she could reach them, the shaman arched his back, unleashing a ragged, bloodcurdling shout toward the sky. Blood erupted from his chest in a massive fountain, splitting into ribbons that soared out across the battlefield to anoint the brow of each troll. The blood coalesced into dripping crimson runes that floated like a grim crown encircling each troll’s head.
+
+“Watch out!” Ali screamed, but nobody could have missed whatever this spell was.
+
+As one, the trolls roared in a feral rage, snarling and beating their weapons together. Blood-red eyes fixed upon her, while streams of blood trickled down their faces, dripping off their tusks.
+
+Moving with unprecedented speed, the Trolls unleashed a shocking onslaught. Ribbons of blood skewered three Acolytes in a line while the bone warriors stabbed and slashed with blurred blades of gleaming gray bone, contributing Kobold blood to the gruesome crimson mist hanging in the air. In a flash, three of the four Acolytes crumpled to the ground, leaving the last one standing alone and trembling inside a cracked and battered bubble of golden magic.
+
+The shaman yelled again, his voice harsh and hoarse, and they all shot off towards the Forest Guardian, leaving Malika scrambling to catch up again.
+
+“They’re hasted,” Malika yelled. And they’re using our strategy. There was nothing to be done, so she charged after the shaman again.
+
+“Use the roots to entangle them,” Calen yelled, blanketing the area with a powerful multishot volley of arrows that each trailed glowing chains.
+
+“On it,” Ali said, and brambles and vines burst anew from the ground around both Mato and the Forest Guardian.
+
+But to Malika’s surprise, none of the trolls slowed in the slightest, sprinting through the rampant growth of roots and vines as if it wasn’t even there, crashing into the enormous elemental with powerful strikes and slashes. The guardian retaliated, but the warriors seemed relentless, tearing bark and wood from Ali’s favorite monster with animalistic ferocity. Blood streamers lashed out from the shaman again, bursting through the trolls this time. But instead of hurting them, it seemed to rejuvenate them, spurring them on to greater feats of athletic violence.
+
+“Fuck, they have a Free Action totem,” Calen said, snapping off an arrow that uprooted a blood-drenched totem.
+
+Free action. The totem had to be how the trolls had ignored the roots and vines that were normally so effective at locking down melee attackers. She could only guess at the function of the other two totems, but just by the resilience of the trolls, she would wager one of them was healing them. The bloody one.
+
+As expected, the moment Calen destroyed the totem, the shaman dropped another, their forces barely experiencing a hitch in their momentum.
+
+The Forest Guardian was powerful enough to slow the trolls sufficiently for Malika to catch up, and she announced her arrival by kicking the shaman in the back of the head, staggering it. She kicked again, but apart from blocking with its shield, the shaman ignored her, attacking the Forest Guardian with unrelenting strikes. To her immense surprise, the Guardian dropped in a ground-shaking crash, sliced up and dead. It mattered not to the trolls that the monster had had healing magic and a regeneration aura, they had simply burned through it all in a matter of moments.
+
+She unleashed a kick to the shaman’s face, powered with Soul Strike, and finally got its bloody-eyed attention.
+
+“Calen, Fury! Ali, we need to kill this shaman now! Bring the spiders!” Malika didn’t have to wait. Calen’s magic rolled across the battlefield in waves of intense pulsing light, and she could immediately feel the additional damage enhancing every single one of her punches. Brilliant coronas of mana that flickered across her knuckles as she punched. Ali’s minions charged, and Calen’s bow howled, sending volleys of hellfire-enhanced arrows to pierce leathery troll skin as they single-mindedly tore through Ali’s minions one at a time. The battlefield erupted into chaos as magic detonated all around her, and she dodged frantically. Ali was pulling no punches, dropping hellfire fireballs right on top of her and the shaman, clearly relying on her resistance, dodging, and healing to keep her safe.
+
+Bloody streamers of the shaman’s magic pulsed and lanced through the battlefield, arcing across the gaps, jumping between friend and foe alike as the shaman went all out, like a conductor wielding crimson ribbons of lightning. Malika pulsed her healing continually, taking at least as much damage from Ali’s fire minions as from the shaman’s bloody axe and spells, but she didn’t relent, pushing her martial arts and magic to their limits, unleashing combo after combo, the white-and-blue of her soul magic creating eerie flickers inside the infernal black of hellfire and the roaring furnace-red of dragon’s fire.
+
+“Malika, dodge!”
+
+Huh?
+
+Ali’s voice came to her from above. Malika risked a glance upward, a little puzzled to see Ali flying above the battlefield. There was a brief shimmer, a ripple of mana, and the gigantic form of an Armored Drake appeared, suspended impossibly above the battlefield. She had barely enough time to register her shock and trigger Divine Step to dive sideways before the enormous monster smashed into the ground, crushing three of the troll warriors and the almost dead Hellfire Warg they were attacking. But the shaman’s blood ribbons shot forward, piercing through the wreckage, and incredibly, the three trolls crawled their way out from under the enormous bulk of the drake, their shattered bone armor rapidly regrowing, their blades reforming, and broken limbs straightening with violent crunching snaps. The blood streamers pulsed relentlessly, arcing through all of them in rapid succession again and again.
+
+Malika ignored the highly improbable survival miracle she had just witnessed – there was nothing she could do about it – and attacked the shaman with renewed fury. While it was casting its streamers of blood it couldn’t block her attacks nearly as well, and she sure as heck could take advantage of that. She landed a kick that knocked the taller shaman sprawling to the ground, and the two Abyssal Stalkers materialized from some invisible shadows to strike it while it was open. The once airborne Armored Drake stepped on it with a powerful stomp, stabbing its talons right through the shaman’s chest.
+
+Finally. Malika registered a profound relief at the soft chime sounding in the back of her mind.
+
+Your group has defeated Blood Shaman – Troll – level 74
+
+She glanced around taking quick stock of the wreckage of the battlefield. They had killed the shaman, but their forces were decimated. Troll warriors with bleeding eyes and runes floating around their heads were charging at Mato and the other Trolls he was already tanking. In the wake of their passage, three Acolytes, the Forest Guardian, all the Hobgoblins, and both Hellfire Wargs lay dead.
+
+At least the totems are gone too, she thought.
+
+“Target?” Calen shouted.
+
+“On it,” Malika yelled back. As she charged to help Mato, she saw the telltale powerful surge of stamina flowing through his body that signaled his most powerful defense skill had been triggered. Last Stand. She was well aware that, other than a single Acolyte, she was now the last healer on the battlefield. Three Acolytes and a Guardian, and still the trolls had just steamrolled everything. Mato had his own restoration magic, but against six angry hasted trolls, that wouldn’t be nearly enough.
+
+“This one,” she shouted, flipped high over the head of one of the bone warriors, connecting with an airborne punch, and landed beside Mato. Blocking an uncannily fast blade strike, she placed a hand on Mato’s shoulder and poured a good chunk of her stamina into healing his battered body. She switched back to her chosen troll and kicked it hard in the chest, making it step backward into the cleaving claw strike of one of Ali’s Armored Drakes. The troll immediately downed a potion and began regrowing the bone armor that the drake had just shredded.
+
+These trolls are insane! But just as she had the thought, the floating blood runes faded, raining to the ground as drops of blood, and the trolls’ eyes returned to normal. She healed Mato again, just to make sure he was going to survive the expiration of his Last Stand, and then she set to the task of fighting the, now merely tough and dangerous, troll warriors one by one.
+
+“I’ll get the wargs back up,” Ali announced.
+
+Behind Malika, two Hellfire Wargs resurrected in a shattering explosion of a hellfire fireball, but even with them, the two Armored Drakes, the Abyssal Stalkers, and her and Calen, the fight still took forever. The troll warriors proved again just how incredibly durable they were, but without the power of the shaman’s blood magic, it turned into a long, drawn-out battle of attrition, with the trolls eventually falling to their perseverance and determination.
+
+Your group has defeated Bone Warrior – Troll – level 63-67 x6
+
+“Well… that was insane,” Mato said, as he shifted back to Beastkin once the final troll collapsed.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,179 @@
+---
+id: b5bc6513-289d-57d6-8fa2-abedc4585883
+page-type-slug: story-chapter-royal-road
+title: "Chapter 80: Stun Bat"
+slug: 0080-chapter-80-stun-bat
+partOf: dungeon-of-knowledge-complete
+position: 80
+ownLength: 3303
+unit: words
+ownProgress: 3303
+publishedAt: 2024-06-02
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1660832/chapter-80-stun-bat"
+royalRoadId: "1660832"
+markedReadAt: "2026-06-29T20:13:36.564Z"
+---
+
+The Dungeon Survival Guide, Rule 4: Preparation.Bring the right gear, potions, and equipment – all the gold in the bank is not going to help you if you find yourself with too little armor to tank a hit, or in desperate need of a health potion because your healer got disrupted. Study what is known about the dungeon before entering and have a good plan for each boss. Make sure everybody knows the plan.- The Unexplored Lands, by Lyeneru Silverleaf, Elven Pathfinders Guild.
+
+Mato shifted impatiently from paw to paw, peering intently into the darkness. He was getting better at seeing down here, Survival Instinct progressively enhancing his natural senses as it leveled up.
+
+He felt it through the ground first – the telltale rhythmic vibration of a heavy elemental of bone running fast. In the distance up ahead, the light flickered and suddenly, he could hear the thudding crunch of bone as Calen emerged from behind a ruined building at a dead sprint, his light magic hovering above him and his catch.
+
+Mato growled, inching forward, but mindful of the range limits of the healers’ magic. The Piercer Scorpion was gaining on Calen, inch by inch, but his friend had calculated his pull correctly. As soon as he got into range, Mato charged.
+
+He thrilled with the rush as his movement skill accelerated his massive body across the ripped and torn flagstones, until he crashed into the powerful elemental, unleashing his Challenging Roar. He looked up at the scorpion’s spears – its main attack weapon – judging the timing carefully. As soon as Survival Instinct prickled in the back of his mind, he blocked, left and right, damping the damage and diverting the spear strikes with his armored shoulders to crash through the stone underfoot. Even though he had successfully blocked both attacks, the Piercer Scorpion’s strikes were so deadly that a substantial amount of damage bypassed his guard. And as he felt the strikes, he also felt something else.
+
+Battle Trance.
+
+Despite the blurring speed of the Piercer Scorpion’s coiled strike, his mind stilled, suddenly calm and somehow serene in the face of the deadly attack. And with it, the sensation of his regeneration stepped up in two distinct jumps. It was the first time he had experienced it, and it was unlike anything he had imagined from the terse text description. While it conveyed no material advantage in combat, other than the stamina regeneration boost, he felt as if his mind had expanded somehow, creating an enormous amount of space within which he could choose how to fight – free of extraneous distractions. He blocked effortlessly.
+
+Let’s see what this skill can do. It was not just Battle Trance he was trying out for the first time. He had earned the Living Rend advancement for Bestial Combat too, and now that he had experienced the Battle Trance, he was eager to see what he could do with Bestial Combat.
+
+He attacked with his empowered Swipe, simultaneously feeding mana to Brutal Restoration and health to his Bestial Combat’s new advance. The health was ripped away from within him in a piercing pang, powering his magic. Holy crap! Instead of his claws bouncing ineffectively off the dense bone armor exoskeleton, he crushed and pulverized the plates with each double-enhanced melee strike. His restoration magic settled within him, infusing his muscles and bones with the energy of his nature magic. It pulsed, a shocking rush of power that coursed through his body – a visceral response to the new strength of his attack.
+
+At the first taste of the Acolyte’s healing magic, Mato struck again, and once again he maximized his Swipe with both his powerful enhancements. His life ripped away, powering an even greater attack crushing bone plates and sending a satisfying shower of splinters and fragments spraying into the air in front of his face.
+
+It’s stronger the second time. Nice! Just as Calen had predicted, his Living Rend would progressively weaken the armor of whatever he attacked, making subsequent attacks more and more powerful. Keeping a close eye on his health and the state of the healing magic supporting him, he struck again.
+
+In a blink, an incandescent arrow buried itself inside a sundered gash in the armor, leaving only the fletching showing, and Malika appeared out of nowhere, striking with her flurry of punches, sending more and more shards of bone flying. He roared another challenge to ensure the monster would not get distracted, but he could see the huge, happy grin on Malika’s face as her strikes landed effectively, rather than being denied by the previously impervious bone armor.
+
+This is more like it! He bared his fangs in a broad bear smile, becoming more and more aggressive with his new powerful skill advance, spending his health more and more freely as he learned to balance his restoration and trust the healing from the Acolytes.
+
+“That’s the last one,” Calen announced as the latest in the seemingly endless stream of dungeon bone elementals collapsed to the ground. They had been at it for a couple of hours non-stop, and Calen had to admit Mato’s new skill was incredible. He had been pulling the monsters from the ruined city’s inner ring one at a time – nothing like the first day’s chaotic running battle – but they were still putting them down much faster. As soon as Mato engaged, the bone armor began to shred, and his arrows could find gaps through the previously impervious bone plates. Sure, he had to aim better, but the combination of his dexterity and Eyes of the Archon made that a cinch. Mostly. One rebounding arrow had taken a chunk out of Malika’s left ear on the way past and he had received a deserved earful. That wasn’t even my fault!
+
+“What’s next?” Mato asked, having shifted out of his Bear Form.
+
+“I couldn’t get close enough to be certain, but there are quite a few flying things around the bridge leading to the second ring. It looks like a vulnerable crossing, and I don’t want to fight anything on the bridge, so I’ll try bringing everything here.”
+
+He shivered, remembering the stark terror of falling off the suspended ruins and into the darkness, and he had absolutely zero intention of risking that a second time.
+
+“Wyverns?” Ali asked.
+
+“Yes, as far as I could see. It looks like some of them and some giant bats fighting with the dungeon monsters. I’m guessing they’re flying up from whatever is down below.”
+
+“I’ll make my cure circle, then,” Ali said. They had set up an elaborate plan for how they intended to deal with the flying monsters, and most importantly, the poison. Ali was already hard at work inscribing the Runic Circle she had learned, and she would mark it clearly so that everyone could see it. Everyone had a couple of antidote potions for emergencies, and Ali had even spent several hours with him training her minions’ archery skills.
+
+Once the runic circle was complete, Calen gave Ali a few pointers on how to best take advantage of the ruined buildings when placing her archers before he headed out into the darkness once more.
+
+***
+
+Time to hunt. Calen sprinted out in total silence, wrapping the shadows and darkness around his body with his Eclipse skill. The central plaza around the library and most of the ruined buildings on the inner ring that had been crawling with bone elementals – drones and scorpions – were all now eerily quiet as he sprinted through.
+
+This whole level of the Dal’mohran ruins was honestly a miracle of magic and engineering. They had emerged from the enormous cylindrical pillar of the library onto a broad stone plaza – a disk of foundation stone half the size of Myrin’s Keep that encircled the library and upon which were endless ruined buildings in various stages of collapse.
+
+Past the edge of the plaza was the abyss into which he had fallen. But beyond that again, suspended in the darkness, was an enormous stone ring that bore the ruins of another city’s-worth of buildings. It hovered there, defying gravity, hanging from giant stone pillars that seemed woefully inadequate to the task, connected to the plaza by arched bridges. And yet, it still stood after three thousand years of neglect and ruin. Incredible. Such was the power of the ancients.
+
+Past the middle ring hovered yet another lower ring, half shattered, and bearing some truly enormous stone constructs, the likes of which he couldn’t even begin to fathom. He couldn’t wait to get close enough to explore them.
+
+As he drew closer to the narrow stone bridge that spanned the gulf between the inner plaza and the middle ring suspended in the darkness below, he pulled up and stopped, scanning the skies and the open spaces. He could make out wheeling forms flying through the darkness, some looking like the giant bats he had seen before, and others sporting the emerald-green scales of the poison wyverns. They engaged in combat with other flying forms or divebombed the ruined buildings crawling with monsters below them.
+
+Undead! The thought sent a chill through him as his eyes began picking out the details. Many of the flying shapes wheeling overhead in an aerial battle with the bats and wyverns appeared to be skeletons. These were not quite the size of the raid boss they had awoken in the library, but they were clearly the same kind of monster. Milling about on the ground in the central ring below – like ants on a disturbed nest – he could make out shambling corpses and skeletons shooting arrows or magic at the wheeling creatures above. The corpses of wyverns and bats on the ground bore silent testament to the success of the dungeon’s undead horde. The streaks of blood dragged across the bone-encrusted pavement presented a chilling indicator, pointing to a potential source for all the undead.
+
+He squinted, urgently consulting his Explorer skill, but his advanced identification insisted that these were ‘only’ dungeon spawned monsters, and they weren’t about to walk into the secret lair of a Necromancer or worse. Maybe. Never trust a dungeon. Then, he glanced guiltily at Ali. Sorry.
+
+Carefully, he studied the chaotic formation of the ongoing battle. As soon as he fired on something, his presence would be revealed, and he did not want to attract more than the very minimum number of monsters.
+
+There! His eyes picked out a group of three shapes flying far overhead. Two sleek, graceful wyverns flew lazy circles, followed by the agile jagged flitting trajectory of a bat. Each circle moved them closer and closer to his position, and soon enough…
+
+He nocked an arrow, sighting down the shaft with his enhanced eyesight. It would be close, but with his enhanced range, he should be able to make the shot. Just one more circle. As the monsters drew closer, he relaxed, holding the bowstring taut till the last possible moment. And then he let it fly.
+
+The arrow shot from his bow with a brief swooshing noise, and he held it carefully in his mind, waiting as it soared up into the darkness. As soon as it was close enough, he unleashed his light magic enchantment and a brilliant flare of light shone out from the sky. The arrow slammed into the flank of the bat, eliciting a shrill screech and all three monsters instantly turned and dived.
+
+Calen turned and sprinted down the ancient street. It was quite a run back to the waiting group, and he hoped that the monsters would not lose interest halfway there.
+
+As he reached the end of the first street, the air about him suddenly shimmered and an intense wave of dizziness crashed through his mind. His vision blackened around the edges, vibrating angrily as his field of vision shrunk to nothing.
+
+Ugh. What the fuck was that? He came to; his face pressed down into the stony ground, his head feeling like it was about to burst with pain. He groaned, but a deep roar behind him made him spring to his feet in a flash, ignoring the shooting pain stabbing through his head.
+
+A searing blast of liquid sprayed across his back, splashing everywhere, burning at his eyes and tearing at his lungs.
+
+You have been afflicted with Poison. +3 Poison damage per second.Poison – Duration: 10 minutes. Count: 1Your Poison has increased to 3 (+2).
+
+Fuck!
+
+Ignoring the pain, Calen forced his battered and poisoned body into a sprint. The bat swooped down and opened its mouth letting out what looked like a silent scream. The air rippled and shimmered as the attack tore past him, plucking at his arm and sending waves of pain and dizziness coursing through him far out of proportion to the physical attack.
+
+Down to two hundred and fifty health. Avoid the bats. Noted. He charged down the street, dodging around a house to avoid another stream of poison. He pulled out an antidote potion. He was already taking nine damage per second, and it was far enough to run that not even the health potion he had in his ring would save him.
+
+I hope this works. He downed the green liquid, forcing himself not to gag at the foul taste. A flicker of wings in his peripheral vision sent him diving for the dubious cover of a ruined building, and the space he had just occupied shimmered with the bat’s almost invisible ultrasonic attack.
+
+197 health…
+
+His chime sounded.
+
+Poison weakened.
+
+He sprinted out of his hiding spot and down the street, making evasive direction changes whenever he could. He knew it would slow him down, but another stun would be fatal. As he turned the corner, a twin jet of toxic green splashed across the wall beside him sending a deadly spray showering into the air. He ducked into a darkened doorway and dove out of the window and into the street on the other side as the shadowy bat darted overhead.
+
+148…
+
+Poison weakened.
+
+He sprinted along the next alleyway, leaping over broken spines and ridges of bone, and dodging sideways to avoid another sweeping wyvern attack. His zigzag path through the buildings was the only reason he hadn’t been hit, but it made the path back take a lot more time.
+
+Time he did not have.
+
+94…
+
+Poison removed.
+
+He ducked inside a house while the bat and the two wyverns circled overhead. With one stack of poison removed and the others doing reduced damage, he had a little more time. Calen glanced out of the window, but his three pursuers were simply circling overhead, waiting for him to emerge.
+
+I don’t have time to wait them out, he realized. His health was still dropping, and they seemed content to stake out his hiding spot.
+
+63…
+
+I need to make a run for it! He was rapidly approaching the danger zone, where any hit would become instantly fatal. He sprang from a side door, dodging around a house he recalled from his scouting earlier, but he wasn’t quite quick enough – the shimmer in the air sent a jolt of pain ripping through his arm and spraying his blood on the wall as he rushed past. Gritting his teeth, he forced the waves of dizziness down.
+
+28…
+
+Calen careened around the corner onto the last street and sprinted for his life. In the distance, he could see his friends waiting.
+
+It’s too far. He knew it with a sense of certain dread. The wyverns and the bat were still in hot pursuit, and he could still feel the searing toxins tearing him apart from the inside. Still, he ran, sprinting as fast as he could, his breathing already ragged.
+
+11…
+
+He was still more than fifty yards out.
+
+6…
+
+With a thunderous roar, Mato charged him, tearing across the open square and sending dust flying with the force of his accelerated speed.
+
+He looked at his friend sadly and felt the pulse of the poison.
+
+6…
+
+What? He had definitely felt the poison tearing at him – in fact, it was still doing so. But his health refused to budge. Mato spun as he sprinted past and began following him even though he was falling behind. What the – Mato?
+
+Oh! How did he know? He slowed down a touch, making sure he didn’t outrun his friend. He had forgotten Mato’s incredible ability to redirect damage to himself. As long as he remained close enough…
+
+Malika was also in motion, sprinting across the square to join them, sending searing healing through his body and he finally reached the marked Runic Circle and stopped within it, amid the storm of arrows, bone spears, lightning, fire, and arcane magic that Ali unleashed toward the monsters closing in.
+
+Poison removed.
+
+The soft warmth of holy magic settled into his body, like the kiss of a warm sun on his skin, and his health surged, his arm knit itself back together, and his headache ebbed and faded.
+
+That was way too close. Damn! He mentally sent a thank-you to all his friends for saving him. Again. He retrieved his bow from his ring and began unleashing his arrows. Time to make these shots count.
+
+Ugh, this is stupid!
+
+Mato stood in the middle of the battlefield while all the action raged on in the air above, well out of reach. After the first near disaster, they had moved their ambush spot much closer to the bridge and made certain Calen had a few more antidote potions. This had radically improved the safety of their fights and now they were tearing through the bats and wyverns rapidly.
+
+He angrily watched the latest group wheel around, diving toward Ali’s minions or Calen to attack. They didn’t even bother with him, even standing in the open.
+
+I’m just standing here doing nothing. It was humiliating. His only useful skill in this battle was Arboreal Sanctuary. And while he had saved Calen with it during the first fight, he was now relegated to rushing around the battlefield, giving whichever of Ali’s minions had been hit with poison a little extra time to get a heal. He stooped down and scooped up a fist-sized rock. Winding up, he threw it at the annoying bat with all his might. It made a satisfyingly loud whoosh and vanished from sight, but the pesky bat simply dodged, taunting him with a shrill screech.
+
+He tossed several more, but he just didn’t have the dexterity or skills for ranged combat. Frustrated, he switched to Bear Form, simply to have access to his Charge skill.
+
+If only they would fight a little closer to the ground… Ali could send me up there on one of her barriers – but if I fell, I’d be a ton of bloody bear pancake. No thanks. Even the idea of floating high above the safety of the ground on a flimsy transparent disk made his stomach lurch uncomfortably.
+
+As if in answer to his prayer, a large crack of lightning lit up the sky and one of the bats spiraled out of control, crashing to the ground nearby.
+
+With a surge of excitement, Mato charged, tearing toward the downed monster and his chance to finally be useful in this terrible fight.
+
+The bat turned to face him, and he received a chilling premonition of danger before the air rippled and shimmered, sending pain stabbing through his mind.
+
+Awareness crashed back into his consciousness. Mato found himself spread-eagled on the ground with a splitting headache. He opened his eyes just in time to see the bat taking off, returning to the air beyond his reach.
+
+Fuck these fliers! This is totally stupid.

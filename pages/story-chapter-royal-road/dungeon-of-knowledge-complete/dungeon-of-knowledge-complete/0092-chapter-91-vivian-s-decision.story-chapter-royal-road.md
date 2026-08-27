@@ -1,0 +1,225 @@
+---
+id: 46963cd0-1ab2-5e3f-bacd-536e31c4c24d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 91: Vivian’s Decision"
+slug: 0092-chapter-91-vivian-s-decision
+partOf: dungeon-of-knowledge-complete
+position: 92
+ownLength: 3728
+unit: words
+ownProgress: 3728
+publishedAt: 2024-06-27
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1695057/chapter-91-vivians-decision"
+royalRoadId: "1695057"
+markedReadAt: "2026-06-29T20:14:02.536Z"
+---
+
+What? Are you kidding? It’s a storage ring – of course it should be Soulbound to your mana. Yes, it’s more expensive, but do you really want any random oaf poking through your stuff?
+
+- Giddy Clicksprocket, Jewelcrafter, Myrin’s Keep.
+
+Ali walked the rest of the way to the Adventurers Guild with the disconcerting prickling itch between her shoulder blades that kept making her turn around suddenly, certain someone was aiming at her back. It didn’t help that she had barriers, nor that the others were also on the alert.
+
+The crossbow bolt had been aimed at her back. If not for Calen’s sharp eyes and quick reflexes, it would have been Ali’s heart that exploded blood across the wall instead of Calen’s arm. She had grown substantially stronger since then, but the shock of the surprise attack instantly transported her back to the level eight Fae, lost in the darkness, suffering from domain withdrawal, deathly afraid that just around the next corner a Kobold rogue would spring out of the shadows with a dagger aimed at her back and end it all before she even noticed.
+
+The sense of relief as the guild doors thudded shut behind her was palpable.
+
+Focus. Even with the traumatic events just outside fresh in her mind, Ali still recalled Calen’s plan. As soon as they walked up to the reception desk, and the stylishly dressed Elvish administrator, Ali was on high alert.
+
+Mieriel glanced up with a frown. A subtle formation of magic formed around her eyes, and well before she was in range for Identify, Ali saw the magic gently touching Calen’s head. To Ali’s intense surprise, his alert vigilance vanished instantly as his body began to relax.
+
+What magic is that? Ali was certain she had never seen anything like it. But somehow there was a prickle of familiarity in the back of her mind. As if she couldn’t remember some minor detail that might have been important. Déjà vu?
+
+The magic flickered once more, and Mato relaxed, grinning at Calen, and then making a teasing comment.
+
+Mieriel’s magic was most certainly affecting her friends. It flared again, substantially stronger as it settled on Malika. The formations pulsed as it seemed that Malika struggled against it before she too finally relented, and her body relaxed.
+
+What is she doing to them?
+
+Ali hesitated, pausing her approach.
+
+Spy – Sun Elf – level 49 (Mind)
+
+Mind magic! Suddenly it all made sense. That subtle magic, and the effect on her friends’ attitudes and demeanor. Mieriel was attacking their minds! She met Mieriel’s eyes and saw her mouth firm into a determined line as the magic flared once again.
+
+Shit. She wasn’t quite far enough.
+
+A wave of disorientation and vertigo hit her, and she stumbled as she fought against the subtle but powerful magical forces assaulting her mind. Her will felt dragged down as if hooked to an anchor tossed overboard, her mind filled with trivial details, but she bore down, resisting the attack. A wave of ease crashed through her as she suddenly wondered why she was paying attention to this anyway, but in the moment, she recognized it as another attack, sapping her focus and willpower.
+
+Mieriel’s frown deepened, and her magic intensified dramatically. Ali struggled against the onslaught, feeling her willpower and resolve slowly dissolving in the torrent.
+
+No! She pushed back as hard as she could. Get out of my mind!
+
+In a sudden flash, she saw herself in the meeting room with Vivian Ross, and Mieriel looking down on her. Her heart filled with a bottomless well of helplessness and grief, entirely at the mercy of the cold hard eyes of her captors. In the sudden rush of shock and despair, her will crumbled and shattered.
+
+What…
+
+Analyst – Sun Elf – level 18
+
+What was I doing? She had the disturbing sensation of having suddenly forgotten something absolutely and critically important. Why is my heart racing?
+
+“Welcome! Congratulations on reaching silver rank!” Mieriel’s cheerful voice cut through her inexplicably ragged breathing and dizziness. “Would you like to upgrade your rings?”
+
+Oh, that’s what it was…
+
+“Yes…” Something was still not quite right, but she couldn’t put her finger on it. Is it hot in here? Even the cool and stylish Mieriel seemed to be flushed and had a thin sheen of sweat on her brow. We did come here to get the new silver rings, but then we were attacked outside…
+
+“We were ambushed outside the guild hall,” Calen said.
+
+“Oh, I’m sorry. I haven’t had a chance to tell you yet, but the Guildmaster has discovered that there is an assassination contract out on Malika and Aliandra.”
+
+“What? Why?” Ali stammered. Who would want to kill her?
+
+“We believe it’s Kieran Mori, the stated reason is revenge for the deaths of Adrik and Edrik. There’s a one gold reward for each of you.” Mieriel seemed horrified as she explained it.
+
+“I thought we were done with them,” Malika said, a look of frustrated determination on her face.
+
+***
+
+“Nevyn Eld! Are you certain?” Vivian Ross’s voice rang with shock and incredulity as she reacted to Ali’s recounting of the final development of their tale.
+
+“Yes, I’m sure. I’ve met him before. Lich, pitch black undead flesh, aura of despair, and a scarlet blindfold.” While Ali managed a calm and controlled outward delivery, within her, a maelstrom of anger, frustration, fear, and grief erupted, crashing against the barriers of willpower she erected around her heart.
+
+Inexplicably, Mieriel flinched, trying unsuccessfully to hide her reaction behind a cough.
+
+Ali chose to ignore her and finish the tale. “He appeared, and removed the dungeon shrine, teleporting away when he was done. The shrine had his mana signature on it. So, the dungeon is gone, and so is the Lich. We’re stuck with the life drain and then we got ambushed on the way to the guild.” The tale sounded hard to believe even coming from her own mouth, but Vivian was still listening intently.
+
+“This is serious,” Vivian said. “If Nevyn Eld is on the move, I need to involve the Elven Council immediately. The Lich is an evil that is well beyond any of us – if he returns, Myrin’s Keep is doomed. We will all be raised as living dead to serve him.” Ali had never seen the Guildmaster anything but calm and collected, but right now she seemed shaken by their news. Having met the lich, and personally experienced his power, Ali had no doubt Vivian’s assessment was the fearsome truth.
+
+It took a few moments, but the Guildmaster finally collected herself.
+
+“You have done a great service eliminating the dungeon, so thank you. And congratulations on reaching silver rank to all of you.” Vivian’s voice was back to normal, her uncertainty magically vanished.
+
+“Life drain is a serious problem. I don’t recommend leaving it untreated – on its own it usually resolves in a couple of months, but sometimes it never fully heals. I recommend consulting with Eliyen Mistwood – she’s the town’s most advanced herbalist. Also, with the hit out on you two, I recommend staying off the streets as much as possible until you recover. You’re welcome to stay here at the guild if you need a place to stay.”
+
+“Hi, Weldin,” Malika said, walking into the open-plan guild store, her eyes rapidly evaluating and appraising the new wares she saw on display. The resourceful Gnome had been busy, and much of the junk they had sold him from the Goblins and Kobolds was gone, replaced with a variety of items suitable for adventuring that must have come from various crafters and epic deals with visiting merchants in the market. She was pleased to see several of Lydia’s pieces prominently displayed on mannequins and a nice array of Thuli’s daggers and swords.
+
+“Malika! My favorite customer!” Weldin exclaimed, hobbling over to her, leaning heavily on his cane.
+
+“Nonsense,” she smiled. “Everyone with money is your favorite customer.”
+
+“True enough,” he said with a grin. “But you have money, do you not?”
+
+He has a point, she thought, laughing with him.
+
+“I have something better,” she declared, dramatically.
+
+“You have something to sell?” Weldin’s good eye lit up with excitement and the anticipation of making a deal.
+
+“I do indeed!”
+
+Malika slipped her mind into her brand-new silver guild ring, sorting through the items she had transferred from her old one. The new ring’s storage was positively enormous, fully six times the capacity of the bronze ring. She only wished she had had it when they were stocking up in the armory. The Eimuuran steel was more valuable, but it was way heavier than the bone items that made up the bulk of her inventory.
+
+No matter, we can always go back. Now that the dungeon was truly dead, the undead monsters would not be respawned. Weldin had no idea Ali could make some of the items, so they had an effectively unlimited supply. That was a card she would play as close to her chest as she could, for as long as she could.
+
+Silver Guild Ring – level 30A ring signifying silver-level membership with the Adventurers Guild.Owner: MalikaQuests:Eliminate hostile Goblins in and around Myrin’s Keep – 0Eliminate hostile Kobolds in and around Myrin’s Keep – 0Mana: Store or retrieve an item. Capacity: 155 / 330lbsQuality: MagicalValue: SoulboundCreated by Giddy Clicksprocket.Ring
+
+“What do you think of this?” Malika asked, retrieving the Ironwood Staff of Shadows, twirling it in her hand, and activating the shadow enchantment feature briefly before setting it on the low table for Weldin to inspect. It was the opening act in her play, designed to hook the interest of her prey.
+
+“Three enchantments, very nice. It will be the first uncommon-grade item for the store,” Weldin said calmly, but Malika could tell that he was excited by the gleam in his eye and the careful way he handled the staff.
+
+“What do you want for it?” With the question, his voice turned serious and businesslike.
+
+“Just because I trust you, how about I show you the rest of the items, and we can negotiate the whole deal?” Malika noted the happy smile on his face at her suggestion, but she had a rather practical reason for this approach. She was certain Weldin did not have the funds to buy all of it, and she would rather take a little less on the deal if she could motivate him to take a loan and move everything she had to sell. Selling their haul through the guild store came with some rather attractive benefits – in addition to helping the guild, and saving her the hassle of working the public market, she would earn some nice discounts and preferential access to quests in the future.
+
+“Ok, show me what else you want to try and entice me with,” Weldin said, taking the bait with a clearly affected dubious disinterest.
+
+Malika produced her trump card, summoning the level forty-one Bone Sword of the Wight and laying the gleaming enchanted blade carefully next to the Ironwood Staff of Shadows.
+
+Weldin coughed as he opened his mouth and closed it again, a look of pure avarice crossing his face before he quickly schooled his features. The look was there for such a brief moment, that Malika was certain anyone with slower reflexes would simply have missed it. Weldin Thriftpenny was a masterful merchant, but Malika knew she had him with this deal.
+
+With that settled, the rest of the exchange simply needed to play out. She began unloading equipment from her ring, armor, weapons, and arrows – the selected spoils of an entire dungeon. She let his discomfort grow as she kept adding to the pile until she had everything laid out.
+
+She suggested a price for the entire pile, enjoying watching him squirm for a few moments while she imagined the machinations that must be going on through his mind as he struggled to come up with a way to close a deal well outside of his buying power and not let it slip out of the door to the marketplace.
+
+Only then did she dangle the final carrot – the closing act of her carefully planned play.
+
+“I don’t need the money immediately, so how about I leave all this with you, and you leave the money for me in my guild account when you get it? Say in one week?” She gave him the sweetest smile she could conjure.
+
+“Well played, Malika,” he said finally, accepting her offer. “You win this round.”
+
+She grinned and shook his hand, closing the deal, knowing that even though she had won, with his savvy and skills, and just a little patience, he was going to make a fortune off what she had given him.
+
+Vivian sat in silence, but within, her mind was racing with the implications of their recounting of their experiences underground.
+
+She’s a dungeon.
+
+Vivian felt her stomach clench painfully with the fresh surge of anxiety and – she was even able to admit it, fear – that her thought spawned within her. She had never imagined the day she would sit in her meeting room, conversing with a living, breathing dungeon. She could taste the bile and bitterness as her body responded to the powerful emotions her memories dredged up.
+
+And yet Mieriel’s simple words stabbed deep into her heart, twisting this way and that, a pain she simply could not resolve. Do not become those who you hated. Could she really kill Aliandra? She was a dungeon, and every fiber of her being told her to lash out and exterminate her before she destroyed everything. And yet, she was that incomprehensible impossibility – a dungeon that hadn’t yet hurt anyone.
+
+An innocent dungeon? The phrase felt incongruous and impossible. An oxymoron.
+
+But when she imagined drawing her sword to kill the Fae, her heart filled with such intense self-loathing and guilt that she broke out in a cold sweat, hands trembling.
+
+I can’t… Mieriel was right.
+
+Yet, somehow, Aliandra had brought a revelation of vastly more significance than a mere dungeon. The Lich. Nevyn Eld, the betrayer, and evil incarnate had appeared here. Could the vile entity be working through her? No, that did not seem possible either. Mieriel would have said.
+
+“She was telling the truth?” Vivian asked, swallowing to steady herself and gripping the tabletop to still her shaking. “About the Lich?”
+
+“Yes.” Mieriel’s answer was short and carried no uncertainty. “I have never experienced such overwhelming dread and fear as her memory of that experience.”
+
+Vivian fell silent once more, alone to wrestle with her thoughts. She was certain about one part of her path – the Elven Council had to be informed. Only their Archmages and Pathfinders would be able to stand up to the evil of the Lich and his minions. But inviting their attention would come with consequences too, and she wasn’t certain it would work out for the best interests of Myrin’s Keep.
+
+“What will you do about Mori’s bounty?” Mieriel asked.
+
+“I don’t know,” Vivian answered truthfully. It was not unheard of for the crooked captain of the Town Watch to put out hits on people he didn’t like, but this time it was directed at her and her fledgling guild. Already she had lost several members and it seemed hardly a stretch to imagine Mori might be the one behind it all. On one hand, it would be so nice to have Mori take care of her dungeon problem without any personal involvement on her part, but…
+
+“I’m with you, whatever you decide,” Mieriel said. “But politically, I think it would be a disaster to let him kill your highest-level adventurers.”
+
+“For sure,” Vivian admitted. Mieriel’s insights had steered her past so many traps and pitfalls that she simply didn’t question the truth of it anymore. Aliandra and her group were now clearly the most advanced and successful members she had in this fledgling guild. If she were honest with herself, they had admirably stepped up to fill the role she had envisioned when she had first founded it. They were growing fast and becoming powerful members of the town. The fact that they had already performed valuable services defending the townsfolk against the Goblin siege and eliminating a dangerous dungeon underground was precisely the kind of vision she wanted for her guild.
+
+If only she wasn’t a dungeon herself. My head hurts. What a mess!
+
+Mieriel was right, though. Allowing Kieran Mori to pick off her adventurers would hamstring the guild’s autonomy and power forever, permanently hobbling it and snuffing out her vision for what she wanted to build.
+
+I must support her. The conclusion twisted her gut once again, but it was inescapable. She found herself forced to protect a dungeon. It was either that or give up her vision for the guild and admit failure before she had even started.
+
+“I will protect her. I can’t let Kieran Mori take control.” Vivian finally spoke the words out loud, feeling a disturbing sense of fate settling on her shoulders as her resolution became crisper, more real somehow. But she knew deep in her heart that Mori was just an excuse. She couldn’t kill Aliandra without also killing the person she had fought so hard to become.
+
+“Then you will need to decide when to tell her,” Mieriel said.
+
+“What do you mean?”
+
+“The next time she levels up, I will not be able to keep my secret.”
+
+“This soon? How is that possible?” It had always been part of the plan they had made together, but it was an aspect Vivian had been certain would take much longer. At some point, the adventurers would level beyond Mieriel’s skill level and her class and affinity would become known, but Mieriel’s subtle magic usually worked against people substantially higher level than she was. She had hoped to be much more connected with the guild members before that happened so she could manage the shock appropriately.
+
+“I scanned her with the panel’s advanced Identify again. She’s level thirty-seven, but she has more than four thousand mana. That is not possible for a normal class, she would need more than four hundred wisdom to support that amount of mana. The scanner thinks she has less than one hundred and fifty. She must have some aptitude or skill that boosts the effectiveness of her wisdom, which increases her willpower and resistance against my mind magic. Combined with the impressive work of Lydia Avery that she’s wearing most of the time, she was very nearly able to resist me when they came in today. Also, I think she’s beginning to recall our interrogation – based on the emotions I was reading when she fought me.”
+
+“That’s a problem.” Vivian was not certain exactly how Aliandra would react to the news, but she knew she would be pissed if it happened to her. She raised her fingers to massage her temples. How did it come to this?
+
+“I’ll trust your judgment,” Mieriel said, deferring the decision. “But if you want a chance to salvage the relationship, I recommend coming clean before she figures it out on her own.”
+
+“I wish I had more time…”
+
+“Is it so hard to accept her?”
+
+“You remember what happened.”
+
+“I do. But that wasn’t her. She is one of your top adventurers. Not to mention that Aiden and Havok, and the entire group of new members are the result of her and her class shrine.”
+
+Mieriel was right. If she could just ignore the inconvenient fact of her being a dungeon, in all other ways Aliandra was a gift from the gods to an aspiring Guildmaster. She could mint new adventurers with incredible classes, she was a summoner who could learn new minions whenever she encountered them, and she was already well-established on a team with a track record of extraordinary successes against raid-level threats.
+
+And yet she simply couldn’t shake it.
+
+She sighed, turning her mind to other, more urgent, issues. Priorities. She would have to come back to the thorny problem of Aliandra – after she’d dealt with the terrifying appearance of the Blind Lich. She pulled out a piece of paper and a pen and began composing a letter.
+
+“Can you drop this off at the Novaspark Academy of Magic?” Vivian asked, pushing her note across the table to Mieriel. “Send it to Archmage Nathaniel Sunstrider directly. Please pay for a telepath or teleportation courier service.” It would be expensive, but the guild could now afford the cost, thanks to the small percentage they took from the store transactions and the guild fees for the increasingly popular quest board.
+
+“The Pathfinder Guild?” Mieriel asked, storing the note.
+
+“He’s also a prominent member of the Elven Council. He will ensure they’re informed about the presence of Nevyn Eld in Myrin’s Keep.”
+
+“Ok. I’ll take care of it immediately.” One of the things Vivian loved about Mieriel was how she always grasped the importance of things intuitively. It came with her class, but it always made Vivian feel instantly understood.
+
+“One more thing. Can you let Calen know I’d like him to do a strategy lecture for the guild this week? If he’s up for it.”
+
+Mieriel raised an eyebrow. “Isn’t he a bit shy?”
+
+“He has a keen mind for tactics and strategy, and they have two raid fights under their belts. I want him to share his insights with the guild. It’s time to begin growing the whole team. The earlier we cultivate the mindset of sharing valuable experience across groups, the faster the newbies will grow. I have a feeling it will be good for him too.” Calen would probably need a bit of a push, but this was a great opportunity to get him to come out of his shell a little.
+
+At least when it came to Calen, Malika, and Mato, Vivian had absolutely no doubt they were on track to becoming the backbone of an effective guild – the kind of guild she had dreamed of building all along. All they would need was a little guidance and encouragement, and she was at least confident in her abilities to mentor effectively.
+
+If I haven’t screwed it up with Aliandra already…

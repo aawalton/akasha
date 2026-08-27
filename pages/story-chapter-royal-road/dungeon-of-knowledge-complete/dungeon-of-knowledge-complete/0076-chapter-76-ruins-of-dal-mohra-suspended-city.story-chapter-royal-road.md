@@ -1,0 +1,155 @@
+---
+id: 063f066b-714b-529e-9799-018af9cec54d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 76: Ruins of Dal’mohra: Suspended City"
+slug: 0076-chapter-76-ruins-of-dal-mohra-suspended-city
+partOf: dungeon-of-knowledge-complete
+position: 76
+ownLength: 3227
+unit: words
+ownProgress: 3227
+publishedAt: 2024-05-23
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1647749/chapter-76-ruins-of-dalmohra-suspended-city"
+royalRoadId: "1647749"
+markedReadAt: "2026-06-29T20:13:28.061Z"
+---
+
+A domain then, in essence, is the extension of its originator’s personal mana through space. It is a deceptively simple concept, similar in principle to a mana signature, but in practice, it creates an extraordinarily complex weave of mana, allowing some control to be leveraged over the area it influences. Domains are as unique and varied as the person or creature creating them and are thus more about structure, organization, or information than the mana underlying it. In the subsequent chapters, we will discuss how the structure of the domain is propagated through the ambient mana creating a self-sustaining weave of magical energy. We will also lay out the current theories for how magical effects are propagated via the substrate of the domain itself.
+
+It's worth noting that, while dungeon magic is always domain based, it is a necessary but not sufficient condition. There are at least two other known requirements for a dungeon to arise. Furthermore, we find domains to be the fundamental underlying mechanism for many non-dungeon skills and spells – often manifesting as auras, passive or perception skills, and local area influence magic in uncommon or rare classes.
+
+- Excerpt from Dungeons and Domains: A Complete Reference. Nevyn Eld, University of Dal’mohra.
+
+Ali put the dangerous book down and rubbed her temples. The headache throbbed unpleasantly under her fingertips, refusing to ease up, and she was not quite sure if it was from studying or if she was still recovering from her fainting spell at the guild. She wasn’t quite sure what to make of Malika’s rather shocking theory about Mieriel, but she would definitely be more cautious around her from now on – and wisdom was a smart investment for her class anyway.
+
+This is a very advanced book. She had been feeling a little better and had eventually plucked up the courage to start reading the book that she and Ryn had uncovered in the library. A book that filled her with both anxious excitement and chilling dread. The last remaining intact book from the Grand Library Arcana, potentially full of insight into the domain aspect of her class, and a powerful link to her past. But she could never forget the Blind Lich who had killed her family and destroyed the city – even though this book had been written way back when Nevyn Eld was still a human researcher at the university.
+
+Ali had hoped to find some resolution to her conflicted emotions within its pages, but all she had found were complex and dense theories, dipping deeply into many taboo subjects, including the use of dungeon magic.
+
+The library had had a notorious section of heavily restricted tomes and manuals on the second level, guarded by high-ranking clerks and librarians, and powerful wards. Being unclassed at the time, and not strong enough to survive among the more powerful tomes, Ali had never seen it. Given the protection runes, the illusion, the subject matter, and even the author, she was absolutely certain this book had been one of those forbidden works. While she didn’t understand even half of what she had read so far, the overwhelming arrogance in the superiority of his intellect that she had seen displayed by the Blind Lich came through clearly in the tone of the work sitting open on her lap. Still, it was her only source of information on one of the most profound and fundamental aspects of her own class – her domain.
+
+She studied her mana filling the air and the ground all around her, slowly emanating from the arcane grass and mushrooms, and the verdant moss, and spread high into the air by the boughs of the huge oak and maple trees.
+
+I can almost see it. The book had described an underlying structure – a mesh or lattice – that propagated the domain throughout the affected area. To her mana sight, it appeared as an extraordinarily complex fine weave as the arcane and nature mana entwined and entangled in a never repeating, but ordered, three-dimensional web throughout the Grove. It was extraordinary that her skills and class could create such a thing without her having the slightest understanding how it worked, or even being able to clearly perceive all the intricate details hovering before her.
+
+According to the book, the structure was a manifestation of herself, in much the same way as a fingerprint or a mana signature was unique to each person, and that, without a connection to her, the entire thing would unravel, fray, and die. Is that what Domain Withdrawal is? Were her domain and herself one and the same? Connected on such a fundamental level that one would wither and die without the other?
+
+Off to the side, Mato’s Sanctuary aura pulsed slowly, visible as a soft and vibrant green that emanated from his body, filling the immediately surrounding area with the unique mana and structure of his domain. His skill was so remarkably different from hers that, without the book, and the domain trait attribution on his skill, she would never have guessed them to be similar. His skill was always centered on him, following him around wherever he went. The weave seemed more organic, chaotic, and coarse, flowing through the space like growing roots or vines.
+
+Arcane Insight has reached level 18.
+
+Hmm. Right. How do they occupy the same space? she thought, dismissing the notification as soon as it appeared. Mato’s domain filled the area around his tent, but it didn’t displace her domain, somehow overlapping through the same space. She referred back to the chapter she had just read which described the structure and propagation of the mana weave, trying to understand the dense and abstract theory.
+
+Subtle waves of glowing energy were carried outward by his domain, flowing through the tendrils of his weave to be absorbed by the plants within its range, causing them to pulse with vitality. There had been a convoluted passage in the book explaining how the domain structure facilitated the extension of mana and magic into the affected area. While she hadn’t understood much of it, Ali was absolutely certain she was at this very moment watching precisely that in action. She was literally watching Mato’s Sanctuary aura distributing the energy of his potent regeneration skill to the plants around him – and all this activity going on entirely without conscious effort while he was sleeping.
+
+Ali shut the book, storing it in her ring, and took a deep breath, trying to use Malika’s breathing exercises to ease her still throbbing headache. The others would wake soon, and they had all decided to go exploring today.
+
+I have some new minions to make before we go, she thought, retrieving several Kobold bows from her ring. She had no idea what they would be facing, and so she had decided to try some of her archer Kobolds this time – a way to increase the diversity of her forces.
+
+Imprint: Bow completed.
+
+Her Grimoire was full, but it wasn’t a difficult decision – she replaced the imprint for bone with the new one she had just learned, and then set about summoning a balanced army.
+
+***
+
+Ali stood on the second floor of the library, facing the enormous stone doors that led out into what was once the industrial and commercial level of her home – Dal’mohra. It was dark down here, and without Calen’s magic, all she would have been able to see was the thick mana. The doors were sealed in dense layers of encrusted bone, but there was no mistaking the creepy prickling of the dark bone and death mana that seeped through, spilling out into the library and dripping off the floor down into the dark atrium behind her.
+
+“I’m pretty sure the dungeon is still alive in there,” Ali said.
+
+“Yes, my skill can already identify it,” Calen confirmed.
+
+“Everyone have a recall potion?” Malika asked, getting nods all around. It was only the fifth time she had asked, but Ali didn’t complain – she was just as nervous.
+
+“Ok, I’m starting,” Ali said, hopping onto a barrier and levitating herself to the door, aiming her deconstruction magic at the bone-encrusted ancient hinges that were larger than her entire body.
+
+When she had freed the hinges and cleared as much of the bone as she could, Mato transformed into his Bear Form and threw all his considerable weight and strength against the heavy stone. For a while, all she could hear was his heavy breathing, and the scraping of his claws tearing at the bone-covered floor. Then a loud crack echoed through the library and chunks of bone, dust, and debris began to rain down on the bear as he redoubled his efforts. With a loud grinding and crunching noise, the door moved, spilling a torrent of dust and dense dungeon mana into the room as it creaked wider and wider.
+
+A chill wind whistled mournfully through the opening, carrying the heavy scent of death along with the soft hints of dust and rot.
+
+Wide enough now for him to enter, Mato vanished through the doorway, followed closely by Calen and Malika. Ali sent her minions through first – a ragtag bunch chosen mostly to cover all the bases for whatever they might find on the other side. Ali stepped through and stood staring as her eyes began to adjust.
+
+The dungeon’s mana was immense, pressing in on her with an unmistakable prickling sensation that caused her to shiver involuntarily even though it wasn’t particularly cold. All around her, dense formations of bone jutted out from the misshapen remains of what had once been the administration buildings and the seat of government for the city. Substantially larger and higher-level Blackened Deathcap mushrooms sprouted everywhere, oozing an excessive amount of death affinity mana into the air.
+
+As her gaze ranged further, she was surprised to find she could actually see the giant concentric suspended rings that comprised the backbone of the city – the spine upon which everything was built – outlined by a soft shifting yellow and green light that illuminated it from below. Covering the entire surface of the three concentric rings, the ominous dark mana of the dungeon welled up, spilling over the edges, and between the floating bridges that connected the rings, to drift endlessly downward into the abyss below.
+
+“This is amazing… to think we can see this…” Calen’s voice trailed off, filled with awe and wonder.
+
+“I wish you could have seen it before,” Ali said.
+
+Bone crunched underfoot as everyone took in the sight of the dungeon and the ruins.
+
+“Whatever took out that section of the city above got this level too,” Calen said, gazing off to the north. The central ring had a large section that was simply missing in the direction he was facing, and of the outer ring, only half remained, the edges where the ring had shattered were left jagged and broken, jutting out over the emptiness.
+
+“There is something out there,” Calen said, shading his eyes with his hands, whatever good that would do down here so far below ground. “Bats, I think. Big ones… and something else…”
+
+It was frankly quite astounding how good his eyes were. Ali couldn’t even see anything moving, let alone identify what it might be.
+
+“Are we just going to stand around and look? This is a dungeon, it probably has monsters we should be fighting,” Mato said.
+
+A loud grinding and the snapping of shattered bone reverberated from a darkened alleyway up ahead, followed by an inhuman screech.
+
+“Spitter Drone!” Calen shouted, pulling out his bow and firing.
+
+“This doorway!” Malika yelled, darting toward a bone-encrusted building as several tons of angry armored bone elemental shot out into the open plaza, spraying vile-smelling liquid in all directions.
+
+Ali threw up a barrier just in time to deflect the brunt of the ossifying spray before it hit her, leaping backward reflexively as the heavy domed gray carapace smashed into the too-narrow open doorway, sending a spray of splintered bone and rock flying toward her.
+
+“Go,” Ali commanded, trying to catch her breath from her unplanned athletic maneuver. There was definitely a bruise on her hip already. Her minions responded immediately, most of them charging into the house after the giant monster, Malika, and Mato.
+
+“Firebolts now,” she added, directing her mages to open fire and sending a stream of arcane bolts into the chaotic interior to mingle with the lightning flashes and bursts of soul magic from within.
+
+She kept a close eye on the monster, alert for its devastating magic, but she found herself to be surprisingly calm. Surprise attack notwithstanding, she found it easy to slip into their well-practiced routine, and in record time she was calling for fireballs. It was remarkable how a few levels improved their damage output.
+
+As Ali called out the explosion, she studied the magic, now much clearer to her than before. I can almost see how it works. Her resolution and acuity had both improved with the increased skill level and additional attribute points in perception. She blocked the doorway with a barrier, watching curiously as the layers of bone encrusting the walls of the house were blown off when the monster’s corpse exploded.
+
+“Add! Piercer Scorpion!” Calen called out, ‘pointing’ to it with a speeding incandescent arrow.
+
+Mato’s heavier form tore at the bone layers on the ground as he propelled himself at great speed to crash into the monster with a roar. It instantly wheeled to attack him.
+
+Ali organized her minions, getting them engaged in the fight as quickly as she could.
+
+“Another! Mato, behind you!” Calen called the second incoming scorpion.
+
+I should be scared, Ali thought. The monsters kept coming, attracted by the noise of battle and the explosive release of mana. But with each additional monster, Calen simply called it out, and Mato used his Challenging Roar to taunt it to attack him. Her shamans kept up the assault with their lightning magic, and whenever there were two or three, Ali would slip into their Skeletal Wyvern routine, dropping fireballs on the pack and making certain Mato was getting a heal between each strike.
+
+Ali lost count of the number of monsters they killed, but silence finally returned, and she found they had moved across the entire inner ring and were now quite close to the edge, overlooking the broad gap into the abyss separating them from the suspended second ring set slightly below.
+
+“Can we rest a little?” she asked. Her own mana pool was still almost full, recovered periodically during the long-running fight by the simple expedient of deconstructing whatever corpse she could reach, but her minions were running low, and that – particularly for her healers – was not something she wanted to ignore.
+
+“How many did we just kill?” Malika asked, a little out of breath, exactly echoing Ali’s thoughts. Previously, these bone elementals had been incredibly challenging to take on, even one at a time, with a long rest in between. With just the advancement of a few levels, they had torn through a host of them, sometimes fighting two or three simultaneously, and they had come out at the other end breathing a little heavier and needing to take a bit of a mana break.
+
+“Sixteen, if you don’t count the Spitter Drones,” Calen answered.
+
+Mato stood near the edge, gazing down into the darkness below. The dim greenish-yellow light filtered upward but whatever lay down there was well beyond his ability to make out. It smelled though, of rot and growth, a stark contrast to the dry bone dust that covered everything up here. There was no railing or wall, just the treacherous-looking bone stuff layered on top of the underlying stone of the enormous supporting platform that held hundreds of encrusted buildings in various stages of ruin. Off to the side was what looked like a giant toppled statue, but it was hard to tell what lay beneath all the layers encrusting it, attaching it to the floor.
+
+The ground shivered lightly underfoot.
+
+He looked down when it happened again. What’s that? The vibrations grew progressively more powerful in a regular rhythmic pattern.
+
+“Whoa,” Malika exclaimed, noticing the effect.
+
+As dust and small loose chunks of bone began to bounce, Mato looked up catching a flash of white down one of the adjacent alleys. He didn’t wait, shapeshifting immediately to his Bear Form. When the monster stepped out of the shadows, he was ready.
+
+Piercer Scorpion. But it was pure white and towered at least twice the size of every bone elemental they had faced so far, its spear-tipped limbs thicker than his leg, its stinger gleaming with unnatural sharpness as it quivered upright, ready to strike.
+
+Mato charged without hesitation on all four paws, tearing across the clear space at high speed. Survival Instinct flared as the spears blurred into action, stabbing down viciously. He triggered his Brutal Combat block a hair before the spears even moved, reacting to the premonition of danger rather than relying on his vision to track the immense speed. But as the spears ripped through the stone pavement, the ground beneath him erupted with a devastating pincushion of stout yard-long spears of bone, impaling him through the ribs from below.
+
+He roared in pain but still managed to imbue his voice with his Challenging Roar skill, while he twisted, snapping the spears of bone, and spraying his blood across the ground.
+
+“Mato, it’s a boss! Be careful!” Calen yelled.
+
+I kinda figured that one out for myself, he thought, settling his focus on his Survival Instinct as it began screaming for his attention. He swiped at the monster, spending mana to empower his strike using Brutal Restoration, but his heavy paw bounced off the dense armor while the nature magic of his Brutal Restoration barely penetrated to do the minimum damage.
+
+Suddenly, the heals from the Kobolds landed, beginning to slowly force the shattered pieces of the spears out of his body, but he was already bracing against more as the giant scorpion of bone lashed out, making bone explode from the walls and the ground wherever it struck.
+
+Mato roared, lowering his center at the last possible moment avoiding the powerful tail strike that punched clean through a stone wall sending shards of bone and rock ricocheting off his armor.
+
+He narrowed his eyes against the brilliant flash of lightning, delaying his attack slightly to better exploit the damage the magic would do.
+
+Again, the urgent awareness of Survival Instinct burst in his mind as the scorpion’s tail raised and he recognized the potent bone magical attack.
+
+“It’s using magic!” Ali’s voice carried clear across the battlefield.
+
+He calmed himself a little – these attacks were well-telegraphed and easy to avoid. But instead of the expected spear of bone, the ground exploded with a violent eruption of bone spears and shards in a nova that shot out in all directions, picking him up and flinging him ten yards to bounce off a wall.
+
+“Calen! No!” Ali screamed, and for a brief moment, Mato saw his childhood friend impaled through the stomach by a large spear of bone, suspended in the air out over the darkness with nothing but yawning emptiness below to catch his fall.

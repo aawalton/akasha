@@ -1,0 +1,331 @@
+---
+id: 2921e02b-60cb-5cbd-8266-b65241391198
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7: Wolf Pack"
+slug: 0007-chapter-7-wolf-pack
+partOf: dungeon-of-knowledge-complete
+position: 7
+ownLength: 5989
+unit: words
+ownProgress: 5989
+publishedAt: 2024-02-01
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1502817/chapter-7-wolf-pack"
+royalRoadId: "1502817"
+markedReadAt: "2026-06-29T20:11:14.496Z"
+---
+
+Calen
+
+It was probably morning above ground, but such things did not have much meaning down here in this dark and dead underground forest. Calen rose to his feet from where he’d been keeping watch and began making the rounds to wake his companions. They had camped for a little over two hours – more than long enough to regenerate stamina and mana – but some things took more than regeneration and potions to recover. His gaze lingered on the pile of rocks Mato had heaped over Donavan’s exposed boots.
+
+Malika was awake, sitting cross-legged and meditating, and her eyes sprang open before he even reached out to touch her. Mato and Tala had fallen asleep, catching a little more rest while he kept watch. He quickly woke them, eager to be on his way – if nothing else, it would take them away from the growing pool of sewage forming under the waterfall.
+
+We’re very lucky we didn’t lose anyone else, he thought soberly, glancing up at the rope still dangling from the great hole in the sewer floor so far above, deciding it was safe to leave it there. It was quite a fall, and he could still vividly recall Mato’s injured body lying on the shattered rubble.
+
+I don’t think I could have survived that, he thought. And what if the rats had stuck around to fight?
+
+Calen glanced over at his friend – Mato was rapidly refilling his pack and securing his mace to his belt. He seemed fine now, but it had taken one of their precious potions to heal him. Calen’s mother had insisted on buying him a few for the trial, even though he was certain she couldn’t afford them. Not with her being forced to break ties with the Guild of Tailors for the crime of trying to start up her own private business in Myrin’s Keep. But she was never one to take no for an answer, and now Calen was grateful for her insistence.
+
+Ever since they were young, he knew how impulsive Mato could be, and though he was certain his friend could hold his own against the kinds of people who used to bully them, monsters were an entirely different kind of danger.
+
+Calen rubbed the skin at the back of his neck. Ever since he had climbed down that rope and into this cavern, he had felt an uncomfortable prickling sensation, a little like an imagined itch right beneath his skin. It set him on edge in the same way a premonition might – there was just something about the environment down here that made him uneasy.
+
+Perhaps it’s the darkness and the enormous space, he thought, trying to shake the sensation.
+
+His gaze shifted to his other companions. Malika was stretching off to the side. He had been unsure of her at first, she had no equipment and was obviously from the shady side of town with such a painfully obvious Street Rat title.
+
+Shadier side, he corrected. You could find corruption and crime throughout most of Myrin’s Keep – it was a good day when you didn’t stumble across a corpse in an alleyway, or someone being mugged or robbed, often in broad daylight.
+
+Malika was athletic and dirty and had clearly run afoul of some thugs before she had arrived at the Town Hall. Her curious blue eyes were strikingly intense against her dark skin and black curls, features that identified her as having been born in the northern reaches of Toria – the kingdom currently at war with New Daria – perhaps even descended from the Ahn Khen people. He had supported her joining their group only because Mato had a knack for picking honest and trustworthy companions.
+
+He had to admit, though, that she had proved to be a competent fighter – she had excellent situational awareness, an instinctive understanding of her companions, and a sure grasp of strategy.
+
+While Donavan had shown solid sword skills, he was a noble and had access to the best training money could buy. How did a Street Rat like Malika learn to fight so well? She must have had some decent unarmed combat training somewhere, but he didn’t expect she was the kind of person to share her story. Still, if she had some decent gear, she could be a powerhouse. As it was, she seemed to be holding her own beside Tala and himself, with nothing more than bare fists and a ragged t-shirt.
+
+He wasn’t so sure about Tala, though. She was clearly quite competent with her daggers, but something about her seemed off and he just couldn’t place it. He had been trying to figure her out since the moment they had entered the sewers. Perhaps it was the calculating, almost cruel cast to her eyes or the edge of suppressed anxiety. He was certain there was something between her and Malika because Malika seemed wary of her and was obviously avoiding her.
+
+Well, Malika is wary of everyone, he thought. But it was especially obvious with Tala.
+
+As they finished breaking camp, he picked a path down the scree-strewn slope and into the vast space of the cavern.
+
+They kept a slow pace, given the unfamiliar terrain, and having no idea what might be lurking in the darkness just beyond sight. Calen carried the group’s last remaining torch, providing light as they trudged along the damp, springy ground. The dirt underfoot was mostly overgrown with moss and the occasional bioluminescent mushroom. Everywhere he looked there were old and decaying tree trunks, with piles of bones strewn about like snowdrifts, none of which were helping him with his sense of unease. It all stank of slow decay.
+
+After a while, they began to encounter monsters, mainly wandering spiders and prowling rats. They fell into something of a rhythm – Mato picking them up first, and then the three remaining members taking it apart from behind. But whenever he spied a group of monsters traveling together, he alerted the others to instead take cover behind a massive tree or a pile of bones. There were more than enough solo monsters to satisfy the requirements of their trial without taking unnecessary risks, in his opinion.
+
+Suddenly, a high-pitched scream split the darkness of the cavern.
+
+Was that a person?
+
+They all locked eyes with each other for a moment.
+
+“It came from over there!” Mato said, already turning to go.
+
+The scream had come from up ahead, towards the far edge of the cavern, and they immediately began to run. They rushed through the darkness at a reckless pace, greatly increasing the chance of stumbling into a patrolling group of monsters. But all he could do was frantically scan the shadows, searching for danger.
+
+About a minute later, they heard another scream – definitely a person – and the ominous howl of a wolf. Rushing around the bole of a massive dead tree, he suddenly stopped.
+
+A rat hung in the air, dangling from thick gnarled roots, seemingly crushed to death, and not too long ago, either. Lying crumpled on the ground, covered in amber blood and dirt, was a tiny person, struggling to crawl away. She was almost three feet tall, with a petite build and slender features. Small elfin ears protruded from the long, matted and blood-soaked green hair that clung to the sides of her face. Her large golden eyes stared wide-eyed in shock and terror at an advancing pack of snarling wolves.
+
+Could she be… without even thinking about it, he used Identify on all of them.
+
+Fae [Ancient]
+
+Holy crap, a real, live Fae? Down here?
+
+Starving Alpha – Wolf – level 5Starving Wolf – level 1-3 x4
+
+Calen stared aghast at the scene playing out in front of them. The five monstrous wolves were focused on the Fae girl, fanning out to surround her. He had always heard that the Fae were supposed to be these powerhouses of magic, but even though she had the Ancient title, inexplicably she was unclassed.
+
+She doesn’t stand a chance! Calen knew it instantly, taking in the extensive injuries and enormous amount of blood already soaking the ground around her. It was a wonder she was even conscious at all. This ‘real live’ Fae was about to be really dead, really soon.
+
+And then Mato shouted, “She’s going to die!” He charged into the fray, heedless of the danger.
+
+Dammit Mato, this is not a schoolyard brawl, Calen thought, his heart immediately beginning to race at the nightmarish prospect of tackling five monsters at once, one a level five. But there was no heat in his thoughts. He knew this was who Mato was – for as long as they had been friends, Mato had never been able to leave someone who was injured, weaker, or being picked on by bullies.
+
+No matter the odds.
+
+This is going to get you killed one of these days, he thought, drawing his bow, and fervently hoping it would not be today. Both of us, he amended, realizing he was equally unable to let either Mato or the unknown girl die while he stood by and did nothing.
+
+At a glance he scanned the wolves’ approach, studying their formation. Mato’s loud shouting and charge had already been noticed, and some of the wolves were peeling off to deal with his intrusion, but not all. He aimed and released, firing his arrow right past Mato. It struck one of the wolves mid-leap, knocking it sideways and barely saving the helpless Fae from its snarling fangs.
+
+Now I’m part of this insanity.
+
+As he drew a second arrow, Malika sprinted by, diving into the fray to back Mato up. It took a moment before her solo charge toward the monstrous wolves sunk in.
+
+Where’s Tala?
+
+He glanced around urgently, but there was no sign of her anywhere. With a sudden sour taste in the back of his throat, he realized the truth. She abandoned us. And in the middle of the most dangerous fight, too.
+
+Later, he thought. He couldn’t afford to worry about it now, but it continued to gnaw at him in the back of his mind. How can we survive with just the three of us?
+
+The Alpha howled and the entire pack rounded upon Mato, even the one Calen had hit got back up and started attacking. The wolves immediately shifted formation, allowing the Alpha to attack Mato head-on while the lesser wolves moved to flank him. Natural coordination born of instinct, perhaps. Malika arrived shortly after, and her presence took a bit of the pressure off Mato as two of the wolves turned to her instead.
+
+Calen kept firing steadily, but the wolves were coordinating their attacks and Mato and Malika were already bleeding from several bites. They can’t keep this up for long. Mato has three wolves on him, and Malika does not have armor.
+
+Calen looked around desperately, searching for anything. To the right, hidden in the shadows of the rock wall was a darker shadow indicating an opening.
+
+“Mato!” he yelled. “Cave on the right!”
+
+He fired a shot at the wolves attacking Malika, hitting one in the neck and burying the other arrow deep into the second wolf’s flank, earning a yelp of pain. Snarling, both wolves turned to chase after him. Knowing he wouldn’t be able to shoot effectively if he let them get close, he sprinted for the shadowed hole in the rock wall, trying to keep his distance while struggling to fire his bow accurately on the run.
+
+Even though Malika bled profusely from several nasty bite wounds, she still ran back and scooped up the injured Fae girl before sprinting for cover.
+
+Arriving at the entrance first, Calen squeezed through the narrow crack, spun around, and began firing off arrow after arrow to cover the others as they fled, heedless of how many he spent.
+
+Malika punched the wolf trying to reach Calen, knocking it sideways just enough to save him from the rending fangs, and she fell past through the entrance with the Fae.
+
+Mato struggled out in the open by himself, playing tag with the Alpha and the two remaining wolves. He almost tripped as they tried to hamstring him, and he scrambled back drawing them into an ugly running battle across the mossy ground. Arriving at the entryway, he somehow managed to maneuver the wolves so that they blocked each other, and he finally squeezed his large frame through the opening, despite a wolf trying to turn his foot into a chew-toy. He kicked it off with a curse.
+
+Mato turned, blocking the doorway with his body and his mace, while Calen fired past his shoulder. Suddenly unable to flank them or attack more than one at a time in the narrow entrance, the balance shifted markedly in their favor. He fired into the crowd of snarling wolves jostling each other as they tried to cram their way through the narrow cleft. Strange spongy roots sprang from the ground to grapple and tangle the wolves’ paws. Glancing briefly down at the floor, he found the Fae girl had her hand outstretched towards the wolves, apparently casting a spell. However, she soon collapsed, spent, breathing shallowly.
+
+It took hectic minutes of messy fighting with both him and Malika holding off the wolves at the entrance until Mato muscled a boulder across the entrance through sheer strength, and the wolves finally retreated, howling in frustration.
+
+Well, that was great, he thought. We didn’t even kill a single wolf. Calen finally breathed a sigh of relief. At least we’re alive.
+
+Malika, however, was not nearly as calm, rounding on Mato, her face livid. “What the hell was that? You can’t just charge in, putting us all in danger!”
+
+Mato drew himself up to his full height, chin jutting forward.
+
+Here it comes, Calen thought. Mato was his closest friend, and after all this time he had gotten used to his impulsiveness, but even he was sympathetic to Malika’s position. This had been an unreasonably dangerous fight and Mato really had just jumped in without thinking.
+
+Healing first, he thought, choosing to stay out of the argument for the moment, while he rummaged through his pack for potions, handing one each to Mato and Malika.
+
+“She would be dead if we hadn’t charged in!” Mato’s response was predictably upset and emotionally charged, but as much as Malika’s anger resonated with him, Calen could see Mato’s point too. The little Fae lay in a slowly growing pool of blood with glazed-over eyes and rapid shallow breathing, obviously beyond pain and only semi-conscious. It was clear she would likely have died if they had hesitated for even a few seconds.
+
+She might die right now, he thought, quickly kneeling beside her, and raising her head so he could drip the crimson potion between her pale lips.
+
+“You’d be dead if I hadn’t risked my life to save you!” Malika wasn’t letting up one bit. The potion was working quickly on her, and some of the more obvious wounds were visibly closing. Without any armor to protect her, the wolves had savaged her badly and she had been severely injured. Even her flimsy clothing was almost completely shredded – Calen wasn’t sure how she had even managed to run back to the cave.
+
+“I knew I could count on you,” Mato said. “With the four of us, I was sure we could do it.”
+
+“That was not your fucking decision!”
+
+“You’re both alive, aren’t you?”
+
+Much as Calen hated getting involved in arguments, this did not seem like it would resolve itself. And they were still in extreme danger. “You realize Tala abandoned us, right?” he interjected into the pause that followed.
+
+Both of their heads snapped around to stare at him in shock. First time they noticed, he thought.
+
+As they stared at him, he continued. “We’re trapped in this cave with only two health potions left, and I can still hear the wolves outside. We’re going to need to work together to have any chance of surviving this.”
+
+His attention was drawn once again to the Fae lying beside him as she began to stir. Her eyes fluttered and opened, darting around in confusion.
+
+“How are you feeling?” he asked, sensing Mato and Malika’s attention shift to the Fae girl, their argument forgotten for now.
+
+The Fae girl looked at him for a long moment and then answered something unintelligible in a language Calen had never heard before.
+
+Calen shook his head and shrugged.
+
+The girl tried again, this time using something that sounded like an ancient Elvish dialect, and for the first time, Calen regretted disowning that side of his heritage.
+
+The girl frowned, trying again with the guttural speech of the Dwarves, but all Calen could do was glance helplessly at his companions, entirely unable to communicate.
+
+“I don’t think she knows Common,” he said.
+
+Not only did that seem to be true, but she was growing progressively more and more frustrated.
+
+I guess we do it the hard way.
+
+“Calen,” he said, pointing to his chest. “Malika,” he pointed to her. “Mato,” he pointed at him. Then he pointed at the Fae and waited.
+
+She cocked her head to the side for a moment, “Aliandra,” she replied in a soft, exhausted voice.
+
+Aliandra
+
+Is it… over?
+
+Ali slumped back against the cold rough stone of the dark cave, her mind grappling with the bewildering array of fragmented memories. She had killed the rat. Somehow. And then the eyes in the darkness, the howls of wolves. Everything after that seemed to be a blur. She had definitely blacked out, at least a few times.
+
+This new cave was quite small, seemingly formed from a single massive slab of rock that jutted diagonally from the ground, supporting a surprisingly dry open space beneath it, behind the narrow entrance. A few glowing mushrooms grew in the corner, and lying beside her on the ground was an empty glass vial that might have been a healing potion.
+
+Her eyes found the Half-elf, Calen, who had clearly fed her the potion and saved her from bleeding out. And who, frustratingly, did not seem to understand Elvish. He sat nearby, chatting quietly with his companions – their words so close to familiar, and yet always just far enough from her understanding as to defy comprehension.
+
+Perhaps Linguist is helping me? She had never encountered full immersion in a new language, so it was unclear what was simply familiarity with phonemes and what was her passive skill prodding her knowledge, but she began to Memorize their conversations, hoping that it might help her to learn faster.
+
+Linguist – level 4You have enhanced proficiency with understanding and learning languages.Knowledge, Intelligence
+
+The unfortunate truth, though, was it would likely take a month or more. She loved languages, but her trying day, and the sheer exhaustion, had pushed her beyond the point of frustration already and her brain was struggling to keep up.
+
+Somehow in the time she had been encased in her mother’s spell, her home language had morphed from ‘Common’ into ‘Ancient Dal’mohran’, at least according to her status. That, along with the strange ‘Ancient’ title she had somehow earned, hinted at something her mind could scarcely believe. Time enough for a language to evolve. That had to be the answer.
+
+A sudden surge of loneliness struck like a punch to her gut.
+
+She forced her attention back to the conversation, listening to the big Beastkin boy, Mato, speaking in a surprisingly deep voice. She had several flashbulb memories of him charging the wolves and laying into their snarling faces with the blood-smeared mace that was now fastened to his belt. Shouting and bleeding; it had been him standing over her while the largest wolf charged.
+
+Why did he save me?
+
+It, and the thousand other questions that barreled through her tired mind, had to go unanswered. She couldn’t ask them. Couldn’t even make herself understood.
+
+The dark-haired girl with the uncannily brilliant blue eyes spoke then, and another flashbulb memory popped into Ali’s mind. Malika. Blood pouring from grievous bite wounds, she had still rushed back, like an angel from one of her beloved hero stories swooping down to carry her away from the ravening wolves. She had been barely conscious by then, everything rushing by in a blur. But what she remembered were the teeth gritted against pain. The determination in her eyes. And the blood.
+
+So much blood.
+
+Her companions seemed to reach some form of consensus, and Malika rose to her feet, relocating to the blocked entryway and sitting cross-legged to face it. The other two settled down to rest.
+
+At last, as the conversation faded, Ali slowly slumped over, her mind and body finally succumbing to exhaustion.
+
+***
+
+She must have fallen asleep because, next she knew, Malika gently shook her awake. Drawn by the sounds of loud grunting and groaning – primarily from Mato – she sat up and stared. Over at the entrance, the two boys were busy stacking some rocks.
+
+Puzzled, but unable to ask, she simply watched as they worked. After a lot of pushing and shoving, and generally sweaty work, they had shifted some heavy boulders to create a small wall near the still-blocked doorway.
+
+In the distance, beyond the cave, Ali could hear the chilling sounds of wolves howling.
+
+What are they doing? Are they going to fight the wolves?
+
+Soon, the Half-elf walked up to her and gestured for her to back away from the entrance. Calen. She repeated his name in her mind. She limped along after him and her worst suspicion was quickly confirmed as he readied his bow and indicated a rock for her to stand behind. A chill of fear touched her spine and she suddenly shivered.
+
+Calen left her standing there with a few words, delivered in a kind-sounding tone, and headed over to join the others. With some obvious effort, Mato shifted the boulder blocking the entrance to the side, and Calen slipped through into the darkness beyond.
+
+Time seemed to crawl by in a tense silence broken only by the sounds of their breathing.
+
+A wolf suddenly yelped in an outburst of pain. Several howls echoed from outside.
+
+Ali’s breath caught in her throat.
+
+Suddenly, Calen burst back into the cave with the howling wolfpack hot on his heels. Just as he hurdled the low wall of piled stones, Mato deftly stepped in, fearlessly interposing his bulk and his mace to block the entrance. Then Malika darted in, weaving and ducking around the boulders they had placed, jabbing and kicking at the bunched-up wolves.
+
+What do I do? They had not been able to share their strategy with her, nor could she tell them her abilities. Not that she had any combat abilities to speak of. Ali puzzled over their strategy while her heart began to race, fueled by a growing rush of adrenaline that had nowhere to go. Nearly all her mana had regenerated while she slept, but she could only cower behind her boulder while the others risked their lives.
+
+It gnawed at her. She had only been able to watch while Armand had been cut down trying to protect her. And now it was happening again.
+
+Suddenly, Malika dove back into the cave with an agile flip, drawing one of the wolves in with her. Ali’s eyes widened in surprise as, instead of blocking it, Mato let the wolf slip past him, keeping his attention on the rest. Calen drew his bow, squinting in the dark, and their plan finally became clear.
+
+They mean to draw them in, one at a time, she thought, realizing that Mato was buying Calen and Malika time to take out the isolated wolf while he blocked the rest at the narrow passage into the cave. And she found something she could do. A little thing, but it was far better than cowering in this corner.
+
+With a simple flash of mana, she conjured a small orb of golden arcane energy and tossed it up near the roof. And dim though it was, the light from her magic filled the cave.
+
+Calen said something quick and short, a quick grin lighting his face as his shots suddenly grew more rapid.
+
+For all the panic and frenzy of actual real combat, their strategy seemed to be working quite well. But right then, Mato’s urgent yelling drew her attention to the entryway, and the terrifying sight of a wolf leaping over his head. One of Calen’s arrows thumped into its chest, but it still crashed to the ground, knocking Malika sprawling, and the wolf she had been fighting wasted no time, lunging fangs first at her exposed neck.
+
+No! Reacting by pure instinct, Ali threw a disk of crystallized arcane energy at the wolf. It was a tiny thing, no larger than the saucer of a teacup, and yet it materialized right between Malika’s neck and the sharp fangs. The fangs snapped shut with an audible crack and her creation shattered in the wolf’s mouth with a tinkle like fine glass, making the mana dissipate into the air in a cloud of golden sparks.
+
+Malika’s reactions were incredible, dodging out of the way in the small window of time she had created, scrambling away and bouncing back onto her feet.
+
+Ali released the breath she had been unconsciously holding.
+
+Heart still racing from the close call, she searched underground with her plant magic. She did not find any roots in the soil of this cave, but she did find moss and mushrooms. To her relief, they reacted to her nature mana all the same, mycelium thickening and bursting from the ground to tangle wolf paws. Her skill was anything but powerful, so she directed all her focus onto one of the wolves, and as soon as she had some traction, Malika backed up from the struggling monster, drawing the other wolf away.
+
+The wolf thrashed and bit at her delicate plant magic, but Ali doubled down on her focus, spending more and more mana to keep the moss and fungus growing, tangling the wolf’s paws as quickly as it tore the growth to shreds – but she was spending mana furiously and wouldn’t be able to keep it up for long.
+
+Ali was so focused on keeping the wolf immobilized that she failed to notice when Calen and Malika killed the first one. She jerked back, startled when Malika rushed past her, and Calen’s arrows began whizzing past her head as they both switched to attacking her wolf.
+
+With nearly two-thirds of her mana depleted, she released her control over the plants and took a break while Malika and Calen took over.
+
+A big crash preceded a yell ringing out from the cave entrance. The heavy Alpha wolf rammed into the makeshift wall of rock, knocking it over, before slamming into Mato with the sheer force of its bodyweight. Mato stumbled under the impact, knocked sprawling to the ground, and all the remaining wolves burst into the cave in an explosion of chaos.
+
+Ali could only stare, rooted to the spot as a huge snarling wolf baring large razor-sharp fangs bounded over the tangled pile coming straight for her. Desperately, she threw arcane magic into its face, but it shattered instantly, not even slowing the huge beast down. Just then, a flying kick slammed into the side of its head as Malika sprang into its path. Fletchings buzzing, an arrow buried itself deep into its flank, but the wolf had so much momentum it carried right past Malika, smashing into the ground and careening into Ali, knocking her flying into the back wall of the cave.
+
+The impact drove the air from her lungs making her see stars for a moment. She gasped, winded, struggling to crawl away from the ferocious snarling wolf trying to have her for a snack, but right at that moment, Malika leapt in front of it and unleashed a vicious kick to the knee of its left front leg. Once she had its full attention, she stepped back, drawing it away as a second wolf tried to circle around and attack her from behind.
+
+Relief welled up inside her at the sight of the ravenous wolf turning away, but it was followed instantly by guilt as Ali realized Malika had chosen to get bitten on her behalf.
+
+Two wolves were far too dangerous to handle without armor, but Malika simply downed a healing potion and unleashed a storm of blows while the magic visibly repaired her wounds. A few punches and arrows later, one of the two wolves dropped and lay unmoving.
+
+Ali levered herself up using the wall for support, her breathing still ragged and rough from being winded, but slowly recovering. Miraculously, she was alive, and nothing was trying to eat her.
+
+Malika and Calen were still busy with one wolf, but Mato stood with his back to the wall over at the far side, holding off two, one of which was the huge, muscular Alpha wolf. Blood streamed from several serious bite wounds and gashes on his body, and he was obviously struggling, his movements slow and stumbling.
+
+He needs help.
+
+She didn’t have a whole lot of mana left, but if she could just distract it a little, maybe that could help – Mato certainly needed something, and soon! She conjured a disk of arcane magic right in the mouth of the Alpha wolf. Reaching below ground, she found the fungal mycelium again and twisted that around the paws of the lesser wolf.
+
+The Alpha attacked again; a savage bite aimed at Mato’s face. Ali repeated her distraction, causing splinters of gold to burst from its mouth as its fangs snapped shut a hair’s breadth from Mato’s neck. The Alpha snarled its frustration, but Mato did not waste the opportunity. With a deft motion, he retrieved a healing potion from his belt, uncorked it with a flick of his thumb, and tossed the crimson liquid down his throat.
+
+And as combat resumed, ferocious as ever, his wounds began to close, his vigor returned, and soon he was trading blows with the Alpha.
+
+With a swish and a thump, an arrow flew past her, striking one of Mato’s wolves, and suddenly Malika leapt into the fray.
+
+How do they still have energy? Ali was wheezing, her injuries ached, and she was very nearly out of mana. Glancing back, Ali saw three wolf corpses lying sprawled on the cave floor. With Mato hitting it with his mace and holding its attention, Calen and Malika had free rein to unleash their full power on the last of the lesser Starving Wolves and it quickly dropped to the ground, mangled and bleeding, with several arrows sticking up out of its neck and back.
+
+One left, Ali thought, but it was the Alpha. And to her dismay, the dramatic healing of Mato’s wounds began to slow.
+
+Calen yelled something, and Mato shouted a response.
+
+Something was wrong, and Ali didn’t need to understand the language to tell what it was. The Alpha was a level five monster, and nobody was producing a healing potion.
+
+The giant shaggy wolf lunged forward, still agile despite the blood running from a half-dozen arrows sticking out of its flanks. As its mouth opened to bite and tear, Ali summoned her arcane magic, recklessly burning her dwindling supply of mana without hesitation. The disk shattered in the wolf’s jaws, blunting the attack just enough to leave Mato with only shallow scratches.
+
+It howled, shaking its head in fury, and then lunged at Mato’s legs. But this time Ali had her mycelium grown around its hind leg. The power of the monster tore the fungus right out of the ground, ripping it with ease, but its momentum was blunted just enough to cause its powerful jaws to snap shut on air.
+
+With her heartbeat pounding deafeningly in her ears, she focused on the Alpha, watching for the next attack. When it came, it was fast and powerful. Ali summoned another disk of arcane energy, but this time all she got was a tiny golden sparkle that popped in the air as her mana pool ran completely dry.
+
+Oh no! She desperately tried again, but her magic was spent, and the Alpha wolf’s fangs sunk into Mato’s thigh, ripping flesh and spraying crimson blood. Mato screamed, but his mace came down with a brutal crack on the back of the Alpha wolf’s head. He pulled it back while Malika and Calen took advantage of his stunning attack to get in a couple of kicks and arrows, and then the mace came down a second time to the sound of bone crunching.
+
+As the Alpha wolf dropped, a chorus of chimes echoed within Ali’s tired mind. She saw the book appear in her mind and heard the rustling as the page turned. Bright golden text shone on the page.
+
+Ali simply stood there, staring in disbelief at the blood and unmoving corpse of the Alpha wolf, her body trembling in shock. Is it really dead? Mato sank to the rocky ground, holding his wound closed with a bloody hand. The other two went to check on him, but their voices seemed calm. At least calmer than she would have expected if he were dying.
+
+Finally, she turned her attention to the golden notifications waiting for her.
+
+Your group has defeated Starving Wolf – level 3.Your group has defeated Starving Wolf – level 2.Your group has defeated Starving Wolf – level 1.Your group has defeated Starving Wolf – level 3.
+
+Your group has defeated Starving Alpha – Wolf – level 5.
+
+Requirements met for class advancement.
+
+Primary class slot available.Experience threshold reached.
+
+Class: Arcane Scholar unlocked.This class will be permanently assigned in one week.Additional class options may be available at a shrine.
+
+Ali stared at the glowing words, frozen in surprise. She shut her mouth and swallowed hard. So many times she had dreamed of this moment. So many nights, waiting for sleep, she had imagined how it would feel. And suddenly, without warning, it was finally here.
+
+Slowly, she became aware of the excited voices of her companions.
+
+They must have gotten theirs, too.
+
+She studied the notifications, going over them all one more time. Arcane Scholar. Her natural path Class. It was as she had expected – even what she had told Maeria Runeweaver – a common arcane magic research Class would be a fine starting point for her. And without the shrine, she would have been able to build it up with hard work and study.
+
+Although her dream of having her father conduct her Class ceremony would never come to pass, she had inherited his shrine. And that meant she could finally offer something to these strangers who had selflessly risked their lives to save her.
+
+Carefully, she levered her tired, bruised, and battered body up and got to her feet.
+
+“Come,” she said, grabbing Malika’s hand and pulling. Seeing the blank look followed by confusion, Ali repeated herself, pulling her hand again. There was a flurry of unintelligible speech among the others and eventually Malika got to her feet.
+
+When the others remained sitting, Ali repeated the gesture with them, too.
+
+This is really annoying, she thought, pinching her lips together and digging deeper for just a little more patience – being unable to talk was the worst.
+
+At least they understood her quickly enough, and soon she led them out of the cave and towards the Grove where the shrine waited. It was not very far, and with the wolves dead back in the cave, Ali was certain they would be safe. However, her eyes never left the shadows, searching them relentlessly for danger.

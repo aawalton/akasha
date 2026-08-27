@@ -1,0 +1,251 @@
+---
+id: da21c4a8-5837-5cc8-96a0-ef7c2f1e7698
+page-type-slug: story-chapter-royal-road
+title: "Chapter 201: The Phoenix, Again"
+slug: 0208-chapter-201-the-phoenix-again
+partOf: dungeon-of-knowledge-complete
+position: 208
+ownLength: 3984
+unit: words
+ownProgress: 3984
+publishedAt: 2025-02-23
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2084661/chapter-201-the-phoenix-again"
+royalRoadId: "2084661"
+markedReadAt: "2026-06-29T20:18:11.051Z"
+---
+
+“We’re all alive, so that’s good,” Malika said, and Ali paused for a moment, calming herself down. She had lost almost all her minions to the firestorm, and she had been terrified of losing her friends too. It may have only been a single-group threat level, but it was scary how much damage it put out, even with the considerable money and time they had invested in getting the best fire resistance gear and potions.
+
+“What do we know?” Calen asked, sitting down with his notebook in his lap.
+
+Ali eyed the notebook suspiciously, but no matter how long she squinted at it, it failed to burst into flames.
+
+“I got it enchanted,” Calen chuckled, seeing her puzzled look. “See?” He turned it over to show a runic inscription on the back cover.
+
+“I will need to study that later,” Ali said.
+
+“Focus, Ali,” Malika chided gently. “Phoenix, remember? Big burny bird?”
+
+“I can’t move her,” Mato said, for some reason attributing the feminine gender to a monster that was more fire than it was a creature. Although thinking of it, Ali guessed it could fit – though they were not even the same species, the Phoenix did seem to be brooding over a cavern full of eggs.
+
+“She rapid-fires fireballs whenever you aren’t tanking her,” Ali said. That specific attack had affected her much more than the others, the ceaseless onslaught of the randomly targeted fireballs hit her minions more often simply due to numerical superiority. “And she constantly sucks up fire mana when she’s in that lava pool. I think she’s using it to regenerate.”
+
+“The curse does a ton of damage if you’re in the melee group,” Malika added, sharing the numbers for the curse she had gotten, but Ali had seen them quite a few times already from her minions.
+
+“Everything in the firestorm got that curse,” Ali said, recalling the shock she had felt when it had happened – it had been the very reason her Acolytes had freaked out at the end – and why she called the retreat so hastily. Sure, there had been a whole pack of Drake Hatchlings, but it was the conflagration curse on every single person in the room that had overwhelmed her Acolytes in an instant.
+
+“Ideas?” Calen asked, glancing up after he finished jotting everything down.
+
+Ali replayed the chaos of the flying phoenix in her mind. As the domain mana had been drawn in and turned into that storm of flames, everything it had touched had lit up with fire, and the damage was enormous when stacked on top of the others nearby.
+
+“Perhaps we should spread out? If we stand more than three meters apart, then the conflagration won’t hit multiple people and stack up?” It wouldn’t avoid the fire or the curse, but at least one person would only take one helping of the conflagration at a time. “Oh, ten feet,” she translated for them as she realized what the comically brow-wrinkling expression on Mato’s face was for.
+
+“So, we just need to handle the flying phoenix and the hatchlings,” Calen said, chewing the back of his pen in thought. “Ali, how about some Bone Mages? They can hit the phoenix in the air, and they could make walls to corral the adds.”
+
+“That’s a good idea,” she said. Her spiders were probably not worth it in there. If they were going to bunch up the Drake Hatchlings and use area damage, she would be better off with Sparkling Oozes or maybe even Storm Shamans if she could keep them alive through the firestorm. Briefly, she considered her Poison Wyverns because they could fly, but their damage would likely only be effective against the hatchlings and not the phoenix itself.
+
+“I’m not sure if this is helpful,” Mato said, surprisingly joining in the strategy conversation. “The firestorm regenerates a lot of mana and stamina.”
+
+“Oh, that is interesting,” Calen said, immediately perking up at the idea of something that might regenerate his mana.
+
+“I think the fire also hatches the eggs,” Ali added. The hatchery cavern was filled with thousands of eggs tucked away in alcoves and caves, but it was only the ones that had been in the direct path of the phoenix that had hatched. And somehow the structure of the fire mana powering the phoenix’s fire seemed similar to the Living Flame elementals she had wanted to study.
+
+***
+
+“I think that’s it,” Ali muttered, finally finished summoning and tweaking her new army, running through the list and double-checking all the ideas and roles.
+
+Hellfire Imp – Demon – level 55 (Hellfire)
+
+The imp wasn’t going to fight – nothing in the hatchery could be harmed by it. But the sheer amount of intelligence it gave her made it well worth the cost. On the flip side, it was also immune to fire, so it wouldn’t need any healing. Now, if I just had a fire-immune flier to tank that bird…
+
+Warrior – Hobgoblin – level 41-44 x4Shaman – Goblin – level 18-19 (Lightning) x3
+
+Her Hobgoblins were her highest-level minion, and equipped with hybrid armor and elixirs, they were rather robust against fire damage, and that made them an obvious pick, even fighting in lava. The shamans, on the other hand – well they were a bit of an experiment. She had no idea if she could keep them alive when the phoenix took to the air – they were simply too low-level for most of the best gear and potions. At worst, she could use them for some damage up front and then let them die if they became a liability. She felt the Hobs edged out the Abyssal Stalkers for her melee simply because Blood Shock did not work on the phoenix, and the more Goblins she fielded, the higher their racial bonuses to attacking stacked.
+
+Acolyte of Azryet – Kobold – level 21-23 (Holy) x6Mage – Kobold – level 21 (Bone) x4Archer – Kobold – level 20 x3Death’s Acolyte – Kobold – level 33-34 (Death) x2
+
+Her trusty Kobolds would make the bulk of her ranged attackers, trying to shoot the flying phoenix, and her Bone Mages would pull double duty, helping Calen corral the hatchlings. She had also decided to bring six healers this time. Sorely lacking in the Fireball department, Ali dusted off her next best Kobold – the Death’s Acolyte for more options to kill hatchlings.
+
+Sparkling Ooze – Ooze – level 35-37 x3
+
+Sparkling Oozes were the only non-fire ooze she had that really could survive long enough to be useful, so she decided to make a couple and use them to throw bombs at the phoenix or the hatchlings.
+
+Your reserved mana has increased by +2045.
+
+She felt the weight of the enormous reservation settle on her like a heavy yoke around her shoulders. But, even unassisted by her domain mana, she could still afford it with enough mana left over for barriers, a backup teleportation circle, and emergency adjustments.
+
+“Ok, let’s go set up,” Calen said, leading them back through the tunnel to the phoenix’s chamber.
+
+Ali followed her friends into the hatchery once again and surveyed the deceptively peaceful room filled with eggs and a glowing pool of lava that hid the elemental fury of the phoenix.
+
+“Hey, Ali.”
+
+She turned to look at Mato, who was gazing at her slimes with a curious expression on his face. “What’s up, Mato?”
+
+“You know, I was thinking… the firestorm only goes downward.” He gestured expressively at the oozes.
+
+She looked at him puzzled for a moment. Then she looked up at the craggy, rough-hewn ceiling of the cavern. “Oh,” she said and immediately sent her three Sparkling Oozes crawling up the walls to find cracks and alcoves in the ceiling above. It was not quite flying, but in a cavern like this one, it would be almost as good. So good, in fact, that she made a fourth and sent it to join its brethren.
+
+“Ready when you are, Mato,” Calen said, and Mato immediately transformed into his bear and began to approach the lava pool.
+
+“Spread out,” Ali instructed, fanning her minions throughout the cavern, taking care to ensure no one was closer than three meters to another. From the lava came a loud hiss and sizzle, followed by a thunderous screech. Mato roared a challenge, but Ali ignored it all, instead fine-tuning the position of her minions.
+
+“He’s ready,” Calen said, his bow already buzzing.
+
+“Hobgoblins, go!” she said, and they charged off with raucous battle cries, splashing through the lava to get to the phoenix. Little bright flashes of holy magic infused them as the Acolytes reacted to the lava damage. She deliberately withheld her shamans, though. She would have enough trouble keeping them alive out of the lava. They would have to be mages for this fight – and totem throwers.
+
+She studied the phoenix’s mana carefully, looking for any sign of the elusive second domain magic spell. So far it had only shown them the fire storm. “Ok, Bone Mages and Archers, begin,” she said. The oozes and Death’s Acolytes she held in reserve for now, not wanting to inflict unnecessary area damage upon the melee group swimming in lava.
+
+She juggled the positions of her minions a little, lining up her shamans, and then she instructed them to begin. They immediately cursed the phoenix with lightning vulnerability and the dark cavern flared with the incredibly bright flashes of lightning and the thunderclaps echoed loudly off the rock walls and ceiling as they threaded their devastating spell through the gaps in the melee circle.
+
+Without much else to manage, she shifted to monitoring everyone’s health and finetuning her healers. With everyone properly spread out, the conflagration curse wasn’t particularly difficult to manage, and it was only when her Hobgoblins got cursed that she had to worry. But they were smart enough to understand the strategy and they immediately ran out of range of the melee group whenever they got cursed.
+
+“This is a lot better,” Ali said. It was remarkable how much calmer the fight felt with a coherent plan. The phoenix was no longer lobbing random fireballs around because it was being tanked properly, and the conflagration seemed under control. She simply monitored the fight, health, and mana usage, saving her resources for the flight phase and whatever surprises might be thrown their way.
+
+“We haven’t seen the fire storm yet,” Calen said.
+
+As if his words were the signal, a great screech rocked the cavern, and the phoenix launched itself into the air, torrents of mana flowing from the domain making its flaming form shine with awe-inspiring power.
+
+“Here it comes,” she said, preparing herself. Flame billowed out from beneath the phoenix’s wings, pouring down onto the cavern floor as it flew. Every single minion in its wake ignited with flame as the conflagration propagated through the fire.
+
+“Attack,” Ali yelled. But this time she included her oozes and her waiting Death’s Acolytes, directing all her ranged and area damage at the flying phoenix. Bolts of black energy flew up from the ground to meet the intense glowing balls of light lobbed down from the ceiling, punctuated by the blinding flashes of lightning bolts, making the mundane arrows and bone spears all but invisible.
+
+“You, Devotion,” she said, picking the closest Acolyte to stem the enormous increase in damage.
+
+“Yes, Ancient Mistress,” the Kobold intoned, bursting into a blaze of light that brightened the entire chamber.
+
+Ali braced herself as the waves of billowing fire grew closer and closer, choosing to let the flame wash over her, instead using all her barrier capacity to protect her shamans and healers from the flames.
+
+You have been cursed with Phoenix Conflagration.You have been cursed with Lightning Vulnerability.
+
+Huh?
+
+She immediately began to burn with the Phoenix Conflagration, but with all her resistances and elixirs, the damage was manageable. The Lightning Vulnerability curse caught her attention, but she was immediately distracted by Calen calling out the hatching of a clutch of eggs.
+
+“Hatchlings! Right side! Ali…”
+
+“I see them, Calen,” she said. Sheesh, so much tension! It seemed fair though; she had the bulk of the area damage which was a core part of their plan. She switched focus. “Walls, there and there,” she said.
+
+Her Bone Mages sprang into action, and several sturdy walls of thick bone suddenly materialized around the scrambling hatchlings. With a wave of her hand, she filled in the gaps with a pair of custom-shaped barrier walls.
+
+She had not been able to guess in advance where the eggs would hatch so she had instead chosen to spread her minions around, which meant she had a shaman, a Death’s Acolyte, and an ooze in range of the eggs. With quick instructions, a sparking steel totem landed in the middle of the hatchlings, pulsing rings of lightning damage. Again, she experienced a moment’s curiosity, noticing the lightning vulnerability curse already present on every single drake hatchling. Then she filled the area blocked off by walls of bone – already smoking from the drakes’ fire breath – with explosions of light and death magic as her ooze lobbed orbs of light magic from the ceiling to complement Calen’s bombardment from his position flying above the battlefield.
+
+“Ali, the other side,” Calen added, a little calmer this time.
+
+She turned, finding another clutch under the firestorm, eggs starting to rock and splinter. She marshaled her minions, erecting new bone walls, and choosing area attackers – this time a single shaman and two oozes could reach the clutch without dragging the conflagration across everyone else. The bone walls sprang up, but immediately began crumbling from the flames so she took her barriers away from her minions, patching up the walls to keep the adds contained. But Calen and her minions made short work of the hatchlings.
+
+“Melee, watch out,” Calen called.
+
+The phoenix flew across the room and circled the pool of lava before shooting downward like a meteor, sending lava spraying into the air, immediately beginning to absorb fire mana from the pool again, its health slowly ticking upward.
+
+“Hit it, it’s regenerating health,” she called out, sending the command to her Hobgoblins to re-engage. In response, Calen’s mana ignited as he used his Righteous Fury, and all her minions began doing substantially more damage from his Motes.
+
+Urgently, she checked her healers’ mana, but to her surprise, she found every single minion was still nearly full. Is that the effect Mato noticed? It hadn’t affected her too much because her barriers were constantly regenerating mana by absorbing continuous fire damage, but it looked like she wouldn’t need to worry about her Acolytes.
+
+The phoenix’s health was lower than twenty percent when it took to the air a second time. That, more than anything, confirmed that it was not a raid boss. She sharpened her focus; the flying phase took substantially more attention on her part. A flurry of barriers flickered across the cavern, protecting her weakest and most vulnerable minions in the path of the firestorm. Again, she opted to get cursed and burned herself. This time the phoenix hatched three clutches of eggs, and one was twice the size of the others, which meant she had to move one of her Bone Mages just to cover the shortfall, despite the conflagration damage, and do several emergency barrier patches. As close as it was, the hatchlings still dropped to their thunderous barrage of explosive light magic, death bolts, and lightning nova totems.
+
+“Nice work,” Calen said, as his thunderous bow quietened, and he turned back to the phoenix.
+
+“It’s almost dead,” Ali announced as the giant fire bird landed in its meteoric dive back into the lava. “Go,” she instructed, eager to finish it off. This was not that hard.
+
+Her minions’ arrows, Bone Spears, Lightning Bolts, and swords struck the phoenix, and she even threw in some barrier shards to eke out just a little more damage, and then suddenly her notification chime sounded, and the phoenix exploded in a ball of intense fire, raining down ashes across the cavern as it splashed down into the lava pool.
+
+Your group has defeated Phoenix of Living Flame – Elemental Bird – level 72 (Fire)
+
+“Yes!” Malika cheered.
+
+“Yay!” Ali smiled, feeling much the same. It had not been easy – certainly not as hard as some of the raid-fights she had experienced – but for a side boss, it had been quite challenging with an enormous amount of damage output. But their planning and fire resistance had made the fight much more manageable.
+
+“Good work everyone,” Calen declared.
+
+Ali was just about to head over to examine the corpse when a ripple disturbed the domain mana of the lava pool. What? A sudden geyser of mana burst from it and Ali froze.
+
+It’s… dead. But clearly, something was happening.
+
+“Domain magic!” she yelled, catching the attention of her celebrating friends. Malika’s head snapped around to the pool, and Mato immediately transformed back into his Bear Form as Calen took to the air, that powerful new bow reappearing in his hands.
+
+The domain mana coalesced into an intense ball, and the pool of lava erupted yet again, spraying lava in all directions. A pair of giant flaming wings unfurled.
+
+Phoenix of Living Flame – Elemental Bird – level 72 (Fire)
+
+“Fuck!” Calen exclaimed.
+
+To Ali’s intense surprise, she recognized the spell. The dungeon had just respawned the phoenix, ignoring the usual recharge. While that should not have been possible, she knew what the magic looked like because of the time she had forcibly respawned her own Forest Guardian to protect the novices at the shrine. It can do that, too?
+
+The phoenix screeched in rage and spat a fireball at Mato as he charged back into the lava.
+
+***
+
+As exhausted as she was by the time the third phoenix died, Ali still wouldn’t let her guard down, and neither did any of her friends. She stared at the pool for over five minutes before she convinced herself that the absence of surging domain mana meant it was not going to rise from the ashes a fourth time.
+
+“I think it’s not coming back,” she said and let her legs give out finally. The others let out sighs of relief and other exclamations as they gathered up beside the pool of lava.
+
+“Well, that was super annoying,” Malika said.
+
+“You can say that again,” Calen said.
+
+“The only upside is my Abiding Perseverance lasted across all the fights,” Malika said. “My stamina abilities cost next to nothing by the end.”
+
+“Oh, nice,” Calen said, nodding.
+
+“Stupid fliers,” Mato muttered.
+
+“Yes,” Ali said, looking out at her minions. Despite fighting the same boss three times in a row without time to rest, she had lost only a single Acolyte and two of her shamans, killed when a double clutch of eggs had hatched on top of each other and escaped the bone walls, rampaging through her minions before they had finally been killed. That had been during this last incarnation, fortunately – they were getting tired. She shuddered to think how much harder another round might have been minus an extra healer and the lightning damage.
+
+Your group has defeated Phoenix of Living Flame – Elemental Bird – level 72 (Fire) x3Grove Warden has reached level 68 (+2).+20 attribute points.Arcane Insight has reached level 37 (+3).Barrier has reached level 49.Martial Insight has reached level 41 (+2).Empowered Summoner has reached level 32.Minion Teleport has reached level 24.Reading has reached level 15.Inspiration has reached level 13.
+
+“I’m dying to know what that ability is,” Calen said.
+
+Once he had voiced it, Ali too found curiosity nipping incessantly at her. It refused to relent, so she levered herself up and flew herself over to where the corpses lay, half sprawled in the pool. Carefully avoiding the lava, she reached out to touch the partially submerged corpse surrounded by heaps of ash and deconstructed it.
+
+[Sage of Learning]Domain Magic analyzed: Living Flame.Domain Magic analyzed: Phoenix Rebirth.Living FlameRequirements: Level 65+, Fire affinity. Source: Phoenix of Living Flame.+50 fire damage per second.+5 stamina and mana restored per second.Curse Proliferation (Whenever Living Flame damages a cursed target, it has a chance to refresh the curse duration or proliferate it to nearby targets).Skill – Domain MagicPhoenix RebirthRequirements: Level 55+Source: Phoenix of Living Flame.50% chance to ignore the domain respawn recharge timer on death. This effect summons the new incarnation with a Phoenix Tear.Skill – Domain Magic
+
+“Not what I expected. Not at all,” Ali murmured and then shared the two new domain magic spells with her friends while poring over the details intently herself. Living Flame – an ability with the same name as the elementals they had encountered in the Landing – seemed to be a specialized kind of flame area attack. While it did substantial damage, it also regenerated stamina and mana, as Mato had discovered.
+
+“What is curse proliferation?” Calen asked.
+
+“Any curse in the fire is duplicated onto everything the fire touches,” Ali answered, studying the detailed description. “It also refreshes the curse duration if the curse is already present.” It explained the confusing presence of the lightning vulnerability curse. Her shamans had cast it on the phoenix herself, and the living flame ability had proliferated it to everything in the flames – all her unblocked minions, herself, and all the drake hatchlings too. But it was also the reason the conflagration curse propagated to everyone within the fires – the single largest and most dangerous source of damage in the entire fight.
+
+“That rebirth is ridiculous,” Calen said. “Fifty percent chance to instant respawn?”
+
+They had fought three phoenixes, meaning they had gotten unlucky twice – a one-in-four chance.
+
+“Ali,” Malika said, a strange urgency in her voice. “Did you see the phoenix drop anything?”
+
+“I didn’t finish yet,” she said and, upon seeing the rest of the Phoenix Rebirth description, she immediately set about deconstructing the other two corpses.
+
+Variant: Phoenix of Living Flame added to Imprint: Elemental.
+
+Phoenix Tear x2
+
+The last two corpses concealed a Phoenix Tear each. She reached out and picked them up, staring at the pair of beautiful blue crystallized droplets, pulsing with a potent energy from deep within.
+
+“Are these valuable?” she asked, offering the two tears to Malika who simply stopped and stared open-mouthed at them for a few moments before she reached out and picked one up carefully.
+
+“Are you kidding? These are used to make the most powerful healing potions, restorative elixirs, and cure-alls. And they’re incredibly rare.”
+
+“Well, we got two for our trouble,” Ali said, happy that the annoying phoenix that wouldn’t stay dead had provided them with something valuable.
+
+“You got a domain magic that can make more of them,” Calen said.
+
+“Shit, if it gets out that you can make these, we’ll be overrun with adventurers looking to get rich,” Malika exclaimed.
+
+“More than magicite? Or mana-purified water?” Mato asked.
+
+“Aah, yeah, well…” Malika said.
+
+“If it makes the best potions, we could save people. We can’t just hide them,” Ali said. The idea of hordes of adventurers attacking her just to get their hands on Phoenix Tears was certainly not appealing, but she couldn’t in good conscience hold back and not sell the tears to Eliyen or Morwynne for making potions and elixirs.
+
+“I think I can organize a discreet sale,” Malika said, looking rather thoughtful. “I’ll talk with Vivian Ross when we get back to the guild.”
+
+“And you don’t have to make a boss with it immediately,” Calen said. “We can prepare defenses properly.”
+
+“Right,” Ali said. And then she turned her attention inward and allocated her attribute points; eight each to wisdom and intelligence, with the remaining four going to perception.
+
+---------------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,249 @@
+---
+id: cf3b273b-aeb6-5ab2-ae97-99fbe7fe859d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 178: Quenching the Flame"
+slug: 0181-chapter-178-quenching-the-flame
+partOf: dungeon-of-knowledge-complete
+position: 181
+ownLength: 4988
+unit: words
+ownProgress: 4988
+publishedAt: 2025-01-02
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1987972/chapter-178-quenching-the-flame"
+royalRoadId: "1987972"
+markedReadAt: "2026-06-29T20:17:11.740Z"
+---
+
+Ice magic holds the power to still the very heartbeat of the world, turning breath to frost and life into frozen statues that shatter at the slightest touch. It is the eternal beauty of frozen silence, the embodiment of winter’s wrath.- Kryostria [The Frozen Scourge], Elder Frost Dragon.
+
+Distillate of Quenching – level 53 (Ice / Water / Fire)Apply: Quench a source of Living Flame. Charges: 20Created by Morwynne Fizzlebang – “Do not drop!”Potion
+
+Ali examined the potion Morwynne had set carefully on the table before them. It radiated an aura of cold so intense, that it caused water to condense out of the air onto the glass and the tabletop around it, freezing into sparkling crystals of ice. It was a remarkable creation; various affinities of mana swirled together within the vial. The liquid was a deep cobalt blue, and it slowly stirred around within the vial without any apparent external force as if animated from within. The ice mana was continually freezing the liquid, while the fire mana thawed it. Both were mediated by the presence of the water mana and somehow the entire concoction conspired to sit there, stable within the vial, with just the slight glow and ice crystals to show that something complex was going on within.
+
+“This is delicate, so handle it with care,” Morwynne said, none of her usual invective and profanity present in her instructions. “The ingredients you provided were quite potent, you will only need a drop. That’s why there are twenty charges. If you bump it too hard, I think the mana potentialities might decohere and there might be some exothermic realignment of the thermal matrix.”
+
+“What?” Ali blurted out.
+
+“It’ll detonate,” Morwynne explained, spreading her hands dramatically. “Boom.”
+
+Somehow, Ali wasn’t all that surprised. After all, this was the first time she had been in Pretty Powerful Potions when some concoction hadn’t actively been in the process of ‘decohering’ its ‘thermal matrix’ right when she arrived.
+
+Morwynne retrieved several containers. “These are the extra Essence of Ice from dismantling the Death Knight’s gear. The cost of hiring the water mage, and the engineer to dismantle the gear, miscellaneous ingredients, and my labor comes to forty gold.” Morwynne waggled her hand briefly, “Give or take. Or if you prefer, you can pay with one of those Essence of Living Flame. I know that’s a little in my favor, so I’ll throw in a couple of trays of mana potions for your thirsty friend to make it worth your while.”
+
+There was a cough from Calen, but Morwynne just grinned wider at that.
+
+“That’s fair,” Malika said, retrieving another essence and handing it over, and then gently picking up the distillate and storing it.
+
+“Thank you!” Morwynne said. “The essence was super fun to work with. I even earned a level up!” The excited, hyper-energetic tone Ali had come to associate with the Gnomish alchemist returned in full force. “If you ever find more work like that, please let me know. Even the engineer and water mage I hired were so excited to work with such advanced reagents, that they gave us a discount.”
+
+“We might just do that,” Ali said. “After we figure out the other two doors.” She was already somewhat apprehensive about what might be entailed to unlock the Rune of Hellfire, but that was a problem for later.
+
+“Oh, and don’t use it on the elementals directly,” Morwynne said. “It will damage them, probably a lot. But a punch is a lot cheaper.” She giggled at her own joke and waved happily as they all turned to leave.
+
+As Mato closed the door behind them, Ali heard a clatter of something being dropped and glass shattering, followed by a muffled bang and some cyan-colored smoke billowed out from under the door. The continuous stream of dwarven profanity that ensued could be heard quite far down the street.
+
+They took a day off to rest, and besides the hand-to-hand class she gave at the guild, Malika decided to spend the time meditating and consolidating her gains with light training.
+
+Soul Monk has reached level 48 (+2).+20 attribute points.
+
+Of the twenty points she had gained for the last delve, she spent five each on wisdom, dexterity, and endurance. These were the attributes that had the largest impact on her skills and rerunning all her drills and forms had been sufficient to familiarize herself with her new gains. Two points went to vitality, just due to the ridiculous fire damage down in the dungeon, and then she had spent one each on strength, perception, and intelligence – all of which provided important synergies with her main skills.
+
+Martial Artist has reached level 26.Soul Strike has reached level 29 (+2).Healing Mantra has reached level 32 (+2).Perfect Body has reached level 19.Soul Armor has reached level 25 (+2).Second Wind has reached level 14.Soul Sight has reached level 10.Appraise has reached level 15.
+
+The next day, armed with the fancy potion Morwynne had made, the team decided to fight their way down to the Landing again, clearing all the respawned elementals.
+
+Only this time it was vastly easier.
+
+Malika could scarcely believe just how much difference her skill advancement in Soul Armor, and two more levels, could make. She felt like she barely needed to heal – which wasn’t technically true – but, by comparison to the panic-fueled rollercoaster of damage and reaction that had been her experience of the dungeon up till now, this series of fights felt positively breezy. Even against the highest-level Living Flame boss elementals, she could now hold her own. She might not have the ridiculous armor and health Mato did, but with the fire elixir and her Soul Armor, she now enjoyed a whopping forty-five percent reduction applied to all sources of fire damage. Nearly half of any damage she failed to dodge, or block, was efficiently eliminated by her Soul Armor.
+
+Definitely my favorite skill right now. See? Keep pushing through and the gains will come. At least there was no more need for meditating in lava baths. Although… if it had gained her such an important upgrade… Perhaps it’s time to consult with Rezan again? At the very least, she meant to read through the other books of the Nine Paths when she got back to the library.
+
+Soul Armor’s resistance bonus scaled up with every point she had invested into wisdom but so did Perfect Body – further increasing her most important attributes. With the dramatic increase in her resilience against the ridiculous fire damage, the few extra points of vitality she gained went even further. Instead of relief like the first time, it was with a sense of joy that she finally stood over the corpse of her clone of the Living Flame boss after a fight that had been noticeably less frantic.
+
+“That was much easier,” she said.
+
+“It seemed so,” Calen agreed.
+
+“You have no idea,” Ali said. “Remember, my Acolytes can see your health.”
+
+“It’s impressive they didn’t die of stress last time, then,” Malika joked. She bent down to collect the essences dropped by the elementals, walked out into the Landing, and approached the flaming rune on the massive stone doorway. With a small infusion of mana, she called the strange, potent, and frightfully expensive potion Morwynne had crafted to her hand.
+
+Distillate of Quenching.
+
+“I hope this thing works,” she muttered, trickling just a little healing into her hand to prevent her flesh from freezing, taking extreme care not to jostle or bump the large vial of slowly swirling blue liquid.
+
+“It will work,” Ali said, with unexpected confidence. Malika glanced at her, but she just smiled back.
+
+“I hope you’re right,” she said. “Here goes nothing.” Reaching toward the Rune of Living Flame, she uncorked the vial. Beside her, she could see the energy in Ali’s diaphragm freeze as she held her breath. So, she isn’t that confident after all, Malika realized, trying to ignore the irrational spike of worry that it wouldn’t work for some reason. She tipped the vial, letting a small drop of the liquid trickle down the smooth stone surface of the door. A sharp sizzling sound accompanied a dense puff of cerulean-blue smoke as the drop touched the rune. The air filled with an acrid chemical odor that made her eyes tear up instantly.
+
+For a moment nothing much happened, but then, deep within the center of the Rune of Living Flame, a small flicker of blue ice appeared, slowly growing outward in crystalline form as it consumed the flame, freezing it in place. The sizzling sound continued accompanied by the sharp cracking of stone, until finally, the whole thing stopped, a beautiful flame sculpture now made entirely from cobalt-blue ice instead of fire.
+
+“Now there’s something,” Mato said, giving off a low whistle of appreciation.
+
+Click.
+
+A long, vertical crack appeared exactly up the center of the stone door, followed by a shower of ancient dust, fragments of stone that had been welded to the door by the unrelenting heat.
+
+“The mana shield protecting the door is gone,” Ali announced.
+
+“You’re up,” Malika said, nudging Mato.
+
+“Right,” he answered, shifting to his Bear Form and bracing a massive shoulder against the thick slab of stone in the doorway. Then he pushed.
+
+Malika’s skin crawled with the heavy grinding of stone scraping across rock, and then the door swung open to reveal the mines beyond.
+
+Beyond the doorway was the most immense cavern Malika had ever seen – a vast sprawling chamber of rock. Evidence of different levels of excavation were haphazardly connected by ramps and paths. Many huge pillars of stone had been left bracing the ceiling as if the miners had left them there reluctantly, simply because they needed something to hold up the vast weight of rock that hung overhead.
+
+“That’s big,” Calen said, his eyes sparkling as he surveyed the terrain.
+
+Malika could almost imagine the dwarves delving down here, hunting for ore and minerals with their skills and picks, but instead of miners, scaffolding, and carts, the entire space was lit with the glow of countless roaming elementals of fire, and pools and falls of lava spilling out of fissures in the walls and draining away to who knew where. “A lot of monsters,” she pointed out.
+
+In the distance, on the lowest terrace, she stared down on an amphitheater of stone and the singular elemental of fire that, even from this distance, dwarfed anything she had ever faced.
+
+“What is that…thing?” Ali whispered.
+
+“Inferno,” Calen said quietly, squinting into the distance. “It is a raid boss, and it identifies as a fire elemental called Inferno. Unique.”
+
+“That looks like it might be fun,” Mato said, having transformed back, but he too spoke in a quiet voice, staring at the monster in the distance.
+
+“Inferno? Just like the rune?” Malika asked.
+
+“Yes,” Calen answered. “I’m willing to bet we have to kill that to open the next door.”
+
+Well, Morwynne might get her wish to make a new potion.
+
+Variant: Flame Broodmother added to Imprint: Spider.
+
+Ali was happy the clear down to the Landing had gone much smoother, and even happier that Morwynne’s expensive concoction had defeated the Rune of Living Flame. But what made her happiest was her newest spider variant. Even with their improved levels and vastly better understanding and experience with the fight, the Flame Broodmother was still a formidable foe. She mostly used Sparkling Oozes on it now, but that meant switching up the bulk of her forces in the middle of the clear, and then once again for the Living Flame clone boss. A substantial amount of time was spent on summoning.
+
+Now she was doing it again. With the two levels she had gained from both the Flame Broodmother and the Living Flames, she had increased her wisdom attribute substantially and now had at least a little breathing room in her mana pool.
+
+“Looks like a Shard of Flame and some new elemental type called a Magmite,” Calen said, calling the first group they would face within the giant mining cavern. “Magmite is sixty.”
+
+“Ok,” Ali said. The Living Flame boss was still not easy, by any stretch of the imagination, and she had lost several minions to the explosions and the tremendous auras of flame. But without those in play, she decided to resummon her Storm Shamans for the next part – the lightning damage was certainly effective, provided she could keep the low-level Goblins alive.
+
+Finally ready, she got up and studied the monsters. “Can you identify that?” Calen asked, pointing right at it, but Ali didn’t need his direction, it was clearly visible to her just from the dense knot of unfamiliar mana in the area.
+
+Shard of Flame – Elemental – level 41 (Fire)Magmite – Elemental – level 60 (Lava)
+
+“The lava elemental?” she asked. Its dirty orange body shimmered in the intense heat, almost invisible in the river of lava that cascaded down the ramp and vanished through a sinkhole to somewhere deeper underground.
+
+“Is that what it is?” Calen said. “Explorer was struggling to identify the damage type. It just updated now.”
+
+“It updated just because I told you what affinity it has?” Ali asked, suddenly curious.
+
+“Explorer has the knowledge trait,” he said. “The more I learn…”
+
+“Aah, that makes sense,” Ali said. His skill sounded surprisingly similar to her Sage of Learning – it couldn’t manufacture knowledge from the void, but if she knew anything peripherally relevant, it could help her draw inferences and conclusions with startling accuracy. Right there and then, she made a mental note to ask Ryn to prioritize more tracking books for their library acquisitions. And probably a few of the more esoteric monster compendiums.
+
+She glanced back at the elementals they faced and could see why Calen would call them together, right beside the squat Magmite, perched upon a half-melted rocky outcrop near the river, hovered the Shard of Flame, presumably basking in the heat and mana welling up out of the lava itself. “How should we do this?”
+
+“Let’s have Mato tank the Shard and Malika on the Magmite. We kill the Magmite first,” Calen said. He sounded a little uncertain but, given the fact they had never seen the lava elemental before, and none of them had any idea what it might do, that was not too surprising.
+
+“Ok. I’m ready,” Ali said, adding her confirmation to those of Mato and Malika before Calen vanished and headed out into the furnace of heat through the doorway. She was getting a little better at tracking him with her mana sight, able to see the soft pulse of the holy restoration magic healing him against the searing, scorching heat.
+
+An arrow flashed into brilliance right as it struck the Shard of Flame. Calen appeared, sprinting back toward the door as his stealth illusion dropped. The Shard of Flame glided across the rocky ground, hissing with surging flames. The dark orange Magmite lurched up out of the lava, cascading liquid rock and waves of shimmering heat as it surged forward, body grinding as the relatively cooler air caused chunks of its surface to darken like interlocking plates.
+
+“There’s something else!” Ali shouted as the sharp eyes of her Kobolds caught sight of churning from the river of molten rock. Several misshapen blobs hauled themselves up out of the depths of the lava river, splashing molten rock across the rocky banks. Extrusions appeared and vanished, stretching forth from their amorphous shapes to drag themselves across the ground. The surfaces of their bodies immediately began to blacken, hardening and cracking as they came into contact with the cooler air, leaving fissures and cracks that glowed an angry red from the heat within. Cooling chunks of rock were immediately reabsorbed into their bodies, and they left glowing trails of molten rock behind them like deadly slug trails.
+
+Lava Lurker – Ooze – level 35-40 (Lava) x5
+
+“Five oozes!” Ali yelled and, as Calen glanced backward, she added, “Lava affinity.”
+
+Malika called over, “More oozes for your collection, Ali.”
+
+“Switch targets,” Calen said, modifying their strategy on the fly with crisp, clipped directions. “Malika, take the Shard. Mato, get the rest. Separate them and kill the Shard first.”
+
+It took Ali a few moments longer than him to puzzle it out, but as usual, his strategic thinking made sense. While Malika had much-improved resistance to fire damage now, Mato still sported a vastly larger health total and far better armor. His Swipe and his Challenging Roar were area attacks, suited for securing multiple targets simultaneously, while Malika would fare better against a single foe. Not to mention, the Shard of Flame needed to be separated from everything else if they were to stand a chance of killing it without it regenerating.
+
+Malika and Mato shifted positions smoothly at the doorway as Calen bolted between them and into the Landing. The group of fire and lava monsters had spread out behind him, with the faster Shard of Flame almost keeping up with his incredible speed, and the ungainly Lava Lurkers bringing up the rear.
+
+Ali focused her senses, studying the unfamiliar lava-affinity mana as the first elemental foe glided into the room to receive a smack in what passed for a face from Malika’s fist. The aura of flame spilled into the Landing as the Shard of Flame surged across the threshold, now chasing Malika. A broad volley of Firebolts sprayed out and Ali was suddenly fully engaged, summoning barriers in rapid succession to save her minions – most of them too low-level to survive more than one or two direct hits.
+
+With a surprisingly wet smack that launched droplets of lava into the air and a deep roar, Mato gathered up the Magmite and the five animated blobs of angry lava, dragging them into a corner in a growing puddle of melted rock and leaving the stench of singed fur and burnt flesh lingering in the air.
+
+Ali kept her senses grounded in the perception skills of her Acolytes. Mato faced an unknown level sixty elemental, and she had no idea what it was capable of. It lobbed a blob of molten rock at him, which splattered across his guard, burning as it dripped down his armor and hide. Instantly, her Acolytes responded with their strongest healing spells. But, while his health took heavy damage from the onslaught of ooze tentacle slaps and lava boulders, it seemed her healers had it under control. A massive Swipe that trailed traces of green nature-affinity mana sprayed molten rock across the wall, and Mato’s health stabilized dramatically as his personal healing skill settled upon him.
+
+Ali shifted her attention to the Shard of Flame. Malika dodged with mesmerizing grace, holding the monster far from the heat of the lava elementals. “Attack,” she said, relaying her command in both Goblin and Draconic. A delicate formation of lightning magic infused the Shard of Flame, the only visible sign of her shaman’s vulnerability curse. Instantly, it was followed by a triple strike of Lightning Bolts as three mail-clad shamans sprinted toward it following the two Hobgoblins. The slower attacks of the Bone Mages and archers followed soon after, and then suddenly all her Kobold rogues appeared, striking with their Ambush and daggers.
+
+Ali was just getting used to the cadence of Mato and Malika’s health when the Magmite lofted a heavy molten boulder right across the chamber, aimed at her Acolytes. She responded in an instant, summoning a heavy barrier in front of the wide-eyed Kobolds, but to their credit, they barely hesitated in their healing spells. The lava ball splatted with a resounding smack against the golden barrier, deforming into a glowing pancake from the force. The moment Ali dismissed the barrier, it fell to the ground in a sizzling mass of heat and viscous blackening lava. Across the room, a formation flickered in the colors of lava affinity, and then the Magmite suddenly appeared in the new molten puddle.
+
+“Teleport! Magmite!” Ali yelled, scrambling to throw up barriers and move her kobolds as the elemental launched a radial volley of sizzling rock in all directions.
+
+“Shit, aah…” Calen said, scrambling away.
+
+“Bone walls!” Ali snapped, trying to predict the next volley of lava bolts while Calen figured out a plan. Bone mana surged behind a barrier and several sturdy walls of bone materialized, penning the Magmite into a small enclosure. Not for long. It continued spewing a rain of high-velocity lava chunks at the walls, and they began to smoke and crack as the heat and impacts took their toll.
+
+“Kill the Shard quickly,” Calen urged, turning the chamber into noon-day brightness with his powerful Righteous Fury skill. “Let’s do this!”
+
+The Shard of Flame was below half health already, but as Ali turned to focus her attention on it, a large mana surge erupted from behind the makeshift bone prison containing the Magmite. She didn’t even have time to call it out before a torrent of fist-sized molten gobs of rock fountained up and outward from the Magmite, raining down upon the entire battlefield.
+
+In panic, Ali summoned barriers to protect herself and her healers, but the lava boulders landed on the Shard of Flame too, and, to her horror, she saw its health rising in jumps and jolts with each flaming impact.
+
+“It’s healing!” Ali yelled. In that moment she banished all her barrier magic, instead summoning a large shield above the Shard of Flame, protecting it from the sudden meteor storm. First one, then two, and even a third Kobold flared with holy light as they all activated their Devotion skills in quick succession, trying desperately to keep up with the sudden room-wide assault.
+
+In the shadow of the Shard, Kobolds and Goblins scrambled to take advantage of the overhead shield, but several were too slow, crushed to a pulp by sizzling meteors and burned up by the aura of flame. Even the ones that survived were given no respite, every single strike against the Shard of Flame was met with retaliatory blasts of fire from the elemental.
+
+Ali grimaced as one of her Acolytes was unlucky enough to be struck by three boulders in quick succession, smashed to the ground as a smoking pulp. Two of her Bone Mages took unfortunately timed Firebolts and meteors simultaneously and were knocked into a pool of lava. Their mana reservations snapped nearly instantaneously.
+
+“Shard down. Malika, get that Magmite next.” Calen’s voice remained surprisingly calm amid the chaos, and Ali took some measure of comfort in that. At least one of them was not panicking.
+
+Malika reached the Magmite as the bone walls crumbled and came tumbling down. As she punched it, the fountain of deadly lava ceased abruptly. But the elemental immediately teleported away, arriving, conspicuously, on top of another chunk of lava it had launched. Alone again, it began launching more chunks of lava at whatever was nearby, and Ali’s attention was fully occupied with predicting and reacting to block as many as she could. It was not like the elemental of lava had a face or anything resembling a clear front, and the lava bolts were fired in whatever direction it wanted, making guessing its target quite a challenging task.
+
+Malika outpaced everyone, and reached the Magmite in record time, while the much slower Goblins and Kobolds scrambled across the rocky ground, trying to avoid the molten debris that littered the floor. But by the time her melee minions reached it, it teleported again.
+
+“Fuck, that’s annoying,” Malika grumbled, but she was after it in a flash.
+
+After a frustrating game of cat-and-mouse with the Magmite teleporting all over the show every twenty seconds, it finally stopped. But instead of relief, Ali recognized the magical formation within it. “Meteor storm!” she yelled, throwing up barriers above the healers this time and urging them to group up to reduce the damage. But amid the frenetic panic of barriers and falling lava, there was a kind of blessing – the Magmite remained rooted to the spot, and the rogues and shamans tore into it with a fury outmatched only by Malika’s speed.
+
+“It’s almost dead,” Ali called out, after checking with her Acolyte’s Healer’s Sight. Sure enough, a few seconds later, the animated lava collapsed to the ground in a sizzling, bubbling pile.
+
+Right as Ali breathed a sigh of relief, an intense burst of mana erupted from its corpse and a huge detonation shook the cavern. The Kobolds stumbled, falling to the ground while shards of rock rained down from the ceiling. Ali threw up a defensive barrier just as the shockwave hit her, preventing herself from being slammed into the wall, but every other creature in the cavern was blasted away from the explosion. Well, except for Malika, of course. She dodged it.
+
+Two rogues, already low on health, died instantly, their corpses tossed into the lava like limp rags. Calen would have landed in the lava too, but he summoned his wings and was now flying over the lava carrying Ali’s last remaining rogue which he had fished out of the pool. It still dripped lava from its smoking scales. Her last Bone Mage died outright from the impact, and she found herself down to one Acolyte, two shamans, and the two significantly more robust Hobgoblins. The only Acolyte bowed its head to use its Prayer ability with her mana pool run completely dry. Aah, bigger minions…
+
+Mato, still tangled up with five lava-affinity oozes, stood in a pool of molten rock caused by the proximity heat emitted from their bodies. His fur was permanently on fire while his constantly regenerating flesh cooked.
+
+“Malika, I’m out of heals!” Ali yelled.
+
+“Gotcha,” Malika said, sprinting into the fray. Mato’s powerful regeneration skill meant he wasn’t in critical shape, but without the help of her Acolytes, the oozes were very definitely winning – but Malika arrived, and her healing magic flashed, restoring a large chunk of his health and Ali re-engaged with her remaining minions.
+
+“Keep at them,” Calen said, splitting magical arrows from his bow to hit all of the oozes.
+
+“Totems,” Ali commanded, and her remaining Storm Shamans dropped their Lightning Novas on the oozes and unleashed their Lightning Bolts in staccato strobing pulses of deafening magic. Only then did the Lava Lurkers begin to fall, collapsing one at a time in rapidly darkening puddles of lava. A long path of molten rock marked the passage around the edge of the cavern where Mato had dragged the monsters along to avoid standing in the lava they left in their wakes.
+
+The seared and sorry remnants of Ali’s minion army stood about after the last Lava Lurker collapsed in a searing hot puddle. Most were dead, burnt to a crisp, or lost in the pools or rivers. She had even lost the mage that was her source of extra intelligence. Losing intelligence reduced almost everything for her – her barriers were weakened, and she could summon fewer of them. Her minion boosts from Martial Insight and Empowered Summoner scaled based on her intelligence attribute, and with the lost bonus, everything had weakened dramatically.
+
+It’s a good thing I didn’t lose my wisdom bonus, she thought soberly, glancing at her one remaining Acolyte. Losing a large number of her reserved minions again would have been a real pain. Not for the first time she wished she had a much longer range on her skill – having to bring her source of wisdom along with her into the dungeon made her attributes vulnerable to accidents.
+
+“Why do you look so glum?” Malika asked, plopping herself down next to her. “Look, the Magmite dropped a full essence of flame – not a lesser one – and this lava one, too. I wonder if Weldin will give me full value for this?”
+
+“I don’t know,” Ali answered. The craziness of the fight, her decimated minions, everything seemed hard. She had been trying so hard to cope with the damage but, in the end, Malika had needed to heal Mato to keep everyone alive.
+
+“You can tell me.”
+
+“I guess I’m just weak. After we defeated the boss in the Landing, I thought I was getting stronger, but the first pull after we finally get the door open and I’m down to five minions and struggling.”
+
+“It was a hard fight, and we’ve never seen that Magmite before,” Malika said. At least she wasn’t dismissing her concerns. “You know, most of your minions are in the low twenties, they’re definitely going to struggle going up against level sixty monsters. Especially with that ridiculous meteor shower and corpse explosion.”
+
+Malika spoke sense, but Ali was still frustrated. “It just feels like I’m pulling the team down.”
+
+“That’s exactly how I felt when I couldn’t tank a Living Flame,” Malika said, sympathizing. “Sometimes your abilities are just a poor match for the fight, and sometimes you learn something or earn an advancement, and the problem goes away. You’re not weak, Ali, some of your best monsters are just a bad fit for this dungeon, and you’ll improve as we find more.”
+
+“You sacrificed some of your minions to ensure the Shard of Flame died. That was a very strategic call,” Calen pointed out, joining them. “And the Magmite definitely shoots less if it’s tanked, so we know that for next time.”
+
+“Thank you,” she said. And somehow, she did feel a bit better. “Maybe we need to more actively plan and hunt for minion skills and levels? Ones that won’t get swatted so easily?”
+
+“We can definitely talk about that,” Calen agreed.
+
+“At least that fight was more interesting than tanking the Living Flame for twenty minutes by myself,” Mato said.
+
+“You have a rather unique definition of interesting,” she told him.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

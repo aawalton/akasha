@@ -1,0 +1,157 @@
+---
+id: a9cee271-9f81-5ab9-90ff-8d422e909e93
+page-type-slug: story-chapter-royal-road
+title: "Chapter 87: Bone and Death: Twin Wights"
+slug: 0087-chapter-87-bone-and-death-twin-wights
+partOf: dungeon-of-knowledge-complete
+position: 87
+ownLength: 3338
+unit: words
+ownProgress: 3338
+publishedAt: 2024-06-18
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1681998/chapter-87-bone-and-death-twin-wights"
+royalRoadId: "1681998"
+markedReadAt: "2026-06-29T20:13:51.573Z"
+---
+
+The Dungeon Survival Guide, Rule 5: Teamwork.You cannot defeat a dungeon solo, so don’t even try – what are you going to do if you are a Fire Mage and find yourself facing monsters that are immune to fire? How will you defeat a monster with an anti-magic aura? The optimal group is five, and includes a tank, a healer, and a diverse suite of perception, magic, and martial skills – but much more important is that the group knows how to work together. If the dungeon has raid bosses, bring two groups.
+
+- The Unexplored Lands, by Lyeneru Silverleaf, Elven Pathfinders Guild.
+
+Prioritize. Ali’s attention flickered across the battlefield with a frantic urgency, trying to pay attention to everything at once. She took a deep breath. Off to the far side, bone mana flared, and nature magic responded as Mato faced off with the Bone Wight in a devastating clash of blurring swords and crushing claws. But as powerful as the impacts were, and as terrifying as the sight of Mato’s blood spraying into the air was, right now, all he needed was the attention of her Acolyte healers.
+
+Two skeletons were desperately trying to claw their way through her barrier to get to her, banging rusty swords against it as she shifted its position to keep them at bay. With a flurry of punches, Malika snagged their attention and sprinted back to her spot below the flying Death Wight where she was tanking six other skeletons in a high-speed dance of blocking and counterstrikes that Ali could barely follow, while her healing magic pulsed periodically in bright flares.
+
+Thanks, she thought, feeling the pressure on her drop dramatically. She glanced at her small army, mind racing for options.
+
+Luminous Slime – Ooze – level 25-27 (Light) x2Fire Mage – Kobold – level 15-19 (Fire) x3Storm Shaman – Goblin – level 18-19 (Lightning) x2Acolyte of Azryet – Kobold – level 22-23 (Holy) x2
+
+A surge of death mana from above preceded another Volatile Wraith flying out from the Wight’s hand. Calen’s arrows had not been able to hit it, but she was ready to try her magic.
+
+“Shoot the flying Wight,” Ali instructed her mages and shamans, firing Arcane Bolts at the screaming Volatile Wraith.
+
+“Be careful, Ali, it has a Life Drain attack,” Calen said.
+
+Life drain? Whatever that was did not sound pleasant. Fortunately, her Arcane Bolts seemed to actually strike the ethereal spirit, so she kept shooting as the wraith circled Calen, darting in and out to attack him around the barrier she kept shoving in its way. Suddenly, the wraith simply exploded, filling the area with a short-range pulse of death mana that quickly expired.
+
+“We need to kill that flying Wight, and fast!” Calen said, his voice sounding more urgent and worried than Ali had expected. His body flared with mana as he spent his potent Righteous Fury skill, loosing a veritable storm of glowing arrows into the sky.
+
+Ali quickly redirected her bolts to the Death Wight and checked in with her minions to make sure the firebolts and lightning bolts were all on target, while it continued lobbing its death magic rituals and summoning Volatile Wraiths.
+
+“I need help,” Malika shouted, her voice leaking unfamiliar tension and stress.
+
+The urgency in Malika’s voice captured Ali’s attention wholly. “What’s wrong?” she asked.
+
+“They’re not dying!” Malika yelled.
+
+Ali watched aghast, as another Kobold skeleton and the bones of a Sewer Rat stirred from the pile, crawling out and lurching across the flagstones to join the battle. The Kobold skeleton scooped up a rusty sword on the way. The nova totems were correctly placed, pulsing their lightning into the group of skeletons – Ali had made her shamans drop them at the outset and simply forgotten about them. Malika, of course, had healing and all she needed was an extra helping hand with area damage.
+
+But when she glanced over, Malika was tanking a horde of skeletons – many more than Ali had expected. Skeletons that seemed to be invulnerable to the lightning magic of the pair of Lightning Nova totems. The blue-white flashes of Malika’s healing spell flickered continuously trying to keep up with all the damage she was taking from sword strikes she simply didn’t have time to block, stray Volatile Wraiths, and the lightning novas.
+
+And the death magic aura…
+
+Ali suddenly noticed the ten-meter radius pulsing aura of death magic continuously emanating from the flying Death Wight. It sparkled with midnight-black energy and small eddies and vortices of death mana seemed to be continuously absorbed by the skeletons as they stood in the lightning trying to kill Malika.
+
+“Malika, move them!” Ali shouted urgently, as she suddenly made the connection between the death magic pulse her Kobold Death’s Acolyte had used and the aura that was pulsing out and healing all the skeletons. “The aura is healing them.”
+
+“Fuck,” Calen exclaimed. “Mato, move the Bone Wight further away. Thirty feet! Malika, drag the skeletons past Mato if you can, and take advantage of his retaliation.” Calen spat out ideas and suggestions all the while not missing a single shot at the flying Death Wight. It was a remarkable idea, and one Ali would never have thought of as she tended to think with magic rather than might. But Calen had recalled Mato’s ability perfectly and figured out how they might take advantage of it in an instant.
+
+“Help heal her,” Ali instructed her Acolytes, pleased to see the magic of their long duration heals quickly settling in on Malika’s body as she danced her way out of the death aura, dragging her host of skeletons with her. The longer duration heals were much slower, but vastly more efficient in terms of mana, and would provide substantial healing over time. Just the kind of thing Malika would need – her heal seemed ideal for instant bursts and emergencies.
+
+“Go kill skeletons, and no flashy lights!” Ali sent the next command mentally to her two Luminous Slimes, not taking any chances with her instructions. Blinding Malika or Mato right now would be a disaster – and she was nearly certain that the skeletons didn’t need eyes to see. I’ll need to keep an eye on them, she thought, making note of one more thing she needed to pay attention to.
+
+“Move the totems over there,” Ali continued organizing her minions, instructing the Goblin shamans to relocate the totems to where Malika was dragging the skeletons. “Get in there and fight too but shoot lightning at the flying Wight.” Often when she was overloaded and had too many things to think of, she reverted to treating her shamans as extra ranged mages, keeping them back and just using their totems, lightning bolts, and curses. But they were excellent melee fighters and throwing them into the fray was going to help way more than holding them back out of harm’s way.
+
+With a quick thought to reinforce her command to the slimes not to blind anyone, Ali turned her attention fully to the Death Wight. Calen seemed to be struggling as the Wight was chain-summoning Volatile Wraiths to attack him. They didn’t last particularly long, but their explosive demise seemed quite damaging, and Calen was darting back and forth trying, only somewhat successfully, to dodge the agile, high-speed spirits.
+
+I can do this. She hadn’t been particularly successful at blocking them before, but now they had her full attention. She summoned two barriers and devoting just enough focus to keep her arcane bolts soaring skyward, she set to the task of blocking as many Volatile Wraith attacks as she could.
+
+Mato’s danger sense prickled, and he blocked, taking the overhead strike on the armor covering his shoulder before returning the attack with a Swipe that tore through the Bone Wight’s armor. Instantly the rent in the armor began to close as the bone ridges and plates on the undead’s chest writhed and crawled with unnatural energy.
+
+This monster was an affront to nature, an abomination, and Mato was grateful for the opportunity to rid the world of it once and for all. Survival Instinct jolted his attention as the Wight unleashed a powerful slash. Both blurring blades were enhanced with the magical energy of a potent skill that the monster seemed to use almost without fail every thirty seconds. Mato blocked one strike and took the second on his flank. The ultra-sharp gleaming sword sliced through his flesh, leaving a trail of corrupting mana that rapidly turned the wounded muscle into bone. Mato gritted his teeth and attacked, knowing he was going to shatter the ossified flesh and rip a much larger wound in his body.
+
+Pain lanced through him along with the horrific sensation of his own muscles and flesh cracking and shattering as it fell to the ground. The soft warmth of holy magic followed shortly after, gently beginning to heal him while his Restoration continued to pulse constantly.
+
+“Mato, skeletons!” Malika’s voice called out from behind him.
+
+He grinned and set himself. This was the part he enjoyed most. Malika sprinted into view with a train of skeletons chasing her. As they ran by, intent on killing her, he felt the telltale urgency of his Battle Master triggering. He didn’t hesitate, applying both Brutal Restoration and Bestial Combat enhancements to his strike. The instantaneous blow smashed a skeleton to the ground, sending fragments of bone flying. Even as he did so, he triggered his block.
+
+He had discovered, really quickly, that the Bone Wight had an almost identical ability – with the minor exception that instead of roots, his would summon a cage of bone spikes to trap whatever he hit. Whenever Mato struck a skeleton, the Wight would retaliate. The enormously powerful strike of the bone sword slammed into his armor as he shouldered the blade to the side, taking only a portion of the damage. But the increase in the potency of his Brutal Restoration healing from his strike would more than cover the damage.
+
+His skill triggered on the second skeleton, and he was ready, again spending mana and health like it was free, he struck with as much power as he could create. His Survival Instinct screamed but he was already blocking the retaliation.
+
+The high-speed exchange of retaliatory strikes continued for three seconds, during which Mato had rooted seven skeletons, and ended when he failed to block the Wight’s retaliation. As the blade bit deep turning flesh to bone, spines of bone erupted from the ground, trapping him and encasing him in a prison-cage. Through the bars, he saw Malika dodging the vicious retaliation aimed at her as she left the strike zone.
+
+Mato roared, taunting all the left-over skeletons to attack him, and then swiped at the bone cage, again spending health to empower his Bestial Combat: Living Rend. It had been a happy discovery that his skill found the bars of the bone prison close enough to armor that it would work just fine. Bone shattered, sundered by his armor destruction skill, freeing him in time to block the next attack from the Bone Wight.
+
+Carefully, Mato shifted his body backward, step by step until he was standing in the middle of the Lightning Novas. Shifting backward also had the side effect of dragging the skeletons with him, bunching them all. He took immediate advantage of the positioning by using his Swipe to hit all the monsters in front of him, applying his enhancements to maximum effect. Again, his Brutal Restoration buff surged, adding healing proportional to the damage he did to everything before him. The more monsters his claws found, the higher it went. Secure in his healing, he attacked again, ignoring the next strike from the Bone Wight’s sharp blades, and spending health to increase his armor damage. Bone pieces flew with the power of his strike and skeletons began dropping, finished off by the continuous field of lightning damage he was standing in.
+
+Mato prepared to block the regular thirty-second power attack, but it never came.
+
+A great scream echoed through the battlefield, a scream that cut through his mind like a sword, raising the hair on the back of his neck. The scream slowly faded as if coming from someone falling into an infinite abyss. The Bone Wight froze in place.
+
+“Death Wight down,” Calen announced.
+
+A deathly black bolt of energy shot into the frozen Wight, and something changed. The bone armor thickened and expanded as the Wight grew taller and broader. Two skeletal arms of thick off-white bone sprouted from its back, behind the shoulders. The new arms reached down and drew the two remaining swords that hung at the Wight’s waist. It opened its now darkly glowing eyes and fixed Mato with a hateful stare as it made all four swords flare with a black mist that trailed behind as wisps of cold, dark magic as they moved into position.
+
+Damn, you’re ugly, he thought.
+
+The Bone Wight raised its swords skyward and let out a bone-rattling shriek as a powerful aura blasted out from it in all directions, sucking at Mato’s life. All around him, seemingly at random, bone spike prisons sprung from the ground grabbing at the air before sinking back into the stony ground.
+
+Survival Instinct screamed silently within him as the swords blurred into action. He blocked as best he could, but there were four blades, and they were suddenly much faster. His blood sprayed into the air as the bone swords bit deep turning his wounds into bone, but this time with the added decay of death ripping deep into his body.
+
+You have been afflicted with Life Drain.Maximum health is reduced by 1%Affliction. Count: 1
+
+Your Life Drain has increased to 2.
+
+Oh shit!
+
+Malika charged the undead monstrosity, sensing the power of the death magic aura as soon as she entered the zone. The moment the flying Death Wight died, the remaining Wight had simply sprouted extra arms and grown another three feet taller.
+
+Its armor looks stronger too, she thought, dodging as a ring of bone spikes burst from the ground and snapped closed on her just vacated location, like a macabre bone mouth emerging from the ground to feed.
+
+She sprinted up to the back of the Wight and landed a quick sequence of kicks and punches, bruising her knuckles and shins on the dense armor, but still releasing her Soul Strike each time. She reached out to Mato and pulsed her healing into his body, grimacing at the cracking and popping as whole chunks of ossified flesh were ejected from his wounds as her healing magic closed them.
+
+An overpowering strike of a bone blade bit deep into her shoulder, coming from nowhere and driving her to her knees in a fountain of blood. As the bone spines snapped closed around her, she felt the Wight’s magic decaying her wound, and the creeping, pulling sensation of her flesh slowly turning to bone within it.
+
+Your Life Drain has increased to 17.
+
+Just touching Mato for healing is enough to trigger the retaliation? She hadn’t expected to be hit like that, and so she hadn’t been watching attentively enough to dodge a strike. Malika healed herself, gritting her teeth against the pain as her magic purged the wound of decayed and ossified flesh. As terrifying as the life drain was, she couldn’t afford to slow down without putting her friends at considerable risk. She had already lost sixteen percent to the explosions of Volatile Wraiths, and if she lost too much more, she would struggle to take a hit safely. She just hoped there was some way to undo the loss.
+
+The bone spines pinning her in place shattered as Mato’s claws ripped through the cage, freeing her with just enough time to dodge sideways, but her drawing an attack was sufficient to trigger Mato’s retaliation, as evidenced by the powerful smashing Swipe and the roots that sprung up from the ground. Malika was quickly losing track of the complex interplay of retaliation between Mato and the Wight, but she could appreciate the skill and precision of each of the strikes. The Wight seemed to be uncannily accurate with its bone swords, while Mato was leading with raw strength and power, even though his attacks were also delivered with skillful poise.
+
+A bone prison snapped shut right beside her, catching one of the glowing slimes, but it simply flowed out of the prison as if it wasn’t even an inconvenience, continuing to strike with extrusions of its body.
+
+Malika ignored it; her attention was instead suddenly caught by the bolts of black energy flying out from the Wight.
+
+“It’s raising more skeletons!” Ali’s voice confirmed what she had already guessed, and she sprinted off to catch the newly summoned undead while dodging the parting strike from the Wight.
+
+She punched the first skeleton she found, racing to collect the rest. Scanning the battlefield, she counted six this time, two of them near Ali and the healers. She would need to be quick. She poured stamina into Divine Step, accelerating her sprint and rounding up the next two skeletons before she charged across to the two closing in on Ali. With a round kick, she collected both of them before they could cause any trouble and began sprinting back to Mato to deliver her payload.
+
+Wait. Suddenly Malika wasn’t sure anymore. She had felt the death aura over by the empowered Wight, and if Ali was right, that aura was what had been healing the undead at the beginning of the fight.
+
+“Ali, is that the same aura?” she called out, dodging two strikes and blocking a third. She focused on the attacks, her arms striking out counterattacks and blocking wherever she could.
+
+“What?” Ali called out in surprise. “Oh… yes.”
+
+“Kill the skeletons here, then,” Malika decided. Bringing them to Mato would be worse than useless if they couldn’t be killed in the aura. She would just have to tank them herself.
+
+“Can you handle the lightning?” Ali asked, sounding rather concerned.
+
+“Yes, and one or two fireballs,” she said with way more confidence than she felt. It wasn’t like she had much of a choice, she simply had to. Without the extra damage from the Fire Mages, she was unlikely to be able to kill them fast enough to round up the next set of summons when they came.
+
+“Ok.”
+
+The sharp ringing of steel hitting stone pierced the cacophony of battle as two totems dropped right beside her. Malika’s muscles spasmed the instant the Lightning Nova tore through her body, but it affected the skeletons busy trying to stab her with mismatched weapons just as much. Holy magic trickled through her body as Ali’s Acolytes began to heal her. The lightning pulsed again, and then again. Malika pulsed some of her healing and blocked a sword by knocking the flat of the blade with the palm of her hand.
+
+“Fireball.”
+
+The warning gave her just one second before the concussion of heat blasted her off her feet. Her skin bubbled and blackened and her hair vaporized. Malika sprang back to her feet, healing magic flowing without holding back. No sooner was she up than she heard the same warning.
+
+“Fireball.”
+
+In spite of herself she flinched, but this time she kept her feet against the powerful explosion of flame. At the same time the fire rocked her body, the soft soothing magic of a holy healing spell filtered through her, repairing the burns faster than she sustained them.
+
+Looking around quickly in the aftermath, she found two skeletons still standing, so she unleashed her Soul Strike empowered kicks, knocking them back into the lightning novas and they didn’t get back up.
+
+“It’s raising more skeletons,” Calen called out, and sure enough bolts of black energy flashed out into the giant piles of bones. Malika sprinted off, quickly memorizing where each of them had landed.

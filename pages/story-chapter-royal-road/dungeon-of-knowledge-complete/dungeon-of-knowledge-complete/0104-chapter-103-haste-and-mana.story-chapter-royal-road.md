@@ -1,0 +1,243 @@
+---
+id: 846a463a-31f8-5977-be43-3de5e089f02f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 103: Haste and Mana"
+slug: 0104-chapter-103-haste-and-mana
+partOf: dungeon-of-knowledge-complete
+position: 104
+ownLength: 4913
+unit: words
+ownProgress: 4913
+publishedAt: 2024-07-25
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1731559/chapter-103-haste-and-mana"
+royalRoadId: "1731559"
+markedReadAt: "2026-06-29T20:14:29.430Z"
+---
+
+“What is that?” Ali asked as they crested a hill. High above them, shrouded in the vast empty darkness was something that could only be described as an unimaginably tall pillar of yellow-white light so bright that Ali squinted and blinked against its intensity. But blocking her sight with her hand or closing her eyes did not affect the power of the vision.
+
+It must be mana. It was the only challenging part of her Arcane Insight skill – it provided the ability to see or perceive mana – but she must be perceiving it directly with her mind. Even though she integrated the sense into her view of the world, closing her eyes did nothing to block her mana sight.
+
+“Looks like a giant waterfall,” Calen said, moving to stand beside her, staring at the phenomenon with a look of intense curiosity in his eyes.
+
+Waterfall? Ali looked again, and indeed there was a flow to it. But it was not the thunderous plunge of a river, but the viscous flow of dripping honey, drifting downward so slowly it had to be barely denser than the air itself.
+
+“Is that the light mana from the condenser?” she asked out loud, suddenly making the connection in her mind. On the outer ring of the suspended city ruins, she remembered seeing liquid mana pouring out over the edge right before they were attacked by the Luminous Slimes.
+
+“It would be the right place,” Calen said, confirming her guess. “It lines up exactly with the ruins above us.” It was astounding how good his eyes were, even in the dark. Ali couldn’t even make out the shadow of the suspended city far above, and without mana sight, she probably wouldn’t have been able to see the bulk of the slowly trickling waterfall either.
+
+“I wonder what we will find at the bottom?” Ali had expected this ground level to have changed from the peaceful farmlands that she had remembered. But what they had found was far beyond even her wildest guesses. Mana had warped everything down here, and whatever was at the bottom of that waterfall had to be the epicenter of all the light affinity monsters and plants, and oppressive mana that was beginning to dominate all else the closer they got.
+
+“Whatever it is, I’m not seeing any nature-influenced creatures or plants anymore,” Calen answered. He was the one ranging ahead and scouting their path, and Ali trusted him to make the assessment better than she would – however, she had also noticed the change in the ambient mana, and the lack of green wisps, or nature mana plants or creatures where they had been so prevalent before. Even the smell of the air had shifted from growth to the strange pungent scent of air burnt by the intense beams of light emitted by some of the light elementals.
+
+As they continued to trek through the forest, the number of encounters grew. Fortunately, they were mostly stray Coruscant Rays hovering above, or the sweeping attacks of the swarming Glimmer Shards, or the occasional ooze, all easily dispatched with minimal injuries. Of the dangerous Radiant Brawlers, they found no signs, and the natural disaster of swarming Lux Drifters remained a one-off encounter.
+
+The pillar of light slowly dominated the skies as they drew nearer, shining down on them through the breaks in the canopy. Ali found herself drawn to study the phenomenon, as she slowly came to understand the sheer size of it. It was deceptive at a distance – the way it trickled down, almost floating in the air, gave it a misleading impression of a lack of substance or weight – but as they closed in on it, the illusion was dispelled. It was larger than several city blocks in width, and the sheer amount of liquid mana slowly pouring down was simply staggering.
+
+As she crested another rise, Ali became convinced that it was a miracle that so much mana had not simply obliterated everything in the entire area. She paused near the top, suddenly intensely aware that the entire hidden valley, just out of view on the other side, was pulsing with an intense glow of light.
+
+She climbed up the ridge to the top and was suddenly struck with a splitting headache that shot up behind her eyes as the valley suddenly came into view. She winced, recoiling from the sheer intensity of light inflicted directly on her mind through her mana sight.
+
+“Ali! What’s wrong?” Malika caught her before she slipped.
+
+“It’s just very bright,” she answered, shaking her head softly and trying in vain to block her senses. “I can’t turn off mana sight, give me a moment to get used to it.” It was one of the most obvious downsides the scholars had warned of in many texts – otherwise powerful passive skills could often become liabilities in situations where you would rather not have the skill. If she ever encountered a monster that could blind her with this kind of intensity, she knew she would be in significant trouble.
+
+“That’s amazing,” Mato said, obviously seeing what she couldn’t yet make out. “The entire valley is filled with brilliantly glowing trees and there is an enormous pool of light in the center.”
+
+“We should be careful,” Calen cautioned. “Look at this…”
+
+The white glowing text of Calen’s shared notification popped up in Ali’s mind. She found she was easily able to read it even though her perception of the outside world still hadn’t quite recovered.
+
+[Explorer]Pool of LightA pool of intense liquid mana capable of spawning elementals and creatures of light affinity mana and exerting the powerful disruptive power of wild magic on its surroundings.Affinity: Light (Wild Magic)Age: AncientKnown Creatures: Elemental, Ooze, WispSpawning Pool
+
+A spawning pool? Ali had never heard of such a thing, but even with the most obvious interpretation, it explained much of what they had encountered in the enormous underground cavern so far.
+
+Her eyes, or rather, her mana sight, slowly recovered, and with that, she was finally able to see the valley spreading out below her. The sides were lined with a dense growth of pine trees with needles of pure light, while at the center of the valley lay the intensely radiant pool of pure mana. All through the air above it, dancing and swooping and darting were elemental wisps ranging from pure white to dense yellow or blue colors. Globs of intensely glowing mana slowly descended, part of the waterfall, and as they touched the surface of the pool they were absorbed without a ripple.
+
+“Ali, you should learn these trees,” Mato said, drawing her attention to one of the nearby glowing pine trees.
+
+Radiant Larch – Tree – level 32 (Light)
+
+“What is a Larch?” she asked.
+
+“It’s an unusual conifer – it happens to be deciduous. It can lose its needles and sometimes has a bright yellow color. Although this one seems to have needles made of pure light mana, so it’s probably always yellow or white,” Mato explained. “I think this might go well with your lake, helping to resolve the light problem.”
+
+He’s right, the needles are pure mana, she thought, examining the tree. Would it be able to thrive in that environment? It wasn’t quite as tall as some of the oaks she had made, and certainly not nearly as broad, but if she planted several together in a small stand, she could imagine it would create quite a bit of light.
+
+“They are stunning!” she said. Eagerly, Ali placed her hand on the tree and deconstructed it, and then selected several more as they slowly made their way down the slope toward the pool. As normal, she tried to vary her choices as much as possible to give her Grimoire the broadest range of variance to commit to its pages. She wasn’t quite certain it made a lot of difference, but at least for level spread, she knew she could only make variants at the levels she had learned, so she tried to select some of the highest and lowest-level trees available.
+
+The air buzzed and flittered, filled with wisps, and glowing butterflies, and in the distance over the pool she could even make out swooping shapes of larger creatures that circled up and away into the darkness, leaving trails of light in their wake.
+
+Her study was suddenly interrupted by the sensation of holy magic settling into her body, filling her with a sense of ease and healing. It was only then that she realized her health had been slowly draining away, point by point.
+
+“The air is dangerous,” Malika said, meeting her gaze as her healing magic flickered through her body.
+
+But it wasn’t quite the air that was the problem. It was the ambient mana, now so dense and thick that it was burning them with its power and potency. The closer they approached the spawning pool the more she could feel the burn on her skin, and deep within her lungs.
+
+“If it gets too strong, we should back out,” Ali said, checking on her Acolytes. It seemed they were not struggling yet, and she was rather curious to see the pool, but not enough that she would risk too much danger for it.
+
+And suddenly there it was. The thicket of pine trees – larches – ended right beside the lake, and as she stepped out between the final trunks, the entire expanse of the lake spread out in front of her, utterly and eerily still. It glowed with a gorgeous, shimmering beauty like amber lit from within. It reminded her of the lake she had made but instead of mana-purified water it was filled with liquid light-affinity mana – which was vastly more intense, fed continuously by the enormous waterfall running down from the unseen ruined condenser above.
+
+“It’s uncanny how there are no ripples or splashes,” Malika observed.
+
+“Mana,” Ali explained, but in truth, she had never seen liquid mana like this before. She watched, mesmerized for quite some time, studying the surface of the lake and how the globs of liquid mana simply poured in without disturbing the smoothness. A sudden ripple disturbed the surface, looking surprisingly out of place. It churned and bulged upward, and then with a strange sucking noise, something rose out of the lake, hovering there for a moment in the glow. With a shiver through its round body, the brand new Coruscant Ray shook off the residual mana, dropping it to the once again smooth surface of the lake, took off into the air, and with a flick of its wings, spiraled around the giant waterfall and flew off into the darkness.
+
+Spawning Pool. Oddly enough, it spawns things…
+
+“We probably shouldn’t stick around here long,” Malika said, interrupting her wandering thoughts, “before that thing spawns something dangerous.”
+
+“Ali should get one of those first,” Mato said, pointing to the bank, where one of the trees lay fallen half in and half out of the lake. All along its decaying bark grew mushrooms that glowed with an intense light, ranging from tiny to some that were as large as a dinner plate.
+
+Luminous Glowcap – Mushroom – level 11 (Light)
+
+“Oh!” The mushrooms were rather pretty, and Ali could immediately imagine growing them all around her forest. She still liked her arcane mushrooms, but these were pretty too. Although I will have to be careful, she thought, recalling how plants with affinities other than arcane or nature seemed to suppress her domain in the immediate area they had been planted. Maybe I could dedicate an area to light affinity plants?
+
+“Do you mind? It shouldn’t take long,” Ali asked, turning to Malika.
+
+“I think it should be ok, as long as you use your barrier and we come along to protect you just in case,” Malika answered, eyeing the surface of the lake suspiciously.
+
+Excited once again, Ali approached the downed tree and began deconstructing as many mushrooms as she could, working efficiently so that Malika didn’t have to worry more than necessary. Whatever else she thought of this place with mana so intense it was burning her skin, it was certainly a treasure trove, expanding her repertoire of variants imprinted into her Grimoire.
+
+It was as she was deconstructing the fifth mushroom that the lake surface right beside her rippled and erupted as four tentacle-like appendages shot out toward her, glowing with power.
+
+Ali reflexively summoned a barrier, but it was Malika stepping in the way that saved her from the deadly beams of light that shot out, tearing through the ground and trees nearby, leaving smoking trails along Malika’s body.
+
+Malika hissed in pain as the intense, focused beams burned through her skin and muscles with the sudden scent of meat sizzling on a hot pan. She healed herself against the onslaught, shifting her body directly into the path of a beam to prevent the powerful magic from reaching Ali who was hiding behind a barrier that would be unable to protect her.
+
+She had been nervous about approaching the dangerous spawning pool, and so she had been staring right at it when the Radiant Brawler had spawned, disturbing the uncanny smoothness of the surface. As it burst out of the lake, she sprang into action instantly with Divine Step, barely fast enough to interpose herself between the attack and its obvious target. Overriding her instinct to dodge with Enlightened Evasion, to get intentionally burnt to the bone, had taken an act of will, but she knew she would survive facing the full power of the brawler head-on, whereas Ali, with her much lower health, might not have.
+
+The ‘water’ on the lake’s surface rippled again. Another?
+
+Two huge, squat forms emerged from the lake flanking the first one, tentacles reaching, massive jaws open displaying rows of sharp teeth, shedding gobs of liquid mana from their bodies. The intensity of their magic glowed powerfully, hurting her eyes, but she kept her focus knowing she would be the only one able to keep up with these monsters.
+
+But three… It was the worst situation she could have imagined, sprung on her in an instant. The anxiety of anticipated pain mingled with uncertainty, creating an uncomfortable concoction that settled uneasily within her mind. But what choice did she have? Ali was still vulnerable, scrambling backward to safety, seemingly moving in slow motion as Malika’s Martial Artist kicked in, seamlessly accelerating her reflexes to match the hasted elemental before her.
+
+She would just need to tank all of them until they had the opportunity to flee. But what such an opportunity might look like eluded her. Should we recall to town?
+
+Malika lashed out with a quick punch, connecting with the large jaw of the eyeless monster in front of her. Instantly its form blurred into the telltale afterimages as it teleported away to gain the advantage of distance. She ignored it, charging the two newcomers who were barely out of the lake by the time her flying kicks connected.
+
+Beside her, Mato roared his challenge, but the three Radiant Brawlers ignored him, either able to resist his Taunt, or simply not seeing him as any kind of competent threat. It made sense because they were dancing circles around his comparatively slow swipes, making him look like he was flailing blindly at a swarm of mosquitoes.
+
+She stepped up to the brawler Mato was trying to hit, unleashing two rapid kicks, and following them with a high-speed dodge-and-block exchange as it retaliated with whip-strikes of the powerful tentacles, and the grinding snap of its giant maw. She pushed her body to the absolute limits of her speed, barely able to hold her own against the onslaught. But despite how much her skills had grown, as soon as the third brawler entered the fray, she began to fall behind. Lashing attacks struck her arms and legs, drawing blood that arced through the air in slow sprays of crimson droplets as the monsters’ magic clawed at her mana. She ducked and weaved, but the brilliant flares of the beam attacks seared through her muscles, burning her to the bone, disrupting her rhythm and speed as she was forced to heal her body in order to even move.
+
+I’m losing.
+
+The thought which should have been one of absolute terror, drifted across her calm mind. She was experiencing the emotions that came attached with the dark thoughts, but her Clarity kept her mind still and focused during battle. She was effectively on her own against three elementals, all of which were higher level, more powerful, and faster than she was. The only help she was able to rely on was the consistent pulse of holy healing magic Ali’s minions were sending her way. If she let the brawlers reach the little Kobold Acolytes, it would all be over in a flash.
+
+An incandescent arrow trailing a chain of light whipped past her left ear, but the Brawler it had been aimed at effortlessly avoided it. Calen’s unimpressed hiss clearly rued the waste of mana.
+
+She dodged again, spinning on a tight axis, before landing on one foot and ducking, avoiding the scathing beams before blocking a rapid set of lashing strikes.
+
+If only I had even one of the others to help.
+
+She glanced over at Mato who usually took the tanking role for their team. If only he was faster. The swipes with his claws and his attempts to reach the monsters appeared ungainly and slow – useless against the incredible haste of these glowing brawlers with their instantaneous beam attacks and flurries of whips and bites.
+
+She took another beam, this time to her back, unable to react to the brawler appearing behind her after a teleport. As the searing pain shot through her body, she desperately tried to turn to face the threat while healing herself. But she had left herself open and was instantly punished by the crunch of teeth through her arm as the nearest flanking monster’s maw bit down, shattering bone.
+
+As she realized her mistake, she suddenly saw the glimmer of a way out.
+
+He has Battle Master…
+
+“Mato, stay put!” she yelled, seeing his surprised expression growing on his bear face with comedic slowness.
+
+This had better work! She unleashed a vicious low kick, with all her strength behind it, connecting with the nearest brawler’s knee, and sprinted sideways, drawing the monsters with her, aiming carefully to draw her target right past Mato, while trying to recall the specifics of his potent retaliation skill.
+
+His retaliation is instant, and I think it triggers when something moves past him…
+
+She drew the hasted elemental up to Mato, right past his face and still, it was too fast for him to connect with. But as she ran by, the monster kept its focus on her, ignoring Mato. His paw suddenly moved with unbelievable speed, blurred in her perception even under the influence of her haste, accelerated reflexes, and perception, connecting solidly with the brawler. The power of his strike drove the heavier monster bodily to the ground, causing it to stumble, and sending blue glowing blood spraying across her face from the sheer force of ripping claws. Roots sprang from the ground, ensnaring the monster, and in that instant, it blurred, teleporting to escape.
+
+Despite her dire circumstances, Malika grinned. This changes everything. All she had to do was draw the monsters past Mato and she could abuse his retaliation skill to get more damage.
+
+And the best part is he won’t mind me using him. He hates being useless in a fight.
+
+The brawler that had teleported to escape the roots charged across the sandy lake shore, directly to Mato, laying into the slow bear with a fury of attacks that he was powerless to defend against.
+
+Now to try my new skill. Malika charged in behind the monster, drawing the other two with her, hoping to use Mato’s retaliation strike again. But this time, she unleashed her punches at the brawler attacking Mato, choosing to use her new Mana Strike advance. An electrifying rush of energy filled her mind as her punches connected, her magic no longer doing damage, but instead attacking the mana of the elemental directly, and leeching some of it away to replenish her own. The rush of new mana felt exhilarating as she immediately turned it into more stamina to fuel her Divine Step, and her punches and blocks.
+
+The Radiant Brawler reacted instantly, furiously rounding on her with lashing strikes. You didn’t like that, did you? And the instant she drew the furious attention of the elemental away from Mato, his Battle Master retaliation struck again, blurring with speed and power and leaving the brawler trapped in the roots – this time unable to teleport away until its escape skill recharged.
+
+Calen lost absolutely no time, peppering the pinned monster with incandescent arrows as Ali’s swerving Arcane Bolts all homed in on the suddenly pinned monster.
+
+Malika sprinted away, drawing one of the other brawlers through the area of Mato’s reach. He struck a second time, provoking the teleport to escape. Here we go! Give us a big bear grin, Mato!
+
+But as the afterimages faded, and the teleporting monster manifested right into the path of a radiant arrow trailing a chain of light. Calen’s binding magic wrapped around the monster, tethering it to the ground in an instant and suddenly the slippery elemental had to contend with the full onslaught of Ali’s mages. Wow, he learned to predict the teleport!
+
+Unexpectedly finding herself enjoying the encounter, she ducked and dodged as she worked on circling back toward Mato’s position, weaving in her most cunning blocks and sidesteps as the monster chasing her caught up. Keeping her eyes on the greater battle, she ducked under a beam attack and rolled to her right side, seeing it slicing through trees in the distance. She felt the pressure, but it was clear that her discovery had greatly lessened the volume of attacks on her. Mato seemed to be enjoying walloping the pinned monster in front of him while it was unable to escape. She dodged a second beam but stood firm, taking the third aimed for her friends on her chest, healing against the searing burn that threatened to punch right through her.
+
+I can force the teleport, and I can lock them down in front of Mato for a short time once their skill is on recharge. And Calen can pin one until their teleport recharges. She took a brief moment to survey the battlefield, noting the slow-motion firebolts, arrows, and other magic flying around. Only Ali’s arcane magic seemed to hit with any consistency.
+
+What if I can run them out of mana? She decided it would likely be her most effective strategy. Something about her Mana Strike attack was threatening enough to the monsters that they were willing to ignore Mato to attack her when she used it, which gave her a good idea that they needed their mana and were willing to fight to keep it.
+
+I can use that response too, she thought, considering how she might use every detail to her advantage.
+
+She launched herself toward Mato, drawing in a new target for him to hit, just as the first one finally teleported out of its entangling roots. As soon as Mato unleashed his retaliation, she chased down the escaped brawler, unleashing a flurry of punches, each strike sipping from its mana pool and provoking its ire. It worked almost like a Taunt.
+
+She continued ping-ponging the brawlers into Mato’s reach, quickly becoming more proficient at timing their teleport recharge so that they couldn’t escape as easily. Each time she had a few extra moments, she attacked the mana of the brawler that was still leaking blue blood from Mato’s initial strike.
+
+It was a good ten minutes before she drew her target into Mato’s range, punching it relentlessly, but as she did, suddenly the monster’s glow dimmed substantially, and its movement slowed. Malika’s punch landed, but she came back empty – no exhilarating rush of stolen mana surging through her mind.
+
+Got you. She knew how it felt to have her own mana pool drained till her enhancement skills dropped, and it was satisfying to turn the tables on the brawlers. She didn’t know how Mato was coping with the loss of mana, but he seemed to be doing just fine. He does have a lot of regeneration.
+
+She dodged out, seeing Calen’s arrows easily tracking the no-longer hasted brawler, followed quickly by a host of magical attacks from Ali’s minions.
+
+Done with you… She turned her attention to her next opponent.
+
+***
+
+Malika was exhausted after going all out for so long, but she smiled happily. The battle had required speed and tactical problem-solving, and she had quite enjoyed pushing her class to the maximum.
+
+“That was a great idea,” Mato exclaimed happily as he grinned at her.
+
+“You like being used like that?”
+
+“Hell yes, I got to fight because of you!”
+
+He’s so easy to please, she thought. But it did feel good to be critical to their little team’s success, so she totally understood him.
+
+“Nice work on anticipating the teleports, Calen,” she said.
+
+“There’s a bit of a trick to it, the way the afterimages flicker has a detectable pattern,” Calen said.
+
+“You’ll have to teach me how to see that,” Ali said.
+
+“Me too,” Malika agreed. “Either way, it took a lot of the pressure off.”
+
+As Ali finished deconstructing the monsters, several small motes of brilliant light floated out from the dispersing mana of the brawlers.
+
+Lesser Radiant Essence x5Light-affinity crafting reagent.Mana: Combine 3 Lesser Radiant Essence into one Radiant EssenceValue: 5 goldReagent – Mana Essence
+
+Malika quickly collected and stored them in her ring before they floated away. Belatedly, she remembered to check her notifications.
+
+Your group has defeated Radiant Brawler – Elemental – level 37 x3Soul Monk has reached level 35.+10 attribute points.Martial Artist has reached level 18 (+2).Soul Strike has reached level 21.Healing Mantra has reached level 21.Soul Armor has reached level 20.Enlightened Evasion has reached level 20.Divine Step has reached level 20 (+2).Second Wind has reached level 9 (+3).Clarity has reached level 6 (+2).Appraise has reached level 12.
+
+Wow. Her class skills had grown dramatically from just one fight, and some of her lesser-used skills too. Huh, even Clarity got two. Very nice! But she supposed it made sense – it had been a long fight, and she had been going all out the entire time – and using haste, she attacked vastly more frequently. Divine Step and Second Wind had been crucial to her strategy, and they had grown the most.
+
+Keeping to her usual distribution, Malika assigned three of the points to dexterity, two each to wisdom, vitality, and endurance, and put the last point into perception. As soon as she finished distributing her points, her notification chime sounded once again.
+
+Making a hiss of satisfaction between her teeth that drew knowing grins from her companions, she checked the details at once. Yes!
+
+Requirements met for skill advancement.Divine Step has reached level 20.Wisdom has surpassed 150.Fought at maximum haste for over ten minutes.Killed an opponent with a strike from above while airborne.Divine Step gains Infinite Lightness of the Soul.Divine Step – level 20Stamina: Channel your energy through your body and to the immediate environment around you to control your momentum, significantly increasing your combat and movement speed. You can step, push, or jump off your own energy extended into the space around you.Soul, Movement, Haste, DexterityAccept this advancement?
+
+“Oh, this looks nice,” she said, sharing her Divine Step advancement with her friends. Fighting at maximum haste must have been unlocked in this fight just now, but the overhead strike kill had to have been her climbing the wall above Ali’s fireball and dropping down to kill Edrik.
+
+“Is that an air-walk and double-jump skill?” Calen asked, arriving at precisely the same conclusion she had.
+
+The way she read it, this advancement built upon the movement trait of her skill, allowing her to perform her acrobatic feats without necessarily requiring a wall. If she could jump off the air, she would be able to reach fairly impressive heights. But she presumed that with some practice and advancement, the ‘step’ part meant she might be able to run for short distances without any support.
+
+She quickly accepted the advancement, and then took a step, channeling her stamina into her new skill. Her foot found purchase in the air a little above the ground as the energy of her magic infused the space, and she stepped onto it, surprised that it didn’t let her fall.
+
+“Oh, that’s impressive,” Ali exclaimed. “Now you can fly, too!”
+
+“I have to channel stamina into it continuously to avoid falling, so I can’t do it indefinitely.” But she could run on air. She sprinted around for a few moments, getting used to the effect, finding the skill surprisingly intuitive to use.
+
+This is awesome! she thought, her mind already throwing dozens of ideas at her for how she could enhance her fighting style.
+
+“Ali, are you alright?” Mato broke in, sounding worried.
+
+“Feeling pretty woozy, actually,” she admitted.
+
+Malika grimaced. “Woozy? You look terrible, actually. How about we get out of here? I could use some downtime too.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

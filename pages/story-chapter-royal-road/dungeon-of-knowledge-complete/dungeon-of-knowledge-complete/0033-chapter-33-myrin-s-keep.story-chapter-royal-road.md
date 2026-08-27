@@ -1,0 +1,317 @@
+---
+id: 190b61a2-70ac-5093-8ab0-94f3518f11ef
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33: Myrin’s Keep"
+slug: 0033-chapter-33-myrin-s-keep
+partOf: dungeon-of-knowledge-complete
+position: 33
+ownLength: 5527
+unit: words
+ownProgress: 5527
+publishedAt: 2024-02-29
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1536502/chapter-33-myrins-keep"
+royalRoadId: "1536502"
+markedReadAt: "2026-06-29T20:12:04.572Z"
+---
+
+Myrin’s Keep was surprisingly extensive. Given the way her friends had described it, Ali had initially formed the impression that it would be a little hamlet, littered with trash and overrun with bad people like a plague of rats. She and Mato had left in a rush in the quiet before dawn, almost a week ago, but now the streets bustled with activity and noise. It was not nearly as large as Dal’mohra had been, obviously, but it was still large enough that she had to call for a break to catch her breath.
+
+It doesn’t help that they all have such long legs, she thought as she trotted along. She could tell the others were slowing down for her, but she didn’t want to be a burden, so she had been walking as fast as she could, and now she was sweating and breathing heavily. There was always the option to invest in a little more endurance to improve her stamina, or dexterity so she could go faster, but neither attribute would help any of her other skills.
+
+It was just like when she had been younger, the other Fae simply flew everywhere, and she had been forced to scamper along on the ground trying to keep up.
+
+In Dal’mohra, there had always been the public transit system: the levitating disk platforms manufactured by the Gnomish Engineering guilds that were always just a call away using her communication panel – but neither piece of magical technology seemed to be available anywhere in Myrin’s Keep. At least, she hadn’t seen signs of any advanced magic yet. There were a few carts and people riding horses – and one person at the magic academy had been flying – but for the most part, people walked everywhere.
+
+They’re all looking at us, she realized. Now that she had a few moments to pause and really look, she saw the gazes – many of which were cast in her direction – some curious, and more than a few looking away quickly as they caught her eye. What bothered her most was the shocking amount of hostility and fear in some of the stares. For the most part, people were avoiding them, giving them a wide berth when passing, or even crossing to the other side of the street. It was a poor and rundown part of the town, but Ali was beginning to get the impression that was just how most of Myrin’s Keep was.
+
+“How common are Fae?” Ali finally asked, her curiosity getting the better of her. In her time, Fae had been a small, but consistent presence in the Grove, of course, and participated actively in magical research for the various academies and universities in the city.
+
+“Not unheard of, but rare,” Calen answered.
+
+“I have never seen one, other than you,” Malika added. “Why do you ask?”
+
+“People are staring. Some of them seem upset.”
+
+“You get used to that,” Calen observed.
+
+Used to it? It was making her decidedly uncomfortable, and she struggled to figure out how one could just get used to it. “I don’t understand.” The curiosity she didn’t mind much, but the rest of it was making her more than a little worried.
+
+“Especially among Elves and Humans, half-breeds and monster races are often treated poorly, disrespected, or outright hated,” Calen answered. His voice sounded resigned to the ugliness he had just described.
+
+“I’m pretty obviously a refugee from Toria,” Malika added, “and Toria and New Daria are at war, so I’m treated with suspicion by most people who recognize my ancestry.”
+
+“They think I’m a monster?” Ali curled up her lip at the derogatory term ‘monster race’. In her time, it had generally been used to refer to such creatures as Goblins, Kobolds, and the like. Trolls or Dragonkin only if you wanted to start a war. But never Fae. Her race’s magical heritage had been widely respected.
+
+“Some people are just small-minded. If you’re not a Dwarf, Gnome, Human, or Elf, you get to be a monster race,” Mato answered. “I’m pretty used to it too. I’ll just punch them if they cause you any trouble.”
+
+“Or you can just introduce them to your Kobolds,” Calen said, sounding uncharacteristically grim.
+
+It slowly dawned on Ali that none of her friends fit the ‘normal’ profile in this town. She and Mato would be considered monster races. Mato and Calen were both half-breeds, and Malika was at best a refugee, and at worst an enemy. With new, warier eyes, she covertly studied the people around her as they resumed their walk.
+
+Her wariness hung about her like a dark cloud as they walked steadily, soon reaching what seemed like a merchant district. A sprawling marketplace. The change in the atmosphere was like night and day; where before people were avoiding them, now Malika was fending off overly aggressive hawkers and merchants, eager for their coin. And foiling not a few would-be pickpockets. Ali never noticed them, but somehow Malika had a sixth sense for the cutpurses, and the reflexes to stop them.
+
+Not that I have anything worth stealing, she thought, ruefully smoothing out her tattered and burnt robes. I feel silly wishing for better clothes, it never mattered that much to me before.
+
+It was about halfway through the market that she heard a commotion and raised voices. As they turned a corner, she saw three thugs wearing an embroidered eye symbol on matching yellow armbands harassing a merchant at her stall.
+
+“The taxes have gone up. You haven’t paid enough.” The heavy-set man leading the group readied a wicked-looking truncheon as he grabbed for the merchant’s wrist.
+
+“It’s too much!” the woman exclaimed, backing up.
+
+“It’s for your own protection, as you know,” he said, his voice loud and filled with scorn.
+
+Ali didn’t believe him for a moment, and by the looks of it, neither did any of the onlookers.
+
+The one at the front seemed to be doing all the talking, shoving the distraught plump woman back up against her pastry stall. The other two flanked him, glaring at the crowd, with their hands resting on similar truncheons as if daring anyone to challenge them.
+
+Warrior – Human – level 16-18 x2Rogue – Human – level ??
+
+“What should we do?” Ali whispered.
+
+“Nothing,” Malika said firmly. “They’re from the Town Watch. See the badge on their armbands? There are probably more of them hidden in the crowd, waiting for trouble.”
+
+“I want to punch them just as much as you do,” Mato growled, making Ali squeak out a halfhearted denial, “but Malika’s right. She will have to pay them, and then they will leave her alone.”
+
+“That’s horrible, they’re going to hurt her,” Ali objected. The pastry seller seemed frantic.
+
+“They might, but they won’t kill her,” Malika answered.
+
+“How do you know?” The thugs certainly seemed aggressive.
+
+“They’re scaring the crowd into paying their protection scam. They might rough her up, but dead people are bad for business.” Malika looked down, catching her eyes, “The problem is the Town Watch is officially sanctioned by the Town Council – we could be thrown in jail for interfering. If they hurt her, I’ll heal her after, ok?”
+
+Ali nodded, but she still felt awful for the woman.
+
+“If I pay that much, I can’t afford to buy ingredients for tomorrow,” the woman wailed, clearly beside herself.
+
+“That’s not my problem,” the leader mocked, smacking his truncheon against his meaty palm. “Cough up, or I’ll have Adrik and Edrik come and pay you a visit.”
+
+There was a collective gasp from the crowd, and the woman’s face paled. As she stammered out an apology, she gave up a small pouch that clinked in her trembling hands. The man snatched it from her, chuckling wickedly as he pocketed it.
+
+“Don’t forget to pay on time next month. I won’t be so lenient in the future.”
+
+His voice was clearly pitched to carry to the crowd, lending credence to Malika’s assessment of what was going on. The trio turned and marched off through the market with the crowd scrambling to get out of their way. As soon as they left, the crowd began to disperse, the market filling with subdued chatter as folk drifted off to whatever errands they had been on.
+
+It was Mato who broke their silence. “I’m hungry. What say you we sell this gear, divide the spoils, and then buy a couple of pastries as fuel for the rest of this delightful walk?”
+
+“Oh, delightful,” Calen echoed.
+
+Malika snorted, “So much lovelier than I remembered.”
+
+“Food! We must feed the Bear,” Mato growled, patting his ample stomach as the others could not help chuckling.
+
+Ali glanced gratefully at him. While they were in the dungeon fighting Kobolds, Mato had gone over a week without food and had never once complained. It was a small gesture, but it took a little of the bite out of being forced to watch a shakedown, helpless to intervene.
+
+Calen scaled the spartan steps, taking them slower than he might have in deference to Ali’s huffing and puffing, and entered the garrison headquarters. It was a dour, squat stone building in the northern quarter of town, nestled right up against the massive battlements that stood between the town and the Myrin River – the border between New Daria and the kingdom of Toria to the northeast. The architects and stonemasons had probably been going for ‘military chic,’ but it came off more like ‘prison’ or ‘bunker’.
+
+The interior was just as stark as the exterior, a simple unadorned stone floor and walls, with a plain desk behind which an aide was busy filling in paperwork. Calen waited patiently until the aide acknowledged him.
+
+“How can I help you?”
+
+“I’d like to make a scouting report to Commander Brand,” Calen announced.
+
+“The Commander is busy right now,” the aide responded, glancing briefly to the side. It was a gesture that he probably didn’t even know he had made, but Calen’s newly enhanced eyes caught it easily. Following the glance, Calen found what looked to be a staff meeting in progress. At the head of the windowed conference room, standing with perfect parade-ground posture, was a uniformed man with short-cropped gray hair and piercing blue eyes that exuded an iron will and discipline. Eyes that instantly caught his glance, passed over their entire group quickly, seemingly taking in every single detail even at that distance. Calen saw his eyes pause at Malika, and then again on Ali, before snapping back to the conference room.
+
+Commander Brand. Calen recognized him from the drills the garrison guards sometimes conducted on the battlements. Doesn’t miss much.
+
+“… but I can take your report,” the aide finished, seemingly oblivious to the attention of his commander.
+
+“Malika and I were kidnapped by Kieran Mori almost ten days ago, and sold as slaves to the Kel’darran merchants,” Calen started.
+
+“That seems a bit implausible,” the aide interjected. “Kieran Mori doesn’t leave anyone alive, and the Kel’darran merchants don’t let people go.”
+
+He doesn’t believe me? Calen stared at the aide, his momentum stalled at the unexpected resistance, but Mato came to his rescue. Digging around in his pack for a moment, Mato dropped a set of black handcuffs on the desk in front of the aide.
+
+“We recovered this from the wreckage of the merchant wagons,” he said.
+
+Dubiously, the aide picked it up, but his expression turned immediately to shock. “These are highly illegal,” he exclaimed.
+
+“I know,” Malika chimed in. “I was restrained in those.”
+
+“Well, how did you escape then?” The aide’s disbelief seemed to be growing by the moment.
+
+“The caravan was wiped out, you can find it about four days ride along the south road,” Calen answered. “It was attacked by a dungeon-break provoked by Kieran Mori and his underlings. I observed hundreds of Goblins pouring out of the cavern, and they’re being lured here to Myrin’s Keep.”
+
+The aide simply let out a barking laugh.
+
+“Look, I don’t have time for childish pranks. The Torian forces are making moves on us as we speak, and I need to take care of all this paperwork. Take your stories somewhere else.”
+
+Calen suppressed a powerful surge of frustration at the obstinate aide. With an act of will he calmed his voice, knowing that an argument would simply make matters worse. “This is important, you must send scouts. I found Timber Wolf tracks, and we saw Hobgoblins. We even fought a warband with three Bugbears. Myrin’s Keep is in grave danger.”
+
+“Now you’re being preposterous, I told you to stop feeding me stories. There’s no way you faced Bugbears at level ten and lived. Get out! Stop wasting the garrison’s time. We have important work to do.” The aide’s face was red, flushed with anger, and he rose to his feet. “Leave. Before I have you thrown out.”
+
+“Let’s go,” Malika said, putting a hand on Mato’s shoulder to silence his angry growl.
+
+As he turned, Calen once again caught the commander’s keen eyes studying them as they left. Maybe there’s more than one way to skin that aide! He bit off the unexpectedly gruesome thought. Stupid politics. He’s probably afraid of Kieran Mori – or, working for him. Dammit, did we just make a mistake?
+
+Ali reflected on everything she had seen so far as Calen led them up a street called ‘Artisan’s Row’. The street seemed to be in a mixed state of disrepair, trash littered the sidewalks, and they passed several wrecked or burned-down buildings among the stores and shops that still appeared to be maintained – well, they were liveable, which was not saying much. It was much like everywhere else in Myrin’s Keep.
+
+This is a terrible town. She came to the realization after deciding that Myrin’s Keep had no redeeming features to speak of. No that’s not right, she corrected herself. The courier’s bird was amazing. The pastries from the vendor in the marketplace had been delicious; perfectly flakey and with just the right amount of hot berry filling. But everything else is awful. She had seen a dead body in an alleyway the first time she had set foot in the town, countless burnt and gutted houses, a shakedown, been treated like some kind of monster, and the guard at the garrison had been rude to them. She frowned to herself before looking to see why Calen had stopped.
+
+Standing before them was a quaint little storefront at the quieter end of Artisan’s Row, and it might have been charming if it didn’t look like it had recently been one of those burnt-out husks or abandoned buildings she had seen along the way. Obvious repairs had been done, but there were still signs of damage visible on the exterior. The sign on the door proclaiming the place as ‘Lydia’s Allure: Boutique Clothing’ was new and elegant at least, as was the lilac-painted door itself.
+
+Calen pushed the door open, and they all entered to the sound of a magical chime accompanied by the brief flicker of what seemed to be sound-affinity mana powering a hidden enchantment.
+
+“Calen!” A woman, clearly Calen’s mother, rushed across the room to catch him in a big hug.
+
+“Mom! We have guests!” His face immediately flushed a bright shade of tomato-red, his voice full of awkward embarrassment at her overt display of public affection, but his arms pulled her in close to his chest, returning her embrace.
+
+“Nonsense, your friends don’t mind a mother hugging her son who has returned from the dead!”
+
+“I wasn’t dead,” he complained.
+
+“I thought you were,” she answered, her voice suddenly carrying a more serious undertone. “I’m just happy you’re ok.” Her arms tightened around him one more time before she finally released him from his torment and turned to the rest of the group.
+
+“Hi, I’m Lydia Avery, Calen’s mother. Thank you for bringing him back safely.” She nudged Calen in the ribs with her elbow, “Calen, why don’t you introduce your friends? I see you finally brought some girls home to meet me?”
+
+Calen’s blush deepened dramatically, and he spluttered, unable to respond while his mother looked at him with a mock-serious expression, but Ali saw that her eyes were crinkled with suppressed amusement.
+
+While Calen stumbled his way through the introductions, Ali smiled. It was clear that he cared deeply for his mother. And she, in turn, showed her affection by teasing him mercilessly. While he was being teased and introducing them, Ali indulged her curiosity and Identified Lydia, hoping she wasn’t committing some egregious breach of social etiquette.
+
+Tailor – Human – level ??
+
+Higher level than I can read. Nice!
+
+Lydia’s lack of an affinity – a mana specialization – did not surprise Ali in the slightest. In Dal’mohra, only about ten percent of the population unlocked a mana affinity and the specialized and enhanced skills and magic that went along with that. Among the Fae, though, it was closer to fifty percent.
+
+For many classes – martial classes, scholars, and crafters – a specific affinity was not required. Neutral magic, or martial stamina-based skills, were more than sufficient, but Ali would not trade her mage class and affinities for the world. It wasn’t even the potent skills unlocked by the specific affinities – Ali felt her nature and arcane affinities were simply a part of who she was, like the color of her eyes.
+
+She took the opportunity to look around. Lydia’s Allure. Ali liked the sound of the name, and she could immediately see what Calen’s mother was trying to go for. The shop had a warm and inviting atmosphere, with a few comfortable chairs carefully arranged to break up the monotony of the space. Two or three mannequins sported stylish outfits, and there were several racks of premade clothing, bolts of cloth, and catalogs artfully arranged to catch the eye. However, the interior was clearly unfinished, perhaps a work in progress following a very recent move.
+
+“Aliandra, Malika, I owe you for saving Calen once again,” Lydia’s voice brought her back to the conversation.
+
+“Calen did his fair share of saving too,” Malika offered, her expression guarded.
+
+“Aliandra, what happened to the clothes I made for you? Was the fit that bad? I’m really sorry,” Lydia exclaimed, as her eyes settled on Ali and the robes she had salvaged from a dead Kobold mage.
+
+“I got hit by a Fireball…” Ali said, for some inexplicable reason feeling embarrassed by saying it. “And a Lightning Bolt. Sorry, the clothing didn’t really survive.”
+
+“I can burn this for you, dear,” she offered, picking at Ali’s Tattered Robes with an expression of disgust on her face.
+
+“It has resistances I need,” Ali immediately objected.
+
+“Dear, it stinks to high heaven, and it’s a rag. Barely a rag.” Lydia tsked as she plucked at it gingerly, clearly not wanting to soil her fingers. “I don’t have much to offer for combat armor, but I can definitely do better than this. Where did you get it? It smells like Kobolds after mucking about in the sewer.” Her nose wrinkled expressively.
+
+That’s … pretty much exactly right, Ali thought, embarrassed that she was stinking up the store without even knowing it. She had been underground, or traipsing around in the wilds, for so long that she no longer even noticed the smell. She wanted to kick Mato in the shins as he sniggered in the background.
+
+Before Ali knew it, Lydia had produced a notepad and was turning her this way and that, examining her from head to foot, making quick notes with an antique-looking quill. A fashion statement? Ali had always wondered how Tailors did it, but now she could see the flicker of magic in Lydia’s eyes as she measured her with what was presumably a Tailor-specific perception skill.
+
+“What do you mean you don’t have much for armor?” Ali asked. “Can you do something with resistances?”
+
+“You must not be from around here,” Lydia said. “The big Tailor guilds require many years of service and an iron-clad contract before they will teach any of the more important armor enchants. I didn’t want to spend my entire life in indentured service to them, so I decided to branch out and start my own shop. I can specialize in fashion and maybe level up a little if I make a name for myself.”
+
+“Why doesn’t everyone work on their own then?” Ali asked curiously. It seemed a bit of a predatory setup if someone like Lydia had to sacrifice so much just to learn the basic enchantments of her craft.
+
+“As with most crafting professions, experience is gained when your work is used effectively in important or dangerous situations. Monopolizing the combat enchantments means that Tailors must work for the guild because the best experience comes from adventurers, guards, and similar classes using your work to survive combat situations. In most cities, it requires a guild-approved license to sell combat gear, and they make you pay through the nose to learn any of the enchantments. Unless you’re already independently wealthy, the path to becoming a Tailor involves binding yourself to the guild and their ruinous loans. But I can still earn some experience if a noble, a wealthy merchant, or the mayor’s wife wears one of my dresses to an important social event. It’s not nearly as much, but it’s still something. And I have always loved fashion design.”
+
+Even if the situation seemed a little dire for Lydia, the insights into how the crafting classes worked were still fascinating. Ali had originally been interested in neither crafting nor combat, so she hadn’t paid too much attention to this aspect. But she had been aware that the best and highest-level crafters made items for the best adventurers – she had just never been curious about the why. It seemed that the relationship was symbiotic in more than just the business sense.
+
+If we wear her work, she will gain experience when we fight monsters. I never thought about it that way. Ali nodded to herself, deciding that this felt good. Well, we will need to be closer to her level for it to matter. Still, she liked the principle.
+
+Lydia looked up at Malika. “Your turn, dear.”
+
+“I… couldn’t afford anything,” Malika said, looking significantly at the obviously high-end tailored clothing on the mannequins.
+
+Oh, I didn’t think of that! Ali suddenly remembered she had no way of paying either. She frowned. How am I going to tell her I can’t accept her work?
+
+“You brought Calen home safely. I want to give you a thank-you gift,” Lydia answered.
+
+“I wouldn’t feel right accepting,” Malika refused, shaking her head firmly. “Calen saved me just as much as I saved him.”
+
+Lydia pursed her lips thoughtfully for a moment. “Would you be open to a business proposition then?”
+
+“What do you mean?”
+
+“I’ve just opened my store, and I’m struggling to get my name out there. How about I give you an outfit to wear around town, perhaps to lunch? If anyone asks you where you got it, you tell them about my shop. Think of it as advertising for me. I will add one set of clothing suitable for mucking about in the sewers as payment.”
+
+“I…” Malika looked surprised and deflated. “I guess … I guess I’m ok with that – if it’s something you need, and if it helps you, I mean.”
+
+“It would be a huge help. I need to turn a profit soon otherwise I won’t be able to pay taxes, my loans, and protection against the criminals,” Lydia answered, busying herself measuring Malika as Mato and Calen exchanged glances. Ali realized that Calen probably meant to use his share of their loot to support his mother’s shop. “You’re really fit, you’ll make a great model. Maybe a little skinny, though. Are you eating enough? You have gorgeous curly hair! What do you think of this color fabric?”
+
+Lydia fussed about Malika for a while, making small talk with a direct bluntness that was both surprising and at times refreshing or uncomfortable in approximately equal amounts. At least, Malika’s expression hovered somewhere between being bamboozled, embarrassed, and unwillingly flattered. Ali decided that to laugh at her probably was not worth the arm or leg it would cost.
+
+“Okay, this will take a little bit to finish. Calen dear, please take our guests upstairs and show them the bathroom. I’m sure you’ll all want a shower.” The emphasis on the last part, and her wrinkled nose, made it clear that it was closer to an order than a suggestion.
+
+***
+
+The shower had been a taste of heaven; Ali had forgotten what it was like to be clean. Feeling much happier, and rather relaxed, she walked downstairs wearing a small towel because the bathrobes were way too large. She sat down in one of the comfortable chairs in the waiting area, enjoying the subtle interplay of magic as Lydia made the needle and thread blur with speed. While the notepad was open on the tabletop, Lydia never once consulted it, completely absorbed in her craft.
+
+“Here you go dear,” Lydia said looking up from the table. “Go try this on.” She handed her a bundle and pointed to a curtained-off fitting room. Just the feel of the fabric sent a thrill of excitement through her. It’s so soft! Ali quickly changed into her new outfit, before stepping back out.
+
+“Wow, Ali, that’s amazing,” Malika said, as she joined them downstairs in a borrowed bathrobe.
+
+Lydia immediately fussed over Ali for a few moments, touching various seams and making them stretch or shift with deft flickers of magic flowing around her hands.
+
+“There, that should do it,” she announced. With a wave of her hand, she produced a mirror illusion floating in the air in front of her. “What do you think?”
+
+Ali stared at her reflection in the mirror. The image that stared back at her looked like a noble or a wealthy merchant. Ali barely recognized herself. She was much more comfortable with pants and a t-shirt, having rarely had the opportunity or desire to dress up. And here she was wearing a stylish burgundy dress that reached the ground, beautiful shimmery cloth slippers, and even a cute matching hat, all of which were artfully designed to show off her green hair and amber eyes.
+
+The style might have been considered vintage or even old-fashioned by the popular icons of Dal’mohra – perhaps something one might see at a historical festival, but Ali had already spied similar style outfits on several important-looking ladies in town. But she didn’t care, it felt heavenly on her skin.
+
+Malika prodded her shoulder. “Don’t be shy, now. The mirror won’t bite you, I promise.”
+
+She twirled in front of the mirror, enjoying how the soft fabric flowed.
+
+“I love it!”
+
+Lydia was truly an artist. Ali had never imagined she would wear anything like this. And yet the outfit was comfortable and understated, not gaudy or attention-grabbing simply for the sake of it.
+
+Lydia smiled happily and then handed Malika hers before returning to Ali.
+
+“What do you think of this for your armor piece?” Lydia asked.
+
+She handed Ali an eminently more practical set consisting of a robust-looking pair of pants and shirt in elegantly chosen shades of tan and beige. Ali examined them carefully, surprised to find out that it looked much like many of the items she had had in her own closet. However, the resemblance disappeared the moment she identified it.
+
+Tailored Cotton Clothing – level 15Resistance: 216Mana: Self-repair.Requirements: Intelligence 53Body – Cloth
+
+Ali stared at the item, feeling aghast and embarrassingly possessive in equal measure. This was an enormous upgrade over the sixty-seven resistance she had gotten from the old poorly fitted, tattered robes.
+
+And the self-repair enchantment… The number of times Ali had gotten her clothing torn, burnt, or otherwise destroyed was more than she could even remember. The armor was simple but well made, came as a set, and, best of all, they were sized to fit her, not a Kobold. There was no tail-hole, and Lydia had artfully included slots for her worthless wings to fit through instead of being forced to fold them up uncomfortably against her back.
+
+“This is incredible, I just couldn’t –” The Tailor’s eyebrows twitched meaningfully “– I mean, thank you so much!”
+
+Ali was truly excited about her new adventuring outfit. What’s that, triple the resistance? No more almost dying in one shot to Lightning Bolts and Fireballs!
+
+“Self-repair is the only enchantment I can do for armor, and I discovered that one by accident. But I can at least make something that suits your level and its higher quality than that horrible thing you were wearing before,” Lydia said, with a grin and a not entirely fake sniff of disdain. “Here let me put on the finishing touches, if you’re happy with it.”
+
+“Happy? She’s bouncing,” Malika pointed out.
+
+“Malika!” But Ali nodded, and then to her surprise, Lydia summoned an astoundingly complex formation of magical energy, manifesting it between her palms. It swirled and pulsed with a vibrance that made it seem almost alive.
+
+Ali stared openmouthed as Lydia separated the formation into two, joined by a glowing ribbon of energy. She reached out and placed one hand on the garments she had made, causing that half of the magical energy to infuse into the fabric, spreading through it like rapidly growing roots. The other half sank into Lydia’s chest where it pulsed slowly, not unlike the kernel of mana she had seen in the chest of her Kobolds. Slowly the energy, and the glowing ribbon linking her to the tailored clothing, faded to invisibility.
+
+“Wow, what was that?” Ali had never seen anything like it. The complexity was easily on par with some of the magic her Grimoire had produced.
+
+“My mana signature,” Lydia answered, chuckling. “I guess you can see mana? I’ve heard that signatures look quite complicated.”
+
+Ali identified the item a second time, curiosity burning like a fire within her.
+
+Tailored Cotton Clothing – level 15Resistance: 216Mana: Self-repair.Requirements: Intelligence 53Created by Lydia Avery.Body – Cloth
+
+There at the bottom of the description was Lydia’s signature. “All that for a signature?”
+
+“Look a little closer,” she suggested archly while handing Mato his new outfit.
+
+Ali blinked. Alright, someone was justly proud of her work and she had better respond accordingly. Burning with curiosity, she focused on the signature and willed it to give up any further detail that she might access.
+
+Mana Signature – Lydia AveryThis item was created by Lydia Avery.Experience gained while using this item is increased proportional to how much it contributed to the encounter. The extra experience is awarded to Lydia Avery.Enchantment – Tithe
+
+A lot of things suddenly clicked in Ali’s mind. Tithe enchantments were a complex branch of magic that awarded experience to the person who provided a beneficial effect to another person. Not everything worked this way, but it seemed that crafters could use them, which explained Lydia’s comments about her gaining experience for important items. Ali knew there were a lot more details, but she hadn’t paid much attention during those lectures because the professor had habitually droned on like a bored mosquito. And now that I want to know more, I don’t have access to the library, she thought, regretting her distraction in that class. Although, he really was a snooze.
+
+It also explained why Lydia only bothered to put her signature on the expensive outfits and Ali’s armor, but not on the adventuring clothes she had created for Malika. Malika’s gear had no armor or level requirement because it would interfere with her class, and so the item would not affect combat in any meaningful way, and thus not affect the outcome. They were just ordinary clothes. For the stylish outfits they planned to wear around town, presumably any profitable encounter might earn a little experience, perhaps if they had merchant classes, but more importantly, mana signatures were notoriously impossible to fake, and they were advertising.
+
+Ali sat back down to wait for Lydia to finish with the boys. While she waited, she glanced down at the bag Calen had given her to hold her old Tattered Robes.
+
+I definitely don’t need this anymore. She surreptitiously reached her hand into the bag and Deconstructed it.
+
+Variant: Tattered Robes added to Imprint: Armor.
+
+Fine, if I must. Can’t see myself using that variant.
+
+Once they were all ready, and all the outfits were adjusted to Lydia’s exacting standards, she hugged Calen goodbye and then handed him a gold coin.
+
+“Take them to Laurel’s,” she suggested. “That should be the perfect place to show off. And be sure to tip well.”
+
+Ali didn’t have a good understanding of how much things were worth in this town, but judging from Calen’s surprised expression, and Malika’s shock, a gold for lunch was unheard of.
+
+What kind of place is this Laurel’s?

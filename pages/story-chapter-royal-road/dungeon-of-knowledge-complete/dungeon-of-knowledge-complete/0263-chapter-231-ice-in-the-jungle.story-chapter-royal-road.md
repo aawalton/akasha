@@ -1,0 +1,145 @@
+---
+id: a6823204-cfc7-55ad-bbb9-156d2c008a0d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 231: Ice In The Jungle"
+slug: 0263-chapter-231-ice-in-the-jungle
+partOf: dungeon-of-knowledge-complete
+position: 263
+ownLength: 2311
+unit: words
+ownProgress: 2311
+publishedAt: 2025-04-24
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2227392/chapter-231-ice-in-the-jungle"
+royalRoadId: "2227392"
+markedReadAt: "2026-06-29T20:20:07.746Z"
+---
+
+Unlike fire, which tends to be pure damage, ice affinity magic requires some subtlety to wield. For the aspiring mage, ice affinity has a high damage potential, but it contains strong elements of battlefield control simply by nature of the affinity itself. But it is not as high damage as a pure fire build. It is the nature of the affinities that leads Ice Mages to look down on Fire Mages as boorish, low-brow, and lacking in versatility, while the Fire Mages view the ice mages as arrogant, aloof, and self-absorbed. - Nathaniel Sunstrider, Arcane Archmage. Lecture to class aspirants during a ceremony gifting a newly crafted shrine to the city of Glimwall.
+
+You have been afflicted with Domain Withdrawal.Separation from your domain weakens you.-10% to maximum health.Affliction – Duration: Indefinite. Count: 2
+
+Ali woke suddenly to the mute, excruciating reminder that she was far from home. She was so far, in fact, that she required magic if she hoped to return quickly enough to avoid dying. Not that it would be a problem for her now, she had a couple of Potions of Recall in her storage for emergencies, and she could inscribe a teleportation circle easily enough.
+
+The problem was that her friends needed her here, and, while going home would be easily achieved, returning after healing her withdrawal would be a significant challenge.
+
+Unless I inscribe a locus here, she thought. But even that seemed too risky, considering the rate at which the active domain mana of the dungeon eroded her inscriptions. A few hours might be enough to keep a locus functioning, but it was far from certain. Imbuing the inscription into something solid should help make it much more durable, but the dungeon might simply deconstruct whatever substrate she used. They could exit the dungeon, but that would set them back, and with the Lich at large, she’d rather get this over with and be back as soon as possible.
+
+She sighed. A twenty percent reduction in maximum health was painful, but she would just have to live with it. At least her barrier was much more potent now than the last time she had needed to deal with her withdrawal.
+
+She scrolled through her notifications, surprised to find a few that must have triggered overnight without waking her. I must have been tired.
+
+Variant: Common Huntsman added to Imprint: Spider.Imprint: Borer Beetle updated to Imprint: Beetle.Variant: Seven-Spotted Garden Ladybug added to Imprint: Beetle.
+
+She crawled out of her sleeping bag, emerging from her tent into the predawn hush that had fallen across the jungle. Malika was meditating over by the fire, while the bulk of the monsters she had made were keeping watch.
+
+Now, where did those come from? She opened her Grimoire, discovering that the new sections added to her imprints were remarkably tiny, almost all of the magic inscriptions simply connecting and referring to other parts of already inscribed monsters.
+
+Not much new then, she thought, channeling a little mana into the variant to see what it produced. With remarkably little effort, and only a few seconds of casting, her magic coalesced, producing a spider with furry legs and abdomen, straddling the outstretched palm of her hand.
+
+Common Huntsman – Spider
+
+No level. Clearly, the creature was simply a spider, and not a monster, and yet her Grimoire had chosen to inscribe it. It must have hatched in her domain for her magic to recognize the imprint – an aspect of her skill that she hadn’t explored in any great detail, other than letting Basil grow flowers for her. No reserved mana, either, she suddenly realized. Nor did her Martial Insight allow her to connect with the spider.
+
+It hung around on her hand for a few moments, sampling the cool air before suddenly leaping off to a nearby tree and scuttling away into the jungle.
+
+Garden Ladybug – Beetle Swarm x8
+
+Eight bright red ladybugs appeared on her hand, their legs tickling her skin as they crawled about. Swarm insect, she noted, but again no mana was reserved, nor could she feel the familiar connection she had with her minions that allowed her to command them. And in a few moments, they simply flew off.
+
+She gazed off in the direction they had vanished, her eyes settling into the gloom, deep in thought. She had no idea what benefit these creatures might provide for her dungeon or her class, other than a simple imprint that might be easier to study, and yet she felt almost no desire to remove them, even to save space in her Grimoire.
+
+Shelving thoughts of critters, she called her witch doctor over and began to familiarize herself with the troll’s abilities. If she were going to use her in combat, she would need to be well acquainted with the nuances of what she could do.
+
+As she spent the time to internalize her abilities and skills, Ali was struck by how disconnected it all seemed. The primary combat abilities the witch doctors displayed were Hex, Soul Drain, and Spirit Walk. Of these, only Soul Drain was a primary attack; the other two served as chaotic disruptions.
+
+Then there was the Jar of Tricks and Combat Potions – abilities that allowed a diverse array of reactions to the shifting tides of battle, but again they seemed to be focused primarily on disruption rather than damage.
+
+Spirit Speaker and Spirit Magic were clearly how Kir’vella had implemented her haunting magic from the Spirit Realm.
+
+Ritual Infusion seemed to be the ultimate wild card, allowing the donation of mana or health to gain a random infusion of power to something. It seemed to synergize perfectly with Soul Drain – the witch doctor would be able to drain health and mana from her foes, gaining it herself as temporary health and mana, similar to Mato’s Last Stand ability. But then she would be able to donate this health or mana through Ritual Infusion for a potentially potent buff before the temporary resources expired. Another combat disruption ability. It even had the Chaos trait and was presumably the reason for the random sparks and spontaneous pink hair she had observed.
+
+She spent almost the full hour before her friends began to wake, experimenting with the individual abilities, eventually forming a holistic picture of how such a creature might fit into her strategy. It was a combat herbalist able to brew potions, an artist able to buff her minions with paint or calligraphy, and generally a trickster designed to throw the enemy off their stride.
+
+Buffs for us, and annoying debuffs for everyone else.
+
+Her witch doctor was unable to use the most potent Runic Spirit Ink skill to create items from mana and runes – she would need to secure some highly specialized mana-imbued ink for that ability. But with the witch doctor’s Brewing and Combat Potions, she was able to create a rudimentary warpaint from her own blood and some Blood-Drenched Moss in her conjured jar of tricks. Using just her fingers, her witch doctor painted grim-looking Warpaint buffs on all her melee minions, granting them five additional strength points for the next six hours.
+
+“Well, that looks terrifying,” Malika said, walking over to join her, having apparently finished her meditation.
+
+“There’s some paint left over,” Ali said. “Do you want one? It gives plus five to strength.”
+
+“Um, sure?” Malika said, clearly conflicted, but not wanting to pass up the useful buff.
+
+“Paint her too,” Ali told her witch doctor, and then watched in fascination as the troll dipped her fingers into the jar of dark red liquid, and smeared it across the left side of Malika’s face, while her mana flowed into the art. Her fingers traced a jagged line down the left side of Malika’s face, from her brow, around the outside of her left eye, and then zig-zagging down her cheek, under her jawbone, and down her neck to her collarbone.
+
+“Oh, that’s nice,” Malika said, her eyes focused inwardly, presumably looking at her attributes. “You should do one for Mato too.”
+
+“You look terrifying,” Ali said, studying the flow of mana in the red paint on her face. Perhaps I wouldn’t mind so much if I didn’t know what that paint was made from.
+
+“Not if I do this,” Malika answered, placing her garish bone mask on her face.
+
+“Yup,” Ali agreed, but in truth, she wasn’t entirely convinced this was a better look.
+
+Malika stored her mask, and they all headed over to see what Mato was making for breakfast.
+
+“Wow, that looks epic, where can I get one?” he exclaimed on seeing Malika’s warpainted face.
+
+“You don’t even know what it does,” Malika chided.
+
+“I don’t care, it looks fierce.”
+
+“It gives five strength,” Ali explained, grinning at Mato’s priorities.
+
+“Well, now I definitely want it!”
+
+So, while the rest of them ate breakfast, Ali had her witch doctor duplicate the warpaint on Mato. The design she used was notably different this time, but the mana flow was similar and, once it was completed, Ali recognized the Warpaint buff by the mana formation soaking into Mato.
+
+***
+
+They left camp in high spirits after an excellent meal courtesy of Mato and his cooking skills, but as they progressed along the winding path, the jungle began to grow ominously quiet. Gone were the sounds of frogs, or the chirping of birds, and everything seemed to be holding its breath, waiting.
+
+“This feels foreboding,” Malika said.
+
+It wasn’t like it was perfectly silent, after all, Ali had two Armored Drakes plodding along with their enormous mass making the ground shiver with every footstep. But the sun had vanished, leaving the jungle lit by a strange, diffused light that was neither twilight nor was it the normal full light of a day. Even through the senses of her minions, the sound of their passage seemed muted somehow, as if the world teetered on the cusp, the precipice of silent anticipation right before a blizzard.
+
+Ali shivered, and pressed on, pulling her robe tighter around her shoulders to ward off the chill on the breeze blowing softly down the path. And with the breeze, she suddenly noticed something that had not been there before – the swirling tendrils of ice-affinity mana.
+
+She rounded a corner in the path, following behind her friends and the trees, previously a lush verdant green, with water dripping from their leaves due to the ambient humidity, now had a bluish-white cast to their leaves and branches, and she began to see the signs of frost.
+
+“There’s ice-affinity mana,” she said, warning her friends.
+
+“This is the magic of the Telim Gor,” Zor’kan said, his deep voice resonating from close enough to startle her and make her jump.
+
+“The Telim Gor?” she asked. “Aren’t they a rival kingdom?”
+
+“The Telim Gor are seldom welcome in Aman Rak, but they sent Mok’freja, an ambassador and her delegation, to warn us of a divination by their leader Tol’zerath. In his vision, Tol’zerath claimed he had seen the destruction of Aman Rak by the undead. Obviously, most of Aman Rak did not believe the Mok’s tale – we were too strong to be taken by mere undead. But, as you see now, we were not too strong to be betrayed by our own to the Blind Lich.”
+
+“Do you think any of the delegation members survived?” Ali asked, glancing at the thickening ice mana, and the white puffs of their breaths in the rapidly falling temperature.
+
+“I think that is clear,” Zor’kan said, reaching out a hand to a branch and returning with a pile of white ice crystals. “It has never snowed in Aman Rak. What is not clear is if they were taken by the dungeon.”
+
+Ali shivered again at the implications. How was it possible for Kir’mogan and Kir’vella to be dungeon bosses when they had once been free Trolls?
+
+They pressed onward for a few minutes, finding small drifts of snow in the bushes, and the footsteps of her minions were beginning to sound crunchy as their weight crushed the frozen ground.
+
+“Monsters, up ahead,” Calen said, his voice an urgent whisper halting their progress instantly. And in the same moment, the scent of blood came to her via her shamans and Abyssal Stalkers. “Dungeon spawn.”
+
+Up ahead, off to the side of the path was a clearing with a single stone hut of typical Aman Rak construction, although, the bone shingles on the roof were obscured by the snow falling softly from the gray blotting out the sky.
+
+“Stay back,” she whispered to Zor’kan as she approached, taking care to keep one of her drakes between her and any danger.
+
+Several figures emerged from the snow and flurries of ice crystals whipped into a frenzy by the ice mana surging through the clearing. With skin of various shades, ranging from ice blue to deep indigo, sporting shocks of pure white hair, their skin was marked by glowing white tattoos and their eyes shone in the darkness with ice-affinity mana. Thick crystals of ice hovered, suspended in the air like a shield in front of each troll. The three in the front all had cerulean dragonets perched on their shoulders, while several pure white spiders the size of a fat Kobold crawled around, seemingly perfectly at home in the blizzard.
+
+Mage – Troll – level 77-83 (Ice) x5Frost Dragonet – Dragon – level 61-64 (Ice) x3Frost Weaver – Spider – level 70-71 (Ice) x2
+
+Even just standing there in the frigid winter spell was causing Ali’s health to slowly tick downward and ice crystals to form in her hair. It was so cold she was struggling to breathe.
+
+Oh no, the dungeon has taken them! They had found the delegation, but it was far too late to save them.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,117 @@
+---
+id: 4d8c7dbe-cf6f-5c81-b736-d23af64d53f1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 250: Critical Block (Part 3)"
+slug: 0282-chapter-250-critical-block-part-3
+partOf: dungeon-of-knowledge-complete
+position: 282
+ownLength: 1942
+unit: words
+ownProgress: 1942
+publishedAt: 2025-05-15
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2281196/chapter-250-critical-block-part-3"
+royalRoadId: "2281196"
+markedReadAt: "2026-06-29T20:20:47.768Z"
+---
+
+“Attack,” Calen called at the sight of Bloodlust dropping, not that they needed any direction, and volleys of arrows and withheld spells were suddenly unleashed on the giant berserker troll, making the mist that billowed around him grow a deeper and angrier red.
+
+The troll slashed crosswise at Mato with a powerful swing of his righthand greataxe and, for the second time, the sudden shockwave rippled through the air, making the troll howl with anger. The second weapon crashed into Mato’s flank sending him flying. With narrowed eyes emitting a menacing red glow, the troll instantly leapt after him, soaring through the air with his two axes drawn far back and ready to strike. Calen shifted his aim, firing continuously at the flying troll as his bow howled and his arrows leeched mana and stamina constantly. He adjusted again slightly as Malika appeared in the air behind the troll, grabbing onto his shoulder while punching him in the head as they sailed down to the ground.
+
+“Last Stand!” Malika shouted, gripping a tusk firmly and delivering a solid punch into the monster’s right ear.
+
+“Go!” Calen yelled, igniting his mana with Righteous Fury and seeing the simultaneous blood explosion of Bloodlust accelerate all the melee fighters. He assumed Mato would also use his Last Stand given that the fight would get rapidly more unstable and end, one way or another, after the troll’s ability wore off. This was by far the most dangerous time of the battle; they needed to kill the troll as quickly as possible, but every time they hit, he would grow stronger, boosted well beyond his normal rage-fueled power by the additional temporary health granted from his Last Stand.
+
+Should I have waited? Without pausing his steady stream of enchanted arrows, Calen began second-guessing himself. Maybe we should have waited out the duration of Last Stand? Could Mato survive it? The danger, as always, was that the berserker was a giant, unstoppable engine of chaos. The longer the fight, the higher the chance of something going wrong. He gritted his teeth and pushed his damage to the maximum.
+
+Mato began kiting the troll using his Charge ability, leaving the task of damage to the ranged attackers. Having learned from last time, Ali pulled most of her minions away, letting only the Armored Drakes attack from close range. Even the Bone Warriors were pulled back and made to throw their axes instead.
+
+Mato’s Critical Block triggered again, causing a spray of blood to erupt from the troll’s giant arms. That block seems to be doing some crazy damage, Calen thought. The bleed had to be from Mato’s newest item, and for it to be staggering the troll, the damage had to be enormous. He summoned a continuous stream of arrows, every single one of them drawing from his mana for additional light damage and armor piercing, each shot returning more than enough mana to refill his pool. He downed another temporary dexterity-boosting potion. It was a heady rush to be able to go all out continuously. Mato charged out of the way again, followed closely by an enraged troll, and Calen simply rotated, tracking him with his arrows and adjusting the position of his Motes of Light.
+
+Not much longer, he thought, checking on his Righteous Fury. Sure enough, with just a few seconds left on his Righteous Fury, the troll suddenly stumbled mid-charge, collapsing to the ground and rolling over in a great cloud of dust and blood as the notification chime sounded.
+
+Calen remained alert for any unexpected surprises from the forest, but nothing happened, other than the birds slowly beginning to chirp once again and several notifications going off in the background, letting him know that his class had just leveled up. He relaxed a bit and turned to find Mato walking back up the road, trying to wipe excess blood off his face. He said, “Your Critical Block seems quite impressive.”
+
+“It is,” Mato grinned. “A lot better than I imagined at first. It’s a physical melee skill.”
+
+“What do you mean?” Calen asked. Mato tended to take shortcuts in his explanations of things, and the habit often left him trying to figure out what his burly friend was thinking.
+
+“The retaliation counts as both Physical and Melee traits,” Mato explained. “I can enhance it with Bestial Combat, making the skill tear up his armor and do even more damage, and Brutal Restoration works too. I’ve never had Brutal Restoration healing me for so much before.”
+
+“That explains it,” Ali answered from where she was already working on the corpses. “The shamans had a much easier time keeping you alive.”
+
+That makes sense, Calen thought, nodding silently. Given the amount of damage it seemed to do, it would be supremely effective when paired with Mato’s heal, especially with the new gear Zor’kan had modified for him. All in all, a powerful tanking skill.
+
+“It can also do critical damage, and trigger the bleed on these Carnage Bindings,” Mato finished, holding up one wrist.
+
+“I hope there’s more of these,” Ali’s voice distracted him from the conversation about Mato’s skill. She was in the process of deconstructing the giant troll.
+
+“I saw another at the next camp,” Calen said. “Fortunately, they seemed to patrol independently, and I was able to split them up.”
+
+“Nice!” Ali seemed excited about the idea. “I think I only need one more.”
+
+Calen grinned at her and then turned inward to see what he had earned from his foray into the jungle to lure a berserker onto his friends. Still can’t believe I killed that warrior with one shot… Admittedly, he hadn’t been ready. None of the usual self-grown bone armor had been deployed, and Calen had stacked Ambush on top of Power Shot along with his most powerful enchantments to achieve it.
+
+Archer of Light has reached level 81.+10 attribute points.Radiant Archery has reached level 45 (+3).Arrows of Brilliance has reached level 48.Explorer has reached level 44.Blessing of the Dawn has reached level 35 (+2).Eclipse has reached level 30.Righteous Fury has reached level 27 (+2).Azrael's Wings has reached level 21 (+2).Bowcraft has reached level 10.Cartography has reached level 17.
+
+Nice, this is going well. He consulted his notes quickly and then spent three points each on dexterity and intelligence. This time he spent three on endurance, bringing his stamina up just a little bit. His final point went to vitality.
+
+His skills were doing well, but much of the growth had been over the last couple of fights, so it made sense.
+
+“You doing ok?” Ali asked, poking his hip.
+
+“Just spending some points,” he admitted.
+
+“I’m ready to go. Show me this third berserker troll,” she said, grinning.
+
+Weldin stood as still as he could, hiding behind an apple tree in the dark underground forest. His heart was beating way too fast, and he was struggling to control what might become a full-blown panic attack. Last time he had been in a dungeon, he had been burned by the Goblin Warlord and discarded for dead on the feed pile.
+
+What was I thinking? He had willingly chosen to join the group on this dungeon delve and now he was cowering behind a tree with nothing but his unfamiliar and uncomfortable new leather armor and his Dungeon Survival skill to keep him alive. Out in front of him, the adventurer raid group was engaged in flashy and deafening combat with a pack of ravening wolves that were tearing great rents in the flesh of poor Havok.
+
+Weldin glanced to the side, finding Basil on his knees with a trowel in his hand, incongruously planting something, somehow ignoring the fearsome battle with the terrifying monsters.
+
+He took a deep breath, reminding himself that this was the highest-level raid group in the guild, and they were quite experienced with this fight – and they outleveled it by quite a bit. As to why they were taking out the wolves, well that was moderately terrifying too. As he watched, Seth did… something… and a skeleton ripped itself out of the corpse of a downed wolf and immediately turned to join the fight.
+
+He took another breath – advice Vivian Ross had given him for his anxiety about facing dungeon monsters. But the shouts faded, and the wolves fell one by one. Miraculously, nobody died.
+
+“Hey, Weldin,” Aiden called, looking around for him. “You can come out now.”
+
+Weldin cautiously released his Dungeon Survival stealth skill and emerged from behind the tree.
+
+“Oh, there you are,” Aiden said. “We’re going to rest and recover for a bit, and then continue. Let me show you where the magicite sliver spawns and then you can harvest these wolves.”
+
+Suddenly, his curiosity displaced all the anxiety, and he allowed Aiden to lead him into the wolves’ den, and to his amazement, there it was – a sliver of magicite simply waiting for someone to take it. He licked his lips lightly and then withdrew his tongue, disturbed by the unexpected pang of greed. Relax. It’s just business.
+
+Aiden chuckled, “Go ahead, we can split the haul at the end.”
+
+Weldin glanced at Aiden and got an encouraging nod. Taking another deep breath, he reached out and picked it up, and then used his still-unfamiliar Storage skill to stash it away. Immediately, the ka-ching of his notification rang out in his mind and the image of gold coins spilling onto the ground revealed the text:
+
+Spatial Storage has reached level 2.
+
+And just like that he had a thousand more pounds of storage space – and a sliver of crystal that most would swear belonged in the stories. He glanced inside his storage space, noting just how tiny the crystal seemed within its substantial capacity. “Ok, next,” he said, turning around and inspecting the corpses lying on the ground, before glancing at Seth, the Necromancer.
+
+“I have what I need,” Seth said.
+
+Weldin retrieved a long knife he had commissioned from Thuli – a blade specially designed for this task. Gritting his teeth and trying to keep his stomach from turning completely over, he set to cutting it up with his Dismantle Monster skill. He removed the remains of the pelt, keeping the salvageable pieces after the skeleton had been ripped out, and then quickly butchered the rest of the corpse, saving the best cuts of meat. It may be wolf, but it was still dungeon meat and would fetch quite a decent price on the market – and he knew he could sell at least some of it to Tabitha. He worked his way through the corpses, careful to avoid getting any blood or gore on his suit.
+
+Ka-ching.
+
+Dismantle Monster has reached level 4 (+3).
+
+It was a rather impressive skill, he realized. He was a merchant by experience, and he had never cut up a corpse, much less a dungeon boss. But he had had little trouble identifying the important pieces he might salvage – and even knew approximately how much everything would be worth.
+
+“Don’t forget the apples,” Teagan said, pointing up at the tree.
+
+“Apples?” he asked, looking up to find several of the trees laden with golden or shiny red apples.
+
+“Here, I can help,” Basil said and produced a shears with a long handle and began clipping apples from the tree for him to catch and store. He would never have thought to harvest apples from the dungeon, but his Appraise was telling him they were worth about four to five times what a normal apple cost.
+
+Weldin chuckled as his stomach growled hungrily. “Those look good!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

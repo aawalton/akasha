@@ -1,0 +1,183 @@
+---
+id: fa35db39-fe72-5468-8136-1b928dffd907
+page-type-slug: story-chapter-royal-road
+title: "Chapter 77: Aerial Battle"
+slug: 0077-chapter-77-aerial-battle
+partOf: dungeon-of-knowledge-complete
+position: 77
+ownLength: 3266
+unit: words
+ownProgress: 3266
+publishedAt: 2024-05-26
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1651461/chapter-77-aerial-battle"
+royalRoadId: "1651461"
+markedReadAt: "2026-06-29T20:13:30.195Z"
+---
+
+Perched atop her barrier, Ali had seen the entire thing go down. When the giant Piercer Scorpion had raised its tail skyward, she had expected the usual formation of the magic that summoned its devastating Bone Spear attack. However, the array of bone affinity mana had created a vastly broader spell formation, drawing heavily from the domain around it to suffuse it with intense power.
+
+The exploding nova of bone spines had exceeded even her wildest expectations, tearing through her minions, Mato, Malika, and even the very ground in an instant, tossing everything aside as if it were all chaff.
+
+The wave of exploding bone spikes flashed by – some even shooting high enough to scrape and scratch at the underside of her hovering barrier before ebbing away on the trailing side of the surging wave. There was a sickening wet thud behind her, and by the time she turned, Calen was already falling, trailing blood from a giant sliver of crimson-smeared white bone impaled through his stomach.
+
+“Calen! No!”
+
+For an instant, Calen seemed to float, momentarily stationary with his hand extended forward reaching, stretching toward safety that was just beyond his grasp. Ali stared in horror as his body began to fall, slipping away into the vast emptiness that separated the suspended city rings.
+
+Without a thought for the consequences, she threw herself into the void after him, accelerating her barrier to a full freefall with the reckless haste of desperation. She reached toward his falling body, outlined clearly by the glow of his mana in the vast darkness, and summoned a barrier. But in those brief moments, he had already fallen too far, and her golden barrier missed its mark, unable to bridge the distance.
+
+Shit!
+
+Ali flipped her barrier, tipping herself headfirst into the darkness, and with a surge of will, she made it propel her downward, accelerating faster than the pull of gravity. She summoned another barrier, tantalizingly close, but still, she didn’t quite have the reach she needed. The air tore past her face, pressing her skin down and whipping her hair back as she pushed her body to an even greater speed, descending like a golden meteor, desperately willing herself to close the gap.
+
+On her third attempt, her barrier reached his body, summoned right under him, and with great effort and gritted teeth, she matched the speed of the barrier to his descent, not wanting to crush him with a sudden impact against a wall of magic. She pulled as if she were reeling in a line, bleeding momentum from his falling body causing him to grow rapidly larger as their relative speed changed and she finally reached him.
+
+Ali immediately released the barrier pushing her downward and summoned a new one ahead of her to slow her reckless plummeting fall until finally the pressure of the air on her face subsided and her hair dropped back to her shoulders.
+
+She was suspended in the vast darkness, lit from below by the golden glow of the barriers that supported them and the soft ambient magic that emanated from far below. In the distance above, silhouetted by brief flickers of white and red she could make out the outline of the suspended rings of the ruined city, and the dark mana that poured from it in an endless cascade. Calen breathed heavily and clutched at the spear through his middle, a small pool of blood forming on the barrier.
+
+How deep does this go? Her eyes flickered nervously, checking the darkness all around her. Never in her life had she been forced to truly grasp the immensity of Dal’mohra and the vastness of the city levels. All she could see below was a distant, indistinct green and yellow glow.
+
+He retrieved a vial of dimly glowing red liquid and downed it before grabbing the bone spear with two blood-slicked hands. With a scream of pain, Calen yanked at the spear with all his strength, drawing it clear through his own body before he collapsed back onto the support of her barrier and let the spear tumble away into the emptiness below.
+
+“Calen! Are you –”
+
+“Nice catch, Ali…” His voice was hoarse but urgent. “Incoming!”
+
+Ali’s eyes anxiously scoured the darkness, but what Calen had seen eluded her for several long moments before the large bulk of a flying shape blotted out the flickering light of the still-raging magic battle far above. The shape vanished, and then another appeared, again blocking the light, and suddenly she saw it. Not with her eyes, but with her magic. Circling ominously above were two large reptilian shapes outlined by the virulent green mana that emanated from their bodies.
+
+Poison Wyvern – Dragon – level 30-31 (Poison) x2
+
+Thanks, fate! You really pick your moments, you know?
+
+As the forms gathered their wings to their flanks to dive, Ali reached for her barrier magic, but she was already using all her capacity just holding her and Calen from falling.
+
+“Hold on!” she yelled, as the sleek, muscular wyverns dove toward them, giving him almost no time to react before she banked hard with an aggressive evasive maneuver.
+
+The wyvern’s wings flared reacting to her movement and halting its plummeting descent with a display of breathtaking power and agility. As she came around, it was there, emerald scales gleaming by the light of her magic, rippling from the powerful action of the muscles beneath, almost close enough to touch. A reptilian eye, glowing with emerald-green magic, fixed on her as it flew by. The scaled head turned on its long sinuous neck, maw agape baring more vicious canines than she could count, and, in a rapid flicker of magic, a spray of green jetted out drenching her and her barrier in a corrosive liquid that burned her eyes and nose.
+
+You have been afflicted with Poison.+3 Poison damage per second.Poison – Duration: 10 minutes. Count: 1
+
+Her body felt suddenly weak and shaky as the poison took hold, rapidly draining her meager two hundred and seventy health.
+
+An incandescent arrow suddenly sprouted from the wyvern’s flank, and it let out a screech of pain, falling away into the darkness below.
+
+“Ali! Go! Get us out of here!” Calen shouted. He crouched on one knee in the center of the barrier, bow out, and light magic blazing forth in the darkness. How is he still fighting?
+
+Ali did not need to be told twice. Grabbing onto the edge of her barrier with all her strength, she launched them upward toward the dubious safety of the ruined city above. A whooshing noise startled her as the second wyvern swooped past, barely missing with its poison breath. Arrows whistled by, but she paid them no heed, trusting Calen’s aim.
+
+She dodged, swooped, and weaved as she threw them hurtling through the darkness, desperately trying to avoid the two hunting wyverns that had marked them as prey.
+
+“Help!” She screamed her thoughts out via her connection to her minions, desperately reaching for the security of her creatures and their protection, but they were too far to reach. She tried again and again as the monstrous hunters tracked their jagged, zigzagging ascent.
+
+Suddenly, the darkness split with the thunderclap and intense brilliance of a Lightning Bolt, sending one of the wyverns wheeling away, trailing blood and smoke from its sinuous tail. The air lit with the staccato red flashes of firebolts raining down as she and Calen finally crested over the rim of the inner city ring.
+
+A deafening roar ripped through the sky as the other wyvern shot up from below, spraying toxic poison that splashed across the plaza, catching her and all her minions in its deadly rain.
+
+Your Poison has increased to 2.+3 Poison damage per second.Poison – Duration: 10 minutes. Count: 2
+
+Ali doubled over in pain as the poison coursed through her, mingling with the poison that was already ravaging her body and doubling the rate at which she was dying. With six damage per second, she knew she had barely thirty seconds left to live.
+
+Scrambling to retrieve an expensive health potion, she downed it as fast as she could, dropping herself and Calen to the ground and throwing up a barrier just in time to block another virulent green jet from the two wheeling wyverns. Didn't we get that one? Ali thought, frowning at the injured wyvern still trailing a little smoke in its wake.
+
+“Ali! Calen! Are you ok?” Malika’s voice shouted from somewhere behind her.
+
+“Poison! Bad!” she managed, her attention fully locked on the two aggressive reptiles dive-bombing her and Calen with their poison and talons.
+
+A touch on her shoulder drew her attention before the surge of Malika’s mana burned through her, reversing the ravaging effects of the poison on her body before she danced over to Calen to do the same to him.
+
+“Don’t get any closer,” Malika said. “That Bone Nova is deadly.”
+
+“I sort of noticed,” Calen said, his lips twisting. “Ali… thanks again.”
+
+For a moment Malika’s words confused Ali, but then she glanced around, finally taking in her surroundings. She had been so focused on the wyverns and surviving that she had entirely forgotten what had been going on right before they fell.
+
+Mato had moved the giant Piercer Scorpion off to the side, back up to a wall. With every strike, the ground shook and bone shards and spikes exploded. He tanked it by himself with all her minions standing haphazardly at range, some firing at the bone elemental, and some now shooting into the air at the wyverns.
+
+“Incoming! More!” Calen’s shout seized her attention. Rising from the darkness from which they had just flown was a brilliantly incandescent ‘v’ shaped formation of objects slowly gliding through the air like a flock of migrating birds. The formation was made of an array of slender triangular sword-like glass shards that shone with an intensity that could only be light magic.
+
+What now?
+
+Glimmer Shard – Elemental – level 12-18 (Light) Swarm x30
+
+In her haste, she counted about thirty of the strange creatures as the entire squadron wheeled slowly in the air as if lining up in a delicate sky ballet. Each shard gracefully peeled away from the formation in rapid succession, shooting forward with a sound like a whip-crack, leaving blurred trailing afterimages in her vision.
+
+The Glimmer Shards attacked everything indiscriminately, two crashed into her barrier, bouncing off, while several sliced into the flying wyverns causing screeches and roars of pain. Shards bounced off the Piercer Scorpion with clinks and plinking noises while others slammed into Mato and her minions as the entire formation blasted a deadly rain of blades across the entire battlefield.
+
+They lay on the ground or impaling their targets for a few moments, before they violently wrenched themselves free, hovering before shooting back to regroup in the sky above.
+
+Ali sucked in a breath. Ouch. Not good.
+
+A brilliant pillar of golden light flared out from her Kobold Acolyte as it triggered its powerful healing enhancement in a desperate attempt to repair the extensive injuries and damage inflicted by the aerial assault and the powerful poison now afflicting most of her minions. The soft, soothing holy magic of her Acolyte settled on her, and her mind found space to calm down and focus.
+
+Amid the chaos of the suddenly four-way melee, Ali spent her moment of stillness and calm to evaluate. With healing magic, she wasn’t immediately about to die, but the sheer amount of damage was going to overload Malika and her Acolytes rapidly. They still had a monstrous bone elemental boss to deal with, along with two wyverns spraying poison indiscriminately, and whatever these new Glimmer Shard things were.
+
+“Stop healing the rogues and warriors,” Ali instructed. It was the first conclusion she reached in that moment. The only grounded enemy was the Piercer Scorpion and not even Malika was engaging it in melee, preferring to dodge in for the occasional heal and remain beyond the range of the devastating Bone Nova attack. Her rogues were all poisoned and simply wasting the mana of her Acolytes – unable to meaningfully engage with any of their foes.
+
+“I’ll get the shards,” she told Calen. While the shards were attacking their foes, they weren’t hurting the scorpion, instead causing more damage to her minions and friends with their chaotic attacks. There were a lot of them for Calen’s bow to find. But it was the tight wheeling formation that gave her an idea. If I can aim it that accurately…
+
+“Ok,” Calen answered. “I’ll get the wyverns.”
+
+“Totems on the scorpion,” Ali said, directing her shamans to change their focus. “Lightning Bolts at the wyverns.” She continued organizing her forces, directing her lone surviving archer and the Bone Mage to the wyverns also, while Malika danced among her minions adopting the role of full-time healer.
+
+Ali studied the Glimmer Shards gathering in the sky as they lined up their next attack. Fireballs took several seconds so she would need to anticipate the perfect moment. But I have three mages… Ali simply hedged, signaling each mage to begin at a slightly staggered time. It would be tight, but she would rather strike just a little early than too late. The speed with which they attacked was so high that even slightly late would result in a detonation in an empty sky.
+
+There!
+
+The first fireball shot out, soaring into the air, leading the pack of Glimmer Shards. The second fireball launched, and then the third, balls of flame launched into the darkness like the commencement of the Fall Festival fireworks show.
+
+The first detonation ripped through the sky, slightly ahead of the formation, the flames and concussion reaching perhaps half of the creatures. The second detonated dead center enveloping the entire formation. There were several rapid flashes as the Glimmer Shards began to launch, leaving trails and vortices through the expanding cloud of red flame and smoke. The third fireball detonated at the back of the formation, and shards of glass began to fall out of the sky.
+
+Her timing had certainly not been perfect, but there were only nine remaining shards shooting from the flames.
+
+The pressure of Calen’s magic suddenly surged beside Ali, like heat billowing from a freshly opened forge. Intricate markings of pure light-affinity mana formed on his arms and face, extending down his neck. His eyes flared with incandescent radiance as his bow fired an intense tracer stream of arrows out across the battlefield to hammer into the wyvern circling the Piercer Scorpion boss and raining poison down on it and Mato while they battled below.
+
+Ali reacted instantly, adding her Arcane Bolts to Calen’s boosted magic arrows, and calling for Lightning Bolts and whatever else her minions could muster. It took about fifteen seconds of concentrated fire before the emerald-scaled wyvern faltered, falling out of the sky in an uncontrolled spiral, trailing smoke, blood, and spraying poison everywhere, to land with a crash in the middle of her shamans’ nova totems. With a blurring strike of its tail, the Piercer Scorpion decapitated the stricken creature in an instant.
+
+Well, thanks for nothing, she thought sarcastically.
+
+Ali’s attention ranged widely across the field. Her Kobold Acolyte’s holy magic began to fade as the Glimmer Shards circled, reforming their formation with their decimated numbers. Mato was holding his own against the thumping crash of the monstrous attacks while the combination of healing magics kept him from dying from the assault.
+
+Calen’s arrows switched instantly to the second wyvern, and Ali followed his lead, sending her magic, along with that of her minions soaring into the air, while simultaneously watching the remnants of the shards for a good opportunity to strike. She struggled to split her awareness in so many different ways while still focusing well enough to keep track of what she needed to respond to, certain that somehow, she was missing something important.
+
+Now!
+
+Right as the Glimmer Shards resumed their formation, she instructed her Fire Mages to strike. But as soon as she did, one of her mages collapsed. Followed immediately after by her archer and a Bone Mage dropping to the ground. Without the powerful healing boost granted by the pillar of light, her Acolytes were simply unable to keep up with the relentless poison.
+
+Stay alive just a little longer, she willed with all her heart.
+
+“Fire!”
+
+Two fireballs lofted into the air, and one more Bone Mage collapsed immediately after. Two massive detonations of flame and smoke exploded in the air and again glass shards rained down onto the battlefield. This time, only a single Glimmer Shard emerged from the smoke and fire, shooting down to bounce off the thick armor of the Piercer Scorpion.
+
+Calen’s brilliant light faded, but it was enough. High in the air, the stricken wyvern circled lower and lower, struggling with a crippled wing before crash-landing heavily on the ground where Ali’s remaining shamans quickly destroyed it.
+
+“Everyone on the scorpion,” Calen instructed.
+
+“How’s your mana?” Ali asked of the Acolyte standing beside her.
+
+“It is gone, Ancient Mistress,” she replied.
+
+Retrieving two mana potions, Ali handed one to each of her Acolytes, ignoring the cost of the expensive consumables she was burning on her minions before fixing the remaining Glimmer Shard in her mind and burning it down with her Arcane Bolts.
+
+From just beyond the range of the Piercer Scorpion’s deadly Bone Nova, they unleashed everything they had on the powerful elemental boss, sending bone chips and splinters flying in a continual rain of magic as the minutes stretched on longer and longer. Even with the mana potions, her Acolytes still ran low.
+
+“I am out of mana, Ancient Mistress,” a Fire Mage announced.
+
+“Stop healing him,” she instructed. Her Acolytes’ mana was at a premium, and she had to prioritize Mato. A Fire Mage without mana wasn’t worth healing, and she was out of potions. Within seconds the Kobold collapsed, leaving her with only two Acolytes, one Fire Mage, and one Storm Shaman.
+
+“I’ll keep them alive,” Malika said, pausing briefly beside her. “Just concentrate on Mato, we need your magic to get through that bone armor.”
+
+“Here,” Calen said, handing her several mana potions. Quickly Ali distributed them among her remaining minions, caring nothing for the sheer amount of money her summoned monsters were guzzling.
+
+Finally, her shaman’s Lightning Bolt opened a crack large enough that it didn’t immediately close up, and she called for the Fireball. You’d better aim right, she thought. Her Fire Mage was almost out of mana, and they had no more potions. But the fireball flew true, blasting deep into the rent in the bone armor.
+
+With a muffled thump, the fire magic detonated within the elemental, sending a spiderweb of cracks ripping through the outer carapace and gouts of flame spraying from the new gaps between its freshly sundered armor plates.
+
+“I’m out of mana,” her mage declared and toppled over finally succumbing to the poison, subjecting Ali to the disturbing sensation of losing the Empowered Summoner boost to her intelligence attribute.
+
+The Piercer Scorpion froze, standing completely still for several long seconds. A bolt of lightning crackled as Malika and Calen unloaded their attacks at the monster. Then its legs abruptly buckled and it crashed to the ground. A few moments later, Ali heard the sweet sound of her notification chime.
+
+Ignoring the chime, Ali swooped toward her companions. Notifications could wait. “Everyone alright?” she called.
+
+Malika faked a big yawn. “Simple.”

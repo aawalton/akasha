@@ -1,0 +1,129 @@
+---
+id: 703ba995-d4e1-50b9-b462-1fb059cd2a74
+page-type-slug: story-chapter-royal-road
+title: "Chapter 211: Slime Lord (Part 1)"
+slug: 0227-chapter-211-slime-lord-part-1
+partOf: dungeon-of-knowledge-complete
+position: 227
+ownLength: 1964
+unit: words
+ownProgress: 1964
+publishedAt: 2025-03-15
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2128187/chapter-211-slime-lord-part-1"
+royalRoadId: "2128187"
+markedReadAt: "2026-06-29T20:18:50.885Z"
+---
+
+Mato sat uncaring on the slimy fungal creep, totally wrecked. Fighting for an extended period without mana had left him mentally drained. He took a deep breath to steady himself and looked inward to examine the end-of-battle notifications inscribed on the tree in his mind garden.
+
+Your group has defeated Mana Eater – Plant Aberration – level 53Your group has defeated Devouring Consumption – Ooze – level 1-3 x3
+
+Bit of a cheat that the Devouring Consumption still counts as a level three kill, he thought, eyeing the notification with suspicion. It had been nearly sixty when they defeated it. It was done though, so he let it go and read on.
+
+Druidic Shapeshifter has reached level 65.+10 attribute points.
+
+He immediately spent his points: five on vitality, three on endurance, and the final two boosting his wisdom by a little. After such a nasty brawl, it was satisfying and even cathartic to see his own development.
+
+Swipe has reached level 39.Bear Form has reached level 34.Bestial Combat has reached level 33.Natural Prowess has reached level 28 (+2).Survival Instinct has reached level 30.Battle Trance has reached level 20.Identify has reached level 13.Cooking has reached level 16.Herb Gathering has reached level 10 (+2).Your actions have increased the reputation of your patron.
+
+Azryet’s blessing was surprisingly powerful. He didn’t get blessings when he increased his patron deity’s reputation like Calen did, but if he could earn more, perhaps he could trigger that ridiculous void damage more frequently. That, he decided, would make him very happy.
+
+Good fight though, he decided. He hadn’t expected a plant to put up such a challenge. Painfully, he shifted back to his Beastkin form, his eyes studying the small inconspicuous-looking blue form of their little ooze companion with a new respect. Naia had saved his life when he couldn’t be healed – he had been on the verge of summoning his chewable recall potion to his mouth when she had covered him with ooze ‘armor’. By the end of the fight, her attacks had been overwhelming.
+
+Ali, you picked a good friend. Plus, he had a newfound respect for the power and versatility of slime, usually the butt of adventurer jokes. Hail the Slime Lord!
+
+Ali breathed a little easier as she examined the scorched battlefield. She had survived the fight with a single drake, three Acolytes, her Fire Mage, and her Hellfire Imp. Everything else had been killed. She gazed at the crazy Mana Eater lying slumped in a great pile in the center of the chamber, wondering where such a horrifying plant had come from in the first place.
+
+Mato limped over slowly, and one of her Acolytes topped him up with a restoration spell.
+
+“You doing ok?” she asked.
+
+Mato just grunted.
+
+We all need a bit of a rest after that, she thought, and glanced through her notifications.
+
+Your group has defeated Mana Eater – Plant Aberration – level 53 (Nature / Death)Your group has defeated Devouring Consumption – Ooze – level 1-3 (Nature / Death) x3Grove Warden has reached level 69.+10 attribute points.
+
+Ali pulled out her notes, did a few calculations, and then spent four points each on wisdom and intelligence, reserving the final two for perception.
+
+Arcane Insight has reached level 38.Barrier has reached level 50.Grimoire of Summoning has reached level 35.Martial Insight has reached level 46.Empowered Summoner has reached level 34.Minion Teleport has reached level 25.Inspiration has reached level 14.Imprint: Mushroom updated to Imprint: Fungus.Variant: Creep Spore added to Imprint: Fungus.Variant: Fungal Creep added to Imprint: Fungus.Imprint: Borer Beetle completed.
+
+“Well, that was certainly harder than I thought,” Mato said, thumping down on the ground beside her with a grunt of discomfort and an expression of disgust as he felt the damp fungal creep beneath him, but he didn’t get up again.
+
+“I agree,” Ali said. She had gained only a single level for a boss monster, most likely because she outleveled it by quite a bit. However, it had been vastly more challenging than she had expected. The combination of the mana-drain spores, the full reach across the room with the thorny whip-vines, the explosive Creep Spores, and the healing reduction had all contributed to making the fight a nightmare. The addition of the Devouring Consumption had added an unimaginable surprise in the middle of the fight – one which had nearly wiped them out.
+
+“I vote Naia for MVP,” Mato said. “Thank you for saving me, little one.”
+
+“What is ‘MVP’?” Naia asked, wobbling curiously in Mato’s direction.
+
+“Most valuable person for the fight. You really turned it around at the end,” Ali said, explaining the term to her. And she really had, she had suddenly pulled a new ooze out from who knew where, protected Mato when he was immune to healing and Ali herself was out of mana, and then she had summoned the terrifying Devouring Consumption and flattened the Mana Eater with it.
+
+“I just help,” Naia said.
+
+“This is a very difficult dungeon,” Ali noted. “It’s no wonder you were struggling with it, Naia.” It seemed more than difficult, and it left her with a rather daunting challenge – how to help Naia stay safe down here. Even if it had not been a boss, the Mana Eater would have been a challenge for her on her own, but a major part of the problem was that whatever this dungeon was, it could create bosses and Naia could not. Which meant they were not evenly matched.
+
+But I wonder, she thought, staring at the corpse of the boss, its thorny vines crumpled around its burnt and decayed wooden shape.
+
+“Naia, do you think you can eat that?” she asked, pointing at the corpse.
+
+“Naia can eat anything,” she replied, bobbing up and down.
+
+“You don’t want the domain magic skills?” Mato asked, a look of surprise crossing his face.
+
+“I think it just has an attribute enhancement and summoning, which I already have. I’m hoping Naia learns them and that triggers the advancement, giving her the ability to make bosses.” If she was right about that, then at least she would feel happier about Naia being able to look after herself.
+
+“That’s not a bad idea,” Mato said, a thoughtful look on his face. “Let me just gather a few of those flowers for Eliyen to look at before you eat it.”
+
+Ali got to her feet and followed as they all walked over to the corpse. Mato quickly plucked several of the strange blue flowers and stored them and then stepped back.
+
+Naia called over her giant Devouring Consumption and merged with it, and then her enormous dark mottled green and black body flowed over the aberrant plant, drawing in everything, even the vines. In a matter of less than a minute, there was an enormous pile of ooze covering everything and Ali recognized the magic as similar to her own deconstruction. The entire thing shimmered and flared, visible through the semi-translucent slime and there was a giant surge of mana, and the Devouring Consumption gained several more levels and nearly doubled in size.
+
+I have to figure out how it’s doing that, Ali thought.
+
+“What is domain magic?” Naia asked.
+
+“Those are skills you can give to bosses,” Ali explained. “Which ones did you get?”
+
+“Summoning, and Strength.”
+
+If she were honest, Ali would have been more than a little jealous if Naia had gotten Vitality – it was the only one she was still missing. Still, it seemed good, but it didn’t seem quite enough to trigger the advancement.
+
+“Oh,” Naia said, wobbling in a way that somehow matched the surprise in her voice. “I got something else.”
+
+Ali waited in suspense for what seemed like ages while Naia examined her notifications and then a chime rang out and her mind filled with the bizarre prickling of her mana senses and the feeling of complex vibrations she had come to associate with ooze perception. It took a few moments of Sage of Learning gobbling up mana before her mind translated the sensation into intelligible sounds– a little voice that sounded a lot like Naia’s reading a skill description to her. Is that how Naia sees her notifications?
+
+Slime Domain – level 28You can lay mana trails with your ooze monsters. The trails will grow, merging to form your domain. All your perception skills operate throughout your entire domain.Mana: Permanently attach an Ooze to your domain. Attached minions propagate denser domain mana more quickly and can only move with your domain. They may be further enhanced with Domain Magic. Range: Domain.Water, Mastery, Domain, Intelligence
+
+“I got something for domain magic, should I accept this?” Naia asked. “It also had your name on it.”
+
+“That’s the one that lets you make bosses,” Ali said, suddenly excited for Naia. “You should definitely take it.”
+
+Ali studied the skill closely – Naia’s Slime Domain skill seemed quite similar to her own Domain Mastery, but it was the differences that she found most intriguing. Naia was unable to transmute or reshape matter – presumably the reason she had been unable to free herself from her cave. Instead, the skill implied she could actually move her domain, even after she had laid it down, and her perception skills were enhanced to include the full extent of her domain. Her new advancement had not included respawn, but Ali’s respawn skill seemed to be mostly a convenience for when she was away from home – it was the boss skill that had really increased her power.
+
+“Ok, I will take it,” Naia said, vibrating with new excitement. “Oh, I got some more magic.” Several more notification chimes sounded as she began to share her gains.
+
+Class Domain Magic acquired.You have learned the Domain Magic: Attribute Enhancement – Intelligence.You have learned the Domain Magic: Attribute Enhancement – Wisdom.Mentor Domain Magic acquired.You have learned the Domain Magic: Affinity Aura – Arcane, Nature, Fire, Death.You have learned the Domain Magic: Minions.Unique Domain Magic acquired.You have learned the Domain Magic: Ooze Transmogrification.
+
+Suddenly, Ali was delighted she had offered Naia her mentorship enchantment. Not only had it been part of the skill’s advancement, but Naia had learned two of her domain magic skills – and they were ones she had used often – and Affinity Aura had transferred with every affinity she had collected so far. With seven domain magic skills, Naia should be able to create some decent bosses. It was not just a step forward for Naia, it was a huge leap and it underscored why dungeons were regarded with such fear and loathing out in the world.
+
+“What is Ooze Transmogrification?” Ali asked, her curiosity burning. Unique Domain Magic?
+
+Naia immediately shared the description with them.
+
+Ooze TransmogrificationRequirements: Ooze minion. Mimic Slime race. Source: Race.Your ooze can assume the form of any ooze you know. Transformation takes thirty seconds to complete and costs 25% of maximum mana.Skill – Domain Magic
+
+“Holy… wow!” Mato said after Ali translated Naia’s bizarre notification for him.
+
+“Naia is… strong?” Naia asked.
+
+“Yeah, that’s ridiculously strong,” Ali said. Half of the oozes she had were immune to their mana affinity, which meant that this ability allowed Naia to swap whatever boss she made with one immune to something major any attackers brought to bear. It was expensive, taking a quarter of the total mana pool, and a domain magic skill slot, but then again, it granted an effectively selectable immunity in the case of oozes. Given how pivotal immunity had just been in their fight, she could see just how easily this skill could be used to make a real challenge.
+
+If only I could get something like that for elementals, and the ability to summon all of them. A dungeon can dream, right?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

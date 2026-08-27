@@ -1,0 +1,245 @@
+---
+id: ebd409ad-7d1b-5225-8e8f-14932912c37d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 198: The Dragon God"
+slug: 0203-chapter-198-the-dragon-god
+partOf: dungeon-of-knowledge-complete
+position: 203
+ownLength: 4956
+unit: words
+ownProgress: 4956
+publishedAt: 2025-02-16
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2070555/chapter-198-the-dragon-god"
+royalRoadId: "2070555"
+markedReadAt: "2026-06-29T20:18:00.380Z"
+---
+
+It was late in the third age when a talented young theologian named Amaryllis Wright first proposed the controversial idea that the gods were simply a class evolution. As a part-time scholar of class development, she had noticed that past the third-tier class advancement, the mechanism of reputation becomes progressively more common as a core path to increased power, and so she proposed that perhaps after the somewhat mythical fourth tier, people might naturally advance to godhood. The Crusaders of Helios promptly labeled her as a fraud and had her hunted down and hung for heresy.- Excerpt from Cultures of the Modern-Day Kingdoms by Evanna Quillmore the Scribe.
+
+Ali pored over her notebook, considering her options and the maps of her dungeon that Calen had kindly made for her. With a couple of days of not being totally exhausted from hours of delving through the mines, she had taken the opportunity to work on her dungeon, shoring up the defenses and deciding on her plans. Unfortunately, there were so many things she needed to do that she would forget half of it if she didn’t write it down. A dungeon’s work is never done.
+
+She had achieved so much since that time Lyeneru had berated her for being a terrible dungeon. She had learned to make bosses and traps, making quite a few of both. She had studied the Pathfinder’s book and unleashed her Kobolds into the dark alleys of Myrin’s Keep at night to gather whatever they could find and expand her Grimoire. She had several bosses now, several new minions with valuable skills, and greatly expanded her domain.
+
+Yes, that’s progress. Not enough, but she can’t call me lazy anymore.
+
+She grabbed the pen and began making a list of the strategic weak points in her dungeon – the ones that could use bosses for protection when she found the resources and mana.
+
+The entrance hall for sure, she thought, noting down the location that had once been the gateway into the city of Dal’mohra. Many unexplored cave systems led out into the unknown near there and it was the source of constant monster incursions into her forest cavern. When she and Mato had escaped, there had been a swordmaster Kobold boss making its lair in there, and it would make a great location for a boss to defend her domain.
+
+Ali had already shored up her defenses in the Forest Cavern, having at least an early warning for incursions via the river channel or the sewer system. The Grove, with her shrine, and the lake were relatively well protected too. The other entrance was the one into Lira’s forest. Mostly her aunt took care of incursions with the Forest Guardians Ali had made for her, but it would be a lot more secure to put a more powerful monster there to guard it. Yes. She noted it down.
+
+She added a few more chokepoints to her list as potential locations for defenders. The ventilation shaft down into the city ruins, or at least, the small cave at the top where she had found Armand’s skeleton would make an excellent room for a boss, guarding the link between the upper and lower extents of her domain. The passage she had opened to connect the Forest Cavern with Lira’s Forest would similarly make a good defensible area.
+
+The Library. Hmmm… She wrote it down too, but she wasn’t exactly sure how to handle it. The realm-break had certainly opened her eyes to how easily she could lose it all, but she didn’t have enough mana to place powerful bosses guarding every entrance. If only I could get Clarence to do… well anything. He seemed very powerful, but it was hard enough to get him to cooperate when she wanted to study magic.
+
+And the jungle. The jungle was a thorny problem for her. Within its space were two spawning pools that spewed out monsters continuously. Mostly they fought each other, but when things went wrong, they could cause substantial damage. Then there was the Emberforge Mine itself, which was still spitting up Shards of Flame into the jungle, and the terrifying rift within its bowels which had the potential to wipe out everything in her dungeon and the town above if she wasn’t super careful. Right now, she had fallen back to the library entrance and set her Toxic Spitter and Forest Guardians to guard it, but while they had been effective against the demons, their primary damage was poison, which wasn’t effective against most elementals or oozes.
+
+It wasn’t a permanent solution. She put several question marks next to the jungle, not knowing exactly how to solve it. It was an uneasy truce with four hostile forces roughly balanced against each other and not overwhelming the library. But there were still occasional roars from the Wyverns or Forest Guardians whenever something stumbled into their range, and she had replaced the barrier over the door to prevent the Toxic Spitter from filling the bottom floor of the library with poison whenever it used Elemental Storm. She had no desire to kill all her new visitors to the library. Ideally, they would wipe out the Emberforge Mines completely, and Ali would close that rift, but she didn’t have the faintest idea how to achieve that – nor was she strong enough to make a single boss that could guard it yet.
+
+Get stronger, she wrote. Then she added a couple of exclamation points and underlined it twice.
+
+At least there was one thing she could do right now. Gathering her monsters to her for safety, she flew out into the ruins of Dal’mohra’s upper level to inspect the work of her minions. The plant monsters that she had set to roaming the ruins had left it carpeted in moss, mushrooms, and flowers, extending her domain through the remains of the ancient city like a sudden blossoming of life triumphing over the slow, crumbling death that had claimed her home. It was a space transformed. No longer dark and dusty, Ali surveyed the city from above, now transformed by the glittering light of thousands upon thousands of golden mushrooms that sprouted from every open space.
+
+It's pretty. But the sight was filled with profound melancholy that ached deep within her chest. In her memories, the city was still that bustling metropolis – a center for learning, and a vibrant hub for people. Now it lay under a carpet of nature – by her hand – a poignant reminder of its death. I need to be stronger, she thought firmly. Using the ruins of her home as a backbone upon which to grow was somehow appropriate, even while it tugged painfully at her heartstrings.
+
+She sniffed. Then she rolled up her sleeves and got to work. The first thing she did was to summon a cloud of Glitter Dragonets, making the air sparkle with the golden light of their bodies and motes, like a reflection of the mushrooms below. Then she spent the next several hours dotting the ruins with Radiant Larches and a few Lirasian Oaks to build a more robust framework for her domain and light up the space. At least it looks cheerful. It was slow work, boring holes into the stone paving to make space for the trees, but at least she wasn’t allowing the ancient city to go to waste.
+
+When her domain finally reached the walls containing the city, she felt like she was done. She connected it to her upper domain via the entrance hall, making sure her mana was firmly established in preparation for whatever boss she would place here, and then she took all her monsters and the minions that had grown her domain down to the second level of the ruins and repeated the whole process, spreading her domain throughout the suspended city rings.
+
+Several hours later, Ali stood beside the cracked remains of the mana condenser, watching closely as her domain mana crept up toward and spilled over the pool of liquid light. Her monsters had taken care of the oozes, but aside from those, nothing had emerged to disturb her work. The Wights were only a memory, and no groaning or clacking undead crawled out from the bone piles to greet her. The dense light-affinity mana that billowed out of the broken condenser clashed with her domain structure like waves breaking on a beach, however, the most surprising part about it was that Ali felt no sign of dungeon-rage. Not even a hint.
+
+Curious, she thought, drawing closer. She glanced at the tiny golden dragonet that had chosen to perch on her Acolyte’s head, burping up bubbles of light magic that floated upward in the air. I wonder… It had worked once when she had integrated with Lira’s domain, and fresh off her success at integrating a light-affinity formation into one of her monster imprints, she decided to give it a shot. Closing her eyes to focus exclusively on her mana sight, she reached out with Domain Mastery and twisted her mana. Immediately, two facts impressed themselves strongly upon her. Firstly, her control was nothing like the first time. When she had reached out to save Lira and herself from the dungeon-rage, she had been a blind mole fumbling about in the sunlight. Now, her senses caught the fabric of her mana lattice with the clarity and precision of a master craftsman, twisting and warping the shape with the ease of Lydia’s needle dancing along a seam. The second realization was that the mana spilling from the condenser had no structure to speak of, and there was nothing to warp her domain to – she couldn’t match something that had no form or structure.
+
+Is that why there is no dungeon-rage? She caught her lower lip between her teeth and tried again. But although her dramatic increases in perception, intelligence, skill and class levels, and the control provided by Arcane Recall all conspired to greatly enhance her proficiency with her domain, she still could not make the vast well of light-affinity mana integrate with her domain. Time and again, she bent it to her will, consulting frequently with Clarence between attempts. Sage of Learning wrestled with what she knew about the nature of mana and what she could clearly see, but in the end, she only had tantalizing glimpses of success – a little surge of mana that flowed through her domain lattice, making it glow softly before fading. A snap and spark that grounded quickly, or a slightly greater proficiency at pushing back at the external source of mana brushing up against her domain.
+
+Hmm. The problem seemed to be the lack of definable structure and the need for a far greater understanding of the nature of conflicting affinities. The mana billowing from the condenser was not nearly as chaotic as the mana down in the jungle, but it still eluded her grasp. Perhaps the nature pool? At least, once she claimed the jungle, she would have a source of unbound nature mana to experiment with, but for now, it remained a little beyond her reach.
+
+Ali returned to the library, but although she had failed to make measurable progress against the liquid light mana from the condenser, her mind was brimming with theories and new ideas to try. Eagerly, she found her chair and began writing everything down.
+
+Dozens of pages of notes and a snack later, a soft pop alerted Ali to Ryn’s appearance in the library atrium, visible as a sudden vortex in the mana perception of the wheeling Glitter Dragons she was using for perception practice.
+
+“Hi, Ryn,” she greeted, looking up to find her friend flying down to join her.
+
+“Hey, Ali, I got you some fun books.” Ryn landed beside her and produced an enormous stack of thick tomes, separated by which library she had sourced them from. “I found a couple of new monster compendiums that we might use for your research project,” Ryn said, placing them on the table next to her. “I think you might… Ali!” her squeal of delight broke her thread of concentration as a little golden dragon landed on top of the largest pile of books and declared it to be his with a roar. “What is that?”
+
+The dragon cocked his head toward Ryn and unleashed a stream of motes of light that bounced harmlessly off the hands she threw up to protect herself.
+
+“Oh, it was a study project I worked on yesterday. I made a new dragon variant,” Ali said, attempting to pass it off as if it were a simple, everyday occurrence.
+
+“He’s so pretty!” Ryn said, tentatively offering a hand to the little dragon. It sniffed at her suspiciously and then, spying an insect attracted to its light magic, launched itself into the air and snapping its jaws, catching lunch before spiraling back down to its perch atop the book pile.
+
+“Ali, I took the Familiar skill at level ten. I was thinking I would get an owl or something, but it felt too cliché, so I never really made a decision.” The tiny dragon had deigned to allow her to scratch the ridges on the back of its head and was crooning softly. “Do you think…” The dragon suddenly burped, and a Mote of Light shot from its mouth, bouncing off Ryn’s nose and making her blink.
+
+Ryn’s excitement was so obvious that Ali didn’t need her to finish her thought. Lira believed that the summoned minions were simply an extension of her own ego or ‘soul’, whatever the correct term was – but they were an extension of herself. It was only when she released her reserved mana that the creature would become an empty vessel, expiring once it used up the remains of the animating mana. But Willow had successfully tamed a Timber Wolf, and Lira’s skills had tamed or enthralled her Forest Guardians, proving that there was a way for the monsters to transfer attachments, or attract or develop their own souls. It was unclear which, but there seemed to be no reason Ryn couldn’t make a bond with the dragonet.
+
+“Why don’t you try it?” she told her friend.
+
+“Oh, Ali! Can I? Thank you!” Ryn stumbled over her words in her excitement, and immediately, a complex formation of mana sprang from her as she activated the skill. The structure quickly blossomed outward expanding till it reached the tiny dragon as if offering something. The king of the book pile cocked his head to the side and then reached out tentatively as if to taste it. As soon as the creature touched it, Ali felt a tug on her mana, similar to when Willow had tamed the wolf. She knew instantly she could resist Ryn’s spell if she chose, turning it into a battle for control over the little dragonet, but this was for Ryn, so she chose to let it release on its own.
+
+The dragon twitched as her mana released, and for a moment, Ali expected him to freak out, but he shook his head side to side several times, flared his golden wings, and then turned his inquisitive glowing eyes to Ryn as if listening intently to her. The magic of her skill flickered and shifted as if they were having an unheard conversation and then something clicked, and the dragon and Ryn’s mana merged.
+
+Ryn let out a squeal of delight. “He accepted!”
+
+Mana surged through them both, and the tiny black markings on the dragonet’s spine, tail, and horns softened to a deep violet.
+
+“His class changed! I get to help him pick two more skills!” Ryn exclaimed. “Oh, I just learned draconic! Ali, I can feel his thoughts, he’s hungry!”
+
+Ali grinned at Ryn’s flustered excitement. Sending out a quick command, she had several of the other dragonets catch a few insects and bring them over to Ryn. “Here, you can feed him,” she said, handing her the catch.
+
+“The skill says he will level up with me, and I can teleport him to me. His class is influenced by mine now. I need to think up a good name! What do you think of Bookwyrm? Is that stupid?” Ryn continued her excited rapid-fire chatter.
+
+Ali chuckled, “No, I think that’s the perfect name!” While it was not a name she would have thought of, it was totally a Ryn-thing. She was so obviously happy and excited about her new companion, but she almost melted when Bookwyrm flew up and landed on her shoulder, draping his tail around her neck and trying to nuzzle her ear while getting his head spines caught in her hair.
+
+“Ali! Thank you! Thank you so much!”
+
+Krrr! Bookwyrm complained.
+
+“Yes, yes, you’re the best,” Ali said, and chuckled as the little fellow preened and posed on Ryn’s shoulder.
+
+Havok flopped down onto the couch in the guild hall, completely defeated. He had reached level twenty, and he had been so excited to unlock his new Paladin Blessing skill, but it was no good – he couldn’t even use it. All his hopes of making his friends stronger had slowly evaporated along with his excitement as his day lurched from disappointment to disappointment.
+
+“What’s wrong, Havok? You seem discouraged.”
+
+He looked up to find the elf guild administrator looking down on him with concerned eyes.
+
+“Gods stupid,” he said, grumpily. She just sat down on the couch beside him and waited. He didn’t want to talk more, but she was waiting for him to explain, and she had always been nice to him.
+
+He simply shared his skill with her.
+
+Paladin Blessing – level 1Mana: [Blessing is locked, requires a church affiliation or a patron deity.]Mana: Pray to a god, seeking their favor.Holy, Blessing, Wisdom.
+
+“Oh,” she said. “You don’t have a patron deity or a church?”
+
+“No. Church not want Havok,” he said. And therein was his problem. He had spent the entire day hunting down all the churches and temples in the town, discovering there were only two major ones and a few minor ones. The temple of Helios threw him out, literally. The temple of Lunaré had been more polite, but they had turned him away too, and none of the minor temples had been interested in a Goblin. “How Havok be paladin if no god wants Goblin?”
+
+“I’m sorry, Havok,” Mieriel said, laying a comforting hand on his shoulder. “That was very mean of them.”
+
+“Aliandra here?” he asked, a sudden hope blossoming in his heart. Aliandra was smart, she would know what to do.
+
+“No, she isn’t, but she left a teleporter in the lower room,” Mieriel said. “I can take you to her library if you want?”
+
+“Yes, please! Havok ask Aliandra, she’s smart.”
+
+***
+
+He stepped onto the circle of silver magic runes and suddenly he was in a dark room beside an enormous tree. Strange green lights and golden creatures flew about the tree that soared high up, far further than he could even see, but way up above him there were some other lights and railings.
+
+“Come, let’s go up,” Mieriel said, leading him to the stairs. “They’re usually on the top level.”
+
+It was a long, winding path, but eventually, the two of them emerged on a landing, and he found himself in a library with more books than he had ever seen in his life. Aliandra was sitting on a chair at a table with some books open beside her.
+
+“Aliandra! Can help Havok?” he declared, getting the attention of everyone in the room instantly, and realizing that he had probably been a little too loud when a small golden dragon screeched and launched itself into the air. But Aliandra smiled at him.
+
+“Hi, Havok. What do you need?”
+
+He explained his skill, how he wanted to help his friends in battle, and how he couldn’t get any of the gods or churches to accept him. As he explained, several other people joined in the little circle: Ryn, the librarian; and the ancient Dryad who was so powerful he felt nervous just being around her.
+
+“The church of Helios threw him out, and the temple of Lunaré rejected him too. He’s had no luck with anyone,” Mieriel added. He liked Mieriel, she was helping him.
+
+“Helios always preferred humans, and Lunaré likes elves,” Lirasia the ancient Dryad said. “I’m sorry you had to experience that, but they would be very unlikely to accept a so-called monster race like us.”
+
+“I don’t know much about churches and deities, but won’t he have to actually meet the god to gain their patronage?” Aliandra said.
+
+“He can just join a church and have a senior priest or paladin intercede with the god on his behalf,” Mieriel said. “But he would need a church that accepts him.”
+
+“He’s a paladin though, does that mean he can do it himself?” Aliandra asked. “It says he can pray with his skill.”
+
+“You’re probably right,” Ryn added. “Paladins or priests often get a direct line to their deity, without requiring an intermediary.”
+
+“Havok tried pray. Not work.” He had tried a lot of times, but the skill seemed to be broken.
+
+“Who did you try to contact?” Ryn asked.
+
+“Helios, Lunaré,” he said. He had tried everybody he could find in town. But all he had gotten was silence.
+
+“I think you need to try a god that is receptive to Goblins,” Lirasia said. “Perhaps a less popular god? One that would better value your commitment?”
+
+“I can find a list,” Ryn said, turning to the bookshelves and returning with a thick tome that she placed on the table. She opened it and they all began studying the choices.
+
+Havok looked at the words, but he had no idea what they said. Nor could he follow what they were discussing as they went through the list. What they said made sense but he just could not imagine a god who would be interested in one of his kind.
+
+“Hey, what about this one?” Aliandra said, pointing at some squiggles on the page. “Azryet. I have an acolyte with a class called Acolyte of Azryet, so maybe that’s good for holy magic?”
+
+“Aah, Azryet. That is indeed a fantastic choice,” Lirasia said, nodding sagely.
+
+Reading from the squiggles, Ryn said, “Azryet, the Dragon God, Harbinger of Chaos, Herald of Havoc, The Calamity. He is an ancient god, long fallen out of favor with the realm. He represents those who would right the wrongs in the world, chaos, and solving problems through glorious battle. His aspects are void and holy magic.” Pointing to a particular line, she added, “It says here that he supports all sentient races equally, but dragons more equally than the rest. Oh, and no demons – but you’re not a demon, so that shouldn’t be an issue.”
+
+“That sounds perfect,” Aliandra said, smiling at him.
+
+“The god of Havok?” he asked. There was a dragon god of havoc, and his name was Havok. It couldn’t be more perfect than that.
+
+Everyone was nodding. Havok scratched his neck. Alright? Maybe. Remembering the cruel laughter of the people who had seen him shoved down the Helios temple stairs, he clenched his fists. No. His friends were here. They believed in him. He had to do it.
+
+“I will try,” he said. He got down on his knees on the hard stone floor, and clasped his hands together, bowing his head and he spoke his prayer, channeling his mana.
+
+“Hi, Azryet. I am Havok. You are Havoc too. I look for good god. You help?”
+
+Azryet opened one lidded eye and shifted his vast bulk that was settled comfortably into the stone worn into the shape of his body over the centuries of him roosting here. His slumber had been interrupted by a strange sensation – a sensation he had not felt for many thousands of years.
+
+A petition?
+
+He closed his eye, shutting out the sight of his vast chambers, and turned his awareness inward, following the incredibly tenuous connection to its source.
+
+He saw a room, dimly lit with books lining shelves and lying open on tables. There, off to the side was a vast tree, somehow growing within the confines of the dark room, while tiny golden dragonets flew circles about it. He approved.
+
+His attention continued to travel downward, spiraling towards one of the tables and the small figures standing or sitting around. There was a human, with an unusual taste of divination magic, holding a book and pointing to his name. Here was a Fae creature, whose peculiar domain mana permeated the entire space, reminding him of flowers and the sparkling of new magic. She spoke encouraging words, and an elf sat quietly nearby.
+
+His attention was caught by the ancient dryad who suddenly looked directly at his astral projection and nodded respectfully. “Well met, Azryet, Dragon God, Harbinger of Chaos, Herald of Havoc, The Calamity.”
+
+“Well met, Lirasia, Great Mother of the Deep Woods,” he sent his greeting, her formal use of his full titles pleasing him greatly.
+
+“This young one seeks your patronage.”
+
+And there, kneeling on the floor among his friends, was his first petition in millennia.
+
+A Goblin? And then the kneeling Goblin spoke his prayer.
+
+“Hi, Azryet. I am Havok. You are Havoc too. I look for good god. You help?”
+
+He chuckled. It was by far the most informal prayer he had ever experienced in his long ages as a deity. It was true he had not had any followers in thousands of years, and his reputation as a god was almost nonexistent. But something about the little Goblin resonated well with him. Perhaps it was the straightforward manner of his request, or the pure honesty evident in his heart. Or perhaps it was the fact that he called himself Havok, too – a choice of surpassing excellence.
+
+“Indeed, little Goblin. Let’s see what you can do.” He reached down and released his mana to suffuse the kneeling Goblin and grant his petition.
+
+You have gained a new follower: Sneeze “Havok”.
+
+Your follower Sneeze “Havok” has been granted the Title: First Paladin of Azryet.
+
+Oh, he’s a paladin! Intriguing.
+
+Your reputation has increased.
+
++24 Authority.
+
+Twenty-four? Not bad, little Goblin, he thought, eyeing his first and only follower. And there it was, the first reputation increase he had received since he had been exiled to this desolate demon-infested realm. He basked in the exquisite rush of power, even small as it was. Perhaps, if his new paladin could advocate for him in the mortal realm, he could once again achieve his former glory, and perhaps even put an end to this interminable stalemate with the infernal demon king Destraggoth.
+
+He quickly tempered his rising hopes, after all, what could one little Goblin really do? Even a butterfly’s wing-stroke might unleash catastrophe, he reminded himself with an inward snort. Huh. What was this – this unexpected sense of froth in his belly? Happiness?
+
+Yes. He was well-pleased with what had been released this day.
+
+Havok prayed, and just like every other time, nothing much happened. His knees hurt on the stone floor, and he wanted to get up and abandon this stupid skill.
+
+But then he felt something. A giant lidded eye examining him from somewhere further than he could imagine. He trembled, trying to hold himself steadfast under its awesome, crushing gaze. He was Havok, and the god was Havoc. It was perfect.
+
+His body filled with a sudden rush of dizzying power, and he almost passed out, but he held on, desperate to understand what was happening to him. Desperate not to lose his chance.
+
+The Dragon God, Azryet, offers his patronage.Godly Patronage – AzryetTraits: Void, Holy, Domain, Deity, Minion, Draconic, Strength, Vitality, Endurance, Intelligence, Wisdom, Chaos, Combat, Healing, Knowledge.Reputation gained enhances the reputation of Azryet. As your patron’s reputation grows, boons and enhancements may increase.A small chance on hit to do additional Holy or Void damage. Enchantment – TitheAccept this patronage?
+
+Havok didn’t even wait for his inner voice to read the glowing squiggles to him, he simply accepted it immediately. Then he froze as the usual sound of the voice deepened to a thunderous grating roar that shook his heart.
+
+Your actions have increased the reputation of your patron.You have earned the Title: First Paladin of Azryet.You are the first paladin of the dragon god Azryet.+10% to holy damage and healing after increasing the reputation of Azryet. Duration: 24 hours.TitleYour skill: Paladin’s Blessing has advanced.Paladin’s Blessing has become The Blessing of Azryet.The Blessing of Azryet – level 1Mana: Grant your target a chance to do additional Holy or Void damage on hit. This is additive with Azryet’s Patronage. Duration: 30 minutes.Mana: Pray to Azryet, seeking their favor on behalf of yourself or another you deem worthy.Holy, Blessing, Wisdom.
+
+He leapt up from the floor and danced around excitedly. “It worked! Azryet is good god!”
+
+Everyone around him seemed happy, cheering him on, but suddenly he stopped his excited prancing as a thought landed in his mind with the weight of purpose and destiny.
+
+“How to make church?” he asked. Though he had experienced the vast power of his patron, Azryet, he had recognized something deep within him. It was the same loneliness he had in his own heart before he had joined the guild. Azryet needed friends, and he would help find them.
+
+“I can show you,” Mieriel said. “You just need five people to sign up and I can help you file the paperwork with the town council. You’ll probably need a place to make the temple or church, though.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

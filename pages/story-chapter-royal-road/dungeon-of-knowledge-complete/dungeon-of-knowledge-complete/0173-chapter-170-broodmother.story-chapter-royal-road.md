@@ -1,0 +1,295 @@
+---
+id: 08c5d848-cba7-5a2a-8239-585dc3152316
+page-type-slug: story-chapter-royal-road
+title: "Chapter 170: Broodmother"
+slug: 0173-chapter-170-broodmother
+partOf: dungeon-of-knowledge-complete
+position: 173
+ownLength: 5628
+unit: words
+ownProgress: 5628
+publishedAt: 2024-12-15
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1957743/chapter-170-broodmother"
+royalRoadId: "1957743"
+markedReadAt: "2026-06-29T20:16:53.755Z"
+---
+
+You gotta watch out for those side bosses. Many adventurers believe that skipping the smaller bosses is more efficient – a faster way to get to the more valuable ones deeper within a dungeon. That’s an easy way to get dead. Just remember, sometimes the later bosses have a giant aggro range and you can suddenly find yourself suddenly knee-deep in all the bosses you skipped on the way down when it calls them. Slow and cautious is how you stay alive.
+
+- Dorin Crimsonhammer, Platinum Adventurer. Advice to novice adventurers.
+
+Willow studied the terrain up ahead as Cami padded silently back to her side, tongue lolling out the side of her mouth. “Good work,” she whispered, scratching Cami behind her ears. She was growing larger and more powerful with every level they gained together, and she already outweighed nearly every Timber Wolf they encountered down here.
+
+“Good to go?” Teagan asked. Braden adjusted his shield restlessly while Basil dug up a mushroom.
+
+“I’m ready,” Seth said, walking over from the corpses with a new zombie Timber Wolf in tow. Cami growled suspiciously at it, but Willow sent her soothing thoughts.
+
+Willow caught Teagan’s eyes and nodded. “I’ll get the next group,” she said, keeping her bow ready while scanning the cavern for the dark shadows of the bats that roosted among the giant oaks. The team had decided to take a break from scouring the blighted forest, choosing instead to spend a day or two gaining some experience in Aliandra’s dungeon. Clearing the zombies in the forest was their highest priority – not to mention that the kill quest paid handsomely – but most of the undead were too low-level for them to grow their classes and skills now. At least down here, some of the wolves and bats provided a better challenge.
+
+A sudden thrill spilled over through her connection from Cami, and she turned to find her excited companion with her nose pressed to the ground. “Did you find something, girl?” she asked, studying the ground with her tracking skill. There it is. The tracks were fresh, and Cami was already following the scent.
+
+“Wha… what is that?” Braden exclaimed.
+
+Willow’s eyes snapped up, latching onto an incomprehensibly bizarre scene unfolding down by the river that ran through the shrine grove.
+
+Something flapped about like a demented bird attacking an invisible prey. It was a small rectangular shape that opened and shut every now and then with softly audible thumps that carried across the intervening mossy forest.
+
+Even with the range granted by her enhanced perception skill, she was barely able to identify the thing.
+
+??? – Eldritch Tome – level ?
+
+“It’s a… a book?”
+
+Cami quivered, staring at the thing, a low growl coming from deep within her throat. Slowly she began backing up.
+
+Suddenly the… thing… shone with a golden glow, snapping its covers shut with a sharp clack. The dark form of a leather-clad rogue materialized, dodging and covering his head with his hands as he tried to evade the airborne book, which now sported rows of vicious-looking golden teeth.
+
+“The… fuck?” Braden murmured, drawing his shortsword.
+
+Rogue – Human – level 36
+
+“An assassin!” Willow exclaimed, knowing her friends wouldn’t be able to identify the person from this far. She had heard the novices talking about the assassin team that had attempted to disrupt their class ceremony and deny them access to the shrine. Apparently, one girl had even taken a spear through the chest and almost died.
+
+“Hold,” Teagan said, as Braden made to move. “That’s the raid zone.”
+
+Willow’s eyes widened as she realized where it was. As the harried rogue backed away to avoid being bitten by the flying eldritch tome, he grew closer and closer to the glowing shrine itself.
+
+“Oh, that’s not going to be pretty,” Seth said.
+
+No – and, that book looks like it knows exactly what it’s doing. Willow shivered.
+
+With their hands protecting their head, the beleaguered rogue clearly could not see the patrolling Forest Guardian – the raid boss that Willow had been carefully avoiding all morning. Teagan grabbed her hand anxiously, but she too chose to remain silent.
+
+A grating roar shook the trees. Leaves burst from branches in a sudden cloud. Wisps and bats took to the air in fright. The huge monster of wood and bark blurred with tremendous speed, tearing up the ground and filling the air with flying dirt and clods of moss. Even from their distance, Willow grimaced at the heavy thump and gruesome crunch. Her enhanced vision took in every detail of the spray of blood. It was over in the briefest of seconds, and the giant monster stopped, eyeing the flying book for a moment before turning around and resuming its path.
+
+Then the book vanished.
+
+“Uh… what just happened?” Willow croaked, her voice cracking hilariously.
+
+No-one laughed.
+
+It’s unfair, is what it is. Ali frowned as she searched the giant pile of still-burning spider corpses for the larger Flame Spinners to deconstruct. Calen’s idea that the dungeons might be abusing the raid boss resource increase to support their legions of monstrous defenders had to be correct. But it was very much unfair – she had already sacrificed a lot of freedom to take the Domain aptitude for her class, so why should she have to bind herself to a specific area within her domain just to have enough mana to be a proper dungeon?
+
+Variant: Flame Spinner added to Imprint: Spider.
+
+“Got the Flame Spinner,” she said.
+
+Calen glanced up from where he was studying the cracks and tunnels. “Nice. Too bad you can’t use them in here, though.”
+
+The variant notification took her mind off her internal grumbling for a moment, and she decided she would need to test to see if the Flame Spinner could produce the Flame Web. If so, she could free up the imprint chapter she had used to learn it separately. I guess I could try developing it into a general web or silk imprint, she thought, but the idea of doing that didn’t hold much excitement for her. She would much rather have something that doubled as a defender and could make the web. That way, she could sell the web to have someone else make the thread.
+
+Your Forest Guardian has defeated Dark Assassin – Human – level 36.
+
+She flinched, startled by the unexpected notification, momentarily frightened by the word ‘assassin’ appearing in her mind. She still had nightmares of rogues hunting her from the shadows, waiting to pounce when her back was turned.
+
+“What’s wrong, Ali?” Malika asked.
+
+“My forest guardian just killed an assassin.”
+
+“Seems like it’s working then?” Mato asked.
+
+She eyed him askance, but he just smiled at her. It was, she supposed, a perfectly normal notification for a dungeon to be receiving. The entire point was that her minions should protect her space, more-or-less autonomously. However, it would be much better to learn to be aware of what was going on at all times, just in case she needed to intervene. Maybe these Flame Spinners also have Web Sense?
+
+“Yes, it’s just a surprise when it dings at random times.” It had started happening when she began populating the forest cavern with wolves and bats and they began eliminating zombies that crept in through the lower entrance, but she still hadn’t gotten used to it. There seemed to be no way to turn it off, but it had opened her eyes to the number of monsters constantly drawn to her domain. Splitting her awareness through Martial Insight, she slipped into the senses of her Forest Guardian to check in on the situation. Below its feet were the mangled remains of what must have been the assassin. Surveying the surroundings, she picked up a few bright green sources of energy with her elemental’s Life Sight, but they appeared to be one of the bronze-ranked adventurer groups, observing from a safe distance. None appeared to be hurt. Good.
+
+She found her industrious kobold rogue collectors and sent them down to the Grove to collect whatever could be salvaged from the assassin’s corpse, but she wasn’t holding out much hope.
+
+“Can you give me a few minutes?” Ali asked. At least her forest guardian boss was fulfilling its function, as Mato had said.
+
+“Sure,” Malika said.
+
+As quickly as her Grimoire allowed, she summoned a Flame Spinner. The sleek, shiny black spider seemed far more intimidating up close, especially when it ignited the moment it appeared, forcing Ali to step back lest she get even more scorched. With just a quick perspective shift, she accessed her newest monster’s skills.
+
+“Anything nice?” Calen said. His notebook was conspicuously absent this deep into the fire domain.
+
+“Nothing that will change our strategy,” Ali mused, dropping her awareness and unsummoning the magnificent spider. It would be worse than useless down here. But she grinned happily and added, “It has a very interesting blend of heat vision and web sense, though. I can’t wait to try it out somewhere.”
+
+“Oh, very nice!” Calen said.
+
+“Ok, I’m ready to continue.”
+
+They picked their way through the tunnel lit by the tattered remains of the flame web on the jagged rock overhead with Ali choosing to fly over the sea of mangled spider corpses, preferring to avoid getting ichor all over herself like Mato. She grimaced, trying to tune out the continuous crunching of broken chitin underfoot.
+
+A sudden twang from Calen’s bow, and a hissing screech in the darkness as something dropped to the ground with a thump, reminded Ali that she should stay vigilant. Progress was slow and cautious, with Malika collecting as much of the intact web as she could find, however, they soon reached the end of the tunnel. Ali studied the switchback to a lower tunnel and the several staggered side tunnels where the miners must have followed some valuable ore vein while Calen quickly prepared to scout them out.
+
+“Calen, I can see some spiders in those tunnels,” she offered. Each of the passages glowed with the dull, softly flickering red light cast by the dense web draped across the roof and walls. Deep in the shadows, black shapes crawled, gleaming eyes peered out, visible through a surprising amount of rock just by the glow of their fire mana.
+
+“We’re going to have to clear them out, one at a time,” Calen said when he returned. “Mato in front with Ali’s Hob and shamans to catch anything that sneaks through. Malika, do your thing, and Ali and I will hold the back line and provide area damage.”
+
+They slowly advanced, blasting their way down the passage, painstakingly clearing each of the side excavations with a deluge of Sparkling Ooze light bombs and Calen’s devastating volleys of explosive arrows. The slimes swarmed across the rocky roof, relentlessly hunting down spiders from every crack or crevice, ignoring the continuous barrage of explosive light magic. I think Naia would approve.
+
+It took forever. Especially when Ali had to stop to inscribe new Inspiration circles so Calen could regenerate his mana quicker.
+
+At least it feels relatively safe. Nothing like the first time they had entered this domain without any fire resistance gear.
+
+They continued, following the main passage through its switchbacks and twists and turns as it proceeded ever lower, exterminating the spider infestation as they went, until they found the tunnel expanded into a large adjoining cavern before continuing onward.
+
+Ali was about to head in with Mato when Calen called out, “Stop. Boss.”
+
+She instantly froze, gazing around the cavern, but her eyes were not able to identify what had given Calen pause. She turned to him and saw him pointing up at the center of the ceiling. Nestled there, hidden within the dense flaming web, she could just make out the dark gleam of a suspended hulking black shape. She shivered, a trickle of fear touching her spine, raising the hairs on the back of her neck.
+
+“That’s huge!” she whispered. The creature was pitch-black with red flame wreathing its entire body, but where the other spiders had been smooth, this one had wicked-looking spines growing from its legs and thorax. A powerful aura of fire-affinity mana emanated from its body, seamlessly blended with the backdrop of the dungeon’s domain and the density of the flame web in which it had concealed itself.
+
+Flame Broodmother – Spider – level 60 (Fire)
+
+“Plan?” Mato asked, his eyes never leaving the gigantic spider.
+
+“It identifies as a regular boss, not a raid boss,” Calen said, “but we should still be very careful, it will be vastly stronger than the other spiders.”
+
+“Level? Can we avoid it?” Malika asked quietly. The dark hollow of a tunnel exit loomed nearby, and it was possible they might be able to skip this entire chamber if they were able to sneak past the giant Broodmother.
+
+“Level sixty. But I don’t think we should try to sneak by,” Calen said. “I’m almost certain it already knows we’re here.”
+
+And then Ali saw it – an almost imperceptible rhythmic pulse of fire-affinity mana that flowed outward from the Flame Broodmother along uncountable strands of flame web, passing beyond even the cavern itself and into the various side tunnels and cracks.
+
+A perception skill? Her Tunnel Weavers had a Web Sense that operated like an extended sense of touch via the webbing they were connected to, and this looked like a vastly more extensive version of the same thing, just augmented somehow with the monstrous spider’s flames.
+
+“I definitely don’t want something that nasty chasing us down in the dark tunnels,” Malika said.
+
+“Me too,” Ali agreed. Although, while the spider certainly appeared terrifying with its black spines and glowing red eyes, she could Identify its level – and Calen had said it was a regular boss. Any surprises would be manageable, and if not, she had her recall potion.
+
+“Mato, do you think you can get it to come down?” Calen asked, pointing toward the craggy rock wall on the far side of the room. “Maybe tank it over there? I’m guessing there will be some web-based attacks, so Ali, your oozes might be the most effective.”
+
+Mato downed a dark red elixir. “Ok, let’s see if it takes the bait,” he said, shifting into his Bear Form and strolling out into the middle of the chamber like he owned the place.
+
+Ali wished she had his level of confidence – to be the first to face the monster, trusting that everyone else would support him. As she directed her minions to file into the cavern, spreading them around at the edges, she contemplated that she was only confident at stepping in there at all because she knew her friends would do their best.
+
+Perhaps he’s only confident because he knows we won’t let him down?
+
+Her tension rose as Mato approached the center of the cavern with two of Calen’s motes of light bobbing after him. When he reached the spot directly below the monstrous spider hanging from the ceiling, he let out a deep roar, taunting it. His challenge was answered immediately by a loud hiss and a blast of flame that smashed into the ground right where he was standing. The blast rocked the cavern, sending Ali’s minions ducking and dodging as chips of rock and globs of slag clattered off the walls. Still, Mato simply stood his ground, trusting his life to the fire resistance on his armor and the elixir he had just downed – and the gentle pulse of the holy restoration magic that worked to bring him back to full health.
+
+From deep within the flaming web, the dark, spined form of the massive spider slowly emerged suspended on a thick strand of burning silk. Ali gasped. How is it so big? Four hind legs gripped the silk strand as it spun more, a continuous ripple of precision and strength as it paid out the line to descend into the chamber. The front legs waved in the air as if tasting it, while eight eyes lit with inner fires took in everything.
+
+It paused in midair for a moment and then dropped the last couple of meters to the ground. Sharp chitinous legs blurred, attempting to skewer Mato from above, but he sidestepped, and the spider landed in a crash of sharp spines and wicked stabs that sliced through the rock as if it were clay.
+
+Mato flared with the telltale green of his nature-affinity magic and his huge paw Swiped horizontally across the face of the spider. The great crash and angry hiss told Ali that he had severely annoyed it. Still, she waited as Mato shuffled backward, maneuvering the giant Flame Broodmother to face away from them.
+
+Mana swirled within the monster, and it let forth a roaring blast of intense red fire, a cone that seared across the back half of the cavern, knocking Mato rolling despite his huge, armored bulk and leaving a track of glowing slag in its wake.
+
+Faster than Ali could track, the Broodmother was upon him, razor-sharp gleaming jagged edges of its blurring front legs slicing through Mato and rock with equal ease. Mato’s blood sprayed across the cavern, steaming as it struck the super-heated rock, and her Acolytes yipped in surprise. While the damage was substantial, it still seemed manageable. The wounds were deep, but the healers were already restoring him. The spider struck again, the attacks somehow even faster.
+
+“She has a Frenzy ability,” Malika announced. “Watch Mato’s health.”
+
+A progressive melee haste buff based on consecutive strikes, Ali recalled, remembering the ability from her studies. This could be bad. Mato was not the most dexterous tank, and dodging wasn’t exactly his style.
+
+“Go,” Calen announced, punctuating his statement with an incandescent arrow.
+
+“Attack,” Ali commanded, relaying the instruction mentally to all her minions. Immediately, arrows flew, Lightning Bolts crackled, and her rogues sneaked out across the chamber, invisible to mundane senses in the darkness.
+
+A red formation of magic coalesced within the Broodmother’s abdomen, and Ali immediately focused her attention. Having no prior experience with this boss, she needed to be exceptionally cautious – any ability could be deadly with the element of surprise. Sage of Learning ticked, drawing some of her meager mana supply away, and the formation suddenly became clearer to her. Her potent perception skill highlighted similarities between the formations etched in fire and her memories of something similar in the flavor of bone magic.
+
+“It’s summoning monsters!”
+
+“Above!” Calen yelled, and within the dense flaming web along the ceiling, several dozen Flame Skitterers fanned out along thin filaments of the fire web. Still, the Broodmother pulsed her summoning magic every couple of seconds, and each time a new batch of spiders materialized, scurrying away into the dense webbing, or one of the larger Flame Spinners dropped down from the ceiling.
+
+The ceiling blazed with the light of Calen’s explosions.
+
+“Kill the spiders up there.” Ali backed it up with the mental image for the benefit of her simple-minded Sparkling Oozes, and they immediately flowed up the walls, lobbing explosions of light into the center.
+
+“Archers, kill any spiders that make it to the ground. Protect the healers.” Her Kobolds nodded, acknowledging her instructions. “The rest of you, stay on the Broodmother.”
+
+The dark cavern began to flicker and flash as the intense explosions ripped through the webbing and small spiders that hung above the giant flame-wreathed boss. Some of the flashes were so intense that they overwhelmed the light of the flame and the web, leaving the cavern strobing between pitch-black and brightness so strong that it hurt her eyes. Everything moved in stop-motion, and with the amount of mana exploding, she was struggling to understand even her mana sight.
+
+She almost missed the second magical formation within the spider.
+
+“Watch out!” Ali yelled as she suddenly found the almost fully complete magical formation pulsing with red angry power. There was no time to analyze the spell.
+
+With a sound like a fireball detonating, a sphere of flaming strands burst from the Broodmother like a whirlwind of blazing silk. A strand lashed across Ali’s chest and her shins, picking her up and slamming her into the wall. She coughed, winded, and found herself glued to the wall a meter off the ground with the skin on her legs blistering and burning. The Broodmother screeched loudly and charged Mato where he had also been pasted up against the wall but, with a great ripping sound, he tore himself free and engaged with a roar.
+
+“Ali, healers,” Calen called from where he too was struggling against his bonds.
+
+Fuck, everyone is webbed! Quickly, Ali connected her perception to her three Acolytes and found that all of them had been blown too far for them to reach Mato with their spells. Minion Teleport pulsed to the will of her mana and Ali appeared near the ceiling. Suddenly free, she summoned a barrier to catch herself while the Sparkling Ooze she had switched places with, slithered back up the wall like the flame webbing didn’t even exist.
+
+Ali flew down to the center of the chamber, urgently counting down her recharge. As soon as it expired, she switched places with an Acolyte, teleporting it out of its fiery bindings and into the center of the room, where it would hopefully be in range of the already profusely bleeding Mato.
+
+“Bone wall,” she demanded, harsh draconic syllables making bone-affinity mana flare from her trapped Bone Mages. She hissed at the searing pain of the flaming bindings that had until just a moment ago restrained her Acolyte, but she just gritted her teeth and began to deconstruct them. While the placement of her Acolyte was calculated to be ideal for healing Mato, there were still Flame Skitterers being spawned, and they would quickly destroy her healer without any help. She tossed out a barrier to help it. Expansive, thick walls of bone sprung up around the lone Acolyte, hopefully enough to protect her while she labored to free more of her minions. As soon as her recharge was up, she switched with another ooze, again appearing near the ceiling of the cavern and landing on a hastily summoned barrier. She created four barrier shards, making them as sharp as she could, and split her attention between Malika and Calen, tearing at the strands of fire silk gluing them down while she flew down trying to decide what to free next.
+
+If I can get Malika out, we will have enough healing. Her trapped Acolytes had not been idle, they were actively healing against the damage of the flaming webbing – but it was Mato she was most worried about.
+
+Shaman, she decided. Ali found one of her shamans, and teleported herself into his web prison, freeing him to protect her Acolyte from the spider swarm.
+
+Her shaman dropped his nova totem near the bone walls and lit his shield with electricity as he waded into the spawned monsters. She continued freeing her minions, using her teleport every time the recharge was available, and tearing at the webbing with her barrier shards. When she finally sawed through and deconstructed enough strands to free Malika and Calen, the fight regained a modicum of stability. Ali breathed a sigh of relief and set herself to freeing her remaining minions.
+
+I can’t miss that spell again. She ran through her options in her mind. Barriers, she decided. But on who? Where? She puzzled over the tradeoffs, considering all the options while the cavern flashed with the bright explosions, Lightning Bolts, and the Broodmother’s flame blast. At least Mato wasn’t being pushed back by that anymore now that he was fighting up against the rock wall of the cavern, but he and the Broodmother seemed to be fighting with sound as much as brawn, trading angry hisses with furious roars. Enacting her plans, she rearranged her minions, shifting them across the cavern so that they stood in two main groups on either side of the Broodmother, with just rogues and shamans behind her.
+
+Soon enough, she saw the giant spider drawing heavily on the domain mana within the cavern.
+
+“Web Explosion!” she yelled, throwing up three barriers instantly. One protected two Acolytes that she had made stand beside each other, the second materialized in front of Calen, and the third covered two of her shamans.
+
+The maelstrom of flaming silk rope ripped through the cavern as the web blasted everyone else outward from the boss and glued them to the walls. Sticky, burning strands clung to the surface of her barriers, but they had served their purpose and Ali dismissed them at once. Calen and four of her minions were free, and with her adjustment to the placement of her minions, they were only stuck to the walls in two places, all well within range of the healers.
+
+Much better, she thought, as she switched with her ooze to free herself and summoned her sharpened barrier shards to begin cutting Malika and her remaining minions free. I’m not doing a lot of damage this fight, she thought while teleporting back up to the ceiling again. But, getting everyone freed and back into combat faster would have a much more significant impact on their fight than if she threw her shards at the boss directly.
+
+From her high vantage point, near the ceiling of the room, she looked down and studied the fight. Many of the spawned spiders were dropping down near the center of the cavern, or scuttling down the walls, and if she could deny them half the room through clever use of the bone walls or barriers, she could potentially corral them into a clump for more efficient elimination by her shamans’ lightning abilities.
+
+“Bone walls,” she sent, along with the detailed image of her intent. As she made her way down, several diagonal walls of bone appeared and Ali augmented them with her barriers, causing the skittering spiders to bunch up in the center. Without even needing to instruct them further, the shamans tossed their Lightning Nova totems to land amid the spiders to devastating effect.
+
+With all her minions freed and the spawned spiders taken care of, she checked on the Broodmother’s health using her Acolyte’s Healer’s Sight.
+
+“Twenty percent,” she announced, surprised to discover how low the boss already was. But she had been frenetically busy the entire fight and hadn’t been aware of just how long they had been at it.
+
+Right as she announced the value, the Broodmother let out an angry hiss, and the flames on its body surged, intensifying into a furious blaze of heat and flame that began melting the rock on which it fought. Its legs blurred and a fountain of blood flew from the sudden array of new deep wounds on Mato’s flanks, shoulders, and back.
+
+The first of her Acolytes triggered Devotion, the pillar of holy light gleaming out brightly against the dark red of molten rock and flame.
+
+“It’s enraged,” Calen shouted, immediately triggering his Righteous Fury, and unleashing a brilliant storm of arrows at the boss which seemed to be shredding Mato with its unbelievably powerful, hasted strikes, leaving a gruesome display of blood splattered against the wall.
+
+Ali shot a few barrier shards at just to get in a little extra damage, when she noticed the surge of fire-affinity mana within the Broodmother again.
+
+“Web Explosion!” She summoned her three barriers immediately, trying to cram more of her minions behind each one. This time she managed to get all her shamans and Acolytes, while also protecting Calen from the explosive snare of the web. Her head cracked against the rock wall as she was glued to it by the webbing, and she saw stars briefly before she freed herself by teleporting her ooze into her spot.
+
+She gasped as several hasted strikes cut deeply into Mato while the flame blast simultaneously smashed him into the wall, and his health dropped precipitously low. But just as the blurred forelegs of the spider sliced downward, his health skyrocketed. Last Stand, it must be.
+
+“He used Last Stand,” Malika confirmed, dodging in to heal him.
+
+Thirty seconds. Mato must have used his potent perception skill to anticipate the need for his final defensive skill, Last Stand, casting it with perfect timing and giving them thirty seconds of breathing room to smooth over the transition through the enraged Web Explosion.
+
+Malika somehow managed to dodge the web this time and tore into the boss with a dazzling display of precision martial arts, so Ali worked to cut her archers and bone mages free instead, prioritizing the monsters with the most damage.
+
+Ali was still cutting web from her last minions when her chime sounded.
+
+Your group has defeated Flame Broodmother – Spider – level 60 (Fire) Grove Warden has reached level 53 (+2).+20 attribute points.
+
+Ali immediately spent all twenty points on wisdom, growing her mana pool by six hundred. At last, that spider was worth it!
+
+Arcane Insight has reached level 27.Arcane Recall has reached level 10.Barrier has reached level 39.Empowered Summoner has reached level 25.Minion Teleport has reached level 14 (+3).Inspiration has reached level 9.
+
+She released her barrier shards, allowing them to disperse into the golden glitter of unbound mana as the urgency of the fight suddenly waned. The sounds of explosions and arrows faded as the last remaining spiders were quickly hunted down and eliminated. Ali freed her remaining minions using Minion Teleport or deconstruction exclusively because it conveniently detached the exceptionally sticky web from them, instead of leaving annoying burning strands stuck to skin or armor.
+
+Finally, she finished and landed near the great black spiny corpse of the spider. It was lying upside down with its legs curled up into a ball, all the spines sticking outward. Slowly dying flames still flickered along the surface of its heavy chitinous armor, now covered with cracks and scrapes.
+
+Mato emerged from behind the corpse, clambering up out of a shallow depression of still-glowing rock, fused by the intense flame blast. Plastered up on the wall was the gruesome image of an enormous amount of his splattered blood burned and seared into the rock.
+
+“The chitin is worth a moderate amount if Myrin’s Keep had any crafters able to work it, which it doesn’t. But it’s not worth passing up any of the skills you might learn from deconstructing it,” Malika said, poking at the enormous dead spider.
+
+“Ok,” she said, and got to work deconstructing it, while Malika circled the room, storing every piece of flame web she could find.
+
+[Sage of Learning]
+
+Domain Magic analyzed: Nova Strike.
+
+Domain Magic analyzed: Attribute Enhancement (Perception).
+
+“Enrage and Summoning?” Calen guessed, twitching visibly as he must have tried to summon his notebook and remembered at the last moment it would just burn in the atmosphere down here.
+
+“No, actually,” Ali said, glancing again at her notifications in surprise. “It must have those two as regular skills. I got Nova Strike and Perception.”
+
+Nova Strike she had already learned from the Piercer Scorpion boss, and the Broodmother must have been using it to empower the web ability to create the devastating Web Explosion. But it was the perception enhancement that grabbed her attention.
+
+“Nice, you wanted perception, right?”
+
+“Yes, hopefully, I can get enough mana to make some more bosses now.” But now she wanted the Flame Broodmother too. More and more she was growing convinced that her effectiveness was rooted in a diverse set of minions, and the Flame Broodmother had been a very effective monster. Most of her highest-level monsters were either elementals that she couldn’t summon or had a fire affinity, and so they would be useless against the Emberforge Mines. However, the Broodmother was a level sixty swarm-summoner with enrage and frenzy, and potent fire and web attacks – as a boss or a roaming monster protecting her domain, it would be deadly.
+
+I just need two or three more. She sighed and stretched her back. Easy.
+
+***
+
+Name: Aliandra AmarielRace: FaeTitles: AncientActive Buffs: Empowered SummonerClass: Grove Warden – level 53- Arcane Insight – level 27- Arcane Recall – level 10- Barrier – level 39- Grimoire of Summoning – level 31- Runic Script – level 26- Sage of Learning – level 22- Martial Insight – level 32- Empowered Summoner – level 25- Domain Mastery – level 23- Minion Teleport – level 14General Skills- Reading – level 13- Identify – level 14- Sculpting – level 5- Inspiration – level 9Aptitudes- Languages: Ancient Dal'mohran, Elvish, Dwarven, Common, Draconic, Goblin, Ahn Khen- Mana (Affinities): Nature, Arcane- Tiny (Racial): The effects of Strength and Vitality are reduced by 50%- Magical (Racial): The effects of Wisdom and Intelligence are increased by 50%- Domain (Class): Your mana increases with the size of your domain, up to +100%- Domain: -10% maximum health per day domain withdrawal. You have Domain SensePatrons & Tithes- Protégé: Seth WestonAttributes- Vitality: 73 (+13)- Strength: 6- Endurance: 17- Dexterity: 36- Perception: 121 (+26)- Intelligence: 232 (+53)- Wisdom: 323 (+116)Equipment- Off Hand: Orb of Mana – level 35- Head: Topaz Hairpin – level 40- Body: Tailored Cotton Clothing – level 45- Hands: Wooden Bracelet – level 11- Ring: Silver Guild Ring – level 30- Ring: Forest Band of the Perceptive – level 33Resistance: 972Magical Damage Reduction: 39.57%+20% to Fire resistance.+84% to mana regeneration.Health: 365/365Stamina: 170/170Mana: 1426/9690 (8264 Reserved)Grimoire Imprints1- Flame Web2- Stone3- Wood4- Armor (Body)5- Arrow6- Axe7- Bone Bracelet (Hands)8- Book9- Bow10- Coin11- Dagger12- Shield13- Sword14- Creeper15- Grass16- Moss17- Mushroom18-20- Tree21- Wildflower22- Bat23- Dragon24- Elemental25- Goblinoid26,27- Kobold28- Ooze29- Spider30- Wolf31-
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

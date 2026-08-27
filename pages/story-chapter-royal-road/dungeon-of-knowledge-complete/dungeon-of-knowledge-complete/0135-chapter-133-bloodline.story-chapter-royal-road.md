@@ -1,0 +1,291 @@
+---
+id: a21c8966-4761-5c76-8d3c-2206e5f7fe6b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 133: Bloodline"
+slug: 0135-chapter-133-bloodline
+partOf: dungeon-of-knowledge-complete
+position: 135
+ownLength: 4394
+unit: words
+ownProgress: 4394
+publishedAt: 2024-09-22
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1814639/chapter-133-bloodline"
+royalRoadId: "1814639"
+markedReadAt: "2026-06-29T20:31:33.285Z"
+---
+
+To master the path of the sword, the staff, or the fist, one must first master oneself.
+
+- Kamari Ren, Ahn Khen Elder, legendary master and inheritor of the Ninefold Way: Fists of Coherent Integrity.
+
+Mato caught himself staring at the now-empty spiral staircase ascending out of the library and the darkness into which his friend had just disappeared. With a start, he collected himself and returned his attention to his cookfire and the thick beef stew he was supposed to be stirring.
+
+Please be careful. Calen had finally reached for his dreams, but now he was gone, and Mato would not be there to protect him as he had always done. It left him feeling strangely hollow inside.
+
+“He’ll be ok,” Ali said, as if reading his thoughts. “He’s careful, and Lyeneru is strong.”
+
+“Mhm,” he said, ladling a generous helping from the pot into a bowl and handing it to her. “But that was a Death Knight,” he said. By all accounts, Lyeneru Silverleaf was one of the most powerful Pathfinders in recent history, but even with her immense bow, she had only been able to drive the Death Knight off. She hadn’t killed it. Their hunt would be extremely dangerous, and Calen was not even level forty yet.
+
+He shook his head and sighed, trying to dislodge the difficult thoughts. He would not be able to help, and the most he could do was wish his friend a good hunt.
+
+“It seemed that Lyeneru was more interested in Calen’s tracking skills than throwing him into battle against that monster,” Malika observed, accepting the second bowl of stew and inhaling the aroma with obvious relish.
+
+“Thanks, guys,” Mato said. Their efforts to make him feel better had eased some of his anxiety.
+
+“Yum, you’ve outdone yourself today,” Ali said, as she rapidly spooned dinner into her mouth.
+
+“How do you fit so much food into such a tiny body?” Mato grinned.
+
+Cooking has reached level 8.
+
+“Oi!” Ali exclaimed, but her words were muffled around a mouth full of food, coming out as a half splutter. She swallowed and then said, “You guys both hit level forty, did you unlock anything good?”
+
+“Um, let me check,” Mato muttered. In the excitement following the death of Alexander Gray, the arrival of the Death Knight, Lyeneru’s dramatic entrance, the council nonsense, and the continuing mop-up operation against the remainder of the undead horde, he had totally forgotten about the notifications and his class growth. Sitting with a warm bowl on his lap, he finally directed his attention inward to inspect his growth.
+
+Druidic Shapeshifter has reached level 43 (+4).+40 attribute points.Arboreal Sanctuary has reached level 27 (+3).Brutal Restoration has reached level 29.Natural Prowess has reached level 19 (+2).Survival Instinct has reached level 19 (+2).Battle Trance has reached level 11.
+
+“Forty-three.”
+
+“Great work,” Ali chirped excitedly.
+
+“Nice. What else?” Malika demanded.
+
+“Well, I got a lot of points for my passive skills and Arboreal Sanctuary,” he said, working his way through the skill notifications.
+
+“That makes sense, you were a tree for most of the fight, and you were shouldering about three-quarters of my damage the whole time,” Malika pointed out. “Your Tree Form is interesting – you share a ton of health and mana regeneration, but I noticed you lose the stamina regeneration entirely.”
+
+“I don’t have any stamina or endurance as a tree,” he replied, trying to bite down on his annoyance as Malika predictably pointed out his weaknesses. “But can’t you turn the extra mana regeneration into stamina?”
+
+“I can,” she answered. “But… I lose about twenty-five percent in the transfer, and I miss those fights when you’re getting hit a lot and your Battle Trance is shared.”
+
+“I didn’t think of that.”
+
+“It was the smartest choice,” Ali chipped in. “That Blight aura was insane. Did you see how fast it wiped out my Forest Guardians?”
+
+“Good point,” Malika nodded.
+
+Hmm. She was right, his new Tree Form had been the perfect choice for the fight – much as he hated not being able to hit anything, neutralizing the Blight aura was the most critical role he could play, and he had earned four levels for literally standing atop his own roots. The only other thing he had done was to siphon a large portion of the damage Malika had been tanking to himself, soaking it all against his greatly increased vitality as a tree.
+
+“I like my Tree Form,” he decided aloud. It was truly an extraordinary skill, but learning to use it was going to require him to figure out some strategic subtlety. He glanced at Lira sitting quietly by the fire to find her smiling softly.
+
+In the corner of his eye, he saw Malika’s hand wave. “Anything else? Come on, you know I’ve the patience of a hungry squirrel.”
+
+Chuckling in appreciation, Mato shifted his attention back to his notifications and the image of his inner tree. He spent twelve points on vitality, and then thirteen on endurance. While his Tree Form did not have endurance, it wasn’t like the points were wasted – they would be shifted to count as wisdom in the transformation. Seven points went to strength, five for wisdom, two for perception, and his last point went to boosting intelligence.
+
+At once, a new notification impinged on his awareness.
+
+Class skill slot unlocked.New skills are available for Druidic Shapeshifter.
+
+Aah, there it is! Biting the inside of his lip, Mato read on.
+
+New skill unlocked.Class level has reached 40.Survived a battle with less than 5% health remaining. Tanked an enraged raid-level threat.Last StandLast Stand is triggered automatically when your health drops below 5%.Stamina: Gain + [skill + endurance / 10] % armor and + [skill + vitality / 10] % additional temporary maximum health. Duration: 30 seconds. Recharge: 15 minutes.Physical, Defense, Endurance, VitalityNew skill unlocked.Class level has reached 40.Mentor: Lirasia.Melded with an Elder Tree.Can communicate with plants.Grown plants with your aura.Fought as a tree with a wisdom attribute surpassing 325.Rampant Growth replaces Wilderness Lore.Rampant GrowthYou are one with nature, understanding the subtle balance of ecosystems and what disrupts it. You can pass freely through dense growth. Mana: Cause rampant growth in any plant you or your mana touches. Simply grow plants faster, or use them to slow, impede or even damage your enemies.Nature, Plant, Area, WisdomNew skill unlocked.Class level has reached 40.Inherited a beast bloodline or race.Has communicated with more than ten beasts.Has three beast forms. Beast TamerMana: Tame a beast to use as a companion. Both parties must remain willing. Nature, Minion, Wisdom
+
+Mato quickly shared the new choices he had with his friends, scanning them to get a sense for his preference.
+
+“You survived a fight with less than five percent life remaining?” Lira asked, raising an eyebrow. She didn’t say any more, but Mato could hear the implication loud and clear. He had heard it all his life; “you’re too reckless”, or “be more careful”. But it stung a little coming from his new mentor.
+
+“Um, that would be when Ali and I fell into the ruins and the Kobold Fire Mage almost finished us off,” he answered. It was not his finest moment, losing control to his old Primal Rage and nearly killing Ali. He knew it had been close, and he would never have lived if it wasn’t for Ali’s incredible efforts to save them both, but it was quite another thing to see just how close it had been, written plainly in a skill unlock requirement for everyone to see.
+
+Lira nodded. “Sounds like that was a tough battle. Maybe we can talk about it another time?”“Er, sure.”
+
+“What are you thinking you’ll take?” Ali asked.
+
+“I don’t think Beast Tamer is my style,” he said, shifting his attention back to the subject at hand. “But the other two look good.”
+
+“But you’re such a beast,” Ali quipped, and it was only when Malika chuckled that he realized she was teasing. He shifted uncomfortably, surprised at how sensitive he was being.
+
+“Three beast forms?” Malika asked. “Your tree isn’t a beast…”
+
+“I think it must be counting his Beastkin form,” Ali said. “You know, Beast-kin!”
+
+“Oh, maybe,” Mato allowed. He wasn’t going to pick Beast Tamer anyway, but he was struggling to choose between the other two. “Last Stand looks great for tanking, but Rampant Growth looks like the best choice for balance, I’m not sure how to decide,” he said. There was also the fact that Rampant Growth was a direct result of his taking Lira’s mentorship and melding with the giant tree, which meant it was likely a much stronger offering than average.
+
+I wish Calen were here, he thought, suddenly missing his friend’s clear logical reasoning and wealth of knowledge related to skills.
+
+“I can see the case for Last Stand,” Malika said, “but why do you want Rampant Growth? With Ali’s Guardians, we don’t really need extra control skills.”
+
+“I don’t have stamina or strength in Tree Form, so most of my active skills don’t work,” he answered. He had needed his Tree Form to push back the blight, but while the fight raged on around him, he had found he had little he could actually do, other than siphon damage intended for his friends. The form had incredible potential with the versatility of his greatly expanded Sanctuary aura and the ability to still tank damage for his friends, not to mention the enormous boost to health and mana regeneration. “Rampant Growth is a mana skill, so I would be able to attack with it while in Tree Form.”
+
+“Oh, hmm, that’s a good point,” Ali said, her brow furrowing in thought.
+
+“What do you think, Lira?” Mato asked. It was she who had recommended a more balanced approach, and this seemed to be a direct choice between balance and specialization in tanking.
+
+“I would suggest Last Stand,” Lira said, much to Mato’s surprise.
+
+“Not Rampant Growth?”
+
+“Rampant Growth is a powerful skill, and I highly recommend it. It was the root and foundation of my Plant Mastery, Tree Meld, and Tree Passage skills when I was still a sapling,” Lira said. “But you are a tank, and your responsibility is wider than just yourself – if you die, it is not just your potential that ends, but that of your friends as well.”
+
+She really didn’t like that five percent. Her advice seemed sound, though. He would never be able to live with himself if he didn’t do all in his power to protect his friends.
+
+“Hey Mato, do you ever see yourself in a primary damage role?” Malika asked suddenly, interrupting his thoughts.
+
+“Not really, why?” he asked, only moderately surprised now that he didn’t mind not being the one to do the most damage anymore.
+
+“Well, you’ve taken to tanking and the bear, and you seem to be interested in developing the Tree Form, especially with Lira’s mentorship – which, by the way, I think is an excellent choice,” Malika observed. “But don’t you have a skill for Wolf Form that you seldom use?”
+
+“I sometimes use that for tracking.” He liked the scent perception, tracking, and pack-fighting bonuses.
+
+“We normally have Calen for tracking, and Ali has wolves. Besides, the wolf is primarily a dexterity-based damage form, isn’t it? You’re really not invested in the attributes to make the best use of it. When was the last time you used it?”
+
+“When we were tracking Ali and Lira,” he answered easily, but he could see what Malika was getting at. “Before that, it was tracking you and Calen in the forest.” And that had been before the Goblins had laid siege to the town and they hadn’t even reached bronze yet.
+
+“Are you suggesting he switch out of Wolf Form and instead take both Last Stand and Rampant Growth?” Ali asked.
+
+“Yup,” Malika said. “Doesn’t it seem to make the most sense?”
+
+A brief silence pooled between the companions. Glancing over at Malika, he saw a brief interaction between her and Lira – perhaps the Dryad felt she had underestimated her, and Malika sensed it? Malika’s expression of chin-jutting defiance, every inch the Street Rat, faded before Lira’s wise, knowing smile.
+
+“That’s… I really like that idea,” he agreed, feeling a sudden rush of excitement. He could take the survival skill and still grow in the balanced way Lira had recommended. There didn’t even seem to be a downside; he would lose his Wolf Form and the unique skills it came with, but he could still talk to beasts, and now plants, so he could still supplement Calen’s tracking. Wolf Form was still only level four, so if he changed his mind, it wouldn’t take long to recover the lost skill levels.
+
+He sought Lira’s eyes to confirm.
+
+“You are wise to listen to the counsel of your friends,” she said, and with that, his mind was made up. Mato triggered the changes.
+
+You have gained the class skill Last Stand.
+
+Wolf Form will be replaced with Rampant Growth, all skill levels will be lost.
+
+He studied the message for a moment, but his mind was made up: he accepted the switch.
+
+You have lost the class skill Wolf Form.You have lost the general skill Wilderness Lore.You have gained the class skill Rampant Growth.Natural Prowess has been updated.
+
+A chorus of notifications chimed in the background as the glowing green text flickered along the trunk of the tree in his mind. Noting the last one, an unexpected side effect, he pulled up the description for Natural Prowess.
+
+Natural Prowess – level 19Attributes most appropriate to your form are increased by +67.3% [40 + skill + base wisdom / 10].Mana: Wisdom, Intelligence, and Perception are increased. Beastkin, Reserve: 20%Stamina: Endurance, Vitality, and Strength are increased. Bear Form, Reserve: 20%Mana: All attributes are increased. Tree Form, Reserve: 20%Nature, Buff, Wisdom
+
+That makes sense, he thought. Natural Prowess seemed to be a modal skill – applying uniquely in each shapeshifted form – and losing Wolf Form had caused the skill to adjust accordingly.
+
+“Good,” he said aloud. “Anyone still hungry? I’m eating like a tree, now.”
+
+***
+
+Name: Mato BahrRace: BeastkinActive Buffs: Bear Form, Natural ProwessClass: Druidic Shapeshifter – level 43- Arboreal Sanctuary – level 27- Swipe – level 27- Brutal Restoration – level 29- Bear Form – level 27- Rampant Growth – level 1- Bestial Combat – level 26- Natural Prowess – level 19- Survival Instinct – level 19- Battle Trance – level 11- Last Stand – level 1General Skills- Identify – level 10- Cooking – level 8Aptitudes- Languages: Common, Beast, Plant- Mana (Affinity): Nature- Strong (Racial): +7 to Strength- Tough (Racial): +10 to EndurancePatrons & Tithes- Mentor: LirasiaAttributes- Vitality: 242 (+97)- Strength: 179 (+80)- Endurance: 240 (+116)- Dexterity: 12- Perception: 43- Intelligence: 11- Wisdom: 83Equipment- Body: Banded Feral Plate Armor – level 20Armor: 1368Physical Damage Reduction: 53.18%Health: 2420/2420Stamina: 1920/2400 (480 Reserved)Mana: 830/830
+
+“What about you, Malika?” Ali prompted. “Congrats, by the way, you earned the most levels of all of us.”
+
+“Thanks,” she answered, smiling with happiness that momentarily startled her. Alexander Gray had been an extremely dangerous foe, a necromancer, summoner, and he had had more than thirty levels on them. Well, thirty levels on me, she corrected. Ali was higher leveled. Honestly, she had worried they wouldn’t be able to do it, even with all four of them against him and his summoned army. But she had been elated with how well her skills had stacked up against him.
+
+It won’t always be that good a match, she reminded herself. But she couldn’t deny that using her Soul Strike to attack his mana, combined with the hasted attack speed from Divine Step, had proved the perfect counter to the necromancer and his abilities.
+
+“Good work,” Mato said, “You really kicked his ass.”
+
+“Only because you make a good healer, Mr. Tree,” Malika grinned. Standing within the blight aura had been excruciating, but with the combination of Ali’s Acolytes, her own continuous healing, her substantial investment in endurance, and Mato’s aura destroying the blight and siphoning the lion’s share of her damage, she had been able to endure it.
+
+“And you make a good tank,” Mato said.
+
+She reflected proudly on how far she had come with her class, grateful to have had the perfect opportunity to redirect her fate. She was still upset with the council and how they had cowered behind their rules instead of helping, and it rankled to see Jax Hawkhurst among them, showing his face as if his criminal activity were of no consequence, but that was a fight for another day. Maybe a day when she was stronger… I have to get stronger to survive.
+
+There was that old feeling. Odd how abruptly she could become that girl again, being beaten up by common street thugs. Angrily, Malika thrust those feelings into the back of her mind, wishing nothing more than to crush them. Never again. Never!
+
+“Let me see,” she answered, looking inward to find dozens of dense lines of blue-white text waiting for her.
+
+Soul Monk has reached level 41 (+5).+50 attribute points.Martial Artist has reached level 20.Soul Strike has reached level 24 (+2).Healing Mantra has reached level 23.Enlightened Evasion has reached level 22.Divine Step has reached level 23.Second Wind has reached level 11.Clarity has reached level 9 (+2).
+
+Level forty-one. Ali had been right; she had earned five levels for the fight. Either she had been close to leveling, or she had had a greater impact on the fight than the others. Probably both. Sometimes it went like that, and at other times the pendulum would swing the other way, she was certain. She decided to not dwell on it much, other than to be happy she was progressing well.
+
+Fifty points, hmm… Always, her attribute allocation left her wishing she had more to work with. A little more dexterity and wisdom, this time, she thought. After a few quick calculations, she spent nineteen points on dexterity, immediately feeling a new lightness suffusing through her muscles. Then, she added seventeen points to wisdom. Given her need to tank pain and damage in the last fight, she split the remainder between vitality and endurance, spending seven on each. As soon as she applied her new attribute points, her notification chime sounded.
+
+Great! I wonder what that unlocked?
+
+Class skill slot unlocked.New skills are available for Soul Monk.New skill unlocked.Class level has reached 40.Martial Artist has reached at least level 20.Dexterity has surpassed 240.Spirit JavelinStamina: Project your energy forward, piercing through everything in its path. Range: 20 feet.Soul, Ranged, DexterityNew skill unlocked.Class level has reached 40.Defeated multiple hasted monsters.Dexterity has surpassed 250.Flurry of BlowsStamina: The soul unlocks possible paths. Your punch is followed by [1 + skill / 10] additional hasted punches. Recharge: 30 seconds.Physical, Melee, Haste, DexterityNew bloodline skill unlocked.Inheritor of the Ahn Khen bloodline.Class level has reached 40.Martial Artist has reached at least level 20. Soul Strike has reached at least level 20. Wisdom has surpassed 180.Soul SightYou can see the flow of energy (stamina) all around you. You can sense hostile intent. You can anticipate the physical movement and attacks of your opponents. Range: 30 feet.Soul, Bloodline, Perception, Wisdom
+
+Malika gasped. “I got a second bloodline skill!”
+
+“Didn’t you say that was rare?” Ali asked.
+
+“Very rare,” Lira put in.
+
+“Yes!” Breathlessly, Malika shared the details with them.
+
+“That’s an easy choice,” Mato said. “Soul Sight looks amazing.”
+
+“I agree, congrats Malika!” Ali said.
+
+“It’s one of the best starting combat perception skills in the Ahn Khen bloodline!” Malika said. She could scarcely believe it, but the text did not vanish as she studied it.
+
+“Maybe with a perception skill you won’t run into walls in the dark?” Mato suggested, hiding a grin.
+
+“Oi!” Malika retorted, but his joking did nothing to quell the bubbling excitement within her. This is perfect! Wasting no more time, Malika selected Soul Sight for her last skill slot, barely even glancing at the other two choices. As she added the skill, a not-quite-painful prickling sensation ran down her spine, grabbing her attention and making her heart quicken, but the sensation quickly passed.
+
+It’s a passive skill, so it should just work.
+
+“Mato, you use stamina, can you do something?” she asked, turning to look at him.
+
+“Sure,” he said, making his body twist and warp into his Bear Form.
+
+Instantly, the entire world lurched, and an intense stabbing pain shot through her brain, lancing all the way down her spine. She staggered as her vision flickered and flashed with an angry roiling vortex of shimmering colors and she saw the stone of the ground right before everything went black.
+
+***
+
+“Malika! Are you ok?”
+
+She heard her name being called repeatedly and felt the gentle warmth of holy magic healing her. She groaned as her vision shuddered and she opened her eyes.
+
+What happened? She put her hand up to her head where it was still throbbing. She felt several sharp jolts of pain as soon as she touched her head, and her hand came away with a little blood.
+
+“You just passed out.”
+
+Ali, Mato, and Lira were all looking down on her with extremely concerned expressions.
+
+“You hit your head on the stone floor and cut it.”
+
+“I just added the skill,” she said, leaning gingerly on Mato as she got up. She hissed in pain as another jolt of pain stabbed behind her eye. She looked around and hovering in her vision were several areas of warped shimmering haloes that followed her gaze around, leaving her severely disoriented and quite nauseous.
+
+“I had a perception skill that was way too intense when I first got it,” Ali said. “I don’t think it was quite as painful as yours, but it did take some getting used to.”
+
+“I have the worst migraine, I think I want to lie down,” she said. It was quite the understatement, she had never experienced pain similar to this – and for some reason, her endurance didn’t seem to be helping much.
+
+Mato helped her over to a couch where she lay down and accepted a cup of tea from Ali’s hand.
+
+“I think I’ll just rest for a bit,” she said, taking in her friends’ concerned faces.
+
+“I’ll watch over you,” Mato declared at once.
+
+The last thing she remembered was Lira’s artfully arched eyebrow and Mato turning a quite marvelous shade of pink.
+
+Rezan sat in lotus pose on his favorite stone slab, wearing nothing more than his loincloth, gazing out over the raging waterfall as he had countless times over the years. This was his favorite meditation spot, the brisk, icy mountain air felt refreshing on his dark and weathered skin. Back at the head of the trail, his two disciples, Hala and Basir, struggled to keep their fire going, bundled up in their furs trying to ward off the snow and ice.
+
+The cold will be good training for them.
+
+He closed his eyes and slowed his breathing, and slowly opened himself to his Eyes of the Soul, the skill honed and passed down through his bloodline for countless generations. His mind soared up above the rock like a Snow Zephyr taking to the skies, and he saw himself suddenly far below as an intensely glowing kernel of yellow light. As he rose above the waterfall, his two disciples flickered into view. Smaller, but shining steadily; an intense white for Hala, and an obsidian gleam from Basir.
+
+They grow well. If only they didn’t complain quite so much, like chattering cleft-sparrows.
+
+His awareness continued to rise, soaring high above the land. Much of it was so barren and empty now, where once the children of Ahn Khen lit his sight like the constellations of the night skies.
+
+He lingered, taking in the view of his small village, Kezda – as he always did – nestled at the foot of the mountain; a bright jewel filled with the many flickering lights of the awakened souls that lived there. Some shone steady blue, some raging red, and some flickered gently in the darkness. He knew each by name. Most of them, he had watched growing up.
+
+He continued to soar above the clouds, watching the tiny lights sparkle and flicker across the ancestral lands.
+
+So few now.
+
+He slowed his breathing once again and relaxed as he spread his awareness out. He sat for several hours, just being aware while the scant light of the day slowly faded.
+
+Suddenly, a light flickered far to the west. A tiny, blue-white nova shone at the edge of his awareness, which despite his many decades of meditation, still snatched his attention, causing curiosity to flare intensely within his heart.
+
+Who are you, lost child? He shifted, his viewpoint crossing hundreds of miles in an instant.
+
+The light flickered and dimmed dramatically.
+
+Just an anomaly. Rezan sighed. He had seen it so many times before. When people touched their souls during their dreams, sometimes they would flicker briefly and return to normal.
+
+It’s not an awakening.
+
+He suppressed the pang of disappointment as the light dimmed and faded. I always hope too much, he chided himself. Beginning to withdraw his attention, the pale blue-white flame flared out once more and then steadied, pulsing slowly in the darkness. A tiny delicate thing, and yet cool and calm.
+
+His breath caught in his throat. Though he watched the light for a while, it remained, stubbornly refusing to go out.
+
+You are a determined soul.
+
+Suddenly, the light flared, but shot through this time with sparks of angry red that threatened the integrity of the soul. Bravely, it tried to restore itself, but the fundamental instability of the red light had crossed its core and was beginning to tear the fragile thing apart.
+
+No! For the first time in decades, the tranquility of his meditation shattered, and his eyes snapped open. Leaping to his feet, he rushed back to his disciples’ camp. They both looked up in surprise at his uncommonly short meditation.
+
+“A soul has reached the threshold and is struggling to awaken,” he announced. “We have work to do.” He strode through the camp, leaving a trail of shock and scrambling in his wake as his disciples processed his words.
+
+Can I even get there in time?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

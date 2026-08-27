@@ -1,0 +1,225 @@
+---
+id: 67e742e6-2f65-5f29-a1a4-3e753743b426
+page-type-slug: story-chapter-royal-road
+title: "Chapter 40: Quests"
+slug: 0040-chapter-40-quests
+partOf: dungeon-of-knowledge-complete
+position: 40
+ownLength: 4194
+unit: words
+ownProgress: 4194
+publishedAt: 2024-03-07
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1545072/chapter-40-quests"
+royalRoadId: "1545072"
+markedReadAt: "2026-06-29T20:12:18.046Z"
+---
+
+Ali’s friends did not complain in the slightest when she requested a trip to the laundry. The slightly portly, frazzled-looking Gnomish man who ran the tiny shop, tucked in between a bakery and a small grocery store, had been absolutely horrified with how foul she smelled and had lost no time casting his magic to dispel the muck that clung to her like glue. He had still been spritzing the air in his shop as they left, muttering despairingly about how nice Fae girls should not possibly smell like a Goblin’s armpit, it just wasn’t right.
+
+Now, dry – and more importantly, clean – her body finally began to relax under the warm caress of the sunshine falling on her skin. As the last of the tension eased, her traumatic experience with the underground river faded into a memory. Albeit a cautionary tale; an experience that should remind her that she needed to be much more careful in the future.
+
+By the time they reached the Adventurers Guild, Ali was mostly back in her usual good spirits, and she approached the reception desk, and the elegantly dressed Mieriel, with a big smile on her face.
+
+“Hi Aliandra,” Mieriel greeted, returning her smile. “How can I help you today?”
+
+This time, Ali ignored the stepstool and instead created a small disk of barrier magic hovering a little above the ground and followed with a second one a little higher. She stepped up her magical golden stairs, dismissing the first barrier, leaving herself standing upon a single glowing disk at the perfect height beside the reception desk.
+
+“Very impressive,” Mieriel approved.
+
+Grinning in delight at having her achievement recognized – albeit with dry humor – Ali used Identify on the guild administrator.
+
+Spy – Sun Elf – level ?? (Mind)
+
+Ali’s smile froze as her casual use of Identify exposed Mieriel’s class and mana affinity.
+
+Mind magic?
+
+A chill ran down the back of her spine. Practitioners of mind magic were universally feared for their ability to warp the perceptions of those around them, and even control the minds of people they didn’t like.
+
+What is she…
+
+Mieriel’s eyes narrowed briefly, and tiny wisps of mana flickered around her brows and temples. Ali’s body weaved with sudden disorientation as if the world had suddenly tipped sideways for an instant before everything returned to normal. She grabbed onto the reception desk to steady her suddenly shaky legs.
+
+Analyst – Sun Elf – level 18
+
+What was I doing? Ali racked her brain trying to remember but, while it felt tantalizingly close, she couldn’t quite recall. She glanced back at the Sun Elf Analyst while she wrestled with her uncooperative memory, struck by a sudden, inexplicable sense of déjà vu and the unusual delicate fragrance of summer lilies.
+
+“Thank you for your tip the other day,” Mieriel said brightly, her voice interrupting Ali’s confusion, guiding her attention back to the reception desk and the guild hall.
+
+“What?”
+
+“Lydia’s Allure. It’s delightful, and Lydia is so talented,” Mieriel announced, getting up and turning around to show off her new powder blue business suit. “I love it!”
+
+“It’s very stylish,” Ali answered, the strange sense of déjà vu fading away.
+
+“Anyway, what can I do for you today?” Mieriel said, bringing the conversation back to the reason Ali was there.
+
+“Oh, I wanted to turn these in for the quest,” Ali answered, her confidence returning as she remembered why she had come. She slipped her attention into the projection of her storage enchantment in the back of her mind and selected the carefully bundled arrows she had created. When she was done, fifty bundles of twenty arrows each lay neatly arranged on the reception desk – each carefully tied with a small length of string Calen had provided. He’s definitely becoming the Rope Master! It had taken a little time to retrieve everything, but it was so much better than trying to retrieve a thousand loose arrows all at once and making a mess all over the floor.
+
+“Oh! Commander Brand is going to be so happy!” Mieriel chimed, admiring the stack Ali had created. “Thank you for using them to fill the quest, I’m sure you already know you could probably have gotten more money selling them on the black market. But this way they will go directly to the guard. Thank you for helping make Myrin’s Keep safer!”
+
+They’re just arrows, Ali thought, surprised at Mieriel’s choice of words. But the moment she thought about it, she realized the truth of what the Sun Elf had said. To her, it may have just been mana spent on a Grimoire imprint – a simple matter of a few hours of work – but the arrows really would be used to save lives and that realization lent a new weight of significance to her simple task. Ali hadn’t considered that she might earn more by selling them to some shady dealer, but then they would probably have been hoarded instead of used to help anyone.
+
+Not a good option.
+
+“Here you go. Your first quest reward, congratulations! The garrison is offering one gold piece for this many arrows. Your share is eighty silver pieces after I deduct the twenty percent and apply it to the cost of your ring.” Mieriel said, counting out several silver pieces of different sizes and placing them into a small leather pouch that she handed to Ali.
+
+“Thank you,” Ali said, feeling the surprisingly comforting weight of the small pouch in her hand before she stored it in her ring. No longer would she need to be reliant on Calen or Mato to buy her everything she needed. I can even pay them back! Both of them had bought her all sorts of necessities with their own meager funds, and she didn’t want to feel like she was a continual drain on her friends.
+
+After I pay them back, maybe I’ll have enough left over to buy some books…
+
+Ali returned to the lounge area near the quest board where most of the guild members were gathered, waiting for the Guildmaster to make her appearance. She returned Serendipity’s excited wave with a smile before her attention was drawn from the friendly Gnome by Vivian Ross entering the room.
+
+“I want to thank you all for taking various jobs and quests so far,” she began. “We’re making some great progress. The guard, and our scouts, have confirmed that the outrunners and advanced scouts of the Goblin horde have reached the town walls. The south gate is closed and barricaded, and the Town Council is implementing a curfew to get everyone to stay off the streets at night. The Goblins have already begun to pillage the outlying farms.”
+
+Ali’s smile faded. The Guildmaster’s delivery was practical and unemotional, but the implications for the town were sobering. Without farms, they would soon run out of food, and if the gates were closed, presumably most of the trade with the outside world would be suddenly cut off.
+
+There was, of course, the teleportation locus in the Novaspark Academy, but given the steep cost in gold and mana, it would be incredibly impractical, if not impossible, to use it to feed a population as large as Myrin’s Keep.
+
+Ali had never experienced something like this personally, but she had enjoyed studying history at school. Large dungeon-breaks typically wiped out towns like theirs instantly. If the defenses were adequate, the town might hold out for a while, but then the spiraling costs and the restriction of food and supplies would typically cause the town to collapse rather quickly. The best hope for them was that the Goblins passed them by on the way to a different target. But that’s just kicking the can down the road.
+
+“Our biggest concern right now is burglary and arson within the town,” Vivian continued.
+
+Ali sighed. Of course, as if the Goblins weren’t enough of a problem.
+
+“There have been numerous reports that criminals are stealing expensive consumables and food, and the Town Watch doesn’t seem to be able to keep it under control. The Town Council has asked us to step in and help – so you will find a ‘patrol’ job on the quest board. This is a bronze-ranked combat quest. For those of you who have an appropriate class and have reached at least level ten, please choose an open timeslot for your patrol duty. You will need to pair up using the buddy system, and it requires patrolling areas of town in and around the guild hall after curfew, preventing any nefarious activities and protecting the townsfolk from harm. The mayor has authorized a decent bonus for several hours of extra patrols each night.”
+
+Ah, yes, and crime, Ali thought. Especially in a town like Myrin’s Keep, she should have expected crime to be a problem – perhaps even worse than the Goblins themselves.
+
+“That is all for today, keep up the good work,” Vivian said, completing her announcements.
+
+Ali had to wait for the hubbub and bustle to calm down before she could reach the quest board.
+
+“How do you want to split this?” she asked.
+
+“How about Mato and Malika take this one, and you and I will take this district next to it?” Calen suggested, pointing to the map on the patrol job posting. “This way both groups have strong scouting and perception skills.”
+
+“Sounds good,” Malika said.
+
+It made sense to Ali too – Calen’s eyes were phenomenal, and Mato had tracking skills in his Wolf Form. She and Malika would take on a support role in each group, but it seemed like an effective approach. At least the area around the guild hall didn’t seem nearly as dangerous as most of the town she had walked through so far.
+
+“What should we do for the rest of the day?” Ali asked. Their patrol job was for later that evening, and she had nothing to do till then.
+
+“I want to take a scouting quest out in the forest,” Calen answered, pointing at a parchment pinned to the board with the official-looking stamp of the garrison. “It suits my skills, and it should help me finish paying off my new bow.”
+
+“I want to take a few errands in town, and then I might help Calen with his job,” Mato said.
+
+“I don’t have anything to do till later, I might train a little,” Malika said.
+
+“I want to plant some trees in the cavern,” Ali announced, deciding that it would be a waste to not take advantage of the broad swathe of cleared space down below to expand her domain – and she had an entire day with nothing better to do.
+
+“I’ll come with you,” Malika said. “I don’t need to train in town. And maybe I can keep you out of trouble.”
+
+Ali’s face fell at the reminder of her embarrassing experience earlier, putting herself in extreme danger.
+
+But Malika’s eyes were smiling even as she tried to hold a deadpan face. “Don’t be so hard on yourself Ali, it was a mistake. I’m just teasing.”
+
+“The buddy system is good anyway,” Calen pointed out.
+
+“Perhaps you can make some more Kobolds?” Mato suggested. “You’ll probably need them for the slimes and the patrol later.”
+
+“That’s a good idea. See you guys later,” Ali said and headed toward the doors with Malika.
+
+As soon as Calen had left the south road, the signs of the Goblin incursion became immediately apparent everywhere he went. Nests were pulled down from trees, their contents plundered. Every kind of edible plant had been ripped up from the ground. Discarded trash littered the forest and the remains of meals and poorly controlled campfires could be found everywhere if one simply looked.
+
+He ran silently through a recently deserted camp, flitting from shadow to shadow, wrinkling his nose at the characteristic Goblin stench emanating from the remains. He barely needed to slow down as the combination of his Explorer skill and Eyes of the Archon allowed him to easily make out the Goblin tracks at a distance.
+
+They can’t have gone far. He veered off down a game trail following the tracks and keeping a sharp eye out for any movement in the distance. Mato wasn’t too far away; he could occasionally see brief glimpses of the large shaggy wolf prowling among the trees.
+
+It hadn’t even been fifteen minutes of sprinting before he caught sight of the first Goblin Scavenger rooting about in the dirt. Quickly, he scanned the area for signs of more Goblins, but if there were any they were out of sight.
+
+Here goes, Calen thought, nocking an arrow, and carefully taking aim at the small green monster who was speculatively stuffing dirt in his mouth before spitting it out in disgust. He had been practicing his new skill control every opportunity he had, but there was a world of difference between an inanimate target and facing a real monster in the wild. The Scavenger hunched over checking a crude-looking trap. With the utmost care and focus, he trickled some mana into Arrows of Brilliance, carefully holding it back on the brink of completion. Within his mind, the magic vibrated, pulling against his intent, as if eager to release. He breathed out softly and held there in silent stillness, acutely aware of the steady thump of his heartbeat while he waited for the perfect moment.
+
+He released the bowstring. The fletchings buzzed as the arrow left his bow, flying between the trees on a dead-straight path to the unsuspecting Goblin. He held his magic until the last possible moment, and then suddenly released it. Light magic surged, appearing as a brilliant flash that wreathed his arrow, suddenly illuminating the surrounding trees and undergrowth at the instant it buried itself in the Goblin Scavenger’s chest.
+
+His chime sounded, and at the same moment, his Eclipse skill failed, releasing him from his stealth.
+
+You have defeated Scavenger – Goblin – level 1.
+
+Level one. Not exactly a challenge. With nobody observing him, Calen immediately vanished into the shadows, reactivating Eclipse before anything noticed his presence. Carefully, he crept over to examine the Goblin corpse, noting that the quest tracker on his guild ring had already updated to record the kill.
+
+A howl tore through the trees, and Calen’s head snapped up. That’s Mato! he thought, recognizing the pre-arranged signal. He’s found the rest of the Goblin scouting group.
+
+As he sprinted off in the direction of the sound, he wondered how Mato was managing the foul odor of Goblins with his sensitive wolf nose.
+
+Ali stood at the edge of her moss looking south, enjoying the soft, subtle caress of her domain mana on her arms and face. Most of the mud and water had already drained into the large lake to the far south of the cavern, leaving only the slowly drying devastation behind. Boulders dotted the landscape amid murky pools of draining floodwater and large piles of accumulated bones or wood that had been washed up into drifts against the massive ancient, blackened tree trunks.
+
+This had been her favorite spot to sit and read beside the Grove. The much greater flow of water released by her dangerous excavation had indeed recreated a smaller lake just where she remembered.
+
+It stinks. Ali wrinkled her nose. While it was in the right place, the lake was nothing like her happy memories. It was brown and green, and the stagnant water reeked. Within the murky depths, things stirred, leaving the surface feeling strangely alive – swirling and churning occasionally with no apparent rhyme or reason. She was certain it was full of those nasty-looking slime creatures, but the opaque water didn’t let her actually see anything – even her mana sight failed to reveal much more than swirling muddled colors.
+
+More importantly, for now, the entire southern expanse of the cavern seemed to have been swept clear, with none of the dungeon mana filling the area with its oppressive darkness. Bones were still strewn everywhere, but it seemed that the water had disrupted everything sufficiently to carve out a sizeable clear area.
+
+Easy for me to claim. Ali had no idea if the dungeon would try and reclaim the area, but she had to assume it was possible. Presumably, it had to somehow acquire the area in the first place. Does it use those crazy bone creatures? Ali wondered, recalling the enormous monsters of bone she and Mato had seen near the library, spraying liquid bone onto everything in sight. Or did it create the bone piles by making uncountable skeletons and sending them up here into the cavern? Now, if we could just get into the library…
+
+“I’m going to practice over here,” Malika said, breaking the silence. “Don’t do anything too crazy.”
+
+Ali grinned back at her. “I’m not about to undertake any new excavations. I think I’ll make some Kobolds to guard me first,” she said, earning an approving nod before Malika began to dance. Ali knew Malika was doing martial arts exercises, but her movement was so graceful that Ali would have happily watched her as if it were a performance.
+
+Ali pulled out her Grimoire and began to summon Kobolds. With a few quick calculations in her head, she decided how much mana she was willing to reserve for the minions she would use to guard herself. And for the patrol job. Not really knowing what she would be facing, she decided to be quite generous. She already had two Kobold rogues – the one that had run all the way home and the one she had made to demonstrate her Grimoire for the Guildmaster. But her friends were right, more minions would make her more powerful and more effective on her patrol duty later. Her mana flowed, and her Grimoire shone out as a powerful beacon of light in the dark cavern as Kobold after Kobold materialized before her.
+
+Rogue – Kobold – level 8-11 x4Warrior – Kobold – level 9-10 x2Your reserved mana has increased by +234.
+
+Ali paused her summoning when she had six Kobolds standing before her. Her Grimoire and its randomness had seen fit to give her two of the green-scaled warriors and two more of her stealthy rogues. While the mana reservation for the four new Kobolds was shockingly large, it was still below the amount she had budgeted for to remain effective with her other spells.
+
+One more should do it.
+
+She channeled her mana into the Grimoire imprint, focusing her mind on the image of a black-scaled rogue. She had no idea if she could influence the choice, but the rogue’s stealth skill would make the patrol job up in town easier.
+
+Soon enough, a Kobold materialized in front of her, but this time, something was very obviously different. She froze, heart thumping loudly in her ears as she stared into the glowing reptilian eyes set in the red-scaled face. A face that reminded her of the scent of brimstone and the deafening concussion of fire magic in tiny spaces.
+
+Mage – Kobold – level 15 (Fire)Grimoire of Summoning has reached level 11.Your reserved mana has increased by +113.
+
+“How may I serve, Ancient Mistress?”
+
+His voice sounded raspy and rough, like that of a voice damaged by decades of too much pipe smoking without sufficient healing.
+
+Ali gathered herself with a shake of her head, reminding herself that this was her minion and that he was not about to blast her with fire.
+
+“You will all guard me while I grow my domain,” Ali said, speaking in Draconic, and turned to the laborious job of creating armor and weapons for her new minions. By the time she was done, she had a small pile of discarded crude daggers, unused tattered robes, and a worthless plate pauldron sized for a Bugbear that her Grimoire had decided on a whim to make instead of the items she needed. But Ali didn’t mind much – she had a fully equipped Kobold guard, and she was really excited – and even a little nervous – to see what the Fire Mage would be capable of.
+
+Maybe I can use them to help clean up some of this mess?
+
+Your proficiency with the Draconic language has improved.
+
+It was a lot of mana reserved – at level fifteen, her Fire Mage had cost more than she had anticipated – but, by her calculations, she should still be able to summon any of her trees with the remainder, and she could always deconstruct debris to recharge her mana pool. Finally ready, she gave her Kobolds free rein to kill any monsters they found and began to grow her domain across the stream, planting trees and patches of moss and mushrooms fanning out quickly from her small outpost around the shrine into the freshly cleared space. Every time she created one of the Deathcap or Amanita mushrooms, she deconstructed it or gave it to one of her rogues, so that their mana wouldn’t impede the growth of her domain.
+
+Her domain extended easily across the rushing stream, carried by the huge range of her trees. As it grew, toxic slimes began emerging from the water in twos and threes, presumably drawn by the dense mana she was emitting into the area. Ali ignored them, continuing her labor with her Grimoire to the backdrop of detonations and flashes of fire magic, and the chirping calls of her Kobolds on the hunt. Soon the air filled with a smoky haze and the acrid stench of sulfur.
+
+As a result, Ali seldom needed to search for suitable material to deconstruct. Instead, she simply deconstructed the steady stream of slime corpses that her Kobolds left for her and any piles of bone or wood in her way. While the level-one monster corpses didn’t provide a substantial amount of mana, there were more than enough to keep her working continuously.
+
+Imprint: Toxic Slime completed.
+
+Great, now I can just slime the Goblins all around town. Ali quickly committed the imprint to her empty chapter and continued planting, hoping to reach the far lake shore by the evening.
+
+***
+
+“Wow, you’ve been busy!”
+
+Ali looked up at the sound of Mato’s curiosity to find all three of her friends standing nearby surveying her work. She was close enough to the lake that her domain was beginning to draw slimes from there, too. Would that help restore the water? She hoped so.
+
+“It’s time to head up,” Calen said. “Our patrol job is soon.”
+
+“Ok,” Ali answered, hiding the rising disappointment that she hadn’t quite reached her goal. I’ll finish it later. Is it really evening already?
+
+“You guys stay here and guard my trees and moss,” Ali told her warriors. “The rest of you come with me.”
+
+“You don’t want to bring them all?” Calen asked curiously.
+
+“I can’t hide the warriors in town,” Ali answered, pursing her lips. “The townsfolk are probably already scared of Goblins, right? I’m guessing a horde of armed Kobolds won’t be very welcome.”
+
+“That’s probably true…” Calen said.
+
+“Wait, is that a Fire Mage?” Mato exclaimed.
+
+“Yes!” Ali answered. “My Grimoire just made it at random.” It had only ever produced one so far, so she couldn’t tell if it was rare because she had only deconstructed a few, or if it was due to the far higher level. Or maybe the class itself is uncommon or rare?
+
+“You should bring the Fire Mage on patrol,” Malika said firmly. “It will be safer for you.”
+
+“I agree. You can probably get away with it by telling anyone you meet that it’s a minion,” Calen suggested. “And it’s not that scary-looking.”
+
+“Ok,” Ali said. She would have to trust her friends on this one. She tried, but for the life of her, she couldn’t imagine what the deadly Kobold might look like to someone who had never seen it flinging devastating Fireballs around a dungeon.
+
+They checked in at the guild before splitting up into their assigned areas. Ali and Calen set off to walk through a quiet section of the town to the west of the guildhall that included a few main streets and a lot of twisting alleyways. There were quite a few merchant shops in their area, but everyone seemed to be off the streets now that it was dark, hiding behind barred and locked doors.
+
+I probably look lost, Ali thought as she turned down a side street in the darkness of the night. Or like bait. The moon poked out from behind some clouds, bathing the street in a little tentative moonlight. For anyone observing them, they would see Ali and her robed mage walking through the alleys by themselves to the soft clicking of the Kobold’s talons. But Calen, with his uncanny vision and stealth, trailed her along the rooftops in and out of the shadows. She knew he had her back. And she had four Kobold rogues hidden from sight nearby. Even in the dark of the notorious streets of Myrin’s Keep, she felt safe.

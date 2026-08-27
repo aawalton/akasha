@@ -1,0 +1,227 @@
+---
+id: f103c5a8-340e-51b1-aa5f-d45a14fcc2a0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 101: The Wanderer"
+slug: 0102-chapter-101-the-wanderer
+partOf: dungeon-of-knowledge-complete
+position: 102
+ownLength: 4543
+unit: words
+ownProgress: 4543
+publishedAt: 2024-07-21
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1726413/chapter-101-the-wanderer"
+royalRoadId: "1726413"
+markedReadAt: "2026-06-29T20:14:24.900Z"
+---
+
+Calen scanned the dense undergrowth, automatically keeping an eye on the jungle and the obvious threats lurking just out of sight. The air was filled with shrieks, howls, and the crash of battling monsters that percolated through the tangled trees. It had not taken more than a few minutes of hiking through this jungle for them to run into the Radiant Brawlers.
+
+“We need to be more careful,” he said, as everyone finished recovering their mana.
+
+“Yes,” Malika said, nodding emphatically.
+
+Calen was just grateful that Malika had a haste skill – even with his high dexterity and advanced perception, he had still struggled to even track the fight with the brawlers, let alone hit one of them consistently. Perhaps if his arrows were faster, he might have stood a better chance. His mind ran through options relentlessly. Pin them down somehow? Trap them? How best to use Ali’s barriers? Tease them out with an arrow up the snout? Although they don’t even have snouts, he thought, considering the featureless alien faces that contained nothing more than an oversized mouth with endless rows of teeth.
+
+For the sheer volume and range of monster noises he could hear, he would have expected to pick up something a little closer to their resting point. They had just had a battle here – and a noisy one at that – and he would have expected that after their twenty-minute rest, at least some creatures would have returned. But it was as if they sat in the eye of the storm – dead quiet nearby, but beyond hearing range, chaos and violence reigned supreme. It was as if something was watching. The hair down the back of his neck and arms prickled uneasily.
+
+He glanced about, but all he could see were more dense trees with heavily laden boughs stooping toward the ground under their load of moss and vines.
+
+What is that? He scanned the trees intently, but he couldn’t shake the unease and the sense of something lurking just beyond his senses.
+
+“Let’s continue,” Malika announced, getting up.
+
+“I’m ready,” Ali said, gathering her minions into some semblance of a marching order.
+
+Must be my imagination, Calen decided, dismissing his worries. Once they got moving, he would be back to scouting and he would easily be able to answer his questions. He stood. But as he did, something caught his attention, a flash of white seen from the corner of his eye.
+
+He snapped his head to see. Deep among the trees, he caught a glimpse of a woman vanishing among the broad trunks. A broad-rimmed white hat was pulled low to conceal her face, and the ripple of a white cloak trailed in her wake, both contrasting with the practical leathers she wore on her tall, lean frame. She moved like the barest whisper of a breeze through the foliage, her skill and jungle-craft supreme.
+
+Is that… His heart began to race in his excitement. He had read of the legends of the elusive realm-walker, the patron deity of trackers, and hunters. A being so rare, most people dismissed her as a myth – a story told and retold till people somehow began to believe it might be true.
+
+Fuck, he thought as he realized he hadn’t been quick enough with Explorer to identify her and make sure.
+
+“Who was that?” Ali asked. “She had a very unusual mana signature.”
+
+“You saw her too?” Calen had been half-convinced she was a figment of his imagination, conjured from tiredness after the battle, mixed in with a large helping of muggy humidity and wishful thinking.
+
+“White cape, fancy hat,” Ali confirmed.
+
+“I think that was the legendary Wanderer – uh, Demi-god and realm-walker. The patron deity of trackers and hunters. According to the stories, she is very selective about her followers, appearing to them at random, and setting a test to see if they are worthy of her patronage,” Calen said, quoting from the passages he had memorized in his youth.
+
+“Really?” Ali asked, surprised.
+
+“Yes, I used to dream of meeting her one day, but…” he trailed off as he recalled some of his more youthful dreams. He had read the story one day and spent the next several weeks searching everywhere for her. He remembered being mocked for it pretty severely.
+
+“And then?”
+
+“I grew up, I guess? It was just a story.”
+
+“And we both saw her?”
+
+“Yes?”
+
+Ali pursed her lips prettily, but he still felt the sass radiating off her. “Why are you still here?”
+
+“What do you mean?”
+
+“Clearly, whoever it was was real. If it really is this wanderer person from your story, the only one of us she would be interested in is you. Shouldn’t you be off… finding her?”
+
+“I…” Ali’s words left him stunned and speechless. It had just never occurred to him to believe it. Yet, both of them had seen the woman, and the hat and cloak were exactly as described in the stories. So was the appearance at random in an unexplored territory. A chill ran down his spine as fiction shimmered into reality. It has to be a trick, right? A lure set by one of these monsters? But what I sensed… no. Ali’s right, this is real and I need to get a grip.
+
+Yet he stood there, frozen in indecision.
+
+“We’ll wait for you,” Malika said, joining the discussion.
+
+“Just be careful, ok?” Mato added. “The jungle is dangerous.”
+
+“Um… uh… you’re all ok with this?” he stammered.
+
+“You have stealth and you’re fast,” Ali said. “I’d send some minions with you, but I doubt I have anything that can keep up.”
+
+“Ok… ok!” he said. “I’ll be back… soon.” He dove into the jungle, sprinting in the direction the woman had left. I just hope I didn’t leave it too long.
+
+While his mind still grappled with the absurdity of the encounter, suddenly finding himself alone in the raucous humid jungle triggered his instincts. Automatically, he activated both Eclipse and Explorer to conceal his movement and presence from ears or eyes as he slipped through the undergrowth without leaving even the slightest trace of his passing. Channeling a little stamina, he augmented his sight with his tracking senses and began scouring the dirt for signs of her passage.
+
+As soon as his Explorer tracking skill activated, his sharp eyes began to pick out the signs. There was nothing as obvious as an actual footprint, but a snapped twig on a bush, and a freshly overturned stone in the grass stood out as obviously as a written signpost. It was almost as if she wanted him to find her trail – yes. She wouldn’t be this careless. He sprinted onward, careful to keep his eyes on his surroundings and not just searching for tracks. He was alone in an unexplored jungle full of unknown monsters, after all, and he wasn’t about to forget that.
+
+The trail took him to a small clearing, and he took a moment to survey it from cover before rushing in. His skin prickled and he felt the tiny drops of sweat trickling down his back in the overly humid air. The dank stench of unnatural growth pressed in on him like a heavy, wet blanket. The trail continued, clear to his enhanced perception, continuing right through the center of the clearing and out through the other side.
+
+But in the center of the clearing stood another monster of wood and bark – a Forest Guardian – surprisingly well camouflaged against the jungle’s verdant backdrop of green and brown. His sharp eyes caught the wheeling shape of a Poison Wyvern circling above, searching for prey.
+
+He immediately Identified the Guardian.
+
+Forest Guardian – Wood Elemental – level 43[Explorer]An enormous nature affinity elemental.Category: MonsterThreat Level: EliteMonster Type: ElementalDamage: Melee, Physical, Nature, HealingKnown Vulnerabilities: Fire
+
+That’s a high level!
+
+Calen snuck into the clearing, quiet and invisible to all but the most powerful perception skills. Quick as lightning, he rushed across the open grass, giving the enormous elemental a wide berth, lest its aura skills serve as a different mode of magical perception, relying heavily on Eclipse to keep him invisible to the wyverns flying overhead. He was sweating, and his heart pounded in his throat as he passed the elemental from a distance of less than thirty feet. This close, the monster was truly intimidating, standing taller at the shoulder than his full height, with a weight and bulk that dwarfed his own.
+
+But his skills miraculously kept him from being noticed, and a rush of relief surged through him as he returned to the tracks and left the monster behind, entering the relative safety and concealment of the dense jungle. He followed the trail carefully, at times losing it, but always picking it up again after a quick search in the nearby area.
+
+A flash of bright blue-white light from up ahead warned him of danger before he stumbled into the Radiant Brawler.
+
+Radiant Brawler – Elemental – level 36[Explorer]A bulky quadruped elemental of light affinity.Category: MonsterThreat Level: EliteMonster Type: ElementalDamage: Melee, Physical, LightKnown Abilities: Haste, Teleport
+
+There was only one, rooting around and uprooting bushes with broad jaws filled with far too many teeth, but Calen was by himself, and without Malika, he stood no chance. He paused. Again, the trail led him right past the elemental of light, but this time he felt the prickle of uncertainty crawling down his back. The monster had neither eyes nor ears, just a mouth, and those strange tentacles that could shoot powerful beams of light were waving in the air as if sampling it somehow.
+
+He had Eclipse, which made him virtually invisible. And Explorer allowed him to move silently. But not all monsters relied on vision or sound. Against something with more exotic forms of perception, he would be effectively unprotected and if anything had alternate perception skills, it would be this thing.
+
+Carefully, he judged where the trail led, and then began to circle around, giving the monster a wide berth. As he came within thirty yards of the monster, all four tentacles whipped sideways suddenly as the monster turned with a roar. Without hesitation, the shining elemental rippled and shimmered across the damp ground leaving a trail of afterimages in its wake.
+
+Crap! Calen bolted, dropping both his Eclipse and the silent movement from his Explorer skill as he sprinted off, dodging trees and hurdling bushes with low, skimming leaps. Entirely too close behind him, he could hear the terrifying ripping snap of trees and branches being broken, and the vibration of the heavy monster’s bulk as it charged toward him. Calen had no illusions about being able to outrun a hasted monster. His wings sprouted from his back, and he shot up into the air. Aiming for a gap in the canopy, he twisted, spinning to the side, barely avoiding a lancing beam of light that tore through the tree branches, sending many of them plummeting to the ground below.
+
+In a rush of leaves and snapped twigs, he burst from the treetops, soaring out above the canopy, suspended above the strangely lit jungle and the darkness of the cavern and presumably the ruins of the suspended city above. He breathed a sigh of relief, but it was short-lived.
+
+With a roar, the hunting wyvern – or one just like it – dove toward him and his incandescent wings, which he belatedly realized had been a bright, waving invitation to the local predator population. He swerved to the side, barely avoiding the spray of poison and the raking claws, and then he shot off as fast as his wings would take him. He was the intruder here, and the wyvern was hunting in his home territory. In just a few seconds, Calen was dodging again, spiraling to his left and diving recklessly toward the canopy. This time the monster was closer, and his back burned in the wake of the raking claws that ripped through his leather armor, slicing gashes in his flesh.
+
+With a frantic desperation, he turned his dive into a barely controlled plummet, pulling up only at the last moment to avoid being dashed on the tree branches, and then he zigzagged down through the trees, finally alighting on the ground once again, panting, with the warm sensation of his own blood and sweat running down his back.
+
+Brilliant idea, Calen. Let’s not do that again!
+
+As he broke the line of sight to the wyvern under the canopy, he activated Eclipse and crouched behind a massive oak, scanning through the leafy branches for any sign of his pursuer. He huddled for a while, pressed up against the tree trunk and breathing heavily. After a few moments, when nothing came crashing through with claws and teeth intent on eating him, he emerged from his cover and looked around. There was no sign of the brawler, nor the wyvern. Nor could he see any of the tracks he had been following.
+
+This is stupid. He had just almost been eaten by two different monsters while running around alone in a dangerous jungle, chasing the elusive wisps of a fable – the hope of a childhood story. He didn’t even know if what he had seen was actually the Wanderer. For all he knew it could be an illusion created by a monster to lure him in and trap him.
+
+I lost the trail… but I’m alive. He tried to shake the worming claws of disappointment clutching at his heart. Carefully he reviewed his situation in his mind, visualizing the forest, and the path he had taken, mapping it all out carefully. If he was right, he had encountered the brawler several hundred yards to his left. He wasn’t about to go poke it with a stick or anything that ridiculous, but the reference point was also where he had last had the trail.
+
+I should go back. But he would have to go quite far out of his way to avoid another encounter with the Radiant Brawler, and he would only risk flying above the canopy if he had no other choice. She probably went that way, he thought, his mind helpfully conjuring the trajectory of the trail he had been following on his mental map. He wrestled with his options for a few long minutes.
+
+This is not helping, he thought. He needed to either press on or go back. And the smarter choice was to go back and give up on this dangerous wild-goose chase. But…
+
+His curiosity was like a force of nature pulling him onward. It’s not that far out of my way… I might just cross her trail again.
+
+Considering the directions carefully, he headed off toward where the trail might have gone, spending the mana and stamina to keep himself concealed. He crept through the jungle, relying heavily on his enhanced eyesight to search for signs of the lost trail. It took about twenty minutes and backtracking a few times to cover more ground before he finally saw it. Bent grass in a slight depression that was clearly the outline of a footprint. He had misjudged the trail slightly, but now that he had a reference point and also a direction, he ranged outward, searching for connecting signs that would confirm the trail.
+
+He knelt in the shade of a massive tree and picked up an acorn that had been pushed into the earth by something with weight. There were no other signs of footprints nearby, but something had stepped on the acorn.
+
+Suddenly sensing eyes on him, he looked up and found her sitting calmly on a branch, high above the trail. Her wide-brimmed hat shaded her face so completely that even his enhanced perception could not penetrate it to make out her features. But he knew she was studying him – ignoring his stealth skill. Immediately he activated Explorer, keen on identifying her before she vanished again, but to his surprise, his skill failed to activate. It was as if she wasn’t really there. Slowly, he got to his feet, dropping the acorn, and he bowed his head respectfully toward the being, still not certain if she was real – the deity from his stories – or a figment of his imagination, an illusion sent to confuse him.
+
+As his eyes came up once more, she dropped from the branch, her white cloak trailing behind her as she fell. But before she hit the ground, she vanished like the mist in a morning breeze. He rushed forward and when he reached the spot, all he found were signs that the trail continued onward.
+
+I guess I keep following? The mysterious person may be toying with him, but the trail before him seemed clear, so he pressed onward. A few minutes later, he emerged from the dense undergrowth into a second clearing. The trail led once again right to its center, but this time there was no monster waiting for him, just a small stone construction that looked a little like a shrine, just made from plain granite.
+
+Cautiously he approached, but nothing flew out of the sky to eat him, nor burst from the concealment of the grasses with a roar. In fact, the clearing was quiet, not even a breeze disturbing the grass.
+
+Shrine of the WandererA simple shrine to commemorate all who yearn to explore.Mana: Make an offeringShrine – Artifact
+
+There was nothing else besides the mysterious stone shrine. Even the trail led right up to the shrine, but there it ended. Calen examined it carefully, but it seemed to be a simple construction of stone, about waist high. The only interesting feature was the hollow depression in the flat top and the offering function. That and the fact that, inexplicably, Explorer was able to identify it.
+
+He puzzled over the simple statement ‘make an offering’ for a while, but then he recalled a scene from one of his childhood stories. Reaching into his storage ring, he retrieved one of the gold Dal’mohran coins from his rapidly shrinking share of the treasure they had discovered in the ruined vault. He turned it over the backs of his fingers, watching the gold flash in the light as he rolled it over and over. He flipped it high into the air, and as it came down to land in the hollow depression of the shrine, he gave the shrine some of his mana. Before the coin even reached the stone, it vanished, leaving behind a rapidly fading sparkle of light.
+
+The Wanderer offers her patronage.Godly Patronage – The WandererTraits: Tracking, Dexterity, Deity, Stealth, Explorer, Perception, Discovery, Movement, LuckReputation gained enhances the reputation of the Wanderer. As your patron’s reputation grows, boons and enhancements may increase.Minor enhancement to Movement and Perception skills in uncharted or forgotten places.Mana: Offer an item of value as a request for the insights of the Wanderer.Enchantment – TitheAccept this patronage?
+
+Calen felt an inner shift as he accepted even before his notification sounded. Like something gently settling within the very core of his being, changing something profoundly fundamental, yet remarkably subtle. It was a gentle touch, leaving who he was entirely unchanged, and yet he felt somehow… more.
+
+Patron deity has been updated.
+
+But his notification chime continued to sound, as if intent on celebrating his achievement.
+
+Archer of Light has reached level 33.+10 attribute points.Explorer has reached level 20 (+2).Eclipse has reached level 16.Eyes of the Archon has reached level 18 (+2).Azrael's Wings has reached level 3 (+2).Cartography has reached level 9.
+
+I got a class level? He stared at the glowing lines of text in surprise. There had been no monster battles, and nothing killed, but the trial had been difficult and challenged his skills and tracking ability, and his sense of direction and stealth too. It seemed that was enough in alignment with his class that he had gained experience for it.
+
+He had even gained a level in Cartography without drawing a map. That must have been when I lost the trail. He hadn’t drawn the map physically, but it had been clearly present in his mind. He had already charted out how he would spend his points, so he assigned them quickly: three to dexterity, two each to wisdom and vitality, and one each to endurance, perception, and intelligence. It was roughly how important every attribute was to his build.
+
+His notification chime echoed in his mind yet again. Huh? What now? He read curiously.
+
+Requirements met for skill advancement.Explorer has reached at least level 20.Patron deity: The Wanderer.Passed the trial of the Wanderer.Explorer gains Sense Prey.Explorer – level 20You have enhanced spatial perception and perfect recall for places you have explored. You can discern important details about the places you are exploring and the creatures that inhabit them.Stamina: Use your enhanced perception to track your prey.Stamina: Move without leaving traces or making sound.Mana: If you focus, you can sense the direction of a recently observed prey or target.Knowledge, Movement, Stealth, Tracking, PerceptionAccept this advancement?
+
+Just the fact of his passing the tracking trial the Wanderer had set for him, and the acceptance of her patronage, had already begun to influence the direction of his growth. Immediately, he was offered a tracking advancement.
+
+And it looks really good. Calen admonished himself, concerned that his doubts may be interpreted as ingratitude. The skill advancement didn’t give much insight into how long ‘recently’ referred to, but it seemed that he would be able to track things that he couldn’t otherwise sense. Several times during his trial he had lost track of his quarry, and it took time to reacquire the trail. This new skill meant that, barring magical concealment, he wouldn’t be able to lose a trail.
+
+He accepted the advance, and immediately tested it.
+
+He used the new skill, spending a little mana, and focusing on Ali. Instantly, he had an uncanny sense of precisely which direction she was from where he stood. He could point exactly to her through the intervening dense jungle. He had been out tracking for a little over an hour now, and this little test told him that was still within the appropriate range of time for his new skill to work. He tried it again on Mato and Malika, confirming that it worked just as well. Then he tried it with his mother as the focus, finding that even though he had last seen her almost a day ago, he could unerringly point in her direction. The Guildmaster, however, was indistinct and difficult to pinpoint. I last saw her about two days ago.
+
+So, about a day? His testing would need to be tightened up before he was satisfied, but for now, he was happy to know the approximate range of time was well beyond what he had hoped for.
+
+On a whim, he focused on the woman with the white hat and cloak. What came back was confusing. He could sense the skill working, but the sense of her direction was somewhere his mind couldn’t understand. It was a specific direction – but nowhere he could point to. It was weirdly disorienting, but he chalked it up to normal for what he had experienced so far from her.
+
+As he stood, the stone shrine shimmered and vanished, leaving an unblemished carpet of grass behind, as if it had never existed.
+
+Focusing on his friends, he set out to return.
+
+“We shouldn’t have let him go by himself,” Ali said as the Poison Wyvern faltered under the onslaught of lightning and fire magic and began to spiral down toward the ground trailing a dark cloud of smoke.
+
+“He’s going to be fine,” Malika said, but Ali could tell she was just as worried as she was.
+
+“How do you know?”
+
+“Of all of us, he has the most escape skills. He can fly, he can run fast, he has stealth and silent movement. And, failing all that, he still has the recall potion,” Malika said. “We have to trust him.”
+
+“But it’s been so long…” It had been over an hour. Several monsters had interrupted their camp, but nothing they couldn’t handle among the three of them. This latest Poison Wyvern was probably the biggest threat that had appeared since his departure, and her mages and shamans had made short work of it. She had been the one to suggest Calen pursue his dream, but now she was having serious second thoughts. What if I sent him to his death?
+
+“We would just have slowed him down,” Mato said, shifting back to Beastkin.
+
+“Ok,” Ali said, sighing heavily. She walked over to the smoking corpse of the wyvern.
+
+“Hey, can you hold off on deconstructing that one?” Mato asked.
+
+“Why?” Ali asked, looking up in surprise.
+
+“I’m hungry,” Mato said, rubbing his belly. “How do wyvern skewers sound?”
+
+“You’re always hungry,” Ali groused, but Mato being Mato chased some of the worries into the corner of her mind. She grinned at him to show she wasn’t that upset. “Got some new spices you’re planning to test on us?”
+
+He grinned, “Would I?”
+
+“You got it, didn’t you?” Mato said as soon as Calen walked into camp. Unsurprisingly his friend was confident in his guess, and equally unsurprisingly, he was cooking something that filled the air with a delicious aroma. One way to attract all the local predators, he supposed!
+
+“I did,” he answered and then shared the patronage notification with them. Before they could swamp him in questions, he told the entire tale from beginning to end, with all of them listening raptly to what had transpired.
+
+“Wow, a deity patronage!” Ali exclaimed.
+
+“Congratulations,” Malika said.
+
+“I knew you had it in you,” Mato said, pumping a fist in the air and then handing him another skewer from the cookfire.
+
+“Thanks guys,” he said, blushing just a little, and then his chime sounded with something new.
+
+Your actions have increased the reputation of your patron.You have gained the Blessing of the Wanderer+1 to Perception and Tracking skills.Blessing – Duration: 1 day.
+
+Oh, this is nice!
+
+***
+
+Name: Calen AveryRace: Half-ElfActive Buffs: Blessing of the Dawn, Blessing of the WandererClass: Archer of Light – level 33- Radiant Archery – level 21- Arrows of Brilliance – level 24- Motes of Light – level 12- Explorer – level 22 (+2) - Blessing of the Dawn – level 16- Eclipse – level 16- Eyes of the Archon – level 19 (+1) - Righteous Fury – level 9- Azrael's Wings – level 3- [Locked]General Skills- Bowcraft – level 7- Wood Carving – level 3- Cartography – level 9Aptitudes- Languages: Common- Mana (Affinity): Light- Perceptive (Racial): +11 to Perception- Quick (Racial): +5 to Dexterity- Timing (Class): You have an innate sense of timingPatrons & Tithes- Deity: The WandererAttributes- Vitality: 39- Strength: 9- Endurance: 25- Dexterity: 213 (+91) - Perception: 149 (+58) - Intelligence: 141 (+55) - Wisdom: 44Equipment- Weapon: Hunter's Bow – level 10- Body: Leather Armor – level 20- Hands: Bracers of Accuracy – level 10- Feet: Simple Boots of Swiftness – level 15- Ring: Silver Guild Ring – level 30Evasion: 240Dodge: 20.61%+5% to Accuracy rating.+5% to Movement speed.Health: 390/390Stamina: 250/250Mana: 352/440 (88 Reserved)

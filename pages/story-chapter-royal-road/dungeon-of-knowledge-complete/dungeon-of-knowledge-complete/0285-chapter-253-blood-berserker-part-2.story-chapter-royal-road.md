@@ -1,0 +1,133 @@
+---
+id: f0663734-2e05-595e-a3de-d4d42c128368
+page-type-slug: story-chapter-royal-road
+title: "Chapter 253: Blood Berserker (Part 2)"
+slug: 0285-chapter-253-blood-berserker-part-2
+partOf: dungeon-of-knowledge-complete
+position: 285
+ownLength: 2112
+unit: words
+ownProgress: 2112
+publishedAt: 2025-05-19
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2290526/chapter-253-blood-berserker-part-2"
+royalRoadId: "2290526"
+markedReadAt: "2026-06-29T20:20:53.770Z"
+---
+
+Even though she had just learned to make them, Ali felt a surge of pride at how powerful her giant troll was. She knew she was being silly, but he was her summon, and he was awesome.
+
+She found a few familiar-looking skills on the Blood Berserker skill list, and she quickly scanned them to confirm they were the same – Blood Manipulation and Scent of Blood were identical to her Blood Shaman’s skills, although, she easily noticed that the berserker’s scent skill wasn’t quite as acute as the shaman’s. Lower skill level perhaps?
+
+Ancestral Spirit Runes was the familiar bloodline skill shared by all her trolls. For the Blood Berserker, it enhanced vitality, strength, and endurance, and it was scaled with strength, meaning that he reserved stamina to power it. This left the berserker with his entire health pool to cast magic – a rather fundamental contrast to the Blood Shaman which used a health reservation.
+
+Crimson runes covered the giant troll’s chest and back, extending across his broad shoulders and down his massive biceps, an intricate construct of glowing blood-affinity magic to power his ancestral bloodline skill.
+
+Ali opened the detailed description of the first skill – Blood Rage – and simply shared it, too stunned to comment.
+
+Blood Rage – level 56Requires: Blood Manipulation.Loss of health inflames your blood with power and rage. The more you are hurt, the more your rage takes over to destroy everything around you. For each point of health lost, your Physical and Blood damage is increased by +1.12% [skill / 50].Whenever you take damage, your rage increase has a chance to dispel any movement-impairing effects.Blood, Melee, Mastery, Strength
+
+Mato simply made a low whistle.
+
+“That’s a lot of damage…” Malika seemed equally shocked. Indeed, by the time the berserker was almost dead, it would be attacking for an unbelievable amount of damage.
+
+“That explains why Last Stand is so devastating,” Calen observed, “He can lose more than his maximum life total due to the temporary health.”
+
+Ali suddenly saw what he was referring to. Last Stand gave a temporary increase to maximum health – but the berserker rage calculation was based entirely on the absolute amount of health lost.
+
+“At least we now know why the Frog Hex and the Spirit Banishment don’t work on these guys,” she said, putting down the monstrous damage increase. She had been burning with curiosity to find out why her witch doctor curses lasted less than a second before being dispelled; she had been convinced that the mere difference in class levels could not have accounted for the sheer unstoppable relentlessness of the giant trolls they had faced.
+
+“The hex probably breaks on the self-bleeds too,” Mato pointed out. “They’re continually taking damage even if you don’t hit them – very effective with their crazy regeneration.”
+
+“Here’s his main attack skill,” Ali said, sharing Blood-soaked Slash.
+
+Blood-Soaked Slash – level 48Requires: Blood Manipulation, Slashing weapon.Stamina: Melee slashing strike with either hand. Does weapon damage +1326% [skill + strength].Stamina: Horizontal slashing cleave, attacking all targets immediately in front of you. Weapon damage +2604% [skill + strength x 2]. Recharge: 30 seconds. Health: Infuse your weapon with blood to do additional blood magic damage on hit. Your weapon will soak up the blood of your enemies, further enhancing the enchantment. Channeled.Blood, Physical, Melee, Channeled, Strength
+
+“That seems about right,” Mato said. “And this is the self-bleed I was talking about. He makes his arms bleed, and his axes absorb the blood for more power.”
+
+“How do you even survive that?” Malika asked, sounding incredulous.
+
+“Lots of armor?” Mato said, making it sound a little like a question. “Though I think I need to talk to Thuli when we get back, this thing has a lot more armor than me.”
+
+“Even so, that’s ridiculous combined with the rage skill,” Malika said.
+
+“Last Stand boosts my health by seventy-two percent, and my armor by sixty-one percent,” Mato said. “Even with all that, I don’t think I could survive a single hit near the end.”
+
+Calen stopped writing and glanced at Mato, but didn’t say anything, so Ali continued.
+
+“He has two movement skills; Leap and Blood Vortex.” Ali didn’t need to read the skills to know which was which. The flying troll and the maelstrom of blood and axes were both terrifyingly memorable attacks.
+
+Leap – level 30Stamina: Leap through the air and land with a powerful weapon strike on all monsters in melee range. Your leap uses your weapons and momentum to smash the ground doing a short-range area attack. Range: 10 meters.Physical, Melee, Movement, Area, StrengthBlood Vortex – level 42Requires: Blood ManipulationHealth: Create a vortex of blood blades around you as you spin through the battlefield slashing everything in your path with weapons and blood. You are immune to movement-impairing effects while using Blood Vortex. Recharge: 30 seconds Blood, Physical, Melee, Movement, Area, Channeled, Strength
+
+“Also, a second way to be unstoppable,” Calen observed after reading for a few moments, clearly referencing the last part of Blood Vortex.
+
+Still in awe, Ali read on.
+
+Overwhelming Power – level 38You are proficient at dual-wielding and can use large or two-handed weapons in either hand. The narrative has been illicitly obtained; should you discover it on Amazon, report the violation.When wielding large weapons, you have a chance to apply critical damage on both a crushing blow [strength] and a critical strike [dexterity].Against targets less than one-third of your weight, your strikes have a chance of causing knockback.Physical, Melee, Mastery, StrengthMonstrous Armor – level 38Your natural toughness increases your armor by +2544 [class x 12 + skill x 12 + endurance].All armor is increased by +38% [skill].Physical, Defense, Endurance
+
+“His final skill is the same as yours, Mato,” Ali said. “Except he has an additional healing advancement.”
+
+Last Stand – level 25Last Stand is triggered automatically when your health drops below 5%.Stamina: Gain +131.8% [skill + endurance / 10] armor, additional temporary maximum health, and improved healing received. Duration: 30 seconds. Recharge: 15 minutes.Physical, Defense, Endurance
+
+“I need to level my Last Stand,” Mato said in response. “Improved healing received is impressive. I assume that’s the next advancement?”
+
+“Looks like it,” Calen answered.
+
+“That’s a monstrous summon Ali,” Malika said after they had all finished reading through its abilities. “We’re just going to have to be careful around them when they get low.”
+
+“You can just heal them if they get out of control,” Mato answered. “That’s what my mom does for my dad.”
+
+Ali recalled that Mato’s dad was a berserker class and that his mother was a druidic healer – a practical combination. But she was distracted by some mana calculations she was doing in her head.
+
+“I think I can make two,” Ali finally concluded, producing her Grimoire again.
+
+Calen whistled. “Now you’re just showing off.”
+
+***
+
+Ali arranged her forces as they approached the clearing. Like the previous one, it had been cleared of undergrowth and trees, and small huts had been erected in a roughly circular arrangement around a Grim Totem. The troll camps were getting bigger and bigger as they approached the peak, but this time, Ali viewed the upcoming battle with anticipation.
+
+Having had most of her army wiped out in the last fight, she had taken time to rethink her forces, reducing the number of minions, but pushing her Grimoire to create the highest-level variants she knew. It was rough on her mana pool, but she knew it would make a big difference in combat.
+
+“Starting,” Calen said, warning them before vanishing into the shadows. A sudden crack accompanied a brilliant flash of light among the trolls around the huts and to Ali’s surprise, a Bone Warrior collapsed in a heap, causing her chime to sound.
+
+Did he kill it just like that? But she didn’t have enough time to dwell on the incredible achievement as the whole camp erupted into shouts, flying magic, and angrily brandished weapons as the trolls scrambled to retaliate.
+
+Mato charged, smashing into the single giant troll berserker, easily visible stomping through huts and making the ground shake.
+
+“Go.” At her command, her two berserker trolls – a male and a female – leapt into the fray, landing with crashing destruction among the enemy trolls. Ali directed the female berserker to help Mato, and the male one to kill whatever Malika chose as a target. All the rest of her minions charged, following Malika into the camp.
+
+The moment he landed, her berserker swung his greataxes, swatting trolls left and right. Every thump or crash was answered by a spray of blood, and the hapless dungeon trolls crashed through huts, cartwheeled head-over-heels from the impact, or even landed up in the trees. Ali focused her awareness, keeping a strong connection with both the berserkers. She had anticipated that controlling them in battle would get harder as their rage grew, and she could already tell they were getting unruly, just from the bleeds that were feeding their weapon skills.
+
+“Maximum damage!” Calen said, unleashing his brilliant Righteous Fury.
+
+“Bloodlust,” Ali commanded, responding immediately to the prearranged signal Calen had given. The crimson eruption filled her nostrils with the stench of blood and power, and she could feel the magic being drawn toward her berserkers as their potent blood magic resonated with that of her shaman.
+
+She gasped, almost losing control of her berserkers as the surge of blood set their adrenaline pumping, fueling their already-feral desire for battle. With a firm command, she kept them focused on the right targets and watched the phenomenal power of bloodlusted berserkers tearing the entire camp to shreds in seconds. After using his Blood Vortex, and finding no enemy trolls left in the now-flattened ruins of their camp, her male berserker leapt after a still-flying troll warrior, taking it and the tree he landed in down with his enormous mass and the power of his cleaving axes. All Ali could see was a spray of blood and splinters as the tree exploded from his fury.
+
+She tightened her control, making sure her female berserker stayed on target. She was taking significantly more damage, standing near the enemy berserker. Every time it cleaved with its axes, it hit her and Mato simultaneously – and her berserker had no magical resistance, so the enemy Blood Vortex made her health dip rapidly.
+
+As the rest of her minions finished cleaning up the remainder of the trolls, she directed her shamans to join the battle around Mato.
+
+“Heal her,” she commanded. Her shamans channeled their Blood Siphon through the enormous troll, having it chain to the other minions nearby, and immediately Ali felt the berserker’s mind sharpen, clarity returning to her thoughts. But of course, her damage output dropped.
+
+It seems like about half is where it gets really unstable, she thought, noting the similarities to how Mato had explained his experience with his Primal Rage berserker skill.
+
+Her second berserker landed on the enemy troll with a huge crashing strike and the tide of the battle turned into a rout. Even with the enemy troll using Last Stand, they still tore it to shreds before even the bloodlust wore off.
+
+“That was quick,” Ali said, looking around at the battlefield. Once again, she would need to use her barrier to fly if she wanted to deconstruct all the dead trolls and retrieve their gear. But this time, none of the troll corpses were hers; she had only lost her Abyssal Stalkers and a Hellfire Imp that had gotten too close when her focus had faltered from the rage she experienced through her Martial Insight connection to her berserkers.
+
+“This combination is really strong,” Calen said. “Mato can shred their armor, and the berserkers synergize well with your shamans.”
+
+“Yes, that was impressive,” Malika said.
+
+Ali agreed, bloodlust on the berserkers was quite insane. Even when they weren’t very low on health. She would need to adjust her strategy as she learned how to use them though – flinging enemies into the trees sure looked impressive, but all her melee had to chase them down afterward, and having her own Blood Berserker’s cleave attack hit her Armored Drakes was less than ideal. It definitely took a lot more of her attention and focus to actively manage their rage – and she was not entirely certain what would happen if they got much lower than half health – she had certainly felt the urge to pick up an axe and go wade into the blood-soaked battlefield herself.
+
+Maybe she could lop off a toe or two? Chuckling wryly, she set about resummoning her Abyssal Stalkers.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

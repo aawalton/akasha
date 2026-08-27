@@ -1,0 +1,285 @@
+---
+id: 01571975-187e-5fef-a5a5-31f179896d32
+page-type-slug: story-chapter-royal-road
+title: "Chapter 70: The Unaware Dungeon"
+slug: 0070-chapter-70-the-unaware-dungeon
+partOf: dungeon-of-knowledge-complete
+position: 70
+ownLength: 3907
+unit: words
+ownProgress: 3907
+publishedAt: 2024-05-09
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1629498/chapter-70-the-unaware-dungeon"
+royalRoadId: "1629498"
+markedReadAt: "2026-06-29T20:13:16.076Z"
+---
+
+It was late morning by the time their little party reached the gates of Myrin’s Keep. Ali sent all her minions, save the Acolyte, around the heavy battlements to enter the underground cavern via the river channel she had blasted through the rock during the Goblin siege. Her Acolyte had attracted enough attention in town already, and she had no idea what people would do if they saw her strolling around with an armed and armored Goblin Storm Shaman.
+
+“What do you guys want to do now?” Mato asked, gazing at the open gates.
+
+“I want to train a bit,” Malika said.
+
+“I want to explore underground,” Calen said. “I’d like to see if I can find where the cave system links to the ruins.”
+
+“So, back to camp then?” Mato asked.
+
+“I’ll join you later,” Ali said. Her friends wanted to get back for training and exploration, but Ali had something way more interesting on her mind. She had earned a little gold from the items Malika had sold to Weldin yesterday, and she was curious to see if The Reading Corner had anything she could afford. Bidding her friends a quick goodbye, she took off through the gates with her Acolyte, riding on a disk of her barrier magic.
+
+It was fun flying through the streets of the town, going as fast as a Human or an Elf in a hurry, feeling the rush of wind through her hair, and it was a matter of only a few minutes before she was pushing open the door to the little corner bookstore.
+
+Ding.
+
+The sonorous chime of the doorway enchantment was followed immediately by the clatter of a clipboard dropped to the ground and a startled exclamation from Ryn, high up on her perch at the top of a stepladder.
+
+“Oh, hi Aliandra!” she exclaimed, beginning her descent.
+
+Ryn wore a yellow outfit with a pretty set of matching earrings this time. She really likes to coordinate her wardrobe, Ali thought, admiring her stylish slacks and jacket combo.
+
+“I had a feeling you’d be back,” Ryn said with a smile that made her eyes crinkle as she reached the safety of the floor. Stooping down, she recovered her dropped clipboard and skipped over to the front desk.
+
+“I put aside a few books I thought you might like.” Ryn reached under the desk to retrieve a heavy-looking box and placed it carefully on the polished mahogany surface before reaching inside to pull out books one at a time. “I didn’t find any more magical texts, but here are two history books,” she placed them gently beside the box, “A monster compendium,” an enormous book that made a thump as it was set down next to the others. “And these are a selection of fiction stories I enjoyed reading.”
+
+Ali’s eyes widened in surprise as each subsequent book emerged from the box of wondrous treasures. Obviously, she needed all of them, and she was rather touched that Ryn had made the effort to select some things especially for her, without even knowing for sure that she would return.
+
+Well, I might have been obvious about loving the shop, Ali admitted to herself. She had often been accused of not being very subtle about her love of books.
+
+“I don’t have as much money this time,” Ali said regretfully. I have to keep enough to pay Lydia later, she reminded herself, struggling against the temptation. She had already commissioned several expensive items.
+
+“I don’t mind hanging onto them for a while if you like,” Ryn replied cheerfully. “It’s not a bother at all.”
+
+Ali lingered over the monster compendium; it was a beautiful book with magically rendered illustrations of each creature described. It was well out of her price range though, so she regretfully put it back, choosing one of the history books and two of the novels instead.
+
+“How about these?” Ali asked, her eyes still dwelling on the gorgeous compendium for entirely too long.
+
+“Sure,” Ryn answered, “I can keep an eye out for other books, too, if you let me know what you like.”
+
+Ali spent a delightful half an hour discussing story preferences and favorite books with a fellow book lover. It seemed her own reading was woefully out of date, most of her favorite titles now long forgotten memories, but some of the best ones had been preserved and Ryn had even read them.
+
+The genres of stories and what made a book excellent had not changed much over the thousands of years that had passed. While she had her preferences, Ali loved a good book, regardless of genre – fiction, non-fiction, adventure, romance, mystery, it was all fair game provided the author had a little skill and the material or story was interesting.
+
+Ryn, for her part, had a soft spot for fantasy and adventure, speaking at length about her favorite story – set in a world where magic did not exist, and everything was accomplished with fiendishly complex contraptions of brass and steam, and Gnomish engineers ruled the world. It had, of course, been written by a Gnome with a delightfully creative imagination, but Ali had decided to buy it just because of how passionately Ryn described it, and how much she had enjoyed the characters.
+
+Calen caught up with Mato and Malika by the already open sewer grate where they were waiting to head back down to camp.
+
+“Got it,” he said, handing Malika the rewards for their two quests. Mieriel had been happy to log the quests as successful, thanking him, and by extension the entire group, for doing a good job and helping to promote the Adventurers Guild’s reputation.
+
+He hadn’t earned any levels on their excursion, presumably because the Kobolds were all lower level than he was, and they had gotten quite efficient at hunting them by now. But it had been fun mapping out the caves and the extensive tunnel systems, and he had even gained a skill point for his Cartography.
+
+He hopped down into the now familiar sewer tunnel with its all-too-familiar rich stench beside Mato and Malika, listening to them discuss what they wanted to do for the rest of the day. Up ahead, Ali’s thick Verdant Moss carpeted the next tunnel, lending a vibrant aura of life to the otherwise dank and smelly sewer.
+
+[Explorer] You have entered a dungeon.Ancient Grove – level 29Affinity: Nature, ArcaneAge: NewKnown Creatures: Kobold, Goblin, Ooze, WolfKnown Bosses: --Dungeon
+
+It happened as soon as he crossed the threshold into the mossy area. Calen grimaced, scratching his neck in thought. His errant skill still bothered him every time he came down here, and he had been hoping that it would eventually wear off. Not only was it still excessively noisy, but he noted it had also been updated to match Ali’s level again.
+
+Hmm…
+
+The sound of swords crossed in battle and the telltale thrum of a bowstring ripped his attention away from his notification and put him on high alert in an instant.
+
+“Don’t worry, it’s just the novices,” Malika whispered, pointing up ahead. “Look, they’re practicing the Guildmaster’s formations.”
+
+Down at the far end of the tunnel, he saw three adventurers tangling with two Goblins. With his magically enhanced eyesight, he quickly recognized Teagan, Braden, and Willow. Vivian Ross had been encouraging them to find another two members to fill out their group, but honestly, there were not many choices at their levels. Likely, they would have to grind their way to level ten and bronze rank by themselves before some of the older guild members would agree to do quests with them.
+
+“Braden, you idiot, I said formation two. That’s the one where you tank both of them.”
+
+“I thought that was the one where you let one chase you?”
+
+“No, that’s six.”
+
+“Why can’t we just say what we’re doing directly, these numbers are dumb.”
+
+“Watch for the trap on the left.”
+
+“You know I can’t see them, right?”
+
+“Well, get good. Then maybe you might learn how.”
+
+Their voices carried their banter down the sewer, a little distorted and echoing off the ancient crumbling brick. Calen grimaced for a wholly different reason.
+
+“The warrior is a bit of an idiot,” Malika observed on cue.
+
+“But he’s got good instincts in the fight,” Mato countered.
+
+“A little like you then,” Malika retorted.
+
+“Hey!”
+
+“Not nearly furry enough,” Calen chipped in quietly. It was not often that he got one up on Mato, but that opening was way too good to let pass. Mato’s growl told him he had hit home but the big Beastkin had no quick quip ready to return the favor.
+
+Ali might be a bit grumpy about this, he thought. When she got back from book shopping, she was going to have to make some more Goblins to patrol the sewers, replacing the ones that the adventurers were killing.
+
+“They’re a decent group, good teamwork,” Malika said, still closely observing the novice adventurers.
+
+“Looks like the warrior just gained his level up,” Calen observed.
+
+“Just slow without a couple more damage classes,” Mato added, earning a nod from Malika.
+
+“Honestly,” Calen said, “if it weren’t for Ali being able to bring a small army of mages to every fight, our group would suffer from the same problem.” His class was the only one that focused entirely on doing the most damage possible – and even with him, he had two skills that were primarily for scouting and stealth. Theoretically, his damage output could be even greater if those were replaced with more attack-focused support skills.
+
+Interest in the novices waned quickly and they moved on, heading down to the camp. Something about the scene with the novice adventurers gnawed at him the whole way back. Something had been out of place – not quite right – but it was subtle enough that he couldn’t put his finger on it. It was only when he got to the camp and looked out across the barren expanse where the Ruins of Dal’morha dungeon had till recently claimed an enormous amount of the cavern, that it finally clicked in his mind.
+
+It was not that something was off about the novice adventurers practicing a dungeon dive in the sewer. It was that it was too close of a match. Perfect even.
+
+They were not practicing.
+
+It had seemed too real. What if they were watching adventurers battling a real dungeon? What if his skill was not broken?
+
+Shit! I hope I’m not right about this…
+
+Taking a deep breath, Calen called, “Hey, I need to check on something really quick. I’ll join you at the shrine.”
+
+Ignoring Mato and Malika’s looks of surprise, he sprinted out into the open expanse of the cavern, but no matter where he went, his Explorer skill no longer pinged him about the old dungeon that Ali had removed from this area. However, when he returned to camp…
+
+[Explorer] You have entered a dungeon.Ancient Grove – level 29Affinity: Nature, ArcaneAge: NewKnown Creatures: Kobold, Goblin, Ooze, WolfKnown Bosses: --Dungeon
+
+It has only ever been broken here. It suddenly dawned on him that his skill had been right all along – only… he hadn’t wanted to believe it.
+
+That his skill was identifying Ali’s domain was not in question, the information was way too specific for it to be an accident. Perhaps it was just his assumptions that led him to believe it was broken?
+
+What is a dungeon, really?
+
+Ali had summoned monsters to roam around and protect her area, just like a dungeon. So much alike, that novice adventurers sought it out to quest for experience – and they were leveling up quickly, that much was obvious. Ali had even set root traps.
+
+“Hey, guys…” he started, swallowing uncomfortably. “I think we have a problem.”
+
+“What’s up?” Mato asked, glancing up at him from the cookfire he loved so much. Naturally, his thoughts had turned to their next meal right away.
+
+“My skill says we’re in a dungeon.”
+
+“That’s silly, Ali broke it after we killed the wyvern,” he replied, clearly missing the point.
+
+“Right now?” Malika asked, alarm beginning to show on her face.
+
+“Yes.”
+
+Calen had the ugly feeling that he was selling Ali out, talking about her behind her back. But his friends needed to know, and he had no idea how to handle this. Misery had turned his mouth to ash and his usually agile thoughts to brittle shards frantically spinning in circles. Instead, he simply shared the analysis Explorer had provided.
+
+“Oh,” Mato answered after a moment, standing frozen, the wooden spoon slipping from his grasp to fall unnoticed into the stew pot. “No, that can’t be right. Calen, no.”
+
+“I don’t believe it,” Malika said firmly. “Ali is our friend. She is not making a dungeon; she is a good person. Your skill must be mistaken or broken.”
+
+“I thought so too,” Calen answered. “But it is consistent. Every time we return here, it notifies me that we are entering a dungeon. And the attributions for her level, monsters, and mana are all accurate, and they update as she progresses.”
+
+He took a deep breath, committed now to this path, for better or worse. “I don’t want to believe it either, but it fits. Malika, you just saw those novice adventurers leveling in the sewer. Did that look like faking or practice to you? They’re getting real experience from real traps and monsters in a real dungeon.”
+
+“No!” Malika said emphatically. “Ali is not evil! How can you say that!” She was on her feet, her face filled with anger and denial, her fists clenched at her sides.
+
+“Malika, we all know Ali is good,” Mato said.
+
+Malika stopped, staring at him in surprise, a riot of conflicting emotions playing out on her face.
+
+Mato was confident in his declaration and his character assessment. And it supported what Malika wanted to believe was true. What I want to believe, too.
+
+But the dungeon thing was true too, and it was clear that Malika was experiencing extraordinary conflict over the revelation. Calen could tell she really cared about Ali, they all did, but Malika had also lost her parents to a dungeon, and that was not something easily brushed aside. Every passage in Lyeneru Silverleaf’s book – the distilled wisdom of thousands of years of Pathfinder lore – insisted that dungeons were evil and dangerous places, bent on destruction and consumption above all else.
+
+“I agree,” Calen said. “She is our friend; kind, a little naïve, and just trying to figure out how to cope in a strange world. You were there when she earned her class, Malika, standing up to a monster with her scholar skills. And she has saved your life, and mine too, many times over. You know exactly who she is. We know.”
+
+“So, what … what do we do now?” Malika was still visibly struggling with her emotions.
+
+“I have no idea.”
+
+This was the biggest question. Obviously, they couldn’t tell anyone, people would kill her without question if they knew. But beyond that, what would it do to Ali? And how was it going to affect their friendship? Angrily, he swiped at his eyes and glanced at the back of his hand in surprise. It was wet.
+
+Mato’s massive hand patted his shoulder. “Yeah, I know.”
+
+Malika swore viciously under her breath, the words almost impossible to make out, but their tone was unmistakable. After the longest time, he realized that both of his friends were looking at him for the lead.
+
+“I’m not sure we can tell her,” Calen finally admitted. “Ali has had more than her fair share of shock and trauma, and she seems to be starting to enjoy her new life. I fear what this will do to her if we tell her.”
+
+“What if she starts to go down a bad path?” Malika asked in a shaky voice. “Dungeons… well, they’re dungeons. We can’t do this to her. No. This is Ali. Our Ali.”
+
+“I think you are the best person to help her,” Calen replied, sharing his honest opinion.
+
+Malika gaped at him. “Help? How?”
+
+“We’re all friends,” Calen explained, “but she seems closest to you, and trusts you. And you have a lot of clarity for what is right and wrong. Mato would just get us in trouble by accident, and I would probably avoid saying anything, but you are more grounded. Ali will listen to you. Look, we’ve been through a lot together – we owe her this.”
+
+“Ok,” Malika said after a long pause. Then she sighed, slumping back down to the mossy ground.
+
+“I think she’s going to need as many good friends as she can get,” Calen added.
+
+Suddenly Malika’s raw scream rang out, “Fuck you, fate!” She stood panting for a moment before collecting herself. With hard eyes, she muttered, “See… this is exactly why I hate the Ancestors.”
+
+He squeezed his eyes shut, pressing his fingers into his temples. This will turn out alright… right? It must. Think, Calen. Think!
+
+Ali floated along the main street, seated on her barrier, taking in the bustling sights of the marketplace at lunchtime. She chatted animatedly with Malika about her delightful morning with Ryn and the interesting books she had bought. Malika seemed a little more subdued than normal, but Ali didn’t mind carrying most of the conversation.
+
+Lydia had only a couple of clients when they arrived, so it didn’t take long before she called them over. As Lydia smiled at her, Ali could sense a barely repressed excitement, and even the movements she made as she laid out several items on the table had a sense of energy, an eager speed.
+
+“I wasn’t able to duplicate the bone magic enchantment, and the robes unfortunately didn’t survive the study,” she began. “I’m sorry.” Then her face lit up with a radiant smile as she placed a set of perfectly stitched cloth armor on the counter. “But I learned the healing one! And I got a level in my tailor class for the new enchantment.”
+
+Ali picked it up and identified the item she was holding.
+
+Tailored Cotton Clothing – level 20Resistance: 288+9% spell power to Healing skillsRequirements: Wisdom 70Created by Lydia Avery.Body – Cloth
+
+“You improved the amount, too!” Ali exclaimed, examining the soft fabric under her fingertips, amazed at the quality of the garment she was holding.
+
+This is perfect.
+
+“I’m sorry I couldn’t put the self-repair enchant on it too, I can only do one at a time – I couldn’t get the hang of combining two. Also, the healing power worked better with a wisdom requirement. I hope that works?”
+
+“It’s perfect.” There were three of them, just as Ali had requested. The other two were weaker – only eight percent – but all of them were better than the original.
+
+“And here’s yours – I managed to get it up to level twenty-five for you. It should be a substantial improvement.”
+
+Tailored Cotton Clothing – level 25Resistance: 360Mana: Self-repairRequirements: Intelligence 88Created by Lydia Avery.Body – Cloth
+
+The order was expensive, but Ali counted out the coins with a broad grin on her face.
+
+“No, I couldn’t possibly accept,” Lydia objected, pushing the coins back. “I learned an enchantment and got a class level for this.”
+
+“I insist on paying,” Ali countered. “I can’t just keep taking your best crafting for free.”
+
+They argued back and forth for a bit until Lydia finally relented, but not before Ali accepted at least a friends and family discount. She was at least half certain Lydia had made up the discount on the spot, but it seemed unfair to argue too much.
+
+Ali made use of the fitting room to change into her new armor, and when she came out, she found Lydia chatting animatedly with Malika.
+
+“I know you’re focused on fashion, but I think you would make a lot of money selling these to adventurers,” Malika explained.
+
+“That’s a good idea,” Ali chimed in. “You could also earn experience faster if they get used by adventurers in dungeons.”
+
+Malika gave her an odd look.
+
+“I’m afraid I can’t,” Lydia answered. “I’m already bending the rules with my business license. Also, most noble customers care about the ambiance – if I started displaying combat gear, they probably wouldn’t stop by to purchase my other work.”
+
+“What about the guild merchant?” Ali asked.
+
+“Guild merchants are a unique case,” Lydia said. “Most cities grant them special dispensation because they buy whatever adventurers dredge up out of dungeons, including monster parts, and they have to supply any combat needs. So, their licenses are one of the precious few that are entirely unrestricted. They can sell literally anything, provided it’s not illegal to own.”
+
+“I meant; we have a guild merchant now. His name is Weldin Thriftpenny. What about making a business arrangement with him? He could display your combat items in the guild shop. It’s the perfect market for it, and you can keep this store dedicated to your fashion clients. I’m certain Serendipity would want one of these armors if you made it in Gnome-size. Perhaps in blue?”
+
+“You have a guild merchant?” Lydia asked, eyes widening a little at the news. “When did this happen?”
+
+“It’s pretty recent,” Malika answered.
+
+“Hmm, I think I might have to pay him a visit. Weldin Thriftpenny, you said?”
+
+“I’ll let him know you’ll stop by,” Malika offered.
+
+Lydia fussed with Ali’s new armor a little, making her turn around a few times for adjustments. “Aliandra, you said you can learn to make items?” Lydia asked as her tailoring skills flickered with little bursts of mana.
+
+“Yes, it destroys the original, but I can usually learn an item after about three or four tries.”
+
+“Can I see?” Lydia asked curiously. “I assume that’s why you commissioned so many of these?”
+
+Ali nodded. She hadn’t shown anyone else how her abilities worked, but she couldn’t imagine Lydia taking advantage of her knowledge.
+
+Carefully she deconstructed the old armor she had just taken off, and two of the healing ones Lydia had just sold her.
+
+Variant: Tailored Cotton Clothing added to Imprint: Armor.
+
+Then she spent a few minutes creating armor sets. The chainmail and leather she handed to Malika who immediately stored them for sale later. One Simple Robe came out with a bone magic enchantment. Ali handed it to Lydia for study.
+
+And finally, her Grimoire let her create her newest imprint. She produced a level fifteen Tailored Cotton Clothing with a healing enchantment. In all other ways identical to Lydia’s work, with the exception that Ali’s Grimoire did not reproduce her personal mana signature.
+
+Ali handed it to Lydia and noticed she had an unusual expression on her face. Ali couldn’t quite read it. “Did I do something wrong?”
+
+“No, dear.” Lydia collected herself and her expression changed back to normal. “I just leveled again when you learned that.”
+
+“You leveled when I learned your item?”
+
+“I think crafters can level if they teach something difficult to someone else, right?” Malika seemed just as intrigued as Ali was.
+
+“I think so,” Lydia answered. “It’s just never happened to me before. I never expected to earn four levels so quickly. I’m not complaining, mind you. Thank you, Aliandra.”
+
+Lydia seemed very happy when they finally left to return to camp.

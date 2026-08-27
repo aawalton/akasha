@@ -1,0 +1,225 @@
+---
+id: 01455eb4-c90b-513f-ab24-99471e362cf5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 179: Inferno"
+slug: 0182-chapter-179-inferno
+partOf: dungeon-of-knowledge-complete
+position: 182
+ownLength: 3917
+unit: words
+ownProgress: 3917
+publishedAt: 2025-01-05
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1993127/chapter-179-inferno"
+royalRoadId: "1993127"
+markedReadAt: "2026-06-29T20:17:13.976Z"
+---
+
+“Everything burns.”- Delwin “Boom” Cindershower, Gnomish Pyromancer.
+
+Ali stood on the ramp in the endless furnace that was the Emberforge Mines with her friends, staring down into a giant crater. Pools of lava dotted the landscape, and she couldn’t shake the image of the entire thing being one giant, unnaturally hot amphitheater or arena for gladiatorial combat. Behind them, the ramps and ledges of the broad mining cavern had been stripped bare of every elemental or lava slime. No matter how long it took, Calen had insisted on wiping out everything hostile within the cavernous, scalding space. All that remained were the occasional fire wisp, or flame butterflies that flitted around feeding on the dense fire-affinity mana.
+
+A towering monster of white and yellow flame dominated the center of the arena, blazing so brightly that Ali had to squint to any time her eyes rested on it for more than a few moments.
+
+Inferno [The Consuming Flame] – Elemental – level ?? (Fire)
+
+Ali gulped. It was enormous, at least four times taller than the Living Flames they had been fighting, and even from this far, she could feel the excessive heat radiating out of its body – if an ambiguously solid being of pure flame could be said to even have one. The air in between shimmered, distorting the image of the rocks on the far side of the cavern. Like the Living Flames they had fought before, this monster resembled an upside-down pear of roaring flame with a dense core at the center of the thickest part. A pair of heavy arm-like appendages hung from the sides, a cursory nod in the direction of a vaguely headless humanoid outline. It hovered a little above a puddle of molten rock. Even the rivers of mana flowing through it were staggering.
+
+“That looks like bad news,” Malika said.
+
+“Yes,” Calen said, and his shared notifications popped up as rows of brilliant white shining text in Ali’s mind.
+
+Inferno [The Consuming Flame] – Elemental – level 73
+
+[Explorer]Category: Dungeon BossThreat Level: RaidMonster Type: Elemental, UniqueDamage: Fire, Physical
+
+“How come you can see its level?” Ali asked.
+
+“Explorer is level twenty-eight now,” Calen answered. Ali did a quick bit of math to add his skill to his class level to satisfy her curiosity.
+
+“Unique? What’s that?” Mato asked.
+
+“I believe it is special enough that Identify shows its name instead of class type,” Calen said.
+
+Ali studied it for a moment. A monster unique enough to be recognized by the Identify skill – how would that affect their fights? “Maybe it has something to do with it having a title?” she asked.
+
+Calen shrugged, and then said, “Everyone, please check that you have a potion of recall. That is definitely a raid boss, and probably much harder than everything we have fought so far.”
+
+Ali knew where she had stashed her recall potions, but she checked anyway. The reminder was smart. She summoned one of the potions to her hand, black viscous liquid swirling within the vial, and showed it to him before placing it back in her storage enchantment. She had them all placed in an easy-to-find row in there so that there would be no need to hunt for one in an emergency.
+
+“I have some too,” Mato said. “But I usually can’t use them in combat.”
+
+“I’ll get you out if it comes to that,” Calen said.
+
+“I’m usually closer to his furriness,” Malika said.
+
+“Or that,” Calen said, making a face.
+
+In a second, Mato snorted as he realized what she had said and Malika gasped, “Not like that! You men… minds in the gutter!”
+
+The Beastkin shrugged, “I’m the innocent party here.”
+
+“Maybe you both do it,” Ali said, chuckling at their interaction. “Wasting a potion is a cheap price for peace of mind.” She still stared down at the monster in the arena. She had no idea what it was capable of, and the conversation about the recall potions served as a pointed reminder of the very real possibility they would need to flee under dangerous circumstances, effectively paying for any information they could learn with a high risk to their lives and health. Yes, potions are trivial compared to that.
+
+“Remember, anyone can call a retreat for any reason,” Malika said, her voice betraying quite a bit of nervousness. It was a strategy they had decided on earlier. Without any information about the boss, the moment anyone learned of anything critically dangerous, there would be no time to explain it to the others. It was smarter, they had decided, to flee and come back later with a better plan.
+
+With all the discussion and reminders of how little they actually knew, Ali found herself pacing and forced herself to stop.
+
+“Enough talk, are we going to hit that thing or what?” Mato said. “We won’t know anything until we go down there and ask it with a polite punch.”
+
+Ali nodded, and the others agreed, and Mato transformed to lead the way down into the arena, with everyone flying, running, or floating down behind him. They carefully picked their way across the floor, avoiding pools and puddles of lava, some bubbling and sending splashes of molten rock flying in all directions. Halfway across the arena, the monster stirred.
+
+“What manner of puny creatures interrupt my contemplation?”
+
+Ali yelped, clapping her hands over her ears as the rumbling roar of Inferno’s voice shook the cavern, dislodging sizeable chunks of rock from the ceiling. The fact that it spoke at all shocked her, let alone that it used the ancient language of Dal’mohra.
+
+It’s a good thing we cleared the whole room, she thought as she stared aghast at the boulders slamming into the ground throughout the atrium. Calen had insisted on it, and she had been convinced he was being paranoid, but if there had been anything left alive in the entire mine cavern, it had definitely heard that shout.
+
+It turned to face them as they advanced. Even this far from the massive elemental, the flames of its powerful aura were already dancing about her and all her minions. Flickers of holy mana sparkled across their group as the Acolytes reacted to the area damage caused by nothing more than its presence.
+
+Mato roared a challenge and charged towards the elemental. While it seemed reckless, the act of a combat junkie throwing caution to the wind, Ali noticed he never once exceeded the range of her Acolyte healers.
+
+Inferno surged forward to meet them.
+
+“DIE, WEAKLINGS!”
+
+The roar of its voice hit Ali like a palpable wave of sound, far more deafening up close. Huge arm-like appendages of pure flame crashed down on Mato, setting him alight. Nearby pools of lava erupted, geysers of molten rock shooting into the air as the shockwave of the massive strike rippled outward through the stone. Rock buckled and sheared, leaving jagged boulders and slabs of stone protruding from the ground haphazardly. Several of her minions stumbled, knocked off their feet.
+
+Ali ignored it all, studying the raid elemental’s mana. Her job was to gather as much information as possible. Dealing damage early on was not a priority for her. Her minions would take care of that. She concentrated on her skill and the complex array of information pouring into her mind, all the while keeping an eye on Mato’s health through her Acolyte’s vision.
+
+A surge of fire-affinity mana swept through the enormous elemental, a spell formation she recognized instantly.
+
+“Explosion!” she yelled.
+
+A powerful spherical shockwave of flame exploded out from Inferno. It was like the spell the Living Flames had used – if one considered the Living Flames’ versions to be cheap knockoffs of this spell. The ultra-dense, yellow-white compressed wall of flame smashed into her body, shattering her hastily summoned barrier instantly, searing her face, and snapping her arms like twigs. Everything in the entire arena was blasted into the air. Boulders from the tortured ground were launched in every direction. Ali struggled to hang onto her wits, barely remaining conscious as she hit her apex. As her mind recovered, she used her Minion Teleport to arrest her momentum and her barriers to descend. Her minions splattered to the ground all around her, some landing in the lava and some on the rock nearby. One of her rogues splashed down in a big lava pool and perished. A falling Kobold Bone Mage bounced a meter into the air before falling to a crumpled heap.
+
+Ali counted her Acolytes, finding all of them sprinting back, having survived by healing themselves in midair. Holy spells flickered rapidly as they ran. Even she had lost more than two-thirds of her health from the explosion, and the Restoration magic was taking a while to fully heal her.
+
+Mato roared, reengaging, but the group that gathered behind him was noticeably smaller. “Attack,” Ali said. Lightning Bolts crackled as they flickered across flame and lava. Bone Spears sizzled through the air, trailing smoke as they ignited. Arrows flew from twanging bows. Through it all, Ali kept her focus on her mana sight and the perception of her Acolytes, searching for any warning signs of something dangerous.
+
+“Explosion!”
+
+Once again, she was tossed into the air like a helpless ragdoll, this time not as far as her barrier absorbed some of the power before shattering. A shaman died in midair to the crushing impact of a flying boulder. Her group of archers bounced and cartwheeled into a large pool of bubbling lava, most of their health stripped from the explosion. They perished in seconds to the intense heat of molten rock.
+
+Suddenly, Arcane Insight prickled with the searing formation of a spell. Summoning magic? Ali had an instant flashback to the Skeletal Wyvern they had defeated in the library, but this ability seemed broader, and extensive in a way she had not yet encountered.
+
+“Summons incoming!” she yelled. Sure enough, at the feet of the Inferno, two dozen elementals appeared, immediately surging outwards to engage them. They were yellow-white just like the Inferno, only quite a bit smaller.
+
+Shard of Inferno – Elemental – level 60 (Fire) x24
+
+Even the minions are sixty! Chaos erupted in an instant. Elementals shot about in every direction, mowing down Ali’s minions like wheat. Overlapping auras zipped about following each Shard, and with even two or three of them ganging up on an acolyte or shaman, her creatures stood no chance, erupting into instant pyres of yellow flame. Mato roared, struggling to gather them up, but collecting them proved impossible as they rushed about tearing into everything in sight.
+
+“Run!” Calen shouted from high above. His shout was followed by an accurately lobbed potion from the air which shattered on Mato’s back, causing him to vanish in a puff of black smoke. Calen’s wings flared as he took off toward the distant doorway.
+
+Ali shot after him, hanging onto her barrier with one hand. She retrieved her recall potion just in case she couldn’t escape in time. Below her, she could see Malika sprinting at full speed, outpacing both her and Calen as she danced across the lava and ramps and various obstacles using her powerful movement skill.
+
+The Inferno stopped chasing them as soon as they passed through the doorway into the Landing, and its minions returned, many of the smaller elementals vanishing in puffs of flame as the giant monster unsummoned them.
+
+“Let’s go back to the library and find Mato,” Ali suggested, indicating the teleportation locus she had prepared. “We probably need to talk before we try that again.”
+
+Only one potion this time. Cheap escape.
+
+***
+
+“So, what do you think, Ali?” Calen asked, glancing in her direction.
+
+“It seems to be similar to the Living Flame,” Ali said. They all sat on the couches in the library discussing the fight, with Calen already taking copious notes on their discussion. Inferno was a specialized variant of a Living Flame – stronger, and with a more potent source of flame. Perhaps that’s what it means for a monster to be unique?
+
+“That explosion felt similar,” Malika agreed.
+
+Mato nodded. “Bigger.”
+
+Ali had experience creating two raid bosses herself, so she was much more familiar with the mechanics of how their skills and classes might work than her friends. At least she had an idea of how the powerful domain magic worked, and what sorts of things might be possible. What she had learned in their brief encounter with the Inferno had her very worried.
+
+“The summoning skill it used is one of its domain-enhanced skills,” Ali said. There was no room for doubt in her mind – the mana formation had been drawn directly from the surrounding domain mana, and even if that wasn’t a dead giveaway, the raw power of the skill would have been a clear sign. “What I’m most worried about is that both my raid bosses have three skills. The Skeletal Wyvern and the Twin Wights did too. We have only seen one from this Inferno so far.”
+
+“That explosion wasn’t one of the domain abilities?” Calen asked.
+
+“Nope, that looked like one of its regular skills. Which is why I think it’s related to the Living Flame. It already showed us the explosive blast wave and the aura of flames. I think we should expect the fire shield and the tornado regeneration. Or at least, something similar. There should be another two domain abilities, whatever those might be.”
+
+“Is it possible it has something like an enhanced attribute?” Calen asked.
+
+“I suppose so, but it’s probably safer to assume it has something to surprise us,” Ali answered.
+
+Calen’s point was valid. Her Kobold warrior boss had minions, endurance, and strength enhancements. Both raid bosses they had encountered in the Ruins of Dal’mohra had had one attribute enhanced. If one or both of the Inferno’s remaining domain magic abilities were enhanced attributes, they would likely never be visible to her Arcane Insight.
+
+“That seems like the prudent approach,” Malika agreed. “So, I should attack its mana then? I mean, I was already, I just want to confirm that’s a good strategy.”
+
+“I think that’s a good idea,” Ali answered. As soon as they had stumbled upon that strategy the Living Flames had suddenly become a lot easier. The explosions were severely disruptive and dangerous, and if they could lower their frequency, they would stand a better chance. “I think I can get my Acolytes to give everyone a Restoration before the explosions, so my minions stop dying on impact, I just don’t know how we’re going to handle the summoned elementals.”
+
+“They’re difficult to tank,” Mato said. “Squirrely.”
+
+“We should try area damage,” Calen said. “Ali, can you try to corral them with your barriers? Maybe like the funnel you used on the fire spiders? Then we can use your shamans to fire Lightning Bolts through the entire pack. I can use my explosive shot to help clear them.”
+
+“Hopefully they don’t heal from each other’s flame auras like the Shards of Flame,” Ali pointed out.
+
+“If they do, we should give up,” Malika said soberly, “at least until we’re a lot stronger.”
+
+Round two. Calen shifted uncomfortably in the heat as he gazed at the huge elemental. It was going to be a rough battle. Even though they all had the best resistances they could buy, and they had a partial strategy hammered out, there were still far too many unknowns. Ali had mentioned that there was likely to be at least one more powerful ability they hadn’t seen yet. That worried him – more than he had let on in their planning. Hopefully, at worst, it was an ability they could still escape from. Not to mention their analysis assumed that this dungeon used similar rules to Ali’s. If it did not, or had more advanced abilities, there was likely no way to predict how many surprises it had in store for them. The uncertainty bothered him, gnawing away inside – he knew there was no way to be sure before engaging again, and likely they would need to get quite far in the battle before they learned something new.
+
+That knowledge could come at a lethal price.
+
+No need to obsess about what I can’t know, he told himself. He would consider it a successful battle if they ran away with new information. Nevertheless, worry still lurked within his heart, refusing to let go. This elemental was way more powerful than anything he had ever seen, except for Lyeneru and the Death Knight. But this time he and his friends were on their own.
+
+“We got this,” Mato said, giving him a light punch on the shoulder. “Don’t forget your elixir.” As he said it, he downed one himself and made the empty vial vanish. Morwynne offered a small silver as a deposit for vials returned intact.
+
+Calen summoned one of his own.
+
+Elixir of Fire Resistance – level 41Consume: +20% to resistance against fire damage. Duration: 1 hour.Created by Morwynne Fizzlebang – “A little less burn.”Potion
+
+He examined the potion in his hand. These had been extremely expensive to make, even with most of the ingredients provided by Ali’s new fire affinity garden. And yet, he was certain they wouldn’t be standing here without them.
+
+Everyone seems ready.
+
+“Let’s try to learn something new,” he said, downing his potion.
+
+“Safety first,” Malika answered, drinking her potion too.
+
+Ali’s minions shuffled around, organizing their formation, many of them drinking lower-level versions of the same elixir, and Calen grimaced momentarily at the amount of money that had just been consumed, but it was a necessary cost.
+
+“I’m getting the boss,” Mato said, waiting a moment in case anyone objected before switching to his Bear Form.
+
+The Inferno roared, its words shaking the chamber as they attacked. Ali had explained it spoke in the ancient tongue of Dal’mohra, but it seemed uninterested in actually conversing with creatures it deemed to be so far beneath it. Or it just wasn’t that intelligent in the first place. What do elementals think about anyway?
+
+Calen drew his bow and fired as soon as Mato’s claws struck flame. He hovered at the maximum range, even though that was still well within the blast wave radius. His arrows flew rapidly, enchanted with extra damage. He was using only the one enchantment to conserve his mana, settling in for a long fight. He had been operating on a constrained resource budget for so long now, that he was still getting used to the adjustments for his new advancement. Even though he couldn’t be wasteful, it still felt that he had excess stamina to play with now. Every shot took some stamina, and the cost reduction really paid off in the long run.
+
+His arrows flew rapidly, several chasing each other in the air on the way to the elemental.
+
+“Explosion!” Ali’s voice rang out through the arena.
+
+He braced himself as the shockwave washed over him, smashing against his body and knocking him head over heels, cartwheeling through the air. He groaned from the instant bruise and creaking ribs, but he immediately felt the soft pulse of holy magic healing him as he flew back.
+
+How did she do that? Ali had somehow organized her Acolytes to leave a heal over time on most of their group and she had pulled it off before the explosion had hit. He would have to ask her after the fight.
+
+He flared his wings and controlled his descent aiming for closer to the ground. Knowing that he would be facing many explosions, he chose to leave his wings active, retrieved a mana potion from his ring’s storage enchantment, and downed it.
+
+The first of many.
+
+“Summons!” Ali yelled almost a minute later. Somehow, the second explosion hadn’t come, which meant a change in the boss’s strategy, or Malika was having an effect already.
+
+The two dozen Shards of Inferno appeared in a bright surge of yellow flame, scattered around the giant boss that towered over all of them. Immediately, they surged towards where Ali’s healers stood.
+
+A crunching, grinding sound echoed in the amphitheater as several substantial walls of bone appeared. Rib bones of unidentifiable monsters jutted out in all directions, barring the way to prevent the elementals from spreading out. Still, Ali had left a narrow passage for them to funnel into. It was not quite the shape he would have picked, but it looked like it would work. Large planes of Ali’s golden barrier magic sprung up creating further impediments to slow the creatures down.
+
+Calen flew higher into the air, pulsing mana into his wings for an extra boost of speed – for this, he would need a little more elevation to angle his shots down without worrying about the walls. Within the cluster of elementals, three steel totems began pulsing lightning novas and Ali’s shamans unleashed arm-thick bolts of lightning that tore through the entire pack.
+
+Perfect. Ali’s skillful arrangement of her barriers and walls had bottlenecked the elementals such that all of them were taking heavy lightning damage, and the Shards of Inferno were penned up instead of spreading chaos through their group.
+
+My turn, he thought, summoning four simultaneous arrows of light magic to his bow and enchanting them with his brand-new Explosive Shot. He had just reached level thirty with Radiant Archery and the extra arrow was going to come in very handy. Briefly, he considered using his Righteous Fury, but with its long recharge, he was loath to spend it if he didn’t need to. Probably one of the flame shields will be a better choice.
+
+He loosed the flight of arrows and immediately summoned another four, repeating the process, ignoring the steep mana cost he was paying. He managed to get three flights of arrows in the air before the first ones struck. A roar rose from the ground as his arrows detonated unevenly on impact. The bright group of elementals vanished in the intensity of the quadruple explosions of his light magic. Calen squinted his eyes without missing a shot. The second flight landed before the detonations had even faded, followed by the third and fourth. Around the fifth, Ali’s mages refreshed the bone walls because they were shedding large chunks of shattered bone. Ali’s golden barriers appeared, flickering in spots, blocking holes, and preventing any of the elementals from escaping the kill zone. He unleashed volley after volley, a brilliant arc of arrows from above while he watched the continuous explosion ripping through the monsters below.
+
+He was almost down to ten percent of his mana when his notifications exploded with chiming sounds. He released one more volley to make sure, and when the light faded, all that was left were the pulverized remains of the bone walls and the corpses of the elementals.
+
+“Explosion!”
+
+The shockwave slammed into the side of his body while he was still in midair, tossing him like a leaf in a storm and knocking the air from his lungs. He gasped as he struggled to right himself with his wings. As he descended, he felt the holy magic flowing into his body once again, healing the impact of the blast wave. He retrieved a mana potion and downed it, beginning to shoot once again, using regular arrows for now to conserve mana.
+
+Ugh, I’m going to need to recover before it summons more.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

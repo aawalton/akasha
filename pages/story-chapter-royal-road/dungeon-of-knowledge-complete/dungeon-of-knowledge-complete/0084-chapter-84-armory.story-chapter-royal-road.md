@@ -1,0 +1,257 @@
+---
+id: 2b656de6-3e04-5dbb-9863-ed0511ac3a21
+page-type-slug: story-chapter-royal-road
+title: "Chapter 84: Armory"
+slug: 0084-chapter-84-armory
+partOf: dungeon-of-knowledge-complete
+position: 84
+ownLength: 4899
+unit: words
+ownProgress: 4899
+publishedAt: 2024-06-11
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1672527/chapter-84-armory"
+royalRoadId: "1672527"
+markedReadAt: "2026-06-29T20:13:45.262Z"
+---
+
+Mato eagerly watched the Skeletal Wyvern circling lazily above the stone ruins drawing slowly closer, a barely visible swirl of greenish mist trailing from its wings. According to Ali, it was a manifestation of its poison mana – a toxic aura – and the reason he kept being poisoned just by being close to the monsters.
+
+His anticipation was entirely due to his desire to test out his new Swipe: Battle Master advance, and Calen’s ready acceptance of his proposal of a field test. They stood amidst the strewn rubble of what had once been a large building, now completely destroyed, in an uncommon moment of quiet – the lull between the bouts of mad chaos and destruction when they charged through the undead-infested buildings.
+
+“Ready?” Calen asked.
+
+“Yup!” he said.
+
+Calen stepped up next to him, nocking a long arrow to his bow. In a single smooth action, he drew and fired, sending a trailing chain of light flying into the dark sky. Despite seeing it so many times, Mato was yet again impressed with his friend’s accuracy. The arrow flew true to the mark, and the magical chain entangled the powerful wyvern snarling its bone wings, instantly drawing taut and dragging it toward the ground.
+
+“Nice shot,” Mato observed.
+
+The wyvern shrieked and struggled against the magical bonds, circling lower and lower as the grappling chain of magic reeled it in. Mato shifted his form and as soon as his foe touched down, he charged – his magic accelerating his mass into the wyvern with a crash. While it was bigger than he was, he definitely had it beaten in sheer weight. I don’t have to fly, he thought as his impact knocked the wyvern back several feet. It immediately reared up, slashing him with its talons before being dragged back to the ground by the chain.
+
+You have been afflicted with Poison+3 Poison damage per secondPoison – Duration: 10 minutes. Count: 1
+
+As soon as the toxic miasma touched him, he felt his life begin to drain, and simultaneously an immediate sense of enhanced mental focus as Battle Trance activated from the damage and his stamina began to regenerate.
+
+Perhaps the ‘trance’ part of the name isn’t just flavor, he thought. It was almost as if the world around him was suddenly muted, holding its breath, drawing himself and his opponent into an almost startlingly enhanced clarity. He was still getting used to the mental component of his Battle Trance, and he had been surprised to find that the skill was very liberal with what it considered to be a valid trigger. Seemingly anything that damaged him would trigger it – including poisons, or damage he transferred to himself with Arboreal Sanctuary.
+
+He refocused, spending health and mana to maximize his opening attack. His Swipe struck the wyvern under the left wing, staggering it as the bone armor fractured and splintered under his powerful strike. One thing was for certain – with the enhanced mental clarity, he had to watch out for overthinking during battle.
+
+He settled in, focusing his mind on his potent battle senses as his skill warned him of the vicious tail strike just in time for him to block some of the damage. He attacked again, working to build up his restoration and tear through as much of the monster’s armor as he could.
+
+The wyvern retaliated with a spray of green poison from between its bony jaws. He had long since given up on trying to avoid that attack, simply taking the increase in poison damage, and relying on his Brutal Restoration and high vitality to endure it.
+
+Your Poison has increased to 2.
+
+As it was the focus of his test, Mato noticed the exact instant when Calen’s chain disintegrated into tiny motes of light, drifting softly into the surrounding darkness before fading away. The skeletal wyvern clearly noticed too and immediately spread its bony wings and launched itself into the air with a dismissive screech.
+
+I wonder how… Immediately, he sensed the opportunity as his Swipe: Battle Master skill pulsed in his mind. He reared up and swiped downwards feeling a shocking rush of power and momentum in his strike. His clawed paw slammed into the wyvern, tearing long gashes across the bony flank, and slamming it back to the ground to the tune of a painful grunt. Instantly, dozens of tough, gnarled brown roots attached to the stone sprang up and entwined the wyvern’s legs and tail, even growing in through its ribcage, preventing it from fleeing.
+
+Awesome, now you can’t ignore me anymore! Not even the belated realization that he had missed an opportunity to use the overpowering strike to fuel even more of his Brutal Restoration dented his elation at being able to face his foe on an even footing.
+
+The wyvern roared in frustration and lashed out, striking Malika with its tail. Mato transferred most of the damage from the attack to himself using his Arboreal Sanctuary skill, and as he did, he felt his Swipe: Battle Master trigger again. Not questioning it, Mato retaliated instantly, this time fully empowering the strike with both Brutal Restoration and Bestial Combat, striking the wyvern on the wing and shattering the bone in a spray of splinters. His restoration magic spiked sharply from the sheer power of his attack, and more roots sprang from the stone, tangling with the wyvern’s legs, ensuring it could not fly away.
+
+Yes! I love this skill!
+
+Undead were not reputed to be particularly smart, and the skeletal wyvern was no exception, persistently trying to escape and allowing him to finish the battle quickly with a few powerful, well-placed retaliatory strikes.
+
+“Wow, that was impressive!” Ali said, congratulating him. “You killed it by yourself, and so quickly.”
+
+“The roots make it a very strong control skill,” Calen said, thoughtfully writing in his notebook.
+
+“That strike looks incredibly powerful,” Malika said. “Did you forget to enhance the first one?”
+
+“Yup,” Mato answered as he transformed back so he could speak. It had been such a novel trigger for the skill that he had simply seized on it in the moment and forgotten his two support skills. But every single one afterward he had spent the health and mana gladly, for the sheer power and effectiveness of the attack. “And it has a high crit rate, the killing blow was a crit and it felt like cracking an egg.”
+
+“You don’t have that much dexterity for crits, though?” Calen queried.
+
+“It seems to use strength, more like a crushing blow than a precision attack.” It was about the best way he could explain how the attack felt when it landed. His power had been enhanced as if his strength had suddenly doubled, and the bone under his paw had shattered like eggshells from the impact of his strike. He had certainly not been thinking about the exact perfect location to hit, focused only on hitting with all his might.
+
+Mindful of new notifications, he said, “Give me a second.”
+
+Your group has defeated Skeletal Wyvern – Undead Dragon – level 31.
+
+Druidic Shapeshifter has reached level 31.+10 attribute points.
+
+Arboreal Sanctuary has reached level 16.Swipe has reached level 21.Brutal Restoration has reached level 21.Bestial Combat has reached level 21.Battle Trance has reached level 3 (+2).
+
+Identify has reached level 8.
+
+Perfect! The sound of his level notification chime was the perfect adornment to an excellent fight. While most of his skill increases were the results of long hours slogging through the ruined buildings, rather than this single solo challenge against a skeletal wyvern, Mato felt a certain satisfaction at the timely synchronicity. He quickly distributed his ten points as evenly as he could among vitality, endurance, perception, and wisdom.
+
+Dusting off his hands, he cracked his neck and said, “Right, what’s next? Undead pancakes?”
+
+“Yuck,” Ali said pointedly.
+
+Malika snickered, “I vote we fire the cook.”
+
+It’s a good thing he’s so loud, Malika thought, reflecting on her situation, once again fighting deep inside one of the buildings.
+
+The problem was that she couldn’t see a thing. Calen had his crazy eyes that could see in almost total darkness, and Mato had his Survival Instinct, which also enhanced his regular senses. Even Ali could ‘see’ using her mana sight. But here she was, stuck in a pitch-dark underground dungeon, inside a ruined, bone-covered building, with nothing more than her ordinary un-enhanced human eyes.
+
+She, an Ahn Khen descendent, was the only person in their group without any enhanced senses. The irony was definitely not lost on her.
+
+Perhaps I should look for a perception skill next, she thought, charging in the direction of the sound of Mato’s roar. Her head cracked hard against the magical wall of bone that some stupid Kobold had cast in the darkness. It was the third time so far – just in this building. She stepped back and launched herself upward, sprinting up the side of the wall with two rapid steps and vaulting into a flip over the top and the darkness beyond.
+
+A sudden flicker of red flared in the dark and she instantly got her bearings. Landing lightly on her feet, she slapped Mato’s flank with a hand as she sprinted past him and his cozy huddle of skeletons, healing him back to maximum.
+
+“I got the Fire Mage!” Mato, of course, couldn’t answer her, but she knew he adjusted his strategy when she provided him with more information. She punched the mage, and by the light of its firebolt, kicked the two other skeletons lurking in the darkness before turning and sprinting back to where she could hear Mato dragging the skeletons up the stairs almost as if they were leashed to his bear tail.
+
+She punched again, hitting the skeletons beside Mato, adding Soul Strike, not because she needed to kill them, but more so that she could make out the stairs by the flash of her magic, and not trip and fall on her face again.
+
+He’s poisoned again, she realized, dropping another heal on Mato. She would have to watch him a little more closely when they finally reached the top.
+
+Malika burst out of the stairwell onto the rooftop, and into the beautiful light cast by Calen’s magic, with a horde of skeletons and Kobolds on her heels. Much better! Suddenly able to see, she quickly scanned the monsters for any particularly dangerous variants, but this time there were no healers – neither the holy nor the death kind.
+
+“Fireball!” Ali called out, and simultaneously steel lightning nova totems landed by her feet in the center of the monster group, while an intense red glow lit the jagged stone of the rooftop.
+
+Malika slapped Mato again, erasing the damage his restoration had not been able to cope with before she dodged sideways out of the path of Ali’s magic. She took a moment to sweep a skeleton’s legs out from beneath it before crushing another bony ribcage with a satisfyingly crunchy elbow strike. While it staggered, she kicked it squarely in the sternum, knocking it backward into the path of Ali’s next Fireball.
+
+Bone fragments flew and gobs of fire rained down as Malika dodged back in to heal Mato, using her Divine Step to accelerate her run so that she would take less damage from the lightning novas. She landed her heal with a quick touch and then healed herself as she dodged out, just in time to avoid the brunt of the second fireball. One more round, and she was stepping over the charred and burnt fragments of skeletons and corpses as they crumpled, smoking to the ground.
+
+“Easy!” Mato said, transforming back to his regular form.
+
+Easy for you, you didn’t have to run into a bone wall in the middle of the darkness. She smiled though, because he was right, this was getting a lot easier with practice.
+
+And with level-ups, she added, hearing her chimes go off.
+
+Soul Monk has reached level 28.+10 attribute points.
+
+Soul Strike has reached level 16.Healing Mantra has reached level 17 (+2).Perfect Body has reached level 14.Martial Artist has reached level 12.Enlightened Evasion has reached level 15.Divine Step has reached level 15.
+
+Every level counts! Malika divided six points evenly into endurance, perception, and wisdom, dropping the remaining four into dexterity. Thirty’s coming, just got to keep pressing on, because I don’t want anyone using me like that ever again! Realizing what she’d just thought, she pressed her fist against her mouth. Forget them. They’re dead, remember?
+
+No, there was no instant heal for that kind of pain.
+
+Ali collapsed to the stone floor, propping her back up against the polished stone wall beside Malika. She was bone-weary, in the kind of numb haze that came from continual focus and concentration and hours of continually powering spells with her mana. She would need to take the time to resummon some of her minions if they were going to continue, but she desperately hoped they would decide to go home and get some rest. Either way, the summoning could wait for a bit.
+
+The end of the ring had seemed so close, so they had decided to press on and finish it – but the fighting had gone on for hours, drawn out by an influx of undead from the unexplored underground basements as they passed. By the time they had reached the ruined armory, she was spent.
+
+“I’m done,” she wheezed. She had made several mistakes in the last battle, and it had cost over half her minions, making the battle last substantially longer than it would have otherwise.
+
+“Me too,” Malika answered, sounding at least as tired as she felt. Mato just grunted from his spot lying on the stone, and Calen was nowhere to be found, having vanished to scout out the building. Ali had no idea where he found the energy.
+
+It was an achievement, though. Beyond the ruined walls of the armory, seen through the shattered window frame, Ali could make out the jagged edge of the granite foundation of the city ring where it had been snapped clean through, causing about a third of the entire structure to vanish like some gargantuan monster had simply taken a bite out of the city before slipping back to whichever eldritch realm it called home. Reaching the end of the ring meant they would be able to take a break, and when they returned, they planned to tackle the third and final ring.
+
+“I hope the dungeon doesn’t respawn everything while we rest,” Ali sighed. The city was so different now – almost unrecognizable compared to her memories – a broken dark ruin filled with undead and monsters. A dungeon that needed culling before they could even liberate the remains of what had once been a vibrant city full of life, magic, and learning. Her home.
+
+“Me too,” Malika said, clearly too weary to summon more words.
+
+What’s left of it. Ali had to remind herself that it was gone several times a day. It simply didn’t feel real sometimes. While killing the monsters, and undead, destroying the dungeon, and liberating her home gave her a sense of purpose, it was hard for her to recognize that even after they succeeded, at best she would have liberated a pile of ancient broken stone. Her home was gone – gone for millennia now – and without the people, magic, books, and everything, all she would have liberated would be a ruin. A curiosity for the explorers, archeologists, and historians of this age.
+
+“Do you want a cookie?” Mato said, rolling back up to sitting.
+
+“Are you for real?” Ali asked, perking up.
+
+“I have chocolate chip cookies in here,” he said, rummaging around in his pack, before producing his incredible treasure. “Just chocolate, or chocolate with nuts?”
+
+“Ten of each!”
+
+“Huh. Even Ancient Mistresses should start with one.”
+
+Making a great show of begrudging the action, Mato dropped a chunky cookie onto her palm. Ali bit delicately into the chocolate goodness, sighed so hard she physically shuddered, and then before she could even blink, it was gone, and Mato was chuckling.
+
+“Hey, I found something down below!” Calen said, returning suddenly, catching Ali’s attention with his unexpected excitement.
+
+“What is it?” She looked up to see him shifting quickly out of the shadows as his magic faded from his shrouded form.
+
+“Aah, you’ve got to see it!” His motes of light sprang up from his hands floating upward toward the ceiling, filling the room with brightness as he eagerly beckoned to them to follow.
+
+“Catch,” Mato said, tossing him a cookie which he snatched out of the air with a deft hand and a raised eyebrow, but when he realized what he’d caught, a grin crossed his face.
+
+Ali levered herself up to standing wearily and decided that walking might be less work than using her barrier magic. She followed Calen down the long winding stone stairs he had found at the back of the room for much longer than she would have liked, before emerging into a dark room with a polished stone floor.
+
+No dust, she thought, observing the small detail before Calen’s lights floated out into the giant expanse of the room, and what she saw took her breath away. As the lights reached the distant walls, they revealed rows and rows of reddish-black steel shapes gleaming with the characteristic dark of Eimuuran steel. Everything at ground level was gone, stripped bare, but hanging from the walls, beyond the reach of the undead, the glory of the finest work of Dal’mohra’s legendary forges was still proudly on display.
+
+“Wow,” Malika exclaimed quietly, staring at the rows and rows of halberds, swords, daggers, maces, axes, and armor. “Can you imagine showing this room to Thuli?”
+
+“I think he might have a heart attack,” Mato answered, chuckling as he stepped deeper into the armory.
+
+In that moment, Ali felt a small surge of pride rekindled within her. Her home might be lost forever, and her path forward unclear, but even the ruins of what had once been, still held the power to impress her and her friends. Tiredness forgotten, she walked into the room and summoned a large barrier in front of Malika who was staring up at the equipment displayed well out of reach with a look of longing on her face.
+
+Ali hopped onto the barrier and invited Malika to join her, enjoying how her expression suddenly changed to excitement as she suddenly understood what Ali intended. With a simple gesture of her reinvigorated will, she flew them both up to the displays and stopped within reach of a set of beautifully crafted longswords. With clear reverence mixed with excitement, Malika lifted one off the wall mounting and turned it over in her hands.
+
+“This is incredible,” she whispered.
+
+***
+
+“Ali, do you want any of this gear for your Grimoire?” Malika asked. They had spent half an hour flying around the armory collecting whatever Malika had wanted, and now they were sitting on the floor in the middle of the enormous armory surrounded by an array of weapons and armor, carefully organized by type and function. Eimuuran steel to one side, bone weapons and armor to the other.
+
+“Isn’t this all quite valuable?” Ali asked. She had expected Malika would want to sell most of it.
+
+“Yes, it is. I’ve been discarding the poor quality and broken stuff and even just keeping the good items – only, I’m out of storage space. Even all this bone equipment the dungeon created is at least masterwork quality. Anything you can learn and make later is another piece I don’t have to carry back. And it will make you stronger, too.”
+
+“I don’t have any free chapters, but I can learn the swords, armor, and shields at least,” Ali answered. That would cover quite a lot of the gear Malika had collected, and hopefully, between the four of them, they would be able to carry the rest. At least, committing the shields and plate armor to her Grimoire would take care of most of the heaviest stuff.
+
+Variant: Eimuuran Steel Scimitar added to Imprint: SwordVariant: Bone Shortsword added to Imprint: SwordVariant: Steel Bulwark added to Imprint: Shield…Variant: Eimuuran Steel Cuirass added to Imprint: ArmorVariant: Bone-studded Leather added to Imprint: Armor
+
+Ali’s imprints exploded with new information, and as the runes flowed into the inscriptions, her magic manifested more and more pages, growing the size of her Grimoire visibly as she deleted hundreds of kilograms of steel and bone. What remained were the vambraces, helms, sabatons, and weapons she had no imprint space for – and several items that were of unknown level – higher than she thought she could learn at her current skill level.
+
+“Thanks, Ali, that’s much better,” Malika said, beginning to divvy up the most valuable remaining gear to each of them so they could help store it all, the majority going to Mato who had both a mundane pack and his storage ring. “We really need to get you two the upgraded guild ring soon. It’s supposed to come with a lot more storage capacity.”
+
+“Let’s do that tomorrow,” Mato agreed. “I need to stop by Thuli’s and get some repairs for my armor.”
+
+“There’s something strange over here,” Calen called out, interrupting the conversation. “I can’t quite make it out.” He had his small dagger out and was poking and prodding at an unremarkable section of wall and scrutinizing it closely under the light of his magic, and presumably with his potent perception skill.
+
+Curious, Ali walked over to join him, but she couldn’t see much of anything strange.
+
+“I don’t see anything?”
+
+“Look at this,” he said, jabbing his dagger at a different section of the wall than the one he had been examining, making a clinking, scraping sound as the metal blade stabbed tiny chips and scratches in the polished stone finish.
+
+“So?” Ali wasn’t quite sure what he was getting at with this demonstration. Maybe I’m just too tired.
+
+“Now look at this part,” he said, repeating the same exercise on the section of wall he had been studying so intently. The sounds were the same, but when he dusted the wall with his hand, Ali suddenly saw what had caught his attention. Something was off about the entire wall, the dagger had left no marks, and even besides that, it seemed that the polished stone looked just a tiny bit too perfect.
+
+“I saw something like this in the library,” Ali said, her interest suddenly piqued. Focusing on the ambient mana, she noticed a similar lack of mana flowing through the space before her – an effect so subtle that she had simply not noticed it before Calen had drawn her attention to it with his dagger experiment.
+
+“That one was a very sophisticated illusion, it even masked the mana signature…” Ali trailed off as she focused her deconstruction magic on the unusual area of the wall. As before, her magic seemed to shimmer and disappear as it came into contact with the wall, as the illusion suppressed her sight of her own magic. After a few seconds, the space around the wall twisted impossibly and then snapped back to reality with a puff of disrupted ancient mana and a sense of shattering an invisible magical formation.
+
+The plain, unadorned section of the wall was gone, and in its place was an exquisitely crafted door of the same marble as the wall. Not seeing any further magical formations, Ali reached out and tried the handle, but it refused to budge.
+
+“Here, let me try,” Malika said, stepping forward with her fancy lockpicking tools already in her hands. For someone who ostensibly didn’t enjoy burglary, Malika was certainly getting a lot of practice with her lockpicking today. It took only a few moments of poking and twisting before the door made an audible click and swung open with a loud grinding sound – and fortunately, no explosion this time.
+
+Beyond the doorway lay a small dusty room filled with stone tables and alcoves – many of which stood empty or filled with indistinctly shaped piles of dust that may once have been something on display.
+
+However, not everything had succumbed to the passage of time. On the wall were a couple of pieces of armor, a shield, and a few weapons that gleamed with the characteristic color of Eimuuran steel, but there was an additional swirl of unfamiliar black mana that Ali had never encountered before telling her that there was something different about these pieces.
+
+“What is this place?” Ali asked. The armory had not been one of her common hangout spots, and so she had absolutely no idea what they might find in the regular space, let alone some secret vault hidden by an illusion and a locked door.
+
+“I think it’s the secret operations armory, or something similar,” Malika answered.
+
+“What do you mean?”
+
+“Most governments have spies and covert agents for secret work. Probably this place is for their equipment. The gear in here seems tailored for specific purposes, and not the kind of stuff you might advertise to the general public. Here, look at these.” Malika drew her attention to a set of daggers arrayed on a stone table, and as she brushed some of the dust off, Ali saw the gleam of the metal and the black wisps of mana that seemed to hungrily absorb any light that fell upon them.
+
+Eimuuran Darksteel Dagger – level 25 (Shadow)Masterfully crafted from Eimuuran Darksteel, this dagger has been enhanced to cloak your attacks with shadow magic enchantments.Damage: Piercing, Physical, ShadowAdditional Shadow damage on hitMana: Cloak your dagger with obscuring shadowsRequirements: 88 DexterityOne Handed – Dagger – Eimuuran Darksteel
+
+“Darksteel?” Ali asked, examining the blade. At least her identify told her what the unfamiliar mana was.
+
+“Everything in here is Darksteel – it’s a type of metal that is ideal for shadow magic enchantments. And the craftsmanship is excellent. Here, let me show you.” Malika picked up one of the daggers, and with a little infusion of her mana, the blade, hilt, and even half of Malika’s arm was instantly shrouded by an ever-shifting cloak of shadows that warped as she waved her arm back and forth, making the blade impossible to pin down visually. Even with her mana sight, Ali struggled to track it.
+
+“It’s an assassin’s weapon,” Malika said. “Not that I would endorse assassination, but they should be very good for your rogues, especially attacking with ambush from stealth.”
+
+Hopefully, my rogues have enough dexterity to use these, Ali thought, examining the blade after Malika handed it back to her. At least there were several of them and the level ranges overlapped with at least her highest-level rogues.
+
+Variant: Eimuuran Darksteel Dagger added to Imprint: Dagger.
+
+Ali looked up to find Malika staring at a black metal-bound staff hanging on the wall.
+
+“You ok?”
+
+“It’s nothing,” Malika said, brushing off a thought. But then she seemed to reconsider and continued. “It’s a perfect monk staff. My dad used to use staves, and he would have loved something like this.”
+
+Ironwood Staff of Shadows – level 37 (Shadow)Crafted from a single bough of Ironwood and bound with Eimuuran Darksteel, this staff has been enhanced to cloak your attacks with shadow magic enchantments.Damage: Blunt, PhysicalAdditional Shadow damage on hit+10% chance to blockMana: Cloak your staff with obscuring shadowsRequirements: Dexterity 130Two Handed – Quarterstaff – Ironwood
+
+“That has three enchants on it!” Ali exclaimed. She had heard of such prodigious feats of crafting, but she had never personally seen such a thing.
+
+“Yes, this is a very valuable weapon. It's an uncommon grade item.”
+
+“You should take it if it reminds you of your father,” Ali said. She had her father’s shrine, and silly as it sounded, simply having something she could touch that reminded her of her parents had helped her manage her feelings – feelings of being disconnected from her family and the safety of her past world.
+
+“My skills all require me to be unarmed,” Malika said, her hands finally reaching for the staff and lifting it from its mounting on the wall. “But I’m sure Weldin will give us enough money to pay for a whole lot of potions.” She turned and grinned at Ali before storing the staff and moving on to the next display.
+
+“Why is so much of this room just dust?” Ali asked as she watched Malika collect up the few remaining pieces.
+
+“Government secret ops probably employed a lot of rogues, and most of them don’t have the strength for plate armor. The bulk of what was in here was probably leather, and that doesn’t last as long as enchanted steel.”
+
+This was an aspect of Dal’mohra that had been entirely outside her awareness growing up. The idea of a secret force of rogues carrying out missions in the shadows seemed scary. It immediately called to mind several – admittedly popular – stories of deception and corruption in the urban underworld as spies and agents vied for influence and power with the tools of intrigue and murder that Ryn had recommended to her. Ali shivered, glad that she had not had to deal with anything like that in real life.

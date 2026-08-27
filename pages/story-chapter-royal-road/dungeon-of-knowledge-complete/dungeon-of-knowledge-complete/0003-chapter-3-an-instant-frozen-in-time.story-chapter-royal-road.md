@@ -1,0 +1,221 @@
+---
+id: 6954ccf7-61a1-5868-ade0-02506b9bc737
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: An Instant, Frozen in Time"
+slug: 0003-chapter-3-an-instant-frozen-in-time
+partOf: dungeon-of-knowledge-complete
+position: 3
+ownLength: 3348
+unit: words
+ownProgress: 3348
+publishedAt: 2024-01-29
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1499341/chapter-3-an-instant-frozen-in-time"
+royalRoadId: "1499341"
+markedReadAt: "2026-06-29T20:11:06.882Z"
+---
+
+Aliandra
+
+Ali welcomed the feel of earth and grass beneath her feet as they burst out into the forest and left the terror, ice, and carnage behind. The soft embrace of her father’s nature mana domain washed over her, soothing in its touch. The giant mystical oak trees towered overhead, boughs joining high above into a dense canopy, beyond which she could see the stars twinkling in a clear night sky.
+
+She inhaled freshness and life and exhaled her fear and worries. A sense of calm familiarity descended upon her, displacing the assault of chaotic violence, and the terror that had been her constant companion since she had fled the library.
+
+But all was not well. Roars and heavy thumping echoed through the trees; distant battles fought out of sight in the darkness of the night-shrouded forest. Among the undergrowth Ali spied a dark skull, the rest of the bones already overgrown with moss and vines as the magical forest rapidly consumed the remains.
+
+“Elowynn? Aliandra?”
+
+At the sound of her father’s voice, Ali’s head snapped about to find him swooping down from among the branches, his blurred wings leaving a trail of viridian green glowing sparkles drifting in the air. “Dad!” she shouted, sprinting across the mossy ground to catch him in a big hug.
+
+“Hey, little bug,” he said affectionately, wrapping his arms around her and lifting her off the ground for a moment.
+
+“Hey, I’m not little anymore,” she said, pouting as had been their tradition since she was around five years old.
+
+“You’ll always be little to me,” he said. But then his smile faded, and he looked over at her mother. “Elowynn, what is happening? The Grove is under attack by skeletons and other foul undead.”
+
+“Oh Orian, I fear the worst. Dal’mohra has come under attack and is now lost.”
+
+“The worst? The Lich? Are you certain?”
+
+“As certain as I can be. There was a Death Knight.”
+
+Ali felt the muscles in his body clenched at the news and she looked up to find him frowning. There was a look on his gentle face she had never seen before. A look that made her heart stop for just a moment.
+
+“You must take Ali and flee,” he said, his voice low and grim. “Go south and seek shelter with Lirasia, she will know what to do.”
+
+Aunt Lira? Ali thought. It was true her aunt was wise and far more ancient than she let on, but Ali wouldn’t have considered the dryad’s forest a safe haven. Aalion perhaps, or one of the other major cities. “You’re coming with us, right?”
+
+“You know I cannot leave my domain and the Grove for long, Ali. I am tied to this place by the bonds of mana – the Grove is what gives me strength. I will stay and fight, it is what my Class is for. I will send word when it is safe to return.”
+
+“I will take her Orian, I will make sure Ali is safe,” her mom said, stepping closer and giving him a kiss.
+
+Her dad suddenly looked off into the distance. “They come, Elowynn. You must leave. I love you both,” he said and turned away. The ground shook and the forest began to move as towering beast-like elementals of wood and bark the size of small houses emerged from among the trees – her father’s Forest Guardians.
+
+“Dad…” she whispered, as her heart dropped like an anchor into a stormy sea, unable to shake the premonition that he was saying goodbye.
+
+“Be brave, little bug,” he said, turning and smiling at her.
+
+“I’ll try,” she said, speaking around the heavy lump in her throat.
+
+And then he flew off.
+
+The thunderous roar of the crash of elementals shook the enormous oaks to their very roots. Ali found herself still staring at the green sparkles fading between the dark trunks when her mother tugged insistently at her hand.
+
+“Come Ali, we must go.”
+
+On and on through the dark forest they ran, her mother’s golden wings buzzing to help them over fallen branches and gnarled roots. Three tiny orbs followed along bobbing among the branches above shedding their sparkling light to illuminate the path.
+
+The relentless urgency from the hand that guided her vanished, and Ali stumbled to a stop, bent over with her chest heaving as she struggled to catch her breath. Her trembling legs had become liquid fire ever since her mom had run out of potions. She was not made for running.
+
+She raised her head, finding herself in a familiar clearing. Oak trees towered around the perimeter like battlements protecting a town. Stars twinkled overhead in the perfectly clear night sky. And right beside her stood a massive obelisk of smooth polished black stone, silent and steady, an ancient sentinel watching over the Grove. Vibrant green runes glowed, etched all over the stone surface, sending waves of familiar soothing energy billowing from it to wash over Ali and fill the Grove.
+
+The Shrine. It was here that she would unlock her experience, and here that she would finally choose her Class.
+
+“Something is here,” her mother whispered, making a silencing gesture with a finger to her lips. The golden orbs flickered out, dismissed.
+
+Ali huddled closer, taking what little comfort and security she could from her mother’s presence and the massive stone artifact and held her breath. An ominous silence fell across the Grove, and Ali realized she could no longer hear the distant rumble of her father’s Forest Guardians. The Nightlarks were silent. She could hear neither the bubbling water from the nearby flowing stream, nor the breeze rustling through the trees even though the leaves still moved.
+
+Over at the far side of the Grove, the darkness shifted. A tall, gaunt figure emerged, sliding eerily across the ground. Crimson enchanted robes billowed, spilling a roiling black miasma upon which it floated. Dark hands from heavy sleeves clasped together just below the sternum, withered index fingers pointing upward in a strangely mystical gesture. A crimson blindfold covered with silvery runes wrapped around a withered decaying face so dark it seemed to devour even the starlight.
+
+As it approached, a wall of dread and fear smashed into Ali’s mind, far more potent than the Death Knight. Her entire being quivered, rooted to the spot. The barriers her mother had installed within her mind creaked and groaned under the sheer weight of the monster’s presence, shooting jagged cracks and sparks of pain through her mind. Her breathing raced, faster and faster. Run! Her mind screamed. Hide! But her feet betrayed her. Her legs refused to answer her call.
+
+A hissing spectral voice echoed across the Grove, an insidious resonance that crawled its way through her soul and mind. “Aah, Elowynn, so delightful to see you again.”
+
+In the terror and quaking of her mind, a single coherent thought blared out.
+
+How does this thing know my mother?
+
+“Nevyn Eld.” Her mother stepped forward and spoke with an incomprehensible calm. “So, it was you.”
+
+Her mother’s hand found hers again, and a prickle of energy surged through her skin. The creaking fragile wards within her mind suddenly thickened, firmed, and the awful weight of the monster’s presence was forced back just a little.
+
+“Of course,” he said. “I am not one to abandon those who helped me ascend. I need you Elowynn, your mind, and your magic. Think of the mysteries we could unravel together. With my power and your unique golden arcane magic, the secrets of the very foundation of the realms should be ours to wield.”
+
+“I will not submit myself to the will of your dark gods. You are a Lich, Nevyn.”
+
+“I am a Guardian of the Realm, just like you. We should stand together, Elowynn.”
+
+“You have destroyed Dal’mohra. I will forever regret assisting you with that title. If I had known your intentions, the misery and suffering you have caused, I would never have agreed. You were always far too enamored with the pursuit of personal power, and now you have let it corrupt you. You ignored Artur’s ruling and the will of the Council of Kings, and you have trampled the ethics of scholarly pursuit required by the Council of Archmages. You have become a monster. Come with me, submit willingly to the judgment of the Council of Kings. Even now it is not too late to atone, to find redemption.”
+
+Elowynn stood staring down the Lich with fire in her eyes.
+
+“Aah, the beloved rulers of Dal’mohra. Paragons of wisdom, and heroes in their own time,” Nevyn said. Ali couldn’t make out the expression on his face, but she could clearly hear the sneer in his voice. “What a bunch of incompetent and narrow-minded fools. They could have had everything, and they chose to turn their backs on progress. Artur and his friends were just playing at being kings and emperors. They had no idea what they were doing. And the Council of Archmages – they’re even worse – continually bickering about inconsequentialities, banal rules and limits. They merely get in the way.”
+
+“Had?”
+
+Her mother’s question sent a sudden chill of premonition racing down Ali’s spine.
+
+The Blind Lich simply raised a bony hand above a shoulder making the rings on his finger glitter in the starlight as he beckoned. And at his call, three figures emerged from the forest. And as they passed into the open Grove, Ali gasped, recognizing them.
+
+The three kings.
+
+But not. In the middle stood a human warrior dressed in heavy dragonscale armor. Flame flickered from his fingertips and danced upon his sheathed sword. But Artur Dragonsworn was no longer human. The skin on his face and arms had darkened and withered. His eyes were rotted away, replaced by dancing flame. And by his side stood Bragni Doomhammer, similarly dead, and yet walking, the heavy hammer of the dwarven heroes hanging easily in his undead grasp. Hovering behind them, his body rendered translucent by his transformation, was the wraith of Thaldorien Stormshaper.
+
+“They refused to see reason, so now they serve me in death,” Nevyn said.
+
+“You’re a monster, Nevyn,” her mother said.
+
+“You have no idea what lies out there, Elowynn, beyond this realm. There are beings through the rifts that beggar the imagination. Power to consume this realm in an instant.”
+
+“Rifts that you tore through the veil in your selfish pursuit of power.”
+
+“This realm needs a true Guardian worthy to take on the mantle of the title.”
+
+“And you would trample anyone to get it.”
+
+“So what if it costs the lives of thousands of worthless lower beings – they could never matter anyway. Not for any conflict of significance. With your magic I can become more powerful than even the gods, and then this realm will have its guardian.”
+
+“I refuse.”
+
+“I do not offer a choice, Elowynn. I do not require your consent. You will join me.”
+
+“You don’t mean that,” her mother said, stepping back with widening eyes.
+
+“Oh, if you had chosen, I would have entertained the farce for a decade or two, but you will serve me, like them.” At that Nevyn Eld gestured to the three undead kings beside him. “Playing at consensus is wearisome, and my undead cannot question my will. Alive or dead, it matters not. I will have your magic.”
+
+Ali reached for her mother’s hand, finding her fist clenched and trembling. But she responded with a surge of power, and a dense golden barrier snapped into place between them and the Blind Lich and his undead underlings, lighting the entire Grove.
+
+“Very well,” Nevyn’s sepulchral voice sneered, suddenly devoid of any remnants of its previous fake civility and politeness, leaving chilling echoes in Ali’s mind. “You are just as short-sighted and narrow-minded as they were.”
+
+He thrust a gaunt, withered hand toward the golden barrier, and a dense ball of black energy sprang up over the outstretched palm. The energy sucked at the surroundings, drawing in the light, spinning as it grew. The grass around the hem of his ornate robes began to wither and blacken as the energy pulsed like an undead heartbeat. And then it shot forward, striking the barrier in the center with a deafening detonation.
+
+To Ali’s horror, she saw a spiderweb of cracks burst outward through the golden wall from the force of the impact.
+
+A chilling hissing filled the Grove. “How long do you think you can last with just a barrier? We both know your class is not suited for combat.”
+
+As the broken shards of the golden barrier fell tinkling to the ground, Ali realized he was laughing.
+
+Ali’s mother stumbled, pain and intense effort written plainly on her face. “You will not get what you want this day,” she managed between clenched teeth.
+
+Ali stared, horrified as the powerful energy began to form above his hand once more. Her mother had spent so much saving her from the Death Knight – she had nothing left to give.
+
+Without thought Ali leapt forward, putting herself between the Blind Lich and her exhausted mother. Her mana came easy to her, manifesting itself as a small sliver of golden glowing arcane energy. With a thought, she crystallized it and launched it at the Lich’s face.
+
+“Ali! No!” her mother screamed.
+
+His dark energy vanished as his hand snapped up and caught the golden sliver. He raised it, grasped between two bony fingers, as if examining it through the crimson blindfold. And then he crushed her Arcane Cantrip, the brittle construct shattering into tiny motes of mana that drifted away dissolving into the air.
+
+Ali stared at the motes, a mute hollowness filling her. What was she thinking? He had shattered her mother’s barrier; her magic was nothing to a monster like this.
+
+The Lich’s head slowly turned, and his blind gaze fixed on her with an intensity that set her mind reeling. “Elowynn, you never told me your daughter inherited your magic.”
+
+“You will not lay a hand on her.” Her mother’s low voice carried powerful determination and resolve, but her face had blanched to the color of Ali’s white t-shirt, and she suddenly realized she had made a terrible mistake revealing her magic.
+
+Another golden barrier appeared, but this one was far smaller. And seemed to hang in the air with a strange fragility.
+
+The Lich released dark energy from his hand and the golden barrier exploded into a shower of shards. His chilling laughter hung in the air. “And you will stop me, how? Look how powerless you are kneeling on the ground in front of me. Your magic is defeated.”
+
+“I will come with you, Nevyn. Just promise you will not harm Ali,” her mother said. All signs of fight had left her eyes as she sat sprawled on the ground at his feet.
+
+“I no longer need you. She will prove far more… amenable to my… teaching,” Nevyn said. And another ball of dark energy shot out towards her unprotected body.
+
+“No!” Ali launched herself desperately toward her mother. Her precious library book, forgotten in her panic, flipped end over end flying through the air. But she was far slower than the Blind Lich’s death magic.
+
+Suddenly, everything stopped – an instant, frozen in time.
+
+Even the color leached from the world as Ali tried to blink. But she couldn’t move, her mind filled with the whispers of powerful magic. Her body was frozen in place, stretched towards her mother. The Lich was unmoving. The ball of intense energy was pinned in place, not moving at all. Behind the Lich, a leaf hovered mid-fall.
+
+Her library book, runes now faded to gray, hung frozen in place a few centimeters above the ground.
+
+What…
+
+“Aliandra,” her mother spoke, slowly rising to her feet, exhaustion etched upon her face. She alone had color. “I know you can hear me, but you will be unable to speak. It is ok, just listen. Nevyn Eld has exchanged his humanity to gain immortality and power in service to his Dark Gods. He must never have you. I’m sorry, he is too powerful for me to fight off. This is the only way I can protect you. Please do not hate me.”
+
+The gray world around them flickered, and the Lich vanished, replaced by a scene with ghostly people standing frozen in the Grove while a gray sun shone in the sky above. Several birds hovered in the air; their wings frozen in mid-flight.
+
+Ali’s mother walked up to her – the only thing moving in this strange frozen world – and reached out to cradle Ali’s face with gentle, warm hands.
+
+“I wish this moment could last forever.”
+
+Mom! Ali struggled to speak, to return her mother’s touch, anything. But her efforts were in vain.
+
+The hands touching Ali grew translucent. Tiny motes of golden light floated up out of them, drifting slowly towards Ali. A sphere of golden energy began forming around her, encasing her entire body. More and more of her mother’s body grew transparent as her energy drifted out and merged with the powerful magical construct. And within the sphere, the magic grew inward, crystallizing the entire space. She could feel the powerful mana slowly seeping into her body and crystallizing within her.
+
+Around her the gray world flickered again, restoring the night sky and the frozen forms of the Lich and his undead servants. The only color in this bizarre world was her mother, and the golden energy drifting from her, slowly forming the sphere around her.
+
+She couldn’t blink. She couldn’t cry. All she could do was watch as her mother slowly faded.
+
+“Always remember that I love you,” her mother said, as she finally dispersed into golden mana and the spell snapped into completion.
+
+Ali’s heart screamed her pain as her mother faded into nothingness, and the last remnants of her magic solidified, the last sounds of her voice faded into silence.
+
+A sudden, shatteringly loud gong sounded, its reverberation felt through the crystalline magic that held her. And then it sounded a second time.
+
+[Realm] Elowynn Amariel [Guardian of the Realm] has cast the legendary spell: An Instant, Frozen in Time.
+
+[Realm] A Guardian of the Realm has fallen.
+
+Everything restarted. The leaf fell. The book clattered to the stone path. The black energy smashed into the golden sphere protecting her body and dissipated harmlessly into the air.
+
+Nevyn Eld roared silently in fury, in the gray world outside her sphere.
+
+The only thing that didn’t restart was Ali. She couldn’t move. She couldn’t hear. She could only see what was directly in front of her through the golden barrier. Her entire being crystallized within the glowing magical construct, held apart from the strange gray world, and the monster intent on her destruction, by the magic her mother had conjured.
+
+Lightning flickered across the sky, and rain fell on her barrier. Nevyn Eld and his Death Knight minions silently raged and vented their fury against the unyielding magic for what seemed like an eternity. But all Ali could see was the memory of her mother’s face, and all she could hear was her last words.
+
+The world shifted in flickers. The sun appeared suddenly in the sky. The Lich and his minions disappeared. The sun jumped forward across the sky while birds and animals vanished.
+
+Ali struggled to grasp what was happening, her heart empty and desolate with grief. With all her being she desperately wished for her mother’s touch, or the sound of her voice.
+
+The flickers came quicker and quicker, the sun crossing the sky in sudden discontinuous jumps. Night fell and passed in several snapshots and suddenly the sun was high in the sky again. The entire mountainside before her suddenly exploded, crashing down on the forest and covering the vast canopy with tons of rock and earth, blocking the sky and leaving her alone in a vast cavern of darkness.
+
+As her consciousness faded, she wished only that she could cry.

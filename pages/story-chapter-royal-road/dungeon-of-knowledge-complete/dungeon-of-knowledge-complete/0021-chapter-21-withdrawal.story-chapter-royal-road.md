@@ -1,0 +1,239 @@
+---
+id: 000834bc-6a6b-5d4a-80f7-6404bb9c6447
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21: Withdrawal"
+slug: 0021-chapter-21-withdrawal
+partOf: dungeon-of-knowledge-complete
+position: 21
+ownLength: 3606
+unit: words
+ownProgress: 3606
+publishedAt: 2024-02-17
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1521870/chapter-21-withdrawal"
+royalRoadId: "1521870"
+markedReadAt: "2026-06-29T20:11:41.605Z"
+---
+
+You have been afflicted with Domain Withdrawal.Separation from your domain weakens you.-10% to maximum health.Affliction – Duration: Indefinite. Count: 1
+
+Ali woke screaming as an agony like nothing she had ever known tore through her body and mind, rendering her incapable of anything other than curling up into a ball. She hung on, desperate for any form of respite, but the torment was unremitting.
+
+A large hand suddenly clamped over her mouth, cutting off her already hoarse scream. She struggled weakly against the powerful grip, twisting to see who it was.
+
+Mato!
+
+At the sight of him looking down at her, she panicked, flailing to get away, but she was so small and racked with pain that she was no match for the huge Beastkin’s overwhelming strength.
+
+“Ali, stop screaming, the Kobolds will find us!” His urgent whisper was edged with desperation. It took a few moments for the meaning of his words to percolate through the haze of pain and panic, but suddenly, her awareness snapped to the present and she realized where she was.
+
+We fell. That was a memory. Some of it. With sudden clarity, she realized Mato wasn’t trying to kill her again, and the fight against the Kobolds in the darkness crashed back into her mind as she remembered where she was. She clenched her teeth to keep from screaming. She bit so hard that she cut her own cheek, feeling a fresh surge of pain and the taste of blood in her mouth. Surprisingly, the more mundane pain made the pain from her withdrawal very slightly more bearable.
+
+Mato’s hand released its hold on her. “Can you call your rats off?”
+
+It was only then that she realized she could hear her rats biting and scratching, trying to kill Mato. She sent a quick mental command, and they stood down. The freshly bleeding slashes and bites on Mato’s back slowly began to close under the influence of the subtle shifting green radiance of the surrounding restoration circle.
+
+“It… it’s my domain … withdrawal,” Ali managed to whisper between clenched teeth, wrestling to get her heart palpitations under control and slow her hyperventilation. The Druidic Restoration magic had already repaired the self-inflicted bite on the inside of her cheek, but it was having absolutely no impact on the agony of the domain withdrawal.
+
+She had been aware of the cost of a domain-bound class and understood domain withdrawal. She had even knowingly accepted it when she had decided on her class, but... I had no idea it would be so painful.
+
+She slumped back to the ground, curling up into a fetal position, hands wrapped around her head.
+
+“You just leveled up, can you put some points into endurance?”
+
+“What?” It sounded like gibberish to her. I just want the pain to stop!
+
+“Fighters and warriors use endurance to mitigate pain.” Mato’s voice sounded uncharacteristically worried. Touching her shoulder, he said, “It’s not just about more stamina, it allows them to function even when they’re wounded. Maybe it can help with this?” She flinched at his touch, and he snatched back his hand as if scalded.
+
+Ali was willing to try anything. Even his crazy idea. After a brief struggle to focus on the task, she managed to spend one of her free attribute points on endurance, bringing her total up to six. As soon as she did so, the pain eased noticeably, as if unseen talons wrapped around her skull suddenly loosened their death grip – just a little. Desperate for relief, she rapidly spent four more points, and suddenly, the overwhelming pain was gone.
+
+Not gone, she realized, as her mind began to clear, and her breathing steadied. She could still feel the pain well enough. It feels less important, somehow? I’m not very good with pain. She found she could put it into the background, and she could think and move more normally.
+
+“Thanks,” she said, sitting up and keeping herself as far from Mato as she could get while still being inside the runic circle. “The pain isn’t gone, but at least I can think, now.”
+
+“Yes, that’s how it works for me, too,” he answered, and then fell silent, staring at the ground between his feet.
+
+They sat there for a while before Mato eventually broke the silence.
+
+“Aliandra…” After trailing off he started again. “Did I… did I really attack you?”
+
+“Yes.”
+
+Ali hugged her knees to her chest as the unwanted memory of Mato thrashing her body back and forth surged back into her mind.
+
+The blood drained from Mato’s face the instant she confirmed it. “I… I’m really sorry,” he said, his voice cracking badly. “I thought I could control it. The rage. But I can’t even remember half the fight.”
+
+He couldn’t even look at her.
+
+Ali simply sat, struggling to process the torrent of emotions that his words had unlocked.
+
+“Calen was right, it’s a dangerous skill. I didn’t listen to him because I thought it was cool and powerful. I thought I could be strong like my dad. And I hurt you. I nearly killed you.” He fell silent, staring down at the ground, his shoulders hunched and his hands gripping his thighs till his knuckles turned white.
+
+He was clearly suffering, but he still terrified her. If he hadn’t been so weak at the end, he would have killed her with his uncontrolled rage. She had liked the big Beastkin with his outgoing personality and carefree attitude; his gentler side when he read to her.
+
+It’s just his skill, she told herself. Rationally, she knew he was the same person, simply affected by the nature of his skill, but even knowing that had no impact on the primal, instinctive fear she had of being hurt by him. And her fear was rational, too.
+
+What happens next time?
+
+He groaned, “Are you alright? Ali?”
+
+“I’m not ok, Mato.”
+
+He looked up and Ali recognized anguish and guilt in his eyes. “You’re right to be afraid of me. I never wanted to hurt you, but I don’t think I can control it. I wouldn’t be ok if I was in your place. I think you would be safer without me.”
+
+“How does it work?” Ali asked finally. The reality of her situation was slowly settling like a millstone of brutal practicality weighing down upon her. She was not sure if she was more terrified of Mato, or the idea of facing the monsters out there in the darkness by herself.
+
+“The more damage I take, the stronger the effect. It gets really hard to control around half my health. I don’t remember anything after I dropped below a third remaining. I already tried to remove the skill, but I can’t replace it unless I unlock something new.”
+
+The admission that his remorse had driven him to risk crippling his power to make it right tipped the balance a little away from the monsters and in favor of the person she had been getting to know.
+
+“Can we keep it above half then?”
+
+“I don’t know,” he admitted. “I put all my points into vitality and endurance. And my Bear Form skill leveled so I have more armor. But those Kobolds were much higher level than us, and I don’t have any protection against fireballs.”
+
+“I would definitely die if I had to face a group like that on my own.” All her instincts rebelled against her resolution. If they had been somewhere safe, Ali was certain she would not have entertained the idea of putting herself at risk of facing his rage a second time. But she was certain she had heard more Kobolds outside, and there was absolutely no chance of her surviving on her own.
+
+“You sure?” Mato seemed surprised.
+
+Ali nodded. Even though she hated it, she had no reason to second-guess her choice. “We need to get out of here, and we stand a better chance together.”
+
+“Ok. But keep your distance in fights and be ready with your barrier.”
+
+“How much armor do you have?” Ali tried to distract herself from her roiling emotions by turning to the practical concerns of strategy and fighting. She didn’t have Malika to help, but she had learned a few things about what mattered to the physical classes.
+
+“One hundred and fifty-four when I’m a bear. Nearly fifty percent physical damage reduction against a level six monster, but it falls off rapidly when they get higher.” He paused for a moment before continuing, “But that Fire Mage was level nine, and I have no magic resistance.”
+
+“I have neither,” Ali replied. In any fight, the only defenses she had were her barrier and any of her creatures or allies. She had far less health than any of her friends, and now she had ten percent less from her Domain Withdrawal. “If we have to – when we fight something, you take the warriors and rogues in Bear Form and don’t forget to heal yourself. I’ll try to kill any mages first.”
+
+Ali looked around the room. She had not had much chance to examine it till now. There was no light, other than the greenish glow of her restoration circle, and all she could see of the ceiling was a dark void representing the hole they had fallen through. It looked like it had been fashioned with some engineered purpose by the ancient Dwarven Stone Mages that had built most of Dal’mohra.
+
+A ventilation shaft? It wasn’t a particularly helpful thought, though – without being able to fly, they were not getting out that way. The only option was the doorway she had blocked earlier with summoned slabs of stone.
+
+“Do you think Calen and Malika survived?” Mato’s subdued voice shifted her focus.
+
+In the short few days Ali had known them, she had come to see them all as friends. She felt particularly close to Malika after some of the conversations they had shared. It had taken no more than a single instant for all of that to be crushed. Her thoughts returned to the battle from earlier, and the incredible power of the dark rogue that had appeared from nowhere, shattering Armand’s skeleton with a single blow. If they had survived, it was only because he wanted them alive. “I hope so,” Ali finally answered, but her hope felt slim and fragile.
+
+“Me too.”
+
+“Let’s see if we can find our way out of here,” Ali said, scrambling to her feet.
+
+“Ali, thank you,” Mato said softly from a little way behind her. “For healing me, even though…”
+
+She turned to look at him and nodded, not trusting herself to answer. Instead, she changed the subject. “I’ll deconstruct the stone. You get ready in case there are monsters.”
+
+“Ok,” Mato said, shifting to his Bear Form.
+
+Ali’s breath hitched in her throat at the sight, and she quickly turned to the doorway and deconstructed the rough stone wall barring the exit. As it dissipated, she also released the mana reservation for her Restoration runic circle, causing the glow to fade. She would need the mana.
+
+Then she stepped out into the darkness beyond the door.
+
+Ali found herself in a dark, stone-paved alleyway, littered with dusty broken bones. Here a pile of bleached ribs, off to the side, a partially intact skeleton. And, nestled up against the shattered stone doorway of a building, she saw an elongated skull with prominent fangs that may have come from some reptilian creature.
+
+Kobold, she guessed.
+
+There were numerous scuff marks and tracks in the dust, and even the beautifully fitted flagstones were worn down from countless years of passage. Behind her, the giant stone tower containing the ventilation shaft she had fallen through vanished into the darkness far above.
+
+Where are we?
+
+Ali had a clear answer to the question. Without a doubt, she was home.
+
+Dal’mohra.
+
+More precisely, this was definitely the upper level of the city: the residential level where she and her mom – and all her friends had lived.
+
+Now it was buried deep beneath the foundations of another town, almost unrecognizable.
+
+The support towers, like the one she had just stepped out of, had always been visible under the light of the floating solar orbs. Even at night, when they dimmed the magical lights, the Grand Library Arcana had stood out like a beacon, glowing with enchantments and runic magic. A landmark, visible from anywhere within the city.
+
+It had been such a fixture in her life that just standing here in the ruined alleyway, covered with bones and the dust of ages, staring at the impenetrable darkness left her bewildered and disoriented. Like an anchor that had always stabilized her life had been uprooted and swallowed up, leaving her aimlessly adrift.
+
+Even the electric buzz and vibrance of the city’s ambient magic on her skin – the signature bustle of a thriving magical metropolis – was gone, replaced by an ominous prickle, an energy that made her skin crawl and want to hide.
+
+A chorus of strange, distant chirping noises sent chills running down her spine.
+
+“Kobolds,” Mato confirmed in a whisper, joining her in the alleyway.
+
+“I’m not certain where we are,” she said, keeping her voice to a matching whisper. “Definitely Dal’mohra, but I can’t tell which way is out.”
+
+“Let’s explore a little and see if we can figure it out.”
+
+Ali nodded, and then picked a direction at random, instructing her rats to follow along and be ready to defend them. The clicking of their claws on the stone, and the crunch as they stepped on fragments of bone, echoed loudly off the stone buildings in the muffled silence of the ruins, putting her on edge.
+
+As she turned the corner, she directed her attention upward at the cavern roof, somewhere beyond the darkness, intent on catching a glimpse of the Grand Library tower, or anything that may help orient her. Something invisible and tight pressed against her shin, and before she knew it, she hit the ground face first, tripping with all the dignity and grace of a sack of vegetables.
+
+A soft swoosh and a brush of air at the back of her neck froze her complaints and grumbling right in her throat before she had a chance to let them out.
+
+“You ok? Did you get hit?” Mato was leaning over to help her up.
+
+“What was that?” she asked, staring at the obstruction. The thing she had tripped over was a thin black wire. Who sets wires across streets? She rubbed the skin on the back of her neck where whatever it was had brushed her and shivered.
+
+“Dart trap,” Mato answered, pointing to where three small, sleek shapes had slammed into the wall beside them so hard that they were still quivering from the force. A thick dark fluid slowly dripped down the stone from where they had hit.
+
+Ali froze at the sight. That almost hit me! She touched the almost invisible wire, hearing a soft click, and snatching her hand away in surprise. Aah! But fortunately, no more darts were fired.
+
+“Sorry!” she exclaimed, barely remembering to keep it to a whisper. I’m an idiot.
+
+“It’s ok,” Mato replied. “Perhaps I should go first?”
+
+“Is that poison?” she asked, pointing at the stuff slowly trickling down the wall.
+
+Mato turned to examine it. “I can’t tell for sure, but that would be a safe guess.”
+
+“How about we send my rats first?”
+
+Vigilant, now, for the possibility of near-invisible tripwires, they continued down the alleyway at a much slower pace with one of Ali’s rats in the front just in case. They followed the alleyways through a maze of twists and turns, finding two more tripwires along the way before Mato suddenly stopped.
+
+“Hide!” he hissed and darted back.
+
+Ali scrambled for a dark doorway and dove through it as her rats careened in after her with Mato bringing up the rear. One of the rats stumbled and rolled into the room making a terrifyingly loud sound of clattering and crunching on the piles of bone inside the darkness of the ruined house.
+
+A few moments later she heard the chirping calls of the Kobolds – far nearer. And then, as she held her breath in the darkness of the ruined house, two dark shapes passed by the entrance. A few points of mana drained from her mana pool, but she was too focused on not breathing or making any noise to be distracted by her difficult skill.
+
+Instead, she used Identify.
+
+Warrior – Kobold – level ??Rogue – Kobold – level 13
+
+The Kobolds ambled by painfully slowly, their scaled tails swishing through the dust, occasionally knocking loose bone fragments flying. Their gleaming talons clicked on the stone with every step, sending sharp pulses of tension running through Ali’s chest.
+
+Level thirteen! And the other one, the warrior, was so high Identify couldn’t even tell her the exact number; simply revealing it had two marks – anywhere between ten and ninety-nine.
+
+As the Kobolds passed, and the chirping sounds began to grow quieter, one of her rats collapsed to the ground, twitched twice, and then she felt her mana reserve release. Ali turned immediately but there was no obvious threat.
+
+Mato reached out and plucked something from the flank of her dead rat. Opening his hand, he revealed a dart like the ones from the tripwire trap she had set off earlier.
+
+“I guess that answers the poison question,” he said soberly.
+
+They decided to wait in the dark ruined house till the Kobold calls had completely faded, and then waited more just to make sure. Ali took the opportunity to summon a new rat, and by the light of her Grimoire, it was clear that the normal contents of a house were long gone, replaced by bones and some sticks, and even some kind of nest in the corner with age-darkened eggshell fragments. Behind the nest, Blackened Deathcap mushrooms sprouted, growing on the bone and even part-way up the wall.
+
+It's so different to before, she thought, still struggling to come to terms with how old and ruined the city felt. A few days ago, she had been dodging throngs of people on the way to the library or the market, her head filled with the mundane worries of life, and the anticipation of unlocking her scholar class.
+
+Dal’mohra felt wrong; wrong in a way that set her on edge. The darkness, the distant calls of monsters, the smell of age and decay, the deeply worn and pitted stone, unfamiliarity and fear tainting the home she had known her entire life. She rolled her shoulders, trying to ease the tension in her neck, but it had settled in, refusing to be dislodged.
+
+Setting out together once more, Ali resolved – even more than before – to be aware of her surroundings. Taking the time to examine each turn for monsters or tripwires really slowed them down, but they eventually emerged from the twisted alleyways into a wider and straighter street.
+
+One of the concentric arterial roads? While she didn’t immediately recognize this street, Dal’mohra’s architectural plan was simple and elegant; a circle with the Grand Library Arcana at the center, enormous radial boulevards cut through the terraced rings, and many concentric roads divided the districts. The road they had just emerged onto extended off into the darkness in both directions, and she could see just far enough to perceive the slight curve.
+
+That means the center is that way?
+
+As soon as she turned to look toward where the Grand Library should be, a loud clatter of bone and steel broke the silence. From a shadowy concealed alleyway across the opposite side of the street, two ungainly forms emerged.
+
+Warrior – Undead Skeleton – level ?? x2
+
+High levels! Both the skeletons were beyond her ability to Identify. Their stiff clattering charge seemed entirely too fast as they rapidly closed the distance.
+
+Attack! She commanded her rats. “Run!” she yelled at Mato. To her surprise, the fight-loving Beastkin followed her directions without hesitation, instantly turning to flee with her into the nearest alleyway. They ran, heedless of the traps and twists and turns until Ali was forced to stop, her stamina entirely spent.
+
+“Mato…”
+
+The Beastkin boy stopped up ahead and turned to rejoin her, motioning to a darkened doorway into another ruined house. Carefully stepping over the dark black wire, Ali followed Mato inside and slumped down with her back against the wall, breathing heavily. Where are we? She was thoroughly lost, having entirely lost track of where they had been with all the twists and turns in the dark. She had sensed her rats dying as they ran, by the strange sensation of her mana reservation – the connection maintaining her summoned creatures – snapping one after the other in quick succession.
+
+“I couldn’t identify them,” she told him.
+
+“Good call,” he whispered. She could barely make him out in the darkness, sitting far enough away that she couldn’t reach him without getting up, but just close enough to see.
+
+After sitting there in the dark for a few minutes, they heard the shuffling clatter of footsteps from somewhere outside. But though the noises grew louder for a while, they passed their hiding spot by what sounded like a street or two, never getting close enough to force them to run.
+
+“I think we lost them,” Mato said eventually after silence had returned.
+
+Ali nodded and began resummoning her minions.
+
+We’re never going to get out of here like this.

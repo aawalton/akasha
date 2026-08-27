@@ -1,0 +1,161 @@
+---
+id: c7b5915d-5bd8-5545-932b-3bac2f48baca
+page-type-slug: story-chapter-royal-road
+title: "Chapter 185: Flamecaller Hunter"
+slug: 0188-chapter-185-flamecaller-hunter
+partOf: dungeon-of-knowledge-complete
+position: 188
+ownLength: 3417
+unit: words
+ownProgress: 3417
+publishedAt: 2025-01-19
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2018415/chapter-185-flamecaller-hunter"
+royalRoadId: "2018415"
+markedReadAt: "2026-06-29T20:17:27.879Z"
+---
+
+Something prickled in the back of Ali’s awareness, like an entirely imagined itch in the back of her mind.
+
+What is that?
+
+She searched around for any sign of what it might be, but, although the sensation seemed remarkably persistent, it was just as elusive. Clearly, it had nothing to do with the mines or where she was sitting, so, trusting her friends to warn her of anything dangerous, she closed her eyes and focused on the prickle.
+
+Is that coming from Martial Insight? It seemed somehow related to her connection to her monsters, and so she relaxed and sent her awareness off, somehow following the nebulous direction of the sensation. Ordinarily, she would just pick the minion to connect to directly, but this time her senses were giving little to no clue as to the source. It was awkward, and she had no idea what she was doing, but then suddenly, surprisingly, her senses connected, and she found herself staring at a wolf pack with the quality of vision only possible with exceptional eyes. She could smell humans – a strangely aggressive combination of treated leather, oiled steel, and unusual spices.
+
+Ali turned her head, studying the landscape, recognizing the den with the overhang she had fashioned out of solid rock, and the Timber Wolves she had turned into one of her latest raid bosses. She felt out the perimeter of her domain attachment like she possessed an extra sense of touch – the range she had been granted by the dense currents of mana that thrummed through her body and mind. Off to one side, gathered among the apple trees, safely out of range, a group of adventurers huddled together.
+
+That’s Havok, she thought, recognizing the holy shield and the green leathery face with his toothy grin. Behind him, she spotted Basil and Teagan. Aiden was there too, and the beast-tamer girl, Willow, with her companion Timber Wolf – the one she had earned right here in Ali’s dungeon.
+
+It was a full raid group, and they were setting up to test one of her newest bosses. But why aren’t they trying the lake boss? The paired shamans and Brine Ooze were designed to be a lower-level challenge, hopefully giving the bronze-ranked adventurers an easier path to progress before tackling this one. Did they just not find it? The Timber Wolves were level twenty-six and outleveled them by a hefty margin. Not impossible, but…
+
+Trust them. They had been trained by the guild – even taking extra classes with Malika and Calen on combat and strategy. They knew the importance of information gathering, defenses, teamwork, and most importantly, having escape options ready. Reluctantly, Ali released her connection to her wolf’s senses lest she jeopardize their experience.
+
+At least this time, she had detected the attempt before it was over. That’s progress!
+
+“Incoming!” Calen yelled, breaking her reverie in an instant.
+
+Ali snapped her eyes open and a barrier up in front of her face before preparing herself and readying all her minions. Ever since she had found they could throw the spears, she had been fighting far more defensively, making sure she always had her protective barrier up – she had no desire to be impaled by one of those vicious spears. Ali skewers are right out!
+
+“You guys help Mato and Malika,” Ali said, addressing her Hobgoblins, pleased to see how nimble and powerful their movement seemed as they rushed to join the group forming up front.
+
+Calen sprinted through the center of their melee group with three Flamecaller warriors chasing him, his lithe form dodging left and right with uncanny prescience and his form blurred by his defensive skills. Ali had no idea how he had avoided all of their spear-charge attacks, but he appeared to be entirely uninjured. Mato stepped forward, his chest puffed up aggressively, and her Hobgoblins braced themselves behind their gleaming dark Eimuuran shields. The female Hob snarled, brandishing two matching compact handaxes.
+
+The Flamecallers’ serpentine bodies blurred into accelerated rushes and battle was joined in a tremendous crash. Mato roared. Ali’s Hobgoblins shouted. The clanging of steel spears hitting shields rang out across the battlefield.
+
+“Begin,” Ali told the rest of her minions, her words punctuated by the cracking of lightning from the shamans she had kept back at range.
+
+It will all depend on how they handle the intimidation, she thought, keeping a wary eye on her Hobgoblins as she raked her barrier shards across the left flank of the enemy formation. Her rogues and shamans had been unable to recover from the devastating hisses, but they were scarcely level twenty at best. Her Hobgoblins didn’t have a lot of wisdom, which Malika had said would resist the effect, but at least they were twice the level and far more durable. She continued to control her barrier shards, harrying the Flamecallers, while slipping into the perceptions of her Hobgoblins to monitor their fight.
+
+The first thing she noticed was just how little they were getting hit through that armor and their shields and masteries. They’re not even burning yet, she thought. Mato got hit a lot, and was already on fire, even though his hide was super durable. Without a shield, her axe-wielding Hob took more hits, but even she seemed to be very resilient. Blocking is very strong, she observed, taking the opportunity to study the defensive style of the Goblins. And armor proficiencies. I wonder if it would be possible to build a Goblin horde strong enough to snarl up monsters like these and bring them to a standstill?
+
+One of the Flamecallers at the back reared up and let out a powerful, magic-imbued hiss, and all their melee attackers flinched and cowered. Ali held her breath as the Acolyte next to her flared with holy light. Malika straightened up and unleashed a precision strike of stiffened fingertips to the throat of the hissing elemental. The intimidating sound cut off with a choked gurgle. A few seconds later, Mato roared and Swiped at the creatures. Terror rolled in through the link she had with her Hobgoblins, and several long seconds passed while they were hit by powerful, cleaving spear attacks. Suddenly the female axe-wielder raised her head and shouted; a booming cry that filled the battlefield with a thrilling call to battle that set even Ali’s heart thumping, and the rest of the Hobgoblins suddenly raised their shields in unison.
+
+Ali let out the breath she had been holding. It looked like they would be effective after all.
+
+***
+
+The expansive rocky cavern lit by the perpetual dark fires finally narrowed, and Ali found herself following Calen’s floating orbs of light through a rocky tunnel that twisted and turned, winding ever onward into the depths of the mine. The oppressive heat still crisped her skin and dried out her eyes and mouth. Every few minutes, she would feel the warmth of a holy restoration spell, and for one blissful moment, the ever-present pain would be briefly soothed as her skin healed. It felt much like getting a horrible sunburn that cracked and flaked her skin – except it took barely a few minutes to set in. Then, the cycle of healing and burning repeated.
+
+“There’s something different in the next area,” Calen whispered, pointing out into the expanse of a new cavern. There were fewer pools of bubbling black tar, save for a single large lake of it almost centered within the cavern, surrounded by giant half-melted pillars of stone. Ali couldn’t quite make out what Calen meant, until suddenly, a small group of monsters appeared.
+
+Ali swapped to the senses of her Hobgoblin leader, to take advantage of her superior vision. Up ahead slithered two Flamecallers. These, however, carried large, powerful-looking recurve bows slung over their backs, made from what looked like heavily enchanted wood or bone. Their serpent-like heads swiveled continuously, scanning the terrain, while their tongues flickered out as if tasting the sulfurous, scalding air. Ranged out in a fan formation ahead of them were six monstrous two-headed wolves oozing sinister power and feral alertness. They stood nearly two meters tall at the shoulder and even at this distance Ali could see their heavy muscles rippling. Their coats were midnight black but lit from within by a soft reddish glow, making them look like creatures of ember – still-burning coals of a dying fire. As they stalked across the rocky ground, they left footprints of pitch-black flame that lingered behind them, and from their mouths and noses trailed black wisps of smoke as they breathed. Ali shivered despite the heat.
+
+Hunter – Flamecaller Elemental – level 64-65 (Hellfire) x2Hellfire Warg – Demonic Wolf – level 52-56 (Hellfire) x6
+
+“The wargs are minions,” Calen said quietly from the cover of the shadows and proceeded to list the levels and threat assessments.
+
+“Some kind of hellish beast tamer?” Malika asked.
+
+“They have a hellfire affinity, too,” Ali added, shuddering again at the memory of the hellfire rune burning her fingers. She could only describe the flame as excruciating and ravenous. When she had first entered this dungeon, she had struggled to endure the continual burning of the fire affinity mana. Now, however, she would happily choose that over any intimate contact with the dark flames of hellfire.
+
+“What is hellfire, exactly?” Malika asked.
+
+“I don’t know,” Ali said. “It seems to be a specialization of fire mana, but it burns a lot hotter and faster than regular fire, and it’s a lot more painful.” She made a mental note to ask Ryn to do some research. If there was any good way to mitigate this fire, it would be worth knowing.
+
+“Remember to be careful. It’s surprisingly tenacious, difficult to heal,” Malika said – an observation Ali had plenty of experience with, having personally observed her Acolytes struggling with it.
+
+“How about I tank the little doggies while you all get the archer guys?” Mato suggested. His words sounded casual, but his eyes conveyed a look of serious focus as he studied the demonic wolves.
+
+“Those wolves look like they might do a lot of fire damage,” Calen said, presumably guessing from their smoldering appearance, hellfire footprints, and the wisps of smoke curling up from their mouths. Ali was suddenly grateful Mato had given her the more potent fire resistance elixirs for her Hobgoblins.
+
+“Yup, I think I can handle it,” Mato said, his voice only betraying a little uncertainty.
+
+“Sounds good,” Calen said. “If everyone’s ready, I’ll go get them.”
+
+Ali nodded, readying her barriers. Mato shifted, and Calen unleashed a volley of conjured arrows.
+
+With a bloodcurdling howl, the wolves’ muscular dark bodies blurred across the rocky ground, leaving burning trails of black hellfire in the wake of their accelerated Rushes. Mato roared his challenge, crashing into all six of them simultaneously.
+
+The two Flamecaller hunters grabbed their bows, which were immediately lit with intense wreaths of their black flames. Burning arrows filled the air in volleys of five at a time, flying in all directions. The acrid smoke of hellfire filled the air, making Ali’s eyes water. She sprang into action, golden barrier magic flickering into place to protect her vulnerable healers and herself, but in the mad scramble to take defensive action, two of her Kobold archers had already perished, skewered by several arrows that continued burning even as they collapsed. Following the plan, she directed her Hobgoblins after Malika to chase down the first hunter. The goal was to focus on the two hunters while Mato kept the wolves busy on the side, but it was a little tricky to focus from within the literal storm of flaming arrows that spewed forth from the two hunters.
+
+Ali’s focus was almost fully consumed by the task of protecting her minions, but she didn’t miss the moment when her Hobgoblins crashed into the first hunter. It reacted immediately, firing a powerful arrow into the air, and vanished. She blinked in surprise at the unusual twist on teleportation magic lingering in her mana sight, and the tell-tale draw of mana from her Sage of Learning skill. In the wake of the shot, three images of the hunter appeared, all of which seemed to draw a single arrow back and hold it while the flame grew progressively more intense.
+
+Illusion? Something about the three copies seemed not quite substantial, but she couldn’t immediately tell what it was, nor which one was real.
+
+Malika punched one of the Flamecallers and it exploded into a cloud of sparks which drifted toward the top of the cavern, while her Hobgoblins scrambled to run down the others.
+
+Which one is it? Ali’s eyes darted between the two remaining monsters.
+
+Suddenly the arrow fired, shooting from the two remaining bows, but as it flew across the rocky battlefield, it seemed to twist strangely in her mind. Out of nowhere, and from a direction she had not expected, the arrow cracked against one of her barriers with immense force, shattering it instantly and punching through the head of a Kobold Acolyte. Her reservation snapped and the Kobold collapsed. Both images of the Flamecaller simultaneously vanished, revealing the real monster off to the side, already nocking another set of five magically conjured arrows.
+
+“What was that?” Malika yelled as she charged the hunter’s new location.
+
+“Illusion and Teleport,” Ali yelled back, still stunned by the sheer force unleashed. Her barrier had shattered like a dropped teacup. What was remarkable about the monster’s teleportation magic was that it fully cloaked its destination, both from her mundane and her magical vision senses. She could see the mana when it fired the arrow, but its magic was warped and indistinct as soon as the mirages appeared.
+
+And the subsequent attack must be a stamina skill, she realized, as she had been unable to see it.
+
+“And an Ambush, Powershot combo,” Calen said, supplying the missing puzzle piece. “Nasty.”
+
+Ali’s Hobgoblins sprinted after Malika, bearing down on the hunter again. Her shamans, and remaining ranged attackers redirected, shooting at the newly appeared monster. The air filled once again with rapid volleys of black flame-wreathed arrows and her healers began working overtime. A shaman struck simultaneously by three flaming arrows fell back to the ground, still burning as it died.
+
+As soon as the Hobgoblins reached the hunter, it fired its magic arrow and vanished, this time leaving four images in its wake.
+
+“Shoot them quickly, Calen!” Malika yelled.
+
+“On it!” But the images dodged, only one succumbing to his volley and shattering into motes. “The real one is… somewhere to the left!”
+
+Ali was paying attention this time, but even focusing on its mana as the spell unfolded, she still couldn’t tell where the real monster was. She slipped her senses into the Sparkling Ooze she kept for just this purpose, but even from the ooze she could only sense silence as if the elemental archer had stopped its heart and stopped breathing. If it even has a heart.
+
+That’s an incredible stealth skill, she thought. She didn’t have any bats or wolves to use to find it, but it had defeated three of the perception skills available to her.
+
+Malika stood still in the middle of the battlefield, eyes closed. Malika? What are you doing?
+
+“There!” Malika suddenly yelled, juking to the left and charging down an empty space of rock. Her fist lashed out and improbably struck something solid where Ali could see only air. A flaming bolt of magic streaked from the suddenly appearing bow as the hunter was forced to release its shot prematurely.
+
+Can her sight pierce the illusion? Ali wondered how exactly Malika had achieved that feat.
+
+All the remaining illusion images exploded into sparks, but the powerful arrow of flame still flew true, striking the golden barrier right in front of her eyes, with a shockingly loud bang and a spiderweb of cracks. She yelped and fell backward in surprise, but hastily replaced her barrier with a new one. No real harm done.
+
+Right at that moment, her nearest Acolyte flared with the holy light of its devotion skill, startling her into checking its perception. What she saw made her blood run cold.
+
+“Mato is struggling!” she yelled. In the Healer’s Sight of her Acolyte, she wasn’t focused on the spectacular storm of flaming arrows – which admittedly were doing a phenomenal job of suppressing her and her minions. Instead, Mato was the recipient of most of the healing. His body was on fire, burning with pitch-black flame, and he was surrounded by six wolves that were tearing him apart. She had not been paying attention to him at all, fully absorbed with the arrows and the hunters, but now that she was, she could see the wolves flanking him, taking turns to charge in and bite him from behind. Every now and then, one of the wolves would let out a chilling howl, or one of the heads would breathe a dense cone of black hellfire that lingered on Mato’s already smoking flesh.
+
+“Ali, send the Hobs to help Mato. Malika, spot the hunters. Everyone; back up so Mato can use the wall!” Calen called out strategy adjustments rapidly.
+
+“Yes. On it!” Ali shouted, recalling her Hobgoblins while his strategy changes percolated through her mind. The powerful crimson elite Goblins hadn’t been able to hit anything so far; every time they reached the hunters, they teleported away. So that part made sense. Backing Mato up into a wall would hamper the wolves’ ability to surround and flank him.
+
+Suddenly, she realized that the reason Mato had not been able to do that before was that he was forced to remain within the range of her Acolytes’ healing spells. Quickly, she directed her Kobolds back towards the wall and Mato responded with a limping retreat, his movement clearly impeded by his injuries.
+
+With all the shifting, and readjustment, Ali still had to keep her barriers up, and now moving with her minions to protect them from the arrows that filled the air – both hunters were not letting up with their unerringly accurate five-way flame bolts. She bunched her Acolytes up behind her two remaining mages and summoned a larger barrier to cover all of them, leaving the rest of her minions to their own devices – hopefully they were robust enough to survive for a while on their own.
+
+Well, more robust than the healers at least. She had already lost several Kobolds and a shaman. Once the harried battlefield readjustment was completed, things improved dramatically. Mato was still in critical shape with his health still hovering dangerously low, but it began to slowly creep upward. Up against the wall, it was harder for the wolves to flank and hamstring him from behind, and with the addition of the Hobgoblins, the fight seemed to stabilize somewhat. On the other side of the cavern, Malika charged towards empty space and punched at nothing, causing a shower of sparks to erupt from the various images of Flamecallers.
+
+“Totems on the hunters,” she told her remaining shamans. While Malika was somehow able to detect the real location of the hunters after they teleported, and mostly disrupt their powerful ambush, she decided that filling the space with lightning novas would further limit their use of their dramatic teleport illusions. Disrupting the illusions themselves seemed to require only minimal damage, and if they spawned inside the range of one of the totems they would be dispelled almost immediately.
+
+Hopefully, Malika will be able to spend less time running, and more time punching.
+
+Ali re-engaged, lashing out with barrier shards with what little remaining capacity she had after her defensive shields were created. Her ranged attackers all unleashed their magic on the Flamecaller Hunter. The archers and mages were not doing a lot of damage, but the lightning bolts from her shamans seemed to be working well enough. Combined with Calen’s arrows, they were finally making some real progress.
+
+Ali saw the teleport magic flare again, and the furthest Flamecaller Hunter vanished, leaving behind three images, two of which instantly burst into sparks, having been summoned inside a lightning nova.
+
+Yes! She allowed herself a small celebration at seeing her idea work. As soon as Calen hit the remaining image, the hunter’s real location was revealed, and they resumed.
+
+“Much better!” Calen said, filling the air with a smaller counter-storm of glowing arrows. “Now, let’s take them down!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

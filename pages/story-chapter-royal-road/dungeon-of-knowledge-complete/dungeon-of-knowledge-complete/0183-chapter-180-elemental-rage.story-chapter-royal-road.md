@@ -1,0 +1,139 @@
+---
+id: bbeea18c-8822-575d-97e4-e01bbb2cee7e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 180: Elemental Rage"
+slug: 0183-chapter-180-elemental-rage
+partOf: dungeon-of-knowledge-complete
+position: 183
+ownLength: 3727
+unit: words
+ownProgress: 3727
+publishedAt: 2025-01-07
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1997042/chapter-180-elemental-rage"
+royalRoadId: "1997042"
+markedReadAt: "2026-06-29T20:17:16.279Z"
+---
+
+To triumph over the infernal legions, you must relentlessly disintegrate the frailest fragments of your body, mind, and soul. Heal the very ashes and forge what remains into an indomitable bastion of purity and resilience. Do this a thousand times, and ten thousand more, until you transcend your limits and emerge as an unyielding paragon of strength.- Azryet, Dragon God, Harbinger of Chaos, Herald of Havoc, The Calamity.
+
+The bone-shattering blast wave impacted her body, launching Ali into the air again. Her acolytes had done their job well this time, and almost everyone had been pre-loaded with a Restoration that would continue to heal them over the next thirty seconds – but the flickers of holy spells landing did not cease; even as the kobolds were flung into the air, they still diligently distributed their healing magic.
+
+Her ribs snapped back into place with a painful crunch while she rapidly riffled through the senses of all her minions. She switched places with one of her acolytes using Minion Teleport, halting both of their forward momentum. This trick allowed her to land one of her healers closer to the center, where it could heal anybody critically injured from falling or being forced to swim through lava while they all ran back to the fight.
+
+She ignored her own precipitous descent, placing her trust in her health and the Restoration spell that slowly pulsed through her body. Her attention remained entirely on the senses of her minions, while flashing her barrier magic in all directions, deflecting boulders and slabs of rock that threatened to crush them on landing. Her eyes widened briefly as a several-ton boulder broke free from the ceiling but, with a hasty sweep of a barrier, she swatted her Hobgoblin sideways in the nick of time. At the last possible instant, she used a small barrier to catch herself right above the bubbling lava of a pool, and two more barriers to scoop a rogue and a shaman out, saving them a couple of seconds of searing agony and burns while they swam out. With the holy Restoration spells cast on them, swimming through the lava for a few seconds wasn’t an immediate death sentence, but they would emerge low on health, and vulnerable to the hail of falling debris. She hadn’t lost any of her minions yet, but with their levels barely above twenty, most of them had insufficient health to survive without help.
+
+She flew forward to reengage with the Inferno while her small horde of Kobolds and Goblin shamans emerged from the lava or got up from their bone-crushing landings and scampered across the rock-strewn terrain to close to range once again.
+
+“You good?” Malika asked, sprinting past her with a tap on the shoulder that topped her health up to full.
+
+“Yup,” she shouted at Malika’s departing back. After the intense focus on tracking the trajectories of all her friends, minions, and dangerous flying boulders, the task of fine-tuning her minions’ formations and controlling several sharp slivers of barrier magic to attack felt like a relaxing lull in the battle to her. Crazy, she thought to herself. That she considered standing in front of the towering pillar of furious flame ‘relaxing’ surprised her. It sizzled and roared, intent on incinerating all of them, while her body burned within the fire aura, sustained only because of the magic of her minions.
+
+“We missed an explosion,” Calen called out, already on top of the boss’s recharge timers. The ground shook with every slam and smash that Mato tanked, his normally huge Bear Form dwarfed by the enormous elemental. Missing the blast wave was their sign that Malika’s mana attacks were having a significant effect. It likely didn’t mean that the boss was out of mana yet, she could still see it using mana for its attacks, but the disruption to its efficient ability use seemed like a positive sign.
+
+The next thirty seconds passed slowly, and where Ali would have normally expected yet another blast wave, instead the domain summoning formation sprang up in her mana sight. We definitely messed up its skill rotation.
+
+“Summons!” Ali yelled, warning her friends. The expansive formation of fire mana drawn from the surrounding domain was complex beyond belief and, in a way only truly appreciable to a magic scholar, she found it remarkably beautiful. Each ethereal rune hovered in the air, each connection, each construction, the flow and movement of the giant three-dimensional structure – all of it had an elegant efficiency that spoke to her inner passion for magic in all its forms.
+
+Wait. Why am I just standing here? Can I… break it? The instant the thought occurred to her, she unleashed a trio of barrier shards at the rapidly accreting formation. If that idiot could do it… she grumbled inwardly, recalling the disruption of her own barrier spell by a gloating would-be assassin. The golden shards of her barriers sliced through the fire mana, leaving ripples and eddies dancing across its surface like insects skating over a still pond.
+
+The delicate magical formation imploded with an audible crunch, and Ali’s breath caught in her throat. But, despite her efforts, two dozen elementals suddenly appeared at the feet of the Inferno – well, where its feet would have been if it had them – surging outwards with growls of fiery rage.
+
+“Now!” Ali commanded, biting back her disappointment at the failure and directing her Bone Mages. She rapidly assigned each of them their contributions, visualizing the precise arrangement of walls she wanted. The charging elementals suddenly found themselves crashing into walls of bone, spines and spikes jutting out in all directions. She reinforced the gaps with judicious application of barrier magic, further funneling the creatures into a tight clump as they pressed up against each other their eagerness to reach the enticing Goblins standing just beyond reach.
+
+“Shamans, Lightning Bolts down the center.” The green-skinned Goblins stood directly in front of the funnel, wearing gleaming chainmail shirts and hefting the arcing lightning-enchanted Eimuuran steel shields she had made for them. Flanked by the two Hobgoblins for protection, they were her only Goblin forces, and they were facing down the entire horde of level sixty Shards of Inferno. The Hob on the left shouted a booming war cry. Steel totems appeared in the midst of the elementals and their distinctive spherical pulses of lightning surged outward. Perfect placement, Ali smiled; the elementals were bunched up in a narrow passage allowing each pulse to hit every one of them. With a ripping crackle and detonation, the Lightning Bolts tore through the mass of elementals, passing right through the pack and out the other side.
+
+Ali glanced upward, just in time to notice Calen hovering, hanging there on incandescent white wings of light. Four shining arrows were nocked at his bowstring and a look of profound focus was etched upon his face. The string twanged. The arrows hurtled forth, followed immediately by another wave with a rapidity she could only admire. Her vision saturated with white as his intense explosions began detonating among the elementals in a continuous roar of brilliance, only her mana sight providing any reliable clue as to what was actually going on within. She flickered a couple of barriers into places where the bone walls had sustained severe damage and sent her will to her mages. Fresh walls appeared, reinforcing the area, and immediately she switched her barriers to block yet another gap or prevent an elemental from escaping.
+
+The explosions and flashes of lightning seemed to go on forever. Still, she kept up her reactive barriers ensuring that none of the spawned elementals could escape until the cascade of notification chimes ceased. Only then did she call her minions to a halt and watched as Calen slowly descended to the ground.
+
+She glanced curiously at him just standing there.
+
+“Out of mana, and I already drank a potion,” he said soberly, then he grinned. “You know, we should pick an easy fight for a change. Just one.”
+
+“Hmm,” Ali smiled back, weighing the possibilities. She hadn’t been able to prepare any runic circles for regeneration or mana – she hadn’t had access to the battleground before the fight. She did have one option, however, it meant burning her most powerful ability. On the other hand, if she did use it, her minions would be able to take advantage of it too…
+
+“Be right back,” Ali said as she made her decision. She cast Arcane Recall. Sudden relief from the constant burning washed over her like plunging into a cool pool of water. I guess I’m getting used to being burnt, she thought, realizing how much she had been ignoring the scalding atmosphere. The towering Inferno stood frozen, mid-strike, while Mato guarded against the incoming damage. Ali channeled her mana through Runic Script and spent a couple of subjective minutes inscribing an Inspiration circle around Calen’s feet. The small extra mana reservation to keep it running would easily be worth the enormous return in mana it would provide to her friend and her acolytes.
+
+The spell completed, and the rude shock of searing pain reasserted itself. Calen blinked, looking at her in surprise.
+
+“Thanks!” he said.
+
+“You’re welcome,” Ali said, already working out her minion rotation through the circle to ensure that it remained in use continually, to get the most out of the spell.
+
+“Fire shield!” she called out, recognizing the spell formation as similar to the one used by the Living Flames a scant few seconds before the dense barrier bubble of fire magic sprung up around the Inferno. A towering maelstrom of flame ignited within, and Ali immediately checked on the boss via her nearest acolyte’s Healer’s Sight.
+
+“It’s healing… slowly.” Ali lobbed shards of her barrier magic at the shield, noticing that while the torrent of flame was regenerating the boss, it was a significantly more gradual recovery than with the Living Flames. The spell itself seemed subtly altered, too, and it took a while for her to realize it seemed more focused on mana than fire. And with less fire damage, the boss was healing less. Or maybe it has that much more maximum health, she thought soberly. It might have been that it was healing more, and she simply saw it as a smaller percentage. Either way, the shield was tough – way harder to break than the ones used by the Living Flames. Their attacks rained down onto the unyielding shield for ages before it finally cracked.
+
+Abruptly, the fire shield burst into a cascade of splinters and shards of magic that quickly evaporated into red sparkles and flashes of flame. The maelstrom of flame encircling the boss sputtered and died. But something was different. Within the monster, a vast swirl of fiery mana ignited – a stirring in the domain magic on a scale that filled the entire arena. She studied it carefully, puzzled as to what it might be, her focus drawn to the flows of mana. The Inferno was simply standing there, taking Mato’s hits without retaliating in the slightest.
+
+“He’s doing something… big,” Ali announced, still trying to figure out what exactly it might be. “Be prepared for anything.”
+
+The swirling formation suddenly accelerated as the huge elemental drew vast amounts of mana from the surrounding domain and fed it to his spell. Ali’s eyes widened in shock as a chill of fear ran down her spine. A faint whistling sound echoed through the chamber, rising to a roar that began to vibrate through the rock as the mana drawn into the boss compressed into a brilliant blazing ball.
+
+Suddenly, the Inferno spoke, its voice deafening.
+
+“BURN TO ASH!”
+
+The ball of mana at its core flared with light so intense it overwhelmed Ali’s mana sight entirely.
+
+“Hide! NOW!” Ali screamed, ducking behind a large boulder.
+
+A howling torrent of flame burst outward from the monster with deafening violence that shook the cavern to its very foundations. Her bones rattled as the elemental rage of flame tore past her suddenly inadequate-seeming boulder. Ali screamed, but nobody would ever hear. Three rogues had been on the far side of the boss when the literal inferno had descended. They sprinted past, disintegrating before her very eyes. One rogue reached healing range, legs and arms sprouting anew only to be torn away by the ravenous flames. The cycle repeated before the poor kobold managed to stumble past a boulder and crawl to safety. Of the other two, nothing remained but motes of ash lost in the torrent. Malika and Calen, with their magical speed enhancements, were safely hiding behind nearby boulders, as were many of her remaining minions.
+
+Wait… where’s Mato? But the Beastkin had no such speed enhancements.
+
+Mato was dying. He lumbered across the molten ground, body aflame, buffeted, and rapidly disintegrating in the incomprehensible, all-consuming devastation so suddenly unleashed. Ali screamed again, this time pouring all her mana into a barrier that she summoned right behind him. The flame tore around her barrier, melting golden streamers from its edges that vanished into the fire. She spent mana at an astonishing rate in a vain effort to rebuild the meager protection in the face of the raging storm. “Run, Mato!” she screamed, but she might as well have thought it for all the good it did. Right as her barrier shattered into slivers and shards that were picked up and catapulted into the distance by the force of the flames, Mato charged, reaching the dubious safety of a misshapen boulder that sagged like a melting candle on the flameward side.
+
+Streamers of molten rock were torn from her own cover, slipping away in the unceasing gale. Mana thrummed through her body as the flames barely parted around her rock, leaving her in a tiny pocket of relative safety, only the radiant heat searing into her skin and contending with the slow pulse of her minion’s holy magic. There was so much power and mana scouring through the entire arena, that Ali’s mind simply gave up processing it in stunned shock. She stared, wide-eyed at the unleashed might of the Inferno. It went on and on until her body and mind were numb to the sound, vibration, and shocking torrent of mana.
+
+Suddenly, the flame cut off, and the deafening silence snapped her out of her daze. She hurriedly looked left and right, seeing her friends and her minions huddled down behind boulders that might better be described as half-molten slag heaps now. All of the smaller debris that had accumulated throughout the arena during the explosions and the slam attacks had been melted or blown away, leaving a clear plain of rock and lava, all glowing with an intense radiating heat and the sound of cracking as it rapidly cooled.
+
+“Run or continue?” Malika’s voice called out, breaking the silence.
+
+Continue? For a moment, Ali didn’t parse the idea correctly. The very concept of going up against a monster with that much power was unthinkable.
+
+“Continue,” Calen answered, choosing the unthinkable option. “Incredibly, we only lost two of Ali’s rogues.”
+
+Ali’s mind caught up, dragged back to sanity by Malika and Calen’s calm rationality. She took a deep breath and got up, levitating above the still partially molten ground. The Inferno stood tall in the epicenter of the devastation it had unleashed. As she watched, it slowly swiveled toward them, but before it could act, Mato charged. Whether it was sheer force of habit by now, or actually her presence of mind, she didn’t know, but she checked with her acolyte’s sight.
+
+“Three-quarters to go,” Ali announced, finally finding her voice. She felt like she had just endured an eternity of flame and fear, but they still had three-quarters of its health to burn through. Only her friends’ determination staved off her despair.
+
+Maybe we really are crazy…
+
+“Explosion!” she called out a few moments later.
+
+This is no fun, Mato thought. At that precise moment, he happened to be flying through the air, exactly like a bear shouldn’t. The fight itself wasn’t particularly bad – he quite enjoyed hitting the giant fireball. The blast wave attack was stronger, but it was more annoying to have to run back from wherever he landed. He preferred actually fighting. Running was for scouts and rogues. But it was the flying he hated. He grimaced at the sight of the distant ground whipping by beneath his dangling feet.
+
+Initially, he might have been a bit skeptical about wearing armor in Bear Form, but he had to admit that this latest piece Thuli had crafted for him was phenomenal. He already had a lot of natural armor, and Thuli’s creation simply added more on top of that – but it was magical resistances that had proved to be the lifesaver in this fight. His armor didn’t look particularly fancy – nothing like the armor he imagined the adventurers in the stories wore – but what it lacked in decoration, it sure made up in robustness. It had taken everything the Inferno could throw at him and for the most part, it was still in great shape. Good thing Thuli used fireproof leather for the bindings.
+
+The holy magic of one of the Kobolds settled gently into his body, pulsing against the damage he had taken before being launched into the air, augmenting his own Brutal Restoration. Ali’s minions were quite efficient. As his thoughts turned to his small friend, he found himself confronting the reality of what had just happened moments before the explosion.
+
+I almost died. The thought focused his mind in a way that the rest of his meandering thoughts could not. Without Ali’s quick thinking, and rapidly disintegrating barrier magic, he would have been completely incinerated. He was far more robust than the two unfortunate rogues, but nothing could survive that conflagration. He could still feel the intensity of the flames tearing through his flesh and whipping past his body as he desperately charged for the dubious safety of an impossibly distant boulder. The image of Ali’s Kobolds being progressively vaporized hung over him like a specter of what could so easily have been his fate. He just hoped Ali understood the attack well enough from that one experience that she could give him more time to get to safety if it happened again. He had burned his Last Stand just to make it, and that skill had a fifteen-minute recharge.
+
+When it happens again, he thought, unwilling to rely on fortune and desperate hope.
+
+He sighed, landing on the ground with a crash and a huff, shaking off his mental funk. What is with these crazy abilities messing with my enjoyment of the fight? He charged forward, using his ability as soon as possible so that he would be able to close the distance quickly and regain control of the fight. He used it once more before he was out in front of all Ali’s minions and then slammed into the giant tower of pissed-off flame. He Swiped at the elemental, triggering his Brutal Restoration, something that was becoming an automatic reflex in here. He most certainly needed his own healing to be maximized at all times during this fight, and he was saving most of his mana entirely for that.
+
+Survival Instinct warned him a scant half second before the powerful overhead slam attack, giving him barely enough time to brace before the elemental’s arms crashed down on his body, slamming him into the ground and tossing rocks flying. He got back up and Swiped again with his paws, feeling the surge of healing repairing the damage. Those slam attacks did vastly more damage to his robust body than the blast wave. He carefully sidestepped around the elemental, turning it so that Ali’s remaining melee minions and Malika would be able to fight from behind it, but not get tossed entirely in the opposite direction from the next blast wave.
+
+“Summons!”
+
+He mostly ignored this call, having nothing much to do with the additional elementals himself. Normally he was running back when this happened, so this time he just held back a bit to make sure he did not Swipe any of them by accident when they appeared. That way they would ignore him and run into whatever trap Ali and Calen had prepared. He and Malika focused on the boss while a roar of detonations and lightning crashed somewhere off to the side behind a large wall of already smoking bone.
+
+He braced for another smash, feeling the Kobold’s Restoration pre-empting the attack, and a bigger heal following immediately after. There was no further explosion for a long while until suddenly the fire shield appeared. He growled angrily, hitting the impervious transparent sphere with his paws. It was a frustratingly tough barrier and he much preferred hitting the elemental itself, even if he was essentially hitting an animated fire. After slamming his paws against the solid bubble of magic seemingly forever, it suddenly splintered, exploding into a million flaming shards.
+
+“Hide!” Ali’s voice screamed.
+
+Go! This time, he didn’t hesitate for an instant, immediately charging to the side, towards a boulder he had been keeping an eye on for a while. Please be enough time! His charge got him about halfway, and he lumbered on, wishing he was as fast as the graceful Malika who had sprinted by in a flash. A whining whistle rose through the arena as he pushed his heavy body to the maximum. Fuck. Should have spent more points on dexterity. The ground shook as the monster roared something unintelligible, and he suddenly felt a huge surge of heat from behind him, slamming into his body right as he crashed to the ground in the lee of his boulder, sharing the spot with Malika. She slapped his charred leg mercilessly, pulsing her healing magic through his body and patching up any of the remaining burns.
+
+The elemental let loose with his inferno, flame tearing past their hiding spot, melting rock on the ground to either side of them, and sending streamers of liquid stone flying in the unceasing gale of intense flame.
+
+Ali, you’re a lifesaver! He had made it to safety just in time. I guess we do stand a chance after all.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

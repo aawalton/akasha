@@ -1,0 +1,199 @@
+---
+id: 5760609e-8763-577c-8ea8-9967ab2792dc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 194: Dinner and Guests (1 of 2)"
+slug: 0197-chapter-194-dinner-and-guests-1-of-2
+partOf: dungeon-of-knowledge-complete
+position: 197
+ownLength: 3748
+unit: words
+ownProgress: 3748
+publishedAt: 2025-02-06
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2051274/chapter-194-dinner-and-guests-1-of-2"
+royalRoadId: "2051274"
+markedReadAt: "2026-06-29T20:17:47.361Z"
+---
+
+“Umm…” Ali took a deep breath, looking at Ryn and the novices, struggling to figure out where to even begin. Battle still raged behind the barrier wall, but the corruption had dissolved under the tenacious attack of Mato’s aura. She felt much better, but her face and clothes were still covered with her slowly drying blood. I must look frightful. I definitely need a bath – or at least a Cleanse circle.
+
+A ripple went through Mato’s giant branches, and he transformed back to his Beastkin form. “Hey, is anyone hungry? I was thinking of making dinner,” he said, catching nearly everyone off-guard.
+
+Calen snorted, “After that – that literal bloodbath – you’re thinking about food?”
+
+“Naturally. Blood sausage, anyone?” Malika gave that a curt piece of non-verbal punctuation with the fingers of her right hand, making the Beastkin guffaw heartily. “Fine, fine. I’ll try something vegetarian, shall I?”
+
+“Can we relocate and have dinner down here?” Ali asked. Her notifications had not stopped ringing in as, beyond the golden barrier blocking the doorway into the jungle, the titanic struggle between demonic hellfire and poison continued unabated. There was a cadence to it – a rhythm – the demons would build up in waves, stalling out on the roots and vines of her Forest Guardians in a lengthy stalemate, and then being wiped out whenever the Toxic Spitter unleashed the poison elemental storm.
+
+“Want to keep an eye on the break?” Malika asked.
+
+“Yes, and I want to be in range to give them Empowered Summoner, and Calen’s Motes of Light buff.” Both buffs gave her monsters additional magical damage on hit. And with the ridiculous healing the Toxic Spitter was gaining from Slayer and the Forest Guardians, there was a sea of tiny oozes out there. They would die instantly to fireballs or any damage from the much higher-level demons, but their numbers were so vast that the damage-on-hit bonus was cumulatively enormous.
+
+“Sorry about this,” Ali said, turning to Ryn, Sabri, and Brena. She had not even considered that the novices might be already taking advantage of Ryn’s offer to study in the library and that their provoking a dungeon-break through the rift might have put them all in serious danger. There was no way a level nine warrior or mage would be able to survive against the horde beyond the barrier.
+
+“Um, should we go?” Sabri asked nervously. “Ryn said you had the Nine Paths and I just wanted to see it.”
+
+Actually, both of them looked pretty shell-shocked, glancing worriedly whenever something thumped or crashed or flashed in the jungle beyond.
+
+“No, you can stay if you want. It should be safe now,” she said and both novices visibly relaxed. At least, given the magnitude of the problem, it would be no safer up in town if Ali’s blockade failed. She tried to hide an involuntary grimace.
+
+Are we really that terrifying? she wondered, but then glancing back out into the jungle where the Toxic Slime had just unleashed another Elemental Storm of poison and split twice more from the health gained from Slayer, she decided that, actually yes, it was quite terrifying.
+
+Calen said, “Look, we tangled with something we should really have left well alone, and this – shall I call it a strategic retreat?”
+
+After an awkward pause, Ryn produced a giggle, “Aah, yes, the tactical, well-planned retreat? We should all borrow a page from your book, Calen – it all went exactly as planned, right?”
+
+He gave a very fake nod to Sabri. “Right. Absolutely as planned.”
+
+The young girl was frowning, obviously confused, probably trying to make sense of this exchange. Doesn’t understand sarcasm? Ali wondered. Or… She made a mental note to ask Malika to have a word with her afterward – perhaps it was dishonorable to lie in Ahn Khen culture?
+
+“You guys should stay for dinner, I’m making stew,” Mato said, walking up to them and leading them away. “Come, get your books and join us down here, you can read while I cook.”
+
+“What do you think? Are we safe?” Ali asked as everyone headed upstairs to get what they needed, leaving her alone in the darkness with Calen and the remnants of her minions. He was staring outside at the battle unfolding – he had been staring for quite some time.
+
+“I think it will be stable,” he answered, after an uncomfortably long pause. Somehow, he had managed to summon his Motes of Light outside, and they hovered above the sea of slimes and dead demons, pulsing softly. “We probably do have to stay here until the rift is guarded again.”
+
+“What about that Pit Lord? Or the Sentinels?”
+
+“I think Malika is right, they can’t easily widen the rift, and so they can’t get through,” Calen said, turning to meet her gaze. “If they could have, I’m sure they would have overrun this realm ages ago.”
+
+“I hope you’re right.” They were not out of the woods yet, but Calen’s assessment went a long way to easing her anxiety.
+
+“I’m sorry…” Calen said. Ali glanced over to find him flushed and flustered. “I… I was useless in there.”
+
+“It’s a good thing you made us all invest in wisdom back then,” Ali said, relieved to see his embarrassment begin to fade. “Without that, I don’t think I would have been able to break the charm spell.” Indeed, Ali had only realized her mind had been compromised when she had been reminded of what Mieriel had done. It seemed that mind magic gained substantial bonuses if the defender was unaware of the attack – something she would need to consult with Mieriel on as soon as possible. “You do know Malika and Mato are going to be calling you Giggles forever, right?”
+
+“Right,” Calen said, grimacing, and then he changed the subject. “How does it work?” he asked, nodding to the outside. “Slayer, I mean.”
+
+“Here,” she said, sharing the skill description with him. “It added these two aptitudes to the Toxic Spitter. Only the raid boss one though, not the ones it splits off – but the Elemental Storm is doing the bulk of the killing.”
+
+Slayer (Domain): Damage against Demons is increased by +147%.Slayer (Domain): Gain +6.3% of the maximum life of any slain Demon over 30 seconds.
+
+“And it also gets a substantial damage increase for simply being a raid boss, right?” Calen asked, retrieving his favorite notebook.
+
+“Yes, a two-and-a-half times multiplier,” she answered. “The numbers for Slayer depend on how specific the monster type I choose is.”
+
+Calen let out a low whistle. “And it works on anything in your Grimoire?”
+
+“Yup, I can do individual variants or entire classes or races of monsters.” She left out the uncomfortable thought that she could do people too, if she learned the human or elf imprints. She had enough Goblins and Kobolds that humanoid was already an option for her.
+
+“Seems like you finally have a use for all your elemental imprints,” he said.
+
+“Oh, I hadn’t thought of that.” She would of course check next time she made a boss, but she was certain she could make an elemental slayer, or even more specifically fire-elemental slayer should be an option. It seemed that Slayer was much more useful than she had even imagined.
+
+“Perhaps it might be worth getting the undead imprint again,” he suggested, offering her yet another surprising consideration. While she couldn’t summon undead at all, just having the imprint inscribed in her Grimoire would allow her to choose undead as a target for a Slayer boss.
+
+They stood together silently, both watching the battle, while she considered the events of the day.
+
+“We messed up badly, didn’t we?” She had had to make four raid bosses before the dungeon-break had been halted, and it was only luck and good fortune in so many ways that had allowed her to stop them. Even now, it wasn’t over yet, she and Calen both had to wait here granting their skill buffs to the monsters outside in order to prevent the tide from sweeping everything away.
+
+“Yes,” he answered soberly. “I thought that Myrin’s Keep would be wiped out for sure. My mom wouldn’t even be able to run fast enough to get away.”
+
+“Where did we go wrong?” Ali asked. This was the question that plagued her. At every step of the way, they were either reacting to the situation or making decisions that, at the time, had seemed all too reasonable.
+
+“That’s the problem, I don’t know,” Calen said. “Perhaps we need to talk to Vivian for advice?”
+
+“Maybe we should have retreated when we first aggroed the Demon Hunter?” Ali suggested.
+
+“We would have considered the scenario and chosen to try it,” Calen countered. “There was no reason not to.” Then he paused for a while with a frown on his face. “I admit I was a bit too eager to explore the rift.”
+
+“At the time only a few demons were coming through,” Ali said. “We had no way to know the dungeon or that Pit Lord was in there, or that they would be so powerful.”
+
+“Or those Sentinels…” Calen said. “How do we even fight something like that?”
+
+“I plan on asking Mieriel for more details on how to defend ourselves from psychic attacks,” Ali answered.
+
+“Good,” Calen said, shaking his head. “We’re just fortunate that the rift isn’t large enough for the bigger demons to pass through.”
+
+We need to be more careful, Ali thought, but like him, she had no idea what to change. As she turned inward to her notifications, she heard the excited chatter coming down the stairway. Mato, it seemed, had started telling the novices stories of their adventures. Right. Check the notifications.
+
+Grove Warden has reached level 64 (+4).+40 attribute points.
+
+Ali spent fourteen points on both wisdom and intelligence – her mainstay attributes. Spell power and mana were her most important aspects, and after today, wisdom had just become her favorite attribute. Six points went to perception, given how many of her skills scaled from it. For her final points, she divided them up equally, spending two points on each of vitality, endurance, and dexterity – to hopefully improve her survivability just a little. That corruption aura had definitely come too close to killing her.
+
+Arcane Insight has reached level 33 (+2).Arcane Recall has reached level 13.Barrier has reached level 48 (+3).Grimoire of Summoning has reached level 33.Martial Insight has reached level 37.Empowered Summoner has reached level 29.Domain Mastery has reached level 27 (+2).Minion Teleport has reached level 23 (+2).Identify has reached level 17.
+
+Four levels. And the chimes were still humming continuously in the back of her mind. The Demon Hunter had been worth quite a lot. She had earned less than the others, but she assumed it had to do with her higher class-level. Still, four levels for a single fight was incredible progress, and her skill growth was phenomenal too – she had earned two levels in Domain Mastery, and one new imprint chapter just for the crazy run through the jungle making raid bosses.
+
+Perhaps I would have preferred less of a panic, a more measured approach to levelling? She smiled thinly. That, unfortunately, was a life she had given up when she had chosen a combat class. While her class did afford some ability to level up by sequestering herself in the library with books, she knew that would rapidly cause stagnation. Combat skills required palpable risk to grow. However, she would very much prefer if the risk were… a little less risky? Next time –
+
+“Um… Miss Aliandra…” Sabri started, and trailed off, bowing awkwardly to her, her arms wrapped carefully around three heavy volumes of the Nine Paths of Ahn Khen.
+
+“Sabri, I don’t need any bowing, I’m just an adventurer like you,” Ali said, causing the awkward novice to snap upright in surprise.
+
+“But… you have this library, and the shrine, and…” Sabri’s eyes flickered past the barrier and out into the jungle.
+
+“I’m not an Elder, Sabri. I have a couple more levels than you because I started earlier,” Ali said. “And that’s simply a matter of patience, time, and being careful.” She felt a little pang of guilt at that, given she and her friends had almost wiped out the entire town with their carelessness.
+
+At her incredulous look, Ali continued, “Really, if you need anything, please just ask any of us. We’d love to help.”
+
+“Um, if it’s ok… Ryn said you might be able to teach me the ancient language,” she showed the books she was carrying, both arms wrapped around them as if afraid that she might drop them.
+
+“Oh, sure, how about while we’re waiting for Mato to finish cooking? It might take a few sessions though, so if you don’t get it today, come back and ask me again.”
+
+Entertaining was not Calen’s forte, so he sat eating dinner in silence, listening while Mato regaled the novices with the story of their fights against the warlocks, imps, and the Demon Hunter, culminating with the tale of the abyssal realm and their chaotic retreat back to the library. The story finished with the dramatic showdown where they held back the horde of demons while Ali made the bosses that saved them in the nick of time.
+
+He found himself smiling at the novices’ rapt attention and Mato’s masterful storytelling. He gave a mostly honest account, and yet the way he wove the tale gave it an epic feel, like an adventurer’s tale from a book – certainly it felt nothing like the panicked terror and fear as they had fled for their lives. There was an unfortunate bit about his impromptu dance debut, but it was mercifully brief.
+
+He could easily put himself in their shoes, knowing how excited he would have been to talk with any adventurers who had leveled up as much as they had. If nothing else, their wide-eyed excitement helped him see his own progress in perspective. He smiled, happy to be sitting and relaxing after dinner with a full stomach and a comfortable couch, rather than lying dead in a hole on an abyssal plane.
+
+He finished the hearty stew with relish. Mato’s cooking was definitely improving, and now almost every meal resulted in a healthy buff to his vitality. He didn’t miss Mato slipping Sabri a second bowl without her even asking – and then, the big-hearted Beastkin pretended not to notice when she tried to refuse.
+
+He put down his own bowl and focused inward for a little, trying to tune out the slowly ebbing sounds of battle outside.
+
+Archer of Light has reached level 60 (+6).+60 attribute points.
+
+Hello, level sixty! Calen shivered slightly, and realized just how excited he was to see that notification. He had earned five levels in the rift chamber when the Demon Hunter died. It made sense though; he was trailing behind Ali in class levels and the Demon Hunter had been a high-level raid boss. His award for helping defeat it was substantial.
+
+He was certainly going to have nightmares about seeing so many empowered hellfire fireballs coming his way and the suffocating pain of nearly drowning in the lava ooze Ali had summoned to protect him. He had no idea how Ali thought up some of this stuff, but he couldn’t deny he was still alive – and he most certainly wouldn’t have been if he had taken all those fireballs at the same time. Still, having his face burnt off was not something he wanted to experience ever again.
+
+Radiant Archery has reached level 33.Arrows of Brilliance has reached level 38.Motes of Light has reached level 22 (+2).Explorer has reached level 34 (+4).Blessing of the Dawn has reached level 25.Eyes of the Archon has reached level 26.Righteous Fury has reached level 21.Azrael's Wings has reached level 18.Mirage Armor has reached level 15 (+3).
+
+Wow, Explorer advanced a lot. He hadn’t forgotten the message it had given him as he stepped through the threshold into the abyssal plane. He had been rewarded with a powerful Blessing of the Wanderer, an upgrade to his future patron blessings, and four skill levels for being in the first group of people to set foot on that particular plane, all under high-risk circumstances. Explorer was not a combat skill, and so it leveled differently than his other skills, however, it suited him perfectly – and if the blessing was anything to go by, it suited his patron deity perfectly too.
+
+Skinning has reached level 8 (+3).
+
+Oops, almost missed that one. Highly important. He smiled to see his skinning had grown so well. The Hellfire Wargs produced very valuable demonic hides, and the Flamecaller scales might be even more valuable – at least according to Malika. Although he may need to take them to Ciradyl to find a leatherworker sufficiently advanced to want to purchase them. With Ali and Malika on the team, they were never short on money to buy the potions he needed, but it felt good to be able to pay his own way.
+
+I’m a gold-ranked adventurer. It slowly sunk in. He had reached level sixty, and that was a significant milestone no matter how you looked at it. He should be able to upgrade his guild ring tomorrow. It probably meant a rank upgrade at the Pathfinders Guild too.
+
+“Oh, Calen, this is definitely for you,” Ali’s voice broke through his focus, as he glanced over with a start. Ali looked positively ridiculous trying to lug a bow that was over twice her size to where he sat; he got up quickly to help her with it.
+
+“Is this what I think it is?” It wasn’t as if he could forget the sight of this powerful bow, even dormant without the hellfire wreath.
+
+“Yup, I stored it when I deconstructed the boss. It had a pair of Flamecaller Bracers too, but it’s the same as the set you already had, so I gave that to Malika to sell.”
+
+“Can you identify this for me?” he asked, and suddenly choked, coughing, and spluttering in surprise as the text appeared in his mind.
+
+Howling Hellfire Bow – level 60A powerful recurve bow of exquisite construction. When triggered, this bow’s ability wreathes it in hellfire and causes a demonic howling when fired. Damage: Ranged, Physical, HellfireStamina: Attacks gain +20% additional damage as Hellfire.+15% to Attack speed.+2% of your damage is returned as Stamina over 30 seconds.This weapon will gain experience as you use it, up to +20 levels.Requirements: Dexterity 210, Strength 100Two Handed – Bow
+
+“You ok?” Ali asked, with a mischievous grin.
+
+“Yes,” he wheezed cheerfully, pretending to clutch his chest. “This thing is insane!” It truly was insane; it was no wonder the Demon Hunter had felt so powerful. Twenty percent more damage as hellfire whenever he chose. Attack haste and stamina leech. As if that wasn’t enough, the bow would level up – an enchantment he had been certain only existed in the storybooks.
+
+“It is, rather,” Ali answered. “Malika said it’s worth a fortune.”
+
+“I can’t use it, though,” Calen said, feeling the sudden pinch of disappointment as his eyes found the requirements. “I don’t have one hundred strength.”
+
+“You just leveled to sixty, Mr. Gold-Rank Adventurer and Pathfinder,” Malika chimed in from the side, smacking his shoulder with a grin. “Or did you already spend your points on dexterity or something?”
+
+Malika had been teasing him a bit more than normal lately, but he couldn’t help smiling as he realized he had sixty unspent attribute points. Immediately, he spent fifteen points bringing his strength attribute up to just above the amount needed to meet the bow’s requirements and then he picked it up, feeling the weight of the larger bow in his hands.
+
+Ooh, that’s so… shiny! Yes, he was turning into Aliandra. Almost blushing at his wayward thoughts, he looked around, not finding anything to shoot, but Ali simply gestured toward the jungle and a neat slit appeared in the barrier, above the level of the oozes and the rivers of poison. The bow was a little larger than he would have preferred, but it would work. His wings flared from his back, and he flew up to the barrier.
+
+He drew the bow, taking a moment to get a feel for how heavy it was in relation to his newly enhanced strength. Once he was ready, he conjured a single arrow and let it fly. The bow had a great sense of power, the craftsmanship was superb, and the balance in his hands was exquisite. The Vampire Hornet he shot out of the air spiraled down to be finished off by an uncountable number of oozes. He marveled at the unfamiliar sensation of stamina flowing into him from the bow, regained from the damage he had just unleashed.
+
+And now for the real test. He conjured a flight of four arrows and activated the bow with his stamina. Instantly, a great flame of roaring black hellfire wreathed the bow, surprisingly not burning his hands. As he pulled the bowstring back, the hellfire infused his arrows, blending the burning black flame with a core of intense white light. He released the arrows, filling the library with the eerie howl that the Demon Hunter had created every time he fired. His arrows smashed into a demon with an echoing crash that shook the tree branches nearby.
+
+Calen studied the bow in his hands with a newfound respect. Quickly, he distributed his remaining points, twelve each to dexterity and perception. Eleven to intelligence and five each to vitality and wisdom. Then he activated Righteous Fury, downed a mana potion, charged his arrows with Explosive Shot and extra light magic damage, and let loose thirty seconds of explosive force into the remnants of the demon horde. It was a rush wielding such a potent weapon, and to his amazement, everything he did was enhanced by hellfire, even the explosions were wreathed in black flame, and the extra damage from his Motes of Light was enhanced too. Throughout his assault, his stamina kept bouncing off full, refilled by the bow’s potent stamina leech enchant.
+
+He turned to find the novices staring at him open-mouthed and wide-eyed.
+
+“It looks good on you,” Mato said from where he was standing nearby. “I think Lyeneru would approve.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,205 @@
+---
+id: 389856c4-63c8-5ede-9e1d-0b8c028c4210
+page-type-slug: story-chapter-royal-road
+title: "Chapter 209: Visiting An Old Friend (Part 1)"
+slug: 0223-chapter-209-visiting-an-old-friend-part-1
+partOf: dungeon-of-knowledge-complete
+position: 223
+ownLength: 2564
+unit: words
+ownProgress: 2564
+publishedAt: 2025-03-10
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2117367/chapter-209-visiting-an-old-friend-part-1"
+royalRoadId: "2117367"
+markedReadAt: "2026-06-29T20:18:42.477Z"
+---
+
+Ali put the finishing touches on her newest teleportation circle and watched in satisfaction as her domain mana surged through the electrum she had embedded into the stone. Her collection of circles was growing. Her memorization of the Volle locus hadn’t been quite perfect, but it was nothing that a quick trip to Professor Addlestone in the Novaspark Academy of Magic couldn’t fix. Now she had an easy way to go visit Naia.
+
+Happy with her work, she flew up to the upper floor of the library, dodging the swooping golden glitter dragonets who wanted to play, looking for Mato. With Calen and Malika away in Ciradyl, she didn’t want to leave him by himself without any warning.
+
+She alighted beside the couch, finding him sitting there chatting with Lira.
+
+“Hi, Lira, Mato,” she said.
+
+“Hi, dear. Mato was just telling me about the new dungeon infecting my forest.”
+
+The way she said ‘my forest’ referring to the desolate blighted wasteland that remained, caught her attention.
+
+“Are you ok, Lira?” she asked, concerned by the sadness in her eyes.
+
+“I had hoped that when the blight faded, we would be able to replant my forest. Even if it takes a long time, I would see it restored. Now this…”
+
+The way her aunt’s voice hitched made her heart do the same.
+
+“I will help you find a way to restore the forest,” she said. It was a promise she had no idea how to keep, but she would find a way. At least she knew the first task – they already planned on tackling the dungeon that Calen had found taking over the area.
+
+“Thank you, dear,” Lira said, smiling at her. “What were you so busy with down there among the roots of the tree?”
+
+“I was making a new teleporter to Volle. I was thinking of paying a visit to Naia.”
+
+“Your slime dungeon friend?” she asked. “It’s been a while since you saw her.”
+
+“Yes, I wanted to check in with her, she had some trouble with beetles last time. And I have a lot of oozes I can share with her.”
+
+“Mind if I come along, too?” Mato asked. “I could use the opportunity to stretch my legs.”
+
+“Not at all.” It surprised her that Mato would be interested in visiting, but his company would be welcome – and it might be nice to introduce Naia to another friendly person.
+
+***
+
+“I found it,” Ali said, feeling the thin underwater channel she had squeezed her ooze through open out into the vast underground chamber she had helped Naia escape into.
+
+“Good, but how are we going to get in there? I don’t think a rat could have fit through that gap,” Mato said, looking dubiously at the small bubbling brook that poured out of the cracks in the rock.
+
+“Give me a few minutes, I’ll make a teleportation circle,” Ali said. She carefully inscribed the circle into the damp riverbank, taking care to keep it even and level. “Ok, the circle is here,” she told him. “I’ll go inside and make the destination circle.”
+
+“I can see it now,” Mato said, reminding her that he had advanced his survival instinct and could now sense mana too. “The mana, anyway.”
+
+“Ok, two minutes,” she said, and switched locations with her ooze, dumping herself in a pool of water inside the underground cavern. Ugh. She had forgotten to check – oozes were not much affected by being in or out of water, and so they didn’t register it as a different state. She clambered out of the pool and knelt on the rocky bank to inscribe the other half of her teleportation circle, and as soon as it completed, Mato appeared in the center.
+
+“You look wet,” he said, waggling his eyebrows at her, but his gaze quickly left her sorry, bedraggled state and roved around the cavern, alert and curious.
+
+“Don’t ask,” she said, grumpily and removed her mana from both runic circles, causing them to evaporate.
+
+The vast chamber was just as she remembered it – a thundering waterfall into a massive pool of preternaturally clear, glowing water that lit the entire cavern. Twisted through it all, she could see the thick ropy web of Naia’s unique flexible domain mana. But there were no oozes or monsters anywhere she could see.
+
+Where is she? Given the mana, she knew Naia was around somewhere, but it might take them a while to find her.
+
+“Ali? Friend?”
+
+Ali turned at the sound of the small tentative voice, but all she found was a small pool of water and some gravelly scree piled up against the rocky wall.
+
+“Naia? Where are you?”
+
+“Hiding.”
+
+“Why? Oh… This is Mato, he is a friend.” Naia had clearly grown, or at the very least had advanced her mimicry magic, because Ali could not find her no matter how hard she searched. The sound of her voice had given away her position, but all she could see was a pile of rocks.
+
+“Friend? I thought Naia was friend.” The little voice sounded a little petulant now.
+
+“I’m still your friend Naia. Mato is also a friend,” Ali said. Wait… does she even know… “You can have more than one friend.”
+
+“Oh.” One of the rocks near the back of the pile warped, as if suddenly becoming soft, and flowed down the scree toward her, slowly taking on the blue appearance of her normal unconcealed form.
+
+Mimic Slime – Anomalous Ooze – level 49 (Water)
+
+“Naia! You’ve grown,” Ali exclaimed. “You’re level forty-nine already.”
+
+The little blue ooze bobbed up and down happily at the sound of her praise. “Thank you for the gift,” she said, extending a pseudopod forward which slowly began glowing and swelling until she separated from it.
+
+Sparkling Ooze – Ooze – level 40 (Light)
+
+It was the ooze she had sent with Ryn as a gift for Naia. Wait…
+
+“Naia, how is that ooze level forty?” Her own Sparkling Ooze imprint did not go that high. In fact, Ali distinctly remembered the one she sent being level thirty-five.
+
+“I fight, it gets levels,” Naia said, tipping a little sideways as if expressing curiosity.
+
+“Wow, that’s… impressive,” she said. It was more than impressive – if she could level her own minions, she would have had absolutely no trouble with the Corrupted Fire Drake. How can I… I’ll ask her later. “Anyway, this is Mato, he is one of my friends.”
+
+“Hi, Naia,” Mato said.
+
+“Friend?” Naia said, scooting quickly to hide behind Ali.
+
+“If you want, I’d like to be your friend too,” Mato said gently.
+
+“Two friends?” Naia said, sounding rather like a kid who had just been handed another bowl of ice cream. Naia reached out toward Mato tentatively, and he let her touch him, sitting down to be closer to her level. After the two of them got acquainted, Naia plopped down in the middle between the two of them.
+
+“Ali, Naia is stuck.” Her voice turned suddenly forlorn.
+
+“What do you mean stuck, Naia?”
+
+“I can’t go up because the humans will find me, but I can’t go down anymore because there are strong monsters.”
+
+“Maybe we can go look?” Mato said.
+
+Last time Ali hadn’t checked it out personally, but Naia had been trapped by some beetle thing, and she had offered her the sparkling ooze.
+
+“Beetles again?” she asked.
+
+“No, much stronger. Naia killed beetles and hive. Sparkling Ooze is strong. But not strong enough for nasty Mana Eater.”
+
+Mana Eater? Whatever that was, it sounded rather ominous.
+
+“Before we go look, I have something for you. A lot of somethings,” Ali said. She flipped open her Grimoire and began summoning. She created every single slime monster she had recorded that she knew Naia did not already have: Lux Drifters, Toxic Spitters, and Lava Lurkers. If nothing else, it would give Naia some new options for strategy, and more importantly, she knew Naia’s intelligence was directly proportional to the number of Slime or Ooze imprints she knew.
+
+“Careful of that one,” she said as Naia approached the Lava Lurker. “It can burn.”
+
+“I’ll be careful, Ali,” Naia said, summoning a Scalding Slime and using that to consume the lava-affinity ooze. After the Scalding Slime had finished deconstructing the Lava Lurker, Naia extended a pseudopod, which slowly turned orange-red and began emitting heat. It was a remarkable transition as her water-affinity mana warped into lava-affinity and the extrusion grew larger and larger.
+
+Ali had been stumped, studying affinity transformation from Clarence, stymied by the incredible complexity of the nature of mana and the theoretical exposition of her mother’s work, but seeing it in action right before her eyes caused Sage of Learning to spasm and writhe. Ali gasped at the sudden dizzying deluge of connections it created; snippets of understanding that hinted at a far greater whole.
+
+When the protrusion was big enough, Naia simply separated from it, producing a new Lava Lurker of her own. She bobbed up and down excitedly.
+
+“I guess you can’t level up your oozes?” Naia said.
+
+“Yes, I can’t level my minions.” It had only been three new oozes, and already Naia’s speech patterns were dramatically different.
+
+“Would you like a few Sparkling Oozes to update your imprint?”
+
+“That would be great,” Ali said. It’s not just her speech, she realized. Naia was actually making more nuanced and subtle connections. While Naia made her a few oozes to update her imprints, she resummoned her Acolyte and Hellfire Imp to recover her own attribute enhancements with Empowered Summoner.
+
+Naia led them through the remarkably extensive cavern system, heading progressively downward until eventually, Ali saw something in the mana changing. Here Naia’s domain mana was frayed and something else permeated the air. Something that stank of rot and fetid decay.
+
+“What is that?” Ali asked as they rounded the corner into a small chamber. The walls and floor were covered with a gray, slimy substance that seeped bubbles of a black viscous fluid. The stench in the air had gotten so strong that she almost gagged every time she took a breath.
+
+Fungal Creep – Fungus – level 12 (Nature / Death)
+
+“The creep,” Naia answered. “It grows and takes over my caves. And it hurts.”
+
+The nature and death mana emitted from the fungal creep twisted and warped together forming a structure that permeated the cavern, and Naia’s domain mana was being constantly abraded on contact with it. As she watched, a bulge formed in the fungal creep along one of the walls, growing to about the size of her head before it burst, dumping a dozen small crawling shapes on the ground. They quickly scuttled around, climbing walls and rushing around to the edge of the fungal creep.
+
+Creep Spore – Fungus – level 8 (Nature / Death) x12
+
+As the Creep Spores reached the edge of the putrid fungal creep, they exploded with violent pops, spraying disgusting fluid everywhere, and wherever it landed, the fluid flowed, running down walls and across the rocky floor, merging with the fungal creep, expanding its reach.
+
+“That’s nasty,” Mato said, wrinkling his nose. “What is it?”
+
+“This is a dungeon,” Ali said. It was a dungeon unlike anything she had seen so far, but the creep was most certainly emitting a domain, and one strong enough to cause dungeon-rage for Naia and destroy the mana she had laid down. Even without Calen to confirm it, there was no doubt in her mind.
+
+“It’s Creep Spores and Borer Beetles for a while before we get to the Mana Eater,” Naia said.
+
+“Shall we go explore?” Mato asked.
+
+“Yes, just give me a few moments to make some monsters.”
+
+Armored Drake – Dragon – level 68 (Fire) x2Hellfire Imp – Demon – level 55 (Hellfire)Abyssal Stalker – Demonic Spider – level 45 (Blood) x2Warrior – Hobgoblin – level 43-44 x2Acolyte of Azryet – Kobold – level 21-22 (Holy) x5Bone Mage – Kobold – level 21 (Bone)Fire Mage – Kobold – level 36 (Fire)Archer – Kobold – level 20 x2Storm Shaman – Goblin – level 19 (Lightning) x2Your reserved mana has increased by +2387
+
+It was a good thing Ali had unsummoned her forces before she had left, given just how much she was spending to summon this army. She had no idea what they might face in there, so she had brought a little of everything, weighted toward her most effective minions. Her only exception was that she left out all the oozes, certain that Naia could provide better ones. She nodded at the sight of her assembled minions, happy to see her Grimoire had equipped her Acolytes and mages with a few level-appropriate mana potions each.
+
+By the time Ali was ready, Naia had summoned a puddle of oozes which scattered to the ceiling to give room for her ground-bound minions, and they continued. The slimy passage wound back and forth in treacherous switchbacks, growing Creep Spores that charged them with mindless aggression as soon as they were spawned. She quickly learned to spread her minions out, as small as they were the explosion of rot did a lot of area damage.
+
+“Something is coming,” Mato announced, immediately shifting into his Bear Form.
+
+A loud crunching noise filled the tunnel and suddenly, a hole appeared through the fungal creep and a pair of mandibles emerged, belonging to a sleek burgundy beetle almost as large as Ali’s torso, which dropped down into the tunnel with a strut that more than hinted at belligerence.
+
+Borer Beetle – Rock Beetle – level 27 (Earth).
+
+A second beetle followed, and then a third.
+
+Mato roared and charged them, followed quickly by her melee minions, but the beetles were hardly a threat, quickly dispatched by their superior forces.
+
+“The fungal creep ate the beetles I killed,” Naia said. “And now it sends them to attack me.”
+
+“That’s a dungeon for you,” Ali said, following along as Naia continued directing them past forks, branches, and fungal-creep-filled side caves. Mato switched back into his Beastkin form, perhaps to converse more easily.
+
+“There it is,” Naia said, as they entered an unexpectedly large cavern. There were many dark openings high up in the walls and ceiling, indicating passages leading elsewhere into impenetrable gloom, and out there in the center of a creep-covered floor that pulsed slowly as if breathing stood a squat, massive plant. The trunk seemed woody, hardened, gnarled, and twisted, but covered with ethereal glowing blue flowers that seemed to wave in an unseen breeze upon the end of short stalks. Out of the top of the squat trunk rose two fat branches that ended in a giant bud each, covered with wicked-looking thorns and woody ridges. All around the base of the plant, briar-like tendrils twisted and knotted in continuous restless motion.
+
+Mana Eater – Plant Aberration – level 53 (Nature, Death)
+
+“Boss?” Mato growled.
+
+The mana in the room was twisted and drawn tight, coiled up around the plant in a way that was rather familiar to her by now. It was no wonder Naia had been having trouble.
+
+“Almost certainly a boss.” She wasn’t quite sure, but she would guess it was not a raid boss, but still, a dangerous foe for Naia to face by herself.
+
+“It is scary,” Naia said, her membrane shivering.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

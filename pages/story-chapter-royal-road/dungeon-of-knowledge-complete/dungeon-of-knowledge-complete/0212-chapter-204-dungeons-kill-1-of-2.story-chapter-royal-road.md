@@ -1,0 +1,203 @@
+---
+id: 0651ea53-a0d5-53ce-b04c-ba05f48bdd64
+page-type-slug: story-chapter-royal-road
+title: "Chapter 204: Dungeons Kill (1 of 2)"
+slug: 0212-chapter-204-dungeons-kill-1-of-2
+partOf: dungeon-of-knowledge-complete
+position: 212
+ownLength: 3711
+unit: words
+ownProgress: 3711
+publishedAt: 2025-02-27
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2092807/chapter-204-dungeons-kill-1-of-2"
+royalRoadId: "2092807"
+markedReadAt: "2026-06-29T20:18:19.550Z"
+---
+
+Dungeons kill people. Never lose sight of that fact. - Dorin Crimsonhammer, Platinum Adventurer. Advice to novice adventurers.
+
+Vivian rubbed her temples, trying to ease the throbbing that was trying to beat its way through her skull. She was enough of a realist to have expected someone in her program to die eventually, she had just hoped it wouldn’t be quite so soon. You couldn’t level up and earn experience as an adventurer without confronting risky situations, and with risk came a probability of failure.
+
+Throw the dice often enough and they’re bound to come up snake-eyes.
+
+Everything about her training program was aimed at keeping the novices alive, to reduce the cost of failure so that everyone could get up and try again with more knowledge later. But there was always the specter of a mistake big enough to kill someone, and it had happened today. She had been sure her program, her ideas, would work. That she could stave off this inevitability. Clearly not.
+
+She had privately interviewed all nine of the surviving novice adventurers. Actually, they’re bronze ranks now, she corrected herself. Even though Theon had died, the quick thinking of Sabri and the priest Belmar had prevented any more deaths and turned a disaster into a successful boss kill. She had nine graduates and a dead body in storage.
+
+By now, Vivian had a clear picture of what had happened after several hours of wading through the story from every angle. Theon held quite a lot of the responsibility for his own death. It didn’t surprise her much, knowing how arrogant and headstrong the boy was. She had hoped placing him in that team would mellow him out a bit, but that had obviously not happened. She had several accounts of how Sabri had been shut down when she suggested he use a shield but knowing that it was Theon who was mostly to blame didn’t stop the others from blaming themselves. Particularly Sabri, who thought she was responsible for him not using a shield, Belmar who felt he let him die, even though Theon had been responsible for his own healing, and the group who was fighting the Kobold mage, all of whom thought they were responsible for letting it fire the stray fireball in the first place.
+
+She sighed. She had been running damage control all afternoon. In addition to a few bronze adventurers who seemed to be on the verge of quitting, she now had another major problem on her hands – she had one team without a healer and therefore unable to level up. That and she was certain Aliandra would be devastated when she learned that her dungeon had killed someone while she was out, and she had no idea what toll that would take.
+
+She took a deep breath and turned to the mounting pile of unfinished paperwork on her desk. Damn, what a day!
+
+Standing at the threshold of the great cavernous chamber, Ali took in the once-renowned domain of Thovir Emberforge, legendary blacksmith of Dal’mohra. Originally a mining excavation, the back half of the chamber still reflected the raw, rocky walls and ceiling, and the massive lake of boiling lava with the thunderous cascades of molten rock pouring down into it from somewhere far above. It roiled with potent mana, fire affinity for certain, but similar in appearance to the intense yellow-white energy of the Inferno. The air above the boiling pool shimmered with radiant heat, warping the appearance of the rock and lava falls in the background.
+
+The entire front half of the cavern had been reworked by the ancient dwarven stonemasons, a surprisingly smooth polished stone floor with pillars of granite rising to meet the vaulted ceiling. The walls were decorated with ornate relief sculptures, creating an air of culture, now made ancient by the wear of centuries.
+
+In the center of the chamber, right next to the lake of lava and the fount of fire mana was a raised stone dais, upon which stood the magnificent forge, and the great black anvil of Thovir Emberforge.
+
+But instead of the legendary dwarven smith wielding his glowing hammer, her eyes were drawn to the enormous recumbent drake lying on the stone floor before the dais. Several times larger than the Armored Drakes she was already acquainted with, this new monster seemed overwhelmingly powerful even in its fitful slumber.
+
+Corrupted Fire Drake – Demonic Dragon – level ?? (Hellfire)
+
+Even as it lay there, dark flames flickered across its impervious scaled body, leaking hellfire energy into the scalding air. Every couple of seconds, a great wave of Living Flame rippled outward from the drake, a regular pulse expanding through the entire room like a slow heartbeat of fire. And between the forge and the anvil, Ali’s eyes registered something else that had not been there before – a giant obelisk of rune-covered black stone – a shrine, very much like her own.
+
+It's not… his? She stared at it – the first ‘natural’ shrine she had seen that was not her own. Conspicuously, it did not float. As terrifying as the drake appeared, she felt a ripple of relief as anxiety loosened its grasp around her heart. At least she did not have to constantly look over her shoulder expecting a Lich.
+
+“Now that’s a raid boss,” Calen whispered, his eyes carefully studying the monster, noting and categorizing every detail.
+
+Ali released the breath she had been unconsciously holding, an instinctive response to her worries. But she still released it quietly.
+
+“Looks strong,” Malika said.
+
+“Yes,” Ali agreed, studying the way the domain mana flowed about the chamber, finding that she could quite clearly see how the domain itself was connected to the giant corrupted fire drake, infusing it with power, pulsing in time to the hemispherical waves of Living Flame. She familiarized herself with the organization and structure of the mana within the room, slowly getting the feel for why this was a raid boss and not a normal one. From the density of the domain mana flowing through it, she had no doubt that this would be the toughest challenge yet, and by a large margin, if she was reading the signs correctly.
+
+“Shall we go poke it?” Mato asked. “See what it does?”
+
+“Mato, this is not a game,” Calen hissed.
+
+His casual attitude struck like a discordant note against the prevailing fear and caution that had taken root deep inside Ali, but she knew how to read him. Mato practically vibrated with intense focus, a potent blend of curiosity, and a burning desire to test himself against the strongest monster. There was no chance he would underestimate their foe.
+
+The Beastkin said, “Never said it was.”
+
+After a long moment, Calen puffed out his cheeks and said, “Yeah, alright. Sorry.”
+
+“Everyone have an escape potion?” Malika asked, and Ali nodded, grateful that they had formed the habit of following Lyeneru’s Dungeon Survival Guide.
+
+Rule one: Have an escape plan. “I’ll inscribe a fresh teleportation circle just outside the door,” Ali added, after checking her own recall potion. “Left side.”
+
+Here was a powerful raid monster, but scarier was the fact that its abilities were almost entirely unknown. She recognized the Living Flame from the structure of the domain’s mana empowering it, but she could already tell it was substantially denser and more potent than the phoenix – and that was only one domain magic – it would likely have three.
+
+Mato advanced, entering the chamber, and Ali sent her minions in after him, fanning them out into the room. Each of them lit up with holy restoration magic as soon as they waded into the flames. As she stepped foot into the chamber, the drake’s double-eyelids leisurely opened, revealing an enormous malevolent red glowing eye, shot through with flecks of black as if the hellfire burned within. The ground shook beneath her feet and it took a few moments in frozen terror before she realized it was a growl of warning.
+
+“You tiny creatures would challenge a dragon in its lair? Very well, come, let us see what you are made of.”
+
+The growling roars of the draconic language uttered from the maw of a dragon were nothing like her lessons with Kavé. Ali’s heart quailed in fear at the power of the monster before her.
+
+Malika’s steadying hand touched her shoulder, pulsing a little healing magic through her. “We’ll look after each other,” she said, and then stepped forward to join the melee.
+
+You have gained Clarity.
+
+A strangely twisted formation of dark magic appeared within the great dragon’s eye, and it flashed momentarily before shooting outward to strike her invisibly.
+
+You have been cursed with Ruinous FrenzyA terrifying curse that exudes a dark demonic energy. -1% maximum health whenever the duration of Ruinous Frenzy is refreshed. Duration: 15 minutes+50% haste+100% damageDemonic Siphon. (Lose 20% of your maximum life and heal the caster for 20% of theirs when Ruinous Frenzy ends.)Curse – Duration: 5 seconds.
+
+The giant drake rose to its feet, turning its head toward them as it pulsed with the power of its twisted fire mana and the domain around it. An enormous wave of flame billowed out in all directions and as it washed over her, she heard a chime along with the searing pain.
+
+Ruinous Frenzy has been refreshed. -1% to maximum health.
+
+Simultaneously, the twisted mana of the Ruinous Frenzy curse spread through the room like a wildfire of demonic flame, appearing on everyone there.
+
+“Curse Proliferation!” Ali yelled. She had easily recognized the waves of yellow flame emanating from the drake as similar to the phoenix’s fire, but she hadn’t immediately connected the Curse Proliferation to the Ruinous Frenzy.
+
+“What?” Calen exclaimed.
+
+It can’t be every wave, can it? Ali thought as the implications slowly sunk in. About two seconds later, she had her answer.
+
+Ruinous Frenzy has been refreshed. -2% to maximum health.
+
+With a roar, Mato engaged, smashing his claws into the drake as its giant maw filled with tearing, rending fangs snapped shut a hair’s breadth from his ear. He turned the drake to face the left right as it roared back, blasting that entire side of the chamber with a torrent of midnight-black hellfire dragon breath. His health plummeted, but Malika and her healers had been expecting it, reacting far faster than she had expected.
+
+Fifty percent haste, Ali realized. It must work on spells too! She had passed over that in her hurry to read the curse earlier, stuck on the health reduction. Ruinous Frenzy granted both haste and damage but at such an enormous cost!
+
+Ali tuned Mato and the drake’s noisy confrontation out, focusing instead on the curse and the flame, studying the interaction of the magic within the room. This was her role. This was how they would learn. Her brow furrowed as the next wave approached, and she threw up a barrier, regaining a substantial burst of mana from the power of the magic washing by her. All her minions lost life, but her healers regained mana – and quite a bit more than from the phoenix. But her barrier protected her from losing health to the curse.
+
+I can block it!
+
+The second wave crashed over her while she studied it and the curse expired. She gasped as a huge bolt of black energy burst from her torso and careened across the chamber to be consumed by the drake, taking with it an enormous chunk of her health. She didn’t fail to see the drake’s health bounce back up to maximum in an instant, erasing every single strike they had landed so far. An Acolyte standing beside her yelped and frantically cast a big heal to recover her health.
+
+You have been cursed with Ruinous Frenzy.
+
+The pulse of the twisted curse magic came directly from the drake and passed through her barrier like it wasn’t even there.
+
+I can block the fire only. It seemed that the drake’s curse would ignore barriers but was only cast infrequently. The Living Flame was what spread the curse and refreshed its duration every pulse. Reluctantly, she dropped her barrier, realizing that all she would accomplish was healing the drake every five seconds.
+
+It was less than twenty seconds into the fight when her first shaman died, unleashing a familiar large bolt of hellfire from its corpse to heal the frenzied drake lashing out at Mato in the center of the room.
+
+Her Acolytes were struggling – the sheer amount of damage Mato was taking, and the room-wide flame pulses took its toll. Every few seconds everyone lost health, making healing her weakest minions progressively harder and harder. One by one they burned their Devotion skill, hasted healing having little to no impact on their rapidly regenerating mana pools, but they simply didn’t have the throughput to keep up with the onslaught.
+
+A second shaman died, followed quickly by the last one, each shooting the infernal demonic fire to heal the drake. “My minions are dying!” she yelled.
+
+“Hang on,” Calen answered.
+
+It’s the health reduction, Ali realized. Some of her minions really didn’t have much health to start with. Sure, the reduction was a percentage, but that flame pulse did a large flat amount of damage. With such a vast level difference between the flame spell and their defensive attributes, some of her minions were taking far more than their fair share of fire damage. At approximately the forty-second mark, when Ali’s health reduction reached twenty percent, her Acolytes began to die. First one, then the next. And suddenly all the remaining healers keeled over with the rest of her minions collapsing in a rapidly cascading disaster.
+
+“Run!” Ali shouted, terrified that Mato wouldn’t be able to make it out alive. She had no Acolytes left to save him. She flew as fast as she was able, heading for the doorway, but she threw barriers between Mato and the drake. The drake claws blurred, shattering her barrier, and she replaced it just in time to have it melt in the intense outflow of hellfire dragon breath.
+
+To her intense relief, the drake gave up at the door to the chamber, and her friends all escaped alive, Mato just barely making it before the drake turned and sauntered back to its resting spot, glaring at them before it lay down once more.
+
+All at once, the curses began expiring, shooting bolts of fire that crossed the room to hit the drake, passing through the rock wall of the chamber as if it were not even there. And each time it expired; her minions lost a substantial chunk of health, several of them immediately collapsing. Her eyes met Malika’s as they both realized what was about to happen and Malika sprang into action, darting among them, searing Mato and Calen with emergency healing before their expiring curses claimed their lives.
+
+“Well, that didn’t go too well,” Mato said, after shifting back to his Beastkin form.
+
+“What is that nonsense?” Malika wanted to know.
+
+Ali plopped herself down on the stone floor, propped up against the wall between Mato and Calen, and breathed a sigh of relief. Probably they wouldn’t have died from the curse, but it would have been way too close for comfort.
+
+“I need a few minutes. Calen, while we wait for the life drain to wear off, can I borrow your pen and some… fireproof paper?” she asked. She had spent the vast majority of the fight studying the mana flow, the spell interactions, and how her minions had been affected and she wanted to quickly run some numbers.
+
+It took quite a few minutes for her to account for all the bonuses, elixirs, resistances, and relative levels involved – some values, like the drake’s class level, were working guesses. But eventually, she handed the paper to Calen with her conclusions.
+
+“The Living Flame pulses are stronger than the phoenix, probably because of the raid domain enhancement,” she explained. “I think this is pretty close to the numbers.”
+
+Living Flame+150 fire damage per second.+25 stamina and mana restored per second.Curse Proliferation (Whenever Living Flame damages a cursed target, it has a chance to refresh the curse duration or proliferate it to nearby targets).Skill – Domain Magic
+
+“That seems about right,” he said, studying her work.
+
+“It’s a bit worse than that because the damage is not delivered per second, so it comes in spikes of probably close to three hundred damage per wave. I haven’t seen any other sign of domain magic skills yet, but this one seems similar to Mato’s Sanctuary – a spherical domain aura that propagates the magic.”
+
+“And the curse proliferation works the same as the phoenix?” he asked.
+
+“I tested most of the cases,” she answered. “I can block the flame from refreshing the curse with my barrier by simply blocking the fire damage.”
+
+“So you can ignore the curse the whole fight?”
+
+“No, he can directly cast it, and that ignores my barrier. I can only block the proliferation, which means I just heal the boss.”
+
+“You mean we have to take the reduction to maximum health, or the boss heals by stupid amounts? We can’t go longer than two hundred seconds or we die?” Malika asked, peering over her shoulder to look at her notes.
+
+“It’s a lot less than that in practice,” Ali answered. “When your health gets close to the amount of damage caused by the flame waves, you just die from that in a single shot. Even with their racial and elixirs helping their fire resistance, my healers reached that threshold at about forty seconds in. They really don’t have much health.”
+
+“That’s nasty,” Malika said, scrunching her face into a frown.
+
+“Yes.” Calen scribbled a few quick calculations in his notebook and then looked up. “I estimate we will need to kill him in just a bit less than two minutes. Any longer than that, probably Mato will die from attack damage.”
+
+“The nice thing is that it restores a ton of mana and stamina. And there’s the haste buff, so we should be able to do a lot of damage if we can stay alive,” Ali said, adding, “No mana potions for you, Calen.” That at least made him grin.
+
+***
+
+Ali flopped down onto a couch in the library, exhausted after fighting the Corrupted Fire Drake until the room behind them had begun to respawn. The only good thing about the drake was that they could simply run outside the room to reset the fight, and with a little careful healing let the curse expire. They did have to wait for the life drain to wear off, but this one had a fifteen-minute duration. It meant they had made quite a few attempts at the fight – hence the exhaustion.
+
+Calen had set a limit of one minute per attempt – if they couldn’t get the drake below fifty percent by the one-minute mark, they were supposed to flee. Their best attempt had been eighty-seven percent – not even remotely close. Every single try had been ruined by her minions dying, and the ones that went the full minute seemed to be entirely luck. She had tried every combination of minions she could think of, but the bottleneck came down to her healers having too little health, and way too little healing power for what she was asking of them – even with the substantial benefits of the Ruinous Frenzy curse.
+
+“If I could just level my Acolytes up, that would be something,” Ali grumbled.
+
+“Yes, that would be nice,” Calen agreed.
+
+Most of her damage-focused minions were also low enough that it wasn’t reliable to have them in the fight past thirty seconds, and even if they had been able to reach fifty percent by the one-minute mark, they would still have been doomed to fail simply because they lacked the health to survive the full two minutes.
+
+She slumped on the couch, depressed. At the two-minute mark, which Calen had calculated was the absolute longest they should even consider staying in the fight, they would be down to forty percent of their total maximum health, and would need the right combination of total health, magic, and fire resistance to survive the waves of flame every few seconds.
+
+“Cheer up, Ali,” Malika said, flopping down beside her. “It was our first try.”
+
+“I just don’t think Kobolds are going to be able to do it,” Ali said, not quite cheering up as Malika wanted. The honest truth was they were simply inadequate. “They’re far too low-level to be facing monsters like the drake.”
+
+“Maybe not,” Calen said, sitting down and pulling out some arrows to do maintenance. “If we really can’t win, we’ll go questing for better minions. I think we should try it again soon though, and, besides, I want to kill the Demon Hunter again a few times.”
+
+“What? Why?” Ali exclaimed. She had had nightmares of the hordes of demons pouring from the rift the last time they had been there, and he wanted to go back?
+
+“This bow is crazy good. If we get another two, you can make them,” Calen said. “I’m sure Lyeneru will want some for the Pathfinder guild. I think we can avoid the dungeon-break provided we stay away from the rift itself, and you can leave some monsters in there to mop up the extra demons. Perhaps grinding a few levels in the other wings will help us with this last fight too?”
+
+She had to admit what he said sounded reasonable. At least more reasonable than she had initially imagined, but she was simply too tired to really think it through. She had felt something from her Kobold boss while she was in the middle of that last fight, and she needed to check it before she did anything else. She pulled up her notifications and then gasped in shock and horror at what she found.
+
+Your Kobold Rogue has defeated Paladin – Human – level 9 (Holy).Your Kobold Warrior has been defeated.
+
+Defeated? Huh – oh… “No!” With a low scream, she curled up into a ball. “No, no, no…”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

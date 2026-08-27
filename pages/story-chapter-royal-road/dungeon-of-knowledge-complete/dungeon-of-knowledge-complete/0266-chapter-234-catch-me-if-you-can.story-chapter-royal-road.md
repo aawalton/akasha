@@ -1,0 +1,101 @@
+---
+id: db467356-aec1-5642-b5eb-e6e8ec16b814
+page-type-slug: story-chapter-royal-road
+title: "Chapter 234: Catch Me, If You Can"
+slug: 0266-chapter-234-catch-me-if-you-can
+partOf: dungeon-of-knowledge-complete
+position: 266
+ownLength: 2316
+unit: words
+ownProgress: 2316
+publishedAt: 2025-04-27
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2235128/chapter-234-catch-me-if-you-can"
+royalRoadId: "2235128"
+markedReadAt: "2026-06-29T20:20:14.070Z"
+---
+
+They followed the main road that wound its way lazily through the jungle, a path that Calen thought would lead all the way up the mountain through the heart of the Temple of Aman Rak. It was growing chillier again – the air had a bite to it that was quite out of place in the otherwise humid jungle. Frost was beginning to form in the small, shadowed nooks and crannies between roots and the lee of several of the larger trees. It didn’t take much to guess what was coming.
+
+“Another group up ahead,” Calen said, his voice sounding muffled to Malika’s ears, and she sensed his energy flowing through the space nearby before he appeared. His stealth was strange, it didn’t fully obscure his energy, but it did feel indistinct, diffused somehow, but only when she was looking directly at wherever he was. It confused her eyes, but if she closed them, or he was behind her, her Soul Sight picked out his energy perfectly clearly.
+
+“A mixed group,” he continued as the others gathered to hear his assessment. “Three warriors and a shaman, two mages and a witch doctor. Two frost weaver spider familiars.”
+
+Malika had been hoping for a group of ice mages like the first one so that she could try out her new Divine Step advancement, but with a mixed group, especially with a witch doctor in play, it would become a lot more chaotic and unpredictable.
+
+“I can get all the melee trolls,” Mato suggested.
+
+“What should we kill first?” Malika asked. “The shaman?”
+
+“Yes…” Calen answered, scratching his neck. “Even with the mages and the witch doctor, I still think the shaman is the most important. Bloodlust and healing are too dangerous.”
+
+“What’s the second target?” Ali asked. “Mages? And the witch doctor if you’re in the Spirit Realm?”
+
+“Yup, that sounds good,” Calen answered, his face twisted into a grimace. “This promises to be fun.”
+
+“How will we handle the Frog Hex?” Malika asked. The curse was by far the most annoying aspect of fighting against witch doctors. Her Soul Strike worked just fine, but with the tiny size and strength reduction, her strikes were rendered ineffective.
+
+“My witch doctor can help remove the curses,” Ali said. “It should be a lot better now. His Hex skill can cast or remove curses, so I think I’m going to prioritize removal over using the Frog Hex on them. I can also use bleeds on the more robust melee and drop in a fireball or two if the curses get out of control.”
+
+Well, that’s convenient. A minion able to remove curses was going to be very handy.
+
+“Ok, they’re just around the next bend. Let’s set up at this corner – we can use this big tree and that boulder for cover – and then I’ll get them,” Calen finished. With his clear assessment of strategy and Pathfinder cape, he seemed calm and confident – a long way from the shy and uncertain demeanor he had had when they had first met.
+
+Malika smiled as Calen pulled out his deadly bow, tall and purposeful as he strode off to fetch their foes – he looked like he was slowly-but-surely absorbing aspects of Lyeneru’s presence and demeanor.
+
+The demonic howl of his annoyingly loud bow cut through the trees, and in moments Calen was sprinting back down the road towards them. Two streams of Ice Bolts arced around the bend and sliced through trees, making a soft, repetitive swish, swish, swish as they punched through leaves and froze branches with hardly a rustle as the troll mages tried to track his erratic evasive path.
+
+Three angry painted Bone Warriors rounded the corner, and their stamina energy surged as their forms accelerated, leaving spikes of bone erupting behind them as they flew across the turf. A familiar surge of energy spiked beside her, and she recognized Mato’s charge before he too shot across the trail, crashing into the oncoming leather-clad Troll warriors. Energy flickered and flashed in her sight as Mato roared and swiped his claws at the trolls, while their skills flickered in retaliation.
+
+Malika sprinted forward, judging the distance to the lagging enemy shaman. As soon he rounded the bend and came into view, she drew back her fist. As she unleashed her punch, she pushed against the resistance she felt from Divine Step, and suddenly she was past Mato, suspended four feet above the ground right in front of the surprised Blood Shaman. Her fist shot forward, delivering her soul magic with a compact jab squarely into the troll shaman’s face.
+
+Chaos erupted across the battlefield. Her body twisted and shrunk as she was hit with the Frog Hex, but before she was even fully transformed, she felt the spell release her form and she snapped back to normal. Ok, that’s nice, she thought as she lined up a new kick combination. Really nice. The troll shaman, though, was no slouch, instantly taking advantage of the moment her body was reshaping to land a powerful slash with his bloody axe. Blood poured from Malika’s magically enhanced wound – siphoned off for the shaman’s nefarious purposes.
+
+A crash of Armored Drakes arrived, slamming the shaman into the bole of a huge, vine-choked tree and Malika found herself dodging friendly-fire fireballs and ice bolts as she unloaded her attacks. Her blood surged and her heart accelerated as Ali’s shaman triggered her Bloodlust, and at the same time, Calen’s magic shone out brightly, lighting up the forest from within. She felt the pull of another curse before it too was dispelled – this time from the ongoing bleed. She attacked with precision kicks and punches, pouring her magic into her Soul Strikes, finding it easier than ever to avoid the compelling pull to feral rage from the shaman’s intense blood magic.
+
+Suddenly, a blue flash and a wave of ice burst across the entire field of battle. Flurries of snow and ice filled the air, and the temperature and visibility plummeted precipitously. Even Malika’s health began to drop as the cold seeped into her bones and her body slowed. She had to power her attacks with Divine Step just to punch normally.
+
+Gah, this sucks! But the powerful area frost damage that had incited a sudden blizzard was also slowing the troll shaman, as the frost and ice crystals began to build up on its skin and tusks too. A net of ice – almost invisible in the blizzard – suddenly settled down on her, pinning her to the ground, but she unleashed Divine Step and teleported into the air above the shaman, unleashing a knee strike that cracked against the troll’s head on the way down.
+
+She grinned in satisfaction. Almost like cheating, having a Teleport skill. Now, how can I time it better?
+
+A stream of ice bolts slammed into her, passing right through her body and on into the drake beside her. She was too slow to dodge. The ice took hold, and her body slowed more and more before she finally froze solid, unable to move. With the next impact, the ice shattered, ripping a great chunk of her health with it. She pulsed Healing Mantra immediately and simultaneously felt the blood magic ribbons from Ali’s shaman healing her back to full. She took advantage of her momentary freedom before the magical blizzard caught her in its grip once more. Several fast punches and a kick later, accompanied by an unrelenting arrow-storm from Calen, and the shaman in front of her collapsed.
+
+Now it’s your turn, she thought, turning her glare on one of the elegantly robed Ice Mages. Beside it, the other mage was being repeatedly frogged and freed as the two witch doctors dueled for dominance. “Left mage!” she shouted.
+
+“Got it,” Calen said, shifting his aim instantly.
+
+With a thought and a pulse of her stamina, she stepped through the intervening space, appearing behind the mage. She unleashed a three-strike punch and elbow combination, hitting the mage hard and fast, shattering bits of its ice shield before her last kick landed and her body froze from his retaliatory defensive magic. The surprised troll vanished, reappearing on the other side of the melee group. Because it had fled, Malika remained stuck in her frozen strike position for a couple of seconds before she broke free of the ice magic’s hold. With a spray of shattered ice crystals, she exploded into action, teleporting to the mage and kicking him hard in the ribs before he was able to repair his ice shield once again. As she darted across the battlefield, she couldn’t help but be amazed at the steady, unrelenting howl of Calen’s bow and the brilliant tracer stream of fully empowered arrows that hadn’t let up for a single moment.
+
+That’s a serious power-up.
+
+Malika traded punches and kicks against ice bolts, dodging nearly half of them before the combination of his ice shield and bolts froze her once again. She healed herself as he shattered the ice gripping her body before she struck again. The mage froze himself briefly as another nova of ice magic rippled through the battlefield obscuring everything in fresh flurries of snow. Her punches bounced off the ice-encased mage, not even her Soul Magic penetrating until it released the potent defense. As the ice cascaded off his blue skin, Malika’s punch landed full force, and a hellfire fireball detonated on both of them, causing the mage to drop and her chime to sound.
+
+“Finally…” Malika muttered.
+
+The instant she looked up, Malika felt the world around her twinkle as she was forcibly banished to the Spirit Realm.
+
+Uh, shit. Change of pace or what? Malika glanced about at the suddenly silent and gray world. She retrieved one of Mato’s fried Ghost Mushrooms and popped it in her mouth while watching the ghostly outlines of her friends battling the trolls on the other side of the veil. Calen shouted something she couldn’t hear and then a muted explosion went off, gray and silent, triggering a gleaming ripple nearby. Suddenly the witch doctor appeared, snow and ice crystals showering off his skin and armor, creating a gray cloud around him. Malika sprang into action once again, up and attacking before the witch doctor could even react.
+
+Even though she didn’t have a Healer’s Sight skill like Ali’s priests, Healing Mantra gave her the sense that the witch doctor had been severely damaged by the attack that had forced him to flee to the Spirit Realm. Probably Calen got the drop on him with an Ambush, she thought as her Soul Strike-enhanced kick connected, knocking the troll sprawling. The witch doctor swore profusely, rolled, and got up running, but Malika teleported in front of him and stopped him with a spinning roundhouse kick to the head, following up with a rapid punch sequence that was only possible because the Frost Nova chill couldn’t reach her here. She kept up her relentless attacks, ignoring the witch doctor’s feeble attempts to drain her, until he collapsed unmoving on the gray of the ground.
+
+With over a minute remaining on her Spirit Banishment curse, Malika found herself with nothing to do, so she stored the corpse and then simply sat and calmed her mind with her familiar meditation ritual, keeping her eyes open to watch the silent ghostly battle wind down in the normal realm. In the back of her mind, she could sense the surge in her mana and stamina regeneration as Clarity was boosted by her calm stillness. Without the witch doctor causing chaos, Calen’s unrelenting rain of arrows quickly finished off the remaining Ice Mage, and then Ali’s minions made short work of the warriors Mato had been tanking. Even Ali’s new mage seemed particularly effective with its ice bolts piercing through the three warriors simultaneously, slowing their hasted attacks while damaging them.
+
+Could have frogged some of them too, Malika mused. Without the enemy witch doctor, Ali’s one would have had free rein. I should remind her. She’s probably out of practice with control magic. Not that it mattered this time.
+
+She watched her friends gathering to talk among themselves, Ali resummoning imps that had been shattered, and Zor’kan emerging from hiding in the aftermath of battle. As her mind calmly reviewed the fight, she found herself appreciating Divine Step and her new teleport advancement even more. She had known she would find it useful, but she hadn’t fully appreciated just how effective it would be. Chasing down an Ice Mage was now an effective strategy – even for a melee class like hers. Her skill had proved effective once again here in the Spirit Realm in the solo showdown against the witch doctor.
+
+A large part of its value was simply the surprise factor, but the ability to cross over a hundred feet in an eyeblink was going to add a tremendous amount of weight to the ‘Relentless’ description she had won from her duels with Basir back in Kezda. Effective mobility was a potent multiplier for her style of martial arts – and a ten-second combat range teleport with no other restrictions was a fantastic boon. It’s probably good against control spells too, she thought, considering how it would probably free her from or even ignore web or roots.
+
+Idly she wondered how Rezan’s disciples were doing, and as her curse faded and she transitioned back to the normal realm she wished she could have a rematch, just to test how far she had come.
+
+“Oh, there you are,” Ali said. “I was about to send my witch doctor in to fetch you.”
+
+Malika smiled at her, retrieving the stored corpse of the witch doctor she had killed in the spirit realm. “It looks like you guys made quick work of the rest of them.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

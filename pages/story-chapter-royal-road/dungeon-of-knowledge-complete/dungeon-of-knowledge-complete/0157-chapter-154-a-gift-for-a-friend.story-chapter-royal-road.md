@@ -1,0 +1,317 @@
+---
+id: 77efe6c0-6c07-5b95-aa51-454f9781f7ef
+page-type-slug: story-chapter-royal-road
+title: "Chapter 154: A Gift for a Friend"
+slug: 0157-chapter-154-a-gift-for-a-friend
+partOf: dungeon-of-knowledge-complete
+position: 157
+ownLength: 5439
+unit: words
+ownProgress: 5439
+publishedAt: 2024-11-07
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1890272/chapter-154-a-gift-for-a-friend"
+royalRoadId: "1890272"
+markedReadAt: "2026-06-29T20:16:17.575Z"
+---
+
+“Why do I have to do it? I’m an assassin, not a hiring manager,” Tala grumbled, glaring at Kieran Mori, but she kept most of her frustration to herself. His orders for her had become more and more annoying of late, and she had held her tongue mostly out of fear of his reputation, but this was too much.
+
+Politics, administration, and talking to people – it all got in the way of her growth. I need marks to level up. An Assassin hiring a mercenary team to kill someone was an Assassin who had given up on their own development.
+
+Kieran fixed her with a flat, level stare that extinguished her annoyance instantly. He didn’t speak, and the longer he held her gaze the more uncomfortable she got, until she broke eye contact to avoid him.
+
+“You are ambitious,” he said, his voice flat and just as unemotional as his face.
+
+Fuck. She squirmed inside, certain she had just annoyed him. Waiting for him to continue was like teetering on the edge of a cliff, not knowing which way she would fall.
+
+“But you’re surprisingly short-sighted,” Kieran said, sighing and finally leaning back in his chair. “Why do you think I put you in charge of the protection operation?”
+
+“Because those two… got themselves killed?” She almost said ‘idiots’ but she didn’t want to risk annoying him further, especially when she couldn’t read his emotional state. She had been shocked when she discovered that Adrik and Edrik had been killed in the street in the middle of a job but, now that she had long since passed their paltry level twenty, she had a far better assessment of just how weak they had been. Being saddled with their responsibilities had really put a crimp on her personal growth, though – filling her time with useless busy work. Nobody seemed to be smart enough to just keep things running without her input.
+
+“You need to think about the bigger picture. When they got themselves killed, they left a gap in the organization. A leadership position that I had you fill. You’ve done a good job, earning some minor attention and praise from Mr. Hawkhurst himself,” Kieran said.
+
+Tala stared at him without speaking, uncertain if the praise was a buildup for something rough or violent.
+
+“Although, I could do with less complaining from you,” Kieran continued, not even acknowledging her discomfort. “Why do you think I’m giving you the job of hiring mercenaries to kill that dungeon?”
+
+“I don’t know?” she said. There was absolutely no way she was going to admit it might be because she couldn’t do it yet. His line of reasoning was a perspective she had not expected to come from his mouth. Jax knows about my work?
+
+“Roderik Icecrown is dead. I need someone to do his job, but you see only the low-level work,” Kieran said, his gaze still intently focused on her, like she was a specimen pinned to a board. “You are somehow oblivious to the opportunities presented by his vacant position. I’m giving you this job because I think you can do it, and you will earn the trust of Mr. Hawkhurst if you take care of this matter for him. It will open many more opportunities for you in the long run.”
+
+“I understand,” she nodded, inwardly grinding her teeth as she strove to appear properly demure. She had just assumed that Jax Hawkhurst would appoint another noble to replace Roderik – most of these political maneuverings taking place behind closed doors and beyond her view.
+
+“I don’t think you do,” Kieran said, his voice dropping to a quiet whisper. “Roderik and Alexander were both agents for the Shadow Council, and their assigned task involved killing the dungeon. The rumors trickling down suggest that the Master himself had his eye on this project. Now that they’re dead, their job remains unfinished, and the Council is furious. While they bicker amongst themselves about who should take the blame, we have a brief window of opportunity. If you can bring me the corpse of Aliandra Amariel, I can use it as leverage to get you invested as a junior agent.”
+
+The Shadow Council! Finally! Kieran had been stubbornly close-lipped about the organization after he’d briefly mentioned it, and now, for the first time, it seemed the wheels were beginning to turn. While she knew little about the obsessively secretive organization, Kieran had already given her a few jobs in support of their goals, and those had been by far the most rewarding. This could very well be her ticket out of this shithole town. “Ok, I’ll do it.”
+
+“I see you understand now,” Kieran said, a satisfied smile on his lips.
+
+It’s not like it’ll be hard, she thought, but still, she was a little disappointed that she wouldn’t be the one to get the experience for plunging her daggers into the back of that Fae. Her lip curled. I should have dealt with her myself, long ago.
+
+***
+
+Tala pushed open the well-worn door to the Crooked Crown and walked directly up to the bar, automatically noting the two tables that might be her customers.
+
+“Lime Spritzer,” she told the bartender. It was a drink for fancy well-to-do people in the nicer parts of town who wanted to be noticed for wasting silver on watered-down wine – not for the likes of the Crooked Crown. But it was her code phrase, and even though she had worked with the Crooked Crown in the past, following protocol was important.
+
+“Here you go,” the bartender said. He slammed a smudged glass down in front of her and poured water from a jug, sloshing it onto the countertop. Then he crushed a slice of lemon over it in his giant vicelike hands and dropped the mashed remains into the glass.
+
+He forgot the wine. At least he could have got the lime right. There was no way she would let that abomination touch her mouth, but she took it anyway, dropping two large silver pieces on the bar. His fee for setting up the meeting.
+
+He smiled and nodded toward the second table she had identified on her way in.
+
+Tala strolled casually over to the wobbly table, one leg propped up by a wad of beer-soaked paper – at least, she hoped it was beer – studying the four that sat there.
+
+Mage – Human – level ??Rogue – Human – level 52Warrior – Human – level 53Archer – Half-Elf – level 54
+
+The mage was tall and skinny, and he tracked her approach with eyes that flickered with inner fire. His robes were expensive, obviously out of place in an establishment like this one, and although she couldn’t identify him, her sources suggested he was level sixty-three with an impressive set of skills ideally suited to this sort of job.
+
+Her gaze switched to the muscular half-elf who wore his bow on his back, rather than keeping it stored in a storage item. He had pure white hair down to his shoulders and seemed to be running some aura enchantment that radiated cold from his body, making some of the nearby patrons shift uncomfortably.
+
+She nodded to the assassin, predictably dressed in black leather armor, and glanced quickly at the warrior before returning her gaze to the mage. He was clearly the leader.
+
+“No names,” she said, sitting down at the open chair without invitation. “I’m your coordinator for this deal. You get five gold up front, and twenty more when you bring me proof of the target’s death.” She obviously didn’t mention that Jax had raised the bounty on Aliandra to sixty gold – she would be pocketing the difference. She didn’t even have to pay their fee herself, that money was coming directly from Kieran Mori. She retrieved five gold pieces and placed them neatly stacked on the table in front of her, noticing the sudden alert attention from the assassin. The mage simply ignored it.
+
+“What’s the job?” he asked.
+
+“This is your target,” Tala said, retrieving a picture and placing it before them. “Aliandra Amariel, a Fae Arcane and Nature-affinity mage. You can find her below the sewers, using this map.” She placed another piece of paper in front of the mage – a map to the rockfall that led to the underground cavern where she had first found Aliandra, about to be eaten by wolves. Idly, she wondered how different life might have been if the problematic Fae had simply let the wolves eat her that day.
+
+“Level? Skills? Any allies we need to worry about?”
+
+“She’s level fifty. She wields barrier magic and can summon minions – mostly Kobolds. She has three friends of a similar level, but two of them haven’t been seen for quite a while.” Tala paused for a moment while the mage absorbed the information, and then she dropped the rest of it. “She’s a dungeon.”
+
+“No problem,” the mage said calmly, finally reaching for the map and the portrait, surprising Tala. She was certain that would have gotten at least a look of surprise. “We did our homework when your people contacted us, and we assumed it was something like that. We have experience clearing dungeons, and my skills are uniquely suited for disrupting mages, so this should be an easy job.”
+
+“I require the corpse, mostly intact,” Tala said, drawing a raised eyebrow. It was not a common requirement for a job, but not unheard of. Mostly it meant that a death ritual or necromancy would be involved, and secrecy would be of utmost importance.
+
+“That will be extra,” the mage said, his expression closed.
+
+“I can offer twenty percent,” Tala said flatly. This was for her ticket into the Shadow Council, and so it would come out of her own funds. Would he negotiate further, or –
+
+“That works.”
+
+“Very well, I look forward to seeing the results when you’re done,” she said, adding one of her own coins to the pile and pushing it across the table where he made the stack disappear with a casual touch.
+
+Ryn hummed a half-remembered tune to herself as she rearranged the books on the shelves. There were enough now to require proper organization, and she was happy to see it slowly beginning to take the shape of a real library – even if it was still quite small. I might need to make a catalog soon, too. That would require finding a competent enchanter and getting her Arcane Archive skill imbued into an artifact – no doubt an expensive commission, but Ali had repeatedly shocked her with just how much money she could conjure, seemingly from thin air.
+
+More and more, Ryn found herself preferring to spend her free time down here with the books she and Ali had collected, rather than passing time in The Reading Corner up in town. Perhaps it was the feeling that she owned at least a part of this endeavor, but she couldn’t deny how it captured her imagination. Every time she gazed up at the dark, empty shelves rising out of sight into the distance, she imagined what it would be like to see it fully lit and loaded with books with people coming just to admire the grandeur of so much knowledge being collected in one place.
+
+She also shared similar tastes in tea with Lira and had spent quite some time hunting down interesting varieties in town for them both to try.
+
+“Hi, Ryn, what are you up to?”
+
+She glanced up and smiled as Ali flew in through the upper atrium entrance. “Just finished sorting the books.”
+
+“Do you know if Volle has a library?” Ali asked. It was a rather odd question, and she wasn’t quite certain what she was after.
+
+“I believe so, but it isn’t particularly extensive or renowned, so it wasn’t on my list,” Ryn answered. “It’s probably best to spend our money on something more important – I was thinking maybe Southport?”
+
+“Would you mind recording it, as a favor?” Ali asked.
+
+“I can, I’m just curious why you want that one of all places?” Her Library Teleport had leveled up several times from her extensive use collecting books, and she had several available destinations she hadn’t yet filled.
+
+“I want to check up on Naia,” Ali said. “I left her there by herself and I’m a little worried she might be stuck or something. Or lonely.”
+
+“Sure, I don’t mind,” Ryn said. She most certainly didn’t mind using her skills to help Ali reconnect with a friend. Even though Volle’s library was nothing spectacular, it would be another source of books to fill their shelves. There was just one problem. “I don’t think we have enough money for it though – and how am I even going to get there?”
+
+“I have an idea for that,” Ali answered, hopping off her barrier and opening her gorgeous magical grimoire.
+
+But Ryn just stared in confusion at what her friend made. A slime? It was a transparent blob filled with many bright sparkling lights. Ali’s grimoire flared once more and a minute later, a chunk of intensely glowing yellow-white crystal appeared on the table.
+
+Sparkling Ooze – Ooze – level ??Glowstone
+
+“What is this for, Ali?” Ryn asked, still baffled.
+
+“Take this to Weldin Thriftpenny at the guild shop and sell it,” Ali said, handing her the Glowstone. She recognized it as a piece of magicite about the size of a chicken’s egg. “You should be able to get enough money to afford teleportation to Volle from Professor Addlestone at the Novaspark Academy. Hopefully, there will be enough left over to purchase a membership at Volle’s library.”
+
+That was all good and well, but… “And what’s the ooze for?” Ryn asked, studying the glowing blob.
+
+“A present for Naia,” Ali answered with a grin. “You can pretend it’s your familiar and I’ll make it follow you around. After you get to the library, take it with you out of the city gates and leave it somewhere where nobody can see, and then come home by yourself.”
+
+“Oh, ok!” Ryn said. Delivering presents sounded like fun!
+
+Mato hiked out to the furthest outlying fields of the farm, trying to blot out the anguish of the blighted plants from his mind. There were times when it was an enormous advantage to be able to understand the language of plants, but this was not one of them. I’m coming…
+
+He picked his way carefully through the ruined fields, choosing his first spot, near the dead and rotted trees of the great forest. This would be the last of the farms that needed cleansing. From here on out, it would take some kind of major working of healing magic to banish the blight from the forest – a ritual so great that he had no idea who even might be capable of wielding such power. Maybe Lira knows a ritual like that. But if she did, surely she would already have used it?
+
+It grated on him just how much destruction Alexander Gray had wrought upon the land with his evil necromancy.
+
+Here.
+
+He shifted, twisting his arms toward the sky, stretching and growing while his feet pushed down through the earth, turning into roots. He was becoming much more familiar with his Tree Form, finding the shape to be comforting and soothing now instead of foreign. As he stretched himself into his broad branches and grew his leaves, he reflected on life, as he often did in this form. The lesson Lira had taught him via the Elder Tree had been one of balance, and he had not understood it in the slightest at the time. However, after having spent so much time giving back to the land, healing it from the necromantic blight, he was beginning to grasp the edges of the principle.
+
+Not all of life is fighting.
+
+He knew it, of course, deep in his heart – he had friends and family. But, in a way, his service to the land brought it into sharp focus, and it made him feel somehow complete.
+
+His aura bloomed outward and upward, rippling across the blighted fields and through the land, soothing the plants and trees. The taint of the undead blight infused everything his mana touched, corrupting the very land with its dark magic. But his Sanctuary was like a cleansing tide that swept away the blight, consuming it, dissolving it, and restoring the land.
+
+He relaxed, contented by the rightness of it.
+
+Arboreal Sanctuary has reached level 29.
+
+Sometime later, he felt movement – an invader within his Sanctuary. He didn’t know quite how long it might have been – time passed differently as a tree. Although the blight was almost entirely erased, the shambling shape that entered his awareness was wrong. Wrong in a way that made his bark crawl and his branches shiver.
+
+Zombie. Necromancy. Death. But it was the foul unnatural death of those who worshiped undeath itself.
+
+He focused his mind, reaching for his skills, but combat skills required stamina and he had none as a tree. He switched his choice, and throughout his broad sanctuary aura, life exploded into rampant growth. Roots shot up from the ground, brambles thickened and twisted, weeds grew, and vines sprouted, and he wielded them all, twisting, grasping, breaking.
+
+It was not necessarily a primary combat skill, but life hated the undead – and it was more than sufficient for this. A few minutes later, the zombie collapsed to the sound of a simple pure chime in his mind, and his peace was restored.
+
+Rampant Growth has reached level 2.
+
+But it was not for long, and a few moments later his Sanctuary was invaded yet again – this time by a pair of skeletons emerging from the dead forest. He crushed them with his roots and vines, but more came in dribs and drabs, but never ceasing like a leaky pipe dripping undead into the world. He crushed them one and all.
+
+Rampant Growth has reached level 3.
+
+But something came that he could not crush. Something that made him recoil even within the calm of his Tree Form. Something more horrific than he had ever encountered. A true abomination walking on mismatched feet and spewing forth blight and dark billowing miasma with every breath. A being so twisted and warped, he couldn’t even tell what it was supposed to be.
+
+Blighted Patchwork Horror – Undead Abomination – level 38.
+
+The Patchwork Horror tore through his roots, decaying them with the withering miasma while ripping its unreasonably powerful body through the entangling brambles as if they were barely a nuisance, and Mato knew he was powerless to fight it.
+
+In this form.
+
+With a thought, his body twisted, shrinking, growing muscle, sprouting fur, and he roared as his tree was replaced with his Bear Form. He charged the abomination, slamming the full weight of his bulk into the smaller monster, and lashing out with his claws. His magic slammed into the creature tearing rents through its tough, stitched undead flesh, triggering his Brutal Restoration to begin healing him.
+
+You have been infected with Undead Blight.A debilitating infection that grows stronger every day, rotting flesh and propagating to everything it touches.-1% to maximum health+1 count per day10% chance to spread Undead Blight on contactIf you die while infected, your body will be raised as a zombieSmall chance per vitality to recover from Undead BlightDisease – Count: 1
+
+He ignored the searing pain bursting into his lungs as he breathed the miasma and attacked again. The monster shrieked and quivered, lashing out with no fewer than seven mismatched claws and hands, limbs that had been stitched onto its back, nestled among the protruding yellowed rib bones.
+
+His Swipe tore into it, again ripping through its skin to perforate its unnaturally tough flesh, the health cost draining away, ignored just like the blight itself. He had Brutal Restoration and it would need to be enough. With his mana, he grew his roots and brambles again, a vastly smaller surge of life in this form, grasping at the abomination and restricting its movement even as its plague rotted the growth, causing it to blacken and wither.
+
+Your Undead Blight has increased to 2.
+
+He ignored it again; he would deal with it later. He roared, and struck again, blocking several piercing claws and random mouths that tried to bite him.
+
+Your Undead Blight has increased to 4 (+2).
+
+He could feel his body weakening with each infection as if his very life were being drained from him, but he endured. Such a monster was an abomination to the very idea of life and death itself, and he would bring balance with tooth and claw.
+
+His great paw slammed into the monster, slashing its bloodless flesh. It screeched, trying to scurry away. He reacted, instantly retaliating with his Battle Master, empowering his strike with every support skill he had. His claws ripped clean through the monster, crashing into the ground and sending a spray of soil and stones flying through the air. The monster fell twitching and twisting with an unearthly scream that emerged in chorus from many mouths. He struck one more time and the monster was silenced, his chime heralding his victory.
+
+You have defeated Blighted Patchwork Horror – Undead Abomination – level 38.Druidic Shapeshifter has reached level 44.+10 attribute points.Swipe has reached level 28.Brutal Restoration has reached level 30.Bear Form has reached level 28.Rampant Growth has reached level 7 (+4).Battle Trance has reached level 12.
+
+But the miasma did not cease, continuing to pour out of the corpse of the monster unabated.
+
+Your Undead Blight has increased to 5.
+
+Shit. Quickly, he shifted himself back to his Beastkin Form and, using the enchantment of his guild ring, he stored the corpse, finally halting the spread of the blight. Then he shifted once more, returning to the serene sanctuary of his Tree Form, settling in to wait for his Vitality Rejuvenation to heal his blighted body.
+
+The necromancer boy – Seth – was right. He instinctively despised the reek of death that seeped from his body, but Lira owed him an irredeemable debt, and Ali had vouched for him. Mato trusted both of them with his life – if they could tolerate him, he would too. Besides, Mato couldn’t deny he had just verified the source of the plague was an undead abomination, just as Seth had claimed.
+
+If we can kill all of them, then perhaps this land can heal.
+
+***
+
+“Ok, show me,” Vivian said.
+
+Mato retrieved the corpse from his ring and immediately the miasma began pouring from it, forming a cloud at his feet and causing Ali’s moss and mushrooms to blacken and die.
+
+You have been infected with Undead Blight.
+
+“Mato, that thing is killing my dungeon!” Ali exclaimed, backing up quickly.
+
+“It’s killing me too,” he replied. “It doesn’t stop giving off the blight even after you kill it.”
+
+“Well, that’s nasty,” Vivian said. “Put it away.”
+
+“It’s evil,” he agreed, storing the corpse. “But it means our necromancer boy was right, these are the reason the forest is still blighted and throwing out countless zombies and skeletons.”
+
+“I see why you wanted to show me outside, but why did you specifically want to do it in the dungeon?” Vivian asked.
+
+“Yes, why here?” Ali demanded.
+
+“I was hoping Ali would use her deconstruction to eliminate all traces of it,” Mato said.
+
+“Actually, that’s a pretty solid idea,” Vivian agreed.
+
+“Won’t I catch the blight, though?” Ali asked. She stared worriedly at the dead circle of moss on the ground beneath his feet. “And what if I learn the imprint? Ick!”
+
+“Yes, but I will heal you with my Tree,” Mato offered, and after she nodded her reluctant approval, he dropped the corpse on the withered moss again and stepped away, shifting himself into his Tree Form beside the shrine. Through the strange awareness of his Sanctuary aura, he watched as Ali destroyed the remains of the undead abomination and began to replant her moss.
+
+“I’ll talk to the mayor and see if we can get the word out to the nearby towns,” Vivian said, before she vanished, and Mato returned to his normal form.
+
+Mato touched Ali’s arm, “Sorry, I should have warned you.”
+
+Naia flowed along the rocks and crags of the cavern roof, hunting, observing, and directing her slimes in a battle she could not win. Every single slime she had was fighting, and still, she could not make a single inch of progress. She had even removed most of the defenders she used in the caverns above to pretend she was still the same to the humans, desperate for more slimes to hold back the tide.
+
+When Ali-friend had opened the wall, she had been overjoyed to have space, freedom, and new things to explore. She had learned to hunt the flappy-things – the bats. She had hunted the things in the water, and she had grown, taking the caverns and the pools for her own.
+
+But she had not found any new slimes or oozes, and when she had stumbled upon the hive, her progress had ground to a halt. The hard-shells were too many; Borer Beetles that tunneled and ate her Slimes. She could always make more, but there were so many beetles they filled the caverns. Below her, the rock face of the cavern cracked, and chunks of rubble fell, collapsing into the fight below with loud vibrations that she felt through the rock all the way above. She had felt the beetles tunneling, but there was nothing she could do.
+
+Borer Beetle – Rock Beetle – level 27 (Earth).
+
+She felt the clacking of its hard legs on the stone, and the crunching as it ate through the wall. Emerging, the hard-shell scramble-clacked its way down the wall, the vacated space behind it in the new tunnel immediately filled with another hard-shell as they began streaming into the cavern, attacking her Slimes from above.
+
+She would need to give up this cavern soon, falling back to the next one. But then the fight would be repeated, and she would lose. She found herself wishing once again that she could talk with Ali-friend.
+
+Ali-friend is smart. She would know how to defeat the beetles – she had defeated the wall! If Naia had found a few more slimes, she might have been smart enough to figure it out, but she knew her own limits. Below was the hive, and above were the humans. And she was stuck in the middle, just like when she had been stuck in her cave with not even the tiniest crack for her to slip through.
+
+Suddenly, her mana vibrated, somewhere way above at the entrance to the human world, and she felt a chill of fear, knowing she was critically vulnerable. She had nothing left to defend herself from a second attack.
+
+Not human?
+
+Her senses vibrated again as the thing moved, triggering her curiosity and surprise.
+
+Slime?
+
+Ooze!
+
+Abandoning her lost cavern, she twisted her body into the tiny mana-crevice that connected herself to one of the few remaining slimes she had in the upper cavern and squeezed herself through, emerging through its body into the pool of water at the entrance, immediately concealing herself and her mana, taking the form of a rock. Her senses detected the thing, beautiful, glowing, and filled with mana as it crawled, slid, shifted across the wet rock toward the pool.
+
+Sparkling Ooze – Ooze – level 35 (Light).
+
+But she stopped, body quivering as the thing moved. She could taste-feel the mana of it, and she recognized it.
+
+“Ali-friend?” she warbled, certain, but uncertain. It was an ooze, but where was Ali? Her senses ranged around but all she could find was the single ooze.
+
+The ooze bobbed up and down quickly before becoming still once more.
+
+She waited, but it did not speak. Can not speak? Ali? She considered the problem for a while.
+
+“Ali cannot speak?” she asked.
+
+The slime bobbed up and down again, and she recognized the attempt to copy her happy mood. Cautiously, Naia slithered out of the pool and approached the Sparkling Ooze, reaching out with a pseudopod to touch the shiny warm membrane. Slowly, a pseudopod emerged from the Sparkling Ooze and touched her back.
+
+“Ali!” She bobbed up and down in excitement, unable to contain her joy. It didn’t matter that she couldn’t talk, her friend had come to visit! For a moment, she forgot her troubles with the beetles and the humans, just filled with happiness again.
+
+But then the reality of her situation intruded once more as she felt a chunk of the cavern below collapse with a powerful vibration that she could feel even from all the way up here, and several of her slimes vanished from her mind.
+
+“I am going to lose to the beetles,” she explained as the Sparkling Ooze tipped a little to the side in a gesture that seemed like curiosity and surprise. It was hard reading Ali’s reactions, but she explained what she struggled with below, just happy to be able to share her worries and struggles with someone who cared.
+
+She paused as a pseudopod touched her membrane, tugging gently. Not certain what it wanted; Naia allowed her body to grow a new pseudopod where it pulled. Curious, she let it pull another couple of pseudopods out and place them slowly around its own body.
+
+Naia watched in confusion as it pulled another, placing it around itself. The membrane felt good to touch, and she hadn’t realized just how much she had missed her friend.
+
+“What do you want?” she asked, still not quite understanding. The Sparkling Ooze began to pull itself into a ball and nestle up against her body while pulling her pseudopods further and further around it.
+
+“Eat?” she asked, suddenly, incredulously getting the message.
+
+The Sparkling Ooze bobbed once up and down.
+
+“Are you sure?” she asked, not quite believing it.
+
+The ooze bobbed again.
+
+There was no doubt about it, and Naia didn’t hesitate, flowing herself around the larger ooze, quickly enveloping it entirely within herself. Her mana flowed into her center, piercing the Sparkling Ooze and dissolving it quickly. Suddenly it was gone, and the remnants of its released mana flooded into her.
+
+Imprint: Sparkling Ooze completed.
+
+Her mind expanded, instantly growing sharper and clearer as her skill reacted to the new imprint by growing her intelligence, and then she was filled with sadness. Ali was gone and she was alone again.
+
+But she came. And somehow that was enough. The gift she had been given filled her with joy and a rush of new hope.
+
+Reaching out with her mind, she connected with the few slimes that remained in the deep cavern. It crawled with bugs now, and she didn’t have much time before a queen arrived. A shudder rippled across her membrane. Squeezing her body through the mana connection, she poured herself out of the slime that she had left clinging to the ceiling. Below her, the room was filled with the crunching, clacking of the swarm of beetles. She stretched her mana into a pseudopod, expanding and growing, shifting it to be just like the Sparkling Ooze before she divided and separated from it. She repeated the process three more times before she was ready.
+
+Slipping her mind into her new slimes, she pushed, ejecting the intensely glowing balls of mana, and a hail of orbs cascaded down onto the swarm below, detonating in a continuous explosion that rocked the cavern for more than a minute before she ran out of mana. But in the cavern below, nothing moved, nothing shook the silence. No clacking or crunching. Just mush and sludge that slowly dripped off the walls.
+
+You have defeated Borer Beetle – Rock Beetle – level 20-31 Swarm x73.Slime Lord has reached level 44 (+2).+30 attribute points. Your Sparkling Ooze has reached level 37 (+2).Your Sparkling Ooze has reached level 36.Your Sparkling Ooze has reached level 36 (+2).Your Sparkling Ooze has reached level 35.
+
+She bobbed happily; all her new oozes – Aliandra’s gift to her – had leveled up. The bugs were dead, turned into mush. Against her instincts, she immediately put all thirty points into intelligence. She was a slime, she had never needed intelligence, but she knew she could never defeat the hive unless she was smarter.
+
+Like Ali!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

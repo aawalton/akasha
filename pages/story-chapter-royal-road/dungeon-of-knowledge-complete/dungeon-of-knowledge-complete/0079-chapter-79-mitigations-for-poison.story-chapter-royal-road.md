@@ -1,0 +1,247 @@
+---
+id: 20d0acc9-16f0-5dfd-81ca-00ba709dca55
+page-type-slug: story-chapter-royal-road
+title: "Chapter 79: Mitigations for Poison"
+slug: 0079-chapter-79-mitigations-for-poison
+partOf: dungeon-of-knowledge-complete
+position: 79
+ownLength: 3879
+unit: words
+ownProgress: 3879
+publishedAt: 2024-05-30
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1656877/chapter-79-mitigations-for-poison"
+royalRoadId: "1656877"
+markedReadAt: "2026-06-29T20:13:34.475Z"
+---
+
+Calen sat quietly on what had once been a log and was now a granite bench taking in the warmth of Mato’s cookfire and listening to the banter of conversation around him. The food was good, as always. More than good. It was just that his stomach still seemed to be irritated after all that poison.
+
+He glanced over at Ali who had returned to playing with the unusual glass-shard creatures they had fought.
+
+I almost died.
+
+He had come close to dying several times before, but nothing had hit him quite so hard as being impaled through the stomach with a spear of bone and tossed over the edge into the darkness like an insignificant bug.
+
+She almost died, too. That he owed his life to Ali’s quick thinking was obvious. But he understood just how much she had had to risk to even have a chance to reach him, and just how close they had both come to dying. For her to have had a chance, she had to have reacted instantly, throwing herself into danger to save him without a second thought or even the slightest hesitation. It felt like a heavy burden on his heart. How can she possibly be an evil dungeon?
+
+For quite a while afterward, he had simply been stunned by how fast it had happened, and how little there was that he could have done. His friends had been trying to coax him out of his shock, by appealing to his interest in new skills. Even knowing what they were doing, he was grateful, because he did actually feel better.
+
+I’m the weakest of our team.
+
+It was clear to him not just by the level of his class, but even more so by the need to be rescued, and the fact that he had no power to save himself.
+
+Archer of Light has reached level 26 (+3).+30 attribute points.Radiant Archery has reached level 16.Arrows of Brilliance has reached level 18.Motes of Light has reached level 10.Explorer has reached level 16 (+2).Blessing of the Dawn has reached level 14.Eyes of the Archon has reached level 13.Righteous Fury has reached level 3 (+2).Bowcraft has reached level 7.
+
+Yes. Only twenty-six. How do I get stronger? He worried at the thought incessantly while carefully deciding how to distribute his hard-earned attribute points. He needed every single one. He consulted his notebook, finding a note he had left for himself. Oh yes, wisdom… Hmm. The problem was he didn’t have enough wisdom to really matter, and his class didn’t really use it directly. Ali and Malika would need to be their mental ‘tanks’, so to speak. Still, he allocated two points for wisdom, vitality, and endurance, splitting the remainder evenly among dexterity, perception, and intelligence.
+
+Ali summoned another ten Glimmer Shards. As she had expected, the elementals of light magic were summoned dead, just like the bone elementals she had learned before. And yet she was still fascinated by them. For one thing, every time she summoned one, she got ten of them at the same time.
+
+By all accounts, these creatures shouldn’t even have been ‘alive’ in the first place. There was nothing about them that could even move, and their structure resembled an incredibly hard glass more than any kind of living creature she had ever seen.
+
+Ouch! She drew back her finger hastily as the incredibly sharp razor edge of the squat triangular-shaped monster sliced her before she even had time to react.
+
+Malika leaned over and touched her, and her finger stopped bleeding in a tiny flash of healing magic.
+
+“Thanks,” Ali replied.
+
+“So, what are we going to do about the poisons?” Malika asked, her question pitched to the entire group.
+
+Ali studied her dead Glimmer Shards arrayed on the ground before her, focusing more on her Arcane Insight for a moment. They’re almost like my barrier magic, she decided, after examining the structure. They were similarly transparent creations of pure mana and seemed just as hard.
+
+“I don’t think the poison is that much of a problem,” Mato answered.
+
+“I had two stacks, and I came within fifteen seconds of dying,” Ali answered.
+
+“How is that even possible? That’s only six damage a second,” Mato replied.
+
+“I only have two hundred and seventy health.” It would have been much safer if she could reliably block the poison breath but flying herself and Calen simultaneously had left her with no extra capacity to block. Even when she could use her barriers for protection, the toxic liquid sprayed by the wyverns splashed everywhere making her barriers less than effective.
+
+“Oh,” Mato said, his response filled with a sudden realization of the true scope of the problem.
+
+“Maybe we can get some antidote potions?” Calen asked.
+
+“If you solve everything with potions, Morwynne Fizzlebang is going to be your friend for life,” Malika said. “Aren’t those quite expensive, though?” It was a bit of a rhetorical question, all of them knew that potions were generally expensive.
+
+“What about those pesky things?” Mato asked, pointing at the Glimmer Shards Ali had created.
+
+“I don’t think we will have to contend with those again,” Calen said. “I’m pretty sure the wyverns and those shards are not dungeon monsters. That’s why they were all attacking each other. We must have attracted them from below when I fell.”
+
+Ali studied the shape of the Glimmer Shard while they talked. I wonder… She initiated her barrier magic, trying to match the shape of the creature in front of her. What came out was… well, it wasn’t close. It looked like a blunt elongated disk. She dismissed it in frustration. She was so used to creating her barrier in the default disk shape that she was having trouble imagining how the magic could create anything different, even though she was sure it was possible. She tried again, but it was debatable if the new attempt was any better than the last.
+
+But her Sage of Learning seemed to be doing something in the background. At least she was losing some extra mana to it on each attempt.
+
+“Mato, does your book describe any curing spells?” she asked. Clearly, her mind was still worrying about the poisons, unwilling to be satisfied with just the antidote idea.
+
+“Hmm…” he answered, rummaging around in his pack. He was the only one of them who still carried a conventional pack, as it conveniently disappeared every time he transformed for combat, reappearing later entirely unharmed. He produced the book and began browsing through it.
+
+Ali attempted to duplicate the shard once again, trying to grip the magic through the raw force of her willpower. As she did, her Sage drew in some more of her mana, while her domain seemed to be trying to interfere with her barrier spell. The result would not be mistaken for a copy; however, it was different. It looks narrower at the part that’s supposed to be the pointy end, she observed, being quite generous with her critique. She tried to recall what she had done differently this time.
+
+There was definitely something strange happening with her magic. She wasn’t certain if her domain was actually doing something, or if her Sage was just trying to show her something, but she decided she would try one more time, and see if she could fully focus on it.
+
+Mato handed her the book, open to a chapter titled ‘Cure Spells’. But Ali’s hand failed to reach the book as she gasped in surprise. As her barrier formed under the influence of her will trying to force it into the unfamiliar shape of a Glimmer Shard, she clearly saw the mana of her domain reacting. Then her chime sounded loudly in her mind.
+
+Requirements met for skill advancement.Synergy: Domain Mastery enhances your Barrier skill.Barrier gains Domain Synergy.Barrier gains the Domain trait. Barrier – level 24Mana: Summon a small arcane barrier shield. The barrier is a freeform arcane magic surface that resists physical and magic damage. You can move your barriers freely.Domain: Barriers created within your domain may be supported by domain mana making them permanent.Arcane, Defense, Movement, Domain, Intelligence
+
+“What is it?” Mato asked, still holding the book for her.
+
+“One moment, something happened,” Ali answered, rapidly reading through the notifications. Synergy? Domain? Ali had never seen a spell cost indicated as ‘domain’, but she had watched the interaction between her domain and her barrier, and she thought she had a good idea of what it might mean.
+
+Quickly, she summoned a new barrier, using a familiar flat disk shape for convenience, and connected with the new ability she had just been shown. As she shaped her skill in her mind, she simply reached out for her domain mana using her new Domain Mastery and pulled it in, weaving it through her skill instead of spending her mana normally.
+
+With a snap, and gasps of surprise from her friends, a gigantic barrier disk popped into existence before her, a huge hovering wall of golden energy. Many times her normal maximum barrier capacity, it seemed denser and brighter too, drawing in nearby domain mana to support the construct.
+
+“Wow!”
+
+“What did you do?”
+
+“I just got this,” she said, sharing the synergy notification.
+
+“You can cast the barrier… with your domain?” Calen asked, his voice sounding excited and incredulous at the same time.
+
+“I just made that without using any of my own mana,” Ali said, pointing at the barrier that was still hovering in the air. Technically, her domain was her mana, but her mana pool hadn’t been reduced to create it. She was doing nothing to keep the barrier there – it was being sustained entirely by a trickle of mana from the domain itself.
+
+“That’s impressive, Ali,” Malika said, tapping the glowing construct. “May I punch it?”
+
+Ali chuckled as she nodded.
+
+“What’s so funny?”
+
+“Your first thought when you find something new is to punch it,” Ali answered, drawing laughter from both Calen and Mato, and a grin from Malika.
+
+“Of course, how else can you really get to know something?”
+
+“I know, right?” Mato agreed.
+
+She drew back a fist and hit the barrier. The crack of her punch sounded through their camp, but the barrier stood unchanged.
+
+Nothing happened? Ali was curious to see how her barrier performed, but no reaction was a little more than she had hoped for.
+
+Malika’s body flared with her unique soul mana as she activated her powerful skills. Ali struggled to keep track of the rapid flurry of punches and flashes of Malika’s Soul Strike, but when she finally stopped hitting the barrier, it still stood. There was a small circular crack at the epicenter of Malika’s attack, but even that was slowly closing as the barrier repaired itself with an influx of domain mana.
+
+“That’s impressive,” Malika approved. “I think Calen might be able to get through it, but only if he goes all out with that crazy new skill of his – Righteous Fury.”
+
+Malika was very powerful, and she had barely scratched the new barrier.
+
+Can I move it? Ali wondered. Her usual barriers had been unmovable until the skill advanced the first time, and ever since, she had been using her barrier as a tool to fly. In fact, the skill even displayed a Movement trait now. She stepped forward, placing her hand on the enormous golden wall of magic and it moved instantly and smoothly in response to her will, as if it weighed nothing. She tilted it over until it was horizontal, about a step above the ground, and released her control. The barrier stuck in place, as immovable as a stone formation.
+
+Except stone formations don’t usually hover in the air. Ali climbed up onto it and walked around. It seems to work exactly like the normal barrier, she thought. Except much bigger and stronger, and it doesn’t consume any mana to keep it. She raised it several meters through the air, like an elevator, and then tested out her normal barriers, creating a small one to fly back down. Her capacity to summon her usual barriers was entirely unaffected by the giant permanent barrier floating in the air.
+
+***
+
+“Sorry about that, I got distracted,” Ali said, finally returning to her spot and taking the book Mato had offered.
+
+“No problem,” he answered. “That’s a cool barrier.”
+
+Ali smiled at him and then began to study the book, already opened to a chapter titled ‘Cure Spells’.
+
+Cure Poison: a spell that can slowly weaken poisons, or remove them entirely when the Cure Poison spell is of sufficiently high level.
+
+“This looks perfect,” Ali said. The spell wasn’t too high level for her to learn either.
+
+“The only issue,” Calen said, “is how to convince the wyverns to fight near the runic circle. They seem to fly around a lot, and the circle will take time to make.”
+
+“It seems worth trying,” Malika interjected. “If nothing else, we can retreat to it and heal if things go badly.”
+
+“I’m worried that if things go badly, it will be so fast that we cannot make it back,” Calen said. “What if we get three or four of them? Remember that even a recall potion won’t help us against poison, we would just die in the teleport room.”
+
+“I think it’s better to have the circle and not need it than need one and not have it,” Ali said. Besides, it wouldn’t be an enormous mana cost to set it up near the battlefield. She would just need to have the time to inscribe it before monsters showed up.
+
+“I like that idea,” Malika agreed. “Better safe than sorry.”
+
+Ali tuned out the continuing discussion, turning her attention wholly to the book before her, and began to learn Cure Poison using her Sage of Learning’s powerful magic to accelerate her studies. The world around her dimmed and faded as her magically empowered focus and attention locked on to the book and the enhanced words standing out on the page. Her sense of time disappeared as she felt her universe become just her mind and the pages of the text she was reading.
+
+She looked up a few moments later, as if she had just blinked, and saw that the others were sparring off to the side and the campsite had been cleaned up. She found a covered bowl of stew by her side.
+
+How much time passed?
+
+Sage of Learning has reached level 14.
+
+Looks like I got a skill level at some point during that, she thought realizing that she had not even heard the chime. She sampled her stew, finding it had cooled quite substantially, but it was still quite tasty and, as if the taste of food had woken her body, she suddenly realized she was starving. She finished the whole bowl while she used her Inspiration and let her mana regenerate. Sage really uses a lot of mana.
+
+She got up and found a clear space to practice her new magic, and as soon as Runic Script began to flow, her attention was caught once again by a familiar reaction in the surrounding mana of her domain.
+
+What did I do to trigger it last time? Trying not to distract herself too much, she studied the effect with her Arcane Insight and focused on creating her Cure Poison circle. As usual, it took her several tries to master the inscription itself, but this time she didn’t have to refer back to the book at all, correcting all her errors on the fly.
+
+Your reserved mana has increased by +117.Cure Poison – level 21 (Nature)Weakens or removes poison.Runic Circle
+
+The inscribed magic was expensive, but she had managed to learn a high-level version of the spell. Her mind was still following the twists and swirls of mana that she had created, comparing the interaction with her domain from her barrier magic to what she saw in front of her.
+
+She hovered there on the cusp of understanding for several delicate moments, before she suddenly made a connection, the feeling of how she had wielded her Domain Mastery skill to link to her barrier, and the tricky difference between it and her Runic Script skill.
+
+Requirements met for skill advancement. Synergy: Domain Mastery enhances your Runic Script skill.Runic Script gains Domain Conduit.Runic Script gains the Domain trait. Runic Script – level 12You are proficient with runic magic.Languages: Ancient Dal’mohran, Elvish, Dwarven.Mana: Inscribe a runic circle with your mana. Reserve: by level.Domain: Runic magic written within your domain may be supported by domain mana and will not decay.Arcane, Domain, Knowledge, Intelligence
+
+A permanent circle! Wow! Ali grinned as she heard the notification, knowing exactly what it would say, even before she read it. She already knew exactly how it would work, and she set herself the task of creating another circle – this time by wielding her domain mana instead.
+
+Cure Poison – level 22 (Nature)Weakens or removes poison.Runic Circle
+
+Glowing softly under her Arcane Insight, what was remarkable about this runic circle was what had not appeared in her notifications.
+
+No reserve. She released her first circle, watching it dissipate and her mana return to her pool, slowly recovering. But the second circle was connected directly to her domain, drawing mana from the abundant nature mana her plants were emitting to sustain itself without any reservation whatsoever.
+
+Obviously, she immediately examined every other skill she had, but so far, nothing else seemed to interact with her domain in the same way.
+
+Domain Mastery is far stronger than I thought. On the surface of it, her new skill had seemed worth it, but it had immediately improved both Runic Script and Barrier, and with those synergies, the advantage seemed far larger. I’m beginning to see why my class said I’d be stronger in my domain. Her domain-enhanced barrier had been very impressive.
+
+***
+
+They had stopped by the guild briefly to check the store, but Weldin Thriftpenny had not expanded his inventory enough to carry antidote potions yet, and Ali had gotten a rather unsettling vibe from Mieriel. She couldn’t quite put her finger on it – other than Calen and Malika’s suspicions – but she was grateful that they decided not to stay.
+
+It took just a few minutes to walk from the guild to Pretty Powerful Potions, where Ali immediately noticed that the shattered window and broken door had been repaired, and both had received a fresh coat of paint. There was even a new sign above the door with a bubbling vial depicted with a rather expensive-looking animated illusion enchantment.
+
+Looks like she’s doing much better, Ali thought, recalling the blood and shards of glass on the now perfectly clean sidewalk where she and Malika had found the owner left to die by the thugs of the Town Watch.
+
+There was no entrance chime to greet them, but there was a loud bang from the other end of the shop, a puff of lilac smoke, and some rather colorful swearing from behind one of the counters. A couple of points of mana trickled into Sage of Learning as it identified a few novel insults to add to her understanding of the Dwarven and Elvish languages.
+
+The shop had obviously had a rather expensive overhaul. Any sign of vandalism and robbery had been thoroughly purged and every centimeter of every surface was now covered with complicated apparatus. Tiny artifacts producing different colored flame were heating beakers and vials and leaking different flavors of mana to drift and mingle in the air. Pots bubbled, cauldrons simmered, fluid ran through coiled glass tubing while a violet condensate dripped on the floor. Over in the far corner, the lilac smoke drifted up towards a vent in the ceiling. Strange and wondrous scents mingled with acrid chemical smells to create an unsettling medley of olfactory assault.
+
+She doesn’t have an entrance chime, but she has a wind enchantment to deal with smoke? Ali wondered how often something blew up in here, or if it was just a safety mechanism to clear the chaotic mingling of outgassing, mana, and even the occasional surprising snowflakes.
+
+“Hi there! Sorry about the oops! I’m Morwynne Fizzlebang, what brings you to my shop today?”
+
+All Ali could see over the tops of the bubbling vials and cauldrons were the two shocking pink high ponytails as the Gnome ran out from behind whatever concoction she was making.
+
+“Oh, it’s you guys! Sorry about the noise!”
+
+Ali almost didn’t recognize her, even though she was the only Gnome she knew with pink hair. She wore several different colored adjustable goggles and monocles covering most of her face, and over the entire contraption, she had a sturdy-looking face shield. There was lilac soot over everything, the face visor, her tank top, and her gloves.
+
+She pulled up the visor of the face shield and wiped her face, getting soot over everything. As she wended her way between the packed tables, she bumped something, knocking it to the floor with a crash of broken glass. She unleashed another torrent of colorful invective in Common, Elvish, and some other language Ali hadn’t heard before.
+
+“That was going to be my big breakthrough… oh well. What brings you to my store today?”
+
+Ali got the distinct impression that this kind of accident had happened half a dozen times already today.
+
+“Mana potions, maybe?” she asked, looking expectantly at Calen.
+
+“Do you have any poison antidote potions?” Ali asked.
+
+“Ooh! What kind of poison?”
+
+“Poison affinity wyvern. It breathes this toxic green liquid that splashes everywhere. The poison stacks and lasts about ten minutes.”
+
+“Aah, good, nothing exotic.” Morwynne nodded her head and ducked under one of the tables, scrabbling about and muttering curses under her breath for a few moments before she emerged with a box. She opened it, revealing several vials of something green and viscous carefully secured and packed.
+
+Antidote Potion – level 18 (Nature)Consume: Attempt to cure toxins, venom, or poisons afflicting you. Duration: 30 seconds.Created by Morwynne Fizzlebang – “Also good for a tummy ache!”Potion
+
+“Now remember,” Morwynne said, her tone suddenly reminding Ali of a lecturer she had once had, “if the poison is higher level than the potion, it will remove them much slower, or even just weaken them. So don’t complain if it isn’t as effective as it sounds!”
+
+“Looks perfect,” Ali said.
+
+“Anything else I can offer you?”
+
+Calen said, “No, that was it, thank you.”
+
+Morwynne quirked an eyebrow at him.
+
+“Ok, maybe a dozen mana potions,” he relented.
+
+With a beaming grin, Morwynne produced a tray of blue mana potions from a drawer and exchanged them for a handful of coins. “Thanks for stopping by!” she said with what Ali was beginning to realize was her typical energy level.
+
+As they turned to leave, Ali heard a crash and some more swearing and saw that Morwynne had tripped over one of the boxes she had upended in her search for their potions.
+
+“Is she always like that?” Ali asked.
+
+“Yup,” Mato answered with a smile “She’s something of a legend in this town. And as scatterbrained as she appears, the potions always work.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

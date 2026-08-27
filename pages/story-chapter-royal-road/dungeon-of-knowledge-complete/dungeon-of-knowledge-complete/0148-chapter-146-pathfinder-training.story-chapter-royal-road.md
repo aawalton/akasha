@@ -1,0 +1,295 @@
+---
+id: fd7f6785-e860-5b8d-a67f-e0c30bb192b9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 146: Pathfinder Training"
+slug: 0148-chapter-146-pathfinder-training
+partOf: dungeon-of-knowledge-complete
+position: 148
+ownLength: 4638
+unit: words
+ownProgress: 4638
+publishedAt: 2024-10-22
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1862823/chapter-146-pathfinder-training"
+royalRoadId: "1862823"
+markedReadAt: "2026-06-29T20:15:57.488Z"
+---
+
+Finding himself with a little time on his hands while Lyeneru and Nathaniel Sunstrider conferred privately on guild business, Calen surveyed the guild hall. There was a quiet bustle within the halls of the Pathfinder Guild headquarters, with a constant stream of people coming and going. The guild’s jobs and training boards had a cluster of people chatting softly while examining the offerings and the reception desk had a line.
+
+At the far end of the large hall, he found a wide-open archway leading into a brightly lit room with a plain and utilitarian sign hanging over the top:
+
+Guild Store.
+
+He deftly picked his way across the guild hall and stepped into the store. Rows of tables filled the deceptively large shop, laden with all manner of potions, artifacts, scrolls, and small weapons. Hanging from the back wall were dozens of bows and swords, and the entire left-hand side of the shop was filled with racks and mannequins sporting everything from practical leather ranger armor to ballgowns.
+
+A tall woman with long brown hair tied in a tight, intricate braid that hung past her waist and wearing the guild colors approached, speaking a greeting in the lilting sounds of Elvish.
+
+Merchant – Wood Elf – level ??
+
+Even the shopkeeper has reached a higher level than me. Darn!
+
+“Um, hi?” Calen said.
+
+“How can I help you today?” the shopkeeper said, switching smoothly to Common without missing a beat. Her eyes flickered rapidly across his visible gear. Calen could almost see the evaluation and calculation in her practiced gaze.
+
+“So, I was hoping to buy a pair of boots?” Nathaniel Sunstrider hadn’t even commented on his bizarre appearance with one bare foot, but it had stuck out like a sore thumb the entire interview.
+
+“So that’s not a fashion statement, then?” the merchant said, quirking the tiniest hint of a smile on her lips.
+
+“Err, no,” Calen said, surprised that he didn’t find her amusement at his misfortune even slightly embarrassing. Is there some merchant passive increasing her general charisma or agreeableness? It was a possibility, but one that didn’t make him uneasy. “A Death Knight took it.”
+
+“Aah, so you’re the one. Lyeneru’s new protégé, Calen, right?”
+
+“Aah, yes,” he said. Do I have a reputation already?
+
+“You’re very lucky,” she smiled, making him immediately appreciate his new reputation. Lyeneru’s approval clearly – and justly – commanded respect. “She hasn’t taken an apprentice in decades. My name is Niathwen. Come, I have some equipment appropriate for your level over here.” She led him over to the back of the room where the items were considerably less sparkly and more practical.
+
+“You seem like someone who appreciates function over style – what do you think of these?” she suggested, gesturing to a pair of unassuming brown leather boots with the guild’s green worked in as a trim. “Standard-issue boots for the Initiate rank.”
+
+Calen studied them and, to his relief, he saw that the item had been identified and the details placed on a card next to the boots.
+
+Pathfinder Initiate Boots – level 40Simple, but well-crafted brown leather boots with green trim. Standard issue for Pathfinders.+30 Dexterity+24 Strength+10% to Movement SpeedRequirements: Dexterity 140Quality: UncommonFeet – Boots – Leather
+
+“The price is six gold, fifty silver,” Niathwen said.
+
+Calen raised an eyebrow at her. “For an item with three enchantments?” The fact that uncommon-grade items were standard-issue guild items only underscored the Pathfinder Guild’s reputation for excellence.
+
+“Guild discount,” she said, offering a wink to acknowledge his show of incredulity. “Go ahead and try them on, if you like.”
+
+So, he did. The crafter had lined the inside with softer leather making the fit snug and comfortable, and the attributes were fantastic. “I’ll take them,” he said, making his decision in a flash. Malika would probably have an apoplexy, but he had never been good at haggling anyway.
+
+“Excellent choice,” Niathwen said, smoothly ignoring the fact that it was she who had done the choosing. “Is there anything else you need?”
+
+Pacing out a few steps in his new boots, Calen eyed the rest of the store. It was far more extensive than Weldin Thriftpenny’s store in the Adventurers Guild back home. I wonder…
+
+“Can I buy some things for my friends?” The boots were expensive, but he had a little gold now.
+
+“Of course,” she said. “What do they need? Or perhaps you can share their classes?”
+
+“A druid shapeshifter who likes Bear Form, a nature and arcane affinity mage, and a monk,” Calen said, keeping the details light.
+
+“Hmm, all around your level?” she asked.
+
+“Close enough.”
+
+“Unfortunately, the monk and the bear have strong gear restrictions. I don’t have any shapeshifting gear right now – at least, nothing at that level. Maybe check back later for the bear. Monks are not common in the guild, or with Wood Elves in general, but you can’t go wrong with another pair of those boots.”
+
+“Ok,” Calen said. The attributes would fit well with Malika’s class, at least.
+
+“Your mage has unusual affinities, a healer perhaps? A metamagic specialist, or a back-line damage dealer with arcane missiles of some sort?” she frowned delicately.
+
+“No, not exactly,” Calen answered.
+
+“Any obvious drawbacks or weaknesses we can work on?”
+
+“She does have a racial penalty to health, and she’s been very worried about assassins and Ambush in general,” Calen said, deciding not to share that there was a bounty on Ali’s head.
+
+Niathwen raised an eyebrow, “Curious. Well, it’s a little unconventional, but I may have just the thing for her.” She led him to a table and opened a glass display case, indicating a plain wooden ring.
+
+Forest Band of the Perceptive – level 33A light band of white oak, polished to a sheen.+26 Perception+13 VitalityQuality: MagicRing – Wood
+
+“Oh, I think she’ll love this,” Calen said.
+
+“You can have it for three gold and twenty,” Niathwen smiled.
+
+Ok, now I’m broke again, Calen thought. But the items were strong upgrades for him, Ali, and Malika – and with his new guild ring, he could return regularly and maybe find something for Mato, too. “Oh, this might be a long shot, but… do you have any specialized cooking gear?”
+
+Niathwen’s face lit up with a broad grin.
+
+Oh boy. Am I just ridiculously easy to separate from my purse? She’s running rings around me! It did not hurt that she seemed to wholly disregard his half-breed nature. Fine. Just this time, he’d allow himself to be distracted by a pretty Elf even if she was about to make him broke.
+
+***
+
+“I need to get to know you a little better, and understand how you think,” Lyeneru said, regarding Calen across the expanse of the broad wooden table in the center of the meeting room she had coopted for their chat. He had just finished his first two classes, earning a general skill for Skinning, and transformed his Wood Carving skill into a Basic Daggers proficiency.
+
+“Why don’t you tell me about a difficult fight? What was your strategy, what changed during the fight, how did you adapt, and how do you think you might be better prepared in the future?"
+
+Calen considered the question carefully, deciding to map his responses according to the Dungeon Survival Guide she had published in her book. He picked the Twin Wight battle and covered the strategy explanation as he had done for the guild. It was a fight that required teamwork and perception skills, and they had most definitely encountered the unexpected with the twin powerup once the Death Wight had died.
+
+Lyeneru listened carefully as he retold the story, asking only a few sporadic questions to clarify his thought process.
+
+“Good,” she said after he finished. “I suspected as much – you’re fairly well educated on team strategy and monster skills. I think you understand the basics well enough, so I’m going to place you into an advanced strategy workshop with Nendir – he’s a close friend of mine, and exceptionally experienced. Do your best to learn everything he wants to teach.”
+
+“Ok,” Calen said, writing down the name of the Elf in his notebook so that he could scour the training board for anything else he might be teaching.
+
+“But I have something even more important for you. Every time you come to Ciradyl, I want you to sit down and summarize a new fight for me, just like you did here. I want to see you applying what you’ve learned in the classes, and if I’m not here, I want you to write it down and leave it for me at the reception desk.”
+
+Calen nodded. He had expected homework, but Lyeneru was really laying it on. Not that he minded much, he quite enjoyed explaining strategy and figuring out how to do fights better, and even without her request, he probably would have done it anyway for his own sense of completeness.
+
+“I had a long chat with your Guildmaster – Vivian Ross. It’s unfortunate what happened to her, but I really respect what she is trying to build.”
+
+“Something happened to the Guildmaster?”
+
+“The personal details are hers to share, but I’ll just say the threshold into the second tier is not called the Great Wall for nothing. Many classes do not survive the evolution past level one hundred unscathed, and most who experience it give up, driven to despondency by bitterness or despair. She has chosen to pass her experience on to the next generation instead, and for that, she has my full support. In the fight against the dark forces, any skilled combat classes will be crucial to our survival. Regardless of race or kingdom. Her commitment is admirable. She asked me to give a lecture at your guild, but I couldn’t let the Death Knight get away.”
+
+“I… see,” Calen said, stunned by the revelation. It explained so much about Vivian’s actions in the town – why she chose to begin a guild and join the Town Council instead of personally wiping out the criminal element. He had seen her fight before, but only against the Goblin siege. If Lyeneru was right, there was no way she could stand up to someone like Kieran Mori. And if he knew that… and if Ali knew this…
+
+“I want you to do it for me,” Lyeneru said.
+
+“Do what?” He blinked as she interrupted his chain of thoughts.
+
+“Pick the team leaders of the main groups in your guild, and teach them strategy, analysis, and boss mechanics. Everything you think they need to know. Vivian Ross knows a lot and has great instincts, but you will be studying here, and you can share everything you learn. Make them all stronger.”
+
+“Are you sure that’s a good idea? I’m only level forty-three,” he said. He couldn’t quite shake his first experience doing his strategy presentation for the guild. In some senses the disaster still sat with him – the guild had lost many recruits that day.
+
+“Teaching will be essential to your growth,” Lyeneru said. “They can’t all join the Pathfinders Guild, but sharing what you learn will be a small way to leverage the knowledge accumulated here and spread it further. Far too often knowledge is hoarded, and the world is poorer for it.”
+
+“I see, ok, I’ll do my best,” he answered, but he couldn’t keep his worries from his voice.
+
+“Think about it this way,” Lyeneru offered. “What would you tell yourself when you were level five? Anyway, think about it, ok? Now, Nendir’s class on advanced archery is in the grove on the city’s north side in fifteen minutes. Don’t be late.”
+
+Calen sprang to his feet and made for the door. He still wasn’t certain about teaching but knew a whole lot more than when he started – and most of the guild wasn’t much higher than level five either.
+
+***
+
+This must be the place. Calen slowed his flight and spiraled down into a clearing surrounded by trees and landed on the grass near a cluster of waiting Elves, most of whom were carrying bows of various sorts or dressed in forest-colored leather armor.
+
+There were quite a range of levels represented, and they chatted quietly amongst themselves in the musical language of the Elves. He caught a few curious glances, and a couple of disapproving looks, but nobody approached, so he took a spot apart from the group and waited.
+
+A few minutes later, at almost exactly the appointed time, a green-haired Wood Elf landed lightly in the center of the clearing seemingly appearing from nowhere. He addressed the students in Elvish and they all moved over to him. His eyes gazed at Calen for a moment.
+
+Archer – Wood Elf – level ???
+
+Wow, Lyeneru doesn’t skimp on instructors!
+
+“You don’t speak Elvish?” he asked in accented Common.
+
+“No, I’m sorry,” Calen answered. There were noticeably more contemptuous glances at his answer from the other students, and he struggled to follow Lyeneru’s advice and not fall into his usual patterns when facing disapproval, but the powerful Elf standing before him didn’t seem to mind.
+
+“I’m Nendir,” the Wood Elf stated. “I will be your instructor for advanced archery fundamentals. First, I want to see you all shoot.”
+
+Relieved that Nendir had smoothly switched to Common and, resolving to ignore the disapproval from the other Elven students, Calen retrieved his bow from his ring. He gulped as he got a closer look at the fancy or expensive bows some of the others produced.
+
+With a casual wave of his hand, Nendir summoned a score of slowly drifting green lights, spreading them out at various distances – his spell looking remarkably similar to Calen’s own Motes of Light spell, only in green. He then worked his way through the class one at a time, watching each student shoot at the lights before offering some feedback.
+
+I wish I could understand what he’s telling them. It seemed he would be at a bit of a disadvantage in that he couldn’t pick up extra tips from what he told the other students. I really could have done with knowing Elven right around now.
+
+Nendir approached Calen and signaled for him to shoot. He drew smoothly and quickly shot the floating mote.
+
+“Now, this one,” he instructed, waving his hand again, and sending one of the motes zooming off into the forest where he kept it moving around instead of hovering. It was almost two hundred yards away.
+
+He drew, focusing his sight on the target with Eyes of the Archon, ignoring the disorienting rush as his vision telescoped in on the mote. Empowering his arrow with extra range he released it, leading the target by just enough for his arrow to pass through the glowing edges of the mote.
+
+Not quite center, he chided himself, a bit annoyed by the small error while the instructor was watching.
+
+“You have good perception and decent range for your level. It’s your draw technique we will need to work on. Angle your elbow a little higher here, and release from here.” He summoned a powerful-looking bow from his storage and demonstrated by firing an arrow through the same target, hitting it dead center. “You will be more accurate with this technique, which will improve your critical hit rate, and you will be able to fire a touch faster, too.”
+
+I think I see. He didn’t say anything, he simply drew his bow doing his best to copy the technique of the master archer.
+
+“A little more like this,” he instructed, and when Calen tried again, he nodded his approval. “Practice that for a few minutes and I will check back on you. If you need a reference before I get back to you, you can copy Coria over there. Her technique is excellent.”
+
+Calen found himself gazing at another striking Wood Elf sighting down the shaft of an arrow nocked to her longbow. He studied her technique as Nendir moved on until she turned and gave him a quick smile. Instantly, he felt his face flush and he quickly busied himself with nocking his own arrow, his dreaded shyness sabotaging him as usual. He was certain Mato would have teased him relentlessly about it if he were here.
+
+I see what he means, though. Her technique was almost a perfect match to the master archer. Her limit seemed to be that she was only level twenty-three, but she clearly had had access to master-level training for a long time.
+
+Calen found the hour passed quickly, and to his surprise, quite enjoyably. Nendir checked up on him regularly, offering pointed and insightful instruction. At first, Calen had thought his technique to be quite good, especially compared to the other students. But by about halfway through the lesson, Calen knew he was barely scratching the surface of the refinement and experience of his new teacher. It was particularly obvious when Nendir took a few shots at the distant targets to demonstrate for the class, his movement smooth and rapid, each shot a masterpiece in Calen’s eyes. Even more impressively, there was no evidence of magic or skills. His shots were executed entirely with whatever passives he had, and Calen could only imagine what he could do when he added his skills.
+
+Nendir finally dismissed the class, but before he could head out, Calen found the teacher striding over to him.
+
+“Calen, stay a moment. Lyeneru asked me to give you some one-on-one instruction. She thinks you’re close to a breakthrough.”
+
+“Ok,” he said. A breakthrough? What kind of breakthrough?
+
+“Can I watch, father?”
+
+Father? Calen turned at the sound of the voice, finding Coria looking expectantly at Nendir.
+
+“It’s a private lesson, Coria, most people prefer them to be, you know, private.”
+
+Her face fell and she turned away.
+
+“I don’t mind,” Calen answered hurriedly, getting a surprised look from Coria.
+
+“My daughter loves archery,” Nendir explained. “She will watch people practice for hours – but only those with decent technique, she must like you.”
+
+Calen caught Coria’s eyes widening and the flush that filled her face at her father’s teasing. For once it was someone else being embarrassed and shy, rather than him. But now he understood why her technique was so good, she had probably been watching her father shoot since she had been born. “Um, so what are we going to work on?”
+
+“Lyeneru wanted me to teach you to shoot faster and see if we can unlock rapid fire or echo.”
+
+“Ok, what should I do?” he asked. Calen had heard of training for specific advances, but he had never found any books explaining how exactly that was done. He did know what rapid fire and echo were though, and they were both excellent upgrades. If there was a chance of either, he would greatly improve his effectiveness with the bow.
+
+“I’m never sure which one will unlock, so we’ll try for both and see if anything happens. First, for Rapid Shot, try holding two arrows in your fingers like this. Nock one and fire, and then quickly switch the second arrow up and shoot it again. You’re looking to get two arrows in the air simultaneously while still hitting the same target with both.”
+
+Calen tried and failed miserably. The challenge of firing accurately while trying to switch another arrow in with enough speed to draw and fire again was substantially more difficult than it had looked when Nendir had demonstrated the trick.
+
+“Use your range enhancement and shoot the distant motes, there’s a better chance of having your arrows in flight simultaneously.”
+
+He tried again. And again. It took him almost twenty minutes to get the hang of it, but even when he did, nothing happened with his skills. Fortunately, neither Nendir nor Coria seemed to mind.
+
+“Ok, now I want you to try enchanting your arrow twice.”
+
+“You mean with range and damage?” he asked, not quite understanding why this was challenging.
+
+“Lyeneru told me you had mastered delaying your skills. I want you to try enhancing the same arrow with damage twice before it hits the target.”
+
+“That works?” Calen had never even considered the idea.
+
+“No, they replace each other, but it’s usually the trick that unlocks Echo. It’s how the mind understands the skill that matters in this case, so what we’re doing is approximating the effect.”
+
+“Aha.” Calen nodded and tried. This one he found to be substantially easier, taking only a few minutes before he got the hang of double enchanting his arrows. But again, nothing changed with his skills, and he was beginning to think he was wasting his and Nendir’s time. Not to mention Coria who still hadn’t glanced away for even an instant.
+
+What could she possibly hope to learn from an amateur like me? he thought bitterly.
+
+“Ok, last try, I want you to nock two arrows simultaneously and shoot two different targets. Like this,” Nendir demonstrated with flawless ease, which probably meant Calen would struggle with it.
+
+Sure enough, the technique was far more challenging than it looked. He could nock two arrows and fire easily enough, but releasing the arrows smoothly was harder than it had any right to be, and more often than not one would just drop to the ground or careen off in a random direction.
+
+“You can angle your bow if you want to hit two horizontally aligned lights,” Nendir suggested.
+
+He persisted, trying to apply Nendir’s constant, patient feedback, until finally, he did it, striking two lights simultaneously.
+
+“Now enchant both shots at the same time,” Nendir said, handing him another quiver of arrows.
+
+Calen’s mind boggled for a moment. Essentially, Nendir was asking him to do the last exercise mixed with the one before.
+
+But when he tried it, he got it on the first shot.
+
+Thanks, Ali, he thought, sending her his mental gratitude. If she hadn’t suggested the technique for delaying his magic, and he hadn’t practiced it relentlessly, this would have been impossible.
+
+“Anything?” Nendir asked curiously.
+
+“No, nothin–”
+
+His chime suddenly sounded. Calen nodded at once. “Let’s see.”
+
+Radiant Archery has reached level 28 (+2).Requirements met for skill advancement.Mentor: Lyeneru Silverleaf.Radiant Archery has surpassed level 25.Received master-level archery instruction and practice.Dexterity has surpassed 250.Intelligence has surpassed 190.Radiant Archery gains Rapid Fire.Radiant Archery gains the Haste trait.Radiant Archery – level 28You are proficient with a bow and ranged combat. Stamina: Attack with your bow. Your damage and accuracy are increased by +374% [40 + skill + dexterity]. Stamina: Summon up to 3 [1 + skill / 10] arrows directly from your quiver to your bow firing each of them in rapid sequence at the same target.Physical, Ranged, Haste, DexterityRadiant Archery gains Multishot.Radiant Archery gains the Light trait.Radiant Archery – level 28You are proficient with a bow and ranged combat. Stamina: Attack with your bow. Your damage and accuracy are increased by +374% [40 + skill + dexterity]. Mana: Conjure up to 3 [1 + skill / 10] magical arrows to fire simultaneously at multiple targets. The damage is split among each conjured arrow.Light, Physical, Ranged, DexterityRadiant Archery gains Echo.Radiant Archery gains the Light trait.Radiant Archery – level 28You are proficient with a bow and ranged combat. Stamina: Attack with your bow. Your damage and accuracy are increased by +374% [40 + skill + dexterity]. Mana: Magical enchantments on your arrows are duplicated up to 3 [1 + skill / 10] times. Light, Physical, Ranged, DexterityChoose one advancement.
+
+Calen stared at the stream of glowing notifications as the chimes echoed in his ears.
+
+“Which one did you get?” Nendir asked with a knowing grin on his face.
+
+“Um… all of them? Rapid Fire, Echo, and I also unlocked Multishot,” Calen said, sharing his choices with Nendir, and then seeing Coria’s rapt attention, he shared them with her, too. The problem was he could only choose one.
+
+“Well, look at that,” Nendir said dryly. “Good work.”
+
+“How do I even choose?”
+
+“There are no bad choices in that set. What you’re choosing is a focus for your combat style. Rapid Fire suits high-speed, single-target physical damage. Each shot fired is a separate shot that consumes an arrow and will need to be individually enhanced. That’s both an advantage and a disadvantage. It’s the most common among Pathfinders because it is excellent for boss fights. You will want to focus your investment on dexterity, mainly, and you can do things like loading the first arrow with a Concussion Shot, blowing a hole in your target, and the following arrows can all be pure damage. Proper ammunition management is critical, and you will need a good arrow crafter for the best results.”
+
+“Multishot is a balanced approach, the arrows are conjured, so you don’t need as much ammunition, but you can’t use enchanted physical arrows. It’s a single shot that hits multiple targets, so the base damage is split among the arrows, but you pay for your arrow enchantment once and it is duplicated on every split arrow. Magic enchantments that boost damage aren’t split, so it’s very good if you unlock explosive arrows or something similar because you can clear an entire battlefield with just two or three volleys. It even allows you to Ambush multiple enemies simultaneously if you can find enemies blind to your conjured magic. It’s amazing if you have passive damage on hit enhancements in your party or on your gear, but remember, you must invest heavily in intelligence if you want to effectively track multiple targets simultaneously so it’s best for magical archer types.”
+
+“Echo is situational – you get multiple uses of each enchant on a single hit. For some things like Explosive Shot, it stacks, but it doesn’t stack for Armor Piercing. You also don’t get multiple shots. But for sheer shock value, it’s the king of damage. There’s nothing like Ambushing an enemy with a triple payload of Explosive Shot. You will want to invest heavily in intelligence, and remember it only works for magical enchantments.”
+
+Right, looks like I need this Explosive Shot next. Calen paused to think. He wanted to pick multishot simply because it would be cheaper, but that wasn’t a particularly good reason. Especially given that Ali could make arrows for free. He spent a while working through the options, switching his preference to Echo, and then to Rapid Fire before he finally decided that he simply didn’t know.
+
+“What does Lyeneru use?” It suddenly occurred to him that he would have noticed echo or rapid fire in the battle against the Death Knight, but he didn’t remember seeing anything like it.
+
+“She has multishot,” Nendir confirmed.
+
+“What about you?”
+
+In answer, he turned and fired a fan of twenty glowing green magical bolts from his powerful bow, each punching perfectly through the center of one of the hovering lights.
+
+More than any of the numbers – which came to roughly the same damage in the end – Nendir’s impressive demonstration of his skill and accuracy sold Calen. The fact that he was following Lyeneru’s skills sat quite well with him too.
+
+“I think I’ll get multishot,” he said.
+
+“It’s surprisingly rare, and I am certain you won’t regret the choice,” Nendir said, smiling as he bowed his head very slightly. “Why don’t you give it a try?” Several new motes of green light sprang forth.
+
+Grinning like a kid with a new toy, Calen raised his bow and drew back an empty bowstring. With a touch of mana, three glowing arrows appeared, nocked and ready. He aimed, just like the exercise Nendir had subjected him to and stared in amazement as three streaks of light shot from his bowstring to pierce three floating motes dead-center.
+
+“This is amazing!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

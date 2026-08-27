@@ -1,0 +1,165 @@
+---
+id: c6bcae46-95ef-5846-b7b3-1326c3d0d769
+page-type-slug: story-chapter-royal-road
+title: "Chapter 242: Temple of Ice (Part 3)"
+slug: 0274-chapter-242-temple-of-ice-part-3
+partOf: dungeon-of-knowledge-complete
+position: 274
+ownLength: 2517
+unit: words
+ownProgress: 2517
+publishedAt: 2025-05-06
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2259917/chapter-242-temple-of-ice-part-3"
+royalRoadId: "2259917"
+markedReadAt: "2026-06-29T20:20:30.803Z"
+---
+
+Ali’s first task was to see to the unconscious trolls still trapped in the ice and being continuously drained. She flew over, stopping just outside the range of the heavy necromantic aura emanating from the black altar of ice constructed atop a pile of red-tinged stone, looking about for Malika. But Malika was already standing right beside her, wearing a grimace in anticipation of what was to come.
+
+We must end their suffering, one way or another. Ali gritted her teeth and waded into the agony of the magic draining her life with Malika holding her hand and pouring a continuous torrent of healing magic through their connection.
+
+You have gained Clarity.
+
+I wish I could get more endurance, she thought, her thoughts filled with any and every endurance item she had inspected in Weldin’s shop. Ali gritted her teeth against the pain, vowing to begin building an endurance set of alternate gear for occasions such as this, but she didn’t waste a single second, placing her hand on the freezing ice altar and releasing her deconstruction.
+
+Relief surged through her after the eternity of the ten seconds it took for her magic to destroy the heinous creation, dissipating the now-unbound essence of the construct into the air. To her surprise, the release of the disturbing mana triggered a sudden burst of new flowers to bloom where the altar had stood, but she ignored the unexpected phenomenon for now, searching through the bodies for any surviving trolls, and deconstructing the ice encasing them whenever she found one alive.
+
+Her chime sounded once again, but she was intent on Malika and using her Blood Shamans to heal the maimed and injured. Of the scores of frozen trolls forced into this farcical royal court ceremony, only three had survived Mok’freja’s cruel torture. But with the tender ministrations of her healers, and Malika’s touch, the three of them recovered enough to stand on their own.
+
+“Telim Gor.” Zor’kan’s voice shook with grief and hatred as he stood there, glaring at the survivors of the ice troll delegation. Strewn about his feet, among the dead left behind from Mok’freja’s sacrifices, were several bodies that had clearly once been proud Trolls of Aman Rak.
+
+“Zor’kan…” Ali could scarcely even begin to imagine what he must be feeling.
+
+“You have a lot to answer for,” he said, ignoring her and gesturing angrily toward the corpse of Mok’freja lying sprawled across the ice. “Mok’freja has slaughtered our kind without honor, selling herself to the Blind Lich for a profane power.”
+
+“Your anger is honorable, Zor’kan. But Mok’freja has betrayed the honor of Telim Gor, too – do you not see the sons and daughters of Telim Gor lying among the dead and tortured? Is it not your Tol who accepted the Lich’s bargain?” The Telim Gor delegate spat in the direction of Mok’freja, and Ali was stunned at the powerful layers of contempt, rejection, and disgust in the gesture that represented a fundamental expression of repudiation in their language.
+
+Zor’kan simply stood there shaking, unable to respond.
+
+“Come, Zor’kan, you are the last of Aman Rak. Let us put down our hatchets and spells and unite in our shared hatred of the dishonor that has been wrought here. Both Mok’freja and Tol’brekk have abandoned their tribes, spitting in the face of the ancestors – they have earned our shared contempt. We will retreat and report Mok’freja’s betrayal to Tol’zerath and allow you to seek your revenge and restore honor to Aman Rak.”
+
+“I… very well,” Zor’kan spoke after a long pause. He took a deep breath, steadying himself, and then bowed, inclining his head just a little. “Thank you. Honor and strength to Telim Gor.” He finished with what Ali recognized as a traditional statement of respect for a temporary ally.
+
+“Honor and strength to Aman Rak. May your vengeance be swift and deadly.” The Telim Gor delegate responded with the tribute typically offered to a warrior who had sworn to uphold the honor of their tribe. For a combat class – an Ice Mage – to offer such a gesture to the leatherworker could only be interpreted as a profound respect for his purpose. “Your honor lies at the top of the mountain. You will find Tol’brekk to be much more powerful than before, but you have already defeated his three underlings, and while unusual, you have chosen powerful allies with whom to exact your vengeance.” He glanced at Ali and her friends with no small amount of curiosity, before turning and leaving with the other two surviving members of the Telim Gor delegation. After a few steps across the clearing, ice mana welled up in all three of them and they vanished.
+
+As they had done before, Mato and Malika began to set up camp in the remains of the boss’s lair. Zor’kan sat quietly beside Mato’s cookfire, clearly wrestling with deep inner thoughts and conflicts.
+
+Remembering the chimes, Ali took a quick look.
+
+Imprint: Ice completed. Variant: Bloodsteel Ore added to Imprint: Stone.
+
+She quickly dismissed the new imprint, not seeing much immediate benefit to being able to make ice – and ignored the bloodsteel ore; it certainly warranted a discussion with Thuli, but there would be enough time to explore that later.
+
+Requirements met for shrine advancement.
+
+Another shrine advancement? A sudden burst of excitement bubbled up inside of her. What could it be?
+
+You have been Soulbound to a Shrine.You have deconstructed three domain-attached artifacts.
+
+The moment the requirements were displayed, Ali felt a lurch as a substantial amount of mana suddenly vanished into Sage of Learning.
+
+You may choose one of the abilities of the deconstructed artifacts.Shrine of the Ancient Grove gains Sacrifice.You may sacrifice any living entity in range of the shrine, draining them of life and mana, and returning it to yourself for a temporary enhancement to your power. Accept this advancement?
+
+Her excitement vanished in an instant, replaced with disgust and horror. There was no way she was turning her beautiful shrine into something like these bone or ice altars, torturing helpless trolls for power to raise the dead.
+
+More than just a little upset, she dismissed the notification and stalked off to fill her mind with the chores of deconstructing the dead, returning them to the ambient mana of the air.
+
+Finally, she approached Mok’freja, studying the mage carefully. While she was adorned with the white markings of her Ancestral Spirit Runes, she did not bear any of the powerful item tattoos that Kir’vella or Kir’mogan had worked into their bodies. Instead, she wore the same frostweave and silver-and-sapphire jewelry she had used for her own ice mages.
+
+Ali quickly deconstructed the corpse, letting Malika collect all the gear.
+
+[Sage of Learning]Domain Magic analyzed: Affinity Aura (Ice).Domain Magic analyzed: Spell Cascade.Domain Magic analyzed: Attribute Enhancement (Intelligence).Spell CascadeRequirements: Choose a Magical skill that uses mana.Source: Mok’frejaYour minion’s chosen Magical skill will cascade 3 times [boss] or 5 times [raid] for no additional cost. Each cascaded spell can be individually targeted in the same fashion as the original.Skill – Domain Magic
+
+Ali studied the new domain magic description as she slowly made her way to Mato’s campfire, following the delicious aroma of whatever he was cooking. This Spell Cascade had clearly been the ability Mok’freja used to shoot five streams of ice bolts simultaneously. It was a spell that she could use to empower both boss and raid-enhanced minions, and it looked like something she might want to try out with a Hellfire Imp – the idea of five simultaneous fireballs sounded impressive to say the least.
+
+Also, the addition of a new Ice affinity for her Affinity Aura Domain Magic was quite welcome – and she had several ice-affinity summons she could use it on.
+
+After a quick but delicious dinner, Ali set to her next task – transcribing the entire barrier magic construct, both from the normal and the spirit realms before dismantling the entire thing. Most of the connecting tendrils in the Spirit Realm collapsed when she tore out the final key rune, and all that remained was a big channel up the mountain, presumably to where Tol’brekk had made his lair.
+
+“Ali,” Calen said, drawing her attention to her friend, and the gorgeous drake-scale armor he was now wearing. “I found something in the forest that I think you would like.”
+
+“That’s some incredible armor, Calen,” she said as she followed him through the jungle, watching in fascination as his magic erased his tracks making it look like he had never even touched the snow. Ali wasn’t leaving tracks because she was flying, but Calen’s footprints simply vanished behind him as he went.
+
+“Thanks,” he said. “Zor’kan made it for me. I think he wishes he had some combat skills to fight.”
+
+“I bet,” Ali said, empathizing more than perhaps the troll would ever know. She had no idea what she would have done without her combat class. Probably, I would have died early on. Ali shook off the morbid thought, following Calen through the forest for a few more minutes before he drew up to a halt under the spreading branches of what appeared to be a vast avocado tree, laden with unusually purple fruit.
+
+“I saw you collecting orchids, and I found this,” he said, pointing up at a series of plants growing along the branches, their aerial roots draping and hanging almost a meter below the branch. Each plant had broad green leaves and a long flowering stem with several azure flowers that glowed with potent ice mana. The flowers themselves radiated cold, seemingly made from ice, and tiny crystals of ice and snow fell from their glittering petals every now and then, drifting down into piles of snow that collected on the ground below.
+
+Azure Ice Queen – Orchid – level 63 (Ice)
+
+No wonder I can feel the cold all the way down here, she thought when she saw the level of the orchid. It may just be a plant, but it was releasing a large quantity of potent ice mana into the surrounding air.
+
+“How does something like this come to be in a hot jungle?” she asked. There was snow all around on the ground below the epiphytic orchids, but with Mok’freja’s death the abundant ice mana in the area had vanished, and much of the snow elsewhere was melting.
+
+“I imagine Mok’freja must have brought them, I’d ask Mato, but there’s no way they can be native to this area,” Calen answered.
+
+Azure Ice Queen. Ali thought it was a fitting name for Mok’freja. She floated up to the branch and began to deconstruct several of the best specimens until her Grimoire added the imprint variant.
+
+Variant: Azure Ice Queen added to Imprint: Wildflower.
+
+“Thanks, Calen,” she said. “Basil is going to have a lot of new stuff to play with when we get back.”
+
+“You too, I think,” he answered with a smile.
+
+“While I’m here…” she said, glancing around and spying several more of the trees.
+
+Variant: Violet Avocado added to Imprint: Tree
+
+The sun was barely setting behind the trees when they returned, and Ali finally sat down to review her combat notifications. She was not looking forward to another night out in this dungeon, and the prospect of waking tomorrow to yet another stack of Domain Withdrawal.
+
+Your group has defeated Mok’freja [Ice Queen] – Troll – level 97 (Ice).Your group has defeated Frost Weaver – Spider – level 97 (Ice).
+
+Ninety-seven. Mok’freja was by far the highest-level monster they had ever faced, and it had most certainly felt that way.
+
+Grove Warden has reached level 84 (+6).+60 attribute points.
+
+I guess I’m eighty-four now, she thought. The full impact of her level hadn’t sunk in yet – they had been gaining experience so fast in this dungeon that she hadn’t had much time to get used to even her own progress. It all felt a bit of a blur.
+
+Pursing her lips for a moment in thought, she invested four points into vitality. Then she spent twenty points on perception, splitting the rest, eighteen each, into intelligence and wisdom.
+
+Ok, let’s see the skills.
+
+Arcane Insight has reached level 46.Barrier has reached level 54.Runic Script has reached level 39.Sage of Learning has reached level 38 (+2).Martial Insight has reached level 54 (+2).Empowered Summoner has reached level 42 (+3).Minion Teleport has reached level 30 (+5).Identify has reached level 18.Variant: Frost Weaver added to Imprint: Spider.
+
+Not bad. Not bad at all. She had another ice-affinity minion to play with – spider this time. Which meant she had even more options for using her ice-affinity aura domain magic to make bosses back home. Her skill growth seemed excellent, but her notifications had more for her.
+
+Requirements met for skill advancement.
+
+An advancement? She dared to allow her excitement, but after the shrine advancement from earlier, she found herself filled with nerves instead.
+
+Mentor: Clarence.Minion Teleport has reached at least level 30.You have studied advanced teleportation magic.You have witnessed Greater Teleport. Synergy: Domain Mastery has reached at least level 25.Intelligence has surpassed 750.Minion Teleport gains Unbounded Teleportation.Minion Teleport gains the Domain trait. Minion Teleport – level 30Mana: Instantly swap location with any minion. Range: 28.5 meters. Recharge: 10 seconds.Mana: Teleport beyond your range. Mana cost depends on distance. Recharge: 4 hours. Domain: While within your domain, Minion Teleport has no range limits. Arcane, Movement, Domain, Minion, IntelligenceChoose one or both advancements.
+
+I can go home.
+
+Ali didn’t hesitate, she immediately accepted the double advancement. Unlimited teleportation within the confines of her domain was a nice perk, but a long-range teleport, even with a four-hour recharge, was a godsend for her.
+
+“Hey, um, do you guys mind if I sleep at home tonight?” she asked, getting some surprised looks. “I got a four-hour recharge long-range teleport, so I can go home and come back again later.”
+
+“And get rid of your domain withdrawal?” Mato asked. “Sounds like a smart idea.”
+
+He got it even before I could explain, Ali thought. Of course, it had been him who had been with her when she had first learned how dangerous it could be if her withdrawal got out of hand. She nodded to him. “Yes, I’m going to be at thirty percent by morning if I don’t.”
+
+“Of course, go ahead!” Malika said immediately.
+
+“Be safe and make some guards,” Mato added.
+
+“We’ll take care of things here,” Calen grinned. “Camping on the hard ground surrounded by enemies –”
+
+“Which are chased off by Mato’s snoring,” Malika put in cheekily.
+
+“Hey!” the Beastkin snorted.
+
+“Thanks for understanding,” Ali said and powered her new ability. It instantly ripped almost fifteen hundred mana from her mana pool, and she suddenly found herself hovering above the atrium in the dim quiet of the great library, while one of her Glitter Dragonets was now flitting around Mato’s head in Aman Rak.
+
+Well, that was impressive, she thought.
+
+“Welcome home, Aliandra,” Lira said, her face emerging from the trunk of the giant tree. “Cup of tea?”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

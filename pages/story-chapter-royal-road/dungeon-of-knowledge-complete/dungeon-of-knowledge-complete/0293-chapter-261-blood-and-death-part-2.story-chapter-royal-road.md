@@ -1,0 +1,163 @@
+---
+id: 8132e385-d8b3-56d1-9e25-694f3718fbde
+page-type-slug: story-chapter-royal-road
+title: "Chapter 261: Blood and Death (Part 2)"
+slug: 0293-chapter-261-blood-and-death-part-2
+partOf: dungeon-of-knowledge-complete
+position: 293
+ownLength: 3077
+unit: words
+ownProgress: 3077
+publishedAt: 2025-05-28
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2311674/chapter-261-blood-and-death-part-2"
+royalRoadId: "2311674"
+markedReadAt: "2026-06-29T20:21:11.642Z"
+---
+
+How is she still alive? Malika thought, staring at the broken form of the once-powerful Night Elf Pathfinder. She had to be holding herself together through the sheer force of her will alone.
+
+“You still wish to give chase, Elf?” The Lich’s mocking resonated through the air. “Can you not see the futility of your pride?”
+
+“It seems that someone broke your precious barrier,” Lyeneru taunted, not directly answering the question. Indeed, the powerful death magic energy the Lich had summoned from within the barrier had dimmed when the golden magic formation had caused the explosion. Malika glanced at Ali, wondering if she had intended for this to happen.
+
+“It is time to die, Elf. You fight well, but you already know you are no match for me. It is the way of all life, after all. Death is a release, a new beginning. I will make good use of you in your death.”
+
+The Lich’s declaration carried a note of finality, a sense that he disliked being forced to deal with her.
+
+“You will not prevail,” Lyeneru declared, raising her bow, even though Malika knew she did not have the strength left in her withered arm to draw the string.
+
+“Aah yes, ever the hero. You cannot lay down while these weaklings might be in danger, can you?” Nevyn Eld said with a biting rebuke. “How about I remove them? Then will you die?” A withered arm shot forward, releasing an intense roiling blast of black energy that poured forth, striking an Armored Drake as it swept across the churning battlefield toward Ali. She flickered and suddenly one of her giant troll berserkers stood in her place, but the beam of death swept right through it, withering and decaying its flesh in seconds, turning it to ash that drifted away on the gentle breeze, leaving the skeletal remains to drop to the ground with a crash, landing beside the disintegrated bones of the drake.
+
+Dying embers of energy flickered through Lyeneru’s ragged body and she vanished, appearing in the center of the beam, right as it would have reached Ali and the barrier she had conjured to hide behind. Death magic tore through the Night Elf’s rapidly decaying body to the sepulchral sound of the Lich’s laughter.
+
+“So predictable,” the Lich mocked.
+
+She’s going to die.
+
+In the stories of Malika’s childhood, Lyeneru might have found some last vestiges of latent power buried deep within her soul; might have unlocked some previously untapped potential to surpass her limits, turning the lost fight into a heroic reversal. But, at best, the elf’s selfless gesture had bought Ali a second or two of more life.
+
+Malika stepped through space.
+
+Lyeneru’s energy was flagging, the final embers draining away within the roiling torrent of death magic. Malika appeared right behind the rapidly dying elf, far too weak now to do anything more than block the spell with the final remnants of her life.
+
+The instant Malika appeared, the black tendrils tore at her lifeforce, withering and decaying her flesh. She poured stamina into Healing Mantra, pitting her healing against the might of the Lich’s onslaught, pushing harder and harder as her magic fought to reconstruct the damage wrought by the unceasing attack.
+
+You have been afflicted by Life Drain.Maximum health is reduced by 7%.
+
+Weakening faster than when her own bloodline turned on her, Malika balanced upon her own energy in midair and reached out her hand, placing it firmly on Lyeneru’s withered shoulder, channeling her healing into the elf also. She clenched her teeth against the agony as her face and fingers decayed, only to be painfully rebuilt by her searing magic. She fed her mana to Second Wind with reckless abandon, throwing the fresh stamina into the bottomless abyss that was Lyeneru’s health. It rushed out of her in a great torrent and yet she kept on channeling her magic, pouring it into herself and the Elf in an act of never-ending defiance against the power of the Blind Lich.
+
+You have been afflicted by Stamina Drain.Maximum stamina is reduced by 8%.
+
+The decrepifying torrent faltered as a bright golden barrier appeared in front of Lyeneru’s wracked body, but it shattered almost instantly, only to be replaced by another, and then another. The roaring and shattering of Ali’s tenacity pitted against the Lich’s might drowned out the dim sounds of battle below.
+
+Eventually, and an eternity of pain later, the dark beam of necromantic energy abated, and Malika’s healing finally faded. Exhausted, her Divine Step failed as she ran out of stamina, and she fell toward the whirling black Blood Vortex below. At the last moment, Lyeneru shot out an arm and caught her, fingers clasping firmly around Malika’s wrist with revitalized strength.
+
+“That was insane,” Malika said weakly, trying to hang on. “How do you have so much health?”
+
+“Why won’t you just die?” the Lich demanded. “You are a cockroach beneath my boot.”
+
+Lyeneru smiled, ignoring him, and placed Malika gently on the ground near Calen. “How do you have so much mana that you can heal through that?” Empty and exhausted, Malika could only manage a weak smile.
+
+“What do we do?” Calen asked, gazing intently at his mentor. “Should we run?”
+
+“Take care of that Death Knight, and be careful, it is strong. I’ll handle the Blind Lich’s avatar,” Lyeneru said. Then she took to the air, fire and lightning beginning to crackle across her bow – and as her arrows flew forth, her energy returned, filling her with renewed vitality and power.
+
+Without a word, Calen tossed one of his most expensive mana potions to Malika and filled the air between them and the troll Death Knight with a howling stream of brilliant arrows.
+
+“Thanks,” Malika managed, tossing Morwynne’s finest work down her throat without even pausing to taste it. Her mana began to tick upward as the potion took effect, and as soon as she used her Second Wind to replenish her stamina, the debilitating exhaustion began to fade. Mato’s going to need healing soon, she thought, forcing herself to her feet to see their foe. A dark mist had begun to envelop the giant troll Death Knight, similar to the aura of rage it had wielded before its ascension, but now black instead of red. She glanced upward at the battle raging in the sky, but the Lich was far beyond their abilities, and she would have to rely on Lyeneru to hold him off. We must do what we can. How can we hope to defeat an evolved tier two monster?
+
+Yet Lyeneru had entrusted them with this task. They would not fail.
+
+The great pools of blood splattered across the stone of the buildings and the dirt on the ground, both black and red, slowly began seeping back into the air to fuel the totems once again. Ignoring the complaints of her still-recovering body, she sprinted into combat. Besides, I need his regeneration aura. She grinned while epic cracks of thunder split the sky overhead.
+
+Malika nodded to the bear and opened with a powerful punch combination, making sure to dodge the great sweeping attacks of the greataxes. He’s much stronger, she thought as her punches slammed into the resilient ebon-gray withered flesh of the just-born Death Knight. The axe strikes were far more powerful too, she could see the potency of his energy within each attack. She probed with flurries of kicks and punches, aiming for any weak spots she could imagine, not that his undead body seemed to have any, while in the sky above, a battle of magic and arrows raged, fire and lightning contending with terrifying bolts of black energy. She ignored it, focusing on the Death Knight, and eking the most stamina and mana out of Mato’s sanctuary aura. So, this is an evolved monster.
+
+A coiling bolt of dark energy tore down from the sky and ripped one of the troll prisoners to pieces, leaving nothing but bones in its wake. The unnatural dread suddenly spiked in power, assaulting Malika’s mind with magical energy as the Blind Lich’s aura blasted across the clearing with immense psychic weight, slamming into every single being. Right in front of her, Mato whimpered, and an unblocked greataxe cleaved through his body, spraying bright red blood across her cheeks. Unable to react due to the overwhelming pressure on his mind, Mato just trembled in place as a second killing blow descended. Malika spent her slowly recovering stamina freely to step in and pulse a Healing Mantra into his body, delivering a short amount of her own Clarity skill to him as a buff. Instantly, his head snapped up and he braced, guarding against the potent strike.
+
+Welcome back, Mato.
+
+She saw fear and resolve warring in those nearly black eyes. She yelled, “Come on, Mato! Let’s do this!”
+
+The Bear’s shoulders squared up. Suddenly, she realized it was about more than just finding some Clarity mid-battle. Somehow, from somewhere, Mato had rediscovered his grit, his confidence, his heart. Maybe he didn’t believe they would come out of this alive – and eyeing the Lich and the Death Knight, Malika knew the odds were stacked against them – but everything in his posture proclaimed – it roared – that he would not stop battling until his last breath.
+
+Across the battlefield, minions and people cowered, trembling in fear. No, not everyone… The shamans were still healing, and Ali seemed fine. All the classes with high wisdom, Malika realized. It was not a perfect foil, but the mages, shamans, and the witch doctor all seemed to be much more resilient to the waves of fear and dread, recovering quickly, just as Mieriel had taught. Even Mato would probably have defeated it on his own with time – but against the cleaving of giant axes aimed at his skull, that was time he would not have had.
+
+Malika glanced up at the battle raging overhead, and judging the distance in an instant, she teleported up behind Lyeneru, pouring half her newly regenerated stamina into the elf as she unleashed the fury of her fire and lightning at the Blind Lich, and then she sprinted back down to heal Mato again, balancing her mana and stamina to best take advantage of his Battle Trance and the Touch of Clarity that his ridiculous regeneration aura reflected back to her.
+
+Beside her, the Death Knight whirled his axes, and the Blood Vortex sprayed forth – an enormous maelstrom of blood as black as midnight – to assault everyone. Within the storm, minions cowered, torn to shreds by the hungry blades of blood. She touched a heal on Mato, feeling the regeneration skyrocket as the black blades of blood bit into him, driving his Battle Trance through the roof.
+
+Relying entirely on Soul Sight to guide her within the dense spray of flying, slicing blood, she moved with increasing grace and fury; the patterns of the Nine Paths coming instinctively to her body as she danced and twirled around delivering punches and kicks to her allies. But instead of power and destruction, her strikes touched and tapped, delivering flashes of her healing magic laced with Clarity instead of Soul Strike. Each minion she touched instantly recovered from the oppressive fear and leapt or charged out of the vortex while she sped by.
+
+Her body stuttered as she stepped through space, appearing among the ranged attackers and repeating her dance, her forms elegant and quick as she delivered her magic to Calen, imps, and mages – whoever was unable to overcome the Lich’s overcharged fear on their own.
+
+Calen cowered; his mind broken by the terror of the Blind Lich. He towered over everything, his glowing eyes saw everything, and his magic destroyed life itself. He had been insane to think they could stand against it. All they could do – should do – was wait for him to come end it.
+
+Please let it end…
+
+A shadow darted past him and slapped him on the shoulder, sending burning energy coursing through his body, and his mind fell into a pool of icy calm, snapping his thoughts back to reality from the shock.
+
+You have gained Clarity.
+
+He blinked, seeing the battlefield anew. Ali’s minions were recovering, Mato was still tanking, and the flying battle between his mentor and the Lich raged on overhead.
+
+Malika…
+
+He knew she had saved him from his fear, and now he could act. Whatever foul magic the Lich had wrought had brought Tol’brekk back to a semblance of raging unlife, and, if his Explorer was not playing tricks on him, had empowered him further with the magic of the domain.
+
+“He’s a raid boss now,” Calen announced. Tol’brekk had been ridiculously powerful before his ascension, but now he had been forced to evolve, raised as a Death Knight, and upgraded to a raid boss. It was going to be insanely difficult – an entirely different fight from before.
+
+“Seriously?” Ali asked.
+
+“Yes. But I have an idea. Send me to the spirit realm and back,” Calen said.
+
+“Follow Calen’s orders,” she told her witch doctor in trollish.
+
+“Yes, Seeker,” the witch doctor answered and, grinning broadly at Calen, he banished him to the spirit realm.
+
+The gray veil of the spirit realm descended upon him, but Calen was already chewing on a ghost mushroom chip and sprinting for the wall of a building. Moments later, the witch doctor appeared to dispel his curse, dropping him back to the real world, but before his transition completed, he activated Eclipse and vanished into the shadows. It was a trick he had first pulled off by accident when facing the witch doctors lower down in the Temple of Aman Rak, and this was the first time he had intentionally set out to re-acquire stealth mid-battle using the strange banishment curse.
+
+He downed an elixir and stepped out from behind the cover of the half-demolished stone wall, drawing his bowstring past his ear and channeling his stamina into Power Shot. A full twenty seconds passed – two thirds of his full capacity – before he released the arrow, adding light magic and armor-piercing right before he struck Tol’brekk. His arrow hit the broad chest with a crack, staggering the massive troll with the full force of his Power Shot and Ambush combination, giving Mato a window to use his instant retaliation.
+
+He spread his wings, flying upward and out of the path as the black vortex of blood formed, firing volleys of conjured arrows continuously into the center of the maelstrom, replenishing his spent stamina and mana in seconds. But as the vortex passed him by, the black blood pooling on the dirt began to writhe among the discarded trampled bones.
+
+Am I hallucinating? For a moment he thought he was suffering some after-effect of the fear and the roughness of his reawakening, but the blood pooled, running together in clumps that began to rise and take shape. Bubbles of blobby crimson with outlines of arms and feet and indistinct faces pressed up against the inside of the membranes holding the blood together. Then they began to crawl.
+
+Blood Thrall – Ooze – level 81-84 x28.[Explorer]Summoned blood-affinity ooze.Category: Summoned MonsterThreat Level: NormalMonster Type: OozeDamage: Physical, BloodKnown Abilities: Blood Explosion.
+
+“Adds!” Calen yelled.
+
+“Summoning!” Ali yelled simultaneously.
+
+Well, that answers the question of what his third domain skill is.
+
+Just like with Joraa, the summoned thralls began to slosh around, slithering and crawling across the blood-soaked dirt, chasing down anything that was nearby. Unlike The Betrayer, Tol’brekk’s summoning was far more potent. Two grappled with a group of Ali’s minions and then exploded, the detonation killing two Hellfire Imps instantly. Three of them simultaneously overwhelmed a Bone Warrior, ripping and pulling with pseudopods before tearing it apart in a blast. Several of them flowed through the battlefield toward Mato, and still more came.
+
+Shit!
+
+“They’re healing him!” Ali yelled.
+
+Calen nocked five conjured arrows, loosing them in an instant, firing at the Blood Thralls. He followed it with another volley and another, his bow howling as it delivered his magic, trying to spread the damage across all the oozes.
+
+I must get them away from Mato. Adding a host of exploding thralls to the enraged fury of a raid-class Death Knight boss would be more than any tank could handle.
+
+Across the field, the thralls turned to face him and began to run. Aah, now what? He had acted out of necessity, desperate to avert the disaster, and now he found himself in a serious bind. If he flew, he ran the very real risk that the ground-bound oozes would lose interest and return to their rampant mayhem. What can I do? He began to kite them, firing arrows back behind him as he racked his brains for any semblance of a workable plan.
+
+“Bring them to me!” Ali yelled from atop a golden barrier in front of what was left of her Ice Mages and Hellfire Imps.
+
+“You sure?” He had no idea what Ali had planned, but he trusted her implicitly. He redirected his aimless charge, sprinting across the bloodstained dirt towards her, trailing a horde of Blood Thralls in his wake.
+
+“Just bunch them up,” Ali called.
+
+I hope you have a good plan, Calen thought as he sprinted past the tiny Fae, flying on her magical platform. As he passed, she vanished and, in her place, the sole remaining Armored Drake appeared, roaring loudly and unleashing geyser-like jets of fire breath. Behind the flame, the Ice Trolls detonated their Frost Nova spells in a chain reaction that filled the area with ice and snow. Rime-encrusted thralls slowed as the ice magic took hold. From her new spot, Ali waved the quartz wand in her right hand, and one of the Ice Trolls accelerated dramatically, ice bolts flying from her fingers almost three times faster, causing the thralls to freeze and shatter at a phenomenal rate.
+
+“Well played,” Calen murmured as he whirled and began firing volleys of explosive arrows into the chilled thralls. The noise was deafening as his light magic detonated among hellfire fireballs and chained frost novas. The Armored Drake blocked and tanked any thralls that made it through the explosions, adding its flame breath to the fireballs that detonated on top of it.
+
+In seconds, the field was cleared of anything that oozed.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

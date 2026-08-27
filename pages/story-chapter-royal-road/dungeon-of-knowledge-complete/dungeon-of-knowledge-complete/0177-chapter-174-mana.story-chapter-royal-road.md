@@ -1,0 +1,229 @@
+---
+id: f6744c2c-2eed-5f22-9144-b8505a6393b3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 174: Mana"
+slug: 0177-chapter-174-mana
+partOf: dungeon-of-knowledge-complete
+position: 177
+ownLength: 4288
+unit: words
+ownProgress: 4288
+publishedAt: 2024-12-24
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1972860/chapter-174-mana"
+royalRoadId: "1972860"
+markedReadAt: "2026-06-29T20:17:02.886Z"
+---
+
+Your group has defeated Living Flame – Elemental – level 62.
+
+That was rough, she thought, staring down at the still-pulsing dark blue-black fiery core that was all that remained of their first defeated Living Flame. And beyond the archway, dozens of these monsters still lurked. While the others were all able to use the Elixirs of Fire Resistance, Malika’s resistance was way too low for that to be effective. Her Ruby Hairpin was literally keeping her alive down here, but it was still woefully inadequate on its own in the face of something like these powerful elementals.
+
+She had been excited when she had learned to dodge magic and explosions, but the reality was she could dodge about a quarter of all attacks, and if she didn’t drink one of the fire absorption potions right before the Living Flame’s explosive shockwave of fire, she usually lost around three-quarters of her life from the blast and whatever additional damage it did as she was buffeted about by the flame or the rock she was slammed into. And then she would have to sprint back, burning her stamina to heal herself and just barely reach Mato in time to heal him.
+
+One of the explosions had been terrifyingly close – both she and the acolyte had been flung out of range simultaneously, and Mato had been left facing the elemental’s wrath entirely alone. When she had made it back, she could tell from the surging stamina energy that he had burned his powerful defensive ability just to stay alive. When she had touched him with her Healing Mantra, it had been instantly clear that he had lost way more life than he actually possessed, and he was surviving entirely on the thirty-second buffer of temporary health granted by his skill.
+
+I’m holding the team back.
+
+It was not even a question; she knew that she was the weakest of their group. And it had nothing to do with the fact that she had the lowest class level of the four of them. She loved her class, her bloodline abilities, her relentless aptitude, and her speed. But the harsh restriction of not being able to wear armor or use a shield – the main source for defensive attributes and enchantments – was making her more and more vulnerable the deeper they delved into this dungeon. And by extension, she could feel she was holding her friends back.
+
+Enlightened Evasion had scaled nicely, but the incoming damage profile was simply too choppy and chaotic for tanking. When she had first learned Soul Armor, it had provided a whopping twenty percent reduction in physical damage. She had been filled with excitement, anticipating how her skills would grow and how she would transform herself into a robust melee fighter, capable of shrugging off monster attacks with the aid of powerful skills.
+
+But as she’d leveled up, the skill had simply not kept pace. It required more and more armor or evasion rating to match higher-and-higher level monsters, and at her level, Soul Armor had dropped to just a little more than ten percent damage reduction. And, try as she might, she could find no way to fix it. Without the ability to wear armor, there was little option for improving her armor rating, other than grinding out more levels for Soul Armor. The others – Mato for instance – could simply switch the armor they were wearing to match the dungeon or upgrade their defenses with an appropriate amount of gold and access to a good blacksmith. It was a versatility she was becoming increasingly envious of. At some point she was certain it would become better to give up on her defensive skills and rely on gear instead – but then her skills would cease to advance, and she would have been better off picking a warrior class instead of her monk.
+
+None of this accounted for the fact that she still had no skill for magical resistance.
+
+She sighed. Why does everything have to be this insane fire?
+
+She kicked the elemental core on the ground, and it rolled over, exposing something unusual beneath it. She reached out to grab the flickering dark blue flame that seemed to have been a part of the Living Flame’s core, but to her surprise, it did not burn or give off much heat at all, instead, she felt a slow trickle of energy causing her stamina and mana to tick up like little pulses of regeneration.
+
+Essence of Living FlameA crafting reagent that combines fire and life affinities.Mana: Combine 3 Essence of Living Flame into one Greater Essence of Living FlameMana: Split Essence of Living Flame into 3 Lesser Essence of Living FlameValue: 45 goldReagent – Mana Essence
+
+Wow. The value appraisal did not do justice to the feeling she got from her skill. Something told her that not only was this a valuable find, but it was useful for crafting rare and powerful items.
+
+I can’t just sell this; I need to do some research.
+
+“That was a tough fight,” Ali said.
+
+“I don’t want to try another one till my Last Stand recharge expires,” Mato said. “Can we wait here for a bit?”
+
+“Malika?” Ali’s voice had an unusual tone, and she looked up, irrationally expecting to be called out on her worthlessness to the group, and the weakness of her class. She was certain Ali would never do anything like that, but it was hard for her to ignore the unwanted fear.
+
+“I was wondering…” Ali spoke, looking at the corpse. “Right before each explosion, there is a surge of mana that… well, it’s humongous.”
+
+Malika’s mind flipped gears instantly. She could see stamina usage, but Ali could see mana. If the creature’s mana was surging for the ability, that meant…
+
+“You think the explosion is expensive?”
+
+“Yup, almost certain.”
+
+“I can try on the next one.” Malika didn’t know why it hadn’t occurred to her. Perhaps it was the melee style of combat the Living Flame employed. But, if the explosions really did consume enormous amounts of mana as Ali suggested, she could attack that directly with her Soul Strike.
+
+It’s a solid idea.
+
+“I think the tornado thingy only regenerates its health as a side effect of it being fire magic,” Ali continued. “It looks a lot like my Inspiration skill. I think its purpose is to regenerate mana.”
+
+“Oh,” Calen said, realization dawning in his expression.
+
+There were always four explosions before the tornado regeneration. That meant the explosion likely cost a quarter of the creature’s entire mana pool, give or take a bit, depending on how much its attacks cost. If she attacked its mana, there was an excellent chance they could reduce it to three, or perhaps even two explosions per tornado.
+
+“Hopefully it doesn’t just regenerate faster,” Malika said thoughtfully. “But if that ability is on a recharge, then we may be able to kill it much faster. All that time spent running back between explosions would be spent shooting it instead.”
+
+“I’ll be ready to try it again in seven minutes,” Mato announced.
+
+She looked over at him, a little surprised, but she had noticed several times that, although he seldom participated in their strategic discussions, Mato always paid attention, and clearly demonstrated that he understood everyone’s role. She found herself a fire near him and sat down to meditate until he was ready.
+
+As soon as he was ready, Calen vanished into the shadows and Malika sprang to her feet, curious to see how their new plan would go. With a flash and a hissing sizzle of fire, Calen reemerged from the Landing with a single huge elemental chasing him.
+
+The intense heat of the elemental’s aura of flame washed over her as she stood back, waiting for Mato to secure it. She studied it curiously, noticing the intense white swirls and flows of its stamina coursing within its ambiguously shaped flaming form, most of it concentrated within the dense blue flame of the core. She was getting used to fighting with Soul Sight now, but after their strategy discussion, she wondered how this monster appeared to Ali’s mana-sight – she had mostly taken Ali’s ability for granted, but it must reveal a world she simply couldn’t perceive.
+
+Time to make myself useful. Her skin began to crisp, and her hair singed as the Living Flame rushed into the mine tunnel. Mato swiped at it, drawing it quickly to the tanking spot facing the rock wall, and she stepped in to begin her assault. As she had discovered against Alexander Gray, speed was vastly more effective at draining mana than power, so she focused mainly on her punches. All she had to do was release Soul Strike as rapidly as possible, which meant short-range punches delivered as fast as possible while managing her stamina. She felt rather strangely blind, attacking its mana. It was an unseen, invisible energy – what might it be like to see it the same way every detail of its stamina flow was revealed to her via her Soul Sight?
+
+She used Healing Mantra continuously, keeping her mana pool below full so that the constant stream of the Living Flame’s mana that she stole with every punch was not wasted. But keeping her own health topped up was not sufficient, and she began to divert the excess mana, converting it into stamina and adding extra heals for all Ali’s melee minions standing nearby, helping to lighten the burden on the dedicated acolyte healers.
+
+“Explosion!” Ali yelled.
+
+Malika downed a fire absorption potion immediately, but she successfully dodged the explosion this time and continued her assault. First one down. If Calen was right, they tended to come every thirty seconds, so she had a little time to wreck its mana pool – and having successfully dodged the blast meant she could be that much more efficient. She fueled her Divine Step, accelerating her body till her punches began making a whistling noise as they flew through the scorching air.
+
+Thirty seconds later, as exactly as she could determine, Ali called the next explosion. This time, the magic smashed into her body with the force of a giant hammer tossing her across the hallway like a leaf in a hurricane, ripping through the entirety of the buffer her potion granted her in an instant. Her body smacked into the roof, and she controlled her momentum absorbing much of the force using Divine Step. Her Healing Mantra surged as she repaired the flesh that had been burnt to the bone and restored the cracked ribs from the impact of the shockwave.
+
+She was off like a flash, running back to the battle, stepping off the air directly, rather than waiting for her body to reach the ground first. She pulsed some healing into Mato, but the acolyte was doing a good job of keeping him healthy, so she resumed her flurry of punches, flickering with stamina in her Soul Sight while the Soul Strike energy flashed off the Living Flame. Each time her punch landed; she felt more stolen mana flowing into her.
+
+Should be about now. She kept up her assault, and for a while, she thought she had simply misjudged the time, but as the seconds drew out, she realized the explosion wasn’t coming. Suddenly a Soul Strike returned significantly less mana, and then the next one returned nothing.
+
+“It’s dry,” Malika called out. Immediately she switched to attacking health with most of her strikes, throwing in a single mana attack now and then just to collect any mana that may have regenerated. The next explosion time came and went without effect.
+
+Suddenly the shield appeared along with the tornado of flame. This time Calen burned his Righteous Fury on the shield, and it went down in record time.
+
+“It’s only at fifteen percent,” Ali started, and then yelled, “Explosion!”
+
+She must be right, it’s for regenerating mana, she thought as the shockwave shattered her ribs again, flinging her down the tunnel and searing through her skin and flesh. She tucked in the air and spent her stamina on Divine Step, hardening the air under her feet with her magic and springing forward. Immediately, she healed herself and charged back to the fight, switching fully to stealing mana again. There was no next explosion, the Living Flame just imploded, collapsing to the ground soon after the anticipated thirty-second mark had passed.
+
+Your group has defeated Living Flame – Elemental – level 63.
+
+As she picked up the Essence of Living Flame that it dropped, storing it in her ring with the first one, she reflected for a moment that she no longer felt useless – and all it had taken was one simple realization about how to use her skills more effectively.
+
+Sabri sat on the couch looking at the enthusiastic faces of her team.
+
+“We should do it!” Brena said, excitement and pent-up energy spilling out from the Gnome.
+
+“I’m game for some smashing,” Theon said, the big paladin hefting the enormous two-handed hammer that probably weighed more than she did. It was bad enough that he insisted on naming it.
+
+Sabri glanced at the other two, sitting across from her. Cai nodded silently, the monk not much for speaking, and Malise purred her assent, the catkin rogue always seeming a little too eager for stabbing.
+
+“What about you, Sabri?” Brena asked, making her start in surprise. It always surprised her when Brena made a point of explicitly seeking her opinion – especially given how obvious the Gnome’s preferences were. “We can’t let the other group get ahead of us.”
+
+That was really what all the excitement was about; the Guildmaster had warned them that Aliandra had made two new sewer bosses. The other novice group had already found and killed the first one – a Toxic Slime, guarding a cache of weapons in the center of the sewer. They had come back filled with excitement, sporting a few new weapons and class levels, and her entire team was now talking about how they should be the first ones to find the other boss and defeat it.
+
+“I’ll come,” Sabri answered. She wasn’t particularly excited about being the first, but seeing how quickly the other group was leveling up had certainly caught her attention. If she could get stronger, she could take on more jobs and earn some money to pay back her armor, shield, and ring. She was in debt already, and she had to earn it back before Rezan would let her send any money home to her mother.
+
+“Yay!” Brena said, hopping to her feet. “Let’s go.”
+
+As they stepped outside, Sabri’s nose caught the aroma of frying meat and another vaguely familiar smell she could not quite place. Glancing around, her eyes caught sight of a small, wooden food cart with an old, wrinkled woman busy working her cooking skills and filling the street with smells that made her stomach grumble.
+
+She was about to turn around when Brena said, “Hey, do you want to try it?”
+
+“Oh, ok,” she said, quickly running a mental tally of the few coins she had as everyone crowded the cart.
+
+Tabitha’s Tasty Bites.
+
+There were only two items on the menu – a skewer of Bristletusk Boar meat for twenty-five copper, and something called ‘chef’s choice’ for just a single copper.
+
+“Why is there such a big price difference?” Theon asked.
+
+But Sabri didn’t have to consider it for long, “Can I try the Chef’s Choice?” she asked, holding out the hard-earned copper coin. The old lady took it with a toothy grin, ladled out a bowl of what seemed to be a stew, and slid it across the countertop in exchange. Sabri accepted the bowl with a polite smile; twenty-five copper pieces for a snack was an extravagance she couldn’t afford.
+
+Everyone, save for Theon and her, opted for the skewers. Sabri spooned a large helping of her stew into her mouth. The flavor that blew up her tastebuds could only be described as revolting. Week-old rancid rat had tasted better, and this was over-spiced with some intense peppers that made her break out in a sweat instantly. Chewy, too. She swallowed and took another bite, the inside of her mouth and her throat on fire. At least it’s food. She quickly shoveled the rest into her mouth, working to minimize the damage with speed.
+
+You have become Well-fed.+5 to Vitality.Duration: 6 hours.
+
+Oh, that’s nice, she thought, studying the surprising buff while she polished off her stew in short order. “Thanks,” she said, returning the empty bowl, surprised to find the old lady giving her a befuddled stare.
+
+“How was it?” Theon asked.
+
+“Hearty,” she said, struggling to find something nice to say about what she had just eaten. “The buff is really good.”
+
+“Oh? A buff?” he said, and immediately stuck his spoon in his mouth. His face turned a bright shade of red and he spat it out instantly, alternating retching noises, profanity, and trying to scrape it off his tongue.
+
+Behind the food cart, the old lady doubled over in a fit of cackling laughter as she slapped her knee, pointing at Theon as she wheezed helplessly.
+
+“What’s wrong?” Brena asked, her skewer half eaten already. “This is delicious! And I got four vitality!”
+
+Sabri glanced back and forth between the old lady, still laughing at Theon, and the happy Brena and she got it. “The chef’s choice is cheap because it’s a prank?” she asked.
+
+“You’re a smart one, young lady,” Tabitha gasped at last. “How come you could eat it? Do you not have tastebuds?”
+
+“I’ve had worse,” Sabri answered. Not much worse, for sure, but there had been a few times etched into her memory.
+
+“Ooh, a challenge! You’re a good sport, here, take one of these, you’ll like it better,” Tabitha said, offering one of the skewers. “On the house.”
+
+“Thank you,” Sabri said, and tried the skewer, finding it to be quite delicious as Brena had said.
+
+***
+
+“You really need to get a two-hand weapon like my Seraphina, here,” Theon said, caressing his hammer while he strode along beside Sabri. “You will never be able to do enough damage carrying that dinky little shield.”
+
+Sabri tuned him out, studying the sewer walls and the roof as they passed. Theon loved explaining to her why she was inadequate, unlike himself. She had tried to be polite and point out the advantages of her shield and sword, but it was like talking to a wall for all the good it did.
+
+The most frustrating part was that he had a good point. She didn’t do much damage with her sword and shield compared to the others, and she was constantly reminded that she wasn’t pulling her weight in the team. Of all of them, she was dead last in how much damage she could do – Brena and Malise could beat her with their eyes closed. Her only small consolation had come when she had realized that even Cai’s fire-enchanted kicks and quarterstaff did more damage than Theon and his stupid hammer. When she had pointed that out to him in frustration, he had gotten angry and hadn’t talked to her for the rest of the day. Probably worth it.
+
+Sabri recalled the encouraging words the Beastkin, Mato, had offered when she had been struggling to choose her class, using them as a talisman to ward off her insecurity about her role.
+
+Sabri followed along behind Theon as they delved deeper into the sewer tunnels. The normal ambiance of damp moss and mushrooms slowly gave way to something decidedly darker. Instead of the crumbling brickwork illuminated by the ever-present soft golden glow, she found the roof draped with thick curtains of spiderweb that seemed to gleam and absorb the scant lighting. The effect was eerie and beginning to creep her out.
+
+“Spiders,” Malise purred, her cat-like pupils dilating to enormous size in the darkness. “And something… something is watching.” She hissed softly and claws extended from her fingertips. Malise was almost creepier than the dark passage, but Sabri had come to trust her phenomenal senses.
+
+“Sabri in front, Theon pull back to second,” Brena said, reiterating the marching order.
+
+“Why can’t I go in front?” the big paladin complained. “I have plate armor too.”
+
+“You’re our only healer and Sabri’s the tank. You know this already,” Brena said, her voice clearly carrying an edge of annoyance at the repeated explanation.
+
+Theon grumbled, but fell back to his assigned spot, giving Sabri a few blissful moments of peace during which she did not have to see his glares that no doubt drilled into her back.
+
+Up ahead, a dark shape shifted deep within the webbing, lowering, many legs unfurling. Several eyes glinted in the dim light.
+
+Tunnel Weaver – Spider – level 5.
+
+Alright, she told herself, mustering her courage and stepping forward, determined to do the job the Guildmaster had selected for her in this group. “Incoming.” She readied her sword and shield and as the monstrous spider descended, and, as soon as it came into range, she smacked it with her shield, imbuing it with a little of her magic to do some extra damage.
+
+The dull thud of her shield was answered with a loud hiss. Then the full bulk of the monster emerged, dropping to the ground. With a scramble of limbs, it raised itself up to a height that was almost level with Sabri’s chest, and she immediately took an involuntary step backward as it lunged toward her. She raised her shield to intercept the rapid flurry of strikes from its razor-sharp legs and snapping mandibles, grudgingly giving ground under the weight of the impacts that left splatters of glistening green fluid.
+
+“Die, vermin!” Theon roared, barreling into the spider with a huge overhead strike of his massive hammer. The heavy impact drove the spider to the ground with a crunch, and it hissed and turned, lashing out at him with its legs, leaving a line of blood dripping from his arm.
+
+“Argh! I’m poisoned! Tank this damn thing, what’s the matter with you?” he yelled.
+
+Sabri frowned. If you had just waited a moment… but she kept her thoughts to herself. Instead, she used Soul Shout. Her voice rang loudly in the tunnel, shimmering and vibrating in the air as her soul magic imbued her shout with potency. The spider flinched, instantly turning back toward her, and lashed out twice. She blocked the first gleaming black slashing leg, but the second slipped under her guard.
+
+You have been afflicted with Poison.+0.3 Poison damage per second.Poison – Duration: 10 minutes. Count: 1
+
+Sabri ignored the poison and retaliated with her sword, a compact thrusting strike that bit shallowly into the chitinous thorax armor without compromising her guard further, and then the rest of the team engaged. Cai’s feet and quarterstaff blurred, leaving trails of fire lingering in the air as he struck. Malise appeared out of the shadows with a wicked dagger strike that crunched through the abdomen, spraying ichor across the webbing and the walls. Sabri blinked as the entire tunnel lit with the searing white flash of Brena’s arc lightning tearing into the monster.
+
+Theon glowed with a flash of yellow-white and the wound on his arm closed rapidly before he hefted his hammer and unleashed a great whirling strike.
+
+Sabri frowned. Now you can heal in combat? The big Paladin had insisted that he couldn’t heal while he was wielding his hammer, but now, when it was himself that was injured, his spells suddenly seemed to work. Health potions were expensive, and she had mostly been forced to rely on them during battles. Why couldn’t we get the priest? she wondered, not for the first time. The other team loved their priest, but it was not her place to question the Guildmaster, or even her teammates who were already far more experienced than her.
+
+She grew more and more defensive, blocking and deflecting as many strikes as possible while her health slowly trickled away. All she needed was to land enough damage to keep the spider focused on her – and if she failed, she would just shout to taunt it again. But the monster stuck to her like glue until the others managed to whittle it down.
+
+Your group has defeated Tunnel Weaver – Spider – level 5.
+
+“Good job, everyone,” Brena said.
+
+While the others began to chat about the fight, Sabri sat, her mind filled with calculations as she studied the several poison debuffs she had earned. She was down about a third of her life and the poison had a while to go still. There was no way around it – she used her ring’s storage enchantment and retrieved a precious health potion.
+
+But before she could open it, Brena said, “Theon, heal Sabri, she’s poisoned.”
+
+“Ok,” he said, and she felt the welcome pulse of his holy spell and suddenly she was full.
+
+“Thank you,” she offered. Not having to burn one of her potions was a relief.
+
+“But I got poisoned too,” Theon declared. “You need to learn to hold aggro better. If you had a better weapon, you wouldn’t have lost the spider, and I wouldn’t have needed to hold back.”
+
+Sabri sighed and stashed her potion. She would just need to listen to his rant while she waited for the poison to wear off – likely she would need another heal in a couple of minutes and it would be better if she wasn’t arguing with him when that happened.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,367 @@
+---
+id: 4d2ffb1e-12e1-5344-b7aa-842ecd163802
+page-type-slug: story-chapter-royal-road
+title: "Chapter 136: Bakahn Village"
+slug: 0138-chapter-136-bakahn-village
+partOf: dungeon-of-knowledge-complete
+position: 138
+ownLength: 6091
+unit: words
+ownProgress: 6091
+publishedAt: 2024-09-29
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1826171/chapter-136-bakahn-village"
+royalRoadId: "1826171"
+markedReadAt: "2026-06-29T20:15:29.235Z"
+---
+
+“I said, use everything! Stop trying to ignore your Soul Sight. Do you think you can defeat me without it?” Unconsciously or not, the girl was holding back, perhaps afraid of the pain of her bloodline. But he needed her to use everything, even if it burned her up. Without that, there would be absolutely no chance.
+
+Rezan studied the energy flow of her skills with Eyes of the Soul, the complex gestalt of energy and power that was the essence of her class, roiling and smashing through her body in a reckless maelstrom. It was clear to him, now, that she was dying. Throughout her body he could see the angry knots where the blue-white of her soul energy was twisted up, clashing with the blood-red tendrils of her bloodline and her life energy, the tangled formations blocking the flow of her skills, causing them to pierce and tear the very core of her soul.
+
+Some dared to call the Ahn Khen bloodline a curse. He shook his head slightly, refocusing on this girl, on her needs.
+
+Sometimes, when the bloodline manifested a skill too early, it could become unstable, and its untethered power would tear down the life energy of the soul. It had happened to Hala – but with the immediate application of the rituals of the ancestors, and proper meditation, he had helped her bring her energy and bloodline safely back into harmony. Malika had unlocked not one, but two bloodline skills – and she was barely level forty and lived far from anyone with the knowledge to help guide her. The violent storm of energy it had released within her had been destroying her unchecked for five days. He had never seen anyone so far gone; it was astounding she was still even standing, let alone trying to fight him.
+
+She cannot last much longer. It was a shame; he could see flashes of genius in her attacks.
+
+She attacked, and he carefully analyzed the flow of energy that powered her skills as the energy illuminated the twisted knots. There. The pulse of her magic backed up against a blockage in her elbow, causing it to flare brilliantly and highlight the exact shape. He unleashed his fist; a precision punch, striking the tangled knot with a piercing pulse of his own soul-affinity energy. As she spun and hit the ground, the warped energy twisted and then reverted to the original tangled form. He frowned.
+
+Her soul is stronger than her body. He would need to use significantly more power to separate her energies from her bloodline properly. This may very well kill her. She was balanced on a knife’s edge, and if he couldn’t do it, he would have her death on his conscience for the rest of his life. He steeled his heart and mind. Now was not the time to be sentimental, there was literally no other way, and he would be just as responsible if he simply left her to die without trying. He punched again, releasing a violent core of energy through his punch that blasted through her body. There was a sharp crack as her elbow snapped, but the tangled knot of energy finally eased, smoothing out.
+
+Inwardly, he grimaced. “Heal it,” he said, waiting for her to get back up.
+
+She seems surprised, did she not notice it was broken?
+
+As she resumed her attacks, he shifted his attention to the knots of broken energy in her legs. Her skills were bleeding energy through the tangled knots into the surrounding area, damaging her flesh, blood, and bone as it went. The skills she wielded forced power through the knot, driving them to twist and spread like a malevolent cancer.
+
+He didn’t make the same mistake again, his two kicks delivered powerful energy strikes with perfect precision, honed by decades of training. Kicks that could sunder granite. Her legs both snapped, and she collapsed, but she didn’t register any pain. Likely she cannot feel her broken legs over what she is already enduring. Both tangled knots slowly dissolved as her energy smoothed out and began to trickle through. Better.
+
+He stood waiting for her to heal herself, his anxiety rising at the sight of her energy dimming dangerously. Her bloodline is consuming her quickly. He admired her determination as she once again got to her feet, despite the obvious pain.
+
+Channeling his energy, he waited while she attacked from above, and, as soon as her body descended and she channeled her stamina, the giant knot in her stomach came into clear focus. He unleashed his punch, forced to use enough power to send his energy clean through her body. He felt a chill as her energy faltered, and her shirt darkened with blood, but she stabilized once more.
+
+I need to be more careful. Her body is too weakened to take much more.
+
+He studied her energy with the intent focus of a lifetime’s mastery of his arts, watching as it flowed past the former blockage. But to his dismay, her fading energy illuminated the worst, most tangled mess he had ever seen. One in the head, two in the chest, and three in the ribs? That is crazy. Her energy dimmed, and yet she attacked with more power and spirit than in the beginning. He could see the energy pulsing through her body, tangling with the knots and tearing at her, and yet she refused to give in. This girl has spirit.
+
+He found himself admiring her will and grit and wishing he could have found her earlier as an apprentice.
+
+I need to hit them all simultaneously. But she is too weak to survive the Fists of Coherent Integrity.
+
+As she executed her flurry of attacks, he waited carefully for the precise moment. This would be close – he would need to use enough to destroy the tangled energy while holding back just enough so that she would survive. He knew her broken body could not handle a second attempt, nor could it withstand the power of his legendary attack. But he had its precursor – the skill that had started him down the path of the Elders. As the twisted power flared through the knots, he seized the opening, allowing her strike to hit him to set up the perfect angle.
+
+Ancestors, protect her!
+
+And with his silent prayer, he unleashed the power of his Instantaneous Strike. His fist blurred, impossibly fast even to his accelerated perception – the pinnacle of haste. Splitting time itself, his fist took six separate paths simultaneously, striking all six remaining energy knots while releasing his soul power in a pulse that pierced clear through her body, picking her up and knocking her flying. He automatically healed the damage to his muscles, torn by the extreme demands of his martial skill.
+
+He held his breath for a long moment, but the fatal chime did not come as her body crashed into the ground. The energy within her crumpled form flickered angrily, pulsing chaotically, dipping to black a few times, but then it slowly smoothed out and Eyes of the Soul told him that the tangled knots of her bloodline had finally been unraveled. He could see the damage to her energy flow and the bloodline that both he and the instability had inflicted on her, but although very weak, her life force continued to shine – a tiny spark of will that refused to be extinguished, perhaps a mark of the suffering she had already endured to reach this point.
+
+Suddenly, the little Fae blocked him with a golden barrier, her energy a dazzlingly intense gold in his sight.
+
+“I won’t let you kill her!” she yelled at him, her face firm and determined.
+
+“I’m not about to kill her, nor was I trying to,” he stated, sighing in relief. “But she does require urgent healing.” He didn’t want an unnecessary fight, but his healing required him to be much closer.
+
+It was then that he noticed the curious rippling pulses of energy flickering along the domain between the girl sprawled in the dirt and the giant oak her companion had transformed himself into. He didn’t cast anything, but it was abundantly clear that the Beastkin’s aura was stabilizing Malika’s life force.
+
+Is he bleeding for her? His own healing magic would have been faster, but the young Beastkin Druid’s magic was strong.
+
+Good friends and a powerful will. It seems Malika will do well. Inwardly he smiled, careful not to let it show. May the Mark of the Ancestors burn brightly in your blood, young one.
+
+Lacing his fingers together before his throat, he bowed deeply to honor his opponent.
+
+Malika opened her eyes and blinked at the light of the late evening sun falling on her face. She was outside, out in the open air, and for a moment she couldn’t recall where exactly she was. She lay on the ground under a large spreading tree, and somebody had covered her torso and legs with a light blanket. Somewhere nearby, she heard the sounds of voices conversing quietly; Mato, Ali, Ryn, and several others she could not place.
+
+Rezan.
+
+Her memories crashed back into her head; the excruciating trip, her rapidly unraveling bloodline, and the fight with the Elder. Her heart accelerated in her chest, but its fluttering felt strangely weak, almost detached from her wandering perception.
+
+I failed.
+
+She had never stood a chance, but she had needed to win the fight to awaken her bloodline. It had been her only chance, and now it was gone.
+
+Why… why am I still alive? Hold on…
+
+She blinked and sat up, suddenly realizing that there was no pain. Confused, Malika checked herself over, but the pain that had been her constant unwanted companion for the last four… no five days remained blissfully absent. She realized that the sense of disorientation was somehow rooted in her recent walk to the edge of death itself… yet she breathed, her heart beat, and something fundamental had changed.
+
+What happened?
+
+She checked her notifications, finding numerous entries for the last few days.
+
+…Your bloodline has deteriorated. -7% to maximum mana.Your bloodline has deteriorated. -3% to maximum health.Your bloodline has deteriorated. -4% to maximum stamina.Your bloodline has deteriorated. -6% to maximum mana.Your bloodline has awakened.
+
+She stared at the last line, dumbfounded. How… it’s awakened? But he said I had to win. Am I dreaming? He beat me like a ragdoll. Broke my legs – but they look fine. This can’t be real.
+
+Confused, she checked her aptitudes, but it had indeed changed. She was not dreaming.
+
+Aptitudes- Languages: Common- Bloodline (Ahn Khen): +45% to range and power of Bloodline skills- Mana (Affinity): Soul- Relentless (Class): +100% to Stamina Regeneration- Relentless (Class): You can pay for any abilities with stamina instead of mana
+
+She stopped reading, suddenly becoming aware of the growing silence around her and the feeling of being watched. She looked up to find her friends staring at her with concern etched on their faces. Her face wanted to redden but that seemed a step too far for her abused heart.
+
+“How are you feeling, Malika?” Ali asked.
+
+“I’m… just about ok,” she answered, finding, to her surprise, that it was true. Someone had healed the bruises and the damage. She still had substantial losses to her maximum health, stamina, and mana, but the jagged bolts of pain were gone, and so were the disorienting haloes of distortion in her vision.
+
+“Your energy is stable now,” Rezan said, studying her with eyes that glowed.
+
+“My bloodline awakened,” she told him, accusingly. “You told me I had to beat you.”
+
+“I told you what you needed to hear. I needed to see the flow of your energy at full power to understand the knots and blockages and where to apply my energy. The only way to be sure was to have you go all out.” The glow in his eyes faded. “Congratulations on awakening, I’m sorry it had to be so violent and forceful.”
+
+He made me think I had to win just so he could see my energy?
+
+Malika’s fury faded as she realized it had been an efficient, necessary method. And that he had saved her from an excruciating, drawn-out death. Yes, just that minor victory. Idly, she wondered if she was truly being rational, or if it was just her Clarity finally reasserting its calming influence on her mind.
+
+“Now what?” she asked. She found her awakening filled her with a complex flood of emotions, stained with the deep melancholy of her old grief. Awakening her bloodline was a formative and potent achievement, and one that no doubt meant she would survive. However, without her parents, nobody remained to perform the Rite of Naming.
+
+“The damage you’ve sustained from your bloodline will fade with proper meditation and care,” Rezan said. “I suggest you accompany us to Kezda, and I will teach you what you need to know – you should make a full recovery given a little time.”
+
+“I would like to stop at Bakahn village and pay my respects to my parents’ resting place if that’s not too much trouble,” Malika said.
+
+“Of course; it’s on the way. But before we go, Malika, I must apologize to you.” He shifted uncomfortably.
+
+“For the deception?”
+
+“You may not have noticed yet, but my last attack imprinted my mana on your soul. It has left us linked by a mentorship tithe. It was not something even I was aware was possible without your explicit permission. It is not appropriate to force such influence over your class on you while you were unconscious.”
+
+A mentorship tithe? How did I miss – oh, there it is.
+
+Patrons & Tithes- Mentor: Rezan Jin
+
+Sure enough, it was there. Without her conscious agreement, she had his mana signature tied to her own mana, forming a mentorship bond.
+
+“I’m sorry,” Malika said. “I will remove it, if that’s what you wish.” Mentorships were agreements that were entered into with care and consideration. For one thing, most people could only support one or two students or disciples at a time, and he looked like he had two already. For another, they could dramatically influence both the development of the master and the disciple. Even her removing it would cost him several months of recharge time before he could use it for someone else.
+
+“I would have removed it myself,” he noted serenely. “But that would mean I would never be able to offer it to you again. Rescinding a tithe is permanent.”
+
+About to remove the enchant, she suddenly stopped as the implications of what he had just said sank in.
+
+“What do you mean?” she asked, not ready to believe it.
+
+“I know it’s rather sudden – and I just deceived you, beat you up, and forced the enchant on you. But I’d like you to consider it as a real offer for you to become my student.”
+
+Malika simply stared at him, struggling to catch up with what he was saying. But she couldn’t miss the sudden smiles on the faces of his other two disciples.
+
+“I admire your tenacity and will. I studied the mystical energies of your soul. It would be a great honor to have you as a student.” Malika nearly bit a hole in her tongue. An honor? She was a Street Rat. “I ask that you consider keeping the mentorship at least until you’ve recovered so you have the time to make your decision properly. But if you’d rather not, I understand.”
+
+She examined the enchantment, trying to process her emotions. She did not even know this Elder, and while she felt she should be honored by his offer, something within her resisted. Her parents had always cautioned her to only accept mentorship from someone she trusted implicitly. She pulled up the description to see the details.
+
+Mentor Patronage – Rezan JinTraits: Soul, Dexterity, Perception, Wisdom, Bloodline (Ahn Khen), Haste, Melee, Evasion, Knowledge, Healing.Experience gain is increased for actions aligned with your mentor, or under their supervision. Gain additional skill unlocks and advances aligned with your mentor’s traits and experience.A portion of your increased experience is awarded to your mentor, increasing their reputation.Enchantment – Tithe
+
+“It is a decision of significance, so I don’t want you to answer right now,” he continued, and she realized that he was taking pains to offer her an honorable way out, and not force her into anything else. Did that reveal enough of his character to help her decide? “Please take the time to consider it while you recover in Kezda.”
+
+Malika nodded, not trusting herself to answer his overwhelming offer. Before she was forced to speak, the touch of a small hand reaching for hers distracted her. Looking down she saw Ali looking up at her, her eyes filled with concern.
+
+“I was scared you were going to die.”
+
+“Me too, Ali… me too.”
+
+***
+
+As they made their way up the narrow winding mountain road, childhood memories rose unbidden in her mind. She remembered one particularly clear evening before sunset, riding on her dad’s shoulders as they walked back from shopping in the nearby city. She must have been five, and it had been such a happy day. Her dad had shown her how to make rings of peacebloom and she had worn one in her hair.
+
+The road wound higher and higher into the mountains until it opened into a small, secluded plateau. An open expanse filled with rubble was all that remained of Bakahn village, the home she had been forced to flee so many years ago. To the right was a burned stump of the tree she used to climb when she had wanted to be alone. And the giant boulder she and her friends had used to play heroes-and-demons was blackened around its base. As she walked through the old wreckage of the town, her memories played out a vivid overlay of the town before disaster had struck.
+
+Walking on automatic, she found herself in front of her parents’ house. The dojo she had practiced at, pretending to be a hero. Or more often trying to copy her mom or dad’s techniques. Her old home. The rubble in front of her was blackened and weeds were growing through it, but in her mind, she could still see it all clearly.
+
+She was dimly aware that the others had withdrawn to give her space. While she stood before what was the grave of her family, the tears she had been unable to shed all those years ago finally came.
+
+Ali sat quietly in the little camp Rezan’s disciples had pitched on the outskirts of the rubble that was all that remained of Bakahn village, watching sadly as Malika wandered the ruins mourning her parents.
+
+This must be so hard for her. I hope she can find some peace.
+
+“We lost so much when Bakahn village was destroyed,” Rezan said from the opposite side of the campfire. “Almost everyone was killed, only a small few like her managed to escape.”
+
+“I heard it was a dungeon-break,” Ali said. Malika had opened up to her about her past and shared some of the details.
+
+“Yes, a previously unknown dungeon suddenly went wild and destroyed the entire area with fire-affinity monsters. I heard the adventurers talking about an undead monster they found at the heart of the dungeon when they exterminated it.”
+
+Undead? Just like the Twin Wights and the Skeletal Wyvern. Ali’s mind returned to the terrifying encounter with the Blind Lich after they had defeated the undead in the Ruins of Dal’mohra, and then to her recent conversation with Lyeneru and her observation that Nevyn Eld was using dungeons for his inscrutable and malign purposes.
+
+Perhaps he is closer than I imagined? She shook her head, trying to dislodge the morbid idea that the Lich was somehow responsible for Malika’s grief and pain.
+
+“The disaster also took one of our Elders and the last remaining copy of the Nine Paths of Ahn Khen. It’s been ten years and, without the ancient text, already people are forgetting how to correctly train the children and develop their arts,” Rezan said, his voice melancholy and heavy with sorrow.
+
+“Was it a book?” Ryn asked. “The Nine Paths, I mean.”
+
+Ali glanced at Rezan, worried for a second, but he didn’t seem to take offense at Ryn’s curiosity about the lost artifact which was obviously sacred to him.
+
+“One book for each of the nine paths, bound in the finest drake leather and written in the ancient language. The books were beautiful, filled with our magic, the culture of the Ahn Khen handed down from the ancestors, our martial arts, training, and the development of our techniques and skills.” Rezan’s voice was filled with pride and passion, but his eyes were tempered with sadness.
+
+“Ali, do you think I should try my Seeker skill?” Ryn asked. “I don’t think it will help if the books were burnt, but maybe…”
+
+“It couldn’t hurt,” Ali answered. Ryn had been essential to getting them to the correct place, but other than that, Ali could tell she felt out of place and useless. She was by far the lowest level person, and her class had been unsuited for healing or helping Malika in any way other than her ability to find the right reference books to tell them where to go.
+
+Ryn closed her eyes, and as her familiar magic forked out across the ruined buildings and charred tree stumps, Ali could see the complex magical formations flickering in Rezan’s eyes as he studied Ryn’s skill.
+
+Her magic traced arcs across the ground, hopping from building to building, as if it were searching for something by feel. Ali watched it curiously for about a minute before suddenly one arc flared with a coruscating golden light, leaving a powerful afterimage on her vision as if she had just witnessed a ground strike of lightning right beside her.
+
+Ryn gasped, breathing heavily. “I saw something, but it was too blurry to make it out. But that building – uh, that ruin over there – has a secret cellar beneath it.”
+
+Ali followed as Ryn led the way, excitement mounting as everyone joined in the curious hunt. She didn’t allow herself to hope – Ryn had even said she couldn’t see what her spell had found.
+
+“Under there,” she said, pointing at a huge slab of fallen stone.
+
+Mato immediately shifted to his Bear Form, and together with Basir – the stocky male disciple – they heaved the wall up and over, revealing a trapdoor set into the blackened stone floor. Together, they reached for a large brass ring offset in the trapdoor, but a few tugs revealed that it was well sealed.
+
+With a few quick flashes of his magic, Rezan disabled the magical seals.
+
+“I think this was Elder Inaya’s house,” Malika said, drawing their attention to her as she joined them. “I didn’t know it had a cellar. I didn’t think any houses in the village had cellars.” She had her lockpicks out, and she had wiped the tears away from her eyes, but it was clear that even though she was pretending she was normal, it would take her a while to recover.
+
+With a twist and a click, the door opened, and Ali caught the scent of dry and dusty air escaping. She created a barrier in front, both to light the way, and to protect herself from whatever might lurk within, and she descended the stone stairs behind Mato, sneezing as their feet kicked up dust in the stairwell. Perhaps the trapdoor had not been so well fitted or the magical seals let through blown dust, because it was several inches deep in places, and they had to take each step with care.
+
+Entering the cramped stone cellar, Ali found only a small, frayed carpet in the center of the room, a small table with a few keepsakes, and a single shelf containing nine matching reddish leather-bound books that glowed softly in her mana sight.
+
+“The ancient text!” Rezan gasped. He turned to Ryn and bowed. “You have my eternal gratitude for finding that which we had thought lost forever.”
+
+In the soft light of her magical barrier, Ali could see Ryn blushing at Rezan’s declaration.
+
+“Perhaps Ali could copy it for you so that it’s harder to lose next time?” Ryn said.
+
+Rezan glanced up, meeting Ali’s gaze. “It’s a magical text in an ancient language. No scribe has been able to copy it in my lifetime.”
+
+“Ali has a unique magic,” Malika said, still sounding rather subdued.
+
+But Ali was glad she hadn’t elaborated. Even though it was more or less common knowledge in Myrin’s Keep now, she was still reluctant to simply blurt out the nature of her class to people who were mostly strangers.
+
+“I will try,” she said, levitating herself up to the shelf and retrieving the first book. As she opened the cover and began to memorize it, she felt her Sage of Learning struggling with the unfamiliar language. Without context she would not be able to learn it; however, the magical script yielded easily to her analysis.
+
+It would be a lot easier to memorize if I understood the language.
+
+She struggled with it for a bit before she decided to change tactics.
+
+“Would you mind translating some of this into Common for me please?” Ali asked, pushing the book over to Rezan.
+
+“Which part?” he asked, seeming a little surprised.
+
+“It doesn’t matter, it will just go a lot faster if I know what I’m memorizing.”
+
+She enabled Study Trance, watching carefully while Rezan began to read from the ancient tome.
+
+You have learned the Ahn Khen Language.
+
+She was still unable to determine exactly how much time had passed, but she had the feeling it wasn’t more than twenty minutes.
+
+“Ok, now let me read it and you correct me,” she said, taking the book and beginning to read, translating it into Common as she went. Rezan raised an eyebrow in surprise, but he did as she asked, his corrections growing fewer and less frequent as she proceeded.
+
+Your proficiency with the Ahn Khen language has improved.
+
+Really quite handy, this skill. Ali studied the pages, knowing she had learned it sufficiently well that she could finish off the books entirely on her own now.
+
+But it would be a wasted opportunity.
+
+“Do you mind reading it in Ahn Khen for a bit? So I might learn the pronunciation?”
+
+She could tell he was curious, but he began to read, the words coming out in a strangely lyrical-sounding speech, full of profound inflection. After a few minutes, Ali took over, reading the text directly in Ahn Khen, taking a few pointers of feedback on the correct vowel sounds before her chime sounded once more.
+
+Your proficiency with the Ahn Khen language has improved.
+
+“Thank you,” Ali said and picked up the book. She paged through it rapidly, using the full speed of her Reading and Runic Script skills to quickly commit the entire tome to memory. She double-checked her memory by scanning through the book one last time, finding no errors.
+
+“Got it?” Ryn asked.
+
+“Yes, much easier now,” Ali answered, glancing at Elder Rezan, but he seemed to think this feat deserved only his most inscrutable expression. She bit down on a surge of irritation. Fine. And now for her next trick, maybe he’d like this one?
+
+She opened her Grimoire to the book imprint, noticing the flickering formations in Rezan’s eyes again as she began to channel her mana. She chose a variant with a similar leather binding, and then flowed her magic through the imprint, blending her memorized text and Runic Script into the construction as she replicated all the spells, magic, and written text of the original. Rezan had been right, there was a lot of magic contained within the book, and her Runic Script spell worked overtime, drawing heavily on her mana and memory to duplicate the spells and runes.
+
+A leather-bound book dropped into her lap. The cover was darker and of a different leather than the original, but it was a reasonably close match. As she paged through it, she quickly verified the accuracy of the copy before handing it to Rezan.
+
+He studied it carefully, his eyes growing wide in surprise as he paged through it.
+
+Ali left him to it and began to duplicate the rest of the volumes. When she was finally done, she found she was barely able to hold all nine books in her memory at the same time – more than she had ever been able to do before.
+
+“Would you mind if I made a copy for my library?” Ali asked. “If nothing else, it would be a good way to have a copy in a different location in case something happens to these.”
+
+“I’m afraid I cannot give you permission without consulting with the other Elders. I’m sorry. You’ve done us an extraordinary service today, and I will try and get their agreement, but I cannot guarantee it.”
+
+“I understand,” Ali said. She couldn’t quite keep the disappointment out of her voice but after a moment’s hesitation and with an inward sigh, she released the memories she had created.
+
+At least I learned the language. Quietly, she reviewed the notifications she had suppressed earlier. Hmm. Good.
+
+Runic Script has reached level 22.Sage of Learning has reached level 19.Reading has reached level 11 (+2).
+
+***
+
+“What would you like to do, Malika?” Ali asked. They sat around the campfire under the stars where Mato had provided them all with a warm dinner. Ryn chatted with Hala about life in the village of Kezda, and Mato was discussing combat forms with Basir.
+
+“I think I’d like to return to Kezda with Elder Rezan and his disciples so that I can heal,” she answered thoughtfully. “I will return when I’m recovered. I assume you’ll need to return home soon?”
+
+“Yes, I have only four more days,” she said. She was excruciatingly aware of the passage of time, as tracked by her domain withdrawal, and getting back to her domain was becoming more and more urgent now that Malika was not in imminent danger of dying. “We’ll go to Vertias in the morning so that we can return some of the maps Ryn borrowed and I’ll teleport home from there.”
+
+“Ali, before you go, I have a favor to ask,” Malika said.
+
+Not quite sure what Malika had in mind, especially given that she rarely asked for anything for herself, Ali simply followed her as she led the way down the trail for a few moments.
+
+“This is peacebloom,” Malika said, pointing at the patch of beautiful tiny white flowers growing on the ground. “My mom always said that wherever peacebloom grew, peace was sure to follow.” She looked at her, eyes full of emotion. “Would you learn it for me? It would remind me of home.”
+
+Peacebloom – Wildflower – level 4 (Soul)
+
+Soul! I like that. “Of course,” Ali agreed, as she would have done anyway. Carefully, she deconstructed several patches of the tiny white flowers, enjoying the soft scent of their delicate perfume.
+
+Variant: Peacebloom added to Imprint: Wildflower.
+
+“I’ll plant some around the shrine when I get home,” Ali said, happy to see a small smile appear on Malika’s lips.
+
+***
+
+You have been afflicted with Domain Withdrawal.Separation from your domain weakens you.-10% to maximum health.Affliction – Duration: Indefinite. Count: 6
+
+It was the longest she had been outside of her domain since being dropped into the Ruins of Dal’mohra, and Ali found herself becoming rather anxious as she flew Ryn and Mato up to the gates at Vertias.
+
+The guards seemed bored, as might be expected, demanding a few coppers for entrance, but rather than worry about their mildly rude behavior, Ali studied the city a little. She had been far too preoccupied the first time through.
+
+It was called a city, but she decided it was likely smaller than Myrin’s Keep. What made it stand out were the massive stone walls, clearly the result of a powerful stone crafter or earth mage, and the fact that it had a teleportation locus. Without a source of magicite to power them, things like teleportation circles must have cost a fortune to install.
+
+I’m just glad Malika is going to be ok. She had been sad to say goodbye, but after the fear of losing her friend, a couple of days or weeks apart would not be so bad.
+
+“Do you guys still have a potion of recall?” Ali asked Ryn and Mato after they had finished their business in the city. Something she should probably have thought to ask before they left.
+
+“I have one,” Mato said. “But it will probably cost me the entire day to repay the mana debt.”
+
+“I can cover it,” Ali answered. With Inspiration and her large pool of mana, it shouldn’t take her too long.
+
+“I don’t have one,” Ryn said, “but my teleport doesn’t have a range limit, I can just return to the library directly.”
+
+“I’m jealous!” Ali said. “My teleport is nineteen meters.”
+
+“Oh, Ali,” Ryn said, feigning a completely innocent expression, “do you think there’s a library in this city?”
+
+Ooh! “We should definitely check,” Ali said excitedly. “Let’s do that first.” But then the reality of her situation reasserted itself, checking her mood. “Oh, but I don’t have any gold for a membership. I spent it all to get here.”
+
+“It’s ok,” Ryn said. “They will probably let me check the catalog for free, and I can bind it as a teleport location for my skill. I can come back whenever we have the money.”
+
+“You can just make some coins, can’t you?” Mato asked.
+
+“Oh, right,” Ali said. Finding a spot out of sight, Ali wielded her Grimoire to fill the coin purse and handed it to Ryn.
+
+“That’s… amazing,” Ryn said, her eyes wider.
+
+Sinking to one knee, Mato threw his arm over Ali’s shoulders – startling her – and drawled, “Ryn, have you met my portable gold mine? She’s totally loaded.”
+
+“Mato!” Ali gasped, as Ryn cracked up laughing.
+
+“What’d I say?” he chortled.
+
+Well, back in the day that might have been a spicy comment but, Ali realized now, three thousand years had passed and so much had changed. Not wanting to spoil his ebullient mood over Malika’s recovery, she said, “I’m telling your mother on you, you rascal. Let’s go look for the library.”
+
+With only a few quick questions, they located the library and very soon, Ali found herself inside an imposing stone building, an elegant rectangle built around a shady inner courtyard that had benches and nooks set up for reading. Tasteful. Perhaps I should take notes for the Grand Library… She had taken the time to memorize the Vertias Teleportation Locus, which surprisingly was situated in an antechamber attached to the library – a fact she had been too busy to notice the first time around. She had no idea when, or even if she would ever need the locus, but she assumed it may prove handy in the future. If nothing else, Malika might well want to return and revisit Kezda.
+
+“I’m going to stay and browse the catalog for a while,” Ryn said. “I’ll meet you back at the library later?”
+
+“Ok, see you soon,” Ali answered, and with that, she and Mato used their last recall potions to return to the Novaspark Academy of Magic receiving room.
+
+Ali paid more than four thousand mana to cover their teleport in one go, much to the surprise of the official, and then both of them headed out.
+
+“That’s convenient,” Mato said, grinning broadly.
+
+“Let’s replace our recall potions, and then head home,” Ali said.
+
+“Ok, rich girl.”
+
+She shot him a raised eyebrow.
+
+“If I turn you upside down and shake you, do coins fall out? Or flowers?”
+
+“Mato!”
+
+Simmering inside at his outrageous teasing, Ali nonetheless smiled up at the Beastkin. Oh, he definitely had a soft spot for Malika, she was sure – Mato’s big heart had been on full display for the last week. Still, she realized something else. To have a friend like him at your back was a gift all the gold in the world could not buy.

@@ -1,0 +1,295 @@
+---
+id: 237085d7-717d-5e02-acac-b209cf6cb498
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1: A Meeting at the Grand Library Arcana"
+slug: 0001-chapter-1-a-meeting-at-the-grand-library-arcana
+partOf: dungeon-of-knowledge-complete
+position: 1
+ownLength: 5061
+unit: words
+ownProgress: 5061
+publishedAt: 2024-01-29
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1499133/chapter-1-a-meeting-at-the-grand-library-arcana"
+royalRoadId: "1499133"
+markedReadAt: "2026-06-29T20:11:02.984Z"
+---
+
+Aliandra
+
+I’m late!
+
+Ali charged the length of her apartment at breakneck speed, snatching up the few essentials by the door: the letter, her enchanted communication panel, and most importantly, her library card. She paused just long enough to mist her hanging orchid with a little revitalizing boost of nature mana before she stuffed one arm into the sleeve of her warm coat, yanked the door open, and rushed out. She shoved the door shut with a foot, but it got away from her and slammed with a loud bang that would most certainly earn her a nasty message from the nosy Humans living downstairs.
+
+She took the narrow stairs two at a time and leapt onto the patiently waiting disk hovering above the pavement at the bottom. She slipped and landed sideways, the panel and her library card slipping from her hands and clattering across the hard surface, but fortunately this transport platform was made to accommodate the larger races, and she was able to catch her things before they spilled out into the street.
+
+“Go!” she said.
+
+Purple runes lit up around the edge of the platform, making it hum and rise higher above the ground as the warm rush of nearby active mana washed over her skin. The disk turned, accelerating smoothly as it shot out to merge with the traffic.
+
+Ali took a breath.
+
+It was a good thing she had scheduled the transport yesterday. Getting lost in a good book and missing her appointment with the Head of Magical Research at the Grand Library Arcana was not the recommended way to make a good first impression.
+
+Her faculty t-shirt was doing nothing to break the chill of the wind rushing past as her transport banked into the main arterial boulevard and the traffic of thousands of commuters rushing back and forth. But as she wrestled with her coat, she caught her stunted wings on the edge of the wing-slots, wrenching them painfully. She winced. She should have known better – she always managed to catch the useless things on nearly everything, especially when she was rushing. She twisted, finally getting them to slip through and pulled the coat closed against the cold.
+
+Do I have everything?
+
+She turned the rectangular communication panel on, verifying that the enchantments were still charged with mana and shoved it into her coat pocket. She straightened the cover letter from the dean of the university and stuffed it in the same pocket, and then picked up the shiny platinum card embossed with the library insignia on one side, and several enchanted runes on the other. Without her library card, she would not be able to even enter. At the touch of her fingers, the runes on the card activated, projecting a few glowing silvery lines of text and an image of herself into the air above it.
+
+Name: Aliandra Amariel.Race: Fae.Access: Research Assistant, Unclassed.
+
+She didn’t love the image they had recorded of her, but she was going to need to replace the card when she affixed her Class anyway.
+
+Finally, her heart slowed to a more normal pace, and her breathing eased up. I’m going to make it, she thought. It would be close, but she would be on time. Elegantly crafted buildings whipped by on either side – Dal’mohra boasted some of the best stone- and metal-mages on the continent, and the sheer wealth and power of the grand city was on display in every artifice and construction. Thousands of magical vehicles and platforms flowed through the spotless streets like lifeblood through arteries, invigorating all reaches of the city. Overhead, the blazing solar orbs hovered, powered by the giant mana condensers a level below, radiating soft yellow light and warmth down upon the bustling city nestled in its deep underground cavern.
+
+The backdrop of chaotic busyness blended into a familiar symphony of order – that emergent sense of purpose woven from the fabric of the city. It was that pervasive and exhilarating heartbeat, the very essence of Dal’mohra, which had always resonated so deeply with her.
+
+Mana Sense prickled just a fraction of a second before her communication panel vibrated in her pocket. She reached in and pulled it out.
+
+“Mom: Don’t forget dinner tonight at my place.”
+
+“Yes mom,” she sent.
+
+“Mom: I invited some of the Faculty. They will be excellent contacts when you’re looking for a job after you earn your Class. Can you stop by the bakery and pick up a cake for dessert?”
+
+“Sure.”
+
+Ali had been hoping for a quiet dinner with her mom and dad, a chance to catch up and maybe some private discussion about her options, but her mother was always trying to ‘look out for her future’ with plans and engagements. Contacts and networking. She probably shouldn’t have been all that surprised. But it was a problem for later.
+
+Her transport disk slowed and eventually slid to a halt at the entrance to the grand plaza, depositing her at the feet of the three kings – Artur Dragonsworn wielding his flaming legendary sword, Bragni Doomhammer with his massive mithril Hammer of Justice, and Thaldorien Stormshaper with his piercing eyes focused on the distance, casting lightning from his outstretched fingers. All three were legends in their own time, and the kings of Dal’mohra, rendered far larger than life in gorgeous marble embellished with expensive enchantments to depict their magical affinities. The three faced outward, watching over the residential district of Dal’mohra, and the artist had contrived to grant them that far-off stare of heroes.
+
+Ali’s eyes lingered a little longer on the Elf-king, Thaldorien Stormshaper. A phenomenal archmage of incredible wisdom and knowledge. A man who, in his youth, had added the creation of the Grand Library Arcana to his impressive list of achievements. She remembered him as a kindly Elf who had encouraged an eight-year-old Ali to follow her dreams to study magic. It had not occurred to her till many years later that one of the kings visiting your mother was something remarkable.
+
+She stepped off her transport, releasing it back into the traffic. A sudden chill caught her, sending goosebumps running down the back of her arms. Quickly, she buttoned her coat and set off to negotiate her way through the throngs of people gathered on the plaza, trying to ignore the delightful medley of aromas arising from the vendors with their colorful food carts.
+
+She struggled a little through the press of Dwarves, Elves, and Humans, all towering over her. Students, researchers, and visitors dressed in outfits she could not even place. But most of them moved when she called out, and she didn’t get stepped on, or tripped over this time. And when she finally emerged from the crowds, she beheld the magnificent edifice rising before her.
+
+The Grand Library Arcana.
+
+It was the world’s preeminent library, easily surpassing even the Sun Elves’ storied Library of Light at Aalion. There were more books here than anywhere in the entire realm, including an unmatched collection of the most advanced magical works and knowledge. More importantly, scholars and sages journeyed from far and wide to study in these vaunted halls. The very air crackled with possibility, creativity, and the heady rush of inspiration as researchers fervently toiled to unveil the secrets of the universe and the very nature of magic itself.
+
+This, more than anywhere in the vast and infinite expanse of the realms, was where she belonged.
+
+The towering cylindrical edifice of enchanted stone rose up from the ground, vanishing into the darkness – far above even the floating solar orbs. She knew it spanned the full extent of Dal’mohra, from the bedrock three city levels below all the way up to the surface far above. Glowing runes circled the outside of the building, illuminating the relief sculpted murals upon the walls, and the immense doors of black stone stood open, inviting her to enter.
+
+Ever since she had begged her parents for a library card as a child, she had visited every chance she got. Every time, it took her breath away.
+
+She took a step forward, approaching the hallowed chambers she knew to be filled with hushed patrons seeking information, soft illumination, and the indefinable scent of parchment, ink, and the weight of knowledge.
+
+Suddenly something huge and gleaming slithered out in front of her, blocking her way. Looped in heavy muscular coils, his bronze-scaled serpent body shone in the magical light. Four powerful arms folded across his broad chest and a surprisingly human-like face looked down at her from more than three meters above. Minus the scales, of course. Double membranes blinked across his vertically slit reptilian eyes and a forked tongue flickered between razor-sharp fangs.
+
+“What is thisss? A Fae creature? Are you to be my sssnack?” His powerful voice resonated with an exaggerated sibilant hissing undertone. Four matching scimitars were worn across his back, their leather-bound grips poking out above his shoulders.
+
+“I have this,” she declared, brandishing her library card. “And I’m not afraid to use it!”
+
+“Oh no! The dreaded library card of legends!” he exclaimed. And then his mock-serious face cracked into a broad grin. “Hi Ali.”
+
+“Hi Armand, how’s the guard gig treating you?”
+
+“It’s awesome! I hit level seven yesterday!”
+
+“What? In only a month?” Ali trickled just a little mana into her Identify skill and directed it at the giant before her. A soft chime sounded in her mind and a short notification appeared.
+
+Warrior – Desert Naga – level ?
+
+Already I can’t identify his level, she thought, but she hid her frown, not wanting to take away from Armand’s excitement. Either she needed to practice her skill more, or… I really need to unlock my Class soon.
+
+“Yup, my mentor said I’m progressing really fast. Soon I’ll hit level ten and then you’ll see two marks instead of one!”
+
+“Is that when my all-powerful library card will stop working?” she asked.
+
+He chuckled happily. But then his voice grew serious, “She said she will take me on a dungeon run when I hit ten to level up faster.”
+
+“That’s… uh, great?” Ali said. Obviously, a combat class like his would need to go delving or monster hunting, she knew that, but the very idea still made her heart jump against her ribs and her breath hitch in her chest. “Be careful, please?” She was just glad she would never have to deal with something as scary as a dungeon.
+
+“I know, Ali. I will. And she said she will come with me and keep me safe,” Armand said, but then his smile returned. “When are you getting your Class?”
+
+“I just unlocked my primary class slot yesterday!” she said. She had been expecting it for a couple of months now but waking up to see that notification had filled her with such excitement. Probably she had annoyed her family with all the messages, but they had let her enjoy it. “Dad said he’ll unlock me as soon as I settle on a trial. A week. Two at the most.”
+
+“You going to unlock at your dad’s shrine? It’s so cool he has that. Much respect to your family for offering its services for free.”
+
+“Yes, and thank you,” Ali said. She dearly loved the Grove with the shrine, and she had spent so much of her youth playing in her father’s forest, or lying under the trees with a good book until the sun set and it grew too cold. But lately she had been so busy with studying to earn the Class she wanted that she hadn’t had any time to go topside and visit him.
+
+“Well, good luck Ali. Professor Maeria Runeweaver arrived just a few minutes ago, and she’s probably waiting for you inside.”
+
+“Oh!” Ali’s eyes widened suddenly as Armand reminded her this wasn’t a social visit. “Chat later!”
+
+“Seize the future, Ali,” Armand said, pressing his lower pair of hands together just below his heart and bowing his head as she rushed towards the yawning darkness of the giant arched doors and the dim light of the legendary library beyond.
+
+Despite the urgency driving her haste, she paused upon the threshold and took a deep breath.
+
+Some things should not be rushed.
+
+Warm and dry air filled her lungs, teasing her nostrils with the scent of parchment, ancient books, and the anticipation that had never diminished as she stood staring into the library. At her feet, thousands of purple runes glowed, a tiny segment of the ancient runic circle that wreathed the entire library in its profound enchantment. She recognized a rune here and there – the simpler ones – from her studies. But the vast majority lay far beyond her current abilities.
+
+Once I unlock my Class…
+
+For an instant, a chill breeze caught her, sending cold shivers and goosebumps down her neck and back, but her coat was tightly buttoned and the actual air emanating from the library was warm as usual.
+
+What was that?
+
+But the sensation vanished, leaving her puzzled – and blocking the doorway. And she would still be late if she stood here woolgathering.
+
+The feeling as she stepped across the runes and into the library was just as incredible as always. An electrifying power rippled across her skin as if she had walked through a veil of pure energy. Her heart suddenly beat a little faster, the library grew lighter, colors deepened, and the familiar scent of ancient books filled her nostrils as she breathed deeply.
+
+Aah, magic. She could never get tired of this feeling. Her Mana Sense did not react so strongly to ordinary magic, but the library’s runic circle was legendary grade magic, powered by the full output of two of the giant mana condensers, and inscribed into the stone foundations using the most advanced rune magic known to the foremost scholars and archmages. She had heard many of the professors at the university – and the visiting scholars too – describe it as one of the wonders of the modern world. Researchers and mages traveled across continents just to study in these halls.
+
+And one day, I will understand it. It was the promise she made to herself every time she stepped through this doorway. In the back of her mind, two soft chimes sounded, and two notifications appeared.
+
+You have entered the Grand Library Arcana.
+
+All Learning and Knowledge magic is enhanced by 10%
+
+All the tension from the last half hour of frantic rushing drained away. Her head tilted back as she stared up at the soaring bookcases that lined the walls. Great circular shelves laden with uncountable tomes lined the inner walls of the library, rising layer after layer until all she could see was the flickering light of the hundreds of clerks, librarians, assistants, and researchers darting about like fireflies in the air above.
+
+In the center lay the huge atrium, a yawning opening that led down to the lower library levels where the advanced magic texts were stored. Her eyes lingered longingly on the landing and the long spiral staircase clinging to the edge of the atrium, teasing at the extraordinary knowledge that awaited mages who had achieved sufficiently high class levels.
+
+Ali had never been down there – for an unclassed person like her, just being near many of those enchanted books would pose a mortal danger.
+
+Once I unlock my Class. She sighed, reiterating her thought like a mantra. She was so close. Only a week or two more.
+
+“Aliandra Amariel?”
+
+The voice carried the formal, cultured overtones of someone more familiar with the high Elven speech favored in many academic circles. One with which Ali was rather familiar. She turned to find a tall blonde Sun-Elf woman sitting at a long table frowning at her over expensive-looking platinum-rimmed glasses. Even at this distance, she could feel the enchantments and mana emanating from her. Holding back a little smile, she turned and answered in Elvish instead of the common language of Dal’mohra. “Yes, teacher.”
+
+Remembering to practice her Identify skill on high-level people, she used it as she stepped forward to hand her the dean’s letter.
+
+Mage – Sun Elf – level ??
+
+“You’re late,” the Elven woman said, conspicuously retaining the common language, rather than answering her in Elvish. “Come join the others and we will get started.”
+
+Ali felt the flush rising all the way to the points of her ears, but she rushed over and took a seat at the table – one of the taller chairs beside the Gnome who was glaring judgment daggers at her. Ali glanced around the table finding two Human women, one of which smiled at her and gave her a little wave, a male Dwarf, and a pair of Wood Elves that looked like twins: brother and sister. Everyone was dressed in expensive-looking robes, and she was suddenly grateful that her coat covered her far too casual t-shirt and shorts.
+
+“Now that we’re all here, my name is Maeria Runeweaver. Professor of Runic Magic at the University of Dal’mohra, and Head of Magical Research at the Grand Library Arcana. Thank you for your interest in the academic and scholar path, both the library and the university are always in need of magical researchers, assistants, librarians, and non-combat mages. So, if you unlock any class in one of these domains, you will be in good hands. I will be responsible for your Class Trials. In order to create the proper challenges so that you can earn the correct experience traits, I will need to know what sorts of classes you’re each studying for or hoping to unlock.”
+
+“Why don’t we begin with you, Dimble?” Maeria asked, gesturing toward the Gnome Ali was sitting beside.
+
+“Sure, Professor Runeweaver,” he said, bobbing his head. “I’m Dimble Bollywoggle, and I’m hoping for an engineering class. I wish to specialize in magical power couplings and my dream job is to work on improving the formations for the mana converters.” Dimble stuck his chin out and glanced askance at Ali.
+
+What’s his problem? she thought, deciding she didn’t like him much.
+
+Maeria raised an eyebrow. “I assume that you’re here instead of the engineering guild because you want to focus more on research than practical applications?”
+
+“Yes,” he answered, his head bobbing up and down so quickly Ali worried it might come loose.
+
+“Very well,” she said, jotting something down. “I will need to talk with the engineering guild regardless, I’m not as familiar with what would constitute a good trial for you.”
+
+“What about you, Ilorna?” Maeria asked, looking at the Wood Elf twin sister.
+
+“Librarian, miss,” she said, bowing her head.
+
+“Very good.”
+
+“And you, Celkor?”
+
+“Archivist,” her brother answered. “Or Librarian would do, too. I want to study Elven social and cultural anthropology.”
+
+“How about we try for both of those, and add Historian to your list? That way when you use Mr. Amariel’s shrine you’re certain to get at least one of them. If you unlock all of them, you can just pick your favorite?”
+
+“Yes, Professor Runeweaver,” Celkor said, his tone formal but his face betrayed substantial excitement.
+
+Ali got a couple of surprised looks from around the table as the more observant students put two-and-two together connecting her family name to her father’s shrine.
+
+“Aliandra?” Maeria asked, still finishing up her notetaking.
+
+“Rune Sage,” she said, the words just spilling out of her mouth before she could catch them.
+
+“You’re aware that’s a rare class?” Maeria said, looking at her over the tops of her glasses.
+
+“Yes, Professor,” she answered. Whatever had possessed her to just blurt that out like that? “I meant to say, I’m interested in magical research, particularly runic magic and formations. Rune Sage is my dream class, but I would be happy with Arcane or Runic Scholar or some similar common class to start with.”
+
+“That seems more appropriate,” Maeria said. “What makes you think you could get a rare class like that right at the start? People must work to grow their skills and evolve their classes.”
+
+That was the proper official position. Rare classes were just that – rare. Very rare. Starting with a rare class was nigh impossible, and Ali knew that. It had been drilled into her from the start by every single teacher, instructor, and professor. Hard work was what paid off and grew a Class into something more. But… Is it so bad to dream?
+
+“I have a nature and arcane affinity already, and two cantrip spells as general skills. I can create all the foundational arcane runes, and most of the nature ones. Obviously, I can’t imbue them with mana yet…” her words trailed off as she realized everyone was staring at her.
+
+“So unfair,” Dimble muttered. “How does she have an affinity already?”
+
+“Be nice, Dimble,” Maeria said. “The Fae are a magical race, they sometimes unlock affinities and spells before their Class. They have real disadvantages that you don’t have to worry about too.” And then Maeria turned to regard Ali for a long moment. “So, you are Elowynn Amariel’s daughter?”
+
+Ali nodded.
+
+“Would you mind showing me your magic?”
+
+“Uh… ok,” she answered. She hadn’t expected to have to do a demonstration, but she didn’t mind. She never minded using her magic – even as weak as it was. She frowned a little as she saw Dimble staring, but she trickled a little of her mana into her Arcane Cantrip skill. Warmth surged from her heart, flowing smoothly through her chest and down her arm to emerge before her outstretched fingers as a growing spark of shining golden energy. She ignored the sharp intake of breath from across the table and just focused on directing her magic, sculpting it in the air with her mind until she had formed the first rune her mother had taught her: the foundational arcane power rune.
+
+“It’s gold…” someone whispered.
+
+It hung there, floating in the air, a construct of pure mana. It sparkled. It was a silly thing, a childish vanity perhaps, but she had always loved that her arcane mana matched her amber eyes, while her nature mana matched her hair.
+
+“Excellent,” Maeria said. “You said you have two spells?”
+
+“The other one is a nature affinity cantrip that lets me influence the growth of plants,” she said. Almost certainly she had inherited that affinity from her father. However, it had been Aunt Lira and the Dryadic insight of her tree that had inspired Ali to take her first steps along the path of nature magic. She mostly just used it to encourage the wildflowers in the Grove to bloom, but lately she had been limited to using it on the potted plants in her apartment.
+
+“We can take a look at that one later. Perhaps aiming for an advanced rune magic class is not such a bad idea for you,” Maeria said, pausing momentarily in thought, and then making some rapid notes. “My book, Advanced Classes for the Runic Scholar, is up on the third row, four across. You’re a Fae, why don’t you zip up there and get it quickly? Look for the white book with purple runes on the spine.”
+
+Maeria’s words hit like a sudden gut-punch. Blood drained from Ali’s face while the voices and lights faded to a dull background roar. She gasped as everyone stared at her, curling up inside herself, desperately wishing the ground would open up and swallow her whole.
+
+“What’s wrong?” Maeria, asked, suddenly looking up. “It’s just up there.” She pointed to the bookshelf that hung more than fifteen meters above them.
+
+It might as well have been on another planet.
+
+“I can’t fly,” Ali whispered, the words barely leaving her lips before she tried to swallow them back. But the tiny sound of her voice was a clarion bell alerting everyone to her shame. Her stubby golden wings had never developed properly. Now they jutted out from the back of her coat, a painful reminder that what should have been a beautiful hallmark of her race was instead a beacon for childhood bullies and later, adult pity.
+
+Maeria Runeweaver gasped, her hand flying to her mouth as her eyes widened in shock. “I… I am so sorry,” she said. “Aliandra, please, I didn’t mean…”
+
+She seemed to be in such distress that it shocked Ali right out of her own dark emotional pit. “It’s ok… you didn’t know,” she managed.
+
+“I’m really sorry, Aliandra,” Maeria said, clearly trying to collect herself. “Here, let me get it for you. I still want you to read it.”
+
+Ali’s Mana Sense prickled with an invigorating energy that suddenly rushed through her like a fresh warm breeze. Purple runes flickered into existence around Maeria’s hand and something barely visible shot out toward the shelf far above. A white book with purple runic inscriptions extracted itself from among its peers and flew back down to alight upon the table before Ali.
+
+Ali blinked in astonishment at the casual use of runic magic.
+
+“Telekinesis via runic casting,” Maeria said, a peace offering of a sort. “One of the benefits of the Class you so desire.”
+
+“That was beautiful,” Ali said, her body still trembling from her slowly fading emotional overload. She’s a Rune Sage? She glanced down at the white book before her, bearing Maeria Runeweaver’s name.
+
+“Why don’t you start reading that while I finish with everyone else?”
+
+Ali nodded, grateful for the distraction, and opened the cover while Maeria worked her way through the rest of the hopefuls sitting around the table. Each chapter covered a class, including expected class skills, directions for growth, known requirements for unlocking it, and generally everything someone like Maeria may need in order to help her with her pre-class trial. Common classes such as Runic Scholar near the front of the book had detailed information, drawn from the research of thousands of people, but as she approached the less common classes near the end of the book, the content grew progressively more speculative.
+
+She turned the page and froze as her eyes drank in the words that leapt from the page.
+
+Runic Sage. Rare. At the time of writing, the author is aware of only eleven class-holders and was only able to secure six for study. A powerful non-combat, arcane-affinity magic class focused heavily on creative application and research of runic magic and formations. It appears to be based on a strong foundation of Intelligence and the Knowledge trait. Known skills include Runic Formations, Rune Casting, Inscription, Runic Script, Craft Runic Artifact, Runic Circle, Mana Circuit Comprehension, and various forms of mental haste or knowledge enhancement buffs. Broader arcane affinity related skills such as Mana Sight, Flying, or various forms of Teleportation have also been observed.
+
+Requirements: Unknown. At the very least, a strong affinity for arcane magic and understanding of runes has always been present before unlocking the class, but there are too few examples to draw any further conclusions.
+
+All her life Ali had been aware that her mother and father were quite well regarded in Dal’mohra, but it was only when she had started at the university that she had truly begun to appreciate the sheer importance of her mother’s research. While she would be unable to aspire to her mother’s unique Class, Rune Sage would at least allow her to take her first steps down that path.
+
+Before diving into the details laid out before her, Ali flickered a little mana into her Arcane Cantrip. One golden rune appeared hovering around her hand as she clung fervently to the intricate image of Maeria Runeweaver’s telekinesis spell. More mana, and a second rune appeared. She bit her lip, her brow furrowed in concentration, and forced a little more mana into her skill. A golden blob appeared. She willed it into shape, but it wobbled precariously in the air, refusing to comply. She focused all her will on it, forcing it into shape, but as she did, the other two runes popped, falling to the table as golden glitter.
+
+With the crazy emotional rollercoaster her day had become, what should have been a minor setback caused her throat to close up, and she blinked away sudden moisture in her eyes.
+
+“That was a pretty good effort, Aliandra,” Maeria said. “Don’t give up, that’s a fantastic way to work toward your class.”
+
+She was about to answer, but at that very moment, a deathly chill washed over her. Her body froze, and it was as if she stood on the precipice of her own suddenly opened grave. She gasped at the sudden ominous premonition.
+
+“Did… you feel… that?” she managed.
+
+“What?”
+
+Suddenly a heavy thump echoed up from the bottom of the atrium and the entire building shuddered.
+
+Gasps sounded from the table, and a distant scream rose from a level below. Wide eyes stared at each other uncomprehendingly.
+
+And then the lights went out.
+
+Another scream. This one, far closer.
+
+Glowing red orbs popped into existence floating all through the library, casting it in a strangely terrifying light. And then a siren began wailing and an enchanted voice echoed through the library.
+
+“Alert. Dal’mohra is under attack. Return to your homes and shelter in place. The Guard is deployed, and the barrier domes are active. Do not panic.”
+
+Another thump shook the library, jarring the stone underfoot and knocking books from their high shelves.
+
+“Let’s all not panic,” Maeria said. But her wide eyes and shallow breathing were anything but reassuring.
+
+And then the cold sepulchral pressure suddenly spiked as the air behind the Professor ripped like an invisible knife had slashed downward through the fabric of reality.
+
+Before Ali could even move, a half a meter of darkly gleaming steel suddenly burst out from the front of Maeria Runeweaver’s chest. The front of her robe suddenly turned red as her eyes widened in shock. Her throat worked once, then twice, but the only sound that emerged was a sucking gurgle. Blood spilled from her lips, and her eyes rolled back in her head as she slowly slid forward, slumping to the ground.
+
+The skeleton behind her stepped on her back, and drew the sword out, and then turned the glowing red pinpricks of mana burning in its eye sockets upon her.
+
+Ali screamed.

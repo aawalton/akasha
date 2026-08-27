@@ -1,0 +1,123 @@
+---
+id: 4d791449-6ba1-593e-a669-2c84aaec6fb8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 212: The Temple of Aman Rak (Part 2)"
+slug: 0230-chapter-212-the-temple-of-aman-rak-part-2
+partOf: dungeon-of-knowledge-complete
+position: 230
+ownLength: 2224
+unit: words
+ownProgress: 2224
+publishedAt: 2025-03-18
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2134527/chapter-212-the-temple-of-aman-rak-part-2"
+royalRoadId: "2134527"
+markedReadAt: "2026-06-29T20:18:57.341Z"
+---
+
+Ali picked herself up off the damp jungle floor, still trembling like a leaf from the sudden shock of stumbling into Nevyn Eld up close and unprepared, her senses wracked and shaken by the devastating aura of fear and dread that clung to him like an ominous second shadow. Up ahead, along the path where the Blind Lich had emerged from the jungle, she saw the still-smoking remains of trees and undergrowth, and the impact craters of the insane fire and lightning magic Lyeneru had unleashed upon him in the violent intensity of their brief clash.
+
+“Are you ok, Ali?” Malika asked again, looking nearly as shaken as she felt.
+
+“I wasn’t ready… for that,” Ali admitted. It was always a challenge to fly with her minions, and Ryn had not been able to transport much more than just her and Mato to the truly magnificent Ciradyl Grand Library, so she had been caught flat-footed outside her dungeon with none of her minions available to defend her, and no enhancements from her magical buff skills. It was a mistake, and one she resolved never to make again. She shouldn’t have made it this time. I know better.
+
+“It’s ok, he’s gone,” Mato said, helping her up.
+
+Ali dusted herself off, glancing about, heart still hammering behind her sternum. The Lich and Lyeneru’s clash had shaken the forest like thunder, and although they were most certainly a long way off by now, she worried about the ranks of undead in the remains of the troll city behind them. But, after a few moments passed in silence, she decided that somehow, miraculously, they had not been heard and it seemed like they would not be immediately swarmed.
+
+But as soon as she had finished the thought, Calen called out a low warning.
+
+“Something is coming,” he whispered, his eyes surprisingly intent on the path ahead that led up the mountain pass to what had to be the rest of the Temple of Aman Rak rather than back toward the ranks of the waiting undead army. The path that led deeper into the dungeon.
+
+“What is it?” Malika asked, her voice pitched low.
+
+“Undead,” Mato said. “I can smell them.”
+
+Ali searched the thick press of entwined tree branches, the rampant overgrown vines and bushes, and the choking weight of abundant moss and orchids along the winding dirt path for what Calen had seen, reaching automatically for the senses of her minions to help her search, only to be abruptly reminded that she hadn’t brought any. The path and the jungle ahead were steeped in pervasive dense mana – a familiar jagged, somehow sharp-edged, dark gray mana entwined with a dense viscous red that twisted in fluid-like tendrils and ribbons, binding together in a structure and pattern she had never seen before – forming something that could only be…
+
+A dungeon’s domain.
+
+The dark gray mana was sharper, denser, and stronger than the bone-affinity mana from the Ruins of Dal’mohra dungeon they had defeated so long ago, but without a doubt, it was the same affinity. The dense viscous red was the same blood-affinity mana that flowed in her Abyssal Stalkers and Vampire Hornets, and the many other demonic denizens of the Abyssal Realm, only without the demonic traits or hellfire aspect.
+
+Then she saw it. Ali didn’t see the skeletons at first, but the death mana that animated them was unmistakable, clashing against the structured backdrop of the domain. An ominously dense black core that bound the animating necromancy to the pile of dead troll bones – a mana that was distinct and separate from the dungeon itself. Two tall, stooped skeletons shuffled their way along the jungle path, breaking into a shambling, clacking run the moment they saw Mato shifting into his Bear Form. They had clearly once been trolls, standing a head taller than Mato in Beastkin form or Calen, even with their hunched posture. The three-toed feet and three-fingered hands gave away their original race just as clearly as the large tusks protruding from their skeletal jaws.
+
+Warrior – Troll Skeleton – level 41-43 x2
+
+Mato’s roar signaled the beginning of the battle as he crashed into the undead minions of the Lich and Ali suddenly found herself thrust into combat with no minions at her disposal. She didn’t even have her old Arcane Bolt spell – all she could do was fire sharpened shards of barrier magic. But her barrier shards passed through the gaps between the bones of the skeletons more often than not, doing almost no damage.
+
+“I need minions,” Ali said.
+
+“Make them,” Calen said, his bow striking a regular twanging rhythm. “We can cover you. Quick.”
+
+Mato had both skeletons locked on him, and between him and Malika it seemed that he was not in any danger of dying. However, without the Healer’s Sight skill of her Acolytes, Ali was unable to get an accurate sense of his health. All she could tell was that his restoration magic was running at full power, and he was filling the battlefield with roots and brambles that twisted and twined around ankle bones and legs.
+
+He's fine, Ali thought, deciding that she could rely on Malika to keep him alive for the moment. She opened her Grimoire mid-battle and began summoning, using her leftover mental capacity to keep up her ineffective barrier shard attacks. The first thing she summoned was an Acolyte of Azryet, and the instant it appeared, she slipped her awareness into its senses, confirming that indeed Mato was healthy.
+
+“Another skeleton is coming,” Calen announced. At his words, Ali glanced up and identified another dense knot of death magic approaching through the trees.
+
+“I can heal Mato now, Malika,” Ali said, letting Malika focus on punching and kicking instead of healing so much. Quickly, she chose her Acolyte as her first target for Empowered Summoner, and her mana pool instantly expanded. It felt like a good stretch first thing in the morning, reminding her just how cramped she was without her full capacity. It was just her maximum mana that expanded – she would still need to regenerate it all to full – but it still felt like coming home.
+
+She summoned a Hellfire Imp next and enhanced her intelligence attribute using it while still keeping a close eye on the fight. Several more skeletons had already emerged from the forest, shambling out into the open one by one, but she was ready to make some combat minions. At least, ones that wouldn’t blow up her friends with hellfire.
+
+Almost by instinct, she found herself turning to the Kobold Fire Mage imprint – the last time she had fought the undead, she had found blowing them up to be the most effective.
+
+What are you doing, Ali? she told herself. You have dragons!
+
+Changing tack, she flipped to the Dragon imprint and summoned an Armored Drake. The majestic, crimson-scaled beast appeared, filling the entire pathway. Grass and nearby leaves singed from the ambient heat of its mere presence. It fixed her with a piercing gaze and let out a low rumbling growl.
+
+“Kill the undead,” she commanded, sending it charging into the fray, and instantly the tide of the battle turned.
+
+“Now that’s a fantastic choice,” Calen said. Neither Ali’s barrier magic nor Calen’s arrows were particularly suited to killing animated skeletons, so till now it had just been Malika and Mato who were having an impact. But as soon as her drake charged in, it knocked one skeleton flying, breathed fire on the rest, and unleashed a devasting cleave with its talons that sent bone splinters flying with explosive force.
+
+Ali left it to its own devices, idly eavesdropping on Mato’s conversation with it as the two of them coordinated tactics, and concentrated on her magic. After a while, the battle ebbed to a close leaving a pile of smoking bones amid the receding vines, but Ali didn’t stop summoning. She didn’t want to be caught feeling useless and vulnerable again. Mato’s roots and vines reminded her that they were outside in a jungle, and she could use her Forest Guardian once again.
+
+Armored Drake – Dragon – level 68 (Fire)Forest Guardian – Elemental – level 50 (Nature)Hellfire Imp – Demon – level 55 (Hellfire)Abyssal Stalker – Demonic Spider – level 45 (Blood) x2Hellfire Warg – Demonic Wolf – level 53-55 (Hellfire) x2Warrior – Hobgoblin – level 43-44 x2Acolyte of Azryet – Kobold – level 21-23 (Holy) x4Your reserved mana has increased by +2271.
+
+With all her minions back home, Ali’s total mana reservation shot up to well over nine thousand, but that still left her with a comfortable four thousand mana free to work with. She would have liked to summon another drake or guardian, but the two runic circles linking Naia’s dungeon to her library cost a little more than a Forest Guardian each to maintain. And there was no way she was depopulating her domain defenses.
+
+But it’s worth it. Ali flickered her awareness back to the library, half a continent away, finding that Naia had already returned to her own dungeon, and on a whim, she sent several of her Glitter Dragonets through the teleportation circle so that she could have some eyes roosting in Naia’s cavern. She smiled to see the little blue slime already busy summoning a new boss, right in the middle of the giant glowing lake beside the waterfall. What surprised her most though, was the sight of several of the guild adventurers – Aiden, Teagan, Havok, and Seth – standing beside the lake looking on with interest, calling out occasional suggestions.
+
+“Why the Stalkers?” Calen asked, kicking some of the smoking bones over and crouching to examine them closer. “Their blood magic doesn’t work on undead, right?”
+
+“I don’t think those skeletons were dungeon minions,” Ali answered. “They were animated by death mana, and it didn’t seem connected to the dungeon’s domain at all.”
+
+“So, where did they come from?” he asked, not questioning her observation.
+
+“Eld?” It was a good question, but the brief presence of the Lich answered it quite definitively in Ali’s mind. He was a necromancer, capable of summoning and binding Death Knights to his service. The skeletal remnants of the inhabitants of Aman Rak had to be a part of his nefarious scheme somehow.
+
+“Probably,” Calen nodded, agreeing with her deduction. “Keep an eye out then, we still don’t know what kind of monsters this dungeon makes.”
+
+Malika nodded. “Not at all terrifying that an entire Troll nation has fallen, right?”
+
+“We don’t know that for certain,” Calen disagreed, but his tone was resigned rather than helpful. Certainly, it seemed dire if Nevyn Eld himself had come.
+
+While the others recovered their stamina, Ali added a couple of interesting trees and vines to her Grimoire, using the deconstruction to finally replenish her mana. Then, she pulled out a couple of trays of multicolored potions she had purchased at the Pathfinder Guild shop and deconstructed those too.
+
+Variant: Minor Stamina Potion added to Imprint: Potion.Variant: Minor Elixir of Agility added to Imprint: Potion. Variant: Minor Elixir of Strength added to Imprint: Potion.
+
+After that, she created a spread of potions which she shared with her friends and humanoid minions, and said, “Ok, I’m ready.”
+
+“That’s moderately terrifying, Ali,” Malika said, glancing over at her Forest Guardian standing shoulder to shoulder with the enormous Armored Drake. The two of them blocked the path so thoroughly that they were crushing bushes and snapping small trees on the sides.
+
+“I just hope we don’t run into anything immune to fire,” Ali said. It was a powerful army, but it was also heavily biased towards physical and fire damage. She had a lot of melee monsters, and besides the blood magic of her Stalkers, all her magical attacks were fire-based. But, as she had discovered against the Corrupted Fire Drake, the glaring weakness was her vastly underleveled Acolytes.
+
+“Fire seems like a good default choice,” Calen approved. “Especially against blood and bone.”
+
+“I wish I had better healers,” Ali said. It was not the first time she had worried about this, her Acolytes had served her well so far, but their magic was simply not keeping up with the demands of higher-level combat and the vastly larger health pools of her newer monsters. She really liked Naia, but she was definitely jealous of her ability to level her oozes up in combat.
+
+“Your Kobolds are great,” Malika said, offering encouragement.
+
+“This way,” Calen said, leading them onward into the dungeon itself. “Lyeneru will want to know what’s in here when she gets back.”
+
+If she gets back, Ali thought, catching Malika’s gaze, but she left it unsaid. Nevyn Eld was a terrifying foe, and it was not obvious that even the Legendary Pathfinder herself would be able to escape the clutches of his devastating death magic. Again, we seemed inconsequential to him.
+
+Malika puffed out her cheeks. “Let’s do that.”
+
+Nothing I can do about Nevyn Eld right now, Ali thought, putting the epic battle between the two unimaginably powerful entities out of her mind. It was a battle well beyond herself, and she would need to focus on the dungeon before her. She followed along behind Calen as they headed into the jungle.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

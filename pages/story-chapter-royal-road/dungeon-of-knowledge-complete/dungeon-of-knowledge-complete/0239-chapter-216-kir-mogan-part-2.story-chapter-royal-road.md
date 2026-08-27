@@ -1,0 +1,113 @@
+---
+id: 5e3673ec-2a4d-591f-8303-6ceaaf01559e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 216: Kir’mogan (Part 2)"
+slug: 0239-chapter-216-kir-mogan-part-2
+partOf: dungeon-of-knowledge-complete
+position: 239
+ownLength: 2147
+unit: words
+ownProgress: 2147
+publishedAt: 2025-03-28
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2156830/chapter-216-kirmogan-part-2"
+royalRoadId: "2156830"
+markedReadAt: "2026-06-29T20:19:16.053Z"
+---
+
+“Getting the big guy,” Calen said, raising his bow and drawing it to its fullest power.
+
+A howl of hellfire drowned out the wailing as four bright arrows shot across the clearing, delivering their searing payload to the dangerous-looking Troll party gathered by the altar and interrupting their questionable activities. Angry shouts, unintelligible to Mato’s ears, rose above the din and screaming as the boss whipped about and his minions instantly gave chase.
+
+A sudden storm of whirling axes filled the air, but Mato ignored the splintering cracks as they bounced off golden barriers. He charged. With a burst of momentum, he shot through the center of the sprinting troll group, his eyes locked onto Kir’mogan. Before the troll could raise that almighty axe, he met the boss with a loud crash out in the open, a safe distance from the horrific bone altar and its struggling sacrifice.
+
+As the shaman and warrior minions barreled past him, he lashed out in retaliation, instant crushing strikes of his claws inflicting devastating gashes and sprouting heavy tangling roots that stopped the trolls in their tracks. Instantly, a garishly painted totem appeared, and the Trolls slipped their bindings.
+
+Oh no, you don’t. Mato unleashed a Challenging Roar that echoed throughout the Bone Temple, and everything turned toward him.
+
+“Mato has them,” Calen announced calmly in the background.
+
+“This target,” Malika said, appearing beside him, her fists wreathed with blue-white light as she danced.
+
+Mato Swiped, unleashing his claws. His enhanced sense of hearing picked up the faint sizzle of ionizing air even before he heard the chime, and he saw the tiny trails of blacker-than-black. Yes! Immediately, he loaded his strike with Brutal Restoration and Bestial Combat.
+
+You have gained Azryet’s FavorThe Calamity smiles upon your actions.Your attacks gain additional Void damage on hit.Blessing – Duration: 1 second.
+
+His claws ripped through the heavy bone armor grown by the trolls, spraying blood and shards that gleamed in the mid-afternoon sunlight, the additional void magic bypassing hastily-raised shields and slicing through leather armor like gossamer veils.
+
+Thanks for the damage! In truth, it was an extremely fortuitous time to gain Azryet’s Favor. The beginning of any encounter was typically the most chaotic, unstable, and the most likely time for him to lose control of one of the monsters, resulting in a rampage through his less robust allies, and a mad scramble to recover. A clean strike locked his foes’ attention upon him as solidly as his Challenging Roar.
+
+Mato juggled positions as Ali’s minions began to arrive, flexing his mana through his aura, growing vines and roots to tangle his enemies. The Shamans reacted with more totems, ignoring his Rampant Growth; the brambles and vines magically finding no purchase on their ankles and legs. He struck again, this time his claws struggling to penetrate the armor and reach the dexterous warriors with their insane evasion.
+
+The leather stretched over Kir’mogan’s self-grown bone armor and creaked ominously as the boss drew back his giant axe. Trusting the prickle of his danger senses, Mato shifted to block the warrior’s powerful but slow overhead strike, instead taking the low slashing blade of the blood-drenched axe wielded by the shaman wearing the garishly painted red and yellow bone mask.
+
+He grunted at the impact of the greataxe crashing down on his shoulder plates, deflected to the ground, and winced as the shaman’s blade found a gap in his armor.
+
+You have been cursed with Vampiric Hex+12 blood magic damage per second.+25% vulnerability to bleeding.Attackers gain health on hit.Duration refreshed on hit with Blood Magic.Curse – Duration: 30 seconds.You have been afflicted with Bleeding.+10 damage per second.Physical – Duration: 1 minute, 20 seconds.
+
+Mato was treated to the disturbing sight of his blood trailing away in the air, sucked up by the blood-stained shaman totem planted in the ground nearby.
+
+The boss’s axe blurred, and this time Survival Instinct did not just prickle, it screamed. Mato shifted to the side, trying to block, but he was too slow to react, and the gleaming blade sliced clean through his shoulder, sundering bands of armor and ripping open a two-foot-long gash through his torso, continuing through to smash into the ground. He was launched into the air by the recoil of the crater the strike left, blood spraying into the air in a great fountain.
+
+You have been afflicted with Mortal Wounds-50% to Health gained.Physical – Duration: 30 seconds.
+
+Shit! He fooled me with that first hit. He had lost a quarter of his health in a single stroke, and, already, the dramatic reduction in his brutal restoration was taking its toll. Holy magic settled upon him, but it too was severely diminished by the Mortal Wounds debuff. But the trolls were only beginning. The three warriors began to accelerate as their haste took effect. Mato backed up slowly, desperately trying to pick out the most dangerous attacks to block as his health fell to the onslaught.
+
+Malika announced her arrival with a slap on his flank and a vast surge of healing magic that closed the gaping gash at what must have been an exorbitant cost to her stamina. “Healing reduction!” Malika shouted, clearly sensing the problem with her healing skill, and Mato obliged by sharing the Mortal Wounds details.
+
+Malika quickly tore into the masked shaman with a series of furious strikes, peeling it off him quickly, and stepping away from the group. Out of the corner of his eye, he saw all of Ali’s minions grouping up on the shaman Malika had split off, and then his attention returned, focusing on his own fight.
+
+His health had dwindled to below half before Mato realized that he was losing the battle to Mortal Wounds. Ali’s Acolytes were furiously healing him, and his Brutal Restoration was working full out, but as the powerful warrior and his minions accelerated their haste, the bleeds stacked up and his health continued to decline. With Malika fully occupied with the other shaman, there wasn’t enough healing to overcome the ridiculous debuff. He kept a close eye on that ridiculous overpowered strike that the boss could unleash, but even with the craters left on the ground, the boss still found some canny way to refresh Mortal Wounds before it expired, every single time.
+
+Reflexively, he checked his recall potion, finding it in his storage, and then he backed up a little, edging closer to Ali’s Drake and the ability to call for help. He channeled more mana into his plants, but the trolls seemed to effortlessly slip out of his grasp, barely inconvenienced by his magic, making his retreat painstakingly slow.
+
+A pulse of pure wrongness burst from the altar, crashing into his sanctuary aura, raising his hackles and making him growl. In answer, he heard the sepulchral groans that could only come from undead, and the troll corpses strewn about the altar twitched and writhed. And then they clawed their way to their feet, shambling and shuffling in all directions.
+
+He was already struggling, but he knew his friends could not handle a sudden horde of zombies, so he roared, challenging everything to attack him, just hoping he was in range of all of them. The zombies groaned and, as one, they turned toward him and added their slow but powerful attacks to the hasted strikes of the warriors and the gruesome bloody slashes of the second shaman.
+
+I need to do something. But nothing came to mind. His health was falling faster now, but the drake remained beyond his range. Still, he backed up, progressing slowly under the continuous pressure, trying to maneuver his enemies so they couldn’t surround him. As his health fell, it became increasingly risky to spend health to power Bestial Combat, and that meant he couldn’t use his armor penetration, which compounded into less damage and smaller healing from his restoration. His only option was Last Stand, and if he used that now, he would just die later when the shaman unleashed her powerful blood magic spell.
+
+He summoned a potion to his mouth and bit down hard, ignoring the gritty flavor of earth that flowed down his throat.
+
+You have gained Stonecap Armor.
+
+His skin hardened at once, taking on a grayish tinge, but he still struggled to block, maneuver, or stack up more healing. Kir’mogan barked something harsh, and the gleaming greataxe blurred. The thunderous axe strike sliced through armor, stonecap, hide, and all sending pulverized rock flying from the impact crater below his feet, and Last Stand triggered automatically for the first time. Not since his first horrible fight against a Fire Mage with Ali had his health dropped below five percent, but this troll, Kir’mogan, had just forced his skill to save his life by auto-triggering.
+
+I have thirty seconds. As soon as Last Stand dropped, he would lose all the temporary health the skill gave him and die. Unless he found a way to increase his health between now and then. Not even a recall potion could save him now. He crushed a health potion between his teeth, sacrificing the remaining duration of his Stonecap Armor.
+
+It was halfway through his Last Stand that the explosion of blood ripped through the trolls, empowering them with the terrifying bloody visage and the gruesome dripping blood runes that floated about their heads. Their attacks suddenly accelerated to eye-blurring speed, assaulting his heavily battered armor, and even with his enhanced defenses, his health plummeted.
+
+Good fight, Kir’mogan. He let out a ferocious roar, but it was more to throw his challenge in the face of the superior force. It would, of course, reduce their strength, but it wouldn’t be nearly enough to matter. He had heard of the battle prowess of the trolls, and now that he had faced them in person, he found the stories to be hollow mockeries of the truth. Damn, you took us out like newbies…
+
+Just then his notification chime sounded.
+
+You have gained Azryet’s WrathThe Calamity smiles upon your actions.Your attacks gain additional Holy damage on hit.Blessing – Duration: 1 second.
+
+He Swiped at once, risking both Brutal Restoration and one final Bestial Combat, and this time, he felt a strange warmth in his paw as it began to glow with a soft holy light. His attack slashed across all the monsters before him, ripping through the flesh of the living and dead. But every undead recoiled as the magic sizzled and spat, and he felt the sudden rush of the largest Brutal Restoration he had ever experienced. For the first time since the fight started, he felt his health begin to creep upward. He lashed out again, trying to establish more healing magic, but the random damage enchantment did not manifest again.
+
+He heard another soft chime in the background, and suddenly Malika’s magic tore through his body in a fiery fury, and with several long seconds of hasted punches and kicks, she took the second shaman away from him. And with that, Ali’s Drake finally stepped into his Sanctuary.
+
+“Help, kill the totem. Get distance from the shaman.” He shot a chaotic flurry of complex thoughts to the drake, hoping desperately that Ali would get it.
+
+“Malika! Pull the shaman further away.” Ali’s voice echoing his plea was the sweetest sound he had ever heard.
+
+As Malika pulled the shaman away, the glowing Fae flew over and deconstructed the totem poking out of the ground. It was a tense ten seconds while he blocked another ridiculous strike from the boss and his health plummeted, almost removing everything Malika had just restored. But he felt the instant the totem evaporated; his roots and grasping vines began to bind on the ankles of the zombies and lock them in place, or at least to hinder their movement. He backed up, pouring mana into Rampant Growth, and to his intense relief, most of the monsters remained stuck, slowly clawing their way free of his magic until he bound them again.
+
+It was not a perfect plan. As soon as he backed up, Kir’mogan broke free of the roots through brute force, and the bound warriors switched to throwing axes, but the overwhelming onslaught of damage had abated. The zombies couldn’t even hit him. He slowly circled around, each time he rooted his opponents and backed away bought him a precious couple of seconds to heal.
+
+And then something magical happened.
+
+“Now, Ali!” Malika yelled.
+
+Right as the troll boss unleashed his most powerful strike, three barriers appeared between Mato and the overhead blow. All three shattered, but the axe was deflected into the ground, missing him for the first time in the fight.
+
+His Mortal Wounds dropped, and suddenly his health filled, right as Last Stand expired.
+
+How did they – sweet! Sucking in a huge breath, Mato surged back into the fray. Come on!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

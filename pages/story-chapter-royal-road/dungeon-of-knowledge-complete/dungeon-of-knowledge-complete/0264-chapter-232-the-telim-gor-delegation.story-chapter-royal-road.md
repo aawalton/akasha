@@ -1,0 +1,145 @@
+---
+id: 731aae0c-0f38-5267-b1ee-88c7f1574ff2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 232: The Telim Gor Delegation"
+slug: 0264-chapter-232-the-telim-gor-delegation
+partOf: dungeon-of-knowledge-complete
+position: 264
+ownLength: 3092
+unit: words
+ownProgress: 3092
+publishedAt: 2025-04-25
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2230105/chapter-232-the-telim-gor-delegation"
+royalRoadId: "2230105"
+markedReadAt: "2026-06-29T20:20:09.890Z"
+---
+
+Ali turned at the sound of a soft swooshing noise, like something soft passing close by her ears, and out of the snow, streams of gracefully arcing, delicate slivers of ice accelerated towards them traveling with such speed that the ice and snow in the air twisted in the vortices of their passage. Ali summoned her barrier, glowing a bright, sparkling gold against the dismal blizzard, and arranged her minions into a defensive formation.
+
+One stream of ice bolts punched into one of the Armored Drakes up front, slowing its movement as its scaled body crusted over with frost. To Ali’s intense surprise, the bolts passed clean through the enormous, armored body, through the Bone Warrior lurking behind it, and through her barrier, piercing her arm before passing through and out the other side to vanish into the snow-covered jungle.
+
+How? Ali’s body stiffened instantly in the intensity of the frigid ice magic, and as she struggled to move, the stream of ice bolts continued to lance through her. Her body froze completely, encasing her in ice and the next bolt to strike shattered it, causing her health to halve in an instant. She could see the cracks in her arms and legs, but she couldn’t feel anything beyond the numbing cold.
+
+“Watch the ice!” Calen shouted.
+
+Still struggling to move, Ali teleported, switching herself with a Hellfire Imp standing to the side of their formation to get clear of the barrage of ice. The ice bolts didn’t slow down for anything, passing through the imp and forming ice on its demonic skin despite the hellfire shield it wore. It froze in place and then shattered, making a tinkling crash as cascading shards spilled across the ground.
+
+“Attack!”
+
+Mato had already charged, but his powerful movement skill had been arrested midway through the clearing as his body briefly froze over and shattered with the impact of the continuous stream of ice piercing his enormous bulk. The wheeling forms of the three frost dragonets swooped above, breathing down great swathes of ice crystals that froze his fur and covered the ground in drifts of white.
+
+Ali’s minions charged, but every single one that got ahead drew streams of ice bolts until their charges slowed and halted, frozen to the ground in blocks that shattered in an explosion of ice before they could begin moving once again.
+
+“Fireballs!”
+
+She sent the command to her remaining imps and all three of them triggered accelerated hellfire fireballs that exploded amid the ice trolls at the edge of the clearing. Triggering their Flame Form, the imps hitched rides on their fireballs to land among the trolls and the spiders, and reach them with their flame auras.
+
+Calen’s bow howled from the back and bright bolts of hellfire-enhanced light sped across the clearing, crashing against the trolls’ ice shields with loud sizzling, and sharp cracks. The hungry hellfire burned through the ice, but the trolls simply resummoned their shields.
+
+A stream of ice redirected, heading towards her and her barrier again, and, right as the bolts pierced through her body, she switched location with an Armored Drake. Flickers and ribbons of blood pulsed through her body as her nearby shaman healed her with Blood Siphon.
+
+None of her melee fighters had even reached the troll ice mages yet, only Malika having managed that feat by sprinting at high speed and dodging so many of the ice bolts. But as she arrived at the troll mage, it simply vanished, reappearing twenty meters to the side, and resuming its barrage with ice bolts.
+
+“Free Action totem,” Ali instructed, and her nearest shaman dropped the powerful totem that could dispel movement impairments, but it simply had no effect on the freezing cold. Somehow it seemed that the ice magic was not a movement impairment, but perhaps more like an inverse haste spell, but she had no time to figure it out.
+
+“Attack that one.” Ali’s command went to her imps and her bone warriors as she directed them to use ranged attacks on the troll Calen seemed to focus on – although it was a little difficult to be certain because he was unleashing an unceasing volley of multiple arrows at a time, never pausing for even a moment. The Bone Warriors switched to their axes, throwing them instead of trying to close to melee range. Ali gave up on her personal barrier, turning all her barrier magic into shards and attacking the chosen ice mage. As her barrier shards were about to slice into the troll, his entire body turned to ice, encased in a dense formation of magic, and her shards bounced off without any noticeable effect. A couple of seconds later, the ice shattered, falling to the ground and the troll vanished, reappearing near the edge of the clearing.
+
+Fuck, these guys are hard to hit, she thought. From the perspective of a chilled and slowly lumbering drake, she observed a stream of bolts heading for her back and immediately reacted by switching with the drake again. I guess I’m hard to hit too, she thought, with a deep sense of satisfaction as she imagined how frustrated the troll must be.
+
+Beside her, struggling on the ground were all the spiders. Her Abyssal Stalkers had been webbed to the ground with shimmering strands of frost and ice magic, while the two white Frost Weavers were struggling to free themselves from the demonic web. She ignored them – without an ooze monster, she couldn’t use her teleportation to free them without trapping herself.
+
+Ali’s witch doctor stepped out of the Spirit Realm through a blur in the haze of ice and snow and unleashed its powerful Soul Drain attack, targeting all five of the ice trolls simultaneously. Every single one of them instantly teleported away except for one which disappeared entirely with the now-familiar shimmer of the witch doctor’s Spirit Banishment curse.
+
+Proper ranged magic damage, she thought, admiring just how effective her witch doctor’s soul drain was against so much control magic.
+
+“Frog as many as you can,” Ali said. Immediately, two of the ice trolls vanished, replaced by angrily hopping blue frogs.
+
+With their teleport spells on recharge, Calen used his Righteous Fury and unleashed sizzling, high-speed volleys of arrows at the remaining trolls. Ali shot her barrier shards, this time spreading her attacks to hit all the trolls evenly, as the imps unloaded more fireballs. Two of the trolls froze solid, and the third, who had already used that skill, finally collapsed under the onslaught.
+
+Not quite so powerful once we get through your magic tricks, Ali thought, reorganizing her imps and barrier shards. A few seconds later, the frozen ice trolls shattered free of their ice blocks, teleporting in random directions, but Ali’s minions quickly adjusted. With another Soul Drain and a few well-thrown axes, a second troll perished.
+
+A poorly targeted teleport landed one of the ice trolls near enough to Malika that she could rush him, and he died under her rapid onslaught, Malika freezing solid briefly from the simple act of punching his ice shield.
+
+With another couple of fireballs, the remaining trolls died. Mato seemed to be doing ok in the center, having grounded two of the three frost dragonets with his roots.
+
+“One more in the Spirit Realm,” Ali said. Switching to trollish, she said, “Go bring him back.”
+
+“At once, Seeker,” the witch doctor said, bowing out of the normal realm through the shimmer of her magic and entering the Spirit Realm. A few moments later, the last remaining ice mage appeared followed by the witch doctor, and was quickly dispatched by Malika and Calen working together.
+
+As the last troll collapsed, the icy grip of their mana began to disperse through the clearing. The flurries of snow and ice softened and faded as the ice dropped to the ground, and the humid heat of the surrounding jungle began to slowly seep back into the area, defrosting and melting the drifts of snow.
+
+As the blizzard cleared and the snow and ice began melting, several previously unseen troll bodies emerged, lying sprawled on the ground, still sporting sizeable holes where ice lances had impaled them.
+
+Zor’kan emerged from the jungle and walked slowly and somberly across the clearing to the frozen troll corpses of his people. He bowed low to the dead and his deep voice solemnly spoke his benediction, “Strength for your journey to the Spirit Realm.” He slowly straightened up and turned to Ali. “Tol’brekk must answer for his betrayal. The spirits of the fallen and the honor of Aman Rak demand it.”
+
+Ali nodded solemnly, not knowing quite what to say to the grieving, vengeful troll, but he seemed to take it as enough and turned away to explore the rest of the clearing, so she turned to hunt down all the corpses and deconstruct them.
+
+Variant: Frost Dragonet added to Imprint: Dragon.Variant: Ice Mage added to Imprint: Troll.
+
+Before they continued, Ali pulled out her Grimoire and summoned one of the Telim Gor ice trolls. It would take a little time to study the abilities, but as Calen had pointed out early on, knowing the enemy was a huge advantage.
+
+Ice Mage – Troll – level 78 (Ice)Your reserved mana has increased by +585.
+
+The troll stood, at his full height, a little taller than most of her trolls so far, and the runes on his dark blue skin lit with white ice magic, matching his spiked white hair. He turned to regard her.
+
+“Seeker,” he said with a deep voice, bowing low. “What is your command?”
+
+“Equip yourself,” she told him, pointing to the gear left after she had deconstructed one of the dungeon’s ice trolls. The troll simply nodded and began donning the left-over robes.
+
+Ali switched her awareness to her newest minion’s perceptions, finding his vision crystal clear and sharp, etched with the tendrils of mana, much like her own Arcane Insight skill, but the remnants of ice and cold within the clearing seemed particularly clear to his vision.
+
+The first thing she checked was his base intelligence, hoping for an upgrade. It was close but, despite the substantially higher level, her Hellfire Imps still had more – those fifteen attributes per level for being a demon were hard to beat. Next, she browsed his skills. Ice Bolt was almost identical to her first damage skill – Arcane Bolt – with the exception that it had advanced and, instead of separately targetable streams, it simply fired more bolts faster.
+
+Frost Nova was a curious area spell; clearly, the magic responsible for the entire clearing being filled with ice, chilling and slowing all her melee minions.
+
+“This is really powerful,” she said, sharing the next ability.
+
+Spectral Ice – level 48Mana: Your Ranged, Ice attack is partially anchored in the spirit realm, granting incorporeality and the ability to penetrate most physical objects and barriers, and up to 20% of your target’s resistance.Ice, Area, Support, Wisdom
+
+“That does seem powerful. It turns the Ice Bolt into an area damage spell by letting it pass through multiple enemies in a line,” Calen interpreted. It was exactly as she had experienced in the fight.
+
+“Oh, and this is nasty,” Ali shared the next skill.
+
+Shatter – level 47Critical strikes with Ice damage chill enemies, slowing movement and physical attack speed by 47% [skill]. Duration: 10 seconds.Critical strikes with Ice damage against chilled enemies freeze them, preventing movement and physical attacks. Duration: 2 seconds.Critical damage against frozen enemies is increased by +885% [intelligence + skill]Critical strike chance with Ice skills against frozen enemies is 100%Ice, Support, Intelligence
+
+“Wow, that really is nasty,” Calen agreed, writing down the skills in his notebook. “Guaranteed critical damage against frozen enemies.”
+
+Shatter was the main reason her minions struggled to get to the mages and the reason her imp had been killed so fast. It didn’t help that her Hellfire Imps were vulnerable to cold – a class of magic types that included ice – and took 50% more damage.
+
+Most of the other spells the Ice Mage troll had were pretty simple. Frozen Core was a mastery that improved ice damage. It had the typical Ancestral Spirit Runes improving perception, intelligence, and wisdom. Its teleport worked to any destination that was chilled or had active ice magic. It had Mana Sight with improved perception for stealth and illusion in cold areas and Summon Familiar.
+
+“This is cool,” Ali said, only catching the pun after it was already out of her mouth.
+
+Ice Shield – level 39+458% [skill + intelligence / 2] mana regeneration while chilled.Mana: Create a shield of ice protecting you from damage. Melee attacks against the Ice Shield chill the attacker. The Ice Shield will absorb a fixed amount of damage proportional to level and intelligence before shattering. Ice shield chills you.Mana: Enhance your Ice Shield, freezing yourself solid. Regenerate 10% of your maximum mana over the duration. You are immune to damage while shielded in this way. Duration: 5 seconds. Recharge: 1.5 minutes. Ice, Defense, Intelligence
+
+“He actually benefits from being chilled and frozen. And the shield applies chill and freeze to the troll himself.” She finished looking through the attributes and aptitudes, finding everything much as she expected. “He doesn’t have a whole lot of health, though.”
+
+“Typical glass-cannon mage build,” Calen said.
+
+“What’s that?” Ali had heard the term before but didn’t immediately recall what it meant.
+
+“Everything is focused on damage and nothing on survivability,” Calen answered. Then he frowned. “No, that’s not right. I guess it’s technically not a glass canon with those Ice Shield, Summon Familiar, and Teleport spells, but it’s close enough.”
+
+“A high-damage ice mage,” Ali said thoughtfully. She had spent so much time wishing she had a non-Fire Mage while they were clearing the Emberforge Mines. “Do you think this will work against that Corrupted Fire Drake?”
+
+Calen’s eyes flicked to meet hers, and he grinned. “We should definitely try when we get back!”
+
+Familiar, she thought, studying the skill carefully. Ryn had this skill too, but the troll ice mage was restricted to familiars with an ice affinity. So, the dragonets and the spiders were familiars, she thought. There had certainly been one beast-type monster per troll, even though they had not all been the same kind.
+
+Trying it out, she summoned a Frost Dragonet and looked at her ice mage. “Can you use this as a familiar?”
+
+“Yes, Seeker,” he answered, bowing his head again.
+
+“Do it,” she told him. And while he used his skill, she studied the magic carefully until she felt her own reservation ripped from the flying cerulean dragonet. It snapped back into her with a sharp stinging sensation, but the troll’s mana shifted to take its place and, instead of going mad from the release, the dragonet calmly circled his head and alighted on his shoulder, just like Ryn’s Bookwyrm. Only the troll was over two meters tall, and the dragonet was substantially larger than a glitter dragonet.
+
+***
+
+Race: TrollActive Buffs: Ancestral Spirit RunesClass: Ice Mage – level 78- Ice Bolt – level 50Mana: Fire a small shard of ice that accelerates at high speed toward your target. Channeling Ice Bolt has +50% [skill] spell haste and projectile speed. Range: 40 meters.Ice, Ranged, Channeled, Intelligence- Frost Nova – level 44Mana: An instant spherical pulse of ice magic explodes out from you, damaging all targets in the area, and leaving behind a chilled area filled with flurries of snow and ice crystals. All creatures within the chilled area have movement and physical attack speed slowed by 50% Range: 23.2 meters. Duration: 30 seconds. Recharge: 20 seconds.Ice, Area, Intelligence- Spectral Ice – level 48Mana: Your Ranged, Ice attack is partially anchored in the spirit realm, granting incorporeality and the ability to penetrate most physical objects and barriers, and up to 20% of your target’s resistance.Ice, Area, Bloodline, Support, Wisdom- Shatter – level 47Critical strikes with Ice damage chills enemies, slowing movement and physical attack speed by 47% [skill]. Duration: 10 seconds.Critical strikes with Ice damage against chilled enemies freezes them, preventing movement and physical attacks. Duration: 2 seconds.Critical damage against frozen enemies is increased by +885% [intelligence + skill]Critical strike chance with Ice skills against frozen enemies is 100%Ice, Support, Intelligence- Frozen Core – level 40Ice damage and critical strike rating with Ice spells are increased by +878% [skill + intelligence].Ice, Mastery, Intelligence- Ancestral Spirit Runes – level 41Mana: Invoke the blessing of the ancestral spirits with your own personal runic tattoo, inscribed with your mana. Your Perception, Intelligence, and Wisdom are increased by +134.3% [40 + skill + bloodline + base intelligence / 10]. Reserve: 20%Ice, Bloodline, Knowledge, Buff, Intelligence- Ice Shield – level 39+458% [skill + intelligence / 2] mana regeneration while chilled.Mana: Create a shield of ice protecting you from damage. Melee attacks against the Ice Shield chill the attacker. Shield will absorb a fixed amount of damage proportional to level and intelligence before shattering. Ice shield chills you.Mana: Enhance your Ice Shield, freezing yourself solid. Regenerate 10% of your maximum mana over the duration. You are immune to damage while shielded in this way. Duration: 5 seconds. Recharge: 1.5 minutes. Ice, Defense, Intelligence- Frozen Teleport – level 29Mana: Teleport to any chilled or frozen location, or a location with active Ice magic. You automatically trigger Frost Nova in the location you leave. Range: 37.4 meters. Recharge: 10 seconds.Ice, Movement, Intelligence- Mana Sight – level 26You can see mana. You have clear vision through any cold or chilled areas, including a greater chance to pierce through stealth and illusion.Ice, Perception- Summon Familiar – level 23You can summon an Ice affinity familiar. Your familiar will level up with you, influenced by your mana. You can substitute your familiar for yourself as a target for most spells. Ice, Minion, IntelligenceGeneral Skills- Identify – level 28Aptitudes- Language: Troll, Elvish- Mana (Affinity): Ice- Troll Intellect (Racial): +15 to Intelligence- Bloodline (Telim Gor): +30% to range and power of Bloodline skills- Regeneration (Racial): +600% health regeneration. Can regenerate mortal injuries. Fire damage cannot be regeneratedAttributes- Vitality: 82- Strength: 59- Endurance: 54- Dexterity: 87- Perception: 386 (+233)- Intelligence: 838 (+605)- Wisdom: 571 (+374)Equipment- Head: Frosted Sapphire Drop – level 75- Body: Frostweave Robes of Ice – level 78- Hands: Frozen Charm Bracelet – level 75Resistance: 1123Magical Damage Reduction: 33.95%+21% to Ice resistance.+33% Spell damage to Ice skills.+62% to mana regeneration.+10% chance to chill on dealing Ice damage.Health: 820/820Stamina: 540/540Mana: 4568/5710 (1142 Reserved)
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

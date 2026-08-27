@@ -1,0 +1,163 @@
+---
+id: ce5b4f25-220b-59ce-8341-dbb20735a145
+page-type-slug: story-chapter-royal-road
+title: "Chapter 47: The Reading Corner"
+slug: 0047-chapter-47-the-reading-corner
+partOf: dungeon-of-knowledge-complete
+position: 47
+ownLength: 3855
+unit: words
+ownProgress: 3855
+publishedAt: 2024-03-19
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1560209/chapter-47-the-reading-corner"
+royalRoadId: "1560209"
+markedReadAt: "2026-06-29T20:12:31.475Z"
+---
+
+What is the essence of the Arcane? For most laypeople, it is the image of an Arcane Mage standing upon high battlements shooting endless streams of glowing purple guided missiles or bolts toward their foes while protected within an impenetrable bubble of magical energy. While the various missile, bolt, and barrier spells are indeed commonplace in Arcane Mage combat classes, the field of arcane magic – and indeed the affinity itself – has vastly broader application. If one subscribes to Mendeken’s traditional magical classification, arcane magic is closely related to the various fields of knowledge magic. In practice, whether by the luck of the natural path, rigorous training, or expensive elixirs, arcane magic is the most commonly sought affinity among archmage scholars. It is this compatibility that makes the arcane affinity so practical for the understanding and furthering of magical research. Within these pages, the discerning student will discover that arcane magic is essentially the magic of manipulating magic itself. Metamagic, and magical analysis, are the cornerstones of the Arcane Mage, and we will endeavor to demonstrate this fundamental basis – and thus provide a solid foundation for developing an arcane affinity and unlocking its vast potential.- Excerpt from Fundamentals of Arcane Magic: Theory and Practice.
+
+Malika led Ali across the bridge to the merchant district. The bridge was nothing more than a simple arched construction that spanned the tributary of the Myrin River which cut through the middle of the town. But the fact that it appeared to be a single contiguous piece of delicately speckled granite, rather than a mundane assortment of interlocking blocks or bricks, spoke to the skill of the stone crafter or earth mage who had conjured it, despite the simple and understated practicality of the architecture. Not exactly a choice Ali might have made – she had always been a little partial to some artistry or sculpture – but the decades of wear across the bridge, and the fact that it still bore heavy traffic, stood as a testament to the builder – whoever they might have been.
+
+Ali followed Malika’s unhurried steps away from the soft, rushing flow of the river and on into the merchant district. The surprising contrast between the bustling noise of the thriving stores and the ominous silence of gutted, abandoned buildings unique to Myrin’s Keep was on full display in this district and she wondered how people even managed to stay in business on some of the more run-down streets. Why did people still put so much effort into their businesses when they might find themselves suddenly bleeding in the gutter like that poor Gnome, Morwynne Fizzlebang?
+
+Eventually, Malika slowed and came to a stop in front of a small stone corner shop with a brightly painted sign depicting an open book with sparkling text. Lush ivy with green and red leaves had been cultivated along the walls, lending it a comforting atmosphere of stability and timelessness.
+
+The Reading Corner.
+
+Ali gazed at the quaint and tiny building with a little flutter of excitement settling in her stomach. For sure, there was no comparison between this minute store and the Grand Library Arcana she had grown up with, and she had deliberately set her expectations accordingly, but the building exuded an intoxicating sense of possibilities and unexplored paths that she simply couldn’t ignore.
+
+A cheerful magical chime sounded as she pushed the wooden door open and entered the store. The nostalgic scent of old books, parchment, and ink whisked her instantly into memories of long, pleasant hours wiled away with her favorite stories. There was even a hearth with a small warm fire and several comfortable reading chairs scattered about – the perfect nook for a group of beloved friends to huddle around over a cup of warm, floral Elven tea. A small board had been placed on a table, set with unadorned but well-worn crafted pieces of light and dark wood arranged in the middle of a game of Kings and Emperors. A thick, dark rug covered a warm wooden floor, and a small floating orb of soft light completed the reading area. Surrounding the reading spot were tightly packed shelves separated only by the narrowest passages, almost Fae-sized aisles, to allow access to the books stacked to the ceiling. Scattered about, and filling most of the available floor space, were many half-opened boxes filled with unsorted books and scrolls.
+
+Ali took a deep breath, taking her fill of the atmosphere, and let out a happy sigh. She could easily spend a week on one of the comfortable reading chairs and simply not notice the outside world moving by. She grinned at Malika and entered the room intent on exploring.
+
+“Hi, welcome to The Reading Corner!”
+
+A tall, raven-haired young human woman wearing dark-rimmed glasses poked her head out from one of the narrow passages between two tall bookshelves. She wore a bright green dress with practical matching hairclips keeping her hair out of her ink-smudged face. In her arms, she carried several books and a clipboard.
+
+Ali immediately liked her. The open and curious smile, the careful way she carried the books, and the gentle way her hand rested upon the bookshelves beside her told Ali all she needed to know.
+
+“My name is Ryn. I’m the bookseller’s apprentice, how can I help you?”
+
+A quick Identify told Ali that Ryn had yet to unlock her class. “I’d like to buy a couple of books, but I’m not sure what I can afford.” Ali gazed around the store, wondering how anyone would find anything specific in the seemingly chaotic organization.
+
+“Oh good,” Ryn smiled. “I’m about halfway through reorganizing everything so it’s a bit chaotic right now, but I can help you find anything. Do you have something particular in mind?”
+
+A reorganization of the entire bookstore seemed like an immense undertaking, but it explained the chaos.
+
+“Magic books, history, and maybe a good story?” Ali didn’t want to seem too desperate, but she had been considering this very question for weeks. Now that she was so close and literally surrounded by books, she couldn’t wait to get something worth reading. I’ll have to pace myself. She had worked hard for her gold, and if Malika was right, she could easily wipe out all her earnings in an instant.
+
+“What kind of magic books are you looking for? I’m sorry I can’t Identify you yet. If you’re looking for something advanced, they’re locked away and you’ll have to wait a few weeks for the owner to return.”
+
+“I just reached level twenty.”
+
+“I think we can find something, let me see…” Ryn moved towards a set of shelves, running her fingers across the backs of the books stored there. “How much would you like to spend?”
+
+“I have about five gold,” Ali answered quickly, earning a frown from Malika. Oops, I probably shouldn’t have shared that. But Ryn seemed trustworthy, and Ali couldn’t imagine she would be taken advantage of, despite Malika’s obvious paranoia.
+
+“Here we go. These are mostly introductory works and fundamentals for newer spellcasters, perhaps there is something you’d like here?” Ryn called out, inviting her to peruse a shelf with books stacked on it seemingly at random. Ali recognized the telltale soft glow and sparkle of magical ink on the spine of several of the texts, and now, with her skills, she could see the mana swirling around this section of the shelves. Authors of magical texts often used mana-infused ink to help illustrate the concepts depicted within, or to impress the reader with dramatic cover designs, or sometimes both. The magical text sections within the Grand Library Arcana had always been a spectacular riot of color and motion.
+
+Ali’s eyes lingered excitedly on the modest collection of magical tomes. Unsurprisingly, most of the texts were for fire and ice magic. Even in her time, fire and ice were by far the most common affinities among mages. Particularly Humans. Not the most versatile magic, but certainly reliable – especially for combat classes.
+
+I need to focus. While she would have loved to read a good discourse on fire magic, her personal mana was not compatible and it would satisfy her intellectual curiosity, but not much more. This wasn’t a library with free access to everything – she had limited gold and something that she could use would be the best option to help her grow.
+
+Her hand rested on a small tome on the shelf that claimed to be a text on Plant magic. Plant magic had a substantial overlap with the broader Nature magic affinity, and she was certain she could find a few compatible spells. But… Mato seemed very happy to lend her his Druid magic book whenever she wanted.
+
+Probably I can find any compatible plant spells in there too.
+
+“Do you have anything on Arcane magic?” Ali couldn’t immediately see anything related to arcane affinity on the shelf in front of her, but the selection was rather small, and it didn’t surprise her much. While it was worth asking, Ali wasn’t expecting anything.
+
+“Hmm…” Ryn pursed her lips in an expression of deep thought. “I do recall something… oh yes! I know, it was in the shipment that just arrived this week. Now, where did I put that box…”
+
+The studious bookstore apprentice hurried over to the end of the aisle and dug into a box of books with an infectious energy that Ali just had to admire. A fellow book enthusiast! Even with her vigorous-looking search, each book was handled with gentle care and respect, set aside carefully to avoid damaging them. “Here we go!” She popped her head up, holding a smallish book with a brown leather cover and shining silver-embossed writing that emitted small drifts of vibrant purple mana – the typical color of arcane mana – into the air around it.
+
+Fundamentals of Arcane Magic: Theory and Practice.
+
+Ali took the book and paged through it, scanning the table of contents. The book felt good in her hands. Like most books, it was sized for the larger races, but Ali found it familiar and comfortable. There had been many introductory texts just like this one that she had read during her time in the library, but this time it was quite a different experience. She felt her attention drawn by densely complex runic spell structures written on the pages; the flow of mana embedded within the ink was clearly visible with her Arcane Insight. Both her Runic Script and Sage of Learning instantly activated to augment her understanding of the magical inscriptions and the connections between the runes. The runic inscriptions depicting the various magical constructs reminded her of the inscriptions of her imprints in her Grimoire, albeit vastly simplified.
+
+“This one is two and a half gold,” Ryn answered, breaking Ali’s focus. She was consulting her clipboard with a bit of a frown. “I’m sorry it’s so expensive – arcane magic books are quite rare, you do understand?”
+
+Oof. It was almost half her hard-earned gold for just one introductory magical book. A small mountain of arrows. But it looked like exactly the book she needed – she would be able to practice with her Sage of Learning, and finally unlock some useful magic for her Runic Script.
+
+“Ok, I’ll take it.” While it might be a large fraction of her money, she was certain she would not be able to develop her Runic Script skill without something like this book. Her Grimoire was unfortunately way too complex to understand, and according to what Malika had said, this was a reasonable price for the book she was holding.
+
+Ryn’s frown disappeared in a flash, replaced with a beaming smile.
+
+“We should get this too,” Malika suggested, holding up a rugged-looking brown book.
+
+The Adventurer’s Guide: Third Edition.
+
+It was an obviously mundane book, but one presumably aimed at adventuring and related activities. Malika seemed surprisingly sure of herself, offering the book for her to peruse.
+
+“You’re new at this adventurer stuff, and you said you learn well from books.”
+
+“That one is one gold and twelve silver,” Ryn offered helpfully.
+
+It’s also expensive. But Malika was right, she did not have the years of preparation most people got before taking a combat class. She lagged in her understanding compared to everyone else, and, if she hadn’t chosen the Adventurers Guild, she would have been way out of her depth. It was a stroke of amazingly good fortune that she had run into Malika and the others early on and gotten a lot of help and advice.
+
+“I’ll split it with you if you like,” Malika offered. “I think I can learn a lot from it too. And I’m sure Calen will want to read it.”
+
+“Ok,” Ali answered, and Ryn took the book and placed it on the counter beside her magic book.
+
+Before they finished shopping, Ali had Ryn suggest a book on local history and a popular story that she thought she might enjoy reading. Neither were as expensive as the first two books, and she was certain the history book would be a huge help orienting her in this era in which she had awoken.
+
+Ryn totaled it all up. “That will be four gold and thirty-seven silver,” she said, placing the four books in a nice-looking bag with a printed book on the side, matching the one on the sign outside the shop.
+
+Ali paid, and even with Malika’s contribution, she suddenly found herself a lot poorer. It had taken a lot of work to earn her money, and even though there was no doubt in her mind that she was spending it well, she still felt a pang of loss as she handed over the coins.
+
+Back to making arrows for gold, she thought glumly. The quests and jobs in defense of the town against the Goblin siege would probably be over now, so she might need to find new ways to recover her money.
+
+“I hope you enjoy your books,” Ryn called out brightly to her as Ali and Malika left the store, and her excitement for finally having new books of her own returned in a rush.
+
+***
+
+Ali accompanied Malika on a few errands around town, but she didn’t pay much attention, her mind still lingering on the bookstore, and the brand-new acquisitions stored in her ring. She couldn’t wait till she got back to camp so that she could read.
+
+When they finally returned to the shrine, and Malika began practicing her kicks, Ali sat herself down on the moss in the center of one of the golden fairy rings. Glancing within her ring’s storage space, she located the silver-embossed book on arcane magic and retrieved it, the weight of the tome suddenly heavy on her lap.
+
+A little more light, she thought. Ali summoned a small disk of her barrier magic, setting it hovering in the air above her head where it could shed its golden light on her book, augmenting the soft glow of the golden mushrooms and the light of the shrine behind her.
+
+She traced the silver embossed runes on the cover of the book with her fingertips, savoring the way the mesmerizing wisps and swirls of purple mana it emitted softly tickled as they brushed against her skin. Her heart pounded with excitement as she considered all the knowledge and magic separated from her by nothing more than a book cover. Much as fighting was a necessity these days, she would never love it like she loved the knowledge she was about to absorb, no, swim in!
+
+She took a deep breath and closed her eyes, shutting out everything in the world around her, except for the faint wispy tendrils of mana surrounding her book, and the powerful backdrop of her arcane and nature mana, still visible to her Arcane Insight.
+
+She took a deep calming breath, following the meditation exercises Malika had taught her, and within a few moments, the pounding of her heart and frenetic excitement in her mind faded to an alert and focused curiosity.
+
+She opened her eyes and carefully opened the cover to reveal the first chapter. It was an introductory arcane spell called ‘Cleanse’, but in her calmer state of mind, she didn’t mind one bit. Ali planned to learn everything in this book, of course, so starting with the easiest magic was the most logical approach. She began to read the author’s explanation of the spell, keeping her breathing calm and even, and the world around her faded into unawareness as her focus sharpened. Sage of Learning responded almost immediately, providing the familiar sensation of a slow drain on her mana, and a bizarre reshuffling of information within her mind as her skill searched her memories and experiences for even the most obscure connections that might be relevant.
+
+She turned the page, and her magical sight exploded with delicate traceries of magic as she viewed the completed inscription of the spell revealed on the pages. The circle of runic magic and the delicate connections that the author had been explaining were laid bare on the page, complete, and beautiful. Runic Script immediately interpreted the meaning and layout of what she saw, augmented by the active structure of the mana flowing within the magically inscribed runes. This was a complete spell, much like the spells inscribed in her Grimoire – only this one had vastly fewer runes and connections. It was a technique that magical scholars often employed – the inscription was an unpowered magical construct, and the mana flowing through the runes was simply an echo of what would be needed to power it – ambient mana that collected in the inscribed runic channels. It was enough to show how the magic should work, but it would require an infusion of arcane mana to actually function.
+
+Ali channeled a small trickle of her own arcane mana into the spell construct and the runes flared into brilliant golden light as she studied the flows within its structure. For all that this was introductory magic, the active structure was remarkably complex. But with her mana flowing through the runes, she felt the distinct prickle of magic on her skin as her hand passed through the circle and it tried to cleanse her.
+
+She had no idea how long she spent studying the runes, but she remained focused, and filled with a sense of joy and excitement. Finally, an opportunity to take a little time off from fighting to learn something fascinating. After she had fixed the entire structure within her mind, Ali carefully set the book aside on the mossy ground and began to trace the structure with her mana using Runic Script.
+
+Her skill helped her channel her mana into the shapes of the desired runes, each sinking into the mossy ground as she completed them. She strung the connections together, copying the structure that hovered, glowing within her mind. Her first attempt failed, of course, but she didn’t mind in the slightest, simply returning to the reference in her book and comparing the structure until she found the subtle mistake she had made. The second attempt failed with a substantially more obscure error – a spot in the tricky runic connections that she hadn’t fully understood. Smiling happily, she dug into the snarled and tangled connection she had inscribed, referring to the smooth flow in the book until she felt she had fully understood what she had missed, before starting again.
+
+The mana flowed out into the ground, tracing the elegant flow of the runes, and each connected with the whole smoothly, extending and enhancing the construct and the structure of the magical energy. As she placed the final rune, she concentrated on the connection to the beginning of the circle – the spot that had broken her last attempt. It was a tricky connection – she had to bind it to the beginning of the circle, while simultaneously connecting it to the previous rune – and it pushed her focus and concentration to the limits.
+
+The pure and gentle sound of her chime rang within her mind.
+
+Your reserved mana has increased by +14.Arcane Insight has reached level 11.Sage of Learning has reached level 10.Reading has reached level 8.
+
+Did it work?
+
+Ali held her breath and used Identify on the circle of glowing magical runes that lay before her.
+
+Cleanse – level 3 (Arcane)Removes dirt and grime.Runic Circle
+
+Yes! Her heart leapt with excitement at the sight of the completed runic circle, glowing softly with her golden arcane mana, a perfect match to the smaller copy inscribed upon the pages of her new book.
+
+Ali immediately stepped into the center of the runic circle and sat down. A cool prickling sensation rippled across her skin, and small particles of dirt and grime floated up off her body and clothing, sparkling into tiny motes of golden mana before evaporating into the ambient mana in the air around her.
+
+This is awesome! I’ll never have to wash my clothes again, she giggled inwardly. Or my undies.
+
+As she sat enjoying the sensation of her magic circle cleansing her from dirt, her notification chime sounded again. What now?
+
+Requirements met for skill advancement. Able to perceive magic.Able to read magical runes.Sage of Learning has reached at least level 10.Memorized a new magical construct while in a state of meditative focus.Created a new magical construct while in a state of meditative focus.Sage of Learning gains Study Trance.Sage of Learning gains Channeled trait.Sage of Learning – level 10Your ability to learn languages, magical systems, history, and similar academic knowledge is significantly enhanced. You have enhanced memory for the content you have studied.Mana: Channel mana and uninterrupted focus to enhance Sage of Learning while studying. Cognitive function, memory, and reading are enhanced in speed and clarity. Arcane, Knowledge, Channeled, Perception, IntelligenceAccept this advancement?
+
+Ali sat and stared dumbfounded at the notifications. Well, of course, I’d be foolish not to, right?
+
+She had only been excited about studying her new book, and a simple magical construct at that. Other than convenience, the magic construct for Cleanse would not be particularly useful – certainly not for combat, unless she planned to threaten the Goblins with unwanted cleaning? In her desire to focus, she had intuitively used Malika’s breathing exercises to calm herself down, and instead of unlocking the expected Meditation general skill, she had unlocked something substantially more useful to her.
+
+Accepting the advancement would set the direction for future growth of her class and skill, but an intentional study trance was ideal for her. Even though she didn’t have access to many books for studying yet, it could only be a matter of time and earning enough money before she had many more. With this skill, she would be able to accelerate and enhance her learning. Maybe she might even begin to make sense of the impossibly complex runic magic in her Grimoire.
+
+Ali accepted the advance, committing herself and her class growth to the path of her passion for magical study.

@@ -1,0 +1,247 @@
+---
+id: 16960f53-cbd4-5607-88a7-b65f095eb15c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 124: Preparation and Planning"
+slug: 0125-chapter-124-preparation-and-planning
+partOf: dungeon-of-knowledge-complete
+position: 125
+ownLength: 4204
+unit: words
+ownProgress: 4204
+publishedAt: 2024-09-01
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1783514/chapter-124-preparation-and-planning"
+royalRoadId: "1783514"
+markedReadAt: "2026-06-29T20:15:16.166Z"
+---
+
+Mato approached the stone circle Ali had crafted in the center of the library atrium, his eyes following the majestic sweep of the Elder Tree soaring upward and vanishing into the darkness far above. The voices of his friends sitting nearby washed over him. Politics, planning, and talking. He could hardly even follow the threads of their discussion or the details of their debating. He gazed up at the tree, taking some measure of solace in the sheer solidity and massiveness of its presence.
+
+I feel like a mouse next to this thing. Or maybe an ant.
+
+He sighed. I wish we could just fight this blight, and the Council. It would be so much simpler. It was a battle – that much was obvious – and yet it was one that could not be won by brawn and claws.
+
+He hadn’t even been useful when Ali had created Lira’s Forest. He had promised to help her grow her forest – and that desire still burned within him. The rightness of it called out, resonating with his soul, or mana. Or whatever. I was useless, Lira is so much more experienced. Even Basil had done more for the forest than him, saving the acorns with his incredible magic.
+
+“Deep thoughts, young Druid?” Lira’s voice resonated softly from nearby.
+
+He jumped at the sound, forcing down a quick rush of guilt at his thoughts of envy moments ago. “I…” he began. “I wish I could help them,” he said, hanging his head. “But I have no sense for councils and politics.”
+
+“Perhaps you can help in another way?” Lira suggested.
+
+Mato raised his head and looked at her, meeting her eyes, and the gentle smile on her face.
+
+Lira placed her hand on the trunk of the giant magical oak. “Do you wish to learn from the tree? It can teach you many things.”
+
+“What do you mean?”
+
+“Nature is balance,” she said, her voice calm and resonant as she gazed at the giant tree. “Life is balanced by death, growth by decay, the violence of claw and tooth contrast against the restoration of the trees and plants.” She looked at Mato with soft brown eyes, depthless pools of wisdom and experience. “You have the sense of one who has too much tooth and claw, and too little life,” she observed. “The tree can teach you balance.”
+
+Balance? His mother had spoken of it often, but he had always dismissed it as a Druidic mannerism. But now I am a Druid, and I still don’t get it. What am I? What am I supposed to do? His head hurt just thinking about it.
+
+“If you choose this path, I can help you commune with the tree while we take care of this council business. It will take some time,” Lira said.
+
+“I don’t want to leave my friends to deal with this by themselves.”
+
+“Your loyalty is admirable,” Lira said. “However, your growth will help them far more.”
+
+“That’s a long-term thing, though,” Mato answered. The challenge Ali faced was immediate and dire.
+
+“I think you should do it,” Ali said as she joined them beside the tree. “I appreciate you wanting to stand with us in support, but if this makes you stronger, then that helps us more. The patronage of Lira’s mana is a priceless gift.”
+
+“I think so too,” Calen said.
+
+“You are not really suited for a battlefield of words,” Malika offered. “Trust us for this one.”
+
+They’re walking into a fight for me. But it was a fight he didn’t understand. There was one thing he did understand, though. Turning to Lira, he asked, “I think your offer would be better for Ali. She also has nature mana, and she summons trees like this one. It’s a good fit, isn’t it?”
+
+“This is how Lira taught me to wield my nature mana,” Ali answered. “But I lost the mana connection when I was preserved in my mother’s spell – that’s why I thought she was dead.”
+
+“Once severed, a patronage cannot be recovered,” Lira said, sadness touching the corner of her eyes. “But do not mourn overmuch for that which has been long lost. Many paths exist for you to grow, and this is but one."
+
+Turning to Lira, he bowed his head and said, “Please teach me, then.” If Ali couldn’t benefit directly from her mana and experience, he would just need to get strong enough to help her and the others himself.
+
+Stepping up to him, the ancient Dryad placed a small hand on his chest and looked up to meet his gaze. Then, she pushed. Unable to resist, Mato floated backward till his back pressed up against the bark of the enormous tree. “Try not to resist it. Communing with the tree will feel foreign at first, but it is well worth the effort,” Lira said as her hand lit up with a pulsing emerald-green aura.
+
+The pressure from her hand on his chest grew stronger, and to Mato’s surprise, he felt his back sinking into the tree trunk as his flesh began to merge with the wood. Lira took another step forward and pushed him even further. His arms and legs began to stiffen up. There was no pain, just the terrifying sense of being submerged in the heartwood of the oak. Panic flickered around his consciousness growing in intensity as his head finally sunk into the vast expanse of the tree.
+
+I can’t breathe! He struggled, but his body wouldn’t move in the claustrophobic darkness. He was buried alive inside an oak tree. The panic raged through him.
+
+I need to get out!
+
+Suddenly, his chime sounded.
+
+Lirasia offers her patronage.Mentor Patronage – LirasiaTraits: Nature, Wisdom, Vitality, Domain, Perception, Shapeshift, Knowledge, Regeneration, Plant, CharmExperience gain is increased for actions aligned with your mentor, or under their supervision. Gain additional skill unlocks and advances aligned with your mentor’s traits and experience.A portion of your increased experience is awarded to your mentor, increasing their reputation.Enchantment – TitheAccept this patronage?
+
+The notification chime interrupted his panic, somehow providing an anchor for his mind to latch onto. His mother had always warned him to be careful about accepting just any patronage, however, this was the ancient Dryad of the Lirasian Forest, and he desperately wanted to learn all that she could teach him. His instincts told him she could help him become stronger in ways he could not even perceive as yet.
+
+Stuck deep inside the tree, unable to breathe or even feel his body, and yet not needing to, he accepted Lira’s offer.
+
+Your Patrons have been updated.You have learned the Plant language.
+
+In his bizarre sense of disembodiment, he suddenly connected with the tree. It wasn’t communication in the sense of a normal language where he understood meaning and concepts, but more like a communion, a sharing of being. An experience of empathy and intent, not unlike his Beast language.
+
+He quietened his mind as best he could and tried to hear or feel any sensation, finding calmness coming to his mind with surprising ease. In the dim periphery of his awareness, he sensed a slow upward flow. He reached towards it, and it slowly grew more prominent. For an indeterminate length of time, he clung to it as a drowning person to a floating branch.
+
+Eventually, his mind began to settle, to relax. The flowing sensation persisted but he was now aware of it beginning far below him and rising far above.
+
+That’s not quite right. I am below… and above? His mind struggled briefly with the strangeness of it. Choosing to trust Lira’s words, he embraced it instead of resisting. The sensation was like he was growing upward and downward along the flow. As his awareness was drawn upward, he split several times, extending outwards. The further he grew, the more he split until he recognized himself in the shape of the tree.
+
+The flow is the tree’s essence, its sap and its mana.
+
+As his awareness flowed out through the leaves above, and the roots below, he simply existed. He was the tree. He was the flow of mana and energy. He was the shape of the tree. He was the wood and the bark, part of an enormous, complex and vital living organism. He didn’t sense the tree trying to show him anything. He simply became the tree.
+
+It was impossible to know how long he remained there in the tree’s embrace, but a while later, his mana began to flow out from his leaves. Slowly, it emerged into the world around the singular existence of the tree. As it flowed outward, he could perceive the air around his massive branches. This was no ordinary tree; he could sense the Dryad’s mana within it. In a very real sense, he now understood – it wasn’t the Dryad’s tree. The Dryad was the tree. And the tree was the Dryad. It was Lira that cradled him within the nurturing embrace of her mana.
+
+Taste? See? He couldn’t find a word for how he was sensing the world. How does a tree perceive? As his mana and awareness expanded, he encountered another tree. Then another. Shapes? That must be a pillar in the library. Those must be the floors. His mana began to surge wider and wider, showing him the giant cavern with Lira’s new forest, the library, and the ruined city of Dal’mohra beyond.
+
+His awareness ceased to grow, but still, his mana poured out. He simply watched as it nourished the plants within his awareness, causing them all to grow, and the wisps to dance their joy at his gift of magic.
+
+He could do this? Incredible. So, so humbling.
+
+Mieriel walked briskly down the street toward the garrison headquarters, but beneath her calm exterior, her heart and mind were in turmoil. Meeting with Aliandra at the underground shrine had left her frayed and shaky. She had agonized over it for ages after she and Vivian had interrogated the Fae – the memory hung like a lead weight around her neck, getting worse and worse every time she met her at the guild. It wasn’t that she was shy about using her class or skills – and it was true that the ethics behind them were sometimes murky – but with the Fae girl, Mieriel knew she had stepped over the line.
+
+Earlier today, she had chosen to accompany Vivian underground and suddenly found herself face-to-face with Aliandra, stammering over an apology. I was not prepared. She had deliberately withheld using any of her active skills – not that it would have mattered, Aliandra’s mental defenses were as strong as granite now – but Empathy was a passive perception skill. When Aliandra had ignored her apology, Mieriel had been subjected to the rage leaking out from under her cool exterior. But that rage was covering fear and a feeling of violation, and that was what twisted uncomfortably in her gut.
+
+I did that. I made her feel… that.
+
+It was horrific.
+
+She glanced at the dour squat gray building that was the garrison headquarters. Here I am, walking into the lion’s den for a last chance at redemption. She paused briefly in the alleyway, casting about with her senses to ensure she was not being observed. With a thought and a trickle of mana, she switched her outfit with one in her storage ring and stepped back out into the street as a cleaner, complete with a bucket, a mop, and several dirty rags.
+
+Garrison Commander Gerald Brand was her first target. After she visited the garrison headquarters, she would scout both Jax Hawkhurst and Hadrik Goldbeard. Donella Novaspark was the one person on the council she was afraid of – the lightning mage had far too much wisdom and many defensive magical trinkets. Well, she had been afraid of Roderik Icecrown too, but Aliandra had killed him, thank goodness.
+
+She opened the door to the garrison headquarters and walked in with the confidence of someone who knew they were invisible to all the important people. It didn’t hurt that she was feeding a continuous trickle of mana into Inconspicuous Presence.
+
+Empathy combined with Heightened Perception quickly told her that her entrance had gone entirely unnoticed by the entire room, or at least it had not impacted anybody’s attention. She busied herself dusting various things while she ranged around with her augmented senses, searching for clues.
+
+Snippets of conversation could be heard as she briefly pushed her awareness into conference rooms and meeting spots using quick snatches of Astral Projection. It was an easy role for that skill – she could simply pretend she was focused on cleaning a table or something and then disconnect her awareness to elsewhere nearby for a few seconds at a time.
+
+There he is, she thought, finding the commander in a briefing room with a couple of aides and a messenger. With the assumed confidence of her role, she opened the door and walked in, brandishing her bucket and rags, and set about cleaning the side tables, drawing scarcely a glance from the people clustered around the conference table.
+
+“What do you mean, none of the scouts returned?” Commander Brand asked. He spoke calmly, as always, but there was an undercurrent of frustration that her skills could easily read. This was clearly a persistent problem and something he seemed to be at a loss to fix.
+
+“They were set to report yesterday, but none of the scouts sent south have returned,” the aide responded. His emotional state was worry and fear – mainly at upsetting the commander. She moved to shining a steel water jug, focusing carefully on her skills.
+
+“I need to know what is going on down there,” the commander continued. “With the Torians making noise in the north, they must be hiding something significant. They don’t just move without backup.”
+
+Just then there was a sharp rap at the door, and it opened to show another aide.
+
+“Excuse me, Commander, the mayor is calling for the full town council to be present tomorrow morning.”
+
+“What for now?” Brand asked, annoyance flickering across his mind.
+
+“The trial of the dungeon, and the group that killed the Town Watch.”
+
+The commander sighed. “Do we know who they are?”
+
+“Aliandra Amariel, Mato Bahr, Malika, and Calen Avery,” the aide responded, reading off a page he was holding.
+
+“Oh, them,” Commander Brand answered with a strong flash of surprise. “The Fae, Bjorn’s son, the Torian refugee, and the Half-elf.”
+
+But to Mieriel’s surprise, the commander’s tone registered respect, rather than anger toward his memory of them.
+
+He will listen to Calen’s scouting report. With the amount of credibility he seemed to be assigning them, he would take the report seriously if he knew where it came from. Furthermore, he seemed very anxious to get any information at all about whatever was killing the scouts to the south.
+
+This is enough, she thought, already charting her exit.
+
+Ali glanced over the piles of paper with copious notes strewn across the conference table, and the profiles pinned up on the wall. There was one profile for each of the council members, covering everything they knew about each of them. Cradled in her hands was a deck of flashcards Mieriel had kindly made to help her memorize the details and affinities for each of the council members. It was a bit of a waste, given her Sage of Learning skill, but holding the deck gave her hands something to do.
+
+They had all snuck into the guild as soon as night fell and it got dark outside, and they had been cooped up in this conference room for hours. Ali felt the time ticking away relentlessly toward the inevitable deadline of the trial which had been scheduled for tomorrow morning.
+
+She had to admit though, that the combination of Mieriel’s intelligence gathering, Ryn’s organizational skills, and the combined political savvy of Mieriel, Vivien, and Lira, they had accomplished a great deal. One question remained: would it be enough?
+
+The door clicked open, and Ali looked up to find Vivian returning.
+
+“Were you able to convince him?” Lira asked.
+
+“Yes, he agreed,” Vivian said, sitting down.
+
+“Convince who of what?” Ali asked.
+
+“I asked the mayor to open the trial to the public,” Vivian said.
+
+“What? Why?” Ali blurted out. Not only was she to be put through the wringer, but now there would be spectators?
+
+“It is part of our strategy, dear,” Lira said. “If it were just the council members, then the death of Roderik Icecrown would weigh heavily against you. But the news that you killed him should win the average commoner to our side.”
+
+“But they don’t vote.”
+
+“Correct,” Vivian said. “But some of the council members care about the opinions of the townsfolk. It is good leverage. It also works with the food shortage concerns.”
+
+“I see,” Ali said. She had offered to help out with the food shortage, so their scheme made sense. However, bands of anxiety clamped across her chest at the thought of defending herself in front of such a large audience. “Can we at least have Mieriel in the crowd then?” Ali asked. If she was forced to have a big audience, having a mind mage to feed her information would be an incredible tool.
+
+“Now that’s a fantastic idea,” Calen said.
+
+“Unfortunately, the council would never allow me in,” Mieriel said. “And I’m not strong enough to conceal myself from Donella Novaspark.”
+
+“You’re not?” Ali asked. Losing Mieriel during the trial would be a huge loss for them.
+
+“I can’t even hide from you anymore,” she admitted. “And Donella is reputed to be in the nineties.”
+
+“Ok, summarize it for us, Mieriel,” Vivian said.
+
+“Vivian is a yes,” Mieriel said. “Gerald Brand seems to still trust you guys from your contributions to the Goblin siege, so if you provide the scouting report on the Necromancer’s forces, he is likely to be our second yes.”
+
+Ali was a little surprised that Gerald Brand remembered them, and that he was favorably disposed to them, but Mieriel seemed certain.
+
+“The mayor is our next yes,” Mieriel announced. “Provided you’re certain you can solve the food shortage?”
+
+Ali nodded. With Lira, and Eliyen, and the help of some of the refugee farmers, she was certain they could turn the ashen former forest cavern into an impromptu farm that would produce enough food for the entire town.
+
+Ali shuffled through the flashcards till she had the one for the mayor.
+
+William TurnerAffiliations: Mayor of Myrin’s KeepMajor concern: Feeding the town.Expected Vote: Yes.
+
+She had only met the mayor once, but she had met his son Aiden many times, including when she unlocked his class and at the guild. He was not going to be an automatic yes like Vivian, but everyone was certain she could win his vote by offering to feed the town.
+
+“And for the council members opposed, Bastian Asterford is going to vote no for certain. He won’t stand for the death of a noble.”
+
+Bastian AsterfordBastian’s job is to represent the crown’s interest in Myrin’s Keep. He is a noble of the prominent house of Asterford. Affiliations: New Darian Crown Executor, NobleMajor concerns: The death of Roderik Icecrown, and his son Donavan during the class trial.Expected Vote: No.
+
+“I was unable to get any intelligence on Donella Novaspark, but just going by her reputation, she will be hard to budge,” Mieriel continued. “We expect her to vote no, also.”
+
+Donella NovasparkReputed to be a person of high integrity and exceptional power. Affiliations: Founder of the Novaspark Academy of Magic.Concerns: unknown.Expected Vote: No.
+
+“Hadrik Goldbeard is a typical Dwarf. Rowdy, loud, loves his ale, and is also incredibly stubborn,” Mieriel said, reading off a page of handwritten notes. “We expect him to vote in the interest of the crown – therefore no. I should point out that there is no love lost between him and Jax – the two of them often fight in council meetings.”
+
+Hadrik GoldbeardVery strict about his duties and a strong advocate for the law.Affiliations: Tax Collector for the New Darian Crown, BankerExpected Vote: No.
+
+“That brings us to three votes each, with the tiebreaker going against us. So, we must win over Jax Hawkhurst – of all the council members, I believe he is the most flexible. He is entirely self-interested and can be swayed with enough money. I suggest buying his vote. I am aware you sold Magicite to Weldin Thriftpenny, can I assume you’re able to make more?” Mieriel paused, glancing across the table.
+
+“I can,” Ali confirmed.
+
+“Then I suggest mentioning the need for a merchant company willing to sell Magicite outside of the town as a way of hinting at a deal with him. Everyone will know what you’re doing but, because you’re not outright bribing him, they won’t be able to say much. Hadrik will be pissed, but we’re expecting him to be a lost cause anyway.”
+
+Jax Hawkhurst A man of flexible morality, politically connected, mastermind of a criminal syndicate. Affiliations: Hawkhurst Trading Company, Town WatchConcerns: Personal profits.Expected Vote: flexible.
+
+“But he’s a criminal,” Malika objected, clearly upset about the conclusion. And, in Ali’s opinion, rightly so. While Mieriel said they would not be outright bribing him, it was pretty blatant. A Magicite deal would make him incredibly wealthy, increasing his power.
+
+“I know, but I don’t see any other choice,” Mieriel countered.
+
+“This cannot be our strategy,” Malika doubled down, rising from her chair and slapping the table with the flat of her palm. “He supports the Town Watch and all the violence and intimidation they inflict on the common townsfolk. I can’t believe we will have to get in bed with him. Ugh!”
+
+“I’m open to any ideas, any different approaches,” Mieriel said, undaunted. “Remember, if Aliandra is found to have no rights, your arguments of self-defense will be void, and you will all be sentenced – probably to death. Most of the council see the Town Watch as a necessary evil and will convict you of killing representatives of the law. At best, Vivian will be able to protect you while you flee town, but you will be outlaws everywhere in New Daria.”
+
+“That’s absurd, they are the criminals!”
+
+“Many of them are not, even though I agree the leadership is corrupt.”
+
+“What about Donella Novaspark? You wrote that she has high integrity, that’s a good thing, right?” Malika asked, seeming desperate to find an alternative. But Ali could tell what the answer was before Mieriel even started.
+
+“I couldn’t get close to her, but the rumors show that she has been outspoken about the dungeon below Myrin’s Keep, advocating for culling it quickly to restore the safety of the town. In this case, her high integrity means she will not easily be swayed from what her morals dictate. She perceives a threat, and that is bad for us.”
+
+“What about Hadrik? He cares about money too, right?” Malika said. “If we have to stoop to buying a vote, can’t we buy his instead?”
+
+“He cares most about the law, and he will vote according to the crown’s policy on this. New Daria’s royalty generally disapproves of dungeons, going so far as to even forbid operating or exploiting subjugated dungeons for profit.”
+
+The argument raged back and forth with neither side letting up, but Ali tuned it out. Buying Jax Hawkhurst’s vote – for that’s what the plan really was – seemed to be the only way to win the council’s approval. If the council granted her person-status and the protection of the law that went with it, her friends would be safe. Their argument that they were trying to defend her would be valid, and the deaths of the Town Watch would be considered necessary to defend themselves and her from harm. This would be easy to argue with the testimony of Aiden and his group.
+
+But the thought of working with the crime syndicate boss that had hurt Malika so much and inflicted so much hardship on the people of Myrin’s Keep left her feeling dirty, unclean, and fouled to the core.
+
+“Malika, I’m really sorry, but I think I need to do what Mieriel suggests. I hate the idea of helping him, but I cannot go into the trial knowing there might have been a way to save you all and not take it. I know you will never be able to accept working with him, but it’s not your commitment to make, it’s mine. If all it takes is selling him a ton of Magicite, I would much rather you lived.”
+
+“I can’t believe this,” Malika exclaimed, getting up and storming out of the room.
+
+Ali’s heart sank. I’m sorry, Malika, this is the only way. I hope you can see it eventually. She was not at all objective in this; it was her life at stake too. She was terrified of facing another Roderik. But Malika was obviously very deeply hurt by her decision, and she had no idea how she would ever make it up to her.
+
+If only there was some other way.

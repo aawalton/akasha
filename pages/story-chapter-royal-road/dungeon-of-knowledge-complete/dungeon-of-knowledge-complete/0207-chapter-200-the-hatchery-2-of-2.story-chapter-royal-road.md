@@ -1,0 +1,121 @@
+---
+id: e7586a6d-75a8-5b2a-ac16-e46389974a61
+page-type-slug: story-chapter-royal-road
+title: "Chapter 200: The Hatchery (2 of 2)"
+slug: 0207-chapter-200-the-hatchery-2-of-2
+partOf: dungeon-of-knowledge-complete
+position: 207
+ownLength: 2071
+unit: words
+ownProgress: 2071
+publishedAt: 2025-02-20
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2078880/chapter-200-the-hatchery-2-of-2"
+royalRoadId: "2078880"
+markedReadAt: "2026-06-29T20:18:08.993Z"
+---
+
+She fled. Ali didn’t need Calen’s Explorer skill to tell that the phoenix was a boss monster – she could tell from the enormous flow of domain mana fueling the firestorm that buffeted her with waves of scorching air from behind.
+
+She shot out of the tunnel, zipping past Calen into the giant terraced chamber.
+
+Wait… I’m never faster than him.
+
+“Calen… what?” Her head whipped around to see her friend standing his ground at the entrance to the hatchery. A coin glinted in the firelight, flipping end over end as he flicked it into the air, and as it reached the apex it popped, turning into motes of mana that drifted away on the gusts of superheated air.
+
+She screeched to a halt, stopping beside Malika and Mato. Calen downed a mana potion, and his bow appeared in his hand, four glowing arrows conjured onto its string. He took a deep breath and waited. Deep within the tunnel, shapes slithered and charged toward them. Still, he waited, until they were about to spill out onto the stone terrace. Only then did he ignite his mana, and the Mote of Light above his head began pulsing intensely. His bow howled as he loosed his arrows into the oncoming horde, instantly conjuring another volley and sending them flying in rapid succession – almost too quick to follow.
+
+When the explosions began, Ali clapped her hands over her ears in a vain attempt to block the roar and thunder that tore through the tunnel. On and on as his arrows flew, never letting up for even a fraction of a second, searing powerful afterimages of purple across her vision.
+
+An eternity of sound and shockwaves later, Calen’s body dimmed, and his bow lowered. In the darkness ahead, nothing moved. She held her breath, not daring to move for many long moments, before Calen’s shoulders finally relaxed and he said, “I think it’s clear.”
+
+The tunnel was eerily silent now, broken only by the muffled screeches of the phoenix trapped in the hatchery by its sheer size. Corpses of Drake Hatchlings and their hatchers littered the tunnel, but nothing within the darkness stirred.
+
+“Many hatchlings,” Mato said, eyeing the corpses.
+
+“That was… impressive,” Malika said, staring at the devastation within the tunnel.
+
+“It was a perfect bottleneck, and the monsters were all low levels,” Calen explained, in typical Calen fashion, downplaying his skill and power without ever realizing just how impressive it had been.
+
+Area damage is incredible, Ali thought, picking her way through the corpses, beginning to deconstruct everything she didn’t already know. I miss Fireball. She did have alternatives, but Fireball was definitely her favorite and it was ridiculously frustrating to not be able to test out her newly acquired higher-level Fire Mages.
+
+Variant: Drake Hatchling added to Imprint: Dragon
+
+At least this is something. She had no idea what the Drake Hatchling was capable of in combat, but she wasn’t about to waste the opportunity to grow her dragon imprint. And, with levels ranging from twelve to seventeen, she had already put it on her mental list of monsters appropriate to challenge new bronze-ranked adventurers.
+
+“All yours,” she told Calen as soon as she had finished growing her imprint with the full range of levels she could find among the wreckage of the tunnel. He would want to skin the rest of them to recover some of the cost of this delve. It had not escaped her notice that he had used one of the most expensive mana potions, meaning his stand against the hatchery had likely cost him six to seven gold, not counting the coin he had spent for his patron’s blessing.
+
+“Thanks,” he said, and got to work.
+
+“That was a boss, right?” Mato asked, staring down the dark corpse-filled tunnel.
+
+“Yup,” she answered. She was definitely growing more proficient at recognizing domain magic in action.
+
+“Group-level threat,” Calen added, a statement which surprised her. The amount of mana it was drawing from the domain for its firestorm had been enormous, and she would have guessed it was a raid boss at least.
+
+Mato stood, sweating uncomfortably in the radiant heat of the hatchery, studying the pool of lava and the phoenix he knew dwelt within. He waited patiently while the others hashed out the final details of their plan, shifting to ease the heat that was slowly cooking his paws. He had more than enough fire resistance now to prevent any real damage from the environment, but it still felt like walking on hot coals.
+
+There was not much to plan, to be honest, given just how little they knew of the phoenix’s abilities, but he patiently let them figure out their endless backup plans and contingencies. For himself, he just soaked up the environment, the sense of the rocky cavern, and the heat of the lava pool. Once they traded blows, he would have a better feel for the fight.
+
+How hard does a fire bird hit? Yeah, stupid question. There are bound to be surprises…
+
+“Ok, Mato, we’re ready,” Calen announced, walking over to stand beside him. His bow was out and ready. “There’s nothing for me to shoot, so maybe you can go wake it up and try to lure it out of the lava. Tank it over there by the wall in case it has any frontal attacks.”
+
+He huffed softly and dipped his head acknowledging the plan. I’ll just go over there and invite it to tea, shall I? Sometimes it sucked that he couldn’t talk in this form. This one was almost identical to the first iteration of the ‘plan’, before all the ‘planning’, but he knew they needed it, and often they came up with strategies that really worked.
+
+He approached the lava pool, heat searing his muzzle and making his fur sizzle. As soon as he reached the edge, lava and fire erupted from the center and the giant bird of flame surged upward, wings flapping in a leisurely beat holding it hovering above the orange bubbling pool. He roared, and the monster responded by hitting him in the face with a fireball.
+
+As the heat and concussion of the blast cleared, he found the phoenix hovering above the lava, spitting fireballs in every direction filling the hatchery with deafening explosions and thunderous screeches.
+
+If you won’t come out… he thought, stepping into the lava. Surprisingly, it wasn’t that deep, at least around the edges of the pool where he waded, but it was the kind of hot bath that might have made him reconsider all the life choices he had made leading up to this point. But it let him reach the angry bird, and he Swiped with his paw, his strike connecting with something dense within the cascading flames. The phoenix screeched and wheeled on him, lunging with an open beak attack that bit clean through his armor leaving deep cauterized gashes on his back. But the constant pulses of holy magic that had begun when he stepped into the lava began repairing his wounds.
+
+C’mon, show me what you’ve got. He struck again, using Brutal Restoration a second time to bolster his self-healing, and then slowly backed up to draw the phoenix out of the pool. But the furious phoenix simply turned away and began firing fireballs at all and sundry.
+
+It won’t move? He stopped, momentarily surprised by the obstinance of the monster, quite happily ignoring both his Taunt and his Swipe. He tried again, but the phoenix refused to budge from its spot in the lava.
+
+“Just tank it in there,” Calen said, clearly having understood his predicament. “It doesn’t shoot fireballs if you have it.”
+
+“Watch out for the curse. It has area damage.” Ali’s voice sounded calm and controlled, as she called out what she could see, and a few moments later her Hobgoblins waded into the lava to join him, followed shortly after by the demonic spiders.
+
+What curse?
+
+Malika darted in, dancing across the surface of the lava, and touched his shoulder.
+
+You have gained Clarity.
+
+He settled into his routine, unleashing Brutal Restoration on every single strike, and occasionally adding Bestial Combat, but the phoenix didn’t appear to have much in the way of armor, so he didn’t spend much health on maintaining it.
+
+You have been cursed with Phoenix Conflagration.+30 Fire damage per second to you and everything around you. Range: 10 feet.Curse – Duration: 10 seconds.
+
+His entire body caught fire with a conflagration that spread around him in a circle. He shifted immediately, pulling himself to the side of the melee circle so that he could minimize the damage the curse would do to Ali’s minions.
+
+“Mato’s cursed,” Ali announced, and immediately the Hobgoblins and spiders shifted to give him more room.
+
+Ten seconds later, the fire curse dropped, and he was vaguely aware of various Hobgoblins or the spiders ducking out of the melee circle periodically whenever they lit on fire, but he was standing in lava fighting a bird made of fire – the curse was the least of his concerns. This bird was far from showing off all its tricks, he sensed.
+
+The phoenix reared back and flapped its wings, sending a wall of flame buffeting downward as his Survival Instinct warned him of the extra damage, but it was an area damage fire attack and there was not much he could do. However, the backward movement triggered Battlemaster, so he lashed out with his most potent strike, boosting the power of his Brutal Restoration and growing the tough roots right out of the lava to grasp the phoenix’s claws. But even though they were magical roots, they were still roots, and they immediately caught fire, turning to ash and coals rather quickly.
+
+He didn’t mind much though, the damage was always worth it. He braced, blocking a vicious beak strike, allowing his magic to heal the damage that got through. Suddenly, the phoenix reared up on its wings with a loud screech and took off into the air like a rewinding meteor. He swung with his Battlemaster retaliation, but his claws whiffed on the remnants of flame.
+
+“Firestorm!” This time, Ali’s voice had an edge of anxiety to it, as the phoenix swept through the cavern in a great arc, showering everything it passed with the deadly conflagration billowing out from below its wings.
+
+The yellow-white chain of Calen’s Grappling Shot lanced out into the air, but it found no purchase on the flying firebird. Mato backed out of the lava pool, keeping an eye on the skies as the phoenix banked, making a run back towards him, trailing the storm of flame. Everything in its wake caught fire, burning with the conflagration. He watched it come, nothing he could do to avoid it, and when it hit, he felt the burning pain.
+
+You have been cursed with Phoenix Conflagration.
+
+But he felt something else. To his great surprise, his mana and stamina began to rise as if the flame were energizing him, a little like the Living Flame elementals from the Landing, only much more potent.
+
+“Adds!” Calen’s voice cut through his curiosity with a sudden urgency. “Hatchlings on the left!” Where the phoenix had reached the wall, it had also passed over a clutch of eggs. And in the wake of flame, the eggs were cracking and disgorging dozens of Drake Hatchlings. Their angry screeches began to fill the air.
+
+Malika was there in a shot, her fists flying as she tried to draw the monsters away from the Acolytes, but there were so many of them, biting and clawing and filling the air with blasts of intense fire breath – it was like watching someone trying to punch an oncoming wave. They spilled over and around her, knocking her rolling with a crashing roar and tore into Ali’s vulnerable minions. In a second, Malika was buried in the seething mass as if she had been sucked down by quicksand.
+
+“Run!” It was Ali’s voice that called the retreat, and her yell was simultaneous with all her Acolytes lighting up with their emergency healing power skill.
+
+Mato wheeled about, charged and roared, plunging his face beneath the tide of Drake Hatchlings, heedless of the flames, and clamped down on Malika’s shoulder with his jaws. Then he fled for the tunnel, dragging her out of the crush.
+
+-----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

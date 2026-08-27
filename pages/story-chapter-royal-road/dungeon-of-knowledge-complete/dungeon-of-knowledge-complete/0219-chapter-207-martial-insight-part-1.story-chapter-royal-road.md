@@ -1,0 +1,145 @@
+---
+id: 77bd7d6a-100f-55d7-8324-10fa870ce179
+page-type-slug: story-chapter-royal-road
+title: "Chapter 207: Martial Insight (Part 1)"
+slug: 0219-chapter-207-martial-insight-part-1
+partOf: dungeon-of-knowledge-complete
+position: 219
+ownLength: 2466
+unit: words
+ownProgress: 2466
+publishedAt: 2025-03-06
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2107816/chapter-207-martial-insight-part-1"
+royalRoadId: "2107816"
+markedReadAt: "2026-06-29T20:18:34.376Z"
+---
+
+Ali was not getting it, and it was making her tetchy. She pushed the heavy, drake-leather-bound book away and sighed, deciding that not being able to understand something written in a book was the worst kind of frustration. It didn’t matter that she was trying to study Ahn Khen martial arts from the ancient Nine Paths, hoping to find something from the ancient text that might transfer to her very much non-humanoid Abyssal Stalkers – a task that likely wasn’t possible at all.
+
+There were people in the library. Several sat at various tables with books and notes, while others consulted with Ryn for information. There was a quiet hubbub filling the space – a sound that transformed the ancient, formerly silent ruins into something tangibly living. A place of learning and the passing down of knowledge.
+
+Words are entirely inadequate to describe physical movement, Ali thought, her mind still gnawing on the problem. It wasn’t that the Nine Paths of Ahn Khen were poorly written, or that she needed to improve her command of the ancient language – it was simply that the concepts of dynamic balance, applied force, and kinetic power were full of nuance that required a wealth of experience or intuition to properly understand. It surely can’t require me to take up martial arts training to understand this, can it? Should I? I’ll beat up their ankle bones!
+
+Ali sighed. Calen and Mato still hadn’t returned from their errands up in town and, in an effort to take advantage of the time, she had decided to work on Martial Insight. She had been hoping to improve her skill with the most effective monster she had for the Corrupted Fire Drake fight, but it had been several hours, and it felt like she was still just as clueless as when she had started.
+
+“How’s it going?” Malika asked, uncoiling herself from her meditation on the floor nearby.
+
+“This is stupid,” Ali said, utterly failing to keep her frustration contained.
+
+“That bad, huh?”
+
+“Yes.” She wouldn’t have been so grumpy if she had just had a tiny sliver of progress, but her studies had become a desolate wasteland of fruitless toil and dead ends.
+
+“Is it something I can help with?”
+
+Ali bit off her reflexive frustrated response as Malika’s offer percolated past her agitation. Her main frustration was that she had so little context for the combat of the ancient Ahn Khen; her intuition still lent itself to study, rather than practicing forms. Even after all this time observing her minions, she still thought with her mind, rather than her body.
+
+But she’s practiced this stuff all her life.
+
+“Maybe,” Ali said. Admitting she needed help felt like a defeat, but she was certainly not making any progress on her own. Her bruised ego would heal, especially if she learned something useful. “I just don’t get this part,” she said, pulling the book back and pointing to the section that seemed to deal with controlling the flow of stamina to enhance the power of an attack. It seemed intricately tied in with the physical balance and momentum of the body, and the transfer of power through the kinetic chain, and she had rapidly got lost in the details after that point.
+
+“Aah, punching harder,” Malika said, an unhelpful and overly simplistic summary of her last few hours of frustration.
+
+“Yes, that’s all.”
+
+“Don’t let it get to you,” Malika said. “People spend their entire lives perfecting a single punch. It’s not easy. Why don’t you tell me what you’re struggling with?”
+
+“This part here,” Ali said, deciding that she was letting her frustration make her sound unnecessarily grumpy. She threw a quick smile Malika’s way. “I don’t see how to synchronize the release of stamina with the punch. It seems to imply that mastering this is the key to doing this technique correctly.”
+
+“Yes, that’s true, but it starts from the bottom.”
+
+“The bottom? What do you mean?”
+
+“It’s basic physics. Punches start from the ground.”
+
+“But you’re not even on the ground half the time,” Ali pointed out.
+
+“True… in a way,” Malika said, a frown creasing her brow for a moment. “It’s a principle, though. Think of it this way – there’s a kinetic chain of muscle and bone that connects you to something solid under your feet, and you must use it to create power with your entire body. That’s why good footwork and balance are so important. Here, watch.”
+
+Malika settled into her stance and began to move her body, isolating the sequences absurdly slowly, making it abundantly clear that the action of her body traveled like a wave from the ground, up through her feet and legs, then hips and torso, and finally out through her arm.
+
+“When do you apply the stamina?” she asked, but she could already see what the answer must be – Malika’s demonstration was clear enough that several points from the book suddenly made sense.
+
+“It follows the muscular action like a wave.”
+
+It was suddenly a vastly more complex task than simply finding the right place to turn it on. She had been approaching the problem as an on-off switch, missing a world of subtlety and nuance.
+
+“Ugh, that’s complicated. How am I supposed to learn all that?” Malika had clearly been doing this since she was born, and it obviously came naturally to her.
+
+“It’s not that hard, it just takes practice. Mastering it will, of course, take a lifetime, but you can get this – you just have to do it – you can’t just read about it.” Malika quirked an eyebrow at her. “Right?”
+
+But I want to just read about it, she thought. That would be so much simpler. But it had been the same for magic, simply knowing the textbook had been no substitute for actually manipulating mana, seeing it, experiencing it.
+
+“Come, you learn by having your minions fight. Make something that can punch, and we can practice it together.”
+
+“I’d really prefer to be beating you up,” Ali chirped, brandishing her fists at Malika. Very threatening! She pointedly ignored Malika’s amused grin, quickly calling four Hobgoblins and two Abyssal Stalkers to join her on the upper floor of the library.
+
+“Make them copy me,” Malika said, finding an empty space and demonstrating a shadow-boxing punch slowly.
+
+Ali lined her minions up beside Malika and began to copy the movement. By now they had a small, attentive audience of adventurers who were ignoring their studies to watch the training, but she ignored them, trickling a little mana into her Sage of Learning, while immersing her awareness into the six monsters surrounding Malika.
+
+She struggled to copy the movement entirely, but she made her first breakthrough by realizing that her Hobgoblins had a basic intuition for the movements, and once she released her overbearing instinct to control everything, and simply observed a few times, she could apply subtle adjustments to progressively improve their technique, while comparing it to Malika’s progressively faster and faster demonstration. It’s not unlike sculpting away the imperfections.
+
+“Ok, you have the basic forms, now spar with me,” Malika said. Then she turned to their attentive audience and said, “Sabri, you know how to do this, come and spar too, Ali can study multiple fights simultaneously.”
+
+Payback for the beating up comment? Ali grinned, starting to enjoy herself. Alright, Malika!
+
+“Ok,” Sabri said, joining them and looking up at the powerfully muscled level forty-four Hobgoblin towering over her with obvious trepidation.
+
+“Give me a second,” Ali said, grabbing her Grimoire and summoning a much more level-appropriate Kobold warrior for her to fight. While she had it open, she added two Kobold rogues and set them to spar with each other. “Ok, I’m ready. Give it your best – whoa!”
+
+The library erupted into the controlled chaos of sparring battle: Malika against a Hobgoblin, Sabri against a Kobold warrior, and the remaining Kobold rogues, Hobgoblins, and Abyssal Stalkers paired off all trying the same techniques. Ali split her awareness into each of her minions, giving herself fully to the senses of her Martial Insight and channeling more and more of her mana into her Sage of Learning in the hopes that, like with language, it could help her make more connections quicker.
+
+Not even breathing hard, Malika kept up a running commentary of feedback, referring to the Nine Path’s text by rote memory as she critiqued Ali’s technique at battle speed.
+
+Her mind felt like it was on fire, consumed with the attack and counterattack, flow of stamina, and the balance of force and weight for eight minions simultaneously. Every time Malika corrected her, she tried to adjust, making all her minions absorb the incremental improvement simultaneously.
+
+“Don’t forget to adjust for the lighter weight of the Kobolds. They have tails, use the counterbalance.” Ali struggled to adjust, realizing that Malika was observing her fight with Sabri closely enough to critique that, too. The change in technique to account for the different bodies was subtle, and it took quite some time for her to get the hang of it.
+
+“The spiders have a wider base; you can create more force from the ground.”
+
+Great. Of course. Again, she adjusted, struggling to translate the concepts from two-legged to eight. The rhythmic clacking of spider limbs hitting chitin, and the dull thumps of flesh and muscle struck by fists began to fade as the deeper patterns slowly emerged in her mind. A flow of energy and momentum, attack and recover, that in a way seemed almost as beautiful and elegant as a well-constructed magical formation.
+
+Deeply immersed in the sparring match, studying it with every sense at her disposal – including the tremor sense and echolocation of idle nearby minions, she started to appreciate the difference between Sabri and Malika’s interpretation of the identical techniques. Malika’s movement was refined and powerful, consistent and relentless at the same time. Sabri seemed rawer, her attacks obviously less powerful because of her class level, but still displaying a brilliance of intuitive insight and adaptation that slowly emerged from their bout.
+
+She’s learning. It was an astounding thing to witness – with every piece of feedback Malika gave Ali, Sabri adjusted too, picking up on it and incorporating it faster and more accurately than she could ever hope to. And Sabri would immediately adjust to Ali’s shifts in understanding, refining her own technique in response. Again and again, Ali found herself comparing Malika’s words to the memorized text in the Nine Paths, and then studying Sabri’s changes to figure out how to best implement it.
+
+The bout continued, her minions advancing and retreating as she adjusted their technique by tiny increments. It’s… a language, she thought, struck by the similarities to a conversation. Only, instead of words, she was communicating with force, momentum, and impacts – and in the process, she was understanding Sabri and Malika by exploring how they learned, reacted, and thought in a much more fundamentally physical way than a discussion over tea.
+
+As she experienced this sudden insight, her notification chimed.
+
+Martial Insight has reached level 45 (+3).Sage of Learning has reached level 25 (+2).Requirements met for skill advancement. Sage of Learning has reached level 25.Synergy: Martial Insight has reached level 45.Received expert combat tutoring.Studied the Nine Paths of Ahn Khen.Witnessed an all-out attack of an Ahn Khen elder. Adapted an advanced combat technique to multiple diverse bodies during a bout. Intelligence has surpassed 350.Used parallel training to master an advanced combat technique. Sage of Learning gains Language of Combat.(+Combat Techniques)Sage of Learning – level 25Your ability to learn languages, magical systems, combat techniques, history, and similar academic knowledge is significantly enhanced. You have enhanced memory for the content you have studied.Mana: Channel mana and uninterrupted focus to enhance Sage of Learning while studying. Cognitive function, memory, and reading are enhanced in speed and clarity. Mana: Channel mana while teaching to share your Sage of Learning’s passive ability with your student. Arcane, Knowledge, Channeled, Perception, IntelligenceAccept this advancement?
+
+She smiled as she accepted the advance, and immediately the Hobgoblin facing Malika took a punch to the face, knocking it flat on its back.
+
+“Don’t lose your focus,” Malika chided.
+
+Her Hobgoblin got to its feet, and she resumed the bout. But it was nothing like before. As Sage of Learning hungrily devoured her mana, Ali’s mind seemed to accelerate, catching every detail of every fumble and mistake her minions made, incorporating it quickly into a holistic understanding. Every time Malika did something unexpected, her mind slotted it into the bigger picture like a puzzle piece, and then she turned around and used it on Sabri, learning how she would respond to it. Then she attacked Malika using Sabri’s solution. Each time her minions accidentally did something more efficiently, she used that as fuel to refine her understanding, compounding rapidly as she rolled out the adjustments to all her minions in real time.
+
+She saw the flicker of surprise on Sabri’s face first. Then the focus in her eyes as she redoubled her efforts against the Kobold warrior. Then she saw the little smile flicker across Malika’s eyes as she countered one of her attacks with something Ali learned from Sabri only seconds ago. Malika’s feedback and comments began to wane as she doubled down, communicating more and more directly with her actions and techniques, and Ali devoured it all, turning it into understanding and an intuition for the fight.
+
+“You got something, didn’t you?” Malika said, backing off to pause the fight for a moment and Ali was happy to see her breathing just a little heavier.
+
+“I did,” she answered, sharing her new Sage of Learning update.
+
+“That’s a little unfair,” Sabri said. “You just learned everything with magic?”
+
+“It’s not quite that easy,” Ali said. “My skill cannot teach me anything I don’t already know or have experience with. It just speeds up my ability to form connections with what I already have – and I need eight simultaneous minions to keep up with you guys.” It felt a little like assembling a complicated puzzle, but every time she reached into the box, the right piece just happened to be on top.
+
+“She was using your techniques to fight me, and vice versa, and then throwing in any of her own insights,” Malika said, looking at Sabri.
+
+“So I was fighting both of you?”
+
+“In a way, yes,” Malika said. “Your technique improved quite a lot just from that bout. Do you guys want to go again?”
+
+“Yes!” Sabri answered.
+
+Ali smiled at her obvious enthusiasm and took her stances, swapping minions to challenge Malika with an Abyssal Stalker this time, and offering Sabri a shot at the quicker Kobold rogue.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

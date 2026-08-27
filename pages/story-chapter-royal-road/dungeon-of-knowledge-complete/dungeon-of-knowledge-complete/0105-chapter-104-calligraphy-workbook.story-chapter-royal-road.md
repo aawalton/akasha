@@ -1,0 +1,149 @@
+---
+id: 8d7729fb-5cac-51d6-9cc1-6e742fb9b266
+page-type-slug: story-chapter-royal-road
+title: "Chapter 104: Calligraphy Workbook"
+slug: 0105-chapter-104-calligraphy-workbook
+partOf: dungeon-of-knowledge-complete
+position: 105
+ownLength: 4107
+unit: words
+ownProgress: 4107
+publishedAt: 2024-07-28
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1735285/chapter-104-calligraphy-workbook"
+royalRoadId: "1735285"
+markedReadAt: "2026-06-29T20:14:31.756Z"
+---
+
+Ali stretched and sat up, unhurriedly freeing herself from her sleeping bag, reflecting on just how much the small comforts of a good tent and warm sleeping gear had improved her quality of life.
+
+Yesterday she had gone to bed with a throbbing headache – the result of cumulative stress and pressure of the intensely oppressive mana she had endured as they explored the lake of light and its ability to spawn elemental monsters. She had been feeling so out of it that she had not even checked her own notifications.
+
+It’s almost like a dungeon, she reflected, considering her experience with the Ruins of Dal’mohra respawning wolves on top of them as they explored. But much less… intentional? The qualities of the jungle seemed much wilder, chaotic, and less planned or purposeful than the two dungeons she had experienced so far. And yet, it was still a mana phenomenon that claimed an entire area, spawning dangerous monsters within it.
+
+It was an exceptionally productive excursion though, she thought.
+
+Grove Warden has reached level 39.+10 attribute points.Arcane Insight has reached level 22.Arcane Bolt has reached level 22.Barrier has reached level 29.Martial Insight has reached level 22.Identify has reached level 12.
+
+She pursed her lips. I need to be even more careful. In her eagerness to secure the Luminous Glowcap mushroom imprint, she had exposed herself and her friends to the dangers of the spawning pool. The battle against the brawlers by the lake of light had been challenging, but fortunately, Malika had been able to take care of the situation. Her tactical combat awareness had provided a rather remarkable solution to the problem of haste – Ali had watched in amazement as her friend had learned to exploit Mato’s skills to defeat the elementals in real time. Her personal involvement had been simple – unable to keep up with the speed of battle, she had helped mop up the monsters as soon as Malika rendered them relatively helpless by draining their mana. But the whole situation could have been avoided if she had listened to Malika and ignored the pretty mushrooms in the first place.
+
+Though it really underscores the importance of knowing everyone’s abilities well.
+
+Ali assigned two points to perception and four each to intelligence and wisdom and then turned to the rest of her notifications, sorting through just the list of new variants she had learned. Undoubtedly, her Grimoire had shown the biggest source of growth in the rich jungle. Ignoring the many mundane trees, mushrooms, and mosses she had learned, she focused instead on just the variants with light mana affinities – the variants she thought had the largest potential for practical use.
+
+Variant: Lux Drifter added to Imprint: Ooze.Variant: Sparkling Ooze added to Imprint: Ooze.Variant: Radiant Larch added to Imprint: Tree.Variant: Luminous Glowcap added to Imprint: Mushroom.Variant: Glow Moss added to Imprint: Moss.Variant: Coruscant Ray added to Imprint: Elemental.Variant: Radiant Brawler added to Imprint: Elemental.
+
+Two new oozes, three glowing plants, and two elementals to study. The oozes were interesting, simply for the fact that she could share them with Naia. Besides that, Ali wasn’t certain how she could take advantage of the swarming Lux Drifter, but it did have the ability to fly – something she had come to learn was remarkably powerful in combat. The Sparkling Ooze attack seemed to be an alternative to fireball – the standard fire version seemed more powerful, but having an alternative mana type might prove useful. Also, the Sparkling Oozes were substantially higher level than her Fire Mages.
+
+The elementals wouldn’t be immediately useful to her, given she probably couldn’t summon live ones. But she was eager to study them in the same way she had studied the Glimmer Shards – who knew what she might unlock from them?
+
+But it was her new plants that held most of her immediate excitement. Emerging from her tent, she found their camp around the shrine to be quiet, other than her minions, only Malika was up, and she was keeping watch in meditation. Her eyes drifted to the obvious squishy lumps of dead Toxic Slimes that had crept into her domain overnight and had run afoul of her minions. I’ll deconstruct them later.
+
+Choosing not to disturb her friend, Ali hopped onto a barrier and slowly flew off toward the glowing blue lake with several of her minions following along to act as escorts. Since the destruction of the Ruins of Dal’mohra dungeon, there had been no more respawned dungeon monsters, however, more and more often of late, kobolds or slimes wandered into her domain and she woke to find occasional corpses littering the moss among her trees. She was well aware of how vulnerable she was without her minions, and so it was prudent to keep an escort at all times.
+
+Grounding herself on the bank of her lake, she idly reflected on how much more calming hers was compared to the aggressive intensity of the spawning pool they had found yesterday. Her lake was calm and clear, with soft ripples on the surface scattering the gentle blue glow all about. Deep within the pristine mana-purified water, she could clearly make out the knots of mana that represented her Aetheric Slimes swimming or crawling around on the bottom. She watched for a while as they wandered about and then summoned a new group and turned them loose on the lake. They barely cost any mana at all.
+
+She turned her attention to the surrounding terrain, choosing a promising spot next to the bank of the lake bordering up against a rocky wall. The hard-packed stony ground wasn’t particularly suited to growing anything, so it was currently empty. But that’s what Domain Mastery is for.
+
+Pouring mana into her newest skill, she began sculpting the terrain, flattening sections, and pulverizing rock, turning it into gravel and sand with the simple application of willpower and mana.
+
+Perhaps some terraces, she thought, examining the now-sloped ground critically. Summoning her Grimoire, she turned to the chapter for the stone imprint and began to summon what was likely her strongest stone – the Aether-Fused Obsidian she had learned from Naia’s dungeon. However, for this task, it wasn’t the strength that she wanted. Ali was rather enamored by the midnight-black, vitreous rock, and how it might contrast with the light. She turned mana into stone, and bent it with her Domain Mastery, shaping and sculpting it into several large, layered terraces.
+
+When she was finally satisfied by the rapid terrain adjustment, Ali turned to the tree imprint, and filled the area, planting a dense stand of Radiant Larch trees, trying to emulate the density and growth patterns she had observed from the jungle valley. In a surprisingly short time, she had a respectable stand of trees that together put out an impressive amount of yellow-white light, contrasting well against the blue of the lake, and the stark black of the terrace walls.
+
+Domain Mastery has reached level 6 (+2).
+
+Oh, nice! she thought as the notifications sounded in response to her efforts.
+
+Switching imprints, Ali filled the spaces between the trees with Luminous Glowcaps – the mushrooms she had won for the cost of a probably unnecessary fight – and Glow Moss. The new plants quickly hooked their mana into her domain structure, but as she had observed before, the incompatible mana affinity had the effect of suppressing her domain somewhat in the immediate area. It wasn’t such a big deal though, she had space to spare, and she had already grown her domain capacity so far in excess of what she could add to her mana pool that she could probably afford a lot more areas like this without impacting her strength.
+
+Looks beautiful, she thought, examining the results of her labors. She found she didn’t mind the interference with her domain one bit, and she was smiling happily when she returned to camp.
+
+There was no sign of the boys waking, so she took her time, deconstructing the corpses of monsters her minions had defeated overnight. When she settled herself down onto the moss carpet near the shrine, Malika looked up to greet her with a smile but immediately returned to the subject of her focused attention. Curious, Ali watched. Malika sat cross-legged with some paper across her lap. With great focus – and the point of her tongue sticking out the corner of her mouth – Malika was drawing repeated sequences of symbols that seemed to require painstaking attention to detail.
+
+“What are you working on?” Ali asked, observing the next attempt to draw a difficult symbol, crammed into the only remaining open space on her page.
+
+“Practicing my Calligraphy. I haven’t had time to work on it in a while,” Malika said, taking exaggerated care to form the curve of the next symbol.
+
+“What language is that?” The script had a beautiful curving flow to it that Ali found mesmerizing, and even the path of the pen seemed to evoke Malika’s uniquely graceful, flowing style of combat.
+
+“It’s Ahn Khen – the language of my ancestors.”
+
+“Do you think you could teach me sometime?”
+
+Malika looked up at Ali for a moment with a strangely sad, wistful expression on her face. “There are very few books left in the Ahn Khen language. In Bakahn Village, where I grew up, the children were taught to read and write in Common instead. It’s far more useful. Ahn Khen is only taught at sixteen to those who wish to study the books of the Elders or the Nine Paths of Ahn Khen – but so few copies are even left that the language is dying. The Elder who lived in Bakahn was one of the few entrusted with a surviving copy of the Nine Paths, and I had been looking forward to studying it when I was old enough. But the village was razed in the dungeon-break, and it was all lost, so all I have is a few children’s rhymes.”
+
+She began a sing-song chant pointing at each symbol in turn, explaining how the rhyme enumerated the various basic punching and kicking techniques in her drills.
+
+Ali ignored the sensation of Sage of Learning depleting her mana pool, simply fascinated at the intonation and the rare intimate insight into the sadness of Malika’s past life.
+
+Malika fell silent for a while and then tsked quietly as she turned the paper over several times, but finding no room for more practice, she made it, and her pen, vanish before settling back into her familiar meditation pose.
+
+We should probably go to town for supplies today, Ali thought. Calen had complained that he was running low on mana potions again, Malika was clearly out of practice paper for her calligraphy, and Ali wanted to visit with Ryn. But Calen and Mato were both still asleep, and there was no urgency to wake them early. The underground jungle would certainly keep while the two slugabeds caught up on their beauty sleep.
+
+Ali sat quietly beside her friend and pulled out her Grimoire, making it hover in front of her – just above her lap. If the boys were going to be a while, and Malika was going to meditate, she was going to take the opportunity to study her magic a little. It had been too long since she had really dug into the spell construction, and she had some of the most advanced inscribed runic magic at her disposal, simply waiting for her to take time aside from all the monster-slaying and exploring.
+
+She paged to the chapter on her elementals, thinking of studying some of the new ones she had just learned, but then she glanced back at Malika. With the nascent stirring of an idea in the back of her mind, she turned back to her book imprint. She stopped and stared at the chapter for a long moment. It had been a traumatic day when she had forced herself to learn this, and so far, it had provided no value. She had told herself she would keep it for study, and hopefully turn it into something worthwhile, but she knew she had been avoiding it.
+
+I wonder, she thought, glancing at Malika once again and then back to the softly gleaming runes on the page in front of her. Removing something should be easier than adding… Focusing on her mana sight, she activated her Sage of Learning, entering the study trance seamlessly as she began to feed mana into the imprint. For now, she simply watched it form, trying to understand the major flows and connections as the runic expressions leapt from the page, swirling, and combining in a stunning dance of nigh incomprehensible complexity.
+
+The spell completed, and a small, brown leather-bound book dropped into her lap, barely missing the hovering Grimoire. Without dropping her study trance, she picked up her creation and opened it, studying the text within. It was a complex jumbled mishmash of script and language – some words recognizable as Dwarven or Elvish, but many were simply mixed combinations of many languages and alphabets.
+
+It's not even recognizable as a language.
+
+She focused her mind on recalling the shape of the magic as it had unfolded before her – the enormous complexity somehow magically recorded within her memory in extraordinary detail, thanks to her Sage of Learning. It was like trying to untangle an entire ball of knotted twine using only her mind. In the end, she was only able to decipher a few tenuous connections using her powerful skill and the understanding that came from the Basic Customization advancement for her Grimoire. Figuring out how to stitch together an intelligible textbook or story seemed so far beyond her current capability that she felt a pang of sharp disappointment and despair before she reminded herself that she was after something vastly simpler.
+
+And this is the perfect study subject. Regardless of how complex the magic was, she had the unique advantage of her Sage of Learning to enhance her memory and the connections or any patterns she could find. And most importantly, she could repeat the test as frequently as she wanted. So, she did just that, pouring her mana into making book after book, repeatedly studying the formation of the magic, drilling into the precise connections and how the text was created, how the variations interacted, and where it all came from. With each try, she teased apart the threads of the Gordian Knot just a little further and gained just a little more insight as to the construct she was studying.
+
+Ali took a deep breath, and turned on her Inspiration, sitting quietly for a moment as her mana replenished. To one side, she had a rather substantial pile of discarded books, all of which were worthless gibberish. But the size of the pile was an eloquent representation of her painstaking progress at understanding this spell.
+
+Next stage. She had a second powerful tool to bring to bear on this problem. And it was wrapped up in her Grimoire’s advancement – she was able to modify the selection of variations with her skill. It was not something she felt in any way proficient at, but she could certainly change things in the middle of the construction. If she could repeatedly create more and more, while studying what exactly the ramifications of her changes were, she would be able to explore her skill in far more detail.
+
+Excruciating detail. Chuckling to herself at a mental picture of being buried under an avalanche of useless books, she set to work.
+
+Her first several attempts were disasters – books without pages, books without covers, loose collections of decayed paper. Even one loose collection of unbound mana that simply disintegrated with a weak pop. But with each failure, she homed in on the regions of the imprint that affected the text that would go into the book, and she got better remarkably quickly. Her Sage of Learning began drawing more and more mana with each attempt but providing more and more insights, connections, and possibilities to try next.
+
+Again. She made another book, warping the text variations, but still getting a garbled output. She studied the output of the book, tying the random text back to her memory of what had changed in the spell’s construction before discarding it onto her ever-growing pile of failed attempts.
+
+I think I see where the text is coming from. Something in the last attempt had seemed to ‘click’ in her mind, although it seemed like a double-edged sword. If she was right, it meant her Grimoire had not stored the individual books separately – the original meaning forever lost to the entropy in the encoding – and her desire to unravel the mess was a fool’s errand. But it also showed her how she could perhaps influence the text herself to reach her modest goal.
+
+If I’m right, I should tweak it here, and close off this connection. The threads of understanding blended with the flickers of mana as she wielded her magic to create a new custom book. Holding all the moving pieces in her mind simultaneously strained her mental capacity immensely. Still, she simply leaned into her focus, enjoying the challenge of creating something new, understanding the pathways, and stitching it all back together into a new pattern.
+
+The sensory experience of creating with magic.
+
+The small book dropped into her lap, and she cautiously opened it, examining the results. Her heart leapt to find the first two pages blank, but it was not perfect. Everything else in the small book was still filled with gibberish. She examined her memory of the attempt, studying it, searching for the place where it might have gone wrong. And finally, she found it – a small detail she had overlooked that had resulted in her customization being ignored for the remainder of the book.
+
+Interesting. As she examined the mistake, several important structures in the magic of her imprint suddenly became clear to her. The way the text was created, the way it was transmitted to the construction becoming a part of the page – even the way the cover was produced. She could see how she was simply at the precipice of an enormous valley of potential with her customization, most of it well beyond her current skill, but still visible as a perhaps lofty far-off goal to be achieved.
+
+But I can do this much, she thought, pouring her mana into another book. This time she wielded her magic with clear purpose and precision, weaving the spells and runic constructions to create her will. When the proper moment arose, she seized it, pouring more mana into her Runic Script, and feeding it into the creation that was materializing before her. When the spell completed, she knew it was perfect, even without looking. The lines of magic were all understood, the connections were all in place, and it had snapped together correctly.
+
+But of course, she still seized the book instantly, excited to check her work. In her hands, she found a small brown bound book, full of blank pages, just like she had envisioned. As she closed it, she saw the softly glowing golden runes on the cover – the magical script she had injected using her Runic Script – spelling out ‘Malika’. She smiled at the result, excited that it had worked, and even more so, that it looked remarkably elegant. The runes picking out Malika’s name were not organized in any formal magical construction but were imbued with her arcane mana. They glowed softly golden in the same way that many authors of magical texts chose to demonstrate the value of the content within.
+
+But does it really work? Ali had been well-trained for research and study. A single success was easily attributed to fluke or chance. So, without much thought, she channeled her mana into replicating her new understanding by creating a second blank book with Malika’s name inscribed on the cover. The second book was completed perfectly. She was making extensive use of customization to suppress the natural text in the book, but she had made no effort to influence any of the other variant properties, so this second book turned out to be much larger, with many more pages, bound with a blue scaled leather that looked like it might have come from some kind of lizard or wyvern. Again, the runes on the front cover representing Malika’s name glowed with the soft light of her mana, and she quickly verified that the entire book had been created blank.
+
+This one will be a lot better for her calligraphy practice, Ali thought, carefully setting both of her successes on the ground in front of Malika for her to find when she was done with her meditation and then she deconstructed the entire large pile of her failed attempts and sat back closing her eyes while waiting for Inspiration to restore her mana.
+
+Arcane Insight has reached level 23.Runic Script has reached level 17.Sage of Learning has reached level 16.Grimoire of summoning has reached level 23.Your Basic Customization has improved.Grimoire of Summoning gains Customization.
+
+Relaxing quietly, she smiled. She was no longer using her Sage of Learning, but she still reflected on the memory of the complex spell construction she had wrought. Four skill increases were a substantial gain for a single study session, but, more importantly, Ali could sense a powerful new grasp of what her Grimoire customization was potentially capable of. She had inserted her Runic Script on a hunch, based on how she had understood the magical construction in a moment of inspiration. She knew she was barely scratching the surface of understanding, but the potential of what she had achieved seemed unlimited. With enough study, how much could she change?
+
+Will it be like sculpture? Can I create whatever I can imagine? The tantalizing thought sent a thrill of excitement through her, like opening the door to a fresh spring morning, and the excitement of discovering what might be out there.
+
+“What is this?” Malika’s surprised exclamation pulled Ali out of her reverie, and she looked over to find Malika turning one of the books over in her hands.
+
+“I was studying my magic and that came out. I thought you could use it for your calligraphy.”
+
+“Ali, it has my name on it,” Malika said, holding it up and pointing to the glowing runes. “You made this on purpose, didn’t you?”
+
+“Yes,” Ali admitted, feeling a little embarrassed. “I saw you struggling to find space on your paper, so I thought I would try. I didn’t know if I could do it, so I didn’t tell you. But it worked!” Ali couldn’t keep the excitement out of her voice at the end. The fact that she had been able to turn her book imprint into something useful had meant more than she had expected – even something as trivial as a blank workbook for Malika to practice calligraphy.
+
+Maybe I can interest Calen in a new notebook?
+
+“That’s really thoughtful, thank you,” Malika said. And before Ali could wonder if she really meant it, Malika’s pen appeared in her hand and she opened the larger book, immediately returning to her calligraphy practice.
+
+***
+
+Name: Aliandra AmarielRace: FaeTitles: AncientActive Buffs: Empowered SummonerClass: Grove Warden – level 39- Arcane Insight – level 23- Arcane Bolt – level 22- Barrier – level 29- Grimoire of Summoning – level 23- Runic Script – level 17- Sage of Learning – level 16- Martial Insight – level 22- Empowered Summoner – level 19- Domain Mastery – level 6- [Locked] General Skills- Reading – level 8- Identify – level 12- Sculpting – level 3- Inspiration – level 7Aptitudes- Languages: Ancient Dal'mohran, Elvish, Dwarven, Common, Draconic, Goblin- Mana (Affinities): Nature, Arcane- Tiny (Racial): The effects of Strength and Vitality are reduced by 50%- Magical (Racial): The effects of Wisdom and Intelligence are increased by 50%- Domain (Class): Your mana increases with the size of your domain, up to +100%- Domain: -10% maximum health per day domain withdrawal. You have Domain SenseAttributes- Vitality: 54- Strength: 4- Endurance: 15- Dexterity: 26- Perception: 76- Intelligence: 178 (+45) - Wisdom: 152Equipment- Body: Tailored Cotton Clothing – level 25- Hands: Wooden Bracelet – level 11- Ring: Silver Guild Ring – level 30Resistance: 360Magical Damage Reduction: 24.79%+21% to mana regeneration.Health: 270/270Stamina: 150/150Mana: 3083/4560 (1477 Reserved)Grimoire Imprints1- Stone2- Armor (Body)3- Arrow4- Bone Bracelet (Hands)5- Book6- Bow7- Dagger8- Shield9- Sword10- Creeper11- Grass12- Moss13- Mushroom14- Tree15- Dragon16- Elemental17- Goblinoid18,19- Kobold20- Ooze21- Wolf22- 23-
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

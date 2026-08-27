@@ -1,0 +1,175 @@
+---
+id: ac80c1ed-b8a4-5a77-bfb9-f0dd0818bcfe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 71: Of Books and Knowledge"
+slug: 0071-chapter-71-of-books-and-knowledge
+partOf: dungeon-of-knowledge-complete
+position: 71
+ownLength: 3334
+unit: words
+ownProgress: 3334
+publishedAt: 2024-05-12
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1633435/chapter-71-of-books-and-knowledge"
+royalRoadId: "1633435"
+markedReadAt: "2026-06-29T20:13:18.036Z"
+---
+
+Dal’mohra reigned as the fabled city of learning for many centuries. It held the largest and most extensive library the world has ever seen and was the home of the brightest and most advanced magical scholars of the age. Legend tells of many fabulous inventions and discoveries arising due to the confluence of talent, knowledge, and mana that congregated within the city’s halls. It is hard to separate fact from legend so many years later, but this is precisely what we have set out to do in this text.
+
+The city itself disappeared in a single night, taking with it much of the magical knowledge and understanding of its age, and leaving behind a void in the understanding of magic that is still only beginning to be re-discovered thousands of years later. The magnitude of this disaster cannot be overstated. Not a lot is understood of why it happened. Some historians speculate that the researchers conducted some forbidden magic experiments that went awry. Some point to a powerful army of the undead commanded by a lich. Others blame dungeons.
+
+What is known is that a giant underground explosion caused the mountain to collapse on top of the ancient Lirasian Grove, covering many square miles of the mighty forest and permanently rewriting the local geography of the area. The remains of this Lirasian forest still exist miles to the south of what is now Myrin’s Keep in the kingdom of New Daria.
+
+However, the destruction was not contained at Dal’mohra. The disaster spilled out across the entire continent in a cataclysm known as the Breaking of the World, and in its wake, the Necromancer Wars were unleashed.
+
+Due to the substantial alteration of the local landscape, nobody has been able to locate the ruins of the ancient underground city, leading many scholars and historians of the current age to believe it was perhaps entirely a myth.
+
+- Excerpt from The History of Dal’mohra: The Lost City of Learning
+
+Several days passed in a blur of busy activity. Sigurd and his wife had been so happy with their prompt and decisive action, quelling their Kobold problem, that they told all the rest of the farmers, resulting in a veritable flood of similar job requests filling the quest board.
+
+Vivian Ross had been overjoyed.
+
+Ali no longer had any doubt in her mind about where the Kobolds had come from. It was abundantly clear that her actions in the deep darkness of the library had had powerful ramifications, rippling up and spilling out into the outside world. The hundreds of missing Kobolds in the Ruins of Dal’mohra dungeon must have been displaced through the cavern system, turning up as raiding parties that descended from their new lairs in the mountain caves to prey on the hardworking farmers in the valleys below.
+
+Fortunately, there were not too many injuries, and Malika had been able to easily deal with those. And they were quick enough to avoid extensive damage to the crops and farms.
+
+Ali quickly grew to enjoy these jobs. A lovely walk through the forests during the afternoon and early evening, followed by a spell of clearing out the Kobolds in the caves. They would camp overnight to ensure the problem was properly taken care of and return to the Adventurers Guild early in the morning to report on their success. This, and the overwhelming gratitude from the farmers and their families, was clearly the reason many people chose the life of an adventurer and joined the guild, and she could now understand why Vivian Ross was so adamant that a strong Adventurers Guild would benefit Myrin’s Keep.
+
+Ali smiled her thanks to Mieriel and dropped the gold from the latest job into her already much-depleted money pouch. She stared at it forlornly before storing it in her ring once again.
+
+Perhaps I need to admit I have a problem. She had spent the bulk of her earnings on the books that Ryn had recommended, and her goal of saving up for the Monster Compendium had already been pushed back several times. But Ali didn’t regret it one bit. She was looking forward to her lunch date with Ryn, later today, and the opportunity to chat about the book she had just finished reading. Ryn was rapidly catching Ali up on the literature of the current era, and her recommendations had been excellent overall – only two of the stories had turned out to be duds, and Ali had read them cover to cover anyway.
+
+Ali wandered over to the guild store to browse while her friends finished up their business.
+
+“Hi Weldin,” she greeted the smartly dressed Gnome. He had a new eyepatch today, and it looked like it had some costume jewelry sewn into it, making it sparkle.
+
+“Oh, hi Aliandra,” he said, getting up and walking over slowly, his cane clicking as he used it to support his damaged leg. Every time the cane struck the ground, tiny flickers of red flame ran up its length. But instead of heat, and the hunger of fire mana, Ali saw the magic was created by light affinity mana.
+
+“Nice illusion enchantment,” Ali complimented him.
+
+“If I can’t actually be fast, I should at least look impressive, right?”
+
+Ali chuckled. At least he’s handling his permanent injuries with a sense of humor.
+
+“I wanted to thank you,” he said, indicating a new mannequin at the front of the store which displayed a human-sized set of cotton cloth armor very much like the one she wore herself. “Lydia Avery stopped by.”
+
+“Oh?”
+
+“She said that you encouraged her to talk to me. You’re looking at the new exclusive outlet for Lydia’s Allure’s stylish line of combat gear and armor.” He puffed out his chest proudly. “Right here in my establishment.”
+
+“Congratulations!”
+
+“It’s a provisional arrangement for a couple of months, just to see if it works. But I get a nice percentage for everything I sell – she’s quite generous. I already sold the Gnome-sized one to dear Ms. Puddlecrash this morning. I even had a visitor from the Novaspark Academy of Magic stop by to browse. So, I think it’s going to be perfect.”
+
+“I’m so glad,” Ali smiled, happy to see that Lydia was going to be able to sell her new items at the guild store. It might not sell a lot of items, but it seemed like the kind of investment that might pay off handsomely in the future. Ali didn’t know Weldin quite as well, but she liked his posh outfits, positive attitude, and impeccable manners, and she was happy to see him excited about the partnership deal she and Malika had suggested.
+
+“I’m ready,” Malika said, joining her.
+
+“Ok,” Ali said. Malika had agreed to accompany her to the Guildmaster’s combat training class, and then to practice with her afterward, until she had to leave for her lunch date with Ryn. It was going to be a busy morning, but Ali was excited to learn something new.
+
+***
+
+Ali stood on the threshold of the library and wiped the sweat from her forehead. Who knew growing plants with a magical Grimoire could be such a sweaty business? She had made a firm resolution to work on leveling her Grimoire so that she could expand her repertoire of imprints and not be forced to waste any, and now as she stood at the entrance to the library, she admired the noticeably larger floating Grimoire and the two notifications she had earned on the way down.
+
+Grimoire of Summoning has reached level 19 (+2).
+
+A job well done!
+
+Turning, she looked back the way she had come. Stretching out into the ruins and out of sight was a broad swathe of moss carpeting the ancient stone pavement, and dark green ivy growing on the walls of ruined buildings. It was a little crooked, but her long path of new plants extended all the way back and up the ventilation shaft connecting the spot she was standing to the rest of her domain in the cavern above in an unbroken line that was beginning to emit the brilliant gold and green glow characteristic of her mana.
+
+It had been hard work. Down here in the stone-crafted ruins, she had been unable to use her tree imprint to leapfrog huge distances with her mana, forced instead to painstakingly grow connected moss and ivy. She had completed her domain growth by planting thousands of mushrooms, deconstructing the ones she didn’t need but grew by the annoying random variant selection of her Grimoire, leaving mainly the arcane Common Glowcaps, shedding their golden light against the dark stone ruined walls.
+
+Surprisingly, her new Brown Stonecap mushrooms grew extremely well down here, their earth affinity making them ideal for growing right on the stone walls and pavement. Initially, she had removed them, but after she discovered how much they liked the environment, she left the hundreds created by her Grimoire to grow inside the dark corners of the run-down houses.
+
+Basil had told her he would post a request with the guild when he and Eliyen ran out of the mushrooms they had collected, and Ali was keeping an eye out for that. As soon as the job was posted, Ali would be ready with another load of Stonecaps for them, harvested from right down here among the ruins.
+
+Ali pulled out a snack and sat for a moment, taking a much-needed break. The ruins seemed safe enough now that all the monsters had been expelled, but Ali was hardly alone down here. Her minions were standing around keeping watch, and in the distance, she occasionally saw the brilliant white light of Calen’s magic as he roamed around exploring every nook and cranny of the city. No doubt he’d come running over in a minute with some trinket or discovery. Nothing escaped his notice.
+
+Her attention returned to her notifications and the brightly glowing Grimoire that hovered in the air beside her.
+
+What should I learn? She had three open imprint chapters and at least fifty times that many ideas for what to fill them with. She slipped her awareness into the projection of her storage ring in the back of her mind and browsed through the contents she was carrying with her.
+
+I should definitely learn these, she thought, spending the traces of mana required to retrieve a pile of Kobold bone bracelets that she had been collecting. She had several for fire magic, bone magic, and a selection of healing ones. It took only a few minutes to reduce the entire pile into a cloud of golden motes of mana and the soft sound of a chime congratulated her on her minor act of annihilation.
+
+Imprint: Bone Bracelet (Hands) completed.
+
+She committed it to her Grimoire, happy to have freed the space in her ring, and with the imprint recorded she would no longer have to worry about losing them in battle.
+
+After her short break, Ali got back to her feet. Her goal had not been to reach the library – that was merely the beginning, the baseline from which she could begin. She gazed into the darkness of the library, recalling the monsters, the fighting, and the creepy creatures of bone. No, she was here to claim the library for her own and restore order and knowledge!
+
+She stepped into the dark library; the echoes of her footsteps gobbled up by the vast blackness. She felt daunted, like a tiny firefly with her Grimoire, trying to bring light to the enormity of the abyss.
+
+It’s not going to fix itself. Summoning her determination, Ali began deconstructing the vast sheets of encrusted bone covering the entry and replacing it with a soft carpet of moss.
+
+Imprint: Bone completed.
+
+I’m going to be dismissing that notification every five minutes in here, she thought, finally deciding to commit the imprint to her Grimoire, just to quiet the annoying notification as she cleared her way to the first bookcases.
+
+Carefully, she held her excitement as her magic began to clear the shelves, stripping away the bone, and exposing the ancient books still appearing well-preserved after thousands of years. Heart beating in her throat, she reached a slightly trembling hand to pull a book from the timeworn shelf. She gasped in dismay as her fingers passed right through the book as it instantly crumbled to dust and poured out of the shelf making a small pile at her feet.
+
+With infinite care and gentleness, she tried again, but once again the book was too far gone, this time evaporating from the soft touch of her exhalation before she even reached it with her fingers.
+
+Is it all gone? She stared at the vastness of the library and the obvious evidence of age and decay, the result of ages of neglect at the hands of the dungeon, and felt tears welling up in her eyes at the magnitude and sheer scope of the loss of knowledge. Was this all a complete waste?
+
+As she mourned the library and all the knowledge that had once been present, a stray thought crossed her mind.
+
+What if I learn to make them? It was a crazy thought, but where the ravages of time had destroyed the collected works of the library, perhaps her magic could bring some of it back? If she could learn to make something as complex as a living monster, perhaps she could learn these books, and reproduce them?
+
+Barely daring to breathe, lest she inadvertently destroy what remained, Ali began deconstructing the books on the shelf, one at a time. Ten, fifteen, twenty. She quickly passed the normal threshold without any reaction from her skill. Determined, she pressed on, thirty, fifty, until she had completed the entire shelf.
+
+It's not working. She felt she had deconstructed over a hundred books, including pieces, dust, and destroyed remnants before she sat back, trying to understand what was wrong. She had even felt her Sage of Learning drawing from her mana, only for her deconstruction to replace it, but somehow something was still missing.
+
+She deconstructed an entire second shelf before the idea crossed her mind.
+
+What if it needs an intact book to complete the imprint?
+
+The thought popped into her mind, fully formed before she even had the chance of stopping it because of the horrifying implications. But there it was, and she was helpless to unthink it. She gazed at her precious books stored safely in her ring, struggling with the fact that she would need to destroy one of them to prove her idea. If it would even work.
+
+I can’t. Books were sacred to her, and the idea of defacing one, or worse, destroying it, was anathema to her entire being. But all around her, the weight of thousands of books pressed down on her mind, her conscience. If she didn’t try, she would never know if she would have been able to save it all. Even just recovering a small fraction of the library would be well worth it.
+
+She pulled out a book from her storage, placing it on the ground before her, and stared at it for a long time. It was one of the few recommendations Ryn had made that she hadn’t liked. It wasn’t that the book was bad, but the style was one she didn’t prefer.
+
+I have to try. Gingerly she reached out her hand, placing it on the cover of the book, feeling the raised ridges of the embossed title beneath her fingertips. I’m sorry… Gritting her teeth, she channeled her mana into deconstruction before aborting. She tried again two times before finally she screwed her courage and just forced her way through, gasping in anguish at the sight of the beautiful book exploding into mana under her hand.
+
+The seconds stretched out, ticking by silently in the darkness as she waited anxiously until it became painfully obvious her notification was going to remain silent.
+
+It didn’t work…
+
+She winced as she recalled that her variants typically took several tries to learn. She dragged her mind back into the ring and looked once again, selecting the only other book she hadn’t enjoyed, and placing it on the ground where the first one had just been annihilated by her hand.
+
+She took a deep breath and summoned her magic, closing her eyes at the last moment so she didn’t have to see the destruction of the book. But she felt it evaporate under her hand, and the sensation of pulling, of information flowing into her signaling the book was gone, a second one destroyed by her magic.
+
+Again, the seconds ticked by until Ali finally admitted that nothing was going to happen.
+
+It must need three.
+
+In that moment, Ali hated that rational part of her mind that pushed her onward. She knew it was right, but destroying books, even ones she hadn’t enjoyed, was tearing at her soul. She was committed to this path, as heart-wrenching as it was, but now she was out of options. She would have to destroy a book she had loved. The very idea of returning to The Reading Corner and asking Ryn for help filled her with the harsh burning of shame.
+
+She dithered back and forth for many anguished minutes before she finally selected a small book and laid it on the execution block – the Dwarven-made flagstone upon which she had destroyed its two previous companions. It was a touching story about a girl who had lost everything in the war and connected with her past by exploring her painting. Ali had loved it.
+
+Despite hating herself for doing it, she summoned her magic for a third time. She cried out in the darkness as the book exploded into motes of mana, sending her shadow dancing around the library for a moment until they all dissipated.
+
+Again, the seconds passed, and Ali almost gave in to the despair when suddenly a chime rang out in her mind.
+
+Imprint: Book completed.
+
+Grimoire of Summoning has reached level 20.
+
+Ali stared at the notifications hovering before her, her heart quivering.
+
+It worked? It worked!
+
+She couldn’t let herself believe it for several minutes, but the notification stubbornly refused to vanish. And nobody came by to shake her awake from the dream.
+
+Sudden urgency crashed in on her and she quickly committed it to her Grimoire before anything could take it from her.
+
+Scarcely daring to believe the result, Ali poured her mana into the imprint, and after a few minutes, a book suddenly appeared, dropping to the stone floor with a soft thump. In awe and excitement, Ali reached out to get it, but her hand stopped a few inches from the cover.
+
+Something is wrong. The letters depicting the title were cleanly embossed into the brown leather of the cover. But they were just a random set of letters, forming no words in any of the languages she knew. With a dark premonition falling over her, she snapped the book up and opened it, paging through in increasing desperation as her frantic hands revealed page after page of gibberish.
+
+In a state of panic, she made another book and another. But they too were filled with unintelligible random letters.
+
+The book dropped from suddenly nerveless fingers as realization crashed in. Her Grimoire was inherently random. And while randomness of hair color, scale arrangement, eye color, and such things were perfectly suitable for creating monsters, the variations in the contents of a book were the point of the book. Messing with the order and arrangement of the text destroyed the meaning. And her skill obviously didn’t understand meaning, and so had produced perfectly good copies of the books she had deconstructed, complete with uniformly distributed arrangement of the differences and variation it had encountered.
+
+It was too much. Ali broke down and cried in the middle of the library until Malika came to find her.

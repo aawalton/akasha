@@ -1,0 +1,115 @@
+---
+id: 9774d716-3d72-5143-a61a-20b7a26ddc65
+page-type-slug: story-chapter-royal-road
+title: "Chapter 240: Temple of Ice (Part 1)"
+slug: 0272-chapter-240-temple-of-ice-part-1
+partOf: dungeon-of-knowledge-complete
+position: 272
+ownLength: 2130
+unit: words
+ownProgress: 2130
+publishedAt: 2025-05-04
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2254189/chapter-240-temple-of-ice-part-1"
+royalRoadId: "2254189"
+markedReadAt: "2026-06-29T20:20:26.576Z"
+---
+
+Calen left Ali and Malika to deal with the altar and the frozen troll prisoners. It wasn’t that he didn’t care, with his skills he would just get in their way – besides, someone had to keep an eye out for wandering monsters after all that noise. With all his senses focused, he carefully patrolled the perimeter of the courtyard and the ruined ice temple.
+
+Or whatever this place is, he thought. Explorer was giving him confusing impressions, which he assumed was due to the immense age of the ruined buildings and the supposed quarry it had been built in. But it had also very recently been subsumed into the dungeon and then repurposed as Mok’freja’s icy throne room by her potent magic. Not a wonder his skill couldn’t quite place it.
+
+He threaded his way among the towering slabs of softly dripping ice, slowly defrosting now that the blizzard and the inexorable chilling bite of Mok’freja’s aura had abated.
+
+Until the dungeon respawns her, he thought, letting the frown crease his brow for a moment. But he didn’t know for certain if that would happen – nothing about this dungeon was normal. How, for instance, could a dungeon turn an independent troll champion into a boss? All three unique, named bosses: Kir’mogan, Kir’vella, and now Mok’freja had once been independent sapient entities. This was something he had never heard of. Was there some sort of hidden profane ritual to bind a person to a dungeon’s mana?
+
+Impossible… and yet, he couldn’t deny the evidence before his very eyes. Did they choose this? Could I even imagine becoming… one of these? Now he understood what Zor’kan had been saying to Ali, and it twisted his gut. This was beyond perversion.
+
+He crouched down to study the tracks on the path leading up toward the pass; he wasn’t about to let some wandering patrol of monsters leap out and surprise his friends while they were recovering from the battle, but he needn’t have worried – the entire jungle above the ice palace was cut off by the familiar invisible barrier of the Lich’s magic.
+
+He pressed against it with his fingertips, feeling the unyielding smoothness his eyes insisted wasn’t there. At least Explorer was beginning to recognize the phenomenon by the subtle way the jungle growth avoided it and… something else. His scouting perception skill was sometimes hard to figure out, but he had learned to trust the intuition it granted.
+
+Beyond the transparent barrier, the path wound ever upward, vanishing into the jungle. On the bluff above the quarry, several ancient stone buildings covered with dense red blood-affinity moss nestled among the trees and vines. There seemed to be so much of the disturbing moss that the buildings wept red rivulets, soaking the cliff face and staining the ground a deep crimson.
+
+That must be the top, he deduced. The summit of the Temple of Aman Rak. According to Zor’kan, it would be there that they would most likely find Tol’brekk – Aman Rak’s supreme troll.
+
+However, that was not what worried him most, right now. His fingers brushed a little more of the melting snow away, fully revealing the three-toed footprint of a troll. A footprint that was bigger than his entire chest. By the depth of the impression, whatever monster had made this likely weighed more than Ali’s biggest Forest Guardians or Armored Drakes.
+
+How is this possible?
+
+It was not that he’d never heard of the giant trolls before; they featured in all the bards’ tales about trolls – and in many of the legends and stories, giant trolls were the ‘monsters’ that heroes slew in a single blow of ‘divine justice’. It was just that he had always assumed there was some significant amount of exaggeration going on. Unfortunately, if anything, the print embedded in the path before him was much bigger than even the most unbelievable of tales.
+
+I’m not going to get an answer until Ali opens the barrier, he thought, rising to his feet. Even the giant troll zombies Alexander Gray summoned were small compared to these. Explorer told him the tracks were real; he was just going to have to wait. And keep an eye on her while she works. The air still carried a chill, but it had lost much of its bitter, penetrating bite and the flurries of ice and snow had dissipated, leaving a crisp snow-covered clearing that sparkled and gleamed in the sunlight. Mok’freja’s death had clearly released the hold with which her mana had gripped the surrounding land and jungle. Now that it was gone, the environment was slowly reverting to normal.
+
+He turned, recognizing the sound of approaching Troll footsteps, and found Zor’kan examining the barrier with a curious hand.
+
+“The Temple of Blood,” the master leatherworker said, pointing at the buildings he had glimpsed on the bluff above the quarry. “It has been the pride of Aman Rak for generations. The blood and mana of the moss seeps down into the ground and over thousands of years it has imbued the stone with the essence of Aman Rak. This is the only quarry in the world that can produce bloodsteel ore.”
+
+“And you’re sure that’s where we’ll find this Tol’brekk?”
+
+“Certainly,” Zor’kan nodded. “And not alone.”
+
+“These?” Calen asked, pointing at the giant footprint.
+
+“Yes. Giant Trolls. Warriors of carnage. They served as Aman Rak’s shock troops in battle and Tol’brekk was the greatest of them. You would do well to be wary.” The proud leatherworker paused, deep in thought for a few moments before continuing. “I did not expect you to prevail against Mok’freja. Come, I must make you better armor; what you’re wearing is awful. Even without my equipment, I can do vastly better.”
+
+“Why would you do so much for me?” Calen asked, surprised by the master leatherworker’s sudden offer. Trolls were notorious for being unwilling to help other races; even Lyeneru had had to save Zor’kan’s life just to get a bracer.
+
+“I must fight for Aman Rak, for my people. This is my only weapon,” he answered soberly. “I do not have the materials to help your bear friend, and the monk cannot wear body armor, so you alone must carry my work into battle. I only hope that it will be enough when you face Tol’brekk.”
+
+“I will wield it for the honor of Aman Rak,” Calen said, the troll words coming easily to his tongue.
+
+Your proficiency with the Troll Language has improved.
+
+The Troll met his eyes for a moment with a measuring gaze, and then nodded once and turned.
+
+Calen followed in silence as Zor’kan led the way back to where the others were making camp in the quarry. If the master leatherworker’s other pieces were anything to go by, whatever he chose to make would be incredible.
+
+The battle against the Telim Gor Ice Queen had been far too close for his liking; he constantly replayed his memories of the fight, picking apart his performance, searching for anything he could have done better.
+
+If Ali hadn’t come up with her clever solution, sending him to the Spirit Realm with her witch doctor, he knew he would have died to that Shatter. He had made a clear mistake earlier in the fight, downing a mana potion out of sheer habit when an agility elixir would have been a much better choice. He had also been caught out of place, too far from the shamans for healing – that had become a persistent problem, but one he hadn’t realized early enough due to the impressive amount of health he could leech when he was firing at full speed. The shamans were melee fighters, and he had become accustomed to standing at maximum range among Ali’s Acolytes. Now that she wasn’t using them, he would need to adjust his situational awareness of the fight to ensure he could be healed.
+
+On the other hand, Ali’s trick of sending him to the Spirit Realm had taught him a new method of regaining stealth during a battle; the Ambush strike he had pulled off when he returned had been nothing short of devastating.
+
+I wish we had more time to study her. Testing Mok’freja and learning all her abilities before fully engaging her in battle was a smart strategy. While he had studied all the abilities of Ali’s troll Ice Mages, the powerful aura of cold – clearly a dungeon-enhanced ability – meant that everyone was permanently chilled. This had made her Frost Nova vastly more significant – more dangerous – freezing everyone in an instant instead of chilling them first, and that simple interaction had changed his expectations of the fight dynamic dramatically.
+
+But because Lyeneru was presumably still holding off the Lich, denying him entry to the dungeon while they cleared it, and the troll victims being sacrificed, he simply didn’t have the luxury of time to test out the fight before committing.
+
+I just hope having to be this hasty doesn’t come back to bite us.
+
+He sat himself down on a pile of rock, watching curiously as Zor’kan began to pull out leather hides from his Troll Pouch, slicing and stitching quickly. Time to check my notifications.
+
+Archer of Light has reached level 80 (+6).+60 attribute points.
+
+Wow. Eighty. He paused, letting the significance of that number settle in. Nendir would probably grumble about leveling too fast without spending the time to properly refine his skills, but it was not like he had much of a choice here – Lyeneru needed him to scout this dungeon, to discover the truth of what had befallen Aman Rak.
+
+So, sixty points, mmm… He popped open his notebook and reviewed his projections and calculations. Even with the incredible resource leech enchantments dramatically changing his style of combat, and even the direction of his build, it was still clear that he couldn’t totally ignore stamina and mana progression. Or health. Mok’freja’s freeze-and-shatter combination was the clearest evidence of that. He spent three points on vitality first, and then three more on wisdom. He pursed his lips, ran a few calculations, and then glanced ahead at his notifications.
+
+Howling Hellfire Bow has reached 67.
+
+Yup, I figured. “Hey, Zor’kan, mind identifying my bow quickly?”
+
+“Sure,” the leatherworker said, glancing up from his work. “Here you go.”
+
+Howling Hellfire Bow – level 67A powerful recurve bow of exquisite construction. When triggered, this bow’s ability wreathes it in hellfire and causes a demonic howling when fired. Damage: Ranged, Physical, HellfireStamina: Attacks gain +27% additional damage as Hellfire.+18% to Attack speed.+2% of your damage is returned as Stamina over 30 seconds.This weapon will gain experience as you use it, up to +13 levels.Requirements: Dexterity 235, Strength 103Two Handed – Bow
+
+“Thanks,” Calen said, returning to his calculations. The strength requirement is growing. He studied his bow’s slowly growing enchantments for a moment, grinning at the increases in the damage enchantments, and then spent two points each on endurance and strength. Ok, still a little tight, but that should do it. He spent twenty points on dexterity, fourteen on perception, and the final sixteen went to intelligence; solid growth for his primary attributes.
+
+He smiled, happy with the results. He might need to adjust his strategy next time – he didn’t want to lock himself into any particular item just to meet the requirements to wield his bow, so he may need to spend even more on strength. It wouldn’t do to be forced to pass up on a good item upgrade just because of poor attribute planning.
+
+Ok, skills.
+
+Radiant Archery has reached level 42 (+3).Arrows of Brilliance has reached level 47 (+4).Motes of Light has reached level 29 (+2).Explorer has reached level 41.Blessing of the Dawn has reached level 33 (+3).Eclipse has reached level 29.Eyes of the Archon has reached level 30.Righteous Fury has reached level 25.Mirage Armor has reached level 27 (+3).Bowcraft has reached level 9.Your actions have increased the reputation of your patron.You have gained the Blessing of the Wanderer.
+
+The rewards for taking on such a dangerous fight under such time pressure were substantial. With the amount of ice damage flying about, his defenses had leveled up substantially, and now that he could fire continuously without running out of mana, he was getting vastly more practice using his archery skills under extreme conditions – and even in this single battle he had fired more arrows with more enchantments than probably both the first two bosses combined.
+
+The Wanderer must be happy with me. Every significant step they made through this dungeon increased her reputation and came with a commensurate refresh in his patron’s blessing. And these were twenty-four-hour blessings.
+
+Just then, his chime sounded once more.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

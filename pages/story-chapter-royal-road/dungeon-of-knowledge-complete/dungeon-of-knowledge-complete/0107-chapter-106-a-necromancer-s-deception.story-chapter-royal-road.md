@@ -1,0 +1,185 @@
+---
+id: 0ad18e19-477e-5db3-bb07-9ce38508987d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 106: A Necromancer’s Deception"
+slug: 0107-chapter-106-a-necromancer-s-deception
+partOf: dungeon-of-knowledge-complete
+position: 107
+ownLength: 3319
+unit: words
+ownProgress: 3319
+publishedAt: 2024-08-01
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1740552/chapter-106-a-necromancers-deception"
+royalRoadId: "1740552"
+markedReadAt: "2026-06-29T20:14:36.079Z"
+---
+
+Seth trudged onward, his legs in excruciating pain both from the unrelenting pace set by their tormentor seated high upon his zombie horse and from the encroaching blight that was progressively eating him from within. He hadn’t found many opportunities to check – the collar’s compulsion was seldom relaxed for any reason – but when he had finally rolled up his trouser leg, he had been horrified to find black weeping sores and withering flesh.
+
+He had spent several days with his skeleton minders, distributing blighted patchwork horrors throughout the forest, and what the abominations were doing to the trees and animals was identical to what seemed to be happening to his legs. He walked because he had no choice, enduring the agony because he was not permitted to do otherwise.
+
+One of the other captured youths had collapsed yesterday when they had finally left the forest and begun to cross the plains. His leg had been entirely withered away by the blight, and the necromancer had simply ripped his wailing soul from his body with some horrific dark spell, raising his instantly dead body as a zombie instead. Seth’s mind had fled to its dark hole for several hours, and after that, he had resolved not to fall under any circumstances.
+
+Alexander Gray.
+
+He had finally learned the name of their tormentor, the necromancer. The Dryad, who was being dragged along the path by her bindings behind one of the zombies had finally woken. She had woken screaming, desolate wails filled with heart-wrenching loss and betrayal, until Alexander had the zombie beat her unconscious.
+
+When she finally awoke a second time, she cursed Alexander, trying to use her magic, but whatever poison he had fed her seemed to make her creations fizzle, or come out already withered and dead. Now, she was tied to a post in their camp, simply weeping. She seemed weak, lost, and inconsolable – and Seth found within his heart a wrenching guilt.
+
+“I’m going to be busy, do not disturb me. And don’t leave the camp.” Alexander commanded, addressing the remaining prisoners, all of them wearing the same collars, sporting the black marks of the blight infection. He had called them his sacrifice gang and instructed them to be joyful that they would be killed to further his power. He seemed to actually believe he was doing them a great service by allowing them to serve him with their lives. Seth had never loathed someone with as much passion as he did Alexander. Gran always used to say that nobody in this world was truly evil – that everybody had redeeming features. You were wrong, he thought, grateful only that she was gone and did not have to endure this alongside him.
+
+As he left, Seth suddenly realized Alexander had made a rare mistake. Seldom did he leave them unsupervised without a command like ‘don’t move’. His instruction, ‘don’t leave the camp,’ left Seth with a surprising amount of freedom. Immediately, he reached for his collar, but as normal, it was as if his hands refused to budge past a certain point. Similarly, he couldn’t even move when he tried to free his companions.
+
+He glanced around the camp, careful in case the necromancer was still watching, but he found no sign of him. Their camp, such as it was, had been established in the remains of a logging town smaller even than Lyton – the former inhabitants already culled to feed Alexander Gray’s growing army. There were five crude stone buildings, one of which was the mill. Careful not to attract too much attention, he walked over to the larger building, searching for a hiding spot. He knew he was going to die, but he retrieved the acorns from his pockets, tossing two or three that had become blighted and hiding the small remaining handful in the stone woodshed, before walking back to his spot.
+
+I can’t free myself. But…
+
+Halfway back to his group, he glanced over at the weeping Dryad, still firmly bound to the stake. The zombies were standing nearby, but he had learned that they were unable to act unless Alexander directly commanded them. Feeling his heart in his throat, Seth cautiously made his way over to the woman. At every painful step, he fully expected something or someone to angrily confront him, but nothing happened. The camp remained quiet – seemingly without volition absent the necromancer himself. Not even his companion prisoners bothered to look his way, presumably having given in to despair.
+
+He crouched down and examined the Dryad. She was in remarkably poor shape, already covered with black sores and withered skin. She bore terrible scrapes and bruises from being dragged and beaten relentlessly. And she was dying. Seth was no healer, but the graying leaves in her hair and the dark lines pulsing just below her skin told him she was suffering and wouldn’t last long in the camp. He had no idea if she would fare well on her own, but if it were him, anything would be better than here.
+
+“Will you beat me too?” The Dryad’s hoarse whisper caught him by surprise, but although he tried, his throat spasmed shut when he tried to answer.
+
+With quick movements, hidden by his body, he quickly untied the ropes binding her, and stepped back, trying to walk back to his spot nonchalantly. To his immense surprise, nothing leapt out to kill him, and when he finally returned to his place waiting with the sacrifice group, he turned and glanced back.
+
+The Dryad’s eyes bore into him, with an unreadable expression. But she no longer wept. With a slow nod to him, she quietly got up and vanished into the brush surrounding the camp.
+
+May good fortune find you, Great Mother of the Deep Woods, he thought, sending the benediction after her disappearing form. Somehow… He might not be able to save himself but saving – at least, trying to save her – lifted a weight of guilt off his shoulders, and for a short while, he felt a little better.
+
+Alexander released the senses of his zombie troll and smiled to himself. His plan was unfolding perfectly – like clockwork. He had judged the boy to be one of those personalities that desperately wanted to do good – a white knight at heart – and he had just been proved right.
+
+So easily are they manipulated.
+
+He required Lirasia to be free, but she needed to believe it was not by his hand, and the boy had just played his unwitting part in this charade perfectly. Lirasia, infected with the blight, the Master’s curse, and suffering several days of Domain Withdrawal from her beloved forest, would be starving for high-density nature mana. With his destruction of her home, she had nowhere to return to – the once great Lirasian forest was now a potent source of death affinity mana and undead blight, rather than nature.
+
+That leaves only the dungeon. And hence his plan. She could detect high-density nature mana somehow – of this he was certain. She would flee, and like a starving rat, lead him directly to the dungeon’s nature mana she so craved, cementing his elevation to importance in the Shadow Council. Perhaps he might even catch the eye of the Master, Nevyn Eld.
+
+All he had to do was follow her right to it – and for that, he had the perfect tool. It was perhaps his most potent skill, and one he hadn’t fully mastered, but for this task, it would be perfect.
+
+He retrieved the corpses of two gray wolves, killed by his zombies back in the forest, and dumped them out on the ground in front of him.
+
+“Arise,” he commanded, feeding his skill a substantial chunk of mana. Instead of raising them as mindless zombies or skeletons, he raised them as Specters. Partially incorporeal, the wolves stood, glowering at him with intelligence and cunning.
+
+Spectral Gray Wolf – Wolf, Specter – level 47Spectral Gray Wolf – Wolf, Specter – level 45Your reserved mana has increased by +304.
+
+“Follow the Dryad, but don’t be seen,” he commanded, and they immediately slunk away into the bush, barely stirring the leaves, their padded feet making not even the slightest sound. He followed them with his mind for a while, watching through their eyes, experiencing the scent of the blighted trail they immediately picked up, before releasing the connection. That was the advantage of specters – they were Greater Undead, capable of retaining both intelligence and their class and skills. They were infinitely more useful than zombies and skeletons. He could give them complex commands to carry out, and in this case, they would retain their perception and tracking skills – invaluable in the pursuit of his goals.
+
+Necromancer is truly the most versatile class. It was too bad his minions were so expensive to maintain.
+
+Once his rat led him to the dungeon, he would follow with his blight and his army of undead and seize the entire area for his own. Nevyn Eld was sure to be pleased.
+
+He smiled.
+
+Blended with the shadows and standing up against a densely mossed oak, Calen let his eyes range across the lush growth of the valley up ahead, taking in the terrain, marking good spots for cover, and keeping an eye out for any movement or dangerous monsters.
+
+His Explorer skill itched. He had been struggling to pinpoint exactly how he might describe the feeling, but ‘itched’ seemed to come closest. While his eyes took in the gnarled ancient oaks, laden with moss and vines, and the myriad creatures that made their homes in the damp nooks and crannies of the branches, his Explorer skill prickled in the back of his mind, reminding him constantly that this place was no normal jungle.
+
+The constant vigilance wore at him, drawing his mind into a backdrop of anxiety and stress, always searching for how the jungle would spring a surprise on him – something unexpected and deadly.
+
+Looks clear, he thought, taking a deep breath to shake off the worry. They had decided to try the opposite direction from the library entrance, moving away from the spawning pool of light, and the further Calen scouted, the more he noticed the dramatic difference. Gone were the golden butterflies and shining bugs, replaced now with wisps of green mana flitting among the trees, tiny frogs and beetles that crawled and hopped, snakes and birds – all subtly warped by the chaotic dense mana of the jungle – all of them an unsubtle reminder to his jangled senses that he didn’t understand this place.
+
+Quickly, he pivoted on his heel, making his way back to the others, tracking his own path through the forest entirely by memory and the sense of direction to his friends that came from his new Sense Prey tracking advance. With a few moments of comparative relaxation in his alertness, his mind returned to the problem that had been bothering him for a couple of days now.
+
+The Wanderer. He had passed the strange deity’s trial and tracked his way through the dangers to find the shrine, and his offer had surprisingly been accepted. He was still ecstatic that he had earned a godly patronage, still barely able to believe it was even real. But that had led to his conundrum. He had a patronage, and he had no idea how to use it.
+
+Godly Patronage – The WandererTraits: Tracking, Dexterity, Deity, Stealth, Explorer, Perception, Discovery, Movement, LuckReputation gained enhances the reputation of the Wanderer. As your patron’s reputation grows, boons and enhancements may increase.Minor enhancement to Movement and Perception skills in uncharted or forgotten places.Mana: Offer an item of value as a request for the insights of the Wanderer.Enchantment – Tithe
+
+He studied the patronage enchantment for the hundredth time. The enhancement to his movement and perception had been quite noticeable – while it did nothing in town, down here in this chaotic and forgotten jungle, his senses were most certainly enhanced, as was his speed moving through the jungle.
+
+But he had wasted tons of mana trying to figure out the active ability to request insight. It behaved much like a skill did – perhaps closest in feel to one of his general skills like Identify. He could intuitively understand how to power it with his mana, but nothing happened. His mana was consumed, but he had no idea if it was working or not. He tried once again, but his mana simply disappeared.
+
+The crux of the problem was he didn’t understand how to ‘offer an item’ or even what constituted one of value. Nor what form the insight would take, and whether he would be able to recognize it when it happened. His eyes were drawn once again to the trait list, hovering on the last one.
+
+Luck. Ultimately, this seemed to be the problem. The scarce few legends about the Wanderer suggested that she would appear at her whim, helping or hindering without much rhyme or reason. Leading to the idea that she might be the favored patron of dice and cards and other endeavors of luck. Perhaps he couldn’t figure it out because he simply wasn’t that lucky?
+
+He rounded an enormous tree to find his friends fully absorbed in watching a strange creature crawling along a large branch. It seemed to be an amorphous mound of green fronds that acted as limbs carrying it along in slow, measured locomotion. In its wake, it left a lush growth of moss where the branch had previously been bare.
+
+“It’s really cute,” Ali said, captivated by the animated mossy mound.
+
+Reacting instantly to the sound of her voice, the moss creature leapt from the branch with shocking speed, revealing a hidden mouth full of sharp teeth.
+
+In a flash, Calen drew his bow and released, striking the monster midway to Ali’s head with an incandescent arrow that yanked it from its attack path, pinning it to the tree behind it.
+
+You have defeated Moss Creeper – Moss – level 4.
+
+He stopped for a moment, bow still held ready, mistrustful of the surprisingly easy kill. But nothing else moved or leapt out to attack them, so he let his skills drop.
+
+“Ooh, the legendary hunter returns to save us from the scary monster!” Mato laughed.
+
+Inwardly, Calen rolled his eyes. While Mato might cope with surprise and stress with humor, he sometimes found it a little annoying. At least he had anticipated a more dangerous threat and his surprise had been that it was too easy – the other way around would have been a real problem.
+
+“I found the path through the next valley,” he said, ignoring Mato’s joke and retrieving the surprisingly dense Moss Creeper from where he had pinned it to the tree, handing it to Ali who indicated she wanted it for her magic.
+
+As soon as Ali was done, he led the way deeper into the jungle, keeping his eyes peeled for danger while his thoughts returned to the problems of his patronage once again.
+
+“What’s bothering you?” Mato’s voice startled him out of his worries, and he glanced over at his friend. Mato made a palm-up querying gesture with his left hand.
+
+“It’s nothing,” he replied quickly, looking back at the trail. He had known Mato for years, and his typical approach to the emotions and feelings of others had all the finesse of a stampede of blind oxen. However, at times he could be annoyingly perceptive – usually, exactly when Calen appreciated it least.
+
+“Hmph,” Mato snorted, heavy on the disbelief.
+
+“Your comment was a little unkind,” Calen finally admitted.
+
+“What, the legendary hunter?”
+
+“Yes.” Sometimes he wondered how his friend could be so dense. Or at least consider that others might take his comments a different way than he did.
+
+“But you have a godly patronage. Nobody else does.”
+
+“Yes, and I can’t figure out how to use it.” And there it was, the surge of embarrassment and shame. Yes, he had done the unthinkable and earned the patronage of the Wanderer. And now Mato had forced him to admit he wasn’t smart enough to figure out how to use it. It stung.
+
+“I’m sorry,” Mato said, sounding so remorseful Calen felt as if he had kicked a puppy. Aargh, Mato! Honestly? “I didn’t know.”
+
+“Just… forget it,” Calen answered, turning on his Explorer skill to see if there were any monster tracks he might have missed earlier, though he had carefully studied the ground both ways.
+
+“What happens when you try it?” Ali asked.
+
+“Nothing, my mana just vanishes.” Now everyone was curious, and the subject would be impossible to avoid.
+
+“What did you offer?” Malika asked.
+
+“Whatever I have in my ring,” he answered. He could tell they were just trying to help, but he really wished they would just let it drop. “I think I’m just unlucky, and the Wanderer is a patron of the Luck trait.”
+
+“Why don’t you flip a coin?” Ali asked.
+
+“What?”
+
+“Didn’t you say that’s how you activated the shrine?”
+
+“I…” It can’t be that easy, can it? He pulled out another of the Dal’mohran gold coins, glancing at the gleaming coin with its ancient imprint still fresh on its surface. Flipping it into the air, he channeled his mana into the patron enchantment.
+
+The coin flipped end over end, easily tracked with his heightened reflexes and enhanced perception, but as it reached the apex, it simply vanished with a barely audible pop and a shower of sparks.
+
+You have gained the Blessing of the Wanderer+12 to Dexterity.+8% to Movement speed.Blessing – Duration: 3 hours.
+
+It worked… It was such a complicated rush of conflicting emotions that he struggled to unravel them for quite a few moments, staring at the notification and the spot where the gold coin vanished. He felt his face heating up so fast he’d start leaking steam in a second.
+
+“Nice!” Mato brought him back to reality.
+
+“Did it work?” Ali asked, with barely suppressed excitement.
+
+“It worked,” he answered, sharing the buff he had just received.
+
+“That’s impressive,” Malika said. “I’m jealous! I want a movement speed enhancement too.”
+
+“I feel stupid,” he admitted finally. The relief that his achievement would be useful warred with his frustration that it had taken Ali to figure out the trick.
+
+“Why?”
+
+“Because I couldn’t figure it out myself.”
+
+“You would have figured it out soon enough,” Ali responded with a casual confidence that he certainly didn’t feel.
+
+“You don’t know that.”
+
+“Brain that size?” Malika scoffed. “Please.”
+
+“You figured out the shrine itself, and that had even fewer clues,” the Fae explained earnestly. “I’m sure it wouldn’t have taken more than a day or two without help. You would have systematically worked through everything you knew, and you would have ended up with the shrine and tried that.”
+
+“I guess so,” he answered, surprised at how well Ali knew his mental process already. He had been about to get out his notebook and start enumerating everything he had heard or experienced related to the Wanderer, so she likely would have been proved correct too.
+
+“It’s an expensive enhancement though,” he finally added. A gold coin each time would bankrupt him even faster than his need to fund his mana potions.
+
+“Seems worth it,” Malika answered. “Not for everything, but for the harder fights.”
+
+As usual, Malika had a clear insight into the tactical value of these things. One gold in his storage wouldn’t do him any good, whereas the movement and dexterity boost on a challenging fight might save his life. But now he had more questions than he had started with. Can I use smaller coins? Are the enhancements random? Or can I influence them? Either way, it was likely to be an expensive ability to test.

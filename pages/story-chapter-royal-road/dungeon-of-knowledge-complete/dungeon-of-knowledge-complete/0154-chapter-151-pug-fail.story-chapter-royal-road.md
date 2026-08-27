@@ -1,0 +1,273 @@
+---
+id: 7a376612-8824-5a6e-a8e5-d0d89c35ac29
+page-type-slug: story-chapter-royal-road
+title: "Chapter 151: PUG Fail"
+slug: 0154-chapter-151-pug-fail
+partOf: dungeon-of-knowledge-complete
+position: 154
+ownLength: 4136
+unit: words
+ownProgress: 4136
+publishedAt: 2024-11-03
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1882771/chapter-151-pug-fail"
+royalRoadId: "1882771"
+markedReadAt: "2026-06-29T20:16:10.953Z"
+---
+
+Definition: Pick up group (abbrev. PUG). An opportunistic raiding group formed from relative strangers who have no experience fighting together. Over time, this term has become a derogatory label for any moderately inexperienced group that has not fully mastered their teamwork or even for more experienced teams when encounters do not go as well as expected.- Excerpt from The Adventurer’s Guide, Third Edition
+
+Heart racing, Teagan sprinted along the softly lit tunnel, trusting the thick layer of damp springy moss pressing against her bare feet to keep her from slipping on the ancient crumbling brick below.
+
+“Hurry!” she urged. “We must get there first!” When the Guildmaster had announced that Aliandra had made her first boss in the sewer, she knew this would be her chance. If they killed it first, they would finally pass Aiden and his team and beat them to bronze rank. Ever since she had added Seth to her team, their progress had skyrocketed – with another level or two from the boss kill, they would take first place in the guild. Well, except for Aliandra and her team, of course. She didn’t mind that – they were silver-ranked adventurers and not in the same league. Silver felt like the very skies above.
+
+Most of the sewer monsters barely earned her any experience anymore, and they needed to hunt for the highest-level monsters to make real progress. Beating this boss would be their ticket to reaching bronze rank and unlocking the jobs board, and all the prestige and opportunities that came with being fully-fledged guild members.
+
+But we have to get there first!
+
+“Are you sure about this, Teagan?” Willow asked, barely even breathing hard. She fired two arrows in quick succession at the pair of chirping Kobolds that burst from a side passage and into the path of Braden’s sword. “The Guildmaster said it was a raid boss. We need to be careful.”
+
+“She’s just being overly cautious,” Teagan answered, summoning her totem and cueing up a healing spell for Braden. “Besides, we have seven people, and everyone has a recall potion if things go very badly.” And there isn’t time to recruit more.
+
+Willow fell silent as she focused on the fight.
+
+Your group has defeated Warrior – Kobold – level 6-7 x2
+
+Teagan deliberately ignored the stomach-churning wet sounds of flesh tearing as Seth added the two new corpses to his collection of skeletons and focused on the shadowy entrance to the chamber up ahead.
+
+This must be it.
+
+Silence descended on the sewer in the aftermath of their brief fight, punctuated by the soft plinking of dripping water and the occasional creaking of bone as Seth’s skeletons shifted back and forth. Holding her breath in anticipation, she followed Willow through the arched entrance and found herself in a chamber far larger than any she had seen so far. The walls and floor were the same moss-covered, crumbling brick that made up most of the sewer system and through the center ran a channel of faintly glowing water.
+
+Dotted throughout the chamber were the ever-present golden glowing mushrooms, casting a dim magical glow against the walls and floor. At the far end of the chamber, standing in front of a glowing jagged hole in the floor, stood four of the largest Kobolds she had ever seen.
+
+This is it! She identified them at once.
+
+Warrior – Kobold – level 10.Mage – Kobold – level 10.Rogue – Kobold – level 10.Acolyte – Kobold – level 10.
+
+“Four Kobolds,” Willow announced. “Only level ten.”
+
+“Exactly.” Teagan dried her hands on her skirt and remembered to breathe.
+
+“What’s our plan?” Seth asked, nervously shifting from foot to foot behind his skeletons.
+
+“I wanna stab them,” Nicholas declared.
+
+Teagan studied the group of Kobolds, mentally running through the strategy checklist Vivian had given in her lecture. “Braden, tank the warrior and try to get the rogue too. Blair, Nicholas, Seth, and Willow, kill the acolyte first – it looks like a healer. Then the mage. I’ll heal, of course, and Basil will make combat potions if anyone needs them.”
+
+“Alright,” Braden said, adjusting the straps on his shield for a better fit.
+
+There was not a lot to group strategy. Kill the healer first, then the biggest or squishiest damage dealers to eliminate most of the risk, and then wear down the durable warrior.
+
+They didn’t often tackle four monsters at the same time – although the few times they pulled extra adds it had gone well – and with seven in the team now, they were the strongest they’d ever been. Teagan smiled. She couldn’t wait to see Aiden’s face when Vivian congratulated her.
+
+“Everyone ready?” she asked. Waiting just long enough to count the nods, she said, “Ok, Braden. Go.”
+
+“Incoming,” Braden said and rushed forward into the chamber brandishing his shield and yelling some silly battle cry he had come up with. He had been polishing it all morning. Teagan slipped in sideways, placing herself with her back to the wall with Basil by her side and a clear view of the whole room.
+
+Loud chirps of alarm greeted Braden’s challenge, and the powerful-looking Kobold warrior slammed his shield and sword together. The booming crash echoed loudly through the chamber, and he leapt forward to meet Braden’s charge in the center by the water channel.
+
+Teagan winced at the force of their collision, tossing out her totem just in case and readying her healing spell as the black-scaled rogue blurred across the brick, making a beeline for their tank. A gleaming dagger flickered in the dim light and Braden took it on his shield, but the warrior’s bone sword jabbed, glancing off Braden’s parry and slicing into his chest.
+
+Teagan’s heart stopped as Braden’s health plummeted by a third. She healed him, but the rogue’s second dagger flashed, and Braden was suddenly below half health, spraying blood across the mossy ground before she even completed her spell. Her magic lanced from her palm, a beam of green nature magic restoring Braden’s health almost to full. But the warrior struck again, this time a brutal slam with the flat of his shield, getting through while Braden struggled to block the rogue’s daggers, and a gut-clenching amount of Braden’s health vanished in an instant.
+
+What the fuck? Cold pinpricks of sweat broke out on her back and face as she struggled to keep up – the rest of the room fading to the background in her intense focus.
+
+Seth hung back, hiding behind his wall of skeletons and zombies. The Guildmaster had insisted he wait until the tank had everything secured before he engaged. He was uncertain about this group, and fighting in general, but even he could tell the Guildmaster was very experienced. I wish I could go back, he thought, but Gran was dead, and Lyton town was gone. And I’m a necromancer now… the lowest of the low.
+
+He continued waiting, studying Nicholas as he sprang forward immediately, and the violet bolts of arcane magic that lanced out from Blair’s fingertips. They were always hasty, but they wouldn’t listen to him. He allowed the crash of battle to ring through the room for a few moments longer, and then he started. First, he cast his Amplify Damage curse on the Kobold acolyte, and then he added another to the Kobold warrior to help Braden out a little.
+
+“Go!” he commanded. Zombies shambled and lurched forward while the bones of the skeletons made creaking, clacking sounds as they brandished rusty daggers or bone swords. “Attack the acolyte.”
+
+Seth frowned. Braden was locked in combat with the rogue and the warrior and, with Nicholas stabbing the Acolyte, there were no targets for his Volatile Wraith. Hitting his teammates and inflicting Life Drain on them would be a recipe for disaster – and probably expulsion from the team or even the guild.
+
+Beside him, Willow began firing arrows right as his first skeletons reached the Acolyte and engaged. He studied the battle carefully, cycling through his minions using Eyes of the Damned just to make sure he didn’t miss anything.
+
+A hissing noise caught his attention, and a thin green vapor began billowing out from the ground around the acolyte.
+
+“Poison!” Willow shouted, and Seth instantly recognized one of the more potent traps they had encountered down here among the higher-level sewer denizens. Fortunately, his undead were immune to poison so he didn’t pay much attention to the green miasma billowing up from a large circular region of the grimy floor.
+
+The water in the channel just beyond shimmered and swirled and something bluish and translucent slithered up onto the moss with a wet splat.
+
+Brine Ooze – Ooze – level 5 x2
+
+“Adds from the water, two oozes,” he called out.
+
+“Can you take care of them?” Willow asked.
+
+“Yup,” he answered, peeling off two zombies to attack the newcomers. Oozes tended to get wound up in the bones of the skeletons and the zombies had far more health anyway.
+
+“I need a heal!” Nicholas yelled.
+
+“I… can’t! Use a potion!” Teagan shouted, edges of panic and stress making her voice sound shrill.
+
+She’s struggling? She seemed to be furiously casting her healing spells but her gaze was locked on Braden as if she were terrified of losing him.
+
+“I don’t have a potion!”
+
+“Get out of the poison, you moron!” Willow shouted at him.
+
+“Basil, make me a potion!” Nicholas yelled, sprinting toward them.
+
+“I’m busy!” Basil yelled, handing a blue potion to Teagan and pulling out some more ingredients so rapidly that some of them spilled to the ground.
+
+“I’m dying! Help me!” There was a clear note of panic in Nicholas’s voice as he stared with wide eyes at Basil.
+
+“Here,” Seth said, handing him his own health potion. It was his only backup, and it had cost him a substantial chunk of his meager funds.
+
+Nicholas downed it in a flash and sprinted back to the acolyte.
+
+What the…
+
+“Poison, you idiot!” Willow yelled at him again.
+
+Seth was about to say something when a surge of heat and a crushing blast slammed into his chest, knocking him flying into the wall. He bounced, slamming his hip on the ground. In a daze he shook his head, trying to scramble back to his feet and tearing the crisped, burnt skin off his hands in the process.
+
+Fuck, Fireball. He had forgotten about the mage. Beside him, Blair groaned, her hair singed, and the entire left side of her face a mess of burns. Willow sprang to her feet, shooting arrows at the mage, and then sprinted off in a big circle around the room.
+
+Everything hurt. His new shirt had smoking holes in it, and he found his health was well below half. And I just gave away my potion. He quickly fired a Volatile Wraith at the two Brine Oozes, realizing they were out in the open and he would not be hurting anyone when they exploded, hoping his Life Drain would trigger and recover some of his damage.
+
+“Seth, curses,” Willow called out as she sprinted past him on her next lap with the Fire Mage hot on her heels, trying to cook her with a rapid stream of Firebolts.
+
+“Fuck,” he muttered, realizing he’d let his curses drop. He swapped to the eerie vision of his Volatile Wraith and sure enough, the mana of his curses had faded. He circled the room, refreshing Amplify Damage on the highest-priority targets.
+
+A booming shout rang out from the center of the room, catching his attention. The Kobold warrior turned and smacked Braden with a vicious swipe of his shield, knocking him sprawling, and the black-scaled rogue beside him shimmered and vanished into the shadows.
+
+Seth’s eyes widened in horror – he happened to be using the sight of his Volatile Wraith – and within that strange, distorted streaming gray world, he saw the rogue’s shadowy form sprinting for Teagan.
+
+“Teagan! Watch out! Rogue loose!” he yelled, commanding one of his skeletons to protect her, but it wasn’t nearly as fast as the fleet-footed Kobold sprinting through the shadows. With a second shimmer, the rogue appeared, dagger flashing, and Teagan hit the floor hard, her shield rolling free.
+
+“Healer down!” Willow yelled from the other side of the room. Braden, at least, downed a health potion immediately.
+
+Seth’s skeleton arrived, striking the rogue with its bone sword, but the black-scaled Kobold shimmered again, vanishing from his sight, reappearing a few moments later to backstab Blair. She dropped without even a yelp of surprise.
+
+“Fucking run!” Willow screamed. “Get out!” Behind her, the room lit up in an inferno of heat and flame as another fireball detonated.
+
+Seth did not have to be told twice. Instantly, his recall potion was in his hands, but Teagan lay unmoving on the ground and Blair was moaning softly, not even reacting to her surroundings.
+
+Shit a frikking brick, we’re toasted!
+
+“Bring them!” he commanded, and fled from the chamber, firing a parting Volatile Wraith while two of his unflappable skeletons dragged his unconscious teammates to safety and the rest mobbed the Kobolds.
+
+She came to, with a sudden gasp and a surge of remembered pain in her lung just under her left shoulder blade.
+
+Holy magic? She groaned, opening her eyes to find herself staring at the inquisitive ugly green face of a Goblin.
+
+“Teagan ok?”
+
+“Yes… thank you, Havok,” she wheezed – but she kept her frustrated sigh to herself. If Havok was here, that meant Aiden’s team was ready, and they had lost. “Thanks for healing me.” She levered herself into a sitting position and looked around, finding the rest of her team sprawled out on the mossy ground in one of the endless sewer tunnels. Blair seemed unconscious, but Teagan’s senses told her she had been healed, too. Nicholas, Willow, and Braden were still badly hurt, so she spent the meager remains of her mana helping Havok finish the healing.
+
+An angry argument raged beside her.
+
+“Why did you just stand in the poison, you moron?” Willow shouted, gesturing angrily at Nicholas, who stood too close to her with his chest puffed up and a furious expression on his flushed red face.
+
+“Don’t lecture me! You don’t even have a beast yet and you’re a Beast Tamer – what can you even do?” Nicholas yelled.
+
+Willow’s face crumbled and as she turned away, Teagan could hear her choking on her sobs as she failed to prevent herself from crying.
+
+“Weakling,” Nicholas spat and threw himself angrily to the ground.
+
+But Teagan had to agree with her friend, she was simply unable to keep up with the insane healing and Nicholas had not helped in the slightest by repeatedly getting himself poisoned.
+
+What kind of crazy bullshit was that? And how did we even survive? She was about to get up to comfort her friend when a cool voice interrupted her.
+
+“How was it?”
+
+Teagan glanced up to find Aiden crouching beside her.
+
+“Harder than Vivian said,” she admitted, biting her lip against the pride in her heart and angrily blinking away the bitter tears of defeat. But even if he was her rival, and even if it meant losing to him, she could not simply let him take his team in there without a proper warning.
+
+“We nearly died.”
+
+Ali let her point of view drop from her Kobold warrior raid boss and rubbed the back of her neck.
+
+“How did it go?” Calen asked.
+
+“Both groups failed badly, but nobody died, thankfully.” That had been her biggest worry – she hadn’t been even the slightest bit concerned that she might be reducing their experience by supervising the fight and intending to save them if it went wrong.
+
+“That hard?”
+
+“Yes.” It seemed she had a lot to learn about boss design and group strategy. With Calen’s help, she had made her first boss, and whether she considered it luck or the opposite, she had created something extraordinarily effective – at least for its level.
+
+“I see.”
+
+“The boss taunted Braden off the rogue, and it ran wild, almost killing their healer and mage. Aiden’s group simply couldn’t keep up with the healing and had to run.”
+
+“Yes, that group has a weakness in healing – their only healer is Havok, who is also their tank. I wanted to talk with Aiden about that.”
+
+“I forgot to mention I put the Brine Oozes in the sewer channel – both groups were surprised in the middle of the fight. None of them figured out how to handle the mage. It seems that the increased damage from the domain enhancement is something they aren’t equipped to handle.” Ali sighed. Her first boss was a dismal failure – at least for the purpose of helping the guild grow. It’s too strong.
+
+“Give them time,” Calen answered. “Remember our first try at the Skeletal Wyvern?”
+
+“Don’t remind me,” she answered. It had been an epic rout – worse even than the two she had just witnessed from the novices. Without escape potions, she would have died there.
+
+Vivian sat on the couch in the guild hall, calmly surveying the devastation and defeat that filled the room. Some of them were shouting, some were crying, and some others stared blankly at the walls as if considering their own mortality for the very first time.
+
+“But she’s a guild member! Why would she make an impossible boss for us? Is she trying to get us killed?” Nicholas yelled. He was bickering with Aiden, and although Aiden was defending Aliandra, he lacked his usual energy and poise, seeming to be deflated.
+
+It’s time to put on the pressure. Vivian had been waiting for this moment for a while now, unsatisfied with the commitment to excellence that was required to be a successful adventurer from many of the guild members. When Aliandra had come in a panic to warn her about the new raid boss, she had realized that it would be the catalyst that brought things to a head. She was just glad nobody had died in the lesson, although by the snippets of their accounts, it had been a close call for many.
+
+“Perhaps you’re just not good enough,” Vivian declared, cutting through the angry voices, and leaving a wake of shocked silence across the entire guild hall. She could guess who would stay and who would give up, but there were a couple that teetered on the edge. How they chose would change the course of the guild for the next couple of months for certain. I can’t compromise. I know where that path leads. After all, without consistent quality, a single weak member could take out a team of even the most experienced adventurers in the blink of an eye. She had seen it before. She had lived it. Going easy on them now would be the same as killing them herself.
+
+“What the fuck?” Nicholas said, turning on her. “That boss is impossible!”
+
+“If you had followed the instructions, listened to your teammates, and paid attention, you might have won,” Vivian answered, keeping her voice calm – aloof.
+
+“Fuck you. You can take your provisional membership and shove it up your ass, I’m done with you morons,” he yelled, and stormed out of the guild, throwing his ring at Mieriel on the way out.
+
+“Anyone else?” Vivian asked, her voice sounding loud in the shocked silence.
+
+“I’m sorry, it’s too much for me. I… I don’t want to be Fireballed again. I nearly died,” Blair said, getting up and walking out. She at least handed in her ring politely before she left.
+
+She was followed shortly after by both provisional members of Aiden’s team.
+
+So much for recruitment, Vivian thought, pressing her lips together. Every single provisional member had now abandoned the guild and she was back to square one, if not worse, depending on what followed.
+
+“What about you?” Vivian asked, turning to hold Willow’s teary-eyed gaze. “You done too?” Willow was one of the two that she was most worried about. The girl had great instincts, but something had happened down there that caused her to be an emotional wreck, and Vivian was not quite sure what it was.
+
+“I’m not leaving my friends in the lurch. If you think I’m too weak, you will have to kick me out yourself,” Willow sniffed, but her tear-stained face was nonetheless reddening with anger.
+
+So, the bickering got personal, Vivian thought. She was already familiar with Willow’s class and her inability to find a good beast companion to unlock the full power of her abilities. Willow was doing the right thing by waiting to find something strong, a good fit, but someone must have called her out on it, and it had struck a nerve. The pressure of being the weakest link. Unfortunately, she needed to be sure.
+
+“If you’re too weak, you will bring your friends down with you. What can you bring to the team?” Vivian asked, never letting her voice deviate from her calm rational delivery, not able to give even an ounce of softness to acknowledge the tears and frustration.
+
+“I… I know I don’t have my beast yet, but… I can see the poison traps. I learned I can kite the Fire Mage… But what’s the point? We don’t have enough people anymore…” she sniffed and wiped her eyes. “Are you going to throw me out?”
+
+Huh, interesting… that’s a pass, Vivian thought, a little surprised. She had expected Willow to cave and walk out, but there seemed to be some resilience to the girl, the way she bent under pressure but didn’t snap in a way that seemed reminiscent of her name.
+
+“No, I won’t kick you out,” Vivian said. “And it seems we have the perfect number of people.”
+
+There were a few surprised noises throughout the room before she continued.
+
+“Now that they’ve left, we’ll reform you all into a single group,” she said. This was where her last challenge lay. If Teagan could accept it, they would continue, but without her, the group would fail. They simply didn’t have enough healing otherwise.
+
+“You will form a raid group of ten, under the leadership of Aiden,” she announced, keeping an eye on Teagan as she absorbed the news.
+
+“May I ask why him and not me?” she said, her voice struggling with emotional strain.
+
+“Yes, he is better suited to the leadership role for this fight. You were too hasty, driven by your competitiveness, and you took on the fight without proper preparation.”
+
+“I’m sorry,” she said. “I shouldn’t have taken the risk with their lives. I understand and I hope I can still be a member even if you don’t want me to lead.”
+
+“Don’t get the wrong idea, Teagan. You have good skills and the potential to be a great group leader. Today was a lesson, not a demotion, you’re still the leader of your team. For this fight – just this raid – Aiden is the better choice. If you continue to learn and keep improving, it will be you who is the better choice for some fights.”
+
+“Ok,” Teagan said, her eyes downcast and her arms wrapped tightly around her chest.
+
+“Now tell me what you learned from that fight, and we’ll formulate a proper strategy.” Vivian already knew what the boss configuration was from her meeting with Aliandra, but the process was as important as the fight itself, and they all needed to experience it for themselves.
+
+“The warrior and the rogue hit a lot harder than the trash Kobolds in the sewers,” Teagan muttered, still seeming somewhat deflated by her decision, but perhaps encouraged by the feedback. “More than twice as hard. It took all my healing just to keep Braden alive.”
+
+“The warrior has a Taunt, I lost the rogue,” Braden said.
+
+“Seriously?” Aiden gasped.
+
+“I can map the poison traps,” Willow added, still looking upset, but making an effort to contribute positively.
+
+“There are Ooze adds in the water,” Seth said. “Two of them. I think they’re linked to the boss.”
+
+“The rogue is very good at slipping into the shadows if you are even slightly distracted,” Kaitlyn added. “Probably need someone with high perception to mark him at all times.”
+
+So, some of them have actually been paying attention, Vivian thought, listening to the list of abilities and observations each of them had made while the fight had been collapsing around them. With that, the entire group shifted their focus to what they had learned, sharing observations and beginning to formulate a plan. Vivian sat back and listened, only offering input and guidance when they seemed about to make a serious mistake.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

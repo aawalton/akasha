@@ -1,0 +1,243 @@
+---
+id: 25aeedf1-063a-5723-9b92-92229737c9f7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 10: Sage"
+slug: 0010-chapter-10-sage
+partOf: dungeon-of-knowledge-complete
+position: 10
+ownLength: 4726
+unit: words
+ownProgress: 4726
+publishedAt: 2024-02-06
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1508598/chapter-10-sage"
+royalRoadId: "1508598"
+markedReadAt: "2026-06-29T20:11:20.269Z"
+---
+
+Calen
+
+Calen ranged out with his skills active, Mato loping almost silently beside him in the form of a disconcertingly large wolf. He was as tall at the shoulder as that Starving Alpha wolf, but there was far more bulk to his frame and his reddish-brown fur wasn’t matted and dirty like the monsters’. It was rather bizarre to see his friend in this form, but it served only to emphasize the undercurrent of excitement he felt. He had finally earned his Class, and it was a powerful one. He was an archer, of course, with two of his class skills focused on ranged damage and archery. Thanks to Aliandra’s shrine, he had unlocked a powerful affinity for Light magic, and a class that seemed ideal for him, taking full advantage of his higher-than-normal intelligence attribute and augmenting his archery with magical damage. Two skills were primarily scouting skills, and his new repertoire was rounded out with a decent stealth skill and a blessing that improved his attributes.
+
+Bobbing overhead was a small Mote of Light – one of his new skills – which cast a clear and pure light all around him. According to the description, the light he was casting had anti-stealth properties, which would, no doubt, require some extensive testing.
+
+The cavern, with the ancient dead forest through which they walked, was so huge that the light was lost in it, gobbled up by the brooding darkness. But where he stepped, and within their immediate surroundings, it was clear as day. He could easily make out the damp mossy ground, the huge decaying tree trunks, and the abnormally abundant piles of bones that seemed to fill the endless expanse of the cavern. He was a little worried that the light would attract monsters, but the combination of being able to see clearly and their new attributes and skills allowed them to speed through the treacherous terrain, leaping piles of crumbling bone or moldering wood, and skirting the slippery damp patches of moss with ease.
+
+Just how long had this enormous cavern lain sealed and undiscovered right below Myrin’s Keep? A musty odor of age and slow decay filled his nostrils. Just the size of the gigantic dead trees implied it must have been hundreds of years, if not far more.
+
+An overturned rock the size of his fist caught his eye and he stopped.
+
+“Hold up, Mato,” he said, crouching down to examine it. Hmm… Other than the monsters, the only people who had disturbed this cavern were their own group. And this did not look like a rat or a wolf. He cast around carefully, finding a freshly snapped bone a little way ahead.
+
+With a thought, he brought up the description of one of his new class skills – one which he was particularly excited about. The neat white lines of text appeared in his mind, the same way they always did. One thing which had surprised him was that his newly unlocked light affinity matched the color of his interface – as if the system had always known.
+
+Does it always work that way? It would be hard to figure out, but Mato had always said his status was green, adorned with some sort of floating leaves – and he had unlocked a nature affinity, so it wasn’t just him.
+
+Explorer – level 1You have enhanced spatial perception and perfect recall for places you have explored. You can discern important details about the places you are exploring and the creatures that inhabit them.Stamina: Use your enhanced perception to track your prey.Knowledge, Identify, Scouting, Tracking, Perception
+
+Explorer was a powerful perception skill that most certainly cemented his role as a scout. When he had unlocked it, his class had consumed his Identify general skill, producing a tracking skill that also served as an Advanced Identify for places and enemies. As with all advanced Identification magic, there were some drawbacks, however. He had already verified that he could no longer identify the properties of his own bow.
+
+I’ll just have to rely on Mato to identify items in the future, he thought, turning his attention back to the scrapes on the ground and the overturned rock. It’s still a decent tradeoff. Let’s see how this works. He channeled a little stamina to activate his Explorer skill, and instantly the outline of a small light footprint stood out against the ground, enhanced by the magic of the perception skill.
+
+Tala. He sucked in his lips.
+
+It had to be her, there was no other possibility, and the tracks were leading back up to the sewer, light and far apart suggesting the Catkin girl had been sprinting at the time. The flood of information into his mind felt a little strange, like an enhanced intuition that instantly connected his memories of Tala with the tracks. His mind, presumably augmented by the magic of his skill, built a clear scenario of the speed, direction, and even the image of Tala rushing across the damp ground.
+
+Probably she was trying to avoid the monsters, he thought, examining a few more scrapes on the ground a little further on.
+
+“Mato,” he said quietly. “These are Tala’s tracks.”
+
+His friend instantly ceased his prowling circuit, searching for monsters, and turned his large furry head toward him, holding his gaze for a moment with green eyes that seemed to glow softly in the darkness, reflecting his light magic. On silent paws, the wolf loped over to join him, his form rippling and twisting disconcertingly as he switched back to Beastkin with his shapeshifting magic.
+
+“We should find her and have a nice little discussion,” Mato said, his voice low and gravelly like the beast whose form he had just shed still lurked, growling within him. “I’ll help track her,” he said, and Calen watched the somewhat disturbing transformation reverse as Mato’s body lengthened and twisted, shapeshifting back into the form of the wolf. In his new form, he was unable to talk, but Calen had known him long enough to guess his thoughts. Mato sniffed at the tracks for a moment and then took off in a loping run.
+
+Calen followed, easily keeping up now that his class skills boosted his dexterity. He continued trickling his stamina into his Explorer skill to keep the tracking magic active, still able to pick out the footprints in the mud and mossy ground, enhanced as they were by his perception skill. But the longer he kept his skill active, the more a strange, uncomfortable feeling stirred in the back of his mind.
+
+What is this place? He had felt it before, the moment he had climbed down the rope from the sewers into this cavern – a strange prickle that made the hairs stand up on the back of his neck.
+
+After running for quite a while, the light of his floating magical mote finally illuminated the great pile of rock that had avalanched into the cavern from the sewer above, and the nasty waterfall of sewage that had been created in the process. He wrinkled his nose at the stench. The rope that had been hanging from the sewer above was gone – of course – and the tracks led right up to the stone slab that had crushed their former group leader, Donavan Asterford. Calen carefully checked the surroundings, but he found no signs of life. Tala had clearly left, taking the rope with her.
+
+“Over here, Mato,” he said, crouching down to examine the tracks in the dirt. There were finger-sized furrows in the dirt under the stone and a deeper set of footprints.
+
+She must have tried to lift the rock. The cairn Mato had built to cover Donavan’s protruding feet had been disturbed, and some monster had clearly stopped by to snack on him. There were no signs of his expensive, enchanted boots.
+
+Explorer has reached level 2.
+
+At the sound of the chime, the prickle in the back of his mind suddenly intensified. Like the insistent knocking upon a door within his mind. A door he was unable to find. The tracks sharpened, growing far clearer, suddenly showing him the story of how Tala had tried several times to move the heavy boulder.
+
+“Was she trying to steal his stuff?” Mato asked, back in his normal Beastkin form as he leaned over to see what he was examining.
+
+“I think so, but I don’t think she was strong enough to move this. She took his boots, though.”
+
+“Well, whatever else he had is probably crushed.”
+
+“Mato, I know you despised him, but I don’t feel good about just leaving him here to rot. Are you strong enough to lift this?” Mato had shared that his class focused on the strength attribute, and that he had already spent more points to make himself stronger.
+
+“I can try,” he said, in his typical direct manner. He strained and struggled against the weight but to no avail. In Mato’s defense, there was an enormous stack of stone resting on top of Donavan’s corpse. With a last herculean effort, Mato managed to shift the slab just a little, and with a crack and rumble, some stone from higher up the pile began to shift and slide.
+
+Calen darted in and snatched up the exposed pieces of Donavan’s sword and dodged sideways before the rock crashed down, burying the corpse once more.
+
+He coughed several times, waving the dust cloud out of his face, and examined the sword he had recovered. It wasn’t Donavan’s body, but the sword was distinctive and recognizable, even in three pieces.
+
+It will have to do.
+
+“I’ll drop this off with the mayor,” he said. “He’ll know how to contact Donavan’s family and maybe they will want to retrieve the body.” What’s left of it.
+
+“Hey, Calen,” Mato said, “perhaps don’t mention the shrine to anyone? I’m worried that when word gets out, someone will want to take it from Aliandra.”
+
+“Hmm, that’s a good point,” Calen said, suppressing a shiver. Left unsaid was the obvious fact that the shrine was a soulbound artifact, and the only practical way of transferring one would be to first kill the current owner. Perhaps I should have Mom drop this sword off with the mayor. It was going to be hard to conceal the fact that he had somehow earned a class without using the official shrine or waiting the week for the natural path to force his class selection.
+
+“Ok,” Mato answered, “Let’s go.”
+
+Calen pulled out another rope from his pack and knotted it to a fist-sized rock before lobbing it up into the dark sewer to wrap around the boulder he had used to anchor the first line. To his surprise, he managed to snag it on the first try, and soon he and Mato were shimmying up into the sewers where, strangely, the uneasy prickling in the back of his mind vanished.
+
+Calen dismissed his Mote of Light when the two of them emerged from the sewer tunnel into the dirty, run-down alleyway where they had originally entered. A once-profitable merchant district that had grown progressively more dilapidated and abandoned over the years. Overrun with crime, many businesses in the area had been forced into bankruptcy by the prohibitive protection taxes demanded by the local militia organizations or had been gutted and looted by the criminal syndicates. In a way, Calen felt even more wary now that he was in the town after dark, than he had been down in the cavern and sewers where he just had to worry about monsters.
+
+Disappointingly, Tala’s trail had petered out in the alleyway, but there wasn’t much he could do about it. Tracking someone over a hard stone pavement that was regularly used by the denizens of the town wasn’t easy, even with the aid of magical tracking skills. It’s still only a level two skill, he reminded himself.
+
+“I’ll get some food and potions for supplies,” Mato offered, as they began walking down the alley towards the better-lit main street, while Calen kept a sharp eye glued to the shadows for any signs of movement.
+
+“Remember, now that Malika has a heal, potions aren’t as critical anymore. Get a few if you can find a good deal, they’re good for emergencies. I’ll see if I can get my mom to make some clothes for her and Aliandra – they’re both wearing rags.”
+
+“Good point,” Mato answered as they reached the dubious safety of the larger main street. “I think Aliandra’s wearing more blood than cloth. How about we meet back here tomorrow to go back down? Dawn?”
+
+Calen nodded. I’ll have Mom return this in the morning, he thought, glancing at the shards of Donavan’s sword. With so many ongoing class trials in progress, the mayor would undoubtedly still be waiting, and it would be a simple matter to stop by the Town Hall and drop it off. With a quick farewell to Mato, he set off at a brisk pace towards his mother’s house. She would be so relieved to see him alive.
+
+Tala
+
+Tala sat quietly in the shadow of the stone chimney on top of the gutted shell of an old, abandoned building. She shifted her weight carefully to let a little blood flow to the leg that was growing numb. It was cold, and she was tired from keeping her stealth and concealment skills fueled with her stamina while she kept watch over the sewer entrance in the alleyway.
+
+It had been a great day, by any reasonable account. Kieran Mori had worked her hard, expecting immediate results – and she had delivered. Her class, in conjunction with her general skills, meant she was ideally suited for covert assassination, but she had also learned that her skills worked just as well for secondary jobs in intelligence and espionage. Stealth, after all, was great for getting in and out of places without being seen.
+
+Although the information-gathering burglary had paid well, assassination was what she really excelled at – every mark Mori had provided had died in a single strike from the shadows.
+
+As happy as she was with her amazing class, Tala simply couldn’t get the image of Jax and Bastian meeting in that alleyway out of her mind. It haunted her, leaving her with a pall of darkness and a sense of impending disaster that had loomed over her all day. She could not allow word of her killing Donavan to reach the ears of Kieran Mori or Jax Hawkhurst. While she had been certain her previous teammates had been running headlong to their deaths trying to save that pathetic dying creature, especially without her help, now that the stakes were her own life and future, she could no longer afford to rely on assumptions. She couldn’t shake the feeling that they may have survived somehow and would return to the Town Hall to choose their classes. Then her secret would come crashing down on her.
+
+She remembered the look Malika had given her right after the rockfall. She shook her head softly, so as not to interfere with her stealth skill and give her position away while trying to put it out of her mind. I must be imagining it, she thought. But her mind refused to let it go.
+
+She knows.
+
+At least I leveled up today, she thought, firmly taking control of her errant thoughts. At level two, her Silent Assassin should be more than a match for her unclassed former companions. Which was why she was up here freezing her ass off while watching the sewer entrance all night. If they had survived, they would return to choose their classes, and then she would ambush them, and her secret would be safe.
+
+Clink.
+
+Her head snapped to the side at the clear ring of metal against stone, taking in the sight of the sewer grate shifting and moving as it suddenly lifted. Two forms emerged from below – two forms that she recognized instantly.
+
+The Beastkin and the Half-elf. She waited in silence for Malika, but nobody else emerged. The Beastkin carefully lowered the grate back into place, with much more care and silence than she would have expected. Huh. Guess she’s feeding the mushrooms down there.
+
+It was when the two of them started talking and Calen turned that she suddenly saw it.
+
+Tucked into the Half-elf’s belt were the shards of Donavan’s expensive sword. She felt the icy chill of fear as her worst nightmare began unfolding in front of her. They know. It was the only possible reason they had his sword. They would return it to the Town Hall as evidence and then the mayor would ask questions.
+
+Questions she couldn’t afford to have answered.
+
+It was all she needed. She rose from her hiding position and crept forward. I have to kill them and bury that sword. She carefully slipped two daggers from their sheaths on her belt. If she used her twin-dagger Mutilate from stealth and triggered Ambush she should be able to instantly kill the Beastkin, and then the Half-elf would be easy to overcome one-on-one – his skills were all in archery, and archers were vulnerable to melee classes like hers.
+
+As she was about to leap down, a snippet of their conversation reached her ears, causing her to freeze instantly.
+
+“Remember, now that Malika has a heal, potions aren’t as critical anymore.”
+
+What? Malika is still alive? How the fuck does she have a heal?
+
+With mounting dread rising within her, she identified the two boys in the alleyway below – something she should have done right at the start.
+
+Druid – Beastkin – level 1Archer – Half-Elf – level 1
+
+Shit! How do they have classes already? With classes came defensive skills, and while she was still a higher level than either of them, there was no way she could be certain of killing them both.
+
+And Malika is still out there somewhere.
+
+She crouched on the rooftop, racked with indecision, until eventually the two of them left, quickly heading toward the main road.
+
+Fuck.
+
+The only thing she had was the knowledge that they would be meeting here tomorrow and heading back down.
+
+I must find Malika and silence them all. I need a plan. Fast.
+
+Aliandra
+
+Ali woke to the sounds of a strange, dull thumping in the background. She sat up with a start looking around at the unfamiliar environment for a few moments before she realized she had been moved back to the cave where they had fought the wolves. The corpses were gone, leaving only bloodstains and drag marks to tell the gruesome story of the battle.
+
+Her eyes scanned the dimly lit cave, searching for whatever was making the noises, but she didn’t have to look far to find Malika practicing her kicks against one of the walls of the cave.
+
+Surprisingly, the rock and hard-packed dirt seemed to be worse off. Her eyebrows furrowed briefly as she considered the scene before Ali settled down, reassured that she was not in any immediate danger.
+
+I fell asleep halfway through reading my class skills.
+
+While she sat there, she pulled up the skill descriptions again and scanned through the first three quickly. Her fourth skill, Deconstruction, seemed rather unusual. Ali couldn’t figure out what it was really useful for. If it was a combat skill, it looked like a poor one.
+
+Deconstruction – level 1Mana: Release the mana from an unresisting or inanimate target, learning about its structure, and retaining some in your own mana pool. Requires continuous uninterrupted focus and the target is destroyed. Range: Touch.Arcane, Knowledge, Intelligence
+
+I cannot be interrupted. I can only use it on an unresisting target. What monster is going to stand there while I use my magic to turn it to dust? The skill seemed strangely restrictive. Perhaps it’s just a way to restore mana? Ali was particularly curious about the phrase about gaining knowledge about magical structure – the skill was even tagged with the Knowledge trait. Maybe it’s a non-combat skill? Her class was an anomalous ‘hybrid’ class – a unique-ranked class like her mother’s – with one of its main traits listed as Knowledge. That had been one of the most important factors that had drawn her to the class in the first place – a combat class that didn’t require her to entirely give up on magical knowledge and study.
+
+A problem for later. She moved on to her next skill.
+
+Runic Script – level 1You are proficient with runic magic.Languages: Ancient Dal’mohran, Elvish, Dwarven.Mana: Inscribe a runic circle with your mana. Reserve: by level.Arcane, Knowledge, Intelligence
+
+It made her immensely happy to see the Runic Script skill as one of her class skills. Ali had always been fascinated by the language and script of written magic. It was so versatile and beautiful. A well-documented, but rare skill typically used only by archmages and scholars, it was clearly not a combat spell. Finding this skill as part of her initial set took much of the sting out of her decision to pass on the Runic Sage class. Runic Script provided an avenue to pursue her passion, provided of course she could find a library and some magical books to study.
+
+I hope they still have good libraries.
+
+Her final skill, Sage of Learning, appeared also to arise from her years of study and her passion for research. It seemed exceptionally timely that she would learn a skill that might even help with her language issues. Sage of Learning was essentially a combination of her Scholar and Linguist skills, evolved and fueled by both her class and magical aptitudes. She couldn’t wait to see how it worked.
+
+Sage of Learning – level 1Your ability to learn languages, history, and similar academic knowledge is significantly enhanced. You have enhanced memory for the content you have studied.Arcane, Knowledge, Perception, Intelligence
+
+Given the profound frustration of being unable to understand her rescuers, she decided to try the skill immediately. Her first problem though, was that the skill lacked an activation cost. Is it a passive skill? The Scholar and Linguist skills that had been absorbed to make this one had similarly lacked activation and were simply always on – but that didn’t help her figure out how to use it.
+
+For a few minutes, she tried mentally shoving yesterday’s memorized conversations at the skill. It felt like bumbling around in the dark, but something shifted within her memories. Or am I just imagining that because I want something to happen? She tried several other ideas, but nothing she could think of had any obvious effect.
+
+Shaking her head and frowning, she finally gave up, getting up and walking over to where Malika was still kicking the wall. Ali admired her remarkable persistence and patience, and the grace of her movement, watching in silence, not wanting to interrupt her intense focus. After a few minutes, Malika noticed her watching and turned to say something in a relaxed voice.
+
+This time, the twist in her mind was real. Something connected the sounds of Malika’s voice to the memorized conversations and the previously frustratingly familiar syllables actually conveyed some vague meaning.
+
+That was a greeting!
+
+Sage of Learning has reached level 2.
+
+Mana drained from her mana pool in a rush, and her mind was filled with a brief disorienting feeling as if several important things had simply been rearranged in an instant. Her supposedly passive skill was consuming a disturbingly large amount of mana without her control.
+
+Will I be able to stop it?
+
+The sense of meaning had to be from the Knowledge trait of the skill, and it seemed to be attaching the meaning to the memorized conversations as she heard Malika speak. It was a thoroughly disconcerting sensation, a little like the skill was rifling through her memories and rearranging the library card catalog of her mind on her behalf.
+
+Malika looked at her curiously and said some more words. Ali’s mana drained again, and a fresh sensation of meaning emerged, connected to what she heard.
+
+Food? That sounded like a question. Guessing that perhaps she was being asked if she was hungry, Ali cautiously nodded.
+
+Malika walked over to a pack one of the boys had left behind and produced an apple.
+
+Ali happily accepted a few slices from her and sat down. Not only was she excited that she had guessed correctly, but she found she was also ravenous after all the strenuous activity from the day before. Her stomach produced a ferocious growl that made the dark-haired woman beside her chuckle. Ali met her sparkling blue eyes and then burst out laughing too. She’s not quite so scary when she’s not crushing walls. Then, Malika began talking to her. Ali wasn’t sure why she was talking, knowing Ali couldn’t understand, but perhaps she just wanted some company. At once, the magic kicked into action, providing a difficult-to-follow flurry of meaning, all the while her mana drained into the voracious skill.
+
+Sage of Learning has reached level 3.
+
+After about twenty minutes and about a hundred mana consumed, she noticed she was even burning a few stamina points. Ali wondered curiously if perhaps there was something to the idea that mental activity made a person physically tired. Her skill reaching level three seemed to create a sharper sense of clarity in her mind, and the flow of meaning became immediately fuller, somehow richer. Malika seemed to be talking about something to do with skills and classes, but the abstract meaning derived from the Knowledge-based skill was still exceptionally difficult to understand, certainly at the speed of normal conversation.
+
+Malika said something else, and the disconcerting magic connected it with a memory of Mato shouting something during the wolf fight. As if a key piece of the puzzle had been unlocked, the connection set off a cascade of memorized snippets of conversation shuffling and interconnecting within her mind as all the memorized conversations, and Malika’s one-sided monologue, condensed into some vague semblance of order. A clear soft tone sounded within her mind as two new notifications appeared.
+
+Sage of Learning has reached level 4.You have learned the Common Language.
+
+The greedy Sage of Learning skill eased up, slowing the magical restructuring to a much more comfortable level. The torrent of mana consumption died down to a small trickle as she suddenly heard Malika’s previously unintelligible words snap into clarity as her new language Aptitude activated.
+
+“... all these skills. So, what do you think?” Malika said. Then she sighed, “I wish you could understand me.”
+
+Ali’s rudimentary command of the common language wasn’t quite good enough yet to pick up the words as clearly as she seemed able to, however, her Sage of Knowledge was still burning some of her mana, so it was presumably still filling in the many gaps in understanding.
+
+Ali tried.
+
+Holding up the slice of apple, she spoke carefully, “Thank. You.”
+
+Malika whipped her head around and she fixed her with a look of incredulity. “You can talk?”
+
+Ali answered, “I learn.” Her Sage of Learning skill bent her memories again. This was the only description of the feeling that made any sense. She tried again, “I learn common language.”
+
+“Wow, that’s incredible!”
+
+Your proficiency with the Common language has improved.
+
+Her command of the new language was atrocious, but she had to marvel at the power of her new skill. Sage of Learning had, for the mere cost of almost her entire mana pool and a handful of points of stamina, done what would previously have taken her about a month of studying to achieve. Basic – very basic – proficiency in a new language! While she couldn’t see any combat use for Sage of Learning, Ali was nevertheless enormously pleased with her powerful new skill.
+
+Excited to have overcome the frustration of not being able to communicate, she looked at Malika’s surprised face. “Thank you … save … me.” Her speech was still broken, but she was nonetheless convinced she was being understood.
+
+The other girl smiled at her, “You’re welcome. Thank you for sharing your shrine.”
+
+Ali smiled back at her, a soft warmth filling her heart at her first real conversation since waking up.

@@ -1,0 +1,413 @@
+---
+id: 8281c618-b52e-5d53-9323-e77af03b8262
+page-type-slug: story-chapter-royal-road
+title: "Chapter 17: Respawn"
+slug: 0017-chapter-17-respawn
+partOf: dungeon-of-knowledge-complete
+position: 17
+ownLength: 6881
+unit: words
+ownProgress: 6881
+publishedAt: 2024-02-13
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1516862/chapter-17-respawn"
+royalRoadId: "1516862"
+markedReadAt: "2026-06-29T20:11:33.982Z"
+---
+
+Tala
+
+Tala darted across the slate-tiled rooftop and leapt the alleyway, landing quietly upon the roof of the bakery on the opposite side. Nobody ever looked up – even without her potent stealth skills, she would remain invisible. A chill wind blew out of the dark brooding clouds that had gathered in the short span of time she had spent reporting to Kieran Mori, biting through her leather armor with an insistence that promised a storm.
+
+Despite her conscious efforts to the contrary, her mind kept returning to what she had seen down there in the cavern, fretting incessantly about the implications.
+
+Seizing the opportunity to push Donavan to his death had undoubtedly been her break – the catalyst that had unlocked her uncommon class and had suddenly made her indispensable to Kieran Mori.
+
+But her secret was not safe.
+
+Malika knew. Of this, she was absolutely certain.
+
+She had caught Mato and Calen meeting early in the morning and tailed them down into the sewers. The Half-elf’s annoying light magic had very nearly given her away, but the two of them were not nearly as cautious as they should have been. Once she had figured out the range of his skill, she had simply followed along in the darkness. She had even overheard them discussing their skills. Amateurs.
+
+Once they had reached the cavern, though, Tala had learned that not only had Malika survived, but so had the Fae creature they had tried to rescue.
+
+Seriously, what the fuck had they been thinking charging those wolves?
+
+By some miserable stroke of luck, both Malika and the Fae had already reached level four, putting them out of reach even for her powerful class. Somehow, the three of them had successfully killed all the wolves, saved the Fae, and even leveled up far quicker than she had.
+
+With her plans in tatters, Tala dropped down in front of the battered doorway. A scratched and faded sign hung there blowing in the breeze, portraying a golden crown listing sideways upon a grinning skull.
+
+This must be the place. The Crooked Crown.
+
+Kieran had promised more work for her within the week, but she needed levels, and she needed them fast. With all four of them together, Tala had no chance of silencing them by herself.
+
+She opened the door and stepped into a dimly lit bar. The stench of stale ale washed over her, and the wooden floorboards creaked underfoot as she released her stealth skills. A couple of tables seemed to be occupied with people nursing drinks, but aside from a few furtive glances, nobody paid her any mind.
+
+She ignored the rabble and strode up to the bar where a burly man with a thick black beard stood wiping tankards with a stained rag. A jagged scar ran up from his eyebrow across his bald head, never properly healed and clearly the result of a brawl.
+
+“What can I do for you?” the bartender asked, scowling at her.
+
+“Mr. Mori suggested I might find work here,” she said, repeating what he had told her.
+
+The bartender simply grunted and nodded to a nondescript door toward the back of the room.
+
+“Thanks,” she said. The door revealed a set of rickety narrow stairs leading downward to another door, but this one was guarded.
+
+“Business?” the guard asked.
+
+“Looking for work,” she said, trying not to let her nerves show.
+
+The guard’s eyes flicked briefly to the Town Watch insignia she had put on for exactly this purpose, and he simply nodded and stepped aside. “Jobs board on the back wall,” he said. “Don’t disturb the other patrons or I’ll be forced to disturb your entrails. Nothing personal.”
+
+She nodded to him and entered.
+
+The secret basement bar was smaller than the one upstairs but there were far more patrons, and they all looked up as she entered. Her eyes widened a little in surprise as she caught sight of Adrik and Edrik through the haze of exotic smoke of dubious legality. Quickly, she schooled her expression and acknowledged their gaze with a respectful nod. Nobody liked the enforcers, not even within the Town Watch, but she wasn’t stupid enough to provoke their infamously vicious short tempers. Not yet at least, not until she was much stronger.
+
+Gazes lingered on her as she crossed the floor, heading directly for the noticeboard at the back of the dingy room, but as soon as her intentions were clear, most of the patrons returned to their own conversations.
+
+She wrinkled her nose at the odor of the cheap Bristletusk oil some of the rogues had used to keep their leather armor supple. Morons. What use is stealth if everyone can smell you a mile off by the rancid pig fat. For what? To save a few coins?
+
+She ignored everyone, her eyes scanning the board for any job postings that might suit her skills. She didn’t need assassination work, exactly. Information jobs suited her skills well, even though the experience wouldn’t be as good. But it was better than nothing.
+
+There were lots of jobs. Everything from capture or kidnapping quests for unusual races to restricted herbs and potions with surprisingly high list prices. If she was in the market to make money, there was a lot to be made. Her gaze flickered sideways to find a tall lizard sitting at a table staring at her curiously. Gray scales covered his face, and she easily noticed the ostentatious quality of the out-of-towner’s robes. On a hunch, she identified him.
+
+Merchant – Kel’darran – level ??
+
+I guess the Kel’darran merchant caravan arrived, she thought. It explained the wealth of collection jobs and the substantial payouts attached to each. But she wasn’t here for that. She reached for a small notice near the bottom of the board. Apparently, someone wanted a Gnome merchant killed. A romantic spat gone wrong. She skimmed over the details, not caring much for why, nor the reward, just verifying that she knew where to find the mark, and would be able to earn experience for it, and then she pocketed the notice.
+
+“I swear she ran, Edrik.”
+
+“No, she didn’t, she’s just hiding somewhere as usual.”
+
+Adrik and Edrik seemed to be worked up about something, but she paid them no mind. There seemed to be little else on the board that she could take, so she turned to leave.
+
+“Mori is going to be pissed – he’s expecting a new thief. She had to have been close to her class unlock.”
+
+“She’s a Street Rat, where could she even go?”
+
+“What if she…”
+
+But Tala didn’t hear the rest.
+
+Street Rat?
+
+Malika was a Street Rat.
+
+Tala froze, but her mind raced. Adrik and Edrik were not just the enforcers responsible for collecting the Town Watch’s protection money. Mr. Mori also relied on them for grooming new pickpockets and thieves. Turnover was apparently high, and so they were constantly looking for new people.
+
+It made so much sense.
+
+There was no way Malika could have afforded the shrine. She must have stolen the money to get in. Now that she was a Monk, Adrik and Edrik had no further use for her. All Tala would have to do was point them in the right direction and the twins would take care of her problem for her.
+
+She opened her mouth. But then she shut it again before she could speak.
+
+This is worth more than that. I’m not thinking clearly. She was so focused on her own problems that she had very nearly given everything away. While she had little doubt that Adrik and Edrik would take care of her secret for her, they would certainly take credit for the job, and she would get nothing for her information.
+
+She glanced across the way, meeting the reptilian eyes of the Kel’darran merchant for a moment. They buy anything, she thought. The rarer the better. And she hadn’t seen just Malika down there in the dark cavern…
+
+She quickly left the Crooked Crown, her heart beginning to race with anticipation as she took to the rooftops again. With her information, she could offer Kieran Mori the opportunity to clean house, take Adrik and Edrik down a peg, capitalizing on their mistake to elevate her own status in the Town Watch, and simultaneously hand her boss a magical Fae while the Kel’darran merchant caravan was in town.
+
+Oh, this is going to be so good! They’ll never see it coming. Sweet fucking justice served with an extra helping of profit!
+
+Aliandra
+
+Ali awoke to the profound silence of the Grove and the persistent darkness that shrouded the looming shrine at its center. She sat up on her soft bed of moss and looked around. She was quite used to the larger races and their need for more rest, so it didn’t surprise her much to find that they still slept.
+
+Only Malika was up, taking her turn to keep watch. She sat with her back to the shrine in the cross-legged pose she preferred for her Meditation. Ali chose not to disturb her, getting to her feet quietly.
+
+Ali’s two summoned rats still prowled the perimeter of her mossy carpet, apparently having no need for sleep. It seemed that her summons did not expire, nor had she needed to feed them or let them rest, even between combat – presumably they were sustained entirely upon the mana she kept reserved for each of them.
+
+I should grow my domain, she decided. Growing some more moss was a remarkably cheap way to increase her mana pool. With a larger mana pool, she would be able to cast more magic, and she would regenerate more mana per minute. All of which would be essential to growing her class and increasing her effectiveness in combat.
+
+She walked quietly toward the edge of her moss before summoning her Grimoire, so that the light of her magic wouldn’t wake her friends. Beginning where she had left off last time, she began to summon patches of moss along the edge of her area, pausing to deconstruct the odd boulder here, a pile of slowly rotting wood there, even some scattered bones.
+
+After almost an hour, Ali grew her moss through a large open space and as she began to approach the massive fallen tree trunk that lay half-decayed at the edge, she stumbled as she caught an unexpected glint out of the corner of her eye.
+
+That color!
+
+At first, she assumed it might be a remnant of her mother’s magic that hadn’t yet faded, but as she approached, she realized the soft golden glow seeping from beneath the trunk must be something else entirely. For one thing, it seemed to be emanating from several separate sources, stealing through the gaps between the damp ground and the rotting wood.
+
+What is that? Her curiosity immediately piqued, Ali crouched down to try to get a closer look, wrinkling her nose at the smell of dank, rotting wood and wet compost. The steady glow did not seem dangerous, but she called one of her rats over to her just in case. Glancing back toward the shrine, she decided that her friends were close enough to jump in and help if anything unexpected emerged.
+
+Reaching out, Ali placed her hand upon the rotting trunk looming above her, grimacing at the wet sliminess under her fingers. She focused, channeling Deconstruction through her touch. For about twelve seconds, her golden mana rippled and spread through the still-substantial thickness of the trunk, seeping into the wood and releasing energy into her mana pool while spilling the vast bulk of the excess into the air around her. With a muted, soft implosion, the trunk suddenly vanished, dissipating into a cloud of light particles that drifted away as they faded, leaving behind a clear expanse of ground, and the answer to Ali’s curiosity.
+
+Nestled in a hollow where the trunk had been, was a small fairy ring of mushrooms. Each mushroom had an almost flat white cap, and as she knelt to examine it, she could see the gill area on the underside of the cap glowed with a surprisingly intense golden light that illuminated the ground around each mushroom.
+
+Common Glowcap – Mushroom – level 1
+
+It’s so pretty. The light was a little darker with the tone running more to bronze than her arcane magic, but together, the fairy ring emitted a surprising amount of light, and as she reached toward them, the glow fell like warm sunshine upon her skin.
+
+These would look stunning around the shrine, she thought. Now that the shrine itself was depleted, it felt dark and gloomy in the Grove unless Calen was using his light magic. She hadn’t been outside or seen the solar orbs in far too long. Eagerly, she paged through her Grimoire, quickly verifying that she had a couple of empty chapters.
+
+I hope this works!
+
+Ali carefully began to deconstruct the pretty mushrooms one by one, her magic even reaching below to collect the larger underground portions of fungal growth. A pang of sadness pinched in her heart each time she destroyed a pretty mushroom, progressively snuffing out the golden glow.
+
+Ali watched in fascination, fully focused on her task.
+
+There were nine mushrooms in total, and, by the time she was done, she could feel the pressure of the imprint pressing in on her mind. However, her Grimoire did not react. Disappointed, she glanced around, but further up, among a pile of broken pieces of wood, she spied another tell-tale glow. Excellent! Quickly, she rushed over, tailed by the rat guarding her. Ali brushed off the wood pieces revealing several more mushrooms growing underneath the pile. Repeating her task, she felt the imprint continue to grow, developing weight and pressure within her mind, triggering her curiosity as usual for how it might actually be working. It was as the fifteenth mushroom evaporated that she felt the pressure peak, and her chime sounded.
+
+Imprint: Common Glowcap completed.
+
+Yes! She watched with mounting excitement as her Grimoire opened, rapidly riffling pages till it sat waiting for her at the next empty chapter. Excited now, she committed the imprint to its pages gaining her sixth imprint – and the first one she had intentionally chosen.
+
+Happily, she got up and dance-skipped across the moss to the shrine, earning a soft laugh from Malika who was still sitting in her spot, but now with her eyes open and smiling at her.
+
+“Got something new?”
+
+“Yes, a mushroom!”
+
+It sounded silly even to her ears, but the imprint of the glowing golden mushrooms had felt good in her mind. They were so pretty. Ali found a good spot on the moss near the shrine and began to create her newest imprint. The chapter itself wasn’t particularly large compared to, say, the rat or the wolf imprint, and the creation of the mushrooms was substantially quicker. It didn’t take long before Ali had her very own fairy ring, glowing on the moss beside the shrine.
+
+“That’s beautiful,” Malika said, admiring her work.
+
+“Isn’t it?” Ali said, feeling a surprising affinity toward the tiny, glowing mushrooms. Something about them resonated with her, but it wasn’t something she could explain, even to herself. Still excited, Ali spent the next half hour filling the area around the shrine with her new mushrooms until the glow softly filled the space, warming her heart and her skin with their light. Somehow, that feels … right. Yes. Dad would’ve loved this.
+
+Finally low on mana, Ali chose not to find something to deconstruct for the moment. Instead, she walked over and sat beside Malika as she continued her Meditation. Opening her Grimoire, Ali decided to spend the rest of the time till the others woke up studying her new imprint.
+
+I miss reading, she thought to herself. But rather than waking Mato or Calen to borrow one of their books and exercise her newest reading skill, she chose instead to use her Runic Script.
+
+I have my own book!
+
+Even though this imprint was one of her simpler ones, just going by the count of pages it occupied, the myriad runes wove a spell tapestry of unbelievable complexity – well beyond Ali’s ability to grasp. But Ali didn’t mind, more than happy enough when her Sage of Learning unraveled the basic meaning of a new rune she hadn’t understood before and led her to the realization that – more or less – her imprint was a blueprint for creation. These were not radical breakthroughs, rather things that she could have deduced on her own, but Ali was content merely to be making progress. It was important to her that she could see it in the structure, rather than just guess.
+
+Runic Script has reached level 4.Sage of Learning has reached level 6.
+
+***
+
+“So, what should we do today?” Ali asked as she bit into a slice of a crisp apple. Mato had produced an astonishing array of fruits and sandwiches for breakfast, and Ali wasn’t quite sure how he had managed to fit all of it in his pack. To be fair, his pack only looked small because his back was so broad. Beastkin probably don’t skip meals.
+
+“I thought we might try to explore the far side of the cavern today,” Malika suggested. Ali was certain Malika still didn’t quite see eye-to-eye with Mato, simply due to her hesitation when he offered her food. But Mato made no issue of it, making sure everything was fairly shared, and before long, Malika’s hunger must have won out over her misgivings because she finished two sandwiches and an apple in the same amount of time it took for Ali to finish her couple of slices. To be fair to Malika, Ali was taking her time savoring the delicious sweetness.
+
+“If we are going that way, I’ve a favor to ask,” Calen said, catching Ali’s attention. Whatever it was, he was looking at her.
+
+“What favor?”
+
+“When we fell into the cavern, Donavan was killed under some falling rock. I don’t think it’s right to leave him to rot. Mato tried to move it, but it was too heavy, and I was wondering… do you think your magic might be able to dissolve some of the stone, and perhaps the body, so that we can send him off to whatever afterlife he believes in?”
+
+Calen’s voice sounded heavy, and it was by far the most Ali had ever heard him speak at once.
+
+This seems important to him. Thinking it over, Ali said, “That’s a good idea. I can try – I have dissolved a few rocks with my skill before so I think it should work. Was he a good friend?”
+
+“No, he was a spoiled noble prat,” Mato interjected. “But I agree with Calen, I don’t think he deserved the end he got.”
+
+“You know, I can’t shake the feeling that Tala pushed him,” Malika said quietly. “The way she was standing looking down, and then how cheerful she sounded when she ‘found’ his body…”
+
+With the suddenness that both Mato and Calen froze to stare at Malika, Ali could instantly tell neither of them had suspected foul play, but from their expressions, Malika’s paranoia seemed to have hit some sort of mark. Calen seemed to bite back on a curse, uncharacteristically for him, while Mato puffed out his cheeks with a heavy sigh.
+
+“I have a few questions of my own for her when we find her,” Mato said, finally breaking the silence, his demeanor and expression hard and closed. “She ditched us in the middle of that fight.”
+
+On that dark note, they finished breakfast and headed out into the darkness of the cavern, with Calen leading the way to the rock fall. Donavan and Tala. Ali had no frame to consider these people, but her friends clearly had some very strong feelings about them and what had happened before they had found their way down here to the Grove.
+
+Ali was so completely wrapped up in her thoughts that when she found herself slammed into the ground with a snarling wolf tearing at her arms, the shock and disorientation was overwhelming. The pain of sharp teeth ripping through her flesh made her vision swim and lurch as she screamed and tried to scramble away from the ferocious monster, but it gripped her left arm between its fangs and shook her like a rat.
+
+Suddenly, an enormous bulk of fur and muscle slammed sideways into the wolf, knocking it off her with a startled pained yelp. The bear stood protectively over her fallen body, roaring and slashing at the wolf with his paws.
+
+Mato? It had all happened in a blink, and her mind was still reeling in confusion. And then Malika was beside her, and a burning surge of healing magic tore through her body, knitting her flesh back together in an instant. Oh … what happened?
+
+Malika helped Ali to her feet, and she finally looked around, her heart still stampeding within her chest. Mato was mauling the wolf aided by Ali’s two rats. Calen stood atop a pile of bone firing a stream of shining arrows at the wolf, and Malika immediately waded into the fight as soon as Ali was back on her feet.
+
+Against the backdrop of the dark cavern, Ali saw a cloud of dark motes bubbling out of thin air, making her skin crawl with apprehension.
+
+What…?
+
+The strange lights swirled around for a second before quickly coalescing into a blob. At once, a dark gray form slunk out of the phenomenon.
+
+“Another wolf!” Ali yelled, “Add!” belatedly remembering the proper terminology. Her brain finally caught up to the situation, and she remembered she was no longer helpless.
+
+“Attack!” she thought, redirecting her two rats to the wolf that had incomprehensibly materialized out of thin air, and then summoned a barrier to hide behind. She clenched her shaking hands. Come on, Ali. Focus!
+
+Beyond the new wolf, two new fountains of those strange dark bubbles suddenly materialized. Ali’s eyes widened. “More adds! Incoming.”
+
+This time, though, it seemed Calen had seen them too.
+
+“Ali, roots on the left one when it spawns. Malika, pick up the other one.” Calen’s voice from his higher vantage point was surprisingly calm, and in some strange way, reassuring.
+
+Ali left her rats fighting the wolf and readied her nature magic, trusting that Malika would get the one she had been assigned. As soon as the wolf materialized, Ali cast her spell and the roots burst from the ground, trapping the Alpha wolf that suddenly appeared. It was her first time using her Grasping Roots on the Alpha wolves, and she was extremely relieved to see that her skill was now strong enough to hold the level-five monster – at least for the time being.
+
+I should check on this one more often, she thought as she swapped her attention over to the wolf Mato was tanking. With a thought, she launched a volley of arcane bolts over his back to arc down into the monster. That’s for chewing me up!
+
+“Malika, another spawn on the far side!” Calen called out from the top of his pile of bones.
+
+Where are they coming from all of a sudden? Ali thought, her breath catching in her throat. If the monsters didn’t stop materializing, they would soon be overwhelmed. Too many, too fast… The thoughts rushed around within the confines of her mind, worrying her, but she held her focus against the deafening thumping of her heart, checking on the Alpha and recasting her Grasping Roots while maintaining her Arcane Bolt stream until the first wolf dropped.
+
+Which one next? More roots? In the chaos of the mysteriously appearing monsters, Ali had not even had a chance to think, let alone to determine the correct priority.
+
+As if he had heard her, Calen called out: “My target.” A bright stream of arrows traced across the battlefield, slamming into one of the wolves Malika was fighting, making it abundantly clear which one he meant. Mato charged the wolf Calen had picked, and Ali redirected her bolts as they slowly pieced together their teamwork. With Mato already showing signs of rage and everyone attacking the same wolf, it went down quickly, gaining them a few seconds of breathing space.
+
+With a quick slap, Malika healed Mato, dimming the red mist of his rage, and then they all moved on to the second wolf she was tanking.
+
+Ali refreshed her roots and then felt a snap recoiling through her mana as she lost the connection to one of her rats. Over by the wolf, one of her rats lay unmoving on the ground, still bleeding from where the wolf had savaged its throat.
+
+“One rat down,” Ali called out.
+
+“We’ll get that wolf next,” Calen answered. “Leave the Alpha for last.”
+
+Ali gulped. She had been hoping they would kill the Alpha next so that she wouldn’t have to worry about it breaking free, but over the next few minutes, the fight stabilized dramatically with a few of the wolves killed. Fortunately, no new ones appeared.
+
+“What was that?” Malika sounded annoyed and shocked, and her eyes were wide as she searched the gloom frantically for more unseen monsters.
+
+“I don’t know,” Ali answered. “They just kept appearing out of these fountains of light.” Well, darkness. But a darkness that had looked like bubbles that somehow glowed. “Some kind of magical spell, I think.”
+
+The fact that her skin had been prickling made it almost certain that magic had been involved – but what? And from where?
+
+“Well, that confirms it,” Calen said, hopping down to join them. He stopped while everyone just stared at him. “My Explorer skill has been incessantly telling me this is a dungeon. I just thought it was overreacting. But this was clearly a dungeon resummoning its monsters.”
+
+“A respawn?” Mato asked as he shifted back to normal.
+
+Even Ali had heard of a respawn. It was an event that adventurers feared. Stories told of terrifying encounters where dungeons respawned previously killed monsters on top of delving parties while they were struggling with something else. It was a reliable way to get killed. But the stories hadn’t even come close to instilling the pure terror she had experienced when she had suddenly found herself on the ground under the ravening fangs of a Starving Wolf.
+
+“Next time your skill tells us something, please let us know,” Malika said evenly. Mato inclined his head. “How about I’ll lead, and you bring up the rear, Calen?”
+
+Calen just nodded.
+
+Ali wasn’t quite sure how having the information in advance might have changed anything, but she still shivered at the thought that they were roaming around inside a dungeon.
+
+How long have I been trapped inside this dungeon? Unbidden, the horrific specter of the Blind Lich appeared in her mind. Did he do this? Was the dungeon a trap laid by the Lich, just waiting for her to awaken?
+
+Don’t be silly Ali, you’re not the center of the universe. Why would someone so powerful care about a tiny unclassed Fae? And yet, she couldn’t shake the apprehension, nor the cold claws of ice that seized her gut.
+
+***
+
+With their new marching arrangement, the team finally arrived at the rockfall. Fortunately, no new monsters spawned on top of them.
+
+Up ahead, against the edge of the vast cavern that had once been a forest, loomed an enormous pile of stone slabs, shattered rock, and brick. The pile had obviously fallen from a gaping hole in the roof of the cavern. While most of the cavern was so high Ali couldn’t even see the roof, at this point, up next to the edge, the top of the rock pile and the hole in the roof was only about a five-meter drop.
+
+A length of rope dangled from above, narrowly missing the muddy brown stream of water sluicing through the hole and splashing down upon the rock below, giving off the foulest stench Ali’s recent memory could recall. And I fought a Sewer Rat up close. She gagged, blocking her nose in a vain attempt to staunch the olfactory assault.
+
+“Sorry for the smell,” Malika said. “That’s Myrin’s Keep sewer up there.”
+
+“Delightful,” Ali coughed.
+
+“Donavan is over here,” Calen said, leading the way. He stopped and looked at her. “If it’s too much, Aliandra, it’s ok.”
+
+“I’ll try,” Ali said, trying to put a brave face on it, but the gnawed feet sticking out from under a several-ton slab of stone, and the splat-shaped bloodstain all around made her stomach curdle and lurch queasily.
+
+That was a living person.
+
+“Maybe start with some of the rocks on top, so they don’t fall?” Calen said, pointing upward. He clearly meant to distract her.
+
+Ali nodded her agreement. It looked like half the pile was ready to come down at any moment. With Calen helping her scale the larger boulders, she climbed up to the top and began the task of deconstructing the blocks of stone. It was relatively fast, taking somewhere between ten and twelve seconds each, but it was a huge pile.
+
+Soon enough, Ali felt the pressure build steadily in her mind until her Grimoire appeared.
+
+Imprint: Stone completed.
+
+Ali committed the new imprint to her Grimoire and continued working but, to her surprise, even after inscribing the imprint, the Grimoire would occasionally flip pages and insert a couple of runes here and there as she continued deconstructing the stone.
+
+Are those properties it didn’t quite perfect the first time? Or is it refining the structure? Different types of stone?
+
+At least the runic activity distracted her from the grim task.
+
+Finally, the last slab dissolved into light and mana. Ali instantly threw up. A completely squashed human was a gruesome sight. Bits that shouldn’t be out were spread around, clearly exploded out of the body in the instant of impact, and then impressed into the ground under tons of stone. Not even his gear had survived: fragments of leather – shredded under extreme pressure – lay mixed in with the paste.
+
+“I’m sorry,” Calen spoke from beside her. “I shouldn’t have asked this of you.”
+
+“I’m ok,” Ali answered, even though she felt distinctly not ok. She reached out and touched an exposed piece of leg, squeezing her eyes shut, trying not to look. She very nearly threw up a second time. But she managed to activate her magic, and mercifully, after nearly fifteen endless seconds, the corpse evaporated into light, leaving just some stains and the imprint of the body on the ground.
+
+“May he find his way to his ancestors,” Malika said quietly.
+
+The others simply bowed their heads for a few moments, Ali included.
+
+“Thank you,” Calen said. Ali was inclined to agree with his sentiment. Macabre as the task had been, it felt like they had done something right.
+
+***
+
+Ali puzzled over her Grimoire for a while. Trying to read the imprint was not helping – she simply didn’t have enough knowledge or understanding of the complex script to decipher how it worked yet. All that she had developed was a headache.
+
+I’m just going to have to keep trying.
+
+She channeled her mana into her Starving Wolf imprint. Ideally, she would have wanted to use a Starving Alpha because they were stronger, and usually level five, but she didn’t have an imprint for that yet. By her count, she needed to deconstruct another eight or nine Alpha wolves before it should show up. On the other hand, her Starving Wolf imprint took significantly more space in her Grimoire than all her other imprints, and for a while, she had hoped to find the Alpha encoded somewhere within its pages. But her examination of the imprint had shed precisely no light on the question.
+
+Ali tried to imagine creating the Alpha, fixing the image in her mind – in case that mattered – and finished channeling her magic.
+
+Starving Wolf – level 2Your reserved mana has increased by +14.
+
+I guess not, she thought, looking at her new wolf, and noticing that the reservation cost for her level-two summon had decreased from fifteen to fourteen. Despite her disappointment, the level-two wolf looked strong, and she decided she liked it more than the rats.
+
+As soon as she was done, Malika led them off toward the distant wall of the cavern – an area that seemed darker even than the already dark cavern. Ali remained alert, keeping herself close to her companions this time. Even though they had not been through this part of the cavern, the experience of having a wolf respawn on top of her was enough to make her wish she had eyes on the back of her head. It was so dark that they had decided to use Calen’s light magic, even despite the risk of attracting whatever unknown monsters might dwell here.
+
+The crunching footsteps of her heavier companions grew louder in the dark silence of the cavern as the piles of discarded and decaying bones grew larger and more prominent, looming a stark bleached white against the surrounding blackness.
+
+“Monster on your left. Level six.” Calen’s whisper brought them all to a sudden halt. Ali’s eyes searched the bone piles for a moment before she suddenly saw it.
+
+Warrior – Undead Skeleton – level 6
+
+A chill swept through Ali as the memories of her panicked and terrifying escape from the invasion of Dal’mohra crashed into her mind.
+
+How is it here? She snapped her head back and forth desperately hoping that she wouldn’t, but fearing that she would, find Nevyn Eld lurking in the shadows.
+
+The skeleton was just as awful as she remembered. Gray-aged bone, adorned with worn, decrepit scraps of armor. A rusty longsword dangled from bone fingers with the point dragging through the dirt. Malevolent red light flickered within empty eye sockets.
+
+“Undead,” Mato’s voice conveyed a surprising amount of disgust and something else. Anger? Fear?
+
+A hand touched her shoulder, startling her, but it was just Malika.
+
+“Are you ok?” she whispered.
+
+Ali collected herself, taking some measure of calm from the presence of her friend, and then nodded. “I’ll be alright.”
+
+“It has a high level, but there’s just one,” Malika observed. “I’ll tank. Calen, you have the highest perception, keep watch for adds. Ali and Mato, go all out as soon as I have it secured.”
+
+“Yes.”
+
+“Got it.”
+
+“Ok.”
+
+She wanted nothing more than to turn and flee, to feel her mother’s hand guiding her away from danger. She couldn’t shake the memory of Armand dying before her very eyes, run through by a skeleton just like this one. But instead, she stood and faced the undead monster. Perhaps it was all the prior practice against wolves and rats, but Ali found some measure of strength in relying on the skills and the bravery of her friends.
+
+Malika stalked across the bone-strewn ground and promptly punched the skeleton in the face as it charged toward her, rusty sword raised to attack. She dodged the vicious slash with uncanny grace and speed and responded with a snap kick that flickered with her magic on impact.
+
+“Go!”
+
+“Go.” Ali echoed Malika’s command to her wolf and rat, and they charged forward alongside Mato to engage the skeleton. Ali scanned the surroundings out of sheer habit, before remembering it was not her job this time. Seeing that the fight was stable, and Malika was controlling the skeleton effectively, Ali fired a salvo of arcane bolts. Her magic was followed almost instantly by Calen’s brilliant arrows.
+
+The skeleton didn’t react to her magic in the slightest, focused entirely on trying to skewer Malika while the stream of bolts rained down with staccato thumps, each strike blasting dust and splinters of bone from the undead monster’s skeletal torso and shoulders. Malika dodged and blocked, her body flickering with the light of a continuous stream of healing magic.
+
+She’s getting hurt a lot! Unbidden, her mind conjured the gruesome sight of the sword drenched in crimson bursting from Maeria’s chest. Dispensing with caution, Ali channeled more mana into her Arcane Bolt spell, firing a continuous stream of bolts that didn’t let up until the skeleton dropped to the floor with a crash of bone and a clatter of rusty steel.
+
+By now, Ali was so used to the chaos of the wolf packs they had been fighting that, for a moment, her mind simply registered surprise. It had taken a while to kill, but the fight felt almost trivial by comparison. She had not needed her roots or barrier, nor had her concentration and focus been taxed in the slightest.
+
+Of course, I wasn’t the one needing healing every few seconds.
+
+“Malika! You ok?” she called.
+
+“Yup,” Malika replied, immediately sitting down cross-legged in the dirt where the skeleton had fallen. “It hit very hard.” She turned to look at Mato. As he finished transforming back to his Beastkin form, she added, “Thanks for helping me with the damage.”
+
+To Ali, she sounded a little grudging, like she didn’t want to be in the position of owing him anything. But you can’t let it go without acknowledging that he helped, can you? Ali was beginning to get a better sense of her new friends.
+
+For his part, Mato was direct, offering a simple, “No problem.”
+
+Ali kept her thoughts to herself. Obviously, it would be nicer for the two of them to get along in a friendly way, but she was hopeful they would reach that point on their own. Certainly, she didn’t think her opinion would change either of their minds. Let’s all hold hands and be friends and sing songs together? Right, Ali.
+
+She bent down and just stared at the skeleton for a while, now significantly less terrifying lying face down in the dirt. She glanced up to find both Calen and Malika giving her worried looks.
+
+“I lost a good friend to one of these,” she said. And then she reached down and deconstructed it to recover some of her mana.
+
+“Hey Ali,” Mato called out. He was over by a large pile of bone examining something near the ground. “Do you want these?”
+
+Curious, she walked over to see what he was meant.
+
+Blackened Deathcap – Mushroom – level 2
+
+The mushrooms were growing on the decaying bones in a fairly large clump. The cap was large – she wouldn’t have been able to span it with both of her hands side by side. The surface was cracked and even the flesh inside was so dark it appeared to be eating the small amount of light in the area. The gills under the mushroom cap were a deep violet, and Ali couldn’t help but be creeped out by it.
+
+“You can make mushrooms, right?” he asked her, breaking her focus.
+
+When did he notice? It surprised her that the happy-go-lucky Beastkin had been paying attention to the minor things she had learned so far. Bringing her attention back to the nasty black mushroom, she wrinkled her nose.
+
+“Those are pretty nasty…”
+
+“Yup, probably highly poisonous,” he answered. “But that’s how nature is – some pretty things and some ugly things. Growth and decay. Poison and healing.” Ali immediately recognized the quote from when he had read the Druidic magic book to her. Ruefully, she revised her simplistic opinion of Mato in her mind and then looked at the mushroom with new eyes. I could try it, she thought. I have open chapters. This feels… dangerous, but necessary. I mustn’t shirk even the dangerous parts of my skills. She couldn’t afford to pass on something that might be useful just because it was gross or nasty.
+
+She took her time, intending to deconstruct the entire clump of mushrooms, but something different happened. After she had finished the third mushroom, her chime sounded.
+
+Imprint: Common Glowcap updated to Imprint: MushroomVariant: Blackened Deathcap added to Imprint: Mushroom
+
+To her surprise, her Grimoire flipped to the imprint of her Common Glowcap, adding several new pages of runic inscriptions. A variant? Against all expectations, the book had decided to combine both mushrooms into the same imprint, even though neither of them were even remotely close to the same species – at least as best she could tell. Ali puzzled over it for a while, but she simply didn’t have enough examples to figure out the rules for how it behaved.
+
+Save that thought. It’ll become clear later, no doubt.
+
+She finished deconstructing the rest of the mushrooms until the Grimoire stopped updating itself. Then she used the imprint, trying to figure out how to select the new mushroom variant. Unfortunately, it was not obvious. After several tries, she was forced to conclude that her Grimoire was randomly selecting between the Common Glowcap and the Blackened Deathcap whenever she created a mushroom.
+
+That’s a bit inconvenient, she thought, bothered by the lack of control. On the other hand, she now had two different mushrooms and it still cost only one chapter.

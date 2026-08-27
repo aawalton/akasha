@@ -1,0 +1,275 @@
+---
+id: 27e9124d-329b-57ca-a9c5-013595a90159
+page-type-slug: story-chapter-royal-road
+title: "Chapter 60: Thuli’s Dream"
+slug: 0060-chapter-60-thuli-s-dream
+partOf: dungeon-of-knowledge-complete
+position: 60
+ownLength: 4381
+unit: words
+ownProgress: 4381
+publishedAt: 2024-04-16
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1598191/chapter-60-thulis-dream"
+royalRoadId: "1598191"
+markedReadAt: "2026-06-29T20:12:56.609Z"
+---
+
+Securing a good Blacksmith is an investment in life.- Artur Dragonsworn [The Rule of Law], Human King of Dal’mohra
+
+Ali spent the better part of her morning contending with her Grimoire. Summoning minions was vastly better, now that she knew how to unsummon unwanted classes and weaker minions, but for the Skeletal Wyvern fight, she needed only the very best. She sighed as her Grimoire once again produced a level eleven mage. Not nearly strong enough, she thought, pursing her lips before she unsummoned him and tried again.
+
+It went without saying that she wouldn’t be bringing any rogues or warriors – Kobold or Bugbear – to this fight. Melee minions had two strikes against them – the ridiculous regenerating bone armor, and the fact that standing around on the ground with a dagger was rather ineffective against a flying undead dragon. Sure, she could use them against the spawned monsters, but she didn’t have a tank, and she was planning on using area damage anyway.
+
+“What do you think?” she asked, wiping her brow with her sleeve.
+
+“Lose the archers,” Calen said, glancing up from his notebook.
+
+“But, why?”
+
+“The bone armor,” Calen said, grimacing. “It is very unfriendly to arrows.”
+
+“But I just got them,” Ali groused.
+
+“I know you’re excited, and I’m sure they’ll be useful – but probably not in this fight,” Calen said. Then he inspected Ali’s minion army a little closer. “I’d trade the Bone Mage for a Fire Mage, too. The Skeletal Wyvern has a bone magic affinity – there’s a good chance it’s resistant to bone magic – and the spears will suffer against the armor, just like arrows.”
+
+“Argh, you’re probably right,” Ali had to agree reluctantly. With a big sigh, she unsummoned the archers and the mage Calen had vetoed and started summoning again.
+
+“Do you really think you’ll be able to learn the Acolyte imprint?” Calen asked.
+
+“I don’t see why not,” Ali said. “Unless the dungeon reclaims that corpse, that would be the third one, and that’s usually enough for my Grimoire. I’m keeping some mana capacity free for them and some runic circles.”
+
+It took almost another hour before she finally put her Grimoire away. She was loath to spend much more time just trying to raise the level of her weakest mage by one or two.
+
+This is close enough.
+
+Grimoire of Summoning has reached level 15.Mage – Kobold – level 15-19 (Fire) x4Shaman – Goblin – level 18-19 (Lightning) x3Your reserved mana has increased by +776.
+
+Ali grinned. She had to admit, her little army seemed dangerous – all the casters had high levels, potent magic, and the best equipment she could make. She could only hope it would be enough.
+
+“Looking good, Ali,” Mato said, offering a plate of breakfast snacks and fruit. She quickly swapped him his druidic book back, accepting the plate and tucking in hungrily. “Hey, you can at least taste the food, you know?”
+
+Ali mumbled at him with a mouth full of juicy pear.
+
+“I think we should start with the blacksmith today,” Malika suggested, sitting down to join them, and choosing an orange from Mato’s selection. “But I’m skeptical we’ll be able to get him to do anything.”
+
+“I know, he was so grumpy,” Ali said – intelligibly this time – around a mouthful of fruit. She considered the Dwarf and his attitude for a few moments before adding, “I wonder if he’s depressed?”
+
+“Maybe that’s it,” Malika nodded thoughtfully.
+
+“He’s a smith and he seemed obsessed with that book on Dal’mohra, I remember because it was rather a big surprise. I think we might stand the best chance by showing him the daggers first,” Ali suggested. “Hopefully, he recognizes Eimuuran steel.”
+
+“That’s a good idea,” Malika approved. “We’ll turn you into a proper merchant if you keep this up!”
+
+Ali just grinned, enjoying the banter and the food.
+
+***
+
+The hinges of the heavy steel doors squealed as they swung open, obviously not having been oiled or taken care of in a while. A pitiful puff of mana appeared; a spent entryway chime that had not been charged in too long.
+
+Ali stepped into the dark smithy, her and her friends’ feet striking the cold stone floor with hollow sounds that echoed from the silent walls. The air smelled stale, like the ash of a long-dead fire.
+
+“Did we come too early?” Ali whispered. If he was still abed, he might be even grumpier at having been woken up.
+
+Calen just pointed.
+
+Ali peered into the dark shadows in the back of the lobby. Seated at the heavily worn wooden table, she could make out the broad shoulders of the Dwarf, head bowed over the same book. A spent candle was stuck to the wood beside him and wax had dribbled off the table’s edge and onto the floor, long grown cold. If anything, Thuli looked even more tired and run down than last time, seemingly not having moved an inch from his position.
+
+Blacksmith – Dwarf – level ?? (Ember)
+
+“Hi again, Thuli,” Ali said, trying to keep her voice cheerful. He really doesn’t look healthy.
+
+Bleary red eyes turned toward her in response to her greeting. They seemed red-rimmed from lack of sleep, not any sort of enchantment or magic.
+
+“Whadda you want this time?” he asked gruffly, but without much energy. “Come for some more daggers?”
+
+“I want to sell some this time,” Ali answered.
+
+“I’m not interes –” Thuli froze, his eyes wide as saucers and his voice abruptly cut off mid-sentence. He gaped at the dagger Ali had produced from her storage ring, his mouth slowly opening and closing as if he had suddenly forgotten how to use it.
+
+“Where did ya get that, lassie?” he asked, finding his wits, his low voice shifting towards the thicker and heavier sounds of the Dwarven language in his surprise.
+
+“I took it from a dead Kobold,” she answered.
+
+He dragged his gaze from the dagger to Ali’s face. “May I examine it?”
+
+She obliged, passing it to him. She watched curiously as he examined the weapon, turning it around several times and even testing the sharpness with his blunt forefinger.
+
+“Eimuuran steel,” he said, his voice full of awe, and after a significant pause, “So, it is real.”
+
+He seemed to collect himself then, and said, “I canna buy it from ya.”
+
+“Why not?” Ali asked. Why does he look so sad?
+
+“I don’t have any clinkers, not so much as a dirty copper bit to me name,” he responded with a grimace, “Your timing is the worst.”
+
+My timing is the worst? What’s he talking about? Ali wasn’t sure if she preferred the new confusing Dwarf over the old grumpy one.
+
+“I guess I should explain,” he said, his manner becoming much more polite and serious. “Sit, if you’d like, lass,” he offered with a gesture of his thick hand. “I apologize for my lack of hospitality, but I can’t afford any ale either.”
+
+Once they had all made themselves comfortable on the benches, and Ali on her magical barrier, his eyes took on a faraway gleam and he began to tell his tale.
+
+“There is a legend among my people. A mighty blacksmith, Thovir Emberforge, discovered the techniques of forging Eimuuran steel, deep within the fabled city of Dal’mohra. The technique revolutionized the entire smithing industry because the steel soaks up enchantment magic like dunking a sponge in the quenching trough. It is by far the best steel for weapons and armor until the platinum ranks when adventurers are high enough level and wealthy enough that you can afford to work with Mithril. This technique has been lost for thousands of years, lost when the city fell.”
+
+He fell silent for a few moments.
+
+He was obviously missing many details about Thovir Emberforge, but the gist of what he said was the same as what Ali remembered. The steel forges in Dal’mohra produced weapons and armor for over half the continent. Had produced. Why does my mind insist on living in the past?
+
+“I am a direct descendant of Thovir,” Thuli said, a measure of pride filling his voice and making him sit up a little straighter. “It has been my life’s mission to recover the lost techniques of my ancestor, and I have been chasing clues and tales since I was big enough to swing my first hammer. I bought this book from a wandering bard, and it led me here to Myrin’s Keep, but the trail dried up as soon as I got here. I have never before laid eyes on Eimuuran steel,” Thuli said, pausing with his thoughts for a moment. “I was beginning to believe it was nothing more than smoke and dust, stories told to Dwarf children, legends of long-lost glory.”
+
+The way he said it, Ali was certain most people would simply believe it to be the proud boast of someone who had spent too much time in the alehouse, but she had seen Thovir in person, and Thuli really did look like he could pass as the legendary blacksmith’s brother. In fact, if she searched near the library, she could probably find his statue and compare it to him.
+
+He looked over at Ali with his bloodshot eyes.
+
+“Till you walked in and offered to sell me one.” He took a big breath. “Unfortunately, I had to mortgage my forge to Hadrik Goldbeard and his bank, and I will be unable to make the interest payment again this month. They will take my forge and everything I have left. That’s why I say your timing is terrible. I could have made a lot of money if I had the time to learn the techniques and sell some of the work. I’m sorry, lassie. You would do better selling it to one of those other smiths.”
+
+Pressing the dagger back into Ali’s palm, he whispered, “I’ve always dreamed of earning the name of my ancestor. Did you know Eimuuran means Emberforged in the ancient Dal’mohran tongue?”
+
+“Sla’eimyran stál,” Ali echoed quietly, using her native language.
+
+Thuli’s head whipped around as he stared at her incredulously, “You speak the ancient language?”
+
+“Yes,” Ali answered. “It literally translates to steel forged with mana and embers.”
+
+She wondered, curiously, what his magic looked like. Ember magic was an unusual specialization of fire and heat – and might presumably be required to even craft the steel she was holding. Ali had no idea. She just knew that being forced to give up on a dream like that because he had fallen on hard times was a travesty. Especially when he’s literally sitting on top of Dal’mohra, and he has no idea.
+
+Ali met his gaze, a strange medley of confused feelings coursing through her. On one hand, the Dwarf had been grumpy with her. And he needs a bath. Looking past that…
+
+Something about his despair struck a chord deep within her heart. Perhaps it was his tenacity in sticking with his dream that resonated most with Ali, but she felt a warmth welling up from deep inside her chest. She very much knew what it was like to have her own dreams swept away by events beyond her control, and she knew what it felt like to drift without a rudder, forced to take a path dictated by whim and circumstance, rather than by conviction and her own dreams.
+
+I want to help him, she decided. Or maybe… maybe I just want to believe there might be someone who will help me, too. She glanced across the table at her three friends. Mato gave a slight nod, Malika turned her hand palm-up to suggest going ahead, and Calen pursed his lips, perhaps undecided.
+
+“How about I trade you this dagger for a custom piece of armor?” Ali suggested. “Vivian Ross said you could make shapeshifter plate for Mato – the, uh, Beastkin.”
+
+The Dwarf grimaced.
+
+“I’m afraid I canna do that either,” he said. “I’m sorry lass, but I value my life.”
+
+“What?”
+
+“You see, apparently my work was causing problems for the other blacksmiths. So, these two thugs from the Town Watch broke in and roughed me up pretty bad. They busted up the place. Told me they would be back to do worse if they ever saw my forge lit again. It’s been cold ever since.”
+
+“Why do you even stay?” Mato asked.
+
+“Where would I go, laddie? I can’t even afford to leave,” Thuli said.
+
+“That sounds like Adrik and Edrik. Human, red-hair, ugly twins?” Malika asked.
+
+“That’s them.”
+
+“Me and Ali killed them a few days ago,” she said, in a matter-of-fact tone, like someone mentioning they had taken out the garbage.
+
+“You what?” Thuli exclaimed, red eyes wide with surprise and shock.
+
+“Yes, they were assaulting the Alchemist, and breaking her shop, so we stepped in, and they died,” Malika explained. “I had unfinished business with them too, and I don’t regret it one bit.”
+
+Ali knew that callous disregard for the value of life was not part of Malika’s normal personality, but she had also been there when the two thugs attacked. The glee and joy in their eyes as they had anticipated causing Malika physical harm had felt horrific and evil in a way Ali had not experienced until then.
+
+“You have no idea what you have done!” Thuli exclaimed, springing up from the table, his chair going flying behind him while his hand knocked the remains of the candle to the floor. Ali thought for a moment that he was violently upset, but he continued, “Thank you. From the bottom of my heart, thank you!” Thuli’s voice cracked with emotion.
+
+Just how many people did these guys hurt or rob? Everyone they had talked to had horror stories about the thugs.
+
+“Does that mean you will be able to work again?” Ali asked. “If I trade you this dagger, will you be able to save your smithy?”
+
+“Yes, I can work, but I’m afraid I owe more than that. I haven’t been able to work for months. Besides, I would rather study that piece and learn how to make it. It’s worth more to me than my forge.”
+
+Ali glanced over at Malika with an unasked question in her eyes. Malika shrugged and began pulling out pieces of armor, shields, daggers, and swords, placing them on the table before them as Thuli’s eyes grew wider and wider with each addition to the dark pile of ancient steel gleaming in the silent smithy.
+
+“I’m not sure how to do this…” Ali said.
+
+“I got you, Ali,” Malika said with a smile, and turned toward the speechless blacksmith. “How about a deal between you and us? You make something for Mato to wear and save your forge. The extra value is a loan from us for future blacksmithing services, and you can study the pieces you don’t need to sell.”
+
+Thuli just stared at them, dumbfounded.
+
+“We will bring you more when we find it. Oh, and I’d like to read your book while you make his armor,” Ali finished. She didn’t mention that she could make as many of the daggers and shields as she wanted, so they effectively had an unlimited supply for the Dwarf Smith to work with.
+
+“Ay lass, this is more than enough, but why? Why would you help me? That pile is worth over thirty gold at least. Maybe as much as fifty. And I wasn’t even very polite to you two when you came.”
+
+Nice of him to acknowledge his poor manners, she thought.
+
+“The other blacksmiths were extremely rude to me and Malika,” Ali said. It honestly still bothered her more than she cared to admit. “And if you succeed in your dream, you will have recovered a valuable piece of the lost knowledge of Dal’mohra for the world.” And that will be one piece of my home I can have back.
+
+Thuli turned his face away for a moment and wiped his eyes. When he turned back his voice was thick with emotion. “Lass, you canna just waltz in here and make a grown Dwarf cry, it’s just not proper. Yes, you can read my history book, and I’ll make your friend’s armor. You have my word that I’ll repay your kindness once I’m back on my feet.”
+
+“Thank you, Thuli,” she said, putting her hand out.
+
+Her tiny hand was lost in his broad, calloused one, but he shook it with a solemn firmness and sealed the deal.
+
+“Ok, let’s take a look at your friend here,” he said, getting up from his bench as a flicker of unusual mana flared in his eyes, making them smolder and glow in the darkness. “Shapeshifter, ey? Let’s see it.”
+
+Mato obliged by turning into his Bear Form and posing.
+
+“Och, he’s a big lad,” Thuli whistled, walking around for a few moments. Then he walked back to the table and selected three Kobold armors and two shields from the pile.
+
+“I can’t make Eimuuran steel, but I can definitely reforge it for you. And I will learn a lot from working it like this,” the smith stated.
+
+Thuli seemed completely transformed. No longer was he dejected, resigned to his fate. His face glowed, not only from the magic in his eyes but from a deep burning excitement. There was an energy to his movement that Ali knew came from having unexpectedly rekindled his passion, from coming one step closer to a powerful dream.
+
+“Ok, I’ll get started. It will take a wee few hours – you’re free to wait or come back if ya like.”
+
+He selected an enormous steel hammer that lay discarded on the floor and hefted it in his hand, a Dwarf suddenly reforged with purpose. Ali recoiled at the sudden flare of intense mana that welled up inside him, sending waves of dry heat billowing out from his body as the veins under his dark skin began to glow with the deep reddish orange of embers.
+
+Sconces on the walls suddenly flared to life, a rippling wave of red light that surged out across the forge. Cold hearths, forges, and fires sprang to life, reacting to the smith’s outpouring of mana. A wave of heated air billowed out from the forges in the back, carrying with it the stench of burning coal and the metallic tang of iron.
+
+“I think I’m going to get a little more shopping done at the marketplace,” Malika said. “I’ll be back later.”
+
+“I’ll come too,” Calen said.
+
+“I’ll stay here and read,” Ali decided. She had been excited to see what Thuli’s book contained and had a unique opportunity to watch Thuli’s unusual magic from the other room.
+
+“I probably need to stay too, for fitting,” Mato answered, and followed Thuli into the forge room.
+
+Ali waited until they were out of earshot. “Hey, Malika, thanks. I know that was a lot of money we just spent, and mostly because I was being sentimental.”
+
+“No problem, Ali. I have a feeling it will turn into a good investment. Don’t forget to tell him about the guild merchant – Weldin can probably move a lot of his low-level daggers and swords from those bins over there. Maybe he can get back on his feet faster than he thinks.”
+
+***
+
+Ali closed the book and looked up to find Thuli working to fit a darkly gleaming set of nearly completed armor on Mato’s large body. She didn’t know what she had expected, but ringing strikes of the enormous Dwarven smithing hammer beating the armor into shape while Mato still wore it was not exactly high on her list.
+
+Mato was Mato – he just stood there stoically enduring the heavy blows.
+
+The book had been fascinating, written almost a thousand years ago by an eminent historian, one Ziba Malek, of an Elorthian Empire. It was an empire that rose to prominence in the wake of something called the Necromancer Wars that came in the wake of the destruction of Dal’mohra.
+
+The Royal Scholar, Ziba Malek, had hypothesized in her first theory, that Dal’mohra had held out till near the ending of the war, and it had eventually succumbed to the endless might of the Blind Lich’s armies. Knowing what she did about the events, Ali dismissed that theory wholesale. There had been no war prior to the downfall of her home, in fact it had been a period of unprecedented peace and prosperity.
+
+The second theory, advanced by the book’s author was that the fall of Dal’mohra had been an inside job, orchestrated somehow by the Blind Lich himself. Retrieving an ancient artifact of mythic power, the Lich then triggered an event called The Breaking of the World. It was this cataclysmic event that had reshaped the surface of the continent, rending much of the geography unrecognizable. In the ensuing battle, the Blind Lich defeated a legendary blue dragon, Kryostria and turned her into a Dracolich. Having discovered how to artificially construct dungeons, the Blind Lich then used his Dracolich general and the endless spawns of his dungeons to wage a hundred-year war against the living.
+
+Frankly this theory was rather unbelievable, and Ali dearly wished she had access to a decent library to cross-reference the story. The Blind Lich hadn’t orchestrated it, he had been there personally. I guess that still qualifies as an inside job. Especially considering Nevyn Eld had once been a respected researcher in Dal’mohra before his transformation.
+
+In the final theory, the Blind Lich used knowledge plundered from the Grand Library Arcana to unlock the secrets of the realms. Tearing rifts into other planes, he drew on this incredible power to fuel his armies. Using the three kings of Dal’mohra, now raised as Death Knights, the Blind Lich had laid waste to the northern kingdoms for a hundred years.
+
+Ali shivered. This last theory would have been even less believable if she hadn’t seen his undead crawling through a rip in space in the center of the library, and seen the kings raised as Death Knights loyal to the Lich.
+
+In both the last theories, The Breaking of the World was followed by the hundred-year-long Necromancer Wars – events that seemed so fantastical that Ali desperately wished for some way to corroborate the claims laid out by the book. Or dismiss them for the fantasy they must be.
+
+At least now, though, she understood why Thuli had been stumped. After something as cataclysmic as The Breaking, it was no wonder why nobody could tell where the ruins of Dal’mohra really lay.
+
+She got up and walked over to inspect Thuli’s work, watching in fascination as his mana surged to inscribe his mana signature on the piece.
+
+Banded Feral Plate Armor – level 20Linked to your mana, this armor will shapeshift with your changing forms. Armor: 288+20 Endurance+8 StrengthMana: ShapeshiftRequirements: Shapeshifter, Strength 70Created by Thuli.Body – Eimuuran Steel
+
+Ali didn’t need Malika’s appraisal skill to know instantly that this was an exceptional piece – with three enchantments on it, the armor had to be at least uncommon grade – a step above magical. The banded armor segments fit Mato’s physique perfectly, gleaming with the familiar reddish undertone in the black steel. The articulation of each piece seemed to have been made with strength and movement in mind, and as Mato, in his Beastkin form walked, turned, and stretched this way and that, it hugged his huge body like a glove.
+
+“Ok, that should do it. Show me your bear now,” Thuli instructed. “Use the enchantment as you shift.”
+
+Mato’s magic twisted and warped his form, but Ali could instantly see the armor drawing in some of his mana as it began to warp alongside him. When he was finished, the armor hadn’t vanished to wherever his clothing usually went. Instead, it had broadened and deepened into an impressive bulwark of dark steel that hung snugly on the powerful frame of the bear, protecting his flanks, back, and shoulders with thick banded plates. Ali couldn’t even begin to imagine how heavy it must be.
+
+Mato put the armor through its paces by trying a few practice swipes with his paws before shifting back into his normal form.
+
+“You were right, it takes a little mana and more stamina to shift now, but it’s not a lot,” Mato said.
+
+“Yup, the mana hooks the enchanted armor to your Shapeshift skill, and then your skill has to do more work because it’s shifting all the extra mass of the steel,” Thuli explained. “How about the fit?”
+
+“It’s amazing!” Mato was grinning from ear to ear.
+
+Thuli continued fussing with the armor for a bit, muttering, “A nip here and a tuck there, me laddie,” before he was fully satisfied.
+
+“Is it a lot more armor?” Ali asked. Ultimately, the reason for the purchase was to help with the upcoming fight, and Mato presumably had a lot of scorpions to tank, but she wasn’t too familiar with how melee gear and damage worked. She supposed she needed to get used to it so that she could make better gear choices for her minions. Another thing for my to-do list.
+
+“Given his bear hide, and the level of the enemies, I’d say he should be taking about thirty percent less damage from physical hits,” Thuli noted, scratching his beard as if that helped him with the math. “Obviously, it depends on all the factors and skills, and it’s designed to be hit mostly from the front, but he should be a lot more durable. I put endurance on it because you said this was for a tanking job, I hope that’s ok.”
+
+Ali smiled. Mato was already the definition of durable, his being more durable was quite an achievement.
+
+Thuli collapsed onto the bench by the table, his magic fading from his powerful arms, but he was wearing a tired, happy smile. “To think I would see my mana signature on a fine piece of Eimuuran steel,” he said. “Thank you so much, Aliandra. I think I’m going to take a wee little nap.”
+
+His body tilted over sideways, and he was snoring before he even hit the table.

@@ -1,0 +1,319 @@
+---
+id: 385aef06-7609-5bd1-aa78-986dc2085412
+page-type-slug: story-chapter-royal-road
+title: "Chapter 140: Kezda"
+slug: 0142-chapter-140-kezda
+partOf: dungeon-of-knowledge-complete
+position: 142
+ownLength: 6273
+unit: words
+ownProgress: 6273
+publishedAt: 2024-10-08
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1840497/chapter-140-kezda"
+royalRoadId: "1840497"
+markedReadAt: "2026-06-29T20:15:43.282Z"
+---
+
+At the height of its power, the Elorthian Empire was considered undefeatable in battle. This reputation was largely earned by the warriors of Ahn Khen after the Empire successfully acquired their state peacefully during the latter part of the third era. The dark-skinned warriors of Ahn Khen were widely revered – or feared – for their rigorous and obsessive pursuit of perfection in the martial arts and their legendary bloodline eye magic. Manifesting in many forms, their magic was known by many names; soul sight, evil eye, thousand eyes, eye of the heart, nearly always manifesting as bright light blue eyes which seem to glow from within.
+
+Not much is known about the specifics of their skills and techniques as the details are well-kept secrets by those who wield them, however, there are countless stories of warriors fighting at peak form while blinded, able to react so quickly that their opponents swore they could see the future. This has led to the conjecture that their magic is more related to an ‘inner’ eye, or the ability to sense the opponent’s soul or spirit energy, creating an enormous advantage in battle.
+
+After the calamity which splintered the Elorthian Empire, the Ahn Khen fell into decline. Their descendants can be found in various isolated mountain villages and monasteries scattered around what is now the northern region of the Kingdom of Toria.
+
+- Excerpt from Cultures of the Modern-Day Kingdoms by Evanna Quillmore the Scribe.
+
+Ali surveyed the damage in the library, annoyed to find one of the couches burned beyond repair and a table sliced cleanly in two by the random beams of light magic that had left scorch marks everywhere.
+
+She checked in a sudden panic, but the pile of borrowed books Ryn had left out for her on the larger table had been spared, as had the bookcase with their library’s modest collection of books. The tea set was undamaged too, and Lira busied herself brewing a pot while they chatted quietly about monsters and incursions.
+
+“Here you go, dear,” Lira said, handing her a cup of tea. “And don’t forget to eat something, it’s well past dinner time.”
+
+As she inhaled the delightful combination of steam and aroma from the tea, she retrieved an apple picked by Mato from her trees in the Forest Cavern to serve as her dinner, a little chagrined that she had needed Lira – a person who sustained herself entirely on photosynthesis or mana absorption – to remind her to feed herself. Learning to grow these tea leaves would be so nice, she thought. If I could only spare a chapter. It was strange to be alone – the library was quiet, now, with only her and Lira – she missed Mato’s delicious cooking and his rough-and-ready sense of humor.
+
+Calen was off somewhere with Lyeneru, and she just hoped he was safe, and while she knew Malika was out of danger, she still missed her, and hoped her health returned to normal quickly.
+
+Sipping at her tea and munching a delicious apple, she sat at the still-intact table and duplicated the books Ryn had left for her. She had found a practical nature magic reference which gave Ali a couple of immediate ideas for improving her runic circles, and the third book in a delightful series they had both enjoyed. With both the libraries of Myrin’s Keep and Vertias to draw from, the stack of books was twice the size, but Ali finished them far too quickly. Sometimes she wished her Reading skill was just a little slower, so she had more time to savor the stories.
+
+She wrote a short note for Ryn, asking to check with the bank tomorrow and see if her cut from the sale of mana-purified water had been deposited, and if so, to buy a replacement for the couch.
+
+And if it’s not enough, I will make more magicite. It was by far the most valuable thing she could make, even considering the fact that the nature-affinity magicite was nowhere near the most useful to crafters and enchanters. She had made gold coins to purchase the library membership at Vertias, but she far preferred to make a raw material and sell it instead – at least that way a useful item would be created, and one of the crafters might be able to earn experience.
+
+While Lira puttered about, Ali plopped herself down on the good couch and pulled out The Unexplored Lands – Lyeneru’s book detailing her dungeon delves and exploration experiences – and began to read.
+
+She waded her way through the account of the first delve. She struggled, but not because it was particularly difficult to read. Lyeneru had written it as both a caution to – and an educational resource for – adventurers and delvers and Ali had to infer the intent and function of the dungeon from the outside perspective. She needed to know how the dungeon made bosses, traps, and the like, and the text only described what they did and how they had been defeated.
+
+Not that anyone has an inside perspective.
+
+The first dungeon had been known simply as ‘The Scavenger’ by the adventurers who had plumbed its depths because of its penchant for continuously spewing monsters into the countryside, scouring the land for many kilometers in all directions for anything not nailed down – and quite a lot that was. Everything was returned and fed to the dungeon, and when there was nothing to find, the dungeon simply ejected monsters in a continuous stream of dungeon-breaks.
+
+When the dungeon grew large enough to begin impacting the nearby cities, the Pathfinder Guild had been contracted to take care of the problem.
+
+Lyeneru described The Scavenger as deranged or unhinged. It was a dungeon that was filled with a chaotic reflection of everything it had collected, all thrown together in a haphazard, chaotic mess that followed no rhyme or reason. It had made a collection of couches at the bottom of a lake, caves filled with teacups, and bedroom armoires lined the boss room. There were chests that would come alive and bite the unwary, and each thing was equally as likely to be trapped or not.
+
+Even the traps followed no clear pattern – some being of such devious construction that they had required days of planning to disarm and others presenting a fresh flower when triggered.
+
+Searching for meaning and purpose in such a recounting left Ali with a headache. What was it thinking? Could it even think? Furthermore, from the way Lyeneru recounted the experience, it had become abundantly clear that even the concept of a dungeon as a thinking, feeling person was alien to the Night Elf. The implication was inextricably woven through the account that because it was a dungeon, it was a dangerous force of nature that needed to be put down.
+
+If everyone thinks like that, I’m going to have a tough time. It certainly explained some of Lyeneru’s initial hostility.
+
+She shut the book, more than a little frustrated, and considered the account of The Scavenger. There was not a lot for her to learn about being a dungeon from a mad one. Variety seemed to be a good thing – Lyeneru had been incredibly wary of the unpredictable dungeon – but Ali had no intention to sacrifice her sanity any time soon, nor did she relish the idea of inflicting dungeon-breaks on the unsuspecting townsfolk of Myrin’s Keep. I need to do … something. If there was just some way that she could be selective about who she inflicted dungeon-breaks on… she could definitely think of several fine candidates.
+
+Although… there might be another way…
+
+Ali had been focused on unlocking any secrets for how to make bosses and had come up empty, but when she considered the dungeon’s kleptomania and scavenging habits, she recalled that she had done much the same thing in the aftermath of the Goblin siege. That had earned her several valuable imprints for her trouble.
+
+Maybe I can do that again? There was no fresh battlefield to pick over this time, but The Scavenger hadn’t cared. She summoned her Grimoire and created two Kobold rogues, allowing her customization to choose reasonable armor for them, fixing only their weapons by explicitly summoning them a pair of Eimuuran Darksteel daggers each.
+
+“How may we serve, Mistress?” Her newest Kobold eyed the dangerous-looking daggers she had just made and then broke into a gleeful grin when she handed them to him.
+
+“I want you to go up into town after dark and collect stuff.”
+
+“What stuff, and what should we do with it?”
+
+“Take only what you find discarded on the streets or inside abandoned buildings. Anything you find is fine, I will decide what is important later – just dump it all into the sewers, I will check on it in the morning.”
+
+Lira quirked an eyebrow in her direction but didn’t elaborate further.
+
+Her Kobolds nodded. Ali loved working with Kobolds – they were highly intelligent and understood her wishes without much explaining. Almost the polar opposite of her slimes.
+
+“Yes, Ancient Mistress.”
+
+“Avoid being seen,” she finished.
+
+With a bow, both Kobolds vanished from her sight, and she watched them sprint away until they left the range of her Luminous Slime’s Tremor Sense.
+
+And then finally, she turned in for the night, relying on the rest of her minions to keep watch.
+
+Sabri pulled back, willed her tired muscles into action, and swung the hoe. This patch of hard-packed earth had been resisting her efforts to break it up in preparation for seed for several hours now, and she was bone weary already.
+
+The hoe struck a rock, again, and the shock of the impact shot up through the handle to rattle her bones, causing her to lose her footing and trip, landing hard on her tailbone. She gritted her teeth and got up again. She had lost count of the number of times she had hurt herself struggling to break up this rocky ground. But if they didn’t get the field ready, they would miss the planting and then they would all go hungry.
+
+She reached down and picked up her hoe, holding it with a two-handed grip, not the one for a farm implement, but one more appropriate for a spear. The cursed, rocky field faded from her view as her mind sought out the battlefields of her imagination. She wielded a glowing spear, and she defended the town against the demon hordes. She moved through a few forms that she had picked up from watching the combat trainees sparring in the village ring. She always wished it was her who was receiving combat instruction, but life wasn’t that kind to her and her mom.
+
+“Rezan is back! Basir is going to fight the new girl!”
+
+The shouts snapped her out of her imagined world as several of the field hands dropped their hoes and sprinted toward the village square. Basir’s going to fight! Excitement surged through her at the anticipation of seeing the Elder’s powerful disciple in action.
+
+What skills will he use this time? What new girl? Can she fight?
+
+But her excitement was fleeting and her imagination wilted at the sight of the despised patch of rocky ground and her battered hoe. She was not even close to being done.
+
+“Go.”
+
+Her head snapped up to see her mother looking at her with an amused smile quirking her lips.
+
+“Go, Sabri, I’ll take care of the rest. Besides, you’ll be next-to useless in the fields if there’s a fight going on.” Her mother grinned and made a shooing gesture with her hands.
+
+“Thanks, Mom!” she blurted out and turned and ran as fast as she could, the weariness of her body all but forgotten.
+
+Malika sat on the low stone fence around Kezda’s dusty central town square. In the center of a sandy sparring ring, two novices circled each other, darting in and out with clumsy jabs and kicks under the watchful eyes of their trainer. Almost automatically, she began to identify and analyze each form and attack as if she were back home in her parents’ dojo.
+
+The girl has better footwork. But the boy is taller and has faster attacks. It was obvious that neither had a class yet.
+
+Malika’s father had always insisted that fundamentals and footwork were how battles were won and, sure enough, a few minutes later an overreach by the boy opened him up to a powerful uppercut from the more sure-footed girl, and the fight was over by knock-out. The trainer touched the unconscious boy – presumably with a healing skill – and his eyes flickered open again. As they left the ring, the boy hung his head dejectedly while the trainer gestured expressively – offering blunt feedback, that much was clear.
+
+“Your turn, Malika,” Rezan said from his spot on the bench beside her. “Basir is level fifty-three and very robust. I want you to go all out.” Then he turned to the heavy-set monk. “Basir, you will fight without your Earth Travel.”
+
+Rezan gave him a handicap. She knew he was at a higher level than her, but Rezan had restricted him from using an entire skill – and apparently, a movement skill at that. It was a severe handicap. Is he that good? I can’t afford to underestimate him.
+
+She studied the shaven-head monk as he stepped into the ring and turned to regard her with curious eyes and a calm posture. Dense white wisps of energy swirled and circulated within his powerful-looking body.
+
+Soul Sight. That must be his stamina. Malika’s heartbeat began to accelerate as she focused on her opponent and stepped out into the sandy ring. Rezan had insisted that a challenging fight would be the ideal way for her to begin to understand her powerful bloodline skill, and Malika was beginning to realize that might be his approach to teaching in general, and perhaps even to most of life.
+
+Like Bakahn, fights in Kezda’s sparring ring were clearly part of normal town activity and there weren’t too many spectators – just a few trainees patiently waiting their turn. The only exception was a girl near Malika’s age sprinting toward the ring with a dirty, torn smock flapping in the wind and clear blue eyes darting between her and Basir, sparkling with curiosity and excitement. She plopped to the ground, breathing hard, entirely unconcerned that she sat in the dirt. Even so, Malika had not fought for an audience since she was a youth and a certain amount of nervousness bubbled up inside, threatening to disrupt her calm.
+
+“Well met, Malika. I am Basir Sho,” her opponent intoned. The young man’s voice was uncommonly deep and soft. His face kept a serious expression. “I wish you good fortune – may our fight honor the Ancestors.” He clasped his hands before his chest and bowed.
+
+“Well met, Basir Sho,” Malika said, returning the respectful bow. “I am Malika. I have not yet been named,” she added, letting him know it was not disrespect that prevented her from reciprocating his gesture of sharing his full name.
+
+Spectators, Rezan, and even the surrounding town faded from her mind as Malika sized up her opponent. He studied her with alert and honest eyes. His skin was dark, and he sported white tattoos on his cleanly shaven head. Some of the Ahn Khen villages further to the east had traditions around tattoos, so she was familiar with the custom, however, they had been too remote and uncommon for Malika to have learned their meaning during her youth. His squat body was heavy with dense muscle and his movement betrayed more mass and power than she would have expected.
+
+“Begin,” Rezan announced.
+
+The white energy flickered within Basir’s muscles as his body projected alertness, a sudden readiness for imminent action. Even though Soul Sight was a passive skill, she still needed to learn how to use it in the heat of battle – the white energy shimmered within him, overlaying her vision, as if it was filling his legs with power.
+
+Strike first. Her father had always counseled action – no fight, he always said, was won by handing your opponent the initiative. Accelerating her speed using Divine Step, she burst into action, sprinting directly for him with the rapid punches of the first form already flying.
+
+Energy suddenly condensed within him, and right as her fist struck his ribs, his skin darkened to the color of obsidian. With a crack and a burst of pain, Malika’s fist struck rock. Ouch! She pulsed her Healing Mantra to repair her bleeding knuckles.
+
+A defensive skill?
+
+As Malika backed off, several loose pebbles and stones floated up from the ground to lazily circle Basir’s head and shoulders. A rock suddenly blurred, firing towards her at extreme velocity. Gasping in surprise, Malika arched her back, barely dodging the missile. Behind her, she caught a flicker in her Soul Sight and she realized Hala had caught the rock before it hit the wide-eyed girl who was spectating their fight. Malika hadn’t even seen her move.
+
+Basir’s expression changed to one of focused concentration and the rest of the rocks blurred into a rapid sequence of shots, whistling through the air as he tried to pin her down. Burning stamina in a rush, Malika dodged using the maximum speed of her Divine Step skill. The last rock hit her in the ribs as her opponent anticipated her dodge correctly and adjusted his aim. She coughed in pain and healed her broken rib.
+
+He broke a rib through my Soul Armor. I’m vulnerable at range, I cannot hit from out here.
+
+I also can’t see it. While she could see his physical movement as flickers in his energy, it was all stamina according to the description of Soul Sight. His manipulation of the rocks was invisible to her new skill. It must be a mana ability. That’s a major drawback.
+
+Quickly, she closed the distance using the unique and powerful footwork of Bakahn, catching a flicker of surprise in Basir’s eyes, and attacked, mixing up punches and kicks to throw off his rhythm. But he remained calm, blocking each strike with reinforced shoulders or forearms. Is that rock? She recalled Rezan mentioning that Basir had an earth affinity. It certainly felt like rock. She healed herself against the damage while she studied his defenses using her new Soul Sight skill.
+
+Every time a punch landed, she could see the energy projected from Soul Strike penetrating his armored skin by just a little. I am doing some damage. It just doesn’t seem to bother him much.
+
+White energy pulsed from the right side of his torso, flickering out through his shoulder and into the right arm as he lashed out with a punch. His dense body maintained an impressively solid foundation on the ground and despite the relative slowness of his attacks, Malika was forced to dodge and block frantically as he pressured her with a powerful command of his arts. Each strike was so powerful that she had to completely dodge it or risk broken bones.
+
+However, I can see him move – no, his readiness to move. Right before each strike, energy collected within his muscles and released to create the attack. If I can just figure out how to understand this, I can get ahead of his strikes.
+
+There! The release of his energy flashed across his body, an elegant pattern of muscle engagement, and Malika dodged the flurry of punches by stepping twice off the air with her Divine Step. Turning it into an aerial spin kick, she slammed her heel into his back and knocked him stumbling forward.
+
+No rock? She landed nimbly on her feet. Her kick had struck his body, and even though he recovered quickly, she had actually hit flesh that time, instead of his impenetrable obsidian rock armor. Well, flesh that felt like a sack of hard potatoes. As she dodged and blocked his counterattack, she reviewed the few seconds before her successful strike.
+
+The only difference is that I was airborne. Why?
+
+She filled her stamina with Second Wind and immediately went on the offensive. Using her skills to briefly run through the air, she rained a flurry of punches down on his head and shoulders from above. Crack! Crack! Thud. The first two punches connected with rock, while the last slammed into his dense muscle, delivering her powerful Soul Strike to his left shoulder.
+
+Basir backed away, guarding conservatively and rolling his shoulder in evident pain. He nodded to her, and several rocks levitated into the air while his entire body rippled as his skin turned into dense overlapping obsidian plates.
+
+Uh oh! New tricks. She found herself grinning. Must have woken him up.
+
+Malika suddenly found herself in a storm of flying rocks that whistled and whirled around the fighting ring like a maelstrom of stones. As she pushed her skills to the limit to dodge his new attack, an intense light from her Soul Sight informed her that he was not content to stand back. His powerful, reinforced body rushed through the rock storm, and he unleashed the continuous attack sequence of the fifth form which, in combination with the flying rocks, served to overwhelm her ability to dodge.
+
+What followed was fifteen minutes of pure hell, while she dodged five out of every six attacks and was forced to heal whatever bone he broke with the one that got through. All her counterstrikes slammed into his rock armor, serving to build up more damage that she had to heal. She could see him unleashing his attacks, and while each was individually slow, the combination with the flying rocks proved overwhelming. She poured her stamina into her Soul Strikes and Healing Mantra, replenishing it constantly from her Second Wind and Clarity, but in the end, it wasn’t nearly enough.
+
+“I yield,” she said, and he instantaneously halted his onslaught, flying stones instantly falling to the ground. Gingerly Malika got up from the sand, her arm hanging loosely at her side – she no longer had enough stamina or mana to heal it.
+
+“Thank you, Malika,” Basir said, offering the same bow of respect from the beginning of the match.
+
+“What did you learn from that fight?” Rezan asked as he led them back to their seats on the sidelines while fresh fighters entered the ring. There were significantly more faces than at the beginning of the fight, and a few even nodded respectfully to her.
+
+“Basir is too fast for me,” she ground out. “I couldn’t get through his armor.”
+
+“I despise lies and excuses,” Rezan chided. “What did you learn?”
+
+Arg! It was frustrating to be overwhelmed by someone so much slower than her, but Malika focused her thoughts on the fight. “I can’t see his rock abilities; they must be mana.” She considered her struggles for a few more moments, “I can see the energy of his punches and I was able to hit him if I attacked from the air.”
+
+“Good,” Rezan said. “At least you were paying attention. Basir’s sight works through the earth. It is both a strength and a weakness. The fact that you were able to figure it out and test it in battle is the only good thing about your fight.”
+
+Malika’s eyes dropped to the floor at his harsh feedback. Am I that bad? But Basir’s so powerful.
+
+“Malika,” Rezan said, taking an annoyingly sagely tone. “One of the most important lessons for a warrior who cares about getting stronger is to objectively assess one’s own skill. Basir is not faster than you. Nor did you lose because he is more powerful. He is simply better than you. He has had more training and he’s a lot more experienced. He uses his skills better. Once you accept the truth of this, you can step forward and become stronger.”
+
+Malika looked up at Rezan but found no contempt in his gaze. It was a brutal assessment, but one which had been honestly given. She nodded, not really trusting herself to speak.
+
+“Basir, what is your assessment?” Rezan asked.
+
+He paused in thought for a moment before answering, “I spent too much time evaluating her at the start. She is much stronger than I expected. She takes an enormous amount of damage and just keeps coming back. I almost ran out of mana and stamina.” He looked at Malika, “How do you have so much mana to keep healing and fighting?”
+
+He was close to running out? Malika had no idea the fight had been close. Basir had seemed such an unstoppable force, that she had never considered she might outlast him. The white wisps appeared dimmer toward the end… I wonder if that’s it? Can I learn to measure that?
+
+Seeing no reason to hide her abilities from the Elder and his disciple, she explained, “I have a Relentless aptitude that improves stamina regeneration and lets me spend stamina instead of mana for any skill. Also, Clarity lets me meditate in combat. Oh, and I can exchange mana for stamina with my Second Wind skill.”
+
+“Relentless is a good word for what that was,” Basir told her.
+
+Rezan nodded sagely. “Clarity will serve you well. From now on, Malika, you will concede any bout that lasts longer than ten minutes. That will be your handicap.”
+
+“Why do I get a handicap?” Malika asked. This is so unfair. That was my only advantage.
+
+“You rely on your skills too much,” Rezan said. “You need training in how to use your skills more effectively, and strategically. If your only strategy is punching and dodging until your opponent runs out of mana or stamina, you will always lose to smarter or better-trained opponents. Learning to be a more intelligent fighter will help you more than a few thousand points of extra stamina or some skill levels.”
+
+Ugh, that’s exactly what Dad used to say. Malika realized Rezan’s intentions were far from the superficial pettiness that she had childishly assumed. He actually seems to care a lot. She had noticed that both Basir and Hala’s respect for him did not seem in any way forced. “I understand, Elder,” she said.
+
+“When you both recover your stamina, you will fight again,” Rezan said. “I expect you to learn something new.”
+
+“Against Basir again?” Malika asked.
+
+“Yes, you are not ready to face Hala yet,” Rezan said. “She is faster and more powerful than you.”
+
+“She’s stronger than Basir?” Malika asked, looking at the slender, quiet girl.
+
+“Stronger than you,” Rezan repeated. “Basir has learned to win two out of five bouts with Hala, through strategy, training, and hard work. His rock storm and accuracy with his rock armor are the result of training regularly with a faster opponent.”
+
+“I see,” Malika said, her eyes taking in Hala with new curiosity. I can’t wait to see what she can do.
+
+“While we wait, Malika, you will study this chapter,” Rezan told her, retrieving one of the books of Ahn Khen. “Get a pen and paper, I will translate it for you. This book is called ‘The Path of the Fist’. It and ‘The Path of the Soul’ will be the most useful for you.”
+
+The rest of the day was spent studying under Rezan’s tutelage, punctuated by brutal sparring matches against Basir. Rezan allowed her to try one match against Hala, but Malika had found herself on her back staring at the clouds before she had even seen Hala move.
+
+Rezan expected her to apply the material from the book immediately to her matches, but when she struggled, he was quick to demonstrate the proper technique and application. She felt her understanding of her skills and their application to combat growing in leaps and bounds, and even her actual skill levels grew significantly. But in one way, she had made frustratingly little progress.
+
+“Why can I not get through Basir’s armor?” she asked, letting some of her frustration creep into her voice. “Nothing in the book is helping with that.”
+
+“You are simply too weak, Malika,” Rezan said patiently. He must have noticed the frustration because he elaborated. “Your strength attribute is very low.”
+
+“But my class and skills use dexterity?”
+
+“Dexterity is speed and accuracy,” Rezan said. “Your class rewards you for investing heavily in dexterity, but what good is a high-speed, perfectly placed attack if you’re hitting with a feather? Think of your dexterity directing your power to the most effective spot. Your power is multiplied by your accuracy. You won’t need a lot, but do not neglect strength, it’s the other side of the power equation.”
+
+Great, now I need to invest in all the attributes. Strength for my attacks, and Soul Sight will need more perception.
+
+As she sat and waited for her mana and stamina to regenerate, she considered all she had learned in one day. She could already tell Soul Sight would become an incredible combat tool, allowing her to predict the movement of her opponents once she became proficient with it – it would simply be a matter of practice and training.
+
+Off to the side, near the edge of her range, she suddenly saw the energy of a small person, hovering there, as if uncertain. She turned her head to see the girl who had been watching her bouts. She’s still here? The sun was sinking low in the sky and the day, fading to the chill of the evening in the mountains. Beneath the grime, torn dress, and gauntness of frame that bordered on unhealthy, Malika saw a surprisingly intense energy and intelligence behind curious blue eyes.
+
+“Thank you for showing your skills,” the girl said, stepping forward shyly to offer a small ring of peacebloom flowers. The thanks were traditionally offered for friendship or sharing, but Malika got the distinct impression that it was more personal for her.
+
+“I’m Malika,” she said, taking the offered peacebloom necklace and putting it on.
+
+“I’m Sabri,” she replied. “You’re strong – I wish I could fight like you.”
+
+Malika chuckled wryly. “I lost every match today.”
+
+“Nobody lasts more than a minute against Basir, that’s not very exciting,” Sabri answered. “You were fun to watch, and you made him use all his abilities.” And then she bowed and sprinted off.
+
+Malika wasn’t sure what that was all about, other than the girl seemed shy. But her gesture was sweet, and it made her smile.
+
+“You have an admirer,” Basir observed from where he sat. “Sabri is always watching the bouts in the ring, but I’ve never seen her interact with anyone like that before.”
+
+“She has a really powerful energy,” Malika said. “I think she would make a great fighter.” She couldn’t help but notice the complex emotions that flickered across Rezan’s face at her words.
+
+“Your energy has changed; did you earn an advancement?” Rezan asked, conspicuously changing the subject.
+
+Malika decided not to pursue it, instead sharing the advances she had earned from her day of sparring and studying.
+
+Healing Mantra has reached level 24.Martial Artist has reached level 23 (+3).Enlightened Evasion has reached level 25 (+3).Clarity has reached level 10.Soul Sight has reached level 6 (+4).
+
+Oh, he was right… and then, as if the mere act of reading her advances was the trigger, a new notification popped up. She sucked in her lips. And…
+
+Requirements met for skill advancement.Mentor: Rezan Jin.Enlightened Evasion has reached level 25.Dexterity has surpassed 250.Wisdom has surpassed 180.Tanked multiple monsters in the death magic aura of a raid-level threat.Tanked a higher-level foe in a blight aura.Successfully healed your tank while perfectly avoiding multiple consecutive fireballs. Enlightened Evasion gains Magical Evasion.Enlightened Evasion – level 25Requires: No body armor or shield equipped.Your ability to dodge is supernatural, you are even able to dodge area, magical, and explosion damage.Stamina: Your martial arts grants insight into avoiding attacks. While unencumbered by armor, your Evasion is increased by +685 [skill x 7 + dexterity x 2]. Reserve: 10%Physical, Melee, Defense, DexterityAccept this advancement?
+
+Coming out of her brief introspection, she realized Rezan was waiting patiently for her. Malika immediately shared her potential advancement.
+
+“That is strong, I recommend taking it,” Rezan said, offering his opinion after taking a little time to reflect upon it. “You did well today.”
+
+After all the harsh critique and lost bouts, the advancement and his praise felt well earned. She nodded briefly. “Thank you.”
+
+“However, your unlock requirements seem rather extreme, perhaps we should talk about what you did to earn those,” he added.
+
+Malika grimaced at his tone. “Ali has a habit of continuously shooting fireballs at our tank to get rid of monster hordes,” she replied. In fact, it seemed to be her favorite strategy now.
+
+“Hmm. Tell me more?”
+
+As she described their evolving strategy to the stoic monk, she realized that the rest of her achievements contributing to unlocking the skill advancement were rather telling. Both Alexander Gray’s blight aura and the Death Wight’s aura had been critical to the skill advancing, and in both cases, she had spent significant time immersed in the continuous damage they emitted.
+
+She assumed Rezan’s mentorship enchantment, and the strenuous training today had played a large part in earning the advancement too, and it was curious that he hadn’t mentioned it. She knew he wanted her as a student, and she still had a decision to make. But he seemed to be sincere about not pushing her.
+
+Suddenly, she noticed the second change to her skill, and she stared, scarcely believing her eyes. In addition to dodging area and magic damage, her skill also now provided two points of evasion per point of dexterity.
+
+That’s more than double! Blade sharpens blade – thanks Basir. Hope you’re getting something out of this, too.
+
+She accepted the advancement, growing excited for the opportunity to test it out against Basir’s storm of stones, and maybe even have another go at Hala’s lightning.
+
+It was late afternoon when Mato arrived at Sigurd’s farm. He stopped and surveyed the blackened, dead fields with a grimace – the damage was far more extensive than he had expected or imagined. No crops were growing, and most of the trees seemed to be dead or dying – the damage to the natural ecosystem was clearly extensive. In fact, could he see a single fresh green shoot or bud anywhere?
+
+No wonder the town was desperate to grow food. If all the farms were like this, there was no way they would be able to grow enough for everyone.
+
+When he knocked on the door, Sigurd answered quickly.
+
+“Oh, I’m so glad you came!” he said, and quickly showed him around, pointing out the most important areas and fields where the blight was the worst. It was clear that the man was frustrated and at his wits end and there was evidence of many different attempts to circumvent the magical plague and get his farm back into some semblance of shape.
+
+“So, I saw your battle with that bloody Necromancer,” he said, hope laid out plainly on his face. “They told me your tree pushed back the blight – do you think it can work on my fields? I’ve tried everything.”
+
+“I’m fairly certain I can clean up the blight,” he said, estimating the size of the farm and his aura. “It will probably take all night, though.”
+
+Sigurd’s face shone at the news. “That’s fantastic!”
+
+“I’ll get started then.” Mato found a spot where his aura would cover most of the blight and began his transformation. Left unchecked, the undead blight had the potential to expand indefinitely, consuming everything that lived. He extended his roots down into the tilled earth and the rotting decay of the blight and stretched his branches towards the sky. He immediately connected with the calm serenity of the tree as his vision faded and he was left with just his senses of plants and animals, his sanctuary, and his survival instinct. His awareness stretched outward expanding across the fields, connecting with the seeds waiting underground, the plants struggling near the blight, and even the earth itself. The wrongness of the blight gnawed at him as it destroyed life across the farm.
+
+With a rush, his aura expanded to the full extent of his now 845-foot range. His regeneration took hold, and his mana and life energy surged through his trunk and branches, spilling over into the farmland. His sanctuary began to dismantle the deep hold that the blight had on the land, as his life energy attacked it through his aura. There was a sense of rightness to his labors – as the blight dissolved, nature would be restored to balance, and it would be able to recover.
+
+He reached out with his Rampant Growth to the few seeds that were near the slowly receding edge of the blight and delicately encouraged them to grow. He watched with joy as the wheat plants began to sprout under the careful influence of his mana.
+
+Once the blight was eradicated here, he would relocate to the other side of the farm and repeat the process there. As he mused and laid plans in the slow-paced heart of his Tree Form, a notification caught him by surprise.
+
+Arboreal Sanctuary has reached level 28.
+
+Now, if I can just get a couple of zombies or skeletons to show up, I can test out Rampant Growth as an attack skill!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

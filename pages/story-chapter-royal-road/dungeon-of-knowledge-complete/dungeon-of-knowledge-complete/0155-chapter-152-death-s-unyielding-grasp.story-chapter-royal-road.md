@@ -1,0 +1,199 @@
+---
+id: cafc60b0-5bbc-5bea-95fd-028ee9a2516b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 152: Death’s Unyielding Grasp"
+slug: 0155-chapter-152-death-s-unyielding-grasp
+partOf: dungeon-of-knowledge-complete
+position: 155
+ownLength: 3389
+unit: words
+ownProgress: 3389
+publishedAt: 2024-11-04
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1884527/chapter-152-deaths-unyielding-grasp"
+royalRoadId: "1884527"
+markedReadAt: "2026-06-29T20:16:13.188Z"
+---
+
+Undead, as most of you no doubt already know, come in an infinite variety, mirroring the complexity of the living in a perfect balance. Whether naturally occurring or summoned, undead can – at the most fundamental level – be split into two categories: Lesser and Greater. The distinction is ego – most undead fall into the Lesser category: Zombies, Skeletons, and the like – all of which share the property that they are mindless automatons, able to carry out simple orders and fight using simple instincts. But Greater undead preserve the ego they had in life, and in many cases, they keep a portion or the entirety of their class and experience and can provide some much-needed power in the budding Necromancer’s army.- Basic Necromancy: Summoning the Undead.
+
+“Arise.”
+
+The voice spoke with the authority of an undeniable will.
+
+To Alexander’s immense surprise, his body obeyed, rising to his feet even before he even knew it had happened. But that was a distant second to his surprise at the fact that he could hear anything at all.
+
+I died.
+
+His body felt strange, like his skin had been removed and stitched back on just a little too tight. His joints were creaky, and his muscles felt stiff – like he hadn’t used them in a long while, and they had somehow grown dusty and decrepit in the meantime, but he seemed to move with a power he had not had before waking.
+
+He opened his eyes.
+
+Before him he saw a cobbled stone street, badly in need of repair, leading to a town square that was stained and broken. Around the square was the rubble of several caved-in buildings that had once made a town. A town he recognized.
+
+Why am I back in Lyton?
+
+And how am I even alive? I know I died. It filled him with a bubbling cauldron of rage and frustration to recall the killing blow from those whelps. He should have been the one to destroy them, and yet his life had drained away as his Bone Avatar failed and he had fallen to the ground, thoroughly drained of mana by that irritating Ahn Khen girl.
+
+I need to find her and pay her back…
+
+“You are fortunate, Alexander Gray,” the chilling voice interrupted his thoughts of revenge with a thrum of power that hammered through his body, driving him to his knees in the dirt. The voice conveyed implacable, undeniable power, as if a dark hand had reached within and grasped his heart with frozen claws.
+
+“Master…” he managed before the voice continued, and his own throat cut him off from interrupting.
+
+“Be grateful that I am granting you the opportunity to serve me again in death after you so thoroughly failed me in life.”
+
+Death? He glanced down at his hands, finding his skin black and tight around his bones as if his very flesh had withered and rotted away within. And yet he could still move. It was only then that he noticed he was not breathing, nor could he feel the beating of his own heart.
+
+With growing horror, he identified himself.
+
+Mage – Undead – level 66 (Death)
+
+I’m dead. I’m undead… He had been raised as an undead, and now he was beholden to his master by an intimate and inescapable bond of compulsion. He was a minion. Like his own zombies and skeletons had been his to command.
+
+“My Death Knight was unable to retrieve your body quickly enough. You have lost levels. I expect you to regain them. You will need to be much stronger for what is to come.”
+
+Alexander risked glancing up to see the robe floating past where he still groveled in the dirt. The Blind Lich did not even look at him as he passed, instead heading toward the broken town square.
+
+“I raised you because I recently retrieved the Ruins of Dal’mohra shrine. It served me for thousands of years, producing Wights and Skeletal Wyverns, and now I will entrust it to your care. Protect it with every ounce of your unlife, for its worth is far higher than you will ever attain.”
+
+“Yes, Master.” He tried to ask a question, but the compulsion that bound his dead heart denied him the words.
+
+Beside Nevyn Eld, a huge prism of black stone suddenly appeared, crunching into the cobblestones, crushing them under its apparently immense weight.
+
+The Ruins of Dal’mohra – Shrine / Artifact
+
+The Lich made a few adjustments, and suddenly the entire stone artifact levitated a few feet into the air, and runes flared with sudden brightness as he activated it. It flickered, and its name changed.
+
+Ruins of Lyton – Shrine / Artifact
+
+“Bind yourself to it, Alexander.”
+
+It was a command, and his body obeyed. He rose to his feet rushing to do his master’s bidding. His gnarled, desiccated hand touched the artifact and a chime resonated within his mind.
+
+Bind yourself as the owner of the Lyton Ruins shrine? This action is irrevocable.
+
+His own will was irrelevant. He accepted at once, binding himself to the shrine as commanded.
+
+You have become the owner of Lyton Ruins.
+
+Raid Domain Enhancement applied to Alexander Gray.
+
+Domain Magic skill options:
+
+Attribute Enhancement: Strength, Endurance, Dexterity, Intelligence, or Wisdom.SummoningEnrageNova StrikeAffinity AuraTwin Binding: Requires a second entity.
+
+Choose three.
+
+He carefully read through the offered skills, painfully aware that Nevyn Eld was floating beside him, with an unnerving stillness, waiting for him to comply.
+
+Quickly, he discarded Twin Binding and Summoning. He was still a Blight Summoner, so he needed no assistance summoning minions. Enrage he discarded next, along with all the attribute enhancements other than wisdom or intelligence. Affinity Aura was clearly the most powerful, and he could apply Nova Strike to his Death Evocation or his Sacrifice, but neither seemed all that exciting.
+
+Can I ask him? Do I dare? He considered it for a couple of moments, trying to decide if he had the courage, but the compulsion did not seem to be blocking him.
+
+“Master, may I ask if you have any advice for choosing Domain Magic?” Undead were supposed to be immune to fear, but he felt himself trembling inside as Nevyn Eld turned his inscrutable blindfolded face to regard him.
+
+“Wisdom. I require many minions.”
+
+“As you wish, Master.”
+
+He selected his options quickly.
+
+Affinity Aura (Death) applied.Attribute Enhancement (Wisdom) applied.Attribute Enhancement (Intelligence) applied.
+
+You have gained the Domain Aptitude.You have gained the Damage Multiplier Aptitude.Your resource factor has increased to 100.
+
+Binding Complete.
+
+The artifact thrummed and its power surged through Alexander’s withered body, expanding his mind and his undead flesh. He screamed as it soaked deeper, tearing at his mana and his unlife. His bones stretched. His withered skin tore from the pressure, reforming and knitting closed under the influence of the forces coursing through his shriveled veins.
+
+Slowly the power waned, and then his own mana reacted, bursting forth from his body in a surge that bathed the entire town square in death magic. Finally, it ceased.
+
+“I approve.”
+
+Nevyn Eld’s approval sent a thrill through his dead flesh, superseding even the feeling of an enormous augmentation to his power. Alexander gazed north and said, “With this power, I will raze Myrin’s Keep to the ground, and bring you the dungeon of –”
+
+“Myrin’s Keep?”
+
+A chill grasped Alexander’s dead heart as the Blind Lich turned toward him. Instantly, he fell to his knees, frozen in place, unable to speak.
+
+“I have no interest in creeping insects…” The voice echoed strangely in Alexander’s mind, like the tearing of old parchment in a vast crypt. “There are powers beyond this realm, powers beyond the capacity of your puny intellect to begin to comprehend. Forces are moving, and my plan is in motion. You must be ready.”
+
+“W… what are your orders, Master?”
+
+“Build me an army,” the Blind Lich whispered, his voice speaking directly into Alexander’s mind. “Our course is set. Head south. Make for the kingdom of Aman Rak where we will slay the Troll warriors and use their corpses to strengthen my armies for the final battle. They are the final piece. Activate the shrine locus and I will return when I require undead. Do not fail me, Alexander.”
+
+The Lich’s voice ripped through his body, tightening its chilling icy grip of compulsion on his heart.
+
+“Yes, Master.” He somehow managed to remain on his feet, but his entire body trembled.
+
+With that, Nevyn Eld vanished, leaving Alexander bound to the shrine in the center of the ruined town square of the former town of Lyton, the awful grip of his presence suddenly gone. But the chilling claws clamped around his heart remained, and he knew he would never be free of their unyielding grasp.
+
+***
+
+His Master had left, and with him went any opportunity for Alexander to get answers to the thousands of questions that tumbled through his mind.
+
+Insects? He cares so little about Myrin’s Keep? That thought rankled most – that this directive would leave his appetite for revenge unsated. Yet, his Master’s purpose was vast, and he had been chosen for greater things, a greater purpose. Yes. Myrin’s Keep can wait… but I will never forget that humiliation.
+
+Deciding to explore first, he walked toward the nearest of the collapsed buildings. The Inn? He tried to remember what Lyton had been like, but he couldn’t – it was one more of so many little towns just like it. But as soon as Alexander stepped more than three yards from the giant floating prism of black stone, he felt resistance and pain that grew sharply with every inch he moved beyond the invisible limit.
+
+I’m bound? Trapped? He backed up, returning to the shrine, and the pain and resistance vanished. He tried again in several different directions, but the result was the same. He was confined within a tiny three-yard radius of the shrine his Master had bound him to.
+
+He had orders, and he felt the chill of the compulsion pressing in on him, but he still had no idea how to proceed. Unable to leave the area, he turned his attention to inspecting the shrine instead.
+
+Lyton RuinsA crafted shrine artifact, providing domain propagation and support abilities. Owner: Alexander Gray.Teleportation Locus [Inactive].Mana Siphon [Inactive].Mana: Deconstruct an unresisting or inanimate target, imprinting its structure. Range: Domain.Mana: Summon an imprinted item or creature.Mana: Apply a Domain Enhancement.Mana: Recharge the shrine’s mana reserve. 219/20,000Created by Nevyn Eld.Shrine – Artifact
+
+Immediately, he saw a way to obey, and he switched the Teleportation Locus to ‘Active’, as Nevyn Eld had commanded. As he did so, the icy clutch of his compulsion eased, and he might have breathed a sigh of relief, but he seemed to have forgotten the skill of breathing.
+
+There were several curious abilities listed on the shrine, and as the owner, he would be able to use them. Presumably, they held the answers to most of his questions, but first, he needed to understand what ruin his transition to undead had wrought on his class and abilities.
+
+Name: Alexander GrayRace: UndeadActive Buffs: Raid, Death Affinity Aura, Necromantic PowerClass: Blight Summoner – level 66- Death Evocation – level 36- Blight Infection – level 32- Raise Lesser Undead – level 33- Necromantic Power – level 29- Create Abomination – level 25- Eyes of the Damned – level 27- Sacrifice – level 23- Mana Shield – level 22- Raise Specter – level 14- Avatar of Death – level 9General Skills- Identify – level 18- Basic Infusions – level 12- Acting – level 9- Deception – level 11Domain Magic- Damage Multiplier: x2.5 to all attack and spell damage- Affinity Aura: Death- Enhanced Attribute (Wisdom): +50% to base Wisdom- Enhanced Attribute (Intelligence): +50% to base IntelligenceAptitudes- Languages: Common, Elvish- Mana (Affinity): Death- Damage Absorption (Racial): Death damage is absorbed as healing- Immunities (Racial): Poison, Disease- Vulnerabilities (Racial): +50% extra damage from Holy- Domain: -10% maximum health per day domain withdrawal. You have Domain SenseAttributes- Vitality: 101 (+12) - Strength: 65- Endurance: 210 (+103) - Dexterity: 71- Perception: 53- Intelligence: 690 (+414) - Wisdom: 473 (+232) Equipment- Head: Pendant of the Magus – level 50- Body: Robes of the Necromancer – level 60- Ring: Band of Holding – level 35Resistance: 864Magical Damage Reduction: 31.85%+12% to Spell Haste.+25% Spell power to Death skills.Health: 10100/10100Stamina: 21000/21000Mana: 37840/47300 (9460 Reserved)
+
+He studied the status page for a long time, stunned by the changes. The first, and perhaps most obvious change was that he was no longer human – and that he had lost seven class levels to his death. Again, he felt the anger and the powerful urge to seek his revenge, but his compulsion tightened, reminding him that he was to head south – the opposite direction to Myrin’s Keep and the frustrating group that had caused his untimely death.
+
+Several of his class skills had lost skill levels, but he had lost none of his advances, meaning his class was almost entirely intact. He had some of his gear, and his ring still held several potions and the couple of the most important corpses he kept in there for emergencies.
+
+But it was his new Aptitudes and his resources that captured his attention. His ascension to undeath had granted him immunity to poison and disease, and the ability to heal from death magic damage. My own damage. That change alone was going to make him nearly unkillable, provided his Blight and the miasma it produced counted.
+
+His binding to the shrine had granted him three Domain Magic skills – a wide aura of death magic and a huge boost to his wisdom and intelligence – and a damage multiplier that more than doubled all his damage. But his life, mana, and stamina had been raised to absurdly high levels. The number of minions he could raise with thirty-nine thousand mana was frankly insane, and despite not having a working heart, he felt excitement rising within him. He heard his own voice rhythmically grating and realized he was laughing – a freakish sound created by undead flesh that did not need breath. But that simply made him laugh more.
+
+Eventually, he turned his attention back to the shrine, and the abilities listed there. He attempted to use the first one, focusing on the cobbled stones of the town square beneath his feet. It took a tiny amount of mana from the shrine’s reserve, and over the space of about ten seconds, the stone sparkled, emitting floating motes of light until suddenly it vanished in a pop of light, leaving a gap in the paving. He experimented with it several more times, trying to figure out what it was for. After destroying a sizeable chunk of the cobbles, he suddenly received a notification.
+
+Imprint: Granite completed.
+
+Imprint? He had found two of the shrine abilities referenced imprints – it seemed the first one was for collecting imprints, and the second one was for using them, so he switched to the second one to see if he could figure out how it worked. As soon as he focused on it, the skill presented him with a list of choices.
+
+Imprints (Max: 30)1- Bone2- Sword3- Leather Armor4- Bone Shield5- Plate Armor6- Bone Bracelet7- Arrow8- Bow9- Sling10- Dagger11- Robes (Tattered, Simple)12- Blackened Deathcap Mushroom13- Starving Wolf14- Giant Spider15- Spitter Drone16- Piercer Scorpion17- Kobold Mage (Bone / Fire)18- Kobold Archer19- Kobold Rogue20- Kobold Acolyte (Holy / Death)21- Kobold Warrior (Warrior / Swordmaster)22- Kobold Slinger23- Zombie24- Skeleton25- Skeleton Mage26- Undead Giant Bat27- Skeletal Wyvern28- Wight29-30-
+
+Are these what I can make with the shrine? He suddenly understood Nevyn Eld’s orders. He was to produce an army of Wights and Skeletal Wyverns for him, and there they were at the end of the list of imprints. But the prior dungeon had filled the imprint slots with a lot of other things, some of which looked like they may be useful, but most looked like a waste.
+
+I will have to choose wisely, and consider how to build my army, he mused, rubbing his bony chin. All he heard was the rasp of his fingers. There was no sensation at all.
+
+He chose one of the two empty slots to record his new granite imprint, finding it to be rather intuitive, and then he tried to create some, but the shrine was out of mana. He quickly refilled it with twenty-thousand mana from his own mana pool, leaving him with a still-astronomical nineteen thousand mana, which was already beginning to regenerate. He used some of the mana to create granite and found that it created cobblestone-sized chunks of stone, taking about a minute to complete each one.
+
+Not particularly useful. He started working his way through the imprints to see what each one could do. Bone simply created various bones that seemed surprisingly worthless because they were not corpses he could resurrect. Perhaps he could use them to create an abomination, but there were so many better options. Most of the early imprints were various forms of weapons or armor, several of the imprints creating slightly different variations, seemingly at random.
+
+But when he got to the twelfth entry and made a Blackened Deathcap Mushroom, he felt something shift in his sense of the domain he had been granted. His space was so small, that he instantly felt the release of pressure closing him in, and in moments he found that the mushroom had expanded the space he could comfortably be in. The radius grew slowly, but he immediately planted a bunch of them all around the edge of his area, excited to be able to acquire access to more space.
+
+While he waited to see how much room the mushrooms would ultimately give him, he summoned a Kobold warrior. The monster appeared before him, gleaming with green scales and a reptilian face. And just like his zombies or skeletons, it appeared to be bound to his will. Immediately, he cast Sacrifice on it, reaping its life for a temporary power boost, and then raised its skeleton to serve him.
+
+That’s convenient. He had always had to carry corpses to start his army or find something to kill first with his bolts of death magic. But now he could just summon living monsters and turn them into undead whenever he needed. He amused himself for a while creating every kind of monster and turning them variously into zombies or skeletons. Only the Piercer Scorpion and the Spitter Drone proved to be duds – elementals that were not compatible with his mana. He simply had no use for them and would replace them as soon as he found something better. Perhaps the Trolls the Master asked for? He must have some reason to demand those specifically.
+
+When his mushrooms stopped expanding his domain, he grew new ones all around the border, expanding yet again in an ever-growing ring that blanketed the former town square. When he finally reached the forest, he used his Deconstruction skill to demolish the dead trees, making himself more and more space, until his notification chimed again.
+
+Imprint: Blighted Oak completed.
+
+Curious, he added the imprint to the final empty slot and created a Blighted Oak at the boundary of his domain. As soon as he completed it, he knew he would keep it. The black tree was large, spreading dead boughs wide, and every inch of its surface oozed the miasma of his Undead Blight. And more importantly, it expanded his domain far quicker and wider than the mushrooms.
+
+As he strolled through the decrepit and run-down streets of Lyton, his new domain, he understood how he could serve. He had an enormous mana pool, thanks to the shrine and Nevyn Eld’s advice, and he had the imprints to serve him. All he needed now was to expand and gain his levels back, and maybe earn some more powerful imprints. There were so many little towns along the way to plunder.
+
+He channeled his mana into the shrine imprints and began his task.
+
+Mage – Undead Wight – level 43.
+
+Skeletal Wyvern – Undead Dragon – level 37.
+
+“Go. Hunt the living and bring me their corpses,” he commanded. Myrin’s Keep would pay. It was only a matter of time. First, he needed to get stronger.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

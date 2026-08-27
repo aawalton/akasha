@@ -1,0 +1,185 @@
+---
+id: b609d83e-23c2-553a-9d75-9851684c2d10
+page-type-slug: story-chapter-royal-road
+title: "Chapter 194: Dinner and Guests (2 of 2)"
+slug: 0198-chapter-194-dinner-and-guests-2-of-2
+partOf: dungeon-of-knowledge-complete
+position: 198
+ownLength: 3505
+unit: words
+ownProgress: 3505
+publishedAt: 2025-02-06
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2051305/chapter-194-dinner-and-guests-2-of-2"
+royalRoadId: "2051305"
+markedReadAt: "2026-06-29T20:17:49.694Z"
+---
+
+“You guys got to level nine pretty fast,” Malika said. Sabri seemed so naive and lost, and yet so eager to learn and grow, it didn’t surprise her that she was among the first of the adventurers to take advantage of the library. She reminded Malika a lot of herself, or perhaps the younger sister she never had.
+
+All she needs is a little self-confidence and some time, she thought. Malika recalled just how eager she had been to get out there and test her skills, and how much value a few simple pointers would have been. She almost envied Sabri and Brena, having access to Vivian Ross’s new mentorship program. The budding friendship between the two novices was a good sign, too. Like Rezan, Malika worried that Sabri would struggle to settle in a new town so far from home, but Brena and her seemed to be looking out for each other.
+
+“We were planning to try the Kobold boss in the sewer next,” Brena said, sounding rather excited at the prospect. It seemed that the young Gnome mage had been selected as the leader of one of the novice groups, and her enthusiasm for the upcoming fight was echoed in Sabri’s face.
+
+“I can’t wait to tank it,” Sabri said.
+
+“Perhaps you should upgrade your shield,” Malika suggested.
+
+“Do you think I need to?” Sabri asked, looking at her level three shield, perhaps imagining it wreathed in hellfire or taunting her enemies.
+
+“You’re three times the level of that shield now. Early on, upgrading quickly is important if you don’t want to fall behind. Perhaps you can pay Kavé a visit before you tackle the kobolds and see what she thinks?” She remembered how quickly her own armor skill had declined, and if they were intending to tackle a raid boss, it would be essential she had good equipment.
+
+“Ok,” Sabri nodded solemnly.
+
+“Should I upgrade too?” Brena asked.
+
+“I think so. Ali likes Lydia’s Allure for mage gear,” she answered, a little surprised that Brena would ask for advice. She had seemed a lot more self-assured.
+
+“Lydia’s work is expensive, though,” she said.
+
+“It’s worth it,” Ali answered. “Especially for magic resistance – you can never predict stray fireballs. I’m going to go visit her tomorrow, I can introduce you if you like.”
+
+“Ok, thanks!”
+
+“Oh, hey Ali. Tell me you learned to make that Abyssal Bloodstone.” In the heat of the moment, it had entirely slipped her mind, but now that they were discussing crafters, she remembered why they had gotten into hot water in the abyssal plane in the first place.
+
+“I did. Here,” she said and popped out a fist-sized crystal. “I also got these hellfire essences.” Ali passed all the reagents to her, and she healed her burned skin as she stored them.
+
+“Isn’t that painful?” Brena asked, wrinkling her nose.
+
+“It is, but that’s what endurance is for,” Malika answered.
+
+“Even for a mage?”
+
+“I put some points into it,” Ali answered for her. “The Demon Hunter took my arm off today, and I blacked out from pain in the battle. I was lucky I regained consciousness quick enough to cast my barrier otherwise I’d probably have died. I’ve already put two more points into endurance just because of that.”
+
+“Hey, Mato, do you want to go visit Thuli? I want to see if he can use this bloodstone, and I think you need an armor upgrade too. Maybe we can bring Sabri along and see if she can get some better gear for their raid.”
+
+“As long as we can afford new armor,” Mato said. “Level sixty is probably expensive.”
+
+“We can cover it with the group funds. I think it’s important,” she said.
+
+Her thoughts turned to the implications of the day. Mind magic is insidious, she thought, recalling the haunting distant melody. She had been so excited to see the highly valuable and rare abyssal bloodstone that she had completely missed the demonic tendrils insinuating themselves into her mind. She and Ali were going to grill Mieriel as soon as they returned to the guild. Unfortunately, the answer was almost certainly learning to be more vigilant, more aware. At least we can ask her to train us.
+
+Lair of the Demon God. The Emberforge Mines was hard enough, but this was a hellfire and blood dungeon in an abyssal plane beyond even Calen’s skill’s threat assessment. They had been lucky – there were too many stories of adventurers stumbling into dungeons that were beyond them and never seeing the light of day again. And whatever that Pit Lord was… she could still feel the overwhelming force of its mere presence in the cavern.
+
+She shook her head, putting down the worries about things that she could do nothing about now. She would just have to be more careful about stepping through strange rifts and entering unknown dungeons in the future.
+
+Soul Monk has reached level 60 (+6).+60 attribute points.
+
+So, the flamecaller Demon Hunter was worth five levels, she thought. Not bad for a tricky fight. While it was in principle a simple fight, staying alive for a whole minute with the full fury of the entire room focused only on you was a challenge for any class. Especially as the room had filled up with more and more demons – without the presence of the abyssal rift it would likely have been an almost trivial fight.
+
+The sixth level had come from their crazy last stand in front of the library, holding back the horde of demons while Ali built her bosses. Eagerly, she checked the rest of her gains.
+
+Martial Artist has reached level 29.Soul Strike has reached level 38 (+3).Healing Mantra has reached level 35.Perfect Body has reached level 23 (+2).Soul Armor has reached level 28 (+2).Enlightened Evasion has reached level 32 (+2).Divine Step has reached level 29 (+2).Second Wind has reached level 20 (+3).Clarity has reached level 16 (+2).Soul Sight has reached level 17 (+3).Dancing has reached level 10.Appraise has reached level 16.
+
+Dancing? She smiled, amused at the incongruous skill advance at the end of her list. Her acrobatic moves in combat had been close enough to dance techniques that it had advanced her general skill also. I really haven’t practiced in ages, she thought – not since her lesson. Not that there’s been any time. In fact, she felt a little pang of guilt that she had been neglecting her training across the board – but they didn’t spend a whole lot of time in the guild, which was the only place she had access to training rooms.
+
+Requirements met for skill advancement.Mentor: Rezan JinSecond Wind has reached at least level 20. Endurance has surpassed 250.Wisdom has surpassed 250.Has reached zero stamina in combat.Has reached zero mana in combat.Has fought multiple battles lasting over an hour. Second Wind gains Unyielding Meridians.The mana cost of your abilities is reduced by 20%.Second Wind gains Abiding Perseverance.The stamina cost of your abilities is progressively reduced the longer you fight. [-3% per minute].Choose one advancement.
+
+Oh, nice, two choices, she thought, seeing the offered advancement for Second Wind. Although she had no idea which one was the best. Unyielding Meridians sounded impressive, and it gave a flat reduction of twenty percent to her mana usage, while Abiding Perseverance looked like it was designed to make her even more of an endurance fighter.
+
+She glanced at the requirements. She had fought in several hour-long running battles in the industrial district of the Ruins of Dal’mohra. And if it counted this demon dungeon-break as still ongoing, then that was definitely longer than an hour. But when did I run out of mana and stamina? Mana she remembered – she had burned all her mana fighting the Radiant Brawlers so that she didn’t have anything for them to drain. And then she remembered getting knocked unconscious and subsequently waking up in the Kel’darran caravan in the middle of a Goblin raid, totally drained by the cuffs of suppression.
+
+“Hey, Calen? Could you help me choose?” she asked, and when he nodded, she shared her advances. Seeing the curious glances from the novices, she decided it wouldn’t hurt to share it with everyone and give them a glimpse of how they had learned to help each other with skill choices.
+
+“Abiding Perseverance is much stronger,” Calen said immediately.
+
+“You sure?”
+
+“Yes, I agree,” Ali chimed in.
+
+“Think of it this way,” Calen offered. “In seven minutes, Abiding Perseverance will give you a twenty percent reduction in your stamina cost. Most of our hardest battles are much longer. Unyielding Meridians will give you more absolute resources over time, but Abiding Perseverance will give you more when you most need it.”
+
+“I see what you mean,” Malika said, studying the options again. Battles like the Inferno or the Wights had lasted well over half an hour. If she was getting an equivalent reduction after seven minutes, then Abiding Perseverance would be disproportionately helping her in the most challenging battles, whereas Unyielding Meridians with its flat reduction would help more frequently with the shorter battles – the ones where the cost reduction mattered much less.
+
+“Another consideration, you can convert mana into stamina,” Calen added. “What rate do you get now?”
+
+“Ninety-nine percent,” Malika answered, suddenly getting what Calen was after. At almost perfect efficiency, a stamina reduction was the same as a mana reduction for her – but after it surpassed one hundred percent, it would be much better for her to always spend stamina, gaining the cost reduction and use her mana pool entirely as a backup to refill her stamina. And if her gold guild ring had wisdom or endurance on it, she would pass that breakpoint with nothing more than a visit to the guild tomorrow.
+
+“Ok, Abiding Perseverance it is.” She selected her advancement, eager to try it out in the next battle.
+
+Wait, I have attribute points to spend right now! She considered her options and her new advancement, and then spent fourteen points on wisdom and ten points on endurance immediately, boosting her mana and stamina, and the efficiency of Second Wind. Then she boosted vitality by eleven and strength by two. She boosted her Soul Sight by spending ten points on perception and then dumped the remainder, thirteen points, into dexterity. Finally, she brought up the skill description for Second Wind, happy to find it had surpassed a hundred percent.
+
+Second Wind – level 20Exchange mana to gain +107.4% [40 + wisdom / 10 + endurance / 10] % of the amount as stamina.The stamina cost of your abilities is progressively reduced the longer you fight. [-3% per minute].Soul, Wisdom, Endurance
+
+Wow, I wonder if Mato also got gold? Turning, she began to speak to their big companion, but she saw he already appeared to be inward-focused. That was a notification look if she had ever seen one.
+
+Mato sat next to the cookfire after cleaning up and opened his notifications. Brena and Sabri had returned to their studies with Ryn, but he had enjoyed cooking for them and telling stories of their adventures. Storytelling was a long-standing tradition in his family, and with five older siblings he rarely got the opportunity to be the storyteller rather than the listener and so he had quite enjoyed their undivided attention as they hung on to his every word.
+
+Sabri and Brena couldn’t be more different. By her fashionable clothing, hairstyle, and manner, the Gnomish girl was clearly from a well-to-do family – no surprise given her mother was Donella Novaspark – the founder of the Novaspark Academy of Magic. Sabri, on the other hand, had clearly lived a life deep enough in poverty to show on her face and in her much-repaired clothing. Yet the two of them seemed to have formed a bond that might grow into an enduring friendship.
+
+He found his attention drifting from his notifications to the score of battles of the day. He had enjoyed all of them – even, surprisingly, the Demon Hunter. Initially, he had thought it was a stupid fight but tanking every single demon in the room had been a real challenge and had given him quite a rush. Then, after they changed strategies and he had to defend the rift, he had the exhilarating opportunity to abuse his powerful Battlemaster retaliation skill, controlling the room by preventing the demons from entering. An unusual role for him, to be sure, but one he had found quite stimulating.
+
+Holding off the demons in front of the library had felt just as epic as his tale for the novices. With just Malika, Calen, and himself, they had held off a horde of demons, more than he could count, for long enough for Ali to summon the crazy poison bosses. It was certainly a fight he would remember, and he couldn’t wait to tell the story at one of his family gatherings.
+
+His only regret was that he hadn’t gotten the opportunity to go head-to-head with that Maalgaroth demon. Next time. It would be a fight worth getting stronger for.
+
+Speaking of stronger…
+
+Druidic Shapeshifter has reached level 61 (+7).+70 attribute points.
+
+Mato slowly puffed out his cheeks, releasing a breath he had not realized he was holding. Sweet relief coursed through his body as he re-read it, twice, just to be sure that the number seven was really there. Details. Calen would have me check the details. He had leveled up once on the crazy packs of warlocks and hunters before they had even found the Demon Hunter. The big Flamecaller with his ridiculously noisy bow and crazy game of predator-prey had been worth four class levels, and then the final stand in front of the library had gained him yet another two class levels. It was a rather fitting haul, and he was delighted with his growth.
+
+Considering his massive haul of seventy new attribute points, he decided to invest heavily in vitality, spending a whopping twenty-two points on it. A lot got easier with more health. Twelve points went to strength and then ten to endurance. Given how important his battle senses were, he spent fifteen points on perception and then finished up with eleven for wisdom to boost his Natural Prowess and the scaling of his nature skills – and more mental resilience, of course.
+
+So, that was dinner, now for leftovers… he read on thoughtfully.
+
+Arboreal Sanctuary has reached level 33 (+2).Swipe has reached level 35 (+2).Brutal Restoration has reached level 37 (+2).Bear Form has reached level 32.Rampant Growth has reached level 10 (+3).Bestial Combat has reached level 30.Natural Prowess has reached level 25 (+3).Survival Instinct has reached level 26 (+2).Battle Trance has reached level 18 (+3).Last Stand has reached level 7 (+2).
+
+His skills had surged across the board. He had been rather worried that Rampant Growth would stagnate down in a rocky cavern filled with fire and no plants but using it to hold back the demon hordes in the jungle had earned him three skill levels. The rest of the skills seemed to grow according to how urgently he needed them: Swipe for the Battlemaster retaliation, Battle Trance from being hit by a room full of monsters, Last Stand for saving his life in the rift chamber, and again before Ali’s Forest Guardians had spawned. Last Stand and Survival Instinct were etching their place as his most trusted skills for saving him from the worst situations. Often, just the damage perception and the ability to create thirty seconds of breathing room for the healers was enough to turn an unwinnable fight around.
+
+Identify has reached level 12.Cooking has reached level 14.Herb Gathering has reached level 7 (+2).
+
+He nodded, satisfied that the rewards for the day matched the risk and difficulty of the fights. Even cooking! Must be because I made demon kebabs with my claws down there. Grinning widely, he read on.
+
+Requirements met for skill advancement.Survival Instinct has surpassed level 25.Perception has reached at least 75.Survived an abyssal realm.Exposed to the mana of two second-tier or stronger domains. Survived the blood corruption of a Pit Lord.Has tanked more than a thousand monsters in one battle.Has blocked multiple attacks that would have taken more than half your life.Has survived being hit by Elemental Storm.Has disrupted more than 50 ambush attacks with perception.Survival Instinct gains Mana Prescience.(You can sense mana within your domain. Whenever you sense an attack, your reaction speed is increased for 5 seconds.)Survival Instinct – level 26Your natural senses of sight, hearing, and smell are significantly enhanced. You have a sixth sense about incoming attacks, how much damage they will do, and how to move to mitigate the most damage. You can sense mana within your domain. Whenever you sense an attack, your reaction speed is increased for 5 seconds. Range: SanctuaryNature, Physical, PerceptionAccept this advancement?
+
+There was a time when he would have rushed over to Calen cheering excitedly about an offer like this. A part of him still felt like that, but his time studying with Lira had sent his roots down deeper. A sense of satisfaction percolated down to his heart, and a little awe at the achievement – his skill had grown because of their encounter on the abyssal realm – an event he could never have imagined even in his wildest dreams.
+
+A thousand monsters… Abyssal realm… He had certainly grown. Mom and Dad are going to be so proud of me. He could see the scene clearly – his mom would cry and hug him and say she loved him. His dad would laugh and slap him on the shoulder – and he wouldn’t need to hold back anymore. Then they would cook dinner together – he could not help smiling happily. It had been a fantastic fight.
+
+“You get something good?” Ever perceptive, Calen had noticed his mood.
+
+“Yes,” he answered, sharing the details with everyone, including Ryn, Sabri, and Brena just as Malika had done.
+
+“That looks very strong,” Calen said, but Mato already knew it was, and everyone else agreed too.
+
+“Hey, Brena. You’re a lightning mage, would you like to help me test this?” he asked, accepting the advancement.
+
+“Sure, what do you need me to do?” she asked, getting up from her seat.
+
+“Shoot me when I turn into a bear,” he said and then chuckled at the sight of the suddenly horrified expression on her face.
+
+“It’s ok,” Ali interjected. “I do it all the time. I think he likes it.”
+
+Malika put in, “And he’s ridiculously strong. In fact, we should do this for more training. Hey, everyone, let’s all beat up on Mato.”
+
+Mato shifted with an amused growl and then closed his eyes, focusing his attention on the strange new prickling sensation and gentle sparkling he felt throughout his sanctuary aura.
+
+Is that Ali’s magic? It felt like trees, lush verdant growth, and the crawling, creeping, roaming, and flying of wild beasts, but woven through it all he found the prickle of magic, the dryish parchment sense of a new book, and the tickly sparkle of runes and knowledge – and something that connected to… elsewhere. Something beyond the realm of life, plants, and animals.
+
+On the edge of his sanctuary, a brilliant blue-white flash of energy appeared – an electrified pulse. The world around him slowed down dramatically as his powerful combat perception recognized the danger, intuiting the small amount of lightning damage he would receive from what was clearly Brena’s Lightning Bolt. His body felt sluggish, but his mind and perceptions remained clear and nimble, and after letting the bolt hit him, he heard a squeal of surprise from the Gnome.
+
+He shifted back to his Beastkin form, watching curiously as his body transformed in slow motion, and only after he was done did the world resume its normal speed.
+
+“I’m ok, Brena,” he said, reassuring her.
+
+“I thought you would dodge it,” she said, eyes still wide. He could even hear her racing heartbeat.
+
+“I have more than three thousand six hundred health and over three hundred resistance to magic. I’ll be ok. Besides, Ali’s Acolytes will heal me if I need it.”
+
+“Oh, ok.” She seemed even more stunned if that was possible, but the horrified look faded quickly. “Can… can I shoot you again? I got a skill level for that!” She glanced guiltily over at Malika. “I… thought you were joking. Sorry.”
+
+“Hey, you can apologize by zapping the bear for me again.”
+
+“Sure,” Mato chuckled. “I need to get used to the perception haste, it’s a little unusual. Come on, Brena, let’s see what you’ve got.”
+
+It would take some adjustment to his combat style, but he was certain this would be a potent improvement to his defensive abilities. Given how frequently he was typically attacked, he knew the perception haste would likely last continuously from the beginning to the end of most battles, much like his Battle Trance.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

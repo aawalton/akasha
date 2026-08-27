@@ -1,0 +1,229 @@
+---
+id: 0f741600-98bd-5a12-9cca-db6d6b1da83e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 126: The Tree’s Balance"
+slug: 0128-chapter-126-the-tree-s-balance
+partOf: dungeon-of-knowledge-complete
+position: 128
+ownLength: 4505
+unit: words
+ownProgress: 4505
+publishedAt: 2024-09-05
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1789458/chapter-126-the-trees-balance"
+royalRoadId: "1789458"
+markedReadAt: "2026-06-29T20:15:22.881Z"
+---
+
+Vivian sat back in her seat, surveying the chaotic hubbub of the milling crowd. Aliandra appeared to be in something of a daze, sitting quietly in an eye of calm at the center, nobody yet having the courage to brave her Forest Guardians and approach – but there was a large crowd of people paying their respects to Lirasia, congratulating Malika and Calen, or talking with the mayor.
+
+Vivian studied the regal-looking Dryad, answering questions calmly, and finally understood the extent of her genius. Inviting the common townsfolk had been an inspired move. While everyone had been focused on winning the vote, very little consideration was given to what happened after. Yet Lira had effortlessly conspired to allow Aliandra to publicly admit to all the charges against her, and still come out at the end with the majority of the town supporting her wholeheartedly. Most of the folk circling the Fae, hesitantly sizing her up, saw her as a savior from the predations of Roderik Icecrown, or a solution to their starving families – not as a terrifying dungeon or murderer.
+
+“Excuse me,” Hadrik said, rising laboriously to his feet. He swept his ring-encrusted hand through the pile of summoned gold, making it all vanish, and then strode off to approach Aliandra, still seated on her glowing barrier disk.
+
+It had been a brilliant pivot, she reflected, studying the Fae. Aliandra had been so nervous about being their spokesperson, but when Bastian had claimed the free vote, she had masterfully switched strategies, playing Jax off against William and Hadrik to gain their support. She had rewoven all their carefully gathered intelligence together with observations during the trial into an entirely new coherent strategy on the fly. She even managed to sway the Dwarf. It was a feat Mieriel had declared would be impossible, and yet, Hadrik had abstained after Aliandra’s argument, rather than vote against her. Jax and Bastian must be pissed. She allowed herself an inward chuckle. Their faces…
+
+It had been easy for her to provide the final motivation to secure William Turner, but her approach to Donella had been brilliantly eclipsed by Aliandra’s impassioned appeal to her integrity and family. In a single stroke, Aliandra had freed the Gnomish mage to vote however she wanted, saving face in front of the town, and yet made it practically impossible to vote against her. It had not been calculated – and it had landed all the more potently for being genuine.
+
+“So, you have a pet dungeon,” Donella observed, flying over to join her.
+
+“She is way too smart to be a pet,” Vivian answered, matching Donella’s casual demeanor.
+
+“She sure is something. That magic she wielded… exquisite. Even I couldn’t quite catch it, but it seemed to be manipulating time itself,” Donella murmured.
+
+“Mhm,” Vivian agreed. Not that she had any idea how the spell worked – other than the little Aliandra had shared – but it certainly had seemed impressive and powerful to her senses. She couldn’t imagine how it must look to someone with Donella’s mana sight.
+
+“You’d better keep an eye on her, Vivian, dungeons are dangerous. Don’t make me regret my vote.” Donella paused significantly and then added, “On an unrelated note, I’d like to leave an open order with your guild merchant to purchase all the magicite that comes through the store at a reasonable price.”
+
+“I’ll let Weldin know,” Vivian said, outwardly acting cool and collected, but an open order from the Novaspark Academy was an enormous scoop for the guild. While she had plenty of experience with the danger of dungeons, Mieriel had opened her eyes to see just how different Aliandra really was.
+
+“Can I have Brena talk to you… if she wants to use the shrine?” For the first time in ages, Vivian heard uncertainty and hesitation in the powerful lightning mage’s voice.
+
+“Of course.” Vivian smiled. The daughter of Donella Novaspark was bound to be a powerful mage, and she was beyond excited to see what kind of class she would unlock.
+
+I wonder if I might entice her to join the guild…
+
+“Grampa, when I get a class, I want a Forest Guardian like that one!” the young boy declared, stumbling as he insisted on staring at the giant elementals and not looking to see where he was going.
+
+“Her little wings are so pretty…” the girl said, twisting fistfuls of pink dress in her hands.
+
+“Come on you two, let’s take you back home to your mother,” their grandfather said, urging them forward by waving his hands.
+
+“Aww.”
+
+Tala glowered at the elderly man and his two annoyingly energetic grandkids taking forever to leave the Town Hall, but she ate the words that came to her lips and waited. She wasn’t stupid enough to risk her disguise by drawing attention to herself by making an unnecessary scene.
+
+She glanced back one last time to find Hadrik Goldbeard approaching Aliandra.
+
+How the fuck is she level forty-five already?
+
+Tala grimaced and darted around the old man when he finally made enough room and ducked into an alleyway, vanishing into the shadows with her concealment skill. I need to rethink everything. She had been working her fingers to the bone under Kieran Mori’s ruthless training regimen and she had relentlessly pursued every mark she could find. Even Mori had admitted her progress was stellar – and yet, that pesky Fae was now almost beyond the range of her Identify skill. I’m never going to get that bounty.
+
+It must be because she killed Roderik Icecrown. Fucking incompetent twat. But the words rang hollow even to her. Roderik had been terrifyingly powerful and well connected – how someone like Aliandra had gotten the drop on him she would never know. The frustrating thing was that she might have caught up with the Fae if it had been her that had killed him.
+
+I need a new strategy to take her down…
+
+Racking her brain for fresh ideas and half-formed plans, she fled across the rooftops back to the Town Watch headquarters.
+
+“Thank you, lassie.” Hadrik’s booming voice pulled Ali out of her daze, and she glanced down at the stocky blond dwarf. Belatedly remembering her manners, she floated her barrier lower so that she could match his height.
+
+“For what?” Ali asked.
+
+“Putting that prat in his place, I haven’t heard that word used in yonks,” he answered, chuckling massively. “Oh, I picked up all your coins. Do you want them, or should I deposit them in the Crown Bank under your name?”
+
+“The bank is fine, thank you.”
+
+“See ya around,” he said, waving. “And congrats.”
+
+Ali stared after his broad back. He had seemed so stern and immovable during the trial, but now, he seemed surprisingly affable. She didn’t quite know what to make of him. Instead of dwelling on it, she slowly floated her way over to join her friends. Lira had a crowd of people around her, but she found her way to Malika and Calen.
+
+“That was a brilliant move, Ali,” Calen said admiringly.
+
+“I’m still kinda sad you agreed to the first plan,” Malika said. “But you made it better and cleared our names, so thank you.”
+
+“I was so scared,” Ali said, but then she was interrupted.
+
+“Thank you.”
+
+“Thank you.”
+
+People were streaming past and murmuring thanks at them, and it took Ali a few moments to realize what for.
+
+“Thank you for killing that monster, Roderik.”
+
+“Thank you for trying to help us, my family hasn’t eaten in days.”
+
+Ali didn’t exactly know what to say to them, but she acknowledged each person as they passed by. I hope I can do all this… in the aftermath, she still felt queasy.
+
+“Excuse me, miss. Is your shrine free for the council only? Or is it for anyone?”
+
+Ali looked up to find a tall lanky ginger man wearing the patchy beginnings of a beard that only young men could be proud of and dressed in rough homespun clothes that had been neatly mended. He must be close to unlocking his class, but he hasn’t a pair of coins to rub together, clearly. This question, though, she had a ready answer for. Bowing slightly, she said, “I won’t charge anyone.”
+
+He tried to bow soberly, saying, “Thank you, lady,” but he could not disguise a skip in his step as he departed.
+
+Ali suddenly realized why Lira had placed such importance on winning the crowd. They were random townsfolk from all walks of life. If she wanted to advertise that she was on the side of the town and its people, she couldn’t have asked for a better forum.
+
+Stressful, though, she thought, taking a deep breath and rolling her shoulders, trying to accept that it was over. Over for now. Worry about the crown’s response tomorrow. That necromancer is coming…
+
+***
+
+Ali paused at the threshold of the tunnel with the little burbling stream below her, and the dense ocean of mana wafting up from Lira’s Forest at her back. She gazed out into her old forest cavern, now dark and filled with the lingering stench of old fire. Milling about below her floating barrier was a small army of Moss Creepers, Spore Spreaders, and Floral Menaces. She had spent a ton of her mana summoning them because the task of replanting the cavern and undoing the damage inflicted by the Town Watch would be a huge one.
+
+When she had stopped by the library earlier to check on Mato, she had found only the incredible synthesis of her domain with Lira’s mana gushing from the giant Elder Tree – however, laced through it, she could see the familiar signs of his mana. There was no sign of his physical body, and she assumed he would remain melded with the tree for a while still. It was such a magnificent sight – overnight the atrium had filled with the darting light of thousands of wisps drawn to the density of the mana. They wheeled and cavorted around the giant branches and among the oak leaves, banishing the darkness from the ancient, ruined walls.
+
+A Dryad’s power was Nature itself, yet it could all be brought low by nature’s antithesis, the decay and corruption of magic of a monster like Alexander Gray. It was a sobering lesson Ali would do well to heed, given just how deeply her own magic was rooted in nature.
+
+Ali floated out into the desolate cavern, putting her feelings aside to concentrate on her task.
+
+“Verdant Moss, please,” she told the Moss Creepers, impressing her preference for the nature-affinity moss variety upon them before sending them out to plant for her.
+
+“Make flowers,” she told the Floral Menaces. She didn’t have nature or arcane flower varieties, so any flowers would do.
+
+For her Spore Spreaders, she split them into two groups – the first she sent to fill the lake and streams with Psathyrella mushrooms. She had gotten used to having clean water and she wrinkled her nose in disgust as traces of the former stagnant stench wafted over to her. Plenty of fertilizer – she coughed politely – in that water. Fortunately, the strangely stumpy mushroom monsters seemed to have no need to breathe and could happily walk along the bottom of the foul lake growing mushrooms for her. The second group she sent off to spread her arcane-affinity Common Glowcap mushrooms everywhere.
+
+As the monsters fanned out into the cavern, Ali summoned her Grimoire. Previously, her largest nature affinity plant was the Living Bamboo, but now that she had the Lirasian Oak, she should be able to create her domain in giant spherical sections surrounding the great trees. While her Grimoire seemed to have recorded all the information for the Elder Tree variant, she knew her skill would not be able to create anything beyond her class level yet.
+
+Which might be just as well, she decided, staring up at the rock of the cavern roof. The library tree was far too tall to fit in here, even in a cavern of these vaulting dimensions. As she began to create the first new tree, she carefully observed the experience of wielding her magic. Under the influence of the arcane mastery passive provided by her Arcane Recall skill, her mental reaction speed was accelerated, but her summoning magic was similarly hasted, creating the strange perception that it still took the same time, even though she could feel just how much faster her magic was working. I might need to study this more…
+
+She moved on to the second tree, choosing a random placement near the edge of the vast fountain of mana pumped out by the newly created one. Her only criterion was to avoid the massive dead trunks of the ancient trees holding up the ceiling while she spread her trees to reclaim the entire cavern.
+
+I’ll just have to wait for Mato to help me turn it into a real forest. So much to learn! For now, though, she needed her domain to fill this space as quickly as possible so she could make good on her promise to help feed the town.
+
+It was around the area of the shrine that she slowed down, taking the time to place each tree carefully. With the enormous Lirasian Oaks at her disposal, it was much easier to match her memories of her father’s Grove, although she didn’t have the orchids and ferns, and countless other plants she remembered. Instead, she filled the spaces between the giant oaks with smaller trees and covered the ground with blue mana grass and her Common Glowcaps.
+
+The arcane-affinity grass and mushrooms quickly began to glow, emitting a strong upwelling of arcane mana that mingled with the giant geysers of nature mana gushing up through the trees. Her domain began to form – much faster now that Domain Mastery had grown – but she continued to watch anxiously until the structure and order flowed around her shrine. But whatever worries she might have had vanished as the domain seamlessly reconnected to the Shrine of the Ancient Grove, causing the softly glowing runes on the dusty, ash-covered obelisk to flare brighter with the sudden influx of mana.
+
+Once the shrine was reconnected to her domain, she finally felt her body and mind relax, and she slipped into an almost meditative zone where her focus became easy and clear while she worked to finish reclaiming the cavern. She even replaced the golden stairwell to the sewer level and erased the rock pile below it, allowing her industrious minions access to the sewers above. For now, she ignored the enormous cave-in blocking the entrance to the gates of Dal’mohra – the path she and Mato had used to escape the ruins – simply rerouting several stream channels by reshaping the rocky ground beneath and filling the entire northwest corner of the cavern with Living Bamboo, recreating the serene forest Malika had loved meditating in. But she reopened the ventilation shaft, filling it with ivy to restore a second access pathway to the ruined city below.
+
+She was resummoning her Aetheric Slimes and feeding them to the lake when she saw several figures descending her barrier stairwell into the cavern.
+
+They’re finally here. She couldn’t make them out from this distance, but Calen’s wings at least were bright and distinctive. She summoned another batch of the tiny slime monsters while she waited for the group to wend its way through her new, sparsely populated forest of giant oaks.
+
+Right as the procession rounded the lake, approaching where she waited, it happened. The complex eddies of water-affinity mana from the mushrooms and the arcane mana swirls from the tiny slimes she had dumped into the lake suddenly stilled. The entire lake seemed to freeze for a moment. Deep within the waters, she once again saw the intense concentration of mana explode through the lake in a silent shockwave, leaving the water pristine, perfectly clear, and beginning to glow with the familiar cerulean blue that it had once had.
+
+Perfect!
+
+The glow illuminated the approaching group, and by the light, Ali recognized them as they stopped to stare at the lake with exclamations of surprise that turned to excitement. Vivian led the group which included Malika, Calen, and Lira. Basil and Eliyen were near the back of the group, along with several people she didn’t recognize, led by the farmer Sigurd.
+
+“Hi again, Aliandra,” the stocky farmer greeted her, with a brief nod. “Where would you like us to start?”
+
+Straight to business, she thought. “Hi Sigurd,” she answered, happy that he had remembered her from their Kobold hunting quest. “Anywhere you like,” she answered. “Is this going to work for you?” she gestured out to the open areas nearby.
+
+“It’s a bit rocky, but I think we can make do.”
+
+“I can help with that,” Ali answered, reaching out with her Domain Mastery skill, flattening and pulverizing the rock to make a broad field nestled between two enormous oaks.
+
+“Oh, that works,” Sigurd exclaimed, while several of the other farmers oohed and aahed as she flexed her domain skill. “Oskar, can you handle fertilizer?”
+
+“On it, boss,” a heavy-set farmer with a full black beard answered. “There was plenty of raw material for my skills up in them sewers. I’ll be right back.”
+
+He slipped out of the tree trunk and collapsed on the ground. His body flopped around for a while as he tried to remember what being a person was like. His branches were pale and floppy.
+
+Arms, he corrected himself. Wet noodles… for arms. Right. Mato was aware that he was struggling to readjust to his body from his time spent as a tree, but his mind somehow retained the calm, serene, and expansive state he had experienced during the meld. As his awareness slowly shrunk back into his body, he heard a soft chime calling his attention.
+
+Arboreal Sanctuary has reached level 24 (+4).Requirements met for skill advancement.
+
+An advancement is good… he thought, knowing he would normally have been jumping in excitement, but his mind still rested in the lingering embrace of the Tree Meld’s magic. With care and deliberation, he examined the notifications in the peace of his inner grove, noting how much stronger his inner tree – the mental representation of his magic – seemed.
+
+Mentor: Lirasia.Communed with an Elder Tree.Arboreal Sanctuary has reached level 20.Vitality has surpassed 200.Wisdom has surpassed 50.Used Vitality Rejuvenation to restore Life Drain.Used Vitality Rejuvenation to cure Undead Blight.Arboreal Sanctuary gains Tree Form.Arboreal Sanctuary gains the Shapeshift trait.Arboreal Sanctuary – level 24You emit a spherical Sanctuary aura of nature magic centered on yourself. Range: 17.2 feet.Your natural health regeneration rate is increased by +136.8% [100 + skill + wisdom / 10] and you can recover even from critical injuries. Your regeneration is shared with allies (including animals, beasts, and plants). Range: Sanctuary.Mana: You can redirect damage from anyone to yourself. Range: Sanctuary.Mana: Shapeshift into a tree.Tree Form: You maintain a meditative state increasing your health and mana regeneration by +500%. The base range of your Sanctuary aura is increased to 500 feet, and exposure to it applies Vitality Rejuvenation. Your Strength, Dexterity, and Endurance are replaced with additional Vitality, Perception, and Wisdom. Nature, Domain, Area, Shapeshift, WisdomAccept this advancement?
+
+He took his time to study the advancement while his body lay weak and unresponsive on the grass between huge, gnarled roots.
+
+I can be a tree… and Malika’s going to tease me for the next decade and then some. I hope the others are alright… His heart pinched with a brief pang of guilt at the fact that he had left them to face the council trial without him. I should go see if they need help…
+
+It was a strange existence, being a tree, and as he lay there reflecting, he felt like his entire being had been carefully dismantled before being reassembled into something that felt like it should be him – but wasn’t quite. He was a shapeshifter, used to the idea of assuming beast forms, but this advancement was clearly heavily influenced by his exposure to Lirasia’s mana and experience – he could still feel the complex knot of her mana deep inside his chest, tying him to her in some delicately intricate way. Her patronage even showed up as a new entry on his status, right below his aptitudes:
+
+Patrons & Tithes- Mentor: Lirasia
+
+He accepted the advancement to his Arboreal Sanctuary skill, trusting that this was on the path to balance Lirasia had spoken of, and directed his attention upwards. He had sensed powerful magic at work at the edge of his perception while he was linked to the tree. His curiosity drove him to rise and take a step on shaky legs. His second step was steadier. Pleased, he began to climb the library stairs to the forest above, intent on finding his friends.
+
+Natural Prowess has been updated.
+
+***
+
+Mato walked slowly through the river passage, taking in the damp moisture underfoot. As he entered the burned forest cavern, his enhanced sense of smell filled with the stench of ash and charred wood, but also the zesty freshness of new growth, and his mind recalled the great tree’s sense of balance in all things. Life passed, but then it grew again; a never-ending cycle of renewal.
+
+He shambled forward, feeling the rush of new sensations through his sanctuary aura. The serene existence of new oaks tugged at his senses, the flow of the sap, and the drawing of mana through their giant trunks. Each of them shared their endless calm with him as he passed.
+
+He approached the lake beside the shrine and happened upon a scene of busyness – the sense of activity clashing with his internal state. Basil knelt in the dirt growing something. Ali had her Grimoire out, flickering with the light of her magic. There was a group of five farmers, some of whom he recognized, toiling under the light of Calen’s magic. The deep, knowing eyes of Lira studied his approach with a radiating kindness.
+
+He knew he was the one who had changed, and yet he felt disconnected from all of them. They are still my friends.
+
+Quietly, he greeted them, garnering strange looks of inquiry and surprise.
+
+“Mato? Are you ok?” Calen’s voice was not calm – he seemed strangely anxious.
+
+Am I ok?
+
+He considered the question carefully, examining his mind, and his body. Both seemed to be there, which was good, he thought.
+
+“I think so,” he replied slowly, after his long consideration.
+
+“It’s his first Tree Meld, he will return to normal soon.” Lira’s resonant voice filled his ears, triggering echoes of communion with the Elder Tree. The same sense of serene calm filled her voice, the same mana, and the same will, and he suddenly realized she was the tree. There was no sense questioning which of them had been in communion with him, which was his mentor. Lirasia and the Elder Tree were one and the same being. While he lay within the tree, it was her mana and experience that flowed through him, instructing him.
+
+Normal?
+
+He considered the word for a while. What did it really mean?
+
+“I think I’ll plant myself here,” he said, slowly, choosing a spot between two large fields, studying the farmers who had stopped their labor to stare at him.
+
+He ignored the curiosity all around and warped his body – the new magic coming easy to him as if he had been born to it. His roots dove deep and hungrily into the rocky ground, twisting and pushing as he stretched them – a strong grasp with which to anchor himself to the bedrock. His trunk stretched upward, splitting and stretching as his branches reached upward and outward. When he was ready, he grew his leaves, breathing the scents and mana in the air.
+
+His growth was natural and swift, and he finally stopped, larger than the normal oaks, but still a ways short of the giant trees surrounding him. His roots drank thirstily from the lake, tasting the refreshing coolness of the mana-purified water, drawing it up through his trunk, and releasing the excess mana to overflow through his leaves.
+
+I’m not as big as that tree. But as he settled into the familiar calm, sensing the flow of sap and mana, stretching his senses outward, he felt it was right. He was this tree, with none of the previous sense of being lost inside something enormous.
+
+His mana flowed through him, and his regeneration surged, pouring upward and outward into the world around him. His Sanctuary aura exploded outward, encompassing a vast area and, although he couldn’t see, or hear, he could feel the trees, taste the mana, and sense the people as they moved about within his domain.
+
+Name: Mato BahrRace: BeastkinActive Buffs: Tree Form, Natural ProwessClass: Druidic Shapeshifter – level 39- Arboreal Sanctuary – level 24- Swipe – level 27- Brutal Restoration – level 28- Bear Form – level 27- Wolf Form – level 4- Bestial Combat – level 26- Natural Prowess – level 17- Survival Instinct – level 17- Battle Trance – level 10- [Locked]General Skills- Identify – level 10- Cooking – level 7- Wilderness Lore – level 6Aptitudes- Languages: Common, Beast, Plant- Mana (Affinity): Nature- Strong (Racial): +7 to Strength- Tough (Racial): +10 to EndurancePatrons & Tithes- Mentor: LirasiaAttributes- Vitality: 409 (+184)- Perception: 93 (+40)- Intelligence: 17 (+7)- Wisdom: 367 (+178)Equipment- Trunk: Banded Feral Plate Armor – level 20Armor: 288Physical Damage Reduction: 20.86%Health: 4090/4090Mana: 2936/3670 (734 Reserved)
+
+In his new form, several of his skills were unavailable, and it took only a moment to realize what was common: anything requiring stamina seemed blocked when he reached for the skill activation. He considered it for a while, deciding that it made sense – he no longer had endurance, strength, or dexterity – the attributes having been removed by his Tree Form. Instead, his other attributes had been greatly increased, however, this did mean that stamina was entirely missing.
+
+Natural Prowess had automatically updated in response to his new form, and he spent a little time studying the change.
+
+Natural Prowess – level 17Attributes most appropriate to your form are increased by +75.9% [40 + skill + base wisdom / 10].Mana: Wisdom, Intelligence, and Perception are increased. Beastkin, Reserve: 20%Stamina: Endurance, Vitality, and Strength are increased. Bear Form, Reserve: 20%Stamina: Perception, Dexterity, and Strength are increased. Wolf Form, Reserve: 20%Mana: All attributes are increased. Tree Form, Reserve: 20%Nature, Buff, Wisdom
+
+But the biggest difference was the change to his domain – he could reach out over eight hundred feet through his Sanctuary aura, sharing his vastly increased health and mana regeneration with everyone in range. Satisfied, he simply remained, stretching his mana and magic to whatever task they chose to undertake, sensing his overflowing mana pouring into the plants, assisting with their growth.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

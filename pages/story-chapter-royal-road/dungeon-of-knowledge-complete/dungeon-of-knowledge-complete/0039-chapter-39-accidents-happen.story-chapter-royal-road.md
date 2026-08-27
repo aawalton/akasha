@@ -1,0 +1,243 @@
+---
+id: c8751d1e-08bd-5d67-9c64-3cb821f11827
+page-type-slug: story-chapter-royal-road
+title: "Chapter 39: Accidents Happen"
+slug: 0039-chapter-39-accidents-happen
+partOf: dungeon-of-knowledge-complete
+position: 39
+ownLength: 4338
+unit: words
+ownProgress: 4338
+publishedAt: 2024-03-06
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1543818/chapter-39-accidents-happen"
+royalRoadId: "1543818"
+markedReadAt: "2026-06-29T20:12:16.114Z"
+---
+
+Calen frowned in frustration at his new bow and the quiver of arrows lying on the ground by his feet. He had spent a substantial sum to buy a better bow, following the Guildmaster’s advice to improve his equipment. Not the best time to be buying. On the other hand, Ali’s arrows were great – and free – and if he never had to fire a Goblin arrow again in his life, it would be perfect.
+
+The problem was his skills. Vivian Ross had told him to work towards an Ambush skill, which made lots of sense given his stealth skill, Eclipse. Ambush skills typically delivered critical damage when the attack was imperceptible to the target. Many of the better ones increased critical damage by a substantial amount too, resulting in a huge strike to open combat. These kinds of skills were highly sought after by rogues, Snipers, Assassins, and any class that had some type of stealth ability, like his.
+
+However, his damage enhancement skill was Arrows of Brilliance. It increased the damage of his ammunition – his arrows – by adding a Light magic enchantment when he fired it. But it was light – and his Eclipse skill was designed to avoid light, hiding in shadows to render him effectively invisible. Every time he tried to shoot from the shadows, he dispelled his own stealth with his damage skill. He had tried it every time while hunting Goblins in the forest, but it had never worked.
+
+I guess I can just shoot an ordinary arrow, he thought, frowning as he studied the arrows. But that approach mostly defeated the purpose – the goal of Ambush was to load up as much preparation and damage to a single shot as you could and then multiply it all by the critical damage bonuses.
+
+He sighed. He simply couldn’t see a way around the problem. I’m never going to be offered Ambush if I can’t stay in stealth when I’m shooting. He sighed again.
+
+Calen dropped his bow and sat down, feeling defeated. Malika was drilling kicks and making visible progress using her new skill, and he was just sitting here frustrated. Mato was fussing over a cookpot like he hadn’t a care in the world.
+
+And Ali… What is she doing?
+
+She seemed to be talking to her Kobold and picking mushrooms by the edge of the moss. She had planted some trees around the shrine in an attempt to create what looked like a grove, but Calen wasn’t quite sure it was working – it looked like a tiny ring of trees holding back a vast sea of darkness.
+
+He resonated with Ali quite well, both of them having an eye for detail and the solving of puzzles. As he studied her, he became more and more certain she was testing something – but what it might be he couldn’t tell. She can see mana. Could it perhaps be something related to that? Or the dungeon itself?
+
+She was a magic researcher, he thought. Maybe she has some good ideas?
+
+Normally, he wouldn’t bother anyone with stuff like this, but he had been frustrated and making absolutely no progress since he first tried it in the forest. The Guildmaster’s advice had just rubbed it in. He got up and retrieved his bow, trudging slowly over to where Ali was growing some moss.
+
+“Hey Ali, do you have a few minutes?”
+
+“Sure,” she answered, finishing off her spell and then turning to him. “What do you need?”
+
+“I’m having some issues with the advice the Guildmaster gave me, and, well… you used to be a magic scholar. I was hoping you might have some ideas?”
+
+“Me? I guess I can try. I’m no archer, though.”
+
+“Do you know how to remove a visual effect from a skill? Is that even possible?”
+
+“Why would you need that?”
+
+“My light magic breaks my own stealth. So, I can’t shoot and remain hidden. I want to try to work on getting an Ambush skill, but this has me stumped.”
+
+“Oh,” Ali answered, her expression changing immediately to curious and thoughtful. “Can you show me – in action, so to speak?”
+
+He obliged by enabling his Eclipse, drawing the shadows of the dark cavern around himself until he was nearly invisible. Then, he nocked an arrow and fired it at the ground a short distance away, imbuing his shot with light magic. As expected, the instant the arrow lit up his stealth fell away, and then the arrow left his bow, completely ruining the effect.
+
+“I see,” Ali answered cryptically. “Again?”
+
+Calen repeated the exercise, once again illuminating the entire area with his brilliantly intense magic. Argh! “It’s so frustrating.”
+
+“One more time please?”
+
+He fired the third arrow to identical effect. Perfect, just perfect. Repeatable self-sabotage.
+
+Ali looked up at him with a grin. “When I was younger, my aunt helped me learn how to manipulate mana. It’s how I learned my cantrips. She had a technique she insisted I learn that might be useful for you. You fill your skill with the required mana, but you withhold the skill completion till later. It sorta feels like you push a big boulder to the edge of the cliff, and then hold it for a while before letting it go.”
+
+“How does that help?” Calen was baffled. He understood the idea, but… How is that relevant?
+
+“Imagine using your damage skill but not letting it complete until the arrow has almost reached the target.”
+
+“Oh!” Calen hadn’t even known such a thing was possible. I don’t think I would have ever tried something like that. Just… how do I learn it? “Do you think it will work?”“Your skill seems to imbue the arrow with magic, but it only flares with light after it completes. It’s a side effect of the enchantment, not the actual creation of the magic. Give it a try, I’ll watch.”
+
+Carefully he drew his bow and tried to trickle his mana into his Arrows of Brilliance skill slowly.
+
+“Right there! Hold it!”
+
+His skill had an almost instantaneous cast time, so he missed it, sending the brilliantly shining arrow flying away to embed itself in the mossy ground. But he knew what he had just seen. It’s there!
+
+Holding back his excitement, he tried again, trying to catch it at precisely the right moment. He missed again. The window of time he needed to hit was vanishingly tiny.
+
+It felt just about as frustrating as trying to drop two or three balls and catch them again with the same hand before they hit the ground. Although, I could probably do that now with all this dexterity. It took five more tries before it suddenly clicked, and the arrow left his bow before the light shone out.
+
+“There! That was it!” Ali exclaimed, bouncing up and down on the moss, almost as excited as he was.
+
+“Thank you!” Now he just needed to practice, and his timing would improve.
+
+“It’s my pleasure,” Ali answered with a smile. But suddenly she let out a scream and collapsed to the ground, writhing in obvious pain. From the darkness all around them, wolves began howling and suddenly he saw them rushing forward in droves.
+
+“Mato! Malika! Incoming!” he yelled, raising his bow and unleashing arrows at the charging horde.
+
+Ali’s excitement at Calen’s success was suddenly interrupted by a brutal pain that stabbed into her mind and she found herself clutching her head as she dropped to the ground, screaming. It tore her in two, ripping her up from the inside out. It was the pain of her domain withdrawal all over again, only without the help of her endurance and infinitely more potent. She could only barely make out shouting, and the flicker of Calen’s brilliant magic against a backdrop of howling.
+
+What…
+
+She tried to think, to make sense of anything… something. But her mind was busy, entirely consumed with the pain. Her rogues stood over her, their daggers flickering. A corpse dropped to the ground beside her with a heavy thump.
+
+Monsters! The urgency of the thought and the terror of being helpless against the attack spurred her mind into action. She was curled up in a ball and all her friends were fighting beside her. There were wolves everywhere.
+
+What… happened?
+
+She had been helping Calen with his skills, and then she had suddenly collapsed. And before that… her eyes turned to the patch of moss she had grown before Calen had come to her for help. The green and gold of her domain flowed upward and outward from it, but where it met the black and gray mana of the dungeon there were violent flickers and flashes as the mana seemed to be exploding in thousands of miniature detonations. With each flicker and flash, Ali felt the stabbing pain.
+
+I must …
+
+She reached out and dragged herself up, forcing herself to stand. Not knowing quite how she managed it, Ali stumbled forward, out of her own domain and into the realm of the dungeon’s dark mana. Someone shouted over the noise, but she couldn’t understand it. An arrow flashed past her cheek, killing a wolf right beside her, and tripping her up. She hit the ground heavily and rolled up against the pile of bones she had been aiming for.
+
+Close enough.
+
+Ali reached out a shaking hand and used Deconstruction, gritting her teeth against the incessant hammering inside her head. Grimly, she held on for the ten eternal seconds while her vision flickered and shimmered with activity, battle, and the agony of broken glass grinding against her mind.
+
+She didn’t notice when her spell finished, but she did notice herself suddenly falling through the space where the bone pile had been, hitting her head on the ground. A cloud of light and swirling mana enveloped her and suddenly the pain began to recede.
+
+Finally, she took a breath and sat up, looking around at the surprised faces of her friends. She was sprawled in the dirt which had once been a pile of bones. Littered all around her were dozens of corpses of wolves and a few skeletons. The black-and-gray mana had receded from the boundary and her domain mana had taken its place, glowing quietly now without the explosive interaction.
+
+“Are you ok?” Malika’s voice was the first intelligible thing she heard.
+
+“I … think so,” she answered, her mouth dry and her voice raspy. “I mean, I am now, thanks.”
+
+“What was that? Every single monster that could reach us attacked all at once,” Malika asked. “And your Kobolds went nuts.”
+
+“I think that was dungeon-rage,” Calen answered. “Sometimes, you can piss off a dungeon so badly that it simply sends everything at you all at once.”
+
+“What the heck did you do?” Mato asked.
+
+“I… I’m sorry. I think my domain mana touched the dungeon’s mana and the incompatibility – I think the two types of mana began annihilating one another.” Ali shook her head gently, but the pain was now gone. “It was the most painful thing I’ve ever experienced.”
+
+“It’s a good thing we leveled up a lot,” Mato said. “The monsters weren’t very difficult. There were just a lot of them.”
+
+“Why did deconstructing this pile help?” Calen asked, kicking a few remaining bones.
+
+“The bones and the death affinity mushrooms are emitting the black and gray mana. I just guessed that if I removed the pile, the dungeon mana would retreat,” Ali said, realizing too late that her friends couldn’t see the mana the way she could.
+
+“Seems it worked,” he said.
+
+I guess I know what happens when I clash with the dungeon, now. It had been an excruciating lesson, and one Ali was reluctant to repeat. But she also knew what she could do. Although there was an enormous number of bone piles littered across the entire cavern, she would simply have to clear it all out over time.
+
+She had learned something else, and she wasn’t quite sure of the full extent of the implications – she and her domain were connected in a far deeper way than she could have guessed. What if the dungeon grows into my domain? She had to consider the unwelcome and terrifying idea that she was vulnerable to being attacked in this way.
+
+While she was no longer in any pain and had no obvious injuries, Ali’s experience with what Calen had called a ‘dungeon-rage’ had left her feeling both drained and exhausted. She spent the rest of the evening at their little camp making arrows – and whenever she ran out of mana, she would collect her Kobolds and venture out into the darkness and deconstruct some of the nearby bone piles and pitch-black mushrooms that supported the dungeon’s mana. By the time she was ready to sleep, she had made a large enough dent in the dungeon mana that she felt safe growing a couple more trees and planting some moss and mushrooms around them. She also had nearly a thousand arrows after supplying Calen with what he needed.
+
+Not bad, but I feel like I could sleep another thousand years …
+
+***
+
+The next morning, Ali leapt from her sleeping bag, energized – and much more importantly, with a brilliant idea. She had had a dream about the Grove and the beautiful lake she used to enjoy – the remnants of which were now a murky slow-flowing stream of muddy water. If she could just find the source, she could unblock it, and the water flowing back would recreate the lake, and at the same time hopefully wash away a big chunk of the bone piles and mushrooms.
+
+This will be perfect!
+
+While deconstruction was a reliable method – and she verified that by checking on the new expansion of her domain – it was also painfully slow. The idea of simply washing it all away and planting trees in the freshly cleared space appealed deeply to Ali’s sense of efficiency.
+
+Yup, definitely efficiency. Not laziness.
+
+There were, of course, many unfounded assumptions. For instance, that the source of the water was still present after so long. And that washing away the bone piles would have the same effect as destroying them – or that the sewage from Myrin’s Keep might have contaminated the source – but she wasn’t about to let details like that get in the way of her brilliant plan.
+
+She shared her plan with the others over breakfast and they happily agreed to accompany her on her search. It would be more-or-less on the way back to town anyway, and she wanted to turn in her arrows for the quest and earn a little coin.
+
+It was a remarkably easy task to track the river back to the source, and they weren’t even interrupted by monsters – presumably, all the ones nearby had been wiped out in yesterday’s incident.
+
+She soon found herself examining the rock wall of the cavern, through which several trickles of water seeped, collecting in a small pool before continuing down to feed the stream they had been following.
+
+“Just be careful,” Calen cautioned.
+
+“Yup,” Ali answered. This would be just like deconstructing the rock over that Donnavan fellow. She reached out her hand to a rock that jutted out of the wall, wedged in by dirt and the tightly packed boulders and rubble pressing in on it. She wasn’t planning on doing too much, just opening the channels a little bit to increase the flow of water, and then hopefully the lake would reform, clearing out the bone – and with it, the dungeon’s mana.
+
+She deconstructed the rock, and the flow of water grew from a trickle to a small rivulet running down the wall. It’s working! Encouraged, she repeated the process on a rock near a second trickle, and again, the flow strengthened. A third rock evaporated, and another stream began to pour out of the wall near her feet. She turned and smiled at the sight of the tiny stream beginning to swell with the new influx of water.
+
+Suddenly, there was a sharp crack and a subterranean rumble. Water began to spray straight out of the wall, drenching her and pelting her with dirt and small pebbles. Instinctively, she summoned her barrier to ward off the barrage. Another rumble shook the ground and her friends looked at her, their eyes widening in alarm.
+
+“Ali…” Calen shouted.
+
+But it was too late. The rock wall right in front of her exploded in an enormous geyser of water, flinging boulders outward with enormous force. Ali’s barrier shattered and the pressure shot her tiny body flying. She choked, struggling to breathe as the tremendous flow tore at her clothing and whipped her body around. She cartwheeled out of the gusher, weightless, soaring through the air alongside an enormous spray of water, dirt, boulders, and even a few gelatinous green and brown slimes.
+
+Heart pounding so fast she feared it might stop, Ali summoned another barrier and her body slammed into it painfully, but she immediately slid off the edge as the water turned her magical barrier slick. She dismissed it, summoned a second one, and slid off that too, but this time her grasping hand caught the edge of the barrier and halted her plummet with a painful jerk.
+
+Don’t look down.
+
+Helpless to resist the dizzying pull of the yawning emptiness below, she stared down past her dangling feet, finding herself hanging terrifyingly high in the air. Far below, the roiling, frothing torrent of white water tore through the cavern, only vaguely following the path of the stream. Even the highest branches of her tallest tree wouldn’t have reached up here. She gulped, and her arm began to shake with effort and exhaustion. Her fingers began to slip, and with a strength born of panic, she pulled herself up just enough to grab the edge of the barrier with her other hand.
+
+“Ali!” Malika’s shout sounded desperate and so very far away.
+
+Mustering her tiny strength, she struggled to pull herself up and onto the golden disk that was her safety. Her hand slipped and she caught herself again. Starting over, she struggled up, wishing she had had the foresight to invest more points in strength or at least dexterity. Eventually, after a heroic effort, she hauled her chest up and over onto the barrier, and she just lay breathing, holding on to the edges of the disk just in case she might slip once again.
+
+Two things occurred to her, lying there trying to catch her breath and quiet her racing heart. First, she was still stuck and extraordinarily high up above extremely hard-looking rocky ground with a violent torrent of water below. Second, her barrier magic was transparent, and she had no choice but to look through it at the ground as she lay face down on the disk.
+
+At least I’m a small race, she thought, otherwise, there would have been no chance for her to lift herself.
+
+How do I get down? She carefully sat up and considered her predicament. She had no desire to repeat her risky, painful stunt of crashing through barriers down the ventilation shaft into the ruins.
+
+Her barrier magic was fixed in place – which was quite fortunate for stopping heavy or powerful attacks. Or me when I’m falling. But right now, she would have traded anything to be able to move it. Or to have working wings. I have so little control over these barriers. If I drop it and cast another below – she trembled in horror – what if I miss? No! There must be another way.
+
+Floating effortlessly to the ground would have been perfect. Why can’t I move it?
+
+Ali reached out with her mind and tried to force her barrier to do just that. She imagined it slowly lowering her to the ground, and even tried forcing some mana into whatever that might be, but all she earned for her trouble was a headache. Out of sheer desperation, and a lack of any better ideas, she doubled down and tried to force it with more mana and willpower. Her head throbbed painfully as her energy and mana found nowhere to go.
+
+Suddenly, something within the magical barrier shifted. Light flared along a line across the center of the barrier and strands of magic began to rapidly unravel and reconfigure before her aghast eyes, making it lurch beneath her.
+
+“Help!” she screamed.
+
+Half of the golden disk abruptly vanished, dropping her legs and hips over the side as she desperately clutched the rim of her remaining magic. She flailed frantically with her legs as her head whipped around, but she froze as her eyes caught sight of something shimmering and sparkling like a golden beacon against the darkness. There, under her dangling feet, was the second half of her barrier, floating almost a meter below where it had originally been.
+
+It split in half?
+
+Cautiously, she examined it using Arcane Insight, but it appeared to be perfectly normal, only half of her usual barrier. Slowly, she lowered herself until her stretching toes touched the lower one, and then, even more slowly and gingerly, she put her weight onto it, fully expecting it to give way. But it held and, to her surprise, she found herself standing on the lower half-circle.
+
+How did I do that?
+
+She sat down on the lower barrier and split her focus, willing the upper piece to release while still holding her focus on keeping the one below her from vanishing. She struggled with the unfamiliar focus, terrified that she would unsummon both simultaneously, but the top barrier vanished, and miraculously, the bottom one remained, preventing her from falling.
+
+She breathed. And then taking up the split focus in her skill once again, she mentally held on to her seat while trying to create a small one lower than where she currently sat. It was a tricky maneuver, but the barrier winked into existence after a few tentative tries. She lowered herself again, and then slowly, step by step, she began the laborious process of lowering herself down to the cavern floor below and the anxious faces of her friends waiting there.
+
+Barrier has reached level 13.
+
+As soon as she heard the notification, the challenging task grew noticeably easier. It still required intense focus and control, but the barrier magic seemed to respond eagerly to her will, and her progress improved dramatically.
+
+“Ali! Are you ok?” Malika asked, pulsing a little healing magic into her battered body.
+
+“I’m fine.”
+
+As her friends clustered around her with concerned expressions, Ali tried to reassure them that she really was fine, but her body was shaking from the exertion of holding herself up, and the adrenaline from the explosion and being caught so high above the ground. She had to sit down for a moment and catch her breath. Being totally drenched in freezing cold water wasn’t helping in the slightest.
+
+That was really stupid.
+
+Ali berated herself for not anticipating the pressure of the water behind the rock wall and getting herself caught in the blast. You could have easily killed yourself. It should have been obvious, but in her excitement, she simply hadn’t thought through the implications of her plan.
+
+While she sat there catching her breath, she stared at the destruction she had wrought. Some truly massive boulders lay half-buried in the ground hundreds of meters from the rock wall where they had originated. She had been unbelievably lucky she hadn’t been hit by any of them in midair. A broad swathe of the cavern had been washed clean of dirt, bone, mushrooms, and all signs of the dark and ominous dungeon mana by the flash flood, leaving in its wake a devastated landscape covered in mud and puddles. Hundreds of green and brown blobby forms crawled out of the puddles, slowly making their wobbly way toward the depression at the south end of the cavern which was rapidly filling with roiling water as a gigantic lake formed before their very eyes.
+
+Toxic Slime – Ooze – level 1 (Poison)…Toxic Slime – Ooze – level 1 (Poison)
+
+Seriously? Now I’ve created a biological hazard, and invited a bunch more monsters to the party?
+
+“I’m sorry, guys,” she said. The concern on their faces had begun to ease once she had reached the ground and they could see she wasn’t hurt. But she felt stupid – epically and memorably stupid – and embarrassment burned on her face. Twice. Admittedly, when she had triggered the dungeon-rage there was no reasonable way for her to have known of the danger. But here, she had just let her excitement cloud her reasoning. Calen had even told her to be careful and she had mostly just ignored him.
+
+“It’s ok, I’m just glad you’re fine,” Malika said, sitting down beside her. “That’s quite something, isn’t it?” she added, staring out over the scene of devastation.
+
+“I see a lot of slimes,” Calen noted.
+
+“Too bad they’re too low-level to provide a decent challenge,” Mato lamented.
+
+Ali’s heart began to lift as she realized she was alive, sitting on solid ground, and her friends were not angry with her. They had just been worried, and as soon as she was seen to be safe, had reverted to normal, Calen being a scout and searching for threats, and Mato looking for a challenge.
+
+Her harrowing experience hadn’t been without reward, though. Ali carefully focused her mind, and two separate disks of barrier magic snapped into existence in front of her outstretched palms. It was getting easier to perform this trick, and she was certain that, with a little practice, it would become an extremely useful tool. She could certainly protect herself better, or perhaps even learn to protect another party member effectively.
+
+As long as I don’t do anything so foolish ever again!

@@ -1,0 +1,357 @@
+---
+id: ccf53a2b-0478-5a3a-9257-d535282708d2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 156: Emberforge Mines"
+slug: 0159-chapter-156-emberforge-mines
+partOf: dungeon-of-knowledge-complete
+position: 159
+ownLength: 6658
+unit: words
+ownProgress: 6658
+publishedAt: 2024-11-12
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1899351/chapter-156-emberforge-mines"
+royalRoadId: "1899351"
+markedReadAt: "2026-06-29T20:16:22.394Z"
+---
+
+Calen jogged down the dark and dingy alleyways between the run-down and mostly abandoned warehouses, his feet making no sound on the rough stone pavement. His powerful vision picked out every detail, even in the darkness of the cloudy, moonless night. Wrinkling his nose at the stench of the rotting trash heaped against the walls and spilling out across the pavement, he thought, Myrin’s Keep, how I’ve missed your delicate scents, his inner voice dripping sarcasm like syrup. Ciradyl had spoiled him. He sped up, eager to be done with this job, his smooth, effortless stride carrying him faster than an ordinary man sprinting – far faster than he had been capable of less than a month ago.
+
+The directions Seth had shared were clear. He had no trouble locating the dilapidated warehouse with a door half-hanging on broken hinges. Across the way, he noticed a steel grate set into the stone leading down into the sewers below. There were a few scrapes where it hadn’t been put back precisely as before, revealing that he had found the spot where Seth had finally fled his captors down into the Myrin’s Keep sewer system.
+
+Calen slowed, coming to a halt before he entered the alleyway, and surveyed the darkened doorway, as always, not wholly relying on his stealth or silent movement just in case someone had an advanced perception skill. When Vivian had personally asked him to take this job, he had learned that the kidnapping ring was a surprisingly well-funded and equipped operation. It wouldn’t be surprising to find magical wards or people with advanced skills in this operation. But the fact that Seth had escaped with only a level one class implied that none of them could have been all that powerful.
+
+Doesn’t hurt to be cautious.
+
+He crept up to the doorway and peered in, finding a long passage with several doors on either side, ending at what looked like a stairwell. Not a single thing moved, but there were several discarded papers and track marks on the ground where something heavy must have been dragged away.
+
+Calen crept through the doorway, careful to keep his stealth and silent movement magic running, stalking down the hallway and peering into each of the rooms one at a time. All were dark and empty – all hastily vacated, by the signs he read with his tracking skills, with only discarded trash remaining littered about to indicate that anyone had been using this place recently.
+
+Finally, he descended the stairs, remaining vigilant for any traps or people that might notice him. But nothing disturbed the silence.
+
+If Seth was right, it should be about here, he thought. He had talked with the quiet boy, finding him to be rather smart and observant. Sure enough, as he exited the stairs into the basement level, he found it. There were several barred doors indicating that each of the rooms here had been used as cells to imprison people, all of them now sitting ajar.
+
+In the middle of the hallway, he found a corpse. Well, what was left of it – it looked like the body of a person whose skeleton had been forcibly ripped out of it whole, and it stank of rot and putrescence. At least, what he knew of Seth’s skills indicated that this was clearly the work of his class.
+
+Eclipse has reached level 23.
+
+Dismissing the notification irritably, he picked his way through the prison slowly, checking each of the cells until he arrived at the final room. Here, he found the second body, lying in a pool of dried blood. The tracks that led back into the hallway were old, blackened blood in the shape of a human footprint, but without the normal flesh around the bones. Skeleton. He had seen enough skeletons to know their tracks.
+
+His eyes surveyed the room, taking in the details. The door was covered with knife marks, forming the rough outline of a person, and, along with the splatters of dried blood soaked into the wood, told a story of torture. He grimaced, but then his eyes fell on a small shape, sticking out from behind a scratched and scuffed chest of drawers.
+
+Reaching over, he recovered a small notebook, along with several Kel’darran coins. The coins reminded him of his own incarceration at the hands of the mercenary slave traders, and he studied them speculatively before storing them in his ring. If they had Kel’darran currency, chances were that they had strong ties with the crime syndicate and had an easy, profitable market for selling slaves.
+
+There were no tracks out front of the warehouse – at least none he had been able to discern, but as he paged through the notebook, he realized he had records of several deals that had taken place over the past few months.
+
+Clearly an established operation. Vivian will want to see this. He stored the notebook too. His skills were limited at this point, without clear tracks or any obvious targets, but with her skills, he was certain Mieriel would be able to turn up some leads from the notebook he had recovered.
+
+Explorer has reached level 27.
+
+Well, at least I got something useful out of this. I wonder if Ali and Mato are having more fun than me?
+
+Ali sat quietly beside the shrine, experimenting. As was normal, she felt shaken and scared after the run-in with the Disruptor Mage, especially given just how close she had come to being killed.
+
+But she was no longer defenseless, and the heavy thumps of her giant forest guardian boss patrolling nearby felt somewhat reassuring, and, if that wasn’t enough, Mato was preparing a meal nearby – his brand of self-care, but one she had come to appreciate more and more, and one that his mother clearly regarded as being an essential skill for his future marriage prospects. It was no myth that Beastkin loved their food. Poor Mato, his Mom won’t let the subject drop, will she? He gets all twitchy whenever she mentions it, which is often…
+
+She examined her skill description yet again, trying to figure out what exactly her domain mastery meant by ‘anything you have made’. It literally said she could use anything, not just monsters. It was curious, but more than that, it helped keep her mind busy and not so focused on her fears.
+
+It’s just the Domain Magic enhancement that is specific to monsters, she thought. So, what happens when I attach something else to the domain?
+
+She glanced about, deciding to try it out on a few mushrooms that grew nearby. They were her golden glowing arcane mushrooms, and even now she marveled at how pretty they were. It took nothing more than a few points of mana and her touch to bind the mushrooms to her domain. She watched curiously as the domain mana adjusted around them, but apart from that, very little that she could see actually changed. However, they now appeared in her list of things that her domain mastery would respawn after an hour.
+
+Nice, she thought. It would not be an effective defense against having her entire domain burned to the ground, because it required the mana of the dungeon to function. But if Basil came by and harvested the mushrooms, she wouldn’t need to manually replant them. Idly, she wondered if the young herbalist would be coming down into the forest cavern now that he and his team had defeated the Kobold warrior. She hadn’t seen much of the now bronze adventurers, because Vivian Ross had approved them for taking jobs on the jobs board, and there were plenty of jobs hunting zombies out in the nearby forest.
+
+Ali paged through her Grimoire and decided to try something else. She made a chunk of nature affinity magicite about the size of Mato’s fist and embedded it in the stone near the shrine.
+
+This stuff should work much like a mana battery. Just as she had attached her mushrooms to the domain, she did the same thing with the magicite. As soon as her magic was completed, she saw the swirling of her domain mana pouring into the stone as it glowed brighter and brighter until it finally settled on an intense green light, like a glowing crisp apple from one of the trees Sigurd had brought her. Nice! She studied it for a while, deciding it wasn’t going to oversaturate, thankfully.
+
+For the next part of her idea, she decided to try inscribing some power transfer runes into the ground around it. She carefully spliced in some of the runic structure she remembered from the library enchantment and some pieces she borrowed from her Orb of Mana – specifically the elements related to drawing mana from the magicite crystal sliver embedded within the glass orb. She tinkered with it for a while, absently accepting a bowl of food from Mato while she worked.
+
+“Thanks,” she told him, briefly distracted when the delicious flavor exploded in her mouth, but she quickly returned to her work.
+
+“What are you doing?” Mato asked, dropping himself to the mossy ground nearby.
+
+“I’m trying to see if I can make a battery for the shrine. If I’m right, I should be able to recharge it faster with this.” She continued scribing her runes and chatting with Mato, the work not quite difficult enough to demand her entire focus.
+
+Suddenly, the runes pulsed as she completed the final section, and a powerful cascade of green nature-affinity mana surged from the magicite and poured into the shrine. It was already at full capacity, so she didn’t know if the recharge rate had improved, but before she could consider ways to use some of its mana safely, her chime sounded.
+
+Runic Script has reached level 25.Requirements met for shrine advancement.Shrine overcharged.Magicite imprint known.Sufficiently dense domain mana achieved.Shrine of the Ancient Grove gains Mana Battery.+1,000,000 to Mana ReserveShrine of the Ancient Grove gains Living Mana.Mana Reserve grows with the total size of the domain.Choose one advancement.
+
+“Oh, my shrine advanced!” Ali had no idea that had even been a possibility. She blinked at the zeroes. Holy… how much mana?
+
+“Nice, what did you get?” Mato asked.
+
+She quickly shared the options with him. One million mana to her reservation seemed like a lot, but she was almost certain the Living Mana option would be the better long-term choice – provided the proportion was reasonable.
+
+“Living Mana,” Mato suggested, agreeing immediately with her assessment, so she chose that option.
+
+The shrine flared with the light of complex mana formations growing and twisting. Her Grimoire immediately responded with a sympathetic glow and the shrine’s mana poured into her book while the pages flipped back to the magicite variant. And then she felt her Domain Mastery activate without her own intention.
+
+The mana rushed through her as the shrine usurped her skills for its own purposes, channeling magicite and reforming it with her domain mastery. The shrine began to grow, glowing intensely as it summoned more and more magicite, folding it into itself in an intricately complex structure. Finally, the mana rush slowed and the glowing subsided to the normal luminance of the runic inscriptions on the surface of the once again black stone obelisk. But it was several meters taller now, and noticeably wider at the base.
+
+Shrine of the Ancient GroveAn ancient mystical shrine of unknown origin. Offers advanced class features and attunement of latent mana affinity.Owner: Aliandra AmarielMana Siphon (Active)Mana: Unlock class experienceMana: Unlock or enhance latent magical affinitiesMana: Unlock alternate classesOwner’s Mana: Recharge the shrine’s mana reserve. 1,250,003/1,896,250Shrine – Artifact
+
+“It gained almost six hundred and fifty thousand mana,” Ali said in surprise. It wasn’t quite as much as the one million mana option, but if she grew her domain, it should continue increasing, eventually surpassing the flat increase option.
+
+Ali glanced at the chunk of magicite she had made for her experiment, now looking pitifully small compared to the sheer amount of nature affinity magicite the shrine had consumed in its reconstruction endeavor. Probably irrelevant now, she thought but decided to leave it anyway. If the adventurers grew strong enough to take on her Forest Guardian boss, it would be a nice reward for them, and her domain was already set to respawn the magicite if they took it.
+
+It hadn’t escaped her notice that the shrine had only used the nature-affinity magicite, which got her thinking. Can I get another upgrade if I find arcane-affinity magicite? There had been an arcane condenser, but she was pretty certain it was one of the missing ones, presumably buried deep under the rubble or entirely destroyed by whatever explosion had been strong enough to destroy half the city and level the mountain above.
+
+Ali’s guardian alerted her to a presence, and she quickly flickered her awareness through her monsters just as Malika called out to them.
+
+“Ali, Mato, what are you guys doing, I saw some bright lights.”
+
+“Malika!” she squealed, springing to her feet and sprinting off to greet her, sending a quick command to her Forest Guardian to stand down.
+
+Their happy reunion took some time, and Ali was overjoyed to have her friend back healthy and looking well. Mato, of course, greeted Malika with a bear hug swiftly followed by a bowl of savory stew, which was gratefully accepted, and they all sat down to catch up on their various activities.
+
+“So, I poured a whole lot of mana into the shrine and then it advanced,” Ali explained, answering Malika’s questions about the brightness of the light.
+
+“Oh, Vivian asked me to talk to you about using the shrine for class advancement again,” Malika said.
+
+“I told her I’d think about it,” she answered. In truth, she hadn’t thought about it much, but she was still hesitant given her experience last time.
+
+“Ali, I know you seem hesitant, but I think it’s a great idea. I told Rezan to bring one of the girls from Kezda to you for a class because Vertias is charging thirty gold to use their shrine. I know Myrin’s Keep only charges two large silver, but still, that excludes almost the entire population simply because they cannot afford it. I told Vivian I would help her train the applicants if she finds them from the poorer sections of town just so we can give them better opportunities. I’m excited about the idea, and I think it’s a way we can make a big difference.”
+
+“I’m certain that the last time was how people learned I’m a dungeon, and that’s why they came to hunt me.” But she knew her fear wasn’t quite rational. After the trial where she had proudly announced the fact, it had become common knowledge in the town.
+
+“I won’t make an issue of it if you don’t want to,” Malika said, but she was unable to hide her disappointment.
+
+Ali bit her lip. So, what am I still afraid of?
+
+Lira had told her that her father had done something similar for the whole city of Dal’mohra and had confirmed Malika’s thought that it would make a difference. In fact, Ali was certain Malika might be underselling the value for a messed-up town like Myrin’s Keep, provided most of the candidates had good role models and guidance – regardless of her personal concerns around Vivian’s occasional use of questionable methods, she was undoubtedly a fantastic resource for any newly classed adventurer.
+
+“Maybe we can do one more and see how it goes?” Ali suggested. It was hard to block something that Malika was so clearly passionate about on something as nebulous as a fearful memory.
+
+“Thank you, Ali,” Malika said. “Is there anything I can do?”
+
+“Actually, there is,” Ali answered. “I promised Thuli that I would search for the mines under Dal’mohra. Maybe when Calen gets back from his job, we can go clear some more of the jungle to get to the entrance?”
+
+“Yes!” Mato exclaimed. “I’m tired of fighting stupid zombies.”
+
+Ali winked at Malika and said, “Clearly he’s roaringly bored with beating up zombies. What about you?”
+
+Folding his arms across his chest, Mato growled, “You got that right. Filthy work!”
+
+“Of course I’m in,” Malika said meeting Ali’s smile with one of her own. “It’s good to be back.”
+
+***
+
+“What about here?” Ali asked, glancing at Calen as she tried to wipe the sweat from her face and neck with an already-soaked sleeve.
+
+“I’m not sure,” he answered, “but this spot seems most likely. We already checked the other possibilities.” If he was affected by the humid jungle, he didn’t show it, studying the gigantic pile of rock and rubble as if he might stare right through it to glean insights as to what might lie beyond.
+
+“Ok, I’ll try,” she answered. “I just need a few minutes for my domain to propagate.” They had been hunting for the entrance to the mines for several days now and she was beginning to worry that they would never find it. It didn’t help that the entire area was vastly changed by the passage of time, jungle, and the fallen rubble and rock, and she had poor memories of a place she had rarely visited anyway. The entrance was undoubtedly buried somewhere underneath this wreckage, but the ancient overgrown rubble of half a city was vast, and they had to fight through the denizens of the jungle for every meter.
+
+On the other hand, she plowed through the jungle like a ravenous devourer, consuming all manner of trees and vegetation, and leaving in its wake a jungle reborn from the hundreds of imprint variants she acquired, now glittering with arcane and nature mana instead.
+
+“How is it?” Malika asked.
+
+“Much calmer,” Ali said, glancing back at the expanse of her new domain. Obviously, she didn’t have the time to replace everything, but once she had established enough trees – particularly her towering Lirasian Oaks, her domain settled over the region. In her wake, her industrious minions filled in the gaps with mushrooms, moss, and wildflowers.
+
+It all had a second purpose, though. To penetrate the rubble and find the entrance, she needed to rely on her powerful Domain Mastery skill and its ability to affect large areas within her domain. Tunneling through the rock with Deconstruction had been far too slow.
+
+“It’s still as sweaty as a Troll’s armpit around here,” Mato grumbled.
+
+“I don’t remember Trolls being that sweaty,” Ali answered absently as she checked her domain mana carefully, picking at her uncomfortably sticky, damp clothing. “I met a few from Telim Gor once – they had an ice-affinity bloodline.” One advantage of planting all the new trees and expanding her domain area through the jungle was that her shrine’s mana reserve had been slowly growing. It was not an immediately useful improvement, but Ali was happy that she had picked the Living Mana advancement now that she could see how effective it was.
+
+“Hmph!” was all Mato said.
+
+“I think I’m ready,” Ali said, deciding that the domain mana emitted by the nearby enormous oak had grown sufficiently strong that it would support her skill, and she reached toward the rubble and rock lying beneath the dense cover of moss and plants. Her domain mana immediately responded to her will, infusing the rock and it began to bend away from her, flowing like a thick viscous treacle. She stepped toward the mountain, pushing the rock up and around to reinforce the walls and the roof of her slowly growing cave. With a thought she added her Deconstruction, wielding both skills simultaneously to dissolve tons of rock while simultaneously growing a tunnel into the heart of the broken remains of the city. She took a step forward, trying to ignore the tons of rock bearing down on her tiny tunnel causing the primitive part of her brain to clamor with alarm.
+
+She stepped forward again, absorbing mana from the rock with her Deconstruction and redirecting it back out through her domain mastery to slowly shift the rock to the sides and open up the way forward. As she did so, she summoned a slowly growing carpet of moss at her feet.
+
+Variant: Ivory Gold Granite added to Imprint: Stone.
+
+She ignored the notification as she continued to bore her way through the tons of stone and rock, focused on the mana that she could see penetrating several meters deep into the walls, searching for any hints that might help direct her.
+
+Variant: Tura Limestone added to Imprint: Stone.
+
+She shifted uncomfortably, pouring her mana into her skills constantly, and beginning to sweat profusely.
+
+“Is it getting hotter in here?” Ali asked.
+
+“I think so,” Calen said from a little way back.
+
+Ten minutes later she was certain – a scorching heat radiated from the rock in uncomfortable waves, leaving her sweltering and short of breath. It was getting hotter than standing in front of Thuli’s forge – almost like she imagined bread must feel baking in the oven. She pressed on, taking the unusual heat as a good sign – something that was notably different about this location compared to all the other attempts they had made.
+
+Domain Mastery has reached level 22.
+
+She ignored the various notifications of additional variants of decorative or structural stone, presumably remnants of the city’s construction, content to explore them later. If nothing else, she would have plenty of new options for artistic sculpture.
+
+“If this doesn’t work, perhaps we should hire an Earth Mage?” Calen suggested.
+
+“Oh, yes,” Malika answered. “Some of them have Earth Sight or perception skills that work through rock. Basir, Rezan’s disciple, can do that.”
+
+“That’s a pretty good idea,” Ali said. Anything to avoid the uncomfortable heatwave. “Or we could find an earth affinity monster and I could just take a look myself.”
+
+“Not sure where to find one of those,” Mato said. “But that’s a good idea.”
+
+Suddenly, up ahead in the rock, something shifted in her mana sight. Instead of her structured domain of nature and arcane magic, something else flared and flickered, like tiny flames of red.
+
+“I see some fire-affinity mana,” Ali said, recognizing it from long familiarity with the magic of her favorite Kobold mages. With mounting excitement, she pressed forward.
+
+“Be careful,” Malika murmured.
+
+Calen added, “Have a barrier ready, alright, Ali.”
+
+“Ok, here it goes,” she said, warning her friends to be prepared, and then broke through. Rock walls gave way to a sudden intense blast of dry heated air that banished her sweat in an instant, searing her skin and burning her face. She reacted with an instant barrier, but even the ambient air burned, blistering and reddening her skin.
+
+“Yeowch! That’s hot!” Mato hissed.
+
+As the soothing holy magic from her attentive Acolyte settled into her body, repairing the damage, she studied the effect. “It’s the mana, not the air,” she said. While the air itself was scorching hot, most of the damage seemed to be coming directly from the ambient fire-affinity mana that was pouring out from the large open space she had connected to with her tunnel.
+
+From the darkness beyond, a strange glow shifted, throwing shadows that flickered and danced, and suddenly a sizzle broke the silence as a bolt of flame shot toward her, crashing into the golden barrier with a loud bang and a shower of flaming blobs.
+
+“Incoming,” Calen shouted, and from the dark cavern beyond their position came a being born of pure flame and heat.
+
+It was the intense fiery orange-red of her Kobolds’ fireballs, but larger, flickering and shifting like a bonfire. Two intense white flames near the center gave the impression of eyes, and two protrusions of flame evoked the idea of arms, creating a vaguely humanoid squat, broad shape. It was impossible to tell if the monster had any substance to it, or if it was entirely composed of flame, but the white-hot core was dense enough to be entirely opaque.
+
+Shard of Flame – Elemental – level 39 (Fire)
+
+“Fire elemental!” Ali and Calen yelled simultaneously.
+
+It launched another bolt of flame, this time crashing into Mato as he charged forward to engage it, his fur instantly igniting as he entered the intense aura of fire emanating from the monster. It swung an ‘arm’ and struck Mato with a resounding thump that sizzled as its touch burnt deep into his hide.
+
+“Heal him,” Ali said, but her Acolytes were already casting their holy spells.
+
+The Shard of Flame struck again, driving Mato backward. As it approached, the aura of its flame touched her domain, and an immense pain slammed into Ali’s mind, driving her to her knees in agony. Unable to see, she barely registered shouting and screaming, and the roars of her minions. Someone grabbed her roughly and she felt herself being carried. She struggled with the searing pain that raged unfettered through her mind.
+
+“Ali! Are you ok?” She heard the shout from right beside her, and yet from so far away.
+
+“Malika,” she gasped, not even knowing if she spoke aloud.
+
+It was Malika carrying her as they sprinted through the tunnel and out into the jungle, pumping her healing magic into her. Her mind slowly began to adjust to the pain as she realized her minions were still in there, unleashing everything they had.
+
+“Come back,” she managed. But only her Kobolds managed to make it out alive, her Forest Guardian succumbing somewhere deep in the tunnel, its mana reservation returning to her with a stinging snap.
+
+“It’s a dungeon,” Calen cried in sudden realization.
+
+Ali slowly struggled to her feet, trying to regain control of her faculties, her minions, everything – merely trying to process what was happening.
+
+Dungeon-rage.
+
+As her mind slowly recovered, getting used to the pain – for it was not abating in the slightest – she began to understand. It was a familiar pain; one she had experienced twice before. The first time when she had inadvertently overlapped her mana with the Ruins of Dal’mohra in the forest cavern, and once again when she tried to save Lira by merging their domains. Somehow, she instinctively knew that merging domains with a hostile dungeon would be disastrous. The Shard of Flame surged out of the tunnel, still trading blows with Mato, while Ali’s Kobolds unleashed all their energy and might at it, uncaring for the damage.
+
+“Firebolts,” Ali commanded, trying to force her will through their rage. “Firebolts!” They were killing Mato with Fireballs in their ardor to protect her from the monster.
+
+Reluctantly, her Kobolds obeyed, switching from Fireballs to Firebolts and the pressure on Mato eased a little.
+
+“Ali?” Malika’s concern pierced through the haze of pain.
+
+“Dungeon-rage,” she managed. “I’ll be ok in a minute.” Of course, she had no idea if she would really be ok – the pain showed no signs of fading.
+
+“Still?” Calen said, raising an eyebrow as he continued to unleash his arrows.
+
+“It’s the Elemental,” Ali said. The Shard of Flame was emitting a potent aura of fire-affinity mana, and she finally recognized what was familiar about it. It reminded her of Naia’s slimes, and how they propagated Naia’s domain wherever they went. Just like her trees, only mobile. The domain of the fire dungeon was being laid down by the elemental’s aura, extending back into the tunnel she had bored through the rock. And it was burning her domain wherever the two came into contact.
+
+“Go,” she said, slowly standing up on her own, freeing Malika from having to hold her. “Mato needs you.” She sent out her will, forcibly bringing her minions under control. Her melee forces – three rogues and a shaman – were all literally on fire, being burned by the mere presence of the Fire Elemental. As she struggled to keep her balance, one of her rogues collapsed in a smoldering heap, filling the forest with the stench of charred meat.
+
+She moved her Kobold Fire Mages and Acolytes back out of range of the aura and set them to some vague semblance of strategy. At her side, one of her Acolytes flared with the pillar of holy light as she triggered her devotion skill to cope with the excessive damage.
+
+Ali quickly merged her perceptions with the nearest Acolyte, observing with its Healer’s Sight, shocked to find just how low on health her melee minions were. The Kobolds seemed to be doing a bit better than the shaman, but her Forest Guardian was long gone, presumably unable to keep up, given its vulnerability to fire. With her potent temporary boost in healing power, her Acolyte was bringing her minions back from the brink, but it was a close call.
+
+All around her, she could feel her domain fighting with the expanding fire domain, but it was hers that was being pushed back. More than just the fire domain being more powerful – the mere presence of the Elemental set her grass on fire, destroying the plants that created her domain in the first place. And the agony in her mind was preventing her from even thinking straight.
+
+She reached out and placed her hand on the giant oak she had planted so that she could make the tunnel and deconstructed it. As it evaporated in a giant explosion of mana motes, her domain recoiled, receding rapidly, and suddenly her mind cleared as the pain subsided.
+
+Ok, now I can think. She breathed a sigh of relief. Malika was in the thick of it, fighting hard beside Mato, and by the frequent flickers of her magic, Ali could tell she was rapidly burning her energy to heal him and herself. Her Acolytes were healing constantly, and her melee forces were barely holding onto life.
+
+Ali quickly threw up a couple of barriers to protect her Acolytes from the continuous barrage of Firebolts blasting in all directions from the Shard of Flame.
+
+“It’s not dying,” Calen said through clenched teeth.
+
+“It isn’t?” Ali’s eyes snapped to the elemental in surprise – it was a single monster, by itself, and even though it was formidable, they were an entire group. She slipped her mind back into the Acolyte’s Healer’s Sight and studied the elemental.
+
+“It’s at full health…” Ali could easily see Mato’s powerful strikes, Malika’s rapid ones, and the damage from her shaman when the Lightning Bolt slammed through the elemental, but then the elemental suddenly recovered its health.
+
+“What the… it’s healing!” she yelled. “Go all out!” she commanded, eliciting a chorus of yips and chirps from her remaining Kobolds. She ignored the second rogue collapsing behind the elemental.
+
+“How is it out-healing all of us?” Calen asked.
+
+“I have no idea.” Ali fired several barrier shards at it, finding them only able to strike at the dense core of the monster. She anxiously tracked its health as her minions hit it. A massive strike from Mato and the health dropped noticeably. Malika’s flurry of punches hit, and it dropped a little more. Several arrows from Calen and the health dropped noticeably again. Her mages fired a volley of firebolts and…
+
+What? The Shard of Flame was suddenly back at full health.
+
+“Oh fuck!” she exclaimed. She was not one for careless profanity, like Morwynne, but this time she had been rather stupid. In her defense, the dungeon-rage had done a number on her concentration and focus.
+
+“What?” Calen asked, staring at her in surprise.
+
+“It’s a Fire Elemental. I’m shooting it with fire…” Ali explained. I need ice. Water. Lakes of water!
+
+“Oh. Fire damage absorption?” Calen asked.
+
+“That’s the only explanation,” Ali grimaced. She was unable to study the aptitudes of any of the Elementals she had acquired, save for the Forest Guardian. But her Guardians would heal from any nature or poison damage due to the absorption of its affinity. There was no reason to believe the Fire Elemental didn’t have a similar aptitude – and the evidence she had just observed confirmed it.
+
+“Stop shooting fire,” she growled in draconic, telling her Kobold mages to simply stand by. It was clear they were upset about her orders, but they obeyed, nonetheless. She studied the health of the monster carefully, watching it slowly decrease as they fought, but it was no longer healing itself. It was a stressful few minutes, particularly when the fires killed her shaman, but her Acolytes were able to keep up with the intense damage – at least for Mato in the thick of the flames – and, with their combined efforts whittling it down, the chime finally sounded.
+
+Your group has defeated Shard of Flame – Elemental – level 39 (Fire)
+
+“Thank goodness,” Malika said, wiping soot off her face.
+
+“Sorry, guys,” Ali said, mortified that she had missed the crucial ability in the chaos and pain and had put them all in danger.
+
+“No problem, we got it,” Mato answered, sauntering over to join her. “Hey, what are they doing?” he asked, pointing to the two Acolytes who were standing with heads bowed over clasped hands.
+
+“It’s a skill called Prayer,” Ali answered. She had studied her Acolytes’ abilities extensively – they were one of her most essential minions, after all. The Prayer ability was similar to Malika’s meditation, they could greatly improve their regeneration, but they could take no other actions while using the skill.
+
+“What do Kobolds pray to?” Mato asked.
+
+“I… don’t know,” Ali answered.
+
+“Some ancient dragon, I think,” Calen answered.
+
+“You guys aren’t worried about me healing the monster?” Ali was surprised at their casual attitude toward her mistake.
+
+“It happens,” Malika shrugged.
+
+“You figured it out, and we won,” Mato answered, as if that was the only thing that mattered.
+
+“He’s right, Ali,” Calen said when she frowned. “We learned something. Here, take a look at this read on the dungeon, I think it confirms that we’re in the right place.”
+
+[Explorer]Emberforge Mines – level ??Affinity: Fire, Lava.Age: Ancient.Known Creatures: Fire Elemental.Known Bosses: --Dungeon
+
+“Another dungeon?” Malika asked.
+
+“And it’s ancient,” Ali added. It seemed like the dungeon was almost as old as she was, but the name confirmed they had found it. Unfortunately, the mines were inhabited by a dungeon, which meant that getting Thuli his information would take a lot longer than she had anticipated.
+
+“Won’t this help you level up and get that mana you needed?” Mato asked, grinning.
+
+“It seems unreasonably hard,” Ali muttered, clamping her lips together as she realized how sulky she had just sounded. On the other hand, leveling up would definitely be the most effective way for her to solve her mana issues.
+
+They all trooped back to the tunnel and Ali noticed that the rock itself was glowing. Several fissures had opened, spilling lava out of the entrance and into the jungle. Lava that was brimming with mana that emerged to mingle with the remnants of the fire aura the elemental had left, pinning it in place and expanding the domain of the hostile dungeon.
+
+“Wait, that was a dual-affinity dungeon again?” Ali asked, finding the description Calen had shared.
+
+“Yes, fire and lava,” he confirmed.
+
+“I think this lava is propagating its domain, too,” Ali said, pointing it out to the others.
+
+“Hey, this is cool,” Malika said, calling attention to the corpse of the Shard of Flame. She stood over it with an intense orange-red thing resting in the palm of her right hand, a flickering dancing flame that refused to go out. Periodically, she pulsed her mana to heal her hand against the burning of the flame.
+
+Lesser Essence of Flame
+
+“I think Thuli might like this,” Malika grinned.
+
+“Incoming,” Calen shouted, snapping everyone’s attention back to the tunnel as a second Shard of Flame emerged.
+
+I need completely different minions for this, Ali thought as she scrambled for battle. Maybe I need to divert a few rivers down here?
+
+***
+
+Race: KoboldActive Buffs: Azryet's Blessing, FaithClass: Acolyte of Azryet – level 23- Heal – level 17Mana: Heal your target. Range: 45.3 meters.Holy, Healing, Ranged, Wisdom- Restoration – level 15Mana: Heal your target over time. Range: 43.5 meters. Duration: 30 seconds.Holy, Healing, Buff, Ranged, Wisdom- Healing Mastery – level 12You are proficient with healing magic. All healing spells gain +64% [40 + skill + intelligence / 10] spell power. Holy, Healing, Mastery, Intelligence- Azryet's Blessing – level 13Mana: Your Wisdom, Intelligence, and Perception are increased by +60.3% [40 + skill + base intelligence / 10]. Reserve: 20%Holy, Buff, Intelligence- Healer's Sight – level 11Mana: You can see the health of creatures and people around you. You can see their wounds and injuries and understand how difficult they are to heal. Range: 39.9 meters.Holy, Healing, Perception- Prayer – level 14Focus: Seek the guidance of your patron. Mana regeneration is increased by +270% [60 + skill x 15]. Movement or using an active skill cancels your focus. Your Patron may choose to double your bonus at their discretion.Holy, Wisdom- Devotion – level 9Mana: All your healing spells gain Spell Echo, targeting up to 1 [1 + skill / 20] additional nearby targets. Your healing spells gain +18% [skill x 2] spell haste and the effects of all Healing Mastery skills are doubled. Duration: 30 seconds. Recharge: 15 minutes.Holy, Healing, Area, Intelligence- Faith – level 4Stamina: Your will is strong, and your faith is pure. Resistance is increased by +177 [skill x 7 + wisdom]. Reserve: 10%Holy, Defense, Wisdom- [Locked] - [Locked]General Skills- Identify – level 4Aptitudes- Language: Draconic- Draconic Blood (Racial): Resistance to Fire is increased by +161- Darkvision (Racial): You can see in the dark.
+
+- Kobold Trickery (Racial): +5 to Dexterity and IntelligenceAttributes- Vitality: 45- Strength: 5- Endurance: 18- Dexterity: 14- Perception: 80 (+28) - Intelligence: 120 (+42) - Wisdom: 149 (+52) Equipment- Body: Tailored Cotton Clothing – level 20Resistance: 465Magical Damage Reduction: 41.92%+9% Spell power to Healing skills.Health: 450/450Stamina: 162/180 (18 Reserved)Mana: 1192/1490 (298 Reserved)
+
+This was turning into an extremely annoying and frustrating job. Expensive, too. Tala darted along the rooftops, letting her stealth skills keep the curious prying eyes from finding her as she made her way to the bar. Her prospective contractors had declined to meet at the Crooked Crown and instead proposed the Pig ‘n Poke, and while she appreciated their caution, it not only meant a trip to the other side of town, but it also meant she would have to deal with the patrons that frequented the place. Hopefully, it was late enough that most of them would be too drunk or too dead to cause trouble.
+
+Fucking Disruptor. If only that arrogant mage had done his job properly, she wouldn’t still be stuck hiring mercenaries. How could someone with his ridiculous skills and reputation fail to kill a lower-level mage mark? His body – and those of his entire team – had never been recovered, which she supposed was what he got for dying in a dungeon, but she had recognized some of his group’s gear showing up on the market a few days later.
+
+A dead giveaway. She grinned wryly at her own pun.
+
+This time, though, there was much more at stake than simply killing Aliandra and wiping out the dungeon. With the intel that the Adventurers Guild was running a private class advancement, and had been drawing in people from the poor and rundown slum areas in town, Jax Hawkhurst himself had gotten involved. He had been furious, calling it a declaration of war against his business interests – an escalation which had to mean Bastian Asterford was leaning hard on him. It wasn’t about the silver; it was about control. Control and leverage led to results.
+
+Tala smiled grimly as she spied the mercenaries through an open window. You guys had better be worth my time, or I’ll be selling your gear myself.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

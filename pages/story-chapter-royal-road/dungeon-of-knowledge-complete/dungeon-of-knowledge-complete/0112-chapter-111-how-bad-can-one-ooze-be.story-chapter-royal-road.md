@@ -1,0 +1,215 @@
+---
+id: 493e7ac0-d88a-589c-9075-c3e1ba43bb74
+page-type-slug: story-chapter-royal-road
+title: "Chapter 111: How Bad Can One Ooze Be?"
+slug: 0112-chapter-111-how-bad-can-one-ooze-be
+partOf: dungeon-of-knowledge-complete
+position: 112
+ownLength: 4200
+unit: words
+ownProgress: 4200
+publishedAt: 2024-08-11
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1753689/chapter-111-how-bad-can-one-ooze-be"
+royalRoadId: "1753689"
+markedReadAt: "2026-06-29T20:14:47.265Z"
+---
+
+Ali stared at the wobbling mass hauling itself out of the nature-affinity spawning pool.
+
+Toxic Spitter – Ooze – level 55 (Poison)
+
+It was by far the largest ooze Ali had ever seen – just as vile as her Toxic Slimes – only it was almost half the size of the Forest Guardian. With heavy, mushy splatting thumps, it dragged its wobbly bulk up the bank, green liquid from the pool cascading off its constantly changing form with a powerful formation of poison-affinity mana swirling within its enormous body. It lurched in a motion reminiscent of a cat throwing up a hairball, which struck Ali as odd because, if anything could be said to look opposite a cat, that creature was it. A ball of greenish-brown sludge shot out from the Spitter and slammed into Mato, latching onto him.
+
+Toxic Slime – Ooze – level 8 (Poison)
+
+The Toxic Spitter lurched again and shot out three more creatures with a rapid splat, splat, splat.
+
+“Did it just summon slimes?” Ali asked, incredulously.
+
+“Looks like it. We need to finish off these Bamboo Crawlers fast,” Calen said, breaking through her distraction.
+
+“Right.” I need to focus. Malika and Mato can take care of themselves for a moment. Ali picked three Bamboo Crawlers and split her Arcane Bolt magic, shooting all three of them simultaneously. Calen unleashed his Righteous Fury in an effort to burn through the monsters as quickly as possible.
+
+“Fireball,” Ali commanded, and her mages began to blast the bamboo forest apart.
+
+When Ali finally returned to the melee, she found a scene of pure chaos. More than three or four dozen little slime creatures were mobbing Mato and Malika and her own melee monsters. The giant Toxic Spitter sprayed out five more in quick succession, visibly shrinking as it did so, but its form seemed to swell rapidly, regaining its original bulk in moments.
+
+“Is it healing what it spat out?” she asked aloud. She couldn’t tell exactly what was going on in the chaotic clash of mana, but the giant ooze shrank whenever it spat out a Toxic Slime. Shortly after, the monster regrew. What is… fuck! “The Forest Guardian is healing it!”
+
+“Crap,” Calen said.
+
+“Ali, fireball the slimes, we’re getting overwhelmed by poisons!” Malika shouted, her voice cracking with urgency as she pummeled dozens of Toxic Slimes while struggling continuously to free herself from the ever-grasping roots.
+
+Ali didn’t have to be asked twice. Without much ado, she set up the familiar fireball rotation, staggering the mages’ spells carefully to give enough time to heal between detonations.
+
+The first Fireball landed with a deafening bang. Flaming bits of toxic goop sizzled through the air leaving trails of smoke, a splattering rain of fire that clung to whatever it hit. Roots caught fire and the Forest Guardians roared in anger. The second Fireball flew, landing right after the healing magic of the Acolytes topped up Mato. Dense black smoke began to billow up out of the battlefield as the explosion intensified the flames. Several pieces of goop splatted up against Ali’s barrier, clinging like glue. She coughed as the foul stench of burning slime assaulted her senses, so potent that it made her eyes water.
+
+But the situation on the battlefield seemed unchanged. Several Toxic Slimes had been blown to pieces by the force of the blasts, but most of them shrugged off the fire, shedding burnt slime as if it were dirty clothing, appearing to simply regenerate the damage. A few seconds later, the enormous Toxic Spitter horked up another volley of new slimes to replace the few Ali had killed.
+
+“It’s not working!” The fireballs were powerful, but she was effectively trying to burn a huge pile of wet sludge the consistency of thick mud, and fire was certainly not ideal for that. Within the potent regeneration aura of the Forest Guardian, the slimes were simply recovering their health and continuing unharmed. In fact, her fireballs seemed to be doing vastly more damage to her friends instead.
+
+“The poison is killing us! Mato is getting very hard to heal,” Malika yelled.
+
+“The guardian is healing everything!” Ali yelled back. Mato and Malika were certainly in dire straits, but Ali had no idea what she could do. Should we run?
+
+“We have to kill the guardian first,” Calen said.
+
+“We can’t survive that long!” Malika shouted back.
+
+As the urgent exchange went back and forth, Ali’s attention was suddenly drawn to the Toxic Spitter and the powerful surge of mana that rippled through its enormous body. The wobbly, muddy goop shivered, pulsing with power, and then stretched in opposite directions. Her eyes widened in realization. The center of the ooze monster was constricted, pulled by opposing forces until suddenly it split, causing ripples to ricochet back and forth through the two remaining halves.
+
+Toxic Spitter – Ooze – level 55 (Poison) x2
+
+Shit! It took a moment for Ali to realize what had happened, and then chilling implications slammed into her mind with the power of certainty and doom. “There’s two of them!” she yelled. They were in trouble before, but the Toxic Spitter had just split itself into two halves – two entirely separate monsters half the size of the original. Then they began to swell and grow, fed by the potent regeneration aura pumped out by the Forest Guardian.
+
+“We need to run!” Malika yelled.
+
+“We’ll just die in the locus room,” Calen shouted. “We need to deal with the poison!”
+
+“I need a minute. Can you hold out for that long?” Ali yelled. As soon as the two halves reached their full size, they would be spitting new slimes at twice the rate, and her friends were going to be overwhelmed.
+
+“It’d better be something good!” Malika yelled back, the strain of fighting against the roots while kicking, punching, and healing clear in her voice.
+
+With haste born of urgency, Ali rushed through her priority list. She made her Storm Shaman drop his Lightning Nova totem in the middle of the slime pit. At least lightning seemed to work much better than fire against what was effectively animated sludge, and it seemed easier to heal her friends through the nova than fireballs. Next, she called her Scalding Slimes off from attacking the guardian and set them to thinning the horde of smaller toxic slimes with their steam jets. Her slimes seemed immune to the stacking poison effects, so they were not drawing much of her Acolytes’ healing power. Then she switched her Fire Mages to firebolts, instructing them to shoot the Toxic Spitters in the hopes that the damage would slow down their healing and consequentially, the rate at which they could manufacture more slimes.
+
+She swooped in closer, choosing a flat spot on the beach, and pivoted her barrier to protect herself while she cleared her mind to focus on her Runic Script skill. This had better work. She had never created a circle in under a minute and everything relied on her getting it right first try. She took a deep breath and dismissed her worries, focusing instead on her memory of the Cure Poison circle. She knelt in the dirt and began to write, channeling her mana like ink into the relatively smooth sand.
+
+There was yelling and shouting in the background, but she tuned it out, focusing on keeping her mana flow perfectly constant, increasing and decreasing the pressure as she worked her way through the complex runic structure. About halfway through, one of her Acolytes burst into intense light, radiant holy magic shining out like a beacon of hope. She ignored it, focusing on the next tricky section. No mistakes. She couldn’t afford the time to go back and fix it. Her mana snapped, and her mind registered the loss of her shaman. She pushed the information into the background, concentrating on the next rune sequence, filling it in as quickly as she dared. It was a supreme balancing act, a trade between her desire to rush and save her friends, and her experience that slow and deliberate work would result in fewer mistakes.
+
+The second Acolyte flared with intense magic, followed immediately by Calen’s powerful radiant skill igniting his mana. They’re struggling. She knew it, could feel it, and she pushed her frustration that she couldn’t help down into the recesses of her mind. I am helping! Her circle was much wider than she had attempted in the past, and that decision had cost her time, but she was closing in on the last arc, and she would need full focus to link it. And the size is necessary if I want to save them both.
+
+There was a tactile snapping sensation in her mana as the circle closed.
+
+Cure Poison – level 31 (Nature)Weakens or removes poison.Runic CircleYour reserved mana has increased by +177.
+
+“Mato! Poison circle here!” Ali yelled out as soon as she confirmed the notification and the successful completion of her spell.
+
+Mato roared in confirmation, but although he was strong enough to tear the roots, more and more kept tangling with his paws, preventing all but the slowest progress through the rampant growth.
+
+The third Acolyte triggered her potent healing enhancement, flaring brilliantly in Ali’s mana sight, a visual reminder of how dire the situation was. There were no more enhancements after this one, and it lasted thirty seconds at most. When it ended, they would be at the mercy of the poison and whatever normal healing they could manage.
+
+“He’s not going to make it,” Calen said, his voice unnaturally calm.
+
+Mato had managed to move the Forest Guardian no more than two or three meters.
+
+I have to risk it.
+
+“Fireball!” Ali yelled, sending the command to her highest-level mage, and repeating it in common to give her friends the necessary warning to prepare. Malika’s eyes widened, but she just shifted, planting herself right beside Mato. Blue-white mana pulsed through her and into Mato moments before the intense ball of flame sizzled out across the beach and slammed into the flank of the Forest Guardian. The concussion was deafening, and the splats of the pieces of shredded slime could be felt more than heard, but Ali wasn’t interested in that, her eyes entirely focused on the roots and vines sprouting from the ground beneath the giant pillar of smoke and flame.
+
+Seared and torn by the explosion, the roots momentarily released their hold, and Mato responded instantly. His charge took him past the boundary of the magic runic circle, tearing across the beach to where Ali was standing. In an almost instantaneous chain reaction, first the enemy Forest Guardian, and then her own triggered their Rush skills, chasing the Bear in a thunderous pursuit.
+
+Ali’s eyes widened, stunned by the sight of mountains of monstrous wood bearing down on her with magically accelerated speed. With barely a thought, she triggered Minion Teleport, switching places with one of her Fire Mages, and scrambling backward to create more distance. Only then did she realize that she could ill afford to lose her mage either, and summoned a barrier underneath it, shooting it above the battlefield – a precaution she should probably have taken the instant she completed her circle.
+
+Toxic Slimes flew outward in an explosion of slime tossed in all directions by the barreling charges of the three enormous beings – the bear, followed by the two guardians. The entire battlefield of slime, and the now three Toxic Spitters, shifted and crawled in a grotesque writhing, wobbling reaction to the changing battle, shifting as one, and bearing down on Mato as he finally arrived in the circle and wheeled about to face the monsters.
+
+Mato roared, taunting the sea of slimes to attack him.
+
+You have gained Battle Trance.Your Poison has increased to 1898.Your Poison has increased to 1901 (+3).You have gained Battle Trance.Your Poison has increased to 1903 (+2).You have gained Battle Trance.…
+
+The notifications chimed continuously in the background, a frantic dirge that heralded his imminent death. Individually, the poisons were hardly worth thinking about, so low-level that he could quite easily ignore them. Often, he outright resisted the damage. But there were so many stacked up now that his health was in a precipitous freefall, held up by the lifeline that was the rapid and continuous healing from the Kobold Acolytes and Malika fighting beside him.
+
+He Swiped again, feeding his mana into Brutal Restoration. He dared not add his Bestial Combat, though – his health situation was way too precarious to spend that much of it to increase his damage. But therein lay the problem – without the extra damage, he was suffering with much-reduced healing from his own magic, serving only to compound the problem.
+
+His paw Swiped through the sea of slimes, slowing only on contact with the heavily armored Forest Guardian. Slimes flew, catapulted out over the battlefield by the power of his strike, but there were so many more crawling in to take their place. The wall of slimes surrounding him was several deep, threatening to consume him entirely.
+
+Ali better be doing something amazing, or we’re done for.
+
+A sudden potent surge in the power of the incoming healing magic told him that the second Kobold had used its emergency healing enhancement. He was intimately familiar with the skill, knowing exactly how long it would last, and precisely how much faster the heals would land. He Swiped again, this time risking Bestial Combat, trusting in the power of the Kobold’s magic. The health was torn away, fueling a much more powerful strike, making his life dip terrifyingly quickly, but the Kobold’s healing spell was right on time.
+
+He killed several of the small Toxic Slimes outright, shredded by his empowered strike, and Malika was right there to take care of those which survived. But for the ones that were catapulted out into the battlefield, they would simply return, already healed by the guardian’s aura.
+
+“Mato! Poison circle here!” Ali yelled.
+
+Oh, Ali! You’re a fucking genius. I could hug you right now! He let out a thunderous roar to tell her he had heard and strained against the roots binding him to the ground, ripping them to shreds. He flexed, tearing vines up from the sandy beach as he moved, dragging the guardian with him, but before he had taken more than even a single step, the roots were twisting and grasping, dragging him to a halt. He swiped again, clearing a few slimes out of his way, and ripped at the roots to take another step all the while trying to ignore the continuous chiming of new poison notifications.
+
+The healing quickened, and Mato knew that the final Kobold had resorted to emergency measures to keep him alive.
+
+Fuck, it’s too far. I have to… more, give it more!
+
+The accelerated healing would last no more than thirty seconds, provided the little Kobold had mana, and he was fighting for every step – Ali seeming unreachable, an infinite distance away.
+
+“Fireball!” Ali yelled.
+
+Oh, shit! Not that kind of more! His health spiraled down rapidly, and he was helpless to do anything about it, entirely at the mercy of the healers, and the timing of what would be a powerful explosion. He heard the sizzling flight of the magic ball of fire, and in the instant before it struck, he felt the twin surge of magic – holy and soul – one gently caressing, and the other tearing through his body in a dramatic contrast of healing, leaving him momentarily full, right as the fireball exploded.
+
+Guided by Survival Instinct, he closed his eyes just in time for the explosion, and his nostrils were filled with the stench of seared slime and his own scorched fur, while his flesh crisped and burnt in an instant, his body buffeted by the enormous detonation. Ugh.
+
+But he sensed the instant the roots weakened, burned and shattered by the potent magic. He wheeled on his hind paws, heedless of the massive Forest Guardian, and charged, accelerating rapidly across the scorched beach toward Ali. In a fraction of a second, his body cleared the boundary of the aura of plant growth, and he continued running as fast as he was able to where she marked the runic circle with her body.
+
+Run, Ali! Frantically, he roared at her. From behind him, he could already feel the ground-shaking charge as the guardians immediately gave pursuit, and for a moment he realized Ali was staring at him in shock. But before he reached her, she suddenly vanished, replaced by a Kobold blinking in surprise. Less than a second later, a golden barrier appeared beneath the Kobold and tossed him into the air.
+
+Mato skidded to a halt on the otherwise unremarkable stretch of beach where Ali had been standing.
+
+Am I…? His half-formed question was interrupted by a sudden burst of notifications confirming that he was indeed in the right spot.
+
+Poison removed. x3Poison removed. x8Poison removed. x4…
+
+The notifications began chiming in quick succession, all removals, surprising him with the speed and quantity. I do have a lot of poison. And he suddenly recalled that antidotes were more effective if they were much higher level than the poisons they were removing.
+
+While the two guardians were almost on top of him, the slimes were far slower and would take a bit longer to reach him. A nice breather, he decided as the poison removal chimes continued unabated. He set himself, lowering his center of gravity and bracing his paws, and unleashed his most potent Challenging Roar – perhaps more to bolster his own courage than for its Taunt effect – accepting the charge of the massive Forest Guardian with a shoulder block before he lashed out with a Swipe. He felt the regeneration aura boosting his own as Ali’s guardian crashed into the back of the wild one, and the annoying roots began grappling with him once more.
+
+But his health was stabilizing quickly, benefiting greatly from the window of time he had created by charging away from the slimes.
+
+“Mato’s health is stabilizing, let’s kill the guardian quickly,” Malika shouted.
+
+“On it,” Calen answered.
+
+A volley of golden Arcane Bolts whizzed by his ear, slamming into the Forest Guardian’s chest and shoulders.
+
+In the few moments that remained on the last Kobold’s holy enhancement, Mato spent his health to power his attack. His claws struck, shredding through the armor plates, leaving great tears through the bark and deep into the wood below, spraying sap into the air from the force of the strike. His Brutal Restoration pulsed powerfully, adding to the healing that was finally stabilizing his health against the still huge, but quickly reducing poison damage. The jagged gashes in the bark armor would be easy for Malika and Calen to exploit. And me too, he thought, powering a second strike as the slimes finally began to reach his new position. I’ll beat you into kindling, you overgrown tree!
+
+“The ooze is splitting again!” Ali called out.
+
+“Ignore it, the guardian is the key,” Calen answered.
+
+Mato simply roared, taunting all the monsters around him, reminding them that he was the target of their fury. He used it often, making sure none of the newly spawned oozes would wander off and attack the healers. It cost a lot of stamina to use it that way, but if there was one thing he wasn’t short of in this fight, it would be stamina – Battle Trance had never once dropped below five stacks since the oozes began attacking.
+
+“My Acolytes need mana. Malika, can you cover Mato?”
+
+“No problem,” Malika yelled. “I have more stamina than I know what to do with.”
+
+Inwardly, Mato chuckled, recalling that his Battle Trance boosted the regeneration aura he was sharing with Malika.
+
+His friends continued to shout back and forth, coordinating the diverse aspects of the fight that he wasn’t involved in. He did sense the change in the healer rotation, though. The female Kobold Acolyte’s magic was withdrawn, easily identified by the distinctive power and cadence to her spells. She was the highest-level Acolyte Ali had made, and Mato had come to rely on the precision of her spells. But everyone needed mana. Except for her, he corrected, feeling the burn of Malika’s inexhaustible healing magic replace the Kobold Acolyte’s efforts.
+
+He hunkered down, mostly ignoring the walls of oozes trying to overwhelm him, relying on the collateral area damage of his Swipe skill to take care of them, instead focused on making sure he kept at least two to three Living Rends on the guardian at all times. Now that the poison wasn’t running rampant and out of control, he could afford the health cost to ensure they could efficiently damage the monster. It was still challenging, and he was still timing the health cost by predicting the healers’ spells, but he was getting so much more familiar with that.
+
+After what seemed like an age, he Swiped another fully empowered attack, and the guardian trembled, collapsing to one knee, and then suddenly gave out with a crash that bounced most of the Toxic Slimes into the air for a moment.
+
+Mato roared, letting his frustration thunder up and out through his vibrating throat. The roots subsided as the giant monster died and he finally turned his attention to the enormous horde of slime monsters, swiping furiously with both forepaws. There were an unbelievable number of them, but on the second strike, Mato immediately felt the difference.
+
+They’re dying now. Instead of his Swipes being healed between strikes, the slime monsters remained damaged, dying to a subsequent strike, collapsing in droves as his much higher-level attack skills tore them to shreds.
+
+And after several minutes, he could tell that the horde was visibly thinning. Beyond the walls of slime monsters, the Toxic Spitters were still spitting up new monsters, but while there were now five of them, the rate at which they were churning out slimes had slowed to a crawl.
+
+No more healing aura for you, boys. He grinned a toothy grin as he confirmed what he had suspected for most of the fight. Calen was right, the Guardian was the key. It was a slog, and while he was no longer pinned to the ground, Mato resolutely refused to budge from his poison-curing runic circle. He had no idea if he could ever find it again under the sludge and goop if he moved.
+
+He leaned into his attacks, ignoring the burning of his overused muscles. It was a pain that would quickly be taken care of by his rapidly regenerating stamina, and he was eager to get through the remaining oozes.
+
+Surprisingly, it took less time than he expected to clear the Toxic Slimes – the low-level monsters died far more rapidly without the support of the regeneration aura. Ali even began tossing in the occasional Fireball to thin the ranks. By the time the last one was dead, all the giant Toxic Spitters were slamming him with their pseudopods, no longer able to spawn new slimes. A few minutes of focused fire later, they too splattered to the ground, punctured, and popped, dumping their foul-smelling goop everywhere.
+
+He wrinkled his nose, remaining in the circle to wait for it to finish cleansing him of the remaining poisons. He was tired and drenched, and he smelled like burnt slime. He shook his body, causing slime juice to fly off his fur in all directions.
+
+“Hey, stop that!” Malika exclaimed, holding up her hands to block the flying slime. She may as well have been trying to stop a rainstorm with her fingers, her hair was plastered to her head, and everything was wet and covered in gobs of slime. “Seriously, Mato?”
+
+He dropped his Bear Form, switching back to Beastkin so that he could have a chuckle at Malika’s expense, but his transformation magic did nothing to clean the goop from his body, and he found himself equally bedraggled.
+
+Fuck it, he thought and plopped himself down on the ground with a wet splat and opened his notifications.
+
+Your group has defeated Bamboo Crawler – Grass – level 23-31 x6.Your group has defeated Forest Guardian – Wood Elemental – level 53.Your group has defeated Toxic Spitter – Ooze – level 55 x5.Your group has defeated Toxic Slime – Ooze – level 1-12 x3017Druidic Shapeshifter has reached level 38 (+2).+20 attribute points.Arboreal Sanctuary has reached level 19.Swipe has reached level 25 (+2).Brutal Restoration has reached level 27 (+3).Bear Form has reached level 26 (+2).Bestial Combat has reached level 26 (+2).Natural Prowess has reached level 17 (+2).Survival Instinct has reached level 16.Battle Trance has reached level 9 (+3).Identify has reached level 9.
+
+“Holy shit, we did it,” Malika said.
+
+“Yup,” Mato said, offering her a fist bump. “Ali’s circle was clutch.”
+
+“You can say that again,” Malika said, punching his fist with a final flash of searing healing magic.
+
+“What was that about my circle?” Ali asked, grinning.
+
+“It was ok,” Mato offered. “Not too bad for a few hurried doodles…”
+
+“Hey!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

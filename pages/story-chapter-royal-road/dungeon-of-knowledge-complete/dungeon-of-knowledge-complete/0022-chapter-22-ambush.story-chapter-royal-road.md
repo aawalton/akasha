@@ -1,0 +1,263 @@
+---
+id: 93c9c9a2-f4ea-5ff3-aae2-58fa1c9aec71
+page-type-slug: story-chapter-royal-road
+title: "Chapter 22: Ambush"
+slug: 0022-chapter-22-ambush
+partOf: dungeon-of-knowledge-complete
+position: 22
+ownLength: 4963
+unit: words
+ownProgress: 4963
+publishedAt: 2024-02-18
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1523022/chapter-22-ambush"
+royalRoadId: "1523022"
+markedReadAt: "2026-06-29T20:11:43.486Z"
+---
+
+Stealth skills are uncommon, in truth, but we Pathfinders cannot afford to ignore them. Far too many have found themselves dead before they even knew what hit them, victims of Ambush attacks from the concealment of a good stealth skill.
+
+For those of you who wish to take the Tank role, you can mitigate the effects of stealth and Ambush by the simple expedient of having enough health and armor to survive, and further investing enough into endurance to blunt the danger of critical damage. But for the rest of us, our only choice is a solid investment in perception, and items or skills to neutralize the advantages of stealth.
+
+Even in duels between assassins, it is most often not the best dagger nor the highest dexterity that wins. The highest perception always provides an advantage.
+
+If you can hear the invisible rogue sneaking up behind you or see the sniper lining up a shot from the shadows, Ambush will fail. There are countless forms of stealth, and you will be forced to rely on the diverse skills of your group for long-term safety. But there is no substitute for your own investment in perception – it will keep you alive.
+
+- Lyeneru Silverleaf. Lecture to novice Pathfinders.
+
+Ali was jolted awake from the simultaneous chime of her notification and a fresh surge of pain. It was both worse than last time, but also somehow easier to manage. Or it seemed that way – this time, at least, she was able to stop herself from screaming out loud. Still, she tasted blood in her mouth immediately.
+
+You have been afflicted with Domain Withdrawal.Separation from your domain weakens you.-10% to maximum health.Affliction – Duration: Indefinite. Count: 2
+
+The way endurance mitigated pain without actually eliminating it was rather bizarre. The pain was still present, throbbing through her head like a debilitating migraine, but somehow, she was able to function.
+
+She hesitated for a moment, but then spent five more attribute points on endurance, reducing the pain to a much more manageable level. Always present, but possible to ignore. The only problem was that, with two counts of Domain Withdrawal, she was down twenty percent maximum health – she would need to be very careful to avoid being hit. As if that hadn’t already been a big problem with her racial disadvantage.
+
+Ha. Big problems for Tiny people.
+
+Ali rose from her uncomfortable bed on the cold dirty stone floor of a dark and ruined house. Breakfast was a brief affair, consisting of a couple of slices of an apple Mato produced from his pack, and then they headed back out into the streets and alleys of the ancient, deserted city.
+
+“I think I know where we are,” Ali said, after a few minutes, getting Mato’s immediate attention. “It looks a lot different than I remember, but we’re in one of the mid-level residential districts. The Grand Library Arcana is in the center of the city, it should be over that way.” She pointed. It wasn’t a precise direction, but it was the best she had. It can’t be too far, and we can always adjust when we get closer. “The surface was always accessible from the library, so I think that’s our best chance of getting out.”
+
+Unfortunately, that was roughly the same direction as the two skeletons they had run into before they hid for the night, but Mato didn’t seem to mind. He, at least, seemed confident they could avoid them.
+
+“Skeletons aren’t supposed to be too smart,” he noted.
+
+Ali raised her eyebrows. “Better to be killed by a smart monster or a brainless one?”
+
+Mato chuckled hoarsely. “Right. Love the positivity.”
+
+Following his lead, they were indeed able to avoid any encounter with the dangerous skeletons, skirting them while they wandered into a dead-end alleyway, and they pressed on through the next district. Progress was painfully slow as they were forced to check for tripwires and duck into hiding spots at regular intervals whenever they heard monsters passing nearby. The clicking or clattering of skeletons, or the chirps of hunting Kobolds – Ali quickly lost count of the number they had barely avoided, many of them too high level for her to even Identify.
+
+“There should be another main road just up there,” she said, studying the looming rise of the next terrace level. Somewhere along the main road, they should find a path up – access to the upper districts had been provided at regular intervals, and without the glowing magical shields running, they should have no trouble.
+
+Turning a corner, Ali found herself staring down a couple of green-scaled Kobolds, just as surprised as she was.
+
+Warrior – Kobold – level 6-7 x2
+
+The slightly bigger Kobold in the lead turned a scarred face toward them and instantly drew his sword, chirping the alarm. Without hesitation, both monsters rushed toward them.
+
+“We got this,” Mato said, shifting to Bear Form beside her and then charging to meet the oncoming Kobolds.
+
+I hope so, Ali thought, trying to reassure herself that they would be ok. Remember the noise might attract others. Keep alert. Mato was level six now and it was two-against-two, with her summoned Sewer Rats to break the tie. Mato’s large bulk slammed into the first Kobold, knocking it off balance as he swiped an attack that left bloody gashes across its torso and continued through, slashing high on the thigh of its companion.
+
+He remembered. Ali let out the breath she had been holding at the little flash of green mana, and the soft warmth of nearby nature magic washing up across the exposed skin of her forearms and face.
+
+“Go!” Her rats sprang forward immediately at her mental command.
+
+Picking on the larger Kobold in the front, Ali triggered her Arcane Bolts, launching her tiny missiles of glowing arcane energy into high-speed curving arcs around Mato. Malika had been right from the beginning, the target-seeking missiles were strategically powerful, and she was growing far more proficient in guiding them around her allies and summoned monsters.
+
+Ali gasped as something heavy slammed into her back. The cold hard stone of the pavement rose and smacked her in the face. Darkness pressed in as her vision dimmed briefly, and the warm gush of blood soaked her shirt, running down her back. Pain seared through the numbness. I’ve been hit! How?
+
+She jerked sideways as something gleaming hit the stone with a sharp clink. Ali scrambled away on all fours, panting, every shallow breath drawing a sharp stab of fresh pain through her lungs. Rolling to the side of the street, up against a gray stone wall, she finally came face-to-face with the hard reptilian eyes of a Kobold who must have been stalking her from the shadows. The dim light gleamed off bared fangs in a black-scaled face, and the amber blood dripping from the wicked dagger clutched in its talons.
+
+The dagger stabbed toward her neck with shocking speed. Ali summoned a barrier that snapped into place just in time to intercept the attack. She experienced a moment of intense relief as her barrier deflected the powerful strike without breaking, but she could tell it wouldn’t hold long. Scrambling backward along the wall, she left a trail of blood in the dust as she retargeted, sending her arcane bolts flipping around in mid-flight to slam into the black-scaled Kobold who had somehow appeared from nowhere.
+
+The Kobold made an annoyed hiss and rapped on the barrier with its claws before leaping clean over it in a feat of ridiculous agility, chirping and chittering angrily as it dove right for her. Again, she summoned a barrier just in time to block the deadly dagger strike, stopping the rusty blade a finger’s width from her face. She screamed again and scrambled away, still somehow maintaining enough focus to fire her arcane bolts.
+
+Calm down Ali, she berated herself, trying to emulate the sense of Malika’s composed voice offering advice when she had been afraid, despite the vicious Kobold trying its best to stab her. You have more spells. In her panic, she had entirely forgotten her basic tools. She took a breath and cast Grasping Roots on the rogue. Unlike her original cantrip magic, this spell did not require dirt and plants to grow – the thick gnarled roots, created entirely from mana in an instant, sprang forth from the stone pavement to tangle around the ankles and tail of the Kobold, binding it in place on the edge of the street.
+
+The Kobold screeched in frustration, frantically thrashing against its bonds.
+
+With a thought, she redirected one of her rats from the warriors behind her to attack and resumed her arcane bolts while slowly slipping herself backward into Mato’s aura. She had kept her distance initially because she was afraid of him losing control. She was still terrified of him – but this Kobold rogue had taken more than half her health in a single strike. At least, if she were close enough, Mato had said he could redirect damage to himself.
+
+While giving Mato more damage to feed his rage was an incredibly poor idea, dying in the street to an angry Kobold with a dagger was infinitely worse.
+
+With several slashes of the dagger, the rogue severed the roots and charged. Crap! Ali again blocked its advance with a barrier and then recast her Grasping Roots while it tried to sidestep to find an angle to strike. Unable to get to her, it hissed its frustration and stabbed her rat in the side of the head, killing it instantly.
+
+I can’t let it reach me!
+
+She risked crawling a little closer to Mato, considering redirecting her other rats, but she discovered that both had already perished in the fight with the other Kobolds – clearly too low-level to be a threat to these monsters. In her panic, she had not even noticed the loss of her mana reservation. The withering barrage of bolts finally dropped the Kobold on the dusty stone pavement, still bound by her root magic. Phew!
+
+Her relief was short-lived, however. Mato’s healing magic had a telltale greenish flicker which she had learned to recognize quickly. When she turned, she saw Mato still pinned down by the two canny Kobold warriors. There was no sign of his healing magic, just the red mist of his swelling Berserker rage.
+
+“Mato! Heal!” Ali snapped. She had forgotten to remind him in the midst of her fight with the rogue. Nothing happened. “Mato!” she screamed. Her voice sounded shockingly desperate even to her own ears, but Mato’s green magic suddenly flickered to life with his next strike, and she sagged against the wall. Better. Maybe he can learn?
+
+She summoned a barrier just in case. With a powerful strike, Mato took care of the injured Kobold warrior in front of him, and then spun to face the last one with a snarl and slashing claws. Ali unleashed a continuous stream of bolts that arced over his head and into the final Kobold until it, too, collapsed.
+
+For a long, agonizing moment, Ali crouched behind her barrier, trembling, ready to defend herself while Mato growled and paced, but after a while his bulky form began to stretch and warp, and he reverted to his Beastkin form.
+
+“You’re in control?” she asked, her voice cracking. She was in far too much pain, sitting in a pool of her own blood, to run.
+
+“Yes…” he said, sitting on the ground where he was without approaching. “It wasn’t easy, Ali, without you reminding me to heal, I think I would have lost it again. Thank you.”
+
+She watched while the red mist slowly dimmed as his restoration magic petered out. He was still hurt, and so was she.
+
+“Let’s rest,” she told him. She would need some space where they wouldn’t be disturbed, so she glanced around, spying the ruins of a larger house. “In there?”
+
+Once inside, she cleared a large section on the floor of what might have once been a living room, brushing the bigger bone fragments to the sides, and began to inscribe her restoration runic circle. It was the painstaking work of several minutes, but this time she was able to create it on her first attempt. By the time the magic snapped into completion, Mato appeared, dragging the third and final Kobold corpse into the room.
+
+Grateful for his thoughtfulness, she began to deconstruct it to recover her mana, and, noticing that he was waiting, she invited him to join her in the magic circle. “You need to heal, too,” she told him. She understood his reticence, and she had to have been making him feel worse by avoiding getting close to him. But having him healed as soon as possible would be the safest choice for both of them.
+
+Ali distracted herself by checking the notifications from the fight.
+
+Your group has defeated Dagger Rogue – Kobold – level 6.Your group has defeated Warrior – Kobold – level 7.Your group has defeated Warrior – Kobold – level 6.Grove Warden has reached level 8.+10 attribute points.Arcane Bolt has reached level 8.Barrier has reached level 8.
+
+I made a mistake. A big one.
+
+Malika had gone to great lengths to stress just how important vitality was, and how if she died, it wouldn’t matter what else she did. Unfortunately, she couldn’t decide exactly how she could have done better. If she hadn’t had free attribute points, she wouldn’t have been able to prevent the pain from her domain withdrawal by investing in endurance.
+
+I could spend it all on vitality now, but what if I need more endurance tomorrow?
+
+The only thing she knew for certain was that the unspent points were of no use to her at all. Especially in a place where Kobolds could appear from nowhere and stab half her life away in a single blow. That was far too close, she sighed inwardly, deciding to take Malika’s advice literally. She spent all her remaining points on vitality. Tomorrow will just have to take care of itself.
+
+Ali pulled out her Grimoire and was about to summon a new set of rats when Mato stopped her.
+
+“Do you have anything stronger?” he asked. “Those rats don’t last very long. Maybe the wolves? Those have pack tactics for fighting in groups.”
+
+“Aah, yes, I forgot.” Ali grimaced. “I think the wolves will be the same level as the rats, but if you think they are better for us – for this situation, I mean – I can make them instead.”
+
+He nodded gravely, so she channeled her mana, taking careful note of how much she could spare for creatures.
+
+Starving Wolf – level 1Your reserved mana has increased by +7.
+
+That’s worse. Her Sewer Rats had at least been level two.
+
+Starving Wolf – level 3Your reserved mana has increased by +20.
+
+“Nice,” Mato said as the level three wolf appeared.
+
+Starving Wolf – level 2Your reserved mana has increased by +13.
+
+That’s ok too, she thought. I can probably handle one more. She channeled her mana again.
+
+Starving Alpha – Wolf – level 5Your reserved mana has increased by +34.
+
+“Oh!” Mato let out an excited exclamation.
+
+“I didn’t know I could make those,” Ali admitted, puffing out her cheeks. She had wondered about it before but concluded that she would need to deconstruct several more of the pack leader wolves before she learned it.
+
+A little of the tension in her shoulders and neck eased as she watched the Alpha prowling among the smaller Starving Wolves, sniffing them, and establishing dominance with just his sheer size. A most welcome sight, indeed.
+
+“Maybe if the lower-level ones die and I replace them, we can get a few more of the Alphas,” Ali reflected aloud, wishing she could unsummon her creatures without making them go wild and having to kill them. I may want to do that anyway, she thought. Then she checked her mana and sucked in a short breath of surprise. Her calculations hadn’t taken into account the steep cost of the level five Alpha – taking a whopping thirty-four mana, it was nearly as expensive as the rest of her pack combined. Valuable mana that she wouldn’t be able to use for anything else.
+
+I don’t think I can afford another one. With a total of one hundred and fifteen mana reserved for everything she was going to have trouble lasting through a long fight. She could recover forty-two mana by releasing the Restoration circle, but she was still going to need to be careful with the mana cost of her other spells if she didn’t want to run out.
+
+I hate this. He was used to enjoying a good fight, but Mato found this place to be miserable. He was outclassed in every encounter, and he was often struggling to keep control of himself.
+
+She looks at me like I’m the monster. This was by far the worst part. And she’s right to be afraid. This was a dungeon – if Calen’s skill was to be believed, but the darkness of the place, the challenging level of the monsters, and being lost, all paled in comparison to the way she looked at him, her wide amber eyes filled with barely-suppressed fear.
+
+He had no idea if Calen and Malika were even alive. And Ali had almost died again – this time to a rogue. The idea of losing his friends, and him being unable to help, gnawed at him. When had he come to care for them so much? Was it merely the dangers they had braved together?
+
+He stepped over a tripwire and continued down the dark alleyway soon reaching one of the uncountable twisting dark streets that had long since blurred together in his mind with a sense of sameness. The only things to break the monotony were the sudden patrols of Kobolds, or occasionally skeletons that sent them fleeing into hiding whenever the monsters were too high level for them to face. Which is almost always the case.
+
+“We should be pretty close to the library now,” Ali whispered to him. “It should be around there, past the next residential district.”
+
+She had been directing their progress for most of the day and, slow as they were going, Mato still felt they had made some good ground. He peeked around the corner, spying a Kobold group on guard up ahead.
+
+Mage – Kobold – level 8Warrior – Kobold – level 9Rogue – Kobold – level 7
+
+Mage! He flinched involuntarily from the mere memory of that searing fire. “Kobolds. Can you handle the mage?” he whispered to Ali. “I can get the other two.”
+
+“Yes.” Aliandra’s steady response diffused some of the bite out of his anxiety. He had no desire to face the mages. Even though he had reached a much higher level now, and had a lot of armor, he had no defenses against their fireballs, and being burnt alive was not something he was excited to experience again.
+
+“Ok, I’m going.” He began his transformation, reminding himself to begin with his healing magic as he twisted into the shape of the bear.
+
+Ali nodded to him, and he charged, his skill lending power to his muscles and accelerating him across the stone paving to slam into the Kobold warrior before it could even react. He used Swipe and Brutal Restoration simultaneously, striking both the dark rogue and the tougher warrior in a single sweeping attack.
+
+At least she won’t have to yell at me from the start.
+
+The darkened street suddenly began to glow with the angry red light of fire magic. A chill ran down his spine, as his body reacted to the remembered pain. Trust her. Ignoring the impending fireball, he swiped a second time, welcoming Ali’s Alpha wolf to the fight. Shifting sideways, he used the wall to block the Kobolds from flanking him and instead sent his intent to the Alpha wolf with a growl overlaid with a pulse of empathic emotions and images. It responded with body language indicating agreement and shifted to flank the Kobold warrior. Taking advantage of his positioning, the Alpha executed a brutal rending hamstring attack, causing the Kobold to stumble.
+
+This is so much easier with a pack fighter. Especially with his Beast language proficiency aiding communication.
+
+The Kobold warrior recovered its balance and wheeled with a powerful slash, striking the Alpha in the face with the rusty steel blade, but Mato was ready. He intercepted the damage using his Arboreal Sanctuary, transferring it to himself instead. Anger exploded forth from deep within him as his Primal Rage skill fought for control. But his power surged too. This time, he managed to remember to use his Brutal Restoration skill as he lashed out with his Swipe, connecting with both the Kobolds in quick succession, and even knocking the rogue off balance.
+
+The warrior spun to attack him instead. That’s right; don’t show me your back! The rage began to ebb as his healing magic pulsed steadily, erasing his wounds. In the distance he could still hear the yelps and howls of the other wolves, and the whistle-thump of Ali’s bolts as she fought the Fire Mage. He was most annoyed by the warrior, so he focused his attacks on him, ignoring the smaller rogue and its pesky stabbing dagger. I have armor, you idiot! He sent the thought to the Kobold, even though it couldn’t hear him.
+
+The rogue swarmed into the attack with a complicated series of feints. Instinctively, Mato took advantage of a small opening to slam it into the wall with his paw. The Alpha, anticipating his attack, placed itself in the perfect flanking position taking the opportunity he had created to hamstring it. He followed his surge of satisfaction with another swipe, knocking the hamstrung Kobold sprawling across the stone pavement with blood splashing from several deep claw gashes.
+
+Beyond his world, the darkness glowed red again, and the heavy thump of a detonation shook the ground, but he ignored it, taking a wicked slash on his shoulder to savage the downed Kobold.
+
+“Mato, heal!”
+
+Heal… oh! He suddenly remembered to use his spell, applying it to the next attack, and a rush of soothing energy flowed through his body, easing his pain, and slowly clearing away the fog.
+
+A soft chime sounded in his mind, and suddenly a stream of golden magic bolts arced over him and slammed into the rogue that was hamstrung between him and the Alpha. It panicked and tried to run. But it was still limping badly from bone-deep gashes in its lower calf, and the lingering effects of the Alpha wolf’s debilitating Hamstring attack prevented it from getting too far before the chasing bolts killed it.
+
+The bolts, mid-flight, suddenly switched direction and began raining down on the unfortunate Kobold warrior. It screeched and lashed out with a frenzy of slashes. Down to one enemy, Mato ignored its blade and simply unleashed attack after attack at the Kobold, reveling in the ripping of scales and the spray of blood, until it, too, collapsed from the onslaught.
+
+Your group has defeated Fire Mage – Kobold – level 8.Your group has defeated Warrior – Kobold – level 9.Your group has defeated Dagger Rogue – Kobold – level 7.Druidic Shapeshifter has reached level 7.+10 attribute points.Arboreal Sanctuary has reached level 6.Swipe has reached level 5 (+2).Bear Form has reached level 6 (+2).Brutal Restoration has reached level 7.Identify has reached level 5.
+
+His restoration magic continued to pulse, slowly mending his wounds and freeing his mind from the grip of Primal Rage. He shifted, reverting to his Beastkin form, and breathed a sigh of relief.
+
+I’m still in control. Better. That was much better.
+
+“How was your rage?” Ali had lost all her lower-level wolves in the fight – they lay strewn across the street, still smoking from the aftermath of the fire. The only exception was the Alpha Wolf standing beside him.
+
+“It was easier to manage this time,” he said. Realistically though, this fight hadn’t been nearly as hard as the ones which had put him in danger and their strategy had helped him enormously. “I leveled up to seven, and Bear Form got two levels, so I have more armor.”
+
+“That’s good,” Ali said, sounding relieved.
+
+“I’ll spend all my points on vitality. That should help too.”
+
+Ali sighed, visibly relaxing at his words. I never want to see her terrified of me again.
+
+He carefully moved to drag the corpses into a nearby house so that they could set up camp and Ali could use them for mana. It had been a long and stressful day, but winning this fight relatively easily had put him in a better mood.
+
+Ali inscribed her healing circle for them and while she finished up barricading the doorway with several sizeable chunks of stone and deconstructing all the corpses, he sat within the circle feeling its soft healing magic restore his body from his wounds. He had been sitting quietly for several minutes when his notification chime surprised him. Curiously, he summoned the image of the giant oak in his mind, immediately noticing a denser vibrance to the aura of transparent leaves that swirled about its lower branches. New writing appeared upon the trunk glowing the familiar green and he drew closer to study it.
+
+Requirements met for skill advancement. Survive a fight with less than 5% remaining health.Vitality has reached 50.Recover more than 1000 health from your own healing magic.Recover more than 1000 health being healed by an ally.Arboreal Sanctuary gains Advanced Regeneration.Arboreal Sanctuary – level 6You emit a spherical Sanctuary aura of nature magic centered on yourself. Range: 11.8 feet.Your natural health regeneration rate is increased by +107.9% [100 + skill + wisdom / 10] and you can recover even from critical injuries. Your regeneration is shared with allies (including animals, beasts, and plants). Range: Sanctuary.Mana: You can redirect damage from anyone to yourself. Range: SanctuaryNature, Domain, Area, WisdomAccept this advancement?
+
+He stared at the notification in stunned silence for a long time.
+
+Five percent.
+
+It had been that close – that first fight after falling down the hole. The rest of the requirements seemed crazy, but nothing came close to that one. He was always being hurt, and his healing and Ali’s circle needed to do a lot of work as they crept through the darkness. Even now, the restoration circle was still working hard to heal his body.
+
+“Mato?” He realized she had been shaking his arm.
+
+“Sorry. I got a skill advance, Ali,” he said, sharing the update. The advance itself was substantial – his health would now regenerate, just like mana and stamina did, healing even the most severe injuries given enough time – if he understood the skill correctly.
+
+As a passive skill, it wouldn’t require any mana, or even that he was conscious. Most people had to rely on potions or healers to recover their injuries, but, provided he didn’t die outright, he would heal automatically.
+
+“That seems very good,” Ali observed quietly. “How much health do you have now?”
+
+“Five hundred.”
+
+Ali coughed and stared at him for a moment before speaking. “If you can recover a bit more than five hundred per hour,” she muttered a bit under her breath, clearly doing some arithmetic, “that’s nearly nine health per minute!”
+
+“I can share my health regeneration with you and your minions too,” Mato said, beginning to appreciate the second part of the advance more and more. Already there had been numerous times when he was fighting side by side with Ali’s Sewer Rats or Starving Wolves. Even though it would only amount to a slow trickle of healing over the duration of a normal battle, any amount of healing was worth it. “What do you think?”
+
+“It will definitely help,” Ali said.
+
+That was enough for him. Mato nodded and accepted his first skill advancement.
+
+Immediately, Ali glanced at him in open surprise shuffling backward a few steps, and then a few more, before she advanced again. She said, “How interesting! Mato, you’re not just sharing health regeneration. My stamina and mana regeneration are higher in your aura.”
+
+“Are you sure?”
+
+“Yup, look at this,” Ali answered and then shared her regeneration numbers with him. “This Sanctuary buff shows up as soon as I step close to you.”
+
+Health RegenerationPercentage of maximum health regenerated per hour.
+
++107.9% Sanctuary.Total: +107.9%Stamina RegenerationPercentage of maximum stamina regenerated per hour.+100% Racial (Fae).+100% Sanctuary.Total: +200%Mana RegenerationPercentage of maximum mana regenerated per hour.+100% Racial (Fae).+100% Sanctuary.Total: +200%
+
+“How in the world?”
+
+“Look at your skill description again,” Ali said. “It has two clauses – the first one grants you passive health regeneration, which almost nobody has. The second clause shares your regeneration with your allies – it doesn’t specify which kind of regeneration, so it must mean all of them. You must have a base racial regeneration of one hundred percent per hour for mana and stamina, just like me?”
+
+“Wow, that’s far better than I thought!”
+
+***
+
+Name: Mato BahrRace: Beastkin Buffs: Bear FormClass: Druidic Shapeshifter – level 7- Arboreal Sanctuary – level 6- Swipe – level 5- Brutal Restoration – level 7- Bear Form – level 6- Wolf Form – level 2- Primal Rage – level 6- [Locked]- [Locked]- [Locked]- [Locked]General Skills- Identify – level 5- Cooking – level 4- Wilderness Lore – level 5Aptitudes- Languages: Common, Beast- Mana (Affinity): Nature- Strong (Racial): +7 Strength- Tough (Racial): +10 EnduranceAttributes- Vitality: 50- Strength: 33- Endurance: 34- Dexterity: 7- Perception: 6- Intelligence: 8- Wisdom: 19Armor: 190Physical Damage Reduction: 49.22%Health: 500/500Stamina: 340/340Mana: 190/190

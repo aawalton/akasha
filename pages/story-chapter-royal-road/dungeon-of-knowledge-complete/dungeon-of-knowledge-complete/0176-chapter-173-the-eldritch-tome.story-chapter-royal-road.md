@@ -1,0 +1,331 @@
+---
+id: 02bf82b0-d3d5-597c-a4d8-b2553d305494
+page-type-slug: story-chapter-royal-road
+title: "Chapter 173: The Eldritch Tome"
+slug: 0176-chapter-173-the-eldritch-tome
+partOf: dungeon-of-knowledge-complete
+position: 176
+ownLength: 6606
+unit: words
+ownProgress: 6606
+publishedAt: 2024-12-22
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1969249/chapter-173-the-eldritch-tome"
+royalRoadId: "1969249"
+markedReadAt: "2026-06-29T20:17:00.604Z"
+---
+
+Ali stretched, rolling her neck side to side and hearing several loud pops from her tired muscles as they loosened. She placed the final book – the original – on the top of the large tower of assorted tomes beside her, done at last with the task of copying the mountain Ryn had collected. Quickly verifying that her version was accurately copied, she got up and added it to the bookshelf beside the table, ready for her friend to categorize and sort into their growing library. Her skills were becoming so accurate at copying them now that she had to be careful to not muddle them up, but, even with the incredible fifty percent boost to her spell haste from Arcane Recall’s passive mastery, it had still taken the better part of an hour to complete her chore.
+
+But the books Ryn had selected from Ciradyl’s renowned collection were extraordinary – deep theories on the nature of spell construction, practical guides to leveling your skills, unique and niche enchantments, martial arts styles – Malika was going to love some of those – and even several fascinating accounts of the ancient history she had missed in the thousands of years she had spent in magical stasis. Ryn had a sense – a deep intuition – for what mattered. Ali would be spending every free moment in the library studying these new works – taking the time to properly understand the concepts, rather than the frenetic cycle of memorization, copying, and then purging the memories to make space for the next book in the pile.
+
+A burst of gold-and-violet mana twisted out over the atrium and suddenly Ryn materialized, seen through the eyes of Ali’s watchful Kobolds. Ali snapped her head up, immediately certain something was wrong; Ryn’s head was bowed, and she just hung suspended there with her wings vibrating, shoulders shaking.
+
+She’s crying!
+
+Ali dropped her book and shot up to comfort her friend, “Ryn? What’s wrong? Is everything ok?”
+
+“It’s nothing,” she sniffed, glancing at Ali with red-rimmed eyes and then looking away.
+
+“But… you’re crying?” Smudged ink was spread across her face where her hands had been.
+
+“I’m… ok,” Ryn said, gasping through the sobs, hovering in the air as if unsure what to do.
+
+Ali stared at her for a moment, frustrated that she didn’t want to share what was bothering her, but it didn’t take much to realize that Ryn wasn’t ready to open up. Whatever had caused this didn’t seem to be immediately life-threatening or dangerous, at least.
+
+“Would you like a cup of tea?” Ali asked, changing tack.
+
+Ryn nodded, sniffing, and allowed Ali to lead her down to the couches. Ali filled the kettle, preparing the tea leaves and offering a small-talk monologue to fill the space while she let it steep. Ryn curled up on the couch with her arms wrapped around her knees, just listening. Using the pretty cups Ryn had found at the market, Ali poured one for each of them and then joined Ryn on the couch. Hidden within the base of each cup was a simple runic structure that kept the heat on the inside, making the outer surface cool to her touch, but it would keep the tea warm for much longer.
+
+Ryn took a sip and sighed. “Thank you, Ali.”
+
+“You’re welcome.”
+
+“I lost my job,” Ryn blurted out, followed by a sudden waterfall of tears.
+
+“Oh no! The bookstore?” Ali exclaimed.
+
+Ryn nodded.
+
+“I’m sorry, Ryn,” Ali said. Ryn loved The Reading Corner, always happily immersed in the books of the store, sorting them, and reading. They had both spent many happy hours discussing stories in that bookstore.
+
+“It’s ok,” Ryn repeated herself, but Ali could see it was anything but.
+
+“I knew the owner wanted to retire – I’ve known for a while. He finally picked out a new home down south by the ocean.” Ryn sniffed and then picked up her tea again for another sip. It seemed to calm her down a little because she continued to share with a steadier voice. “He told me yesterday that he had sold the store and the new owner would be coming by today. The new owner is with the Hawkhurst Trading Company – they have wanted to buy the store for ages, looking to get into the book trading business between the nearby cities. I don’t know why, but I just assumed I would be working for them too, but they told me to leave today. They want to employ their own people.”
+
+“I’m sorry, that’s horrible,” Ali reached over and tried to comfort her friend by squeezing her hand. She had a personal grudge against the Hawkhurst Trading Company, both for how they had treated Malika, and how Jax Hawkhurst had behaved towards her at the Town Council trial, but she kept silent about her own feelings. She was just happy Ryn wouldn’t be working for such a crooked boss.
+
+“I mean, I should have expected it. They have no obligation to keep me on,” Ryn said. “But I still feel so discarded, like I wasn’t even worth considering.”
+
+They sat in silence together for a few moments.
+
+“Is there anything I can do to help?”
+
+“Can I have a little more tea?” Ryn asked, holding up her empty cup.
+
+“Certainly,” Ali said, springing to her feet and pouring some more from the teapot which was still steaming on the tea stand. “Here you go.”
+
+“Do you mind if I just hang out here for a while and mope while reading some books?” Ryn asked. “I think I’ll feel better after a little quiet time.”
+
+“Of course,” Ali said, “this is your library too, you’re always welcome here.”
+
+Ryn gave her a wan smile, “Thank you for listening, Ali.”
+
+As soon as Ali saw Ryn was comfortable on the couch with fresh tea and a book to read, she got herself a book, and the two of them passed the time reading.
+
+***
+
+Ryn shut her book and lowered it to her lap. The tears were gone, and she even had a small smile on her face. The book Ali had suggested was a delightful story – she had read it herself a few days ago. She put her book down and smiled back at her friend.
+
+“I finished copying all those books you brought yesterday,” Ali said. “There are some really good ones in there!”
+
+“I know, I was really happy with that set,” Ryn answered.
+
+“Oh, and congratulations on level twenty.” Ali had noticed Ryn’s level as soon as she teleported into the library, but it hadn’t seemed the right time to mention it while she was crying.
+
+A look of momentary confusion passed across Ryn’s face, and then she exclaimed, “Oh! I missed it!”
+
+“Did you get anything nice for your skill unlock?” Ali guessed Ryn had been in the middle of being fired when Ali was duplicating the books, and that was probably the reason she had missed the notification of her level-up. At least hitting level twenty was a good milestone for most classes – Ryn could certainly use something to cheer her up.
+
+“Let me see…” she looked off into the distance for a second or two and then answered, “Summarize, Runic Script, and Teaching – those are my choices. I can summarize books that I touch, understand and write magical script, or help people learn from books with teaching. What do you think?”
+
+“Is that Runic Script the same as my skill?” Ali asked, her curiosity instantly piqued by the familiar skill name. It was a highly sought-after skill for arcane and magic scholars, and Ryn’s class was based at least in part on arcane magic too.
+
+Ryn shared the description, which read almost identical to her skill when hers had been level one. “I really like Runic Script…but I’m biased,” Ali said. “It’s the same skill I have. Although, I guess you will be able to use divination runes instead of nature.”
+
+“This is the skill you use to read the spells inscribed in the magic books, right?” Ryn asked, her eyes alight with a fresh excitement.
+
+“Yes! And it lets me write them with my mana when I copy the books,” Ali answered, “I can read any magic, and technically write it, but I can only use nature and arcane mana, so the spells only work when I’m writing my own mana affinities. It doesn’t matter for books though, because the spells are just the formations, not actually activated.”
+
+“I think I want it, too; it will help me understand more of the books we are collecting. It’s almost like knowing a new language, right?”
+
+“Yes, that’s a good way to think of it,” Ali answered. “The written language of magic.”
+
+“Ok! I took that one,” Ryn said, after a brief pause. “Are there any runes you can teach me?”
+
+“Sure!” Ali smiled. It was good to see her friend back to her normal curious self. Losing her job at the bookstore must have been a hard knock, but Ryn was resilient and bounced back quickly. She was sure it would still be a sore point for her for a while but learning something new was a great idea – and a good way to take her mind off her troubles for a bit.
+
+“I have a spell called Cleanse – an arcane runic circle for removing dirt and grime,” Ali said. “It’s the easiest one I know, so let’s start with that first. Ready?”
+
+Ryn leaned forward, eager to learn and Ali poured her mana into Sage of Learning to enhance her ability to teach her knowledge.
+
+***
+
+Ali sat back in her chair and let her gaze roam around the room. They were nowhere near filling even this level of the ancient library, but several of the shelves beside the area with couches and tables were now full of books. Perhaps it would take years to finish, but the sight of her collection made her feel warm and happy inside.
+
+Mato and Calen had not returned from town yet, and so she found herself with a surprisingly free afternoon. Lira sat quietly nearby, content to relax with her tea and a book Ryn had recommended. Ryn was deep into her book on arcane runes, her favorite Kings and Emperors board set up on the table beside her – one of the few possessions she had retrieved from the bookstore. Malika sat cross-legged on the floor reading one of the martial arts manuals Ryn had found in Ciradyl with the Nine Paths of Ahn Khen stacked up beside her, presumably so she could study those next.
+
+Ali’s roaming gaze soared out past the walls of the library, alighting in the senses of her minions as she rippled out across her domain. Everything seemed quiet. Everything, except…
+
+Irregular thumps of footsteps echoed in her mind, followed by the steady beat of several hearts. Connected with the senses of her newest Toxic Slime boss in the middle of the sewer, she knew someone was approaching, but with its strange senses, it was hard to tell who.
+
+She sat with it for several moments, examining what she felt. Is this how Naia sees the world? Each heart felt different, some quicker, some louder. There were definitely five unique heartbeats. She could even feel the shape and guess the type of boots that pressed into her moss or struck the crumbling brick. But try as she might, she could not guess who was sneaking toward the chamber – learning to use this boss as an early warning sentinel for her dungeon was harder than she had anticipated. Flickering across the tunnels, she split her awareness into a nearby Kobold and peered around the corner.
+
+Oh, that’s Belmar. Relief washed through her as she recognized the gruff Dwarf from her shrine ceremony, and his white priestly robes easily gave away his class – only slightly stained with mud and moss. She spent a few moments studying them, familiarizing herself with the newly formed novice group, trying to memorize the vibrations of their heartbeats and attach that sensation to their faces and names in her mind. Surprisingly, Sage of Learning helped more than she expected.
+
+As they set up for an attempt on her boss, she left them alone, trusting that Vivian had ensured they would be properly prepared. If she learned to recognize all the adventurers, it would be far easier to tell the difference between them and intruders.
+
+Ali’s awareness settled back into her own body, relaxing a bit now that she knew she wasn’t under immediate attack. My biggest problem is mana. She had some fantastic, well-crafted fire resistance gear now, both for herself and her minions, and she was eager to try her newest pieces. The two new bosses she had made with domain-enhanced perception significantly improved the surveillance of her domain, at least in the sewers, taking one of the most urgent items off her list. Clearly, she needed to familiarize herself with their abilities more, but it was progress. However, she still struggled to develop her domain and defenses properly, primarily due to a critical lack of mana. It was unfair just how many high-level monsters the Emberforge Mine could afford, and she couldn’t even make a Flame Spinner boss as a source for Flame Web because it would be too expensive to reserve. Not even a boss, she thought. Just a few of the high-level spiders would bankrupt her.
+
+Traps are free, she thought, pulling out a notebook. While not as versatile as monsters, her domain would fully support any traps she made, completely covering the maintenance reservation. There were limits of course. She couldn’t just stack up thousands of traps in the same place without overloading her domain in the area, but she could certainly make more traps and learn more powerful spells to use with them. And I have a lot of magic books now…
+
+A flicker of movement drew her attention and her eyes alighted on the heavy, scratched Eldritch Tome containing her mother’s life’s work, somehow innocently resting on the table right beside her pile of completed books. It had most certainly not been there when she started. Strange events like this were precisely why she had been avoiding it.
+
+The book had scared her while she was in the grips of her Arcane Recall spell, but somehow it seemed to want to protect her. Ever since, she had found it in random places within the library, almost always within arm’s reach. It’s silly to be afraid of a book, she chided herself, deliberately trying to ignore the fact it was actually a monster that she was unable to even Identify. It was still her mother’s book, and her mom had been one of the most acclaimed researchers on the nature of magic in an age when many historians believed the understanding of magic had reached its pinnacle.
+
+Ali recalled her struggles when trying to inscribe Calen’s light magic with her mana and runes. I wonder if there’s something in there that can help me? While she had memorized the book once to copy it, memorization did not require understanding – and she had long since purged the mental images of the pages. She reached out a hand to pull the heavy tome over to her. It bounced excitedly. Ali snatched her hand back with a startled yelp. But the book’s cover popped open, and the pages flipped furiously past until it fell open at a chapter on Tithe Enchantments.
+
+Gingerly, now, she reached out once again. This time, the book made no sudden movements, but still, it seemed to quiver under her fingertips. Screwing up her courage, she flipped the pages back to the table of contents, still not sure how she felt about the prospect of reading a monster, but she found a chapter on mana translation that seemed rather promising and began to read.
+
+But after several hundred mana burned to her Sage of Learning, she felt she was not even beginning to understand. It was a concept built upon a foundation of learning and understanding for which she had not begun to fathom the basics.
+
+What the heck is ‘Authority’? As best as she could gather, her mother’s core premise was that all power derived from a single source. Something she referred to as Authority. Every affinity of mana, and even stamina or life arose from it. The endless richness of traits and experience seemed to derive from interactions between Authority and the fabric of the realm itself. Whatever that means. What she couldn’t fathom was whose authority it referred to. Or what – it seemed unclear. Even what it was an authority over. Perhaps all of reality? The only thing that made sense was that apparently, this was the reason affinity translation might be possible at all.
+
+Ali sighed and closed her eyes, massaging the back of her neck with her fingers, hoping to avert the beginnings of a headache. Her eyes snapped open at the rustling of pages and she found the book once again open to the chapter on Tithe Enchantments.
+
+“Hey, you lost my place,” she grumbled, venting her annoyance aloud at the book. To her dismay it shuffled backward a little, drooping its pages as if remorseful, and slowly turned back to where she had been reading.
+
+“Um… thank you?” she said, feeling unexpectedly guilty, like she had been overly harsh with a misbehaving puppy. And now I’m talking to a book…
+
+While the book had returned her to the place she had left off, she decided that mana translation was beyond her ability for now and spent a little time browsing the other chapters before pausing when something caught her attention.
+
+It seemed she had found a chapter devoted to the efficiency of various runic formations, but the spell being used as an example was one that seemed well within her grasp; a spell called Arcane Blast. Maybe… a new trap? Given that it was an area damage spell, and in one of her affinities, she saw no reason she shouldn’t learn it at once.
+
+First, she read the spell itself using her Sage of Learning, mastering the basic runic formation. Once she was certain she had it, she read through the discussion on rune efficiency. Again, the concepts were challenging to understand without her mother’s years of mastery, but with the spell freshly memorized, she found herself becoming more and more absorbed in the runic manipulations which aligned something referred to as ‘mana currents’ within the construct, yielding a more potent transfer of mana to energy. According to this, the proximity of certain runes could cause the mana currents to bleed over into unwanted parts of the runic structure, creating resonance or echoes in poor places. If the analysis was to be believed, such effects could also be exploited to amplify the spell, if arranged correctly.
+
+After nearly an hour of further study, Ali finally gave it a try.
+
+Arcane Blast – Linked Magic – level 51 (Arcane)Releases a spherical blast of arcane magic from the circle.Detect: Humanoid (exclude Minions)Runic CircleRunic Script has reached level 27.
+
+She pushed the heavy tome away, examining her creation. She had applied all the runic transformations she had been able to grasp from the dense and obtuse text – far from all that was suggested – and now that she saw the final construct, she understood their purpose in a much more practical way. She could literally see the flow of mana through the runic circle and the unintuitive runic choices and placements definitely made an enormous difference.
+
+This should make a great trap, she thought to herself. She needed some better defenses in the forest cavern at the entrance below the sewers where all the zombies were entering. As they had delved deeper into the Emberforge Mines, she had been cannibalizing from her defenders to afford better minions. A few of these traps, well placed, would go a long way to improving her defenses.
+
+Perhaps a lower level though, she decided. It would be heartbreaking for a newly bronze-ranked adventurer to walk over an unseen level fifty-one trap and die. A trap closer to level twenty-five would be just as effective against the typical undead but not quite as deadly to the adventurers. I can keep the high-level ones for the jungle and to protect the library. There were two spawning pools down there, and a higher-level dungeon, after all.
+
+As she was studying her newest trap, she heard the rustling of paper and glanced up to find the book frozen, a page halfway turned. Nothing happened as she stared at it. Slowly, she pretended to look away. The page turned, and the next one began to flip. As soon as she looked, it stopped again.
+
+What is it doing?
+
+She looked away, and there was a frantic rifling of paper and by the time she looked back, the book had stopped, once again on the same chapter on Tithe Enchantments. With little scooting motions, the book shuffled itself toward her and then stopped. Like I didn’t just see that!
+
+“Why do you want me to read this chapter so badly?” she asked.
+
+But it was a book. She wasn’t sure what kind of response she expected. It just bobbed up and down a little.
+
+May as well, she decided, eyeing the chapter. The first two pages were mostly background information that she already knew, explanations of the various kinds of tithes, and how they worked. There were a few she hadn’t encountered yet, like the commander and the soldier variations, or the fealty one, but she supposed that made sense.
+
+I still don’t know what it wants. As she reached over to turn the page, an almost imperceptible formation of mana flickered outward through the spine and suffused the pages before vanishing. Ali snatched her hand back instantly, fearing the return of the magical barrier teeth, but nothing moved. The brief glimpse she had caught looked a bit like her ring’s storage magic, but vastly more complex. Almost as if impatient, the book began turning the page for her.
+
+The first thing she noticed as the page peeled back was the page number.Page 4̵̡͚̠̹̑̔͌5̶̢̨̡̛̜̲̞̎̆͗̅͋͂͛̆̈́ͅ8̷̻̜̳̜̞̫̗̮̠̜͈́̄̏͒̍̑̒͘7̵̝̩͍̍͑2̴̠͔͔̰͈̯̓̓͜2̸̨̧͈̗̦͎̹̰͚͓͐̈́̀͂̚̕͘1̶̢̢͍̱̺̻͇͌But her attention was instantly caught by the vast complexity of the mana formation that sprang forth as the book fell open. Leaping out from the page was the single most intricate magical structure she had ever seen – more complex even than the biggest imprint she had recorded. It hovered there, scintillating, sparkling, and pulsating with beautifully delicate mana tracery that rotated in and out of existence as if traversing through paths in higher dimensions. Ali couldn’t even make out any of the runes, such was the densely interconnected nature of its construction – all she received from her skills was a sense of overwhelming density and an exquisite progressive refinement of infinitely recursive detail that exceeded any ability of hers to even detect.
+
+“What is that!” Ali gasped. The only thing she could think of was that it reminded her of the sight of Thuli imbuing his mana signature upon Kavé when he offered her his mana for mentorship. She leaned forward to study it, ignoring the sensation of her Sage of Learning burning through her mana.
+
+Suddenly her notification chime sounded.
+
+The Nature of Magic, “Clarence”, Eldritch Tome offers its patronage.Mentor Patronage – ClarenceTraits: Magic, Knowledge, Arcane, Intelligence, Wisdom, Perception, Domain, Runic Magic, Tithe, Language, Reading.Experience gain is increased for actions aligned with your mentor, or under their supervision. Gain additional skill unlocks and advances aligned with your mentor’s traits and experience.A portion of your increased experience is awarded to your mentor, increasing their reputation.Enchantment – TitheAccept this patronage?
+
+“Your… your name is Clarence?” Ali asked, latching onto the most mundane of details she could, to prevent herself from bursting into tears over this silly book for the second time. It bobbed eagerly, shuffling a little closer to her.
+
+“What’s wrong Ali?” Ryn asked. Ali looked up at her and saw Lira, Ryn, and even Malika hovering beside her, concern clearly etched on their expressions.
+
+“The book,” she pointed, blinking to hold back the welling of emotions in her eyes. “It – it is called Clarence – offered me a mentorship.”
+
+“I… I think you should accept, dear,” Lira murmured, and for the first time in her memory, Ali heard astonishment, awe, and shock in the ancient dryad’s voice as she too stared at the magic projected from the page. “That is your mother’s magic, what little of it even I comprehend.”
+
+“Mom?” Several drops fell to her cheeks, but she spared no thoughts for them, staring instead at the book and the shimmering magic on the page.
+
+“Only Elowynn’s genius could divine a way to mentor you from three thousand years in the past. This magic was once your mother’s mana signature, given the ability to grow with her unique brilliant insight. It has somehow become the core of this book.”
+
+Ali stared in amazement at the magic her mother had wrought, and the Eldritch Tome that was baring its heart to her. She had no doubts.
+
+“Thank you, Clarence,” she said, and gratefully accepted its offer of patronage.
+
+Your Patrons have been updated.
+
+The book snapped shut in an instant and then took off, flying around her in excited swoops and rolls before it alighted back on the table and bounced a little, while Ryn clapped her hands in delight. “Clever book!”
+
+The tome rose to make a droll dip in the air as if bowing to her, before shaking with what looked suspiciously like unseen laughter and returning to its preferred position on the tabletop.
+
+Lirasia clapped her hands softly. “Well, I do believe this calls for a bracing cup of tea, what do you say, dears?”
+
+Mato carefully ladled the stew into bowls for everyone and passed it out, keeping his expression entirely neutral. Stew for breakfast was a little strange, but he passed it off with a taciturn, “Leftovers.”
+
+He hadn’t mentioned his excursion to the slums yesterday and he sat down and began eating, keeping a surreptitious eye on the others.
+
+You have become Well-fed.+4 to Vitality.Duration: 6 hours.
+
+Calen sat bolt-upright, beginning to yell, “What?” before he choked on his mouthful.
+
+Mato swatted his friend’s back. “Alright?”
+
+His creation had worked, and while it wasn’t a particularly large boost, it was vitality, which was arguably the most important attribute. And it lasted a whopping six hours – more than enough time for their delve into the mines today.
+
+“What did he just – uh, Mato?” Malika spluttered.
+
+“Oh!” Ali’s exclamation followed moments later.
+
+Calen opted to finish his mouthful in silence, but the look of surprise on his face was more than enough.
+
+“What’s the matter?” Mato rumbled, and then chuckled. After the appropriate outrage at his feigned ignorance, he shared his story, with maybe a few embellishments, particularly with how awful Tabitha’s first stew had tasted.
+
+***
+
+Time for a rematch! The thrill of excitement rushing through him made his ears prickle as he gazed once again into the Landing – the giant chamber stretched out before him filled with elementals. Shards of Flame drifted back and forth, weaving their way around the much larger Living Flames.
+
+“Did anyone else notice their mana regenerating in the Living Flame aura last time?” Ali asked, suddenly.
+
+“It regenerates stamina too,” Malika answered. “Not much, but it’s nice.”
+
+Now that’s useful, he thought. He had not noticed the effect himself, but this time he would pay more attention. He retrieved a red elixir from his storage, studying the expensive concoction.
+
+Elixir of Fire Resistance – level 41Consume: +20% to resistance against fire damage. Duration: 1 hour.Created by Morwynne Fizzlebang – “A little less burn.”Potion
+
+“A little less burn,” he chuckled, imagining the words in the voice of Morwynne before he downed the elixir. As soon as he stored the empty vial, he shifted to Bear Form, pulsing his mana through his armor to make it shift with him, enjoying the feel of its reassuringly solid weight resting on his shoulders and back. In the mines, lit only by lava and elementals, the dark, banded plate armor gleamed reddish, taking on the ambient color of flame. The elixir, and its one-hour duration, was a godsend for him – unable to drink regular potions, it gave him solid protection for the duration of most fights.
+
+Clearing the dungeon all the way down to here had taken just a little over an hour, including the Flame Broodmother, which Calen insisted they couldn’t sneak past. But he didn’t mind that; they were getting much better, and he liked pitting his strength against the heavy-hitting spider.
+
+“How about here, Mato?” Calen asked him, picking out a spot quite a way back from the entrance. “If you tank it here with your back to the wall, we should be safe from getting blown back into that cavern again.”
+
+Mato dipped his head with a huffy grumpy-bear growl, setting himself up a couple of feet further to the left of the location Calen had picked – a little more distance from the open and inviting archway.
+
+“That works. Getting the first one,” Calen said, vanishing into the shadows.
+
+Bring it. These monsters had sent them packing, and now they would turn the tables on them.
+
+Out in the Landing, brightly lit by the many flame elementals beyond the ancient stone archway, one of the Living Flames whirled and surged forward as a flash of light slammed into its core. Calen appeared from nowhere, already sprinting toward the doorway, his leather armor steaming.
+
+Good, he got only one. Their plan, should Calen’s arrow draw two or more elementals, was to flee. Ali had even splurged on a teleportation circle a little way back down the tunnel, marked by a cairn of rocks, just in case. It was not a glorious plan, but it was certainly the smartest one – Calen was becoming remarkably proficient at timing his shots to split monster packs, giving them the best chance of defeating everything safely.
+
+The archway flickered with the bright red light of the elemental monster’s flame and a wave of heat billowed out in front of it, searing Mato’s eyes and his lungs as he breathed. Calen passed his position at a dead sprint, and Mato patiently waited for the perfect moment. As soon as the Living Flame was in range, he charged, smashing into the elemental with the power of all his momentum and strength. Flames surged around him, burning his flesh and setting his fur aflame, but his eyes survived the fire, and he could still see.
+
+He roared and smashed his paw crosswise into the elemental using his Battle Master retaliation powered by Brutal Restoration and Bestial Combat. Roots sprang from the rocky ground, instantly ignited by the heat. Mato backed up slowly, drawing the elemental to his spot as his restoration magic began to pulse within him. He attacked again, ducking a little at the last moment to avoid the sweeping strike of a burning arm. The Living Flame didn’t quite have a stable physical form, most of its body except the core seemed to ripple and flicker like flame. But it attacked with extensions of flame that resembled thick arms that certainly were dense enough to knock him back from the sheer physical impact. He had learned that well enough – getting hit meant taking an enormous amount of both physical and fire damage.
+
+His body filled with his own regeneration magic, along with the softer, warmer feel of Ali’s Acolyte using her holy magic. He smiled inwardly, the Kobold had only used her slower, but more efficient, heal-over-time magic which meant he had kept the damage down to a reasonable non-panic-inducing amount. He placed the elemental perfectly and then focused on attacking and blocking with everything he had. At the same time, the rest of the team deployed around his spot, taking their positions and attacking. He only really paid attention to Malika, who would be healing him in emergencies, and the melee minions Ali had brought: the rogues who were already causing their dark daggers to flicker and shimmer with rapid attacks in the intense heat, the Hobgoblin sporting its new fire resistance plate armor, and the shamans with their lightning arcing and crawling along their shields and weapons, casting harshly brilliant counterillumination to the softer red of fire and lava.
+
+His Survival Instinct suddenly went crazy, and he braced himself against the wall.
+
+“Explosion!” Ali yelled in the background.
+
+Mato’s eardrums burst and his world filled with fire as the force of the detonation slammed into his face and chest, flinging him up and into the rock wall right behind him. He tumbled down, gasping for breath and falling to the ground still at his tanking spot, just like Calen had hoped. The rogues, shamans, and even the Hobgoblin were airborne, launched away on the shockwave of flame. But Malika must have dodged the explosion with her ridiculous evasion because she was right beside him, slamming her healing magic into him. Oi, do you have to slap me so hard? Off behind the Living Flame, a lone Kobold Acolyte stood in a glittering golden sphere of magic, pouring holy magic into him from maximum range. See, Malika? The Kobold could teach you a thing or two about being gentle!
+
+He scanned the cavern. Good. Nobody had landed in the lava and, more importantly, nobody had been tossed into the Landing with the rest of the elementals. Instead, everyone scrambled, ran, or flew back to the fight as soon as they landed.
+
+He checked his health, but with the fire resistance elixir and his armor, he hadn’t even gone below half, and Malika and the acolyte had already topped him off.
+
+Perfect! He roared his taunt and attacked again, burning his health for more damage rather than wasting the constant pulse of the restoration magics healing him.
+
+Every time the Living Flame struck, Survival Instinct warned him of heavy damage. He blocked furiously, deflecting blows into the rock wall behind him, but not all. Each time he was hit, his health took a dive as he was smashed, ribs cracked, and flesh burnt. Each time he attacked, the elemental’s flame retaliated, burning him some more.
+
+But Malika’s reactions were lightning quick, and the holy Acolyte a constant source of healing.
+
+A second explosion blasted him, and again Malika managed to dodge it as the two of them weathered the storm together until the group recovered.
+
+“Thirty seconds again,” Calen said, his voice carrying over the sizzle and crackle of magic.
+
+The next explosion was predicted a few seconds in advance, and Malika hunkered down beside him, taking the blast and bouncing off the wall with him.
+
+But when the fourth detonation ripped through the room, the giant elemental suddenly froze in place. A wave of heat burst forth from its body as a torrent of flame swirled around it like a red, blazing tornado. A dense glowing shield snapped into place, enveloping the monster in a transparent barrier. Mato’s paw smacked into the shield, bouncing off painfully.
+
+“It’s regenerating!” Ali yelled.
+
+“Break the shield!” Calen called out.
+
+Magic rained down from the back line while Mato Swiped furiously at the barrier, trying to make any kind of impact on the dense magic. Not even his Bestial Combat could sunder it. Visible on the other side of the barrier, Malika’s fists were a blur of high-speed punches as the entire team went all out against the shield.
+
+Are we even doing anything? For many long moments, he couldn’t tell if they were having any effect on the shield at all. Still, he loaded his Swipe with Bestial Combat, burning health with every strike, until suddenly the impervious shield cracked a little beneath his claws. Calen’s sharp eyes caught it, and his next arrow struck the crack dead on. The weakness spread the sound of ice cracking across a frozen lake. Malika’s shin hit the crack and suddenly the barrier exploded into glass-like shards, crashing to the ground and cascading off the rocky walls. Several whizzing pieces sliced through his fur and into his hide, but Mato ignored the minor cuts, reaching through to attack the Living Flame within, finally able to reach his opponent once again.
+
+“It’s back to half,” Ali called, and then immediately she yelled, “Explosion!”
+
+The Living Flame struck him with a well-timed blow on the shoulder causing his front legs to buckle at the same instant the flame detonation struck, smashing him into the wall. All the melee, even Malika this time, went flying down the tunnel. As he hit the floor, he realized he was on his own. Even the ever-present Acolyte in Ali’s bubble was missing, just leaving a cloud of dissipating golden shards.
+
+The Living Flame struck, and he missed his block, stumbling on legs that still felt sluggish. He grunted at the searing impact, painful even with his enormous endurance.
+
+Not good. He was down to below fifteen percent health and falling. His regeneration magic was rapidly falling behind against the onslaught of flame. Another powerful elemental arm flew toward him, and Survival Instinct screamed.
+
+Without conscious thought, he used Last Stand. His body surged with power, growing larger as his health doubled and his hide thickened, growing denser and augmenting his armor.
+
+Thirty seconds. That was what his skill had bought him. The next attack seared deep into his wounded flesh, but his armor was tougher, and he had a temporary new lease on life, so he struck back with everything he had.
+
+Malika was the first one back, her feet blurring as they ate up the distance at an incredible rate, half the time not even bothering to step on the actual ground. She ran up the wall at his back, slapping him on the shoulder with her hand and he felt the burning surge of her heal tearing through his body, causing his breath to hitch. She never used that much before… His health skyrocketed. He roared, blocking another attack as she flipped down off the wall above him with a blindingly fast kick combination. A few moments later the rest of the team appeared, and they hunkered back down for the fight.
+
+Three more explosions ripped through the rocky mine before the Living Flame once again used its shield-and-tornado combination. This time he didn’t need to be told, everyone unleashed their magic and attacked the shield trying to shatter it as quickly as possible.
+
+“Back to twenty-five percent,” Ali called out, again followed immediately by, “Explosion!”
+
+This time Malika dodged it, so the transition was much safer. He had already burned his Last Stand, so any dangerous situations coming up would need to be survived the hard way. As soon as the others returned, Calen’s magic flared, filling the entire tunnel with a brilliant white light. Arrows shot across the way in a glowing storm, slamming into the creature’s core.
+
+“Explosion!”
+
+Mato’s Swipe landed in a sudden puff of dissipating flame, and his chime sounded. Instead of the detonation smashing him into the wall, the creature flickered and died and the core fell to the ground with a heavy crash that sent tremors through the rock.
+
+Your group has defeated Living Flame – Elemental – level 62.
+
+Take that, you overgrown campfire!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

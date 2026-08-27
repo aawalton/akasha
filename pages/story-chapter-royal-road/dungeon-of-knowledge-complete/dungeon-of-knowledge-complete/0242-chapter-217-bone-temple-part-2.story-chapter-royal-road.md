@@ -1,0 +1,165 @@
+---
+id: 855a6d61-1cbd-560f-86ea-3518a0bc30ef
+page-type-slug: story-chapter-royal-road
+title: "Chapter 217: Bone Temple (Part 2)"
+slug: 0242-chapter-217-bone-temple-part-2
+partOf: dungeon-of-knowledge-complete
+position: 242
+ownLength: 2553
+unit: words
+ownProgress: 2553
+publishedAt: 2025-03-31
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2163430/chapter-217-bone-temple-part-2"
+royalRoadId: "2163430"
+markedReadAt: "2026-06-29T20:19:22.249Z"
+---
+
+The freed Troll whipped her head around and stared at Ali in surprise. Ali’s command of the gestures and expressions that seemed a core part of the language was still weak, and she was probably butchering the tone, but it seemed like she had been understood. “What is… your name?”
+
+“I am Gara, of Aman Rak,” she said proudly. But then her eyes lowered, and her haughty demeanor crumbled. “I was… Aman Rak is…” she seemed choked up as she gestured around at the devastation of the Bone Temple and the stained circle where the bone altar had stood.
+
+“How are you feeling?” Ali asked, intending to inquire about her health after the draining at the altar, but the look of grief and desolation in the Troll’s eyes told her everything she needed to know. “I’m sorry.”
+
+“What would you know?” Gara said, looking away, but it was not anger; her voice was filled with pain. A pain that Ali knew all too well.
+
+Your proficiency with the Troll language has improved.
+
+“Perhaps you can explain what happened?” Ali asked.
+
+“Why should I explain to you? You are not of Aman Rak, you are not a Troll.”
+
+And we saved your life. But Ali kept the thought to herself. Gara was probably dealing with so much emotion that she was unable to be civil or polite. Then again, trolls had a legendary reputation for arrogance and superiority, so perhaps she was always like this.
+
+“We encountered a Lich when we arrived here. Do you know anything about that?” Ali asked. “Or the undead?”
+
+“Lich?” Gara gasped. “I know nothing of a Lich.” She sagged back down again but after a few moments, she began speaking. “A few weeks ago, the undead came, pouring forth from the dead forest. With them came the miasma. Our warriors are strong, but every one that fell was raised and sent back to fight against us.” Her face was filled with desolate sadness, but then her eyes flashed with repressed fury. “I had to kill the skeleton of my friend, Jotan.”
+
+It was a story Ali had feared, given what she had heard from Calen’s scouting mission and Lyeneru’s account of the divination. But it didn’t explain why the Trolls in this dungeon were still alive. Nor did it explain the ritual and the altar.
+
+But Gara continued, “I sought the wisdom of the Seeker, Val’korr, but while I was at the shrine, Kir’mogan and Kir’vella came for him with many undead servants. Kir’mogan shattered the shrine, captured Val’korr, and knocked me unconscious. When I awoke, I was nailed to that altar, and they were draining my life to make undead. Why would they betray Aman Rak?” Her voice cracked at the end.
+
+It was a bleak picture, but it answered at least a few of Ali’s questions. Somehow, Aman Rak had been sold out before the undead dungeon had consumed it. She could almost smell the heavy hand of Nevyn Eld in the undead ritual – his presence merely served to confirm it. She got up slowly and walked over to the corpses – they would need to continue if they were to get to the bottom of this.
+
+When she reached the corpse of the boss – Kir’mogan – she looked over in surprise to find Gara standing beside her. But the young troll spat on his corpse, a Trollish gesture of profound contempt and betrayal, and turned around and rejoined the camp.
+
+Ali watched her go, wishing she could do something to ease her suffering. She returned to her task and knelt to deconstruct Kir’mogan, but her hand froze as she noticed something unusual. A complex sequence of intricate runes had been tattooed from the backs of his thick hands, past his elbows and across his heavy biceps, and curling around his arms to culminate as an intricate spell-tracery worked into his muscular shoulders. Tattoos that reminded her of the dense and remarkable magic she had seen carved into the tusks of her bone warrior trolls. He had the same tusk carvings, but this seemed to be something new.
+
+Is it an inscribed item? A bracer? Sleeves?
+
+It was far too complex for her to understand, even with Runic Script – and most of it was inscribed with the unfamiliar runes of the trolls. Curious about the obscure rune magic, Ali carefully traced the runes and the magical connections, even spending a bunch of mana on Sage of Learning, before resorting to painstakingly copying everything down into her notebook. She was on the cusp of understanding but somehow lacked some crucial key to decipher the magic. After double-checking that she had recorded it correctly in her notebook, she finally deconstructed him.
+
+[Sage of Learning]Domain Magic analyzed: Minions.Domain Magic analyzed: Attribute Enhancement (Strength).Domain Magic analyzed: Overpowering Strike. Overpowering StrikeRequirements: Choose a Physical attack skill that uses stamina.Source: Kir’moganEmpower your chosen Physical attack to do +300% [boss] or +500% [raid] damage. The attack gains +20% to accuracy and critical strike ratings. Recharge: 30 seconds.Skill – Domain Magic
+
+Well, this explains why he nearly killed Mato, Ali thought, studying the new domain magic skill carefully. It was the first purely physical martial-style skill she had learned, and it was terrifying. The dungeon – or perhaps Kir’mogan himself – had linked it to an already powerful base attack and, with the additional five hundred percent damage dealt, it had resulted in an insane ground-shattering attack that nobody besides Mato had been able to survive. Not to mention the increases in accuracy and critical strike chance – without a defensive blocking skill, Ali wasn’t even certain her massive Armored Drakes could have endured. Especially considering the already ridiculous damage increase gained from being a raid boss. It unfortunately did not explain the Mortal Wounds. Must be an innate skill – an advancement maybe? Maybe that title he had? Her Bone Warriors did not have anything like it.
+
+“Ali, you’re scary,” Mato said.
+
+Ali glanced up to find the burly Beastkin tugging something out of a rough stone wall. Then he strolled over to join her and offered the three retrieved steel spikes. Spikes that were bent and bore the imprints of small fingers.
+
+“Uh, did I do that?”
+
+“My hands are not this tiny,” he said, pointing at the imprints.
+
+“Uh, sorry,” she said, deconstructing them and adding a slightly different variant of steel to her metal imprint.
+
+“Come, there are some flowers I think you should see,” Mato said, leading the way back to the stain on the ground where the altar had stood. All around it, small blue flowers wavered and swayed.
+
+Soulshade Blossom – Wildflower – level 56 (Soul)
+
+“They’re pretty,” Ali said. Soul affinity was rare and the Soulshade was substantially higher level than her peacebloom. “Eliyen and Basil are going to love these.”
+
+“Look closer, Ali,” Mato said, crouching down beside the patch.
+
+The flowers were a light blue, glowing faintly, and to her surprise, slightly translucent – but other than that, they seemed fairly normal. “What do you mean?”
+
+“There’s no wind,” he answered. “So, why do they move?”
+
+“Oh… you’re right!”
+
+“Also, watch this,” Mato said. Reaching out with a hand, he plucked one flower and laid it down on the ground.
+
+Ali glanced at him, but he remained staring at it, so she glanced back. Suddenly, a tiny flare of black mana swirled through the broken Soulshade Blossom, and a new flower sprouted from the remains. A dark flower rimmed with gray petals, with a central marking that looked remarkably like a black skull pattern. “Death-affinity mana.”
+
+“Identify it,” he said, still staring at it, as if he were studying an apparition. It was so out of character for the nature-loving druid that Ali felt a cold shiver of apprehension and did as he asked.
+
+Spectral Wraithrose – Undead Wildflower – level 61 (Death)
+
+“An… undead flower?” Ali asked.
+
+“I know.”
+
+“How is that even possible?”
+
+“I don’t know,” Mato said, falling silent as he stared at it more. “I want to ask Eliyen about it, but I don’t want to touch it,” he finally admitted.
+
+“I think that’s a good idea,” Ali said. “I can get it.” She reached out and began to deconstruct the flowers, unable to keep herself from speculating. “There is no way these are natural,” she said.
+
+“I wonder if they’re linked to that altar?” Mato asked.
+
+“Or maybe the Grim Totems?” Ali responded. Either way, something unnatural had occurred here, and unravelling the mystery of these self-raising undead flowers might be a key to understanding what had befallen Aman Rak.
+
+Variant: Spectral Wraithrose added to Imprint: Wildflower.
+
+Variant: Soulshade Blossom added to Imprint: Wildflower.
+
+“Hey, Ali?” Calen said, appearing beside her. “Can you come and take a look at something? There seems to be a barrier blocking the way forward just beyond the temple.”
+
+“A barrier?” she asked, but she immediately followed, calling her Abyssal Stalkers to her as he led the way past the edge of the bone temple to a similar pathway that she could see winding through the jungle out the other side, heading further up the mountain to whatever lay beyond.
+
+“Here,” he said, reaching out his hand. But his fingers bumped into something in midair – a surface that rippled like water. “I can’t find a way around. Not even going above it.”
+
+Ali reached out and touched it, feeling a slightly yielding surface under her fingertips, smooth and almost soapy, and only now seeing the flow of mana that supported the barrier. Even this close, the mana flowing through it seemed to be concealed somehow, and against the backdrop of the dense domain mana, it was almost invisible. A strange combination of death magic and what looked surprisingly like soul magic densely entwined into a complex formation of runes that defied her ability to immediately grasp its functioning.
+
+“I’m going to need some time to study this,” Ali said. She sat down, facing the dizzying array of magic, and began to read the runes, this time mostly a combination of the runic languages she was able to read, but every now and then she encountered the strangely incomprehensible runes of the trolls providing key connections or formations. She turned on her Sage of Learning to study the magic, trying to tease apart the threads of function.
+
+“I’ll get the others and set up camp here,” Calen said, vanishing.
+
+Ali called the rest of her minions over and set them to guard duties. Then, she returned her attention to the magic, letting the world fade from her awareness as she became fully absorbed in her task.
+
+Teagan entered the room with the book clutched tightly to her chest, closing the door behind her. The rest of her team members sat or sprawled on the couches and chairs in one of the new informal meeting rooms, recovering after the Guildmaster’s strenuous training session. Again. She still had a lingering headache but knew she’d far rather have that than a few alternatives the Guildmaster had been keen to impress upon them.
+
+Strewn across the low table in the middle were crumpled notes, inked-up maps, and, in a small clearing among the debris, Seth was arranging several small model figurines into the configuration of the Grove. He was using a pepper grinder for the shrine.
+
+“The boss paths a little more to the left,” Willow said, and Seth readjusted the clay figure. Ever since the story of the three disciples of Ahn Khen defeating the Forest Guardian boss had begun circulating among the recruits, she knew she had to defeat it. The rest of her team shared her ambition, but it was not just them – at every strategy meeting Aiden wanted to talk about ideas for beating it too.
+
+“Ugh, we’re so close,” Braden said. “Especially with Basil’s new, stronger antidote potions.”
+
+“It’s a level forty raid boss,” Willow reminded him. “Even if we team up with Aiden’s group to get enough people to raid it, we’re simply not high enough level. We’re not even silver rank yet.”
+
+“I want to know how Aiden’s group managed to crack thirty before us,” Braden said, sullenly. It was a point of pride to be the strongest adventurer group in the guild; well, ignoring Aliandra’s group. They had been neck and neck with Aiden’s team, but just a couple of days ago Aiden’s group had suddenly surged past level thirty.
+
+“I know how they did it,” Teagan said, getting the sudden full attention of her entire group, including the normally quiet Basil and Seth. She dropped the Dungeon Manual on the coffee table in front of all of them. “Aiden updated it.”
+
+“What? Really?” Braden exclaimed, grabbing the book.
+
+“They found a level thirty-three demonic spider in a cave. It has stealth, Ambush, very high accuracy and critical strike chance, and a web attack,” Teagan listed off the major abilities Aiden had noted in the manual. “It also summons demonic, bloodsucking hornets.” She had been upset that Aiden had found it first and catapulted his group to become the first silver-ranked adventurers among their peers, but they had only killed it once so far, preferring to share the discovery rather than monopolize it to extend their lead.
+
+“They’re letting us catch up?” Seth asked, his quiet deep voice laden with curiosity and more than a little surprise.
+
+“Yes, Aiden is focused on being strategic. When he gave this to me, he said he didn’t want to beat us, he wanted to catch up to Aliandra’s group, and for that, we need a raid group capable of killing the Forest Guardian next. Then he wants to take advantage of Naia’s slime dungeon to grow more, and finally take on the undead dungeon Calen scouted in the blighted forest. He said the only reason Aliandra’s group is so far ahead is because they cleared two raid dungeons.”
+
+“That’s smart,” Seth answered, his expression thoughtful, with a little excitement leaking into his voice. “I just unlocked a Life Tap curse, that should help against blood hornets, and my skeletons and zombies don’t have blood.”
+
+“Our area damage is weak,” Willow countered. “How will we handle the summoned hornets?”
+
+“Morwynne taught me a new recipe,” Basil piped up. “She has come into a large supply of hellfire-affinity Abyssal Brimstone Tar which I can use to make incendiary potions if someone has accurate throwing skills.”
+
+“Ooh,” Willow exclaimed. “Gimme!”
+
+Basil produced a vial of something dark and bubbling and passed it to her with extreme care. Teagan felt the heat coming off it from several feet away.
+
+“Oh, Basil, I think I love you!” Willow said, snapping it up with glee.
+
+The shy herbalist coughed, trying to hide his blush and failing badly.
+
+“Can we try this demon spider today?” Seth asked.
+
+“I was hoping you’d say that,” Teagan answered as the mood in the room shifted. Everyone sat up a little straighter and focused more closely as the group began to discuss the details of a potential strategy. Aiden’s group had defeated it with Havok’s holy damage and consecration healing, and their group would need to solve it quite differently – but Teagan could see the pieces coming together already. Time to catch up. Yesterday already.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

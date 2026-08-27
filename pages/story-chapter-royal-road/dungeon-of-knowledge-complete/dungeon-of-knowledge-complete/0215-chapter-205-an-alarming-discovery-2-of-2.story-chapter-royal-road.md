@@ -1,0 +1,127 @@
+---
+id: b7127ac3-bb53-5b18-91c1-c365794f1b20
+page-type-slug: story-chapter-royal-road
+title: "Chapter 205: An Alarming Discovery (2 of 2)"
+slug: 0215-chapter-205-an-alarming-discovery-2-of-2
+partOf: dungeon-of-knowledge-complete
+position: 215
+ownLength: 2127
+unit: words
+ownProgress: 2127
+publishedAt: 2025-03-02
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2098832/chapter-205-an-alarming-discovery-2-of-2"
+royalRoadId: "2098832"
+markedReadAt: "2026-06-29T20:18:26.008Z"
+---
+
+Ali stared unseeing at the book in front of her, the words there, but not read, her mind instead filled with imagined scenes of the fight. The novice adventurers, all eager and bright-eyed, come to face her Kobolds, only to meet with a gruesome tragedy as one of their friends was butchered before their eyes.
+
+She did not know who the paladin was, but she was certain she would have recognized his face from the guild hall or one of the shrine ceremonies. She didn’t recall how long she had lain in Lira’s arms crying. She remembered Malika trying to comfort her by telling her that it was not her fault. Calen had stoically agreed, and Mato had simply made her some food which sat untouched beside her, probably quite cold.
+
+At some point, they had all left and she had gotten up to immerse herself in her studies, but she lacked the will to even turn the pages.
+
+She knew that, in principle, she was not responsible for the death of the novice adventurer, but it certainly didn’t feel that way. It was her Kobold boss, and she had made it too difficult, too strong. She had even had to make weaker bosses in the sewer to give them a difficulty-ramp to work up to it and had to warn the Guildmaster. But she hadn’t removed her first boss, too proud of what she could do, and now it had killed someone.
+
+She had killed people before – and it never felt good. But she had only killed people in self-defense or in defense of the guild adventurers during the shrine ceremony. This was the first time someone had died trying to use her dungeon to grow.
+
+Someone who didn’t deserve to die.
+
+“Would you like some tea?” Lira said, sitting down beside her. “There are cookies, too.”
+
+She looked up and met Lira’s kind eyes and nodded forlornly, not knowing how to make the guilt and self-loathing pass. But Lira simply rose and walked over to the tea stand and poured them both a cup before returning. She placed the tea before her and sat quietly sipping on her own cup until she finally picked up hers and tried it.
+
+It was delicious, and it immediately sent the guilt into overdrive. How could she enjoy tea when she was a killer? That paladin was only level nine.
+
+“Could you have done anything?” Lira asked, carefully putting her cup down after a long moment of silence.
+
+“I could have stopped it,” she said. She should have stopped it – she had felt something from her boss, and she should have checked. If only she had, she could have stopped it from turning into a disaster.
+
+“Could you really?” Lira’s eyes held only wisdom and compassion, making Ali reconsider her reflexive response and actually think about it.
+
+“I was in the middle of a difficult fight,” she said. The corrupted fire drake had been more than difficult – it was a wonder she had even noticed the Kobold boss’s activity at all.
+
+“And if you weren’t?”
+
+“I…” She normally did not observe the adventurers fighting, explicitly leaving them alone because they were hoping to gain experience and her interference, even minor, could dramatically affect their ability to grow. “I probably wouldn’t have known until after,” she finally admitted.
+
+Lira sipped her tea again, simply waiting for her to collect her thoughts and process her feelings.
+
+“I could have made it easier. A raid boss is too hard for them.”
+
+“I remember you saying you warned the Guildmaster, and that she was going to tell the adventurers to be prepared.”
+
+“Yes, I did.” She knew all this, but her feelings refused to let up.
+
+“It sounds like you had the best intentions. You provided a challenge for them to grow and made sure they could be properly prepared. I think you did your best, and you must allow them to make their own decisions about whether to challenge the boss or not, knowing the risks. By all accounts, the paladin was overconfident and unprepared – it’s cold comfort, I know, but it is well said that there is no antidote to stupidity.”
+
+“I know. But Aunt Lira, I killed someone.” She reached out and Lira took her hand gently.
+
+“And it will probably hurt every time it happens. Never let yourself become jaded, but don’t deny them the chance to grow. Without you, most of them would have died already, facing some challenge that was truly beyond their abilities.”
+
+Right then, she realized that Lira was not actually trying to cheer her up. She was being honest in saying that it would most likely happen again and that it was right to feel miserable. But Lira still delivered the truth with wisdom and compassion, understanding how she felt – and reminding her that she had made this decision knowing the possible risks – and that her decision was still a good one, even if she felt terrible right now.
+
+“I should probably go talk with the Guildmaster,” Ali said. She was sure Vivian would want to discuss what had happened.
+
+“Why don’t we take a few moments to finish our tea first?”
+
+Mato left Eliyen’s shop with a large load of fire elixirs stored in his ring, and substantially less of the gold Malika had given him to buy them. He quite enjoyed his time at the herbalist shop talking with Basil and Eliyen, sorting all the fire-affinity grass and flowers he had harvested from the entrance to the mines. Their business, it seemed, was doing well – Basil had been using several new and expensive-looking tools, and there were many in-progress orders in their small workshop.
+
+As he made his way over to the blacksmith quarters under the mountain, his thoughts returned to the fire dungeon and the corrupted fire drake. The monster hit insanely hard and the extra fire damage from its hellfire dragon’s breath often left him dangerously low on health, especially after the curse had been allowed to run for a while. He wasn’t about to make complex strategy plans for Ali and her minions, or his friends’ abilities, but he was certain that if they were to fight much longer, he would need his Last Stand ability simply to stay alive.
+
+Blowing air across his lips, he checked his notifications one more time.
+
+Druidic Shapeshifter has reached level 64 (+3).+30 attribute points.Arboreal Sanctuary has reached level 34.Swipe has reached level 37 (+2).Brutal Restoration has reached level 39 (+2).Bear Form has reached level 33.Bestial Combat has reached level 32 (+2).Natural Prowess has reached level 26.Survival Instinct has reached level 28 (+2).Battle Trance has reached level 19.Last Stand has reached level 9 (+2).Cooking has reached level 15.Herb Gathering has reached level 8.
+
+It’s fun though, he reflected as he pushed open the door to Thuli’s smithy. For him, it was a remarkably simple fight – his job was to stand there and use his abilities to survive as long as they needed to kill it. Obviously, he would use his armor penetration skill to help the others, but mostly he was blocking, maintaining his Brutal Restoration, and ensuring he paid attention to the most dangerous attacks with his Survival Instinct. It helped that he didn’t have to worry about mana or stamina at all, but his armor had taken a beating and then some, and it needed urgent attention.
+
+Certainly, it had been nothing like the phoenix fight, which he had hated. Even though it had been great for his experience growth, he always found himself frustrated when he had to watch his foe flying around out of reach.
+
+“Yo, Mato, welcome back,” Thuli’s gruff voice called out from the back room and the sound of hammering on steel stopped as he emerged.
+
+“Hi, Thuli, we finally found something that could break your work,” he said, showing the dwarven smith the extensive damage to his armor. Several of the steel bands across his chest were mangled and sliced by the powerful cleave attacks that the Armored Drakes could unleash, and several bite marks where the dragon’s fangs had punctured clean through the steel. Tanking that pesky phoenix that didn’t know how to stay dead in a lava pit had done the damaged armor no favors either.
+
+“Hmm… that’s a mess. It’s a good thing I finished yer new armor,” Thuli said, tugging at his beard in apparent annoyance. “Kavé, come give us a hand, lass,” he called out, and his Dragonkin apprentice appeared from the supply room immediately. The two of them helped Mato out of his battered and broken armor, having to lever off several of the bent bands, and then Thuli produced something new which they strapped onto him, carefully adjusting the fit.
+
+“There, what do you think? Switch so I can see it,” Thuli said.
+
+He obliged, transforming himself into his Bear Form and shifting the new set of armor with him.
+
+“I think it will hold up better than the old one. I learned a new way of tempering the Fireforged Steel when I leveled up, so it will be a lot more durable.” The dwarf’s conversational ability seemed entirely unaffected by the fact that Mato was currently a bear and couldn’t respond. “Also, I melted a piece of that Abyssal Bloodstone into the steel during the forging, which gave us a higher affinity for magical enchantment. Fireforged Steel already has a powerful affinity with fire, and with the high-level reagent enhancing the steel, I was able to improve the resistance value and the fire resistance percentage.”
+
+Thuli’s voice carried a clear sense of pride as he spoke about his work, and he slapped Mato’s shoulder with a monstrous clang. Decent strength. “What do you say, lad?”
+
+Mato inspected his new armor. It was heavier than his last set, but that didn’t seem to matter much given his increase in levels and strength attribute. The addition of the Abyssal Bloodstone seemed to give the steel a deeper red tone, and Mato could already feel that it was much more robust. He rolled his shoulders and flexed his back and hindquarters. Nice!
+
+Intrigued now, he Identified it:
+
+Abyssal Bear Armor of Fire – level 60Forged with abyssal bloodstone, this heavy armor has a dark red luster and provides extra resistance against magical attacks. Linked to your mana, this armor will shapeshift with your changing forms. Armor: 504Resistance: 632+43 Vitality+12 Strength+21 Endurance+33% to resistance against Fire damage.Mana: Shapeshift.Requirements: Shapeshifter, Strength 120, Wisdom 120Created by Thuli.Body – Fireforged Steel
+
+Mato moved around in the waiting area under the watchful eyes of Thuli and his apprentice, but he needn’t have worried, the dwarven smith’s work was masterful as always – his armor felt like a second hide, moving easily with his body.
+
+He shifted back to Beastkin.
+
+“This is awesome, how much do I owe you for it?” It was beautiful – a masterpiece of steel and magic, and already he was excited to try it out against that drake, especially with the powerful enchantments Thuli had managed to work into it.
+
+The Dwarf muttered something like, “Herr-umph!”
+
+Oops. “Five hundred-plus armor! Thuli, it’s great! You’ve outdone yourself!”
+
+“Fine, fine lad. I’ll let ya pay me this time. Toss that old piece in the scrap pile, would ya?” Thuli held out a thick calloused hand and several small glowing red stones appeared on it. He picked one out. “I will keep this as payment if that’s ok?” The dwarf handed the rest to Mato.
+
+That’s right, Malika offered him some of the bloodstone as payment, he recalled. He had no idea if the amount was fair, but he didn’t particularly care. He trusted Thuli and simply accepted the remaining stones Thuli offered with a smile of thanks.
+
+“I should warn you. That Giddy Clicksprocket is probably gonna hunt ya down like rust seeking cheap steel. She was incredibly jealous and probably the only reason you haven’t had ta fend her off already is that she got a level just for cutting the stones for me.”
+
+Mato chuckled. He would trust Malika to sell the stones, probably to the guild store, and he wouldn’t need to worry too much about persistent Gnomes. Or rust, he thought, running his thumb across the smooth plates of his new armor.
+
+“By the way, we found the forge,” he said. “It’s guarded by an enormous dragon, though.”
+
+“You did? It’s real? Tell me, what is it like?” Thuli gasped, his face filled with such wide-eyed wonder and expectation that Mato immediately sat on the bench to tell him the full story of the fight and describe the great anvil and forge of the Dwarf’s renowned ancestor.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

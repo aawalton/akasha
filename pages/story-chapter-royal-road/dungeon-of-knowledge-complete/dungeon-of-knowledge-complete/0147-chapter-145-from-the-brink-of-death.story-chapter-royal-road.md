@@ -1,0 +1,297 @@
+---
+id: 785e83ff-0c9d-5780-b618-3b7548ff788e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 145: From the Brink of Death"
+slug: 0147-chapter-145-from-the-brink-of-death
+partOf: dungeon-of-knowledge-complete
+position: 147
+ownLength: 5319
+unit: words
+ownProgress: 5319
+publishedAt: 2024-10-20
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1859562/chapter-145-from-the-brink-of-death"
+royalRoadId: "1859562"
+markedReadAt: "2026-06-29T20:15:55.305Z"
+---
+
+“So, what do you think?” Ali asked. She floated along beside Mato through the sewer tunnel pointing out her new Poison Cloud traps and explaining – probably in far more detail than he cared to hear – how her new runic magic worked.
+
+“It’s a great idea, Ali,” he said, rubbing his chin thoughtfully. “You need something that isn’t poison to deal with the undead, though.”
+
+“Yup,” she agreed. As if on cue, her chime sounded yet again.
+
+Your minions have defeated Warrior – Zombie – level 3.
+
+Ali ignored the message. They had been coming incessantly since she had populated the Forest Cavern with minions, made her river chokepoint, and trapped the passage down past the caves on the way to the ruins. Nobody had told her how noisy being a dungeon would be. Her mana drew the monsters in, and her minions and traps took care of them… constantly. At least she was making incredible progress toward the undead kill quest. Worrying. Good, but worrying all the same.
+
+“You’ve been busy. How many minions do you have anyway?”
+
+“A little over three hundred,” Ali answered. “About half of them are the swarm oozes in the lake, though – they’re very cheap.” It was a rather impressive total, and she was certain Lyeneru wouldn’t be quite so critical if she saw it now. However, nothing in her dungeon could give someone like her a challenge.
+
+“Wow, that many?”
+
+“Yup. It costs almost six thousand mana to keep them all.” She might have gone a little overboard, but then there was that assassin she had killed only because she had the minions around to see him. “What about you? How is the Blight cleanup going?”
+
+“I have most of the main farms cleared, and they’re starting to grow food again,” he answered. But then he stopped suddenly and sniffed. “Ali! Undead! I smell Blight!”
+
+“What? Here?” she yelped, but he was already transforming into his Bear Form and rushing down the damp tunnel. Instead, she commanded her Kobold escort, “Be on your guard!”
+
+The soft chirps of hunting Kobolds accompanied the chilling sounds of unseen daggers being drawn from leather sheaths.
+
+Did one of the zombies get into the sewer? Popping out a barrier for protection, she zipped down the passage, chasing after Mato. Swinging around a corner, they found themselves at a dead-end. A few sunbeams snuck down through the iron grate at the top of the brick shaft, illuminating an enormous trash pile collected by her Kobolds the night before. Scrabbling fitfully through the pile was a gaunt figure flanked by two very obviously dead – and very obviously moving – skeletons.
+
+Warrior – Skeleton – level 1 x2.Mage – Human – level 3 (Death).
+
+An overpowering odor of rot and decay poured down the tunnel like a palpable manifestation of the Blight. Wisps of sickly gray-black death mana clung to them like a persistent miasma. The figure startled, looking up at her with a dirt-streaked, blight-marred face and half a dead fish in his mouth.
+
+As Mato approached, he let out an incoherent screech, falling backward in his effort to scramble away, cowering in a corner while the two skeletons turned and advanced menacingly, brandishing rusted daggers in their bony grasp.
+
+Mato charged, his huge bulk slamming into the skeletons, and with a single Swipe, he turned both into an explosion of bone shards that showered the trash pile and the quivering, dirty figure in the corner. Whirling on his paws, he prepared to strike.
+
+“Mato, don’t kill him!” Ali exclaimed. “He’s a person.”
+
+But Mato still advanced menacingly, growling.
+
+In the darkness, black energy collected within the cowering person, and suddenly a hair-raising, ethereal screech cut through her with the chill of undeath, and something flashed out towards Mato. Ali snapped her hand forward and a golden bubble of barrier magic trapped the thing.
+
+Volatile Wraith – Undead Spirit – level 2 (Death).
+
+Necromancer! It was the only possibility. Volatile Wraiths were the weapon of the Death Wight they had faced, and the only class that could summon the undead were necromancers. As if the skeletons hadn’t already given it away. But the tiny spirit was stuck inside her barrier, bouncing against the walls ineffectively until it popped with a sharp, short-lived blast of black flame.
+
+He summoned a second one, which launched itself with an equally chilling screech, and Ali reacted, catching it too, before it could reach Mato.
+
+Still screeching, the emaciated necromancer rushed Mato, clawing and scratching, even trying to bite him. With a great swing of his paw, Mato struck – but Ali knew him well enough to see how he withheld his full strength – slamming the boy into the wall. He bounced, his head cracking loudly against the ancient brick, and then slid to the ground in a heap, unmoving.
+
+Ali’s stomach churned and she turned and tried to throw up.
+
+“He’s not dead, Ali,” Mato said, his voice cutting through her nausea as he walked over to examine the ‘body’, already transformed back to his Beastkin form.
+
+“H…how?” Ali managed, wrestling with her unruly stomach.
+
+“I did hear you. I took his damage and just knocked him out,” Mato said, staring down at the motionless boy with a serious frown. “Ali… are you sure? That’s a necromancer.”
+
+“I know,” she answered. But how could she kill someone so weak and desperate? “He can’t have eaten anything in weeks.” At least desperate enough to be down in the sewers hunting for rotten food in a trash pile – and his body was quite obviously being ravaged by the undead blight. “Can we talk to him first? Before we decide if he’s evil, I mean?”
+
+“If we don’t do something about that Blight, he’s going to die anyway,” Mato groused, bending over to inspect the unconscious boy, wrinkling his nose in disgust.
+
+“Do you mind using your tree to help him?” Ali asked. She didn’t have any of Eliyen’s elixirs on hand, and the only other option she knew of was Mato’s potent aura in Tree Form.
+
+“Yes, but not here,” he said, picking up the boy as if he weighed nothing and turning around to retrace their steps through the sewer.
+
+Mato would do it, but he did not look happy at all.
+
+It took them a little longer to return to the Grove and the shrine, but soon enough, Mato laid him down on the moss and planted himself nearby. As the aura exploded outward, Ali felt the regeneration pulsing through her body and watched it ripple through the unconscious necromancer. The suppurating black blight patches on the boy’s face began to fade and the angry dark miasma dissipated.
+
+Is he the reason for all the zombies? She studied him with all the senses at her disposal, but she finally had to conclude that it couldn’t be him. He was only level three, and he must have just earned his class, although how he unlocked necromancy was a mystery. She knew what it was to have a problematic class and that was not about to change.
+
+What must it have been like? She wondered if he had been in town when it happened and if he had been persecuted. Something must have happened to him to become so badly infected with the blight and forced down into the sewers to hunt for food.
+
+Eventually, Mato’s tree shifted, and he slowly transformed back into his normal shape, and the aura faded back to its much more normal short-range magic.
+
+“He’s clean now.”
+
+“Can we take him to the library?” Ali asked. The forest had been necessary for accommodating Mato’s Tree Form, but the library was far more comfortable now; she loved having couches. Mato nodded and picked him up again as they wended their way to the upper entrance to the library.
+
+As soon as Mato laid him on a couch, Ali felt the nature mana of Lira’s presence right before she appeared from within a branch of the giant tree.
+
+“What have you found, dear?” she asked, and then her hand suddenly shot up to her mouth. “Oh, my! It’s him!” she exclaimed. “That’s the boy who found my acorns!”
+
+Ali shot her an incredulous look, her eyes darting back and forth between her aunt and the grubby boy they’d rescued from the sewer. Him? By sheer coincidence?
+
+“Wait, this is the person in your story? The one who untied you?” Ali asked. Her eyes drifted to the boy’s neck and the dark band visible around his neck. Dirt? Or scarring? Or…
+
+“Yes, he is the one,” Lira said, dancing over to where Mato had set him down, still unconscious on the couch.
+
+A prisoner of Alexander Gray, then. Ali winced. Those poor people had been subjected to compulsion collars and then sacrificed to the necromancer’s evil magic in a terrifying display of dominance and power. He survived. Has he been infected with the blight since then? Malika and Mato had both described it as excruciatingly painful, and that had been weeks ago. What he must have been through… Ali could hardly bear to imagine.
+
+“I guess that explains how he unlocked a necromancer class,” Ali commented. He must have been steeped in enough of Alexander Gray’s powerful death-affinity mana to push him to unlock the class naturally, without a shrine. A real tragedy – if she had just found him before his class unlocked, she could so easily have offered him a better choice.
+
+“Oh,” Lira said softly, her voice filled with sadness as she looked down at him as he lay on the couch. “You poor boy, fate has been rather unkind to you.”
+
+“What do we do with him?” Ali asked. It was clear from Lira’s recognition that he was likely a good person who had been handed the worst luck. Running afoul of Alexander Gray had turned him into a permanent pariah; he would be despised and shunned in every part of civilization because of that legacy.
+
+“I want to thank him for helping rescue my forest,” Lira said.
+
+“I can stay here and look after him,” Ali said. It wouldn’t even disrupt her plans; she had no real commitments today, and she had been hoping to study some more magic anyway.
+
+“You sure?” Mato asked, glancing at her and the boy. His eyes found Lira’s and then he sighed. He still looked visibly uncomfortable with the situation, but he seemed most concerned for her wellbeing.
+
+“He’s level three, Mato. I know I’m not as good at fighting as you, but I think I got this,” Ali grinned, putting up her tiny fists and waving them around dramatically. All that training she had done with Malika to improve the melee skills of her warriors and rogues came out, and to both of their surprise, her form looked remarkably competent.
+
+“Yeah, you’re probably better at it than me,” he said, his usual grin returning to the fore. “The day you have to punch something will be… I don’t even know… terrifying? Ok, I’m going to head out and take care of the rest of the farms and outlying areas today, I’ll see you all later tonight. Don’t do anything I wouldn’t do.”
+
+Ali wrinkled her nose. “Me?”
+
+***
+
+Your minions have defeated Boar – Zombie – level 2.
+
+Ali hissed between clenched teeth. The constant notifications were incessant, like that annoying mosquito in her bedroom late at night, waiting for the perfect moment just before she drifted off to sleep to swoop down and buzz right in her ear. She wished, for the umpteenth time, that she could silence them while she was studying – but she hadn’t found a way. Though it was rather telling just how many undead were trying to invade her space, and she knew deep down that turning off the notifications would be a bad long-term idea. Being surprised was not her forte.
+
+A groan coming from the vicinity of the couch finally broke her concentration entirely, and she turned to find the boy scrambling backward and falling off the couch in his haste to escape.
+
+“I’m not going to hurt you,” she said quietly, and the hand that was extending forward toward her, and beginning to gather dark mana froze for a moment before he relaxed a little and let it fall to his side.
+
+“You…” his hoarse voice cracked. “You’re her,” he eked out, speaking like someone who hadn’t used his voice in decades.
+
+“Her who?” Ali asked curiously. How does he recognize me?
+
+“You kill… killed him. Alexander G… Gray.”
+
+She could see the fear in his uncomfortably wide eyes as he mentioned the necromancer and knew instantly it was the result of his traumatic treatment at his hands and not anything she had done. After all, she was less than half his size, and hardly a terrifying person.
+
+Well, I guess I am a dungeon, so some people think I’m even more terrifying than a necromancer.
+
+“My friends and I did,” she answered, still not making any moves toward the fearful boy and striving to keep her voice level and calm. “My name is Aliandra.”
+
+He stared at her for a while.
+
+“You’re not going to kill me?” he asked, his voice quavering and cracking.
+
+Ali was instantly reminded of poor Naia, asking again and again if she was going to be killed. I… miss her.
+
+“I won’t kill you,” Ali said, returning to the terrified boy. “And I already know what your class is. Would you like some tea? Or some food?” Mato had left some of yesterday’s dinner, just in case – trust him to notice and try to feed even a necromancer who had been found scavenging through the trash.
+
+At her mention of food, his eyes went wide – wider – and the aggressive growling of his stomach echoed into the library. Ali grinned at him and produced the bowl of leftover hearty beef stew Mato had made and placed it on the table between them, returning to her seat again. As soon as she made space, he pounced, demolishing the food in less than a minute, shoveling it down his throat with his hands, as if the utensils had not even been seen. It was rare for her to see real hunger, and she was reminded of her time lost in these ruins for over a week.
+
+“I… I’m Seth,” he said at last. “Seth… Weston. Thank you –” His eyes bulged out of his head in shock and surprise as Lira appeared, warping herself out of the giant tree before gliding regally across the flagstones and carpet to join them.
+
+“Hello Seth, dear. I’m Lirasia,” she said, as if not noticing the effect she had on him. She walked over to the tea stand and set the pot to boil. “It’s good to finally meet you properly, Seth. I wanted to thank you for releasing me from that evil fiend and offer my eternal gratitude for saving my acorns.”
+
+It took some effort, but between her and Lira, and a nice warm cup of tea, they managed to coax his story out of him. He was from a small logging village called Lyton on the other side of the border in Torian territory. Ali was certain Calen could tell her exactly where it was, but she gathered it was on the far side of the now-dead forest. He had lived all his life with his grandmother until Roderik Icecrown and Alexander Gray swooped down on their quiet community and slew nearly everyone. He had been one of the ‘lucky’ few spared to be used by the foul magic of the necromancer. He had been forced to watch while his grandmother’s skeleton was raised before his eyes and made to release foul undead abominations throughout the forest, spreading the blight. And then he had been marched to Myrin’s Keep to serve as the necromancer’s portable living sacrifice.
+
+When Ali and her friends had killed Alexander Gray, before the Death Knight had appeared, Seth had fled into town and been captured by kidnappers, and only escaped when his class had unlocked.
+
+Ali sat listening to the tale in horror, unable to imagine how terrified he had been. She was certain she wouldn’t have been able to sit calmly on a couch with a cup of tea discussing it with some strangers, and she glanced at Lira in suspicion. But there was no evidence of any magic at play, just her typical calm aura and her soft and soothing voice.
+
+“I think we should take you to see Vivian Ross – she’s the Guildmaster of the Adventurers Guild. If anyone knows how to help you it will be her – and I know she will want to hear your story about the kidnappers,” Ali said. There weren’t very many options in Myrin’s Keep for people who might listen to a necromancer, but she was certain Vivian would have some ideas for what they could do. At the very least, Seth couldn’t continue living in the sewers, eating rotten fish. He had critical information on how the blight was continuing to spread, which Vivian absolutely needed to hear.
+
+“No! She will kill me!” Seth yelled, scrambling back and falling off the couch, his feral fear taking over once more.
+
+“She hasn’t killed me yet, and I’m a guild member,” Ali answered. She should have expected resistance toward anything related to returning to town. Although, in her case it hadn’t always been rainbows and roses.
+
+Seth just sat on the floor staring blankly at her.
+
+“I’m a dungeon, Seth. That’s probably worse than a necromancer.”
+
+Gliding across the flagstones, Lirasia caught him as he toppled sideways. “I guess that was a little much. Sleep now, Seth. You’ll feel better soon – I hope.”
+
+***
+
+It was still challenging to convince him to agree to talk with the Guildmaster. And even harder to cajole him into making the trip across town to visit Lydia’s Allure, but even after putting him through one of her Cleanse circles, Ali insisted Seth still needed to replace the dreadful rags he wore. If she had learned one thing from her trial, it was the surprising importance of presentation when preparing for important meetings.
+
+But Ali didn’t mind being patient. Coming face to face with the fact that people wanted to kill you was hard enough, but knowing that it was for reasons outside of your control added a heavy helping of despair and frustration. Ali still had nightmares about Roderik’s sneering face, and so she could empathize with Seth’s fresh struggle.
+
+It was only when Lira offered to accompany them that he finally relented, and now with a clean blue shirt and a pair of khaki casual pants, he looked quite presentable as Ali led them into the guild hall. Given that they were risking him being identified in public, Lira’s presence offered a welcome distraction for the curious eyes. Nevertheless, Ali had still brought her two Kobold rogues and her normal minion escort just in case they were attacked.
+
+“Great Mother of the Deep Woods,” Mieriel greeted, rising from her chair and bowing deeply to Lira. “Hi Aliandra, welcome back,” she added politely, her mind magic flickering rapidly as she glanced first to Lira, and then at Seth, hiding a flash of surprise. But, true to her word, Ali felt not even the slightest touch of her active skills impinging on her mind. “How may I help you today?”
+
+“Hi Mieriel, is Vivian available?” Ali asked. Her prior anxiety toward the mind mage seemed to be fading now. While it may have had something to do with her reaching level fifty, and rather close to Mieriel’s level, she was certain the Sun Elf’s polite and respectful attitude around her was contributing much more. No longer did she try concealing her class from Ali, nor had she ever attempted to use her active skills on her since her apology.
+
+Ali offered Mieriel a smile, deciding she would try and make the effort to acknowledge her attempts to repair the relationship between them.
+
+“Of course, follow me,” Mieriel said, leading the way to the Guildmaster’s office. As they passed through the hall, they got some curious stares from the various adventurers, some of whom she recognized, but there were several new faces.
+
+“Recruitment is going well?” Ali asked.
+
+Mieriel grimaced, “It’s a struggle, especially with the Silent Assassin still at large.” She knocked and then opened the door to the office.
+
+Vivian rose to greet them, and Ali reflected on how helpful it was to just have Lira present whenever she needed to talk to people. But Vivian was not one to be distracted, her observant eyes flickered in instant surprise, hardening at the sight of Seth.
+
+“What’s the meaning of this? Death-affinity? Another necromancer?”
+
+“Yes, we know, but it was not his choice,” Ali explained. “I think you need to hear his story.”
+
+Ali studied the closed expression on her face and the glittering, narrowed eyes, and knew instantly that this was going to be a tough sell. Vivian would not accept a necromancer without a substantial push. She seemed to be on the brink of throwing them all out. “Mieriel, you should stay, too,” Ali said, blurting it out before Vivian could even respond.
+
+Ali schooled her expression, hiding her instant visceral revulsion to the necessity of what she had just suggested.
+
+“Good idea,” Lira said, nodding calmly to her as she took her seat, and Ali knew she understood. Her Aunt wasn’t about to let things get out of control.
+
+It was almost imperceptible, but the tension lines around Vivian’s eyes relaxed just a little, and Ali knew that as difficult as it was, she had made the right call. While the Guildmaster was powerful, it was Mieriel and her skills she trusted in situations where she could be deceived. Ali was exquisitely aware of Mieriel’s passive ability to read emotions, and it was that she was counting on to convince Vivian of the credibility of Seth and his story, without which there would be no chance for the boy. Someone with power and status had to believe in him in order for him to survive the terrible stigma of his class. Yet, trusting Mieriel to hold back and not deploy her more terrifying abilities took all of Ali’s willpower. I thought I was over this… and now I’m complicit in doing it to someone else. If only there was another way… At least Mieriel seemed content to only employ her passive perception skills.
+
+“Ok, I’m listening,” Vivian said finally, sitting back down in her chair and inviting them all to take seats.
+
+While Seth recounted the saga of his experiences and torment at the hands of Alexander Gray, Ali studied Vivian’s face. When he described the destruction of Lyton by Alexander and Roderik, Vivian glanced in shock and surprise at Mieriel, but she nodded in confirmation.
+
+The reveal of Roderik’s involvement in wiping out the town was new, and Ali could tell she had Vivian’s attention now. The Guildmaster launched a barrage of questions when Seth described the abominations that were spreading the blight, and then more again when he revealed the details of the warehouse and his kidnappers.
+
+“That is an incredible story,” Vivian said, sitting back in her chair after Seth finished his retelling. “This changes our strategy for dealing with the undead and the Blight – I thought it would go away if we just killed the monsters, but that strategy is doomed. These abominations need to be found and destroyed. The mayor needs to know about the kidnappers, too. That can’t be allowed to continue.” Her piercing gaze returned to the awkwardly shuffling Seth. “What do we do with you?”
+
+“I want to fix the forest, but I don’t know how,” he said, quietly wringing his hands. “I’m not strong enough.” His voice was choked with profound sadness and Ali felt the anguish of the boy who had been so committed to the ancient forest that he risked his life to save her acorns and had woken up to find himself turned into the very thing that had destroyed it all.
+
+“How about we have Seth join the guild?” This was Ali’s main goal for the entire meeting – she just hoped Vivian and Mieriel had heard enough to trust that the boy was a good person at heart.
+
+“A necromancer?” Vivian’s shocked gaze snapped to Ali as she made her suggestion.
+
+Yes. Ali lifted her chin silently. Worse than a dungeon, Vivian? Was she truly sorry, or was this an entirely different situation?
+
+“You were worried about not recruiting enough people who are motivated and have strong classes. Seth literally has nowhere else to go,” Ali answered, holding Vivian’s gaze. “You already have some dangerous classes in the guild.”
+
+“He’s a necromancer, Aliandra,” Vivan said, her voice grating like granite.
+
+“What is the alternative?” Ali pressed. “You know he will be driven out of every town and city. Is his fate to eventually become bitter and angry? If he isn’t killed outright, what are the chances he is forced to follow the path of Alexander Gray? You say your mission is to be a force for good in this town – how is this not exactly what you claim the guild is for?”
+
+Vivian met her gaze with a stony stare. “How would this not ruin our already… tarnished reputation?”
+
+Ali tried not to flinch. While the point might be fair, it still hurt.
+
+It was Lira who broke the awkward silence. “Is the custom of having an elder sponsor a novice still respected in your kingdom?” she asked, her gentle voice cutting through the stalemate.
+
+“You would be willing to sponsor him?” Vivian gasped. “To stake your reputation on the good behavior of a… necromancer?” At least she had the decency to wince at her own words when she glanced at Seth.
+
+Ali knew just how unbelievable it must sound for a Dryad to sponsor a necromancer, of all classes, but she also knew the story that had unfolded between them.
+
+“I owe him a life debt,” Lira said. It was a stunning, and incredible revelation to them, but Ali knew she believed it with all her heart. “I know he is a good person, despite his class, and I will not allow fate to punish him for his actions.”
+
+“That… that is an incredible character reference, Seth,” Vivian said, studying the boy carefully.
+
+Mieriel’s hand touched Vivian’s shoulder gently. “The boy seems honest and kindhearted, too. We could do a lot worse, Vivian.”
+
+“Very well, Seth, would you mind sharing your class and abilities with me?” In the face of so much support, Vivian’s resistance seemed to crumble, and Ali suppressed a sigh of relief. It was surely not the end of Seth’s challenges, but it was the first step in setting him up on a better path.
+
+Seth responded by sharing his skills and abilities with everyone in the room, and Ali studied them with great interest, fascinated to see a different style of summoner class.
+
+“What does the Volatile Wraith do?” Vivian asked.
+
+In response to the question, Seth shared the entire status sheet of the monster.
+
+Name: Volatile WraithRace: Undead SpiritClass: Volatile Wraith – level 1- Touch of Death – level 1Mana: Attack, dealing Death damage. Range: TouchDeath, Melee, Intelligence- Volatile Detonation – level 1Explode, consuming all remaining mana to do Death damage to everything around you. Range: 3.09 feet. Trigger: DeathDeath, Area, Trigger, IntelligenceAptitudes- Mana (Affinity): Death- Incorporeal (Racial): Immune to physical damage, attacks ignore armor- Life Drain: Critical strikes cause Life Drain instead of Critical Damage- Damage Absorption (Racial): Death damage is absorbed as healing- Immunities (Racial): Poison- Vulnerabilities (Racial): +50% extra damage from Holy- Unstable: Dies after 15 secondsAttributes- Vitality: 1- Perception: 4- Intelligence: 6- Wisdom: 6Health: 10/10Mana: 60/60
+
+Area damage, and life drain. Ali studied the monster carefully. It seemed weak beyond belief, but Ali had faced them in battle and knew just how terrifying they could be. They were incorporeal, ignoring physical damage and mundane armor.
+
+It’s a good thing I trapped them, she realized, otherwise, Mato might have had some more life drain to heal after subduing Seth in the sewer – however unlikely it might be that Seth’s low-level summon might score a critical hit on Mato. Seeing the sheet answered a lot of the questions she had had after facing the Bone Wight and their Volatile Wraiths. Although seeing how low its health was, she made a mental note to try slicing them with barrier magic the next time she encountered one. These things are like self-guided Fireballs…
+
+“That is an incredibly powerful class,” Vivian said, finally. “An area attack; you can heal your minions with your own damage; and regenerate your own health with life drain. Amplify Damage is an insane curse, and you can hide behind two types of monsters for survivability. If your class is representative of the typical necromancer, it’s no wonder they are so feared.”
+
+Seth grimaced, seeming to curl up on himself as if he wanted to be swallowed up by his seat.
+
+“It’s ok, Seth,” Mieriel said, reaching across to touch his shoulder. “You’re not in trouble.”
+
+Ali suddenly knew Vivian was sold, and it was not just the support of herself and Lira – she could see an undercurrent of excitement the Guildmaster couldn’t quite keep from showing on her face at the prospect of such a strong class – specter of necromancy or not – joining the guild.
+
+“Mieriel, can you ask Teagan to join us?”
+
+“Not Aiden?”
+
+“No, I think Seth’s abilities would be difficult to use with Havok’s holy magic as a tank. Teagan is competitive, she wants to become the strongest team in the guild, I think I can convince her to give Seth a fair shot.”
+
+Ali smiled. It was a relief to know that Seth would be receiving training, and a group to help him level up. She was curious to see how his skeletons and wraiths stacked up against her own sewer denizens.
+
+That wraith has some rather impressive abilities… wait, how did he…
+
+“Hey, Seth, how do you have the status sheet for the Volatile Wraith?” she asked. He had shown every single detail, including the skill descriptions, aptitudes, and attributes.
+
+“Oh… um. I have Eyes of the Damned – I just merged my awareness with the wraith and called up my status and I got it,” he said.
+
+Seriously? It can’t be that easy, can it? She stared at him for a long moment, and then her curiosity overpowered her surprise. Switching to the point of view of one of her rogues waiting outside, she opened her status.
+
+Oh, it worked!
+
+Race: KoboldActive Buffs: Rogue's Attributes, Uncanny DodgeClass: Rogue – level 23- Precision Strike – level 15- Dagger Mastery – level 17- Stealth – level 15 (+2)- Ambush – level 12- Uncanny Dodge – level 12- Rogue's Attributes – level 14- Deadly Poisons – level 9- Mutilate – level 6- [Locked] - [Locked]General Skills- Identify – level 7- Trapmaking – level 6Aptitudes- Language: Draconic- Draconic Blood (Racial): Resistance to Fire is increased by +161- Darkvision (Racial): You can see in the dark- Kobold Trickery (Racial): +5 to Dexterity and Intelligence- Critical Strike (Class): +100% to Critical Damage- Sneaky (Class): +2 to skill level of Stealth skillsAttributes- Vitality: 45- Strength: 77 (+30)- Endurance: 95 (+37)- Dexterity: 167 (+65)- Perception: 33- Intelligence: 16- Wisdom: 9Equipment- Body: Leather Armor – level 20- Weapon: Eimuuran Darksteel Dagger – level 23- Weapon: Eimuuran Darksteel Dagger – level 22Evasion: 324Dodge: 33.47%Health: 450/450Stamina: 665/950 (285 Reserved)Mana: 90/90
+
+Stunned, Ali missed the next few minutes of the conversation as her mind flittered from minion to minion checking everything.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

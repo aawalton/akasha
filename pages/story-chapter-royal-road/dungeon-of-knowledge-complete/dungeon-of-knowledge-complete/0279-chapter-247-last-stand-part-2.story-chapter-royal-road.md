@@ -1,0 +1,115 @@
+---
+id: 878afede-5ed2-5c9e-a7c7-3c093343850a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 247: Last Stand (Part 2)"
+slug: 0279-chapter-247-last-stand-part-2
+partOf: dungeon-of-knowledge-complete
+position: 279
+ownLength: 1801
+unit: words
+ownProgress: 1801
+publishedAt: 2025-05-12
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2273712/chapter-247-last-stand-part-2"
+royalRoadId: "2273712"
+markedReadAt: "2026-06-29T20:20:41.482Z"
+---
+
+Fuck, the troll has Last Stand, too! This is bad!
+
+In Mato’s repertoire, Last Stand was his best defensive ability. But in the hands of a Berserker, it was a potent damage boost. Berserker rage grew proportional to how much health you had lost – relative to your maximum. Typically, a berserker’s current health value went down to increase his damage, but Last Stand granted temporary health – allowing the percentage of health lost to increase beyond one hundred percent.
+
+And mine will wear off first.
+
+“Mato’s in trouble,” Calen said – likely realizing the exact same thing.
+
+“We have to kill it faster,” Malika got out between kicks.
+
+Our only chance is to kill him before my Last Stand runs out, Mato thought, lining up a Swipe attack. But will that be enough? He still had Bloodlust, so he furiously blocked everything he could, taking advantage of the melee haste to reduce his incoming damage as much as possible. Mato anxiously counted the seconds, giving up on dealing damage except to refresh his Brutal Restoration and armor-piercing debuff.
+
+“Five seconds,” Calen shouted, uncannily accurate in his assessment of Mato’s skill expiration.
+
+With Mato’s Last Stand about to expire, the troll was still not dead. In fact, he was so powerful that Mato was struggling even with his Last Stand armor and health. When it dropped… he didn’t want to think about that. Suddenly, thick gouts of blood burst from the Troll’s arms and chest, and it spun into its whirling vortex of blood and blades. Bloodlust expired, and with the loss of haste, Mato missed the timing on his block. The heavy greataxe struck him heavily in the left flank, crushing bone like paper and launching him sideways across the pool like a skipping stone. A splintering crack and impact told him he had felled another tree. He groaned and rose to his feet, shedding the bulk of the tree as his Last Stand fell. The enormous bulk of the troll was already in the air over the pool in the middle of a cloud of water spray and bloody mist, descending rapidly with both axes ready to strike.
+
+Mato sprinted, but not at the leaping troll. He rushed across the pool of water, launching sprays of water into the air as he muscled his way through. As soon as he reached the other side, a Blood Siphon ribbon found him and Malika appeared, jolting his muscles with her violently invigorating healing spell.
+
+“Mato, kite it. It’s nearly dead.”
+
+Calen’s idea seemed crazy, but being catapulted across the pool had probably saved his life. As the troll was now, Mato probably couldn’t survive even a single hit. He turned and faced the troll as it charged across the pool in a great spray of water, fireballs, arrows, and ice bolts. Jump, you big lug. Jump! Mato had plenty of stamina, and his Charge was almost ready. He bolted in the opposite direction, keeping an eye on the troll.
+
+Survival Instinct triggered the instant the troll leaped.
+
+“Mato!” Ali screamed.
+
+I got this, little one, he thought, pulsing the sense of it into one of the drakes. He hated terrifying Ali.
+
+Wheeling about, Mato used his Charge in the opposite direction, relying on the assumption that the troll’s leap skill didn’t allow him to change trajectory in midair. When the troll landed in the area where he had just vacated, the impact of his powerful strike and mass left a crater in the ground, but Mato was already halfway across the pool again, running in the opposite direction.
+
+This is stupid. Running from his foe felt so wrong, but he kept this thought to himself. It was not like he had much choice. At least he had pissed off the Berserker so much that he still seemed intent on killing him at all costs, even while the magic detonated around his enormous body.
+
+Survival Instinct triggered the instant the troll leaped back towards him, and Mato spun again, reversing his direction. He charged across the pool of water with the sound of fireballs detonating overhead like fireworks during a Harvest Festival celebration. He almost missed the chime in all the noise, but the crash of the big troll landing in the water was unmistakably a mountain of dead flesh striking the ground, rather than the relentless juggernaut he had been fighting.
+
+Your group has defeated Blood Berserker – Giant Troll – level 97.
+
+“His Last Stand wore off,” Malika said, landing gracefully on the huge monster’s still back.
+
+Did she… nevermind. Mato shifted to his Beastkin form and waded out of the pool. He had not personally tested it, obviously, but he was sure that if Last Stand wore off, and you had less health remaining than the temporary boost it gave at the start, you would instantly die. There was a possibility it left you alive with a tiny amount of health, but the berserker troll had been running self-bleeds to power his magic the entire fight – it wouldn’t have made any difference. And if the bleeds didn’t do it, a fireball or Calen’s arrows or something else would have finished the job.
+
+“We ran out the clock,” Calen said.
+
+“Seems like it,” Ali agreed.
+
+Mato grinned. Apart from running around like a lunatic, this had been one of the best fights in the entire dungeon. A challenging opponent who hits hard and doesn’t have any stupid tricks like Mok’freja’s stupid freeze, or Kir’vella’s stupid banishment to another realm curse, he thought, satisfied for once. He sat on a piece of the tree he had snapped with his body, content to rest for a bit. Sure, he hadn’t been hitting the monster near the end, but they had done enough damage to kill it. It had been fighting on borrowed time. Besides, a technical victory was still a victory.
+
+And I earned a level, he thought, feeling that it was appropriate for what he had just endured. I’ll take it.
+
+Druidic Shapeshifter has reached level 82.+10 attribute points.
+
+Nice, eighty-two. It almost made up for his frustration fighting the Ice Queen. He spent four of his newly earned points on strength, hopefully improving his blocking skills. Two each went to vitality and endurance, shoring up his resilience. If they met another berserker like this one, he was certain he’d need it. Finally, he spent one each on wisdom and perception, boosting the foundations of his class and the skill that most reliably kept him from dying. Right, let’s see these skills or Calen will be having words.Swipe has reached level 46.Brutal Restoration has reached level 46.Bear Form has reached level 41 (+2).Rampant Growth has reached level 20.Bestial Combat has reached level 38.Natural Prowess has reached level 35.Survival Instinct has reached level 40.Battle Trance has reached level 27.Last Stand has reached level 13.Identify has reached level 16.
+
+Skills seem to be doing well. Especially given that the troll had not been a boss, the number of skills that had leveled up was remarkable. Mato hadn’t seen something like this since the earliest levels.
+
+About to get up, Mato froze as his chime sounded once more. Something else? Why the odd delay? He looked inward, curious to see what had happened.Requirements met for skill advancement.  Deity: AzryetBear Form has reached at least level 40.Strength and Endurance have surpassed 400.Survived an Overpower critical hit. Survived a giant berserker attacking with more than a 200% health deficit. Bear Form gains Armor of Thorns.Thorns spring from your hide, reflecting a percentage of each incoming Melee or Physical attack back on the attacker. The amount of damage reflected is proportional to Strength.Bear Form gains Critical Block.Stamina: Fully block all damage from an incoming Melee attack. Your Critical Block does retaliatory damage to the attacker, proportional to the amount of damage blocked, scaled by your Strength. Trigger, Recharge: 30 seconds.Choose one advancement.
+
+“Oh, wow,” Mato muttered, eyes widening.
+
+“Something nice?” Calen asked, sharp ears catching his words.
+
+“Uh, yes,” he said, sharing the options, but his heart was set.
+
+“A… full damage block?” Malika asked, staring at him.
+
+“Yes. With a retaliation component,” he answered.
+
+“Are you sure you don’t want thorns?” Calen asked. “You’d get to look like a porcupine.”
+
+“You’re supposed to be helping, Calen,” Mato said, leveling an unimpressed glare at his friend.
+
+“Armor of Thorns is quite strong,” Calen chuckled. “But, besides making you look a bit silly, I agree, Critical Block is far better.”
+
+Mato grinned and selected his newest advancement. After fighting against the giant Blood Berserker troll, he had a new appreciation for the value of damage reduction, and Armor of Thorns did not increase his armor or mitigation at all. It appeared to be an entirely passive damage skill – quite good, as Calen had said. But… when the fight had gotten rough, he hadn’t needed to do more damage or be more threatening; he had needed a skill that let him block those ridiculous axes.
+
+As a triggered skill, it would necessarily be reactionary, like his Battlemaster. With a thirty-second recharge, he would need to use it strategically, but he already knew it would prove to be a pivotal tool in dangerous battles. In an easy fight, it would be an extra source of damage. On more dangerous fights, he could keep it in reserve in case his healers got punted into the forest again. But he was most excited to test out the pairing with Survival Instinct against the enormous strikes that Berserker had leveled at him under the influence of his enormous rage.
+
+“Ok, here’s the full skill,” he said, sharing Bear Form’s description with everyone.
+
+Bear Form – level 41Stamina: Shapeshift into a bear. Your hide provides +1961 [class x 12 + skill x 12 + endurance] natural Armor. Granted Skills: Charge, Challenging Roar, Critical Block.Nature, Shapeshift, Buff, EnduranceBear Form grants the following skills: ChargeRequirements: Bear Form.Stamina: Charge at high speed using your momentum to check or crush your opponent. Range: 33.3 yards. Recharge: 10 seconds.Physical, Melee, Movement, StrengthChallenging RoarRequirements: Bear Form.Stamina: Challenge your enemies with a powerful roar. Each enemy is Taunted to attack you and receives a reduction to Strength. Range: 50.4 feet, Duration: 30 seconds. Recharge: 30 seconds.Physical, Melee, Area, Debuff, Taunt, StrengthCritical BlockRequirements: Bear Form.Stamina: Fully block all damage from an incoming Melee attack. Your Critical Block does retaliatory damage to the attacker, proportional to the amount of damage blocked scaled by your Strength. Trigger, Recharge: 30 seconds.Physical, Melee, Defense, Strength
+
+“That’s impressive, Mato,” Ali said.
+
+“Yes, if we don’t watch out, he’s going to get strong soon,” Calen deadpanned.
+
+Malika snorted.
+
+Mato just glared at him. “Someone doesn’t want dessert with his dinner…”
+
+“Wait… there’s dessert?” Calen said, eyes widening in surprise.
+
+“There is now!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

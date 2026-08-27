@@ -1,0 +1,161 @@
+---
+id: 80c55a91-d7db-5811-8523-e8e194f92576
+page-type-slug: story-chapter-royal-road
+title: "Chapter 218: A Lesson in Necromancy (Part 1)"
+slug: 0244-chapter-218-a-lesson-in-necromancy-part-1
+partOf: dungeon-of-knowledge-complete
+position: 244
+ownLength: 3225
+unit: words
+ownProgress: 3225
+publishedAt: 2025-04-02
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2168496/chapter-218-a-lesson-in-necromancy-part-1"
+royalRoadId: "2168496"
+markedReadAt: "2026-06-29T20:19:26.503Z"
+---
+
+Eternity bends to those who dare to claim it.- Nevyn Eld, The Blind Lich.
+
+Mato quietly set himself to the chore of tidying up camp after dinner, making sure everything was properly arranged without disturbing Ali’s studies. He set aside a bowl of stew for whenever she decided to rejoin them in the real world and then ventured a short way into the mossy trees to practice his Herb Gathering skill on several interesting plants he had spied growing there.
+
+Despite the close call, he had quite enjoyed the fight against Kir’mogan. The troll warrior had been an incredibly powerful and skilled fighter and had challenged him to the limit of his abilities and beyond. The fact that he had had to rely on Ali and his automatically triggered Last Stand to save him in the end took nothing away from the experience and all he had learned. His fingers absently found the jagged edges of the gash torn through one of the bands of his sturdy plate armor.
+
+It simply means I have good friends on my side, he thought. There had been a time when he had wanted to be strong enough to stand on his own, but that mindset was long gone, abandoned in the face of the many bosses and challenges they had faced together – challenges so great that no one person could face them alone.
+
+And I still have so much room to grow. Is it time to think about better armor again? Hold on. What did I get from that fight? Too lazy to check earlier, he grumbled to himself, calling up the notifications. He had been far more interested in dinner.
+
+Druidic Shapeshifter has reached level 70 (+5).+50 attribute points.
+
+Yes please! He stopped for a moment, letting the reality of five levels gained settle within him. Defeating Kir’mogan had left him with a profound sense of achievement, a productive and worthwhile day and one that would remain etched in his memory for a long time. He had fought a hard fight and, together with his friends, they had prevailed. They had saved a young troll from torture, and he had a powerful conviction of setting things right when he had witnessed Ali turning the horrid bone altar into motes of mana. Hopefully, their efforts would go some small way to righting the evil that had been wrought against the inhabitants of Aman Rak.
+
+Level seventy. He was well past his father’s level now – and his entire family, for that matter. He took a deep breath and stored the curious lilac flower in his ring, turning his attention to his impressive haul of fifty attribute points. Considering just how hard Kir’mogan’s axe had hit, he immediately spent fifteen points on vitality. It would give him a bigger buffer to survive, and give Last Stand more to work with when he needed it. He spent seven points on endurance to shore up his combat resilience a bit and added ten points to strength – this time not thinking as much about hitting, but the attribute would increase the amount of damage he could block. For his remaining points, he decided to spend ten on perception – his most reliable lifesaver being Survival Instinct, and then added the last eight points to Wisdom to boost his mana, but also the contribution of attributes from Natural Prowess.
+
+That ought to do it, he thought, nodding his head and moving on to his skill notifications.
+
+Swipe has reached level 42 (+3).Brutal Restoration has reached level 41 (+2).Bear Form has reached level 35.Rampant Growth has reached level 13 (+3).Bestial Combat has reached level 35 (+2).Natural Prowess has reached level 29.Survival Instinct has reached level 33 (+3).Battle Trance has reached level 21.Last Stand has reached level 11.Identify has reached level 14.Herb Gathering has reached level 12 (+2).
+
+Now that they were finally fighting outside, his Rampant Growth skill was starting to bloom. He grinned briefly at his own internal pun. While the shamans with their free action totems were a significant hindrance, once they were dealt with, the skill he had learned from Lira had begun to show its true strength as a battlefield control tool.
+
+Your actions have increased the reputation of your patron.
+
+He hadn’t been quite so certain of taking Azryet as his patron, especially given how unreliable Devan had said the damage bonus was. However, having experienced it in battle, he was beginning to come around. Both times the blessing had triggered against Kir’mogan it had been in crucial moments – the void trigger at the start had really helped lock down the monsters, and the holy trigger had been exceptionally powerful against the undead, giving him a boost to his restoration that had undoubtedly saved his life.
+
+Is chaos random? He had expected the trigger to be random, but the patronage listed Azryet’s traits as Chaos, rather than random or luck. He had no idea what that meant, but he was certain Calen would love to discuss it at length.
+
+Oh, there’s more! Eagerly he read on.
+
+Requirements met for skill advancement.Deity: Azryet.Swipe has reached at least level 40.Survive an Overpower critical hit. Strength has surpassed 350.Swipe gains Brute Force.(Stamina: Throw the full force of your mass and strength behind your next Swipe, knocking your enemies back. The knockback effect is proportional to how much your strength and weight exceeds that of your target. Recharge: 30 seconds.)Swipe gains Deep Gash.(Swipe has a chance to inflict a Bleed for your critical damage amount on hit. Bleed chance is proportional to how much your strength exceeds that of your target.)Choose one advancement.
+
+Brute Force? Deep Gash? This was the first advancement influenced by his patronage with Azryet, and he immediately understood why Lira had counseled taking on the dragon god’s influence to offset her own. She was such a peaceful being who loved nature and her forest; there was no way her mana could have helped him earn a skill like this.
+
+But which one should I take? On the surface, Deep Gash seemed more effective, adding a new source of damage based on his strength. But… he didn’t want to pass up anything potentially strategic.
+
+“Hey, Calen,” he called out, and his friend immediately perked up. “Take a look at this, which do you think is better?”
+
+“Oh, those are good,” Calen said upon receiving his shared notification.
+
+“I’m thinking Deep Gash – it’s useful all the time, not just every thirty seconds,” Mato said, rubbing the back of his head.
+
+“Well, do you want damage or control?”
+
+“Control? What do you mean?”
+
+“That knockback is a control skill for melee,” Calen said. “Think about this last fight – maybe you wouldn’t have been able to use it on Kir’mogan, but all his minions and the undead would have been fair game. Your Swipe can hit multiple enemies, so you could have created room every thirty seconds where most of them were flying away from you.”
+
+“I struggled to make space with my roots all fight,” Mato mused.
+
+“Yup, I saw,” Calen said. “Those totems are effective.”
+
+“I don’t get a lot of critical damage,” Mato added, considering the other offering. Also, if he found himself in a fight where he could use his roots, maybe he could knock enemies back and then hold them away from him whenever he needed. “I’m thinking that maybe this Brute Force knockback gives me more options?”
+
+“I think so too,” Calen agreed. “And you’re going to continue investing in strength anyway.”
+
+“Ok, that’s settled, then,” he said, choosing the knockback over the bleed. It didn’t quite live up to the devastating power of his second Battle Master advancement, but more battlefield control should be best for his tanking role.
+
+Swipe – level 42Stamina: A slashing attack that hits all enemies directly in front of you for weapon damage +399% [skill + strength].Stamina: A master at battlefield control, you take advantage of your enemy’s distraction. Whenever you are in range of a creature and it attacks someone else or tries to leave your range, you can instantaneously retaliate for weapon damage +756% [skill + strength x 2]. +20% chance to deal critical damage. 100% chance to cast level 42 [skill] Grasping Roots on hit. Conditional Trigger.Stamina: Throw the full force of your mass and strength behind your next Swipe, knocking your enemies back. The knockback only affects opponents lighter and weaker than you. Recharge: 30 seconds.Physical, Melee, Area, Strength
+
+It’s a useful tool. As he finished up, his chime sounded again. And another, let’s see now…
+
+Requirements met for skill advancement.Mentor: Lirasia.Battle Trance has reached at least level 20.Wisdom has reached 125.Survive a fight against a boss that drains all your mana. Battle Trance gains Rejuvenating Sap.(+mana)Battle Trance – level 21.Every time you are hit, stamina and mana regeneration are increased by +165% [60 + skill x 5] %. Duration: 2 seconds.Physical, Melee, EnduranceAccept this advancement?
+
+He immediately recognized Lira’s influence in this advance. While it was a skill aimed at combat, it also fit with the theme of his tree and the regeneration of mana, something he was beginning to realize was a big part of who Lira truly was.
+
+Even though it was a fairly straightforward advancement, he was much more excited about this one than the first. So many times, he had had to hold back his mana, saving it for crucial moments when he needed more healing. Having a consistent regeneration improvement in battle was going to help him out enormously – especially against monsters like the Mana Eater, or the Radiant Brawlers which destroyed or drained mana.
+
+Against Kir’mogan, this skill had really kept him in the fight, the Bone Warriors’ attacks had come so fast that he had multiple regeneration boosts stacked simultaneously for most of the fight. He had spent most of the extra stamina on simply blocking as many attacks as he could to reduce the total incoming damage. And now it would be mana too, which would help his Rampant Growth, Arboreal Sanctuary, and Brutal Restoration.
+
+Malika’s going to love this one, he thought as he accepted it. All in all, a good result after a brutal day’s work.
+
+Malika sat near Ali and cleared her mind. Her friend was working hard, and on something only she could do. She watched for a while, noticing her distant gaze, her eyes flickering from location to location, looking at magic that, to Malika, was invisible. Her expression was one of total focus and concentration, and there were visible beads of sweat on her brow.
+
+I hope she’s ok, Malika thought. Ali had been pushing herself hard since they encountered the Corrupted Fire Drake at the end of the mines, motivated by the lack of mana and the difficulties of protecting herself with dungeon bosses, and they really hadn’t taken a break in a long time. Today, Ali had leapt into the necromantic sacrifice magic emitted by the bone altar without hesitation, trying to save Gara. I’ll ask her about maybe taking a bit of a break after we finish this dungeon, she thought, turning her attention back to the item resting lightly in her lap.
+
+Ancestral Bone Mask – level 65+42 Wisdom+33 Dexterity+18 Vitality+25% Evasion Requirements: Dexterity 130, Wisdom 130Quality: UncommonValue: 15 gold, 3 silverHead – Mask
+
+It was a delicate-seeming item crafted out of bone, but Malika had personally verified its toughness by punching it while it was still on the face of one of the troll shamans. It had black diagonal designs painted across the left eye, and red accents on the right edge, along with subtle and delicate etchings on the surface, giving it a textured look. She had no idea what the paint meant, just that the trolls’ ideas of battle paint were not what she would have picked. But she was willing to put her aesthetic sensibilities aside for this – the item had an extraordinarily good synergy with her class, and she was the only one in their group who could even attempt to wear it. She had just passed the level requirement to equip it, and with her class restrictions, she couldn’t afford to pass up any appropriate items. She brought the mask up, finding it magically attaching to her face, yet somehow not obscuring her vision in the slightest, not even at the periphery.
+
+I just hope the others don’t laugh too much, she thought with a smile. We’re all going to look pretty silly at this rate.
+
+Soul Monk has reached level 69 (+5).+50 attribute points.
+
+We all earned five levels, she thought, recalling some of the after-combat discussion. Except Ali. But the little Fae was still ahead of everyone. Malika smiled proudly – they were all doing incredibly well, and a fair distribution of rewards sat well with her. Everyone had contributed.
+
+Time to focus on my core traits, she decided. Malika had been diligently spreading her points out, making sure that nothing fell too far behind, but now she felt she had a little leeway to indulge – especially with the substantial boost coming from the new mask. She spent twenty points on dexterity, feeling an electric tingle all over as her muscles reacted to the change. Then she split the rest, ten each into endurance, wisdom, and perception. Instantly, the view of her friends’ stamina clarified, the tiny wisps of energy coming into sharper focus in her Soul Sight.
+
+This will work. She would be faster, sharper, and more accurate – perfect for whatever this dungeon threw at them. So, without wanting to sound greedy, anything more for me today?
+
+Martial Artist has reached level 35 (+3).Soul Strike has reached level 41.Healing Mantra has reached level 41 (+3).Perfect Body has reached level 26 (+2).Soul Armor has reached level 31.Enlightened Evasion has reached level 34 (+2).Divine Step has reached level 35 (+2).Second Wind has reached level 21.Clarity has reached level 21 (+3).Soul Sight has reached level 22 (+2).Appraise has reached level 19.
+
+As she reached the end of her skill notifications, Malika’s chime sounded again, signaling the advancement of a skill, and she caught her breath in her throat as she eagerly read on. Here we go!
+
+Requirements met for skill advancement.Mentor: Rezan Jin.Has an awakened Ahn Khen Bloodline.Clarity has reached level 20.Wisdom has surpassed 550.Endured the Desolation aura of a Death Knight.Survived the Soul Terror of a Lich.Survived mind magic, up to second-tier level.Resisted a Taunt.Resisted an Intimidating Shout.Survived being knocked unconscious by a Sleep spell in battle.Retained your wits under the influence of a Pit Lord’s corruption.Clarity gains Adamant Mind.(You gain + [40 + Bloodline + Skill + Wisdom] % increased Resistance to mind-altering effects).Mentor: Rezan Jin.Has an awakened Ahn Khen Bloodline.Clarity has reached level 20.Wisdom has surpassed 550.Trained extensively under continuous magical damage.Endured raid-level death, bone, blood, and fire magic.Endured second-tier blood, hellfire, mind, and death magic.Clarity gains Diamond Body.(You gain + [(Bloodline + Skill) / 2] % increased Resistance).Choose one advancement.
+
+Her first bloodline skill had finally advanced. And it sure didn’t disappoint – against creatures at her level, she would gain a whopping thirty-three percent boost to resistance against magic. Ordinarily, she would have immediately taken the general resistance over the specific one, using the same logic she had employed when advancing Soul Armor to add Resistance, but her eyes stuck to Adamant Mind like glue, while the scene of them laughing and giggling like teenagers in the Abyssal Realm replayed in her mind.
+
+What use is a bit more fire resistance in the face of that?
+
+When she had first run into Mieriel’s magic, she had been forced to consider the implications of someone stealing her will. Without her knowledge or consent, she had not even known to fight back. Then, in the Abyssal Realm, it happened again. Mieriel’s feedback had been clear – it was far harder to fight back against a threat you didn’t even know about.
+
+Adamant Mind would make her effectively immune to mind-altering effects. Fear, charm, mind control, intimidation, the list of skills and attributes that affected the mind was substantial – nearly all of which stripped a person of their ability to defend themselves. Certain death.
+
+There were always ways to boost skills higher or penetrate resistances, but with an increase of over six hundred percent resistance, her Clarity was a passive skill that would provide extraordinarily robust protection for her mind. Even the requirements for the offered advance showed the breadth of mind-altering effects she had already endured; everything from the lich’s fear to what must have been Mieriel’s mind magic, and the mind magic of the demonic Sentinels. Even taunts and the Violet Dreamcloud mushroom spores that had put her to sleep fighting the Forest Guardian in the jungle were on the list – simple mind-altering effects that could have easily ended her and her friends.
+
+“Hey, Calen? I’ve got an advancement choice. What do you think of these?”
+
+“Adamant Mind,” Calen said, without an instant’s hesitation.
+
+“Why?” she asked. She was strongly leaning that way herself, but she wanted to understand his reasoning.
+
+“Mind effects are so catastrophic that failure is almost certainly going to result in death. If even one of us can reliably avoid losing their minds, they can save the rest,” he said. “It will hurt to lose thirty percent resistance, but you can heal more most of the time. Lose to a mind mage and you can’t even conceive of escaping.”
+
+“That’s what I was thinking,” Malika said.
+
+“Also, doesn’t your Clarity skill buff the people you heal?”
+
+“Oh, shit, you’re right,” Malika said. “Will it work like that?”
+
+“I don’t see why not.”
+
+And that’s why I consult with you, my friend! Malika selected Adamant Mind and felt something shift, a settling, like girding herself with armor – only inside her head. Quickly she checked her bloodline aptitude for any signs of problems, but everything seemed alright, so she inspected her skill.
+
+Clarity – level 21Your proficiency with meditation is enhanced by your Ahn Khen bloodline. Your mind has reached a permanent state of clarity, during which mana and stamina regeneration is increased by +355% [40 + skill x 15]. Bonus is doubled if you sit and focus.Your mind remains focused and clear in the presence of danger. You gain +674% [40 + Bloodline + Skill + Wisdom] increased resistance to mind-altering effects.Soul, Bloodline, Wisdom, Endurance
+
+“Here goes,” she said, feeling a sudden prickle of anxiety. She retrieved a saved Essence of Fire and waited a moment for the pure flame to burn her skin before she healed herself.
+
+You have gained Clarity.The path to restoring your energy begins with a calm mind. +355% to mana and stamina regeneration.+674% to resistance against mind-altering effects. Buff – Duration: 20.5 seconds.
+
+She gasped. Incredibly, her new Adamant Mind was now also part of Healing Mantra’s buff. Instead of just boosting regeneration, she could use Healing Mantra to double the warding effect on her mind. If only she had had this when meeting the Death Knight, exploring the Abyssal Realm, or when overcome by the soporific violet dreamcloud mushrooms, those encounters would have turned out vastly differently.
+
+“Does it work?” Calen asked, curiosity brimming in his eyes.
+
+Wordlessly, Malika handed him the Essence of Fire and then healed him.
+
+“Holy shit,” he whispered.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

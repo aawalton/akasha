@@ -1,0 +1,119 @@
+---
+id: 609d47b8-77b4-5e51-a696-45438bece22e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 212: The Temple of Aman Rak (Part 1)"
+slug: 0229-chapter-212-the-temple-of-aman-rak-part-1
+partOf: dungeon-of-knowledge-complete
+position: 229
+ownLength: 2031
+unit: words
+ownProgress: 2031
+publishedAt: 2025-03-17
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2132133/chapter-212-the-temple-of-aman-rak-part-1"
+royalRoadId: "2132133"
+markedReadAt: "2026-06-29T20:18:55.172Z"
+---
+
+Troll culture has remained essentially unchanged for the entirety of recorded history. To an outsider, their culture may appear brutal, tribal, and primitive – authority is established through violence and domination, individuals adorn themselves with warpaint and tattoos and live in rustic huts in the wilds. However, Troll society possesses an overwhelming richness of history, magic, and tradition. The most important factors driving their culture’s extraordinary stability are the fact that their powerful innate regeneration renders them effectively immune to death from natural causes – and a substantial portion of the unnatural ones – and that almost all Trolls are born with potent magical bloodlines. In fact, the rare Trolls that are born without magical affinity are considered deformed and many tribes will discard or dispose of them with barbaric rituals.While they are not particularly numerous, a tribe of near-immortal magical beings has little need for the normal mundane trappings of a civilization. Trolls living in their huts, or primitive-seeming city-kingdoms are much more at home relying on their magic in natural settings than in the cities and sophisticated dwellings of other races. Nevertheless, a Troll tribe is a potent force, well capable of defending their territory against incursions and invaders. - Excerpt from Cultures of the Modern-Day Kingdoms by Evanna Quillmore the Scribe.
+
+Calen leapt to his feet as Lyeneru burst into the Pathfinders Guild Hall, bringing a gust of fresh outside air, laden with the scent of the Ciradyl trees and fresh forest growth. Malika and Mato glanced up from their conversation on the couch, while Ali put the finishing touches on her recording of Ciradyl’s teleportation locus in her notebook.
+
+Elves glanced up or scrambled out of her way in a rippling wake as the Legendary Pathfinder strode across the room with purpose.
+
+“Aah, good, you’re all here,” Lyeneru said. “We leave immediately. The council has instructed us to provide any aid we are able to offer to defend Aman Rak. Our primary objective is to learn the fate of the Telim Gor delegation. I assume you can all fly?”
+
+“I can’t,” Mato said, raising his hand.
+
+“I’ll carry him,” Ali answered.
+
+“Good, let’s go,” Lyeneru said.
+
+They flew north and west, leaving Ciradyl behind, following the jagged snow-covered peaks of the mountains of Dol Kerriadh. Lyeneru led them high above the verdant jungle that covered much of the lowlands between the mountains and the Gulf of Serenity, trying to ensure they didn’t provoke any monster attacks from below but, even though Calen flew beside the Legendary Pathfinder herself, he still kept a sharp eye out, taking in everything as they passed.
+
+He noted signs of plentiful game below the canopy, waterways, and isolated settlements. From this height, Calen could even see the blue expanse of the gulf beyond the edge of the peninsula. All was quiet and peaceful as they flew, and nothing disturbed their passage.
+
+It was a couple of hours into the flight that his sharp vision picked out rough stone buildings high up the mountains, nestled among the peaks and ridges. “What is that?”
+
+“Telim Gor,” Lyeneru answered, identifying the settlement. “Home of the Ice Trolls. Tol’zerath’s kingdom. Legend says it has stood there since the first age.”
+
+“Sages from Telim Gor would visit us in Dal’mohra sometimes,” Ali said. “They came to lecture on history or to use the library for research.”
+
+“It’s really high up,” Calen said, noting the location, and automatically estimating the number of buildings and huts as they passed by. It was by no means a small settlement – while it was difficult to compare, he guessed the population might even be close to that of the huge Wood Elf city of Ciradyl.
+
+“Most are born with bloodlines aligned with ice affinities – they find it more comfortable up there among the snowy peaks than down in the muggy lowlands,” Lyeneru explained. “It will be the reverse when we reach Aman Rak.”
+
+They passed the icy troll kingdom from afar, not finding any reason to go out of their way, and after it had been long past, Calen’s attention returned to the aborted archery class earlier in the afternoon. His thoughts did not dwell on Malanior’s hate and prejudice though, but something Nendir had said, an echo of Lyeneru’s earlier comments.
+
+“Lyeneru, why is it that you and Nendir care so much about my confidence?” he asked. Lyeneru remained silent for so long after his question that was sure he must have offended her somehow, but eventually, she turned and studied him with a piercing look.
+
+“Being a Pathfinder isn’t just about your personal skills and class level,” she said, her voice level, betraying no annoyance at answering his question. “A Pathfinder is a symbol of strength and leadership, one that people instinctively look up to. To truly progress, you must embody those ideals. When you show up on the battlefield, often your confidence, knowledge, and leadership will save more lives than your bow.”
+
+“I see,” he said. Calen considered her words in silence. What she said made sense, and she embodied exactly what she had just described. When Calen had first seen her, he had been in awe of her status and reputation as a legendary Pathfinder, even before he knew who she was. He would have followed her without question, had she required it – and he knew most people would have done the same. It was an intimidating presence to try and emulate.
+
+“You have time,” she added, cracking a small grin, as if she had read his mind and understood his hesitation. “But it’s also the main reason Nendir was so concerned with how fast you’re leveling your class. You’re rapidly outgrowing your education and your skill levels. In the Pathfinders Guild, there is a policy to keep class level progressing slowly while focusing more on well-rounded education, especially at the novice and initiate levels.”
+
+“That explains why Coria only gained a single level since my last visit,” Calen said, connecting the dots. It was a safe policy – a conservative one – and he understood why they would insist upon it. Elves were long-lived and had few children – the idea of losing a life was perhaps even more traumatic to them than it was to the shorter-lived humans.
+
+“Yes, she is training hard,” Lyeneru said. “It’s the reason she surpasses your bow skills in technique, despite your higher level.”
+
+It’s not like we had much choice, though, he thought considering their progress. Granted, they could have ignored the Emberforge Mines for a few years while honing their skills, but they were almost as likely to die to an assassin in Myrin’s Keep as they were deep underground facing monsters. Well, perhaps not so much now that they’d reached gold rank, but still. He had to admit the implied rebuke stung a little but, he reminded himself, a forest might be traversed by many pathways. Her wisdom did not suggest stopping progress, but argued for balance.
+
+They flew further north until he began to see the distant pillars of miasma rising from the blighted forest, and he recognized they were approaching the northern reaches of the Troll kingdoms and the southern border of New Daria – the same area he had been sent to scout.
+
+“There it is,” Lyeneru said, pointing northward and down toward the verdant green jungle. “Aman Rak. It seems intact.” Although her tone was level, Calen detected a note of relief in her voice – like she had been braced for something far more terrible. The miasma of the death dungeon was still only visible in the distance, and everything below where Lyeneru pointed was verdant and green still, untouched by the dread blight.
+
+Calen surveyed the Troll kingdom, a ragged collection of huts and stone buildings nestled among the trees and overgrowth. It sprawled out from the mountainous cliffs it was nestled up against, extending deep into the jungle, making it quite hard to estimate a good size for it. But according to his eyes, it was at least as large as the Telim Gor kingdom they had passed. At the top of the cliffs, he spied an ornate temple constructed from heavy rust-colored sandstone blocks and what looked like the bones of a monstrous leviathan or dragon.
+
+“The mana looks… strangely twisted,” Ali said, squinting her eyes.
+
+Lyeneru’s jaw tightened at once. “Is that so?”
+
+Calen scanned the temple and the surroundings, his eyes catching on something odd. A large section of the jungle had been cleared away recently, leaving a wide scar when everywhere else, the city-kingdom blended with nature instead of ripping it away. Assembled within the scar, he could make out the ranks of figures standing like statues. Figures that ranged in color from red through dark gray to green-toned skin. Gleaming tusks protruded from their mouths and their powerful three-fingered hands grasped weapons of many kinds.
+
+But it was the stillness that caught his attention.
+
+“Something is wrong,” Calen said, pointing as the skin on the back of his neck starting to prickle. “They aren’t moving.”
+
+Lyeneru’s gaze snapped toward the ranks of the Aman Rak warriors, studying them intently. It wasn’t just that they weren’t walking around or talking; even from this distance, Calen should have been able to see them breathing. That was when he started noticing the signs of decay upon their bodies and the tautness of their skin – and suddenly he knew what had prickled his instincts.
+
+“Zombies!” he gasped.
+
+“We’re too late,” Lyeneru said in a flat voice. “Be on your guard. With me.”
+
+Lyeneru spiraled down, taking them lower and lower until they were skirting the tops of the trees, making their presence harder to spot from the ground. Calen followed close behind, feeding his Eclipse to blur his presence as she led them toward the mountainous cliffs and the pass filled with the larger important-looking stone buildings and lush jungle vegetation.
+
+“This is the temple. If anyone survived, they will be here,” Lyeneru said as she alighted on the ground where a simple trail led up through the trees to the pass.
+
+Calen took several steps forward and almost bumped into Lyeneru as she suddenly stopped cold.
+
+[Explorer] You have entered a dungeon.The Temple of Aman Rak – level ??Affinity: Blood, Bone.Age: New.Known Creatures: Troll.Known Bosses: --DungeonYour actions have increased the reputation of your patron.
+
+A dark shadow swirled up ahead.
+
+Ali screamed.
+
+A heavy dark bolt shot from the shadow, sizzling as it slammed into Lyeneru’s chest, knocking her coughing and choking to the ground.
+
+And then the familiar wave of unholy dread crashed through Calen’s heart as a sepulchral figure floated out from the dense overgrowth. His crimson runic blindfold gleamed brightly in the dim light as an unnatural twilight descended upon the forest. A clawed, twisted hand rose like a petrified tree limb, protruding from the wide cuffs, blazing with dark energy.
+
+Calen could not even breathe.
+
+For a moment, he was sure Lyeneru was going to die right there, the second titanic bolt already tearing across the shaded trail, aimed for her head. But she gritted her teeth, releasing a wordless scream of rage. A cascade of fire and lightning burst from her and she vanished, suddenly appearing above the trees, bow drawn with a scowl of pure determination etched upon her features. Without hesitation, Lyeneru unleashed an onslaught of arrows, ripping, tearing, and exploding among the trees, obscuring the Lich’s presence in the sudden storm of magic.
+
+Lyeneru glanced at him, and Calen knew instinctively what she required from him without even a word being spoken. With a howl of flame and a torrent of sparks, she took off, and the evil grasp of the Blind Lich released him as Nevyn Eld gave chase.
+
+Calen shivered, his legs giving out at the suddenness of the removal of the Lich’s dread aura, and he crashed to the ground.
+
+“F… fuck,” Malika whispered. “Everyone alright? Ali?”
+
+Ali stood beside her, trembling uncontrollably.
+
+“We don’t have much time,” Calen said, struggling to keep his voice from cracking. “She’s drawn him away. We need to investigate the temple before he returns.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

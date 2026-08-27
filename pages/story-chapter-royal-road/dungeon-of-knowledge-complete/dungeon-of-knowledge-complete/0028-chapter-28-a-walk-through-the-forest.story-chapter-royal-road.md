@@ -1,0 +1,281 @@
+---
+id: 94695e57-5e58-53bc-a8a9-af8d9cd96628
+page-type-slug: story-chapter-royal-road
+title: "Chapter 28: A Walk Through the Forest"
+slug: 0028-chapter-28-a-walk-through-the-forest
+partOf: dungeon-of-knowledge-complete
+position: 28
+ownLength: 4977
+unit: words
+ownProgress: 4977
+publishedAt: 2024-02-24
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1530509/chapter-28-a-walk-through-the-forest"
+royalRoadId: "1530509"
+markedReadAt: "2026-06-29T20:11:55.042Z"
+---
+
+Mato crouched in a dirty alleyway in the dim predawn light, extending a morsel of food on the palm of his hand to the timid stray dog. He held the pillow under one arm and tried not to get it dirty. Under normal circumstances, he would have avoided even entering such a dangerous part of town, but he needed information.
+
+At least I’m level eleven now. It wasn’t a particularly high level, but, pitted against the typical denizens that lurked in the slums of Myrin’s Keep, he should easily be able to hold his own. It was the higher-level thugs operating under the authority of those officially sanctioned organizations masquerading as ‘legal’ he would have to watch out for. The Town Watch – Kieran Mori’s organization – was particularly aggressive about snapping up anyone with dubious morals who managed to raise themselves above the dross.
+
+He wrinkled his nose at the stench of something rotten emanating from further down the alley past the first half-collapsed building. The dog looked mangy and underfed and seemed to have made its home in a hole behind one of the collapsed walls.
+
+Commander Brand’s aide at the garrison headquarters had proved unhelpful, having no information about Calen or Malika’s whereabouts, mentioning only that Calen’s mother had been there looking for him, too. Every day.
+
+Mato had thought that describing their attackers would have gotten him some help, but that had proved to be a big mistake. He frowned at the memory. As soon as he had described the hooded and masked rogue with a spear, and the instantaneous Impale attack, the aide had turned the color of a starched sheet. Identifying the man as Kieran Mori he immediately dismissed Mato saying that nobody could face the man known as Sudden Death.
+
+He could have bitten off his own tongue. Stupid mistake. Both Calen and Malika would have known better.
+
+It took a lot of digging before he turned up a lead. Someone in the market with connections to the darker underbelly of Myrin’s Keep had let him know that a Kel’darran slave caravan had visited town – and left almost a week ago. It was the timing that had caught his attention.
+
+Mato had stopped by Calen’s house to let his mother know what he knew – precious little – and had borrowed one of his pillows. Which is why he was crouched in this smelly alleyway trying to converse with a stray dog using his strange Beast language.
+
+The dog limped closer, hopping awkwardly on three legs, favoring a severe injury to the one held off the ground. The paw looked broken and badly infected. It seemed hungry and scared, but also extremely suspicious of this strange person offering a scrap of meat. Mato waited patiently for it to get just a little closer.
+
+As soon as the dog entered his Sanctuary aura, he connected, communicating calming feelings and a friendly intention. The dog froze. Mato relaxed, not making any sudden movements, and simply allowed his mood to flow outward, carried somehow by his aura. After just a few moments, the dog decided he really was friendly and limped over, wagging its short stubby tail in a way that Mato could only describe as tentative. As soon as the dog reached his hand, and the morsel of food, it began to relax too. The combination of his friendly intent, food, and the advanced regeneration shared by his Sanctuary seemed to be calming it down, and it looked at him now with more curiosity than fear.
+
+Mato held out Calen’s pillow for the dog to sniff and concentrated on his connection to the dog’s feelings. Immediately, Mato’s awareness was drawn into a fragment of the dog’s memory, recalled by the scent of the pillow.
+
+He was hungry and shivering, cowering under some boxes. Fear! There were people moving around on the street in the early light of dawn. Large, wrapped bundles were dragged out of the house and loaded into a wagon. Hungry! He crept forward hoping for food. Sniff! The scent of the bigger bundle matched the pillow. He crept forward again. One of the men turned and shouted, kicked him in the leg with a steel-tipped boot. Yelping in pain, he fled.
+
+The sensation of the memory faded, and Mato fed the rest of the food to the dog, scratching him gently behind the ears. “Good boy,” he murmured. “Good dog.”
+
+Calen and Malika were alive – at least they had been when they were loaded onto the wagon. And the several gray, lizard-like Kel’darran faces confirmed the lead he had uncovered in the marketplace. Knowing that they had left by the south gate just reinforced the story solidifying in his mind.
+
+Mato waited there for a while, giving his aura more time to work as he considered what he had learned. Eventually, finished with the food he had offered, the dog pranced around a little, clearly happy that his fractured leg had been healed, and then he scampered off.
+
+Thanks, buddy! Mato sent feelings of gratitude to the dog through his connection before it disappeared into the abandoned building.
+
+What kind of ass kicks a defenseless dog? I’ll kick his diseased gonads through the side of this wagon when I lay my hands on him! After memorizing the face for a future drubbing, he decided he felt better about life.
+
+He straightened up. Time to get Aliandra, she should be fully recovered by now.
+
+There was no chance Ali was going to stay home while Malika and Calen were held captive, prisoners to some slave caravan out in the wilderness. But when Mato told her that the caravan was a week out from Myrin’s Keep, the specter of her domain withdrawal crawled its way down into her gut and twisted inside her.
+
+“A week?” her voice betrayed her fear by cracking embarrassingly.
+
+“Yes,” Mato answered. “I organized for us to hitch a ride with the courier. He’s leaving in about an hour.”
+
+“Mato, I can’t survive that long away from my domain.” Her friends were being taken ever further out of reach, and there was no way she could travel for a week, rescue them, and still make it back home before her withdrawal killed her.
+
+“I need your help if we have to fight the caravan guards to rescue them,” Mato answered. “I bought these, what do you think?”
+
+Mato handed her a small pouch designed to be attached to a belt. Curious, she reached inside and pulled out a vial filled with a goopy viscous black sludge that seemed to swirl and twist without rhyme or reason.
+
+Potion of Recall – level 10 (Smoke)Break: Creates a cloud of black opaque smoke, teleporting you to a set teleportation locus.Locus: Novaspark Academy of Magic, Myrin’s Keep.Created by Morwynne Fizzlebang – “Run away!”Potion – Consumable
+
+Ali had never seen a potion like it before. Teleportation potions were not that unusual, and they were usually fairly expensive, a tool of the well-to-do and important folk who, for whatever reason, didn’t have access to their own teleportation skill.
+
+Smoke magic? It was the sight of the mana with its curious smoke affinity that captured Ali’s curiosity. Deep within the viscous black, she could see the mana billowing, somehow confined within the vial by the skill of the alchemist. It seemed to her sight that someone had captured an enormous cloud of black smoke and trapped it in the tiny vial.
+
+“How much did this cost?” Ali asked him, examining the vial and its magic. Whoever inscribed this mana signature is a smartass. She wondered at the kind of person who would add ‘run away’ to what was effectively an escape potion. Carefully, she wrapped it up in the cloth and tucked it back into the pouch.
+
+“Don’t ask. I figured after the ruins, we shouldn’t take any chances, even if it’s expensive.”
+
+His rueful grin, and the three other pouches he was carrying, told Ali everything she needed to know. He must have broken the bank to afford these.
+
+“Will it work?” Mato asked, a flicker of what looked like hope playing across his features.
+
+Ali’s hand touched the pouch she had just fastened to her belt. Would it work? It was an incredible idea and Ali was amazed at Mato’s thoughtfulness. Just having the potion would allow her to travel for nine days before she needed to return, and then she could return instantly.
+
+Provided I don’t lose it or break it. There was always a catch.
+
+“Yes, this is perfect,” she answered him. “Thank you, Mato. That’s some sharp thinking.”
+
+And now I don’t sound so useless for making him find them on his own.
+
+As Mato led the way out of the cavern, he pulled a few things from his bulging pack. “I have sandwiches if you’re hungry, and the fruit seller in the marketplace had some ripe plums, too.”
+
+Ali’s stomach cramped instantly, this being the first time she had seen food in over a week. “Maybe a little.”
+
+Her gut promptly produced a growl better suited to Mato’s Bear Form than a delicate and cultured Fae like herself.
+
+***
+
+Ali gazed around at the quiet main street by the pre-dawn light as she followed close behind Mato. Having not been above ground in weeks – or, if her class description was correct, millennia – she was somewhat disoriented to discover it was just before morning and the sun had not yet risen. She had been awake for what felt like more than half a day already.
+
+Malika had not been kind with her description of Myrin’s Keep, and neither Mato nor Calen had corrected her on it, so Ali had been a little concerned about what awaited her when Mato finally led her up and out of the sewer and into the town itself.
+
+The reality of it was quite a lot worse than she had expected. The first thing she saw as she climbed up out of the sewer was a discarded body lying in a pool of drying blood at the back of the dingy alley.
+
+“Sorry,” Mato said, following her gaze. “It’s not a nice town.”
+
+“Is it safe to walk around like this?”
+
+“No, keep your Kobolds nearby, and we’ll try to stick to the bigger roads. We should be safer with more people around.”
+
+Her Kobolds vanished into the shadows at her command, and Ali kept a careful eye out as she followed Mato. By the dim light, Myrin’s Keep felt uncannily similar to walking the ruins of Dal’mohra – only without the tripwires and the bone-spraying monsters. Several of the buildings they passed by were gutted and run down, some consumed by fire and others simply neglected, adding to the feeling that she was walking through some kind of dilapidated ruin.
+
+It can’t be that dangerous in town, she thought, reminding herself that Kieran Mori didn’t know they were alive – and if he did, he probably didn’t care that much anyway.
+
+On the other hand, here and there she saw some of the earlier merchants already setting up for the day. It still blew her mind that there was a large town up here, above what had once been the forest from her childhood. And they seem to have no idea. She looked at a baker who was setting out buns and bread that steamed slightly in the cool dawn air and shifted uncomfortably. Her wings, folded up against her back inside the tattered Kobold robes, were beginning to rub a little raw against the ill-fitted coarse fabric.
+
+Her stomach grumbled a cranky note of discontent, reminding her that she still hadn’t finished the food Mato had given her. She took out a purple plum and nibbled on it slowly. While she was ravenous, and the fruit deliciously sweet, her stomach clenched painfully at the unfamiliar intrusion of food, so she decided to take it slow lest she make a personal contribution to the general nastiness of this alleged civilization. She wrinkled her nose at the delicate fragrance emanating from a rotting trash heap in an alley as they passed by.
+
+“This is it, the south gate,” Mato announced, as they reached a small open square near an enormous stone wall. There was a giant archway with a raised portcullis through which Ali could see a road, some grass, and in the distance, a forest.
+
+Near the gate was a sizeable, expensive-looking wagon being loaded with packages under the supervision of a tall man dressed in some kind of uniform. Mato immediately approached him and, as they talked, Ali’s attention was taken instead by the giant bird hitched to the front of the wagon.
+
+Plains Moa – Bird – level 18 (Wind)
+
+The avian was huge, much broader and heavier than a horse, and it stood on two long legs that ended in wicked-looking taloned feet that clawed impatiently at the ground, as if eager to run. It had no wings, but its feathers had a beautiful, iridescent green sheen to them that caught the sunlight in a way that seemed to proudly proclaim its handsomeness to all onlookers.
+
+Mato helped her up onto the front seat of the wagon and then took a seat next to the driver – the courier, Ali deduced.
+
+“Hi,” she said. The man nodded back politely but did not meet her eyes. Mato produced a meaningful growl perhaps designed to remind the man to keep his distance to a maximum and his curiosity to a minimum.
+
+The wagon would take the packages to the next town, using the fastest transport available. According to Mato, there was a big market for the transport of items that were important enough to transport quickly, but not so important that the merchants were willing to pay for expensive magical teleportation services.
+
+The courier gave her an odd look when her two Kobolds joined her in the wagon, but he didn’t make any comment, simply turning and picking up the reins, and flicking them gently. The gorgeous Plains Moa raised its head and began strutting toward the gate. The guards waved them through, and before she knew it, they were outside the town.
+
+“Hold on, please,” the courier said, before clicking with his mouth and snapping the reins.
+
+Ali’s eyes widened at the sight of the Plains Moa reacting to his command. Transparent white wisps of mana billowed outward from the bird as it leaned forward and suddenly took off, tearing down the road at a speed Ali couldn’t believe.
+
+Much to her embarrassment, she let out a squeak of surprise as she snatched the rail to prevent herself from flying backward.
+
+The courier let out a good-natured chuckle. “Fast, isn’t she? She’s expensive and fussy, and most people can’t be bothered to train them, but she more than makes up for it in speed.” He sounded inordinately proud of his bird.
+
+“She’s beautiful,” Ali answered breathlessly, watching the subtle play of the creature’s magic.
+
+***
+
+“Stop!”
+
+At Mato’s shout, the courier hauled on the reins, and the powerful Moa dug its talons into the dirt, raising a billowing cloud of dust but stopping the entire wagon in a display of pure power.
+
+Ali’s head snapped forward from the sudden change of momentum, but when they came to a stop, she saw what had caught Mato’s attention. Through the trees on the side of the road, she could make out several upturned wagons, with crates scattered about. Several of the wagons were burnt-out husks.
+
+“You can let us out here,” Mato told the courier.
+
+“But we’re not even halfway to the next town?” The courier had told them that it would take five days to reach the next town, but they had only been on the road for two days so far.
+
+“Our friends were kidnapped by that merchant caravan,” Mato explained.
+
+“Tsk,” the courier clicked his tongue. “Is this the Kel’darran caravan? I heard they like to play loose with the law in places like Myrin’s Keep but this – this is something else.”
+
+“Yes,” Mato answered, handing him a small pouch that clinked like coins. “Here’s the amount we agreed on.”
+
+The courier pocketed his earnings with the air of a man well pleased to be paid full price for half a trip. As Ali dismounted from the wagon using one of her rogues for assistance, the man gazed speculatively at the wreckage.
+
+“Do you want this kept secret?” he asked, his voice suddenly flat and completely neutral.
+
+“No, feel free to report it to the authorities as you feel appropriate,” Mato answered, earning a smile from the man. As soon as they were out, the courier bid them farewell and tore off in a fresh cloud of dust, rapidly dwindling down the road.
+
+“He’ll probably get a finder’s fee or bounty if he reports this,” Mato said. “Let’s go search the site – but be careful. There might still be trouble around.”
+
+Mato shifted to his Wolf Form and loped forward to investigate the wreckage of the caravan.
+
+“Keep alert for danger, and guard me,” Ali commanded her Kobolds.
+
+“Yes.”
+
+“Yes, Ancient Mistress.”
+
+The soft chirps of their draconic speech sounded unnaturally intrusive carrying over the otherwise completely silent wreckage in the middle of the forest. The two Kobolds vanished from her sight. Must be a martial skill, using only stamina, Ali noted idly as she had not seen any mana usage, nor could she detect their presence using her Arcane Insight. Similar to what she had just observed when Mato had turned himself into a Wolf. While it made sense that he’d use his Wolf Form for a task like this, Ali frowned inwardly. He could not have many levels on his Wolf, could he? Was it wise to level up in an imbalanced way?
+
+Ali walked forward and began examining the wreckage. She had no particular expertise in tracking or hunting, but it was immediately clear to her that someone or something had stripped it clean. While there was the occasional broken sword, spear, or snapped bow strewn about, there were no bodies. All of the crates had been smashed open and most of the contents were missing. It looked like the caravan had careened off-road back at the bend, and the passage from there to here was strewn with burnt wagons, smashed trees, and torn-up dirt. Only two of the wagons appeared to be moderately intact, and one of those – the one right in front of her – looked like a cage with wheels that had been flipped upside down. It, and the ground all around it, was scorched black from the aftermath of what looked very much like a Fireball.
+
+Recent experience. Ali swallowed hard and almost summoned a barrier before thinking better of it.
+
+She let Mato roam around outside, while she got one of her rogues to help her climb up and into the cage through the open door. There wasn’t much to see inside, other than some small sections of severed rope, so she decided to leave, but as she turned, something caught her eye, a glint of metal nestled up in the corner almost covered by a half-burned scrap of tarpaulin. Walking over, she picked it up.
+
+In her small hands, the black steel cuffs seemed overly large and somehow ominous.
+
+Cuffs of Greater Suppression – level 20Sturdy steel handcuffs, designed to restrain people with classes by sapping mana and stamina. Requirements: None-20 to level requirement-227% to Mana and Stamina regenerationCreated by Indacus Argyle.Hands – Handcuffs
+
+Yuck! Ali was so horrified by the thing she was holding that she almost dropped it. Who could do this to someone? I really hope Malika or Calen weren’t forced to wear this.
+
+Suddenly eager to leave the cage wagon, she handed the cuffs to her Kobold. “Please hold onto these,” she instructed and then got a hand-up from him so that she could clamber back out. Once safely outside again, she set off to where Mato was sniffing intently at the ground.
+
+“Find anything?”
+
+Mato’s body shifted, fur receding, face twisting, tail disappearing, until the Beastkin stood in the place of the wolf.
+
+“Goblins,” he said. “Lots of them. I found Malika and Calen’s scent – it’s faint, but they had a fight here, and then they went that way into the forest.”
+
+“So, they’re alive?”
+
+“They were,” Mato said cautiously. “At least, they survived the wreckage.”
+
+He sounded anxious, so Ali added, “They’re both fast and smart and they have their classes, I’m sure they are still alive.”
+
+Mato huffed audibly. “Yes. They must be.”
+
+“I found this in that cage,” Ali said, handing him the cuffs she had found.
+
+“Oh shit, that’s nasty!” He looked at the cuffs like they might bite him at any moment. “How did they get out of this?”
+
+Mato had unwittingly confirmed Ali’s suspicion. Somehow, she was certain that Calen and Malika had been bound aboard that cage wagon and forced to wear suppression restraints.
+
+“No idea. What should we do?”
+
+“Can you make some wolves to help me track? We can find them quicker that way. You follow along with some of your Kobolds in case we run into any Goblins. I’ll check in with you regularly.”
+
+“Ok,” Ali pulled out her Grimoire and got to work. I have a lot more mana now, she thought, considering for a moment before deciding how many creatures to make. It’s a good thing I put some time into growing my domain. With her domain providing ninety extra mana, she decided she could afford to be a bit extravagant. Hopefully, it will help find them faster.
+
+Starving Alpha – Wolf – level 5Starving Wolf – level 1-3 x4
+
+She had made her own wolf pack.
+
+“Nice,” Mato approved. “The trail goes that way, just keep heading in that direction if you don’t see me nearby.” And with that, he transformed himself back into a wolf. He seemed to confer briefly with the other wolves with a brief series of strangled-sounding barks and eerie growls before they all fanned out in the direction he had indicated.
+
+I don’t want to be caught unprepared, she thought, considering her next move. And Mato thinks there were a lot of Goblins. Checking on her mana, she summoned three more Kobolds, and gear to equip them.
+
+Warrior – Kobold – level 8-9 x2Rogue – Kobold – level 9-11 x3
+
+Their gear is a bit shoddy, she thought, wondering if she should have bought something better when they were in town. But of course, she had no money. She had created leather armor for all of them, daggers for the rogues, and swords for the warriors, but the weapons were cracked and pitted and seemed to be of poor quality. The best I could find in a three-thousand-year-old ruin, overrun with Kobolds. But she had her own little army now, and that made her feel both proud and much more secure.
+
+“Let’s head out – follow the wolves, watch for Goblins,” she instructed, the draconic syllables still unfamiliar and awkward in her mouth. She struggled most with the strange yips and chirps – sounds that seemed unique to the anatomy of the Kobolds’ vocal cords. Immediately, her rogues melded with the shadows, silencing their chirping, while the two warriors fell in beside her, clearly taking a guard role. It surprised her still, that they would interpret her orders if she was vague. When she had been using Sewer Rats, she needed to give far more precise commands, but the Kobolds seemed so much more intelligent, able to understand that the threat of Goblins meant she required protection.
+
+Mana: 410/795 (385 Reserved)
+
+The wolves didn’t cost a whole lot anymore, but the highest-level Kobold rogue was taking up a whole eighty mana on his own. Makes sense though. It seemed reasonable to her that a level eleven creature cost a lot more, given that it was substantially more powerful than her level two Starving Wolf, for instance – and she had personally witnessed just how much stronger they were down in the ruins. But she hoped that reserving almost half her mana pool for summoned creatures wasn’t going to be too much if it came down to a fight.
+
+Up ahead, Mato’s dark Wolf Form slunk silently among the dappled shadows falling across the trail. It came as something of a relief that, even though he was mostly unseen, he was still nearby. Her own Starving Wolves were smaller and seemed perfectly happy deferring to him as a pack leader, especially with her encouragement.
+
+She had been walking for over an hour and she was growing quite bored. Nothing had happened, and although her minions remained vigilant, Ali’s active mind was searching for something to do. Mato and her wolves continued to range widely, and she only caught sight of them briefly, unless it was Mato stopping by to tell her when the trail changed direction. Counting the sightings had occupied her attention for all of five minutes before she had decided that was a stupid game for children.
+
+“What do you call that?” Ali asked in her rudimentary draconic, pointing to a giant oak tree. I may as well work on my language skills.
+
+“It is a tree, Ancient Mistress,” the Kobold told her.
+
+“Do you have to call me ‘Ancient Mistress’?” she asked grumpily. Even though the Kobold was obviously using it as a term of respect – or perhaps a title or marker of authority – it didn’t sit too well with her. Of all the descriptive traits it can see, it has to choose ‘ancient’. I feel like I should be the wise old woman of the village that everyone comes to for stories or love potions.
+
+“Yes, Ancient Mistress,” the Kobold replied in the same calm voice. She looked at him sharply, but it didn’t appear that he was sassing her. It wouldn’t have surprised her though; she still wasn’t used to the idea of her summoned creatures being able to speak at all. She turned her attention back to the forest.
+
+“Tree.” She tried to emulate the pronunciation as best as she could to familiarize herself with the word. Can I learn to make trees? She wondered idly what it might be like to create trees down underground to go with her moss and mushrooms. “What kind of tree?”
+
+“Oak, Ancient Mistress.”
+
+She frowned, but continued with her questioning; rock, bush, stream, the list continued endlessly. Fortunately, her minions never tired of answering her questions. The forest was pretty, and Ali enjoyed the oak and maple trees, and the myriad ferns, bushes, and wildflowers she found along the way. With each new discovery, she doubled down on her intention to level up her Grimoire of Summoning so that she might learn as much of this as possible.
+
+When night finally fell, Mato returned with the rest of her wolf pack. “I found a good camping spot,” he announced and then led the way to a clearing with a small bubbling brook.
+
+He pulled out some sandwiches for a light dinner and, as they ate, he shared what he had found. Calen and Malika’s tracks continued more or less in a straight line, even though he had found signs of many clashes with Goblins, and he had guessed roughly where they were headed. He had a lot of thoughts and explanations which Ali listened to even though she didn’t quite follow, but she thought it summed up to ‘they went south’. Which is away from town, she thought, somewhat confused as to what they might have been thinking.
+
+“Do you think I could grow trees next to the shrine?” Ali asked, once they were both done eating.
+
+“Naturally? No, it’s dark,” he answered. “But … if you can grow moss and mushrooms, and make Kobolds that don’t need sleep or food, I’d imagine trees should be easy.”
+
+“I think I want to try to learn to make them.” She studied the various trees that surrounded their small camp, imagining a few oaks growing around the shrine like her father once had.
+
+“Does it matter which ones you dissolve with your skill?”
+
+“No, I think I just need variety for the magic to know what is normal.”
+
+“Then I’d rather you didn’t destroy any of these,” he said, indicating the nearby trees. “These are newish growth, and just becoming developed. I think it would take a long time for the forest to recover.”
+
+Ali was surprised by his serious tone and disappointed that she would be causing damage to the forest to learn the trees, but then Mato continued.
+
+“That one over there looks like a good choice,” he said, pointing a little way beyond the stream. “It looks like it was struck by lightning, and it will not recover well. It’s also in a crowded spot, so removing it will make space for the new growth.”
+
+“Thank you,” Ali said.
+
+“No problem. I can mark a few along the path tomorrow if you like,” he answered.
+
+“That would be perfect.” She smiled and walked over to the tree he had pointed out. It was a majestic old oak with broad boughs that reached almost to the ground. Part of the trunk was blackened and split, clearly damaged from the lightning as Mato had just pointed out.
+
+She carefully placed her hand on the trunk of the damaged tree and activated her magic, a spectacular light show of information and mana, now that she could see the magic in action. Her magic ran its course and the tree shimmered and exploded into tiny motes of mana drifting upward and slowly fading among the softly rustling leaves of the forest canopy.
+
+Grimoire of Summoning has reached level 10.

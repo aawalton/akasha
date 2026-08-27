@@ -1,0 +1,153 @@
+---
+id: 3f2070c4-cd27-5be1-8e89-608cf57a753b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 226: The Temple of Contagion (Part 2)"
+slug: 0258-chapter-226-the-temple-of-contagion-part-2
+partOf: dungeon-of-knowledge-complete
+position: 258
+ownLength: 2846
+unit: words
+ownProgress: 2846
+publishedAt: 2025-04-18
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2212039/chapter-226-the-temple-of-contagion-part-2"
+royalRoadId: "2212039"
+markedReadAt: "2026-06-29T20:19:57.050Z"
+---
+
+Ali and Malika entered the small camp Calen and Mato had constructed with the wiry leatherworker in tow to find the rescued Trolls sitting around quietly, most seeming shell-shocked. In true Mato fashion, he had whipped up something that smelled heavenly for them to eat and was already handing out seconds.
+
+“Gara,” Zor’kan said, making the young troll’s head snap around sharply. “You will go to this Myrin’s Keep.”
+
+“But I can fight!” she insisted. “We must save Val’korr!”
+
+“Yes,” Zor’kan said. “I can see the strength in your heart. But I need you to do something far more important. They are unclassed,” he said, gesturing to the four rescued prisoners. “I would have you go with them and make sure they are safe. We are all that remains of Aman Rak. You are Aman Rak’s strongest fighter, now. You are the last of our combat classes. Our duty to survive takes precedence over your desire for revenge.”
+
+“I…” Gara gulped and then bowed her head. “I understand. I will protect them until they are strong enough to stand on their own.” Her words had the sound of a much-repeated ritual, accepting responsibility.
+
+“Ok,” Ali said. Retrieving a piece of paper and a pen, she quickly wrote a note addressed to the Guildmaster and impressed her mana signature onto it. Then, she inscribed a teleportation circle to the Myrin’s Keep locus. “This circle will take you to Myrin’s Keep,” she said, handing Gara the note. “Give this to the Guildmaster at the Adventurers Guild and she will be able to help find a place for you to stay.”
+
+“Thank you,” Gara said, eyeing it sadly, but nonetheless accepting it.
+
+“You won’t go with them?” Calen asked.
+
+“I’m not sure I would be able to return,” Ali said, gesturing to the glowing runic circle before she recalled that he couldn’t see mana like she did. Wisps of her golden mana drifted up from her construct as the domain of the high-level dungeon began dissolving it. “I don’t think a return locus would last long enough.”
+
+“The dungeon is eroding it,” Mato said. “Like it eats anything you leave behind.”
+
+“Aah,” Calen said, nodding. “Well, then take this.” With a flourish, he produced a map and handed it to Gara. “You’ll arrive in the academy, here. The Adventurers Guild is here. Be on your guard, Myrin’s Keep isn’t the friendliest town.”
+
+“I will keep them safe,” Gara said, pressing her lips firmly together and nodding. And then she and the four rescued trolls bowed to Zor’kan and stepped onto the runic circle, vanishing one by one.
+
+Ali stared at the fraying circle for a moment, wishing fervently that she could be back home, relaxing in the sensation of her domain mana dissolving her withdrawal – but if she did that, she would have no easy way to return. With a thought, she dispelled the runic circle, sent her wishes for good luck to the departed Trolls, and mentally replayed her list of tasks. There were tons of corpses to deconstruct and runes to study, and if Arcane Insight was to be believed, then there was another barrier up ahead she would need to dismantle. But for now, she sat, content to eat while Clarence tried to entice her to throw the ball.
+
+Malika retrieved her plate from Ali’s Cleanse circle and handed it and the spotless utensils back to Mato. “Thanks for dinner. How did you get that delicious hint of spiciness?”
+
+“I’ve been experimenting,” Mato said, grinning broadly and scratching the back of his neck. “This jungle is a goldmine for interesting herbs and foraged mushrooms. If you liked it, I’ll make sure Ali learns the tastier ones.”
+
+“Sweet.” Mato loved to act nonchalant about his cooking, usually passing it off as no big deal. But Malika was onto him – she had seen the stamina energy as his big heart beat a little faster when she complimented him on it. “Chaotic fight today, right?”
+
+“For sure,” Mato said. “Calen packs more of a punch with that bow than I expected.”
+
+“Hey, that wasn’t on purpose,” Calen called out.
+
+Malika chuckled, but she was relieved that the crazy bat lady was dead – any fights with a troll witch doctor were always so complex, and this one had put everything till now to shame. Then there were the prisoners – she was grateful they had been able to rescue several trolls, but the tortured bodies of the unfortunate majority still hung draped across the grim totems, bearing gruesome testament to the depravity of the queen of the Temple of Contagion. I hope things don’t get worse, she thought, eyeing the path leading further into the disturbing dungeon.
+
+“I’m going to go check on the loot,” Malika said. Ali was off deconstructing bats already, and would probably be at that for ages, so she walked over to examine the body of Kir’vella, kneeling beside her in the dirt where she had fallen. Fortunately, the mad Troll’s death had caused her body to shift back to her humanoid form, otherwise the gear she wore would probably not have been recoverable. She reached down and took the long bone knife from her hand, almost dropping it as the sticky black goop sent shivers of disgust through her.
+
+I’m not sure I want to know, Malika thought, wiping the handle and then the blade on a spare cloth before discarding it. Almost certainly it stank of death, but so much around here did that she couldn’t be sure.
+
+Sacrificial Bone Knife – level 80A sharp, long, ceremonial knife made of highly polished bone. Damage: Slashing, Physical+50 Intelligence+40 Dexterity+48% spell power to Soul skills+15% mana gained from drain attacksRequirements: Intelligence 280Quality: UncommonValue: 49 goldMain Hand – Dagger
+
+This is weird. Malika studied Kir’vella’s weapon carefully for a while. It was a highly specialized dagger with a narrow, slightly curved blade longer than her forearm, and she was certain none of them could make particularly good use of it. Hmm. Maybe if Ali learns to make witch doctors? Either way, she stashed it in her ring; if nothing else, she could always sell it for a little more gold and have something more useful crafted.
+
+Malika grimaced as her eyes found the next item. Lying on the ground beside Kir’vella’s left hand was an abominable artifact. Some poor Troll had died to create this thing, and Malika felt dirty just touching it. Yellow zigzag patterns had been painted across a dirty tusked skull, and it had been impaled on a stick to which a variety of brilliant feathers had been tied in ceremonial patterns and designs.
+
+Grim Skull Fetish – level 81A horrific fetish made from a garishly painted troll skull and feathers. +51 Wisdom+39 Vitality+10% to ResistanceSoul Drain inflicts 15% Curse and Disease vulnerability on hit Requirements: Wisdom 284Quality: UncommonValue: 37 gold Off Hand – Fetish
+
+Yuck. It made a wet squelch as she gingerly pulled it out of the mud. What sort of person would pay thirty-seven gold for something so disgusting? Even with fifty-one wisdom and an additional ten percent to resistance, Malika was absolutely certain Ali wouldn’t touch this thing unless someone’s life depended on it. It wasn’t even well made. Ugh. She stored it too.
+
+The only other item she could find was a broad gold band that had been wedged onto Kir’vella’s right tusk. Carefully she slipped it off, appraising it.
+
+Troll Tusk Ring of Storage – level 64+42 PerceptionMana: Store or retrieve an item. Capacity: 983 / 1500 lbs.Requirements: TrollQuality: MagicalValue: 12 goldTusk – Bone
+
+Another ring we can’t use. Malika glanced over, seeing the troll leatherworker still sitting quietly in the camp talking with Calen. Perhaps he wants it.
+
+But before she did that, she opened it with her mind, exploring the contents carefully. To her disgust, half of what had been stored in there were dead troll pieces and bones. She dumped all that out on the ground and then transferred all the usable potions and herbs that remained to her storage. She almost dumped the extra potions of insanity but decided at the last moment she would let Morwynne or Weldin decide if they were worth anything.
+
+To her surprise, she discovered two half-full bottles of ink, a calligraphy brush, and a pen. She stored them for practicing her calligraphy later.
+
+Thank goodness for Clarity, she thought, studying one of the nasty purple potions. It had taken a lot of work to run down every flying vial, but the alternative would have been to allow her friends to run rampant, killing each other in the middle of an already challenging fight. It was a little tricky, considering she had to actually heal some damage for the effect of her Touch of Clarity to apply, but she had worked around that by punching anyone who went insane and then healing whatever damage she had personally inflicted. It hadn’t been a problem for Mato or any of the melee fighters, but Ali hadn’t taken any extraneous damage in the fight, and if she hadn’t been quick enough, she would have had to go through her tough magical barrier to cure her. Calen with his Righteous Fury had been bad enough, but she couldn’t imagine Ali and all her minions turning on them in the middle of the fight.
+
+We got off easy. Still… Her attention turned inward, eager to see what the fight had brought for her skills and class.
+
+Soul Monk has reached level 74 (+5).+50 attribute points.
+
+Not too shabby. Wow. Fifty points! She frowned momentarily in thought. More wisdom, she decided, spending ten points immediately. More resistance to mind-altering effects would not go amiss, and Clarity scaled phenomenally well with the attribute. Not to mention, she could share it with a little work. Then she boosted the rest of her skill trait attributes for the direct scaling and experience benefits. Eleven to endurance and perception, and twelve to dexterity. Then she split the remainder: four to vitality, and two to strength – hopefully enough to keep the power of her punches growing. Ok, skills…
+
+Martial Artist has reached level 37 (+2).Soul Strike has reached level 43 (+2).Healing Mantra has reached level 44 (+3).Perfect Body has reached level 27.Soul Armor has reached level 33 (+2).Enlightened Evasion has reached level 36 (+2).Divine Step has reached level 37 (+2).Second Wind has reached level 23 (+2).Clarity has reached level 23 (+3).Soul Sight has reached level 23.Appraise has reached level 21 (+2).
+
+Wow, growth across the board! To be fair, it had been a crazy fight; long and full of surprises. Her biggest gains were made to Clarity and Healing Mantra – no surprises there. Even she could tell that disrupting the insanity had been her greatest contribution. She made her way back to camp, picking her way carefully through the corpses of the dead bats and the occasional ghoul, satisfied with the impressive reward for a hard fight. She could already feel the improvements from her passive skills making her more agile, her mind quicker and clearer, and her body more powerful.
+
+“Here,” Malika said, handing the tusk ring to Calen. “Can you ask him if he wants this? It looks like they stripped him of all his gear.”
+
+“Sure,” he said, taking the ring and turning to Zor’kan.
+
+I wonder if Ali will help me learn to speak Troll, too? She hadn’t paid as much attention to the lessons as Mato had, and she didn’t have the intelligence attribute to pick it up by eavesdropping on Mato’s cooking lesson like Calen had. Should I have put more points into intelligence? Ugh, there are never enough points…
+
+“Thank you,” Ryn said, bowing to the resplendent Elven mage as his magic took hold, and in a blink of an eye, and a lurch of her stomach that lasted substantially longer, Ryn was thrust from the gilded halls in Ciradyl to a dark subterranean chamber that smelled of earth and fire.
+
+She stumbled for a moment, catching her balance, and glanced around at what looked like a large cavern hewn directly from the rock. There were still scrape marks that appeared to her untrained eyes to have come from mining equipment, but the floor had most certainly been reformed by a powerful earth mage.
+
+“Welcome ta Thorel Moldur. State yer business.” The gruff, gravelly voice echoed within the smoky chamber. A masterpiece of ruddy, glowing earth and fire runes traced out an elaborate teleportation locus, while black wrought iron sconces lit the room with torches of flickering fire.
+
+“Um, hi,” Ryn said, partially raising her hand to wave before she dropped it in a flush of embarrassment. Before her stood a Dwarf, dressed in gleaming embossed steel plate armor, tan leather trousers, and heavy iron-toed boots. A sigil of a pickaxe had been emblazoned upon his chest. His thick hairy hand rested meaningfully upon the hilt of his sword, and he leveled a stare at her that could only be described as officially polite but guarded.
+
+“Farin?” another voice called out from near the exit, and Ryn’s eyes flickered around to take in several other Dwarven figures dressed in various kinds of armor, standing at the ready.
+
+“This one’s living,” the guard in front of her announced, causing a ripple of releasing held breath and shuffling through the others.
+
+“I’m Ryn. A librarian,” Ryn said, puzzled at their strange reactions. “I came from Ciradyl. They said… Um. I… I’d like to see the library? If that’s ok?”
+
+“The library?” Farin asked, his bushy eyebrows climbing up his forehead. “Ya come from Ciradyl to Thorel Moldur ta visit the library? What do ya seek that canna be found in the Elf city?”
+
+“Advanced warding enchantments,” Ryn said. She had scoured the bookshelves in Ciradyl’s library, hunting for anything that matched Ali’s description of what she had witnessed infesting Nathaniel Sunstrider – even going as far as to read through much of the restricted section – and had come up empty-handed. On the plus side, her Arcane Archive skill had leveled several times, and she now had a very clear, seventeen-point priority list for how best to plunder – err, work her way through – Ciradyl’s most valuable books whenever Ali got back to copying. “I’m also looking for good references for metallurgy and blacksmithing enchantments,” she added. Thorel Moldur was renowned for their smithing expertise and knowledge, and it wouldn’t hurt to get a few references for Thuli while she was here. Ali would most certainly approve.
+
+“Ye’ve come ta the right place then, lassie,” Farin said, his entire countenance brightening and his beard quivering in delight. “Come, I’ll show ya the way.”
+
+“Don’t get lost, Farin,” one of the other guards teased to much raucous guffawing from the peanut gallery.
+
+“Oi, shut it!” he declared, making a rude gesture with his hand. “Come on then, lassie.”
+
+Ryn followed him out of the underground chamber and into a broad rock-walled tunnel set with the same sconces lighting the way. The ground had been worked into a smooth pathway, as good as a road in a major city.
+
+“I’m Farin Shieldbreaker,” her companion said. “Warrior, once a member of the third company, now retired. In my dotage, a locus guard and occasional travel guide.” He chuckled at his own joke.
+
+“Good to meet you, Mr. Shieldbreaker.”
+
+“Farin is fine, lassie.”
+
+Her guide proved to be rather talkative, and Ryn was treated to a whirlwind tour of the giant underground Dwarven city. They passed through marketplaces and caught a ride on an earth-golem-drawn carriage – one of many that thronged the busier passageways that wound their way through the bowels of the earth. Ryn was lost in an instant.
+
+After about half an hour – and past the umpteenth ultra-important foundry or forge, right when Ryn’s eyes were beginning to glaze over, her guide stopped the cart before a massive pair of gilded stone doors.
+
+“Right. Here we are!” he declared, and hopped down, offering his hand to help her out.
+
+“Thank you,” she said, stepping onto the ground. But as soon as she did, there was a loud rumbling and a shuddering crash that rocked the entire city, knocking her stumbling. Ryn yelped, clutching at her sturdy companion’s hand for stability. “What was… that?”
+
+“Undead,” Farin said, his eyes hardening. “They’ve been attacking the upper levels with more frequency lately. There were even rumors of a… Death Knight.”
+
+“Undead?” Ryn asked, a shiver passing through her body.
+
+“It’s nothing ta worry yer head about,” Farin said firmly. “The platinums will take care of that wee problem.”
+
+But as the stocky dwarf pushed the doors open and invited her to enter the giant library, she could tell by the tension in the set of his shoulders and the tight line of his lips, that he was far more worried than he let on.
+
+Undead? Here in Thorel Moldur? Where are they even coming from? I need to tell Calen right away. He’ll know what’s best to do.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

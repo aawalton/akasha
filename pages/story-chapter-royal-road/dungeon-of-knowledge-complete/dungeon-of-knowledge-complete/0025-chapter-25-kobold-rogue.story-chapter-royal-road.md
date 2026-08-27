@@ -1,0 +1,279 @@
+---
+id: 8743bb5c-7d92-500d-b511-915e9d86815f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25: Kobold Rogue"
+slug: 0025-chapter-25-kobold-rogue
+partOf: dungeon-of-knowledge-complete
+position: 25
+ownLength: 5347
+unit: words
+ownProgress: 5347
+publishedAt: 2024-02-21
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1526821/chapter-25-kobold-rogue"
+royalRoadId: "1526821"
+markedReadAt: "2026-06-29T20:11:49.222Z"
+---
+
+Everyone knows about the existence of dungeons. Adventurers risk their lives for fame and fortune to defeat the denizens that inhabit these strange places. Once you graduate from the rank of Novice, you, too, will be asked to delve into dungeons to protect our lands and people.
+
+But what are dungeons, really? Some say dungeons are manifestations of mana or acts of the gods. Some are convinced they are a class, a type of creature, an artifact, or a crystal. Others believe they are all connected to a single entity that grows or controls them.
+
+All of this is unfounded speculation.
+
+Dungeons exist to consume. They create an enormous amount of high-density mana as a byproduct of their normal function. This mana attracts monsters, which are then killed by the dungeon’s defenses and consumed for experience and growth – just like with your classes. However, dungeon magic respawns its defenses – sometimes in hours – and often allows the dungeon to learn to summon what it eats, resulting in new and more powerful defenders being added to its repertoire.
+
+Do not feed a dungeon. When you delve, do not leave anything behind – corpses, food, items, packs, trash – everything remaining will fuel the dungeon’s growth.
+
+What dungeons are most feared for is the phenomenon known in common parlance as a ‘dungeon-break’ and it is to this phenomenon that we will devote much of our discussion. When a dungeon ejects monsters, they often seem to go into a frenzy and then rampage around the countryside causing chaos and destruction. These monsters never return to the dungeon, perhaps indicating that the dungeon has discarded them.
+
+While the existence of sentient dungeons is a highly controversial topic, and the subject of endless debate, I can say for certain that I have encountered dungeons that were intelligent enough to eject non-frenzied monsters to loot nearby towns for corpses and material which were then brought back to feed the dungeon. Yes, non-frenzied – flying in the face of hundreds of years of established research. If you ever find yourselves in a dungeon that begins behaving unpredictably, get out, and get help immediately.
+
+Dungeon-breaks vary in severity from a few low-level monsters, which can be handled by a simple quest at the local Adventurers Guild, to much more dangerous events better classified as natural disasters. In 1193, for example, a previously undiscovered dungeon in the Elorthian Empire ejected a horde of several thousand Armored Drakes, all of which were of an abnormally high level. Quelling the break demanded the combined might of the entire Empire and the damage destroyed half the cities along its western coast. It took years to control the break and the Empire never recovered from this disaster, causing it to splinter into the modern kingdoms of today. It is this type of event – and many like it – that has resulted in most kingdoms adopting the pragmatic policy of wiping out everything in a dungeon as soon as it is discovered.
+
+There is one known way to trigger a dungeon-break intentionally. When the final boss is killed, all remaining live monsters will be ejected as a dungeon-break in the final death-throes of the dungeon. This is why Pathfinders must always clear the entire dungeon before killing the final boss.
+
+It goes without saying that intentionally provoking a dungeon-break is a capital crime in most civilized nations.
+
+- Lyeneru Silverleaf, Lecture to Novices at the Elven Pathfinders Guild, Ciradyl Chapter.
+
+Ali fled through the endless darkness, alone. The soles of her bare feet slapped painfully against the cold stone pavement. Her headlong flight sent her plunging deeper and deeper into the maze of twisted streets, past the endless parade of dark stone ruins. The icy fingers of dread clawed at her gut as the things stalking her in the shadows drew ever closer. Her skin crawled under the malevolent gaze of their glowing red eyes boring into her back. The soft chittering of the hunters whispered in her mind, and her legs suddenly froze, inexplicably rooted to the ground. She screamed – but no sound emerged, only the creeping shuffle from behind. Slowly she turned, her eyes widening at the sight of a wickedly gleaming dagger in the darkness.
+
+You have been afflicted with Domain Withdrawal.Separation from your domain weakens you.-10% to maximum health.Affliction – Duration: Indefinite. Count: 7
+
+Ali woke with a start, covered in sweat and shaking. Frantically, she looked around for the Kobold rogues but found only Mato sitting by the door of the house they were camping in. He nodded kindly toward her.
+
+Just a dream.
+
+While it was a dream, she had been waking up to the same dream every day. Each time she was endlessly fleeing from rogues she couldn’t see or escape, only to wake as the final Ambush attack arrived. I’m depressed and terrified. She finally admitted it to herself. The last three days they had spent returning from the library had sent her spiraling downward into despair. Even Mato had been overly concerned. She knew it, but nothing seemed to help.
+
+The biggest problem was that her fear was not irrational. In three days, her domain withdrawal would kill her. That was, if she didn’t die from a rusty dagger or stray Fireball first. She glanced at her health total, already knowing what she would see.
+
+Health: 60/60 (-70% Domain Withdrawal)
+
+Wouldn’t even need a Fireball. Tripping over a cracked paving stone might just do it.
+
+“Shh,” Mato cautioned. In the distance, she heard the clicking of Kobold talons striking stone and the soft sounds of their strange chirping voices.
+
+Warrior – Kobold – level 10Warrior – Kobold – level 7Mage – Kobold – level 8
+
+The two warriors seemed to be having an argument, with the larger one gesturing emphatically at the air with his rusty sword, while the Fire Mage followed along a few paces behind, head bowed in contemplation, as if she were staring at her own tattered crimson robes.
+
+“Shall we attack?” Mato whispered.
+
+Ali considered. She would have to worry about hidden rogues no matter what. But it was rare to find patrols that were within their level range, and they were quickly running out of time. She nodded her agreement to Mato before the patrol got too close. She felt his body twisting in the darkness next to her as he prepared himself.
+
+With a roar, Mato charged the warriors, slamming into them with a loud crash. Ali sent all her wolves except one to attack the Fire Mage.
+
+“Guard me,” she instructed, crouching down behind the last wolf.
+
+Immediately, the Kobold mage began to summon her fire, illuminating the dark street with ominous red flickering light. Ali’s wolves spread out and began harrying her, darting in and out with snapping jaws and wicked snarls while Ali unleashed her Arcane Bolts on the mage, intent on killing her as fast as she could. The Fire Mages were by far the most dangerous Kobold they had encountered; left alone, it would make short work of them.
+
+With a loud detonation, the Fireball exploded among Ali’s wolves, tossing the charred and lifeless bodies of the two lowest-level wolves into a wall. Her two Alphas continued to press their attack despite having suffered grievous burn wounds. Standing close enough to take advantage of Mato’s aura, her stomach knotted with a queasy blend of hunger and disgust at the sudden stench of sulfur and overcooked meat.
+
+The Bear fought off to the side, his back up against a low, crumbling wall, actively engaged with the two Kobold Warriors, fortunately looking to be in okay shape so far. At least his healing magic is active. He still tended to forget it when his rage took over.
+
+Suddenly, the wolf guarding her growled, hackles raised, nose sniffing the air intently. Eyes widening, Ali scrambled backward. With a snarl, the wolf snapped at the air, but instead of the expected clack of teeth slamming together, there was a horrifying crunch, and warm crimson blood sprayed across Ali’s shirt. A midnight-black Kobold materialized before her with a wild screech of pain, its wrist clamped in the jaws of her Starving Wolf. Its free arm moved in a sudden blur, and Ali looked down to find a dagger embedded in her chest, still in the grasp of wicked Kobold claws.
+
+Oh…
+
+The Kobold rogue yanked the dagger free. Ali felt it slipping out from between her ribs, but to her astonishment, there was no blood. She gasped, touching her skin, but there was no sign of a wound to be found. Nor could she feel any pain.
+
+How… It was as if her wound had vanished, drawn off into the aether by some mysterious force.
+
+The wiry Kobold hissed in apparent disbelief, lunging with the dagger once more, but this time, Ali reacted. Her barrier popped into existence, blocking the dagger strike with a loud crack. She scrambled backward, raising a shaking hand to shoot. Golden Arcane Bolts weaved erratically through the air, but her focus was steadier than her hands by far, and they adjusted mid-flight, slamming into the rogue with a steady thump, thump, thump as it struggled to free itself from the grip of the wolf’s jaws. Ali backed away further and further as the rogue stabbed furiously at the neck and shoulders of the wolf hanging on to his mangled wrist with grim determination. A loud detonation sent a concussion wave through her body, but she ignored it and focused entirely on the rogue in front of her.
+
+With a final, vicious overhead strike, the rogue plunged its dagger through the skull of the wolf and turned on her. Ali yelped and hid behind her barrier as she directed more and more bolts to circle around, slamming into his black-scaled hide. He dodged back and forth, trying to pass her barrier, Ali frantically recreating it to block him each time. Obviously frustrated, the rogue slammed his daggers into her barrier repeatedly, and, to her horror, small cracks and chips began to mar the golden surface under the power of his assault. Releasing her Arcane Bolt spell, she shoved some of her rapidly dwindling mana into Grasping Roots. The rogue howled furiously as the thick, gnarled roots entangled his legs and tail, but Ali simply scrambled back further, tossing up a precautionary barrier, and began to empty her mana into a new flight of Arcane Bolts.
+
+See how you enjoy the taste of these!
+
+Suddenly, the rogue stumbled, and three more bolts slammed into him before he collapsed among the roots. Before Ali could register her relief, an intense ball of flame collided with her barrier and detonated. The barrier shattered and her body was lifted off the ground in a wave of heat and pressure that slammed her through the doorway of the house behind her, and into the wall on the opposite side. She crumpled to the ground, and in her daze, she realized she had forgotten about the most dangerous enemy of all. She had just enough awareness to throw up another barrier before a sizzling Firebolt slammed into it. That would have been my head. Still on the ground, Ali fixed her attention on the murderous Fire Mage. Pouring her remaining mana into her Arcane Bolts, she watched the graceful curves of radiance as they arced around her barrier and out of the doorway to hammer into the mage’s sternum, leaving small smoking holes in her crimson robes.
+
+The Kobold staggered backward with an aghast wheeze that seemed to ironically mimic the precipitous decline of Ali’s mana pool, before suddenly crumpling in a lifeless heap. Ali winced. Ouch. So, that’s what too little vitality looks like … guess the Alpha must have wounded it before?
+
+Ali sucked in a deep, ragged breath, coughed at the acrid stench in the air, dragged herself up, and limped over to the downed rogue. She deconstructed the corpse and all his gear to restore her mana while surveying the remains of the battlefield. Her Alpha Wolves were both reduced to smoking corpses, while Mato was engaged with the last remaining Kobold Warrior. He had several nasty wounds on his torso and especially on his left foreleg, but they were slowly closing under the influence of his still active healing magic. Ali sighed in relief, spending her newly restored mana to add her Arcane Bolts to the attack, while she stepped cautiously closer. Mato must have been close to finishing it already because it dropped quickly after a few strikes of her arcane magic.
+
+Mato quickly shifted back, stumbling a little from slowly closing wounds on his legs as he walked over to join her.
+
+“Did you… take that dagger wound?” she asked.
+
+“Yes,” he said quietly, slumping down to the ground to sit near her, breathing heavily.
+
+“Thanks.”
+
+He saved my life. Ali rubbed her chest where a phantom pain still lingered. It had been a strike of power and precision – an Ambush, she sensed – and she had been certain she was dead.
+
+Ali surveyed the remnants of the pitched battle strewn across the street, realizing that every single one of her wolves had been destroyed by the Fire Mage. In her panic over the rogue attack, she had made a grave mistake. Ignoring the mage could so easily have gotten them both killed. Her internal litany of rebuke at her failure trailed off as she noticed her Grimoire appear and flip itself open.
+
+Quickly, she checked the notifications, surprised that she hadn’t registered the building pressure of the completed imprint.
+
+Your group has defeated Dagger Rogue – Kobold – level 8.Your group has defeated Fire Mage – Kobold – level 8.Your group has defeated Warrior – Kobold – level 7-10 x2.Identify has reached level 7.Imprint: Kobold completed.Imprint: Crude Dagger completed. Imprint: Crude Leather Armor completed.
+
+Ali blinked once at the glowing notifications and then checked her Grimoire. In all her despair, she had forgotten the basics of how her Grimoire worked. She had been deconstructing Kobolds for days. Equipment too? That’s interesting. Now I can make rusty daggers and smelly Kobold armor.
+
+At once, she concentrated on her Grimoire, selecting the last empty chapter for the Kobold imprint.
+
+Mato got up to begin dragging the corpses of the Kobolds over for her to dispose of. He glanced at her curiously, clearly noticing her Grimoire was out and glowing.
+
+“I got something,” she explained, channeling her mana into the imprint. A couple of minutes later, a lean, black-scaled Kobold rogue suddenly appeared before her. All her dreams and terror around these Kobold rogues flooded her mind and she took an involuntary step backwards; in the corner of her eye, she saw Mato stiffen, clearly on the verge of rushing to protect her. But the creature simply bowed low and spoke quietly, his voice filled with familiar chirping sounds. Ali’s Sage of Learning drained a few points of her mana as it tried to help her understand the creature’s intent, but its speech remained unintelligible. At least she knew the Kobold was hers, and not a threat.
+
+Your reserved mana has increased by +60.Rogue – Kobold – level 8
+
+No longer afraid, she studied the creature. Its gleaming black scales and reptilian face looked almost beautiful in the dim flickering light of the remnants of the fireball explosions.
+
+I must be insane. Or biased because it’s mine.
+
+“Wow,” Mato breathed. “That’s going to help a lot if we can get it some gear.”
+
+“I think I can do that, too,” Ali said, thinking quickly. Of all her imprints, the one she was least excited about was the Giant Spider. Focusing her attention, she directed the dagger imprint to that chapter. Immediately, the Grimoire erased the spider imprint and replaced it with the crude dagger.
+
+Well, that was easy. Too easy? Have a little care, Aliandra …
+
+Charily, she considered her remaining imprints. The plants she wanted to keep. Stone was turning out to be useful for barricading doors. Her Starving Wolf imprint seemed superior to the Sewer Rat imprint, and Mato had told her they were smarter fighters, so it came down to a choice between the wood imprint and the rat imprint. Ali hadn’t found much use for making wood yet, but she felt that the Sewer Rat was definitely obsolete – too low level. Decision made. Sighing between her clenched teeth, she replaced the Imprint: Sewer Rat with the new Imprint: Crude Leather Armor.
+
+Ali spent the next few minutes making a full set of leather armor and a pair of daggers for her rogue. When she handed him the items, he simply nodded respectfully and immediately equipped the armor and tested out the daggers with a few air-swipes and mock-stabs.
+
+I could make another one. She had more than enough mana at this point, especially now that all her wolves had been killed. She deconstructed the Fire Mage and the Kobold Warrior corpses to refill her mana and then summoned another Kobold and more gear. It was nothing like summoning a Sewer Rat. She stumbled a little and sat down, drained from the effort and concentration required to summon so much.
+
+Grimoire of Summoning has reached level 9.
+
+Now it levels up. Ali frowned at the notification. After all the tradeoffs she had considered to acquire her new imprints, she now had a new blank ninth chapter. I guess I can always go learn the rat again if I need to. No. I have enough monsters. Keep it in reserve for now. A shame I can’t imprint five hundred more health.
+
+Your reserved mana has increased by +51.Rogue – Kobold – level 7
+
+The new Kobold bowed to her immediately, just like the first one had, and then the two of them spoke softly together for a while. Ali’s mana slowly ticked down as her Sage skill tried its hardest to help.
+
+Is that actually a language? I guess it must be, although I’m getting nothing.
+
+While she had been working with her Grimoire, Mato had piled up all the corpses and gear in the house for her to deconstruct.
+
+“Hey, does this work for you?” Mato asked, holding the Fire Mage’s robe out to her. It stank of sulfur and looked like it might have once found use as a rag for swabbing the cursed remnants of a warlock’s failed summoning ritual over a volcanic vent in some deep forgotten hellhole. “It might actually be close to your size.”
+
+Ali glanced at her clothes. She had been about to dismiss the idea on general principles, but her shirt was burnt through by the Fireball. It might actually be better. I probably smell just as bad too. She took the offered robe and dubiously identified it. As soon as she did, her eyes widened, and she immediately tried it on.
+
+Whoa, nice! Maybe I should Identify things more often!
+
+Tattered Robes – level 7Resistance: 67Requirements: Intelligence 25Body – Cloth
+
+Ali adjusted the torn robes to her slightly smaller frame, tying off a few pieces so the cloth wouldn’t hamper her movement – or expose her butt due to the hole the Kobold had made for her tail. Her status immediately updated to show the effect.
+
+Resistance: 67Magic Damage Reduction: 23.02%
+
+Ali nodded slowly. Even though the robe was torn and smelly, the resistance would grant her an impressive amount of magical damage reduction against any monster at her own level.
+
+Sweet. I would have loved that a few minutes ago, she thought, recalling her brief Fireball-fueled flight across the room and into the wall. “Thanks, Mato.”
+
+“Sure. Next time, we’ll find you a prettier one.”
+
+She began to fold her arms in annoyance, before deciding this needed a joke. “A prettier girl Kobold to join my team? You’re so thoughtful.”
+
+He began to belly-laugh, but muffled the sound with his hands. Pointing at her two rogues, Mato said, “You want to go try those guys out? We should be able to handle some of the higher-level patrols, now.”
+
+For the first time in days, excitement rose within her. He’s right, we should be able to take some of the patrols we’ve been hiding from. As long as we pick carefully.
+
+***
+
+Ali stared at the patrol Mato had found. Among the higher-level patrols, there were several new variants of Kobold that they had not fought before. This patrol was no different.
+
+Warrior – Kobold – level 10-11 x2Slinger – Kobold – level 11-12 x2
+
+The Slingers were a soft, rusty-brown color wearing crude leather armor like the ones she had made for her rogues, but these were armed with slings and pouches of rocks.
+
+With his typical roar and charge routine, Mato engaged the patrol.
+
+“Go, attack the Slingers at the back,” she instructed, mentally sending her intent to her two new Kobolds the same way she had directed the wolves and rats.
+
+Immediately, she had to defend herself, throwing up a barrier against a barrage of small rocks that ricocheted off it with loud cracks. Aiming around her barrier, she fired off a stream of Arcane Bolts to keep the Kobold Slingers honest, while keeping a sharp eye out for cracks in her defensive magic. Or rogues.
+
+Hey, where did my rogues go? In her moment of distraction, they had simply vanished, and now she couldn’t find them anywhere.
+
+A moment later, there was a sudden spray of crimson blood and a howl of pain from one of the Kobold Slingers as her two rogues appeared out of the shadows behind it, their rusty daggers stabbing viciously.
+
+My rogues have stealth! In almost no time, the hapless Kobold Slinger perished beneath the onslaught, and her rogues immediately moved to the next target with a quick exchange of chirps and yips. A sizeable chunk of mana drained into her Sage of Learning in response. Not now! Ali fired half a dozen Arcane Bolts at the last Slinger and was relieved to see it drop almost as quickly as the first one.
+
+The sudden unexpected mana deficit from her Sage skill worried her, though. What if that happens in a close battle? Like the last one…
+
+She instructed her rogues to go help Mato, still roaring and slashing at the two warriors, and immediately lost a chunk more mana as their chirping calls were analyzed by Sage of Learning. Ali had not expected she would regret having a learning skill she couldn’t disable. Quickly, she ran over to the corpses and deconstructed them just in case she needed mana in an emergency. Thankfully, the warriors succumbed to their attack without any surprises.
+
+Ali was so pleased with the performance of her rogues, that she summoned another Kobold as soon as she had recovered her mana.
+
+Your reserved mana has increased by +51.Warrior – Kobold – level 7
+
+Ooh nice, I can make the warriors, too!
+
+She gave her new green-scaled warrior Kobold the iron chain shirt and rusty sword from one of the warriors they had just killed and deconstructed the rest of the gear.
+
+With the soft chirps of her new minions following them, Ali found that their progress had accelerated tenfold. They were able to take on many of the patrols that they had previously been forced to hide from, saving an enormous amount of time skulking about in dark houses hoping to go unnoticed. In the few hours they had left of the day, they made more progress than in the entire three days prior.
+
+As they settled into a new hiding spot for the night, Ali scrolled through all the notifications.
+
+Your group has defeated Slinger – Kobold – level 12.Your group has defeated Slinger – Kobold – level 11.…Your group has defeated Warrior – Kobold – level 10.Grove Warden has reached level 9.+10 attribute points.Arcane Bolt has reached level 9.Barrier has reached level 9.
+
+Without much thought, Ali immediately put all her attribute points into vitality. Her seventy percent withdrawal turned what should have been fifty points of health into a paltry increase of fifteen.
+
+But Ali was happy to have any increase at all.
+
+That run-in with the stealthed Kobold rogue and the feel of the dagger slipping between her ribs hadn’t left her mind even for an instant. If Mato hadn’t been close enough…
+
+***
+
+Name: Aliandra AmarielRace: FaeTitles: AncientClass: Grove Warden – level 9- Grasping Roots – level 5- Arcane Bolt – level 9- Barrier – level 9- Grimoire of Summoning – level 9- Runic Script – level 7- Sage of Learning – level 7- [Locked]- [Locked]- [Locked]- [Locked]General Skills- Reading – level 7- Identify – level 7- Sculpting – level 2Aptitudes- Languages: Ancient Dal’mohran, Elvish, Dwarven, Common- Mana (Affinities): Arcane, Nature- Tiny (Racial): The effects of Strength and Vitality are reduced by 50%- Magical (Racial): The effects of Wisdom and Intelligence are increased by 50%- Mana Sense (Racial): You are sensitive to nearby mana- Domain (Class): Your mana increases with the size of your domain, up to +100%- Domain: -10% maximum health per day domain withdrawal. You have Domain SenseAttributes- Vitality: 50- Strength: 4- Endurance: 15- Dexterity: 10- Perception: 11- Intelligence: 38- Wisdom: 32Equipment- Body: Tattered Robes – level 7Resistance: 67Magic Damage Reduction: 21%Health: 75/75 (-70% Domain Withdrawal)Stamina: 150/150Mana: 363/520 (157 Reserved)Grimoire: Imprints1- Moss2- Wood3- Crude Leather Armor4- Crude Dagger5- Starving Wolf6- Mushroom7- Stone8- Kobold9-
+
+Calen loped along the game trail, his feet making absolutely no sound as he passed over rock and soil alike. His body was almost invisible, appearing as a vaguely shifting shadow in the dappled light of the forest. He and Malika had ventured quite far south already using the same approach – he would hunt patrols and lure them back to where Malika lay in wait, and they would take care of them together. Once the path was clear, they would move up together and repeat the process.
+
+His Explorer skill told him that he was getting closer to the warren – there were many more tracks than he had seen before. He kept his eyes open and scanned the trees and bush for any signs of Goblins as he continued, following trails, dodging through trees, always tracking. Coming to a rise, he slowed and found a denser patch of shade in which to approach. He stepped forward carefully and peered out into a small clearing.
+
+What he saw was nothing like what he expected. Down in the clearing were four figures, standing around a small fire, horses tied to a tree at the edge of the clearing. One of the figures was hooded and masked, wearing black leather. Two of them were huge bulky brutes, and the last was a slender catkin woman wearing leather and playing with a dagger.
+
+He recognized all of them.
+
+What are they doing here?
+
+It was Kieran Mori and his underlings, Tala, Adrik, and Edrik. The very same criminals that had pushed Ali and Mato down the hole and sold him and Malika to the Kel’darran slave traders. His jaw clenched but he stood absolutely still, willing himself to give nothing away. He wasn’t familiar with their perception skills, but he had no desire to face them again. Even with his Explorer skill masking his sound, and Eclipse masking his image, all save Tala were well beyond his ability to Identify and the quality of stealth skills depended heavily on relative level difference.
+
+He waited patiently while they simply sat, the two thugs telling each other off-color jokes to pass the time while trying to get Tala to participate. Mori stood apart from the others, not joining in.
+
+Calen was beginning to get a bit annoyed at the unfunny jokes as his stamina slowly leaked away to power his stealth skills, when three more people appeared, entering the clearing and offering an obviously pre-arranged greeting. By their garb, they were all mercenary rogues or Assassins, and Calen counted at least twelve daggers and four swords among the three of them.
+
+“Did you find it?” Kieran Mori asked.
+
+“It was as you expected,” the presumed leader of the new group answered. She was the one carrying four swords, two on her back and two at her left hip. “We had to descend a long way before we found the boss.”
+
+“Did you kill it as I asked?”
+
+“Yes, it was a difficult fight – some kind of mutant Goblin Warlord – but we were successful. Everything went crazy. You should see the break soon.”
+
+Break? Boss? Calen had been having a difficult time figuring out what they were talking about, but the moment the mercenary captain had mentioned the ‘break’ he had a most terrifying realization.
+
+The Goblins are not coming from a warren. It’s a dungeon! And then he understood what they had done. They triggered a dungeon-break… on purpose? How? Why? Given the people in the clearing below, it could only be something awful.
+
+“When will we get paid?” one of the dagger assassins asked.
+
+“Edrik, Adrik, please take care of them,” Kieran said, his tone bored.
+
+The mercenaries’ quick smiles turned to shock and surprise as Adrik and Edrik approached, pulling out their swords and activating their skills. The first mercenary had no chance, his head landing with a splat in a pile of leaves, the shocked expression still glued to his dead face.
+
+“You bastard!” the captain shouted at Kieran Mori as she drew the two swords from her back.
+
+Kieran’s form flickered with shadow and a deafening thunderclap filled the clearing. Calen saw only an afterimage of the black hooded rogue before he appeared in front of the mercenary captain, his spear impaled clean through her chest. She twitched a couple of times, her legs dangling a foot above the ground before she slumped dead and he dropped her off his weapon, making it vanish.
+
+Only a supreme act of will kept him from fleeing. They would have been on him in a flash. Calen found himself holding his breath and tried to let it out soundlessly, knowing his life depended on the next few seconds.
+
+Adrik and Edrik held the last mercenary down while Tala stabbed him in the back.
+
+Kieran watched expressionlessly until the rogue was dead and then he addressed Tala. “That’s how you take care of business. Clean. Nobody to talk. Now, go make sure the Goblins are headed in the right direction, I need them at Myrin’s Keep’s gates in a couple of days. See that it happens.”
+
+Turning to Adrik and Edrik, he said, “You two, get back to town immediately and make sure everyone knows about the new protection prices. Bring my horse with you and take care of the corpses. We have money to earn. Get to it.”
+
+With that, he produced a vial full of dark liquid and threw it at his feet, creating a pitch-black cloud around him. When it dissipated, he was no longer present.
+
+Calen shivered despite himself. Had Kieran Mori been a being of lesser power, this whole thing might have passed for a charade.
+
+Shortly, Adrik and Edrik rode off to the north, and Tala vanished into the shadows, while Calen stood silent, considering the enormity of what he had just witnessed.
+
+They created a dungeon-break to attack Myrin’s Keep… so they can make money? Calen was stunned by the callous disregard for the lives of the townsfolk. The farmers, and ordinary people who would have little protection or no warning, would likely die by the hundreds. Maybe thousands. Those who couldn’t afford guards were likely to be preyed upon by both the monsters and the criminals.
+
+I have to get Malika. We have to get out of here. Despite the urgency, he waited in the shadows until he was absolutely certain Tala was long gone.
+
+Turning on his heel, he sprinted back the way he had come. If Tala successfully provoked the Goblins into chasing her, there would be a horde bearing down on them before they knew it.
+
+And we’re still days away from town.

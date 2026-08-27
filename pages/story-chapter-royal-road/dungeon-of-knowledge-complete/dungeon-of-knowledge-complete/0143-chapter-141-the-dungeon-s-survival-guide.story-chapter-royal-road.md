@@ -1,0 +1,311 @@
+---
+id: eaec7585-70e7-57d2-b40c-fd23c080619f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 141: The Dungeon’s Survival Guide"
+slug: 0143-chapter-141-the-dungeon-s-survival-guide
+partOf: dungeon-of-knowledge-complete
+position: 143
+ownLength: 5172
+unit: words
+ownProgress: 5172
+publishedAt: 2024-10-10
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1843385/chapter-141-the-dungeons-survival-guide"
+royalRoadId: "1843385"
+markedReadAt: "2026-06-29T20:15:45.654Z"
+---
+
+The Dungeon Survival Guide.This is by no means a complete checklist, but it is the bare minimum to be considered if you wish to survive. This checklist represents the distilled wisdom of the most experienced dungeon delvers in the Pathfinders Guild. The order is not intended to convey any relative priority – every single point is critical and will save your life and the lives of your companions – and even following this checklist will not guarantee survival.
+
+Rule 1: Have an escape plan. Something will always go wrong, make sure you can get out.
+
+Rule 2: Expect the unexpected.Never trust a dungeon. Just when you think the dungeon is boring or easy, when you finally get complacent and let your guard down, it will produce something so devious and vicious that you will die before even knowing what happened.
+
+Rule 3: Perception skills.Do not underestimate the value of perception skills. At the very minimum, you need mana-sight and an advanced form of Identify. Some form of trap detection and real-time magical analysis is essential for unexplored dungeons where boss abilities are unknown.
+
+Rule 4: Preparation.Bring the right gear, potions, and equipment – all the gold in the bank is not going to help you if you find yourself with too little armor to tank a hit, or in desperate need of a health potion because your healer got disrupted. Study what is known about the dungeon before entering and have a good plan for each boss. Make sure everybody knows the plan.
+
+Rule 5: Teamwork.You cannot defeat a dungeon solo, don’t even try – what are you going to do if you are a Fire Mage and find yourself facing monsters that are immune to fire? How will you defeat a monster with an anti-magic aura? The optimal group is five, and includes a tank, a healer, and a diverse suite of perception, magic, and martial skills – but much more important is that the group knows how to work together. If the dungeon has raid bosses, bring at least two groups.
+
+– The Unexplored Lands, by Lyeneru Silverleaf, Elven Pathfinders Guild.
+
+“Wait here,” Tala said, not even checking to see if he followed her orders before she dodged into the alley and cloaked herself with her magic. Daeron was a self-important mouth-breathing moron, but it would be Kieran Mori he had to answer to if he didn’t listen.
+
+She dodged the bright moonlight on the other side of the alley and emerged into the broad street by the south gate and paused to study the scene. The gates were shut, and the guards… Are they playing cards in there? She scowled at the backlit shapes visible through the window of the guard house. Such incompetence.
+
+That made it easier, though. She stooped and picked up a chunk of broken cobblestone, hefting it thoughtfully before she tossed it across the way. Her aim was perfect and the sharp crack of the stone striking the wooden door rang out loudly in the night.
+
+Shouts and activity erupted within the guard house, but Tala was already on the move, darting from shadow to shadow as she sprinted across the street. By the time the door slammed open, she was already there. With a burst of stamina, she activated Ambush and Mutilate simultaneously, burying both daggers in the center of the man’s back.
+
+Her chime sounded as her blades found his heart. Forgot your armor, did you?
+
+Before the second guard barreled out of the doorway, she used Vanish, drawing the shadows up around her once more. She took a slow breath, and, as soon as the second guard appeared, she shanked her, slipping one dagger into a kidney and the other through the left side of her ribcage right under the armpit. The longer blade in her left hand found the heart, triggering critical damage and her Ambush finished it off.
+
+Too easy, she thought, ignoring the echo of her chime. Reaching into her storage, she retrieved two cards with the Silent Assassin’s emblem and carefully set one on each corpse, before she entered the guard house and released the latches. The south gate slowly swung open, revealing the darkness of night beyond.
+
+“….mmmrrraarg….”
+
+Warrior – Zombie – level 3-6 x5
+
+Perfect.
+
+Tala slipped out and returned to the alleyway, finding Daeron staring wide-eyed at the zombies shambling into town. Grinning wickedly, she snuck up behind him and announced her presence with a dagger-point to his throat.
+
+“Waah!” he gasped.
+
+“Pay attention, unless you wish to die,” she whispered, enjoying the trembling in his legs. “Remember the job – let them kill a few people before your group takes care of the zombies.”He nodded, his throat working as he gulped.
+
+“Don’t forget to make it loud. Kieran wants witnesses.”
+
+“Yes, yes, I got it!” he stammered. The gloom failed to hide how green his face looked.
+
+“Make it happen. And don’t forget your armbands.” Tala used Vanish again and left him blinking as his head snapped back and forth comically.
+
+This should remind the townsfolk why they’re paying their Town Watch dues. Mori would be happy.
+
+Lightly, she licked her lips. The night had just begun.
+
+Ali woke early, and peacefully. She had half expected to be woken in the middle of the night by some monster invading the library from the jungle below, but her barrier across the doorway remained intact and had kept them all out. Scrolling through the notifications, it seemed like her traps and Kobold defenders had been working around the clock – at least, the undead quest counter on her ring had ticked up by twenty-three. Busy out there.
+
+She roamed around with her senses, connecting with each of her monsters and verifying with their eyes that all was secure. Oh, hmm, that’s a bit of a problem, she thought as she noticed the zombie corpses piled up on top of her runic circles. They wouldn’t work well if monsters had to walk around them. “Drag those off into a pile on the side,” she instructed, waiting only for a confirmation nod from her Kobold in the distant cavern, still impressed that Martial Insight seemed to have no range limit so far. She’d need to go dispose of them before they began to stink up the place. Well, they probably already reeked.
+
+Casting her awareness further out, she found her two Kobold rogues, still hard at work picking over the town. She chose one and shared his view of the world for a moment, finding him busy dragging a stack of broken wooden slats along a dark alleyway to a hole in the ground. He paused, and then pitched it all in before returning to search for more. The alleyway and sewer entrance seemed bright and clear by the Kobold’s fantastic night vision, but somehow Ali could tell that dawn wasn’t far off.
+
+“Come,” she said, collecting several nearby minions from around the library and bundling them onto her barrier before flying off toward the sewer. If she hadn’t been worried about traveling alone, she could have simply teleported through the sewer now that it was densely populated with her minions, but instead, she flew the entire way, using her industrious rogues as her reference.
+
+It seemed they had picked a fairly localized part of town to scavenge from, but when she reached the sewer entrance, she found a huge pile of junk waiting for her at the bottom of the ladder.
+
+Wow. She stared up at the precarious edifice, keeping a little distance in case it all came crashing down. It was amazing that her Kobolds had been so productive and that there was that much junk to be found in just a small section of town. She wrinkled her nose as she caught a whiff of it – at least some of what they had found must have been rotting for weeks. Lovely. She created a precautionary barrier and watched from a safe distance as the grate far above shifted and a few rocks and a broken chair fell from the circle of darkness way up above, clattering down onto the heap.
+
+“That’s enough for tonight,” she called out, and two dark shadowy forms swarmed back down the ladder to join her. “Good work.”
+
+Her Kobolds bowed, their black scales rapidly blending into the shadows until all that remained was the lingering gleam of their sharp fangs and the whites of their eyes, momentarily bright against the darkness before those too faded from view. Without any further orders, they hovered nearby, guarding her as she mentally rolled up her sleeves.
+
+I hope this was worth it, she thought, staring at the gigantic pile. It would be a shame if it was all just a huge waste of time. At least for the scavenger dungeon it had been effective, so in theory, it should be beneficial for her too, but her imprints worked by finding several of the same kind of thing before she could make it, and this pile seemed like an enormous collection of random –unfortunately unique – junk.
+
+Though I’m not exactly deranged like that dungeon, she noted. She quickly got to work, deconstructing everything from broken furniture to rotten food.
+
+Imprint: Paper completed.
+
+Imprint: Rotten Fish completed.
+
+Imprint: Ceramic Pot completed.
+
+Variant: Clay Brick added to Imprint: Stone
+
+Imprint: Wood completed.
+
+Variant: Pine Board added to Imprint: Wood.
+
+Variant: Ash added to Imprint: Wood.
+
+Variant: Teak added to Imprint: Wood.
+
+It took a while to deconstruct the entire pile, working from top to bottom so it didn’t collapse on her, but to her surprise, there were quite a few additions and options for her Grimoire. Ali discarded the imprints for paper, rotten fish, and the ceramic pot, deciding that they didn’t offer enough potential to spend a chapter on. Especially the fish, eww. At least the air’s clearing a bit now that I’ve converted those to mana.
+
+But the addition to her stone imprint might be useful, and she found an empty chapter to inscribe the wood imprint along with the several variants she had just learned. Wherever they had gone, her Kobolds had certainly found a lot of broken furniture.
+
+Suddenly, her Grimoire flared again, and her pages began riffling quickly back and forth. A chorus of chimes sounded as the book ping-ponged between the imprint for trees and the imprint for wood.
+
+Variant: Cherry added to Imprint: Wood.
+
+Variant: Maple added to Imprint: Wood.
+
+…
+
+Variant: Oak added to Imprint: Wood.
+
+Oh, nice! She stared at the light show as her Grimoire added every single kind of tree to her wood imprint. That’s handy. Cleared out a few cobwebs.
+
+She glanced back at the now-empty spot where the pile of trash had been, and her eye was caught by a gleam of something embedded in the moss. Crouching down to get a closer look, she found a few coins – loose change that had come down with everything else – wedged into the moss by the weight of the pile of junk. She pried them out one by one and then deconstructed the lot.
+
+Imprint: Dal’mohran gold coin updated to Imprint: Coin.
+
+Variant: New Darian Copper Crown added to Imprint: Coin.
+
+Variant: Torian Bronze Royal added to Imprint: Coin
+
+She had deconstructed several silver coins, but not enough of the same ones to update her imprints.
+
+This was more productive than I expected. Given the account of The Scavenger in Lyeneru’s book, she had been prepared for a lot of worthless trash – which was what she had gotten. But she had also learned several useful things in the process, and who knew what else the townsfolk were discarding.
+
+“I want you two to gather more stuff every night,” she said, speaking to the shadows. “Pick a different spot next time.”
+
+“As you wish, Ancient Mistress,” came the disembodied voice from the shadows.
+
+“Ok, let’s go back,” she said. She made her way slowly back to the library deep in thought. She had many ideas for her domain, but most of them required additional knowledge she didn’t possess, skill advancements, or prescience. When she flew through the great doorway into the library, she was no closer to any resolution. I need more information. She circled down and frowned at the sight of the collapsed table, burnt through by the deadly beams of the Coruscant Ray.
+
+It’s a different wood, she thought, running her hand over the remains of the tabletop. She had another table, but she had admired the craftsmanship of this one. The wood had a beautiful color and texture, marred now by the deep burn marks.
+
+She used deconstruction, carefully removing pieces of the tabletop until her Grimoire appeared with her chime.
+
+Variant: Mahogany added to Imprint: Wood.
+
+As soon as she had it, she made her Kobolds hold the pieces of the table up in the proper alignment, and she summoned mahogany wood from her imprint, shaping and blending it with the remains of the table to reform the tabletop. She bent and warped the wood with her Domain Mastery skill, blending the grain, until the final piece looked to be crafted from a single, enormous piece of wood, polished to a shine – a liberty she was free to take with her skills even though the trees typically didn’t grow that large.
+
+Sculpting has reached level 5.
+
+I need to ask Ryn to get a new couch, she thought, but at least this table was perfect.
+
+***
+
+Ali sat at her newly repaired mahogany table, poring over the dungeon delves of Lyeneru Silverleaf with her notebook open to the side. It was certainly no textbook, directly imparting the knowledge she needed, but she was beginning to tease out nuggets and tidbits of ideas that might help her. Directions of inquiry that might hold some potential.
+
+Lyeneru had made a casual offhand reference to ‘splitting’ a dungeon. According to her, if one destroyed the dungeon’s domain at a chokepoint, it could be split into two, and then the smaller, or less dense part that was not connected to the ‘main’ domain would instantly die off. It was a strategy she had employed to great effect in several dungeons, preventing the dungeon from respawning monsters behind her on longer delves.
+
+So, that’s what happened, she thought, looking up from the book, her eyes drawn to the atrium. Without understanding what she had done, she had deconstructed the giant bone spire in the center of the library and caused the entire upper part of the Ruins of Dal’mohra dungeon to instantly dissipate. At the time it had caused her no end of worry, but now, finally, she had an explanation for what had happened.
+
+The library must have been a chokepoint connecting the upper caverns and residential level to the industrial level of the city. The Bone Wights had presumably been in the densest part of the dungeon, which was why that part had survived – either because of the raid boss or, more likely, the shrine artifact itself. She hadn’t exactly been paying attention to that specifically, but her recollection of the look of the domain mana seemed to fit with her conclusion. The mostly cleared section above had broken, triggering a partial dungeon-break. It’s a good thing it didn’t happen the other way around. It had been one thing to mop up the Kobolds ejected from here, but she hated to think of the destruction that might have been wrought if the Wights had been set to rampaging around the countryside.
+
+From her own observations, Ali’s domain mana originated from herself, radiating outward. If her domain were split, likely the part of the domain she was in would be the one that survived. When the Town Watch had come down to burn her domain, she had split it herself by disconnecting the ventilation shaft, and the part that had survived was the much smaller expanse in the ruins and the library.
+
+If she didn’t want to suffer a similar loss of her domain in the future, she needed to defend it. But according to what she had just read, she also needed to make her domain denser and much better connected.
+
+I should claim much more space. Losing the forest cavern had cost her more than three-quarters of her domain, with a commensurate loss in her mana capacity in the process. If she expanded her domain well beyond what she needed for her mana, even losing a large area like the sewer system and the Forest Cavern, she could still maintain her full mana pool, which would be essential for her defenses. It was not like she lacked space to expand into – there was a lot of area in the ruins and the jungle she had not claimed. Presumably, there was even more area where the water and slimes had come from when she blew the lake out on top of the Goblin siege. Then there was the passage she and Mato had used to escape the ruins – now caved in, but that had connected to a series of unexplored caves too – something Calen had speculated was the path the Kobolds had used to reach the farmlands.
+
+She turned the page to reveal a simple checklist called ‘The Dungeon Survival Guide’, in which Lyeneru spelled out several important concepts for surviving in a dungeon. It was remarkably similar to Vivian Ross’s advice from the first time they talked with her, highlighting the value of teamwork, being prepared, knowledge and perception skills, and having an escape plan.
+
+What’s my survival guide? She considered all she had read so far, her most difficult experiences and challenges.
+
+Expand. It was crucial for her to expand her domain to defend against splitting and burning. She must make her domain more robust and retain her mana and the power of her domain magic.
+
+She picked up a pen and began to jot down the beginnings of a plan.
+
+Think with monsters. Lyeneru had explicitly pointed this one out. Her monsters were her biggest asset, her strength, and the source of an endless variety of skills and abilities. She needed permanent defenders in her domain or she would always be struggling to defend herself.
+
+Of course, there were limits. She only had so much mana to reserve for monsters.
+
+Knowledge and the value of Perception. In adventurer groups, perception skills did not always add to raw power – but the information gained could easily spell the difference between winning or dying. She had personally experienced just how important her Arcane Insight was for understanding the dangers presented by boss monster abilities.
+
+And Lyeneru told me to use my slimes for their anti-stealth Tremor Sense.
+
+Bosses and Traps. Dungeons grew in power proportional to the defenders they could wield, and every dungeon that had challenged Lyeneru had used difficult traps or boss monsters with powerful combinations of abilities.
+
+Is that it? She considered her list carefully, but as she did, she realized something – perhaps the most important thing – was missing. She had been saved again and again by her friends.
+
+But it wasn’t just them, she realized, recalling Vivian Ross’s efforts to help her, Donella Novaspark’s Chain Lightning from the battlements, and the support of Lydia and Thuli who made their gear. She struggled for a while to encapsulate the idea in a simple phrase – in Lyeneru’s guide it was labeled ‘teamwork’, but she wouldn’t call Vivian, Donella, or Mieriel friends or teammates, but they definitely had been…
+
+Allies.
+
+The word seemed to fit what she wanted, so she wrote it down. If she had strong friends, they would help her. If she was useful, people would protect her. As a dungeon, she would certainly not have many, but the more allies she could win to her side, the better her chances of survival would be.
+
+Perhaps I should reconsider Vivian’s request. The idea of opening her shrine up to the general public again left her palms clammy. However, it had definitely helped to secure Vivian Ross’s support, and she was beginning to see the value in the Guildmaster’s vision: a strong guild would be a potent stabilizing force in the town, and that would definitely help her. Not to mention, the people who had earned classes from her shrine might be more likely to view her favorably. At least Havok thinks I’m cool.
+
+A mental picture of Havok’s face made her smile.
+
+Ali picked up the pen again and wrote her title above the list.
+
+The Dungeon’s Survival Guide.
+
+1) Expand.
+
+2) Think with monsters.
+
+3) Knowledge and Perception.
+
+4) Bosses and Traps.
+
+5) Allies.
+
+She studied it carefully, but there was nothing else that came to mind. She would add to it if she discovered something important later but, for now, she was quite happy with it. The fact that it mirrored Lyeneru’s guide but was aimed at the survival of the dungeon instead of the adventurers tickled her sense of irony. I wish Calen was here, she thought, finding herself wishing she could pick his brains for new ideas.
+
+The list, however, did highlight how little she knew about being a dungeon. She still had no idea how to make bosses and, other than the cobbled-together contraptions her Kobolds made, she had a single trap. She was already working on growing her knowledge by reading Lyeneru’s book, but although her list item ‘allies’ was nice and trite, she had no idea how to quickly find powerful allies.
+
+But I can expand. It was one of the few things she knew how to make immediate progress on. “Come,” she called, reaching out with her mind to connect with every Moss Creeper, Spore Spreader, and Floral Menace, and drawing them to the top level of the ruins – the residential zone of the ancient city.
+
+“Expand my domain.” The area was vast, and it would undoubtedly take them some time to complete, but they could make continuous progress on it while she was busy. “Err, don’t go outside the ruins,” she added, recalling belatedly that there were a number of unexplored caves. It wouldn’t do for her minions to disturb anything lurking in there.
+
+***
+
+Ali sat at her table once more, this time poring over the Monster Compendium. Her biggest fear was stealth and being ambushed by invisible attackers. She simply did not have the skills and health to deal reliably with that threat.
+
+But Lyeneru had given her the solution in the form of free, but harsh advice. I guess that’s to be expected of the premier Pathfinder.
+
+Her own rule-three indicated she needed knowledge and perception, and her rule-two encouraged her to think with monsters. She was taking it perhaps a trifle too literally though, paging through the compendium, searching for monsters with unusual and potentially useful perception skills like her slimes.
+
+Although I’m not sure where I would find one of those, she thought, staring wide-eyed at a beautifully detailed picture of something called an ‘Earth Wyrm’. According to the compendium, these monsters were earth-affinity flightless, legless dragons, but having neither wings nor legs did not hamper their movement in any way. They had earth magic to burrow through solid stone at the speed of a flying dragon, and they could sense through rock.
+
+“Hi Ali, what are you doing?”
+
+She glanced up from her studies to find Mato walking up to greet her with Ryn hovering beside him on her pretty magical butterfly wings.
+
+“I made a dungeon’s survival checklist, and now I’m trying to find useful monsters to help my defenses,” she answered, though her success so far had been mediocre at best.
+
+“Can I see?” Ryn asked.
+
+“Do you want breakfast?” Mato asked, simultaneously.
+
+“Yes, to both!” she grinned. Pushing her notebook toward Ryn, she offered the Dungeon Survival Guide from Lyeneru’s book, and then her own version, The Dungeon’s Survival Guide.
+
+“That’s funny!” Ryn giggled. “You flipped the meaning entirely. What kind of monsters are you looking for?”
+
+“I’m really worried about stealth and assassins, especially since I’m a dungeon and there’s already a bounty on my head. So, I was looking for monsters with perception skills that could defeat stealth and invisibility to help defend me. But they need to be common enough that I can actually find some, not like this guy.” She flipped the compendium around so Ryn could see the Earth Wyrm.
+
+“That’s big,” Ryn said.
+
+“Also, it would be very handy if I could find some higher-level monsters that prioritize wisdom or intelligence as their highest attribute for my Empowered Summoner skill,” Ali added. She had two imprint chapters she could sacrifice if something useful showed up. Even though food was still scarce in town, she wasn’t certain she needed the Black Bean and the Potato imprints anymore. She could always just plant some rice, wheat, or some more fruit trees if she wanted to fill some of the food collection jobs on the guild board. She even had some edible mushrooms.
+
+“Wolves have good noses,” Mato called out from where he was stoking the cookfire.
+
+“Oh, yes! I have some Timber Wolves,” she said. She also still had the Starving Wolf and Alpha variants if she needed something easier on the mana – but they were lower level and presumably had weaker senses. He was right, though, the wolves were one of her best options right now – scent was hard to mask.
+
+“This sounds like a fun project,” Ryn said, pulling up a chair and placing a hand on the Monster Compendium. “Give me a second.” A complex formation of golden mana formed in front of her eyes as tiny sparks of violet played in her pupils. Her eyes flickered back and forth rapidly as if reading something at high speed.
+
+One of her Librarian skills? Nice!
+
+“Ok, here we go,” Ryn said. She took the Monster Compendium from Ali and flipped the pages halfway through the book. “Here’s one option to consider. The compendium says that spiders are very common, and most species have interesting visual senses, highly sensitive to motion. Some of them also produce webs which they use in conjunction with various kinds of tremor sense. Here, read this.” Ryn pointed to the chapter describing the many and varied abilities of monstrous spiders.
+
+“I used to know how to make spiders,” she mused. “But I had to give it up because I didn’t have enough space at the time.” She left unsaid that a major contributor had been the fact that they creeped her out a bit. On the other hand, they were most assuredly common – spiders could be found anywhere. The challenge would be finding one with the right sensory skills. Is it too much to ask for it to be cute also? she wondered, grimacing at some of the pictures in the book. I’m not supposed to be ‘cuteing’ enemies to death!
+
+“Here’s another option,” Ryn said, flipping to the front of the book. “Bats usually have exceptionally acute hearing and sonic echolocation. An active sonic perception skill might be just the thing for flushing out sneaky creatures and people!”
+
+“Oh, that’s a good idea,” Ali said, grinning at Ryn’s mounting enthusiasm. “There were some pretty scary bats on the second level of this city, maybe there are still some left that I can hunt.”
+
+“For the creatures with high intelligence and wisdom, I will try to find some more information and make a list,” Ryn said, brusquely, pulling out a notebook and a pen. “I was planning on visiting the library at Vertias again this afternoon. I can search their collection for anything interesting.”
+
+“Oh, if you’re going to Vertias, can you look for any books on arcane trigger magic?” Ali asked. She needed to make some progress on traps, and none of her ideas had panned out so far, but the discussion of the library had reminded her that magic tomes existed – and also reminded her of the niche branch of arcane magic related to trigger spells and metamagic.
+
+I should hopefully be able to use them to make some traps with Runic Script.
+
+“Ok, I’ll look.”
+
+“Oh, can you also search for more books detailing dungeon dives?” Ali asked, meeting Ryn’s gaze as she glanced up. “I need descriptions of the traps and monsters, and any tidbits on how the dungeon was constructed. Or grew… whatever.”
+
+“Got it,” Ryn said, scribbling down more notes. “Anything else?”
+
+“A fun story?” Then Ali grimaced. “And a replacement for the couch.”
+
+“I got those on the list already.”
+
+“Hate to disturb your furniture shopping, ladies, but here you go,” Mato interrupted with bowls of hot oatmeal seasoned with crushed nuts and strawberries. It smelled divine, and Ali immediately dug in.
+
+“How was your job at Sigurd’s farm? Did you finish?” she asked, talking around a mouthful of food, and then immediately feeling bad for forgetting her manners.
+
+“Yes, his farm is cleansed,” Mato said, joining them at the table for breakfast. “He was so happy that he told all the other farmers, and now they all want me to do their farms too. I had to stop them trying to outbid each other to buy me with money.”
+
+“Why did you stop them?”
+
+“Well, it’s my duty to cleanse it. I would do it for free, but Mieriel told me we must charge at least the minimum fee because it’s the Town Council that is sponsoring the cleanup.”
+
+“Well, if you’re going back out there, do you remember that cave with the Kobolds we cleared? There were some cave bats in there –”
+
+“Ugh, flying rats,” Mato grumbled.
+
+“If it’s not too much trouble, would you collect some for me? I think I’ll go hunt some of the giant bats from the ruins, too.” At least she knew where the bats were, and if she could add them to her Grimoire, she would hopefully have access to a potent defender with a new powerful perception skill.
+
+“Smart,” Mato nodded. “I’ll do it, just for you, even though they fly. But I have one condition.”
+
+“What’s that?” she asked, surprised at his request.
+
+“Those –” he pointed toward a pair of Kobolds and a Luminous Slime “– are dinky monsters. I would feel a lot better if you made something stronger and kept it nearby. You’re by yourself down here and if you get attacked, I want to know you’re set up to handle it.”
+
+Ali smiled, about to tease him about the loss of her confident, happy-go-lucky friend, but she saw the concern in his expression, and she withheld her words.
+
+He’s really worried about me.
+
+Instead, she said, “Ok, I’ll make a couple of Forest Guardians, and a few Wyverns to go hunt bats and keep them nearby.”
+
+“Thank you,” he said, “and good hunting.” He smiled, packed up his cooking gear, and waved goodbye, heading out to continue his blight eradication quest.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

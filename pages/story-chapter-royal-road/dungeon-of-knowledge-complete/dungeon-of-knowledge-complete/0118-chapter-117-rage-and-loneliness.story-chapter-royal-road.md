@@ -1,0 +1,117 @@
+---
+id: 6ec26397-a2c5-5ba4-9358-e75bf47fea78
+page-type-slug: story-chapter-royal-road
+title: "Chapter 117: Rage and Loneliness"
+slug: 0118-chapter-117-rage-and-loneliness
+partOf: dungeon-of-knowledge-complete
+position: 118
+ownLength: 2915
+unit: words
+ownProgress: 2915
+publishedAt: 2024-08-21
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1768146/chapter-117-rage-and-loneliness"
+royalRoadId: "1768146"
+markedReadAt: "2026-06-29T20:15:00.773Z"
+---
+
+The diminutive Fae lay on the cold stone floor of the once-grand library – now a millennia-old mausoleum for decayed books, ruined stone shelves, and forgotten knowledge – her form unmoving except for the occasional shallow breath. The deathly silence and yawning darkness of the atrium were intruded upon only by the softly glowing golden panels that hung suspended in the air and a few granite planters scattered about containing glowing blue grass and the occasional tiny golden mushroom. Discarded on the dusty stone beside her outstretched hand lay a sprig of jasmine, torn from the vines that entwined the railing guarding the spiral staircase descending into the atrium. The tiny crushed white flowers filled the air with their beautiful perfume. A steel-and-leather bound book lay open where it had tumbled from her hand, glowing silver runes embossed upon the spine and cover, speaking to the potency of the knowledge and magic it contained.
+
+Hours passed, drifting by unnoticed by the Fae in her insensible stupor. Hours that might have been days. The crypt-like library remained quiet and subdued, entirely unaffected by the frenzied activity outside, a pregnant atmosphere of waiting, tempered by the eternal patience of ancient, ruined stone.
+
+She waited, too. Waited and waited, cradled within the cold embrace of the crumbling ruins of her once home; her only company the yawning emptiness within and the silence all around. But nobody came for her. Nobody came to end it.
+
+The stasis in the library stretched on, persisting, isolated from the march of time outside, but eventually, something changed within her. A tiny shiver ran through her limp body – a twitch – as if her body – in the absence of conscious volition – sought to remind the library that she was still alive. Perhaps it was in response to an underlying urge, or a deep unconscious memory, or perhaps it was simply the nature of life to change.
+
+Slowly she rose, swaying unsteadily, her tiny bare feet shuffling on the cold stone till they remembered how to support her weight. Her glassy gaze flickered briefly to the sprig of crushed jasmine on the floor, but it returned – downcast – to the cold dusty flagstones without ever seeming to register what she saw. Her head bowed and her shoulders rounded forward as if an unbearably heavy weight bore down on the nape of her neck. Tiny stunted golden wings hung limp and forlorn on her back.
+
+Some impulse drove her forward and she began to walk, stumbling at first, and seemingly aimless, but after a time she drew closer and closer to the darkness of the atrium and the spiral staircase that led downward. Oblivious to the danger of the yawning abyss, she took the ancient bone-encrusted stairs with shuffling steps and began the long descent into the darkness below.
+
+She passed by the darker and more ruined levels of the library at a snail’s pace, without ever raising her eyes, without ever acknowledging her surroundings. Her forward progress was painfully slow as she stumbled on the crumbling stairs, never stopping nor falling. Her mind remained hidden away in the dark place to which it had fled, surrounded by a numb, unfeeling void to which she clung like a frightened child clutching their mother’s skirt.
+
+Her long, slow descent came eventually to an end and as she reached the final step, her Grimoire appeared beside her, unbidden, the gold and green of its bright magic illuminating the bone and debris strewn about across the floor. As her toes touched the ground, a small circle of moss bloomed beneath them, growing quickly wider, like a ripple spreading across the surface of a still pond. Her mana flowed automatically, without conscious thought, for she was as much a creature of mana and magic as she was flesh and blood.
+
+Another step kissed the ground, and again the moss grew, this time with a small glowing golden mushroom eagerly sprouting almost between the toes of her left foot, all the while, her mana pulsed, and her Grimoire glowed as it floated softly along beside her. The two still-growing patches touched and merged as she placed another with an unthinking step. Across the bone-encrusted stone floor, the trail of moss and glowing mushrooms grew, meandering slightly as her path was not steady, but always heading toward the two enormous stone doors that stood ajar, leaking humid air and thick roiling mana into the otherwise quiet and tranquil ruined library.
+
+The enormous Forest Guardian that waited beside the doors raised its head and gazed expectantly at her approach, but she did not command it, nor did her awareness even register its presence. Perhaps recognizing her vulnerable state, it simply followed her, hovering protectively nearby.
+
+She stepped through the doors and out onto the damp turf beyond, bringing her growing trail of moss and mushrooms along with her, and the burgeoning threads of structured mana that formed her domain.
+
+She stopped, not bothering to look at the dense jungle, just a tiny Fae standing all alone in a wild-mana zone filled with elementals and monsters, and zones of liquid mana so dense they could flay skin and burn flesh. But she was just as oblivious to all that as she was to the heavy steps of the gigantic Forest Guardian that followed her through the doors.
+
+Her Grimoire flared with light and magic as her mana surged through her. It tickled at the edges of her awareness but didn’t intrude. A few minutes later, an enormous black oak snapped into existence in the center of an overgrown game trail up ahead, sending turbulent ripples through the chaotic ambient mana as it tore aside the tangled brush. It sucked at the nascent threads of her domain, drawing them into itself and up through its gnarled trunk till it launched the mana out through the upper branches and into the space beyond. Gradually, inexorably, it began imposing order upon the chaos as the domain mana grew.
+
+She didn’t pause or stop to observe, she simply walked a little further and began to create once more. This time a tall conifer with blazingly bright yellow needles appeared. This time the mana appeared to conflict with the growing domain, suppressing it, but she gave it just as little attention as the oak. Her next act created a large stand of giant bamboo as she pushed deeper into the jungle, threading her moss and mushrooms as she went. The bamboo burst into a pillar of viridian green mana, substantially boosting her domain – a sight that would have been spectacular to see, had she cared to look.
+
+She continued onward, creating plants and trees seemingly at random, all the while connecting everything with her trail of moss and the little golden mushrooms that seemed to spawn wherever she stepped. Every now and then, she paused her creation to destroy a tree or rock, turning it into a bright explosion of motes of mana. After more than an hour of slowly pushing her way into the jungle, the pages of her Grimoire flipped faster than the eye could follow, and she created something new. When her magic spell completed, a second giant Forest Guardian stood before her, its low rumble vibrating through her body. But she simply created another, not noticing her attentive summoned elemental awaiting her will.
+
+She paused her aimless creation finally, staring out into the jungle. For a moment, her dazed eyes hardened as her face contorted in an expression of unbearable anguish. She took a deep breath and screamed, her tiny voice aching with despair and loneliness, cast back at her by the uncaring trees until her voice gave out. She screamed again, her voice turning to anger and frustration. This time, her three Guardians added their voices, a thrumming powerful bass accompaniment that underscored her emotions, lending them power and reach. The deep roar of the Guardians crashed out into the forest hitting notes so low they were felt through the ground rather than heard. Branches shook, birds screeched, and insects fled in a chaotic explosion of fear and flight. In the distance, the screams and roars of monsters answered her challenge.
+
+But Aliandra ignored the noise and slumped over, seemingly worn out by the expression of her heart. A bright shimmer of light and afterimages tore through the nearby trees and a Radiant Brawler appeared beside her. Her Guardians roared once again, unleashing the enormous momentum of their Rush skill, charging the intruder with fury and power. The Radiant Brawler tumbled head over feet, rolling almost fifteen meters before it was smashed into a tree by the charge of her second Guardian. Roots and vines erupted from the ground reaching, twining, and twisting.
+
+She picked her way among the giant monsters and their earth-shaking battle as if they were of no consequence, stopping briefly to summon a Toxic Slime. She followed up with a black-scaled Kobold rogue, but she moved on to creating a tree, unaware that she had neglected to provide her minion with armor or a dagger. Both new minions joined the fray, ignoring the fact that they were a poor match for the radiant elemental. There seemed to be no rhyme or reason to her labor, just endless creation as her domain expanded into the jungle.
+
+What should I feel?
+
+Every minion paused and glanced at her.
+
+It was the first coherent thought she had had since she collapsed in the library. She stopped for a moment, looking puzzled, as if she couldn’t recognize what it was, choosing eventually to ignore it and focus on her Grimoire again while the crash of battle resumed with more and more monsters emerging from the jungle to challenge her.
+
+Why are you attacking me?
+
+Why me?
+
+Why don’t I belong here? Where do I belong? Nowhere…
+
+The strange thoughts intruded upon her calm once more. The face of a blond, blue-eyed mage loomed large in her mind, taunting her with obvious relish at her anguish. An Ice Lance appeared.
+
+She felt something then. Something that burst the void and emptiness with which she shielded her heart. Rage surged up within her and she screamed at the monsters. Several razor-sharp barrier shards and spikes appeared, circling in the air about her head and shot forward impaling the attacking monsters. She left them there, supported by the growing magic of her domain, and summoned more. With a continuous stream of barrier shards lashing out in a storm of cutting, stabbing, and impaling, she returned once more to her Grimoire, deconstructing the now-dead Radiant Brawler and creating a new tree in its place.
+
+But something had changed. No longer was she indifferent, now creating things with fervent energy, like her rage had cracked the dam and all the emotions pent up behind the walls were leaking out through the cracks.
+
+She blasted through her imprints, creating furiously as if to hide her unraveling mental state with busyness. A sword, several pieces of armor, a shield, a Hobgoblin, a mushroom – it didn’t matter what it was, she created everything, anything. A desperate cry for sanity and meaning in a sea of pain and rage, an act of defiance, even… hope.
+
+Abruptly, she stopped paging, the sense of something familiar inscribed there catching her attention. Her mana surged, and she created a red-scaled Kobold Fire Mage. Perhaps because she had created so many, the familiarity was strong enough to impinge on her clouded awareness. She created another, and then another.
+
+Her rage reasserted itself, perhaps to protect her mind; a furnace to burn away her febrile state. Her Kobolds reacted by adding their fire to the battle. But the detonations of their Fireballs and the acrid stench of sulfur and heat seemed somehow soothing to her. As monsters poured out of the jungle into her invading domain, her awareness slipped in and out of the perceptions of her minions, taking note, but still not entirely consciously. Occasionally, she switched places with her minions, but not seeming to do so out of any need of self-preservation – rather, as if she had simply remembered she had the ability to do so.
+
+She lashed out with another storm of barrier magic, leaving many of them wherever they landed, impaling monsters, trees or even just stuck in the ground. She created a Poison Wyvern, and then a Scalding Slime.
+
+Friend? The slime’s appearance triggered a memory of a smaller, blue slime. She wondered who the slime was, and why she was familiar. Several other familiar faces appeared in her mind’s eye. A dark-skinned girl, looking at her with kindness in her striking light blue eyes. A shy blond half-elf, asking her for her advice. A bear, handing her a delicious bowl of food. A boy planting flowers for her. A girl laughing with her over a book and tea.
+
+I don’t deserve friends. I don’t have friends.
+
+Angrily, she swept the images away in a rush of despair and loneliness.
+
+I’m all alone. Everybody hates me. I am a monster.
+
+A monster.
+
+Even the monsters here know me…
+
+The thoughts burst into her like a torrent of water exploding forth from a stricken dam. She neither heard nor saw the wild Forest Guardian charging at her from the jungle. Trees shattered and the ground shook as it bore down on her, but her mind was filled with shame and fear as the thoughts crashed down on her, relentlessly stabbing at her heart.
+
+The enormous bulk of her first Forest Guardian tore across the field, slamming into the side of the other, knocking both of them rolling. Several tons of sprawling, roaring fury smashed into a large tree, snapping it like kindling. Ali turned away from the fight, forcing her mind back to stabbing with her barriers, and circling through the sight of her minions. Her vision flickered as it jumped from creature to creature. She became the Forest Guardian, roaring and crashing. She became the Scalding Slime, feeling the vibrations and tremors of the battle with uncanny precision. She was the Wyvern breathing poison, she was the Hobgoblin wielding a sword.
+
+She teleported again and resumed her magic.
+
+She summoned a Floral Menace which immediately began growing flowers. Then she created a Piercer Scorpion. The enormous bulk of the bone elemental collapsed right where she created it. Not paying it any heed, she created more and more – moss creepers, oozes, mushrooms, and grass – her mind blissfully distracted from feelings by the chaos of battle, her minions, and the mechanical task of channeling her mana into things, into a frenzied glut of creation, all the while keeping enough focus to maintain her storm of barrier shards.
+
+As the battle raged, her domain strengthened, and so did her army. Her barriers were denser and stronger, her plants grew, and her minions fought without pause or rest. She pressed on, consuming everything in her path, anything that attacked was destroyed by her monsters and deconstructed to fuel her growth. Hundreds of monsters died. Hundreds of her creatures died. But many survived, continuing the fight while her loyal Forest Guardians regenerated them all.
+
+But her emotions had escaped their box and refused to go back in. Within her raged a war far more intense than the one without; a clash between her identity, emotions, and the terrifying truth of what she had learned.
+
+I am a dungeon.
+
+She was the most horrific kind of monster – the kind that made people gleeful about hunting her down, torturing her, and gloating about how they would kill her. The kind of monster that would instantly turn her friends against her. The kind of monster that consumed everything in its path, spewing out dungeon-breaks and decimating cities.
+
+It was no surprise that Roderik had come for her. She deserved it. She had even signed up to become an adventurer herself, joining the guild and learning how to fight and defend against dungeons. When she thought of Malika and the story of her pain, Ali knew she would be the first person to try and put her down.
+
+Perhaps I should let her kill me.
+
+She fought for what felt like days, the battle in the jungle raging on unabated, mirrored by the one in her heart. Relentlessly, she threw herself into the fight with pure focus, seeking respite in the blissful void and yielding to her instincts, but every time she returned with a jolt of pain and anguish, unable to shed the truth.
+
+Eventually, her body rebelled against the unrelenting intensity with which she fought. She stumbled, falling on her face in the dirt. Getting up in a daze, she turned, and without much awareness of where she was going, she returned to the great stone doors of the distant library. She barely noticed the great distance her aggressive expansion into the jungle had taken her, falling back into her mental void, walking, stumbling, and eventually crawling her halting way back to the relative safety of the ancient library.
+
+She dragged herself across the threshold and into a corner, collapsing unconscious on the stone floor with the sounds of battle still raging in the distance, not even aware that her original Forest Guardian had followed her and now stood guard over her insensible body.
+
+For the first time in days, she knew the blissful peace of unconsciousness, freed from the crushing despair and loneliness that clawed at her heart.

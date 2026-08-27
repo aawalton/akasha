@@ -1,0 +1,271 @@
+---
+id: 4d062ff1-f205-5846-9cfa-903d486c7841
+page-type-slug: story-chapter-royal-road
+title: "Chapter 6: Spiders and Rats"
+slug: 0006-chapter-6-spiders-and-rats
+partOf: dungeon-of-knowledge-complete
+position: 6
+ownLength: 5256
+unit: words
+ownProgress: 5256
+publishedAt: 2024-01-30
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1500549/chapter-6-spiders-and-rats"
+royalRoadId: "1500549"
+markedReadAt: "2026-06-29T20:11:12.586Z"
+---
+
+Malika
+
+Malika wrinkled her aching nose in vain against the overpowering stench of the sewer, but the soft soothing pulse of the healing potion’s magic was rapidly erasing her scrapes and bruises. She followed the group, hanging back and letting the more adventurous – and better-equipped – members take the lead. The flicker of their torches brought a dim, dancing warmth and light to the crumbling damp brick walls. The dank tunnel reeked of decay and filth and the slippery floor underfoot was covered in moss and decades of accumulated grime. Sluggish, fetid water sloshed quietly as it ran down the middle of the tunnel and off into the darkness, barely contained within its channel banks, but, by the chest-high stains on the walls, it seemed clear that flooding was a rather common occurrence. No surprise here, half the town used the sewer tunnels as a dump, and even the storm drains – and the river overflow – emptied into these tunnels.
+
+I’ll probably need to take a dunk in the river after this.
+
+The anxious silence immediately pressed in on the group, clearly evident in the lines of tension and hypervigilance of her companions. Some tried to play it off as nothing, bravado perhaps, but this was a combat trial, and they were all jumping at shadows. Malika tried to distract herself by studying her companions. The mayor had made a point of stressing teamwork and cooperation as the way to survive their combat trial, but Malika was skeptical. Perhaps the pre-organized teams would have had a better time, but she had never met any of her companions before today and it was highly improbable that teamwork would be their strength.
+
+Case in point, she thought. Blunt and direct insults followed subtle and sophisticated barbs as Mato and Donavan’s bickering echoed from up front. Malika would not be entirely surprised if the two boys started a brawl, heedless of the dangers sure to be lurking down here. Donavan was an entitled noble, but Mato seemed particularly aggressive, and the two of them got along like oil and fire. She reflected on what little she knew of her companions. The Beastkin boy confused her. On one hand, she didn’t trust his aggressive behavior or his overly familiar manner. On the other hand, he was the only one who had noticed her injuries and the refreshing magic of his healing potion was still working to heal her much-abused body – an unexpected kindness and generosity.
+
+Malika had a wealth of experience with injuries and being beaten up. Under normal circumstances, it might take about an hour to regenerate her mana and stamina, but health required rest. Serious injuries such as bleeding wounds and broken bones require proper healing. As if on cue, she winced at the pain of one of her ribs snapping back into place under the influence of the healing magic from the potion but tried to pass off her reaction as a stumble.
+
+Tala seemed to be on edge, constantly looking around furtively and always touching her daggers. Malika made sure to stay far from the cat-girl. Of all her companions, she trusted Tala the least. She knew it was the association with the Town Watch, but still, she kept a sharp eye on her. And something about her felt… shifty. It was nothing overt, or even something she could explain, but her hard-won experience had taught her it was far better to trust her instincts.
+
+The Half-elf archer, Calen, was the only party member she allowed behind her. He brought up the rear, and apart from the few brief words in the Town Hall, she hadn’t heard him speak. Malika had already identified him as too nice and too shy to be a problem.
+
+At least they all have decent equipment. Tala’s daggers were of exceptional quality, and every item Donavan owned was masterwork quality or better. He must be wearing at least a hundred gold worth of gear, and none of it was the overly ostentatious bejeweled crap nobles tended to prefer. Nearly every item on him glittered and sparkled as Appraise lit them up, drawing her attention to the magical enchantments.
+
+Malika glanced at her stained and torn brown cotton shirt. I’ll have to be careful when we fight. She knew she was woefully unprepared for this adventure, but armor and weapons cost money. And any money she earned quickly found its way into the greedy hands of Adrik and Edrik, no matter how hard she tried to hide it.
+
+Click. Click.
+
+Her heart kicked into high gear, racing at the sudden sharp, irregular skittering noises from the darkness up ahead. Donavan raised a hand in the flickering light, both he and Mato falling instantly silent, their bickering forgotten, as everyone froze.
+
+Malika crouched, silently propping her torch up against the wall where it could shed some light into the tunnel, freeing up her hands for fighting. She quietened her breathing and strained her eyes to make out anything in the gloomy darkness up ahead. Slowly, a dark shape emerged, somehow crawling along the curved brick of the tunnel roof despite its weight. It had a rounded bulbous body with eight slender black shiny legs ending in blade-like talons that clicked against the brick as it crawled towards them. Eight shiny eyes fixated on their group as it paused.
+
+“Level two Giant Spider,” Calen said quietly from the back.
+
+“We all have Identify, idiot,” Donavan said.
+
+I don’t, Malika thought, grateful for Calen’s information, but she remained quiet knowing that Donavan already saw her as a liability.
+
+The spider’s body was about the size of a large dog, and with the broad span of its legs, it appeared quite a bit larger. Mato and Donavan both leaped forward at exactly the same time, jostling each other in the process.
+
+“Watch out, you oaf!” Donavan shouted as he pushed Mato to the side and swung his sword upwards. His blade bit into the black carapace, raining dark ichor from the wound. The spider screeched, tucking in its legs and it dropped down directly on top of him. Donnavan let out a high-pitched squeal of pain as the spider’s fangs sank into his neck, avoiding his armor entirely.
+
+They’re going to die. The thought sprung into Malika’s mind as she stared dumbfounded at the clumsy, botched attack. Not that she cared too much about either of them personally, but their dying here would make it infinitely harder for her to gain experience. And to gain experience, she needed to survive.
+
+With a sharp low swing, Mato’s mace thumped against the spider’s head while it was busy biting Donavan. It recoiled, releasing the noble boy as it hissed in pain. Suddenly it charged at Mato, making a clicking scramble as its many legs clattered against the stone. Mato immediately backed up against the tunnel wall, wielding his mace in short, powerful strikes.
+
+Malika had spent many hours watching high-level fighters drill and train in her parents’ dojo, many of whom were vastly experienced at fighting monsters. Mato’s deft manipulation of the spider showed her that he either had a deep understanding of the role of a melee fighter, or he simply had great instincts. With his position, back against the sewer wall, Calen would have a clean shot at the creature, and Malika could easily flank it.
+
+She took a deep breath, and, mindful of the slippery floor, charged in behind the spider. She lashed out with her fist, a compact strike that cracked painfully against the tough chitinous thorax of the monster. She winced, redirecting her efforts, using a couple of quick kicks to strike the back of a more vulnerable leg joint and she was rewarded with the sight of the spider stumbling briefly.
+
+Movement flickered to her right, and with surprising speed, Tala buried one of her daggers to the hilt in the monster’s abdomen, a broad grin bordering on ecstasy appearing on her face.
+
+On her left, Donavan appeared, seemingly unbothered by his wound. He slashed with his sword, surprising Malika with a competent stance and an efficient strike, at odds with his first attack. The sword bit through the carapace, spraying green ichor across the side of her face and shirt. She wiped it out of her eye with the back of her hand while delivering another kick to the spider’s leg, careful to leave room for Calen’s arrows.
+
+It wasn’t a pretty fight, nor was there much in the way of coherent strategy among them. She managed to break two of the spider’s legs, making it sluggish and list to the side before the accumulated damage from the others finally caused the monster to collapse in a puddle of leaking gore. But the fight had taught her a lot about her companions.
+
+Your group has defeated Giant Spider – level 2.
+
+The soft chime resonated in her mind as the monster died. My first monster kill, she thought. That could have gone a lot worse. I didn’t even break my ribs or nose again.
+
+Mato poked at the corpse as if daring it to get up and go for another round. He was bleeding from a couple of puncture marks on his shoulders and arms, but the sturdy Beastkin seemed to be able to ignore his wounds.
+
+“How serious is that bite? Do you need a potion?” Calen asked him.
+
+“No, it wasn’t venomous,” Mato answered. “I just need a few minutes to recover my stamina.”
+
+Donavan rummaged through the pack he had dropped and retrieved a potion, downing it quickly and discarding the vial into the sewer channel. “See how easy it is?” he said triumphantly. “Did you see how I took it down from the roof?”
+
+Tala stifling a snicker turned Donavan’s expression into a scowl.
+
+But despite the noble’s arrogance and bravado, his skill with the sword was undeniable – clearly, he had been properly trained. And his armor had turned what might have been a debilitating injury into a minor scratch.
+
+Before Donavan could get upset, Malika asked, “How many of these do we need to kill?”
+
+“I heard you need enough experience to gain one level before you are offered any classes,” Tala said.
+
+“Everyone knows that,” Donavan retorted, still glowering grumpily at Tala.
+
+Ignoring the emotional theatrics, Malika wiped her hands on her pants to remove the spider ichor. Her clothing was already stained with her own blood from earlier, so it wasn’t like she was ruining them. She found a relatively clean and dry spot and sat down to meditate while the others collected their arrows or rested in their own way from the battle. Meditation was Malika’s pride, learned early on under her father’s strict tutelage. Even though she had only been able to level it to three, it still allowed her to regenerate her stamina and mana nearly twice as quickly as normal.
+
+Meditation – level 3Focus: Enter a meditative state during which mana and stamina regeneration is increased by +80% [35 + skill x 15]. Movement or using an active skill cancels your focus.Wisdom
+
+While she meditated, Malika reflected on the battle. She had expected it to be much harder, but with the spider focused on Mato the entire fight, it hadn’t really mattered that she wasn’t wearing armor.
+
+I guess team fighting really is effective. Her only regret was that she hadn’t been able to punch through the spider’s armor. Maybe with a class and a weapon… She was certain that fighting the spider by herself would likely have been suicide. Or at the very least, an extremely dangerous undertaking.
+
+Ten minutes later, Mato stood up. “I’m ready, let’s find some more,” he announced with a grin.
+
+“About time,” Donavan replied, picking up where their bickering had left off.
+
+Grabbing their packs, torches, and equipment, they headed off down the tunnel. Donavan and Mato nearly came to blows arguing about who would take the lead. All of Malika’s thoughts on teams making combat easier would come to naught if those two couldn’t cooperate. But a little of the edge of the group’s tension had blunted after the successful first encounter.
+
+After about half an hour, the tunnel they were following widened into a broad open area on the left side of the water channel. This room seemed particularly decrepit, with piles of rubble and decaying trash in the corners. Large cracks ran through the brickwork of the floor and walls and giant dusty cobwebs hung in drapes from the ceiling. Prowling the room were three oversized rats rummaging and sniffing through the piles of trash, their noses and whiskers twitching.
+
+Shit, three, she thought, glancing back at Calen in the hope that he would identify them again. Each rat stood as tall as her waist. Sharp yellowed teeth flashed in the darkness as they rooted about in the muck for food, with their mangy matted fur bearing testament to a life lived in filth.
+
+Donavan immediately drew his sword. “I’ll take the one on the left,” he said, and, with a loud battle cry, he charged straight into the room, drawing the attention of all three rats simultaneously.
+
+He’s going to die, Malika thought, staring stupefied at the brash disregard for any sort of strategy or planning. She crouched, ready for anything.
+
+But much to her surprise, Donavan’s efficient and straightforward sword technique drew sprays of blood and angry squeals from his chosen rat, while the claws and teeth of the others mostly scraped harmlessly against his expensive leather armor.
+
+Mato, despite his continual bickering with the other boy, saved him from being mobbed by the other two rats. With two controlled swipes of his mace, he split the group, dragging the remaining two rats over to the wall, just like he had done with the spider previously.
+
+So, it wasn’t a fluke. Once the two rats were under his control, Malika chose her moment to engage, using the same flanking strategy as before. As soon as she had chosen her target, Calen’s arrows began striking the same rat. He has a decent eye for strategy, too. Tala, on the other hand, chose to attack Donavan’s rat, effectively splitting the team’s damage.
+
+Malika bobbed and weaved, aiming her kicks at the vulnerable joints. She might not have weapons, but a kick to the knee was still effective.
+
+With two rats attacking him at the same time, Malika could tell that Mato was struggling, his body already bleeding from numerous bites and claw marks. He blocked one of the rats trying to bite his leg, but the second one managed to bite his exposed arm. The rat Malika was kicking lashed out in a blur, its wicked-looking claws catching Mato on the thigh and spraying crimson blood against the damp brick wall. Seeing Mato being pressured, Malika shifted her position and unleashed a rapid kick combination to her rat’s neck and shoulders, hoping to distract it from Mato.
+
+She succeeded. A little too well. The rat twisted around and snapped at her, catching her leg. The vicious yellowed teeth sank into her calf, grating against the bone.
+
+She wrenched her torn leg from its jaws, trying to dodge the rat that now seemed intent on savaging her instead of Mato. A sudden sharp crack echoed through the chamber and Malika stumbled as the ground quivered. Confused, she tried to catch her balance and heard an even louder report echoing off the walls. She could not afford to fall with the rat still attacking her. Tiny cracks and fissures raced through the brickwork. With a sudden lurch that she felt in the pit of her stomach, the entire floor gave way under her feet in an explosion of dust and stone shards. Rock, rats, and people fell. Reflexively Malika leapt, ignoring the pain in her injured leg, twisting her body upwards in a desperate flip – her Acrobatics skill carrying her above the rat she had been fighting. Everything landed in an enormous crash, a chaotic discordant roar of noise, rock, dust, and bodies. Something snapped and squashed sickeningly under her as her breath was punched out of her lungs by the painful impact.
+
+Your group has defeated Sewer Rat – level 1.
+
+She blinked away the stars in her vision, ignoring both the notification and the pain as she focused on trying to breathe. Rapid scurrying and scrambling noises carried over the confusion and dust as the remaining two rats bolted out of sight. Wincing, Malika raised her head, searching around in the dimly lit rubble for her companions. Mato lay groaning and coughing on a nearby slab of the fallen floor, his body covered with dust and blood. Her torch was lost and extinguished.
+
+“Everyone alright?” Calen’s voice echoed down from above. Looking upwards, Malika saw both Calen and Tala still in the hallway above, staring down over the shattered edge of what had once been the sewer floor by the flickering light of the one remaining torch.
+
+Shaking her head to clear the lingering ringing in her ears, she answered, “Yes.” Slowly she got up and went to check on Mato. How is Tala still up there? Calen, she understood – he had been far at the back shooting his bow, but she could have sworn Tala had been right behind Donavan when the floor fell.
+
+“You ok?” Malika asked, quickly checking Mato for serious injuries.
+
+“Ugh,” Mato groaned, conscious, but obviously hurt. “That took half my health.”
+
+Never mind the rats, Malika thought. There are easier – and stupider – ways to die down here.
+
+A rope snaked down from the sewer above, and a few moments later both Calen and Tala shimmied down, joining them on the pile of sharp shattered brick and stone. Calen immediately retrieved one of their valuable minor healing potions and fed it to Mato. In moments his more serious wounds began to close as the magic took effect.
+
+Malika carefully checked herself, but aside from the bite to her leg, she seemed surprisingly unhurt, losing only a few points of health and being winded from the precipitous fall. Her eyes rested for a moment on the crushed corpse of the rat that had cushioned her, and she realized just how fortunate she had been – not that the wiry bundle of filthy muscle was much of a cushion, but it had probably saved her life.
+
+The dust began to settle, and Malika took stock of her surroundings. They had fallen almost fifteen feet, landing on a rise near a rough wall of natural rock. Many tons of sewer brick, crumbling mortar, and foundation rock had collapsed down into what appeared to be the edge of a vast underground cavern, leaving a gaping hole in the darkness above and the giant pile of rubble on which she had landed, crushing the rat.
+
+Dust covered everything, turning her skin and clothes a uniform gray. The sewer channel they had been following now formed a brand-new, disgusting waterfall that cascaded down onto the back of the rock pile, its fetid smell blending uncomfortably with the thick stench of ancient decay that infused this place.
+
+Beyond her precarious perch, the cavern floor dropped away precipitously, opening out into a vast space filled with giant blackened and long-dead trees – some of which must have been over three hundred feet tall – that extended upward into the rock and stone of the roof. Meandering through the center of the cavern, Malika could make out a sluggishly moving river, complete with stagnant bends and ponds, and even though the entire space was dimly lit by bioluminescence, her eyes failed to make out the far end.
+
+A little beyond the river, a dimly glowing pillar of swirling golden light shone out in the darkness as if marking that particular spot.
+
+Is that…
+
+“Wow, that’s… big,” Mato said, getting slowly to his feet.
+
+Suddenly, Tala called out from the other side of the rock pile, “Well, I guess our fearless leader is gone.”
+
+With an ominous premonition filling her with certain dread, Malika quickly scrambled over to that side, finding a pair of boots sticking out from under a rather large slab of stone, a sickening dark stain on the mossy dirt of the ground.
+
+Malika turned away, stomach churning. While she had seen death many times, and had found Donavan to be a self-important jerk, it was still a gruesome sight. The casual, almost happy sound of Tala’s voice announcing the death replayed in her mind.
+
+Did she… Malika shook her head trying to clear the ugly thought, but she couldn’t shake that last image she had of Tala being right behind Donavan before the floor dropped out from under her.
+
+I need to keep an eye on her.
+
+“We should go back to town,” Calen said.
+
+“No, why?” Tala said, “We’re not done yet.”
+
+Shit, I can’t go back, Malika thought as debate sprung up around her.
+
+“Donavan was by far the strongest fighter in our group,” Calen said. “We’re too weak without him.”
+
+“We didn’t need him anyway,” Mato snapped, fixing Calen with a deeply pained look. But his arms were folded around his body, and he shot several uncomfortable glances at the boots poking out from under the rock. “Besides, I’m a better fighter.”
+
+“Try being objective for once, Mato. Donavan had the best armor, a fantastic sword, he was loaded with potions, and he actually had decent training,” Calen said, echoing, nearly to the word, precisely what Malika had concluded.
+
+Mato looked away, a little sullen, but he remained quiet.
+
+“We should at least try and get Donavan’s gear then,” Tala said.
+
+“How exactly are you going to move all that rock?” Calen asked.
+
+Calen’s point was well made, their group would be vastly weaker, and they didn’t even know what lurked down here in the darkness. But Malika had a far different worry on her mind. If she returned to town without a Class, she was certain Adrik and Edrik would finish up her trial by forcing her to rob everyone they could find and denying her access to the mayor’s shrine, practically ensuring she gained the thief class.
+
+“I think we should stay,” Malika said, her mind running furiously. It was clear she couldn’t use her real reasons, but she had an idea that might convince them. “If we return, William Turner will not let us back down here with only four people, and there are no other candidates. If we don’t finish up our trial now, they won’t let us, and by then it will be too late. Likely we will get a far weaker choice because we didn’t finish the trial properly.”
+
+“I agree with the Street Rat,” Tala said, a shade too quickly. “I mean, Malika,” she said, correcting herself.
+
+“I like that argument too,” Mato said, perking up just a little bit. “What do you think, Calen?”
+
+Mato’s manner surprised Malika yet again. Even though he had clearly been hurt by Calen judging Donavan to be the better fighter, he still wanted to ask the Half-elf’s opinion. She filed that tidbit away for later.
+
+“It’s a good point,” Calen said, his eyes thoughtful. “If the rest of you want to continue, I will come too. But I think we should camp here and rest fully.”
+
+Aliandra
+
+The darkness loomed huge and vast, dwarfing the tiny bastion of light shining from Ali’s arcane spell. Within the golden circle, the Grove was still and quiet. Beyond it, however, a shape moved, shuffling and scratching, the sound somewhat muted and muffled, lost in the darkness, and all the more terrifying for it.
+
+Every instinct screamed at her to run, but her legs were weak and trembled, her body still sluggish and slow.
+
+A shiver shook her body as the rat emerged from the darkness, testing the light. Yellowed teeth were bared, and it hissed while fixing her with a malevolent gaze. It crept one step closer, wickedly sharp claws slicing easily through the damp moss-covered ground. And as more of it emerged into the light, Ali’s breath froze in her throat. It stood taller than her at the shoulder, with matted black fur covered in dirt and muck. It had to weigh many times more than she did.
+
+She stood, rooted to the spot as the reek of rot and decay washed over her. The rat took another step forward, snout raised, sniffing at the air.
+
+Go away! she thought, panic driving her heart to racing. But the monster was not about to abandon easy prey.
+
+It hissed loudly and sprang toward her, jaws opening wide to bite and tear. Ali screamed and fled. And for a few brief moments, she felt a desperate hope that she might outrun it. But it was all dashed in seconds as the heavy bulk of the monstrous rat slammed into her back, smashing her body, face first, into the ground. The weight vanished as soon as it had knocked her down and the rat rolled past her, its scrambling claws tearing up clods of dirt and moss as her tiny frame entirely failed to halt the momentum of her attacker.
+
+Ali scrambled to her feet, struggling to make her still-sluggish body move, and took off in the opposite direction, heading for the dark outline of a downed rotting tree trunk outlined by the light of a few small glowing mushrooms. Her ragged breath rasped deafeningly in her ears. Her heart hammered so hard she feared it might burst.
+
+She had almost reached the dubious safety of her cover when a surge of pain drove her to the ground as the rat’s jaws clamped down on her shoulder. She screamed again as her own blood splashed warmth onto her neck and face and flowed down her body. Her head rattled as the rat viciously shook her. In desperation, she reached for her mana, creating a small golden sphere with her Arcane Cantrip, and flinging it blindly at the monster. The shaking and panic conspired to make her miss, but the rat flinched reflexively, releasing its hold on her.
+
+Not knowing quite how, she rolled free and scrambled to her feet, taking off at a dead sprint. The rat shot past her as she slipped and stumbled on the still-glowing remnants and shards of her mother’s barrier magic, and she finally reached the cover of the stone shrine.
+
+Looking around frantically, she found the dark mangy rat scrambling to its feet and turning toward her. Ali cast around through the magic of her Plant Growth, trying to find something, anything that might help her. Below the ground her senses found some roots, and, as the rat charged, she poured out her mana making them grow. Roots extended, bursting out of the ground, reaching, and tangling. But the magic was slow and the few roots that did grasp the rat’s feet were ripped aside by its powerful charge.
+
+Ali summoned a small disk of her arcane magic, throwing it into the path of the oncoming monster, and she turned and fled into the darkness. While her magic was definitely much more powerful than she remembered, it was no match for the ferocious rat. With a snap of its powerful jaws, her magical construct shattered into fragments and the rat pressed its attack, closing in on her with terrifying speed.
+
+I can’t…
+
+Despair welled up in her heart at the sight of the relentless monster bearing down on her. She was not made for fighting. She never had been.
+
+I’m too small.
+
+Too weak.
+
+She just wanted to hang out in the library and lose herself in an interesting book, not this nightmare of facing terrifying monsters alone in the darkness.
+
+Suddenly, she saw her own mother’s face, as she had last seen her, and heard her last words while her body faded into mana.
+
+“Remember, I love you.”
+
+Her mom had not had a combat class. And she had held off a Death Knight and foiled the Lich.
+
+In that instant, Ali’s panic and fear evaporated, replaced by a cold fury, a rage that filled her heart. Her mother had given her life to save her from that dark and terrifying Lich. Her father had left without hesitation to fight the Death Knight and buy them time to flee.
+
+And I’m just going to give up? To die to a mangy rat? To throw their sacrifices away?
+
+Ali screamed all her frustration and rage at the charging monster, all her powerlessness and grief, her sudden and terrifying loneliness. Its bulk slammed her to the ground, knocking the wind from her lungs, while its claws raked her body, and its teeth found her soft flesh once again. Its fetid breath blew warm on her face, and its little squeals of joy as it tasted her flesh echoed out across the Grove.
+
+Now you’re not moving, she thought, wrapping her tiny arms around the rat’s body and hanging on with all the strength she could muster. She cast deep into the ground with her Plant Growth spell, coaxing the roots to grow up and tangle the rat while it was wholly focused on biting and tearing at her flesh. Ali gritted her teeth against the raging pain, furiously hanging onto consciousness while she poured her mana recklessly into her magic growth spell.
+
+The roots snaked up past her legs and coiled around the rat, rapidly thickening and twisting as they grew with unnatural swiftness urged on by her nature magic. Suddenly the rat released her and began to thrash and struggle. A loud crack sounded in the darkness followed by a pained squeal from the rat as its struggles grew more frantically desperate. But it was already too late, and roots, some as thick as her arms, coiled tighter and tighter around the struggling rat. There was another crack, followed by a thrashing that left bloody furrows from its claws tearing through her skin like paper. One final crack, louder than the others, a sickening crunch, and then silence as the rat slumped in the embrace of the thick and gnarled roots twisted around its body.
+
+A soft chime sounded within Ali’s mind.
+
+You have defeated Sewer Rat – level 3.
+
+Plant Growth has reached level 5.
+
+She slumped to the ground, completely drained, her breathing ragged with pain and exertion.
+
+How am I still alive?
+
+Health: 4/25Stamina: 8/40Mana: 2/210
+
+Ali stared uncomprehendingly at the numbers for a few moments, realizing just how close her reckless gambit had been. If she hadn’t stopped running, her Plant Growth would never have been able to tackle the rat. But the cost had almost been her life.
+
+Slowly she sat up, holding a hand to her shoulder, trying to stem the flow of blood from one of the bite wounds. She looked around and immediately froze. Out in the darkness of the cavern, several pairs of glowing red eyes shone, hungrily observing the aftermath of the battle, sizing her up.
+
+A piercing howl split the silence.
+
+Starving Wolf – level 1-3 x4
+
+And then a larger shadow appeared, looming behind the wolves.
+
+Starving Alpha – Wolf – level 5
+
+She stared, unable to move or think, overcome by the harsh unfairness of her situation. As if to underscore her fate, her health ticked down from four to three as her amber blood continued to fall unstaunched from her many wounds.
+
+She didn’t even have enough mana to make another light.

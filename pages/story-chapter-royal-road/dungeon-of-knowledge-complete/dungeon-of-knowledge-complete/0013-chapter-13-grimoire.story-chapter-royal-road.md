@@ -1,0 +1,315 @@
+---
+id: a069e102-501b-571d-a3d9-aeb5838bbbb7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 13: Grimoire"
+slug: 0013-chapter-13-grimoire
+partOf: dungeon-of-knowledge-complete
+position: 13
+ownLength: 5390
+unit: words
+ownProgress: 5390
+publishedAt: 2024-02-09
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1512214/chapter-13-grimoire"
+royalRoadId: "1512214"
+markedReadAt: "2026-06-29T20:11:26.062Z"
+---
+
+Calen
+
+Calen sprinted down the moonlit street, cloaking his form with his new Eclipse skill. The street was deserted, all the normal merchants, crafters, and townsfolk having retreated to the relative safety of their locked doors and barred windows. All that remained was the litter and trash strewn about from the day’s busy activities. Under normal circumstances, he would not have attempted to cut across town in the dead of night, but with the stealth provided by his class skill, he should be safe enough.
+
+As he rounded the corner onto Artisan’s Row, he froze at the sight of a figure robed in white suddenly looking up sharply and glancing around suspiciously, before vanishing into the dark alleyway. Whoever it was moved very rapidly, but Calen’s sharp eyes did not miss the sigil of the Town Watch emblazoned on the ornate robe.
+
+He ducked into a shadowed doorway and waited, not daring to move a muscle. His stealth skill was powerful, but it obviously hadn’t protected him from being heard. Who was that? His instincts screamed at him to flee, but he forced himself to remain still. Are they still there? This might not be the most dangerous part of town, by any stretch of the imagination, but at night, anything had been known to happen – and this area was certainly not patrolled by the guards with nearly the frequency of the noble quarters.
+
+After several tense, drawn-out minutes hiding in silence waiting for whoever it was to return, he finally decided it was safe to approach, but when he did, he wished he hadn’t. In the dark alley, he found a shattered bottle and the overpowering odor of strong alcohol. Two long trails of blood were smeared across the pavement. Lying at the end of the trails was a body. Dressed like a lower-class merchant, the man had been impaled by several long lances of white ice, one piercing the thigh, and the other through the back of the knee, emerging grotesquely from the front, still leaking blood. He had obviously turned over to face his assailant because the third ice lance had punched clean through his hand and embedded itself deep into the center of his chest.
+
+Dead. Extremely dead. He grimaced. It was not the first dead body he had run across in this street, and probably it wouldn’t be the last. But this unknown and unfortunate man had not been mugged for whatever meager possessions he might have had. He had been murdered, and for what reason, Calen couldn’t discern from the slowly forming puddle of water and blood and the crumpled form of the body.
+
+Returning to the shadows, he continued onward with redoubled caution, leaving the body to the authorities. I wish Mom hadn’t bought on this street, he thought for the hundredth time. But he knew that she couldn’t afford anything better, now that she was no longer affiliated with the Guild of Tailors. Nor was there anywhere in the town that would have been much safer, even if she could afford it. If the white-robed assailant had really been with the Town Watch, they would be immune to any prosecution or investigation the town authorities might muster.
+
+He finally arrived at his mother’s new store and apartment. The building had been gutted when his mom had first moved in, and the previous owner had vanished. The rumor on the street was that the prior merchant had skipped out on their loan payments, or perhaps hadn’t paid the Watch. Calen didn’t know, he just knew he could still see the burn marks on the outside of the building from the fire, extending all the way up to the apartment that was on the second floor.
+
+He stopped right before the door. That’s new, he thought, looking at a freshly painted sign that read “Lydia’s Allure: Boutique Clothing”. He smiled at the sight. If nothing else, his mother definitely had an eye for style – the sign looked like it belonged hanging outside a store frequented by the nobility.
+
+Carefully, he unlocked the door and disabled the magical alarm before slipping inside and locking everything behind him.
+
+“Calen?”
+
+He jumped, startled by the sudden voice in the dark. But it was just his mother, sounding tired and a little stressed, sitting in the guest chair in the waiting room of the storefront.
+
+“I told you not to wait up for me,” he said with a sigh. Did she get any sleep while I was out?
+
+“I was worried about you,” she said, getting up and stumbling in the darkness.
+
+With a thought, Calen dropped his stealth skill and instead summoned his Mote of Light, turning the inside of the small tailor shop that took up the entire ground floor into something akin to daylight.
+
+“Oh,” she said simply, and then hugged him. “I’m glad you’re safe. Why don’t you sit and tell me what happened?”
+
+He had long ago given up on understanding why his mother insisted on waiting up for him like this. His having reached adulthood had never seemed to factor in at all. He sat calmly beside her as she activated the runes to warm up some tea.
+
+“I unlocked an affinity for Light magic, and a class called Archer of Light,” he began, and then proceeded to tell his mother everything that had happened, from the Town Hall to saving Aliandra and using the shrine in the cavern deep under the town.
+
+“You left the girls in that dark cavern with the monsters? Tsk.”
+
+No excitement about his class, or questions about his magic. It was not that surprising though; his mother had a strong sense of propriety. It probably wouldn’t matter to her that Malika could probably take him in a fight with her street experience and martial arts training – especially now that she had her monk class. But he had to try.
+
+“Mom, Malika is very strong. And she grew up on the streets. I’m pretty sure I couldn’t have made her come, even if I wanted to.”
+
+“Mmm, it’s still not right. Besides, you’ll never get a girlfriend if you leave girls in dark and dangerous caverns underground.”
+
+“Mother! I wasn’t looking for a date, we were fighting monsters to earn a class.” She always found the most inappropriate ways to remind him he was still single.
+
+“Why not? Both of those girls sound strong and capable. They could maybe keep you on a better path than I apparently can. Maybe even get you to come home at a reasonable hour.”
+
+He almost missed the little twitch at the corner of her mouth that marred her near-perfect deadpan. He sighed. She always knew exactly how to tease him and make him feel the most awkward.
+
+“I’m happy to see you too, Mom,” he answered, getting a chuckle from her as she released her stern façade.
+
+“Here, why don’t you have some tea?” she responded.
+
+He took the heated cup gratefully and then used his prepared distraction. “Aliandra was still wearing a torn cotton t-shirt when I left, and Malika’s clothes were mostly rags, even before we started.”
+
+“Your distraction won’t work on me,” his mother answered quickly. “You should have brought them with you if you wanted me to help them out. They would have been safer here.”
+
+“I found another body outside,” Calen answered, getting a grimace from his mother. “Murdered by ice magic. I’m not so sure it’s safer up here than down there.”
+
+“True enough,” she said. “Very well, what are their measurements? You did get their measurements, right?”
+
+“Uh, Malika is about here, and Aliandra about here,” he said, holding his hands to indicate their approximate heights.
+
+“So, this tall and this wide?” she asked, spreading her arms.
+
+“No, normal,” Calen said.
+
+“Normal… nice?”
+
+“Mom!” He could already feel the flush rising to his cheeks. “Malika’s not a boulder, she’s a little shorter than you and skinny. And Aliandra is a Fae, she’s smaller than a Gnome.”
+
+“You’re hopeless,” she sighed. “You know, you need to actually look at the girls if you want a girlfriend one day.”
+
+“Yes, I know,” he answered, rolling his eyes. It certainly wouldn’t be the last time she teased him about this topic.
+
+“I’ll make something, just please apologize on my behalf for the fit not being right.” She then looked at him thoughtfully. “You said Malika seemed to be from the rougher parts of town?”
+
+He nodded.
+
+“Tell her it’s a thank-you gift from me in exchange for saving your life,” she said.
+
+He was puzzled, they had all saved each other’s lives down there, but he knew his mother wouldn’t explain her thinking. He also knew that she was almost always right about stuff like this, with some kind of uncanny sense for people, so he simply filed the particularly specific request away for when the time came.
+
+Aliandra
+
+Ali sat beside Malika on the stone path where she had first awakened into this dark future world. With the shrine depleted, the only real source of light was the soft golden glow of several small circles of mushrooms growing nearby and the fading remnants of her mother’s shattered spell. Ali was getting used to keeping her barrier nearby to create a little extra light to see, but the golden magic still tugged at her heart every time she used it.
+
+She had mostly been ignoring the sadness, covering it up with the all-consuming focus that only lots of adrenaline-fueled, life-threatening combat could demand. But now, in the moment of quiet, with no immediate threats apparent, the infinitely deep well of pain and sorrow bubbled over into her heart. The loss of her family and the shock of uprooting her entire life – and even her era – loomed sudden and enormous, threatening to consume her entirely. She hovered there in numb contemplation of the giant void gripping her heart, desperately waiting for the tears that wouldn’t come. The strain left her feeling stretched out: thin and brittle inside. Her parents, her old life, her friends, and her dreams were all long gone – thousands of years ago – but her brain insisted that she had experienced it just yesterday, feeling all too immediate and utterly raw.
+
+Her thoughts turned to her nascent resolve to reclaim her home and the strangely defiant rage she had somehow kindled by standing up to the rat – a monster that still hung suspended in the roots she had created off to the side of the shrine.
+
+I want to reclaim my home. I want to set things back to the way they were. I want my apartment with my bed and my books. I want to be strong enough to stand up to Nevyn Eld. I want my family back. Her thoughts spiraled uncontrollably, her resolve shrinking down to a tiny flickering candle over the abyss of darkness that threatened to swallow her whole.
+
+Why me? Almost everything she wanted was impossible.
+
+More than anything, she felt lost. Her beautiful world had turned dark, damp, and filled with monsters trying to kill her. This was a horrible mockery of the peaceful forest that her father had tended so lovingly outside the glorious underground city of Dal’mohra.
+
+All destroyed by the rampaging undead for some inscrutable purpose of the power-hungry Blind Lich.
+
+The only people she had met so far were strangers. Malika seemed nice, but she barely knew her. She never would have imagined choosing a hybrid class – with combat skills of all things. But she had. And though she didn’t exactly regret it – a necessity of circumstance – she hardly knew how to use it. Three of her skills were directly related to combat, an activity she had no experience or understanding in, and deep inside she mourned the loss of Runic Sage, and the dreams of her youth. If only she could leave the nasty rats to the Dwarves or Elven guards as she had her entire life before this. Two of her skills seemed exciting, relating to the world of magic and study she loved, but how would she ever learn to use Runic Script if she couldn’t find a library? After three thousand years, did the Grand Library Arcana even stand? Or was it long gone and decayed, crumbled into dust like Maeria Runeweaver’s book when she had awoken from her mother’s spell and touched it?
+
+And my last spell is a cleaning spell. Brilliant. She frowned. Maybe the universe is playing a joke on me. A dark and cruel joke.
+
+“You seem deep in thought,” Malika’s voice intruded on her downward spiral.
+
+Ali considered her state for a moment, trying to get a handle on what it all meant. “I don’t really know what to do. I want to put things back to the way they were, and now I have a class, but…” She trailed off, staring down at her hands, clasped together, white-knuckled in her lap.
+
+“Hard to figure out where to start?” Malika asked.
+
+“Yes.” Ali looked up at Malika sitting beside her, radiating a strangely quiet calm. This girl had lost everything, also. Even though many years had passed for her, she still struggled against the world, reaching for her dream.
+
+Why can’t I be like her?
+
+Malika gazed off into the darkness for a moment. “I want to be a powerful warrior and do some good in the world. Maybe I can become an adventurer and help people with monsters, or clear out dungeons to make the world safer,” she said. “But I can’t be that tomorrow, I need to train. So, I plan to kill more rats and level up. Your situation is more complex, but I think you can start with the simple stuff and figure out the rest as you go.”
+
+“What do you mean?” Malika’s way of looking at the world seemed curiously clear and straightforward. A strong contrast to the uncertainty and confusion that bubbled up within Ali, threatening to overwhelm her.
+
+“Well,” Malika said, “You can’t restore anything if rats are roaming around in it.” She gestured out to the large dark cavern. “And we can’t do much at level two. So how about we work on that first? This is a great training ground; we can both get stronger. Getting stronger will help… everything.”
+
+“You’ll help me?” Her surprise at Malika’s unexpected implication diminished some of the loneliness eating away inside.
+
+“Of course. I mean if you want?” Malika seemed happy – such an incongruous emotion down here in this monster-infested cavern. “I think we make a good team. It will be good for both of us. Let’s ask the boys to join when they get back, too – it will be much safer to tackle the wolf packs with four of us.”
+
+Slowly, Ali unclasped her hands, massaging her fingers to restore the color and blood flow.
+
+“Also, another thing you can start on,” Malika said. “Look at the mess this shrine is in, and you happen to have a trash disposal skill.” Her deadpan delivery was marred by an evil grin that snuck in at the end.
+
+Ali frowned at her teasing.
+
+“Come on, I’ll help,” Malika said, leaping to her feet energetically. “It will be good; you’ll feel better after we do something productive. I’ll gather some of the broken wood and branches. Why don’t you clear the moss off the stone path and the shrine?”
+
+She’s right, I could clean up the moss and old dead wood easily enough. The shrine might be the only connection to her previous life that hadn’t been warped beyond recognition by the passage of time. Even if cleaning seemed overwhelmingly mundane and trivial, it struck her as wrong to leave it in such a state.
+
+Malika’s energy and excitement were contagious. As she began dragging broken dead wood and discarded bones off the stone path into a pile, Ali got up and focused on the shrine and all the thick green moss growing around it. Her magic required her focus, but even with concentration, she found the activity to be quite therapeutic. The golden glowing patterns of mana dispersing into the air and leaving behind pristine cleared stone gave her quite a disproportional sense of satisfaction. A sense of purpose.
+
+Even if it’s just a cleaning spell, it is quite pretty.
+
+Ali worked her way around the shrine, clearing the stone in a broad circle. As the path slowly emerged from under the moss and dirt, it began to resemble her memories of the Grove more and more.
+
+She’s right, I do feel better doing this.
+
+After about twenty minutes, Ali had restored most of the stone of the shrine and the surrounding path, but she was starting to feel uncomfortable. A strange pressure built inside her head, a sensation of fullness, like the feeling of eating a little too much, but in her mind, not her stomach.
+
+Am I overdoing it? Ali didn’t know much about how the spell worked, only that it mentioned learning about ‘mana structure’. Perhaps I should take a break? She looked over her work so far. Decent. I’ll just finish that last piece and then rest.
+
+She admired the beautiful golden light display as the tiny runes dissolved the moss, emitting motes of mana that floated into the air, slowly fading. The mental pressure increased sharply along with the sense of incomprehensible knowledge being absorbed and shunted off somewhere unseen. As the magic completed and the last of the moss dissolved, Ali heard the surprising sound of her notification chime. The pressure suddenly coalesced into a dense kernel of energy somewhere behind her eyes, throbbing with the intensity of a headache from concentrating for way too long.
+
+Ouch, that’s not good …
+
+Two lines of golden writing appeared on the parchment of her mind.
+
+Deconstruction has reached level 3.
+
+Imprint: Verdant Moss completed.
+
+Imprint?
+
+Golden light and streamers of green suddenly burst from her still-outstretched hand, swirling together, and coalescing into a vaguely rectangular shape. The light slowly faded to a soft magical glow emanating from a small book that floated above her outstretched palm.
+
+I made a book! But… how? It was a rather small book, bound in what looked like green leather with a golden trim, but was clearly entirely magical. Ali reached out, and as she touched the warm surface of the book, it sprang open. With mounting curiosity, she peered inside, turning the pages. There were just three pages. At the top of each page, she found the runic symbol for a chapter number inscribed. There was nothing else written, the entire book, what little of it there was, was otherwise blank.
+
+Ali blinked in confusion. It’s magical and shiny, but… I hope there’s more to it.
+
+There was a rough clatter of wood as Malika dropped what she was carrying and rushed over. “Are you ok?”
+
+“I think so…”
+
+Suddenly, the chime sounded again, and a flurry of golden notifications appeared in her mind.
+
+Requirements met for skill evolution.
+
+Deconstruction skill known.Runic Script skill known.At least one imprint completed.
+
+The class skill: Deconstruction becomes Grimoire of Summoning.
+
+Hold on! But the lines of golden text spilled out across the parchment page, heedless of her wishes. Faster and faster, until she found herself staring at a completely unfamiliar skill shining from the page of the class tome in her mind.
+
+Grimoire of Summoning – level 3Mana: Release the mana from an unresisting or inanimate target, learning about its structure, and retaining some in your own mana pool. Requires continuous uninterrupted focus and the target is destroyed. Range: Touch.Mana: Manifest a magical Grimoire storing the runic imprint of any object you have fully understood. You may create or summon anything imprinted using the Grimoire as a focus. [Summons cannot exceed your class level. Reserve cost is reduced by 3% per class level higher than the summon.]Arcane, Nature, Minion, Channeled, Knowledge, Intelligence
+
+What… Was that a skill evolution?
+
+Breathlessly, she reread the description she had skimmed through. The first part of the new skill was simply the same Deconstruction – cleaning magic – from before. But the second part was clearly what had made the book manifest.
+
+It must be related to the imprint thing. Ali examined the first chapter header in the book and the still-intense pressure behind her eyes intensified as if collecting into a point. Realizing the connection instantly, Ali willed the pressure toward the book’s first chapter, hoping she knew what she was doing.
+
+Immediately, a storm of golden and green runes exploded from her body. The pressure inside her head released as if the dam-wall of her skull holding it in had suddenly vanished, and whatever had been trapped within her suddenly began draining from every part of her skin. The runes swirled like a storm in the air, slowly drawn in by the conjured book, and finally alighting on its pages. The magical vortex rapidly began inscribing the tiny, dense runes into the book. Each time a page was filled, the book created a new one in a sparkling flash and continued filling it at a breakneck pace. Her mana rushed from her in a powerful torrent, mirroring the draining pressure in her mind as the book consumed the sudden eruption of runic magic.
+
+Runic Script was active, but the sheer volume and speed of the flying runes, and the dense and mind-bogglingly complex interconnected web of spells being rapidly inscribed, instantly overwhelmed her ability to understand anything. As abruptly as it had started, it all stopped, and the light dimmed leaving the glowing Grimoire floating quietly in the air before her.
+
+Runic Script has reached level 2.
+
+Almost half her mana had vanished into that powerful storm of magical energy.
+
+“Ali? Ali!” She realized that Malika was shaking her by the shoulder. “You alright?”
+
+“Hold on. Let me just…”
+
+Barely able to breathe, Ali tentatively reached for the Grimoire, but when her fingertips brushed across the page, runic symbols and inscriptions lit up leaving slowly fading trails of magic in the wake of her touch.
+
+With a growing sense of awe and wonder, she paged through the densely inscribed chapter of softly glowing runes, her skin prickling as it reacted to the vibrancy of the most complex magical construction she had ever seen. This is going to take forever to understand, she thought, excitement bubbling up within her at the prospect.
+
+The chapter title had been updated to read ‘Imprint: Verdant Moss’.
+
+“What the heck is that?” Malika’s voice echoed the surprise she had felt.
+
+“I have a spellbook!” Ali exclaimed. She couldn’t help it, she was excited. She didn’t care, she had her very own Grimoire. She shared the details of her new evolved skill with Malika.
+
+“That makes a little more sense, now,” Malika said, scrutinizing the floating tome. “It’s not for cleaning. It’s for collecting things to put in your book.”
+
+Ali grinned, still on a high from what had just happened.
+
+“Well, go on. Try it out!” Malika said.
+
+Grinning from ear to ear with barely contained excitement, Ali poured some of her remaining mana into the imprint in the book. The process turned out to be just as intuitive as using her other skills. As her mana flowed into the pages, the runes lit up and glowing copies of them floated off the pages, swirling and connecting in the air. In a more sedate reversal of the chaotic storm, the stream of magic runes flowed to where she had focused on the damp ground, and everything coalesced there. The entire process took several minutes before it shut off with a snap and a patch of moss the size of a small rug sprang into existence.
+
+Ali marveled at her creation. The moss seemed vibrant and full of life.
+
+Excited, she created several more patches of moss, growing the size of the original one as much as she could until she ran out of mana. Glancing around, she saw the large pile of decaying wood and bones Malika had collected. Rushing over, Ali deconstructed the pile and then returned to her moss-growing with a freshly filled pool of mana.
+
+“You carry on,” Malika said, smiling. “I’ll be over here training my skills for a bit.”
+
+Ali continued playing with her new skill for almost an hour, creating a broad swathe of green moss carpeting the ground alongside the shrine and stone pathway. She found she could summon and dismiss her Grimoire at will, and, even after an hour, the sight of the magical book springing into existence still triggered her sense of wondrous excitement.
+
+Toward the end of an hour, the sense of pressure building returned, until her notification chimed again.
+
+Imprint: Wood completed.
+
+Another one? Her Grimoire automatically manifested and opened to the second chapter, as if suggesting she might choose that one. Good book! She sent the imprint towards the suggested blank chapter and the process repeated itself. This time, it didn’t take quite so many pages, but Ali still froze, breathless, to marvel at the beautiful and complex magic dance once again.
+
+Grimoire of Summoning has reached level 4.
+
+As the notification chimed, the book glowed briefly and grew slightly wider. Quickly paging through it, Ali found that a new blank chapter had been added at the end.
+
+“This is nice,” Malika said, sitting down on Ali’s new moss carpet. She patted the moss with her hand. “It feels vibrant, almost more alive than before. How about we camp here? I can keep watch while I Meditate.”
+
+Ali sat beside her on the moss-covered ground and experimented with her new wood imprint. Every time she used the imprint, it would create a branch or stick of a random size and shape, mostly in a state of decay, like the ones she had deconstructed. Try as she might, she couldn’t influence the size or shape.
+
+Maybe I can use it for firewood? Or perhaps I can block a doorway or something with it? Give those wolves something to chew on rather than my leg?
+
+***
+
+Ali woke to the soft chime of her notifications. She sat up slowly and looked around, finding everything just as she had left it. She sat on the soft bed of moss she had grown. The earthy scent of growth and nature filled her nostrils, and she was transported at once to a moment when she had sat here – very nearly in this exact spot – surrounded by her father’s burgeoning Grove, practicing her newly-learned plant cantrip while Aunt Lira smiled on encouragingly.
+
+Malika sat with her legs crossed, hands resting in her lap, Meditating with her back to the large, haphazard pile of wood they had made.
+
+“I can keep watch now,” she said, quietly, letting Malika know she could take her turn to sleep, and then she directed her attention to her status.
+
+Two notifications awaited her.
+
+Your Domain has been established.You have gained the Domain Aptitude.
+
+Her mouth pursed in puzzlement. What did I do? She had been expecting something would create a domain, since she had chosen her class knowing a domain would be an important part of it. She just had no idea what had triggered it, or how it worked.
+
+What she wouldn’t have given to speak to her father right now …
+
+Searching for clues, she opened her status and looked up her aptitudes, finding two new entries at the bottom of the list.
+
+Domain (Class): Your mana increases with the size of your domain, up to +100%.
+
+Domain: -10% maximum health per day domain withdrawal. You have Domain Sense.
+
+The note about domain withdrawal looked somewhat scary, but her dad’s class had had the same restriction. She had always enjoyed hearing him explain his magic, so it felt familiar. Her maximum health would decrease the longer she was outside of her domain, but it would recover quickly when she returned.
+
+The only problem is, I don’t know where my domain is or how it works. There was the cryptic reference to some kind of Domain Sense in the new Domain aptitude, but she had no idea what that was or how it might be accessed. It would be crucial for her to figure it out. As Aunt Lira and her dad had both explained, a domain was an area of magic – often permanent – imposing a class-specific magical structure or order over a space. Often it greatly enhanced the potential of the class skills used within it.
+
+What all happened yesterday? she thought, trying to recall anything that might have been the trigger for her domain to suddenly appear. Quite frankly, yesterday had probably been the second craziest day of her entire life. She had gone out hunting. She had fought monsters. On purpose. She wasn’t a four-armed Naga warrior like Armand, but she had survived and leveled up. She had even cleaned the shrine, evolved her skill, and earned her precious Grimoire in the process.
+
+And I made a whole bunch of moss…
+
+She studied the mossy ground beneath her, a suspicion taking hold. Curious now, she got up, walked over to the edge of her moss carpet, and stepped out. The moment she passed about a meter beyond the edge, something subtly shifted. It felt different outside, but she couldn’t immediately pinpoint the source of her disquiet.
+
+What is that?
+
+She crossed the strange border several times and then suddenly, insight dawned. The sense of vibrancy, of life, that she had noticed when first planting the moss; she could feel it when she entered the area. Outside, however, there seemed to be a potent sense of death and decay which grew progressively stronger the further she got from the shrine and her moss. And she had only noticed it now because it was entirely absent within her little patch of green.
+
+I can literally grow my domain. And, if I understand the aptitude right, I can use it to increase my mana. Ali brought up her status once more and examined her mana and wisdom. She had increased her wisdom to twenty-three already, and when she had gone to sleep, she had had three hundred and forty-five total mana. Her race’s magical heritage gave her a fifty percent advantage over most other races; she earned fifteen mana per point of wisdom. However, her mana now showed a different number.
+
+Mana: 360/360
+
+I have fifteen more mana. As if she had one more point in wisdom. Ali’s excitement grew. All her skills used mana, and she had already experienced how devastating running out in the middle of battle could be. Now, she could plant moss and her domain would help her increase her mana pool. Up to double if I’m reading the Domain Aptitude right. That would be an enormous boost. Eager now, and full of energy, she set out to expand her patch.
+
+Ali had more than doubled the moss-covered area by the time Malika woke.
+
+“What are you doing?” Malika asked, looking curiously at the new area of moss.
+
+Ali quickly explained what she had discovered about her domain. “It takes a couple of hours and I have to plant it near the existing domain, but once it connects, my mana pool grows.”
+
+“That’s … wow,” Malika gasped. “You can literally grow more mana?” Ali was a little surprised at how interested Malika seemed to be in her skills, but she was excited too, and happy to have someone to discuss the details with.
+
+“The only downside I can see is that someone could burn it, and you’d lose your mana,” Malika said.
+
+“That’s true.” Ali hadn’t considered that her moss could be damaged. “But fortunately, the rats and wolves aren’t going to burn it.”
+
+They settled down to share a light breakfast. Very light – the last of their food consisted of splitting an apple between the two of them. But Ali didn’t need much, and Malika claimed she was used to being hungry.
+
+“I think we should try some team tactics today,” Malika suggested. “We should be able to fight more monsters if we work together.”
+
+“Ok,” Ali answered. Teamwork sounded fun, but more monsters sounded scary. It’s not as if I can grow moss at them…

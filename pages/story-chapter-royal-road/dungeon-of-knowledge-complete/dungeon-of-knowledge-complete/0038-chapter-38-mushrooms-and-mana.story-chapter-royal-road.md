@@ -1,0 +1,203 @@
+---
+id: 1bef6441-59cb-523f-a835-abac59ac8623
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38: Mushrooms and Mana"
+slug: 0038-chapter-38-mushrooms-and-mana
+partOf: dungeon-of-knowledge-complete
+position: 38
+ownLength: 3353
+unit: words
+ownProgress: 3353
+publishedAt: 2024-03-05
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1542579/chapter-38-mushrooms-and-mana"
+royalRoadId: "1542579"
+markedReadAt: "2026-06-29T20:12:14.180Z"
+---
+
+Ali woke after a dreamless sleep, fully rested and feeling amazing. She found herself cocooned somewhere delightfully warm and soft, lying in a dim interior space with a sloping green roof above.
+
+Where… Oh yes, my tent!
+
+Not only was her domain withdrawal completely healed, but she had slept snug and comfy in her new sleeping bag inside her own personal tent. She had experimented with the enchantments last night before turning in, discovering to her amazement that there was a runic sequence that allowed her to change the colors of her tent however she chose. So much to learn! She had immediately changed it to green, with a gold trim – and Malika had told her that matching her hair and eye color was cute. That hadn’t been her reason, but it had made her smile.
+
+Ali slowly rose, unzipping the tent flap, and stepping out to greet the day. Her bare feet sunk in a little on the springy carpet of moss and she stretched, taking in the sight of her domain glowing the same vibrant gold and green – a small outpost of mana that scintillated in the ocean of darkness that was the vast cavern around them.
+
+Malika sat cross-legged, with her back resting against the shrine, presumably keeping watch, so Ali walked over to sit beside her. “I’m awake now if you want to get some more sleep,” she told her friend.
+
+“Thank you,” Malika answered, making no immediate move to leave, so they simply sat together for a while in companionable silence.
+
+Ali surveyed her domain and the new trees she had created. The Grove, reborn. Each of the new oaks stood tall, drawing a vast column of mana up through its roots that cascaded out into the air through their branches and leaves. The fountains of mana created a scintillating hemisphere of light surrounding each tree – extending high into the air, more than twice the height of the tree itself, and wider than it was tall. Just from planting her trees, Ali had expanded her domain to fill most of the empty space held clear by the presence and power of her shrine. A small glittering jewel against the sea of oppressive darkness.
+
+Eager to see the gains, she opened her status page and examined her mana.
+
+Huh?
+
+She stared at the unchanged mana total in a shocked surprise that faded slowly to disappointment. My domain is huge now, but … shouldn’t I have more mana? Ali pushed her disappointment aside – as usual when experiments didn’t go the way you wanted, it was a sign you didn’t understand something important. It was what her research instructor had always told her.
+
+She surveyed her domain again, studying it carefully using her mana sight. The green effusion from the moss and the golden plumes of arcane magic from her mushrooms were still there just like before. Her shrine still drew mana to recharge itself, looking remarkably similar to how the trees were drawing mana up through their roots.
+
+Is it thinner? As she studied the mana flow and structure, she compared it to her memories from the day before, from before she had planted the trees. The only thing she could tell was that the mana of her domain around her moss seemed more attenuated, thinner, or less dense. The effect was subtle, but even accounting for the ridiculous brightness of her trees, she was certain she wasn’t just making it up.
+
+Is there something special about the Verdant Moss?
+
+Slowly becoming more and more convinced she had a scent of the truth, Ali eventually got up and decided to test her theory directly. Walking out into the cascade of mana created by her first gigantic white oak tree, she found a spot on the ground that was well within the sphere of mana the tree was emitting. It was a long way from the rest of her moss, but that was perfect – she wanted to test it properly. Summoning her Grimoire, Ali began to grow a new patch of moss in the mana of the tree, somewhat apart from the rest of the connected moss carpet she had grown previously. Once she had a sizeable patch, she left it and returned to the shrine to wait.
+
+By the time the others were awake, and they had eaten a quick breakfast, Ali was sure her experiment was ready. As they all headed out, she stopped by her new patch of moss, studying it carefully. The new patch was indeed emitting a beautiful aurora of green, just like her other moss. But although her mana total had increased, it was way less than Ali had been expecting judging from the amount she had gained from her initial expanse.
+
+“Something wrong?” Calen asked.
+
+“My domain isn’t working quite like I expected,” she said. “Do you guys mind if I check something for a few minutes?”
+
+“Sure, go ahead.”
+
+Something is still missing. She examined the mana more closely, and then, looking back at the mana nearer the shrine, the issue became clear. There were very few golden sparkles in this patch of green – much fewer than her original. Quickly, she opened her Grimoire and flipped to the page for mushrooms, creating one in the new mossy patch.
+
+Blackened Deathcap – Mushroom – level 2 (Death)
+
+Hmm… Her Grimoire had unhelpfully produced the wrong mushroom.
+
+She tried again.
+
+Forest Amanita – Mushroom – level 3 (Poison)
+
+Not what I wanted!
+
+Forest Amanita – Mushroom – level 5 (Poison)
+
+This is annoying.
+
+On her fourth try, she finally got what she was looking for.
+
+Common Glowcap – Mushroom – level 3 (Arcane)
+
+There we go. Ali put her Grimoire away. “Ok, let’s go. I’m done for now,” she said. It would take a while for her mushroom to start interacting with the mana, so she would have to wait till after they got back to see how her experiment went.
+
+***
+
+Ali entered the Guildhall to a scene that crackled with tense excitement and anxious anticipation. There were more people than last time and all of them were milling around in the waiting area by the quest board while the low hubbub of muted conversations filled the air.
+
+“We’re right on time,” Calen said as they stood a little apart from the crowd to wait. Calen had been the one who had remembered the time of Vivian Ross’s guild meeting. Ali’s brain had been so full of information she hadn’t even remembered that there had been a meeting scheduled at all.
+
+They hadn’t been waiting for more than five minutes when the door opened and the Guildmaster strode confidently across the hall, followed closely by Mieriel. She stopped at the quest board, and everyone crowded closer, entirely blocking Ali from seeing anything except legs.
+
+“Some respect for the smaller people at the back!”
+
+Ali startled at the familiar high-pitched voice that cut through the noise from beside her, somehow sounding both cute and full of frustration.
+
+Mage – Gnome – level 23 (Water)
+
+Ali immediately recognized the short white pixie-cut hair and cobalt-blue dress that she recalled had matched the girl’s mana perfectly.
+
+Seri? She had seen the mage manipulating water by the river and had admired her magic. She’s a guild member, too?
+
+“We’re not the smaller people,” Ali said. “They’re the ones afflicted with largeness.”
+
+The Gnome’s head snapped around to see her and a peal of bright, clear laughter filled the air.
+
+“Oh, I like you!” she announced, reaching out her hand toward Ali. “I’m Serendipity. Serendipity Puddlecrash. My friends call me Seri.”
+
+Ali was a little taken aback by her overt friendliness, but she responded to the introduction politely with a reciprocal, “I’m Aliandra Amariel. My friends call me Ali.”
+
+Thinking Serendipity’s hand was an offer for a handshake, Ali took it, but immediately the Gnome used it to draw her into the crowd, darting through between legs and around a burly Dwarf before Ali found herself dragged to the front of the crowd, and suddenly she could see.
+
+“Much better,” Serendipity whispered to her in a conspiratorial tone and sat on the carpet to listen.
+
+A little lost, Ali simply sat beside her and turned her attention to Vivian Ross as she began her announcements.
+
+“Many of you have probably already heard the news, so I’ll be brief and summarize it,” Vivian began. “The Town Council has declared an emergency because of a nearby dungeon-break that is heading our way.”
+
+The room was suddenly filled with people talking, some excited, some surprised.
+
+Vivian held up a hand for silence before continuing. “It’s Goblins. There are even Bugbears and Hobgoblins in the horde, so we’re in for a hard battle.”
+
+“Those are too high level for us!” someone called out from the crowd.
+
+“Yes,” Vivian answered, cutting off what seemed like it might devolve into some sort of panic. “But everyone will get appropriate roles, and we’re working on defense plans already. The Council has put a bounty on Goblins, and I would encourage all the combat classes to take that quest when Mieriel posts it. But there will be lots of quests. Already, people are reporting that it is difficult to buy consumables and crafting supplies. The farmers have been recalled to the town and the safety of the walls, but that means food will be getting scarce too. I want to encourage everyone to not panic and check in with the guild regularly as the situation unfolds.”
+
+“Is it real?” someone else asked.
+
+“Yes, we have multiple scout reports, and some verified sightings of Goblins in the outlying farms already. They will be here in a few days at most. For now, check the guild quest board and try and take any jobs you can. The garrison will be manning the walls and responsible for the main defense of the town. We will likely be asked to support them in whatever way they need.”
+
+With that, Vivian ended the meeting and Mieriel walked over to the quest board and began pinning scrolls and notices on it. The crowd instantly split in two – half clustering around the quest board, and the rest mobbing Vivian with a deluge of questions.
+
+Ali had to wait quite a while before she got the chance to view the new postings. The quest board was a relatively practical broad expanse of cork that had been nailed to the wall, with a box of pushpins hanging beside it. The main bounty quest was easy to find, pinned right in the center of the board, even signed by the mayor. Ali touched her guild ring to the crinkly fresh parchment to accept the extermination quest. There were various prices listed based on levels and such, but she just trusted the amounts to be fair.
+
+It’s payment for defending myself, which I would do anyway.
+
+Bronze Guild Ring – level 10A ring signifying bronze-level membership with the Adventurers Guild.Owner: Aliandra Amariel.Quests: Eliminate hostile Kobolds in and around Myrin’s Keep – 0 Eliminate hostile Goblins in and around Myrin’s Keep – 0 Mana: Store or retrieve an item. Capacity: 6.2 / 25kg.Created by Giddy Clicksprocket.Ring
+
+She was tracking two quests now, but it would likely take a while before she returned to the underground ruins. She had no idea exactly what role she would take against the incoming horde of Goblins, but it didn’t hurt to be prepared.
+
+The rest of the new quests related to the Goblin emergency all had to do with supplies, consumables, and crafting materials. Apparently, everyone was panicking and hoarding important supplies, even without the specter of Kieran Mori’s more nefarious plans to profit from the imminent conflict.
+
+“Ali.” Calen’s quiet voice caught her attention and she saw he was pointing to a scroll. He looked at her with a quick smile. “What about this one for you?”
+
+The scroll he was pointing at was an ammunition request signed by the Garrison Commander, Gerald Brand – although, in reality, it was probably put out by his logistics staff. It was a long and complex list of various items and prices that the garrison needed to supply their defense of the town, and Calen’s finger was pointing to a line near the bottom.
+
+Arrows? Oh, I can make those!
+
+“The price is quite generous,” Malika offered, examining the scroll. “Looks like two silver pieces per quiver for the level of arrows you made for Calen. If everyone is hoarding, you might be one of the few people willing to fill this order.”
+
+“Perfect!” Ali grinned in excitement. I can make some money! She would finally be able to pay her friends back for the help and money they had loaned her: the recall potion Mato bought, the loaned money for her new daggers, and the camping gear they had bought for her. Making lots of arrows would take a while, but all it would cost her was the mana and the time needed to create them.
+
+Ali’s imagination had been filling her mind with images of her having to fight off waves of Goblins like the Warband they had defeated, risking her life and health in defense of a town she mostly thought of as disgusting and terrible. But here was a way to help that used her non-combat abilities and could help her out with her money situation at the same time.
+
+Maybe I can even afford a library membership or a trip to the bookstore!
+
+She touched her ring to the scroll to record the quest on the tracker enchantment, so she wouldn’t need to check in with the board every time.
+
+“Thanks, Calen,” she said. “But I’ll make as many as you need first before I sell the rest.”
+
+***
+
+It was on the way back down to the shrine that Ali noticed her mana pool had grown. It worked! When they arrived at the Grove, Ali ran over to her experimental moss patch to see what had happened. The patch was quietly emitting the green nature mana, but now there was a fountain of gold pouring out from the Common Glowcap mushroom she had created. The upwelling mana sparkled and glowed, but when she examined it closer, she could see it was mingling with the green mana, weaving into the complex structure she had observed elsewhere in her domain.
+
+She was still puzzling over the implications in her mind when she suddenly became aware of a presence beside her.
+
+“I have returned, Ancient Mistress.”
+
+Ali jumped. It took her a second, but she soon recognized the chirping sounds of the Kobold she had left back in the forest.
+
+He’s back already?
+
+“You were quick,” she answered, peering at the Kobold who was carefully keeping himself to the darker shadows by her tree. A pair of her wolves that had survived the Warband were roaming the Grove, their noses sniffing at everything.
+
+“I do not require sleep,” he answered with a bow.
+
+Did he run the whole way back? There was no other explanation Ali could think of. He was invisible in the dim light, but she could sense his presence via Martial Insight. Without her skill, she was sure she wouldn’t be able to see him, neither with her eyes nor her Arcane Insight.
+
+I guess he doesn’t use mana much, she realized.
+
+Already distracted from her studies, she opened her Grimoire and began creating daggers, getting the higher quality steel daggers on her second and third try. “Give me your old daggers, and use these instead,” she told him, exchanging weapons with the rogue. He inspected them carefully, and just like her other rogue, broke into a wicked-looking grin. Ali guessed it was not really his fault, his face looked like a cross between a dragon and a lizard, and he had so many teeth. From her connection, though, she could tell he was genuinely happy.
+
+She stored the poor-quality crude daggers in her ring and turned back to the moss and the puzzle of her domain.
+
+“May I take this?” the Kobold asked, interrupting her thoughts before she even got started. The black-scaled creature was bent down over one of the Forest Amanita mushrooms she had made when she was trying to plant a Common Glowcap earlier.
+
+“Sure,” Ali gave her permission but then looked a little closer. The mana surrounding the red and white spotted poison affinity mushroom was green, but it was a sickly green, in contrast to the vibrant mana of her Verdant Moss. As the Kobold dug it out of the ground with his dagger, the mana rippled and the sickly color began to fade, replaced quickly by the stronger green and gold of her domain flowing in to fill the gap.
+
+The other Amanita toadstool was still surrounded by the sickly green color, and very little of the golden arcane mana was present nearby. The Blackened Deathcap sat in the center of a well of darkness that seemed to have decayed the mana of her domain immediately around it.
+
+That’s interesting, she thought, feeling that she was close to understanding something. What if he removes the other ones?
+
+“Can you make a poison from this?” Ali asked, pointing to the dark black Deathcap mushroom.
+
+“Yes. A necrotic poison, but it’s lower level than this one,” her Kobold answered, holding up the red and white Forest Amanita.
+
+“Can you dig this one out anyway?” she asked him. “And that one?” she pointed at the other Amanita mushroom. “If you can’t use them, can you get rid of them for me?”
+
+Quickly following her instructions, the Kobold removed the two mushrooms and Ali observed the sea of her domain mana flowing into the holes left behind, building in strength until nothing was left of the foreign mana. A few moments later, her maximum mana pool increased by one point.
+
+I got it… I think. The plants created by her Grimoire drew in ambient mana from the ground. Or the air, she realized. And once they drew it in, they did something to it before releasing it again. More research is needed. In the case of her plants with a mana affinity – like the Verdant Moss or the Common Glowcap – they transformed the mana into an abundance of their own affinity, releasing much more than they absorbed. For the neutral plants like her trees, they simply spread the mana over vast distances, which resulted in the dilution of her domain density, but didn’t actually contribute to her mana pool. The Blackened Deathcap was drawing in her domain mana and the ambient mana of the environment and making death-affinity mana which was actively impeding her domain. Because Poison was much more compatible with Nature, the Amanita mushrooms didn’t disturb her domain nearly as much.
+
+Ali’s personal affinities were Nature and Arcane, and it was abundantly clear that it wasn’t the mana that represented her domain per se, but the structure of the weave of her two affinities. This is why the Verdant Moss and the Common Glowcap are both required to grow my domain properly! Aha!
+
+She had hoped that the trees would help grow her domain, but it seemed that they were a bit of a disappointment. Although… With the amount of distance her mana was spreading, the trees would be incredibly helpful for crossing the stream without making a connected expanse of moss. She had already demonstrated she could connect isolated moss patches through the domain spread by the tree.
+
+It was far from a rigorous theory, any scholar would agree, but for now, it would serve her as a working hypothesis. She looked outward, taking in the ominous-looking mana just outside her domain.
+
+Now, I just need to figure out what happens when I grow into that.
+
+She moved to the edge of her domain, and at the maximum extent of the mana emitted by her tree, she planted a patch of moss and finished it off with a few mushrooms, deconstructing the ones that wouldn’t contribute to her domain.
+
+Nibble, nibble, here comes trouble…

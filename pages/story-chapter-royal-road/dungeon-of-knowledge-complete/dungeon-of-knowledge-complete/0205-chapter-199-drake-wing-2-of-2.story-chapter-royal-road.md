@@ -1,0 +1,153 @@
+---
+id: b8189e3d-9925-5e55-974f-37d9a98ff352
+page-type-slug: story-chapter-royal-road
+title: "Chapter 199: Drake Wing (2 of 2)"
+slug: 0205-chapter-199-drake-wing-2-of-2
+partOf: dungeon-of-knowledge-complete
+position: 205
+ownLength: 2717
+unit: words
+ownProgress: 2717
+publishedAt: 2025-02-18
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2074434/chapter-199-drake-wing-2-of-2"
+royalRoadId: "2074434"
+markedReadAt: "2026-06-29T20:18:04.665Z"
+---
+
+It was the strangest sensation; she could smell weakness in the drake. Ali still hadn’t gotten used to the stench of blood from the exquisitely sensitive Scent of Blood skill her Abyssal Stalkers had, but the more she studied her demonic assassin spiders, the more impressed she became.
+
+Immersed in the senses of her spiders, she fought as one of them – aware of the pulsing of dragon blood in the web of arteries and veins below the dense nearly impenetrable scales, the ebb and flow fueling the enormous muscles. With her enhanced senses, she felt the speed and impact of her forelegs slicing with precision through the rents and tears in the armor left by Mato’s skills. She was already extraordinarily familiar with her Kobold rogues, and their methods of fighting, and although entirely different in anatomy, she found her understanding of their fighting techniques surprisingly transferrable.
+
+The monstrous Armored Drake was too strong for even demonic web to have much effect on it and had so much endurance that Blood Shock seldom had a chance to stun – and even then, only for the briefest of moments. But Mato was quick enough to take advantage of even the tiniest opening. Her strikes left wounds that bled continually, and she could even smell how much damage blood shock was adding to every mutilate. The more it bled, the better she could smell weaknesses.
+
+“Those spiders are good,” Calen said. “Very good.”
+
+“Oh yes,” Ali agreed, refreshing her precautionary barriers against the dragon fire. In the mid-forties, they were by far her highest damage minion. In fact, the Abyssal Stalkers might give Malika, or even Calen, a run for their money in that department – especially with Mato’s Battle Trance augmenting their stamina regeneration via his Sanctuary aura.
+
+She had misjudged the spiders’ damage at the beginning of the fight, though, allowing them to use Ambush, Critical Bleed, Blood Shock, and Mutilate simultaneously. One of the spiders had done so much critical damage that it had pulled the drake’s attention off Mato for a moment. But his retaliation had been enough to regain control, and she fortunately hadn’t lost her minion or disrupted the strategy.
+
+Your group has defeated Armored Drake – Dragon – Level 76 (Fire)Martial Insight has reached level 40.Empowered Summoner has reached level 32.
+
+“Not bad,” Malika said when the drake finally hit the ground with a shuddering crash.
+
+“Calen, do you want to skin this?” Ali asked, lowering herself to the stone floor near the drake, taking care not to step on the still-scorching stone melted by the dragonfire. It would make a gorgeous minion, but the scales were something else. A piece of armor made from the tough dragon scales would be extraordinary – provided they could find a leatherworker of sufficient skill to work it.
+
+“I do,” Calen answered, studying the corpse. “But you have a dragon imprint, I think the priority should be your minions.”
+
+“I won’t be able to use a fire drake in here, though,” Ali noted, still frustrated that none of the monsters she had learned through the entire Emberforge Mines had been of any help to them. In fact, the only one she had found useful had come from beyond the mines in the abyssal realm.
+
+Well, that’s not quite true, she corrected herself looking at the tiny imp that hopped and scampered around poking at the corpse of the drake. Although the juxtaposition of the demonic dungeon just through the rift and the presence of fire demons in the mines could not have been a coincidence – chances were that the Emberforge Mines had learned the imps and wargs from the Demon Hunter chamber. Still, the drake was magnificent, and she wished at least some of the dungeon would not be immune to fire.
+
+“We’re not going to be stuck in here forever,” Calen continued, concluding the discussion. “And when we go somewhere else, you will be able to use them. Besides you only need the first three or so anyway – there will be more in the next chamber, I’ll bet.”
+
+He was probably right, there would be more than enough to go around. Ali lowered herself down to the drake and placed her hand on a scale. It was warm and hard as steel, still glowing slightly in her mana sight. She had to admit, she wouldn’t mind having dragon-scale armor for her Hobgoblins. She channeled her deconstruction, turning the giant drake’s corpse into an explosion of mana that sizzled and evaporated in the heat of the dungeon.
+
+“Hey, Ali, you might want to see this,” Calen said, his voice coming from the giant stone arch exit that had been guarded by the drake. He had of course gone exploring while she was busy deconstructing the monstrous corpse.
+
+She flew over, curious to see what he had found, but as she reached the archway she stopped, stunned by the view. Falling away from their high vantage point were a series of massive stone terraces, hewn straight from the raw rock, and a forest of stone pillars rose to the rough-hewn roof far above, supporting the weight with mighty arched buttresses, a feat of stonework engineering that staggered her mind with its vast scope. The cavern itself clearly followed the irregular shape of the original mine, but it had been reformed by the stonemasons of ages past. Down the center flowed a large river of bubbling lava, spanned by several arched granite bridges.
+
+Instead of supply carts, miners, and merchants, the entire space was dotted with roaming monsters of fire and scales, each group looking deadlier than the last – and in the shimmering air above, flame wisps cavorted and sizzled as they darted among the pillars reveling in the abundant fire mana.
+
+“What are those?” she asked, pointing at the nearest group which was still distant enough that she was unable to identify the pillars of yellow-white flame that flanked another drake.
+
+“Shard of Inferno,” Calen answered. “Same as the ones the Inferno summoned during the fight.”
+
+“That looks difficult,” she said. The drake by itself had already been a huge challenge, and now they were expected to battle it in the aura of flame emitted by the shards.
+
+“Yes, but look behind them,” Calen said, pointing.
+
+It was difficult to make out, but the small red figures seemed rather familiar. She swapped to the better vision of her Hobgoblins and suddenly she could tell what she was looking at.
+
+“Kobolds?”
+
+“Yes. They look like higher-level versions of your Fire Mages.”
+
+“Oh! An upgrade!” Ali exclaimed, but then the reality of being forced to dodge fireballs while simultaneously fighting an Armored Drake crashed in on her. “How are we even going to do this?”
+
+“Mato tanks the drake, maybe in here,” Calen answered, his expression thoughtful as he studied the distant group. He would be the one provoking the group to attack, and he would need to survive the sprint back to wherever they decided to fight them. “Malika, can you tank two shards?”
+
+“I think so, but is that a good idea? Don’t they heal from being near each other?”
+
+“I don’t think the Shards of Inferno do, I was able to kill them with area damage during the Inferno fight while they were all bunched up,” Calen answered.
+
+“Kill the Fire Mages first, I assume?” Ali asked. “And spread out for the fireballs?” Not nearly enough time had passed for her to forget the terror of facing Kobold fireballs, and even though they were all much higher level now, and had faced the much more dangerous hellfire fireballs, she still felt the anxiety keenly.
+
+Calen nodded, agreeing with her. “They’re the lowest level of the group, they should go down fast.”
+
+“I’ll put the stalkers on them.”
+
+“Five minutes on my Last Stand recharge,” Mato said, sitting by the wall.
+
+While they waited and discussed tactics in low voices, Ali took the time to organize her minions, arranging them around the area where they would hopefully be spread out enough that only one would be hit by any stray fireball. She also placed her Acolytes a little closer to the tanking spot, remembering just how dangerous the beginning of the fight had been last time.
+
+When Mato got to his feet and transformed to his Bear Form, Calen nocked his enormous recurve bow. The bow suddenly lit with the black flames of hellfire and howled as he loosed an arrow. It shot out across the stone terraces, flying between the pillars, and struck the drake squarely on its flank. The angry roar echoed off the stone as the drake charged, closing more than half the distance between them in an instant rush, while the Shards of Inferno and Kobolds flowed and scampered along behind.
+
+“Incoming, three seconds,” Calen said calmly.
+
+Ali slipped her awareness into the nearest Acolyte as Mato and Malika stepped out in front of the doorway to receive the monstrous charge. Quickly, she loaded them both up with holy Restoration magic to help ease the transition at the start of the fight.
+
+The Armored Drake slammed into Mato, making his claws screech across the stone as he was body-slammed several meters back into the room, and its razor-sharp talons blurred in a horizontal arc. Ali’s heart stopped as Malika’s health vanished in an instant. Mato had lost a little more than a quarter of his life in that single shot, but Malika had nothing. A fraction of a second later, a small sliver of life appeared in response to a tiny pulse of holy magic from the restoration spell on her, and then suddenly Malika’s powerful Healing Mantra surged through her body, dragging her back from the brink. It all happened so fast that Ali might have thought she imagined it but for the accelerated mental reflexes of her Arcane Recall.
+
+Malika’s body blurred into action, punching and kicking the Shards of Inferno, but all Ali could do was take a breath as the reality of what had just happened sunk in. Malika had taken a single hit from the drake’s frontal Cleave and had lost almost all her health. The tiny sliver of health that had been returned first had been the continuous healing pulse of the restoration she had decided to pre-cast on both her and Mato, and then Malika’s insane reflexes had her healed to full before anything else had hit her. That was far, far too close… she shuddered.
+
+“Ok, kill them,” Calen announced.
+
+Ali’s brain started working again. Malika was already off to the side opposite Mato, tanking the two Shards of Inferno, punching and kicking furiously, flashing periodically with the light of her healing magic. Mato’s health was oscillating wildly between the breaths and the Cleaves, and her Acolytes were already working hard to keep everyone alive.
+
+At the doorway, two Kobold fire mages stood tall, conjuring balls of flame.
+
+Suddenly remembering her job, Ali summoned a barrier just in time to intercept a fireball aimed at her Acolytes, detonating it harmlessly in midair, but her heart was still pounding, hammering the underside of her throat like a crazed blacksmith pounding out a stubborn chunk of iron.
+
+“Now,” she commanded. Her two Abyssal Stalkers dropped in full stealth from their perches on the walls, landing on the two Kobold mages. Several rapid gleaming flickers and the Kobolds were spraying blood into the air, stunned, their fireballs interrupted mid-cast to explode on the ground beside them. Her spiders unleashed their fury as Calen laid down a barrage of arrows and in seconds, both Kobolds were trussed up in demonic webbing, bleeding profusely and about to die.
+
+“Shards next,” Calen said.
+
+Ali switched her attention to the Shards of Inferno. As soon as she had entered the third wing of the dungeon behind the hellfire rune, she had given up on her Goblin shamans. Too low level to even use fire elixirs, they struggled to survive in the progressively denser fire mana. So, she had switched to the somewhat higher level Bone Mages and a handful of archers. She directed all her ranged attackers to target one of the Shards of Inferno.
+
+She slowly calmed her racing heart, but she refused to take her eyes off Malika and Mato’s health for the entire fight. It was indeed fortunate that the elementals were Shards of Inferno and did not heal each other, otherwise Mato would have needed to tank one with the drake. Calen’s arrows joined those of her minions, and then her two spiders joined the fray, but without the advantage of Blood Shock, the elementals tanked their assault for quite some time before succumbing one after the other.
+
+With a small fraction of her awareness, Ali fired her barrier shards at the Armored Drake, but the bulk of her attention, she devoted to Mato’s health and the mana of her Acolytes. She rotated them through their Prayer skill aggressively, making certain they would have enough mana to keep Mato alive. They were chain-casting their highest power healing magic into Mato’s enormous health pool, and it usually took several to recover the damage from the dragon breath or the cleave. Seeing how taxed her healers were becoming near the end, she decided immediately that she would summon more for the next fight.
+
+The drake finally crashed to the ground, though, sending dust puffing up into the air all around the chamber and she breathed an audible sigh of relief.
+
+Your group has defeated Armored Drake – Dragon – Level 76 (Fire)Your group has defeated Shard of Inferno – level 60 (Fire) x2.Your group has defeated Fire Mage – Kobold – level 35-36 (Fire) x2.
+
+“Are you ok, Malika? What happened?”
+
+“Sorry about that, I got too close to the drake at the start,” she said nonchalantly.
+
+“I thought you were dead!” Ali burst out. The sight of Malika with no health visible to the senses of her healers had been so terrifying it would likely haunt her dreams for quite some time.
+
+“I very nearly was,” Malika answered softly. “I had twelve health after that Cleave got me. Without the vitality buff from Mato’s breakfast, I would be dead.”
+
+It was only then that she noticed how Malika’s body was shaking.
+
+“How about we break for snacks? I need to wait for my recharge anyway,” Mato said, with a surprising level of perceptiveness and tact.
+
+Ali walked over and stared at the corpses of the Armored Drake and Shards of Inferno lying on the ground where Malika and Mato had been tanking. She had always known a combat class, and delving through dungeons fighting monsters came with significant risk. But most of the time it felt rather distant, like an abstract concept grasped intellectually but lacking emotional significance. Their group always had healers, and Malika and Calen were level-headed and cautious whenever they chose to engage monsters. But the memory of Malika’s health vanishing in an instant was like the icy grip of the Death Knight’s fingers around her heart. She very nearly lost her friend, and that would have been the end. No healing could have brought her back.
+
+Her mind was pulled out of her troubled contemplation as the Shard of Inferno vanished, disposed of by her magic, leaving two small, still-burning yellow-white globs of flame on the ground.
+
+Lesser Essence of Inferno x2
+
+Ali collected the essence, and a couple more as she finished up her chore of deconstructing everything. She walked over to where the others were sitting and handed the still-burning essences to Malika. She squashed them together in her hands and her mana flickered briefly and suddenly the essences merged.
+
+Essence of Inferno
+
+“What did you do?”
+
+“You take three lesser essences, push them together, and feed them a little mana and they merge into a regular higher-level essence.”
+
+“That’s useful,” Ali said, sitting down next to Malika. She reached out and grabbed her around the arm and squeezed. “You scared me. I don’t want you to die.”
+
+“I’m sorry, Ali,” Malika said, returning the gesture. “I won’t make that mistake again. Trust me, I don’t want to die either. I mean, I suppose Seth could bring me back…”
+
+Ali winced. “No. Just, no.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,291 @@
+---
+id: 311444de-cf8a-5c2d-b4fe-b291b46186ee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 69: Picking Mushrooms"
+slug: 0069-chapter-69-picking-mushrooms
+partOf: dungeon-of-knowledge-complete
+position: 69
+ownLength: 4604
+unit: words
+ownProgress: 4604
+publishedAt: 2024-05-07
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1627039/chapter-69-picking-mushrooms"
+royalRoadId: "1627039"
+markedReadAt: "2026-06-29T20:13:14.086Z"
+---
+
+Ali breathed deeply through her nose, inhaling the warm afternoon forest air, and the scent of soil, trees, and the leaves that were slowly composting on the ground. She was quite familiar with urban living, having grown up in Dwarven-made stone dwellings far underground, her entire life lit by magic rather than the sun. But there was something fundamentally invigorating about being out and about in nature, and even as a child, she had loved running through her father’s forest, feeling the wind and sun on her skin and the dirt and grass beneath her feet.
+
+She studied the trees and plants along the way as she flew along, perched cross-legged on her barrier to keep up with the speed of her longer-limbed companions. She had initially thought Basil to be rather shy, but on the topic of plants and nature, he had entertained her the entire way – answering every one of her admittedly incessant questions with a wealth of information that Ali found fascinating, both for what he shared and the fact that he was so passionate and knowledgeable about the most obscure of plants.
+
+It had taken a few hours to hike all the way to the northwestern farmsteads. As they emerged from the forest, the valley full of fields and orchards lay ahead beautifully lit by the dying rays of the setting sun. They had arrived with perfect timing, just enough day remaining to find Sigurd and then to interrupt the mostly nocturnal Kobolds amid their nefarious raiding.
+
+Clearly, a detailed plan, taking care of all contingencies, she thought, smiling to herself. Kobolds just didn’t seem so threatening anymore. Huh, watch out, forest, here comes a dangerous flying Fae.
+
+“This is the address,” Calen said, pointing at the nearest farmstead below, reachable via the winding dirt road leading through the extensive apple orchards and recently tilled fields. It was clear from this vantage point that the farm had suffered some damage – several of the outbuildings and patches of the fields showed signs of having been burnt.
+
+“Wait here,” Ali instructed, repeating the command in Goblin for her Storm Shaman. She had brought only the highest-level mage, acolyte, and shaman, and added two rogues to form her little away team. But she was highly aware of the fact that their client was a farmer who had just been raided by a horde of Kobolds – bringing more with her was probably fertile ground for misunderstandings, and it would be far better for her monsters to hide in the forest until after they had a chance to meet.
+
+“Sigurd, visitors!” Malika’s knock on their door was met with the sound of a woman’s voice yelling from within. Shortly, a man dressed in work clothes stained with mud and soot emerged. He was carrying a hoe across one shoulder, and Ali was certain he had not been farming inside the farmhouse. Likely he’s just being cautious. Yes. The blade had a shiny edge from recent sharpening.
+
+“What can I do for you folk?” he asked, his expression guarded.
+
+“We’re here about the Kobolds,” Malika announced.
+
+“Oh, that was quick, I only posted that request yesterday,” he said, his face brightening dramatically. He lowered his hoe and set it against the wall.
+
+“Can you tell us anything about the Kobolds?” Calen asked. “Levels, classes, that kind of information would be very helpful.”
+
+Screwing up his eyes in thought, Sigurd recalled, “Most of the vermin were around ten to twelve, I think. I did see a level fifteen one throwing fireballs. Wrecked my barn, the blasted pest.”
+
+“We saw that on the way in,” Ali said. If the Kobolds had included Fire Mages, then she was certain they had been displaced from the dungeon – that and Sigurd had probably gotten off easy.
+
+“Any idea where their lair is?” Mato asked.
+
+“I think up north, follow the path toward the mountains,” Sigurd said, pointing. “There’s an extensive cave system. I’m heckin’ sure they’re holed up in there.”
+
+“Ok, we’ll go check it out,” Malika said. “We’ll swing by in the morning and let you know what we find.”
+
+“Keep the door locked tonight, alright?” Mato put in, reaching out to swat the farmer’s shoulder in a comradely fashion.
+
+“Good hunting,” Sigurd grunted, rubbing his shoulder. Picking up his hoe he retreated inside.
+
+The four of them hit the road heading out toward the mountains, pausing only to pick up Ali’s minions along the way.
+
+“If they’re all mostly level ten to fifteen like he says, it should be an easy job,” Malika observed, as they followed the trail, climbing higher and higher as they reached the mountains, and sure enough, they found themselves facing a dark opening at the bottom of a tall, craggy cliff.
+
+“The cave system may connect underground to the city,” Calen pointed out. “In that case, we might have to deal with some higher-level Kobolds when we get inside. It all depends on whether Ali is right that we triggered a dungeon-break.”
+
+Malika nodded. “Best be prepared.”
+
+It was funny how much the little details mattered. Ali had been plagued with guilt ever since destroying the bone spire and perhaps inadvertently inflicting a Kobold dungeon-break on the surrounding farms. But Calen’s straightforward and unhesitant use of the inclusive ‘we’ banished the undercurrent of dark thoughts and her feelings of guilt and isolation. Suddenly, she was no longer here because she had messed up. Killing the Kobolds in the dungeon was important, just as important as taking responsibility for the unavoidable fallout – and they were doing it as a group. She smiled gratefully at Calen’s back, knowing he had probably not even thought about it – it was just who he was.
+
+“The Kobold tracks lead right inside,” Calen announced, studying the entrance with curious flickers of light magic emanating from his narrowed eyes.
+
+“Ok, we’re in the right place, then,” Malika said. “Basil, you don’t have a class, so stick close to Ali and keep your head down. We don’t want you dying to a stray fireball.”
+
+“Fireball?” Basil’s voice had a little quaver in it as if he hadn’t considered just how dangerous this expedition might be.
+
+“Yes, some of the Kobolds we’ve been facing have magic. If you’re next to Ali, she has the best defensive spells, and she can protect you with her barriers,” Malika said.
+
+“Don’t worry, my barriers can stop Bone Spears,” Ali said, trying to reassure Basil a little.
+
+He gulped audibly.
+
+“Calen, maybe keep a light on them so that no rogues can sneak up and ambush them?” Malika added.
+
+Ali could have hugged her right there.
+
+“Got it,” Calen answered and stepped confidently into the cave entrance.
+
+Ali sent her minions in after him, and stepped off her barrier, taking Basil by the hand. He was trembling a little, but she chose not to comment. “Come on, I’ll look after you.”
+
+Basil nodded; his eyes still wide with anxiety as they stepped into the darkness, but light flared around them as Calen anchored one of his motes of light to follow along above Ali. Even though Basil’s hand was still shaking, she heard him take a deep breath. There. He looked and sounded so much like her just a few short weeks ago… she sighed inwardly, wondering what her friends must have thought of that tiny, shrinking Fae.
+
+“Do you think we will find the Stonecap mushrooms in this type of cave?” Ali asked. He seemed to need something to take his mind off the imminent threat of Kobolds attacking, so Ali turned to his passion. After all, it wasn’t like they could leave him outside undefended.
+
+“This looks like a good place, it’s the perfect environment for them,” he answered, his trembling subsiding a little as he looked around with a new purpose.
+
+“Ok, you concentrate on keeping an eye out for likely spots and let us worry about the rest.”
+
+Basil nodded, clearly not comfortable, but at least he seemed grateful to have something productive to do.
+
+The shadows shifted and Calen appeared out of the darkness.
+
+“A camp of about ten Kobolds in the cave up ahead. Nothing above level fifteen. Two mages at the back, Ali.”
+
+“Got it,” she said, nodding.
+
+Basil’s serious face turned a little pale in the bright light of Calen’s magic. She knew he had seen battle at least once before – with the Goblins that had tried to kill him – but she also knew just how terrifying it was to face even a single monster without any combat class or skills. And yet, here he was, stepping into the Kobolds’ den.
+
+Ali entered the cave ahead of him and placed herself right between him and the reddish light of the Kobold campfire.
+
+“Go,” Malika said, and Mato charged the camp, sending embers from the fire flying as his larger bulk smashed through it, with Malika sprinting fast, right behind him. Mato’s powerful roar thrummed with the power of his magic, echoing throughout the cave, and every single Kobold snapped their attention to him.
+
+Basil yelped in surprise, ducking his head.
+
+Calen drew his bow and let loose with his shining arrows.
+
+Instantly, Ali summoned her largest barrier, making certain it angled to protect both herself and Basil who crouched in the corner behind her. The loud crack of an arrow shattering on her barrier made both of them jump.
+
+Ali searched the battlefield, marking her two targets. Both mages had retreated, standing among the archers and sling-wielder Kobolds as they fanned out across the back of the cave while the melee classes tangled with Mato in the glowing embers and flying sparks of their campfire.
+
+“Totem on the right,” Ali instructed.
+
+“As you command,” her shaman said, throwing the magical steel totem into the midst of the ranged attackers. The incandescent white lightning discharges cast crazy shadows on the roof of the cave as the nova of sparks pulsed outward from the totem, sending the Kobolds diving to get out of its path.
+
+Just as she had hoped, the mages scrambled out of the broad sphere of lightning and sparks, inadvertently clumping up with the rest of the ranged attackers in a big tight bunch.
+
+“Fireball, now,” Ali instructed, switching to the arrogance of draconic to speak to her Kobolds.
+
+“Yes, Ancient Mistress,” her mage answered, his harsh raspy voice eager, as his fangs gleamed in the ruddy glow of the flame that sprang into being above his taloned and scaled hand.
+
+“Heal Mato,” Ali told her Acolyte. While it was a perfect opportunity to hit most of the Kobolds with her fire magic, the cavern was cramped, and she was certain the detonation of the fireball was going to hit Mato also. If she had not spent so much time fireballing Mato during the Skeletal Wyvern fight, she was certain she would never have even considered this approach. But she knew he could take it, and she knew exactly how to time the heals so that he was full right before her fire magic detonated.
+
+“Fireball!” she yelled the warning to the entire room, speaking Common to not alert their foes.
+
+The potent compressed inferno shot forth from her mage’s hand, crossing the cave in an instant. Mato’s body glowed under the holy power of her Acolyte’s healing spells just before the fireball detonated. Ali’s eardrums burst painfully as the concussion of heat and the angry light of the instant wall of flame ripped through the air. Bodies flew, slamming into walls, while gouts of fire rained down, crashing against her barrier and dripping onto the floor.
+
+Ouch! Clearly, she had misjudged just how loud the fireball would be in the narrow confines of the cave. A warm trickle leaked out of her ruined ears and down her neck. Not a moment later, a yellow-white pulse of holy mana settled into her as the Acolyte’s healing spell gently repaired her bleeding ears and restored her hearing. Without her needing to prompt her, the Acolyte repeated the same magic for Basil who was now curled up on the floor with his eyes squeezed shut and his hands pressed over his ears.
+
+Oops. She hadn’t intended to unleash quite so much damage. But when she looked back across the battlefield, she could tell that she had ended the fight. Her rogues ganged up on the badly injured mages, killing both of them in seconds, and her shaman stood with Mato and Malika as they finished off the last of the melee monsters, flickers of soul magic and the incandescent arcing of the shaman’s retaliatory shield enchantment lighting the battlefield in staccato bursts of light.
+
+“Sorry about the fireball,” Ali said, joining the others in the center in the aftermath of the fight.
+
+“It was a sound strategy,” Calen replied.
+
+“Good fireball,” Mato agreed, nodding enthusiastically.
+
+Ali glanced at Malika.
+
+“Good call on the warning,” she said. “I just ducked behind the bear’s backside.”
+
+“Hey, that’s not fair, you can’t just use me like that!” Mato objected with mock indignation.
+
+“But you’re so big now,” Malika answered, batting her eyelids coquettishly at him, and Ali was treated to the rare sight of Mato blushing and stammering, completely unable to find the words to respond.
+
+“Are you ok?” Ali asked, turning to Basil. “Need healing?”
+
+“Uh, yes – no, I’m ok,” he stammered. “Th… that was only moderately terrifying. Is… is it always like this?”
+
+Poor kid. Although Basil was probably almost the same age as they were, it seemed he had been rather sheltered by his work as an herbalist inside a moderately sized town. Ali sympathized – after all, it was only recently that she had learned to face monsters. If she had seen something like this down in the cavern on her first day before she had earned a class, she would have felt just as shell-shocked, overwhelmed by everything.
+
+Now, however, after having fought the Skeletal Wyvern, blowing up a few low-level Kobolds in a cave felt easy, barely causing her any stress whatsoever. She was not even certain she could explain to him just how intense that wyvern fight had been.
+
+Ali set to her usual task of deconstructing all the remains. The Kobold camp stank, half-eaten chicken carcasses littered the living area, and there was even a badly butchered pig lying in the dirt and filth, now burnt from the fireball. The disconcerting aroma of fried bacon mingled with the scent of rot and squalor and the acrid sulfur of fire magic.
+
+After she was done, they pressed on, following Calen as he led the way deeper into the cave system. Some of the twisting tunnels were narrow enough that Mato was forced to switch to his Wolf Form to fit through.
+
+“Pit trap,” Calen announced.
+
+It was a rather tight corner, and the others had to hug the walls to carefully shimmy their way past, but Ali simply hopped on her barrier and floated by. As she was halfway across, a sudden rustling and screech startled her, almost making her fall as she jumped in surprise.
+
+Cave Bat – level 6
+
+The bat swooped away and flew off into the darkness, perhaps just as terrified of them as she was of it.
+
+“Just a low-level bat,” Calen said.
+
+A few weeks ago, that would have killed me. Likely, more than half of Myrin’s Keep would have been defenseless against a level six monster, but here, it fled from them.
+
+The exploration continued with Calen at the front beside Mato checking for tracks. Malika brought up the rear, leaving Ali and Basil safer in the middle with her Acolyte and Shaman. The rogues were off somewhere enjoying the wealth of shadows and hiding spots. They passed through endless winding passages and tiny caverns, some dry, and others covered in damp rock or trickling pools. Much to Ali’s dismay, the deeper they ventured, the more bats there were. They seldom attacked, but the bats would almost always spring up out of the darkness and startle her, at least once making her scream embarrassingly loudly.
+
+She was hopelessly lost after the many twists and turns, forks and caves, but she trusted Calen and his maps to get them out safely. While the first encounter at the entrance remained the largest, they regularly ran into smaller groups of Kobolds. Many were of the same varieties she had already recorded in her imprint, lending weight to the theory that these were all discarded from the Ruins of Dal’mohra dungeon somehow.
+
+After what must have been several hours of clambering through tiny passages and scrambling over boulders, they entered a slightly larger cave with a small pool of water at the back and three tunnel exits at the far end. Dispatching the four Kobolds that wandered in was a matter of just a few moments, but the noise of the Lightning Bolt startled a large cloud of bats that had been roosting amid the stalactites. Fortunately, the bats fled.
+
+Calen glanced at the exit tunnels in turn, clearly trying to determine the right way to go, but Mato shifted, transforming back to his Beastkin form. “I smell the mushrooms,” he announced. “That way.” His large finger picked out the left passage.
+
+“Ok,” Calen said, stepping into the opening.
+
+The short tunnel opened into an enormous cave, vast enough that their lights could not pick out the far side. As Ali stepped into the dark space, two balls of flame suddenly materialized in the darkness, shooting across empty space toward them with an angry hissing and sizzling. With reflexes honed and perfected against the Skeletal Wyvern, Ali threw up two barriers simultaneously, blocking both fireballs and causing them to detonate harmlessly in midair, sending showers of flame raining down on them.
+
+Basil squawked, diving for cover behind a rock.
+
+“Up there!” Calen indicated a tunnel entrance, about halfway up the far wall by the simple expedient of shooting an intensely brilliant arrow of light at the Kobold mages standing on the ledge. The two mages vanished, withdrawing into their tunnel.
+
+A sudden dark cloud of screeching bats, disturbed from their slumber by the deafening detonations of fireballs, burst forth from the stalactites high up above. A cloud far larger than anything Ali had ever seen circled in a frenzy and began streaming out of all exits, cracks, and crannies in their mad scramble to evacuate.
+
+From a completely new direction, the red of fire kindled again in the darkness. Preemptively, Ali summoned a barrier between their group and the imminent fire, while Calen shot arrows that tore into the dark tunnel entrance and snuffed the flame. Silence reigned for several moments before a different tunnel entrance lit with the red of an instant firebolt. Ali blocked it, but by the time Calen’s arrows reached the tunnel, the perpetrator had vanished once more.
+
+“Ridiculous,” Mato grunted, flexing his fingers as if imagining wrapping them around those scaly necks.
+
+“Why don’t you draw them out, Malika?” Calen suggested. “I’ll keep them out of the higher passages.” He raised his bow and began to unleash a withering volley of suppressive fire.
+
+The deadly game of cat and mouse continued for several rounds before Malika, picking her moment, charged with an uncanny burst of speed, making for one of the tunnels. Taking a one-legged leap off a stalagmite, a graceful step on the vertical side of the cavern wall, and catching the lip of the tunnel, she flipped herself up and over the ledge before the Kobolds could even react. There was a brief struggle and suddenly, one of the Kobold mages flew out of the tunnel, cartwheeling in the air, and falling into the main cavern, hitting the ground with a thump. The second Kobold followed shortly after. By the time Malika leapt back down, Ali’s golden Arcane Bolts had joined the thump of fire and crack of lightning.
+
+Without their tunnels to hide in, the two wily Kobold mages succumbed to their attacks quickly, and soon enough, Ali was deconstructing their corpses and gear.
+
+As silence returned to the cave, Ali glanced around, taking in the pungent earthy smell, the regular plinking of water dripping from the stalactites, high overhead, and the strangely bulbous, ball-like rock formations scattered among the stalagmites on the floor.
+
+“There we go,” Basil commented, getting up and walking with uncharacteristic confidence to the strange-looking rocks.
+
+That’s them? Surprised, Ali used her Identify on the rocks.
+
+Brown Stonecap – Mushroom – level 15 (Earth)
+
+The dome shape of the mushroom cap extended to the ground, hiding the stem from view, and combined with the hard, rough brown and gray exterior, contrived to create a highly effective form of camouflage, allowing the mushroom to masquerade in plain sight as if it were nothing more than a rock. Examining it closer, Ali could now see the dark brown tendrils of mana swirling and flowing sedately through the surface of the mushroom and extending out a short way into the air around it – a color and texture that was almost identical to the rocky ground on which it grew.
+
+She rapped her knuckles on one, hearing a solid-sounding crack, as if she had just hit an actual rock. Ow, it’s hard.
+
+Basil already had one mushroom uprooted, using a few obscure tools. He carefully wrapped it in a moist cloth that he had produced from his small pack.
+
+“Do you need all of these?” Ali asked him, gently running her fingers over the earthen mushroom.
+
+“No, I’ll just take what I can carry,” he responded. “They tend to go a long way.”
+
+“Do you mind if I take a few?”
+
+“No, go ahead.”
+
+Ali deconstructed several mushrooms in quick succession, deliberately picking the highest and lowest level ones she could find, and a few in-between, just to give her Grimoire the biggest variety she could manage.
+
+Variant: Brown Stonecap added to Imprint: Mushroom.
+
+Just to make sure, she deconstructed a couple more, until her Grimoire stopped recording new runes.
+
+“What does that do?” Basil asked curiously, clearly noticing the bright glowing Grimoire.
+
+“It lets me grow things if I learn enough of them,” Ali answered.
+
+“Oh,” he said, pausing in thought. “It would be super helpful if you figured out how to grow these. I know Eliyen would love to have a regular supply, and the garrison would be extremely happy. They’re difficult to cultivate normally and we usually have to hunt for them. There are always adventurers willing to buy the essences and potions, so they are quite good for business. The bigger ones fetch almost a gold each, and you can just stop by and sell them to us at Eliyen’s shop.”
+
+Malika whistled softly, “That’s quite valuable for a mushroom.”
+
+“Yes,” Basil answered. “They’re uncommon, but each mushroom is good for a lot of potions, so they’re always profitable.”
+
+Ali smiled. This quest was a great idea, she thought. She was excited to take this one home and try Mato’s experiment, planting it near the water to see if it could help clear the muck. And if that didn’t work, she had just increased her repertoire of useful and potentially profitable things she could make to buy books or supplies.
+
+“I think that’s all the Kobolds,” Calen said, returning from one of the side tunnels. “Maybe we can camp here and go talk to Sigurd in the morning?”
+
+“I can take the first watch,” Malika replied.
+
+***
+
+The morning was bright and clear, and birdsong filled the forest as Ali floated along the trail munching on a delicious, crisp green apple. Their Kobold extermination job had gone remarkably well, and nothing had disturbed them after they had set up camp. Not even the bats. Sigurd and his wife had been so happy with their prompt resolution of the problem, that they had insisted on sending them home with a basket of freshly picked apples as a bonus.
+
+Personally, Ali felt a lot better having taken care of the problem she had created. It was infinitely better to have dealt with the Kobolds quickly than to let them become entrenched in the mountains, raiding the farmers night after night.
+
+“I found a clearing up ahead with some suitable grasses for you, Ali.” Mato had been ranging around in his Wolf Form, ‘scouting’, even though there was little to no chance of danger now. Ali was certain he just wanted to run through the forest, enjoying the natural environment to the fullest.
+
+“What do you need grasses for?” Basil asked, perking up at the prospect of a conversation involving plants.
+
+“I want some more variety for my plants,” Ali answered. “Eliyen’s garden is a big inspiration. I have my own garden but I’m just getting started. I told you my skill lets me learn to grow stuff, but I don’t have many categories at the moment, and Mato suggested I try grasses next.”
+
+“What categories do you have?” Basil asked, now totally hooked on the conversation. “Um… if you don’t mind sharing?”
+
+“Right now, I can make trees, mushrooms, moss, and ivy.”
+
+“Ivy is a category? That seems odd.”
+
+“I haven’t figured out how it does the categories yet, and sometimes it seems quite arbitrary.” Ali considered her unusual skill and the arrangement of imprints in her Grimoire. “For instance, I can make black oaks and white oaks, but it grouped them with maple trees instead of by type or species. And sometimes the category updates to something more general if I learn a new variant.”
+
+“I think grasses are a great choice, I like them a lot,” Basil said. “There are an enormous variety and many of them are magical, useful for potions and other crafting. I can keep an eye out for some interesting ones in the future if you like.”
+
+“That would be great,” Ali smiled at him.
+
+The clearing Mato had found was a little on the smaller side, with a trail passing through the middle. Their arrival spooked a doe that was grazing on the light green grass that carpeted the entire clearing, waving softly in the morning breeze.
+
+“What do you think?”
+
+“Broad Leaf Grass – it’s a common spreading grass,” Basil said, identifying it. “Robust, grows almost everywhere.”
+
+“What do you mean spreading?”
+
+“Some grasses grow low to the ground and spread over a wide area.” He pointed to the edge of the clearing. “That clump of reddish-brown plants over there is a type of ornamental grass called Orange Bell Reed. Grasses like reeds tend to clump together and other grasses tend to spread out and grow low to the ground.”
+
+“You really know your plants,” Ali said, squinting at the reeds.
+
+Orange Bell Reed – Grass – level 3
+
+Not very orange, are they? To her eye they were more of a dark umber color.
+
+He blushed a little at the compliment. “Eliyen is a good teacher, and I like to study. I’m really hoping for a good herbalist class,” he said a little wistfully. “I’ll take my class trial with Eliyen soon – right after the mayor lets me use the shrine.”
+
+“Good luck!” she told him. Basil seemed quite earnest and genuinely helpful – Ali hoped he would get a class he was happy with.
+
+She hopped off her floating barrier and spent some time deconstructing patches of the ‘Broad Leaf’ green grass. Following Basil’s helpful information, she also added several select clumps of the Orange Bell Reeds.
+
+Imprint: Grass completed.
+
+As soon as it was complete, she committed it to her Grimoire.

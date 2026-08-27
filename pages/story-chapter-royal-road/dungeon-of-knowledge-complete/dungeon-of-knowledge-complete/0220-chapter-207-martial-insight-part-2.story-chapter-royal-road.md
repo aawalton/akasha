@@ -1,0 +1,137 @@
+---
+id: fee07c22-4537-524d-b6d9-0ebdba6ab6f8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 207: Martial Insight (Part 2)"
+slug: 0220-chapter-207-martial-insight-part-2
+partOf: dungeon-of-knowledge-complete
+position: 220
+ownLength: 2293
+unit: words
+ownProgress: 2293
+publishedAt: 2025-03-06
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2107845/chapter-207-martial-insight-part-2"
+royalRoadId: "2107845"
+markedReadAt: "2026-06-29T20:18:36.485Z"
+---
+
+Mato walked up to the rickety doorway of the Church of the Dragon God, or the Holy Church of Havoc as he had heard it called by some of the adventurers – with a few winks and definite relish as they pronounced the name – pressing his way gently through a throng of people waiting outside. Mieriel had told him Havok was hoping he could lend his healing magic for a church outreach event, and so he had decided to stop by and see what it was all about.
+
+All of the crowd seemed to be poorer people, dressed in ripped or dirty clothing, many of them without even shoes on their feet. He heard the ripple of surprise in his wake as his sanctuary aura gently passed through the crowd.
+
+Most of them are hurt or sick. Not for the first time, he realized how hard life could be in Myrin’s Keep for some. He touched his chest over his heart. Malika came from this.
+
+Mato opened the door and found Havok inside finishing up his characteristically brief service, invoking Azryet’s blessing for a new follower. He watched curiously, knowing how intense the dragon-god’s mana really was, and the impact it had had on him when he had received his godly patronage.
+
+The service finished quickly, and the new follower thanked Havok profusely and then everyone broke off into individual conversations, so he approached.
+
+“Hi, Havok,” he said.
+
+“You come?” Havok asked him, eager hope on his face.
+
+“Yes. I can help,” he said, and the Goblin’s little face broke into a beaming smile.
+
+“Let’s go,” Havok said, in his typical direct manner, and headed for the doorway immediately. He seemed excited to help all the waiting sick and injured.
+
+Mato followed, finding an open patch of ground near the church building. It didn’t matter that he was a little off to the side of the crowd, his aura would be big enough to cover the entire church and many of the buildings beside it. While Havok began casting his healing spell on the patiently waiting people, he transformed, planting himself, driving his roots deep into the ground, and spreading his branches up and out over the church building.
+
+His aura surged, rolling out over the crowd, creating a wave of gasps and sighs like a breeze across a field of wheat, and then he simply waited, resting in the sensation of the upwelling regeneration slowly erasing poorly tended injuries, diseases, broken bones, and infections. His aura also sprouted weeds across the courtyard.
+
+Then, even in his tree form he quivered as a young boy ran right up to him, spread his arms as far around the great trunk as he could reach, and yelled, “Thank you, thank you Mister Tree!”
+
+Your actions have increased the reputation of your patron.
+
+Ali stared morosely at the Corrupted Fire Drake leisurely returning to its spot in front of the forge, curling up and lying down. The heavily armored eyelids slowly shut as it huffed in a clear show of contempt, sending a puff of hellfire out from its nostrils to dissipate in the flame-filled room.
+
+“Can we try something else?”
+
+They had been at this for four hours, only taking a break to clear the monsters respawning behind them – and they would need to do that again soon if they wished to continue.
+
+Nothing had gone the way she had wanted. Her Abyssal Stalkers were much more skilled, now that she had trained with Malika – and that had shaved about one percent off their best attempt. When that had happened, she had immediately discarded most of her minions and simply made as many stalkers as possible, thinking to overwhelm the fight through the sheer weight of numbers. But that had gone spectacularly badly – that attempt was when they had discovered that the Ruinous Frenzy curse duration was dependent on the number of attackers that carried the curse. When she had brought a horde of monsters, the curse duration had dropped to less than a second, causing the boss to be chain healed as it expired between flame pulses.
+
+Her second brilliant plan had gone even worse. Reasoning that the Armored Drakes were immune to fire, and therefore ideally suited to this fight, she had summoned several of those. And it was true they were immune to fire and ignored the hellfire and living flame. But because they were immune to fire, the curse could not be refreshed, and so the Corrupted Fire Drake kept casting it on them directly, and then it would immediately expire, chain-healing the boss.
+
+“How about we go kill the Demon Hunter again?” Calen said.
+
+“I’m not so sure that’s a smart idea,” Ali said, recalling the enormous horde of demons they provoked with their brief jaunt into the Abyssal Realm.
+
+“You still have the poison bosses outside the library,” Calen said. “If it goes badly, we can use one of your teleport circles to escape. As long as we don’t enter the rift and poke that Maalgaroth, I think we can hold the rift against the few demons that trickle through, just by leaving a few of your minions to guard it.”
+
+“That… should work,” Ali said. It was a well-thought-out plan, but it still made her uneasy.
+
+“I think we should do the Inferno too; we’re running a little low on essences for elixirs after all those attempts.” Malika’s grimace told Ali just about exactly how expensive their day had been.
+
+I can make those now, Ali thought, but she didn’t say anything, realizing that Malika probably wanted a change of scenery nearly as much as she did. It wasn’t like her friend had missed the fact that she had been pumping out fresh elixirs for their attempts all day.
+
+“I don’t care, as long as we fight something,” Mato said.
+
+The biggest problem is the Acolytes, Ali thought, following along as they made their way back up through the stone chambers to the Landing. Honestly, none of her Kobolds had any right to be in that fight, considering just how under-leveled they were. The issue was that, while she could make do without mages or her Storm Shaman Goblins, they could not survive without healers. She had equipped them with the best gear she could get, but magical damage grew with increasing level, and so too did the requirement for more resistance to oppose it. The amazing 288 resistance on the level twenty healer robes Lydia had made was worth a respectable thirty-four percent magical reduction at level twenty. But against a level eighty-five foe, like the Armored Drakes, that number dropped dramatically to a ten percent reduction – and, using his advanced identification skills, Calen had estimated the Corrupted Fire Drake to be in the mid to high nineties.
+
+Back to the underpowered minions. What’s new?
+
+***
+
+Two hours later, Ali’s mood was incomparably happier. She grinned as her pair of Armored Drakes tore through a pack of Flamecaller Hunters and their Hellfire Wargs. While they had all leveled up significantly since their first time fighting these monsters, and Mato’s health was vastly more stable due to his powerful new armor, the biggest difference to the ease of clearing the passage was her ability to bring two level sixty-eight Armored Drakes to the party with their unreasonable armor and overwhelming physical damage attacks. Being immune to fire simply meant that they never got badly hurt, so she had them take over tanking the wargs, allowing Mato to be the one pulling the individual monsters out of the pack for them to kill. The Flamecallers were no match for the powerful cleaving talons and ripping fangs, so all the groups of monsters melted as they tore through them at a record pace.
+
+The Inferno wing had been so quick it felt trivial.
+
+The only groups that still gave them any resistance at all were the warlocks and their imps. And that was simply because the imps were hard to pin down, but with Malika’s ability to attack mana, the fights were simply a minor speedbump in the way of their power-charge through the entire wing.
+
+Ali smiled as they finally reached the rift chamber and the Demon Hunter within.
+
+“Shall I just leave the drakes in the middle to clean up the demons that enter?” she asked. Ali harbored just a little remnant of anxiety over the rift break they had experienced, but this time, they had no intention of entering the abyssal realm and provoking the dungeon.
+
+“That sounds like a good plan. Protect the person who gets Mark of Prey and everything else on the boss,” Calen answered.
+
+“Sounds good,” Ali replied. Her good mood was making her look forward to the fight, and the teleport circle she had left just outside the door went a long way toward alleviating her anxiety.
+
+As they entered the room with the boss, Ali immediately received the Mark of Prey. Quickly, she encased herself in her barrier, floating in the center of the chamber as she ignored the impact of hellfire fireballs slamming into her magic. She extended her awareness, instructing her minions to begin the attack.
+
+Unleashed, her drakes tore through the Hellfire Wargs and Imps that were desperately trying to climb the walls to get to her, while all her remaining minions directed their attacks at the boss itself. Her barrier felt stronger against the explosions of hellfire. She had leveled, and her Barrier skill level had gone up too, but the most significant change seemed to be the whopping forty intelligence that she had gained from her new fire silk slippers.
+
+She was still enjoying the feeling of improved power when the curse dropped, and Calen was targeted next. He took off into the air on diaphanous wings of light, and Ali simply created a curved barrier below him to take the brunt of the imps’ fireballs without interfering with his ability to shoot, slowly beginning to feel the true difference in their group’s improvement. Last time she had had to use Arcane Recall and a crazy maneuver with a fire-immune slime to save Calen from certain death. Now, her two Armored Drakes were up by the Abyssal Rift with Mato, tearing through anything that stepped foot in the room. There were barely any live demons to respond to the Mark of Prey. Calen didn’t even slow down his attacks, relying on her to block any stray fireballs.
+
+Mato never had to worry about Mark of Prey – the Demon Hunter died halfway through Malika’s turn.
+
+“That… was a lot easier,” Calen said, gazing at the crumpled corpse of the Flamecaller Demon Hunter.
+
+Ali grinned. Not only had it been much easier, but she was feeling a lot better about her day. Even though they had made little progress against the Corrupted Fire Drake, it had been remarkably productive and therapeutic.
+
+“I think we should do this for a few days,” Calen said, stooping to pick up the Demon Hunter’s bow and producing his skinning knife. “And then I have a proposal.”
+
+“What’s that?” Malika asked.
+
+“I shared this with Ali already. On my scouting mission, I found a rogue undead dungeon out in the middle of the blighted forest,” he said. “I think we should clear these two wings to build up some resources and money – and exploit any remaining experience we can earn here. I want to go visit Ciradyl for training, but when I come back, I suggest we level up a bit against this.”
+
+He shared his explorer dungeon identification.
+
+Ruins of Lyton – level 84Affinity: Death.Age: New.Known Creatures: Undead.Known Bosses: Ghoul (64), Skeletal Wyvern (48).Raid Bosses: Death Wight (73).Dungeon
+
+“Undead again?” Mato said, grimacing.
+
+“It’s probably faster leveling than beating our heads against the drake,” Malika replied. “We need to close the level gap before we can make progress. Calen, can you take me to Ciradyl when you go? There’s a lot of stuff taking up space in my storage that I can’t sell here in Myrin’s Keep.”
+
+“Sure I should let you loose on the poor Elves?” Calen answered.
+
+Malika gave him her meanest scowl. “Wow, remind me not to feed you any potions, Mister Expensive.”
+
+“I have my portable assistant for that.” He waved toward Ali. Clearly, Calen was feeling upbeat after their successes, too, she guessed, returning her attention to the description of the dungeon, noting the death affinity and the familiar boss types.
+
+“Is it just me, or does that look suspiciously similar to the Ruins of Dal’mohra dungeon?” Even the name of the dungeon seemed similar. Lyton was the little town they had explored when they had first gone searching for Lira’s trees. That hadn’t been all that long ago, and there was certainly no dungeon there when they had visited.
+
+“It does look that way,” Calen said. “But this one is higher level and vast. It consumed several towns on the border between New Daria and the troll kingdoms. I wasn’t able to locate the core or the shrine.”
+
+“Well, that’s ominous,” Ali said. If her suspicion was right, that meant the dark hand of Nevyn Eld was moving once more. On the other hand, she had imps, drakes, wargs, and higher-level Fire Mages – and undead were not immune to fire.
+
+Malika nodded, rotating her neck and shoulders deliberately. “Yes, ominous – for them.”
+
+“Bring it on!” Mato agreed. “A dungeon’s a dungeon.”
+
+But Calen met her eyes as their two eager companions led the way out, and Ali knew he had concerns he had not yet shared in detail. Yes. They needed to be cautious and well-prepared. Wow. Now she was sounding like Vivian.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

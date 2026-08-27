@@ -1,0 +1,181 @@
+---
+id: 325fb594-c535-5eb5-8466-66d28d65db98
+page-type-slug: story-chapter-royal-road
+title: "Chapter 254: Joraa, The Betrayer (Part 1)"
+slug: 0286-chapter-254-joraa-the-betrayer-part-1
+partOf: dungeon-of-knowledge-complete
+position: 286
+ownLength: 2840
+unit: words
+ownProgress: 2840
+publishedAt: 2025-05-20
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2292874/chapter-254-joraa-the-betrayer-part-1"
+royalRoadId: "2292874"
+markedReadAt: "2026-06-29T20:20:55.949Z"
+---
+
+Malika dodged the whistling greataxe, watching as it slashed a fraction of an inch past her left eye.
+
+“Blood Vortex!” Malika yelled. She still couldn’t see the formation of health powering the blood magic, but she could see the preparation telegraphed in the giant troll’s body language and the stamina flowing around the invisible magical formation. She had learned the hard way how to recognize it in an instant. She pulsed stamina into Divine Step, leaping to safety, but the second greataxe whistled below her feet and struck Mato, crushing his left front knee with a sickeningly loud crack and a roar of pain.
+
+With a cold lurch of dread, she realized that he was vulnerable, about to be pulverized by the rage-fueled maelstrom of blood and bone blades. He had already used his Charge skill, and by her reckoning still had several seconds on his recharge. With his legs broken, he would be unable to move or block easily until he healed.
+
+She spun and dove back in.
+
+“Malika! Watch out!” Calen shouted, but she didn’t have time to explain.
+
+Ribbons of blood hardened into gleaming blades, picking up speed as the giant troll spun his axes and Malika stepped into the storm. Chaotic vortices of energy ruptured across her Soul Sight as she pushed her Enlightened Evasion to the absolute maximum. Rage-fueled blades sliced deep into her muscles and flesh as she frantically tried to block even a quarter of what was tearing through her, burning stamina at a ferocious rate just to keep up with the insane damage. Only Soul Armor and her Healing Mantra kept her alive.
+
+Where is he? Her eyes were useless in the thick torrent of blood blades, but a moment later Soul Sight flickered with the telltale blue of mana, instantly recognizable as Mato’s restoration magic. Malika lunged sideways, her hand striking his tough, furred and armored hide. She burned mana and stamina simultaneously, pouring her healing into him as she kept both of them alive in the storm. On and on she channeled her magic until finally she felt Mato stand.
+
+A great pulse of intricate stamina surged through his body. Before her very eyes, every single blood blade shattered as a powerful shockwave pulsed outward, knocking the wind out of her chest. The giant troll roared in frustration, his powerful blood vortex collapsing all around them as Mato blocked it with overwhelming power. The greataxes drew back and she recognized the cleave a fraction of a second before he unleashed it – a strike she would either die to or dodge. She chose neither; her teleport carried her instantly to safety, leaving Mato to catch the full force of the blow. With a thump and a grunt, the bear flew through the air, trailing blood behind him. But he was alive, and the tendrils of Blood Siphon homed in on him, restoring him to full health before he even crashed into the trees.
+
+She breathed into her Clarity, calming her racing heart, and then returned to the fight. “Sorry, Mato, I know how much you love flying.”
+
+From where he had fallen, the Bear glared at her. “Harrrgh. HRR-GRRAHHH-HARRR!”
+
+“Exactly!”
+
+***
+
+Your group has defeated Blood Berserker – Giant Troll – level 96.Your group has defeated Blood Shaman – Troll – level 78.Your group has defeated Bone Warrior – Troll – level 68-75 x4.Your group has defeated Ice Mage – Troll – level 85.
+
+“Well, that was ugly,” Malika said.
+
+“Not as bad as the first couple of berserkers,” Calen countered.
+
+“Can’t argue with that,” Malika agreed, glancing further at her notifications.
+
+Soul Monk has reached level 82.+10 attribute points.
+
+Oh, cool. I got another level. She quickly distributed two points each to vitality, endurance, dexterity, perception, and wisdom as she scanned across her skill notifications.
+
+Martial Artist has reached level 40.Healing Mantra has reached level 51 (+2).Perfect Body has reached level 31.Soul Armor has reached level 38 (+2).Divine Step has reached level 43 (+2).Second Wind has reached level 26.Clarity has reached level 27.
+
+Healing Mantra, Soul Armor, and Divine Step all earned two skill levels. Must have been that stunt in the vortex.
+
+As they progressed higher and higher up the mountain, Malika’s thoughts constantly returned to the dangers of the dungeon, and how close they had come, more than once, to losing someone she cared about. It was a strange thing, caring about people after all those years growing up in Myrin’s Keep, looking out for herself because nobody else would. Caring for her friends meant she had a vastly richer life, but it still terrified her – losing Mato would have been a different kind of pain. She would honestly rather take a berserker greataxe to the face – that was the kind of pain she could heal.
+
+“We’re definitely getting stronger,” Ali said, floating up beside her.
+
+“Yes, we are,” Malika said, nodding to her friend. It was true: both individually, and as a team – but the dungeon was growing progressively more dangerous, and now that they faced berserkers, every battle seemed poised on a knife-edge of chaos – just as likely to end in disaster as victory.
+
+“I haven’t seen any undead patrols since we left the Temple of Ice,” Calen said, his eyes scanning the undergrowth religiously.
+
+“Oh. You’re right,” Malika said, eyes scouring the trees too, but she did not have the vision skills he did. Within the range of her seventy-six-foot radius Soul Sight, nothing stirred but them. Each of the temples they had encountered so far had had an altar of sacrifice which turned the life force of living prisoners into energy for raising the dead – but, since they’d destroyed the last one, they had only faced camps and patrols of living trolls spawned by the dungeon itself, and she had no idea what that meant. “Are we reaching the end?”
+
+“We might be,” Calen said, pointing upward. “Zor’kan said that’s the top.”
+
+The road itself slowly broadened as they ascended the pass, reaching higher and higher into the overgrown mountains, and now Malika could even see the sky breaking through the canopy of trees overhead and sunlight shining down on each of the clearings as they passed. However, it was not all beautiful jungle scenery; there were more Grim Totems, and the skeletons of unfortunate trolls picked clean of flesh lay strewn along the roadside, grass and moss already reclaiming them for the jungle. “Why doesn’t the dungeon dispose of these?” Malika asked, eyeing a particularly overgrown victim.
+
+“I couldn’t say,” Ali answered.
+
+By afternoon, Malika started to see pools and rivers of blood meandering through the jungle, as the blood-drenched moss and bloody orchids began to take over the entire area.
+
+“Something up ahead,” Calen said, keeping his voice pitched low. “Looks like another boss.”
+
+Malika peered around the bend in the road and the jungle opened into a wide-open grassy hillside. The beautiful view of the entire tree-covered mountain they had just climbed lay spread out below her. Nestled up against the cliffs, as if taking shelter beside the permanence and weight of the mountain, several ancient-looking stone buildings stood, their walls covered with blood moss and ornately painted, red curved roofs.
+
+“The Temple of Blood,” Zor’kan said.
+
+Standing before the gates to the temple, beside an enormous lake of blood, was the biggest troll shaman Malika had ever laid eyes on. At his side lurked four abominations of blood, lumpy shapes that warped and twisted in continuous restless motion, forms of hands and faces appearing momentarily, as if some poor soul had been trapped within and was pressing themselves up against the membrane of blood trying to escape before being dragged back down.
+
+“Here you go, Malika,” Ali said soberly from beside her, and her chime sounded as the identification was shared.
+
+Joraa [The Betrayer] – Troll – level 98 (Blood).Blood Thrall – Ooze – level 85 (Blood) x4
+
+“Wow, ninety-eight?” Malika whispered back.
+
+“Yes, but we’re also stronger now, remember?” Ali said, but grimaced as her voice cracked slightly.
+
+“Aah, Zor’kan, so good to see you survived,” Joraa said, and even from this distance, Malika felt the falseness of the saccharin smoothness in his voice.
+
+“Joraa,” Zor’kan answered, his voice as hard as the glint in his eyes. With her fledgling proficiency with the language of the trolls, Malika knew just enough to realize she was missing the full depth of his contempt for the slimy shaman standing upon the hill’s crown.
+
+“Tol’brekk grows tired of Val’korr’s resistance. He will surely reward me when I offer you as a sacrifice for the Blind Lich’s altar instead,” Joraa said.
+
+“You admit to betraying Aman Rak to the Blind Lich?” Zor’kan gasped, a dark flush rising in his cheeks.
+
+“Betrayal is such a strong word, Zor’kan,” Joraa answered. “No, I am the savior of Aman Rak.”
+
+“Traitor! How can you say that to my face while brandishing that perfidious new Title?” Zor’kan hissed, through the sound of grinding teeth.
+
+“Such a fantastic Title, for such a trifling thing,” Joraa said, chuckling for a moment. “Here, see it.”
+
+The BetrayerYou have boldly betrayed your bloodline for a chance at glory.+15% to damage against your own kind.The Identify of a Troll will always reveal this title. Title
+
+“You…” Zor’kan trailed off into rough choking as his anguished face took on a purple hue.
+
+“Zor’kan… Zor’kan,” Joraa tutted, “You have seen the signs. With each passing year, the lesser races grow more numerous and more powerful, and what do we do? Sit in the dirt, communing with the spirits of the past? Where is the honor in that? We have become stagnant while the Blind Lich is on the cusp of ushering in a new order for this realm. I have merely ensured that Aman Rak will assume its rightful place by his side, instead of crushed under the icy boots of his Death Knights. Kryostria, The Frozen Scourge, has been released from her tomb. The Lich commands power you cannot even imagine. You should be on your knees begging me for a lowly spot in the new realm.”
+
+“Aman Rak is dead! Look around you, everyone is gone – crushed, dead, or raised in service of his evil purpose. Not in honorable conquest against the undead, but by you and your insidious, scheming betrayal. You let the enemy cut out our heart and grow fat, feasting upon the pride and honor of our people.”
+
+“Fuck you, Zor’kan. You will see our way once Tol’brekk is done with you. This I promise,” Joraa said, and then lashed out with one hand, sending a dense arcing trail of blood through the air to drain the master leatherworker.
+
+The late afternoon sunlight glittered off a flicker of golden mana, and Zor’kan was suddenly encased in a sparkling sphere of Ali’s magic. Within the bubble, the proud troll shook with suppressed rage and the impotence of a warrior’s spirit that had chosen a lifetime of creation to support his people instead of the combat skills he so desperately desired right now.
+
+Malika could only imagine the frustration of facing one’s foe without the skills to do what must be done. But she knew one small way to help his pride.
+
+“Zor’kan, what is your wish?” she called loudly.
+
+“He is a spineless worm and the betrayer of Aman Rak. For the honor of our dead, I want you to kill him,” he answered, his voice suddenly firm and unwavering. While he didn’t explicitly acknowledge Malika’s deferral to him, she saw the straightening of his back and the rising of his proud chin.
+
+“You got it,” she said, echoed by the roar of Mato’s challenge.
+
+“Fools. I shall demonstrate the nature of true power upon your shattered corpses,” Joraa growled, his eyes narrowed in anger and his voice stripped of its earlier silkiness. He gestured with one hand, causing a dense red mist to begin billowing out in all directions around him as he tossed several totems to the ground.
+
+“Domain aura!” Ali shouted at once.
+
+The mist hit their forces like a wave, and Malika staggered under the impact of the blood magic. Warmth trickled down her face and out of her ears. She could even taste the metallic tang in her mouth. Then, her skin began to spontaneously rupture. She pulsed her healing magic, stemming the tide of bleeding.
+
+You have been afflicted with Bleeding.+77 Blood damage per second.Blood – Duration: Continuous.
+
+“Go!” she yelled, slapping Zor’kan on the shoulder and healing him as he stumbled out of the billowing red miasma.
+
+Chaos erupted across the battlefield. Berserkers leapt into the air. Ice bolts and glowing white arrows flew. Warriors shouted, and shamans threw out totems and began pouring the blood into cascading ribbons of healing. As soon as Mato reached The Betrayer of Aman Rak and landed a potent strike, she moved, punching and teleporting simultaneously to arrive behind Joraa, connecting with the back of his neck and releasing her Soul Strike.
+
+Blood magic rippled from Joraa, dark sanguine beams arcing through her and continuing through Mato and two of the drakes. Blood gushed from her body, torn out and fed to Joraa’s thirsty totems and his axe and shield.
+
+She unleashed a kick combination, striking several times in succession as a stream of radiant arrows whistled past her ear, but before she had even completed the action, something snapped around her leg with a whip-like crack and immobilized it. She tugged, glancing down, and found one of the Kobold-sized Blood Thralls had looped a pseudopod around her ankle and was anchoring her to the ground.
+
+“Get off, stupid slime!” Malika turned and punched downward at the crimson goopy ooze, getting a squelching squeal and a disturbing assortment of body-part outlines from within, but no matter what she tried, she could not dislodge it.
+
+Teleport recharge is almost up, she thought, but right then the monster shivered, and she had just enough time to throw up her hands when the monster blew up with violence and power entirely disproportionate to its size. She sucked in her breath from the shockwave as the explosion tossed her high into the air, and pulsed her Healing Mantra to regrow her ankle and foot blown off by the blast. Avoid the Oozes, got it, she thought, sprinting back down through the air to reach the wily shaman. Bloody mess, this fight…
+
+“Calen! We need these oozes gone!” Malika yelled.
+
+“Working on it,” came the terse answer from far back, followed immediately by a redoubled howling from his demonic bow.
+
+Malika reached the shaman just in time for his body to collapse in a puddle of blood, splashing across their melee forces. She dodged just as another Blood Thrall self-detonated, sending trolls flying, and then she saw movement over by the lake of blood. There on the shore, the shaman’s body reappeared, and in the few seconds he had by himself, he gestured vaguely at the lake. Two large fountains of blood erupted upward, coalescing into dense balls of roiling crimson that orbited his head. With another gesture, the balls fell to the ground and rippled but didn’t burst – then they began to crawl rapidly to the recovering troll army.
+
+“More Blood Thralls!” Malika shouted. “Watch out!”
+
+“Go. Bloodlust!” Calen’s voice rang out, and Malika felt the surge of power from both Calen’s motes of light and the incredible shaman’s blood magic. She teleported to Joraa, unleashing everything she had, every technique and stance she knew to gain more damage, every last scrap of stamina that her Soul Strike and Martial Arts would take.
+
+It was an exhilarating rush – not enough to overcome her Clarity, of course, but still it was only after Bloodlust expired that she had the slightest inkling that something was wrong. It was simply a sense that came with her Healing Mantra – an intuition for how much health someone had and whether they needed healing.
+
+“Did we hurt him?” Bloodlust and Righteous Fury was the most powerful combination they had, and their entire group had gone all out on Joraa, and yet, she had a dark premonition that they had not even scratched him.
+
+“Is that the best you can do?” Joraa taunted, following it up with a harsh cackling laugh.
+
+“Ali?” Calen asked.
+
+“Fifteen percent, about,” Ali answered, using the common language to conceal their information from their foe.
+
+“Left?” Calen asked.
+
+“No, that’s all we did, and he’s healed it already,” she answered.
+
+What? Malika stared at the shaman, stunned at the impossible resilience he had just displayed. It was just like the Corrupted Fire Drake at the end of the Emberforge Mines – they simply could not do enough damage to kill him, even going all out.
+
+“I’m going to try something, but we need to wait for Bloodlust again,” Ali said, condemning them to another fifteen minutes of bleeding, dodging, and explosive oozes.
+
+“Let’s regroup first,” Calen said. “Everyone out!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

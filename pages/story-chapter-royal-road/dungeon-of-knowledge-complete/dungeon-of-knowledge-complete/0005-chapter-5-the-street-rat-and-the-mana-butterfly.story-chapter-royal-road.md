@@ -1,0 +1,337 @@
+---
+id: f3f57eb7-a671-5fbe-802a-dcb23a58d128
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5: The Street Rat and the Mana Butterfly"
+slug: 0005-chapter-5-the-street-rat-and-the-mana-butterfly
+partOf: dungeon-of-knowledge-complete
+position: 5
+ownLength: 6043
+unit: words
+ownProgress: 6043
+publishedAt: 2024-01-30
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1499836/chapter-5-the-street-rat-and-the-mana-butterfly"
+royalRoadId: "1499836"
+markedReadAt: "2026-06-29T20:11:10.622Z"
+---
+
+Malika
+
+Malika shot bolt upright, awakened by a powerful pulse of energy coursing through her body, leaving golden glitter-like sparkles dancing along the wooden beams of the carpenter’s trash pile she had been sleeping under, and all along the walls of the dingy alleyway.
+
+Bursts of visible golden magic shot up from below, shards and flames that passed clean through the pavement and on up through the buildings like they simply weren’t there. It was as if someone had detonated a vast magical explosion far underground, but Malika knew for certain that no mage in this godforsaken town was even nearly that powerful. Myrin’s Keep was far too miserable a place for that.
+
+Heart racing, she huddled in the corner among the broken boxes and discarded offcuts as the enormous energy of the blast, which had somehow failed to hurt her, began to fade to golden motes of light that drifted upward into the sky like a cloud of fireflies.
+
+What the heck was that? She was certainly no expert, but she had never heard of golden magic like this. Nor could she even fathom a spell of such power and energy that had yet passed through the pavement and whatever rock lay below, buildings, and even herself without effect.
+
+I’m not hurt… am I?
+
+A loud crash followed by swearing startled her, suddenly snatching her attention from the lights.
+
+Shit! Adrik and Edrik!
+
+She instantly recognized the voices of the twin enforcers of the Town Watch and instinctively knew that they were looking for her. Distracted by the bizarre phenomenon, she had not even noticed them approaching.
+
+Her mind and heart raced as her body flooded with a surge of adrenaline. She ducked and rolled out of the wood pile and made a break for the end of the alley, sprinting as fast as she could. There was a rush, a crash, and a burst of pain as a heavy weight slammed her into the side of the building. Her head cracked painfully against the brick, and she blacked out briefly.
+
+When she came to, she found herself choking, barely able to breathe, hoisted off her feet by a powerful hand gripping her throat. That would be Edrik. She could always tell them apart. Edrik was the one who enjoyed inflicting pain, at least more directly than his brother.
+
+Did I just imagine that, or did the whole town just leap two feet into the air? The golden explosion had seemed so real, and yet both brothers seemed entirely oblivious to it.
+
+She saw stars across her vision as she struggled for breath, but all she managed was the ineffectual scrabbling of her heels searching for purchase against the wall.
+
+“Got you, little rat!” he gloated, never missing an opportunity to shove the Street Rat title they had forced on her in her face. “Where’d you think you were going?”
+
+She screamed. Malika had long since abandoned her dignity in these shakedowns. If there were guards nearby and they heard her, there was a chance she would escape with fewer bruises and broken bones. Unfortunately, with his hand clamped around her windpipe, it came out more like a croak.
+
+He casually slapped her across the face, making her head slam painfully into the wall again.
+
+“That’s for trying to run,” he said with a vicious sneer. “You know you bring this on yourself.” He punched her in the stomach, winding her. “And that’s for trying to scream again. I told you last time to take your punishment quietly.”
+
+His grip released just a little and Malika took a ragged breath, struggling for air.
+
+“Mr. Hawkhurst runs a respectable business,” he said, drawing in close and subjecting her to the rank caress of his breath along the side of her face. “That means you lift items and money for us so we can pay off the debt he so generously lent you. Hand it over. Now!” His voice grew progressively angrier and louder as he spoke, ending with him yelling in her face with spit flying.
+
+While most of the town believed Jax Hawkhurst to be a savvy businessman, owner of the Hawkhurst Trading Company, and an upstanding member of the Town Council, Malika knew the uglier truth from personal experience. The Town Watch – and several other organizations – in Myrin’s Keep, were secretly under his control, used to keep his name and reputation pristine even while carrying out the shadier, and sometimes downright illegal, parts of his business dealings.
+
+If Jax caught wind of Edrik invoking his name in public like this, he would certainly have words with Kieran Mori. And then Kieran would have Edrik flayed. Of course, the only time she had ever tried to report the twins, she had woken up a week later with a hefty new chunk of debt from the healers. Adrik and Edrik were awful, but Kieran Mori was truly evil.
+
+Malika retrieved a small pouch of coins from inside her shirt and handed it to Edrik. She knew from painful experience that if she didn’t give him something he would start breaking things until she did. He snatched it from her and tossed it to his brother.
+
+“Where’s the rest?” he said, shaking her hard enough to make her teeth rattle.
+
+She had hidden the rest in the wood pile, but she wasn’t about to give that up. Without some money, she wouldn’t be able to afford the donations at the Temple of Lunaré to get herself patched up.
+
+“That’s all,” she managed, her voice not working quite right.
+
+There was a flicker of red light as he activated a skill and a surge of pain shot through her side as he punched her. Two or three of her ribs cracked audibly and she gasped at the sudden shock of pain.
+
+“Hey, don’t kill her,” Adrik said. “Besides leaving a mess, Mr. Mori won’t be happy.”
+
+“You always interrupt my fun,” Edrik complained.
+
+Through the haze of pain, Malika saw a most improbable sight – a glowing golden butterfly flitted between her and the thug while he was looking away, coming briefly to rest on her cheek before flying off once again. She blinked in confusion, wondering if she had been hit too hard in the head again.
+
+That’s too pretty to be a dream, isn’t it? She stared after the exquisitely detailed butterfly as she struggled to reconcile the delicate beauty with the violence of the explosion earlier. Who sent you?
+
+Seeing that Edrik was still distracted with his brother, Malika took aim and punched him in the side of the head with her left hand, channeling every ounce of the martial arts training she had received in her youth.
+
+He rounded on her with a glare of pure fury. “Did you forget I have a Class, you moron?” His backhanded slap across her face left her ears ringing. “You can’t even scratch me, what the fuck are you thinking?” The return strike slammed into the side of her head. “Or did you think your daddy’s precious martial arts are actually worth anything?” His straight punch snapped her head backward, cracking her nose. “Oh, that’s right, he’s dead,” he continued with a cruel laugh.
+
+A warm rush of blood streamed down her face and her vision blackened before returning in a rush of light.
+
+A soft chime filled her mind and two lines of glowing blue-white script appeared floating in her field of view.
+
+Requirements met.You have gained one primary class slot.
+
+Malika groaned and blinked as her mind reeled from the impact, the metallic taste of blood filling her mouth – she had bitten through the side of her tongue. But the notifications lingered, glowing words in her mind that beckoned for her attention, visible even when she blinked.
+
+“Stop playing with her,” Adrik said. “I found her stash.”
+
+Without a word, Edrik flung her to the ground and spat on her, glaring down with a look of undisguised contempt. The twin thugs sauntered off without a backward glance, Adrik tossing and catching the small pouch of her hard-earned money in his hand while they chuckled among themselves, leaving Malika lying in a heap in the dirty alley. She stared in disbelief at the blue-white glowing words floating within her mind, but the tiny sliver of hope kindled by the notification flickered defiantly within her, refusing to die.
+
+If they find out, they will force me to take a Pickpocket or Thief class.
+
+She dreaded the thought of being beholden to these parasites for the rest of her life. They had already taken so much from her. First forcing her to evolve Identify into Appraise so that she could gauge the value of items in the marketplace. Then training under the gentle ministrations of Edrik’s whip to unlock the Lockpicking and Pickpocket general skills she so despised. And then the Street Rat title that forever branded her as untrustworthy to anyone who used Identify…
+
+Will they take everything from me?
+
+She stared longingly at the notification once more. If I could just… She hesitated as if the very thought would cause the twins to return. If I could just get a real Class. Maybe then I could stand up to those thugs. Her thoughts drifted back to her previous life. Her parents’ dojo, and her childhood dreams of earning a martial arts class. Of making her parents proud. Of being respectable. If only they were still alive.
+
+Blinking back sudden tears of years-old grief, she shoved the memories and dreams back into the box they had escaped from with the proficiency of years of practice.
+
+There had been talk in the market earlier today of a class initiation ceremony – to be held in the Town Hall, as usual. If she wanted even the remotest chance to avoid her fate, she needed to be there. She crawled over to the wood pile and levered herself to her feet, spitting the blood out of her mouth and wincing at the pain radiating from her side. She wiped the blood from her face and pushed back her unruly black curls.
+
+What I wouldn’t give for a haircut.
+
+Or enough money for a haircut.
+
+Then she chided herself. If I had money, I would be at the temple getting healed. Shit, I will need money for the initiation. If it hadn’t been for Adrik and Edrik’s shakedown, she would actually have had enough.
+
+There were countless rituals to influence the natural path of class acquisition among the ordinary folk; prayers and incense offered to the ancestors, or the gods of the local people of this kingdom, rites of cleansing, special food, the list was endless. However, Malika knew them all to be no better than superstition. And besides, she had prayed to the ancestors as a child, and they had forsaken her to this miserable life. No, if she wanted a good class, and a better shot at life, she would definitely have to take it for herself. The only thing that worked was a Class Shrine, and that was not available to the riffraff, refugees, the poor – a Street Rat like her.
+
+Gingerly she bent over and began rummaging through the trash, eventually finding a rag that was not completely soiled. Taking her treasure to a puddle, she dipped it in the water and dabbed the blood still leaking from her nose. She flinched at the painful touch, but her nose didn’t actually move, so it probably wasn’t completely broken. With her beauty regimen taken care of, she stopped to consider her options.
+
+Can I do this? She needed to get to the shrine in the Town Hall and find money to pay for it – and that was if she could even convince them to let a bruised and bleeding Street Rat in. All of that and she still needed to avoid Adrik and Edrik, and whatever terrifying sorcerer or monster was lurking in the sewers below the town, spewing powerful magical discharges and mana butterflies.
+
+Don’t be silly, she thought, chiding herself. The worst things down there are rats and spiders. Although she had heard rumors of a Kobold or two. Dangerous, yes, but nothing like what her overactive imagination had conjured.
+
+I’ll just have to figure it out as I go.
+
+She limped down the alleyway and out onto the main street that ran adjacent to the poorer slum districts of Myrin’s Keep. She received a few worried and scared glances, but most people seemed to be scurrying away, fleeing, no doubt, from the sounds of fighting – or perhaps the crazy magical explosion from earlier, if they had even heard it. She still couldn’t quite tell if she had imagined the whole thing.
+
+I probably look terrible. At least her skin was naturally dark enough that the blood and bruises wouldn’t be too obvious at a distance. The cuts and bruises didn’t worry her too much, but Edrik’s last punch left a lingering dizziness, and she could tell he had broken her ribs again by the way they shifted painfully as she walked.
+
+Malika hurried along the street, making her way towards the Town Hall, hoping against hope that Adrik and Edrik hadn’t made her miss it. I can get a healer later. As she drew closer, the worries ever lurking below the surface of her mind bubbled over again.
+
+She had been forced to do a lot of petty thievery for the Town Watch and their crooked thugs. What if I don’t get any good class choices? She practiced her martial arts diligently every day. Well, some days after Edrik and Adrik come, I can’t even stand. But what if that wasn’t enough to offset the skills that had been forced upon her? The title? She just had to believe her bloodline and her persistent practice would be enough to give her at least one good class choice.
+
+Just one please, she sent the thought out. She didn’t believe the ancestors actually listened, but for this, she was willing to try anything.
+
+Malika reached the Town Hall without further incident. It was one of the few original buildings that remained – most of the rest had been torn down, burnt, and rebuilt many times over the years. You could tell by the superior craftsmanship; the way the heavy granite blocks had been seamlessly fused into a structure that had weathered the worst this town could throw at it emerging unblemished.
+
+Malika approached the doors and was stopped by the guard with a gruff, “You can’t go in, Street Rat. They’re busy.”
+
+Am I too late? If she couldn’t choose her class today, she was certain Adrik and Edrik would figure it out and choose for her. Heart in her throat, she forced herself to speak, to sound confident despite the blood in her mouth and her swollen tongue.
+
+“I’m here for the class initiation?” She grimaced at the rising inflection at the end that turned her confidence into a question.
+
+“Oh, you’re a little late, they started already,” he said, throwing her a concerned look. “Are you ok?”
+
+“It’s nothing,” Malika said, averting her broken face. “I… tripped.” She trailed off as her voice quietened. The lie twisted in her gut.
+
+“Uh, right,” the guard said and opened the door. “Well, go in quickly, the mayor usually takes a while with his speech.”
+
+Malika blinked and looked up at him. Her heart jumped. His small kindness was so unexpected that she stumbled on her words. “Th… thanks,” she managed and rushed in.
+
+Malika had never seen the inside of the Town Hall before. It was enormous, easily able to hold over two hundred people, but with all the milling about and the gear stashed on the floor, it felt crowded. The early morning sun streamed in through large windows and lit up the polished wooden floor. Most people – the Humans, at least – became eligible for class advancement a little before the age of twenty, so it was quite easy to pick out the applicants from among the family members and friends who had come to support them. Standing in front of the crowd, Malika recognized the mayor, William Turner. He was a portly middle-aged man with a reddish flush to his face, but he still looked quite imposing dressed in his impressive official robes of office. Next to him were several official-looking people she assumed to be the various Guildmasters presumably looking to recruit.
+
+Malika quickly found a spot to one side and tried to ignore the disapproving glances of some of the nearby people. Surreptitiously she wiped the blood that was still slowly leaking from her nose on her ragged sleeve and tried to pass it off as a sneeze. And then she saw it. On display upon the table behind William Turner stood a two-foot-tall obelisk of polished stone. An artifact of obvious magical power. Its surface was polished to a gleaming smoothness and elegantly etched with runes. Malika surreptitiously used her Appraise skill on the artifact.
+
+Shrine of the Second PathAn artifact of elvish construction. Offers class experience and an alternate class choice. Owner: William TurnerMana: Unlock class experienceMana: Unlock an alternate classOwner’s Mana: Recharge the shrine’s mana reserve. 5000/5000Created by Nathaniel Sunstrider.Quality: RareValue: SoulboundShrine – Artifact
+
+No Value? That was a surprise – assessing value was the point of Appraise. But perhaps her skill wasn’t leveled high enough to tell, or perhaps it was because this was the first soulbound artifact she had ever seen.
+
+Malika turned to focus on what the mayor was saying.
+
+“I am glad to see so many of you taking your civic responsibilities seriously and stepping up to acquire a class. This is your first step to becoming a productive member of our town. I am aware of how much work it will take to complete your trial once I unlock your classes, so I want to thank you for your commitment and wish you all good luck in unlocking the best classes.”
+
+The guard at the door, it seemed, was spot on; the mayor liked the sound of his own voice. Malika tuned him out again and, while he continued his speech, she scanned the crowd, quickly picking out her mark. Her information told her she would need two large silver pieces to pay for the use of the shrine. It was an unreasonably cheap price for a class initiation. She had heard that most towns and cities with access to a shrine charged more than a gold piece for the service – sometimes, far more. The underground rumor mill held that the mayor had defied the nobility to keep the prices down, but even with such a gesture, the price was still way out of reach for most of the poorer townsfolk – many of whom would be forced to accept whichever common class that fell to them by chance instead of having a choice.
+
+Malika could not afford to leave this to chance.
+
+Quickly, she slipped through the crowd, bumping into the elegantly dressed merchant who seemed to be the father of one of the applicants.
+
+“Watch it!” he snapped at her.
+
+“Sorry,” she mumbled, using her Pickpocket skill to deftly lift a small money pouch that he had tied to his belt, her Street Rat title making her actions just a little less obvious to those standing nearby. She had picked him because he seemed wealthy enough to have some money, but not rich or smart enough to secure his coins inside a magical storage item. Her gut wrenched at the necessary theft, and the irony of using her despised Pickpocket skill to try to avoid a Thief class was not lost on her. Retreating to the edge of the crowd with her loot, she worried once again that her actions may have tipped the balance of class selection irretrievably into the realm of thievery and a life of crime.
+
+“If you are here seeking a crafter or merchant class, please step forward one at a time. Once I enable the shrine for you, simply channel your mana to unlock class experience. Then you may find your guild master or mentor,” the mayor said, indicating the masters standing behind him, “and you will be given the details for your respective experience trials.”
+
+As the crowd milled about, trying to organize, Malika appraised her pilfered money pouch. By the weight and her skill, she could tell she would just barely be able to cover the price. But the heavy tension bearing down on her shoulders eased up a bit. As each non-combat candidate stepped up and placed their hand on the shrine, a brief flash of light illuminated the runes on the granite surface. One by one, they gathered into groups behind each guild master.
+
+There are quite a few merchants and blacksmithing apprentices, she observed, wondering how hard their trials might be. But such was not the path for her.
+
+Once the guild masters had their new charges organized, the mayor wished them good luck, and they all filed out of the Town Hall.
+
+Returning his attention to the now much-reduced crowd, the mayor’s expression grew far more serious. “For the rest of you, acquiring a combat class carries an enormous risk. You must survive several fights against real monsters before you earn enough experience to gain your class. Most likely, some of you will not survive this trial.”
+
+In the silence as he paused, Malika could easily hear the soft sounds of people breathing nearby.
+
+“On the other hand, as you’re well aware, the benefits of a good combat class are exceptional. You will become strong, and Myrin’s Keep will grow with your strength. I will remain here for the rest of today; once you are notified that you have unlocked class choices, return and I will make the shrine available for you to select your class. I’m sure I do not need to remind you what a privilege and advantage it is to be able to choose your own class. The garrison is offering immediate positions for anyone choosing a military class, and Commander Gerald Brand will be present to advise you. Also, I should let you know that the newly formed Adventurers Guild is now accepting members under Guildmaster Vivian Ross. She will also be present at your class selection later, should you be interested.”
+
+“Because of the necessary danger, I will only permit groups of at least five candidates to undertake the combat trial. If you do not have a pre-arranged group, please find others to group with now. You will need to rely on teamwork to ensure your mutual survival – even facing a level one monster unclassed is extremely dangerous.”
+
+Immediately there was a hubbub and lots of shuffling around as people grouped up.
+
+Here, then, was Malika’s greatest problem. What law-abiding citizen would willingly group up with a Street Rat? Her stomach churned as her eyes darted across the crowd, seeking people foolish or desperate enough to consider teaming up with a lowlife like her.
+
+Most of the candidates already had friends and groups planned so the noise quietened down quickly before she could even take the initiative. Malika found herself ignored as usual – clearly, nobody wanted to associate with the obviously foreign refugee from the wrong side of the border. Just as she was mustering up the courage to step forward, two boys walked over.
+
+A Beastkin and a Half-elf? The misfits and outcasts flock together, she thought. The non-humans were probably being avoided just like she was. She no longer had Identify, but their races were plain for anyone with eyeballs to see.
+
+The Beastkin boy was broadly built, sporting a shock of reddish-brown hair and tannish skin. He was dressed in well-used leather armor and carried a short mace at his belt and moved with a confident power.
+
+Bear? The word ‘hirsute’ seemed to have been made to describe him. Whatever his heritage, it was large, hairy, and very strong.
+
+The Half-elf, on the other hand, had a lithe athletic build and carried a longbow. His unkempt white hair was worn long and loose, seemingly intended to disguise his characteristic pointed ears.
+
+“Hey, I’m Mato, and this is Calen,” the large boy said. “How about we group up?” His direct and familiar manner put Malika immediately on guard, but she couldn’t afford to pass up this approach, she wasn’t exactly swimming in offers.
+
+“Sure,” she answered, trying to keep her tone neutral. She was not particularly good at ‘friendly’ after all this time spent surviving in the dark alleys and criminal underworld of the town. But it didn’t look like the two of them had many people clamoring to take the trial with them either. Necessity really did make the oddest allies after all.
+
+“Great,” he said, scanning the crowd. “Now we just need to find two more.”
+
+“How about him?” Malika pointed to a tall boy with a sword and brand-new armor standing by himself, apparently not interested in finding a group. By his stance and posture, she could tell he had been trained. And his gear, well, it radiated quality and extreme value, making her Appraise skill quiver when she used it. Everything was enchanted. Everything? Malika thought, doing a double-take. Crap, how rich is this guy?
+
+Mato grimaced. “Ugh, Donavan Asterford. Self-important jerk and bully. Anyone but him.” Malika was certain the two boys had had some rather turbulent history to warrant such a negative reaction. However, even she recognized the noble family name. She was not usually allowed into the noble district, but the name Asterford was synonymous with wealth and power in Myrin’s Keep.
+
+From behind her, she heard a soft female voice say, “Can I join you guys?”
+
+Malika turned and her heart jumped as she immediately recognized the Town Watch badge the girl displayed on her plain black cloak. She wore her brown hair cropped short and wore dark brown leather armor and two sheathed daggers at her waist. A pair of furry ears poked up out of her hair, and her catlike green eyes gleamed as she stalked over with a lithe feline grace.
+
+It’s just a coincidence. They couldn’t have found me already. Malika tried to quiet her racing heart. I got this far, don’t let anything spoil this …
+
+“I’m Tala,” she said when Mato introduced the rest of them.
+
+Malika fervently hoped she was just trying to get a class like herself and wasn’t here to hunt her down on behalf of Adrik and Edrik. The Watch has new recruits too, they’re not all trying to get you, she thought, trying to reassure herself.
+
+Mayor Turner looked across the room. “Donavan? Why don’t you join that group, and we can get started?” he said, pointing over at their group.
+
+Donavan’s thin, angular face took on a haughty expression, which seemed like one he practiced. In front of a mirror. In a strident voice, he complained, “I won’t go with the Beastkin, he’s uncouth and boorish, I refuse. I’m fully capable of killing a few monsters on my own.”
+
+With a sigh, the mayor responded, “You either group with them, or you can wait for the next class initiation. The council agreed to these rules, and I won’t break them. Not even for you.”
+
+With a sneer, Donavan retorted, “Fine, but my father will hear of this.”
+
+His arrogance was shocking, leaving a ripple of whispers through the crowd. He was speaking to the mayor after all, noble father notwithstanding.
+
+But Donavan turned and stalked over to the group. “I guess you guys can join me,” he said. Glancing at Malika, he wrinkled his nose, “Who invited this beggar? Street Rat? She’s not even wearing any gear.”
+
+Bristling, Mato interposed his bulky body between them, growling, “Are you looking for another fight, Donavan?”
+
+Donavan just rolled his eyes and snapped, “Of course, Mato’s standing up for the strays again.”
+
+Malika’s anger flared instantly. “I don’t need your pity. And I don’t need your protection!” she snapped at the two boys.
+
+“Whatever,” Donavan retorted, “I’m the leader of this group, let’s go.” He strode off toward the mayor and the shrine without even a backward glance.
+
+Malika swallowed her anger. I can’t afford to create a scene here, she chided herself, annoyed she had lost her temper. But Donavan was really creating a horrible first impression, his contempt rankled – and she certainly did not need a boy to fight her battles for her. After all, her experience in the alleyway this morning showed she could get beaten up just fine on her own. Great. What a perfect day.
+
+Sharing wary glances with one another, the rest of the party followed Donavan, and Malika found herself walking beside Calen.
+
+“Sorry about that.” His voice was both soft and gentle. “Mato used to stick up for me against Donavan’s bullying when we were younger, so there’s no love lost between them.”
+
+To Malika’s surprise, she found only genuine sincerity and concern in his expression.
+
+“Hopefully we can work well enough together today, and all get our classes,” he added.
+
+Somehow, as if by magic, she felt all the shame, embarrassment, and anger dissolve in his straightforward honest gaze.
+
+“Uh, sure … ok,” she managed. He seems way too nice for this crappy town, she thought. He must get taken advantage of a lot.
+
+Malika stood alongside her new companions while each of them used the shrine. Once it was her turn, she dropped her stolen silver pieces on the table. Putting her hand on the cool granite surface, she sensed a resistance to her mana. The mayor did something, and suddenly the shrine accepted a small infusion of her mana, and she heard a chime sounding in her mind.
+
+Class experience unlocked.
+
+[Shrine of the Second Path] Once you have earned enough experience, a class will be offered based on your choices, abilities, and actions. You can unlock an additional class choice at the shrine.
+
+With a sudden rush of excitement, she checked her status.
+
+The blue-white glowing text appeared instantly, hovering there – a personal illusion conjured within her mind. It was, as always, invisible to everyone else unless she chose to share it, but she only ever did that when Adrik or Edrik threatened to kill her.
+
+Everything was written there in those softly glowing words. Her commitment to her meditation and martial arts, and the thieving skills she had been forced to learn. Even her title, Street Rat.
+
+There was one change, though, and her eyes were immediately drawn to the new ‘Class’ line – new since the alleyway – now unlocked and ready for her to earn experience.
+
+Name: MalikaRace: HumanTitles: Street Rat
+
+Class: [Unlocked]
+
+General Skills- Meditation – level 3- Basic Martial Arts – level 5- Dancing – level 4- Acrobatics – level 5- Calligraphy – level 3- Lockpicking – level 4- Pickpocket – level 3- Appraise – level 5
+
+Aptitudes- Languages: Common- Bloodline (Ahn Khen): Dormant
+
+Attributes- Vitality: 8- Strength: 7- Endurance: 12- Dexterity: 13- Perception: 10- Intelligence: 9- Wisdom: 11
+
+Health: 17/80Stamina: 67/120Mana: 108/110
+
+It worked! Obviously, this was what she had wanted, but she had been suppressing her excitement, as if certain that at any moment someone would leap out and stop her. But the change to her status was undeniable, and her rush of excitement threatened to bubble over.
+
+The mayor spoke once more, “Now that everyone has unlocked their experience, Commander Brand has assigned a garrison guard to guide each group to a suitable area for your trial. Good luck, and please be careful out there. The danger is real, and we do not want any of you to die.”
+
+In the gap of silence that followed his pronouncement, the mayor’s eyes surveyed the hopefuls, hesitating briefly when they met hers. Malika quickly diverted her eyes, a habit drilled into her over years of needing to be inconspicuous.
+
+On that somber note, all the candidates began collecting their packs and weapons and saying their goodbyes to their family and friends. Malika took comfort in the fact that their assigned guard was the same one who had shown her kindness at the door.
+
+“Sewers or Forest?” the guard asked them. “Rats and spiders, or wolves and bears?”
+
+“Which is more popular?” Donavan asked.
+
+“The forest for sure,” the guard answered.
+
+“We’ll take the sewers, then,” Donavan decided.
+
+Malika raised her opinion of Donavan a little. It was a smart decision, in the less popular area they wouldn’t need to compete with the other groups, and they would be able to finish quickly. She firmly dismissed her worries about improbable cults of rogue sorcerers lurking in the sewers.
+
+“We already have a rat, after all,” Donnavan added.
+
+Malika frowned, but she held her tongue.
+
+As they followed the guard, Mato muttered, “He thinks he can just take over, I really want to rearrange his face.”
+
+Calen, looking a bit concerned, placed his hand on the bigger boy’s shoulder and said, “Not a good time Mato, just let it go.”
+
+As they left the Town Hall following the guard through the city, Malika felt her mood begin to improve, the potentially volatile group dynamic notwithstanding. She had actually done it. She was on her way to her trial. Feeling cautiously optimistic, she followed her new teammates.
+
+A sheltered, far too nice Half-elf; a possible Town Watch spy; an arrogant noble; and a grumpy Beastkin, one comment away from a brawl. And a Street Rat – what could possibly go wrong?
+
+Leading them to an alleyway, not unlike the one she had slept in last night, the guard unlocked and removed a heavy iron grate covering a hole in the ground. The vertical shaft of aged brick descended into the darkness, and the damp stench of the sewers slammed into her face like a wall of filth, making her gag.
+
+No wonder it’s not popular, she thought. I bet the forest smells better.
+
+“Ready?” asked the guard, offering a few lit torches.
+
+Glancing at each other briefly, they nodded to him. Malika took one of the torches, tucking it carefully under one arm, and began to climb down into the sewer using the rusted iron hoops stapled into the ancient and crumbling brickwork.
+
+When she reached the bottom of the ladder, Malika found herself in a small damp chamber, the sound of dripping unnaturally loud in the dim torchlight. Moss lined most of the crumbling, water-stained brick walls and floor, making everything somewhat treacherously slippery, while trickles of water ran out through the one open archway.
+
+Donavan immediately strode toward the open passage.
+
+“Shouldn’t we have a plan?” Malika asked, her voice echoing a little in the dark chamber.
+
+“I’m not interested in your plan, you didn’t even bring a weapon,” Donavan shot back, “Just follow me and kill the monsters and we can all get out of here.”
+
+Biting back her retort, she followed the group, irritated with their self-imposed leader’s disregard for her or any kind of prudence. But she was an outsider in this group, and she only had to put up with them until she earned her class.
+
+Suddenly she jumped, startled as a large hand gently settled on her shoulder, wincing in pain as her movement displaced one of her snapped ribs.
+
+“It’s not very powerful, but you look like you need it,” Mato said.
+
+She stared at him in confusion for a second before she saw the small vial in his enormous hand, stretched out and offered to her. The clear glass container was stopped with a simple cork, and the red liquid sloshed a little inside.
+
+Minor Health Potion – level 1Consume: Gain 50 health over 3 minutesQuality: NormalValue: 1 silverCreated by Morwynne Fizzlebang. “Wounds begone!”Potion
+
+She hated that he was right – and worse, that she would owe him – but she wasn’t going to be a whole lot of use in combat if she was doubled over in pain every time she moved.
+
+“Thanks,” she said quietly, and downed the expensive potion, feeling the warmth flooding her body as its potent magic began to work on her injuries.

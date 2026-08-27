@@ -1,0 +1,221 @@
+---
+id: 1179fa0f-d299-53fd-b208-365ea81dfa0d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34: Lunch at Laurel’s Café"
+slug: 0034-chapter-34-lunch-at-laurel-s-cafe
+partOf: dungeon-of-knowledge-complete
+position: 34
+ownLength: 3315
+unit: words
+ownProgress: 3315
+publishedAt: 2024-03-01
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1537757/chapter-34-lunch-at-laurels-cafe"
+royalRoadId: "1537757"
+markedReadAt: "2026-06-29T20:12:06.517Z"
+---
+
+Laurel’s Café was apparently far too upscale an establishment to exist in any proximity to an unsophisticated location like Artisan’s Row. It took a while for them to walk across the several districts to reach the fancier, more upmarket end of town.
+
+Ali didn’t mind though, enjoying the beautiful late morning sunshine that cast the entire town in a much more pleasant light. With something as simple as a change of clothing, Ali was amazed at the change in behavior from the townsfolk. No longer did they draw hostile glances and angry looks. Instead, there were many muttered comments such as: ‘Excuse me, my lady,’ and people looking down and getting out of their way as they walked by.
+
+Calen led them across a small cobble-stone bridge that spanned the river dividing the town, and Ali paused on top to gaze out at the view for a moment. Her sightseeing was promptly interrupted by an angry shout.
+
+“Seri! Stop daydreaming!”
+
+Nestled up against the far bank of the river, stood a small wooden dock with a well-worn wagon pulled up alongside it. A red-faced man stood in front of the empty barrels stacked on the wagon, with his hands perched on his hips like an irritated teapot. A tiny Gnomish woman in a bright-blue dress with white-blonde, pixie-cut hair yelped, scrambling up from where she had been sitting near the riverbank staring at the water flowing by.
+
+“Sorry! Sorry!” Her high-pitched voice carried clear as a bell across the river.
+
+Quickly, she reached her hands toward the river and an enormous fountain of water gushed up into the air, splitting into smaller streams and flowing down gracefully to fill each barrel. The girl glowed with such an intense cobalt aura that Ali gasped in amazement. So cool! Heh – literally cool. The vibrant aura flickered and flowed with water-affinity magic as the Gnome manipulated an absolutely colossal amount of water to fill all the barrels – without spilling a drop.
+
+Mage – Gnome – level ?? (Water)
+
+Ali smiled, amused by the mostly harmless altercation, and enjoying the opportunity to exercise her mana sight on yet another fascinating use of magic.
+
+This is never going to get old!
+
+More or less ten minutes later, they finally arrived at a small, stylish stone-walled shop with a red roof and a bright sign advertising: Laurel’s Café. The entire area was conspicuously devoid of trash and hawkers, and there were no burnt-out husks of buildings in evidence anywhere along this road. Ali had even spotted several uniformed guards discreetly walking the streets. Guards that were not displaying the Town Watch colors.
+
+The café had a small area with outside seating that already had a couple of patrons enjoying the sunshine and food.
+
+“Oh! Can we sit outside?” she asked excitedly.
+
+Her question was interrupted by an unfamiliar voice from behind.
+
+“Oh, my! Mirabel, look! How cute, a little Fae!”
+
+Ali spun around, finding two young-looking human women, wearing ostentatiously expensive dresses and carrying brightly colored parasols, staring at her. They had obviously been walking the tiny, fussy-looking dog that was yapping incessantly and scampering about their feet. Ali frowned. It was common for the larger races to inflict the dreaded ‘cute’ word upon her, and she quite hated it. Just because I’m smaller than they are! She was about to give them a piece of her mind when she was suddenly interrupted.
+
+“Actually, she’s a pretty fierce adventurer,” Malika chipped in, using a carefree and nonchalant attitude that caught Ali by surprise.
+
+“Oooh!”
+
+To Ali’s further surprise, the two women seemed openly impressed by Malika’s bold declaration.
+
+“But she’s freelancing as a model for this new, stylish boutique down on Artisan’s Row. Have you heard of it? It’s called Lydia’s Allure. It’s really an undiscovered fashion masterpiece. To think there would be such a gem in Myrin’s Keep, of all places!”
+
+“Aah!” the other girl breathed, nodding knowingly.
+
+Ali gawped openmouthed at Malika, somewhat stunned and speechless for a moment. Wow, she really took Lydia’s offer seriously.
+
+The two ladies continued fawning over Ali and Malika for a while. Malika even performed several graceful pirouettes to show off her outfit, after which the noble ladies bid them goodbye and left. Ali overheard them talking excitedly about their new discovery and how their friends were going to be gnawing out their own livers in jealousy.
+
+Wow, I had no idea nobles talked like that.
+
+“I’ve had to talk my way out of sticky situations before,” Malika answered their curious looks, as they stepped into the café – an explanation that left so much unsaid.
+
+As they looked around, Malika whispered, “Calen, your mother is a devious genius. I’m honestly in awe.” At his surprised look, she simply added an enigmatic, “Wait, you’ll see.”
+
+“Welcome to Laurel’s Café, sirs, ladies,” the waiter said, showing them to a perfectly located table on the terrace – polished white marble accented with gold filigree. “For your convenience, your table has a privacy enchantment that blocks sound,” he announced while pulling up a taller chair for Ali without missing a beat.
+
+Neat. Lunch without a crick in my neck. Ali already loved the place. The fact that they were accustomed to serving the smaller races, and hadn’t made an issue of her height, gave her a wonderfully warm sense of being welcomed.
+
+After taking their orders, the waiter left them to enjoy the view and the privacy of their table.
+
+Naturally, the conversation immediately turned to the crazy events from the last week. While it wasn’t exactly pleasant subject matter, catching up with what Malika and Calen had been through was something that had been put off for too long.
+
+“I guess I owe you guys an explanation,” Malika said after their first course – a large platter of artfully decorated appetizers – had arrived. The food smelled heavenly. “You probably guessed that the guys who pushed you down that hole were Kieran Mori, Adrik, and Edrik. And I guess Tala. They’re all members of the Town Watch – an organization that supposedly protects the town and townsfolk, but – as you saw – under that façade, it handles most of the dirty business for the Hawkhurst Trading Company. Protection rackets, thievery, and similar shady business so that Jax Hawkhurst can keep his hands clean and his precious Town Council position unassailable while pulling the puppet strings on his criminal syndicate.”
+
+Malika paused, but everyone simply waited for her to collect herself.
+
+Ali dipped a lightly salted cracker into the small bowl of unidentifiable green dip and sniffed it before taking a tentative nibble, noting that neither Calen nor Mato seemed surprised by Malika’s pronouncement. Ooh, that’s amazing! She still had no idea what it was, but she grabbed a couple more crackers before Malika continued.
+
+“I told Ali this story already, but my parents were killed in a dungeon-break about ten years ago. I stowed away on a merchant caravan to escape, ending up here in Myrin’s Keep. I was young and desperate, and easy prey for the Hawkhurst loan sharks. Long story short, they pawned me off on the goons in the Town Watch and made me work for them to pay back my debt.”
+
+“I guess that explains your ability to pick locks?” Calen asked soberly. “And the Street Rat title?”
+
+Ali glanced at Malika, seeing a grimace appear on her face. She didn’t share that information with me.
+
+“Yes,” she said. “Adrik and Edrik were my handlers. They forced me to take jobs of petty crime, making me learn to pick pockets and locks, all supposedly to pay back what I owed. I only found out much later that nobody cared about my debt, they were just using it as an excuse to make me work for them. Making me take those skills and do the jobs was designed to force me into a Thief class so that I would be stuck and reliant on them forever. It’s also why I have Appraise instead of Identify.”
+
+“Isn’t Appraise a merchant skill?” Calen asked curiously.
+
+“Yes, but it’s also a crucial skill for thieves, it lets me know the value and quality of items. But it means I can’t Identify people or monsters anymore.” Malika looked down at the table. “So yeah, I’m sorry I dragged you all into my mess. I’m really not sure how to make it up to you.”
+
+She looks sad.
+
+“It’s ok,” Ali answered. “You taught me how to use my class, and how teamwork means having everyone’s back. You’ve been looking out for me at every opportunity. And you’re my friend.”
+
+Mato made an agreeing grunt. “Yeah.”
+
+“Do you mean that?” Malika asked, looking up at her, her voice thick with emotion.
+
+“Yes,” Ali said firmly. She didn’t know much about this new world, other than it was dirty and hostile, but Malika was loyal and honest, and she hated to see her sad.
+
+“You broke me out of those cuffs and saved my hide more times than I can count already,” Calen offered quietly.
+
+“You saved me too, and you don’t even like me,” Mato added dramatically, drawing a surprised laugh from Malika, and suddenly the mood lightened.
+
+“What is it that you want to do?” Calen asked, and Ali realized that the two boys had not heard Malika’s full story yet.
+
+“For the longest time, I wanted to get strong enough to destroy the dungeon that killed my parents and razed my hometown, but someone already beat me to that. I think I want to be a respected martial artist to honor my parents’ memories. It would mean a lot to become strong enough to prevent something like that from happening again,” she said. “I think I want to join the Adventurers Guild.”
+
+“I’m not so sure about being an adventurer,” Ali said. “I’m scared all the time in battle.” As the others looked at her, she added, “I was terrified most of the time down in the ruins with those Kobolds. For most of my life, I lived in safety, working in the Grand Library Arcana, or studying in the Grove. I had such bold ideas for taking back my home when I was first offered a combat class. Now I don’t know. I don’t think I’m made for combat.”
+
+“You’re pretty good at it,” Mato said, in his typically blunt fashion. “Also, you remember how scared I was down there too, right?”
+
+“You were scared?” Calen asked, a look of genuine surprise on his face.
+
+“Yes,” Mato said, pausing for a long moment. “You were right, Calen – Primal Rage is a terrible skill. I lost control in the first fight, and I attacked Ali.” A haunted shadow passed across his face. “I nearly killed her. If she hadn’t learned to inscribe a Druidic Restoration spell from my book down there in the dungeon while we were both dying, I wouldn’t even be here.”
+
+“So that’s why you removed your skill,” Malika said, stating it as a realization rather than a question.
+
+Mato simply nodded. “I’m sorry I didn’t listen to you either.”
+
+“You got me out of that Bugbear situation, I think I might be in your debt at this point,” Malika observed.
+
+A small smile touched his lips. “I thought you had those Bugbears right where you wanted them? You know, the hug of death and all that?”
+
+“Oh yes. I was lying there on the ground all beaten up because I knew you wanted the opportunity to help. You’re welcome.”
+
+Ali laughed with them at the ridiculous take on their dangerous fight.
+
+“Anyway, now we have a Kobold problem and a Goblin problem,” Mato said, back to his normal self. “And the garrison doesn’t want to believe us about the Goblins. What do you think we should do?”
+
+“We’ve always had a Kobold problem in Myrin’s Keep, I think they will keep till later,” Calen said.
+
+“Yes, the Goblins seem to be the most urgent issue,” Ali agreed.
+
+“I think the Town Watch is a bigger problem,” Malika said.
+
+“Do you really think Mori cares about us? He already got his money for selling you guys,” Mato said. “Maybe he was just… uh, marking his territory?” Malika stared incredulously at him. “Sorry. Crap. That came out badly.”
+
+“Right.”
+
+Calen scratched his head. “I don’t know, Mato, it felt more like a slap on the wrist, but maybe there’s some higher-level politics going on we don’t know about, and this was a message meant for someone else? Malika?”
+
+“Maybe, that sort of makes sense,” Malika mused. “Maybe we’re too small for Mori to bother with, but Tala seemed weirdly vindictive. And I have a history with Adrik and Edrik.”
+
+“Myrin’s Keep is quite large, what are the chances we run into them by accident?” Calen asked. “Also, I think if we stick together, we’re high enough level we can safely get away from those thugs now.”
+
+“Maybe we should join the Adventurers Guild for safety?” Malika countered. “I’d feel safer if we finished up our business in town this afternoon and headed back underground to get a few more levels under our belts. We’d be less visible down there.”
+
+Mato grunted his approval.
+
+Ali remained quiet, listening to her friends discuss options and plans. Getting back to the shrine sounded like a fantastic idea for many reasons. Something had become clear to her on the rescue trip in the forest – and she wasn’t sure the others had even considered it yet. They all had great classes, suitable for a wide variety of jobs or adventures. But she was always going to have to deal with domain withdrawal. No matter what, there would be places they would want to go to that she simply couldn’t reach.
+
+“Are you sure you guys all want to continue together?” she asked. The conversation around the table suddenly died, like she had dropped a fireball on it.
+
+“What do you mean?” Malika asked.
+
+“We’ve been forced together by crazy circumstances, and we haven’t had much of a choice up till now. But now we can choose what we want to do. I’m sure all of you have dreams and goals, but I’ll always be rooted here. My class limits how far I can move. Do you really want to be stuck here, with me? This town looks pretty awful, but all of you have great classes and could get work anywhere.”
+
+Surprisingly, it was Mato who spoke first. “When I was younger, my dad would tell us stories from his days as an adventurer. He would always insist that the most important choice was who you bring with you on your quests and adventures. You guys are alright, and you’ve had my back so many times already, I’ve lost count. So, I’m in if you are.”
+
+“Me too,” Malika answered. “It's been perhaps a little riskier than I would have liked, but I have never heard of anyone leveling quite so fast after unlocking their classes. I feel like I can learn a lot, and there are plenty of opportunities to train my skills and grow. Also, we make a strong team, those Bugbears would be a very tough fight for anyone at our level.”
+
+Ali looked over at Calen, who paused thoughtfully and then spoke, “I’m an explorer at heart. I love discovering new places and hearing the stories of dungeons and ruins. The ruins of the lost city of Dal’mohra are the greatest find in recent memory. I’m actually jealous that you got to explore it already.”
+
+Surprised at their passionate answers, Ali responded, “Then, perhaps you all can teach me how to be a better teammate?”
+
+Mato coughed in amazement, “You… really?”
+
+“Ali, I’m sure we will all learn a lot from each other,” Malika answered. “How do you plan to better amazing?”
+
+“Malika, please.”
+
+“Miss Aliandra, I am extremely stubborn about my opinions, especially when I’m right. Fine. I hear you. We can talk about it,” Malika teased.
+
+As the conversation moved on to lighter subjects, Ali focused a little more on savoring the extraordinarily delicious food that came and went in endless courses until even Mato sat back with a groan, declaring that he needed a bigger belt. During a bit of a post-dessert lull in conversation, the waiter approached her.
+
+“Excuse me, my lady,” he said and waited for her to acknowledge him.
+
+“What is it?” Ali asked. She had never been addressed as ‘my lady’ before and she wasn’t quite sure how to respond to his excessive politeness. Just Ancient Mistress, she thought, and that had made her uncomfortable too.
+
+“It’s but a trifling matter,” he said. “Your dress is quite sensational. In fact, several of the other patrons insisted on interrupting your lunch to inquire where you were from and where you acquired such finery. I informed them that they were not to disturb you, but, if it pleases you to share, I would like to inform them accordingly.”
+
+Ali looked down at her dress, suddenly remembering that she was wearing something significantly more elegant than her usual outfits. Malika had come up with a remarkable response earlier, and Ali racked her brains to come up with something clever.
+
+But in the end, she decided to stick with the simple truth.
+
+“Oh. It’s my first time in Myrin’s Keep,” she said. “I don’t mind sharing if it will make them happy. Our outfits were all designed by Lydia Avery, a Tailor who has just opened a shop called Lydia’s Allure on Artisan’s Row.” She offered him the opportunity to inspect the dress. “She’s quite talented, don’t you think?”
+
+“Indeed, my lady,” the waiter said. “Thank you for your indulgence.” As he turned to leave, Ali noticed an almost imperceptible smile flicker across his stoic face.
+
+As soon as the waiter left, Malika turned to Calen. “See?”
+
+“No, what?”
+
+“This is a very expensive café, popular among the high crowd. Everybody who wants to be somebody dresses up to come here and show off. To be seen. Our outfits, on the other hand, look extremely expensive, but understated. Particularly Ali’s. She looks like she could buy the entire restaurant as easily as the appetizers but is trying to dress down – to be incognito. It’s extraordinarily devious. Those people out there cannot hear our conversation so they must be dying to know who we are – they’ve all been surreptitiously glancing at our table the entire time.”
+
+“We haven’t eaten particularly much or expensively, but when Ali gave up the name, the waiter probably made more in tips from all the curious people than our entire bill will come to.”
+
+“Oh,” Calen said, realization working its way across his face.
+
+Ali hadn’t even considered the situation at all – not even noticing the other patrons – and was astounded that Malika had figured it out in an instant. She shook her head slowly. It’s all just a cunning scheme, I would never have imagined.
+
+“Your mother said to tip well?” Malika asked.
+
+“Yes, how much do you think I should leave?” Calen asked.
+
+“We should leave before he brings the bill. Just casually drop the gold in the center of the table and we’ll walk out.”
+
+“Before – really?”
+
+“Yes. It will be memorable, trust me. All the people watching will see the gold and the stories will spread like wildfire. Your mom’s going to be a busy lady, Calen.”
+
+“A whole gold?” he wheezed, looking as if the coin had just stuck in his throat.
+
+Malika inclined her head. “Trust me, and put that nose high in the air, my friend, as you loudly compliment the fare on our way out.”
+
+Leaving Laurel’s Café was almost more exciting – in a clandestine way – than the experience of eating at the best place in town.

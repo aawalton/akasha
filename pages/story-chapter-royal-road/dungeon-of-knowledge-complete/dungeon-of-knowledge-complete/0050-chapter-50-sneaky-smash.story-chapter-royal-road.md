@@ -1,0 +1,265 @@
+---
+id: 273d552d-ce2a-5c34-b135-4deb6dc7b774
+page-type-slug: story-chapter-royal-road
+title: "Chapter 50: Sneaky Smash"
+slug: 0050-chapter-50-sneaky-smash
+partOf: dungeon-of-knowledge-complete
+position: 50
+ownLength: 4409
+unit: words
+ownProgress: 4409
+publishedAt: 2024-03-26
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1568913/chapter-50-sneaky-smash"
+royalRoadId: "1568913"
+markedReadAt: "2026-06-29T20:12:37.245Z"
+---
+
+Jax Hawkhurst: She fucking backstabbed me!Kieran Mori: Who?Jax Hawkhurst: Vivian Ross. All that bitch had to do was remain neutral during the Town Council vote, and the lion’s share of the Crown’s defense allocation would have fallen to us. Kieran Mori: I told you she would do that.Jax Hawkhurst: That Goblin horde was the opportunity of a lifetime, but no, she had to go and align herself with that stuffy, inflexible prick, Brand, and now all the money went to the garrison instead.Kieran Mori: Our protection revenues are up. People are afraid after the attack.Jax Hawkhurst: You don’t understand, Mori. She’s aiming to expand her influence over Myrin’s Keep, mark my words. I need you to take her out.Kieran Mori: Are you sure? She’s a platinum rank. Do you want to deal with the collateral damage of two second-tiers duking it out in the streets? I’m not sure the town will survive.Jax Hawkhurst: No. I have a far better idea. Didn’t you say you’re training a new assassin?Kieran Mori: I am. She shows a lot of potential. Why?Jax Hawkhurst: Have her cut her teeth on Vivian’s precious new guild. Kieran Mori: Aah, perfect. It will be my pleasure.- Conversation via Sending Panel between Jax Hawkhurst and Kieran Mori.
+
+“Ok, I’ll try making some Bugbears,” Ali said, wrinkling her nose in anticipation of the foul stench that would certainly ensue. Hopefully, they don’t wreck my appetite.
+
+They all sat around the warm, crackling campfire while Mato stirred something into the cookpot that was beginning to make her mouth water. She had been watching him dice carrots, onions, and potatoes – in short, nothing out of the ordinary – and yet, somehow, whatever he had in there smelled heavenly. He seemed to have an inexplicable knack for cooking, beyond even what Ali considered reasonable for his Cooking general skill. The big Beastkin hummed something tuneless under his breath as he worked, considerably less grumpy now that he was making dinner, but it was clear he wasn’t nearly as interested in the discussion as the others.
+
+Calen and Malika were certainly much more cautious than either herself or Mato. Mato, because he preferred action over planning, and her, because she didn’t know any better. It was clear from the conversation that Calen and Malika were considering a whole host of problems and issues that would never even have occurred to Ali, and she found herself taking a crash course in contingency planning. Everyone’s goal seemed to be the same – to return to the ruins below and clear out the Kobolds – but each person’s motivation and approach seemed radically different.
+
+She opened her Grimoire to the imprint for Goblinoids and began to channel her mana.
+
+Scavenger – Goblin – level 1
+
+Ali sighed. Of course, it’s going to be stubborn, she thought, wishing, yet again, for a simple way to choose which variant her Grimoire would make.
+
+Still, Ali was learning a lot just listening to the planning process – mostly about the subtleties of their personalities rather than the actual plans, though. Calen – when he was comfortable speaking up – was far more likely to come up with some crazy, creative solution, while Malika was more often the voice of reason, advocating for far stronger caution and safety first.
+
+It was Calen who had suggested Ali make Bugbears as ‘shock troops’ – a remarkably apt term for the brawny giant Goblinoid monsters and their heavy two-handed weapons. The only problem was that her Grimoire didn’t want to cooperate, giving her three low-level, green-skinned Goblins, not much taller than herself, before something massive manifested before her.
+
+Warrior – Bugbear – level 17
+
+Ali stared up at the two-and-a-half meters of scowling Bugbear, looking irritable and furious just by standing there. The heavy slabs of muscle, dirty orange skin, and dark brown fur looming over her kicked her heart into overdrive. If it had made any sudden moves, Ali was certain she would have screamed and fled. But it stood quietly, gazing at her before saying something guttural and harsh in the language of the Goblins. The other Goblins fell over themselves to cower or back away. Sage of Learning, of course, immediately took a bite out of her mana pool in response.
+
+I’m going to need to fix that, she thought. She definitely didn’t want a repeat of before, when her learning skill had consumed her precious mana during a hard fight.
+
+“Is it an axe or a mace Bugbear?” Calen asked. Then he frowned. “Or maybe it prefers a flail?”
+
+“I don’t know,” Ali answered, considering the issue. If she gave him the wrong weapon, then probably some of his skills wouldn’t work correctly. I could learn to speak Goblin, but that will take a while.
+
+She looked over at the pile of remaining weapons and gear that Malika had deemed too poor to try and sell, and an idea popped into her head.
+
+“Go pick a weapon,” she told the Bugbear, infusing her words with the mental intent of choosing, and guiding that toward the giant via her skill connection. It had worked for spiders, rats, and the ridiculously stupid toxic slimes, so it should work for the vastly more intelligent Goblinoid.
+
+With a feral grin, the Bugbear turned to the weapons and selected an enormous two-handed axe.
+
+Well, that was easier than I thought. “I guess he’s the axe kind,” she noted.
+
+“Very sharp,” Mato gurgled at his own joke.
+
+Calen nodded calmly, but she noticed that he had taken a step back from the brute. “Don’t forget the armor.”
+
+“Take some armor, too,” Ali commanded, spying some of the shiny steel spiked pauldrons that the Bugbears seemed to prefer. As it strapped the armor on, Ali curiously observed the dense core of gold-and-green mana buried deep within the creature’s chest, seeming to pulse gently whenever she gave it instructions. Again, she wondered how the magic worked, as her initial fear of the massive monster began to fade.
+
+Happy with her newest fighter, Ali returned to her Grimoire and began summoning more Goblins. When she was finally done, she had ten of the lowest-level Goblins – mostly Scavengers, and one or two Skirmishers – but her Grimoire had seen fit to grace her with two more of the monstrous Bugbears.
+
+She sniffed, tentatively. “At least they don’t smell quite so bad.”
+
+“You could just order them to bathe,” Mato said.
+
+“They’d probably melt, or drown,” Malika snickered.
+
+“Don’t let them bathe in that water,” Calen said, nodding toward Ali’s accidental lake. “It’s foul.”
+
+Your reserved mana has increased by +394.Grimoire of Summoning has reached level 14.
+
+Oh, nice, a new chapter!
+
+“What do I do with these guys?” Ali asked, dubiously eyeing the low-level mob of Goblins she had just made, more venting her frustration over the randomness of her Grimoire than a real desire for an answer.
+
+“I overheard that newbie group talking about going down into the sewers again,” Malika said.
+
+“Why would they do that?” Ali asked. She had checked, and the herbalists had removed their request for mushrooms already. Presumably, now that the siege was over, they had a surplus.
+
+“They thought your slimes were a good way to earn a few levels relatively quickly. Why not equip those Goblins with some of this junk and send them up into the sewer to replace the slimes? It might give those newbies a better challenge and they can even collect gear to sell to that Weldin guy. That brown-haired warrior, Braden, seemed to be very interested in loot.”
+
+“What if my minions kill them?” While she didn’t know them all that well, the new adventurers seemed nice enough. Ali was horrified at the idea of putting anyone at risk on purpose.
+
+“They’re level five now,” Malika replied. “And they have a decent healer. If they follow the Guildmaster’s training, they should be relatively safe. Your Goblins are all level three and below. They’re fodder.”
+
+“Hmm, ok,” Ali answered dubiously, but she still directed her extra Goblins to select some gear from the castoff pile and sent all but one of them scrambling up into the sewers. If she ignored her reticence, it was a surprisingly efficient idea. She would replace her sentinels in the sewers with minions she didn’t care much about keeping. The novices would presumably kill some of them and grow stronger while also carrying the waste gear to the guild merchant, saving Ali and her friends the trip.
+
+Of course, as usual, I won’t get paid for that stuff. Typical.
+
+“You,” she pointed at the Skirmisher she had singled out from the group. “Teach me to speak Goblin.” The Goblin immediately obliged by beginning to point at various things while babbling and answering the harsh barks and grunts from the much larger Bugbears as it set to the task Ali had assigned it with enthusiastic energy.
+
+“Mato,” Ali asked. “After dinner, will you teach me to hit stuff? Really hard?”
+
+Mato glanced up from his cooking and grinned widely at her. “I thought you’d never ask! Zzzz … mosquito!”
+
+“Mato!” everyone groaned.
+
+Ali was determined to take her combat training seriously, and she would need to know what her Bugbears were capable of – hopefully, this time, before she found herself thrust into another life-or-death situation.
+
+Once her tummy was warm and full, she directed her Bugbears through the drills Malika had taught her. Instantly, she was confronted with several rather frustrating problems. Firstly, the Bugbears were a lot heavier and bigger than her Kobolds, which restricted their agility somewhat, and secondly, every time she tried to apply her new knowledge, they fell over.
+
+She frowned in frustration.
+
+“Ali, you keep making them tip over forward,” Malika pointed out. “You want to keep them on the balls of their feet, but not too far forward – the Kobolds have the extra weight in their tails pulling them backward. You need to compensate for that.”
+
+Hmm… Now that Malika had pointed it out, it was comically obvious to her. In the effort to follow her instructions exactly, her Bugbears were tripping forward, almost as if she had an invisible hand to push them over. A good thing they haven’t become angry at face-planting yet.
+
+Ali had no idea that having a tail would affect physical movement so much, but apparently, she had learned all the moves, unconsciously taking into account the Kobolds’ ability to balance and counterbalance their weight by using their tails.
+
+“Try it without their weapons first,” Malika suggested. “They’re really heavy, too.”
+
+With Malika as her instructor, the Bugbears’ form immediately began improving, and in a few minutes, she had all three of them completing the drills with a – to her thinking – reasonable level of competence. It seemed quick, but really the skill was identical to what she had done with the Kobolds, with just a few adjustments for weight and balance.
+
+“Not bad,” Malika approved. “Keep practicing that with them, but for now, you should probably move on to weapons practice. Mato should be able to help you with the brute force angle – he’s a strength class just like the Bugbears.”
+
+Mato dragged an enormous dead trunk nearer to their camp, grabbed a two-handed mace and swung it a few times at his improvised target, seeming to be getting used to the weight of the thing. It looked comically big on him, but it seemed that his raw strength overcame that limitation.
+
+“Ok, copy this,” he instructed, taking a step backward and readying the mace. “Rar!” he shouted, making a powerful overhead strike at the tree, sending splinters flying.
+
+“Should I shout like that too?” Ali asked, eyebrow raised.
+
+“How else are you going to sound so cool?” Mato deadpanned.
+
+Ali snorted as Calen and Malika cracked up behind her. She’d leave the shouting to the Bugbears, thank you very much. She guided her mace-wielding Bugbear forward and emulated what she had seen, but the enormous weight of the massive weapon pulled it off center and it stumbled. If she just let it hit the tree on its own, it did an adequate job – at least according to Malika who was still watching. But when she tried to improve the form, to copy Mato, everything went haywire.
+
+“You’re not really looking,” Mato pointed out. “Like this.” He swung again. This continued for several minutes without noticeable improvement, much to Ali’s frustration.
+
+Malika always had clear explanations for her and rational technique adjustments, but Mato seemed to be much more intuitive with his approach, and she simply couldn’t see what was wrong.
+
+Just as she was about to complain, Malika offered an opinion. “Ali, you’re not accounting for the momentum of the swing. That mace is heavy on the end, and it moves really fast. You can’t just take the weight into account. Try the footwork from the third drill I showed you. See how it’s quite similar to Mato’s feet, keep your knees bent and lean into it, and then time it a little better. Err, your Bugbear’s knees… you know what I mean.”
+
+Ali studied Mato’s technique one more time, deciding that she could sort of see what Malika was trying to explain. The Bugbear swung its mace and it whacked heavily into the trunk without throwing it off balance. Suddenly, it became clearer to her.
+
+“Mato, can we swing at the same time?”
+
+“Sure. On three? One… two… three…” he counted and swung his mace allowing her to match him.
+
+Instantly, she saw what was different – by observing the trajectories simultaneously, she could tell the Bugbear’s hand grip was switching late, and his feet were getting into position early. She made an adjustment, and the next mace strike hit with a loud crack. The creature pulled back with a satisfied grunt and said a few things in Goblin that sounded, well, smug. Somebody had an opinion of his muscles.
+
+“That’s much better!” Mato exclaimed excitedly.
+
+It took Ali almost half an hour before her strike was deemed satisfactory, and even though she was simply sitting there while the Bugbear did all the work, she was covered in sweat from pure concentration. Who knew that a muscle-bound warrior smashing a tree, with what was honestly, a cumbersome metal stick, would demand so much finesse and understanding?
+
+“Ok, now have them fight me,” Mato told her.
+
+“Are you sure?” Ali asked, worry creeping into her voice. They had struggled against these Bugbears in the forest, and they were really huge and powerful.
+
+“I have armor and I’m not afraid,” Mato answered with a teasing grin, before shifting to his Bear Form.
+
+“I’ll heal,” Malika added.
+
+“Ok,” Ali said, still concerned. As soon as she confirmed Mato was ready, her Bugbear took a flying leap into the air, smashing down with a ground-shaking mace strike that briefly stunned Mato.
+
+Ali squeaked. It was honestly embarrassing, but Mato seemed fine after just a simple touch from Malika’s magic.
+
+“That must be its movement skill,” Calen said from his seat on the moss nearby. He had his notebook out, eyes focused intently on the fight.
+
+“Keep going,” Malika told her, speaking for the Bear. “Try to use what you learned.”
+
+Both of her friends seemed entirely unperturbed by the enormous leap attack she had just executed on Mato, so she gathered her focus and began to incorporate her new understanding of attacking with power.
+
+After about half an hour of practice, Calen stopped her. “I remember these guys having a stealth skill. Perhaps you can try to find it?”
+
+“Stealth? But it’s so huge!”
+
+“Yup, it’s pretty terrifying,” Malika agreed.
+
+Ali turned her attention to the mace-wielding monster standing by and tried to impress upon it the idea of hiding and attacking simultaneously. A few moments of confusion flickered across its brutish face before it suddenly shimmered in the darkness and all but vanished – leaving just a shadow in its wake, then nothing at all. Or…
+
+Her eyes leaped about before Ali remembered her magic. She had a rough idea of where it was via her connection, but, even though it was not as total as her Kobold rogues, the monster was still almost impossible to see in the dim light of the cavern. How can something so big be so hard to see? As if it wasn’t scary before…
+
+The beast leapt into the air and smashed down with its mace, slamming Mato into the ground and leaving a bear-sized imprint in the moss. This time, Mato actually bounced. Ali winced, quite sure she would have been pulped by that strike.
+
+“He’s ok,” Malika reassured her quickly. “It hit much harder, but he has a lot of armor and health.”
+
+“So, they do have Ambush, then?” Calen inquired.
+
+“Seems like it,” Malika answered.
+
+That really is terrifying! Even though Malika assured her that Mato was fine, the power of the strike from above, combining the Leap and the Ambush skills, shocked Ali to the core. The Bugbear, with all its steel armor, bulk, and heavy weapon, probably weighed close to a ton. Maybe even more. A ton of fury that you couldn’t see until it smacked you between the eyes. I wouldn’t even be much of a stain if that hit me. She kept glancing back at the bear-shaped imprint in her moss, but Mato was returning her Bugbear’s attacks, so she marshaled her concentration and focus and applied herself to learning as much as she could, so that she wouldn’t have to put Mato through this any longer than necessary.
+
+“Isn’t Ambush a bit unfair for something like a Bugbear?” Ali asked.
+
+“Well, it’s very strong at the start of combat,” Calen said. “But – just like your rogues – regaining stealth during open combat is very tricky to pull off, so it’s usually a one-time thing each fight.”
+
+“Makes sense,” Ali said. Still, they’re so huge! She shuddered at the implications, but then a thought occurred to her. Should I be thinking of them more like my rogues? They had both the Stealth and Ambush skills. Giant muscly rogues with very blunt heavy daggers…
+
+“Switch to the axe guy… err, girl?” Malika suggested after Ali felt she had made some substantial progress.
+
+“What do they do?” Calen asked.
+
+“The axe-wielders had some kind of whirling movement attack,” Malika said.
+
+Ali took a breath and switched her minions. Immediately, the new Bugbear charged Mato in a high-speed whirling rush that turned her into a dizzying blender of steel and muscle. Mato roared and counterattacked, stopping the rush before it did too much damage, and Malika nimbly danced in behind him to heal. Ali simply continued the fight, becoming rather numb to the sheer physical forces in play.
+
+Eventually, Ali called a halt to the exercises, feeling entirely drained and even a little dizzy. Mato transformed back and walked over to the cookfire, ladling a large second helping of dinner into a fresh bowl.
+
+“Here, you worked hard,” he said with a beaming grin, “this should help.” He handed Ali the bowl, and the aroma of the food triggered a ravenous hunger.
+
+Ali paused about halfway through wolfing down second-dinner when she realized that Mato’s grumpiness had entirely vanished and that he was now happily chatting away with Malika and Calen about the training exercises and how to improve their little group.
+
+So, Ali mused, it isn’t that he doesn’t like training and preparation. She considered her huge friend as she resumed eating, watching how he listened to Calen’s ideas with focus and intent. Does he just want to feel useful? Ali wasn’t certain, but it seemed about right. While she couldn’t read the expressions while he was in Bear Form, Mato had never once slowed down their training exercises or called for a break.
+
+She smiled at the new insight, and returned her bowl, getting a little more food, before she began to practice with her new Study Trance advancement for Sage of Learning, splitting her time roughly evenly between having the Goblins talk among one another and reading the imprints within her Grimoire.
+
+Martial Insight has reached level 9.You have learned the Goblin language.Your proficiency with the Goblin language has improved.
+
+As she finally settled into her tent and the soft warmth of her sleeping bag, she reflected on her day of training. She had learned an enormous amount about swinging heavy things around for maximum damage. And while her progress had been phenomenal using her potent Martial Insight skill, she understood she was still a beginner in proficiency.
+
+On the other hand, the Goblin language was rather surprising. It had a wealth of words and adjectives describing weapons, battle, armor, and food, but on other subjects, it was as rudimentary as ‘rock,’ ‘bigger rock,’ and ‘tree’.
+
+Calen sprinted across the mossy ground, his feet making no noise as he darted between the trees. Ali had really pushed her plants far into the area formerly claimed by the dungeon.
+
+She’s almost made it to the cave with the ventilation shaft.
+
+He glanced back, seeing the others slowly making their way through Ali’s trees before he turned again and stepped across the threshold where the moss ended. As he crossed the gap, stepping between the large piles of bone and pitch-black mushrooms, his chime sounded.
+
+[Explorer] You have entered a dungeon.
+
+He still hadn’t quite figured out the quirks in this skill, but he put it out of his mind for now, intent on his target. He didn’t much care if the dungeon had respawned the wolves, but he was worried about that giant, four-armed skeleton they had tangled with before he and Malika had been kidnapped.
+
+He hopped around a pile of bones stacked higher than his head, carefully avoiding the pack of wolves that ranged in the distance. His stealth would prevent them from seeing him, but as always, vision wasn’t their only perception skill. If they caught his scent, he would have to kill them. He waited in the shadows and presently, they moved on, all of them following the Alpha as it led them deeper into the cavern.
+
+Calen ignored them and approached the hole in the wall of the massive cavern – the hole which he knew led to the small cave and the shaft that Ali and Mato had fallen into. Stepping quietly through the gap, his eyes quickly adjusted to the darkness, Eyes of the Archon picking out all the details as if it was a night-time scene lit by a bright, full moon, instead of pitch dark.
+
+There it is. Much to his dismay, the dungeon had indeed respawned the monstrous skeletal Naga, coiled motionless in the darkness with all four arms holding swords, and tiny pinpricks of red glowing from its empty eye sockets. It towered far taller than Calen, but it hadn’t seen him yet.
+
+Warrior – Undead Skeleton – level 9[Explorer]An undead skeletal Desert Naga.Category: Dungeon BossThreat Level: GroupMonster Type: UndeadDamage: Physical
+
+Oh, it’s only level nine.
+
+He wanted to face-palm himself, hard, but decided that might just alert the monster to his presence. While Calen had been dreading this boss encounter, based on how terrified he had felt the first time, it had entirely slipped his mind that it was only a level nine monster. Given their current levels, it shouldn’t provide a substantial challenge.
+
+The description is new. Calen studied the assessment from his Explorer skill curiously. As his skill leveled, it seemed to occasionally increase the amount and quality of information it provided. As a skill with both perception and knowledge traits, it behaved a lot like a categorization tool – augmenting his understanding of what he was seeing, based on anything he could perceive. The higher his perception and skill, the more information it should be able to divine. Did it add the description because Ali told me her friend had been a Desert Naga?
+
+Being categorized as a Dungeon Boss, this was probably one of the most dangerous monsters they could possibly face – provided of course it was a challenging level. The Threat Level assessed it as difficult enough to require a typical group of five adventurers to defeat.
+
+“It did respawn,” Mato whispered as he and the others arrived at the entrance.
+
+“Yes, but it’s only level nine,” Calen pointed out, dropping his Eclipse so the others could see him.
+
+Ali entered last, flanked by her three gigantic Bugbears and a couple of Kobolds, staring sadly at the skeletal monster, but she didn’t say anything.
+
+“Is everyone ready?” Malika asked.
+
+“Don’t fall into the hole,” Mato said with a grin, and shifted to his Bear Form.
+
+Ali’s Bugbears shrouded themselves in shadows, to the point where he wouldn’t have been able to see them in the darkness without his potent vision skill. He followed suit, disappearing into the shadows, meaning to practice his stealth shots in the hope of eventually gaining his Ambush skill.
+
+With a roar, Mato charged the skeleton, Malika following close behind. The skeleton’s head snapped around; a baleful, red-eyed glare focused on the incoming bear. All four rusted swords began to emit the ruddy glow of a martial skill activation. With a blur, the swords sliced down as Mato’s great paw slammed into the ten-foot-tall undead monster.
+
+Calen waited patiently, bow drawn, arrow nocked, for the perfect moment.
+
+There!
+
+He held his magic firmly in his mind and released his arrow from the concealment of the shadows, watching it hurtle across the cave. Right before it buried itself in the skeleton’s left eye socket, he released his magic, causing the arrow to flare with a sudden brilliant incandescence right as it struck.
+
+In the next instant, chaos erupted. Three huge Bugbears appeared from the shadows, massive two-handed weapons striking with booming crashes and crunching bone. Several black-scaled Kobolds stepped beside them with gleaming daggers, and the crimson flicker of fire magic lit the cavern while Ali’s golden bolts flitted out to crash into the monster.
+
+Calen managed only three more shots before the skeleton collapsed in a heap of crushed bones.
+
+Your group has defeated Aberrant Skeletal Warrior – Undead Skeleton – level 9.
+
+He had expected the level nine monster to be easy, but the fight was over almost too quickly. Ali’s new Bugbears certainly were impressive in action.
+
+Malika rolled her shoulders. “Barely a warm-up. Who’s ready to jump?”

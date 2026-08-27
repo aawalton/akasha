@@ -1,0 +1,267 @@
+---
+id: 65314ce6-1417-51a3-8cb7-0b30e100833b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 165: Her First Shield"
+slug: 0168-chapter-165-her-first-shield
+partOf: dungeon-of-knowledge-complete
+position: 168
+ownLength: 4465
+unit: words
+ownProgress: 4465
+publishedAt: 2024-12-03
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1937597/chapter-165-her-first-shield"
+royalRoadId: "1937597"
+markedReadAt: "2026-06-29T20:16:42.859Z"
+---
+
+When two tons of fury in the form of a Bristletusk Boar is charging you down, you want to be wearing the finest in solid steel fashion. The heavier the better! None of this namby-pamby cloth or leather shit.- Baldin Steelshaper, Free advice offered to a novice adventurer browsing armor in his smithy.
+
+“What do you think? Will this work for your rogues?” Calen asked, hauling out several compact leather jackets with sturdy steel studs covering the shoulders and sides. They were heavy enough to thump as he laid them out on the table.
+
+Studded Jacket – level 20Evasion: 192Resistance: 42+20 VitalityRequirements: Dexterity 56, Intelligence 14Created by Madriendil Autumnbow.Body – Leather/Steel
+
+Ali reached out and ran her fingertips over the closest jacket, studying the threading and the texture of the studs carefully. It seemed well-made, at least by her decidedly non-professional assessment. She was no crafter, but these must be better than anything she had ever given her rogues. The base structure of the jacket had been fashioned from a very dark brown leather that she couldn’t immediately identify, but it seemed to be fairly pliable to her touch, and yet durable. The inside of the jacket had been fitted with cloth and padding to make it sit better on the body.
+
+“It has an unusual distribution of requirements and defenses.” The back had even been notched with a v-shaped cutout so it would sit well on a kobold without restricting the freedom of its tail.
+
+“That’s why it took so long,” Calen said. “I had to find a leatherworker capable of doing some non-standard customization. I had them reduce the intelligence requirement to what your rogues can wear, but that took the resistance down substantially. I just hope it’s enough for the mines.” Calen’s habit of noting every detail down in his book had come in handy yet again – the rogues that were high enough level to wear the armor, and had fifteen or sixteen intelligence, just barely made the requirement that had been custom crafted.
+
+“I think they’re fantastic,” Ali said, chuckling to herself at the memory of the first outfit he had asked his mother to make for her, and how badly he had messed up the measurements. He definitely learned that lesson. It didn’t take a Tailor to tell that these jackets would fit her kobolds perfectly. Pulsing her mana through her fingers, she deconstructed each one carefully. Ever since she had caused Lydia’s class to level up by learning one of her items, Ali had ceased to feel guilty about destroying a crafter’s signed work to commit it to her Grimoire.
+
+Variant: Studded Jacket added to Imprint: Armor.
+
+Thank you, Madriendil Autumnbow. Whoever the elven leatherworker was, she hoped the sudden influx of experience gained from her learning to make the Studded Jacket helped them grow.
+
+“Is yours the same?” Ali asked, noticing that Calen was wearing a new jacket of a very similar design.
+
+“Yup. I needed less customization to the resistance and evasion because I have high enough intelligence and dexterity to wear conventional hybrid gear. It results in a more efficient defensive stat spread. See for yourself,” he answered, showing her his jacket by striking a hilariously exaggerated pose.
+
+Studded Jacket – level 40Evasion: 336Resistance: 336+30 Vitality+24 StrengthRequirements: Dexterity 80, Intelligence 80.Created by Madriendil Autumnbow.Body – Leather/Steel
+
+“That’s decent! Did you keep this leatherworker’s details?” Ali asked, chuckling at his antics. “I might want this variant if I can find some higher-level rogues.”
+
+“Yes, she has a shop in the second tree, twelfth level in Ciradyl,” Calen offered, giving more detail than strictly necessary.
+
+“Sweet. Maybe when Mato comes back, we can go see if Thuli is done with his plate armor and then we can try fighting those Shards of Flame again?” It would be nice to finally push the Emberforge Mines domain back just a little so she could stop having to worry about dungeon-rage striking at random times. Ali couldn’t wait to see what effect some decent fire resistance gear had on their survivability in the scorching domain fighting against a fire elemental – it was proving to be a real chore to craft all the pieces.
+
+“That sounds good,” Malika called out from her cross-legged meditation pose in the middle of the poison cloud runic circle.
+
+“What is she doing?” Calen whispered.
+
+“Training,” Ali said, matching his conspiratorial tone. “I’m not sure if Rezan was messing with her or if it’s a real training technique, but she said she wanted to study magical damage.”
+
+“You know I can hear you guys whispering over there?” Malika said.
+
+“I don’t know what you’re talking about,” Calen said.
+
+Ali had been happy to help Malika learn to read the Nine Paths and to make the runic circle, but it had made her a little sad that all her friends had formal mentorship enchantments with very powerful and accomplished people, and she did not.
+
+Who would mentor a dungeon anyway?
+
+The fundamental magical enchantment for mentorship was based on the patron-tithe system, similar to mana signatures, which meant that both people were influenced by the relationship. Most people would probably be terrified about being contaminated with her mana and traits. Even the idea of finding a benevolent dungeon to mentor her was just plain crazy.
+
+I’ll just have to do it the hard way.
+
+***
+
+Ali sat with Malika on the couch in the guild hall, waiting for Calen to organize his class schedule with Mieriel when Mato and Basil returned. The guild hall was much quieter than she remembered, and Mato and Basil’s excited chatter caught the attention of almost everyone.
+
+“We found something cool!” Mato declared, coming up to join them on the couch.
+
+“More like the opposite of cool. Hot. Very hot! Here, take a look at this,” Basil said, excitedly producing a clump of bright red grass that was literally on fire. There was a sizzling sound and the sudden smell of burnt skin and he snatched his fingers away, dropping his prize.
+
+“Oi, we don’t need to burn the guild hall down! Take it into the workshop,” Mieriel yelled. “I had to clean zombie guts off the carpet once already this week. I don’t want to have to replace it because you burnt it.” Everyone froze at the outburst. With the usually calm Mieriel laying down the law, they all hopped up off the couches and fled to the workshop.
+
+As soon as they entered the stark, empty room, Basil and Mato proceeded to lay out their haul on the stone floor where nothing would be damaged.
+
+“What is that?” Ali stared at the strange pile of jumbled reddish-brown vines and broken petals, along with what looked like bloodstains and something that might even be thorns.
+
+Or teeth?
+
+“It very nearly ate Basil,” Mato chuckled, his jovial light tone clashing with the horrifying content of his statement.
+
+“Ate?” Ali was aghast. She hurriedly examined Basil, but all the usual parts seemed to still be attached.
+
+“Yup,” Basil confirmed, nodding his head vigorously. “It’s a carnivorous vine or creeper that tried to eat me! It managed to dunk me in the lava. How cool is that?”
+
+“Not cool,” Mato said. “Hot, remember.”
+
+“Mato! You were supposed to look after him!”
+
+“He’s alive, isn’t he?” Mato said, cocking an eyebrow at her. Both he and Basil burst into raucous hoots of laughter.
+
+“Boys,” Ali muttered, rolling her eyes and giving an exasperated sigh before turning to the mess lying on the floor. “Hmm. Let’s see what we have here.”
+
+Flame Lasher – Vine – level 32 (Fire)
+
+“It’s very rare. It grows gorgeous hand-sized flowers of the purest fire-affinity mana,” Basil explained, his tone turning more serious, but his eyes still sparkled with excitement. “They’re seriously beautiful, but we could only find these four. I really hope that you can grow them because we can make some amazing stuff with those flowers.”
+
+“I can’t promise anything, but I’ll try,” she said. Basil was certainly quite animated describing the vine that had almost eaten him, so she decided to forgive him for being a boy and deconstructed each of the vine plants. Her forgiveness wasn’t in any way influenced by his description of how pretty the flowers were. Not at all.
+
+When the third plant did not give any notification, she concluded that her Grimoire had, in its rather arbitrary categorization, decided to make them an entirely new chapter, but as soon as the fourth one dispersed to her magic, she felt the familiar pressure and the notification as her Grimoire began to inscribe the imprint.
+
+Variant: Flame Lasher added to Imprint: Creeper.
+
+“I got it!”
+
+“It probably needs to be planted near some fire mana,” Basil said. “They’re quite impossible to cultivate because they’re very sensitive to their environment.”
+
+“Also, they try to eat anyone who comes close,” Mato observed.
+
+Malika snickered, “Like you and anything that comes in a pot, right?”
+
+“I have my beautiful figure to preserve.”
+
+“You two bicker like an old married couple,” Calen observed slyly.
+
+“How about we plant these down in the mine, after we take over some of the space?” Ali asked, wondering how she might achieve the right growing conditions. “It will be hard for Basil to survive down there, though,” she mused, wondering how he had survived a lava bath before realizing that Mato must have saved him from being fried. “We would need to escort him past the jungle monsters, and I don’t know if he can survive that fire mana.”
+
+“Basil taught me the Herb Gathering general skill,” Mato said.
+
+“Oh, that’s handy,” Ali said. It certainly solved the problem for now – and perhaps Basil could take care of it after he leveled up a bit more.
+
+“You could also try growing a big patch of this Fire Grass and plant the vines beside it,” Basil suggested, pointing to the clumps of still-burning grass.
+
+“Huh, would that work?” Mato grunted.
+
+“That’s a good idea,” Ali said. Her domain plants emitted their mana affinity into the area around them, so she could – at least in theory – create a compact fire-affinity zone that might be ideal for these plants. She quickly deconstructed the grass clumps until she heard the notification and let Basil collect the rest to give to Eliyen.
+
+Variant: Fire Grass added to Imprint: Grass.
+
+“Let’s go see if Thuli is done and then go down and try the mines,” Ali said, even more excited to explore now that she had two new imprint variants and the new leather jackets Calen had commissioned for her rogues.
+
+“Oh, Aliandra,” Mieriel called out, catching her attention as they headed for the door. “If you’re off to the blacksmith, could you take Sabri and introduce her to Thuli? Vivian said she needs some equipment.”
+
+“Of course,” Ali said, beckoning for the shy Ahn Khen girl to join them. Sabri shot over as if she had been released from a catapult. Ali frowned. Did she need permission to join in? Was that cultural? She might have a word with Malika about that.
+
+Kavé stood quietly behind the counter, listening carefully as Thuli conducted business with Aliandra and her group. She counted them as some of her only friends in this town, but she wasn’t about to interrupt Thuli’s business. Besides, he had asked her to watch and learn, and so she did.
+
+“Who’s the new lass?” Thuli asked, pointing to the unfamiliar girl wholly absorbed with the wall display of her master’s finest shields. He refused to let her call him master, so she didn’t – out loud – but he was the master, and she was the apprentice, as was proper. She had been remarkably fortunate to have run into Ali and Thuli, without whom she would have likely been begging for scraps on the streets with an undeveloped class. Especially with how most humans viewed Dragonkin.
+
+“That’s Sabri. She’s a new member of the Adventurers Guild – uh, and of the Ahn Khen people like Malika. She got her class yesterday and needs some armor. She doesn’t have much money yet and she hates handouts. Is there anything you can do for her?” Aliandra said, coloring as she realized her prattling had revealed several truths Sabri might have preferred to keep private.
+
+Kavé’s ears perked up, curious to see how Thuli would choose to handle this situation, knowing he would ask her about it later. He always expected her to have an opinion.
+
+“Hmm, I admire that spirit,” he said, running his hand over his large beard as he did when he was thinking. She had no idea how he had never burned it off working the forge, but he was quite proud of it. “I have an idea.” And then to her surprise, he turned to her and said, “Kavé, yer first job. Go get her!”
+
+First job? What… Aah! Before her brain even caught up with her, she scrambled off to invite the novice, who was only a level three warrior, to join them.
+
+“Let me give you a few tips on reading customers,” Thuli said, when she returned with the girl in tow, addressing her as if the others weren’t listening in. “What do you think her role is in the adventurer team?”
+
+“This one hasn’t asked,” Kavé answered, not quite understanding what he was getting at.
+
+“What kind of class comes into the blacksmith shop and swoons over the big shields?” Thuli rumbled, a broad grin cracking his face at the blatant hint.
+
+“Oh. She is a tank?” Kavé glanced at the girl once again, taking in the leather armor with the perfectly concentric hole right through the center of her chest and a matching one out the back. She didn’t exactly look like a tank, but she had definitely been smitten by Thuli’s best shields.
+
+“As a blacksmith, yer bread and butter will be swords and daggers,” Thuli continued. “Everyone wants a sword or a dagger. Yer chores will be making arrows or chainmail because they’re a lot of work. But yer best work and materials should always be reserved for the tank.”
+
+“May this one know why?”
+
+“The tank gets hit a lot. It may be educational to watch a serious fight,” Thuli said. “Adventurer groups are organized around having all the monsters hit the tank and everyone else shoots or stabs the monsters. This means that the armor sets worn by any other class will only occasionally be needed ta keep them alive, usually when things are going poorly. Mostly they will care about the enchantments buffing their attributes. But the tank will try to take every hit, only surviving because of excellent equipment and the skills ta use it. The rest of the team relies on that ta survive. When ya make a good tank breastplate or shield, yer skills are not just protecting the tank – every member of the team is effectively hiding behind those pieces.”
+
+“Thank you for your wisdom. This one begins to understand,” Kavé answered. It made a lot of sense when he put it that way, just based on how much each piece was used, the tank would be routinely hit way more than any other member of the team.
+
+“If ya wish to grow and gain experience, form a relationship with a good tank, and make them the best shield ya can forge. The shield is where most of the blacksmith’s experience comes from – remember, that shield is protecting the whole group. Sure, a rogue’s daggers see a lot of action and can be a good investment, but the tank will do more, and more often, with the shield. Yer second priority is the tank’s breastplate.”
+
+“Ok,” Kavé said, nodding excitedly. It was turning out to be a rather important lesson for her, important enough that she didn’t mind having to have it in front of everyone.
+
+But then he surprised her again.
+
+“Ok, measure young Sabri here. You will craft her first steel shield and breastplate. Keep it simple, match the lass’s level, and practice yer Fireforged Steel technique. Don’t forget what I said about the importance of the shield – she will be putting her life and the lives of her team in yer hands. Nothing but yer best work, hear me?”
+
+Kavé glanced down at her hands, turning them over once. “Yes, m– Thuli.”
+
+Thuli turned to Sabri and said, “I will inspect the pieces, but my apprentice is quite skilled, I’m sure you’re going to be very happy with her work.”
+
+“I… I can’t pay for something that good,” Sabri said, embarrassment leaking from her voice and even her posture.
+
+“Don’t worry, lassie. Yer Guildmaster and I have an arrangement. I give good discounts ta anyone that isn’t at least bronze rank in exchange for being the guild-recommended blacksmith. The guild will also pay me up front and let ya pay off the cost of the items when ya take quests later. It’s a pretty good deal if I say so myself. Yer Guildmaster is a sharp lass, prioritizing safety even for those who haven’t got enough levels to earn their keep yet.”
+
+Sabri bobbed her head. “I… see.”
+
+Thuli clapped the girl on the shoulder, his heavy hand making a surprisingly solid connection – and the girl barely flinched. Not unimpressive. “Besides, you’ll be back when you grow.”
+
+Heart racing, Kavé quickly measured Sabri and then fled to the forge to begin her work, leaving them to their discussions and business – which seemed to involve a great deal more Lesser Essences of Flame and the challenging shapeshifter piece Thuli had been sweating over for the last few days.
+
+She drew the steel into the forge with her magic, shaping and restructuring it while she added the appropriate quantities of each component, just as Thuli had taught her. Trace ingredients, ores, and reagents that must be blended at the perfect temperature and time to produce the strongest alloy. As she fell into the familiar zone of shaping the molten steel with her magic, skills, and hammer, her anxiety fell away, and she touched the pure joy of creating. She worked quickly, but every strike was practiced, every application of her skill purified the metal, shaped it to her will as the breastplate and shield slowly took form on her anvil.
+
+When she finally pulled them out of the quenching trough and polished them with a quick pulse of her steel magic her breath caught in her throat. She knew. She studied the gleaming pieces, but they were perfect – the best she had ever crafted. She glanced up, realizing that Sabri had found a perch nearby and had been watching her work the entire time. Gesturing for the girl to follow, she made her way to where Thuli was engrossed in a conversation with Aliandra and the others.
+
+“Master,” she said, placing her work on the table before him, forgetting in the moment that he had forbidden her from calling him that. She wiped the sweat off her brow, eagerly awaiting his reaction.
+
+He glanced at the pieces and then stared openly at her. “Kavé! Your first masterwork pieces, well done!” He slapped her heavily on the shoulder making her stumble, forgetting his true strength for a moment. “Och, sorry lass. Now watch carefully,” he said. Picking up a random dagger from a box, he channeled his mana into the piece, signing it. It was a process she could see simply by how it affected the metal itself, and she had watched him do it many times.
+
+“Now, you sign yer pieces,” Thuli said.
+
+“But this one is still an apprentice and only level seventeen?” Kavé exclaimed in surprise. Apprentices never got to sign their work. If it was good enough to sell, the master would always sign it. Only when she had graduated to at least journeyman rank would she be allowed to place her mana signature on her work. It was simply unheard of for a level seventeen blacksmith to be doing such a thing.
+
+“Poppycock. I don’t believe in that nonsense,” Thuli declared, gesticulating widely with a hand. “Ya made a masterwork piece. Two even. Ya deserve the experience earned by putting your signature on it. It would be wasted on me at that level. I would rather have ya level up faster so ya can learn how to make more advanced items. Those other blacksmiths are just slowing their apprentices down for their stupid pride.”
+
+“Yes, master,” she said, bowing low. She could scarcely believe her ears.
+
+“None o’ that master stuff,” he said gently. “Now give it a try.”
+
+With a trembling hand, she placed her mana into both the shield and the breastplate, signing them, the process itself proving to be simpler than she expected. Then, she helped Sabri into the breastplate and shield, finding that the girl’s unrestrained excitement was infectious. Before she knew it, she was grinning just as broadly.
+
+Steel Chestplate – level 3Armor: 43Requirements: Strength 11Quality: MasterworkCreated by Kavé Steelscale.Body – Fireforged SteelSteel Round Shield – level 3Armor: 21Block Chance: +15% (Blocked attacks cannot cause critical damage.)Requirements: Strength 11Quality: MasterworkCreated by Kavé Steelscale.Off Hand – Shield – Fireforged Steel
+
+Mato had enjoyed watching Thuli teaching his apprentice how to identify adventurers. His insight into the relative value of good equipment would stand Kavé in good stead as she advanced her blacksmithing skills. She would of course need a more nuanced approach as she grew so that she could recognize other styles of tanking, such as his own. He blocked with his shoulders, paws, and weight, using his superior strength to break the momentum of his attackers, and so he had never been interested in a shield. But he certainly empathized with Sabri’s wide-eyed wonder as she had studied the heavy, well-crafted gear on display. There was a sense of security that came from having the substantial weight of steel between your flesh and the claws of a monster. Sabri was just starting out and had a lot to learn, but she could hardly go wrong with someone as skilled as Thuli looking after her equipment.
+
+As soon as Kavé had rushed breathless and excited into the forge, Thuli turned and summoned a massive construction of articulated steel, dumping it on the table with a thud that shook the foundation of the smithy.
+
+Mato’s eyes widened as he took in the heavy plate bands burnished to a dark, gleaming reddish shine. “Is that…?”
+
+“Aye, laddie. Yer armor is ready!”
+
+“YES!!” he roared, identifying it at once.
+
+Banded Plate Armor of Fire Resistance – level 40Linked to your mana, this armor will shapeshift with your changing forms. Armor: 336Resistance: 336+31 Endurance+25% to resistance against Fire damageMana: ShapeshiftRequirements: Shapeshifter, Strength 80, Wisdom 80Created by Thuli.Body – Fireforged Steel
+
+“Wow…” He had been waiting for so long, and now it was done, which meant they could finally try a rematch with those Shards of Flame. “Looks… heavy,” he said, suddenly finding his tongue struggling to find words adequate to match the beauty of the armor set resting there.
+
+“But yer so strong,” Thuli growled, making it sound like ‘you’d better be.’
+
+Mato reached out to get a sense for the weight, solidity, and the perfect finish – and perhaps to reassure himself that it was real.
+
+“Impressive, isn’t it, lassie?” Thuli said. Mato glanced over to find Sabri staring, just as wide-eyed as he was. “Level up a little and I’ll make ya one of yer own.”
+
+Mato chuckled to himself; if she was this fascinated with heavy plate armor already, there was no doubt she had picked the right class.
+
+“Let me help ya try this on, lad,” Thuli said, lugging the giant armor over with one heavily muscled arm.
+
+It took a lot of hefting, shifting, tightening, and adjusting of straps. Thuli even tried to apply the universal lubrication of several choice dwarven swearwords before he stopped and frowned. “Ach, gonna take a little percussive persuasion,” he declared, producing an enormous steel hammer twice the size of Mato’s head.
+
+“Hey, what are…” Mato said, drawing back a little.
+
+“Hold still laddie, this shouldn’t hurt –” Thuli said, and before Mato could blink, he heard several loud clangs and the armor slipped firmly into place “– much.”
+
+“Oof,” Mato announced.
+
+Sabri had the cheek to be giggling behind her hand and bouncing on her toes. He wagged a finger in her direction. “Just you wait.”
+
+“I made the fastenings from Fire Drake leather, so it shouldn’t burn even if ya get dunked in lava,” Thuli chuckled meantime. “Go on and give ‘er a spin.”
+
+Mato shifted to his Bear Form, feeding the required mana into the armor, and it stretched, expanding with his growing chest, wrapping around the upper part of his shoulders and going all around to protect his ribs and belly. Oh wow! That’s… massive! He took a few paces, finding the smithy suddenly a lot smaller. He swung his paws a few times to get the feel of it without endangering the spectators. It was a fair bit heavier than his old armor, but on the other hand, he had quite a lot more strength now, and it felt quite easy to move around. Thuli’s articulated plate bands glided across each other, adjusting perfectly to every twitch of his muscles.
+
+“It’s perfect,” he said, shifting back to his normal form. “And the resistance is exactly what I need.”
+
+“Why would you want resistance instead of armor?”
+
+Mato glanced down at the intently curious Sabri. “The monsters down in the mines are fire elementals, and they do lots of fire damage. More fire than physical.”
+
+“You commissioned a custom armor made just for fighting fire elementals?” Sabri asked breathlessly, seeming rather more impressed than incredulous.
+
+“Yup, it’s totally worth it,” he answered, realizing now why Malika and the Guildmaster had both been excited for them to bring Sabri along for their armor fitting. Without realizing it, she was already absorbing the importance of proper gearing. “It’s also better overall than what I had before, so I’ll use it in other situations as well, unless I need something specific again. It really helps, if possible, to study and understand the monsters or foes you’ll be up against beforehand. Calen’s especially good at that, you should ask him for some tips.”
+
+“I will,” she said, all seriousness now.
+
+Then it was her turn, and Mato simply sat back enjoying how excited she was to receive her first level-three plate armor and shield. He glanced back at Thuli, about to make a joke, but he held his tongue at the sight of the gruff dwarf wiping something from his eye.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

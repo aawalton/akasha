@@ -1,0 +1,193 @@
+---
+id: db3db288-5363-5f7f-83b8-ddf7246ca25e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 20: Guilt"
+slug: 0020-chapter-20-guilt
+partOf: dungeon-of-knowledge-complete
+position: 20
+ownLength: 3025
+unit: words
+ownProgress: 3025
+publishedAt: 2024-02-16
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1520530/chapter-20-guilt"
+royalRoadId: "1520530"
+markedReadAt: "2026-06-29T20:11:39.760Z"
+---
+
+Kobolds are a reptilian humanoid monster-race distantly related to dragons. Typically standing a little taller than three feet, they are physically weak, making up for this deficiency with their numbers, cunning, and proficiency with traps. They walk upright on digitigrade taloned feet, using their tails to support their movement. While their hands are also taloned, and they possess typically reptilian fanged jaws, they tend to prefer weapons such as swords, daggers, or even rocks for fighting.
+
+Their bodies are scaly, much like their larger cousins, and they often have small horns. They have an aptitude for magic similar to humans, and a variety of affinities that match their draconic ancestors. They reproduce by laying eggs. Typically, clutches of three to five at a time are laid in crudely constructed nests of sticks, hatching in just a couple of weeks.
+
+Generally, they tend to infest dungeons, but where they are found in the wild, they are considered vermin, preying on farms and smaller towns for food. They reproduce fast and usually provoke a swift response from the local chapter of the Adventurers Guild before their numbers can grow out of hand.
+
+Surprisingly, Kobolds are intelligent enough to speak draconic and will worship any dragon they find.
+
+- Excerpt from The Monster Compendium, Ziba Malek, Elorthian Empire Royal Scholar, Translated.
+
+Malika groaned as her awareness slowly trickled back into her body amid crashing waves of pain and nausea. She rolled over, but something was wrong with her hands, and she landed on her face, almost blacking out from the agonizing jolt that stabbed through her head. Her mind felt sluggish and foggy, and her body wasn’t responding as she expected.
+
+She simply lay for a while, trying to endure as it washed over her. She had the distinct impression she was forgetting something, but it eluded her.
+
+Where am I?
+
+She opened her eyes to a sudden dagger-like stabbing pain that lit up the right side of her field of vision like a lightning strike.
+
+What happened?
+
+Something was wrong with her head. Wherever she was, it was only barely lit, but she could see nothing in the entire right side of her vision, just a shimmering gray fog that flickered and pulsed with the throbbing in her head.
+
+I… suddenly she remembered she had healing magic. Healing… Mantra, that’s what it was. She reached out and channeled her powerful skill, but nothing happened. Confusion filled her addled mind as she struggled to decide what it meant.
+
+Did I dream that I could heal? Do I even have a class?
+
+She felt a sudden onset of panic when she realized she didn’t remember, couldn’t remember. After a few minutes of struggling with her mind, she finally remembered she could just look. Pulling up her status, she saw that she indeed did have a class – but her status wasn’t much use to her, half of it missing in the noise of her damaged vision.
+
+Her eyes flickered across it, registering strange details. Healing Man.., Soul Monk. My mana is zero. The details crept sluggishly through her mind before she realized she couldn’t cast anything without mana.
+
+No, that’s not quite right.
+
+She was… something. What was it? Rele… It escaped her for a while before it drifted back into her mind.
+
+I can use stamina.
+
+She tried her Healing Mantra again, this time using stamina to power the skill, and suddenly a surge of burning power thrummed through her, tearing at her bruised body and sluggish mind, rearranging, repairing.
+
+She let out a gasp of relief as the pain vanished, her vision cleared, and her mind snapped back to normal.
+
+I’m Malika. I have a class.
+
+And I was captured by Kieran Mori and his thugs.
+
+She grimaced at the now clear memory – and with it came a crippling surge of guilt. She had been happy for a few days, exploring her class and making friends, foolishly giving in to her hopes and dreams. And all she had done was bring the wrath of the Town Watch down on herself and her new companions.
+
+That’s why you can’t have friends.
+
+She was in some small dark room. Her hands were bound behind her back and her face was pressed into a threadbare rug that stank of mold and dust, and a stale, musty odor that made her think of old warehouses that had been shuttered for too long. It sounded like there might be a wooden floor beneath, but she could tell little else from where she lay.
+
+She recognized Calen from the pointy ear and silvery hair that stuck out of the dark crumpled heap in the corner – which meant he was likely alive. But she could clearly remember herself pouring her healing magic into Mato to save his life and then watching Edrik knock him and Ali down the hole into the darkness.
+
+Ali? Are… they dead?
+
+She had no idea, but there was one thing she was certain of. It’s all my fault. If it were not for her being in their group, they would not have been dragged into this. Ali was the first person she had connected with since the disaster, and now she was gone. Against all odds, the little Fae had earned her trust, shared her vulnerability, and become her friend.
+
+Her thoughts drifted for a bit.
+
+Mato. You idiot.
+
+Malika hated Mato. No, that’s not right. I hate what he is. He seemed to have no care in the world, oblivious to the risks, simply diving in to fight whenever he felt like it. Whenever he saw someone in need. Malika had seen it a few times and almost every time it had put them in unnecessary danger.
+
+And yet, he had done it for her. When she was facing Edrik – he could have just let it go and he would probably have walked out alive, but no, he had to charge in and try and save her. And now he was dead along with Ali down a hole.
+
+She choked back a sob. Why was there nobody to save me back then?
+
+Her mind played back the brutal years trying to survive in the slums of Myrin’s Keep, the endless shakedowns, the beatings, and her shattered dreams. It was worse that she had gotten a few days of hope, only to have them dashed to pieces once again. Brutal. Life was short and unfair.
+
+She closed her heart as she had always done. It was her only defense. He’s an idiot with a Berserker class. It was just the rage. But somehow, all she could see was the bleeding bear charging in for no other reason than to help her.
+
+I’m not worth helping! What were you thinking, Mato?
+
+She finally slammed the doors of her heart shut and struggled to sit up, earning a fresh bruise when she forgot her hands were bound. Twisting around, she found that her wrists had been fastened with a pair of black steel restraints. She used Appraise out of the corner of her eye.
+
+Cuffs of Suppression – level 8Sturdy steel handcuffs, designed to restrain people with classes by sapping mana and stamina. Requirements: None. -8 to level requirement.-103% to Mana and Stamina regeneration.Locked.Quality: Magic.Value: 1 gold, 17 silver.Created by Indacus Argyle.Hands – Handcuffs
+
+Well, now I know why I have no mana. Charming. She struggled briefly against the bindings but to no avail. They were quite well-crafted and sturdy. Giving up for the moment, she opened her status and queried the details of her regeneration.
+
+Health RegenerationPercentage of maximum health regenerated per hour.Total: 0%Stamina RegenerationPercentage of maximum stamina regenerated per hour.+100% Racial (Human).+100% Relentless Aptitude.-103% Cuffs of Suppression.Total: +97%Mana RegenerationPercentage of maximum mana regenerated per hour.+100% Racial (Human).-103% Cuffs of Suppression.Total: -3%
+
+She had stamina only because of her Relentless Aptitude. Her mana, on the other hand, was draining at a rate of three percent per hour.
+
+Without warning, a door slammed open, and the shadowy outline of Edrik appeared. He shot across the room and, before she could even react, he had her pinned up against the wall by a hand around her throat. It was a position she was quite familiar with. So familiar, in fact, that it was almost laughable. He was so predictable. Idiot.
+
+“Adrik! Bring the other cuffs. The strong ones – the little rat is awake!”
+
+“You’ll kill her with that and then Mori will flay us.”
+
+“She has a fucking regeneration skill you idiot, bring it!”
+
+Adrik appeared holding another set of restraints which he quickly fastened around her wrists, removing the old one. Immediately Malika felt dizzy, and her stamina began draining away, too.
+
+Fuck. It was her last thought before Edrik’s fist slammed into the side of her head and the lights went out.
+
+Mato groaned as awareness clawed its way back into his body, like an Umbral Panther dragging a fully-grown Bristletusk Boar up a tree. His mouth was drier than the endless sands of Brast at high-noon, and his body ached like the aftermath of being hit by a large rock while falling down some stairs. A lot of stairs. He rolled over onto his back and slowly opened his eyes, wincing at the lance of pain that stabbed through his left eye and into the back of his skull.
+
+What… happened? How am I alive?
+
+He stared uncomprehendingly at the smooth expanse of crafted slate-gray stone overhead, illuminated by a softly shimmering green glow, and the wide-open shaft that extended up through the roof, but he found no clues in that infinite well of darkness. The metallic scent of blood mingled with the lingering acrid stench of sulfur and burnt flesh. His stomach clenched in a sudden spasm of queasiness as his nose identified it as the unmistakable aroma of charred person. Is that me? Slowly, he sat up, wiping his hands on his tattered pants, grimacing at the stickiness of the drying blood. As he turned to look around, he froze, catching sight of a small, curled-up bundle.
+
+By his side, Aliandra lay sleeping peacefully, the soft, gentle sigh of her breath accompanying the slow rise and fall of her chest. But her body was covered in dark, congealed blood and soot, and her brand-new clothing was torn and burnt in more places than Mato could count. Damn, she only got a few hours’ use out of those.
+
+But his eyes were drawn to the pulsing green glow that surrounded them both, encircled by an exquisitely intricate circle of magical runes. The magic, whatever it was, made him think of his mother.
+
+He put aside the unbelievably complex magic construct for the moment and leaned over to check on his companion, but he was instantly brought up short by the sharp clatter of claws on stone. He whipped his head around to find three rats rushing toward him, baring their yellowed teeth and hissing aggressively.
+
+Sewer Rat – level 2 x3 (Guarding)
+
+He glanced back down at Aliandra and then backed away from her, and the rats immediately stood down, although they remained alert with their dark eyes trained on him.
+
+She must have forgotten to tell them I’m her friend, he thought. Clearly, the rats were some of Ali’s summoned monsters and it seemed she had assigned them guard duty while she slept.
+
+Something violent must have happened, judging from the enormous pool of blood, and the sorry state of Aliandra’s clothing. He studied her carefully from the opposite side of the magical ring, searching for any injuries. She seems okay, though.
+
+Mato turned his attention to the otherwise quiet room, trying to solve the riddle of his blank memories. The stone walls and floor of this chamber had been scorched in several places, but there were no other clues to help him out.
+
+My notifications, he thought finally, hoping that anything that might have happened would be shown there.
+
+Your group has defeated Fire Mage – Kobold – level 9.Your group has defeated Dagger Rogue – Kobold – level 8.Your group has defeated Warrior – Kobold – level 8.
+
+Kobolds. I was right. There had been a fight. But against such a high-level group, it was more of a wonder that he had awoken at all.
+
+Suddenly, he was falling forever through a dark stone shaft amid exploding cascades of golden light, desperately trying to catch Aliandra.
+
+Huh? He blinked as his mind snapped back to the stone room, his heart throbbing wildly from the intensity of the memory. He looked up again at the stone shaft and the darkness, shocked at how long he had been struggling and falling.
+
+A second vivid image exploded in bright flame and concussive detonation within his mind, and his hatred erupted at the first glimpse of a red-scaled reptilian monster at the center of the inferno. You… burned me…
+
+His mind lurched yet again as the flash of memory abruptly vanished, leaving him panting in a cold sweat back in the runic circle. His hands grabbed for his side where he had felt the searing flame of the fireball, but his clothing was perfectly fine, protected by his shapeshift. But more importantly, his body seemed healthy – disgustingly and completely healthy – with not a single perceptible injury. That was impossible, surely? The fall alone should have killed them both.
+
+Mato examined the circle of green runes more closely, even suspiciously, realizing that the magic was like his Brutal Restoration, only it felt… gentler? How did she make this? It seemed safe to conclude that the magic circle was somehow Aliandra’s doing. He didn’t know how, but it had a little of her scent to it. Only then, his eyes fell upon his book, open still to a chapter on Druidic healing magic. He leaned over to scan the page briefly.
+
+Did she copy this? Mato shook his head in bewilderment. Three-foot nothing with the insight of the Ancient Sages. The text was a dense wall of incomprehensible runes and undoubtedly technical jargon. Aliandra sure had an unusual class. Most of her magic was slow and unsuited for direct combat but, if the amount of blood on the floor was anything to go by, he owed his life to her ingenuity and resourcefulness.
+
+So, that’s what happened, he thought. We fell straight into the Kobolds’ den – jumped out of the frying pan to sizzle on the coals. He looked around the room again, seeing the giant slabs of stone blocking the doorway and his still-sleeping companion guarded by her rats. Smart, he thought. Somehow, he and Aliandra had won against the dangerous group of much higher-level Kobolds, and then she had set up defenses and healed both of them.
+
+Druidic Shapeshifter has reached level 6 (+3)+30 attribute points.Arboreal Sanctuary has reached level 5.Brutal Restoration has reached level 6 (+3).Bear Form has reached level 4 (+2).Primal Rage has reached level 6 (+3).
+
+Wow!
+
+He stared at the notifications for a while, stunned.
+
+Three levels from a single fight… It was a huge leap, but their foes had been strong. His eyes lingered on his powerful Primal Rage skill, excited by how much it had grown from the fight.
+
+Malika hates it, he thought. Even Calen had argued against it. But they don’t understand. It was his defining skill, like that of his father, and he felt it characterized the essence of his fighting style. The more powerful he was, the faster he could end the fights.
+
+Besides, it’s more enjoyable that way.
+
+His big hands knotted into fists as he realized he still had no clear recollection of what must have been an epic fight.
+
+It’ll come back, he told himself. Later. Without thinking any further, he put all of his new attribute points into vitality and endurance. Whatever happened, we must have been pretty beat up, he thought, glancing at Aliandra. I hope she’s ok.
+
+He reached toward her arm to check on her, but the sudden hisses reminded him the rats were still being overprotective.
+
+In that instant, the peaceful image of his tiny friend sleeping in a circle of restoration magic was overlaid with her scrambling backward in abject terror, silently screaming while the matted paws of a great beast beat on a blood-and-froth-covered magical barrier until it exploded into shards. The rage and hate surged through him with such a shocking power that he reeled backward from the image, falling heavily onto his side.
+
+What… was that?
+
+He cautiously sat up once again, swallowing uncomfortably at the sudden dryness in his mouth. His body seemed to be trembling from shock. But Aliandra still slept peacefully beside him.
+
+Just an image? Hallucination?
+
+Just as he began to trust his relief that the scene was gone, the image returned, rage surging through his body and mind. He saw himself gripping Aliandra’s leg in his jaws, thrashing her tiny body back and forth on the stone like a cat killing its prey, while she screamed for him to stop.
+
+As the image mercifully faded, he found himself retching in a cold sweat.
+
+That can’t be real… can it? Please…
+
+But the rage had been powerful, and the memory of her bones crunching under his fangs was all too real. The brutal ease with which he had thrashed her back and forth, even after her screams had fallen silent and her body limp.
+
+And, to his horror, he found he knew the taste of her amber blood.
+
+Oh no! What have I done?
+
+***
+
+Name: Mato BahrRace: BeastkinClass: Druidic Shapeshifter – level 6- Arboreal Sanctuary – level 5- Swipe – level 3- Brutal Restoration – level 6- Bear Form – level 4- Wolf Form – level 2- Primal Rage – level 6- [Locked]- [Locked]- [Locked]- [Locked]General Skills- Identify – level 4- Cooking – level 4- Wilderness Lore – level 5Aptitudes- Languages: Common, Beast - Mana (Affinity): Nature- Strong (Racial): +7 Strength- Tough (Racial): +10 EnduranceAttributes- Vitality: 40- Strength: 33- Endurance: 34- Dexterity: 7- Perception: 6- Intelligence: 8- Wisdom: 19Equipment- Weapon: Mace – level 1- Body: Leather Vest – level 1Evasion: 12Dodge: 6.66%Health: 400/400Stamina: 340/340Mana: 190/190

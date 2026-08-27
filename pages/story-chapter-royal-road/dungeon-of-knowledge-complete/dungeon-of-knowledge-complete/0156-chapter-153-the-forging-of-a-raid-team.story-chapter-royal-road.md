@@ -1,0 +1,327 @@
+---
+id: efbb95f1-37b5-5115-ba40-3cb7b8434962
+page-type-slug: story-chapter-royal-road
+title: "Chapter 153: The Forging of a Raid Team"
+slug: 0156-chapter-153-the-forging-of-a-raid-team
+partOf: dungeon-of-knowledge-complete
+position: 156
+ownLength: 5724
+unit: words
+ownProgress: 5724
+publishedAt: 2024-11-05
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1886588/chapter-153-the-forging-of-a-raid-team"
+royalRoadId: "1886588"
+markedReadAt: "2026-06-29T20:16:15.295Z"
+---
+
+“Adventurers Guild? Groups? Teamwork? Bah! That’s just a scam to have other people leech your hard-earned experience. Solo is the way to go!”
+
+- Thomas Belray, Rogue, Last Words.
+
+Willow picked her way among the mushrooms sprouting from the vibrant moss growing on the damp brick of the sewer and hopped over the water channel, keeping her eyes on the dark nooks and side tunnels. The nervous chatter from the newly formed raid group filtered up to her, letting her know they’d finished with the last Kobold she had brought them.
+
+She turned the corner, catching signs of movement in the water and the telltale glow of a root trap off to the side. The entrance to the chamber with the powerful Kobold boss loomed darkly at the end of the tunnel. Willow drew her bow, aiming at the dirty green slime lurking below the surprisingly clean water. She was no longer being embarrassed by her tears, but every time she thought of the Guildmaster and her harsh assessment, she felt a burning in her cheeks and a thickness in her throat. Why she hadn’t been kicked out of the guild, she had no idea. She was level nine already – one of the highest in the guild – but she was by far the weakest on the team. Half her skills lay dormant, still at level one, because she had been unable to find a good beast for her Ritual of Bonding.
+
+I need to find a beast companion… Without the cooperation of a beast, she would remain half a class. The problem was the forest had been consumed by blight and all the natural beasts had been turned into undead. In theory, her ritual was capable of breaking a monster from the clutches of a dungeon and inviting a fresh soul into it, but that would require finding a beast dungeon somewhere – and who knew how long that would take? She sighed, eyeing the Toxic Slimes that hauled themselves out of the water channel to pursue her. Why did it have to be Kobolds and Slimes? Or Goblins. Or Zombies.
+
+Willow sprinted back to the approaching team with her slimes blobbing along behind her. The strategy discussion at the guild had been quite eye-opening. Aiden’s group had discovered several things that she hadn’t even noticed – for example, that only two of the oozes, the biggest blue ones, were linked to the boss. The rest could be pulled separately – something she hadn’t even thought to try. As the weakest damage dealer, they had assigned that job to her.
+
+She grimaced at the thoughts of charity – pity. The group killed the slimes so quickly that Willow barely had time to pause.
+
+“It’s clear to the entrance,” she said.
+
+“Ok, let’s form up and review the plan,” Aiden said.
+
+Willow listened patiently while Aiden summarized a vastly more complex plan than the one they had tried the first time around, her heart beginning to race. The most subtle nuances of the plan had been hard-won through painful experience, and everyone knew it. Chatter faded as tension rose to fill the tunnel.
+
+“You ready?” Flynn whispered. He was a slightly chubby guy with a boyish-looking face, and he would be her partner for most of the fight.
+
+“Yup,” Willow said, glancing at the brown-robed earth mage putting on a brave face – his fake confidence marred by the white knuckles of the hand that gripped his plain wooden staff. He had suggested summoning some rock walls for her as she kited the Fire Mage. Her job would be to keep the deadly mage busy, and it rankled that she couldn’t even be trusted to do that by herself – even if she knew that was irrational. She forced a smile at Flynn, but his sudden return grin lit his face banishing all signs of anxiety – and, surprisingly, lifted her spirits.
+
+“Let’s kick some Kobold butt,” he declared.
+
+Despite her despondency, she snorted.
+
+“Willow, can you pull the slimes when you’re ready?” Aiden asked.
+
+“Are you sure you don’t want to do it?” Willow asked, glancing at Kaitlyn – the other archer in their group. She grimaced. Her insecurities had betrayed her again. We have a plan.
+
+“I’m worried my lightning arrows will aggro the whole room,” Kaitlyn said. “You’re the better choice.”
+
+“Ok,” Willow said. She crept forward to the entrance and scanned the room, picking out the highly camouflaged water-affinity oozes lurking in the sewer channel. A little of her confidence returned. She nocked an arrow and drew, sighting carefully before releasing her shot. It flew out into the room with a quiet swoosh, piercing the water and the slime crawling beneath the surface. The monster surged out of the channel, splashing water across the damp brick as it slithered up and onto the land. Willow ducked back into the tunnel as a high-speed bolt of water took a chip of brick out of the wall, and she sprinted for Havok, luring the ooze into the relative safety of the tunnel.
+
+The tiny Goblin lit an array of holy magic buffs, turning himself into a beacon of light in the dark tunnel, and charged the incoming Brine Ooze. The dull wet splat of enchanted wood striking ooze signaled that Willow was free. They don’t need my damage. Leaving it to them, she headed back to the boss room, searching out the next ooze, relieved to find the Kobolds still standing there in the back of the chamber.
+
+The pulls all went smoothly and, in a few minutes, the room was cleared of everything she could split. “That’s the last one,” Willow said as the blue ooze popped. She eyed it closely as Seth raised it as a zombie.
+
+“Ok, buff up,” Aiden said. “Havok will pull the boss and tank the rogue. Braden, go in second and pull the warrior off him.”
+
+Havok and Braden nodded in turn. The tanking decision had been made, Willow recalled, entirely due to Havok having enough wisdom to resist the warrior’s taunt. At least in theory, he should be able to keep the rogue under control. Also, the plate-clad Goblin’s class was far more invested in the defense trait than Braden’s, and Teagan had been hopeful that would mitigate the ridiculous damage the rogue dished out.
+
+“Willow and Flynn will take care of the mage for the first part of the fight while everyone else kills the healer. After the healer is down, the kill order is mage, then rogue, and finally the warrior,” Aiden continued.
+
+That was the tricky part, Willow would have to make sure she didn’t get hit by the fireballs. Healing was expected to be hard, so she had made certain to stock up on health potions from the alchemy shop, Pretty Powerful Potions, near the guild.
+
+“Havok will mainly focus on healing the tanks, and Teagan will heal everyone. Did I miss anything?” Aiden concluded.
+
+“Don’t stand in the poison?” Willow said. “I left an arrow with a red ribbon in the center of all the poison traps on this side of the channel.”
+
+“That’s clever,” Aiden said.
+
+“If you can’t be strong, at least be useful, right?” Willow answered, but her attempted joke fell flat, getting only a quiet chuckle from Flynn and a hesitant smile from Seth.
+
+“Aah, yes, thanks,” Aiden said. “Ok, get ready.”
+
+“Can I get Amplify Damage on the mage if you have time?” Willow asked quietly as the tanks readied their shields. It was an amazing curse, and with it, she could be certain to keep the mage’s attention even after the entire group swapped to it.
+
+“Yup, no problem,” Seth answered. Some of the members of Aiden’s group were conspicuously keeping their distance from the necromancer and his fresh army of zombies and skeletons, but Willow liked him – he was dependable and pretty friendly.
+
+“Ok, Havok, get us started.”
+
+The small green Goblin, blazing with the light of his holy magic, stepped through the entryway and into the room. The rest of the group filed in behind him, taking their positions, and as soon as the formation was set, Havok charged. He shot across the moss-covered room in a blur of high-speed movement. Right behind him, Braden followed with a similar charge skill, and the Kobold warrior’s sword clashed against his shield as he shouted the alarm. Every Kobold immediately sprang into action.
+
+The moment the Fire Mage paused to summon an angry red ball of flame, Willow let her arrow fly. Undetected amid the sudden eruption of chaos and noise, her arrow struck the mage, burying itself in his left shoulder, and drawing an angry yip of pain. His head snapped around, and hateful reptilian eyes locked on her. Willow fled, making for the far corner of the chamber as new fire sprang from the monster’s fearsome talons. She leapt the water channel and dodged the poison trap, glancing back at the red glare of fire and angry eyes trained on her.
+
+Uh… Flynn? Any time now… she thought, even her inner voice growing shrill with rising panic. There was no cover anywhere and she was a sitting duck if that Fireball came her way. She loosed a second arrow but missed.
+
+The sewer brick creaked and then splintered, showering her with dust and rubble as a massive wall of stone burst from the ground. Aah, thank you! She dove for cover as the roiling ball of flame shot out toward her. Even behind the rock wall, the powerful concussion shook her to the core and a vast wave of flame surged past on both sides, scorching her skin and singeing her hair.
+
+Willow popped her head out from behind her cover and loosed another arrow, sending it flying across the chaos of the battlefield to strike the mage in the leg. The instant it hit, she could tell Seth had remembered the curse – the Kobold screeched and stumbled before the Acolyte healed him. But that wasn’t her problem – all she had to do was keep it facing the corner and the fireballs coming her way allowing the rest of the team to do their jobs.
+
+Another creaking and splintering of rock told her there was a second rock wall behind her, and she turned and sprinted again, keeping her stamina flowing through Fleet Footed so that she could reach cover in time. She caught the high-speed flash of flame and dove for the ground as the Firebolt scorched past her ear. She rolled up onto her feet and fired an arrow, ducking behind the rock wall without even waiting to verify the hit.
+
+She caught a quick glimpse of the flickering frenetic chaos of the battlefield. Pressed up against the far wall of the chamber, wreathed in holy magic, the little Goblin faced off against the high-speed dagger strikes of the vicious, black-scaled rogue – Willow could hear the rapid clanging of steel against plate even from where she crouched. Standing side-by-side with him, Braden tanked the giant Kobold warrior, deflecting powerful blows of the vicious bone sword with his already battered shield, taking advantage of the healing fire of Havok’s consecrated ground at his feet.
+
+Dead center in the chamber, the beleaguered Kobold Acolyte was being mobbed by a massive melee of skeletons and zombies, interspersed with the close-range members of their raid. The blinding white of Aiden’s ice blades shone brightly amid the undead, while the air shimmered as Devan’s Wind Cutter dagger strikes danced among them.
+
+Willow couldn’t keep track of all the details, but it was enough to tell her things were more or less going according to plan. She ducked behind the rock wall and put her fingers in her ears right as a fresh Fireball detonated against her cover. From the pain and ringing in her ears, she wasn’t quite certain her fingers had even helped, but at least Flynn’s rock walls were remarkably effective barriers against the explosive fire.
+
+Might not have much hair left after this… with a wild yell, she sprinted back to the other rock wall, firing an arrow on the way. She grinned at the sight of her arrow striking home, burying itself in his ribs, leaving only the fletchings jutting out from the crimson robes. In the background, the crack of rocks flying into things with wet thuds, the loud reports and flashes of lightning, and the clashing of steel were overlaid with the shrill unholy scream of Seth’s Volatile Wraith. As she lined up another shot, she saw the Wraith flying through the Fire Mage’s chest, drawing a pained howl from the monster.
+
+Clever, she thought. It was the only monster without any allies near it, it had Amplify Damage on it, and the Wraith’s distraction of her target was already creating bigger windows of time for her to shoot and dodge. She managed to get off two shots before sprinting off to the next rock wall, leaving the mage approaching the now vacated one.
+
+Willow popped out and fired again, barely dodging a Firebolt as she continued her deadly game of cat-and-mouse with the furious Fire Mage. The rest of the battle faded into the background as the crashes and shouts blended into an incoherent buzz of noise. It was just her and the mage, and if she made a mistake, she would be badly hurt, if not killed. She found herself grinning maniacally as she ducked and dodged between the rock walls, always barely a step ahead of the explosions. Always vigilant for any changes to the mage’s routine. Firebolt. Firebolt. Fireball, duck! She darted sideways just in time, wincing as the skin on her neck began to blister.
+
+Suddenly, the shouting grew closer, and, when she popped her head around the wall to fire, she saw the frost-gleaming swords slashing through the crimson robes as Aiden charged the mage. A heavy barrage of lightning arrows hit it squarely in the chest and Willow’s eyes widened at the powerful display of Kaitlyn’s lightning archery. Willow snapped off another arrow, careful not to hit her teammates, and ducked behind cover, catching a glimpse of Devan appearing from nowhere with her daggers flying. A gruesome shower of Kobold blood sprayed into the air.
+
+They got the healer! Her glance took in the crumpled body of the Kobold Acolyte lying beside the sewer channel and realized she had missed the chime of it dying. For the first time since they had tried this boss, excitement and hope began to rise within her heart.
+
+Don’t mess it up, she told herself, but the combination of her arrows and Seth’s Amplify Damage curse had so badly angered the mage, that she continued to draw all its fire while dodging between the walls of stone. Not even the full power of the raid unleashed at it could shake its focus.
+
+It took perhaps five or six minutes before an anticipated explosion of flame failed to materialize, and instead, she heard the beautiful sound of a chime in her mind. She poked her head out cautiously, and sure enough, the deadly Fire Mage lay in a bloody, battered heap on the damp ground while the entire raid sprinted for the far wall to corner and tackle the cunning rogue.
+
+She took a deep breath and emerged from cover, joining the small group of ranged damage dealers. “Thanks,” she nodded to Flynn.
+
+“No problem,” he smiled. “Good work!”
+
+“Yeah, the cat-on-hot-bricks technique was great, right?” she grinned back.
+
+There was only a single trap belching poison off to the side, but nobody was standing in it. Teagan fired a green beam of healing into the pair of tanks while downing a freshly crafted potion Basil handed her. She wore an intense expression of pure focus, but it was different than before. Willow studied her friend for a moment. No panic this time. Preparation, preparation, and preparation – the Guildmaster was right. We just didn’t listen.
+
+Willow smiled and nocked an arrow to her bowstring. The rogue was solidly locked down by Havok, and Willow didn’t have to move an inch for the entire five minutes it took for their group to whittle down his strength until the kill chime finally sounded. But it was a further ten minutes of constant attack before the warrior finally dropped, and Willow was running low on arrows and stamina by the end.
+
+We really underestimated this fight, she thought. So badly…
+
+The incredibly durable warrior finally collapsed with a chime and a crash of heavy armor against brick, and Willow walked over and slumped down beside Teagan, both spent. She smiled at her friend and got an exhausted grin in return.
+
+It barely felt real. She even opened her notifications to double-check.
+
+Your group has defeated Acolyte – Kobold – level 10.Your group has defeated Fire Mage – Kobold – level 10.Your group has defeated Dagger Rogue – Kobold – level 10.Your group has defeated Warrior – Kobold – level 10.Beast Tamer has reached level 12 (+3).+30 attribute points.Concussive Shot has reached level 9.Marksmanship has reached level 10 (+2).Fleet Footed has reached level 6Identify has reached level 5.Class skill slot unlocked.New skills are available for Beast Tamer.…
+
+Willow’s mind’s eye glazed over. While the others were chatting excitedly about the battle, and the above-average quality of the items the Kobolds had worn, Willow simply stared at the notifications, barely seeing most of them.
+
+Three levels…
+
+I did it. She was officially a bronze-rank adventurer. Her notifications continued chiming as her class offered her choices for her first class skill unlock. I wonder what -
+
+“Hey! Beast Tamer!”
+
+The loud shout from the other archer, Kaitlyn, cut across the jubilance of the raid. Willow cringed inside. Here it comes… Criticism of her abilities, her class, and her limited role and performance in the battle. This was where they would decide she was weak enough that she didn’t deserve a cut of the loot that they had earned as a team.
+
+But the biting words and critical glares didn’t… arrive? The tall girl stood over a hole at the far end of the chamber, staring intently at something below her feet. She glanced back at Willow and urgently gestured her over, with a look of … excitement?
+
+Willow clambered to her feet up, still half-expecting hostility and criticism, but when she got to Kaitlyn, the other girl grinned at her and pointed. There was a spiral staircase made of glowing transparent golden magic that hovered in the air leading downward into a cavern.
+
+“Didn’t you say your ritual works on dungeon spawn?”
+
+“It can,” Willow said. Of course, that was all theoretical given she’d never had the opportunity to try it. “But it’s harder, the literature says it requires time to invite a new soul to replace the dun –”
+
+“That’s a beast, will it work for you?” Kaitlyn said, interrupting her and pointing down into the darkness below.
+
+Willow frowned at her in confusion, letting her eyes follow the direction she pointed. And from deep in the darkness a pair of emerald-green eyes gleamed back at her. Electricity seemed to jolt up through her spine, causing her scalp to prickle as if it were trying to tear itself loose.
+
+Timber Wolf – Wolf – level 12
+
+Willow identified it twice, just to be sure. Her voice cracked as she yelped, “Teagan! Help?”
+
+“What?” Teagan exclaimed, alarmed and sprinting across the chamber to join her.
+
+“Don’t attack it, please?” Willow asked, turning to Kaitlyn. “I might get hurt in the process, please just heal me, no attacking.”
+
+I’ll definitely get hurt. She gulped as she stared at the enormous dark shape of the Timber Wolf. This was her chance. It had to be.
+
+Both the girls nodded, and Willow darted down the stairs as fast as she could. She was channeling her Ritual of Bonding skill before she even reached the bottom of the stairs. Please, please, please work!
+
+The wolf howled and charged immediately, its heavy jaws clamping down on her arm and thrashing back and forth savagely. But Willow just gritted her teeth against the pain, adamantly refusing to budge. She would not lose focus. A beam of green lanced down from above, healing her wounds even as the fangs lacerated her arm.
+
+This was what her class was, what she was. She could not – would not – give in. Besides, the wolf was gorgeous and powerful, and she dared to hope.
+
+She struggled with her ritual while an immense pressure built in her mind like an unseen magical tug-of-war – herself against the wolf. She fed it more and more of her mana. The wolf growled, lunging low and snapping its jaws shut on her calf. Pain blossomed as the fangs tore a chunk out of the muscle and she staggered, hamstrung, fighting for consciousness. If she passed out, she would probably die. Worse, she might lose her chance.
+
+“Willow!” Teagan shouted.
+
+“Wait!”
+
+“She alright?” Havok worried.
+
+“I’m fine!”
+
+“Fine at getting eaten!” someone shouted. “Get her out of there!”
+
+“No!”
+
+She fought on and on. Suddenly, the pressure from her ritual caused something to snap, and the wolf went wild, growling and tearing at the arms she brought up to protect herself. But she refused to attack it, simply blocking and defending herself against the vicious teeth while she pressed more of her mana into her ritual spell.
+
+“Wait!” she called out, sensing Kaitlyn nocking her bow. She simply clung on to her magic, while the wolf savaged her in a one-sided display of violence.
+
+“You’re going to die!” Kaitlyn yelled.
+
+“Don’t shoot it!” Willow shouted.
+
+“Willow, you’ve got this!” Teagan screamed. “Come on!”
+
+Her mouth made a rasping groan she barely recognized as her own.
+
+Without warning, the wolf backed off, and crouched down, growling deep in its throat.
+
+Your Ritual of Bonding has ensouled Timber Wolf.
+
+The crazy look in its eyes faded and Willow sensed a sudden innocence and curiosity trickling through her ritual magic. She met its gaze and tried to send thoughts of kindness, sharing, exploration, and growing together – all her hopes and dreams bundled together into a messy mishmash of emotions. The very essence of herself.
+
+“Please… I want to meet you,” she sent to the brand-new soul inhabiting the wolf before her.
+
+The wolf lowered its head and finally stopped growling. Willow, trembling so violently she had to clench her teeth lest she chip them, reached out her hand towards the beautiful creature and let it smell her. A few moments later, she retrieved a piece of jerky from the pouch at her belt and offered the snack to the wolf. It sniffed at it and looked at her for a moment, but then it took the offering and ate it. The wolf suddenly sat up, startling her, but it simply licked her face with its enormous tongue.
+
+Timber Wolf has accepted your companion pact.
+
+There was a sudden rush as her mind connected with the wolf. She could see what the wolf saw, and smell what she smelled. She could taste her own tears as the wolf licked her face again. She sank to the ground and hugged the enormous creature who was suddenly the most beautiful thing in her world.
+
+“Willow? Are you alright?” Teagan asked.
+
+“I’m… Teagan, her name is Cami!” Willow cried.
+
+The team’s cheers ebbed and flowed in her hearing as she struggled to come to terms with her emotions.
+
+Your Kobold Warrior has been defeated.
+
+Ali let her awareness return fully to her body, releasing the sight and senses of her minions through which she had been watching the scene.
+
+“They won,” she said – to the obvious relief of her friends.
+
+“Nobody died?” Calen asked.
+
+“Nope,” she confirmed. “And they all reached at least level ten.” Vivian was going to be ecstatic – ten novices had entered that chamber and come out alive as bronze-ranked adventurers. Even Basil and Seth had reached ten.
+
+“Bronze rank means they can take jobs now,” Calen said. “That will be a huge step for the guild. I will go talk to Vivian about it if we’re done with Elvish grammar for today. She will be overjoyed.”
+
+“I think we can let the new bronze ranks break the news,” Ali said. “They earned it.”
+
+“Aah, true,” he said.
+
+He seems very interested in the guild. He had always been invested, but the quiet half-elf seemed different somehow – ever since he had his hair cut and he had donned the Pathfinder cloak. He was right though; this changed a lot for the guild. Bronze rank meant that they were strong enough now to take the zombie kill quests and help clean up the disaster Alexander Gray had unleashed upon the entire region. Good for the guild and for the town, but it would also provide abundant opportunities for them to level up and earn money.
+
+Lira just sipped on her tea, watching everyone with a serene curiosity and calm, and Ryn was lost to the world immersed in the grammar books Ali had copied earlier.
+
+“You didn’t pay that much attention to the novices before,” Ali said. Vivian had done much to restore their broken trust, but their relationship was cordial rather than friendly. There had to be a different reason.
+
+“Lyeneru told me to help Vivian tutor them on strategy as part of my own training,” he answered with a grimace. But Ali knew it was his discomfort with speaking in front of people and not a reluctance to help them.
+
+“That sounds like a great idea,” she said – and it was. Calen had a mind for strategy and an intuitive grasp of skills and how they interacted. She could also see it helping him get out of his shell a bit and develop more confidence in his own abilities. Questing on his own without Mato, joining the Pathfinders and this new task his mentor had set him seemed to be encouraging him to find himself a little more.
+
+“True,” Calen said. “I just wish it didn’t require lectures.”
+
+“It’s probably a good time to take a break from language lessons, too,” she said. They had been working on grammar for the better part of the morning and her two eager students were getting tired.
+
+She reflected on the encounter she had just witnessed. In order to let them gain full experience for the fight, Ali had not observed from within the chamber, so she had only a peripheral awareness of the strategy they had used, but she trusted Vivian to set them right. She had had to content herself with the sharp snapping of her mana as the Kobolds died one at a time in the order she would have expected.
+
+It had been nerve-wracking to wait without seeing, hoping she wouldn’t see a kill notification for one of the eager novices. But her fears that her first boss would be the death trap that destroyed all her guildmates hadn’t come to pass – but by the number of levels some of them had earned, it had been hard fought.
+
+And that scene at the end…
+
+When her reservation holding the Timber Wolf snapped and it went berserk trying to kill Willow, Ali had very nearly intervened to save her. Willow’s impassioned cry to her friends, begging them to hold back, had been the only thing that had stayed Ali’s hand.
+
+The sensation of Willow’s ritual spell slipping into her Timber Wolf had been skin-crawlingly uncanny, and something had replaced her mana bond to the monster. She just wished she had had a minion with mana sight nearby to see what had happened next. I need to talk to her about this later, she thought, meeting Lira’s eyes. And I need to see that wolf with my own senses.
+
+Lira had been certain Ali’s minions were merely extensions of her mana, and therefore her will. But that wolf… What is it? I’m sure it’s not a dungeon spawn anymore.
+
+And then, there were Willow’s tears of joy as the wolf accepted her… well, Ali would be lying if she tried to pretend that she hadn’t shed a few sympathetic tears herself.
+
+Ali took a deep breath and switched focus to a different topic – one that she could do something about. She opened Domain Mastery and looked at her enhanced monsters list. It was a short list containing only one monster.
+
+Kobold WarriorDomain Enhancement: Raid.Status: Dead.Domain: Respawn. Recharge: 5 hours 58 minutes.
+
+Ali shared the details with everyone. So, it does seem to work, she thought. In six hours, all signs indicated that her domain would resummon her Kobold boss and it would be ready for another fight.
+
+“A six-hour respawn is nice,” Calen said, noting it in his book. “This explains a lot. Remember that pack of wolves that respawned on top of us?”
+
+“How could I forget?” Ali said. She had been the one eating dirt that day.
+
+“I wonder if all dungeons have the same recharge timer?” Calen mused. “I suppose it might depend on aptitudes and specializations. Are there advancements that reduce your respawn timer?”
+
+He’d begun to ramble as he speculated, and Ali had no definitive answers for him. At least at this point – maybe she would unlock an advancement like that in the future. “I’ll come with you when you go up to town,” she decided. “I need to resummon the other monsters they killed in the sewer.” She also hadn’t checked on the trash her Kobolds had collected in a couple of days, and it would be the perfect opportunity to inspect her former wolf.
+
+“Are you going to use that domain respawn ability on all the trash monsters in the sewer?” Calen asked. “It would save you the chore of respawning them all manually.”
+
+“If it increases the reservation cost, I can’t afford it,” she answered, still worried about her mana. It was certainly worth exploring given that she had only tried the raid enhancement so far. It was always frustrating testing abilities with long recharge timers.
+
+“I’m pretty sure the description didn’t say it increased the cost. Come on, let’s go test it,” Calen said, getting to his feet. After saying goodbye to Lira and Ryn, the two of them flew to the Kobold warrior’s chamber together.
+
+The boss chamber looked like a disaster scene. Giant scorch marks marred the walls and floors, leaving wide stretches of blackened moss and burnt mushrooms. Several massive slabs of dark gray basalt jutted out of the ground on one side of the chamber and the corpses of her four Kobolds and several Brine Oozes lay strewn about. All the equipment she had made for them was gone, presumably looted by the raid for gear upgrades or to be sold for expenses.
+
+“I hope the gear respawns too,” she said, but she had a feeling that it might – she could tell the domain imprint was quite extensive. Ever since her Grimoire had added Customization, her monsters were summoned with semi-random gear they were capable of using and she expected either that or the exact same gear to be respawned. None of her traps had been destroyed and they had simply reset on their own as usual.
+
+“Looks like they marked the traps with this,” Calen said, pulling up a snapped arrow with a red ribbon attached to the end.
+
+“Clever,” Ali said, beginning the chore of cleaning up and deconstructing the corpses. Ugh, what remains of them, she thought, realizing their skeletons were missing. At least, based on her experiences with the Ruins of Dal’mohra, she guessed that removing the corpses wouldn’t affect the respawn effect. Seth must have been busy here.
+
+“They must have kited the Fire Mage,” Calen said, examining the scorched rock walls. “Someone ran around here dodging Fireballs until they killed the healer.”
+
+He’s reading this room like a book. It seemed like a good strategy to Ali, at least from what she’d seen of Calen’s ability to kite. But the rock walls were ugly and burnt. First, she added this variant of basalt to her imprint, and then she used the magic of her Grimoire and Domain Mastery in tandem to reshape the remainder, growing the rock walls into thick symmetrical pillars that reached the ceiling before transmuting them to marble.
+
+“That looks nice,” Calen said. “That will provide some cover – it should make the fight just a little easier for teams without earth mages.”
+
+With her Grimoire open, she resummoned the Brine Oozes that were missing or turned into nasty puddles over by the door, and then picked one for her experiment.
+
+Choose Domain Enhancement Level: Domain, Boss, or Raid.
+
+“Domain,” she thought, making her selection.
+
+Domain Respawn applied to Brine Ooze.
+
+Ali waited, but there were no additional notifications, and her reservation remained unchanged. Curious, she opened her Domain Mastery and checked her minions on the list.
+
+Kobold WarriorDomain Enhancement: RaidStatus: DeadDomain: Respawn. Recharge: 5 hours 36 minutesBrine OozeDomain Enhancement: DomainStatus: AliveDomain: Respawn. Recharge: 2 hours
+
+“It works,” Ali said, once again sharing the details with Calen. “And it didn’t cost any extra.”
+
+“Two hours,” Calen said. “That’s even better.”
+
+“I’m not sure if it’s because the enhancement is weaker, or if it’s just drawing less on the domain itself,” Ali mused.
+
+“Isn’t that the same thing?”
+
+“I don’t exactly know,” Ali said – but she could see the domain mana had far less load on it than when her boss walked in this chamber.
+
+“At least you can use it on everything,” Calen observed.
+
+“The only disadvantage is that they are limited in how far they can move from where I attach them,” Ali said.
+
+But I don’t have to resummon them all the time. She smiled, realizing just how much time this ability was going to save her.
+
+“Why don’t you finish up here,” Calen said. “I’ll go take care of things at the guild.”
+
+“Ok,” Ali said, calling a few higher-level minions to join her as guards. Calen vanished into the darkness, leaving her to her task, and she set to it with enthusiasm, resummoning all the slain monsters and bestowing the respawn buff on every last one.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

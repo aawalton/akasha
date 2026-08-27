@@ -1,0 +1,257 @@
+---
+id: 5e8ee36d-fb3e-525f-8b50-26d7bcfa04cb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 109: Forest Guardian"
+slug: 0110-chapter-109-forest-guardian
+partOf: dungeon-of-knowledge-complete
+position: 110
+ownLength: 4877
+unit: words
+ownProgress: 4877
+publishedAt: 2024-08-06
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1747020/chapter-109-forest-guardian"
+royalRoadId: "1747020"
+markedReadAt: "2026-06-29T20:14:42.604Z"
+---
+
+Ali trudged along with her friends as Calen led them deeper into the jungle, carefully pondering the wild, chaotic nature-affinity mana that infused everything around her. It roiled, twisted, and washed across them as they moved, dense enough to appear murky to her mana sight. Gone were all but the faintest vestiges of the light affinity mana they had encountered in the other direction, and so too were the majority of the light-affinity bugs, monsters, and elementals. Apart from the occasional appearance of flying creatures above the canopy, down here in the dense, damp overgrown jungle, nature ruled with a cloying, sweaty, moss-ridden grip.
+
+“This place is like a sauna,” Mato grumbled.
+
+“We’re not going back till we find Ali another Guardian,” Malika replied, wiping sweat from her brow.
+
+It had taken about an hour of rest before Mato and Malika had felt well enough to continue, and now the two of them seemed entirely back to normal – at least, they were energetic enough to be discussing various strategies for handling the Forest Guardians Calen was off hunting for them.
+
+“Thanks for trying,” Ali said. She hadn’t expected everyone to be so enthusiastic about finding her the final Forest Guardian to deconstruct that might earn her the imprint, but all it had taken was a simple mention that she was close before everyone wanted to be involved. Exploration was all good and well, she supposed, but having the shared goal of hunting a guardian for her book seemed to breathe a bit of energetic excitement into her friends.
+
+“Not a problem, Ali. It’ll be fun!” Mato declared, swiping his hand at the cloud of pebble-sized green beetles that were buzzing around his head.
+
+Ali ducked sharply as a glowing nature wisp zipped past, almost colliding with her face. The tiny glowing mana creatures were becoming noticeably more numerous, often clustering by the dozens in trees where the mana density was marginally higher. Ali had even witnessed several spontaneously manifesting directly from the ambient mana itself – an event that, as far as she knew, was something rare enough that few scholars had ever witnessed it.
+
+“I wish it wasn’t quite so humid and mucky down here,” she said, brushing the gossamer threads of another spiderweb from her face and hair for the thousandth time, wondering if she would ever again be clean and dry. Amid the raucous, incessant calls of the insects and frogs, the cloying humid air that felt like breathing pea soup, and the muddy dirt and moss they trudged through, Ali began to believe she would be hallucinating visions of the bathhouse before much longer.
+
+It was right when she was imagining immersing herself slowly in a hot tub of water that Calen suddenly reappeared, startling her into stepping ankle-deep into a puddle of mud. Ugh, not again. At least it couldn’t make her any dirtier than before. I don’t want to think about whatever just squelched between my toes, anyways…
+
+“I found a Forest Guardian for you, up ahead by a small pond,” Calen announced. “But there’s a problem.”
+
+“More mushroom guys?” Mato asked.
+
+“No, the flower ones, but the problem is there are two Guardians.”
+
+“Two?” Ali exclaimed. The giant regenerating elementals were dangerous enough on their own, and yet, she wanted to make them so much she could almost taste it.
+
+“That might be problematic,” Malika said, echoing Ali’s concerns. “It’ll be hard enough fighting blind in the petal storm, but I’m not sure if we have enough firepower to kill two Guardians healing each other. We might want to skip them.”
+
+“They’re level thirty-eight and thirty-six,” Calen added. “It’s not a lot lower, but they’re the lowest-level Guardians we’ve seen so far.”
+
+“What if I make a couple more Fire Mages and fireball the petals? Fire seems to work well against the guardians too.” Ali knew she wasn’t exactly objective in this discussion, but she also didn’t want to spend another hour trudging through the jungle and potentially not finding the guardian she needed for her Grimoire. Especially when these two were right here.
+
+“What happened to the Ali who was terrified of fireballing Mato?” Malika asked with an amused grin on her face.
+
+“He can take it,” Ali replied, drawing a deep chuckle and a mock-buffet from the big Beastkin. “Seriously though, I think it’s our best shot, they’re all made of wood, so fire seems to be the best choice. It might even help with the roots and vines.”
+
+“Oi, I’m the one who has to tank the fireballs with my face,” Mato grumbled.
+
+“Do you really mind?” Ali asked. She had carefully considered her options, and she had concluded that fire was very much the right choice. Storm Shamans dealt good damage with their lightning, but they were less effective when they couldn’t fight in melee range. The nature elementals seemed immune to her wyvern’s poison breath so they were out too. No, fireball was definitely the best solution, so why were her friends laughing?
+
+Am I turning into a pyromaniac? Is it still pyromania if Fireball is really the best choice?
+
+“No, I don’t mind, I say we try it,” Mato chuckled. “I’ll take getting burnt a bit over being blind the whole fight.”
+
+“Just call it out as usual so I can dodge out of the blast radius,” Malika said finally relenting. “And maybe make another healer, it’s hard enough to move around in all that plant growth. I can separate out the Floral Menaces and tank them outside the regeneration auras if Mato can tank both the elementals.”
+
+“Works for me,” Mato said.
+
+And just like that, they made their decision. Ali summoned a couple more Fire Mages and an Acolyte as an undercurrent of excitement began to build within her. Excitement that she might soon have the guardian, but simultaneously nervous that her desire might be getting them in a little over their heads. She double-checked her inventory to make sure her Potion of Recall was easily accessible. As soon as she was ready, they followed Calen to a clearing up ahead where he had scouted their prey.
+
+In the dappled light, two slightly smaller Forest Guardians slowly patrolled beside a small creek. Smaller, but only relative to their enormous kin. Scampering around their giant stump-like feet were six of the woody Floral Menace flower monsters. They were indistinguishable from the ones they had faced previously other than the fact that some of them sported purple petal scruffs instead of pink, a difference that Ali was almost certain wouldn’t matter.
+
+“I won’t be able to move them much,” Mato said, quietly surveying the monsters out past the trees they were crouched behind.
+
+“I think just tank them over there by the pond,” Calen suggested. “That should give us enough room. Ali and I can set up here.”
+
+Ali nodded. The spot Calen had selected was a little elevated and there was a nice break in the trees giving clear visibility onto what would soon become the battlefield.
+
+“Ok,” Mato answered, his body twisting and reforming, growing more massive. His transformation magic seemed to ripple out from his core, reshaping him from within, as if it were somehow twisting his muscles and bones.
+
+I suppose that’s precisely what is happening, Ali thought, studying the effect closely, trying to catch a glimpse of how it worked. Every time her Arcane Insight or Sage of Learning grew, she felt she could unravel a little more of the details of the everyday magic her friends were wielding. However, while this ability was clearly related to Mato’s nature affinity, the way it worked was mostly hidden from her sight. From what Mato had shared, Ali knew his shapeshifting ability was powered by stamina, not mana – a so-called ‘martial ability’. While it was clearly magic, her senses and perception skills were blind to the workings of stamina.
+
+In moments, his transformation into a heavy, large bear was complete, and he triggered another skill powered by the invisible energy of his stamina, causing him to accelerate his massive bulk out into the clearing, engaging the monsters there with a roar and a crash, joined moments later by Malika, sprinting in right behind him.
+
+“Spread out, Firebolt the Floral Menace,” Ali instructed, speaking draconic for the benefit of her mages, and picking a common target. Her potent army of Kobold pyromaniacs quickly scrambled into a loose curved formation, each of them flaring with the angry red of fire mana.
+
+“Attack,” she commanded mentally, sending her intent to the several Scalding Slimes waiting beside her. Her army was rather specifically tailored for this fight. Slimes were immune to roots, and so she had no other melee minions. Her only other minion type was the group of three Acolytes of Azryet standing loosely around her, already supporting Mato and Malika with their holy healing magic without needing her explicit command.
+
+She made a few minor adjustments, ensuring her minions remained within range of her enhancement auras while she studied the magic flowing through the battlefield. One handy side-effect of her Arcane Insight was she could see the glow of her Empowered Summoner and the flickers of green nature damage it granted her minions when they were in range. Makes setting up much easier. She could also see the pervasive twin auras of the Forest Guardians – regeneration and growth – denser and more potent now with two of them. And flowing like a trill above it all, was the trickle of nature magic infusing the ground with the growth of countless tiny wildflowers.
+
+Ali studied the magic closely, waiting for the telltale trigger, and sure enough, as soon as the sea of wildflowers had finished sprouting, mana flared sharply from the Floral Menace monsters, and the entire battlefield erupted into a dense cloud of pink and purple petals that instantly obscured everything.
+
+“Fireball!” Ali’s warning also served as her mental command to the grinning Kobold Fire Mage she had selected. Flame and mana condensed quickly, forming into the easily recognizable roiling ball of fire before shooting out across the battlefield and into the center of the petal storm. Malika’s lithe, agile body emerged from the cloud in a high backflip at the same instant that the fireball entered the storm and for a fraction of a second Ali began to smile at how elegantly she had judged the timing.
+
+Deep within the heart of the petal storm, a malevolent all-consuming red blaze ignited, cutting through the petals. A shocking, angry flame burst with an intensity that left the entire clearing darkened and rendered Malika a mere silhouette suspended against the backlit radiant glow.
+
+Ali’s eyes widened as her nascent smile warped into surprise and shock. A pressure wave of dust, ash, and flame blasted out through the cloud, and she had barely enough time to throw a barrier up in front of her before the explosion ripped through the entire clearing. Her ears burst painfully as her barrier cracked instantly. Malika vanished and all her minions were knocked to the ground as the jungle rang with the flash-blast of flame.
+
+Ali rolled over and sat up. She couldn’t hear a thing unless she counted the painful ringing inside her head from where her sense of hearing had once been. The clearing was a scene of total devastation, burned grass and tree branches lay smoking on the ground, dotted among pockets of still-burning flame. Mato still struggled against the two Forest Guardians out where the small pond used to be, amid a soft rain of ash and slowly dissipating smoke. There was no sign of any of the Floral Menaces, nor her slimes, and as she gazed about, she found her Kobolds slowly stirring and getting to their feet. One of her Acolytes glanced her way, and Ali saw the formation of her holy restoration spell before she felt the gentle healing magic begin to work to restore her hearing and the seared burns on her skin.
+
+“Heal Mato,” she managed, her voice distorted by her damaged hearing. Slowly she clambered to her feet and stared at the ragged remnants of the barrier magic that had saved her from serious injury. It had been quite a while since she had encountered anything powerful enough to break her magic.
+
+Malika dropped out of a tree nearby, landing on the balls of her feet, and sprinted off to join Mato. As the holy magic pulsed within her, the ringing slowly faded, replaced by the roars, thumps, and crashes of combat.
+
+What the fuck was that?
+
+Whatever had just happened had been way more powerful than just a regular fireball, and she had seen absolutely no sign of forewarning in her mana sight. The entire clearing had been incinerated by the blast, enough heat and flame to clear the vegetation, vaporize the pond, and kill all the lower-level monsters and minions in the area instantly.
+
+At least the petals were incinerated too. Her eyes were drawn again to the softly floating ash, falling like gray snow, and in a sudden flash of clarity, she understood. A mundane explosion… The air had been filled with petals in an enormous cloud of easily ignited fuel. Her Fireball had simply been the spark that ignited the conflagration.
+
+“Ali, adds! Behind you!”
+
+At the urgent sound of Calen’s shout, and the intense surge in his mana as he triggered Righteous Fury, Ali spun about to find several of the misshapen Spore Spreaders lumbering out of the jungle undergrowth directly toward her on their strangely awkward three-armed gait. Violet mushrooms were already sprouting from the ground all around them. From the shuffling sounds deeper in the jungle, more were inbound, clearly drawn by the empowered fireball explosion she had detonated.
+
+Ugh, that could have gone better…
+
+She threw up a barrier, knowing it would be no help against the spores as the monsters planted themselves, quivering, in the middle of the glowing sea of mushrooms. Suddenly she remembered her brand-new spell. With a thought, and a few points of mana, she instantaneously switched places with her farthest Fire Mage, right as the Violet Dreamclouds began to burst. Two of her mages caught in the circle collapsed instantly, unconscious as the spore cloud billowed up from the exploding mushroom carpet.
+
+“Fireballs,” Ali commanded. Her two unconscious mages would be out of commission for longer than the duration of the fight, so it was worthless trying to recover them. Instead, all her remaining mages readied their magic. I just hope the spore cloud doesn’t blow up, too, Ali thought. She didn’t trust it though, putting up a new barrier anyway, but she did unleash her arcane bolt streams, picking separate targets for each, adding her personal damage to the intense stream of Calen’s overcharged arrows.
+
+The simultaneous proximate detonations of the fireballs burst her eardrums for the second time this fight, sending pain lancing deep into her head, but her barrier magic protected her from the brunt of the flame and resulting shockwave. The cloud of spores had been incinerated, but fortunately, she hadn’t set off an unprecedented monstrous detonation this time. But within the cloud of flame and slowly clearing smoke, she could still see the magic of the fungus monsters summoning more mushrooms, and still more joining the fray.
+
+“Again,” she instructed – a command which was met with eager and excited smiles and flaring fire mana. The only nice thing about the unexpectedly large fireball earlier was that it had wiped out most of the monsters instantly, leaving just the massive guardians alive. Maybe I should search for a monster with a more powerful fireball sometime.
+
+She called for more and more volleys of fireballs as the horde of Spore Spreaders continued pouring out from the jungle, weaving her arcing Arcane Bolt streams around Calen’s arrows and through the fire and smoke.
+
+Ali glanced back at Mato, but it seemed that Malika was keeping him alive through the distraction.
+
+Do I have enough mana potions? Her Fire Mages had to be running low – their Fireballs were not exactly cheap, and while she couldn’t tell exactly how much mana they were using, just the potency and size of the mana formations they created with their magic told her it was a lot.
+
+“That’s the last one,” Calen said suddenly, downing a mana potion, and drawing her attention to the now still undergrowth between the trees beyond the expanse of charred ground and burned corpses. “Lower-level guardian first.”
+
+Ali turned her attention back to the central fight – a titanic battle between the bear and the much more massive Forest Guardians, with Malika dancing around in between punching and healing. The battle was a broad circle of verdant growth amid the charred and devastated ruins of the jungle clearing. Both Mato and Malika appeared to be struggling with the grasping roots and vines blanketing the area with new life – although Malika was having a better time of things, her light steps dancing off the air more often than not to avoid the roots.
+
+“Firebolts.” The two Forest Guardians appeared to be in perfect health, having rapidly regenerated any damage sustained from the massive blast and whatever damage Mato and Malika were dishing out.
+
+But the Forest Guardian seemed entirely unaffected. The firebolts were landing, and they were ripping holes in the bark armor and the dense wood, leaving smoking holes in their wake. The problem was the holes were closing up in seconds, wood twisting and growing over the damage, filling the holes and leaving the monster in pristine health even under the continuous bombardment of magic and arrows.
+
+This looks hard. Ali studied her beleaguered forces. “I’m not delivering enough damage,” she said. She had lost more than half her minions already, two mages to the mushrooms, and all her Scalding Slimes to the explosion. Her four remaining mages needed time to recover their mana before they could let loose.
+
+“Can you make some more?” Calen asked.
+
+The first one required five mages, she thought, her mind returning to their first encounter with a Forest Guardian. She had had to summon mages mid-combat because their entire damage output had been insufficient to overcome the regeneration aura. They had all leveled up since then, and the elementals were a little lower level, but against two of those auras, even Ali could see the firebolts were not leaving any lasting damage in the face of the double regeneration aura.
+
+Even when she had killed the kited guardian with her arcane bolt storm, she had required several minutes of steam-jet assault to bring its health down to a range where her attack could finish it off. She didn’t have that luxury here.
+
+“I need time to summon more mages.” But of course, she was low on mana too. A quick mental perspective shift confirmed that she was down to only two mana potions.
+
+“I have about six minutes on my recharge,” Calen offered.
+
+“Got it.” Ali retrieved her two mana potions, making her decision. When Calen’s Righteous Fury became available, she would need as much damage as she could muster.
+
+“Mato, Malika, conserve your resources,” Calen yelled, sharing their strategy shift. “Malika, target their mana.”
+
+“Got it,” Malika shouted back, and the flickers of her punches shifted to a deeper blue color.
+
+Quickly, Ali organized her remaining forces, setting up a rotation of one-off, and two-on for her Acolytes, to allow them to rotate with their mana regeneration skill. She handed the two highest-level Fire Mages a mana potion each, instructing them to drink and conserve mana for now, and then scrambled across the charred ground in search of Spore Spreader corpses, filling up her mana pool by deconstructing several of them.
+
+Ignoring the crashes and roars of combat, she pulled out her Grimoire and focused on her magic, intent on summoning as many Kobold Fire Mages as she could manage in the short time available.
+
+“Ready,” Calen called out, much sooner than Ali would have liked. She had managed two more mages, and her Grimoire was still glowing with the magic that would construct the third.
+
+“Almost there,” she told him, urging him to hold off for a little longer. Even though her new powerful Customization upgrade seemed to be allowing her to bias her summoning toward higher-level variants, the two mages she had just summoned were unlikely to be enough to clinch the battle. While Calen waited, her magic flared, and with a rush of mana, it completed.
+
+Mage – Kobold – level 19 (Fire)
+
+Your reserved mana has increased by +76.
+
+Oh, thank goodness, she thought, as she saw the level of her newest summon. It brought her total to seven mages. She made a mental note to study her Grimoire customization in more detail to see if she could learn greater control over the monster level produced. If she was going to continue being forced to summon monsters in combat, she needed to find a way to reduce the randomness – gambling with her power was certain to get them killed at some point.
+
+“Go,” Ali said. She hadn’t expected to have the time to make gear for her new mages, but somehow all three Fire Mages had appeared wearing some sort of robe she recognized from her Grimoire. Another nuance of my Customization upgrade? Bit busy right now, she reminded herself.
+
+Calen flipped a gold coin into the air, making it vanish in a tiny shower of sparks, before he ignited the mana inside himself, his Righteous Fury making his body shine like a mini-sun in Ali’s mana sight.
+
+“Fire!” Ali commanded, reinforcing her draconic words with the full sense of both meanings, and the urgent need to go all out. She followed her own commands, unleashing three streams of Arcane Bolts at the targeted Forest Guardian, and eschewing even her own protection in favor of sharpened shards of barrier magic, trying desperately to eke out the most damage she was capable of.
+
+Are we winning? Firebolts flew in a constant barrage, making the wood elemental smoke and burn. Even Malika had leapt up on top of the Forest Guardian’s back unleashing a fury of flickering punches, giving up entirely on healing in favor of draining as much of the elemental’s mana as she could. But it all came down to Calen’s powerful skill, and the thirty seconds of fury and the devastating hail of arrows. If they failed to do enough damage, the monster would simply heal again.
+
+She couldn’t help counting the seconds, as she burned through her mana with reckless abandon. They were definitely hurting the monster now, massive rents appeared in the armor due to Mato’s powerful strikes, immediately exploited by Calen and her Fire Mages for additional damage. Smoke billowed up from the many holes bored into its flanks by fire magic. But as the seconds ticked by, the monster remained standing.
+
+Abruptly, the intense flare of light to her side dimmed, and at the same moment, the Forest Guardian roared in fury, spinning toward Calen whose skill had just expired.
+
+“Shit!” Calen exclaimed.
+
+“It wasn’t enough?” Ali gasped. She couldn’t believe it – the monster had to be nearly dead – it looked so battered and burnt that it seemed like it should just fall over. Instead, it charged toward Calen, suddenly deciding that he was the most dangerous threat.
+
+In the briefest fraction of a second when it threw itself forward, Mato’s paw blurred, connecting with the ripping, tearing sound of a tree trunk splitting. The giant Forest Guardian managed two earth-shaking steps toward Calen before its entire bulk came crashing to the ground, tearing a deep furrow several meters long in the scorched earth before the thick roots from Mato’s skill halted its momentum.
+
+Ali’s notification chime sounded. What the…
+
+Your group has defeated Forest Guardian – Wood Elemental – level 36 (Nature)
+
+Calen let out a shuddering sigh of relief.
+
+“Oh, thank goodness,” Ali whispered. While the fight was by no means over, and they would still need to defeat the final guardian without the aid of Calen’s Righteous Fury, at least now they would not need to contend with two simultaneous regeneration auras.
+
+“Thought I was going to have to run again for a minute there,” Calen observed.
+
+Malika leapt up off the fallen Guardian and unleashed her relentless attacks upon the remaining Elemental.
+
+“Switch,” Ali commanded, and as her mages retargeted to the final Forest Guardian, she settled in for a long fight. Even against the full power of all her Fire Mages, and their damage, Ali could see the pulsing of the Forest Guardian’s potent regeneration aura as it worked relentlessly to recover the damage they were inflicting.
+
+But eventually, they wore it down.
+
+Your group has defeated Forest Guardian – Wood Elemental – level 38 (Nature)
+
+“About time,” Malika said, her voice sounding just as exhausted as Ali felt.
+
+“Man, these things are nuts,” Mato answered, transforming back to his normal self. “That first one must have been running on one health point or… I don’t know. It took a crazy amount of damage.”
+
+“They sure are unreasonably robust,” Calen agreed.
+
+It had taken everything they could throw at the monsters, and they had barely succeeded. Without Mato’s retaliation, they might not have killed the first Guardian at all.
+
+“Sorry,” Ali told them. “I thought we had enough damage to kill two. Perhaps we shouldn’t try that again until we’re a bit stronger?” The fight had been an unnecessary risk due to her eagerness to gain the Forest Guardian imprint. The smarter choice would have been patience. “We should have waited till Calen scouted out a single monster.”
+
+“It’s ok, Ali.” Malika gave her a tired smile. “Yes, it was close, but we all agreed to the fight.”
+
+“Well? What are you waiting for?” Mato said, looking at Ali with an expression of anticipation. Ali returned his gaze, puzzled at his meaning, and then he simply pointed at the giant corpse behind him. “Go get it?”
+
+“Oh.” Oh! With a sudden surge of excitement, as she remembered the purpose for their taking the risk on this fight, she rushed over to where Mato stood, and deconstructed the massive elemental, impatiently urging her magic to go faster.
+
+Please please please work… She had so many emotions riding on this that she struggled to even identify what exactly she was feeling. So much hinged on whether she could even learn it, or if it would summon properly.
+
+Variant: Forest Guardian added to Imprint: Elemental.
+
+“I got the imprint…” Instead of calming her down, her success pushed her emotions to an almost unbearable intensity.
+
+What if it doesn’t work? She had so many examples of imprints that had proved to be an enormous disappointment. Her Piercer Scorpions that summoned dead, or all the light elementals she had learned that she was unable to use. Even the skeleton imprint she had tried had been a failure. She didn’t want to think about the trauma she had felt over her book imprint.
+
+She opened her Grimoire and turned to the Elemental chapter; acutely aware she was the center of attention. Everyone was invested in this, and Ali wasn’t sure what she would do when it failed.
+
+If it fails, she forced herself to admit the possibility of it succeeding and channeled her magic.
+
+It was perhaps the longest several minutes she could remember experiencing. She kept her focus on her magic, trying to pretend her emotions were not there, but her body was trembling by the time her magic finally finished, and tears pricked at the corner of her eyes.
+
+Forest Guardian – Wood Elemental – level 37 (Nature)
+
+Your reserved mana has increased by +254.
+
+The giant Elemental appeared with an abrupt suddenness that made Ali take an involuntary step backward. It towered over her, truly an intimidating presence so close. A heavy draw settled onto her mana pool. She stared at the monstrous elemental for several moments, fully expecting it to collapse, evaporate, or somehow vanish. The enormous head turned slowly toward her, setting her heart pounding in her chest, and the deep-set glowing green eyes fixed her with their gaze. From deep within the monster’s massive body, a low-pitched rumble emerged, felt within her body as a tactile pressure vibration through the very air, sending flickers of fear and apprehension through her.
+
+It's alive.
+
+“Holy shit,” Calen whispered.
+
+“Yes!” Mato yelled, dancing about on the charred ground.
+
+Dad… For a moment, Ali saw the memory of her father standing next to the creature and she thought her heart would break. She choked up and her eyes welled with tears, but she blinked them back, allowing the memory to slowly fade. All that remained was his memory and the legacy of his enormous Elementals that were now hers to summon.
+
+“Good work, Ali,” Malika said, regarding her with knowing eyes.
+
+“Thanks, Malika,” Ali managed through the lump in her throat.
+
+She walked toward it and reached out and touched the rough, thick protective bark on the monster’s deferentially lowered head – a head that dwarfed her entire body.
+
+Thanks, Dad… this is for you.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

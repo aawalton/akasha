@@ -1,0 +1,303 @@
+---
+id: 987067a6-ba16-5781-94b1-16cd4d2f45ed
+page-type-slug: story-chapter-royal-road
+title: "Chapter 75: A Dangerous Class"
+slug: 0075-chapter-75-a-dangerous-class
+partOf: dungeon-of-knowledge-complete
+position: 75
+ownLength: 3787
+unit: words
+ownProgress: 3787
+publishedAt: 2024-05-21
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1645053/chapter-75-a-dangerous-class"
+royalRoadId: "1645053"
+markedReadAt: "2026-06-29T20:13:25.908Z"
+---
+
+Alexander sat quietly surveying the dingy tavern, almost deserted in the midafternoon. Lyton did not have much in the way of proper amenities, but at least they had an adequate ale. He was currently the only patron, and he had had to reassure the waitress that his tailored suit did not mean that he was a noble, and she could simply address him as ‘sir’. The ‘my lords’ were getting annoying – just now the useless girl was probably slacking off in the kitchen rather than fetching him a well-deserved tankard.
+
+The rough wooden door slammed open with an abrupt bang, surprisingly remaining attached to its hinges, and in strode a handsome man with short blonde hair, blue eyes, and an expensive white robe.
+
+Roderik Icecrown. Unlike himself, Roderik actually was nobility, which is what made him such a useful asset. Who else would have the connections to acquire the vial he needed on such short notice?
+
+“What the fuck do you want Dreamcloud extract for? Are you trying to kill an entire village?” While his voice sounded angry, Roderik’s eyes danced with a barely suppressed excitement at the idea.
+
+Annoying, but useful, Alexander thought, reminding himself to be civil. He was, after all, a ranking member of the Shadow Council.
+
+“I just want to knock out one Dryad.” It was crucial to his plan that she be unconscious for a couple of days before he used her for his purpose – and setting it up was going to be the culmination of a rather devious and exquisite plan. He was quite proud of it.
+
+“Why don’t you just use Valerian root like normal people?”
+
+“She has at least a third-tier evolved class.” He had done his research before he had come to Lyton, and, while it was difficult to find accurate data, he had been thorough. The Dryad inhabiting the Lirasian Forest was an ancient recluse, and almost certainly close to level three hundred – if the rumors were to be believed. It was she who would be the unwitting mouse that sniffed out the cheese for him.
+
+“Are you fucking crazy?” Roderik stared at him in shock.
+
+“As you’re well aware, our Master does not set tasks of little or no consequence.”
+
+“One thousand gold,” Roderik demanded, producing a delicate vial containing a softly glowing liquid of the deepest violet.
+
+Excellent, he found it. It was the only thing that would work for his plan. He was certain that the Dryad would be resistant to anything less. But Roderik was definitely trying to pull one over on him with the demand for a thousand gold – probably banking on him being desperate.
+
+But I know his weakness.
+
+“One hundred,” he countered, holding back his trump card to heighten the effect. If he knew one thing about Roderik, it was his single-minded focus – such a simple negotiation device would not work on most of his associates, but in this case, it would be more than enough to sway the likes of Roderik.
+
+“Do you know what I had to go through to get this? One thousand, not a single gold lower.” Roderik frowned, and Alexander couldn’t help but compare him to a sulky teenager.
+
+“One hundred, and you can have this entire village. I just need a few unclassed youths for my Sacrifice magic like last time.”
+
+“You mean that?” Roderik paused in surprise, a sudden gleam of greed dancing in his eyes. He licked his lips lightly.
+
+Got him. Without a word, Alexander summoned a pouch with one hundred gold coins and dropped it on the table with a heavy thud, knowing that the deal was sealed.
+
+“Your ale, sir,” the waitress interrupted, arriving with a large wooden tankard and a smile for the new arrival. “My lord –”
+
+The temperature at the table suddenly dropped. There was a soft whooshing noise and a sickening squelch. A wooden tankard clattered across the ground splashing ale in all directions. Fuck, that was my ale. The waitress blinked, staring down in stupefaction at the thick lance of ice protruding from her chest before toppling sideways and hitting the rough wooden floor with a dull thump.
+
+Always so hasty, Alexander thought, staring in annoyance at his ale lying now on the floor, mingling with the blood of the waitress. Oh well. He pulsed a little mana into his second ring, storing the Dreamcloud extract.
+
+“Just because we’re friends, Alexander, I should let you know Dreamcloud won’t work on the Dryad,” Roderik said with a smirk.
+
+“What?” Alexander exclaimed.
+
+“They’re almost immune to plant extracts and poisons,” Roderik said.
+
+“Fuck, are you trying to screw me over?”
+
+“Don’t be silly,” Roderik said. “How about this: if you throw in the full thousand gold, I will get something far more potent from the Shadow Council. Something guaranteed to take out a three-mark Dryad. Something crafted by the Master…”
+
+“The Master?” Alexander whispered, eyes suddenly widening.
+
+“Yes!” Roderik said.
+
+Wordlessly Alexander dropped the rest of the gold in his waiting hand.
+
+“I can have it here by tomorrow,” Roderik announced, making the pouch of gold disappear before he sprinted out of the inn like a kid excited to play hide-and-seek.
+
+Something from the Master. Alexander slowly smiled as the sounds of screams and wet thuds rose from outside. So predictable. Noisy too. Roderik had not the slightest inkling of nuance or subtlety. At least his plan was coming together.
+
+Still lamenting his spilled ale, he got up and raised the skeleton from the body of the waitress before sending a mental call to the zombie trolls he had left hiding in the woods and stepping out into the main street.
+
+This village will make a good base for the first phase of the plan, he thought, turning his gaze to the dense wood of the Lirasian Forest.
+
+Vivian sat on the couch in the guild hall studying her notes. Her lecture on strategy and group dynamics had been a great success with the newest novices all attending, and most of them asking good questions. Havok had been a bit of a handful, but even he seemed to be absorbing the finer points of combat strategy like a sponge.
+
+Ignoring for a moment the incongruous image of a Goblin paladin wielding a rusty sword enchanted with holy flames, the five recruits had been a huge windfall for the guild, particularly after the recent loss of Katie. Devan and Havok didn’t have homes, but there were bunks downstairs, and both seemed highly motivated to level up and begin earning their keep.
+
+The only thing that was still bugging her was the enigma of Aliandra.
+
+How does she have a dungeon shrine?
+
+She knew that questioning good fortune was a recipe for disappointment, but somehow, she just couldn’t let it go. Aliandra had, after all, taken a group of classless people, some of them society’s worst rejects, and given them both mana affinities and potent combat classes. In fact, nine of twelve people had received magical affinities in the end. Impossible odds.
+
+And that was not all. In addition to a shrine that burnt through hundreds of thousands of mana, if not millions, Aliandra had equipped the candidates with weapons and then created monsters for them to fight, manufacturing a highly effective combat trial to ensure they unlocked excellent classes.
+
+Aliandra had the entire package, the ability to create combat classes from ordinary people – whenever she wanted – and was already a member of the guild.
+
+I should be ecstatic, she told herself sourly. Browsing the guild shop, was the person who could single-handedly populate the entire guild with advanced classes.
+
+And yet…  she worried at the issue, like a dog with a bone.
+
+“Hey, you’re the new guys, aren’t you?” The overly loud voice of Braden called out across the guild hall and Aiden looked up at his approach.
+
+“Yup, we just joined, I’m Aiden,” he answered as Vivian tried to tune out the background voices.
+
+“I’m Braden. You should join us leveling down in the dungeon! It’s great experience.”
+
+What dungeon?
+
+“Dungeon?” Aiden’s surprise echoed her own.
+
+“Well, it’s not really a dungeon, we just like to pretend. But the sewers have real monsters and they’re great for leveling up. Also, they seem to respawn quickly so you can go down there often to grind out some experience.”
+
+“Oh, thanks for the tip! We got our combat trial in there.”
+
+The two continued their banter, but Vivian sat stunned as if struck by a bolt of lightning.
+
+Fuck. How could I be so blind!
+
+All the evidence was there, right in front of her. The dungeon shrine, the incredibly dense mana. The magically grown biome – trees did not grow underground in the darkness. The monsters defending the sewers. There were even traps.
+
+She’s a dungeon.
+
+The cold grasp of icy fingers closed around her heart as the certainty of it settled in with the weight of a millstone made of ice-cold granite. Vivian stood up slowly. “Mieriel, may I see you in the meeting room for a moment? It’s urgent.”
+
+She spun on her heel and strode to the meeting room with Mieriel hurrying along behind.
+
+“Please close the door,” she said, and as soon as Mieriel shut it, she continued, lowering her voice just in case the wards were not enough.
+
+“I need your skills. Aliandra is a dungeon, and we need to get to the bottom of this now. Before it’s too late.”
+
+“Are you sure?” Mieriel asked, suddenly serious, her face paler than normal.
+
+“As sure as I can be without your skills. Bring the boy Calen in here, we need to start with him.”
+
+“Ok.” She turned and left the room.
+
+As soon as Calen entered the room and sat down, Mieriel began channeling her Augmented Deduction, feeling her mind grow clearer as her magic enhanced her focus and faculties. She reached out with the subtle tendrils of Memory Coercion, gently suggesting to Calen’s mind that whatever happened was not important enough to remember. It was a subtle dance of mind magic that had to be perfect to avoid raising the subject’s suspicion, but Mieriel’s life depended on her using this skill to hide her identity daily, and she was extremely proficient with it.
+
+“What’s this about?” Calen asked, already ignoring her and focusing on Vivian.
+
+Mieriel cast her Convincing Story skill, her mind magic flowing out to convince Calen’s mind that she spoke with authority.
+
+“The Guildmaster just has a few questions, and I want you to answer them as honestly as possible, ok?”
+
+Calen looked up at her in surprise, and as soon as their eyes connected, she cast Charm Person, feeling their minds connect. It was the most delicate of skills. If he suspected foul play, or didn’t already trust her, it would backfire spectacularly. With great care, she layered her magic into his mind, gently eroding his natural defenses and his resistances faded.
+
+“He’s ready,” she said. It was this skill that had earned the hate of her hometown and gotten her tossed into a dungeon to be food for the monsters.
+
+Vivian knew the drill. After all, they had performed this routine enough times that Vivian knew intuitively how to ask the questions in a way that wouldn’t evoke suspicion and break her fragile charm magic.
+
+“I remember you told me you had a skill for identifying dungeons,” Vivian began, her voice friendly and calm, even though Mieriel could feel the palpable tension behind her façade.
+
+“Yes,” Calen answered, and she could feel his belief in the truth of what he was saying through her Empathy skill.
+
+“You used it when you explored the Goblin dungeon for me, right?” Vivian asked.
+
+“Yes, but there was no dungeon there.”
+
+“I wanted to ask you, have you noticed anything unusual with your skill around your friends?”
+
+“Oh yes. I noticed that every time I go down into Ali’s domain, my skill tells me it’s a dungeon.”
+
+Mieriel caught Vivian’s eyes, but Calen continued.
+
+“At first, I didn’t believe it, because it’s Ali, you know? We were in the middle of this other dungeon – the Ruins of Dal’mohra. It’s incredible, did you know it’s the real ruins of the ancient city?”
+
+“That is amazing,” Vivian said. “What do you believe about your skill and Aliandra now?”
+
+“Oh, I’m certain she is a dungeon. We all had a talk about it, but we decided not to tell her. She has had enough trauma already, and we didn’t want to burden her with that too.”
+
+“I see, thank you Calen. You can go join your friends now.”
+
+Mieriel let her skills drop as soon as he left. Calen’s emotions clearly told her that he was sincerely worried about his friend, and he was eager to help Vivian with all her questions. He believed the truth of everything he had said.
+
+“I knew it,” Vivian said, clenching her teeth. “I knew it was too good to be true.”
+
+“What are you going to do?”
+
+“Get Aliandra in here, we need to verify it at the source. We need to find out when she’s planning to destroy the town and how to stop it.”
+
+“She will be harder than Calen,” Mieriel warned. She didn’t know exactly what it was, but Aliandra’s mind was very hard to shift. Either she had a mental defense skill, or her wisdom was incredibly high or enhanced.
+
+“We just need her for a few minutes, can you do that?”
+
+“Ok,” Mieriel answered, straightening her shoulders. She retrieved a mana potion and downed it before she left to invite Aliandra to her interrogation.
+
+***
+
+“Vivian, stop.”
+
+“I can’t stop, we have to find out the truth! Why did you ask her to sleep? Wake her up.”
+
+“Vivian, you’ve interrogated the girl till she’s ready to break down. She can’t take any more.”
+
+“I don’t understand how she can still be resisting.”
+
+“Vivian, she isn’t resisting. I told you that already. Everything she said is true.” Mieriel’s heart had broken when she heard Aliandra spilling her tale about the Blind Lich and the death of her mother and father. Connected to Aliandra’s mind with her magic, she had experienced her pain, she had lived it with her. The tears Aliandra had spilled onto the table as she desperately recounted her life were not even nearly enough.
+
+“She’s a dungeon. Why are you being so soft, Mieriel?”
+
+“Vivian, I can’t take it anymore!” she yelled, finally snapping Vivian out of her single-minded focus as she stared at Mieriel in surprise. “You forget, I’m in her mind when you do this. I can feel what she feels. She doesn’t know. She really doesn’t.”
+
+“She’s a dungeon, Mieriel. We cannot let her roam free. Dungeons are evil, devious, and incredibly dangerous. If we don’t stop this here, we will be too late to prevent the disaster when it happens! And it will happen! We both know that.”
+
+“So, you’ll kill her? Just because she has a dangerous class?” Mieriel managed through clenched teeth.
+
+“Yes. I have no choice.” Righteous anger and fear poured from Vivian’s heart like a storm.
+
+“A dangerous class, like a Mind Mage?”
+
+Vivian’s eyes shot up connecting with hers, but this time Mieriel held her gaze, refusing to look away.
+
+“I remember when they came for me,” Mieriel whispered. “When they wanted to kill me because I have a dangerous class. Mind Mages are too dangerous, they said, when they tossed me into that dungeon, naked and bleeding, food for the monsters.” Mieriel held her locked gaze until she felt the flutter of uncertainty in Vivian’s anger. “I will never forget the sight of my savior – my knight in shining armor – fighting her way down into the depths of that dungeon to save me. Do you remember what she said?”
+
+“She never did anything wrong. She doesn’t deserve to die.” Vivian answered quietly, echoing the words she had spoken all those years ago. “Damn dungeons!”
+
+“Vivian, don’t turn into those people you stood against. I couldn’t bear it, you’re better than they were. This Fae girl has a dangerous class, just like me, and she doesn’t even know it. She deserves a chance.”
+
+“I… I’m sorry Mieriel. I’ve lost so many good people to dungeons, and I’m terrified to lose the few I have left. I don’t want to lose you, too.”
+
+“Nor do I want to see you turn into the monsters you stood up to,” Mieriel said, holding firm. Vivian was stubborn, and this was the only way to make her see. But inside she was scared, too. She still had nightmares of the warped and twisted monsters that had lurked in that dungeon.
+
+“Can you take her to her friends? Make sure they take care of her? I need some time… time to think,” Vivian said, her voice rough and subdued and her face blanched to the color of a sheet. Her heart was a maelstrom of conflicting, agonizing emotions. Self-loathing and guilt mingled with fear and anger to crash up against her Empathy. For all her skills, Mieriel had no idea where Vivian might land in the end.
+
+Bending down, Mieriel drew the small, frail Fae into her arms and carried her out into the guild hall.
+
+“What did you guys do to her?” Malika asked, leaping out of the couch and snatching Aliandra from her arms.
+
+“She’s just exhausted and needs some rest, will you take care of her for me?” Mieriel asked, channeling a little mana to increase the weight of her words, and layering in a little of her Misdirect Attention skill, drawing Malika’s attention to Aliandra instead of herself. She wove a little of her Memory Coercion more broadly to encourage their minds to forget.
+
+“Ok, I’ll take her home,” Malika said, turning her back and walking to the door.
+
+I hope you’ll forgive me, Aliandra. If you ever remember this conversation.
+
+***
+
+Name: Mieriel DawnbloomRace: Sun Elf
+
+Class: Mind’s Eye – level 49- Empathy – level 25- Heightened Perception – level 35- Memory Coercion – level 30- Augmented Deduction – level 26- Mind for Espionage – level 36- Misdirect Attention – level 22- Inconspicuous Presence – level 31- Convincing Story – level 24- Charm Person – level 20- Astral Projection – level 10
+
+General Skills- Reading – level 15- Identify – level 14- Politics – level 21- Etiquette – level 16- Acting – level 5
+
+Aptitudes- Languages: Elvish, Dwarven, Common- Mana (Affinity): Mind- Alert (Racial): +11 to Intelligence and Perception
+
+Attributes- Vitality: 50- Strength: 14- Endurance: 17- Dexterity: 46- Perception: 315- Intelligence: 363- Wisdom: 276
+
+Equipment- Head: Analyst's Glasses of Perception – level 35- Ring: Silver Guild Ring – level 30
+
+Health: 500/500Stamina: 170/170Mana: 2208/2208 (+552 Reserved)
+
+“There is definitely something fishy about her. I don’t trust her at all!” Malika was adamant about it. Something was off-kilter. They had most certainly done something to Ali – and that made her furious.
+
+“I don’t know what you mean. Mieriel is nice – she seems perfectly trustworthy,” Calen answered.
+
+“That’s the problem. She’s too nice.”
+
+“You just don’t trust anyone,” Mato chipped in. He was already making some soup at their campfire, just in case Ali woke up.
+
+“Yes. Other than you guys, I don’t trust anyone.”
+
+“See, you should try trusting people more. That’s what normal people do,” Mato said.
+
+“I don’t think you’re getting it. I don’t trust anyone normally. So why do I feel that Mieriel is as trustworthy as you guys? I don’t even know her well enough to know her last name.” It was honestly the strangest feeling. Every time she thought about Mieriel, which was strangely infrequently, she felt uneasy. But when she was in the guild hall, Malika felt like she could trust her with anything.
+
+“Oh,” Calen said with a soft voice. “That’s what you mean.”
+
+Finally, someone gets it. “Yes, it’s weird.”
+
+“So, a normal person wouldn’t notice someone messing with their trust because they trust many people by default. But for you, that trustworthiness is incongruous against the backdrop of a default distrust?”
+
+“Yup, but I don’t know what we can do about it if she’s fucking with us.”
+
+At least Calen was smart enough to figure out what she meant. It had been hard enough to explain it even to herself. The minute the words came from her mouth, she realized the truth. Mieriel was dangerous. She had hurt Ali. Hurt her! What surprised her most was the sudden rage, the vengeful thoughts, that had her picturing wrapping her fingers around that nice woman’s neck! No. She was not Tala and never would be – but damn, she would –
+
+“I have a few ideas for this kind of thing,” Calen said, pulling out his notebook.
+
+“Like… what kind of things?” Malika asked. Trust Calen to have thought of something like this already.
+
+“We plan things out down here, and we write it down in the book. Then we try it out up there and compare notes after the fact. The notebook will remind us of what we planned in case we’re made to forget anything,” Calen explained.
+
+“I haven’t forgotten anything,” Mato said firmly.
+
+“You’ve Identified Mieriel?” Calen asked.
+
+“Of course,” Mato answered confidently.
+
+“What level is she? What kind of class does she have?” Calen asked.
+
+“Yes, it’s …” Mato blinked. “I know I’ve identified her…” A look of surprise and confusion flickered across his face. “I can’t – why can’t I remember?”
+
+“Yes, same for me,” Calen said, writing something down in his notebook. “That’s our first test. Can we Identify her and remember what we see?”
+
+“How do we fight something like that?” Malika asked.
+
+“Wisdom is the mental fortitude attribute,” Calen said. “When we go through the remainder of the dungeon, and level up, you should all spend points on wisdom. Especially you and Ali.”
+
+“Wisdom will help?” Malika asked. If it was just a matter of spending some more points that was something she was definitely going to do. Wisdom was one of her class’s primary attributes.
+
+“Yup,” Calen said. “And Ali should wear her adventuring gear that mom made for her. Magic resistance will help a lot too.”
+
+“I’ll tell her when she recovers,” Malika said. If wisdom and magic resistance were their defenses, she’d keep an eye out when she visited Weldin too. Perhaps a few items could help.
+
+Ok, now we’re getting somewhere, Malika thought. Mieriel would not get away with this. She and Vivian were up to no good, she knew it! Are they planning to steal Ali’s shrine? Or… worse? If they suspected her, why hadn’t they just killed her?

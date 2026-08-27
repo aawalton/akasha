@@ -1,0 +1,395 @@
+---
+id: c22d197f-4200-5878-a23f-112d6ead3e60
+page-type-slug: story-chapter-royal-road
+title: "Chapter 183: Hunting Undead in the Forest"
+slug: 0186-chapter-183-hunting-undead-in-the-forest
+partOf: dungeon-of-knowledge-complete
+position: 186
+ownLength: 6305
+unit: words
+ownProgress: 6305
+publishedAt: 2025-01-14
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2009585/chapter-183-hunting-undead-in-the-forest"
+royalRoadId: "2009585"
+markedReadAt: "2026-06-29T20:17:22.961Z"
+---
+
+Calen skirted the stagnant pond and the wisps of violet mist that seeped from its waters, scanning the decayed trunks for signs of undead. He did not have Mato’s attachment to nature, but even he felt sick at the sight of the creeping miasma and death that hung over the rotting remains of the vibrant forest he had spent so much of his youth exploring.
+
+Fucking necromancers. He glanced backward guiltily, catching sight of Seth bringing up the rear with his skeletons. I guess not all of them are bad, he quickly corrected himself. Alexander Gray, however… he deserved every bit of Calen’s ire. If they hadn’t already killed him, he would do it again just because of this devastation.
+
+He darted up the side of a low rise, weaving around the rot and decay, and paused as he reached the crest, studying the landscape up ahead. Both Teagan and Aiden’s groups had jumped at the opportunity to join him and Mato on this hunt, so he was escorting an entire raid group of bronze-ranked adventurers through the decrepit fallen boughs of the once beautiful forest to the south of Myrin’s Keep. Can’t even call this a forest anymore. No. It’s a graveyard. A grave for trees.
+
+“Show me,” he said. His shadows, Willow and Devan, approached, demonstrating the results of their training with the guild – both moved across the soggy ground with respectable silence and stealth. Calen nodded to himself. They were well on their way to becoming skilled scouts.
+
+“Here,” Willow said. “Cami can smell them.”
+
+The Adventurers Guild had been contracted to decontaminate the blight with a priority to focus on opening the South Road. This was the same road the Kel’darran slaver caravan had taken when they had captured Malika and him. Most of the trade with Southport and the southern half of the continent remained blocked and the town had had to tighten their collective belts to make ends meet. However, even the Guildmaster balked at the magnitude of the task before them.
+
+One bit at a time, he thought. As Ali always says.
+
+Cami sniffed at the dirt, wandering about in random circles for a while. Suddenly the imposing Timber Wolf stiffened, her hackles rising to expand her already impressive bulk, and then glanced at Willow as if encouraging her to follow and padded off down the hill in a direct line.
+
+“She found something,” Willow said, unnecessarily.
+
+Calen examined the trail carefully. His Explorer skill quickly identified what Cami had found, traces of unnatural scrapes and prints. “That looks like the abomination,” he said.
+
+“Definitely,” Devan said. “Here, look at this.” Her sharp eyes had picked out some scrapes along the bole of a dead tree – marks that were anything but natural.
+
+Calen nodded. His companions had invested well, their perception skills were excellent. He glanced up at the sight of a pair of zombies shambling along, following the tracks with unerring accuracy.
+
+“Abomination,” Seth said, quietly.
+
+And then, of course, there was Seth. The necromancer could see undeath through the eyes of his minions.
+
+With the trail finally found, they made quick progress, winding their way across hills, past ponds, and through valleys. Behind him, the occasional sounds of combat drifted across the dead landscape as the remainder of the raid group tackled the wandering undead, but Calen remained focused on his primary prey, his unease growing as they drew closer. The area they traveled through was already unnatural enough, filled with shambling undead, blighted trees, and even miasma seeping from the ground itself – but despite all that, something even more unnatural lurked nearby, just below the threshold of his ability to clearly identify what it might be.
+
+But then, as he passed a dense pile of decaying wood where several trees had collapsed, he caught sight of the twitching, shambling mass of stitched and animated undead flesh, spewing clouds of dark gas into its surrounds. It shuffled about unhurriedly, multiple eyes swiveling back and forth independently as if searching for something.
+
+Calen ducked back behind a tree trunk, fading into the shadows. “There it is,” he whispered. “Devan, stealth. Seth, hide! Willow, go get the others.”
+
+They all leapt to follow his orders.
+
+Mato had hoped that the outing to hunt undead with the bronze-ranked adventurers would be a nice change of pace, but the longer they trekked through the desolate blighted forest, the more depressed he grew. It wasn’t just that the dead forest had once been a lush and vibrant expanse, filled with life. Death was part of the cycle of life, as Lira had been teaching him. This was not part of the balance of nature. It was the cloying weight of the unnatural miasma – the legacy of the necromancer – that infused everything around him. Nothing lived. Everything that moved was the spawn of undeath – he felt like an interloper here. An intruder for the crime of living.
+
+“Good armor,” Havok declared, rapping a grubby knuckle against one of the banded plates protecting his left hip and jolting him out of his dark funk. “Where get?”
+
+Mato glanced down at the enthusiastic Goblin and couldn’t help the smile that snuck onto his lips. “Thuli made it.” Havok had an abysmal command of the Common language, but Mato had already seen enough during the skirmishes against the unending trickle of skeletons and zombies that he respected his instincts when it came to his role in the group.
+
+“What is… Thuli?” Havok asked, his Goblin lips struggling over the first syllable of the Dwarf’s name. It came out more like a spitting noise.
+
+“He’s an excellent blacksmith,” Mato said, glancing over Havok’s shabby leather armor and the shield that had seen better days. Is he still using the same bone sword Ali gave him? “Did nobody tell you about plate armor?”
+
+“Plate?”
+
+“Yes, heavy steel armor, like this,” Mato flicked a finger against the interlocking section across his shoulder, making it ring. “If you’re going to take tanking seriously, we need to get you better armor. Where did you get your stuff?”
+
+“One-eye Gnome,” Havok declared, brushing a bit of dirt off his jerkin with the edge of his battered buckler.
+
+“Aah,” Mato said. Weldin was convenient for the new adventurers in the guild, but his selection of tanking armor was limited at best. “Thuli also makes excellent shields.”
+
+“Oh! Havok like shield!”
+
+“Dude, you’re going to love Thuli, then,” Mato grinned. At level seventeen, the Goblin should really be investing in better gear, but he couldn’t fault him – after all, Mato had been around twenty when he had got his first armor set made. On the other hand, they had already introduced Sabri to the smith. What the heck is the Guildmaster teaching these guys? Proper gearing – particularly for the tanks – needed to be part of their education or preparation. Did he miss the memo because of his difficulties in understanding Common? Or can he just not afford better equipment? Either way, allowing the tank to fall behind was a problem for the entire group, not just the individual. On their team, he regularly discussed his gear choices with Calen, Malika, and Ali to make sure the team could afford the right resistances or defensive enchantments.
+
+“Hey, Aiden…” Mato called out, catching the eye of Havok’s team leader. But right then he caught the sounds of running footsteps and the distinctive loping rhythm of heavy canine paws splatting against the mud of decaying leaves.
+
+“We found it!” Willow shouted as she and Cami rounded the massive bole of a snapped oak. “Just up ahead.”
+
+Mato grunted at her, and then shuddered at the image of the horror Cami dumped into his mind with the surprisingly articulate thought, “Hunt! Wrong… kill.”
+
+“Yes,” he answered, reassuring the wolf that they were going to hunt the evil monster – and then aloud, he added, “Take us there.”
+
+“This way,” Willow said, and spun about, darting back the way she had come. The entire raid group sprang into action following her. The path meandered around the dead trees and blighted ground, all of which made the hair on the nape of his neck stand on end, but no more than ten minutes later, he spied the monster lurking in a small gully with a tainted stream of water flowing through it.
+
+Blighted Patchwork Horror – Undead Abomination – level 39
+
+He snarled at the unnatural undead monster. Beside Willow, Cami’s hackles were raised, and a low rumbling growl came from deep within the upset wolf’s broad chest. Catching Calen’s scent, Mato turned and asked, “What’s the plan?”
+
+“You can just tank it, and everyone kills it,” Calen answered, his form shimmering briefly as he appeared beside the tree trunk.
+
+“Hmm… yawn,” Mato said, glancing down at the eager Goblin holding his buckler and bone sword at the ready. “They won’t get much experience that way.”
+
+“What do you suggest?” Calen asked as the two team leaders gathered up, both of their attention riveted on the abomination shuffling about below.
+
+“Why don’t we have Havok tank it?” Mato suggested. “I can tree up and take care of the blight issue.” He left it unsaid that he would be able to look after Havok with his damage redirection – Calen would know to take that into account – especially seeing as a level thirty-nine abomination was probably out of Havok’s league. But he had faced these before, and by far the most dangerous aspect of the fight would be the undead blight that seeped into everything, progressively weakening the living – and could turn people into zombies if they died.
+
+“Can he handle that?” Aiden asked.
+
+“Mato can help him,” Calen said.
+
+“That miasma looks dangerous,” Teagan observed.
+
+“It is,” Calen said. “But Mato’s tree form is our best antidote. I think it’s a good plan. Havok, tank it over there in that clear spot by the stream. Everyone else, wait a little until Havok has secured it, and then wipe it out. Don’t hold back, Havok’s holy damage will hold the undead like glue.”
+
+“Got it,” Teagan nodded.
+
+“Ok,” Aiden said. “My team, group up this side, get ready. Check your recall potions, just in case!”
+
+“Havok smash!” Havok declared, taking his spot up front.
+
+Calen shifted awkwardly, clearly still uncomfortable with assuming the mantle of leadership so easily. It was something he would need to get used to. Logically, he was the highest-level and most experienced adventurer in the group, besides himself, and Mato would be shapeshifted and unable to speak with anyone besides the wolf.
+
+“Get ready, Havok,” Mato said. “My aura might piss it off.” As soon as the Goblin nodded, Mato picked a spot on the hilltop and shifted, pushing his roots deep into the blighted soil and thrusting his branches out across the bleak landscape. His bark crawled at the sense of the miasma, blight, and death, but as his form took, his aura burst outward, to exclamations of surprise from the adventurers, and the blight began to dissolve in an enormous radius around him.
+
+Down in the gully, the abomination froze, a half dozen eyes springing open from within mismatched dead flesh.
+
+“Havok, go!” Calen commanded.
+
+The valiant Goblin did not need to be told twice. His shield flared with the brilliant light of holy magic. A similar enchantment infused his bone sword, and his compact green form blurred into motion, tearing across the rotting ground to shield-slam the abomination.
+
+Mato watched as he skillfully maneuvered the bigger monster across the terrain to the designated tanking spot with deft strikes of both his glowing sword and shield. Not bad. The Goblin’s instincts for tanking were superb – even better against the stronger foe than the rabble earlier. Then he dropped a ring of white flickering holy fire on the ground – a fire that seemed to annoy the monster tremendously, which made Mato a big fan.
+
+“Ok, kill it,” Calen said, and the entire raid group engaged with determined shouts and a hail of magic and arrows.
+
+Mato reached out through his aura, sensing everything within. He pulled half the damage of a powerful strike away from Havok, taking it upon himself. The Goblin struggled to block all the attacks from the various claws and appendages, but Mato could see the strikes and took the bulk of another, as a vicious claw bit into Havok’s leg from below the monster. It wouldn’t have killed him outright, but it was obvious that Havok was tanking way above his class level, and his weak gear was not helping much.
+
+You have been infected with Undead Blight.
+
+Mato ignored the notification as the blight rapidly eroded under the force of his aura, fading away.
+
+“What?” the shaman girl, Teagan, exclaimed. “He just got hit, but there’s nothing to heal!”
+
+“Damage redirection,” Calen said, his voice clipped and quick in the heat of battle. “Heal the tree.” Mato felt Teagan’s eyes widening in surprise, but moments later he felt the familiar sense of nature magic healing his wounds as a green beam shot out from her hand and connected to his trunk briefly.
+
+Something rustled and scrabbled in along the edge of his awareness, setting his bark to prickling.
+
+“Cami, adds,” he said, reaching out to the only mind that could hear him.
+
+As always, he chafed at the inability to communicate efficiently. He searched down deep, below even the reach of the miasma, finding seeds and the remnants of roots, some still with life in them. Rampant Growth surged and briars and vines exploded forth from the ground, reaching and grasping at the legs of skeletons and zombies as they were drawn in by the mana and the sounds of combat.
+
+“Adds,” Willow shouted, echoing Mato’s warning to her companion.
+
+“Adds,” Calen announced at the same moment, noticing the action of his roots instantly. “Kaitlyn and Willow, kite them to the center.” The two archers responded promptly, firing arrows and sprinting into position. As he felt the undead focus on them, he released them one at a time and watched as they shambled into the holy fire of Havok’s consecrated ground, getting stuck there by the taunt, forced to fight the Goblin instead.
+
+More and more undead joined the fray, until Mato found himself struggling to pin one down.
+
+Another abomination.
+
+But Calen shot that one dead center, and quickly kited it to the growing horde of undead smacking the tiny figure of the Goblin defending himself with his glowing holy shield. “Another abom – keep an eye on him, Mato!” Calen shouted urgently, spinning in place as he searched their surrounds.
+
+Got it, Mato thought, again unable to confirm that he had it covered. He allowed all the weaker undead to strike Havok directly, taking only the most powerful of the abomination’s attacks, and relying on his aura to constantly cleanse the miasma and blight from the entire group.
+
+“This regeneration aura is fucking dope,” Kaitlyn exclaimed, as she unleashed a hail of lightning-enchanted arrows into the crush of undead.
+
+“I’m healing non-stop, and I haven’t had to use a mana potion yet,” Teagan said, sounding awestruck.
+
+If he could have, he would have chuckled, instead, he just redirected the bulk of the steady stream of damage from Havok to himself while controlling his roots and brambles.
+
+“Ok, area damage spells, one at a time,” Calen announced, picking people out by name to make an impromptu rotation.
+
+Mato focused his senses on the melee, knowing he would need to pull damage from several more people now, but Calen did not participate, and the damage was therefore not extreme.
+
+Notification chimes sounded in his mind like corn popping in a skillet as the lesser undead monsters fell in droves. Finally, the area damage faded as the whole group refocused on the two remaining abominations, burning down both steadily, one at a time.
+
+Your group has defeated Blighted Patchwork Horror – Undead Abomination – level 39 x2Your group has defeated Warrior – Zombie – level 1-4 x16Your group has defeated Warrior – Skeleton – level 3-7 x8
+
+Mato left himself in Tree Form for a little while longer until Calen stored the two Blighted Patchwork Horror corpses, and then he shifted back to his Beastkin form, happy to breathe the blight-free air that his aura had created.
+
+“Holy shit, that thing was level thirty-nine!” Aiden exclaimed in surprise.
+
+“Havok strong!” the intrepid Goblin announced, flexing his sword arm.
+
+“I leveled up!”
+
+“Me too!”
+
+The group gathered around, exclaiming in excitement and wondering aloud if there might not be a few more Abominations lurking in the forest. Calen didn’t have the heart to puncture their enthusiasm. Instead, he let himself pat a few backs and shoulders, and soaked in the enjoyment of the moment. This is proper training, and decent gains for these guys. We should do this more often.
+
+Wow, so that’s what a raid is supposed to feel like, Seth thought, ignoring his notifications and the level he had just earned for the moment. Calen and Mato were both much higher level than their groups, but he hadn’t realized just how much more effective they could be. In seconds, they had adjusted the strategy to maximize the group’s experience, and Calen had pivoted the entire group like a conductor when a second dangerous abomination had joined in.
+
+We have much to learn. And he’s running strategy workshops at the guild, Seth recalled, glancing over to find Calen bent over by the corpses of the abomination with the dark miasma still billowing up around him. The putrid clouds subsided the moment he stored them.
+
+“Would it be possible to study those?” Seth asked, strolling over to join the high-level archer. He wasn’t certain his class would allow him to make something like them, or even if he wanted to, but studying the undead might give him some interesting future unlocks or advancements.
+
+“Sure, but let’s wait till we can unload them in Ali’s dungeon,” Calen answered.
+
+“Why there?”
+
+“They don’t stop emitting the miasma and infecting things with the undead blight even long after they’re killed. Short of totally incinerating every shred of their bodies, Ali’s magic is the only thing we know of that can effectively dispose of them.”
+
+“Oh, I guess I’ll need some potions to even study it then?” Seth asked. That seemed remarkably inconvenient. Expensive, too. The guild certainly wouldn’t fund potions for that, even though they were covering the cost to decontaminate the blighted forest.
+
+“That, or you can ask Mato to borrow his tree for a while,” Calen smiled.
+
+“Ok,” Seth answered, not exactly encouraged by the suggestion. It was nothing he could put his finger on, but it seemed that he made Mato uncomfortable. The huge Beastkin really disliked the undead.
+
+“Seth,” Calen interrupted his thoughts. “While you’re here, do you have a moment to look at something for me?”
+
+“Me? Sure.” He followed as Calen led him deeper into the dead forest, Willow and Devan following somewhere behind, dodging the skeletons he brought with him.
+
+“What can you tell me about those tracks?” Calen asked, pointing to something on the ground.
+
+There were some vague depressions, but Seth had no tracking skills. That can’t be what he’s asking, which means…
+
+He summoned a Volatile Wraith and set it to circling the tracks while he spent its full fifteen seconds of life studying the ground through its strangely dislocated spirit vision. What he saw sent a chill down his spine. The tracks positively glowed with dense death mana that wafted up from the ground, slowly dissipating into the surroundings. It was hard to tell exactly what had made them, but it had to be some species of Greater Undead. That much was certain. Something far more ominous than anything they had faced so far in this blighted forest.
+
+“Greater undead,” Seth said, earning a gasp from Willow who had drawn closer to examine the tracks. “I’m not certain, but if I had to guess, I’d say it might be a Wight.”
+
+“I was afraid of that,” Calen said, a deep frown furrowing his brow. “The tracks are a couple of days old, so it’s long gone now.”
+
+“What does this mean for the blight cleanup job?” Willow asked.
+
+“Definitely nothing good,” Calen said. “We need to let the Guildmaster know immediately.”
+
+Despite Calen’s assurance that it wasn’t nearby, Seth glanced anxiously at the dark shadows lurking deeper in the forest, unable to shake the sense wrongness.
+
+“Here you go, Ryn,” Ali said, depositing the last original book onto the top of the pile, taking care to not disturb Malika studying a martial arts book beside her. It was getting more difficult to tell the originals apart from her copies – as her skill levels and attributes grew, her customization offered progressively finer control of every detail of her creations.
+
+“Perfect,” Ryn said, and then her eyes suddenly opened in a flicker of surprise.
+
+“Level?” Ali asked.
+
+“Yes!” Ryn grinned. “What are you planning to do today?”
+
+Ali glanced at Malika for a moment. Mato and Calen were out helping the bronze-ranked guild members today, so she had a little free time. “I think I need to clean up a little, and maybe do some maintenance on the dungeon today.” There was a whole long list of things she had been putting off due to lack of time.
+
+“In that case, I think I’ll return this stack and get a new batch,” Ryn said, placing a hand on top of the pile of books that was nearly as tall as Ali.
+
+“Ok. Do you want to come with me, Malika?” Ali asked. “Or stay here?”
+
+“I have a martial arts class for the new recruits in half an hour,” Malika said, looking up from her studies.
+
+“See you both later then? Maybe around dinner time?” Ali asked.
+
+“Mhm,” Malika nodded.
+
+“Sure thing,” Ryn said with a wave. Then the pile of books under her hand vanished into her storage, and she vanished immediately after, presumably to the library.
+
+Ok, now where to start? Ali thought, heading out into the forest cavern.
+
+***
+
+The first thing Ali did was to substantially expand her crop of Flame Lashers and Fire Grass. With the amount of time they were spending in the mines, they were using them up at a phenomenal rate. Perhaps I should just try learning to make the elixirs…
+
+It was not the first time she had thought that, but each time she worried that she would be putting Morwynne or Eliyen out of business. Not that she was planning on flooding the market or anything. More critical, though, was the fact that she had always struggled to find space in her Grimoire – in this case, being able to have them made from ingredients and components she could create was simply a minor inconvenience in time.
+
+She flew up to the grove and set to the task of deconstructing the zombie and skeleton corpses her minions had piled up for her. Interspersed in the pile were the occasional assorted Kobold or Slime – either her own monsters killed in defense of her domain, or some interlopers that managed to sneak in from somewhere. She quickly discarded the imprints for the undead, but she wasn’t quite satisfied until she grew a bunch of jasmine and peacebloom to mask the odor of rotting flesh.
+
+Perhaps I should have them collect the corpses somewhere else? She flew across the cavern, heading toward the sewer, but on the way, she stopped to check in on her newest wolf pack boss. It hadn’t been tested by the adventurers from the guild yet, but just by the undead corpses strewn about she could tell her boss was a resounding success. Enough that it took more than twenty minutes to clean up the mess.
+
+Leaving the steady trickle of skeleton incursions to her wolves, Ali headed on up, shifting her awareness through her various monsters to survey her domain. Not much needed fixing in the sewer level, except the enormous piles of trash collected at the bottom of some of the entrance tunnels. It seemed that it was not just her minions collecting trash now – some of the townsfolk must have decided her sewer was a decent garbage disposal.
+
+Ali gazed up at the towering pile, amazed at the sheer amount of junk her Kobolds had collected. It would take a while, but she hoped that buried in there somewhere was a gem of some kind that she might find useful. Malika was right all along. I’m becoming the town janitor. Emergency! There’s too much trash! Call for the cleaner!
+
+She was about halfway through the giant stack when something clinked and her eyes caught sight of a small leather pouch. A money pouch? Ali picked it up and carefully tried to untie the string, but the stitching had rotted, and the entire thing crumbled, spilling a handful of tarnished copper and bronze coins across the ground. But among the dull coins, something gleamed brightly. She flew down to investigate and there, nestled on the moss, she found several small coins with the stamped image of a regal Sun Elf on one side and Elvish writing on the other. They gleamed with a shining silvery-yellow as they lay on the palm of her hand.
+
+Elven Royal Quarter Mark. x5
+
+Is this electrum? Ali turned them over several times, studying the pretty gleaming coins. They were not a denomination or mint she recognized, but there were enough of them to learn, so she quickly committed the Elven Royal Quarters to her coin imprint. Where did they come from? she wondered. Elven currency – Elves in general – were not unheard of in Myrin’s Keep, but they were certainly not frequent visitors.
+
+Ali continued her chore, laboriously deconstructing her way through the entire pile, but nothing else seemed useful until she finally reached the bottom of the pile. The Kobolds had made a round past some of the smithies – several dozen chunks of metal lay on the ground, offcuts and discards from failed projects. Ali shrugged and fed them to her deconstruction skill.
+
+Imprint: Mild Steel completed.
+
+She moved automatically to dismiss the imprint like so many other worthless ones she earned disposing of the endless trash piles, but then she paused. Her Grimoire had only wood and stone that she could use as materials with Domain Mastery, having discarded bone, water, and even fire silk as lower value or easily replaceable.
+
+What about steel? If it worked like stone or wood, she would be able to use it with Sculpting and give her alternatives to her barrier magic for blocking off passages or making walls in her domain. She could even see uses for it to repair railings, ladders, and walkways in the Grand Library.
+
+I have a free chapter, she thought. She had been hoping to use it for a good monster imprint that might help out in the mines, but there had been little opportunity to find one recently. I may as well use it for now, she decided.
+
+As soon as she committed the imprint to her remaining chapter, her Grimoire shone with brilliance. Pages flickered and shuffled around in a gigantic flurry, startling her with the suddenly energetic reaction. And then her notification chime went crazy. What was that? Quickly, she caught up on the notifications.
+
+Imprint: Mild Steel updated to Imprint: Metal.Variant: Copper added to Imprint: Metal.Variant: Brass added to Imprint: Metal.Variant: Bronze added to Imprint: Metal.Variant: Silver added to Imprint: Metal.Variant: Gold added to Imprint: Metal.Variant: Electrum added to Imprint: Metal.Variant: Darksteel added to Imprint: Metal.
+
+What the heck? Ali stared at her Grimoire, baffled at the dramatic activity. It was just a steel imprint? Something similar had happened when she had committed the wood imprint, but this time she didn’t have a whole bunch of metal trees to explain it. Wait… She looked a little closer, and suddenly the chapter changes made sense. It’s like the Bamboo Crawler! Her crawler had inserted itself into both the grass and the elemental imprints, but it didn’t take up any extra pages – whenever she opened one of those chapters, her Grimoire simply moved the relevant pages for the Bamboo Crawler into the currently open chapter. The same thing seemed to be happening here, chunks of pages were rearranged from her coin, weapons, and armor variants, indicating that her customization had found subsets of those that it could categorize as metals.
+
+Not every type, though, she realized, noticing the conspicuous absence of Eimuuran Steel and Thuli’s new Fireforged Steel. She puzzled over that for a while, tentatively concluding that perhaps there was some special magical structure or technique that set those apart from the other more normal metals. It didn’t explain why Darksteel had been included, though. Argh, this thing makes no sense!
+
+Still, she now had access to a sudden wealth of metals she could use. Obviously, she tried it out immediately, summoning a chunk of Electrum and twisting it in her hands with Domain Mastery to form the shape of a small diadem. She warped it again, turning it into a small tree, finding the metal satisfyingly easy to work with and stunningly beautiful in sculpture. Then she turned the brick walls in the entrance shaft to gold before shifting them to a more practical granite. She did find a practical use for her newest imprint almost immediately, replacing the rusted iron hoops stapled into the wall that served as a treacherous ladder with a far safer set of steel steps.
+
+***
+
+“So, what do you think?” Ali asked, pointing at the lake.
+
+“You want some better protection for the lake, but you want it to still be accessible to the guild?” Calen asked. He hovered beside her on his slowly undulating, shimmery wings.
+
+“Yup,” Ali nodded. “The Timber Wolves are probably a stretch for the bronze-ranked adventurers, so I want something a little easier to ramp them up – but not too difficult that they can’t kill them – I still want them to be able to collect water for Morwynne and Eliyen.”
+
+“You don’t make it easy, do you?” Calen chuckled.
+
+“Hey… I have more requirements than those uncultured dungeons. I have standards, you know?” Ali quipped.
+
+Calen chuckled. “The bronze-ranks gained a couple of levels on our excursion, so they might not be that far off. What abilities haven’t you tested out yet? The Domain Skills.”
+
+“Well…” Ali said, consulting her notes and her skill descriptions. “I think Twin Binding sounds very cool.”
+
+“Do you have much that works in the water?” Calen asked.
+
+“Oozes – maybe the Scalding Slime? Or a Brine Ooze could be good,” Ali said, recalling her adventures in Naia’s dungeon. “I have the Stinging Jellies, but they’re a low-level swarm monster.”
+
+“What level are you thinking?”
+
+“Something close to twenty,” Ali said. This much she was certain of. At twenty-six, her Timber Wolves were likely to be a big challenge. Once some of the bronze-ranked adventurers unlocked their level twenty skill, it might be more accessible.
+
+“Ok, that seems doable – but Twin Binding requires another monster, right?” Calen asked.
+
+“It does,” Ali answered, sharing the skill with him one more time.
+
+Twin BindingRequirements: Raid Enhancement. Two minions.Source: Twin WightsChoose a second minion as the twin target, binding both together with the bonds of magic. Each minion of the pair can be assigned a single Domain Magic skill. When one of the pair dies, the other is restored to full health and gains the Domain Magic skill of its partnerSkill – Domain Magic
+
+“Another ooze?” Calen said, frowning.
+
+“Wait, I know!” Ali exclaimed, “Shamans!” Her Storm Shamans’ lightning skills had worked surprisingly well underwater, and she could split the boss between the land and water.
+
+“That could work,” Calen said. “You just need to decide what to give each of them, considering that the other will inherit the ability once one dies.”
+
+“I was thinking Clone for the Shamans, that would make three of them,” Ali said.
+
+“Well, that sounds devious.”
+
+“Too dangerous?”
+
+“No, it will encourage skillful planning,” Calen said, pursing his lips.
+
+“Ok, I just don’t know what to do for the water part. I like the Brine Ooze…” Calen’s assessment of difficulty was what Ali had needed the most – he was the one who worked with the guild team leaders on strategy and planning, and so he had a far better handle on what they were capable of tackling. On her own, Ali had gotten carried away a few times already and created bosses that might be far too difficult.
+
+“What about that Nova Strike you got from the Piercer Scorpion boss? The Brine Ooze could live in the water and act as ranged area damage from there.”
+
+“That’s a good idea,” Ali said, working through the combinations in her head. “Let me try it.” She pulled out her Grimoire and summoned two monsters.
+
+Brine Ooze – Ooze – level 19 (Water)Storm Shaman – Goblin – level 19 (Lightning)
+
+Ali examined her Goblin’s armor critically, making a few minor adjustments until she was happy with what he was wearing. Then she turned them both into a raid boss.
+
+Domain Respawn applied to Brine Ooze.Raid Domain Enhancement applied to Brine Ooze.Twin Binding applied to Brine Ooze.Storm Shaman selected.Domain Respawn applied to Storm Shaman.Raid Domain Enhancement applied to Storm Shaman.Nova Strike (Waterbolt) applied to Brine Ooze.Clone applied to Storm Shaman.Domain Enhancement complete.Your reserved mana has increased by +225.
+
+Ali winced reflexively at the sudden notification of her reservation cost, but then she reminded herself that it was no longer an issue. What should have been a cost of over four hundred mana for this raid boss had been reduced by her newest Mana Efficiency advancement for Domain Mastery by a little more than half. In fact, the reason she had considered making a new boss at all was the huge reduction in reservation cost she had earned across all her defenders.
+
+“Cost?” Calen asked.
+
+“Two hundred and twenty-five,” Ali said. “I could afford to make a few more.”
+
+“Not bad,” he said, eyeing the two monsters. Domain mana surged through them, and suddenly the shaman duplicated himself using the Clone skill. A few seconds later, they duplicated again, making three. The much larger Brine Ooze slithered into the water and vanished from sight.
+
+“So, three lightning bolt shamans, and a bonus surprise,” Calen said, nodding his approval.
+
+“Show us your Waterbolt,” Ali instructed. Immediately, water-affinity mana surged from the lake and a ring of Waterbolts sluiced through the surface of the lake, firing in all directions. Another volley followed, and then another. “Ok, that’s good.”
+
+“That’s pretty awesome, Ali,” Calen said. “If they kill the shamans first, then the Ooze gets Clone, right?”
+
+“Yup,” Ali said. “And if they kill the Ooze first, the Shamans get Nova Strike.”
+
+“So, lightning apocalypse,” Calen said.
+
+“Yes, something like that.”
+
+“Wait, didn’t you say the Death Wight also transferred his affinity to the Bone Wight when we killed him?” Calen asked.
+
+“Oh, yes,” Ali said. “Wait, shit, did I make this thing too strong again? What will happen if the ooze gets lightning?”
+
+“Uh, fuck,” Calen groused, but he was grinning at the same time. “We’re going to have to test this…”
+
+It turned out it was not that difficult to test. When she and Calen killed the Ooze, the Shamans gained water affinity and took to the lake in an instant, suddenly able to breathe underwater, swim like fish, and perform minor feats of water manipulation. After Ali forced the boss to respawn, they killed them in the opposite order, turning the lake into a trio of Brine Oozes simultaneously firing ring volleys of Waterbolts and acting like mobile Lightning Nova totems.
+
+“Well, that’s going to be a real challenge,” Calen observed.
+
+“Nice for defending my domain,” Ali said.
+
+“Well, not much is going to get this far,” Calen said. “Not with that Timber Wolf boss guarding the lower entrance.”
+
+“I have an idea for that,” Ali grinned. It was something she had thought of while reviewing her Runic Script, and it was high time she tried it out. Ignoring Calen’s raised eyebrow, she summoned a large golden disk of barrier magic, supported by her domain. Then she spent several minutes inscribing her runic circle into the golden surface, tying it off and attaching it to the domain mana also.
+
+Teleportation Locus – level 42 (Arcane)A magical locus that serves as an enhanced teleport destination.Runic Circle
+
+“Teleportation locus,” she said, answering Calen’s increasingly curious stares.
+
+“What are you going…” he asked, but then trailed off as she waved the barrier disk up into the air till it was hovering right over the center of the lake, and then flipped it upside down. “Oh… Ali, that’s evil.”
+
+“I know,” she grinned, “Come on!”
+
+It didn’t take long for her to inscribe several domain-attached Static Teleport runic circles around the cavern entrances near the path down to the ruins through which undead and kobolds still trespassed into her domain.
+
+A few minutes later, a slightly tougher zombie managed to avoid her regular defenses and stumbled across one of her new teleportation rings. There was a brief flash of arcane mana, synchronized with another off over the distant lake. The zombie appeared right below her barrier disk and fell flailing into the water. Distant lightning flickered, followed a few seconds later by the sound of thunder and Ali’s chime sounded.
+
+Your minions have defeated Warrior – Zombie – level 5.
+
+“Evil,” Calen muttered, but there was a big grin on his face.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

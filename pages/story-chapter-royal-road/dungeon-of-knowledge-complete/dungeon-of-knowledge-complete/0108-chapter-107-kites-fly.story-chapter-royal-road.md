@@ -1,0 +1,287 @@
+---
+id: 09ae76ee-a47f-5884-96ff-05f35185ec6f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 107: Kites Fly"
+slug: 0108-chapter-107-kites-fly
+partOf: dungeon-of-knowledge-complete
+position: 108
+ownLength: 6438
+unit: words
+ownProgress: 6438
+publishedAt: 2024-08-02
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1741816/chapter-107-kites-fly"
+royalRoadId: "1741816"
+markedReadAt: "2026-06-29T20:14:38.298Z"
+---
+
+The trail that Calen led them along wound deeper and deeper into the verdant overgrowth of the jungle till he finally found the valley again. It was still densely grown with trees, but a game path ran through the middle of it, and the ridges on either side seemed entirely impassable. The massive, gnarled trunks and broad boughs weighed down by thick moss and heavy vines clearly spoke to the thousands of years this jungle had lain undisturbed.
+
+Keeping a careful watch for danger, he entered the valley. His eyes flitted from side to side, tracking the riot of movement and struggling to assess threats quickly enough. Most of what he saw were frogs, bugs, beetles, or snakes. Some of them were no doubt venomous, but nothing leapt out to attack them on sight. Every now and then he would catch sight of wyverns wheeling high overhead, but with the dense canopy between them, they were never noticed.
+
+The effects of his Blessing of the Wanderer were remarkable – synergizing well with his gear and skills – resulting in a sense of ease of movement through the forest. He was faster, sharper, and quicker to react, and with the movement speed enhancements from both the blessing and his boots buffing even his walking speed, he found he had to stop more frequently than he expected so that his friends did not fall behind.
+
+Rounding a particularly aged oak, the trail led into a wide clearing, filled with grasses and low shrubs that Ali was already eyeing for their potential. He paused, scanning the area. Out and about among the grasses, he spied three strange-looking creatures rooting and scratching in the dirt. Creatures that seemed more plant than monster, a little bigger than house cats, but their bodies were made of gnarled and twisted wood with branches and twigs sticking out haphazardly. They had four legs that resembled squat branches, a vine-like tail, and a scruff of bright pink petals along their backs and heads, forming something like a crest. Giant stick insects wearing flower wreaths on their heads.
+
+Swinging slowly, sloth-like through the branches at the edges of the clearing were several much larger Moss Creeper monsters. The strangely amorphous climbing mounds of moss paused periodically to engage in strangely inscrutable moss-creature activities, and when they moved on, they left behind them heavy patches of moss and fronds that hung from the tree branches.
+
+Floral Menace – Plant – level 15-21 x3.[Explorer]A plant monster of the wood persuasion.Category: MonsterThreat Level: NormalMonster Type: PlantDamage: Physical, NatureMoss Creeper – Moss – level 16-25 x3.[Explorer]An animated pile of sloth-like moss.Category: MonsterThreat Level: NormalMonster Type: MossDamage: Physical, Nature
+
+A shrill screech pierced the calm, and the neck scruffs of pink petals flared on the strange plant monsters, telling him they had been seen.
+
+“Plant monsters, nature damage,” he announced.
+
+“On it,” Mato said, shifting immediately as the hostile plants rushed forward. Mato charged to intercept them as Calen ducked sideways to get a better line for his arrows.
+
+“They’re using magic,” Ali’s voice came from behind him as she joined the combat.
+
+All around Mato, the ground erupted with plant growth. Tiny leaves sprang up through the grass forming brightly colored buds. They shivered and clawed their way open and suddenly the entire circle around the monsters, Mato, and Malika bloomed in a brilliant pink sea of flowers.
+
+What the heck?
+
+He had expected something like the Forest Guardian – grasping roots or vines reaching to attack. But this was a flower patch…
+
+The entire circle of tiny flowers shivered in unison as if propagating a shockwave from the epicenter of the fight. Petals shot up and out in an astonishingly abundant explosion of pink that filled the air. In seconds, the entire battlefield was obscured in a dense cloud of flying petals.
+
+Within the dense cloud, all he could perceive were the crashes and thumps, shrill shrieks, and exclamations of blind combat. He stood there waiting, bow drawn, unable to find a target for his arrows.
+
+“Mato, that’s me!” Malika’s voice shouted from the petal storm, followed quickly by several thumps and crashes.
+
+Suddenly, Malika somersaulted out of the dense cloud of petals, a branch-like creature writhing, biting, and scratching in her grasp.
+
+As soon as Malika landed, more flowers began to sprout, but Calen was already shooting, adding his arrows to the flurry of magic Ali aimed at Malika’s catch, too. Several shots were all he was allowed before the air exploded with pink petals, and again he had to wait for Malika to drag the monster out of its protective cloud.
+
+“Argh, I can’t see anything,” he grumbled.
+
+“Me neither,” Ali said, her eyes narrowed in razor-sharp focus. “But it’s pretty.”
+
+He glanced at her in frustration, but he couldn’t honestly argue. It was a swirling cloud of pretty pink nastiness.
+
+It was frustratingly slow work, waiting for Malika to wade in, and grapple blindly with the monsters before dragging them out into the open for a brief few moments before they had to repeat the process. But the strategy seemed sound, so Calen forced himself to wait patiently, trying to optimize the number of arrows he could fire in the short window of time when he had a clear line of sight.
+
+“It’s a good thing they’re small,” he said when the last one perished and they moved to finish off the much easier Moss Creepers.
+
+“Appropriately named,” Ali said, looking down on the corpses of the petal monsters, before deconstructing them.
+
+“Frustrating is what they are,” Malika agreed. “Being blinded sucks.”
+
+Calen certainly appreciated her point of view. Both he and Malika were limited to normal perceptions, and they were both easily blinded. Even though his perception skill was quite potent, it was still vision-based. Mato and Ali both had a secondary perception skill that worked differently from normal senses and thus clouds of petals or similar obscuring effects probably bothered them a lot less. His Explorer’s Sense Prey was quite useful for finding monsters in the jungle, but he wasn’t accurate enough with it yet to shoot into a cloud and not hit his friends.
+
+“Let’s get out of this clearing,” he said, looking up at the dangerous wheeling forms of the wyverns circling above. They hadn’t been noticed yet, but it was probably not smart to tempt fate.
+
+Back under the relative safety of the thick canopy of trees, he trickled mana into his Explorer skill, beginning to see the signs that something large had passed this way. Branches and twigs were freshly snapped, deep indentations in the damp mossy ground – all helpfully highlighted with his enhanced perception.
+
+Maybe one of the forest guardians? He wasn’t certain, but of all the monsters they had encountered so far, the giant elementals of wood and bark fit the signs the best. It seemed to be following the same path they were – extra-cautious now, he drew his companions’ attention to the tracks and explained what he suspected.
+
+The trail led to a rocky outcrop and a break in the trees, and somewhere beyond, Calen heard the shuffling and stomping of something heavy.
+
+“I’m going to scout up ahead quickly,” he whispered, activating Eclipse and vanishing into the shadows. Carefully using Explorer to mask the sound of his movement, he ventured out, dodging plants and rocks with ease. As the trees opened, he found he had an unobstructed view of a small clearing near a large jutting rocky outcropping. In the space up ahead, he saw the unmistakable hulking shape of the Forest Guardian, shuffling and stomping on four legs that resembled tree trunks more than limbs. It seemed to be grazing on the grasses, surrounded by three of the strangest creatures Calen had ever seen.
+
+Forest Guardian – Wood Elemental – level 40.[Explorer]An enormous nature affinity elemental.Category: MonsterThreat Level: EliteMonster Type: ElementalDamage: Melee, Physical, Nature, HealingKnown Vulnerabilities: FireSpore Spreader – Fungus – level 12-19 x3.[Explorer]A three-legged walking mushroom.Category: MonsterThreat Level: NormalMonster Type: FungusDamage: Physical, Nature.
+
+Calen pressed up against a large tree trunk, barely moving while he studied the monsters. The guardian was familiar to him – enormous plates of bark and heavy wood protected the massive elemental and, from beneath heavy wooden brow-ridges in the low-slung head, its viridian eyes glowed with palpable intelligence. The ground shuddered every time it moved.
+
+Making full use of his enhanced vision, Calen studied the curious fungus creatures. Spore Spreader… Each of the three monsters was a little taller than waist-high, with a dark leathery violet-greenish color. Shaped a bit like an oversized mushroom, they had slender stems with a broad cap on top. Three small legs extended from the bottom of the stem, giving the monster a shuffling, but stable, symmetrical triangular base. The legs seemed to dig into the ground whenever the monster stopped walking. Three large arm-like limbs extended from beneath the cap, long enough to brush the ground, and, as he observed, they were prone to using the arms to help with locomotion, resulting in a shambling, shuffling gait. A thick carpet of tiny glowing violet mushrooms sprouted from the top of its heavy leathery mushroom cap giving it the distinct impression of coarse glowing hair.
+
+Careful to keep fueling his Eclipse stealth skill and his silent movement, he backed away from the clearing, grateful for his patron’s blessing enhancing his dexterity and making him more agile as he reached the overgrown trail.
+
+“The path is blocked up ahead by a rocky outcrop,” he said, as he rejoined his friends still a fair way back on the trail and explained in detail what he had seen. “Normally my Explorer would give me some idea of their capabilities, but it’s all twisted and confused here. It just warns of nature damage.” The Spore Spreaders worried him, clearly unnatural and warped by the bizarre magic of this area, he could hardly even imagine what dangers they may present. Especially after having experienced the totally bizarre, but surprisingly effective petal storm from the Floral Menaces.
+
+“We can talk forever, but we won’t know until we attack,” Mato said. “We know the Guardian; I can tank that, and you guys figure out the fungus creatures first?”
+
+“That’s probably the best we can do,” Malika agreed. “What levels are they?”“The guardian is forty. The mushrooms are lower, twelve, fifteen, and nineteen,” Calen said, pursing his lips in thought. “Based on the last fight, we should be ready to be blinded by spores or something. Or maybe poison?”
+
+“I can handle a little poison with healing from Malika and Ali’s Acolytes,” Mato said.
+
+“That seems doable,” Malika said. “Being blind is annoying, but we made it work.”
+
+Calen was used to Mato and his fight-seeking behavior, but if Malika was on board, then it probably wasn’t just his friend being overly enthusiastic. And… He glanced over at Ali for a moment. If he wasn’t mistaken, this would be Ali’s third guardian, and there was a good chance she would be able to summon them after the fight. The potential to substantially increase their team’s power seemed worth the risk of the unknown fungus monsters.
+
+I’m probably worrying too much. He carefully set himself up on a rise with a good view of the rocky outcropping and the monsters below as the others prepared and Mato transformed.
+
+The impossibly low-pitched and loud roar characteristic of the Forest Guardians met Mato’s charge, shaking leaves and branches, and sending tremors of vibration pulsing through his body carried by the very air. He held his bow ready, alert for anything strange as Mato collided with the much more massive wood elemental, roaring a challenge of his own. As expected, the entire area around Mato and the guardian erupted in a chaotic explosion of roots and vines, the result of the monster’s potent melee control magic. It was certainly a good thing that Ali had replaced all her melee monsters with slimes.
+
+Judging that Mato had taken control of that front, Calen unleashed his arrows, aiming at one of the Spore Spreaders. Their goal would be to eliminate them as soon as possible while remaining alert for unexpected danger. His arrows punched through the monster’s mushroom cap, leaving clearly visible holes that immediately began shrinking and closing.
+
+Regeneration? No, that must be the Forest Guardian.
+
+As the next arrow struck, the strange fungus monster froze, quivering violently, and slammed all three powerful-looking arms into the ground, making a bizarre tripod among the writhing roots. All through the roots, grasses, and vines, tiny violet mushrooms began to spring up, visible clearly in his enhanced vision and by the subtle glow of magic.
+
+Is that an attack? In the back of his mind, he recognized how similar it looked to the petal attack, but with mushrooms instead of little flowers. He quickly used Explorer to Identify the new growing mushrooms, leveraging the extended range of his Eyes of the Archon to compensate for the distance.
+
+Violet Dreamcloud – Mushroom – level 11.
+
+“It’s growing mushrooms,” he called out, not entirely sure what they might be able to do about it, but somehow certain it was important.
+
+The planted Spore Spreader began to hum, and the mushrooms on its cap – and those spread across the battlefield – began to glow intensely, greatly swelling in size. With a dramatic popping sound like a huge sheet of cloth being torn in two, the entire field of mushrooms exploded, releasing a dense violet cloud of spores.
+
+I can see through it! For a brief moment, he was relieved that the cloud attack wasn’t nearly as opaque as the petal storm.
+
+And then Mato and Malika collapsed, Mato’s body twisting and warping as his limp body reverted to his normal Beastkin form. Instantly, the Forest Guardian unleashed its fury on Mato and Malika’s bodies, stomping and biting, while the roots twisted and crushed, making their bloodied and limp bodies flop grotesquely, while their blood sprayed across the verdant plants.
+
+The rushing burn of his mana igniting filled him with pain as Calen activated Righteous Fury without even thinking. The entire battlefield slowed, as his mana enhanced all his skills and perceptions. He could see the individual droplets of Mato’s blood spraying into the air, and the ugly twisting crunch as Malika’s arm snapped under the weight of the elemental’s stomp – all in excruciating clarity. His arrows flew in an intensely shining hail as he squandered his mana in reckless desperation, barely even considering aim, relying entirely on his supercharged mana to lend him power and speed.
+
+The giant elemental let out an earthshaking roar, wheeling and suddenly accelerating to high speed as it used a rush skill to charge him, closing thirty feet in an instant, and leaving Calen facing the suddenly much closer monster.
+
+Oh shit!
+
+He could feel the high-speed thump of his heart over the sound of the monster’s roar and the shaking of the earth as he stared down several thousand pounds of fury which would most certainly turn him into paste if it connected.
+
+He had been intending to draw the ire of the monster, to lure it away from Mato and Malika. The problem was that he had succeeded, and in his urgency, he hadn’t thought through the rest of his plan. He didn’t have the resilience, durability, or defense skills they did, so he didn’t stand a chance.
+
+He turned and ran for his life.
+
+He managed to reach the edge of the rocky outcropping when he felt his mana calm down, and the world around him sped up to normal.
+
+Righteous Fury is down, I’m slower. It was obvious, but explicitly thinking the words to himself had the effect of letting him catch up to the enormity of the runaway disaster he was participating in. If he was to survive, not only would he have to outrun the monster, and figure out a way to escape or kill it, but he would also have to outrun the aura of plant growth. Leaving aside the unimaginable possibility of actually killing it by himself, he simply needed to survive.
+
+I don’t even have enough mana left to fly.
+
+Well, that’s a problem I can solve, he thought, barely slowing as he retrieved a mana potion and downed it in a single gulp, his mind slowly calming down to a high state of panic. It would take a bit for the potion to restore enough mana, and he just needed to survive till then.
+
+It’s really close. What sick joke were those mushrooms?
+
+He could feel the ground shaking with the insane weight of the monster behind him, and the sharp reports of branches snapping and splinters flying did nothing to ease his mind. The only thing that was keeping him out of reach of his pursuer was the Blessing of the Wanderer and the increase in his movement speed.
+
+But that’s not enough, he realized as his mental warning told him that the guardian’s Rush skill was probably close to recharged.
+
+Almost precisely thirty seconds after the guardian had used it, Calen heard the thunderous roar of the Rush and the sudden burst of branches ripping and tearing not far behind him – not far at all. Risking a glance back over his shoulder, he found the roots and vines reaching for him, missing by a scant foot or two.
+
+What can I do? His mind raced frantically, desperately searching for any ideas that had even the slightest chance of working. He veered in a long slow arc around the rocky outcrop while the monster continued to pursue him. When the recharge is up… he knew he had less than thirty seconds before he would be crushed under the trampling feet of the giant elemental.
+
+His frantic, frenzied over thinking mind threw progressively more and more ridiculous and improbable ideas at him until suddenly something clicked. Without waiting to think it through, he took a step onto a boulder, leaped into the air with a spin, and as his body faced backward toward the now terrifyingly close monster, he loosed an arrow, choosing the Grappling Shot skill. He had been using this magic to ground wyverns and bats, and he was under no illusions that he could actually trap something of such powerful brute strength and weight, but he didn’t need much – gaining a few yards would be something.
+
+His chain of light shot out, striking the Forest Guardian in the shoulder between the heavy plates of bark and wood, while the gnarled roots and vines reached toward him from the ground as his body arced through the air. With a flurry of activity, the chain wound itself around the huge elemental, and Calen was treated to the sight of it being yanked to a sudden stop as his body barely cleared the plant growth magic, and his foot touched down on the ground. He was sprinting away even before he had completely landed, and within seconds there was a great commotion as the Forest Guardian freed itself by ripping his magic out of the ground through sheer brute strength, tearing up huge chunks of earth and rock in the process.
+
+That was close. There were several moments when he was certain the vines would reach his flying feet, but he had made it, and he had bought himself a little more than ten yards. He was not out of the woods, so to speak, but at least he had a little breathing room.
+
+He turned the corner again and saw Ali up ahead on the rise, crouched beside the prone forms of Mato and Malika, her Kobold Acolytes actively healing. Somehow, in the intensity, he had lost track of the fact that he was running around the rocky outcropping, and he had come full circle, leading the elemental straight at his friend. Genius.
+
+“Watch out!” he yelled as he continued sprinting by.
+
+His mental warning alerted him just as the roar of the guardian’s Rush skill ripped through the clearing. Calen dodged to the side reflexively and darted away.
+
+Shit, I should have gone toward the rock. His dodge had placed him out in the open and now he was vulnerable to being cut off, especially as he couldn’t cut through the aura of plant growth without being trapped and trampled.
+
+Quickly he checked his mana, which was still being slowly regenerated by his mana potion. Maybe enough. He waited for another second before he activated his Azrael’s Wings skill. Mana poured into the skill, and his glowing white wings of ephemeral light erupted out from his back, lifting him into the air. Desperate to take advantage of the few moments of mana he had, he cut across the path of the guardian, aiming for the rugged rocky wall he had been running alongside before. The guardian roared a challenge and gave chase, but he was high enough to avoid the aura, landing as soon as he was clear, conserving just enough mana that he would be able to use his Grappling Shot again.
+
+Calen would never have imagined he would find himself running for his life, while simultaneously computing relative trajectories, tracking a thirty-second recharge, and calculating optimal mana usage. His brain felt like it was on fire. But the monster was still behind him, and he was – somehow – still alive.
+
+He sprinted around the rocky outcropping – a large hill-like collection of boulders and overgrown trees – settling into something of a pattern. He leaped again, spinning in the air and using Grappling Shot to gain a few seconds before sprinting away.
+
+This can’t last. While he was able to keep ahead of the monster with his movement speed, dexterity, and the occasional use of his other skills, he was slowly running out of stamina. He had made absolutely no progress on figuring out how to escape or, even more improbably, killing the monster. The biggest issue was if he escaped, it would likely return and kill Ali, who could fly away, and Mato and Malika, who could not.
+
+I need help. Something to get out of the situation, or to overcome the charging monster’s regeneration. His mental warning told him the Rush skill was almost ready, so he angled away from the safety of the rocks. So far, every time the monster used Rush, it traveled insanely fast, but in a straight line. He was banking on it not being able to turn due to the physics of momentum, but wary of any other magical trickery that might come into play. The thunderous roar shook the ground, splintering trees as the monster used its skill right on time.
+
+Calen dodged back towards the rock wall. He felt a rush of raw satisfaction as the giant elemental charged away from the rocky outcrop while he ducked the other way and the gap between them widened dramatically. It wheeled and turned, sending clods of dirt and grass flying as it redirected its considerable momentum in an unbelievably short distance.
+
+That went a lot better. He had managed to gain a moment of breathing room by faking the monster out, causing it to charge away from him with its Rush skill, and saved his mana, which he might need for his Grappling Shot or wings. He downed another mana potion right as the first one expired, sprinting around the corner and firing his Grappling Shot backward as the monster cleared the turn.
+
+“I killed the mushrooms! Can you keep that thing busy for a bit longer?” Ali shouted, catching him by surprise as he rounded the rocks and found himself back at the starting point once again. His glance caught sight of Mato and Malika lying on the ground beside Ali and some of her Kobold healers. They were not stirring, but to his great relief, even at this distance he could tell they were both breathing and most of their injuries seemed to have been healed already.
+
+“Sure, no problem!” he yelled back as he dodged out away from the rock, preempting the guardian’s Rush skill and drawing it out so that he could dodge the other way at the perfect moment and still be on his circuit.
+
+What am I saying? One wrong step and I’ll die! But he knew that whatever scheme Ali was cooking up was his only chance of getting out of this with his friends all alive. He just hoped it would be ready before he ran out of stamina or made an unrecoverable error. Come on, Calen. Focus, give her time.
+
+As he began the next circuit, he reflected on his strategy. Timing the Rush skill with a fake out gained him the most distance for the least cost – only the little stamina needed to run full speed. Grappling Shot was his next most effective tool, costing almost as much mana as he was regenerating from his potions. Flight was his least effective – requiring him to channel mana in quantities he couldn’t afford, but it was also likely his most powerful escape tool, provided he could recover enough mana before he ran out of stamina, and Ali could do something to save Mato and Malika.
+
+Maybe I can give her my recall potions to send them back and I can escape with flight? He finally rounded the rock again, and saw Ali up on the ridge, surveying the battlefield with focused attention.
+
+“Drag it under the outcrop!” she yelled down at him, pointing.
+
+Following the direction of her small hand, he found a rock that was jutting out over the path he would be taking. He likely wouldn’t have passed directly under it without Ali requesting it, but it didn’t seem that far out of his way. As he approached, his eyes picked out the oozes stuck to the rock in various positions, softly wobbling and writhing as they hung there, most of them on the underside of the rock.
+
+Oh, clever. Ali wasn’t thinking of a way to escape, she meant to kill the monster. Her choice of the Scalding Slimes looked like a perfect strategy. Calen sprinted closer to the rock wall, passing directly under the overhang, and, judging the timing precisely, he executed his leap-and-spin tactic, firing Grappling Shot at the Forest Guardian, pinning it directly below Ali’s trap. Hope this helps.
+
+Ali didn’t hesitate to take advantage of the window of opportunity, and he heard several squelching splats as the slimes fell from the overhang, landing directly on the Forest Guardian, followed by the hissing of high-pressure steam jetting out of the slimes and roars of fury.
+
+He glanced worriedly at his stamina as he began his fourth circuit. A bit more than one left, he decided. At that point he would be at the mercy of fate, if Ali’s slimes could do enough damage during the circuit to kill the monster, overcoming its regeneration, he would be safe. If not…
+
+By the time he was halfway around, he knew Ali could not have picked a better monster for this job. As he spun in the air, firing his Grappling Shot, he could see the Scalding Slimes had torn great holes in the wood-and-bark armor and the Forest Guardian looked decidedly worse for wear.
+
+By the time he reached the final stretch, he knew it wasn’t enough. He just hoped Ali would be able to survive it when his stamina finally ran out. He had used every single trick he had learned to eke out the last of his resources, but he was running on empty. He rounded the final corner with zero mana, and only five points of stamina remaining.
+
+But the sight that greeted him almost made him falter. Up on the ridge, Ali stood with an expression of absolute concentration, sweat pouring from her face as she discarded an empty potion vial on the ground. She was shooting her Arcane Bolts into the air, but instead of a normal stream of three, there was a brilliant cloud with hundreds of magical bolts zipping across from the ridge where she was standing toward the overhang, where a lone slime still clung to the rock.
+
+Just before the bolts hit the slime, they all flipped around in midair and shot back the way they had come, straight for Ali.
+
+The enormity of what she had done sent a jolt of hope through him as he burned the last remnants of his stamina to kite the wounded Forest Guardian to the overhang, and the trap Ali had laid for it.
+
+Right before he reached the spot, all the bolts flipped again, tearing across the battlefield toward the slime hanging high above, like a demented horde of angry golden hornets, but this time, instead of turning around, they suddenly all took a rapid curving dive, and thousands of bolts slammed into the Forest Guardian in a glorious golden tornado of destruction.
+
+Amid the roar, sizzle, and shuddering of the ground, Calen’s notification sounded. With a final heave, the ground bucked as the huge Elemental collapsed, and Calen’s knees buckled as he sagged into a heap of his own, his breathing ragged, completely spent.
+
+***
+
+“How are they doing?” he asked, looking down at Mato and Malika as they lay there unmoving. There seemed to be a lot of drying blood, but they looked otherwise unharmed.
+
+“I think they’re going to be ok,” Ali answered. “The Dreamcloud spores seemed to act like poison with the side effect of knocking you out. I had to keep healing them the entire time, pretty nasty stuff.”
+
+“I think we should camp here for a bit, at least till they wake up. I don’t think I can handle another fight like that.” While his mana and stamina were regenerating, it would certainly be a while before he was back in fighting shape.
+
+“Shouldn’t we recall back?” Ali asked.
+
+“I can’t get the potions out of Malika or Mato’s rings, and I don’t think we have enough between the two of us,” Calen said.
+
+“It was lucky you got that movement speed on your blessing,” Ali said, looking at him thoughtfully.
+
+It truly was good fortune, and while he was certain that could not be how the Luck trait worked, if he didn’t know any better, he would have been one hundred percent convinced all the stories and legends about the patron deity of luck were true after today.
+
+Calen sat beside his unconscious friends, feeling like all the juice had been wrung out of him, but he could not be happier that they, and he, had survived the harrowing battle. It was one thing when he could easily pinpoint strategic or tactical mistakes so that he could learn to be better – but in this fight, he couldn’t imagine a way he should have acted differently. There was no doubt that the Forest Guardian would have trampled Mato and Malika to death in seconds, and so his attacking the monster to gain its attention had been a necessary move. Everything from there on had flowed from the simple need to stay alive. Still, he had needed to rely on Ali’s crazy plan working.
+
+“You know, we can’t keep doing this,” Calen said after his breath began to steady.
+
+“Doing what?” Ali asked.
+
+“So many close calls.”
+
+“But we won, does it matter?” Ali asked, pausing her efforts to clean up the battlefield to look his way.
+
+“Even with fair dice, if you throw them often enough you will get snake eyes,” Calen said. “The odds were definitely not in our favor for that last battle. Sure, we might be getting strong faster, but we can’t be so reckless.”
+
+“I see what you mean,” Ali answered, sitting down again. “What can we do? It’s not like we can control the circumstances, and we do need risk to grow.”
+
+“I think we can be smarter at anticipating problems and having a plan to deal with things that come up,” Calen said, but Ali was right – planning for the unexpected was fraught with difficulty. “At least we should each carry enough recall potions to save the whole team,” he said, gesturing at the still-unconscious Mato and Malika. “We can’t be forced into fights because someone gets knocked out and we can’t access their rings.”
+
+“That seems smart,” Ali nodded. “And I’m sure Malika will have thoughts when she wakes up.”
+
+“Good idea,” Calen said, and then turned his attention to his notifications.
+
+Your group has defeated Spore Spreader – Fungus – level 12-19 x3.Your group has defeated Forest Guardian – Wood Elemental – level 40.
+
+“Did you get them?” Calen asked, watching Ali deconstruct the corpses they had defeated.
+
+“The Spore Spreaders and the Violet Dreamcloud, but not the Guardian yet.” She seemed saddened by the last one, but Calen knew the Forest Guardian held a lot of significance for her, and he also knew it would just be a matter of time.
+
+Her class is terrifying. Knowing that she was a dungeon was one thing, but seeing her walking around, systematically adding every challenging monster they fought to her repertoire had a much deeper and more visceral impact. The guardian and the spreaders together had been extremely dangerous, and Ali could already make half of the combination.
+
+I’m really glad she’s on our side. He turned his attention to the rest of his notifications.
+
+Archer of Light has reached level 34.+10 attribute points.Radiant Archery has reached level 23 (+2).Arrows of Brilliance has reached level 25.Explorer has reached level 21.Blessing of the Dawn has reached level 18 (+2).Eclipse has reached level 17.Eyes of the Archon has reached level 20 (+2).Righteous Fury has reached level 10.Azrael's Wings has reached level 4.
+
+It was a substantial number of skill levels gained for one fight, but it seemed appropriate. He had run himself out of both mana and stamina desperately using everything to gain advantage. He divided his points; four into dexterity, three to perception, two into intelligence, and the last point he put into shoring up his lowest attribute: strength. Immediately, a further notification made him sit up straighter.
+
+Oh, what’s this?
+
+Requirements met for skill advancement.Patron deity: The Wanderer.Eyes of the Archon has reached level 20.Perception has surpassed 150.Intelligence has surpassed 100.Identify a target in combat further than 500 yards.Eyes of the Archon gains Sniper Sight.Eyes of the Archon – level 20Greatly enhanced visual acuity, able to see in extremely low light.Mana: Your vision is enhanced for long-distance viewing or aiming. Enter a state of focused awareness which enhances the range and acuity of all Perception skills. Movement cancels the effect.Light, PerceptionAccept this advancement?
+
+The Wanderer again? He studied the advance offered to him, noticing that, for the second time, his skill growth was being strongly influenced by his chosen patron deity. He could decline it and wait for a different direction, but he now understood why patronages – deities, mentorships, or even commander tithes – were so important, and why many scholars recommended not accepting anything that wasn’t exactly in line with your goals. Choosing one that was poorly aligned with desired class growth and direction could be a disaster.
+
+He accepted the advance. While he hadn’t really thought through the compatibility, and simply had gone with his feelings when he accepted it, the traits and focus of the Wanderer’s patronage seemed to be an exceptional fit for what he wanted. Sniper Sight was already exciting, and he immediately tried it out.
+
+His vision immediately telescoped out into the jungle, creating a dizzying, disorienting sensation that he had suddenly moved a lot closer. While his vision scoped in, he could sense the stillness and calm of his focus being enhanced to an almost frightening intensity. His breathing slowed, and he could even hear his own heartbeat through the tiny blood vessels in his ears. On the branch of the distant oak, nestled among the fronds of damp moss, he inspected a tiny tree frog, moisture-beaded green skin blending perfectly with its surroundings, and only the red of its feet standing out as they clutched at the moss and bark. It twitched, and Calen followed the rapid unfurling of its tongue lashing out to snag a bug back into its mouth. The sudden twitch through its body caused a few droplets of water to fly off its head in a glistening, ephemeral spray.
+
+Red-toed Treefrog – Frog – level 2[Explorer]A frog, well adapted to this chaotic mana-rich environment.Category: CreatureThreat Level: NoneCreature Type: FrogDamage: Negligible
+
+He released his focus, vision snapping back to normal in a dizzying rush. Even his Explorer skill had been enhanced by the new advance – while he was scoped in with the new telescopic sight advance, he was able to use it to Identify the frog as if he were standing right beside it.
+
+On its surface, the advance seemed ideal for a sniper-style stealth archer with ambush skills, and while he still hoped to unlock an ambush skill to use with his Eclipse, he knew he would be using this new perception skill advance for many things. Scouting or tracking from a distance, or even the air would be simple. Making long-range shots like the ones he needed against the Coruscant Rays became a lot easier if he could see further.
+
+Practical, and useful in several important scenarios, he thought, happy with his choice – both the skill advancement and the direction his patron deity’s influence was showing him.
+
+***
+
+Name: Calen AveryRace: Half-ElfActive Buffs: Blessing of the Dawn, Blessing of the WandererClass: Archer of Light – level 34- Radiant Archery – level 23- Arrows of Brilliance – level 25- Motes of Light – level 12- Explorer – level 21- Blessing of the Dawn – level 18- Eclipse – level 17- Eyes of the Archon – level 20- Righteous Fury – level 10- Azrael's Wings – level 4- [Locked] General Skills- Bowcraft – level 7- Wood Carving – level 3- Cartography – level 9Aptitudes- Languages: Common- Mana (Affinity): Light- Perceptive (Racial): +11 to Perception- Quick (Racial): +5 to Dexterity- Timing (Class): You have an innate sense of timingPatrons & Tithes- Deity: The WandererAttributes- Vitality: 39- Strength: 10- Endurance: 25- Dexterity: 243 (+117) - Perception: 156 (+62) - Intelligence: 146 (+58) - Wisdom: 44Equipment- Weapon: Hunter's Bow – level 10- Body: Leather Armor – level 20- Hands: Bracers of Accuracy – level 10- Feet: Simple Boots of Swiftness – level 15- Ring: Silver Guild Ring – level 30Evasion: 240Dodge: 20.13%+5% to Accuracy rating.+13% to Movement speed.Health: 390/390Stamina: 250/250Mana: 352/440 (88 Reserved)
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

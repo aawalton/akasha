@@ -1,0 +1,159 @@
+---
+id: 69ac9134-8c28-50bb-970c-4e1c66aaaa25
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19: Circle of Restoration"
+slug: 0019-chapter-19-circle-of-restoration
+partOf: dungeon-of-knowledge-complete
+position: 19
+ownLength: 3450
+unit: words
+ownProgress: 3450
+publishedAt: 2024-02-15
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1519279/chapter-19-circle-of-restoration"
+royalRoadId: "1519279"
+markedReadAt: "2026-06-29T20:11:37.847Z"
+---
+
+Nature magic is such a broad category that it would take many volumes and the efforts of armies of scholars to fully classify. The simplest way to explain nature magic is to note that it is an affinity with life. The life of plants, animals, and the world itself. Within its domain are magics concerned with summoning or communing with plants and creatures, shapeshifting, and healing or growth. Always with nature, there is balance. Where there is life there is death, and where there is growth there is decay. Nature magic includes many purely magical damage skills, ranging from lightning and weather effects, which in some ways overlap with other magical affinities, to the balance and retribution of nature itself. Nature magic is the domain of a wide range of magic users from Druids to Dryads and is an essential companion to those who follow the path of life.
+
+- Excerpt from An Introduction to Druidic Magic.
+
+A point of light coalesced somewhere in front of her and expanded into a violent flickering and roaring rush of sound and pain as her awareness reluctantly returned to her bruised and battered body.
+
+Ali found herself lying on her back, unable to do more than hang onto her painful breathing as her senses screamed, informing her, with a chaotic deluge of signals, that all was most definitely not ok. There was so much that it all blended into one overwhelming scream of pain, running together and leaving her unable to even identify her injuries. Unwilling to try moving yet, she simply lay on the comfortingly cold stone, staring up into the mostly dark room.
+
+How am I even still alive? She lay for a while, wondering if she was dreaming, or perhaps she had stumbled into some sort of afterlife.
+
+After a few minutes of simply being, she summoned the energy to call up her notifications from before.
+
+Your group has defeated Fire Mage – Kobold – level 9.Your group has defeated Dagger Rogue – Kobold – level 8.Your group has defeated Warrior – Kobold – level 8. Grove Warden has reached level 7 (+2)+20 attribute points.Arcane Bolt has reached level 7.Barrier has reached level 7.Identify has reached level 6.
+
+Her mind took its time processing the information. Somehow, about halfway through the messages, she realized that it meant she had actually survived, and no, she wasn’t in fact dreaming. Besides, there was far too much pain for that.
+
+Slowly, she tried sitting up, immediately falling back to the ground as a fresh surge of pain crashed through her body. By her nearly full mana pool, she judged that she had been unconscious for nearly an hour, but her health was still critically low.
+
+Ali knew she was seriously injured, but she had no idea how she was going to find a healer down here.
+
+Maybe a potion…
+
+She painstakingly levered herself up into a sitting position. After fighting back the waves of dizziness and dimming vision, she finally took a good look at herself. Her arms and legs were charred from the flames of the fireballs, and her ears still rang painfully. She lay there in a disconcertingly large pool of her amber blood, with her right ankle bent at an impossible angle, clearly snapped. Her body involuntarily recoiled as the sight of her savaged leg recalled to her mind the sounds and pain of Mato’s brutal attack; the feelings of her flesh being torn by his powerful jaws, and her body flung back and forth crashing against the stone before she had passed out.
+
+Holding her breath, Ali turned quickly, searching for any signs of the bear, but all she found was Mato in his Beastkin form, lying still in a scarily large pool of blood. His brutally slashed body still faintly steamed from large swathes of burnt flesh. She had not noticed the soft sound of his extremely shallow breathing over the persistent ringing in her ears, but she could see the hyperventilation in the unnaturally rapid movements of his chest.
+
+He’s dying.
+
+She was no healer, but it was obvious that Mato wouldn’t last much longer. He was only level three, she thought, realizing that the Fire Mage had been three times that. She cast around for anything she could do, her eyes immediately coming to rest on the dark bundle of Mato’s pack, still miraculously intact, presumably having reappeared from wherever it went when he was shapeshifted.
+
+Potions! Mato and Calen had always had potions on them, stored in their packs.
+
+Why should I save him? He tried to kill me.
+
+The thought popped into her mind grabbing her attention with its powerfully pragmatic self-preservation, wrapped up in the horrific moral implication.
+
+Would you kill him? That would be murder.
+
+But he tried to kill me.
+
+Not just tried, he would have succeeded if he wasn’t so badly injured.
+
+The dilemma pitted her rational self-preservation against her moral values in a cascading storm of ugly thoughts and equally horrible memories of being mauled and savaged.
+
+I can’t…
+
+Even just entertaining the idea of sitting by and doing nothing, and simply letting nature take its course, left Ali horrified at herself, sick to her stomach.
+
+He read a book to me. Her memories provided something happier to soothe her feelings, but she couldn’t shake the terror she felt when she looked at him, even broken and dying as he was.
+
+He was the one who saved my life that first day, she thought, recalling the horror of facing the pack of wolves by herself.
+
+It sounded like she was trying to convince herself.
+
+Pressing her lips together into a firm line, Ali turned and dragged herself toward him. The moment she moved, she threw up from the intense pain lancing through her from her shattered ankle. Surprisingly, the clean purity of pain came almost as a relief from the dark thoughts that plagued her heart. She gritted her teeth and dragged herself a little further, struggling to find enough traction to pull herself along the blood-slicked stone.
+
+She almost passed out twice, but eventually, she was able to drag Mato’s pack out of the pool of congealing blood. Upending the pack, she spilled its contents to the ground, but to her dismay, not one potion came tumbling out.
+
+She stared in mute despair at the lack of anything that might heal her. Calen must have them in his pack. There was no way she could walk to wherever he and Malika were in her state. And how would they even find us down here? If they’re even still alive. Of the only people she knew in this world she had woken in, one had tried to kill her and was dying in a pool of his own blood, and the other two were missing, likely dead also – and she was powerless, unable to do anything more than drag herself around on the floor in agony.
+
+Her thoughts were suddenly interrupted by the muffled screeches and strange chirping noises of monsters in the distance. She shivered at the thought of what would happen if more of those Kobolds discovered her like this.
+
+Get it together, Ali! Think! she told herself. I’m not getting out of here with that attitude. Her body was broken, she had no potions to heal herself, and she could still hear the calls of the Kobolds hunting outside.
+
+They had survived, but for how long?
+
+Ali’s gaze fell on Mato. If he wakes up in this condition, will he try to kill me again? It seemed likely that if she called attention to herself, she would also quickly die to the monsters outside. She lingered in trepidation on the open stone archway that led to an unknown darkness beyond. How the monsters hadn’t been attracted to the sounds of the fireball detonations was beyond her, but she didn’t question that small piece of good fortune.
+
+Her eyes finally fell once more to the spilled contents of Mato’s pack. Nestled among his supplies rested his book on Druidic magic. She gazed at it for a long moment, a glimmer of an idea beginning to form.
+
+First, I need some protection.
+
+Ali dragged herself painfully over to the open stone archway that led out of the room, careful to hold back her gasps as her ankle screamed its objections to being jostled. Even the slightest movement caused bone to grate against bone. Once she was close enough, she summoned her Grimoire; the bright and beautiful glow of its magic that she had so admired, causing her no small amount of anxiety in the dark.
+
+I hope the monsters don’t see this, she fretted, rapidly paging to her brand-new stone imprint. Second by anxious second, she channeled her mana into the imprint, her ears straining to catch every chirp and screech beyond until finally, a massive stone slab appeared blocking the entrance to the room. Ali took a deep breath as some measure of her stress melted away at the sight of all that stone standing between her and the monsters roaming outside.
+
+She turned her attention to the second source of danger; Mato. Considering her situation, a little more rationally, now that she was a little less worried about being discovered, she paged through her Grimoire to the Sewer Rat imprint and summoned three of them.
+
+Your reserved mana has increased by +39.Sewer Rat – level 2 x3.
+
+I hope that’s enough, she thought, impressing on them her desire that they guard her against all danger. They crowded in closer, and normally she would have set them to keep a little distance, but she was beyond worrying about their smell in a room filled with the stench of burnt flesh, sulfur, and the metallic tang of slowly congealing blood. She let out a small sigh of relief. While she was under no illusions that she was actually safe now, the fact that she had done something to improve her situation noticeably eased some of the load pressing down on her.
+
+Now, I need mana.
+
+While she could simply wait for her natural mana regeneration to recover it, she had no idea how little time she had left. Who knew if those thugs were going to chase her down here?
+
+Ali made her slow and painful way across the stone, crawling over to the remaining Kobold corpse. The green scales of the warrior were slashed and torn where Mato’s claws had struck it or broken where her magic bolts had slammed into its body. The leather armor strapped to its body seemed to be crude, but functional, bearing a sizeable number of scratches, burns, and cuts, a testament to how much it had protected the creature. Its sword was of similar crudeness, rusted and notched, but clearly effective enough to put Mato down. Ali deconstructed it all, leaving her almost full once more – for what she had in mind she would likely need a lot of mana. She took a few minutes to collect the daggers and armor from the Kobold rogue, and the tattered robes the mage had worn, dropped in place when she had deconstructed their bodies earlier. She tied them up into a ragged bundle to drag along with her.
+
+That’ll have to be enough, she thought, returning to the pile of supplies by Mato’s empty pack with her bundle of loot. She picked up his book and opened it to the table of contents to begin her search, illuminating it by the simple expedient of summoning a small glowing barrier.
+
+Chapter 7: Druidic Restoration Spells
+
+She flipped quickly to the indicated chapter, taking a small measure of simple comfort in the nostalgic weight and feel of the book, and the brushing sounds the pages made when she turned them. The aches and pain in her body began to slowly recede into the background as she focused her attention on the inscriptions and runes presented on the pages in front of her.
+
+Theoretically, at least – even though she was not a Druid – her affinity for nature magic meant that her mana should be compatible with the spells she was searching through. However, Ali had no experience in doing what she was about to attempt, so she had no idea if it would even work. It’s not like there’s any other option.
+
+Here. This looks like the best one, she decided, gently brushing her fingertips across the runic inscriptions for a spell titled ‘Restoration’. It was one of the simpler spells among those listed with the healing trait, and yet it filled her with wonder and excitement even in spite of the dire situation she found herself in.
+
+She settled her body, shifting herself into a position of marginally less pain, and began to read, the subtle magic of her Runic Script skill working continuously to help her understand the complex inscriptions. A sudden howl from beyond the stone slab and the arched doorway snatched her attention away from the pages, and she shivered as her mind instantly conjured terrifying images of what it might be.
+
+Focus, Ali, she scolded herself, but her heart was more nervous than annoyed – worried more about the spine-chilling sound than her struggles to concentrate.
+
+She directed her attention back to the magic runes in the book, tuning out her surroundings and trying to ignore her fears. Slowly, the world faded from her attention, leaving her alone with the delightfully complex magical text. Her mana ticked down as her Sage of Learning began to pull at long-forgotten memories of magic studies from her youth, stitching them with runes she had briefly seen and not understood in books at the library, trying to make sense of what she was studying.
+
+Her focus deepened as she struggled to understand the delicate structure and interplay of the magical connections inscribed before her. She absently brushed the beading sweat from her face as her sense of time passing began to fade. For a simple, low-level spell, the complexity was extraordinary, and Ali threw herself fully into her task.
+
+Runic Script has reached level 5.
+
+She barely noticed the chime and the notification of her skill increase, but its effect was extraordinary. Immediately, the runes she was reading snapped into sharper focus as her new clarity began to unravel the significantly more complex layers below the superficial, and subtle interplay of meaning and connection they created in symphonic coordination. Her mind filled with a rush of new information, possibilities, and a sense of wonder, all the while, the voracious Sage of Learning consumed her mana in an accelerating torrent. Ali felt frustratingly close to understanding, but as tantalizingly close as she felt, it still eluded her. She pressed on, gathering her will and focus, and began to re-read the entire text.
+
+Sage of Learning has reached level 7.
+
+Suddenly, understanding blossomed in a cascading chain reaction within her mind. Falling back with a gasp, she saw each of the runes, concepts, and layers as if they were complex glowing puzzle pieces floating within the expanse of her mind. All she needed to do was sort them and fit them together in the correct arrangement. She reached out and nudged one piece, connecting it to its partner in a thrilling spark of understanding. As she examined the new configuration, she saw an additional connection that now seemed obvious. Reaching again, she coaxed the next piece to connect, building upon what she had just learned. Each time, understanding advanced, and her cascade accelerated like an avalanche which suddenly culminated in a pristine and clear picture, a circle of magic hovering, glowing, pulsing within her mind.
+
+Her awareness slowly returned to her body as she held the image within her mind. She was surprised to find her body drenched with sweat and trembling from exertion. But she had it – hovering in crystal clarity was the first magic spell she had fully grasped, completely understood.
+
+Ok, step one was successful, she thought, allowing some time for her breathing to return to normal. Sage is really hungry, she thought looking at the decimated remnants of her previously almost full mana pool. After she had recovered a little, she patiently deconstructed each of the items in her little bundle of loot, refilling her mana once more.
+
+Now for the hard part, she thought, shuffling and dragging herself along the floor to where Mato lay. His breathing was noticeably weaker now. He doesn’t have much time. Can I even make it?
+
+There was no choice. She would either succeed in time, or she would fail – and they would both die down here in the darkness, posthumous victims of the vicious Kobold Fire Mage.
+
+Diligently, Ali reviewed the glowing magical construct in her mind and then she began channeling her mana into her Runic Script skill. Intense magic shot forth from her hand in a bright green glowing stream, flecked with golden sparkles as she wielded her skill to duplicate the runes she had pictured. It didn’t matter that the ground upon which she scribed her magic was stone covered with congealing blood, her skill simply etched the spell-work directly onto the stone.
+
+The task was every bit as hard as she had anticipated – she mustered her focus and concentration to the extreme, striving to replicate exactly every tiny detail, every minuscule but essential connection. As she worked, the pain and exhaustion racking her body grappled with her mental focus, causing her to falter and lapse repeatedly. Each time she did so, she had to reset the entire rune she was working on and rebuild it from scratch. With painstaking slowness, running entirely on the force of her willpower, she grew a circle of glowing runes around Mato’s fallen body.
+
+Runic Script has reached level 6.
+
+Her vision was beginning to fade in and out by the time she reached the last few runes, sheer exhaustion taking its toll. Ali blinked the droplets of sweat out of her eyes and restarted the rune she was focused on, correcting a mistake. It was a silly mistake, but she had stopped chiding herself for them, reduced to merely hoping she would be able to hold out long enough to complete the construct. She swayed as she caught herself before passing out, and readjusted her mana, just in time to avoid making yet another error.
+
+Suddenly, surprisingly, there was nothing more to scribe. The circle closed with a snap and a rush of magical energy as the entire ring of intricate runes flared brightly in green with accents of gold. A substantial chunk of her mana surged out of her into the ring as her body staggered from the waves of exhaustion.
+
+Your reserved mana has increased by +44.Runic Script has reached level 7.
+
+She stared blankly for a while at the glowing magical construct. Within the circle, ethereal green aurorae began to dance, rising into the air like ghostly flames shot through with flickers of golden sparks and barely perceptible translucent shapes that looked like leaves floating on a breeze. Mato’s breathing began to slow and deepen as the magic flowed through his body. Ali cast Identify to see what she had made.
+
+Restoration – level 6Creates a Restoration aura within the circle.Runic Circle
+
+It worked. She knew she should feel more, but all that came was a sense of profound relief that she was done and could now let go. Thinking nothing of the danger, she crawled into the runic circle and collapsed beside Mato. The green aurora caressed her skin like the afternoon sun shining down on her face as she lay upon a grassy bank. She released herself into its embrace and finally allowed her consciousness to fade.
+
+***
+
+Name: Aliandra AmarielRace: FaeTitles: AncientClass: Grove Warden – level 7- Grasping Roots – level 5- Arcane Bolt – level 7- Barrier – level 7- Grimoire of Summoning – level 8- Runic Script – level 7- Sage of Learning – level 7- [Locked]- [Locked]- [Locked]- [Locked]General Skills- Reading – level 7- Identify – level 6- Sculpting – level 2Aptitudes- Languages: Ancient Dal'mohran, Elvish, Dwarven, Common- Mana (Affinities): Nature, Arcane- Tiny (Racial): The effects of Strength and Vitality are reduced by 50%- Magical (Racial): The effects of Wisdom and Intelligence are increased by 50%- Mana Sense (Racial): You are sensitive to nearby mana- Domain (Class): Your mana increases with the size of your domain, up to +100%- Domain: -10% maximum health per day domain withdrawalAttributes- Unspent: 20- Vitality: 20- Strength: 4- Endurance: 5- Dexterity: 10- Perception: 11- Intelligence: 38- Wisdom: 32Health: 4/100Stamina: 3/50Mana: 31/520 (83 Reserved)Grimoire Imprints1- Verdant Moss2- Wood3- Sewer Rat4- Giant Spider5- Starving Wolf6- Mushroom7- Stone8-

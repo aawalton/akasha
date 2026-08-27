@@ -1,0 +1,145 @@
+---
+id: 07eec65a-1df1-5357-9d4b-67e187f82c7c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 255: Joraa, The Betrayer (Part 2)"
+slug: 0287-chapter-255-joraa-the-betrayer-part-2
+partOf: dungeon-of-knowledge-complete
+position: 287
+ownLength: 1960
+unit: words
+ownProgress: 1960
+publishedAt: 2025-05-21
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2295125/chapter-255-joraa-the-betrayer-part-2"
+royalRoadId: "2295125"
+markedReadAt: "2026-06-29T20:20:58.800Z"
+---
+
+They waited several hundred yards down the trail, relying on Calen to kill the continuous stream of Blood Thralls Joraa was sending out to attack them. The boss himself was tied to the blood lake, but his minions seemed to have free rein – and he had not forgotten about them.
+
+By the time Ali was ready, they had mostly pieced together a new strategy. Joraa was a raid boss and gained enormous bonuses to his health. He was also a Blood Shaman, and so his health was already unreasonably enormous to begin with. He had all the usual shaman tricks – a healing totem, and a curse that could heal him, but in this battle, he had infinite blood to power it – a lake full – and if that wasn’t enough, he was emitting a blood-affinity bleed aura, so all of them were feeding his totems. He could heal himself with Blood Siphon, and if Ali was right, the Blood Thralls’ explosions were healing him too.
+
+Ridiculous! Malika checked on her debuffs.
+
+Bloodlust ExhaustionYou are immune to the effects of Bloodlust or similar magic. Debuff – Duration: 5 seconds / 15 minutes.
+
+“I’m ready,” Ali finally said, handing several orange strength elixirs to her pair of towering giant trolls. “Let’s make sure the Blood Thralls are taken care of, and then I’ll hit the boss with my berserkers.”
+
+The plan, Malika had to admit, was more than a little crazy. It hinged on Ali’s understanding of the obscure interactions between her witch doctor’s skills and the rage of the berserkers. But try as she might, she couldn’t think of anything better. “I just hope this works.”
+
+“It’s… a plan,” Calen said, twisting his mouth.
+
+“We’ll run again if it doesn’t work,” Malika said. “Mato?”
+
+“I’m ready.”
+
+“Ok. Let’s go,” Calen announced, and they followed Mato back to the lake.
+
+“Aah. The cowards return,” Joraa taunted, but Malika ignored him, watching intently as Mato charged out into the field and the Armored Drakes peeled the Blood Thralls away from the boss.
+
+Immediately, Joraa teleported to his thralls, but Ali kept her drakes kiting them, and Malika noticed she was going nowhere near the lake of blood.
+
+Suddenly, a now-familiar fan of blue beams arced out across the battlefield from the witch doctor’s fingers.
+
+“Calen, shoot my berserkers,” Ali said.
+
+“Got it,” Calen said, his stream of arrows turning into a fan with several of them pin cushioning the broad backs of the berserker trolls. “Tell me how much you need.”
+
+“A lot,” Ali said. “Malika, I need Clarity.”
+
+Out in the field, a thick ropy tendril of blood punctured the first berserker, bouncing to the second, causing both to roar as the mists of their rage billowed out into the bleed aura.
+
+“Sure, incoming,” Malika answered, finishing up her kick and punch sequence and extricating herself from a Blood Thrall.
+
+“Malika! I need it fucking now! What’s taking so damn long!” Ali yelled.
+
+Malika spun around in shock at the sheer aggression and uncharacteristic profanity from her friend and saw her standing on her barrier with her hands on her hips scowling furiously.
+
+She teleported, not bothering to punch Ali – at least the bleed aura would leave her something to heal. She pulsed her Healing Mantra, frowning at Ali’s glare.
+
+Malika’s healing magic burned through Ali, and the furious grip of the berserker rage flowing through her connection with her trolls cascaded off her suddenly clear and focused mind.
+
+You have gained Clarity.
+
+She blinked, surprised to see a hurt and confused expression on Malika’s face, and then her own words came crashing back into her memory.
+
+“Oh no, Malika, I’m so sorry…” she gasped. “I didn’t mean to say it like that, it was the rage.” As the words tumbled out, she knew how weak and pathetic it sounded.
+
+“Later,” Malika said. “Kill him first.”
+
+“I…” she glanced back to the battle and then nodded. “I need a heal every time it wears off,” she said, “otherwise I’ll lose control of them.”
+
+“Got it,” Malika answered and vanished, appearing back in the thick of battle.
+
+Ali firmed her resolve, putting her devastated feelings aside for now. Her words had really hurt Malika, and even if it had been the rage, it had been her that had said them. But Malika was right, the time for apologies and dwelling on it would come later. Right now, she had a troll to kill.
+
+Her grand insight, if it could even be called that, was the observation Calen had made about the way the berserker Blood Rage skill interacted with their Last Stand. Additional temporary maximum health could give her berserkers more health to lose, pushing their rage damage multiplier much higher. Both her trolls had a touch over one hundred and thirty percent extra health from their temporary boost, but Ali also had a witch doctor – and Ritual Infusion could donate the temporary health a witch doctor gained using Soul Drain.
+
+“You ok, Ali?” Calen asked, worry flickering in his eyes.
+
+“I’m fine,” she said, carefully monitoring the health of her berserkers and performing many hasty calculations in her head. Her witch doctor was continually draining all the Blood Thralls and Joraa, and transferring everything to the two berserkers. All she needed was for them to be low enough in health that they could overcome Joraa’s crazy health regeneration and healing.
+
+“Don’t heal them,” she instructed her shamans. The real problem though was that Ritual Infusion was transferring health, and it was acting just like a heal, even while causing their temporary health to tick up.
+
+She frowned – her calculations were not helping at all. I’m going to have to wing it.
+
+The temporary health gain slowed and finally reached some sort of peak beyond which the witch doctor could not push them. The male berserker had turned bright pink, and the other was emitting sparks from her eyes.
+
+“Bleed,” she commanded them. She did not care what magic they used, just that they burn their own health as fast as possible while Calen continued to pepper them with arrows. Both berserkers erupted with Blood Vortex, tearing through the Blood Thralls and Joraa. He teleported away, and the berserkers leapt through the air to smash down on him, their blood flowing in great gushing rivers to be soaked up by their greedy axes.
+
+The rage tore at her mind as their health plummeted, and Malika appeared beside her, healing her once again. Thankfully, it stabilized before she embarrassed herself a second time and she focused on the timing carefully.
+
+“Ten percent,” she called out, but it was not the boss’s health she was watching. A few seconds later, both berserkers bled out past five percent health, and their Last Stand skills triggered.
+
+“Go, Bloodlust!” she yelled. “Fucking kill him!” She instantly clapped her hands over her mouth in horror, but nobody seemed to notice.
+
+Bloodlust tore through their forces, empowering them, while Calen ignited his mana for the second time. Still, her Blood Berserkers burned their health like there was no tomorrow.
+
+Her mind began to wobble, her focus fracturing. This was the biggest risk of her entire plan – boosting berserker rage beyond its normal limits also enhanced the rage part, and she was struggling to keep her minions on target. They were seeing red everywhere and lashing out wildly with devastating strikes. One of her own Bone Warriors went flying, landing facedown in the pool of blood, unmoving.
+
+“Hit him!” Ali screamed, “Fucking hit him harder!” Somewhere in the back of her mind, she registered her words, but she didn’t care. Their enemy needed to bleed. She began cursing the annoying shaman in Elvish and descended rapidly into Dwarven before an annoying pest appeared beside her and hit her with some burning magic.
+
+You have gained Clarity.
+
+Ali slapped her, snarling fiercely, and sunk deeper into her bond with her trolls. She felt their rage, the glorious sense of bones snapping under the powerful cleaving axes, blood flying into her face, and being drawn in for more power.
+
+The vermin teleported again, and she screamed, cursing at him in Trollish, feeling the absolute rightness of the language for conveying the depths of her frustration and rage. Her berserkers flew through the air, landing on the troll shaman, their axes leaving crater impacts on the ground and sending earth, blood, and rock flying in great cascades.
+
+“How much?” Calen asked.
+
+“Shut the fuck up!” Ali screamed, sending her barrier shards flying into the clouds of dirt and stone, desperate to hit the weaselly coward within.
+
+She felt her pink troll’s muscles bunching as he unleashed a powerful cleave, striking Joraa’s shield and shattering it into flying fragments, sending him cartwheeling across the grass. Her female berserker swatted him out of the sky with unnatural reflexes, smashing him into the ground, and then unleashed Blood Vortex right on top of him. Ali felt every blade of blood that tore at his prone form while he struggled to regain his feet.
+
+Joraa screamed, unleashing a blast of blood point-blank into the chest of the male berserker, and Ali’s connection snapped. The enormous troll fell heavily to the ground and lay still. Joraa got to his feet and fired blood from his hands through her last berserker, draining her to within an inch of death.
+
+Ali screamed incoherently and her troll bellowed with her. Somehow in the haze of rage, she recalled her martial arts lessons with Malika and her troll stomped forward, crushing rock underfoot with the powerful footwork of the Ahn Khen. Her axe swung, blurring in the afternoon sun, trailing streamers of blood.
+
+There was a sudden thunderclap as the giant double-bladed axe head whistled through the air, and then cratered the rock at the end of its diagonal descending cleave. And in the middle, it bisected Joraa from the left shoulder to his right hip.
+
+Her berserker troll roared in triumph, but the mangled remains of Joraa, The Betrayer collapsed into a puddle of blood, reappearing immediately by the lake of blood.
+
+“You fools. You can’t kill me,” Joraa yelled, tossing out another totem and shooting ribbons of blood from his fingertips that arced in the air as they homed in on him.
+
+“No!” Ali yelled. In an instant, she swapped her Empowered Summoner boost from her Hellfire Imp to her almost dead leaping Berserker, and teleported, switching with the witch doctor that had been by the lake.
+
+“Ali!” Malika screamed.
+
+The annoying pest appeared beside her and Ali backhanded her away. “Stay out of my way!” A dozen golden barrier shards swarmed around her head. She could smell him – smell just how close he was to dying. With her eyes fixed on her foe, she stomped her foot forward and leapt at Jora’s face, emulating the berserker’s footwork from before. Then she unleashed her fist.
+
+Her punch connected with his jawbone with a satisfyingly loud crunch and his head rocked back. At that same instant, the flying berserker landed, burying one axe blade into his sternum, and the other slicing through his exposed throat.
+
+The faint sound of her chime was lost in the rush of her rage. Ali looked around, searching for what she could hit next.
+
+Your group has defeated Joraa [The Betrayer] – Troll – level 98 (Blood).
+
+“Heal it!” Calen yelled as the berserker leapt into the sky again.
+
+Two beams of blood shot skyward, and a person appeared behind the flying troll. Abruptly, Ali’s mind cleared. She stumbled, falling to the ground, suddenly exhausted while she struggled to figure out why she was sprawled out in the middle of the battlefield, covered in blood.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

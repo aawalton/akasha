@@ -1,0 +1,243 @@
+---
+id: 4615bcd8-fc1e-5476-9fef-9e65d39eba31
+page-type-slug: story-chapter-royal-road
+title: "Chapter 66: Bone Spire"
+slug: 0066-chapter-66-bone-spire
+partOf: dungeon-of-knowledge-complete
+position: 66
+ownLength: 4159
+unit: words
+ownProgress: 4159
+publishedAt: 2024-04-30
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1617345/chapter-66-bone-spire"
+royalRoadId: "1617345"
+markedReadAt: "2026-06-29T20:13:08.272Z"
+---
+
+Like many other professions and specializations, adventurers create their own jargon words to describe phenomena important to their lives and roles. ‘Tank’ is one such word. It means both the act of tanking and the role, individual, or Class that specializes in it. To tank a monster is to deliberately attract its attacks. The usual tools are damage, proximity, and specialized Taunt skills to appear the most ‘threatening’ to the monster.
+
+Many adventurers structure their groups according to the classical roles of tanking, healing, and damage dealing. The job of the tank is to take hits and specialize in mitigating damage. Typically, these are warriors with the heaviest plate armor, shields, class skills, and potions – all of which are focused on reducing the amount of damage to manageable levels while ensuring the monster remains focused on the tank and does not go rampaging off to kill the other specialist members of the group.
+
+Typically, good tanks are expected to be able to control the creatures they are fighting, setting up advantageous positions for the rest of the party. A simplistic example may be to face a dragon with an area damage breath weapon away from the group.
+
+Many legends and stories glorify the role of the tank, mistakenly thinking that their placement at the very forefront of the battle makes them more important, however, experienced adventurers know that all roles are equally necessary. Without a skilled healer, the tank will die, and without skilled damage classes, the monsters will stay alive, attacking until everyone runs out of mana or stamina.
+
+Some people try to claim that other styles of tanking are viable, for example, developing very high levels of dodging skill. However, nobody takes these people seriously. Probably because they don’t last very long – being only one bad string of luck away from death.
+
+One important caution to novice and seasoned adventurers alike: overreliance on specializations such as tanking will often get adventurers killed when they confront higher-level sentient enemies or intelligent monsters. In particular, Taunt skills function in much the same way as mental suggestion attacks – the tank uses their physical presence to coerce the enemy to attack them to the exclusion of any others. Much like any mental attack, this can be resisted with high wisdom, or any mental protection skills or consumables. An enemy that can figure out your strategy and ignore your tank while attacking your healer directly is a significantly more dangerous foe.- Excerpt from The Adventurer’s Guide, Third Edition
+
+Mato sat beside his friends, his mood unusually introspective in the aftermath of the fight. He enjoyed listening to their excitement as they discussed their various advances, even adding his opinion here and there. Ali’s joyous laughter as she zoomed around on her golden disk made him smile, and Calen’s powerful new skill made him look so epic.
+
+Mato hadn’t even looked at his notifications yet. He had always considered himself to be something of a brawler, good at fighting and standing up for himself and his friends on his own power. A bit impulsive and hot-headed, as his parents always said – or at least his mother did – but he had always felt like he had to take care of things by himself.
+
+The fight with the wyvern had changed something for him, at least a perspective.
+
+I would have died instantly without Ali and Malika constantly healing me, he reflected soberly. On some level, he had felt the powerful anxiety of being forced to rely on others for his very life. However, over the course of the fight, he had slipped into an almost trancelike zone, where he felt like he had found his purpose. Particularly, near the end of the fight, when the giant Skeletal Wyvern had landed and was attacking with frenzied speed and power. Releasing his need to control everything and trusting his teammates to keep him alive had allowed him to focus all his attention on controlling the monster. He felt like he had become the core focus of the entire fight, the product of the entire team’s strength, but in no way diminishing the power and contributions of his friends – at least, until the cowardly thing had taken to the air.
+
+I guess this is the feeling of real teamwork.
+
+In that place, he had discovered a powerful and deep sense of enjoyment, a feeling of testing himself against the giant undead creature, in a very personal and direct fashion, and coming out victorious.
+
+I think I have found my role. Am I weird for enjoying it quite so much?
+
+“You’re not usually one for deep, thoughtful moments,” Calen’s voice broke in, lightly teasing. “Get anything good from the fight?”
+
+“And you’re not usually the one poking fun,” he responded with a grin. “Let me check.”
+
+There were a lot of kill notifications for clearing the entire library, ending with the Skeletal Wyvern. After bypassing all those, he found the Class notifications he had been anticipating.
+
+Druidic Shapeshifter has reached level 27 (+5).+50 attribute points.
+
+Ugly fight, nice rewards. Shame I couldn’t hold the monster right at the end. Was I doing something wrong? Maybe Calen knows… or maybe I will have to talk to Vivian Ross.
+
+Mato’s attribute choices were fairly straightforward, if he ran out of health he died, and so would his friends. Ten points immediately went to vitality, followed by thirteen in strength and eleven in endurance. This covered his primary tanking attributes. Eight points went to wisdom because so many of his abilities required it, and then six points to perception to boost his Survival Instinct. His two remaining points went to dexterity – it wasn’t an attribute he needed much of, but some investment definitely helped him move quicker when he needed to block or dodge. Happy, he moved on to the rest of his notifications.
+
+Arboreal Sanctuary has reached level 14 (+2).Swipe has reached level 17 (+2).Brutal Restoration has reached level 17 (+3).Bear Form has reached level 20 (+5).Bestial Combat has reached level 18 (+2).Natural Prowess has reached level 13 (+2).Survival Instinct has reached level 11 (+5).
+
+His skill growth demonstrated just how hard he had been pushed. All his defensive and attack skills had leveled up dramatically – the particular standouts being Bear Form and Survival Instinct – his primary armor and avoidance skills. Even Arboreal Sanctuary had grown by two levels for doing nothing more than sharing his aura with Malika and siphoning damage from her when she popped in and out of harm’s way.
+
+But there was more waiting for him. Licking his lips, he read on.
+
+Requirements met for skill advancement. Bear Form has reached level 20.Tanked a raid-level threat.Defeated five or more monsters with greater than 80% physical damage reduction.Bear Form gains Piercing Bite.Piercing BiteStamina: A powerful bite attack that does [skill + strength] melee piercing damage and ignores 20% of the opponent’s armor. Recharge: 15 seconds. Physical, Melee, StrengthRequirements met for skill advancement. Bear Form has reached level 20.Tanked a raid-level threat.Held the attention of four or more monsters while under an area damage onslaught.Bear Form gains Challenging Roar.Bear Form gains increased size and weight.Challenging RoarStamina: Challenge your enemies with a powerful roar. Each enemy is Taunted to attack you and receives a reduction to strength. Range: 15 feet, Duration: 30 seconds. Recharge: 30 seconds.Physical, Melee, Area, Debuff, Taunt, StrengthChoose up to one advancement.
+
+Noticing the expectant looks from his friends, he shared his choices.
+
+“Bear Form got an advance,” he said, sharing his two choices. It looked like he was being offered one new skill that was usable when he was in his Bear Form.
+
+“Those both look great,” Malika said.
+
+“Mato is going to pick the bite,” Calen predicted.
+
+“Why?” Ali asked.
+
+“It’s the one that does damage, of course.”
+
+“Actually, I think I like the roar better,” Mato answered, getting a surprised look from Calen. “And no, I really mean that, I’m not just messing with you. This time.”
+
+“Why? I mean it looks good, but I’m surprised,” Calen said.
+
+“Those Kobold warriors with their taunt shouts were very annoying,” Mato answered. He still remembered his confusion every time the Kobolds had made him switch. Putting a few points into wisdom had definitely helped, but he was still frustrated every time it happened.
+
+“So, you were inspired by them?”
+
+“No, I want to be just as annoying to my enemies,” Mato declared. He grinned as Malika burst out laughing. “I can’t shout insults in Bear Form, and I like roaring, I may as well get a roar with actual power. Besides, I get to be bigger, too.”
+
+“You’re going to pick it for those reasons?” Calen exclaimed, looking flabbergasted.
+
+Mato let Calen stew for a few moments before he chuckled. “The strength reduction looks very helpful for tanking, especially given how well adding armor worked, and an area Taunt will be very powerful too. I could have used being heavier against that Skeletal Wyvern – plus, it was able to break away toward the end.”
+
+Watching Calen’s expression as he realized he had been had was worth the setup.
+
+“So, you do know how to reason properly,” Calen teased.
+
+“Yes, but it was much more fun to watch your face when I said I was going to choose it just to be annoying, and because I like shouting at stuff.”
+
+“You like tanking that much? You won’t miss the damage skill?” Malika asked, her face still recovering from a good laugh, but her eyes held a note of seriousness.
+
+“I think so, yes,” Mato answered. He considered the strange turn of his feelings, trying to find a way to put it into words. “I felt alive trading blows with a dragon. Even a crappy undead one. If I want to do that more, I need to be serious about it and choose the right tools.”
+
+Calen nodded slowly. “Nice Mato. You convinced me. Go ahead.”
+
+He selected his Challenging Roar and brought up the description for Bear Form.
+
+Bear Form – level 20Stamina: Shapeshift into a bear. Your hide provides +691 [class x 12 + skill x 12 + endurance] natural Armor. Granted Skills: Charge, Challenging Roar.Nature, Shapeshift, Buff, EnduranceCharge – level 20Requires: Bear Form.Stamina: Charge at high speed using your momentum to check or crush your opponent. Range: 30 feet. Recharge: 10 seconds.Physical, Melee, Movement, StrengthChallenging Roar – level 20Requires: Bear Form.Stamina: Challenge your enemies with a powerful roar. Each enemy is Taunted to attack you and receives a reduction to Strength. Range: 15 feet, Duration: 30 seconds. Recharge: 30 seconds.Physical, Melee, Area, Debuff, Taunt, Strength
+
+“Are you going to show us the new, improved Bear?” Ali asked brightly.
+
+Mato just smiled and activated his shapeshift. It drew a little more stamina this time, and the shift felt like it somehow took more work, both to adjust and warp his body, and to apply the shift to his armor.
+
+As soon as it finished, he realized why. His body was substantially heavier and denser, and he stood noticeably taller with his armor suitably stretched to cover a broader chest and larger shoulders. I feel powerful. He clicked his fangs together and made a trial Swipe with his heavier paws, making sure to keep the blow way over Ali’s head.
+
+“Well, that’s going to be better for tanking the larger monsters,” Malika approved.
+
+“Yes, if he keeps this up, he’s going to actually become big someday,” Ali said. She was standing on the ground staring up at him from between his front paws.
+
+Unable to laugh in Bear Form, he just snorted and butted Ali gently with his head as both her and Malika broke into laughter.
+
+Mato took his new Bear through its paces. It would take a little to get used to the weight change and increased reach, but all told he was happy. I can’t wait, he thought, already imagining a rematch with a monster just as ridiculous as the Skeletal Wyvern.
+
+***
+
+Name: Mato BahrRace: BeastkinActive Buffs: Bear Form, Natural ProwessClass: Druidic Shapeshifter – level 27- Arboreal Sanctuary – level 14- Swipe – level 17- Brutal Restoration – level 17- Bear Form – level 20- Wolf Form – level 4- Bestial Combat – level 18- Natural Prowess – level 13- Survival Instinct – level 11- [Locked]- [Locked]General Skills- Identify – level 7- Cooking – level 5- Wilderness Lore – level 6Aptitudes- Languages: Common, Beast- Mana (Affinity): Nature- Strong (Racial): +7 to Strength- Tough (Racial): +10 to EnduranceAttributes- Vitality: 164 (+60)- Strength: 121 (+52)- Endurance: 156 (+77)- Dexterity: 12- Perception: 30- Intelligence: 9- Wisdom: 54Equipment- Body: Banded Feral Plate Armor – level 20Armor: 1008Physical Damage Reduction: 57.14%Health: 1640/1640Stamina: 1248/1560 (312 Reserved)Mana: 540/540
+
+Ali swooped through the air seated upon her golden magical disk, leaving eddies in the smoky haze that swirled lazily in her wake. I don’t think this will ever get old. I can fly! As long as she could hang on to her barrier, that was. But the little she had invested in dexterity so far seemed to be enough for her to complete some daring maneuvers and quick turns without getting thrown off.
+
+“Ali, watch out near that edge,” Malika said.
+
+“I’m fine,” Ali answered, but she did angle her flight, swooping back toward the group. There had been a few tumbles, so Malika’s concern wasn’t exactly misplaced. After a few more minutes of attempting to bank in progressively tighter turns around her friends, she recalled that she had earned something else during the fight.
+
+I got the Piercer Scorpion imprint!
+
+The giant bone elementals had been terrifyingly powerful melee monsters, and Ali couldn’t think of a single situation where she would rather have a Bugbear or a Kobold warrior over one of those. Except the Bugbears can jump, she thought. High enough to swat some flying monsters out of the air, she imagined. And they have stealth… Perhaps variety is the key. Certainly the Piercer Scorpions had been terrifyingly massive and she could use them as a wall, if nothing else.
+
+Eager to try it, she guided her barrier to the ground and hopped off.
+
+“Done flying?” Mato asked her, clearly amused. “You looked good – you know, like a green-haired, flying magical bat.”
+
+“Mato!” she grinned. “I’ll get back to it in a minute. I want to try to summon a Piercer Scorpion.”
+
+“Oh, you got it? That will be impressive,” Calen said.
+
+“I did!” Ali had lost count of how many she had deconstructed – several dozen at least. She made her Grimoire appear and flipped the pages open to the brand-new chapter imprinted with the ‘Bone Elemental’. Presumably, it included the Spitter Drone as part of the imprint, otherwise, she would have expected the title to be a little more specific. However, predicting her Grimoire’s behavior was not nearly an exact science yet.
+
+She channeled her mana into the Grimoire for several minutes before an enormous white monster suddenly appeared, towering statuesquely over her.
+
+Piercer Scorpion – Elemental – level 28
+
+“Hello gorgeous,” Malika chuckled. It stood gleaming in the magical light that still illuminated the shattered battlefield, majestic in stature, vicious-looking, heavily armored, and dangerous. Then it collapsed in a heap on the ground with a loud crash.
+
+What?
+
+She stared at the large pile of unmoving bone in surprise, but no mana flowed from her, and she had gotten no notification of a reservation increase. It was dead. No, she peered closer. It’s like it was never alive, just a puppet created from bone.
+
+She tried again, making a second one – but it, too, appeared to be dead on creation.
+
+“What’s wrong with this?” Ali grumbled in frustration. Nothing like this had ever happened before – her Grimoire, other than the random variation, had always been an extremely reliable skill.
+
+“I think your magic is wrong,” Mato answered cryptically, bending down to poke the corpses with his large finger.
+
+“What do you mean?”
+
+“You are a nature mage. Nature is the magic of life, creatures, and plants,” he answered. “These things are not. They are pure constructs of bone affinity mana. If I had to guess, I’d say your nature mana is incapable of giving them life.”
+
+“Elementals are creatures born of a particular mana affinity,” Calen said thoughtfully, “I think Mato has it right. It’s the same reason you can’t cast Fireball spells with your nature mana.”
+
+“But I can create Fire Mages,” Ali objected. She had been so excited about making the scorpions, she didn’t need problems with mana affinities getting in her way.
+
+“When you make a Kobold, you’re creating a living creature with nature mana. It is the one creating the fire mana,” Calen answered. “It might be a little indirect, but it works. A fire elemental is more like a Fireball than a creature. That’s probably why this doesn’t work. At least, that’s what I think.”
+
+Ali frowned, “I was looking forward to making an army of them. I guess I wasted an imprint?”
+
+“Maybe we can find you some nature elementals?” Malika said. “Although, that seems unlikely down here. Don’t rush it – whatever you do, Ali. Don’t get rid of it yet.”
+
+“Nature elementals would be nice,” Ali admitted, shaking her head unhappily. “Well, I guess I’ll keep this for now until I find something good to replace it with. Does anyone want that wyvern corpse?”
+
+“It would probably be inconvenient to sell,” Malika said. “We’ll probably make a lot more money with those fancy Eimuuran swords we found.”
+
+“Ok, I guess I’ll deconstruct it, then,” Ali answered. At least it was something productive she could do – and she wasn’t about to gain a worthless imprint for Skeletal Wyverns after deconstructing just one of them.
+
+Ali walked over to the enormous Skeletal Wyvern corpse draped across the landing and half the battlefield. She studied the surges and swirls in her mana for a few minutes as her Deconstruction spell ran its course. As soon as it finished, the great pile of previously undead wyvern dissipated into the surroundings, briefly lighting up the landing and the walls surrounding the atrium with an explosion of mana motes. From within the cloud of mana, a sizeable uneven spherical chunk of off-white bone fell clattering to the ground. It rolled about, coming to a stop against Ali’s feet pulsing with an intense concentration of bone mana. Ali yelped and skipped backward, but it just lay there on the ground.
+
+Lesser Bone Essence.
+
+To her surprise, the moment her mana pool filled from her deconstruction, she felt a sudden precipitous drop as Sage of Learning sucked away a large chunk of it, followed by the soft ringing of chimes.
+
+[Sage of Learning]Domain Magic analyzed: Summoning (Piercer Scorpion).Domain Magic analyzed: Attribute Enhancement (Strength).Domain Magic analyzed: Enrage.
+
+“Uh, I did… something,” Ali said, creeping up to the mana-dense bone sphere on the ground, simultaneously trying to understand her new notifications.
+
+“Again?” Mato said, grinning widely. Ali frowned at him.
+
+“Ooh! An essence!” Malika exclaimed, darting in, and picking up the uneven sphere of solid bone which was just a little smaller than her head.
+
+“What is it?” Ali asked.
+
+“A powerful crafting component,” Malika said breathlessly, examining it closely. “I’m not sure if there’s anyone in Myrin’s Keep who could even use something this potent.”
+
+“Good thing we have Weldin,” Calen observed. “We can probably trust him to find a buyer. Do you think it might be worth enough to cover some of our potion costs?”
+
+“Oh yes,” Malika said, her feet tapping as if she wanted to dance. “I can get a couple of gold for this! More than enough.”
+
+As the others discussed the essence, Ali’s attention returned to the other notifications Sage of Learning had triggered. Domain Magic? Analyzed? Where did it go? Her Grimoire hadn’t responded, so it was unlikely to be in there, but she looked anyway. Nothing… Just in case, she opened her Sage skill description, but she found no clues lurking there either. She racked her brain trying to figure out what exactly it was that her skill had ‘analyzed’ but nothing came to mind.
+
+“Hey, I got something new,” she said, turning to her friends for inspiration and sharing the ‘analysis’ notifications with them. “I don’t know what it is, though.”
+
+“Those are all the wyvern’s biggest abilities!” Calen said.
+
+“Oh, you’re right,” Ali said, reading them again. Somehow related to the domain? There was one for the enrage, one for the ridiculous strength, and one for summoning Piercer Scorpions. “I don’t see the bone spear skill though. Or the regenerating bone armor.”
+
+“Hmm…” Calen said.
+
+“I still don’t know what it’s for,” Ali said, but Calen had at least pointed out the obvious connection between the monster’s abilities, the domain, and her notifications. Still, the puzzle would bother her until she fully unraveled it. It must be something encoded in its mana. After all, she had got it by deconstruction and her Sage skill.
+
+“While you’re figuring that out, why don’t we go down and check out the bottom floor,” Malika suggested, making the lesser bone essence vanish into her ring’s storage enchantment. When the others groaned, she said impatiently, “Come on, you lot! We’re not going to go through all that just to miss out on some loot, right?”
+
+“Coming!” Now that all the monsters had been cleared from the library, they had free rein to explore. At least, until the dungeon decided to respawn everything. Ali left the puzzle of the Domain Magic and the obscure notifications for later, ignoring the depressing thought that they might have to do all this again if the dungeon respawned the Skeletal Wyvern, and hopped on her barrier and flew off to join her friends as they descended the spiral stairs. She had never been allowed into the lower levels of the library and, as she floated beside everyone, her eyes gobbled up everything as she tried to imagine what it might have looked like in the past.
+
+Eventually, she alighted on the ground of the bottom floor and stepped out into the middle of the atrium. There, towering above them, beyond even the reach of Calen’s light magic, stood an enormous spire of accreted bone. While it was pure white according to her mundane vision, her Arcane Insight told an entirely different story.
+
+Vast quantities of dense, dark mana billowed from the spire, filling the entire atrium with a cloying pressure that made her skin crawl.
+
+“This was the Skeletal Wyvern’s roost,” Calen explained, stepping up beside her.
+
+“I think it needs to go,” Ali said. The spire gave her the creeps. Perhaps it was just the density of the uncomfortable bone affinity mana, perhaps it was the sheer affront of having something like this in the center of a space she had held to be sacred, reserved for study and knowledge. Either way, she was certain.
+
+She stepped up to it, ignoring the scattering bone critters, placed her hand on the enormous pillar, and released her deconstruction magic into it.
+
+I hope it doesn’t fall on me, she thought as her magic channeled for quite a lot longer than it normally took. But it was just the extreme size that was taking the time, and eventually, the entire spire dispersed into a cloud of golden motes of light, with an audible popping sound.
+
+Imprint: Bone completed.
+
+She sighed in relief as the bone monument vanished, opening up the space in the atrium. As usual, Ali dismissed the bone imprint that had been offered several times already. There was certainly more than enough bone around for her to learn it if she ever needed it.
+
+Just as she was about to turn around, there was a profound ripple through the dense bone mana, and deep within the fundamental weave of the domain – in the binding between bone and death – something tore. It wasn’t even just a little tear, the fabric of the domain ripped, showering the atrium with dark sparks that flickered and vanished. The giant ripple shot out across the atrium, up and out of sight as the entire thing simply… unraveled?
+
+Rooted to the spot, Ali stared at the darkly shimmering mana as it unbound and dispersed. The atrium echoed with a sudden skittering and scrabbling as thousands of bone critters fled. There was still a substantial amount of structured death and bone domain mana seeping out through the walls, indicating that the dungeon was still alive. But the mana throughout the atrium and above lay in tatters, like an immense wound that bled unstructured mana.
+
+“You broke something, didn’t you?” Malika asked, standing beside her and staring out into the darkness.
+
+Calen whistled softly. “You don’t say.”
+
+“Seems so,” Ali answered, not quite sure what she had done, nor what the impact would be. But she was afraid it wouldn’t be good.
+
+“I think I broke the dungeon’s domain.”

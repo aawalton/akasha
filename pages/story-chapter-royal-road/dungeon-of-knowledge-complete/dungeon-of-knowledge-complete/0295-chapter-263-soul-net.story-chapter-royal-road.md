@@ -1,0 +1,151 @@
+---
+id: ca37d426-ed16-5897-9346-e5cf528c5a7b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 263: Soul Net"
+slug: 0295-chapter-263-soul-net
+partOf: dungeon-of-knowledge-complete
+position: 295
+ownLength: 2923
+unit: words
+ownProgress: 2923
+publishedAt: 2025-05-29
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2314439/chapter-263-soul-net"
+royalRoadId: "2314439"
+markedReadAt: "2026-06-29T20:21:15.785Z"
+---
+
+Ali scrambled from emergency to emergency with a frenetic urgency, barely holding on in a fight where a single mistake could spell disaster, unraveling their defenses and killing them all. The mental grip with which she clung to the recall potion in her inventory was cramping just like a normal muscle. Yet she hadn’t personally landed a single attack.
+
+Her sole remaining Blood Berserker had been caught in the fear and vortex combination, dropping its remaining health to dangerous levels. A throbbing migraine threatened to blossom in her head as she bore down with all her willpower, wrestling with the rage to force her minion to remain focused on Tol’brekk instead of unleashing his fury on everything in sight. She had already lost more than half her forces and couldn’t afford to lose any more.
+
+“Lock them down,” Calen said, hovering several meters above the ground on his shining ethereal wings of light.
+
+Explosions rippled through the area she had just vacated, detonating with a constant roar of ice, hellfire, and light. Frost Nova seemed to be the perfect tool for locking down the Blood Thralls, and Calen and her minions were shredding them with their area damage. At least something is going well.
+
+Mana flared from the giant Death Knight – one of now three spells it wielded that took mana. Mana from the domain.
+
+“Sacrifice,” Ali announced, identifying it in an instant. There was an obvious and distinct contrast between this and the formations for summoning Blood Thralls or the black Blood Vortex. It was only the domain mana enhanced skills she could see – all his other abilities remained invisible to her mana sight; cast with blood magic instead of mana.
+
+“Get it, I’ll take care of the thralls,” Calen said.
+
+Ali focused intently on the magic, preparing the counter-formation in anticipation. With Tol’brekk so deep into his rage, this was yet another thing she could not afford to miss; an empowered strike with that much blood rage could easily end Mato’s life in an instant. Black ribbons of Tol’brekk’s blood boiled outward from his chest and arms, spearing through a hapless troll stapled to a tree. Black blood stained with a sudden flush of crimson, and when it passed, the poor troll was left drained and withered, hanging limply from the bloodsteel spikes. The blood circled, heavy runes forming in the air as Tol’brekk wielded the power of his blood magic.
+
+Ali released her arcane formation, golden magic lancing forth, crossing the gap in an instant, tearing the blood magic formation to shreds. The runes detonated, splashing black and red blood on walls and the dirt, before it was all sucked up by the great axes and nearby totems.
+
+She breathed a sigh of relief, and then immediately felt a rush of guilt for the poor troll who had just died.
+
+A moment later, a roiling beam of black necromantic energy descended from on high and sliced through yet another troll, withering him and the tree he was bound to into ash in the blink of an eye. The once-living troll slumped, bones clattering to the ground. Ali ground her teeth against the revulsion welling up within her and then the oppressive wave of magical fear pressed heavily on her mind. Desperately she resisted, balling her fists in impotent anger. In the distance, Malika flittered and danced among her minions, freeing them from the clutches of fear, and Ali followed behind with her awareness, sending them scattering as she tried to save them from the deadly Blood Vortex. As she connected with her rage-filled berserker, she forgot the fear – anger suffusing her as she found herself struggling to hold back from screaming her rage and charging into battle.
+
+Not now, she thought, forcing it down. She would take rage over fear any day, but there was a limit. At least it was much more manageable than the rage of the vastly over-boosted berserkers she had used against Joraa.
+
+“Summons!” Ali yelled. Again, the courtyard writhed as Blood Thralls formed in the wake of the vortex, this time, immediately fanning out in all directions, but Calen was prepared to pick them up and didn’t need her assistance, so she left them to him and her mages and imps.
+
+“How’re we doing?” Calen asked.
+
+“Mato’s taking a beating,” Malika shouted.
+
+“Tol’brekk is getting low,” Ali said, studying the boss’s health with the Shaman’s Scent of Blood. She couldn’t tell quite how low, but his damage output was already insane – more insane – judging by the continuously rippling ribbons of blood arcing over to heal Mato. It wouldn’t be much longer before the most dangerous moment in the entire fight; the moment he used his final Last Stand.
+
+A bolt of black lightning struck out of the clear skies with a deafening crack.
+
+“Aah, finally,” Nevyn Eld said, his cold harsh voice echoing ominously, cutting through the crashes and roars of battle with ease. “Enough with your meddling, annoying Elf. Feed my construct. You will make a fine Death Knight."
+
+Ali’s head snapped up to find the dark Lich gripping a writhing, arcing bolt of necromantic energy that was impaled through Lyeneru Silverleaf’s chest. Transfixed by his spell, she struggled and twitched as the giant array in the sky surged with power, fed by the visible strands of life force that drained from her.
+
+“You have tested my patience for the last time,” Nevyn Eld said, twisting the spear of darkness viciously. “Now, die!”
+
+The magic energies surged with amplified power as the entire array above them activated. Lyeneru screamed.
+
+“He used Last Stand!” Malika yelled, but the sounds and the import of her words were lost on Ali. Lost in the background noise.
+
+Ali froze, transfixed by the sight of the array unfolding before her, her mind exploding with new connections as Sage of Learning finally put it all together. The extent of Nevyn Eld’s magic was just as breathtaking as it was horrific.
+
+It collects souls.
+
+It all made sense now. The undead summons within a dungeon of blood and bone. The Grim Totems and the horrific altars. The sacrifices. Even the abundance of Soulshade Blossoms and their undead counterparts, the Spectral Wraithroses, made sense considering how much soul energy was being drawn from the sacrifices and trapped in the Spirit Realm, pooling around the barrier formations.
+
+The screams penetrated her heart, and she acted instinctively, turning on her Study Trance and following it immediately with Arcane Recall. The battle paused, and most of the roiling torrent of magic froze as the world shifted to gray. Here in the Spirit Realm, the full formation shone in all its glory, including the soul magic runes, now active and glowing. Despite the frozen time, blue flowers sprouted, springing up one by one as the energy drawn from the Lich’s victim spilled out into the surroundings. And here it was that she confirmed the final piece of the puzzle.
+
+Nevyn’s soul collector was designed for a singular purpose; trapping the souls of those who died within the dungeon so that he could turn them – crafting undead from the unfortunate or unwary. For those lesser undead, the ghouls and zombies, it was sufficient to let the dungeon manufacture bodies to be raised by the constructs she had destroyed earlier in their exploration. But this one was something else – Tol’brekk’s transformation was not a unique event. This formation, set high upon the peak of the Temple of Aman Rak, was a trap designed to lure in high-level adventurers just like Lyeneru, killing them and then transforming them into Death Knights bound in service to the Blind Lich himself.
+
+The glowing tendrils of soul magic arcing away from the dome-like rune structure connected to elsewhere; likely other dungeons seeded by the Blind Lich as he cast his net across the land. He was building an army the likes of which had not been seen in an age.
+
+But for what?
+
+Ali put it aside for now, these were not questions she could simply answer by asking him. Right now, Lyeneru was dying, and her friends needed her help. She followed the frozen flows of the mana, marveling at how much more she understood upon seeing it finally activated. She studied it carefully, painstakingly, meticulously; but where she had once searched for the safest way to dismantle it, she now hunted for precisely the opposite.
+
+This was a dangerous endeavor, but Lyeneru had literally seconds left to live, and Ali had long lost the luxury of safety. As she studied the patterns, connections, and sequences of mana, Ali attached each data point to the already substantial body of knowledge she had for this work. She didn’t know how long it took, if that even held meaning here, but the understanding finally coalesced in her mind as the pathways were finally revealed.
+
+This had better work.
+
+Right where Nevyn Eld’s ebon claws pierced the veil into the Spirit Realm, pulling the strings of his immense creation, hung a pulsating rune of power. She held the critical rune construct clearly in her mind, tracing the lines of power from across the entire net, and built her arcane mana into the formation that would disrupt it and send the immense, carefully controlled currents of mana into an overload feedback loop.
+
+Her golden arcane magic shot from her fingertips, and time resumed. A whisper accompanied the darts as they pierced the power rune and Nevyn Eld had time only to snap his head around. Already swollen with rushing conduits of mana drawn from the surrounding domain, the lines of power surged instantly, delivering their payload to the vicinity of the Lich himself. With nowhere to go after Ali had dismantled the critical power rune, the runes began to blaze with blinding incandescence as all the excess mana overloaded the formation. A fraction of a second later, the stressed fabric of the Lich’s creation detonated. Several stone buildings right under the epicenter were vaporized as the ground beneath the entire temple complex convulsed, tossing everyone flying to be smashed by the concussion wave and the flying debris. The cascading feedback of death and domain mana flashed back through the array, triggering secondary explosions and rapidly ripped the formation apart. Gray flashes of spirit realm echoes flickered across into the real world and bursts of trapped soul magic spawned carpets of blue flowers accompanied by the sounds of a horrific, unending, ethereal scream. Tiny scraps of crimson robes and chunks of withered ebony flesh rained down widely across the remains of the Temple of Blood, but Ali did not miss the sight of his mana vanishing into a briefly conjured rift.
+
+Lyeneru fell from the sky as the arcs of death magic pinning her aloft suddenly vanished, and she landed in the dirt with a heavy thump and lay still, her magic extinguished.
+
+“Bloodlust!” Calen shouted.
+
+Huh? It took Ali a few seconds to process what he was saying and reorient herself to find her minions and friends scrambling across the battlefield as Tol’brekk leapt into the sky with a thunderous battle cry.
+
+Didn’t we use bloodlust already? she thought, her mind catching up to the reality of the still-unfinished battle. She switched her view to her shaman and inspected its temporary magic effects, but sure enough, the exhaustion debuff from the previous bloodlust was gone.
+
+Has it really been more than fifteen minutes?
+
+“Bloodlust!” she commanded, still surprised by the amount of time that had passed, but not questioning it – fortunately it meant that Mato’s Last Stand must have recharged, too. Blood runes blasted out to anoint all her melee minions and Mato and Malika too. Then, Calen ignited his mana as he added Righteous Fury to their power.
+
+“All out!” she instructed, setting her minions to attack with everything they had.
+
+Blood shot out from the giant Death Knight as it used Sacrifice again, and Ali could only stand and stare helplessly. She had just used her Arcane Insight to blow up the Lich and now it was on recharge. One of the last remaining troll prisoners was stripped of his blood and life to power the Death Knight, and, with an unreal swing of the greataxe, he smashed Mato through a still-standing stone building, walls exploding in a spray of stone and rubble.
+
+“I can’t dispel that!” Ali yelled in panic as the giant troll leapt after Mato, landing in the rubble with an enormous crash.
+
+Is he ok? Is he alive? she thought, certain that there was no way he could have survived such a blow, but then she caught the scent of his blood. The huge axe blurred and struck, and she had never been so happy to hear the sudden sharp crack of Mato’s Critical Block and to see the air blur and shimmer. The shockwave centered within the half-destroyed building pulverized the remaining walls, demolishing them in an instant and blasting black blood and rubble in all directions. Ali threw up a couple of barriers as debris rained down on their forces.
+
+The troll spun once, and the Blood Vortex tore through the remainder of the stone walls, shattering everything in its path in his urgency to crush Mato.
+
+Ali’s own Blood Berserker’s health plummeted, and his rage skyrocketed, and Ali felt him trigger his Last Stand in response. She forced her will through the cloud of his rage with just the image of the Death Knight and the desire to destroy. As her minions scattered or were tossed out of the vortex, her own berserker leapt into the center with a giant crash of axes and activated his own crimson Blood Vortex.
+
+There was no way to keep track of all the magic in the chaos, but somehow, in the middle, Malika’s magic was flaring with healing and Soul Strikes. Mato’s heavy form flickered within as a glowing shape outlined by soul or nature magic healing. The Blood Vortex came crashing down, and the cascading blood immediately coalesced, forming fresh Blood Thralls, but Calen’s arrows found them immediately, pulling them away.
+
+Ali split her attention to managing her mages and berserker, struggling to keep her focus under the intense power of its rage. Tol’brekk simply leapt forward to smash his axes in tandem against Mato’s hunched shoulders, crushing his body in a spray of blood and ghastly cracks, but the blood ribbons healed him quickly, and Malika was right beside him.
+
+A great cleaving strike whipped around catching Mato and her Blood Berserker simultaneously, and she felt her berserker’s last thread of life snap as the devastating blade bisected it from shoulder to rib. She was running out of minions to fight – without the berserker, only Malika remained of the entire melee force, and all her casters were either healing or defending against the growing swarm of Blood Thralls with Frost Nova and fireballs. By the scent of his blood, Ali knew that Tol’brekk was almost dead; a fact that filled her with dread – with this much rage, the longer the battle drew out, the more certain Mato’s chance of being killed with a single strike.
+
+Without hesitation, she burned her last charge of Winter’s Desolate Celerity on an Ice Mage and commanded, “Kill Tol’brekk. Use everything!”
+
+“At once, Seeker!” the mage said, ice mana accelerating within his veins. Even though the berserker was highly resistant to movement impairments, the sudden rush of high-velocity ice bolts slamming into him made his movement stutter. It was all Ali had to help Mato survive, and she desperately hoped it was enough.
+
+“Faster!” Ali demanded as Mato charged sideways to get out from under the boss’s leap attack. He had to be trying to time his Critical Block recharge.
+
+“Yes, Seeker,” the mage said, redoubling his efforts, but he was already casting three times faster than normal.
+
+“All of you, Ice Bolts on the boss!” Ali screamed, and for the first time in the battle, she fired barrier shards at Tol’brekk as she desperately sought to make up the damage deficit from so many dead minions. But without their damage on the thralls, things were growing precarious.
+
+“Ali?” Calen shouted.
+
+“Boss – now! Mato can’t survive another hit!” she yelled.
+
+It’s not enough!
+
+But as Tol’brekk reached the apex of his enormous jump, the air nearby shimmered. Malika’s body appeared above the giant troll’s head, punching relentlessly with flickering and flashing fists. A brilliant volley of arrows pierced Tol’brekk’s chest, detonating with continuous explosions of hellfire and light that enveloped both him and Malika in a falling ball of flame.
+
+The ground shuddered under the massive impact as the Giant Troll Death Knight struck the dirt. A pair of greataxes clanged as they cartwheeled away from the crater. As the inferno of hellfire and ice cleared, the form of a singed, smoking Malika was revealed, still riding the giant troll’s back, one fist gripping the leather of his armor and the other blurring as she hammered it against the back of his head.
+
+A chime went off in Ali’s mind, and Malika froze. Silence reigned, marred only by a small chunk of rubble falling to the ground.
+
+“I think he’s actually dead-dead this time,” Malika announced.
+
+Your group has defeated Tol’brekk [The Crimson Blade of Carnage] – Giant Undead Troll – level 112 (Blood).
+
+“Ali! Help me with these thralls!” Calen shouted.
+
+“Oh, right,” Ali said, tearing her eyes away from the sight and gathering her mages.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

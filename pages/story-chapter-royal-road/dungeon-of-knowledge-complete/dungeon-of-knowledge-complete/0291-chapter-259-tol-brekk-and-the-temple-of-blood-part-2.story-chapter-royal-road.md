@@ -1,0 +1,145 @@
+---
+id: cb3bc692-2554-5733-89f8-e0339c485973
+page-type-slug: story-chapter-royal-road
+title: "Chapter 259: Tol’brekk and the Temple of Blood (Part 2)"
+slug: 0291-chapter-259-tol-brekk-and-the-temple-of-blood-part-2
+partOf: dungeon-of-knowledge-complete
+position: 291
+ownLength: 3390
+unit: words
+ownProgress: 3390
+publishedAt: 2025-05-26
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2306908/chapter-259-tolbrekk-and-the-temple-of-blood-part"
+royalRoadId: "2306908"
+markedReadAt: "2026-06-29T20:21:07.443Z"
+---
+
+Axes blurred again with speed and power, and Mato braced against the ground. The air shimmered with the shattering crack of the collision and a shockwave of dust rippled out across the courtyard, blasting past Ali’s barrier.
+
+“Critical Block?” Ali asked.
+
+“Must be,” Calen said. “Mato has him, let’s go.” He punctuated his words with a volley of shining arrows.
+
+“Attack!” Ali commanded. “Melee fighters charge. Ice and fire, shoot high.”
+
+Her berserkers leapt into the air, finally unleashed, soaring across the courtyard as ice bolts and fireballs began to zip and sizzle toward Tol’brekk. With a flurry of mental instructions, Ali rapidly adjusted the positions of her warriors and berserkers so that there was enough space to land fireballs with the minimum collateral damage – one of the perks of fighting such an enormous foe – when suddenly she saw the mana around Tol’brekk surge. A great bolt of blood magic shot from an extended greataxe, tearing through one of the spiked prisoners, ripping all the blood from his body and receding, leaving behind a collapsed and bloodless husk.
+
+“What the…” Calen gasped.
+
+“Domain magic,” Ali said, but she too stared aghast at the suddenly drained corpse of the troll prisoner, but the spell was not done yet. The stolen blood of the troll swirled around Tol’brekk, forming a ring of floating scarlet runes, not entirely unlike Bloodlust and his greataxes flared with a new infusion of power.
+
+“Die!” Tol’brekk yelled, blurred into action with several near-instant strikes and Ali could smell the blood explosion from Mato’s body as his armor and healing struggled to hold the terrible onslaught at bay.
+
+“Ambush now,” she sent, hoping that her Abyssal Stalkers would be able to slow him down a little with their Blood Shock and give her the time she needed to study the runes and maybe formulate a plan.
+
+The two shimmering demonic spiders materialized behind the giant troll, lashing out with flickers of blood and gleaming slashes from their forelegs, but the domain mana surged within Tol’brekk, spinning into a new formation. Blood erupted from the giant troll’s body as he swept his powerful axes in a broad whirling strike, and suddenly, the Blood Vortex exploded, tearing through Ali’s minions with the shrill whistling of high-speed blades of blood and steel, whipping the wind into a frenzied tornado.
+
+“Dodge it!” Ali screamed, scrambling to get her minions away from the giant vortex tearing through the courtyard and tossing her minions flying, all her thoughts of analyzing magic vanished in an instant.
+
+Both Abyssal Stalkers evaporated, turned instantly into demonic blood and paste. A stray Hellfire Imp exploded, and then even one of Ali’s robust warriors collapsed, destroyed by the sheer violence of the whirling blades. She threw up barriers, trying to protect her weaker minions as the blades encroached as far as her ranged attackers, urging her Ice Mages and imps to back off.
+
+“Ali! Back up!” Calen yelled. “That’s huge!”
+
+Ali glanced up and yelped. In her mad scramble to save her minions, she had failed to notice that the whirling destruction was tracking directly toward her. The oncoming storm painted her heavy golden barrier wall red as blades of blood slashed and splattered, crashing into it in a ringing crescendo as the giant whirling troll bore down on her. Unable to see much of anything with her own eyes, she split her awareness through her minions in an expanding wave, quickly finding a drake that had already weathered the crimson storm. She teleported, switched places, and appeared on the far side of the onrushing destruction, dumping the poor Armored Drake back into the maelstrom. He can handle it. I hope. With healing…
+
+A few moments later, the violence of the Blood Vortex stilled, and the airborne blood blades splashed to the ground, leaving Tol’brekk standing in the epicenter, drenched in blood that rapidly receded as his axes sucked it up. Then he leapt into the air to re-engage with Mato on the other side of the courtyard, leaving a crater behind him in the dirt.
+
+“Keep your eyes open. He’s tricky,” Malika cautioned, wiping excess blood from her brow before diving back into the fray.
+
+“Yes,” Ali called to her departing back, struggling to get her breathing under control. That was crazy! Her own berserkers’ Blood Vortex had a reach of a couple of meters. The monstrosity that Tol’brekk had just unleashed dwarfed anything she had seen so far both in reach and sheer intensity. Her Blood Shamans were chain-casting Blood Siphon just to recover the health of everything that had been caught in its wake. At least there was so much blood on the battlefield that her blood magic users had no trouble finding resources. It trickled by her feet in rivulets.
+
+“Mato wants us to give him a moment,” Ali said, interpreting the impressions conveyed via her drakes. Calen’s storm of arrows subsided noticeably. As soon as Mato recovered the boss, and a small semblance of stability returned to the fight, Ali refocused her attention on her analysis, trying to understand Tol’brekk’s powerful blood enchantment – the dangerous result of sacrificing a troll to fuel his thirst for power. Just as she felt the magic was beginning to make sense to her, the entire construct unraveled and dissipated, and Tol’brekk’s blood-fueled frenzy slowed to merely insane levels of damage.
+
+Ali cycled through the awareness of her minions, sampling their perceptions of the fight and adjusting positions and strategy. She pulled her warriors back to range, making them use throwing axes instead of risking death in another vortex. Her own barrier shard damage seemed irrelevant next to the enormous output of Malika, Calen, and her berserkers, so she focused instead on analyzing whatever she could to understand the fight better. If they had to flee and try again, any information she could unearth would be worth its weight in gold.
+
+Tol’brekk reached out and wrung the blood out of a second screaming prisoner, and this time Ali caught the start of the powerful domain magic formation while her stomach spasmed in horror. “Watch out, he’s doing it again!” she yelled.
+
+As the runes formed, visible as blood-affinity mana from the domain, Tol’brekk once again unleashed his empowered Blood Vortex, deliberately stacking two domain magic abilities for the greatest effect. But this time, she was more prepared. Her berserkers and drakes simply weathered the torrent of blood, not slowing down their attacks in the slightest. Her warriors and shamans fled using their Bone Rush and Blood Walker movement skills to outrun the reach of those hungering blades, and even her witch doctor shimmered into the Spirit Realm for a few moments to let it pass. Her Ice Mages teleported to their strategically placed familiars and her imps teleported to the one she had forbade from leaving her side – a portable heater on her flying disk.
+
+She also kept herself mobile this time, darting out of the path before it was too late, continuing to scrutinize the magic formation that was empowering the troll. She had sorted out the difference between the empowered vortex and the runes already, but she hadn’t quite figured out how to dismantle it yet. As soon as Tol’brekk leapt back to smash Mato, and the battle recovered some dubious stability, Ali risked Sage of Learning, dropping into her study trance within a sphere of hovering defensive barrier magic, calling over to Calen, “I’m going to try something. Shake me if he does something dangerous!”
+
+The last thing she saw was his eyes flying wide.
+
+Ali blinked as her awareness snapped back to the scene of bloody carnage, realizing the Sacrifice enchantment had just faded from the boss. So, that’s how it works. Her Sage of Learning had been just the lever she needed to fully understand the buff, and now she finally understood. A formation of potent domain mana that utilized Tol’brekk’s own blood affinity – and it seemed like it had come just in time – the huge berserker troll was losing health steadily and they were heading into dangerous territory, judging by the mist of angry red pulsing around his body.
+
+“Tell me you got something from that,” Calen said, this tone clearly adding the words ‘stupid risk’ to his demand.
+
+Ali didn’t get the chance to answer, for at that moment, the domain mana surged and Tol’brekk ripped the blood from yet another hapless troll victim, drawing it in with swirling arcs to form the potent runes that floated about his head. Ali focused her mind, holding the pattern she had learned still and clear, and then poured her mana into Arcane Insight: Dismantle. The counter-magic formation coalesced in sparkling golden intricacy, hovering before her like an inverted shadow of the blood spell. Under the influence of her mana, the delicate spell twisted in on itself until it formed a set of tiny floating darts. With a gesture, she released it, sending the tiny slivers and sparkles of her golden arcane magic shooting out, slamming into Tol’brekk’s huge form and shredding his magical enhancement.
+
+The blurring greataxe slowed mid-swing as the blood runes popped, splashing to the ground and leaving red stains in the dirt.
+
+“You did get something!” Calen crowed, unleashing another volley of arrows.
+
+“Yup,” Ali said. “I can’t counter the domain magic itself, but I can dismantle the buff it leaves.”
+
+Tol’brekk roared his frustration as he lashed out with another Blood Vortex, but it was immediately obvious the power of the attack had been gutted, simply from the diminished flow of the mana used to power it.
+
+“Nice work, Ali!” Malika yelled from up front.
+
+No double dipping. You only get one domain magic at a time, Ali thought, as if she could rebuke the massive troll. Now, what other tricks do you have? She deliberately focused on him, convinced that there must be more.
+
+Mato felt the echo of the blood-drenched horizontal Cleave an instant before the greataxe moved – just in time to shift his heavy shoulder armor into the way and block it. Tol’brekk’s bone-jarring strike rocked him backward, his claws gouging gashes in the hard-packed dirt before he fully absorbed the momentum. With instincts honed in the crucible of his Survival Instinct and uncountably many painful blows, he lowered his mass and braced for the backhand return swipe.
+
+He’s getting low, Mato thought. Time to get serious. He didn’t have the senses for it as Ali did, but he could feel the mounting tension in the way the shamans were healing him – and, of course, the power of the giant troll’s axes. It was right about time for Tol’brekk to sacrifice someone again, ripping the blood from a helpless victim in a gruesome display of offensive blood magic, and honestly, he was dreading it. He could barely make out the high-speed flashes of Malika’s Soul Strikes in the dense red mist that hung about the giant troll as their combined damage fueled his growing rage and power. To have the additional buff that Sacrifice gave him would be extremely dangerous, but it was the poor, defenseless prisoners being drained for borrowed power – and his inability to intervene – that made him grit his teeth in fury. It was not even a damage ability, so there was nothing for him to steal.
+
+There was nothing he could do, other than help take Tol’brekk down as fast as possible, hopefully in time to save a few of his victims. He focused all his attention on his foe and Survival Instinct, holding his Last Stand ready. It was way too early to be using it, but he didn’t want to die either. At this point, Malika was healing him constantly, her movement fast enough to get her in and out when the vortex appeared. Calen could be heard shouting instructions in the background, invisible but for the high-speed shining arrows peppering the boss’s back. Ali stood, unmoving, off to the side encased within a glittering ball of barrier magic, her eyes glowing golden with rapidly flickering mana. He had no idea what she was doing, but he trusted her. Although she had almost gotten herself clipped by the Blood Vortex last time.
+
+Suddenly, Tol’brekk extended an arm and an axe, and a huge blast of blood shot out, tearing through a troll prisoner.
+
+Here it comes!
+
+“Sacrifice!” Calen yelled a moment later.
+
+Mato braced himself for the power spike and the inevitable giant Blood Vortex, readying his defensive skills as the blood coalesced into the dangerous runes floating in the air. It was no Bloodlust, but with the amount of rage seething out of Tol’brekk’s pores, it was proving to be far more devastating. The massive greataxe accelerated with the infusion of new power granted by the terrible buff, and Survival Instinct screamed inside his head. He almost triggered Last Stand right there, but it was not the Blood Vortex – that would be worse. The strike smashed into his body, crushing ribs and cracking one of his shoulders. He staggered to the side, blood bursting from the grievous wound and spiraling upward to power the troll’s weapons further. Mato growled, relying on his enormous endurance to weather the pain until Malika darted in and slapped him with her healing magic. A pair of bloody ribbons pierced him from the side, arcing onward as the Shaman’s Blood Siphons rapidly jumped between the injured melee fighters like animated crimson threads, stitching them together. He had failed to block quickly enough, and that strike had done critical damage, causing his health to dip below half in a single blow.
+
+Survival Instinct surged again. Blood Vortex! He reached for Last Stand as the greataxes began to swing in a long circular arc and blood began sluicing out into the air from cuts and wounds that appeared spontaneously on the troll’s arms and shoulders.
+
+Golden light flickered in the corner of Mato’s eye, catching his attention for a crucial moment. He glanced sideways and, through the dense mist of red rage billowing from his foe, he glimpsed Ali standing tall on her barrier. Golden light danced across her fingertips like wisps made from her unique mana. With an expression of intense focus, she thrust her hand forward, unleashing a stream of tiny flecks and sparkles of her magic from the tips of her outstretched fingers. The darts punched clean through Tol’brekk’s enormous body as if he were insubstantial, and the blood rune constructs shivered and collapsed, splashing to the ground as droplets. The giant greataxes slowed. Survival Instinct quietened down to a muted roar in the back of his mind.
+
+Brilliant! Somehow, Ali never ceased to amaze. Mato grinned in feral pleasure as Tol’brekk whirled past him in the throes of his suddenly half-power Blood Vortex and he retaliated, unleashing his most powerful Swipe, fully loaded with all his support skills. Thick roots sprouted from the ground, slipping off the troll’s ankles as he zipped by, failing to snare him. The Blood Vortex tore at his flesh and hide as the troll raced away from him but, thanks to Ali, the damage was manageable – even without his Last Stand – and easily erased by the focus and dedication of Malika and the shamans.
+
+Mato backed up, enjoying the brief soothing rush of regeneration from the three-dozen stacks of Battle Trance he racked up during the passing vortex, shifting his position as he prepared for the return leap. This fight was dangerous enough that he was using all his most powerful attacks and defensive abilities almost as soon as they recharged, but as the ground bucked under the powerful leaping attack of the berserker boss, Mato sensed his Critical Block becoming available once more. He grinned up at the massive incoming troll, and with a roar he triggered his skill, feeling the shockwave of compressed air from the force of the impact. Without hesitation, he loaded it up with Brutal Restoration and Bestial Combat.
+
+You have gained Azryet’s Favor.
+
+The retaliatory block punched through the giant troll, powered with the full force of all his supporting skills, sending blood spraying high into the air.
+
+Nice timing. Thanks for the damage!
+
+“Last Stand!” Malika yelled.
+
+Critical Block had been the trigger that sent the giant troll past the threshold, and Mato responded by using his own Last Stand; whatever happened from here out, the battle would be decided by the time the buff ended.
+
+“All out!” Calen yelled, triggering his potent Righteous Fury.
+
+“Bloodlust!” Ali screamed.
+
+You have gained Bloodlust.
+
+Mato felt the surge of power as his strength grew and his attacks accelerated from the haste of the Blood Shaman’s potent magic. He empowered his Swipe with everything: Calen’s buff, Bloodlust, Brutal Restoration, and Bestial Combat, and his claws tore great slashes through the troll’s belly. The boss roared incoherently and retaliated with a potent axe strike that smashed him up against the wall, knocking him rolling to the side. He sprang to his feet, shifting sideways to place himself directly between the boss and the wall. He had no desire to get knocked into the middle of the jungle where he would have to face the troll’s wrath alone.
+
+The red mist flowing from the berserker grew denser as he sacrificed another prisoner. Excess mana spilled over from the harvested energy of the troll, causing a sea of blue Soulshade Blossoms to bloom at his feet. Mato could only watch the horrifying spell activate as it formed the runes of power to match the Bloodlust he had, but Ali was ready, dispelling the powerful spell with a golden flicker of delicate darts.
+
+Survival Instinct accelerated his perceptions, warning him of danger right as the blood erupted and the boss used his Blood Vortex. Anticipating the trajectory, Mato prepared his retaliation, however, this time, Tol’brekk did not fly out into the courtyard – instead he continued attacking Mato.
+
+Shit! If he moved, he would be knocked flying, but if he stayed, he would have to take the full brunt of the vortex to his face.
+
+“I got you,” Malika said, appearing beside him like an apparition through the storm of blood and blades. She slapped his shoulder, and her potent healing magic burned through his body.
+
+He leaned heavily on the melee haste and his newly improved dexterity to block as fast as possible, but the strikes from the blood blades came thick and fast and his health dwindled rapidly. Malika’s magic tore through his body, forcing his wounds to close even against the onslaught. He lashed out, waiting desperately for the monstrous attack skill to end. Another heal surged through him as Malika somehow weathered the storm beside him. Between heals he could still see her punches flickering against the backdrop of whirling blood, but she seemed serene and relaxed, dodging only the bloodsteel axes, while the blood blades seemed to simply slide off her without effect.
+
+She got something new. So unfair! He was jealous of her skills, but at the same time grateful that they allowed her to stand her ground against the onslaught and provide him with all the extra healing he needed.
+
+The blood from the vortex splashed to the ground right as his Survival Instinct warned him of an enormously powerful overhead attack. At that very moment, he felt the release of his Critical Block recharge. Without a thought, he used it, stepping forward into the gap, interposing his body between the brutal blade and Malika, bracing against the steel greataxe powered with the full fury of the nearly dead berserker’s rage. The shockwave of the overpowering rage-fueled axe strike and the force of his Critical Block retaliation blasted the mist of red away in a second, cracking the stone below his feet and sending chunks of the stone wall behind him flying.
+
+Holy shit, that was strong!
+
+For a long moment, Tol’brekk stood motionless before him, and then, like a felled tree, he slowly toppled sideways, hitting the dirt with a great crash, and lay still, blood still pouring from his many self-inflicted wounds. All was silent for a moment, and then a wave of black Spectral Wraithroses sprouted around him, the undead flowers rising from the pulverized remains of the Soulshade Blossom patch.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,125 @@
+---
+id: 0bf5e105-3608-5d06-ae37-7bb1a9a47816
+page-type-slug: story-chapter-royal-road
+title: "Chapter 206: How a Dungeon Grows (Part 3)"
+slug: 0218-chapter-206-how-a-dungeon-grows-part-3
+partOf: dungeon-of-knowledge-complete
+position: 218
+ownLength: 2347
+unit: words
+ownProgress: 2347
+publishedAt: 2025-03-04
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2103521/chapter-206-how-a-dungeon-grows-part-3"
+royalRoadId: "2103521"
+markedReadAt: "2026-06-29T20:18:32.270Z"
+---
+
+Gara drew a ragged breath, running low on stamina, now, as she warily circled her inexhaustible foes, putting the walls of the Temple of Bone against her back. With a deft flick of her blade, she opened the veins on her forearms again, increasing the flow of blood that her regeneration kept interrupting. Catching the trickle with Blood Manipulation, she made it flow down her arms and along the underside of the second of her two forefingers, rather than her thumb, before feeding it to her hungry weapon and shield as she had been taught. It would do her no good to enhance her power with her blood magic only to make her weapon and shield slick and slip from her grasp.
+
+The two zombies – once members of one of the lesser races – groaned, lunging toward her. She staggered backward as their sluggish but unreasonably powerful attacks crashed into the shield that she raised to guard her head and throat. Sharp pain lanced through her, making her stumble as a bolt of ice from the troll skeletal mage pierced her thigh again.
+
+How did they get into Aman Rak? And where is Kir’mogan? Kir’vella? The champions should have been out there protecting them from the undead that seemed to spawn endlessly from the ominous dark cloud over the forest. Gara had too many questions and no answers. Val’korr the Seeker had always told her that, in Aman Rak, blood was the power, bone was the spine, and soul was the heart and the connection to the ancestral spirits. A bone warrior would have made short work of these undead, but she was alone. She struck again, but her Lacerate could only do physical damage; none of her magic would affect a bloodless monster. She healed herself with Blood Siphon, feeling the lance of ice pushed from her wound and drop to the ground, her magic the only thing that was keeping her alive in this fight.
+
+Gara danced around her pulsing armor totem and darted forward. Keeping her shield raised, she stabbed at the zombie whose head she had taken earlier. The sword blade pierced the tough undead flesh, burying the blade up to the hilt in its chest, spraying putrescent goo across her face and shield – and finally, her chime sounded as it sagged groaning to the grass and expired.
+
+She backed up, recovered her stance, and reopened her self-bleeds, powering her defensive shield magic. Delicately, she tested her leg, finding that the wound had almost completely healed. She ducked as the troll skeleton’s Ice Lance shattered against her braced and blooded shield.
+
+Out of the corner of her eye, Gara spied a small pool of blood on the grass – her own blood, spilled by the earlier lance – and linked her blood to it with Blood Walker, suddenly appearing behind the last zombie. Taking advantage of the surprise and her position behind it, she made an all-out attack, ignoring the deadly lances thwipping past her ears. She sliced off an arm at the shoulder, and then stabbed through the lower spine, severing rotting bone and sinew with a wet crunching sound. The zombie dropped to the ground beside its companion and Gara turned to face the skeleton.
+
+Gara’s heart filled with an icy chill as she caught sight of the familiar ceremonial leather tusk braids – the braids she had helped him tie when they had earned their classes together.
+
+Jotan.
+
+She sliced open her bleeds again, the familiar pain helping to subdue her feelings. The fact that he was even here and not back with his tribe in Telim Gor was shocking enough. She choked down her gorge. The Tol will finally be happy, she thought, forcing anger to overwhelm the horror of seeing her forbidden childhood friendship desecrated by this animated undead mockery of Jotan trying to kill her. If she died here, she knew it would continue to rampage through Aman Rak, destroying whatever it found. She shattered another blade-like lance of ice on her shield and gritted her teeth.
+
+Blood and bone, Jotan. I will see you find rest.
+
+She used Blood Walker again, this time traveling to the blood moss behind the skeleton, and yelled to bolster her rattled resolve, slicing downward with her sword, and cracking the skeleton’s collarbone. Jotan – no, it – turned quickly and fired point blank into her ribs, causing her to cough up a little trickle of blood, but she bore the pain stoically. She was a Troll. She was Aman Rak. She channeled the fresh blood from her wound into her shield and healed herself again, cracking ribs with her next strike. As the skeleton raised its arm to fire, she caught the bones on the inside of her shield and shattered the arm with a powerful downward Lacerate strike.
+
+As it flailed from the power of her blow, she swept its leg out from under it and followed it to the ground, smashing repeatedly with her shield and sword, ignoring the biting ice that lanced into her belly. A soft chime pierced her haze of pain and screams of fury and the skeleton beneath her ceased moving, becoming nothing more than a pile of shattered and broken bones. A pile that had once been a proud mage of Telim Gor. Technically she had killed a member of Aman Rak’s rivals and would be accorded honors and status for her achievement. She choked down the bile that rose in her throat.
+
+You have defeated Warrior – Zombie – level 14.You have defeated Warrior – Zombie – level 11.You have defeated Mage – Skeleton – level 16.Blood Shaman has reached level 12 (+2)+20 attribute points. Lacerate has reached level 10.Blood Shield has reached level 9.Blood Siphon has reached level 11.Summon Totem has reached level 7.Blood Walker has reached level 3 (+2).
+
+Slowly, Gara clambered to her feet, ripping the remaining ice lances out of her body and letting her regeneration take care of her remaining wounds. She had reached level twelve in defense of Aman Rak – an occasion that should have been filled with joy and celebration. Instead, she reached down and picked up the remains of the tusked troll skull, cradling it against her breast.
+
+Val’korr will know what to do. She turned and, carrying her heavy burden, sprinted through the blood moss and trees, heading for the sacred shrine where she knew she would find the venerable Seeker.
+
+***
+
+By the time she emerged from the dappled light of the forest into the clearing, her wounds were almost entirely healed. Right in the center of the clearing stood the tall black stone shrine with its glowing runes, and beside it sat Val’korr, Aman Rak’s Seeker for as long as anyone could remember. He was hunched over his gnarled staff, white wiry hair standing out in messy spikes from the top of his head, and his gentle kind eyes looked up from his students to regard her as she approached.
+
+“Congratulations, you have reached level twelve, Gara,” he said. “You are growing quickly; do you seek counsel for your skills?”
+
+“No, Seeker, that must wait.” She tossed the skull into the circle in front of the aged troll. “This is… was Jotan. His skeleton attacked me at the blood temple. What is going on? How are the undead inside Aman Rak? Where are the champions?” Her voice cracked near the end, but she didn’t care.
+
+Val’korr glanced down at the skull, but when he looked up, it was not at her, but past her – in the direction from which she had come.
+
+“It would seem Tol’brekk has made his decision,” he said cryptically, his eyes suddenly brimming with enormous sadness, his aged back seeming to bow even further under a heavy load.
+
+“Tol’brekk demands your answer, Val’korr.”
+
+The familiar rough and arrogant voice of Kir’mogan caught her by surprise, and Gara spun to find the muscular Bone Warrior champion emerging from the forest flanked by his entourage. Kir’vella stood beside him with her ever-present bats circling above.
+
+“He may be the Tol, but I will not betray Aman Rak for that whelp,” Val’korr said, a surprising strength in his voice.
+
+“There is this curious thing about power – it has a remarkable way of focusing the mind,” Kir’mogan said. Suddenly, a giant bone greataxe appeared in his hands and his powerful body blurred, appearing right before Val’korr. His axe was almost invisibly fast, unleashing an immense thunderclap as its wide blade took the ancient seeker and the shrine in a single cleaving strike. Black stone fragments and blood exploded into the air in the wake of his blade as he severed the Seeker’s arm at the shoulder and drove his blade through his chest, halting against the sternum and spine.
+
+Blood spilled from the venerable Seeker’s mouth, dripping down his tusks. His students screamed and ran before the pieces of the shrine had even fallen, but Gara stood and stared, unable to comprehend what had just happened.
+
+“Stake him,” Kir’vella commanded.
+
+“Yes, yes, I know how durable he is,” Kir’mogan said, placing his boot on the stricken Seeker’s chest and ripping his axe free, sending another spray of blood across the grass. A large spike of bone sprouted from the inside of his wrist, and, with a brutal punch, he rammed it down, impaling Val’korr through the chest, puncturing the sternum and the still-beating heart below, pinning him to the grass. He snapped it off and stepped backward.
+
+“Seeker!” Gara gasped. The Kir – the champions of Aman Rak – had just impaled the oldest and wisest of their tribe with a brutal attack designed to still his heart so that not even troll regeneration would allow him to regain consciousness. It was the most dishonorable torture Gara could imagine. Worse even than fire.
+
+“I will take him to Tol’brekk,” Kir’vella said. “You can have all the little ones to play with.”
+
+“Excellent,” Kir’mogan said, a predatory glint in his eye. “I’ll start with you.” And before Gara could even raise her shield, he was suddenly looming over her. She gasped, but the flat of his axe smacked into the side of her head, making something crack inside.
+
+The last thing she saw before she struck the ground was a group of troll zombies joining the champions in the clearing, kicking pieces of the sacred shrine with their rotting feet, and carrying the struggling pupils of the Seeker. The ground rose to meet her face, but her awareness vanished right before it hit.
+
+Mato knocked on the door of the tiny chapel in the courtyard beside the Adventurers Guild. It was called a chapel, but it was little more than a rickety wooden shack with a surprisingly well-crafted picture of a dragon’s face mounted above the doorway.
+
+The door creaked as it opened and he found himself invited in by Devan, one of the adventurers on Aiden’s team. He stepped in, finding five people standing in a circle around a bucket.
+
+Havok reached down and picked up the bucket and passed it around, and each person placed a coin in it. When Havok reached him, he said, “Holy bucket. Donation for poor. Not must.”
+
+It took Mato several seconds to parse Havok’s atrocious accent and grammar, but he realized the Goblin was asking for a donation for the poor, but he was also saying it was optional. Mato retrieved a silver piece from his ring and dropped it into the bucket, getting a big toothy grin from the Goblin.
+
+“Thanks!” Havok said, placing the bucket on a small table behind him where, surprisingly, Mieriel sat. “Devan, say words.”
+
+“Ok,” Devan said, clearing her throat. “Sermon time.”
+
+Mato braced himself, given that he was not partial to sermons, or even any particularly long speeches for that matter.
+
+The rogue took a deep breath and then intoned, “Oh, great and mighty Azryet, we are in awe of your power. Thanks for the damage!”
+
+The onlookers each echoed, “Thanks for the damage.” Then, to Mato’s intense surprise, everyone started their own conversations, clearly done with the ceremony.
+
+Puzzled, he glanced over at Mieriel who sat beside him.
+
+“Today’s donations are going to help provide food for one of the orphanages in the poor quarter,” she said. “Havok asked me to help find good causes so he can increase the reputation of Azryet in the town.”
+
+“And you joined the church?” he asked.
+
+“Yes, I like organizing ways to help people,” the Sun Elf Mind Mage said, pausing as if considering adding something more before she continued, “It helps Havok out, too. He needed a few members to register the church with the Town Council and buy this small plot of land for the chapel. He already consecrated it.”
+
+“Mato? You join?” Havok asked, walking over to him with an expectant grin.
+
+“Actually yes, I wanted to ask you if you could help me ask Azryet for his patronage?”
+
+“Not problem,” Havok said, immediately kneeling and bowing his head, making his prayer out loud. “Oh, Azryet! One more! You help?”
+
+Wow, is that all… oh! The hairs along Mato’s back and neck suddenly leapt to attention, as if reacting to the gaze of an unseen predator. A sudden infusion of power jolted through him, mana that seemed to be channeled into him by the little Goblin paladin but was not of him. It rushed through his body, but only for a moment, and then his notification chime sounded.
+
+The Dragon God, Azryet, offers his patronage.Godly Patronage – AzryetTraits: Void, Holy, Domain, Deity, Minion, Draconic, Strength, Vitality, Endurance, Intelligence, Wisdom, Chaos, Combat, Healing, Knowledge.Reputation gained enhances the reputation of Azryet. As your patron’s reputation grows, boons and enhancements may increase.A small chance on hit to do additional Holy or Void damage. Enchantment – TitheAccept this patronage?
+
+That was… easy, Mato thought, more than a little surprised. “Uh… thanks for the damage?” he said. Somewhere in the distance, he caught the distinct impression of a vast and rumbling chuckle.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

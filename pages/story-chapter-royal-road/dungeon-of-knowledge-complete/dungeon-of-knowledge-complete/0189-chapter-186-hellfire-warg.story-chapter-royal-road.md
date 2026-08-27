@@ -1,0 +1,259 @@
+---
+id: 008d92e5-c8c5-5d3b-84f5-3da325d5ab4f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 186: Hellfire Warg"
+slug: 0189-chapter-186-hellfire-warg
+partOf: dungeon-of-knowledge-complete
+position: 189
+ownLength: 5458
+unit: words
+ownProgress: 5458
+publishedAt: 2025-01-21
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2022025/chapter-186-hellfire-warg"
+royalRoadId: "2022025"
+markedReadAt: "2026-06-29T20:17:30.017Z"
+---
+
+Mato checked his health again, the thread of worry winding tighter around his heart. The Hellfire Wargs were only barely past level fifty; he had been confident in his ability to hold them while the others took care of the archers. But he hadn’t anticipated the intensity of the hellfire, or for them to be such tenacious fighters. He shifted sideways, careful to stay within range of the Acolytes which were his lifeline. Even with their powerful holy magic, and his own Brutal Restoration, his health was steadily declining. As much as his position was exposed, he couldn’t afford to move out of range of Ali’s healers.
+
+The warg to his left lowered one of its heads, opening its mouth unnervingly wide and baring the long vicious fangs Mato was all too acquainted with. Then it breathed out the powerful torrent of hungry black flame that obscured everything save for the malevolent red glow of its eyes. The cone of fire spread out in front of the creature of darkness and embers and enveloped his body and the bodies and faces of his nearby attackers. For four seconds, his world was agony as the flames ripped into his flesh, consuming whatever it touched. He could only thank his high endurance for allowing him to retain his consciousness. The breath attack ceased, the blast of flames dying down, but the pain lingered as the persistent hellfire settled into his wounds.
+
+His druidic restoration magic and the tiny pricks of the Kobold acolytes’ holy magic combined to keep his body barely in fighting shape, but he was progressively losing ground to the hellfire. His health was once again lower than before, after the painful exchange, and the excessive use of his Brutal Restoration was consuming his mana at a furious rate. It wasn’t simply the hellfire breath attack, though. He had been a wolf for a while, and he remembered what Pack Tactics felt like. He could even sense the peripheral thoughts of these creatures as they reveled in causing his pain; whatever skill they were using was a much more advanced version of his old Pack Tactics. They had encircled him early in the fight, and they were using feints and flanking to pin him down, constantly trying to separate him from his allies and the Kobold healers.
+
+Knowing the strategy that they employed did nothing to help him.
+
+One of the wolves on the perimeter raised both heads to the roof and let out a howl that echoed through the rocky chamber, harmonizing eerily with itself and reverberating through his bones. All the wolves’ attacks immediately after the howl would be more powerful, he had discovered. Survival Instinct flared, warning him of several simultaneous threats. He braced, blocking the bite from a wolf attacking his side, grimacing as they forced him to ignore the simultaneous lower-damage flanked attack from behind. The wolf’s double-headed bite attack tore into the flesh at the back of his hind legs.
+
+You have been afflicted with Hamstring. -50% to Movement speed.Physical – Duration: 20 seconds.
+
+The wolf directly in front of him prepared to disengage, using the movement skill that left lingering trails of hellfire burning on the ground. Trails that were harder to avoid while hamstrung. As soon as it moved, his Swipe battlemaster retaliation triggered and he instantly reacted with a powerful sideways raking slash of his claws, empowered by both Brutal Restoration and Bestial Combat, taking a large risk to spend the health for extra damage. His claws tore into the rapidly retreating wolf tearing, deep gashes across its flank, and knocking it rolling. As the attack connected, thick gnarled brown roots appeared attached to the rocky ground, created by the triggered Grasping Roots spell, tangling the Hellfire Warg and pinning it in place.
+
+Swipe’s Battlemaster. He had loved this skill for pinning flying creatures when he had first unlocked the advancement. Now, however, it was the only thing keeping him alive – and barely at that. Frustratingly, the attack only connected about half the time against these monsters – their movement skill and high evasion were often sufficient to take it out of range before his strike landed. This time it had connected though, and he could feel the rush of healing magic as his Brutal Restoration was enhanced by the extreme damage of his empowered Swipe. The pack eyed him warily, clearly cautious of his dangerous strike, as he breathed a little easier. The higher damage-empowered restoration would give him a little longer to survive.
+
+The Hellfire Warg next to the one he had just hit and pinned to the ground turned one head towards its packmate and breathed. Mato dodged backward, hamstring making him too slow to fully avoid the blast of hellfire as the Warg filled the area with intense black flame. Everything burned, Mato’s shoulder, and the side of his head where he’d been too slow to dodge, the roots, and the trapped Warg.
+
+Fuck. Within the intense hellfire, the injured Warg’s wounds began to rapidly close over, fur sprouting to replace that which was lost. The tough roots pinning it to the rock of the cavern floor lasted several seconds before turning into brittle charcoal and shattering. The eyes in both heads fixed him with a malevolent look, glowing a brilliant red within the dark flame. It snarled, smoke curling from its mouths, and leaped forward to attack him, long fangs bared.
+
+“Mato’s struggling!”
+
+Ali’s voice carried over the din of battle like a lifeline thrown to a drowning person swept overboard in a storm. He had been cursing his inability to communicate in Bear Form, forced to rely on his friends taking out the archers quickly enough to come to his aid. Switching forms mid-combat to tell them he was struggling would have spelled an instant death. And his friends seemed to be struggling to take care of the archers quickly, for some reason he couldn’t see.
+
+The roar of hellfire breath washed over him once again, preventing him from hearing Calen’s instructions to the others, but as the flames died, he saw them all on the move. Calen’s strategy was immediately obvious. The healers began to scramble across the rocky ground toward him. Once again, he admired his perceptive friend for instantly grasping the situation and creating the opportunity. He wasted absolutely no time taking advantage of the new placement, using his Charge to reach the relative safety of the rocky cavern wall and wheeling about to face his tormentors. As he did so, four armored Hobgoblins waded into the fight, swords and axes flashing in the firelight. The wargs were forced to shift their formation yet again to account for the new threat. One of the Hobs shouted using the Rallying Cry skill Ali had mentioned. As the booming voice washed over him, he felt his body strengthen. Mato roared a challenge, growing in confidence now that he had a wall at his back and the Hobgoblins to provide a credible threat disrupting the flanked attacks.
+
+The game had changed, and the wargs clearly knew it. Their attacks became significantly more aggressive, risking his claws to take him out quicker. But with Hobgoblins interfering with the synergy of their pack tactics and being unable to hamstring him, Mato took the battle to them, Swiping powerfully, and even taking some of the splash damage from the hellfire away from the Hobgoblins using his Arboreal Sanctuary.
+
+A warg triggered its movement skill to disengage after Mato had successfully blocked its bite, and his retaliation skill triggered. His strike slammed into the creature, blinding it in one eye and leaving a bloody trail down its neck and shoulder. The roots immediately coiled around its paws, holding it in place. The Hobgoblins tore into it, one even blocking the hellfire breath of a nearby Warg with his shield, preventing the monster from getting aid. A deafening crack and brilliant flash illuminated the trapped monster as two lightning bolts tore into it, followed by a volley of intense glowing arrows, and suddenly Malika was darting among the wargs, her fists and feet unleashing brilliant blue-white flashes in the darkness of the hellfire conflagration. He felt the surge of Malika’s aggressive healing magic coursing through him, repairing burns and bite wounds.
+
+You have gained Clarity.
+
+Malika had gained something new recently, and it seemed to calm his mind while simultaneously giving his regeneration a much-needed boost. He lashed out, spending his previously carefully hoarded mana to power his Brutal Restoration.
+
+Thank goodness! The pinned warg collapsed, crashing to the ground amid a hail of arrows and magic. Mato roared again, ensuring the remaining demonic wolves would be focused mainly on him as his friends joined the fight. They must have killed the hunters. Finally. He attacked, carefully keeping watch on his allies. Survival Instinct warned him an instant before he was engulfed in another torrent of flame. He roared, channeling his frustration and pain into the challenge. He felt his retaliation trigger and spun to strike the disengaging warg, but this time he wasn’t quite quick enough, and it blurred away, shooting across the rocky terrain, and leaving a trail of black flames behind it. He let it go, annoyed that he had missed it, but he was certain it would be back.
+
+A second warg collapsed in a hail of brilliant arrows and lightning, and Mato felt the pressure subsiding. The warg that had escaped let off a howl and Mato felt the power spike through his Survival Instinct as the one to his left tried to bite him with both ravening maws. He wheeled his bulky body to the side, losing a large chunk of flesh to the fangs of the wolf before he was hit once again by the blast of hellfire. The warg that had evaded him earlier stalked closer, just as he had predicted. It let loose a breath attack, hellfire streaming from both mouths in an intense wave that tore through the battlefield. On instinct, he diverted the damage from Malika and the Hobgoblin caught in the blast to himself, wincing at the extra damage, but by now his health had recovered enough to take it. Malika executed a flip out of the fire, trailing black flames from her body, but the hellfire blast kept rolling outward.
+
+But, from within the flames, two dark forms appeared, rising from the ground. What… what is that? Red glowing eyes blinked and turned their glares upon him. From the conflagration, a warg howled.
+
+Shit! As the hellfire abated, his fears became real. The two ‘dead’ Hellfire Wargs had gotten back to their feet. They turned to him, and once again he faced a full pack of six.
+
+Malika dove back into the fray. It was impossible. She had never seen a dead monster resurrect. In fact, she knew such magic was impossible. So, how… But she couldn’t deny the evidence before her eyes. Nor the shimmering stamina in her Soul Sight. Both downed Hellfire Wargs were back on their feet, breathing their fire again.
+
+I don’t remember hearing the chime when it died. She hadn’t really been focused on that, so she wasn’t certain, but despite the impossibility of what had just happened, she tore into the monster with a furious flurry of attacks. They were definitely in trouble, Ali and Calen were almost certainly running low after taking out those two frustratingly slippery hunters with their teleport and mirages, and even Mato had to be running out of mana. She slapped him again, healing him, and loading him up with her Clarity buff. They were going to need it.
+
+She, however, had Relentless. She gritted her teeth at the intense pain of hellfire she allowed to blast into her face, her eyes and skin burning away in the searing flame. Even without her mundane vision, the monstrous two-headed wolf in front of her was clearly visible in her Soul Sight, wreathed in powerful wisps of white energy as it used stamina to lash out at her. She kicked it in its left face, pulsing Soul Strike through her heel and feeling the small, welcome trickle of the health it returned to her. The warg lunged forward to bite her, releasing the hellfire breath. This was what she had been waiting for, she had convinced the warg that she was more dangerous than Mato, and now it had decided to forgo the pack to kill her. She danced backward, bit by bit, dodging its vicious fangs while pouring stamina into her Healing Mantra to repair her face. The flames refused to die, but her body was once again in top shape. She dodged backward again, progressively drawing the Warg away from its pack-mates. As soon as she was far enough away, she put her back up against a misshapen boulder and simply duked it out with the two snapping and snarling heads while arrows and magic slammed into the back of the monster.
+
+It took a few minutes, but the warg dropped to the ground once again. This time she was paying attention, and sure enough, there was no chime signaling the death of the monster.
+
+“Ali! Clean it?” she yelled.
+
+“I got it,” came the answer as her tiny friend zipped over on her golden barrier and began casting her unique magic on the ‘corpse’, golden and green runes flowing from her fingers in streams. Malika prepared to return to the fray, when one of the Hellfire Wargs howled, spinning around and unleashing its hellfire breath to engulf both her and Ali. Malika dodged the magical flame. Ali simply extended one hand toward the blast and a large curved golden barrier sprung up in front of her, diverting the hellfire around herself and the downed Warg, while her deconstruction magic continued to spiral out of her other hand, pulling mana from the not-corpse.
+
+Ali’s got this, Malika thought, smiling grimly at the crazy image of the tiny Fae holding back the horrendous torrent of hellfire with her magic. She sprinted to the side of the warg and punched it in a head, Soul Strike flashing brilliantly against the dark of the warg’s coarse, wiry fur. She spun and kicked the other head, right in the teeth. It left her foot burning with hellfire, but it was worth it as she finally secured the monster’s attention, and the hellfire breath sputtered and died. Then she repeated her dance, drawing the warg away from the pack. At that moment, a notification chime sounded, and the light of Ali’s magic dimmed.
+
+“One down,” Ali announced.
+
+Nice!
+
+Ali hunkered down behind her curved barrier while she ran her deconstruction magic on the second-last warg. The final one was breathing hellfire at her, and she could feel the intensity and the heat as the flames rolled off the sides of her barrier magic. She had to pour an unreasonable amount of mana into the golden construct to keep it active against the onslaught, but she had plenty to spare after deconstructing the other corpses.
+
+Not really corpses, she thought, studying the downed Hellfire Warg. She had never successfully used her skill on a live monster that wasn’t one of her own minions. But the skill had clearly said ‘unresisting’, and whatever state these wargs were in when they ‘died’ was apparently good enough for her spell. Malika had guessed it, and so had she – as soon as she had seen the wargs resurrecting, she had known what she had to do.
+
+Her chime sounded several times, but she ignored it, saving her curiosity for later. The last remaining Hellfire Warg was no longer breathing on her; instead, it seemed to be trying to eat Mato.
+
+Good luck with that, silly wolf, she thought. Now that Mato had support, and there were a lot fewer enemies, there was no chance that it would beat him. Sure enough, she heard Mato’s thundering challenge ring out as he charged the wolf, somehow scragging its dodging hindquarters with a swinging paw and dragging it backward beneath his chest, trapping it for a moment between his powerful forepaws and champing jaws. Bestial roaring rose from both beasts as Mato vented his considerable frustration on his foe, paws churning and fangs repeatedly tearing chunks out of its shoulders and neck.
+
+Finally the chime rang out and Ali walked over to deconstruct it.
+
+“Fuck, that was rough,” Malika said, sitting down on a block of rock that was not on fire from lingering hellfire.
+
+“You can say that again,” Ali agreed. The hunters had been frustratingly difficult to pin down, and the resurrecting Hellfire Wargs had been entirely unexpected. She could tell Calen had run out of mana several times during the fight. In fact, her Acolytes and shamans had too. At least her Acolytes hadn’t all run out at the same time, and they had been able to rotate their prayer skill to recover mana. “Alright there, Mato?”
+
+His grin flashed briefly, weariness written into the droop of his shoulders. “Yeah, that last one was satisfying though. I guess I listened to the Guildmaster’s lecture on mental resilience, right?”
+
+Ali smiled back, realizing what he meant. Recovering from tough – make that brutal – fights like this, was far more than a matter of simply downing a few potions and taking a nap. That was why Mato loved his cooking, Malika her meditation and she chose to lose herself in a good book.
+
+Mato nodded. “We did good. Thanks for the save, Ali.”
+
+“Anytime. Only because I like your cooking.”
+
+He snorted at that.
+
+“I think we should call it here, and return tomorrow,” Calen said, wiping his brow with the back of his hand and earning relieved nods from everyone.
+
+The notification chime sounded as the final huge warg evaporated into motes of mana, filling the cavern with a brief fading light.
+
+Your group has defeated Hunter – Flamecaller Elemental – level 64-65 (Hellfire) x2Your group has defeated Hellfire Warg – Demonic Wolf – level 52-56 (Hellfire) x6Grove Warden has reached level 60.+10 attribute points.
+
+Yes, at last! Sixty! Ali pursed her lips momentarily and then spent four points on wisdom. The remainder she divided evenly between intelligence, perception, and vitality.
+
+Arcane Insight has reached level 31.Barrier has reached level 45 (+2).Martial Insight has reached level 36.Empowered Summoner has reached level 28.Minion Teleport has reached level 21 (+2).Identify has reached level 16.Inspiration has reached level 12.Imprint: Flamecaller Warrior updated to Imprint: Flamecaller.Variant: Flamecaller Hunter added to Imprint: Flamecaller. Variant: Hellfire Warg added to Imprint: Wolf.
+
+Surprisingly, she recognized some of the rapidly inscribed runes as they flowed into her Grimoire. Lots of fire magic was being inscribed, but usually, it was way too fast for her to understand any of it, but as her Arcane Recall grew, her ability to recognize quick magical formations was improving dramatically.
+
+“Congratulations on sixty, Ali,” Calen said, smiling at her.
+
+“Whoa, sixty?” Mato echoed.
+
+“Nice work, Ali!” Malika called over.
+
+“Thanks!”
+
+Inwardly, she was having a small party. Sixty it is! Ali could tell that the levels and skill gains were slowing down as she became stronger, but still, achieving sixty was something she wouldn’t have dared to dream of until very recently. And sixty was the level at which the Adventurers Guild considered her to be a gold-ranked adventurer, an achievement which, according to Calen, was something that was recognized across the continent. But her notifications did not stop.
+
+New skill unlocked.Mentor: Clarence.Class level has reached 60.Has restored the Grand Library Arcana.Arcane ArchiveMana: Mentally search for information in any book you have read.Arcane, Knowledge, Perception, Intelligence
+
+Is that Ryn’s skill? She would have to ask, but it certainly seemed that she was being offered a librarian skill on the strength of the rather dubious definition of having ‘restored’ the grand library – and having a book as a mentor.
+
+There were several other skills unlocked and available for her to choose from – three arcane damage skills including Arcane Blast which she had studied for her traps, and two nature magic spells, a direct damage spell, and a skill that could summon insect swarms.
+
+None of them she liked over her current skills, but she was both curious and happy to discover that the skill unlocks didn’t stop at forty. She would study them later and consult with Calen to see if she had missed anything important. Looking further, she realized that her notifications weren’t done yet.
+
+Requirements met for skill advancement.Mentor: ClarenceBarrier has reached at least level 45.Intelligence has reached at least 250.Synergy: Arcane Recall has reached at least level 10.Has understood advanced theory of magical efficiency.Has blocked the Elemental Storm ability of the Inferno.Has studied an advanced Mana Shield in combat.Barrier gains Ultimate Defense.(Your Barrier is opaque and has +[skill x 10]% resilience)Barrier gains Mana Absorption(Your Barrier absorbs a portion of the mana from magic it blocks, returning it to your mana pool. Percentage absorbed is scaled by intelligence, affinity-compatibility, and understanding.)Barrier gains Mana Shield(Damage blocked by your Barrier consumes your mana pool before the Barrier sustains damage. Damage is scaled by the level difference between the attacking spell and Barrier’s skill level)Choose one advancement.
+
+“My barrier spell advanced!” she exclaimed, sharing the three choices with her friends.
+
+“Your mother’s book is really helping you grow,” Malika said after reading the shared details.
+
+“You’re right,” she said. First her Domain Mastery, and now her Barrier had advanced – both on the strength of her understanding even just a little about her mother’s theories of magic and efficiency in mana usage. Of course, there was also the direct influence of Clarence’s mana through the mentorship enchantment. But this advancement had required a combat feat, it seemed. Two, in fact. She could still see her barrier melting under the onslaught of the Elemental Storm of fire as Mato struggled to reach the safety of a rock, feel her panic as she desperately poured her mana into the failing barrier to try and keep him alive against the literal inferno. And she still recalled the incredible mana structure of Alexander Gray’s Mana Shield.
+
+“I’m glad you got a good advance for that,” Mato said as if he could see her thoughts.
+
+“The only problem is… well, they all seem good,” she said. Ultimate Defense would have made protecting Mato vastly easier, and it plugged a glaring hole in her defenses – any beam-style light magic seemed to ignore her transparent barrier magic. Mana Absorption would depend on just how much mana was returned, but it seemed amazing, and Mana Shield would be quite ridiculous, making her barriers indestructible until her enormous mana pool ran out.
+
+“I don’t recommend Mana Shield,” Malika said, surprising her.
+
+“Why not? It seems very good.” Indeed, if she stacked regeneration and used skills like deconstruction or inspiration, she could keep it going even longer.
+
+“It’s how I defeated Alexander Gray,” she answered. “I just kept stealing the mana from his shield until he ran dry. He couldn’t do anything about it.”
+
+“That’s… a good point.” Ali hadn’t even considered that angle. While mana-stealing abilities seemed rare, her barrier magic could gain a new weakness by linking it permanently to her mana pool. At least without that, she could choose to make more barriers or do something else.
+
+“What about Mana Absorption?” she asked, studying her options with deeper consideration. She had to admit she was rather partial to the idea of earning more mana simply because of the time she had spent with not much to work with, but she wanted a second opinion just in case her experience had biased her too much.
+
+“I like it over Ultimate Defense,” Calen said. But he was also the mana potion addict in their group.
+
+“Why do you rate it higher?” she asked.
+
+“You actually use the transparency of your barrier a lot,” he pointed out. “You block your Acolytes’ line of sight on the party quite frequently and I’m pretty sure the opaque barrier will prevent them from healing through it – it will be like trying to heal through a rock wall. Another source of mana gain will give you more options in battle.”
+
+“What if I end up gaining too much mana?” Ali asked. Perhaps she would need to look into some of her new offensive offers to take on a mana-intensive one.
+
+Calen’s eyes widened and he let out a quiet, strangled noise.
+
+“Sorry,” she muttered, glancing over at Mato and Malika, but neither of them had more to add, so she chose Mana Absorption, opened her updated skill description, and shared it.
+
+Barrier – level 45Mana: Summon an arcane barrier shield. The barrier is a freeform arcane magic surface that resists physical and magic damage. You can move your barriers freely. Gain +4.5% [skill / 10] of the magical damage blocked by your barrier as mana over 30 seconds.Arcane, Defense, Movement, Intelligence
+
+“Four point five percent seems good,” Calen said, having recovered from his bout of shock. “And it will grow.”
+
+“It doesn’t say so directly in the description, but the offering said it would be scaled by affinity compatibility, understanding, and intelligence, too,” Ali said. It would remain to be seen how much mana her barrier would return to her, but any amount would be worth it in some of the longer fights she had experienced recently. She was cautiously excited about the ability. She summoned a barrier, intending to ask Malika to hit it, but she paused at the unfamiliar sensation as the skill snapped into reality.
+
+That felt different, she thought, the barrier springing into existence with way less effort than she was used to. She dismissed it and tried again, finding she had substantially more control over the density and shape of her magic.
+
+“Something wrong?” Malika asked.
+
+“No,” she answered, eyeing the barrier curiously. “It’s just… it seems like it received a hidden control upgrade too.” As the shimmering barrier hovered in the air in front of her, she bent it with her mind. It warped effortlessly into the half-dome shape she had spent so many hours practicing. She pushed again, warping it easily into a perfect sphere, and then she widened it, realizing her capacity had expanded yet again and her barrier could be dramatically wider than she had been capable of just a few minutes ago against the Flamecallers and their Wargs.
+
+An old memory sprang into her mind, an image of herself, lying on the ground just freed from her protective magic, using her Arcane Cantrip to create a butterfly. She reached out with her will and bent her barrier into shape, easily recreating the golden sculpture and making it fly around. Only this time, the sculpture was the size of Mato’s body.
+
+“Wow!” Malika said, eyes widening in awe. “I remember that…”
+
+“Hey, Ali,” Mato said, an uncommonly serious expression on his face. “I know I sounded a bit casual earlier, but seriously, thank you for looking out for me in that battle.”
+
+“No problem,” she said, smiling at him.
+
+“Any chance you have a beast you can make, so I can talk to you?” he asked.
+
+“I may just have the thing,” she said. It was unfortunately fire-based, but perhaps it could solve Mato’s communication problems.
+
+“What’s that?” Calen asked.
+
+Ali flipped open her Grimoire and channeled some mana into the wolf imprint. A few minutes later the spell completed, leaving a huge, smoldering, two-headed wolf-like creature standing before her, a low growl rumbling through its throats.
+
+Hellfire Warg – Demonic Wolf – level 53 (Hellfire)Your reserved mana has increased by +322.
+
+“You got the warg?” Calen’s voice sounded both excited and incredulous.
+
+“My Grimoire decided it was a wolf.” She had no idea why it would decide something demonic didn’t require its own imprint, but she wasn’t about to complain. Sometimes her Grimoire’s idiosyncrasies worked in her favor, and sometimes they didn’t. These wargs had been powerful and challenging to kill, and they would be a great addition to her minion army as soon as they were back to fighting monsters that were not immune to fire, or healed, or outright resurrected from it.
+
+“Obviously, it will be harder to use down here,” she said. “I don’t want to heal or resurrect our enemies. But it might be useful, right?”
+
+“Well, that’s something,” Malika said, poking at it repeatedly while healing her fingers.
+
+Ali flipped her perception to the Hellfire Warg, noticing immediately that her vision and sense of smell were greatly heightened. She could see the heat of her friends’ bodies and the bright glow of heat coming from the fires out in the greater cavern. She could smell the intense sulfurous odor coming from the flames and pools of black bubbling tar.
+
+“Tell Mato I’m listening,” Ali instructed.
+
+What came back was a complex image and sensation medley of a hungry bear.
+
+“Well, that’s definitely you, Mato,” Ali chuckled.
+
+“I can’t help that I’m always hungry,” he said, pouting dramatically.
+
+Ali pulled up the status of the Hellfire Warg, studying the black flame-wreathed text that echoed from the Warg’s mind to hers.
+
+Race: Demonic WolfActive Buffs: Demonic Power, EvasionClass: Hellfire Warg – level 53- Bite – level 48- Hellfire Breath – level 46- Pack Fighting – level 41- Demonic Howl – level 38- Flame Dash – level 35- Heat Vision – level 31- Demonic Power – level 39- Evasion – level 35- Melee Mastery – level 33- Tracking – level 25Aptitudes- Mana (Affinity): Hellfire- Immunities (Racial): Fire- Vulnerabilities (Racial): +50% extra damage from Holy, Ice or Cold- Damage Absorption (Racial): Hellfire damage is absorbed as healing- Demonic Resurrection (Racial): Fall dormant for up to one minute upon reaching 0 health. Sufficient Hellfire damage will cause revival with full health. Recharge: 24 hoursAttributes- Vitality: 122- Strength: 307 (+153)- Endurance: 102- Dexterity: 408 (+203)- Perception: 285 (+142)- Intelligence: 61- Wisdom: 103Armor: 371Physical Damage Reduction: 20%Evasion: 1061Dodge: 41.68%Resistance: 371Magical Damage Reduction: 20%Health: 1220/1220Stamina: 714/1020 (306 Reserved)Mana: 1030/1030
+
+“What do you guys think?” Ali asked, sharing the Hellfire Warg’s status with her friends while she examined the world as swirls and shades of heat with a unique double-vision that came from possessing two heads and four eyes. She had enough experience using unfamiliar perception skills now that the bizarre vision was only mildly unsettling. It was really not that different than using two Kobolds simultaneously, although the heat perception was new.
+
+“Well that explains the resurrection,” Malika said. “They fall dormant, and hellfire revives them.”
+
+“They heal from hellfire damage too,” Calen said, frowning.
+
+“Oh, yes,” Mato said. “I saw that a lot.”
+
+“That’s a lot of attribute points,” Malika said.
+
+Ali ran a few calculations in her head before she said, “It seems to get fifteen per level.”
+
+“Well, that’s unfair, isn’t it?” Mato grumbled.
+
+“Not really,” Ali said. “My Forest Guardians get twenty.”
+
+At Mato’s frown, Calen added, “You get to wear enchanted gear though, Mato.”
+
+It was too bad that its highest attribute was dexterity, rather than something more useful like wisdom or intelligence so she might take advantage of it for her empowered summoner. It was the same with her Guardian – strength meant it was great at hitting things very hard, but it wasn’t super useful as a boost for Ali’s own attributes.
+
+“That’s cool,” Mato said after a few moments. “Twenty would be so nice though.”
+
+“It’s going to be very useful for your dungeon Ali,” Malika answered. “But it might be a bit too dangerous to use down here in the mines. Especially given that the enemies will heal from it. Might not be worth the mana.”
+
+“That’s a ridiculous ability,” Calen finally added his opinion.
+
+“The resurrect?” Ali asked.
+
+“No, your ability. You walk into a dungeon, defeat a few monsters and now you can make them. Then you tell us the details of all its abilities.” Calen twitched; a gesture Ali recognized as him catching himself in the act of summoning his notebook.
+
+“I can’t do the elementals,” Ali pointed out. Although Calen was probably right. In terms of gathering intelligence on how the monsters they encountered actually functioned, her Grimoire was a superb tool.
+
+Well, it’s also my Martial Insight allowing me to see the status, she thought, but that was something she would never have realized without Seth’s insight. It was especially true if, like the Hellfire Warg, the monster was of a category she already knew. It took three or four kills before she could read the monster’s aptitudes, health, and skills.
+
+“Even if you can’t do all the monsters, at least we can confirm our theories and make efficient strategies,” Calen offered.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

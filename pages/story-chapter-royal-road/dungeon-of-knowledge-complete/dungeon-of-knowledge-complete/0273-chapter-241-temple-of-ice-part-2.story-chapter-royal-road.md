@@ -1,0 +1,91 @@
+---
+id: c73681e4-1ced-56f3-a03e-d741249a5b83
+page-type-slug: story-chapter-royal-road
+title: "Chapter 241: Temple of Ice (Part 2)"
+slug: 0273-chapter-241-temple-of-ice-part-2
+partOf: dungeon-of-knowledge-complete
+position: 273
+ownLength: 2139
+unit: words
+ownProgress: 2139
+publishedAt: 2025-05-05
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2256889/chapter-241-temple-of-ice-part-2"
+royalRoadId: "2256889"
+markedReadAt: "2026-06-29T20:20:28.703Z"
+---
+
+What’s this? Calen thought, eagerly reading the shining words unfolding on the tapestry in his mind.
+
+Requirements met for skill advancement.Mentor: Lyeneru Silverleaf.Radiant Archery has surpassed level 40.Mastered an advanced bow draw technique.Landed a single attack dealing more than 2500 damage in raid combat. Observed the Ambush of an elite, evolved archer in combat. Dexterity has surpassed 800.Radiant Archery gains Aimed Shot.Channel 10% of your maximum stamina per second, increasing the accuracy and critical strike rating of your next shot by + [skill] % per second channeled. Radiant Archery gains Power Shot.Channel 10% of your maximum stamina per second, increasing the magical and physical damage of your next shot by + [skill] % per second channeled.Choose one advancement.
+
+My archery advanced! Nendir is going to be over the moon! It was the breakthrough he had been working toward ever since his first lessons with Nendir. The master archer had explained the impressive draw technique both he and Lyeneru employed, and he had been practicing in every single battle until the movement of his arm and his bow had seemed to merge into one. In his mind, he had been close to reaching Coria’s expertise for a little while now, not nearly as good as the masters, but still a worthy achievement. He had gotten a lot of practice against Kir’vella’s bats, and again with Mok’freja, he had been able to shoot so many arrows in such a short time. And now it had paid off handsomely.
+
+And now he had a difficult choice to make: Aimed or Power? Either choice seemed to be a phenomenal improvement in his damage, along the lines of Lyeneru’s recommendation to keep an eye out for percentage damage skills. He could spend as much as one hundred percent of his stamina for an insane +420% to damage or critical strike rating.
+
+But which one should I pick?
+
+He also had the option to pick neither. Nendir and, to a lesser extent, Lyeneru had both lectured at length on the major breakpoints in the development of archery classes. Just like he had trained to unlock his multishot advancement, training his draw technique was aimed at gaining access to percentage mana or stamina skills – a way to unlock the truly stupendous damage output he had witnessed from Lyeneru. If he declined these two options, he would be deliberately choosing to develop his class in a different direction: scouting and tracking – with or without stealth – for example, but Calen already knew where his heart lay on this issue. His only choice was which of the two paths offered would best help him to reach his ultimate goal.
+
+Critical strike rating and accuracy would almost certainly develop the highest damage output potential, especially if he searched for a few good items that could boost his critical damage percentage. From what Nendir had told him, this would be the path of the ranged assassin – a devastating build for taking out single targets in one strike. He would need to invest heavily into critical damage, increased range, accuracy, and perception skills – allowing him to ambush enemies from beyond their range to even detect him. He already had several of the major components for this build, and Aimed Shot would be the key that truly unlocked its power.
+
+But honestly, he simply wasn’t inspired by that style of combat. Oh, it was a useful tool for his role on the team, but as his primary approach to combat? Uninspiring. Likely both Aimed Shot and Power Shot wouldn’t see much use during a long battle – in the ten seconds it took to channel it to full power, his rate of fire was high enough that he could do more damage by shooting normally. But for an Ambush pull from stealth, it would be exceptional. He might be able to bring packs to the group with one monster almost dead. This was where Power Shot surpassed Aimed Shot in his mind; Power Shot was guaranteed consistent damage. Aimed Shot could raise his critical strike rating, but he could still fail to get the critical damage, and if he was relying on that, he would be almost out of stamina and in a whole host of trouble.
+
+Besides, some of the advancements Nendir said arose from proficiency with Power Shot seemed very exciting. Decision made, he selected Power Shot and studied the change to his Radiant Archery skill.
+
+Radiant Archery – level 42You are proficient with a bow and ranged combat. Stamina: Attack with your bow. Your damage and accuracy are increased by +893% [40 + skill + dexterity]. Mana: Conjure up to 5 [1 + skill / 10] magical arrows to fire simultaneously at multiple targets. The damage is split among each conjured arrow.Stamina: Channel 10% of your maximum stamina per second, for up to ten seconds, increasing the magical and physical damage of your next shot by +42% [skill] per second channeled. Channeled. Light, Physical, Ranged, Dexterity
+
+His chime sounded again, immediately after he finished his selection. There’s more?
+
+Requirements met for Skill advancement. Arrows of Brilliance has surpassed level 45.Dexterity, Perception, and Intelligence have all surpassed 400.Arrows of Brilliance has gained a new enhancement.Blinding FlashMana: Cause an extremely bright flash when your arrow hits, blinding nearby targets. Range: 10 feet.Light, Area, Ranged, IntelligenceArmor PiercingStamina: Your arrows will pierce armor, ignoring a percentage of the target’s armor value.Physical, Ranged, DexterityMote of LightMana: Attach a Mote of Light to your arrow, fixing it at the destinationLight, Ranged, IntelligenceLingering BlastMana: Your magical damage is increased, but it is applied over time instead of all at once. Duration: 30 seconds.Light, Ranged, IntelligenceChoose one enhancement.
+
+Oh, my arrows! Calen smiled. While this advancement was not influenced by his patrons, it was one he had been waiting for, and for quite a while. Finally, he added Armor Piercing to his repertoire, something he had been wanting since his first encounters with the bone elementals and skeletal wyverns of the Ruins of Dal’mohra. Somehow, there had always been something more immediately important, but now he had it. The new offering, Lingering Blast, simply didn’t add enough versatility to his repertoire – he already had a magical damage arrow enhancement.
+
+Finally done with his notifications, he glanced up at the sense of being watched to find the Troll leatherworker patiently waiting for him to finish.
+
+“Calen,” Zor’kan said with a solemn voice. “Here, use this with pride and destroy the betrayer of Aman Rak.” Then he looked down, as if a little embarrassed. “I am afraid that drake scale is the best leather I have, and I do not have access to any more powerful bone than my own. This was the best I could do, under the circumstances.”
+
+Respectful of the Troll, Calen gathered the folded leather bundle, finding it to be surprisingly heavy. As he unfolded it, he was presented with a heavy armor piece fashioned from thick red drake scales – scales he had personally taken from the Armored Drakes in the Emberforge Mines. Well, heavy for me, he thought – for someone like Mato this would be light armor. The piece had been crafted with his bow skills in mind – even with the sturdiness, Calen could tell the supple leather would not restrict his movement in any meaningful way while still providing robust protection for his body.
+
+“Thank you,” Calen said, bowing low. “I will take your work into battle, and bring honor to Aman Rak.”
+
+“You would make a good troll,” Zor’kan said and shared the identification of the armor he had made and Calen decided that, given the source, it was likely one of the most impressive compliments he’d ever received.
+
+Elusive Drake Scale Armor of Devastation – level 78Evasion: 655Resistance: 655+49 Dexterity+20 Strength+22% Evasion+78% to critical damage.+10% to Fire resistance.Requirements: Dexterity 156, Intelligence 156Created by Zor’kan.Body – Leather / Bone
+
+Holy shit. This is what he makes when he has no access to his materials and equipment? Calen sat stunned by the extraordinary masterpiece of leather craftsmanship he held. There were a whopping five enchantments on it, and the quality of the work seemed exquisite. There were none of the garish paintings he had come to associate with the Trolls, instead, he had a piece of beautiful, supple body armor made from the hardened gleaming scales of an Armored Drake, reinforced by bone.
+
+He immediately put it on.
+
+Mato couldn’t help much with the cleanup, so he picked a spot beside the path leaving the slowly melting pillars and soaring buttresses of glacial ice, and began to set their camp. It was well placed strategically, far enough from the throne that they would not be in danger if the dungeon respawned Mok’freja. So what if it was right next to the trees and jungle? He was picking, so he chose to be nearer to nature.
+
+He lit a small campfire using dry kindling from his storage and a few scavenged logs from the jungle using a simple but robust firelighter he had bought so long ago from The Prepared Adventurer – the camping gear store beside the Adventurers Guild. As soon as his small fire was burning merrily, he added the larger pieces of wood on top, set his pot to boil, and then stepped into the forest to collect some bark and roots he could use to season his cooking. Always on the lookout for interesting flavors, his plant language, enhanced sense of smell, and Rampant Growth skill proved invaluable for uncovering even the most hidden of plants and unveiling their secrets.
+
+He was avoiding thinking about the fight – of all the fights so far in this dungeon, he liked Mok’freja the least. He had always seemed to be struggling against the bitterly cold winds, unable to see in the blizzard of snow and ice, and perpetually chilled or frozen to the point he could hardly reach the boss to even hit her. Then, after two or three Swipes, she would use her blasted teleportation to vanish, leaving a Frost Nova to explode in his face.
+
+Definitely an Ali and Calen fight, he decided. Malika too. While Malika was also a purely melee fighter, her recent teleport advancement had made her vastly more mobile. And, he had to admit her new trick of unleashing a punch in the middle of nowhere and using the forward step of her footwork to suddenly deliver it on the other side of the clearing had looked incredibly cool.
+
+Druidic Shapeshifter has reached level 81 (+5).+50 attribute points.
+
+Figures, he thought, seeing that he had earned only five levels this time where everyone else had gained six. Not my best fight. Still, fifty attribute points would not go to waste. He put ten each into what he considered his most important attributes: vitality, strength, endurance, and wisdom. Then he put four into dexterity, five into perception, and, just because they teased him, he put his last point into intelligence. Twelve intelligence! Totally unstoppable. He didn’t bother to mention he had a lot more when he shifted into Tree Form.
+
+Next, my skills.
+
+Arboreal Sanctuary has reached level 39.Swipe has reached level 45.Brutal Restoration has reached level 45 (+2).Bear Form has reached level 39.Rampant Growth has reached level 19 (+2).Bestial Combat has reached level 37.Natural Prowess has reached level 34.Survival Instinct has reached level 39 (+2).Battle Trance has reached level 26 (+3).Last Stand has reached level 12.Herb Gathering has reached level 17.
+
+Ok, not bad, he thought, glancing through the skill advancements. Honestly, he had expected much less – the fight had felt so disconnected to him that he was certain he wouldn’t gain much out of it. Most of the time he had spent well-chilled and attempting to chase that frustrating blue troll. But as he examined the skill notifications, he realized that he had had much more of a practical impact than his feelings told him.
+
+Arboreal Sanctuary, Bear Form, and Swipe had only leveled once, but that made sense, he hadn’t really been hitting anything or tanking enormous strikes – only getting frozen by ambient magic damage. Rampant Growth had advanced nicely, and his desperate use of it to gain some ranged impact must have actually worked.
+
+Unsurprisingly, Survival Instinct and Battle Trance had been his biggest skill advances. He had been hit a lot with the flitting streams of ice bolts.
+
+I passed level eighty, he thought, wondering what his family would say when he stopped by to visit. That, in and of itself, was an achievement.
+
+Now, he thought, glancing at his prizes. Mushrooms? Or this cinnamon-scented bark? He eyed the pot for inspiration. Heck, why not both? He tossed it all in and then fished the rest of the ingredients out of his storage ring and began to cook.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

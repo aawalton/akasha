@@ -1,0 +1,269 @@
+---
+id: 10d2f6fe-d13a-54cd-97d1-b8a6354857fb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31: Reunited"
+slug: 0031-chapter-31-reunited
+partOf: dungeon-of-knowledge-complete
+position: 31
+ownLength: 5012
+unit: words
+ownProgress: 5012
+publishedAt: 2024-02-27
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1534020/chapter-31-reunited"
+royalRoadId: "1534020"
+markedReadAt: "2026-06-29T20:12:00.841Z"
+---
+
+Mato’s body twisted and warped as he shifted from his Bear Form, leaving him lying on his back in the middle of the clearing, panting and drenched in sweat and worse. The cool touch of the early morning breeze felt invigorating as it gently cleared the stench of burnt flesh and wood, and the sharp pungent ozone of lightning magic.
+
+As he lay staring up at the clear blue sky, he smiled. It had been an intense fight, and he had even come very close to dying from the combination of the lightning and the Bugbears’ leap attacks. But thanks to Malika’s healing magic and incredible timing, he had survived.
+
+“Hey, thanks for healing me,” Mato said.
+
+“No problem. Thanks yourself,” Malika replied.
+
+Malika lay on the ground just like he was, a scant few feet away. She had been unconscious and broken when he had joined the fight. She looked perfectly fine now, one of the perks of a healing class, he supposed. Only she was probably even more exhausted than he was. Not for the first time, he wondered at the mental toll battles like this must take on a person. Is she truly ok, after so much damage?
+
+“You know,” she reflected, “I had those Bugbears right where I wanted them. But I still appreciate your assistance.”
+
+Mato chuckled at Malika’s dry humor.
+
+Well, her sense of humor survived, so it can’t be that bad. Without a doubt, Malika would have died if he and Ali hadn’t shown up when they did. Likely Calen, too. He had had to go all out, even going so far as to take double damage from the Lightning Bolt to save Malika.
+
+With Primal Rage he would have turned into a mindless force of destruction, likely killing everyone if he didn’t die first. But Bestial Combat was incredible. At no point during the fight had he been afraid of hurting his friends. The combination of his two new skills was nowhere near as spectacularly direct as Primal Rage, but he had vastly more options to play with, and most importantly, he could fight smarter. What, use my alleged brain? Revolutionary. Mato scratched his chin, thinking it over. Yes. One thing was certain, under the influence of his old Berserker skill, he wouldn’t have been able to conceive of his plan to draw the ire of the rock-slinging Goblins and free up Calen. Additionally, he now had a block, more health and strength, and even a subtle proficiency with his Bear Form that he was certain would eventually surpass even the best potential of his old skill.
+
+For a few moments, he simply lay on the dirt savoring the feeling of having been useful. Then he summoned his stats. Got to have been worth something …
+
+Druidic Shapeshifter has reached level 14 (+3).+30 attribute points.Arboreal Sanctuary has reached level 8.Swipe has reached level 9 (+2).Brutal Restoration has reached level 10.Bear Form has reached level 9.Wolf Form has reached level 4 (+2).Bestial Combat has reached level 5 (+4).Natural Prowess has reached level 4 (+3).Wilderness Lore has reached level 6.
+
+He clenched his fists and smacked them against his thighs, suppressing a roar of delight. Yes!
+
+The list of notifications was a rollup, a summary of the last few days hunting through the woods and tracking Calen and Malika. Wolf Form had leveled well from the tracking – and no doubt his Wilderness Lore had grown due to his work finding trees for Ali or perhaps explaining the forest to her. Everything else had come from the battle against the Goblin warband, including three class levels.
+
+Sweet. I guess the system thinks this was just as risky as that Swordmaster Kobold? Now, no point earning if I don’t spend. Mato pursed his lips. Where to start this time?
+
+Bestial Combat was based on strength, so he spent ten points on that immediately, and then, deciding he needed a little more survivability, he spent ten each on vitality and endurance. Quickly in, even more quickly spent.
+
+Finally, he sat up and looked around, checking on the others. Malika sat nearby with her eyes closed and her legs crossed, breathing slowly and deliberately. Calen seemed to be darting in and out of the trees, firing his bow occasionally. He could still hear Ali’s wolves chasing down the last remnants of the Goblin Warband, and he assumed Calen was just making sure none of them came back to ambush them. Or worse, as Goblins were notorious for doing, ran away to find some friends, returning later with ten times the numbers. They bred faster than rabbits: if you didn’t stomp them out completely, you were just buying yourself far bigger problems.
+
+Where’s Ali? He scanned the clearing, but then he caught sight of her limping slowly down the grassy hillock from the trees, supported by her battered, black-scaled Kobold rogue. The left side of her body and face were so badly charred that smoke still curled up from the blackened skin and burnt flesh.
+
+And here I was messing with my stats and having a sunny nap. “Malika!” he yelled. “Ali’s injured!”
+
+Mato sprang to his feet, all his exhaustion forgotten in an instant, and ran to help her. Malika easily overtook him, reaching the tiny limping Fae first and using her healing magic.
+
+“Are you ok? What happened to you?” He quickly offered a hand to help support her, but the burnt flesh regrew with incredible speed, making her injuries vanish before his very eyes.
+
+Ali sighed. “Thanks guys. That stupid Storm Shaman hit me with a Lightning Bolt. I have half my maximum health because of Domain Withdrawal, and she had a ridiculous Lightning Vulnerability curse too. I think I lost over two-thirds of my health instantly.”
+
+“I got hit by that curse too, it hurt like the kiss of an angry Hell Hornet,” Mato said, wincing in sympathy.
+
+“Why don’t you sit down for a bit,” Malika suggested, and Mato could see Ali still trembling and shaking from the aftermath of the shock. “We probably all have a bunch of notifications to go through.”
+
+“I should have a few skills to choose,” Calen chipped in, emerging from the forest and walking up to join them. “I could use some help.”
+
+Satisfied that Ali was healing up nicely and would be ok, Mato left them to their animated discussion of all the theory and instead, decided to make himself useful by collecting corpses for Ali to dispose of. It was becoming a habit, just like they had done in the ruins. Only this time, there were gigantic Bugbears to move, and he doubted any of the others had enough strength – but leaving them was out of the question. Their corpses would only feed the horde. As he cleaned up the forest clearing, he spotted a couple of good trees that Ali might be able to use for her magic; an old oak and a pair of maple trees that could be safely removed to promote new growth – and a few burnt by the battle magic, unlikely to recover.
+
+***
+
+Name: Mato BahrRace: BeastkinActive Buffs: Bear Form, Natural ProwessClass: Druidic Shapeshifter – level 14- Arboreal Sanctuary – level 8- Swipe – level 9- Brutal Restoration – level 10- Bear Form – level 9- Wolf Form – level 4- Bestial Combat – level 5- Natural Prowess – level 4- [Locked]- [Locked]- [Locked]General Skills- Identify – level 6- Cooking – level 4- Wilderness Lore – level 6Aptitudes- Languages: Common, Beast- Mana (Affinity): Nature- Strong (Racial): +7 to Strength- Tough (Racial): +10 to EnduranceAttributes- Vitality: 102 (+32)- Strength: 76 (+24)- Endurance: 77 (+24)- Dexterity: 8- Perception: 7- Intelligence: 9- Wisdom: 28Armor: 353Physical Damage Reduction: 47.38%Health: 1020/1020Stamina: 616/770 (154 Reserved)Mana: 280/280
+
+Calen still couldn’t believe Mato and Ali’s timing. If they had arrived but a minute or two later, the battle would have ended … poorly. Being an archer was great but, several times, the Goblin swarm had threatened to overwhelm him. Just the one pair of hands and one bow, he fretted. I could do with a better rate of fire, haste, or something.
+
+Thinking over the battle, he sorted through all the arrows he had collected from the battlefield and the undergrowth, discarding almost a third of them as beyond repair, even with his Bowcraft skill.
+
+Goblin arrows. What he wouldn’t give for even a basic apprentice-level crafted arrow. He discarded one more wonky arrow that was little more than a branch with a stone tied to the end. It’s barely even useful for firewood. He had not been able to afford to be fussy, but he had missed everything he aimed at using this particular ‘arrow’.
+
+Returning to the others, he said, “We should get moving soon. I couldn’t chase down two of the Goblins that ran early – they will alert the others, and we will have the whole dungeon-break on our trail.”
+
+“Dungeon-break?” Ali asked, her voice cracking with surprise.
+
+Calen shared what he and Malika had learned about the Goblins and the plot to provoke a dungeon-break – drawing gasps from Ali and an angry growl from Mato – bringing it all down upon Myrin’s Keep for some nefarious purpose. No doubt Kieran Mori and the Town Watch intended to profit greatly from the disaster.
+
+“I brought Recall Potions for everyone,” Mato said, dragging the corpse of the shaman and dumping it on top of the Bugbears.
+
+“Aren’t those stupidly expensive?” Malika asked.
+
+They sure are, Calen thought, glancing at his friend in surprise. Mato was not exactly rolling in money, and he was typically quite frugal. Such an extravagance was just not like him.
+
+“I didn’t want to be stuck somewhere without being able to get to safety again,” he muttered, sharing a significant look with Ali, before handing him and Malika a potion each.
+
+Something bad must have happened to them. Worse than just falling down that hole. Calen resolved to ask Mato about it later when they were all safe.
+
+Come to think of it, I didn’t see his red mist…
+
+“Hey, Mato, what happened to your rage skill?” he asked.
+
+“I removed it,” he answered in an unexpectedly subdued tone.
+
+Ah. Calen had an idea of what might have happened but found he could not quite roll the words off his tongue, not with Ali’s wide amber eyes on him just then, and the momentary flicker of – is that fear? – that appeared within them.
+
+The awkward silence was broken by Ali, “What skill choices did you get for reaching ten, Calen?”
+
+It was an obvious subject change, but he let it go. Mato looked about as happy as if he were sitting neck-deep in a Goblin stewpot. Calen knew he would talk when he was ready. Calling up the unreasonably cheerful shining, pulsating light of dozens of notifications, he perused them thoughtfully before sharing with his friends:
+
+Archer of Light has reached level 10 (+3).+30 attribute points.Radiant Archery has reached level 9 (+2).Arrows of Brilliance has reached level 8.Explorer has reached level 9 (+3).Blessing of the Dawn has reached level 7.Eclipse has reached level 7 (+3).Bowcraft has reached level 6 (+2).
+
+Three class levels and a long list of skills gaining levels seemed a little ridiculous, but when he remembered the Bugbears approaching using their stealth and leaping across the entire clearing, he revised his assessment. He had been out in the wilds with Malika for days, fighting Goblins that outnumbered and outleveled them both continuously – with a barely adequate bow, no gear, and the worst arrows imaginable. His skills had improved dramatically but, when he saw the next notification, it captured his entire attention.
+
+Class skill slot unlocked.
+
+My seventh skill… Eagerly, he examined the options his class had for him to choose from.
+
+New skills are available for Archer of Light.New skill unlocked.Class level has reached 10.Intelligence has surpassed 40.Fought five or more enemies simultaneously and survived.Rain of ArrowsMana: Fire a shot into the air which splits into magical copies that rain down over an area. Range: 20 feet.Light, Ranged, Area, Intelligence
+
+His throat suddenly felt dry. Oh heck that would have been useful… A single attack that could have swept the bushes clear of those pesky Scavengers.
+
+New skill unlocked.Class level has reached 10.Intelligence has surpassed 40.Has used light magic to break stealth.Sparkling BeaconMana: Conjure a magical arrow of light that curses your target on hit with sparkling motes, preventing stealth or invisibility, and making the target easier to hit. Duration: 1 minute.Light, Curse, Intelligence
+
+Hmm, reasonable… but does it have to sparkle?
+
+New skill unlocked.Class level has reached 10.Perception has surpassed 50.Has defeated multiple enemies in the dark or underground.Eyes of the ArchonGreatly enhanced visual acuity, able to see in extremely low light.Light, Perception
+
+Trying not to grin too much at the impressive choices he had been offered, he instead shared them with Ali and Malika. Mato still seemed busy collecting corpses strewn across the battlefield and stripping them of gear, and he would be much more interested in the final choice than working through the tradeoffs anyway.
+
+“An area attack, a curse that helps everyone in the group hit a monster, and a vision skill to help you scout or aim?” Malika noted.
+
+Calen nodded, appreciating the efficiency of her summary. The skills offered all seemed quite good, and he could see uses for all of them. The problem was they were so different that it would be challenging to decide which was really the best.
+
+“The Rain of Arrows would have been quite useful against all those Goblin patrols we fought, but I don’t think I could have used it much in this fight except for clearing the weaker Goblins at the back.”
+
+“You would have hit me and Mato just as much as the Bugbears,” Malika agreed.
+
+“What about the beacon?” Ali asked. “The shaman had a curse and that was quite effective.”
+
+“It does seem like a good option,” he answered, weighing the skills against the battles he had fought over the past couple of days. “But I think I prefer the eyes skill.”
+
+Many of his fights had been underground in the cavern, or the dimly lit forest. And a perception skill would help him with every arrow he fired. Being able to see better would help so many things.
+
+“You’re an archer,” Malika said. “A good perception skill can’t be a bad choice. It should help with both your tracking and shooting.”
+
+“I just picked a perception skill,” Ali said, “and I can’t imagine going back.”
+
+“Ok.” Calen confirmed his decision, adding Eyes of the Archon for his seventh class skill.
+
+You have gained the class skill Eyes of the Archon.
+
+Instantly, the clearing and the forest brightened dramatically. He stopped and blinked in astonishment.
+
+I can see everything!
+
+He could easily make out the detail of the dew on the tree leaves – across on the other side of the clearing. He could see through the dark shadows easily, revealing bugs that crawled about in the damp dirt under the bushes. It was like he had been blind before and simply didn’t know any better.
+
+“It might take some getting used to, Calen,” Aliandra said, reaching out to pat his hand shyly. “Mine did, and I can’t turn it off either, just like yours. I had to put a few points into perception and wait for it to level up before it was ok.”
+
+“Now you tell me,” he joked.
+
+“Yeah, Ali’s right,” Malika said. “Maybe spend some points on what best supports your skills? I mean, now you can tell what kind of powder a Goblin used on his nose from half a mile off.”
+
+Calen snorted, “Right, thanks.”
+
+But he wasn’t upset, the skill was incredible. It would just take a bit to get used to the disorienting amount of detail. Maybe he wouldn’t be looking for Goblin makeup tips, but this skill was certainly going to help him spy out weaknesses in armor or vulnerable targets for his arrows from much further away. He took Aliandra’s advice and spent eight points on perception, immediately seeing a substantial improvement in his ability to use his new skill. Most of his points typically went to improving dexterity and intelligence. My primary damage attributes. He pursed his lips in thought, running some calculations. Thirteen and three respectively, he decided, dexterity being his highest priority for now. Then he spent two on endurance and four on wisdom simply because he kept running low on mana and stamina.
+
+“There. Next battle, Ali, I’ll tell you how many nostril hairs each Goblin has.”
+
+“Ew,” she giggled.
+
+***
+
+Name: Calen AveryRace: Half-ElfActive Buffs: Blessing of the DawnClass: Archer of Light – level 10- Radiant Archery – level 9- Arrows of Brilliance – level 8- Motes of Light – level 5- Explorer – level 9- Blessing of the Dawn – level 7- Eclipse – level 7- Eyes of the Archon – level 1- [Locked]- [Locked]- [Locked]General Skills- Bowcraft – level 6- Wood Carving – level 3- Cartography – level 4Aptitudes- Languages: Common- Mana (Affinity): Light- Perceptive (Racial): +11 to Perception- Quick (Racial): +5 to Dexterity- Timing (Class): You have an innate sense of timingAttributes- Vitality: 20- Strength: 9- Endurance: 14- Dexterity: 75 (+25)- Perception: 64 (+21)- Intelligence: 48 (+16)- Wisdom: 18Equipment- Weapon: Guard Bow – level 3Health: 200/200Stamina: 140/140Mana: 144/180 (36 Reserved)
+
+It had happened again. Mato had come to her rescue when she was in trouble. Only this time she hadn’t even been conscious to see it.
+
+Fighting the first Bugbear had demanded almost all her mana, health, and stamina. She had barely healed herself when she had been set upon by three more of the monstrous creatures and the rest of the warband. If they hadn’t given their positions away with a roar, Malika was certain she would be paste on the ground right now. She would likely never have known what hit her.
+
+She frowned, looking over at the three furred, orange-brown monsters, now the bottom of a growing pile of gear and Goblin corpses. Without much stamina or mana, she had been overwhelmed quickly, but instead of dying, she had woken to the awareness of Mato dragging her out of an enormous burst of lightning magic, in the midst of a chaotic battlefield. A thoroughly bizarre sensation of being hit, and knowing she should have been hurt, but not taking any damage. If she hadn’t experienced Mato’s strange skill before, she wouldn’t have known what had happened.
+
+She glanced over at the large Beastkin, who was being uncharacteristically quiet. Not only had his rage been entirely absent, but he had done something to his strange aura. While she was fighting near him, her stamina and mana regeneration had been substantially improved. It was the only reason she had had enough to heal him in return. It was the first time she had experienced passive health regeneration, too. It was unlike anything she had experienced before – a well of warmth and energy within her that spilled out into the rest of her body, bringing gentle vitality and growth.
+
+Why does he get the gentle magic? He’s a brute of a bear! In contrast, her own powerful healing always felt rough and jarring. Am I using it right?
+
+Even being conservative with her skills, she had spent the rest of the fight running on fumes, relying on the slow tick of passive regeneration to give her enough to just keep up. It was a really good thing Mato had been there to tank.
+
+“Your turn, Malika, what did you get?” Ali said smiling at her, and then she made a small gasp putting her hand to her mouth. “I mean … only if you feel comfortable sharing.”
+
+“Let me check.”
+
+Malika studied the glowing blue-white text floating within her mind, immediately aware that there was a lot more than she expected.
+
+Soul Monk has reached level 11 (+3).+30 attribute points.Soul Strike has reached level 10 (+2).Healing Mantra has reached level 6.Perfect Body has reached level 8.Soul Armor has reached level 7.Enlightened Evasion has reached level 8 (+2).Class skill slot unlocked.New skills are available for Soul Monk.New skill unlocked.Class level has reached 10.Soul magic affinity.Fought 5 or more enemies simultaneously in melee. Soul BlastMana: Release your energy in a spherical burst around you, damaging all targets with Soul damage. Range: 5 feet.Soul, Melee, Area, IntelligenceNew skill unlocked.Class level has reached 10.Relentless aptitude.Kill an enemy twice your level.Power StrikeStamina: Channel 10% of your maximum stamina per second, for up to five seconds, increasing the magical and physical damage of your next attack by + [skill] % per second channeled. If you kill an opponent in one strike, instantly regenerate 10% of your total stamina. ChanneledPhysical, Melee, StrengthNew skill unlocked.Class level has reached 10.Dexterity has surpassed 60.Made extensive use of acrobatic techniques to gain position or speed advantage in combat.Divine StepStamina: Channel your energy through your body and to the immediate environment around you to control your momentum, significantly increasing your combat and movement speed. Soul, Movement, Haste, Dexterity
+
+Do I feel comfortable sharing? Ali’s question echoed in her mind. Something twisted uncomfortably within her at the idea of trusting them with information so personal and intimate. And yet, she owed them all her life – and not just for this fight. Ali and Mato must have tracked them through the wilderness for days just to find them and save them – a story she still wanted to hear.
+
+Against her instincts, she hesitated, indecision gripping her as she stared at the bright hovering text. She glanced at Mato, dragging some corpses around the clearing, apparently not even interested. She and Calen had grown closer over their time in the wilds, and she thought she might be able to come to trust him. Then her eyes settled on Ali, and she remembered the happy days exploring their class skills for the first time together in that underground cavern.
+
+Malika squeezed her eyes closed and swallowed – and then shared all three of her skill choices.
+
+“I like the look of Soul Blast,” Calen said quietly. He said nothing about her obvious hesitation. “Area damage in melee. A five-foot radius blast is small, but it might grow as you gain more skill levels.”
+
+“It’s the same as your choice,” Malika said, “it doesn’t discriminate against friend or foe. When it was you and me against the patrols, it would have worked great, but in this last fight I would have been hitting Mato all the time.” All the same, the skill did look strong, and if she was frequently tanking with only ranged allies, it would be incredible.
+
+“What about Power Strike then? A big damage boost and potentially a stamina restore.”
+
+“It has a strength trait though,” she pointed out. “Most of my skills use dexterity. Wouldn’t that be spreading my points too thin?”
+
+“Aah yes.”
+
+“How fast can you punch?” Ali asked, taking the conversation on a surprising turn.
+
+“Quite fast if I need to,” Malika answered. “Why?”
+
+“Your last skill option has a haste trait, and it says it improves combat speed,” she pointed out. “I wonder if you’ll end up doing more damage by attacking faster with that, compared to the Power Strike.”
+
+“She has a good point – a tradeoff between outright power and numerically more strikes,” Calen agreed. “It’s both a movement skill and a haste skill, I think that could be your best option. It would improve your magic damage skill also, but the downside would be having to spend mana and stamina more frequently. It’s good – but of course, it’s your choice.”
+
+Wincing as he verbally trod eggshells, Malika reread the description. Momentum control to increase combat and movement speed. I could go for that. The skill drew on both dexterity and soul magic traits, implying that it would scale well if she continued investing her points normally. The more she thought about it, the more she liked the idea of attacking faster or even, as implied by the element of control in the description, more efficiently. In martial arts, speed often determined the winner, and she was already investing heavily in dexterity which would further improve her reactions.
+
+She made her decision and committed to the choice.
+
+You have gained the class skill, Divine Step.
+
+Getting up, Malika immediately launched into one of the practice forms, but as soon as she took a kick, she fell flat on her face.
+
+Ugh, my body feels weird. Calen’s snort of laughter nearly made her spit in anger, but Malika managed to contain herself in the nick of time. Instead, she rolled over, muttering, “Yes, I planned to look like a complete klutz. Did I succeed?”
+
+Calen’s ears turned pink. “Uh …”
+
+“The skill didn’t work?” The concern in Ali’s voice cut through her embarrassment.
+
+“I think the skill is fine,” Malika answered, getting up slowly and brushing the dust off her face as she tried to get a sense for what her skill had done to her weight and balance. “It really does affect the momentum of my body. I think it will just take some practice to get used to it.”
+
+Do I need more dexterity? She sat down beside Ali and considered her options. Dexterity was her highest attribute, benefiting Martial Artist, Enlightened Evasion, and now her newest skill, Divine Step. Can’t hurt. She spent twelve points to increase her dexterity. Even sitting on the ground, she felt the electric sensation of her body growing more agile and responsive. She split the next twelve points evenly among endurance and wisdom – both attributes providing significant direct benefits to her skills. Definitely a little more health, and maybe some magic damage? After the last battle, spending three more points on vitality seemed like a smart choice, and then she applied her final three points to intelligence to boost Soul Strike damage a little.
+
+“What do you think we should do with all this stuff?” Mato asked, joining them, and pointing to the pile of Goblin gear he had separated from the corpses. “Should we sell it or something? I don’t think we can take it all back with us using the potions.”
+
+“I have Appraise, let me take a look,” Malika said. It should be quick to figure out what was worth selling.
+
+Heavy Axe – level 10Damage: Slashing, Physical.Requirements: Strength 30.Quality: Poor.Value: 2 silver, 14 copper.Two Hand – Axe – Steel Spiked Mace – level 9Damage: Blunt, Physical, Chance to Stun.Requirements: Strength 30.Quality: Poor.Value: 2 silver, 27 copper.Two Hand – Mace – Steel Spiked Pauldrons – level 12Armor: 89Requirements: Strength 24.Quality: Poor.Value: 4 silver.Body – Plate Armor – Steel
+
+“The Bugbear stuff is all poor quality. Heavy, but not worth much more than scrap,” she said.
+
+She picked up the tattered robe that the Goblin Fire Mage had been wearing. It was singed and torn in many places, barely even useful as a dishrag.
+
+Tattered Robes – level 7Resistance: 49Requirements: Intelligence 25Quality: Broken.Value: 14 copper.Body – Cloth
+
+“This is junk,” she said, tossing it to the side. The robes may have once been nice, but Malika guessed they had always been poor quality. Now, however, the robes were far too badly burnt to be of any use. It would require the services of a skilled Tailor to salvage anything, and likely it would be simply more cost-effective to make something new.
+
+Chain Shirt – level 15Armor: 105Evasion: 105Requirements: Strength 30, Dexterity 30Quality: Normal.Value: 23 silver.Body – Chainmail – SteelSteel Cudgel – level 14Damage: Blunt, PhysicalRequirements: Strength 28, Dexterity 28Quality: Normal.Value: 5 silver.Main Hand – Mace – SteelIron Buckler – level 15Armor: 49Evasion: 49Block Chance: +20% (Blocked attacks cannot cause critical damage.)Requirements: Strength 30, Dexterity 30Quality: Normal.Value: 7 silver, 50 copper.Off Hand – Shield – Iron
+
+“This stuff isn’t bad – we can earn a little money selling it.” The shaman’s gear had at least been of normal quality and seemed relatively well maintained. Certainly, compared to the Bugbear and Fire Mage’s equipment, it seemed great. And, sized for a Goblin, the pieces would be far easier to carry. “It should be good for a Gnome, the size is about right.”
+
+She set the pieces aside and picked up a small wooden bracelet.
+
+Wooden Bracelet – level 11+21% to mana regeneration.Requirements: Wisdom 22.Quality: MagicValue: 92 silver.Hands – Charm
+
+Oh, now this is nice! The worn wooden bracelet was enchanted, and by far the most valuable piece the Goblins had been using. Even with just a single enchantment crafted on it, it seemed quite useful.
+
+“This looks good for a mage,” she said, handing it to Ali. “Do you want it?”
+
+“Me?” Ali eyed the scratched, plain wooden bracelet dubiously. “It doesn’t look very cute, does it?”
+
+“It will look much cuter when you identify it,” Malika said with a grin, and watched Ali’s eyes drop back to the bracelet and then suddenly open very wide. Without another word, the Fae immediately put it on.
+
+Appraise has reached level 7.
+
+Oh, fine. Guess I must have been really close to another level. At least she was using her skill for something useful instead of scoping out things to steal.
+
+***
+
+Name: MalikaRace: HumanTitles: Street RatActive Buffs: Perfect Body, Soul Armor, Enlightened EvasionClass: Soul Monk – level 11- Martial Artist – level 9- Soul Strike – level 10- Healing Mantra – level 6- Perfect Body – level 8- Soul Armor – level 7- Enlightened Evasion – level 8- Divine Step – level 1- [Locked]- [Locked]- [Locked]General Skills- Meditation – level 4- Dancing – level 4- Calligraphy – level 3- Lockpicking – level 5- Appraise – level 7Aptitudes- Languages: Common- Bloodline (Ahn Khen): Dormant- Mana (Affinity): Soul- Relentless (Class): +100% to Stamina Regeneration- Relentless (Class): You can pay for any abilities with stamina instead of manaAttributes- Vitality: 25- Strength: 10- Endurance: 42 (+14)- Dexterity: 78 (+26)- Perception: 12- Intelligence: 15- Wisdom: 57 (+19)Armor: 49Physical Damage Reduction: 13.72%Evasion: 56Dodge: 15.38%Health: 250/250Stamina: 378/420 (42 Reserved)Mana: 399/570 (171 Reserved)

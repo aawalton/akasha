@@ -1,0 +1,269 @@
+---
+id: b92cf593-06cb-5ed0-9f04-75781491bbcb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 122: Elder Tree"
+slug: 0123-chapter-122-elder-tree
+partOf: dungeon-of-knowledge-complete
+position: 123
+ownLength: 4955
+unit: words
+ownProgress: 4955
+publishedAt: 2024-08-27
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1776555/chapter-122-elder-tree"
+royalRoadId: "1776555"
+markedReadAt: "2026-06-29T20:15:11.884Z"
+---
+
+The mood upon the glowing, golden barrier disk grew increasingly quieter and more somber as Ali flew them northward, tracing the burnished silver ribbon of the Myrin River by the dying embers of the setting sun. Ali shivered and huddled a little closer to Lira, a vain attempt to shield herself from the biting chill of the wind, and cast yet another worried glance at Malika and Mato. They sat together, as far as they could get from everyone else on the crowded barrier disk, trying to avoid infecting anyone with the blight festering within their bodies.
+
+How are we going to get in? Will Eliyen even help us? What if the elixir doesn’t work? Will the Town Watch find us?
+
+Ali’s thoughts churned endlessly, her mind refusing to give her any rest. She had tried using two barriers to ferry everyone back – a way to separate Mato and Malika from the others – but she had found she didn’t quite have the carrying capacity in that configuration. What should we do? she thought, feeling overwhelmed. The Necromancer was coming for Myrin’s Keep – and he was bringing a tsunami of blight and undead with him. Her friends were blighted, and they all were unwelcome outlaws in town.
+
+“Take care of the things right in front of you first.” Her father’s words sprang to mind, a memory from long ago – a different world. She had been struggling with a new project at the time, battling with stress over the deadlines, and feeling overwhelmed by the sheer complexity of the task. He had not understood her research when she tried explaining it to him – only her mom had that kind of experience – but that hadn’t mattered to him. He had told her to focus on the parts of the problem she could see, to take care of the things she knew how to do first, and then the task would get smaller, and the path forward would become clearer. Then, he had hugged her and told her he was proud of her.
+
+She could almost feel that hug. Almost, after all this time… Small steps to scale a mountain, she thought. Thanks, Dad.
+
+The first, and most pressing task was to get back to town and find a cure for the blight so that Mato and Malika did not die.
+
+And then, we must help Lira. She glanced at her sitting quietly beside her on the flying magical barrier clutching her precious acorns. Their quest had technically been successful, but five tiny acorns were all that was left of the magnificence of the Lirasian Forest, and Lira’s home. Although she wore a smile, Ali felt sad for her. She’s lost everything. The problems with the Town Watch, what to do about her class, and the fact that they’d all been branded as outlaws could wait for now.
+
+When she finally made out the stark gray of the looming battlements protecting Myrin’s Keep by the draconic eyes of her minions, it was fully dark, a clear night with a brilliant moon. The stars twinkled down upon the world, oblivious to the worries that swirled endlessly in Ali’s brain.
+
+“Let’s circle around,” Calen suggested, pointing to the northwest. “There should be fewer sentries away from the Torian border.”
+
+“Ok,” Ali said, nodding, knowing Calen’s sharp eyes would pick out the gesture easily even in the darkness. She flew them past the walls, keeping a healthy distance to conceal the glow of her magic from observant eyes, before looping back around and approaching the town from the angle Calen suggested. She put them down in a small mountain pass and banished her glowing barrier.
+
+“No more light,” Calen whispered. “Follow me.”
+
+They followed Calen on foot as he led them down the mountain, sneaking into the town near the blacksmith quarters where there were neither battlements nor obvious guards. Ali held Lira’s hand, trying to step and breathe quietly as they wound their way through dark and dirty alleyways, relying on Calen’s eyes to keep them safe from muggers, assassins, and potholes – Ali grinned at her own thought. Silly. She kept cycling through the eyes of her minions – the Kobolds and tiny dragonets, adapted for hunting in the dark – as she maintained her vigilance.
+
+But no thugs sprang from the shadows to attack them, nor did they encounter a single soul, reaching their destination in good time. Despite the late hour, a light shone from the window at Eliyen’s home, and so they approached and knocked on the door.
+
+“Oh, hi Aliandra, you’re visiting rather late,” Eliyen greeted her. “Come on in, it’s cold out.”
+
+“Thank you,” Ali answered, so relieved by her friendly greeting, her knees almost buckled, and she had to catch her balance against the doorpost. Had they not heard? She entered the house with her friends, but as soon as Lira stepped across the threshold, Eliyen’s eyes grew wide as saucers, and she scrambled to bow low to the ground.
+
+“Great Mother of the Deep Woods,” she whispered in Elvish, her shaky voice filled with awe and reverence. “I… apologize for my humble home. If I had but a little foreknowledge of your visit, I would have made better arrangements.”
+
+“Nonsense, child, please raise your eyes,” Lira answered, smiling at the aging Wood Elf. “Your garden is beautiful.”
+
+“I… oh… thank you,” Eliyen stammered, her cheeks flushed from Lira’s compliment. She lifted her head and smoothed her dress with her palms. “May I ask what I can do for you at such an hour?” She glanced at each of them, hesitating when she saw Mato and Malika hanging back by the door.
+
+“They contracted the undead blight,” Ali explained. “Would your elixirs be able to cure them?”
+
+“Yes, of course,” she answered. “But I’m out of Living Essence. I’m sorry, it’s quite difficult to acquire, and the merchant caravan from Southport has been delayed.”
+
+“Here,” Malika said, retrieving a couple of essences from her storage and placing them on the table.
+
+“I only need a fraction for each potion,” Eliyen said. “This is too much.”
+
+“I think you’re going to need the rest pretty soon after what we saw today,” Ali said. Certainly, the blight had cut a large swathe across the entire kingdom from where Lira had said she was captured to the boundary just south of Myrin’s Keep.
+
+Eliyen’s eyebrows arched in wordless query at Ali’s grim tone.
+
+“Yes, keep it for now,” Malika answered, and added, “We can settle up later.” She proceeded to explain what they had seen on their trip to the south while Eliyen summoned Basil, readied her tools, and wielded her magic.
+
+Basil… Ali glanced over at the earnest boy helping Eliyen. She was happy to see he had earned a few more levels and seemed to have unblocked his class growth. But it was her experience with her wildflower garden – now ashes – that she recalled. Basil had a unique class, as far as she knew, and he had been able to germinate the flowers in her domain, somehow using her domain magic to accelerate the process greatly.
+
+Eliyen carefully measured out several vials of the glowing green Elixir of Vitality Rejuvenation, and she handed one each to Mato and Malika, instructing Basil to store the rest for later.
+
+“May I see the acorns?” Eliyen had the air of someone not knowing if what she was asking would be terribly offensive, and yet couldn’t help herself out of sheer burning curiosity.
+
+Lira tentatively opened her hands, showing her treasure. Five acorns nestled on her palms, each of them with a brilliant green kernel of potent mana inside each.
+
+“You can restore your domain with just these?” Eliyen asked, obviously unwilling to touch something so precious to the ancient Dryad.
+
+“It will take several hundred years, but yes,” Lira said, looking at her acorns.
+
+“Why so long? Can’t you just grow them with your magic?” Mato asked. He was already looking better, the ugly black knots of death magic dissipating from his body as the potent elixir did its work.
+
+“For a normal tree, yes, and if I were still strong enough,” Lira answered. She had a kind, gentle look on her face and smiled at Mato the way Ali remembered her mother had smiled at her when she was explaining things to her as a child. “But these trees will create my domain and grow attached to my domain. If I draw the amount of mana required to grow them, I will starve them. It is best to let them germinate naturally and wait.”
+
+“I have a different suggestion,” Ali said. She admired Lira’s patience, but she wasn’t about to let her spend centuries to recover if there was a more efficient solution sitting right here in the room. She paused, suddenly a little uncomfortable to have everyone’s attention.
+
+“Basil has a skill that can use my domain magic to germinate plants,” Ali continued. Indeed, his skill had gently woven her domain mana into the wildflowers, linking them to her domain and using its mana to germinate and grow them. “If we germinate the acorns in my domain, can you use your mana to accelerate their growth and then claim them afterward like you claimed the oak?”
+
+“I… well, I never imagined… can you truly do this, young man?” Lira asked, staring intently at Basil, making him shift uncomfortably in his seat.
+
+“Y… yes, my lady,” he answered, clearly not knowing how to address the ancient Dryad, but he rallied, collecting his emotions, and continued. “I can bring some regular seeds and demonstrate the process for you before you decide to trust me with one of your acorns.”
+
+“What is your name, boy?” Lira asked, relaxing visibly at Basil’s suggestion. Ali had to admire how perceptive he had been, Lira clearly did not want to take any risks with the only acorns she had.
+
+“Basil, my lady,” he answered.
+
+“You may call me Lira,” she told him, including Eliyen in her gaze. “I do not hold much stock in titles unless they are necessary.”
+
+***
+
+Ali watched curiously as Basil knelt in the dirt beside Lira’s claimed oak. She was not the only one, Eliyen and Lira both stood quietly in the dim light of the wisps in the cavern above the Grand Library staring with rapt attention as the boy gently planted the seeds in the ground and began to weave his subtle magic.
+
+Her Arcane Insight had grown substantially since the first time she had watched him plant flowers in her domain, and this time she could see the tiny ribbons of his nature mana reaching out, nudging the powerful magic of the two synergized and interwoven domains – hers and Lira’s – into the ground and the seeds he had planted. It was a subtle magic, influencing, encouraging, rather than forceful, and slowly she saw the flows open, and small leaves breaking through the ground.
+
+“Beautiful,” Lira exclaimed, clapping her hands excitedly, and then her mana surged, and the plants Basil had germinated stretched, elongated, and thrust out from the soil, opening into a beautiful patch of blooming Mystic Bluebells.
+
+Lira walked up to him and offered him a single acorn, her hand trembling visibly as he reached for it. The acorns were clearly worth more than life to her, and Ali couldn’t imagine how hard it must have been for her to let one go. But Basil demonstrated his perceptive nature once more, treating the acorn with as much respect and care as Lira had done.
+
+Gently, he placed it in a hole near the edge of Ali and Lira’s merged domains and summoned his magic, bending the structure subtly to germinate life. Beneath the soil, the kernel of nature mana within the acorn flickered as Basil’s skill connected the domain mana to it, and Lira gasped. But the flicker grew, shining brighter and brighter as it fed on the mana Basil offered and he coaxed it to grow. The mana stretched and swelled upward, and the soil broke as a tiny stem emerged, and a pair of leaves opened toward the cavern roof.
+
+Ali’s notification chime sounded, and her Grimoire manifested by itself, glowing quietly, receptive and waiting.
+
+Variant completed, but the imprint is full. Make space or select a new chapter.
+
+She winced at the sudden weight nestled behind her eyes. She had expected this, based on how she had learned the wildflowers from Basil germinating them in her domain, but she hadn’t been certain it would work with the acorns. Whatever magic was required to grow the Lirasian Oak seedling was vast, and her Grimoire required more space. Fortunately, her destructive jaunt through the jungle had earned her several new skill levels for her Grimoire of Summoning, so she selected an open chapter and watched intently, heart throbbing against the base of her throat as the book rearranged itself to merge the new chapter in.
+
+Variant: Lirasian Oak added to Imprint: Tree.
+
+Yes! It worked! A bright surge of mana drew her attention to Lira, and she watched in fascination as the Dryad magic drew heavily from her domain, causing it to dim noticeably as the mana poured into the tiny seedling.
+
+“Step back just a bit, dear,” Lira instructed, and Basil quickly took two steps away from the oak seedling. For a moment, nothing happened, but suddenly the seedling exploded into rapid growth, leaves appeared, and the stem thickened and stretched, reaching upward as it grew, one meter, then two, and surged beyond. Ali’s Grimoire responded in a sympathetic frenzy of magic, thousands upon thousands of tiny magical runes forming and inscribing themselves upon rapidly manifesting new pages.
+
+She gasped softly and bit her lip. It had never reacted like this before.
+
+And still, Lira channeled her magic, growing the tree larger and larger, until it towered vastly larger than the white oak Ali had gifted her. When she finally stopped, Lira’s domain was a dimly glowing shadow of its former brilliance, but the tree towered up into the air, matching the enormous trunks that held up the cavern but filled with life instead of blackened and dead.
+
+Lirasian Oak – Tree – level 37 (Nature)
+
+Ali could feel the giant tree drawing heavily from her domain mana, drawing it up into the trunk in a powerful torrent that fed the brilliantly shining core of green within it. As she watched, the mana grew brighter and brighter, shooting up through the branches and out of the leaves as the tree established itself as part of her domain, pulsing with vitality and life. Within just a few minutes, the tree began emitting an enormous amount of nature affinity mana feeding back into the domains, and reinforcing them as Lira’s domain recovered its power, now vastly expanded in size by the tree.
+
+She braced herself against the anticipated dungeon-rage as the domain bloomed outward, but the structure of her domain adapted to Lira’s automatically, as if acting out her intent without her needing to force it, riding the wave of new nature affinity mana gushing from the oak. So much so, in fact, that her domain began to shift out of balance. Quickly, she paged through her Grimoire and summoned several Spore Spreaders, sending them out to plant her arcane Glowcap mushrooms. She would need so many of them to supplement the vast influx of nature mana and provide the matching arcane she needed for her domain’s structure.
+
+“Come on, Basil,” Lira cried, taking his hand and leading him out to a new spot like an excited child showing a friend a new discovery. She handed him a second acorn and suggested a new spot for the second tree, sufficiently far from the first, but close enough to be supported by the expanded domain mana. Suddenly, she raised his right hand to her lips and kissed his knuckles. “These hands! Basil – thank you, thank you, thank you!”
+
+Ali smiled, deeply moved to see Lira’s joy.
+
+For his part, Basil turned as pink as a freshly blooming rose, spluttering. “My… p-p-pleasure!”
+
+***
+
+“You must cultivate this boy’s magic,” Lira said, walking beside Eliyen as Ali led them all down the stairs into the library. “I see your mana with him, and as his mentor, you should know that his skill is extraordinary.”
+
+Still somewhat awkward around the Dryad, Eliyen nodded, cautiously attentive, but she seemed to be justifiably proud of her protégé who had just helped Lira secure her domain and forest with five enormous magical oak trees. The last five in existence. Basil, for his part, had excitedly shared that he had gained three class levels for his efforts.
+
+Ali continued descending the stairs past the first floor and onward down to the bottom, the kernel of an idea that had come to her when her Grimoire first recorded the Lirasian Oak slowly solidifying in her mind. Her friends intuited something was up when she passed the landing for the first level, but thoughtfully chose not to disturb her contemplation.
+
+When she reached the bottom level, she left Lira chatting away with Eliyen and stepped into the center of the atrium, glancing upward at the floating barrier lights she had placed so far above. Lira was explaining to the Wood Elf that she intended to wait for the oaks to produce new acorns, and then she would slowly expand the forest one tree at a time, provided Ali allowed her the space to do so.
+
+She’s so considerate, Ali thought, not surprised to hear that Lira would limit herself just so that she was not a burden. But this was the core of Ali’s surprise for her. She wanted to do something for Lira, to show her that she no longer needed to suffer the way she had when they landed in the middle of the blighted forest.
+
+Just about right, she thought, gauging the height, and comparing it to the size of the oaks Lira had grown above. The trunks were about six meters in diameter, so she wielded her Domain Mastery, pulverizing the flagstones where the bone spire had once stood, making a circle large enough to accommodate the tree, punching through the library foundations and into the rocky ground beneath.
+
+Opening her Grimoire, she began to wield her magic. Her mana flowed into the imprint of the oak tree, causing her book to flare with the light of her green and gold mana. Glowing runes floated up off the pages as her book rapidly riffled through them, forming a dense cascade of light and magic that poured into the area she had prepared. The large imprint drew heavily from her mana pool, and she was grateful for the substantial increase to her pool that she had earned for adding the five trees above to her domain.
+
+As the runes built the structure of the tree, shooting up into the spacious atrium, a hush fell over the library. Ali was aware that everyone was looking at her, but she concentrated, keeping her focus on her magic as the structure branched out across the different levels of the library, reaching upward the full hundred meters to almost reach the roof. With a final rush of mana, her giant summoning completed, and the oak snapped into existence, fully formed.
+
+Ali stared upward at the huge boughs and distant canopy that spread out across the top level of the library in amazement. While it was her magic, the enormous tree dwarfed the scale of anything she had yet accomplished.
+
+Lirasian Oak – Tree – level 38 (Nature)
+
+Within the oak, she could already see the giant torrent of nature mana surging upward to join with her domain.
+
+Lira gasped beside her; her eyes fixed on the enormous tree. “You didn’t tell me you could make them,” she said her voice hushed.
+
+“My Grimoire can learn anything Basil grows in my domain. That’s at least part of the reason I asked him to help,” Ali admitted. She didn’t know any other herbalists besides Eliyen and Basil, but what she said was still true. She had hoped his magic would do the same thing it did with the wildflowers. And now she could grow Lira a proper forest.
+
+“Thank you, Aliandra. And all of you,” Lira said, still captivated by the new tree filling the center of the ancient library. “You have saved what I feared had been lost forever.” She reached out to lay a hand reverently on the bark of the tree and studied Ali with a complex expression filling her eyes.
+
+“May I?”
+
+“Go ahead,” Ali answered, knowing that she would just fix the domain structure if they collided again.
+
+Immediately, a dense kernel of mana ignited in her core, like the acorns, only vastly more powerful. Her mana shot through her arm and into the tree, and she simply walked forward, her body naturally and seamlessly merging into the bark as her mana erupted into the center of the trunk.
+
+Ali braced herself, but once again, her mana seemed to know how to adjust to Lira now, and there was not even the slightest hint of pain or dungeon-rage.
+
+A vast torrent of mana poured down from the trees in the cavern above, merging with Lira’s rising mana within the giant oak, glowing intensely as their two domains once again overlapped with synergistic energy. As the pillar of mana filled the tree, it began to grow. Already huge, the trunk widened rapidly as roots buckled and bent the flagstones, causing them to crack and splinter with loud reports before the tree crushed them and the burgeoning roots forced them aside. The branches spread wider into the spaces between the library floors and the canopy pressed up against the rock of the ceiling.
+
+Ali’s Grimoire exploded with light and runes as it recorded the growth, flaring with new magic and runes as it filled page after page with inscriptions. She puffed out her cheeks, fighting to remain calm as the tremendous surge of mana raged through her like a silent thunderstorm. Still, Lira’s mana, her very essence, roared within the tree, drawing in all of her domain, and Ali’s domain, darkening the entire surroundings as it concentrated the magic within the oak.
+
+Ali stared in reverential awe at the full power of her aunt’s magic, finally unleashed. With a giant crack the roof above the library shattered, and she hastily summoned several large barriers using the remnants of her available domain mana to protect her friends from the falling boulders and ancient masonry.
+
+The tree exploded up and out of the top of the library and into the cavern above, its branches broadening and expanding till the canopy brushed up against the cavern roof over two hundred meters above. When it finally ceased growing, the base of the tree must have measured more than twenty meters in diameter, with thick roots cracking through the stone floor all around.
+
+A sudden flash left Ali blinking as the mana concentrated within the tree exploded outward, establishing a pulsing zone of both domains that easily encompassed the entirety of the Grand Library Arcana, and surely well beyond the walls and roof in all directions.
+
+Ali was speechless. This was the biggest tree she had ever seen; bigger even than she could have imagined. And even more stunning was seeing the scale and power of Lira’s magic.
+
+“I think I got a little carried away,” Lira said, grinning with childlike joy as she emerged from the trunk, alighting on the ruined stone floor.
+
+As her foot touched the stone, a vast gong-like sound echoed through her mind and through the entire library, she realized belatedly, vibrating the very stone. It was a sound Ali had heard only a handful of times in her life.
+
+[Zone] Lirasian Oak has advanced to the second tier.
+
+“What was that?” Basil breathed, clearly having heard the notification too.
+
+“That’s what happens when something reaches their class or species evolution,” Eliyen explained, but the calm in her voice was in stark counterpoint to the astonishment on her face.
+
+Ali let out her held breath, grateful that this time the gong heralded good news.
+
+Variant completed, but the imprint is full. Make space or select a new chapter.
+
+Again? Without hesitation, Ali selected a second chapter, and her Grimoire continued recording the extraordinary tree that stood majestically before her.
+
+Lirasian Oak – Elder Tree – level ??? (Nature)
+
+“It’s a three mark!” Calen exclaimed.
+
+“When Thovir Emberforge reached his class evolution down in the forge, the entire city of Dal’mohra heard the notification. The celebrations lasted more than a week,” Ali said, deliberately choosing a happier story. The last time she had heard the gong had been the moment of her mother’s passing.
+
+“Wow,” Malika and Mato said together.
+
+Looking for something to do – to take her mind off her melancholy – Ali turned her attention to the broken and shattered stone around the tree and the rubble that had fallen from the roof.
+
+It’s all in my domain, so…
+
+She made the rock flow and stretch, creating a neat, low circular stone retainer wall around the base of the mighty trunk, wider than the tree, suitable for sitting on. She filled the space around the tree roots with blue mana grass and a few golden mushrooms and then finally dissolved the remaining rubble.
+
+“That looks nice and clean,” Mato said, grinning his approval.
+
+“Thanks, can’t have rubble in a library,” Ali said, even though there were still tons of piles of bone everywhere. As she finished her work and stepped back, the erratic green glow of a tiny nature wisp floated into the library through the doorway from the jungle cavern. It hovered momentarily, appearing almost shy, and then darted forward to circle the enormous tree, spiraling upwards and disappearing into the branches above. As she lost sight of it, another wisp floated into the library. And then another.
+
+“Look,” Ali whispered, hoping not to spook the skittish wisps.
+
+“That’s a good omen,” Eliyen smiled.
+
+“They like your mana,” Lira laughed.
+
+“Mine? Yours?”
+
+“Does it matter?”
+
+As they chuckled together, Mato’s eyes darted back and forth between them as if startled by their sudden synchronization.
+
+Ali continued to watch the mesmerizing parade for several minutes. While it was never more than one or two at a time, the wisps kept floating by, drawn in by the density of the mana the tree was emitting. And it was still growing stronger. Eventually, she tore her gaze from the beautiful mana creatures.
+
+“Ok,” Ali said. “Time to finish the cavern.” She created a barrier and stepped on it, and then looked at Lira. “Would you like to come with me?”
+
+“What do you mean?”
+
+“I want to fill the cavern above with these,” she pointed at the giant tree. “Though perhaps not quite as big. I’m sure you could use more than just one.”
+
+“You would share that much space with me?”
+
+“Is that even a question? Of course,” she said with a grin. “Let’s go!”
+
+After removing the shattered stone roof of the library, Ali spent the next few hours filling the cavern with trees. The giant Lirasian Oaks formed the upper canopy of her forest, with the regular varieties spread out to form a middle canopy. For the ground, she created several of her jungle creatures and released them into the area with orders to grow their plants. Once finished, the entire cavern was lit from above by the soft glow of the magical oak leaves, lending it a mystical green ambiance.
+
+Appropriate for a Dryad’s home. It was not her familiar Grove, and she missed her shrine, but with this domain, Lira would have a home, and she had restored her mana.
+
+Ali admired both the look of the forest, created with lots of insight and advice from Lira, and the rapidly accumulating mana that formed her domain. It’s a lot denser now with Lira’s presence. Will it be enough? What if the blight comes here?
+
+She shivered.
+
+Alexander frowned, studying the impossible notification as the sonorous gong sound slowly faded.
+
+[Zone] Lirasian Oak has advanced to the second tier.
+
+This must be her doing. “Gah!” he yelled, punching one of his skeletons in frustration. “How is she still alive?” He had been certain that the wretched Dryad had succumbed to his blight. There was no way the adventurers he had seen were strong enough to heal it, and he had been looking forward to seeing the mayhem she would wreak on the miserable hovel of Myrin’s Keep when she reanimated as a three-mark zombie.
+
+But the notification clearly said ‘Lirasian Oak’. It had to have been her doing, however unlikely, and his plan to walk into a nicely decimated town now lay in tatters.
+
+Oh well, I’ll just have to destroy the whole thing myself. But not until I get my hands on that dungeon, he reminded himself. Taking the town would be for his personal enjoyment, but he must have the dungeon first. Nevyn Eld was not one to tolerate failure.
+
+He had time, it was still a couple of days’ journey to Myrin’s Keep, and his blight and undead army was sure to be unstoppable.
+
+Slowly, his hands clenched into fists, and he hissed, “Just wait, Myrin’s Keep. The reaper is coming for you all.” With his blight at his back, the city was sure to fall – and with that many new corpses at his disposal, he would put down that Dryad once and for all and take the dungeon as his prize.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

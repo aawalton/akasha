@@ -1,0 +1,371 @@
+---
+id: 5d0561bb-0ed5-55bb-ae2b-98eb661e210f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 121: Lira’s Request"
+slug: 0122-chapter-121-lira-s-request
+partOf: dungeon-of-knowledge-complete
+position: 122
+ownLength: 6798
+unit: words
+ownProgress: 6798
+publishedAt: 2024-08-25
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1773666/chapter-121-liras-request"
+royalRoadId: "1773666"
+markedReadAt: "2026-06-29T20:15:09.565Z"
+---
+
+“Can you tell us what happened to you?” Ali asked, glancing at Lira who somehow managed to make sitting on a rough chunk of bone-encrusted rock in the dark and dusty forgotten library look effortlessly elegant, sipping on the tea Mato had brewed.
+
+She sighed, “It’s… embarrassing.”
+
+“It’s ok if you’d rather not.”
+
+“No, it’s better that you know, for I have a favor to ask of you after,” Lira answered. “You must understand, all my friends perished in the destruction of Dal’mohra and the disaster that followed. I saw it, Aliandra; the army of the dead pouring from the city for days and laying waste to everything in its path. All fled or were crushed under his heels. Every person that his monsters slew was raised to serve the Blind Lich in undeath, feeding his power. Even the Council of Kings was turned. Artur Dragonsworn and Bragni Doomhammer were unleashed upon the world as Death Knights – generals to command his armies – and Thaldorien Stormshaper was raised as a wraith of terrifying power.”
+
+“I know, I met them,” Ali whispered, shivering at the icy chill and dread of their auras as if the mere memory were enough to summon them. She had looked up to them, powerful icons of honor, duty, justice, and the pursuit of knowledge. The Blind Lich had swept them aside in an instant.
+
+“It is perhaps a blessing that you did not have to endure what happened next,” Lira said, her eyes taking on a distant look of pain. “The Lich buried the ruins of Dal’mohra by dropping the mountain on it. His forces spread out, blackening the lands, sowing blight and death to whatever they touched.”
+
+So that’s what happened… She had witnessed the beginning of those terrible events from within her mother’s stasis spell – the mountain crashing down on her and burying everything she knew.
+
+“Are you talking about the Necromancer Wars?” Calen asked.
+
+“Yes,” Lira answered. “For a time, it seemed that the forces of the living would prevail. When the Elves joined the Human kings, and the Dwarves descended from their mountain holds, the undead army’s advance ground to a standstill.”
+
+“What happened then?” Ali asked, with the intensity and fixation of a person watching an avalanche roaring down the mountainside toward her.
+
+“Somehow, he turned the great frost dragon, Kryostria,” Lira said.
+
+“What?”
+
+“He did not defeat her,” Lira said, her mouth twisting into a sharp line. “I know not what transpired, but she appeared above the battlefield one day, a withered shadow of her former vitality. A horror known as a Dracolich. I was not present, so I am guessing, but he must have used her to access a rift to the shattered realms beyond this one. Her appearance on the battlefield heralded a horde of Dragonkin that pushed the forces of men, elves, and dwarves back to the northern seas.”
+
+“How did they stop him?” Calen asked, breathless.
+
+“For the first, and only time in history, the mighty Troll kingdoms put aside their pride and banded together to aid the forces of the living,” Lira answered. “With the trolls taking the field, the tide of undead and Dragonkin was forced to a standstill again. But then, the Lich did something that changed the course of history forever. I felt the eldritch twisted magic that claimed Mi’ir Valdanis and swallowed it up. It rippled across the world like a horrific tainted nightmare, and when everyone woke, the Night Elf city was gone.”
+
+“It swallowed up the whole city?” Ali gasped.
+
+“And most of the Night Elves,” Lira said. “It was only the sacrifice of the Sun Elves that finally broke the Lich’s armies. Once the Blind Lich claimed Mi’ir Valdanis, he freed up his forces to press Aalion, driving the living back through the Thousand Celestial Peaks to the walls of the City of Light. Aliandra, I heard the explosion from half a continent away. Many believe it was foul magic wrought by the Lich, but I believe it was a spell wrought by the Sun Elf archmages, a last-ditch attempt to deny him his prize. Whichever it may have been, Aalion vanished, along with the Thousand Celestial Peaks, and the world was forever reshaped in the aftermath. Nevyn Eld and his armies were destroyed that day, and he was forced to resurrect via his Phylactery.”
+
+“Holy shit,” Mato breathed.
+
+“The Night Elves and Sun Elves suffered a grievous blow from which they have never recovered,” Lira added.
+
+“Why didn’t he return and take over the world then?” Ali asked. “If he could resurrect after everyone died…”
+
+“You must understand the mind of the Blind Lich, Aliandra,” Lira said, gazing at her intently. “Would a man strive to rule a kingdom of ants? Nevyn Eld does not care for rule – he cares only for personal power. Whatever he sought from Mi’ir Valdanis, he got it. And his prize in Aalion was forever denied to him. Even to this day, he still presses the Wood Elves and Ciradyl with his Shadow Council minions, but I believe he has turned his gaze to other realms to fuel his hunger for artifacts of power and new magic to fuel his malign research. It is the only reason we still live; we are beneath his gaze.”
+
+“That’s… awful,” Ali murmured, her mind recoiling from the horror of Lira’s story. The Breaking of the World. A horror so great that the destruction of a city like Ared Culyn did not even warrant a mention. “Ciradyl… still stands?”
+
+“Yes,” Lira answered. “The mythic Well of Souls still wards their city with its inscrutable magic.”
+
+“Also, the Elven Pathfinder Guild is based in Ciradyl, and Lyeneru Silverleaf works tirelessly to track the Lich’s Shadow Council forces,” Calen said.
+
+So much has changed. Barely anything she remembered was the same. Her thoughts returning to Lira, Ali asked, “How did you survive such devastation?”
+
+“Much of my forest domain was destroyed in the march of the dead and the subsequent Breaking, leaving me greatly weakened. My magic is not suited for battle, as you well know, and the nurturing and growing of things is antithetical to the very nature of necromancy. I was not a target for the Lich, and the undead armies bypassed me, leaving me with no more than a small stand of trees to the south. It took centuries for me to recover what you refer to as the Lirasian Forest, and afterward, I remained reclusive, choosing to live apart from the affairs of the world.”
+
+“I wallowed in my loneliness for thousands of years, content to drive everyone from my forest and enforce my fragile little illusion of peace,” Lira said, but her face twisted and her eyes hardened. “Then the Necromancer came. Alexander Gray.”
+
+“How did he prevail?” Ali asked. After all, her aunt was a three-mark being. Even without combat spells, she should have been far more powerful than anything Ali had encountered so far in this age.
+
+“Using a devious disguise artifact and honeyed words, he wooed me, and, in my loneliness, I allowed him into my heart,” Lira said. “He appeared to me as a Druid and even faked his mana affinity and the ability to cast nature magic. Then he cursed me. An evil concoction tainted by death and eldritch magics, inflicting Mana Severance and Nightmare Slumber upon me, a curse designed to block my connection to my domain.”
+
+“How could he know how to do that?” Ali asked.
+
+“The necromancer is but a pawn in the service of the Blind Lich. I am certain it was his master’s hand that crafted the curse.”
+
+“And now?” Ali gasped. A curse from the Blind Lich was dire news, but she couldn’t see any signs of the magic upon her.
+
+“The curse is broken now that I have regained a small domain,” Lira said.
+
+“Good,” Mato said, clenching a fist.
+
+Lira nodded her agreement and continued, “When I awoke, Alexander Gray had shed his disguise and cast a blight across the land, destroying my forest and turning all living creatures into the walking dead – skeletons, zombies, and worse. Without my domain, I am nothing – and he knew it.”
+
+“The whole forest?” Calen gasped.
+
+“Undead?” Mato growled.
+
+Ali was horrified. Lira had said the Necromancer had destroyed her forest, but the truth of the story was much more dire. The entire forest and all life within it had been infected by the blight and raised as the undead. Such an unchecked concentration of undead would wreak untold destruction and death upon the entire region.
+
+Lira stared off into the distance for a while. Calen mouthed the name, ‘Alexander Gray’, but Ali noticed he did not write it down. Was the man that powerful? That dangerous? She had rarely seen the half-elf look paler; she couldn’t help but shiver.
+
+Eventually, Ali asked, “Do you want us to help you fight him?”
+
+“No, dear,” she answered. “What I would ask of you is of much greater importance. My forest was the last of my dear children. If we cannot recover a tree or an acorn, I fear they will be lost to the world forever.”
+
+“The Lirasian Oaks?” Mato asked. “The magical trees?”
+
+“Yes, that is how they’re known in the common tongue. It will be an undertaking fraught with danger, but I implore you to take me back to the forest. Protect me from the undead while I search. There is no time to wait to regain my mana – I fear it may already be too late, but I cannot rest until I see for myself,” Lira said, anguish written in the lines of her face.
+
+“I will help you,” Ali answered without hesitation.
+
+“Are you sure, child? It is certain to be dangerous.”
+
+“I’m sure,” Ali answered. If they found a few intact trees, she could add the imprint to her Grimoire and then summon them when they returned. She ignored the fact that she would have to convince the distraught Dryad to let her destroy perfectly good trees to make that plan work. A problem for later. “I have a few good friends I can ask for help, and it might be good for us to get away from the city for a while, right?”
+
+“You’re right, Ali,” Mato said instantly. “I’m in.”
+
+“Same,” Calen added.
+
+“Me too,” said Malika.
+
+***
+
+Ali held Lira’s hand tight as she followed her friends through the winding tunnel and out to the mountain pass above the town. She blinked against the sudden brightness of the early morning sunlight and took a deep breath of fresh air. Lira’s hand trembled a little in hers as if she were nervous for what was to come, and Ali knew it had nothing to do with the flight.
+
+She checked to make certain her Kobold mage and Acolyte were both within range of her Empowered Summoner. She wasn’t certain she could carry much more weight, so she was restricting herself to just one healer, and the mage to boost her intelligence. The only other minions she was bringing were three Poison Wyverns for extra firepower that she wouldn’t need to carry, and a flight of Luminous Dragonets in case she needed additional small portable eyes.
+
+She channeled her mana, summoning the largest barrier disk she could manage, immediately surprised by the sheer volume of magic she could now wield – and how much easier the control came to her. Even though she was simply making a disk, her sense of control over the shape of her creation was unparalleled. The rapid levels she had gained made a surprising difference.
+
+“Ok, everyone on,” she said, stepping onto the barrier and sitting in the middle while the others clambered onto her hovering disk. She could sense the weight of it, but with her empowered control, it would be manageable.
+
+“You good, Ali?” Malika asked. When Ali had expressed some concern about being able to carry everyone, Malika had suggested she could reduce the load by running in the air, but it would consume her stamina quickly.
+
+“Yes, this is ok,” Ali said, somewhat surprised to find that it was true. “Arcane Recall has really improved my Barrier spell.”
+
+“By how much?” Calen asked, his curiosity written clearly on his face.
+
+“A twenty-five percent improvement to power and control,” Ali answered, sharing her current skill description with them, getting a low, impressed whistle from the half-elf.
+
+Arcane Recall – level 5You are proficient with Arcane magic. You gain +25% [skill x 5] to spell power, spell haste, mana control, and mental reaction speed with Arcane magic.Mana: Ignore the recharge for any Magic skill, spell, or triggered ability. Your magic is cast instantly. Recharge: 24 hours.Arcane, Metamagic, Mastery, Intelligence
+
+“I remember that one, that’s a good skill,” he said. “What did you have to give up for it?”
+
+“Arcane Bolt,” Ali answered. It was a steep cost, and she was still not quite sure how she would manage it during future fights, but the skill she had gained in its place was impressive. For her instant Barrier magic, spell haste made no difference, but the spell power improved the amount of barrier magic she could wield, and the control increased her ability to move or shape it – which included the amount of weight she could lift. In combination with her intelligence boost from Empowered Summoner and her Kobold mage, she was lifting all five of them and two Kobold minions on a five-meter diameter disk.
+
+And I’m not even using my domain mana to boost it.
+
+“You still have mages, archers, and shamans to fight with,” Calen said, nodding as he arrived at the same conclusion Ali had.
+
+“Maybe you can get an offensive option later?” Malika mused.
+
+“Yep, we’re going to miss your buzzing arcane mosquitos,” Mato chuckled. Ali made a face at him, but he was undeterred. “Wasn’t that what it was called, right, Calen? Minor Mosquito Barrage. Plus five to enemies getting no sleep. Bzzt.”
+
+“Don’t drag me into this,” Calen said, shaking his head.
+
+She levitated them all into the air and then flew off in a southerly direction, carefully skirting the town in case there was anyone with long-range defenses on the lookout. She sped up gradually until she found a comfortable cruising speed, taking joy in the experience of flying in the morning sunshine, tracking the Myrin River as they headed south. Malika and Calen occasionally ventured off on their own using their movement skills, returning when they needed to recover their mana.
+
+Ali’s upbeat mood vanished after several hours of flight. As they began to reach the outlying farmland, the very land itself began to look sick. Everywhere the eye fell, plants were blackened or wilted, and occasionally low-lying areas were filled with a mist that glowed ominously with death-affinity mana. The miasma rapidly worsened as they flew on.
+
+By the time they approached the tree line, everyone was staring at the unbelievable scope of the disaster unfolding below. Everything they flew over lay dead or dying.
+
+“This is horrible…” Malika said quietly.
+
+“It’s a crime against nature,” Mato answered.
+
+“Look over there,” Calen pointed. “A village. Or what’s left of it.”
+
+Ali spied a few small buildings far below. Quickly she switched to her closest dragon, taking advantage of its acute eyesight, but she immediately wished she hadn’t. What was left of the crude town was mired in patches of ominous mist, but not all was still. The town crawled with skeletons.
+
+“We should find the trees we can save, quickly,” Lira urged, leaning forward on the barrier to get a better look.
+
+What trees? Ali chose not to voice the thought, but it was clear the others felt similarly. As far as she could see, the entire forest was blighted. None of the trees were green, and many of them were fallen. The ones that still stood had lost most of their leaves, thrusting blackened, bare branches toward the sky like headstones of rusted swords adorning a long-forgotten battlefield. This Alexander Gray was a monster. If he could destroy a forest on this scale…
+
+But the forest was enormous, and Lira seemed so hopeful. Ali skimmed further south, pushing her barrier to fly as fast as was comfortable, while her friends scanned the ground for anything redeemable. Kilometers of forest rolled quickly by with no break in the unrelenting blight and dead trees.
+
+Even from their height, Ali could clearly make out the Lirasian Oaks, or what remained of them, their blackened trunks rising high above the other trees and their bare branches spread wide. They looked just like the dead trunks in her forest cavern, reaching upward for millennia to support the tons of rock and stone that had fallen from the mountain.
+
+“Over there!” Calen called out, pointing down and to their left. “I see green.”
+
+At once, Ali banked to the side and flew off to where Calen had spied life. It was a single enormous oak that stood in splendid, solid majesty atop a hill, spared most of the blight and death. Proudly tall, its boughs spread wide, still filled with green.
+
+“It looks alive,” Mato said, stepping off the barrier as Ali lowered it to the hillside.
+
+“No!” Lira gasped, running toward the tree.
+
+Then Ali suddenly saw it. From the deep roots, the tree drew the black ominous mana into it, infecting the core of the trunk. Already, the blight and dark necromancy sent shooting tendrils up through the viridian green of the tree’s mana, consuming it from the inside out. Helplessly, she watched as leaves began to wilt and blacken, some falling from the tree in the gusty breeze, floating away with the strong odor of rot and decay.
+
+A vast surge of potent nature mana surged from Lira’s hands, pouring into the tree as she struggled to save it. She has this much, even without her forest? Ali thought, staring on in amazement, but through Arcane Insight, she could tell it was an effort in vain – Lira’s mana, much weaker than in her domain, slowed the spread of the hungry black tendrils, but she was powerless to stop it.
+
+“Aunt Lira, please…” Ali begged.
+
+But Lira fought with a desperation that arrested her voice and forced her to watch as Lira spent herself against the relentless tide of the unholy necromantic blight.
+
+“Mato, stop her. Please,” Ali said, finally finding her voice when the tree had lost most of its leaves. Only faint traces of the green nature mana remained, and Lira was in serious danger of becoming infected with the blight again.
+
+“No! No, no, please, no…” Lira wailed as Mato tore her away from the dead tree, his hands gentle and his face so, so sad.
+
+Ali’s heart hung heavy in her breast as she took to the air again, listening quietly to Lira grieve the tree. Her tree. While Ali could not appreciate the connection between a Dryad – a tree spirit – and her trees, she most certainly resonated with the grief in Lira’s defeated posture, her sobbing, and the hand that clutched desperately at her own for what scant comfort she could provide.
+
+“Let’s go further south, around the perimeter,” Calen suggested quietly. “I’ll keep scouting.” With that, he hopped off the barrier held aloft by his bright ephemeral wings, flying higher for a few minutes to get a broader view.
+
+They flew on in silence for almost an hour before Calen pointed in a new direction.
+
+“Maybe try over that way?” he suggested cautiously.
+
+Lira immediately perked up with hope on her face, and Ali was grateful Calen had not acted overly excited. She struggled to see anything alive in the sea of death below. But a few minutes later, she found it. A small stand of several trees around the base of a massive Lirasian Oak, seemingly a tiny outpost of life amid the blight all around.
+
+She lowered their trajectory, swooping down to the tiny oasis of life, alighting on the mossy, unspoiled ground. Lira’s face lit with joy at the sight of the tree, and she was about to leap to the ground when Calen’s bow fired an intensely glowing arrow through the trees.
+
+Whatever he had hit squealed loudly, but like no animal Ali had ever heard.
+
+“Ali, help!” Calen called out. “Nobody get close to it!”
+
+His urgent cry halted Mato mid-shift. Ali forced her bile back down as she caught sight of the abomination. A grotesque, flesh-spider monstrosity scrabbled and crawled across the turf, dragging itself along with three spastically twitching mismatched arms and two legs sewn to a fleshy patchwork body. Several mouths wailed incessantly, belching clouds of black miasma that seemed to cling to the ground and the plants as it passed.
+
+Blighted Patchwork Horror – Undead Abomination – level 36 (Death)
+
+Wherever the miasma struck, death followed. Plants shriveled, wilted, and died in moments. Grass blackened, and the mana of death magic bloomed in a horrifying parody of growth.
+
+At once, Ali targeted it and fired Arcane Bolt – only to find her skill was missing and she had nothing to feed her mana to.
+
+Oh, right, she thought. It would take a while to get used to not having her most trusty combat skill. Instead, she turned her attention to her minions and other skills. “Fire,” Ali commanded, and without any hesitation, she converted all her remaining barrier magic into shards. Shards that were much sharper now with her new enhanced control – and she sent them flying toward the nightmare monster.
+
+“Yes, Ancient Mistress.” For once, her Kobold Fire Mage did not grin with pleasure at her command. With narrowed eyes and clenched teeth, her minion created fire as her shards shot out to pin the monster to the ground.
+
+Ali gritted her teeth, ignoring Lira’s cries of pain as the Fireballs detonated among the trees, grateful that Mato was holding her from running in to try and save everything. Whatever that monster was, it needed to be burnt. Impaling it on her barriers had seemed to only accelerate the billowing clouds of miasma.
+
+Calen’s arrows didn’t stop for a few moments after the chime, and Ali didn’t blame him one bit, but the Blighted Patchwork Horror had worked its evil. As the miasma soaked into the ground, thick ropy tendrils of black death mana shot up through the roots and into the trunks of the trees, as the blight claimed them.
+
+“We should go,” Ali said, reforming her barrier for them.
+
+“No, I can save them,” Lira moaned, beside herself at the sight of the rapidly spreading blight.
+
+“I know you can see the infection,” Ali answered, trying to put as much kindness into her voice as she could. “You will just infect yourself if you touch the miasma.” Ali was certain Lira would not be able to save the trees – she was so much weaker out here than back in her domain. Just the thought of seeing Lira withered and dying to the blight a second time was more than she could bear.
+
+They flew further south, and Ali had to endure Lira’s heart-wrenching sobbing again. It was hard to hear her grief for the trees, but Ali finally understood the reason Lira had asked for their help. She could not be rational in the face of this horror – the destruction of her forest – and Ali was here to stop her from doing something she couldn’t help that would get her killed or worse.
+
+They flew for hours. Every time Calen found something, Lira’s face would light up with renewed hope, only to be crushed by the cruel reality when they inevitably discovered they were way too late to save anything. The day faded to evening and their stops became fewer until they could find no more and even Lira’s hope slumped to despair.
+
+“I think we should go home,” Malika announced, finally putting words to the obvious truth – they had failed to find anything alive in what had once been the largest magical forest on the continent.
+
+The Lirasian Oak is gone. The extinction of the amazing trees, sacrificed on the whim of an evil Necromancer, weighed heavily on Ali’s heart. It was an unfathomable loss to the world, but it was a loss to her personally also. Many of the trees in her father’s Grove had been the towering Lirasian Oaks and she remembered them fondly. Their dead trunks in her old cavern, still standing thousands of years later, were a testament to how much magic they had contained.
+
+With a heavy heart, she turned her barrier toward the north and began flying back toward Myrin’s Keep.
+
+“Aliandra, stop!” Lira’s voice cut through her sadness. “There in the town.” She seemed to be gesticulating animatedly toward the ruined town on the outskirts of the northernmost border of the forest. The town they had passed on the way down – barely visible now in the dimmer evening light.
+
+“I remember. The boy – he had something. He tried to hide it. I have to find it. Please stop?”
+
+Lira seemed to be babbling, but she urgently gripped Ali’s hand as she spoke, so she turned and descended toward the town. Ali wasn’t certain what exactly Lira was talking about, but the day had been extremely traumatic for her, and she was loath to cause more pain by trying to convince her that there was nothing alive down there.
+
+In fact, the entire town seemed to be crawling with undead.
+
+“Are we going to go down into that?” Mato asked with a grimace on his face. It had to be the first time she had heard Mato unexcited about a potential fight, but she felt the same sentiment.
+
+“Please, I beg of you,” Lira pleaded, and Ali’s heart broke to hear her reduced to begging again.
+
+“Can we? Just once more?” Ali asked her friends. It likely would be a fight, but she knew instinctively that she wouldn’t be able to convince Lira that it was another dead end unless she saw it for herself.
+
+“Ok,” Malika said.
+
+Mato grunted unhappily but did not object.
+
+“Over there, Ali,” Calen said, selecting a relatively clear spot in the center to land, and she flew down to let them off.
+
+“Get ready,” Mato said, holding off on his transformation until she had them on the ground, so she didn’t have to carry the extra weight of his Bear Form.
+
+As soon as they landed, a low, creepy moan rose from the dusk-lit ruined village, accompanied by the clacking of bone as zombies and skeletons turned to face them and broke into a shambling rush. Mato charged forward, crashing into the undead with a loud roar, attracting the attention of most of them, while Malika sprang into action collecting the stragglers.
+
+Without a full complement of minions, Ali felt vulnerable, popping her barrier around herself and Lira while she instructed her wyverns and her mage to attack. But Lira was not there.
+
+“Lira!” she cried, but the Dryad was halfway across the dirt street sprinting toward a stone building and couldn’t hear her. She did not even notice the zombies that crept out of the dead bushes to reach her.
+
+An incandescent arrow flew right past her fleeing form, striking one of the undead, and drawing it away from her, and Ali breathed a sigh of relief.
+
+“I got it, Ali,” Calen said. “Concentrate on killing the pack around Mato.”
+
+“Ok.” She directed her mage to open fire on the pack of skeletons and zombies and then Calen darted off, lining up the monsters so that the ones chasing him would have to pass within range of Mato’s claws.
+
+Why are they not dying?
+
+In the center of the ruined village’s main dirt road, a brutal melee of skeletons and zombies had formed surrounding the furious bear. More and more undead emerged from the buildings and the nearby dead forest, drawn to the crashing collisions and roaring of combat. Malika and Calen continued drawing them into the center, hoping that Mato would be able to secure them, but Ali was struggling. With only one Fire Mage and three Poison Wyverns, she should have been able to kill them, but for some reason only a few skeletons had collapsed – and mainly due to her Fire Mage or Mato’s powerful claws.
+
+She glanced at her wyverns, swooping in and spraying jets of high-pressure poison onto the group of undead monsters – a green liquid that splashed through their bones and dripped to the ground. Unless…
+
+“Calen, are undead immune to poison?”
+
+“Yes. Fuck,” he shouted, dodging to the side and drawing several skeletons away from her.
+
+“Claws and teeth.” Ali redirected her intent to the three swooping Wyverns and suddenly began to see results. Their talons tore chunks of dead flesh from the zombies, and their powerful jaws crushed skeleton bones with a gruesome crunching noise, but without the area damage of their poison, it was going to be a very long fight.
+
+“Pick it up,” Ali instructed, and the powerful Wyvern jaws closed on the shoulder of a skeleton. With a sweep of its wings, it hauled the twitching monster high into the air and dropped it crashing to the ground.
+
+“Ali! Help!” Calen shouted, and she snapped her head around just in time to see Lira emerging from the crude stone-walled lumber mill, something clutched tightly to her breast. Something that shone with several intense sparks of the most brilliant green mana she had ever seen, visible even through her hands.
+
+A huge, tusked monster loomed behind the ecstatic, oblivious Dryad, towering head and shoulders above the lumber mill. Putrid fluid seeped from open wounds in its immensely broad chest and arms thicker than tree trunks. A chunk of its face had withered away, leaving the bone of its eye socket exposed to the flies buzzing around its rotting flesh.
+
+“Aliandra! I found them!” Lira shouted.
+
+“Watch out!” Ali screamed. It was clear that Lira had not seen or heard the monster charging toward her, three-fingered hands as large as barrels reaching for her. As if she saw it all in slow motion, the giant zombie troll slammed its enormous frame into the lumber mill, and the poorly constructed building exploded, not even slowing the monster down in the slightest.
+
+Warrior – Zombie, Giant Troll – level 53
+
+Ali slammed a barrier into place between Lira and the sprinting mountain of rotting flesh, and Lira finally turned at the loud cracks of stone shattering against the golden wall. The troll drew back a giant arm as it sprinted through the flying remnants of the exploding mill and unleashed all its furious momentum into a punch that shattered Ali’s barrier, sending Lira tumbling head over heels, her precious bundle flying to the ground.
+
+Acorns. Ali’s mind registered the trivial detail as she struggled to form a coherent strategy to deal with several tons of undead aggression tearing through a stone building as if it were made of paper.
+
+Outclassed and woefully unprepared for an encounter of this magnitude, Ali triggered Arcane Recall – her ace in the hole. The entire village, all the undead, her friends, everything faded to gray, frozen in the midst of the fight. Even the lumber mill froze. Flying rocks hung stationary and silent mid-cascade on their way to the ground. Even the shards of her barrier were gray and dull.
+
+I need a minion that can counter that monster. Her choice was obvious – with only her will, she summoned her Grimoire and began to create a Forest Guardian. Her elemental, at least, was heavier than that thing bearing down on Lira where she lay sprawled awkwardly in the dirt. Her mana flowed in this strange place; the stillness interrupted only occasionally when the entire terrain would flicker back to a different image for a moment before returning to the present.
+
+Suddenly, something she did not expect happened. A harsh hiss disrupted the endless silence. Unable to even turn her head, or look around, Ali could only see it out of the corner of her eye. Something that glowed an intense blue turned and looked her way. Other than her Grimoire, it was the only color in this world. Ali’s heart was not beating, but if it could, it would be pounding as the thing shifted and she caught sight of many legs, and glowing eyes. Another hiss broke the silence, and against all she had learned of this place, it moved. Skittering back and forth the thing scurried across the road, easily stepping over Mato and the horde of undead frozen mid-fight as it bore down on her.
+
+Hurry! Ali urged her magic, panicking now as the monster approached. She had no idea what it could do to her and, frozen as she was by her spell, she was helpless to flee or fight. She tried pushing her mana into her Grimoire faster, but it seemed to do nothing. She tried to turn her eyes, but she could not get a good look at what approached. She tried to cancel her Arcane Recall spell, but she could not.
+
+It reached the edge of the road, barely a few meters from her when suddenly her summoning magic completed, and the world snapped back to color and a riot of combat noise. She had an enormous Forest Guardian standing over Lira, and she stumbled, heart racing, suddenly drenched with sweat.
+
+She turned her head, but the blue, many-legged monster – whatever it was – was nowhere to be found.
+
+“Attack the troll”, she managed, but she wouldn’t have needed the command. Her Guardian had seen the troll and immediately used Rush to charge it, slamming into the zombie with a titanic collision of mass that flattened the remnants of the mill, halting the zombie mid-stride. Roots and vines burst from the ground, twining around the zombie’s legs, withering and dying from the blight, but regrowing just as fast.
+
+“Holy shit, Ali!” Calen exclaimed. “Good idea.”
+
+Ali threw up another barrier to protect Lira from the flying debris of the battle of giants while she scrambled desperately through the dirt, collecting the acorns with their bright kernels of nature magic.
+
+Still shaking from her close call in the strange gray world of her Arcane Recall, she reorganized her forces. The Wyverns she sent to rake and bite the head and shoulders of the giant troll, tearing bloodless rents and gashes in its rotting flesh.
+
+“Fireball,” she said. She could not afford to let the skeletons sit around. As soon as the word left her mouth, her Kobold reacted with flame, and Malika sprinted away from the melee, joining the fight against the giant zombie instead.
+
+“Make sure you heal Mato after each Fireball,” Ali instructed.
+
+“Yes, Ancient Mistress,” her Kobold Acolyte replied, her voice respectful, but not interrupting her magic.
+
+The detonation of fire was met with a surge of holy magic from Mato’s position in the center of the conflagration, along with several flying skeletons and burning fragments of bone.
+
+“Again,” Ali commanded, recovering her barrier as Lira sprinted across the dirt street to stand beside her. Keeping a close eye on her, in case she ran off again, Ali fashioned her barrier magic into several long slender shards, sharpened with the keenness only possible with her new control skill, and fired at the zombie troll.
+
+The shards impaled its great arms and chest, but it seemed to not bother the undead monster much. Punches continued to fly, rocking her Forest Guardian with ground-shaking impacts. The Guardian, for its part, stood its ground, roaring and tearing chunks of flesh from the zombie while it grappled with its roots to hold it in place. One of her Wyverns fell twitching on the ground, having gotten too close and drawing a powerful fist, but the other two still tore into the zombie troll with fast swooping slashes of their powerful talons or tails.
+
+To her side, the next fireball detonated, and she sidestepped a burning skull that flew from the explosion, landing on the ground beside her. Her Acolyte seemed to be taking care of Mato, so Ali called for another fireball and resumed trying to impale the giant troll with fresh barrier shards.
+
+Calen burst into brilliance as he used his Righteous Fury, but the troll seemed no worse for wear after the full duration of his skill had run its course. “Fuck, this thing is nuts,” he said. Dozens of arrows sprouted from its shoulders and chest, but the monster brushed them off like they were nothing.
+
+“Its resilience is unreal,” Ali said, wielding several barrier shards constantly. Even under Malika’s onslaught, it still unloaded punches and slams onto the Guardian. It’s a good thing it can regenerate, she thought, but it was beginning to show signs of rot and blackening along its legs and flanks – a sure sign that the blight was outpacing even the torrent of its regeneration.
+
+“How do we kill it?” Calen asked, still unleashing arrow after arrow, many of which bounced off the tough troll hide, but at that moment, Mato charged into the fray.
+
+Ali glanced back, finding only a smoking pile of shattered bone fragments and burning mounds of zombie flesh where Mato had fought. Her Fire Mage grinned in satisfaction.
+
+The tide of battle shifted quickly as Mato unleashed his Living Rend, dramatically reducing the giant troll’s tough natural armor, while her Fire Mage began peppering the monster with burning bolts of magic that left smoking holes in the rotting flesh. Calen directed his volleys of arrows toward the rips and wounds, and they stopped bouncing off ineffectively.
+
+They battled on continuously for several minutes, and Ali sorely missed her trusty Arcane Bolt skill, but eventually, Mato’s armor reduction and the fire magic of her mage prevailed, and the enormous troll zombie toppled face-forward, making the scattered stone from the mill bounce as the impact shook the ground.
+
+Your group has defeated Warrior – Skeleton – level 12-24 x32Your group has defeated Warrior – Zombie – level 13-19 x16Your group has defeated Warrior – Zombie, Giant Troll – level 53
+
+“Everyone ok?” Calen asked.
+
+Am I ok? So much had happened. Ali stared at the enormous body of the giant troll, still taller than her even lying face down in the rubble. She wrinkled her nose at the stench of decayed flesh. Giant trolls were most often chosen as the shock troops of the proud troll tribes, and she could honestly say she never wanted to face an intelligent one in battle. She could not tell what tribe it had been from because the ceremonial warpaint was faded and torn from combat and rot, and the braids on its tusks had rotted away.
+
+“I think so,” Ali murmured, answering Calen’s question after a long moment. She still felt traumatized by whatever it was that tried to eat her when she was trying to summon her Forest Guardian. She did not even know what it looked like – only that it glowed blue and had far too many legs.
+
+“Don’t touch me, I have the undead blight,” Mato said, as Malika tried to heal him.
+
+“I have it too,” she answered, healing him anyway.
+
+“Oh no, we need to get you guys some potions,” Ali exclaimed, torn from her reflections by the horrifying news. Somehow, their fight had put her friends in contact with the miasma or the blight directly, and both had caught the debilitating disease.
+
+“I’m so sorry,” Lira said quietly, shifting uncomfortably, head downcast. “This would not have happened if I hadn’t dragged you out here on my selfish quest. I’ve put you all in mortal danger.”
+
+“Nonsense, we agreed to help, it’s not your fault,” Mato answered, putting on a brave face. Ali knew how much he despised the undead, and to be infected with the blight must be excruciating for him on many levels.
+
+“Here, Lira,” Ali said, offering her the acorns she had scooped up from the ground in the middle of the fight.
+
+She clutched them to her chest like a mother cradling a lost infant. “Thank you.”
+
+I need to get them to Eliyen, Ali thought, eyeing Mato and Malika. She couldn’t see any visible signs of the blight yet, but the telltale swirls of dark mana were unmistakable. She summoned her barrier at once, quickly climbing aboard after deconstructing her blighted Guardian and the zombie troll.
+
+But how to get them into town without being spotted and tossed into the garrison’s deepest, darkest jail?

@@ -1,0 +1,213 @@
+---
+id: e7aa622c-2742-577a-a4b9-d49f98770b09
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9: Grove Warden"
+slug: 0009-chapter-9-grove-warden
+partOf: dungeon-of-knowledge-complete
+position: 9
+ownLength: 4168
+unit: words
+ownProgress: 4168
+publishedAt: 2024-02-04
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1506229/chapter-9-grove-warden"
+royalRoadId: "1506229"
+markedReadAt: "2026-06-29T20:11:18.343Z"
+---
+
+On the topic of combat versus non-combat classes, opinions are sharply divided. While most scholars believe that the system makes a clear delineation between the two, there is a vocal minority that argues the boundaries are much more fungible. On one side, the system itself categorizes class offerings separately, one of which is a category called ‘combat’. On the other side, scholars point at the many (often unethical) experiments showing that a farmer or blacksmith hitting monsters for long enough will eventually be offered skills that do damage. This author argues from a position of pragmatism. In the real world, such crossovers are so rare as to be unimportant. Crossover usually hamstrings a class’s potential. While it may be technically possible, it is unlikely we will ever see a legendary farmer slaying monsters with a hoe, or a powerful librarian smiting all with their books.
+
+- Excerpt from How Experience Affects Class Skills. Journal of Magic, Rizlet, et. al.
+
+Aliandra
+
+Even though she couldn’t understand what they were saying, the excitement each of her companions showed as they took their turn at the shrine was palpable and contagious. Even Malika, who had obviously seen something personally horrifying the first time she used the shrine, was now so clearly happy that Ali’s heart soared just to see her transformation.
+
+This ancient shrine was her only remaining connection to her family, ownership having somehow passed from her father to herself upon his death. It stood as an anchor of stability amid the unfamiliar, warped, and terrifying world she had found herself in upon waking. Even the glowing shards – remnants of her mother’s magic explosively embedded in the stone of the shrine – served only to remind her of how she had been saved.
+
+Offering this shrine to these three who had put their very lives in danger to rescue her felt right, a way for her to give back, and at the same time to grasp a little control of the headlong rush of danger her life had become since that fateful meeting in the library.
+
+After activating the shrine for each of them in turn, she finally turned to her own class choice, curious to see what she might choose to become. The Shrine of the Ancient Grove was running very low on mana, but she had already used the affinity enhancement option, and she was confident there would be enough mana remaining for her to choose her class. If she were honest with herself, she had felt a pang of worry when Malika had needed to activate the shrine twice to get her class choices, but the second activation had used substantially less mana, leaving Ali with just enough to get her own class.
+
+[Shrine of the Ancient Grove] Reserved mana reduced by 35,0006 Alternate classes found.
+
+Natural class:- Arcane Scholar
+
+Available alternate non-combat class options:- Librarian
+
+Available alternate magic non-combat class options:- Arcane Analyst- Runic Sage
+
+Available alternate magic combat class options:- Arcane Mage- Phytomancer
+
+Available hybrid magic domain class:- Grove Warden
+
+Combat classes? The bewildering array of choices offered by the shrine left her stunned and somewhat confused – she had expected she would be offered only non-combat classes. Having spent so much of her earlier years studying and preparing for her class choice, she already knew all the non-combat class offerings without even needing to look.
+
+However, she had never seen herself even being offered a combat class – Ali had definitely not expected that her clumsy and terrifying battle with the rat, and helping her rescuers against the wolves, would earn her an entirely different set of directions.
+
+She shook off her surprise, resolving to study each option, no matter how unlikely she was to pick it. Arcane Scholar and Librarian were both classes she was quite familiar with – Arcane Scholar in particular would help her with her job hunt.
+
+I don’t have a job search anymore, she reminded herself somberly.
+
+Arcane Analyst, an uncommon class, was one of the typical paths to the scholarly archmage – and one of her favorite backup choices. But that was before she had lost… everyone. Everything was different now.
+
+Her eyes came to rest on the Runic Sage, and her hand pressing against the cool surface of the shrine trembled slightly. Maeria Runeweaver had told her not to expect the rare class of her dreams, and yet she had still offered to train her for it. But even without the trial, Ali had still unlocked it.
+
+Unable to keep hold of her emotions, she opened the class amid the crescendo of her own anticipation, anxiety, and hope.
+
+Runic SageThe Runic Sage lives and breathes the inscribed, written form of magic. Using her deep attunement to her magic and her passion for the written forms, she is able to unravel any arcane secrets and understand the broad reaches of the infinite magic tapestry. The Runic Sage wields her knowledge, mana, and pen with precision and confidence, breaking new ground in the development of magical spells, research, and item creation.Requirements:Arcane Magic affinity.Any second magical affinity.Unlocked a magic general skill.Extensively studied the theory of magic.Experienced a rare magic.Proficient in multiple languages.Scholar skill.Reading skill.Memorize skill.Able to accurately reproduce ten or more runes.Attributes: +10 per level.Traits: Arcane, Knowledge, Runic Magic, Inscription, Analysis, Crafting, Intelligence.Quality: Rare.Class – Non-combat
+
+Would you like to change your class to Runic Sage?
+
+Ali’s heart soared as she read the description – this class was everything she had ever wanted and more. With it, she would become one of the most prominent researchers of magic in all of Dal’mohra. She imagined how her colleagues would react when she shared her class with them, how she would spend all her time in the library advancing the understanding of magic.
+
+And then, the dark cloud of reality suddenly crushed her joyous fantasy.
+
+Dal’mohra is gone.
+
+She didn’t even know if the library still stood, but the massive landslide of the mountain falling down and burying this entire place must have left an irreparable wake of destruction. The events of that fateful night replayed in all their horror, still terrifyingly fresh within her mind. Her home and family had been brutally ripped from her, and at the hands of a self-professed magical research genius.
+
+Nevyn Eld.
+
+Even though she would not, could not, choose a path like his, his actions still cast a pall over her pristine dream of magical research. How could he twist it so badly? Even if she chose her dream class, what good would it do without the library, and all her research colleagues to support her?
+
+Instead, her own powerlessness replayed relentlessly within her mind. The precious little she was able to do against the wolves. The terror and rage of facing the rat. The sight of Maeria Runeweaver sliding off the blood-drenched blade. Armand and the gruesome spray of blood. And the truth of her inability to protect her mother against the power of the Lich.
+
+I was nothing to him. No more than a resource to be consumed like the Council of Kings he turned into Death Knights for his convenience.
+
+The anger and rage she had experienced facing the rat slowly mingled with the sense of powerlessness and grief she had been subjected to in Nevyn Eld’s presence, and it crystallized into something resembling resolve. She wasn’t certain what exactly, but she didn’t want to be powerless anymore. Her mind shuddered at the thought of facing Nevyn Eld again, this time without her mother to protect her. With her new sense of purpose, and no small amount of trepidation, she began studying the combat class offerings carefully. She would not rush in until she had read and understood everything she was being offered.
+
+Arcane Mage was a common mage class, with a somewhat uncommon affinity. She would have access to a balanced set of offensive and defensive arcane magic. It echoes how I used my Arcane Cantrip, only it would add some real power. Phytomancer focused on her affinity with nature magic. It seemed to be a clear extension of how she had used Plant Growth in combat to defeat the rat – a mage class focused heavily on offensive plant magic. Seems powerful, but only outdoors, she thought. Perhaps a little like Aunt Lira, or her dad’s magic.
+
+Both of the classes looked quite practical, and the uncommon Phytomancer even looked like it would be extraordinarily powerful, but Ali was saddened reading each of them. If she had to choose one of them, she would be giving up everything she was passionate about, other than the ability to actually wield one of her mana affinities to defend herself.
+
+Finally, she examined the last class. Ali had never heard of a hybrid class before, so she opened it with some curiosity and surprise.
+
+Grove WardenThe Grove Warden has a strong commitment to her home. She uses a domain-bound class founded upon the power of her Arcane and Nature magic, along with runic knowledge to exert control over her domain. She emphasizes a balance of combat magic, knowledge, and learning, enhancing her powerful magic to protect her home and friends. While a domain-bound mage is weaker outside of their domain, within it they reign supreme.Requirements:Defeated a higher-level enemy in solo combat.Defeated multiple enemies without combat skills or spells.Remained committed to the same area for over 3000 years.Arcane Magic affinity.Nature Magic affinity.Used magic in combat without a class.Defended the sacred shrine within your family’s ancestral grove from monsters.Wielded magic against an overwhelming foe in defense of family and companions and survived. Strong commitment to study and understanding magic.Attributes: +10 per level.Traits: Arcane, Nature, Knowledge, Defense, Domain, IntelligenceQuality: Unique.Class – Hybrid
+
+Would you like to change your class to Grove Warden?
+
+Tears spilled down her face as she read the class and the requirements that she had met in order to unlock it. Everything was there, her struggles, her heartache, her grief, and her passion. She knew in an instant – deep in her heart – that this was her class. But she still forced herself to reread it carefully.
+
+Three thousand years? It was the first thing that leapt out to the analytical part of her mind after wiping her tears from her cheeks. I was locked away for that long? No wonder the language changed. She glanced at the dead, blackened trees, realizing just how immense their magical energy must have been for them to have been preserved for so long. On a sudden hunch, she pulled up the strange, mysterious Ancient title she had been somehow awarded in her long slumber and focused on it to see more details.
+
+AncientYou have been alive for more than a thousand years.You are more noticeable to perceptive people. This effect increases with age.Title
+
+More noticeable? It seemed a little worrisome, especially as she wouldn’t be able to dismiss the effect or discard the title, and until she earned a new one, it would even show whenever someone Identified her. But her title and age worries faded in the face of larger problems.
+
+Liches are immortal. It was her first thought after fully grasping just how long she had been sequestered by her mother’s magic. She shivered, realizing just how scared she was of him – how much he had hurt her.
+
+Gathering her thoughts, she considered the class carefully. Her father had used a domain-bound class, tied to this very forest that now stood in ruin and decay. Aunt Lira too, as a dryad, had been domain-bound to her enormous forest that lay to the south of the city. Lira had often visited but had to return after a few days. Ali assumed that this class would be similar, bound to an area, but not entirely limited in travel.
+
+Examining her feelings, Ali found she had no strong desire to leave. In fact, her desire was to restore this forest and find the remains of the grand library. The class reminded her a lot of her father, especially with the references to the shrine and the ancestral grove that had been his responsibilities until they passed to her. The memories of her father brought back the crushing sadness and she teared up for a while. But the sadness and the aching of her heart seemed to crystallize her resolve. She would restore the forest and Grove to its former glory. She wouldn’t let her home remain decayed and ugly, trampled on by monsters. She would get stronger, and when Nevyn Eld returned, she would be supreme within her home, just as her class said.
+
+She just hoped it would be a while because he had been stronger than everyone she had ever known. She would need to grow before she could ever think of facing him. And that journey would take ages.
+
+I need this, she thought. Every journey needed a first step.
+
+She accepted the Class.
+
+You have gained the class: Grove Warden.Grove Warden has reached level 1.+10 attribute points.
+
+You have lost the general skill: Linguist.You have lost the general skill: Arcane Cantrip.You have lost the general skill: Plant Growth.You have lost the general skill: Memorize.You have lost the general skill: Scholar.
+
+Ali reeled at the sudden headache caused by the skill losses, but the flurry of notifications did not abate.
+
+You have gained the class skill Grasping Roots.
+
+Grasping RootsMana: Summon tough roots to hold, impede or crush your target. Range: 25 meters.Nature, Ranged, Intelligence
+
+You have gained the class skill Arcane Bolt.
+
+Arcane BoltMana: Fire a small arcane bolt that accelerates and curves towards your mentally chosen target. Duration: 120 seconds.Arcane, Ranged, Channeled, Intelligence
+
+You have gained the class skill Barrier.
+
+BarrierMana: Summon a small arcane barrier shield. The barrier is a freeform arcane magic surface that resists physical and magic damage.Arcane, Defense, Intelligence
+
+You have gained the class skill Deconstruction.
+
+DeconstructionMana: Release the mana from an unresisting or inanimate target, learning about its structure, and retaining some in your own mana pool. Requires continuous uninterrupted focus and the target is destroyed. Range: Touch.Arcane, Knowledge, Intelligence
+
+You have gained the class skill Runic Script.
+
+Runic ScriptYou are proficient with runic magic.Languages: Ancient Dal’mohran, Elvish, Dwarven.Mana: Inscribe a runic circle with your mana. Reserve: by level.Arcane, Knowledge, Intelligence
+
+You have gained the class skill Sage of Learning
+
+Sage of LearningYour ability to learn languages, history, and similar academic knowledge is significantly enhanced. You have enhanced memory for the content you have studied.Arcane, Knowledge, Perception, Intelligence
+
+I have ten attribute points to spend! She considered the long list of complicated skills she had just been subjected to. My class seems to mostly use mana and intelligence, she realized on a quick scan. That works well with my racial aptitudes. She decided to split her points between wisdom and intelligence. Wisdom will give me more mana, and the intelligence trait on my skills will make them stronger the more I have.
+
+Name: Aliandra AmarielRace: FaeTitles: Ancient
+
+Class: Grove Warden – level 1- Grasping Roots – level 1- Arcane Bolt – level 1- Barrier – level 1- Deconstruction – level 1- Runic Script – level 1- Sage of Learning – level 1- [Locked]- [Locked]- [Locked]- [Locked]
+
+General Skills- Reading – level 7- Identify – level 5- Sculpting – level 2
+
+Aptitudes- Languages: Ancient Dal’mohran, Elvish, Dwarven- Mana (Affinities): Arcane, Nature- Tiny (Racial): The effects of Strength and Vitality are reduced by 50%- Magical (Racial): The effects of Wisdom and Intelligence are increased by 50%- Mana Sense (Racial): You are sensitive to nearby mana
+
+Attributes- Vitality: 5- Strength: 4- Endurance: 5- Dexterity: 10- Perception: 11- Intelligence: 26- Wisdom: 19
+
+Health: 25/25Stamina: 50/50Mana: 285/285
+
+Ali had read many books and papers and sat through both boring and fascinating lectures on the theories of how class skills were assigned as part of her research work at the library. It was, in fact, one of the most actively researched subjects in magic. Most of the scholarly arguments disagreed – sometimes violently – over whether the factors influencing skills were experience, actions, need, or even genetics, or some combination thereof.
+
+Her own research led her to the conclusion that all of these were contributing factors, which was why so many of the experiments were not reproducible, even though there were tantalizing correlations. True or not, it seemed way too much of a coincidence that her first three skills represented significant improvements over the ways she had used her magic in combat prior to unlocking her class. Grasping Roots appeared to be a powerful way to crush enemies with roots using plant magic. Her memory helpfully supplied the gruesome image of the rat she had crushed by expending her entire mana pool. Arcane Bolt seemed to be the answer to her throwing arcane magic at enemies. Only now, it would actually do damage. And Barrier definitely matched her powerful desire to block enemies with her arcane magic.
+
+With her first three spells, she was satisfied that she was on her way to becoming a real combat mage – albeit a level one mage. However, she would no longer be powerless in combat and these skills would only grow with experience. On a whim, Ali spent some of her mana on her new Barrier skill, and a small thirty-centimeter disk of transparent golden energy snapped into existence in front of her. All at once nostalgia, pride, and grief slammed into her heart. Mom… Her magical abilities were tiny by comparison, but this construct was clearly identical to her mother’s powerful arcane barrier magic.
+
+She let the barrier dissipate, overcome with emotions and exhaustion. The enormity of the day finally crashed down on her. She had woken up in a world completely unfamiliar to her, unable to communicate with anyone, learning that everyone she had ever loved was gone. She had been in two fights with actual monsters, almost dying a couple of times and now she had nothing left to give. She dragged herself over to where the others sat and, curling up next to Malika, she simply passed out from sheer exhaustion.
+
+Malika
+
+Malika sat on the dirty ground near the now dark and depleted shrine, listening to Calen and Mato excitedly exchanging details of their new classes.
+
+Curious, she examined the shrine one more time, using her Appraise skill to check on the mana reserves – a detail she deduced was normally only visible to the owner.
+
+Shrine of the Ancient GroveAn ancient mystical shrine of unknown origin. Offers advanced class features and attunement of latent mana affinity.Owner: Aliandra AmarielMana Siphon (Active)Mana: Unlock class experienceMana: Unlock or enhance latent magical affinities. [Locked, insufficient mana.]Mana: Unlock alternate classes. [Locked, insufficient mana.]Owner’s Mana: Recharge the shrine’s mana reserve. 8,550/1,250,000Quality: UniqueValue: SoulboundShrine – Artifact
+
+We drained it, she thought, wondering if Aliandra had anticipated how close it would be when she had allowed all of them to go first. Feeling a small twinge of guilt at the depleted state of the shrine, she tried to feed some of her mana into the reserve, but it wouldn’t accept her offering.
+
+Malika had been careful to not share too much about her new class with the others, admitting only that she had earned an unarmed combat class – which they could easily deduce now that she must appear as a Monk to their Identify skill. She also admitted to having a Soul Magic mana affinity – Calen had been sharp enough to guess it from the display at the shrine. It was already more detail than she felt comfortable sharing.
+
+On the other hand, she had learned quite a lot about their classes – information freely flowing between the two friends – seemingly not minding that she could overhear their discussion. Calen had unlocked an archer class with a light magic affinity, and he demonstrated one of his skills by summoning a bright floating light that he could move about simply by focusing his mind. For such a small mote, it gave off an unreasonable amount of light, but it was certainly nice to be able to see clearly for a change. He also claimed it had the ability to dispel some stealth effects, which seemed quite useful.
+
+Mato had unlocked a druidic class with access to shapeshifting nature magic, which he excitedly demonstrated by turning himself into a bear – a form that amused Malika no end. Once she had seen his shapeshift, she couldn’t unsee the resemblance to the bear even in his normal form. He really was just broad and furry, regardless of which shape he was using. The affinity for shapeshifting certainly seemed a natural extension to his Beastkin nature, and he was obviously excited about the possibilities.
+
+What else can he do? His class seemed quite broad, and Druids were widely known for efficient nature affinity healing spells.
+
+Suddenly, she felt movement within her space and saw Aliandra right next to her. Her heart raced as she snapped her guard up, but in that instant, she heard Aliandra’s soft regular breathing.
+
+She’s asleep? Aliandra had literally just curled up against her leg and fallen asleep on the spot.
+
+That kind of inattention could have been fatal on the streets. And not just for Aliandra, for herself too – how had she let herself get so tired that she had missed the Fae approaching?
+
+She struggled briefly within herself, the discomfort of allowing someone to be so close warring with the unfamiliar sense of being so trusted that the little Fae would let down her guard and sleep beside her.
+
+You had a rough day, she thought, finally deciding to allow the girl to sleep undisturbed. The warmth of her back pressed up against Malika’s leg and the soft rise and fall of her breathing were strangely comforting. Besides, failing to show kindness to Aliandra after the priceless gift she had just given would place her among the dregs of the Town Watch thugs, and she would rather die.
+
+I just have no idea how I can ever repay her, she thought, frowning as she slowly returned her attention to the conversation.
+
+“We should test our skills on something,” Mato said.
+
+“We’ve been down here for quite a while,” Calen said, shaking his head. “My mother is going to be worried when everyone but us has returned. We’re almost out of food and we also used the last of the potions in that battle.”
+
+“You’re probably right,” Mato grumbled. “We should return to town; my parents will be worried too. Perhaps we can come back and fight stuff in a day or two? Get some levels? But what are we going to do with her? Bring her to town with us?” He gestured toward Aliandra, peacefully curled up against Malika’s side.
+
+Malika’s eyes drifted down to her sleeping companion as she considered her options. “I’m going to stay here,” she said, gaining glances of surprise from the two boys. “I don’t have family in town, nobody will miss me.”
+
+In truth, she was afraid of running into the Town Watch and their army of thugs. She had a class now and she wouldn’t be able to conceal the fact that she had chosen differently than they would have insisted upon. While choosing a class did mean she was significantly stronger, she was still level one and as far as the rumors went, Adrik and Edrik had both passed level twenty. They would easily kill her once they discovered she had abandoned her life as a thief. She was in more danger now than before she had unlocked her class – at least whenever she was in town.
+
+“Is that safe?” Mato asked her.
+
+“The rats and wolves are safer than the people waiting for me up there,” she said, deliberately vague about her associations. Surprisingly, Mato did not pry, simply taking her statement at face value. Calen glanced at her curiously but didn’t seem particularly surprised, and he let it go without comment.
+
+“Ok,” Mato said. “And you’ll look after our little sleeping friend here?”
+
+Malika nodded. “I can move her to the cave, it will be a little safer there.”
+
+“Alright,” Calen said, pulling out a couple of apples – all that remained of the food from his pack. Handing it to her, he said, “We’ll see you at the cave in a day or two.”
+
+“Don’t get too far ahead,” Mato said with a wave as the two of them headed out into the darkness, the Half-elf with a hovering mote of light following him, and the Beastkin shifting into the form of a large, reddish-brown wolf.
+
+Malika got to her feet, and carefully picked up Aliandra, trying not to disturb her slumber as she walked slowly back to the cave. She hadn’t asked them to come back, and she still didn’t entirely trust them, but it would be helpful to have proven allies – at least, until she gained a few levels and learned how to use her own class. Once she was stronger, she could decide.

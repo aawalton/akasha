@@ -1,0 +1,235 @@
+---
+id: da1390cd-b88e-550b-bca4-85351a8d450d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43: The Power of a Crazy Idea"
+slug: 0043-chapter-43-the-power-of-a-crazy-idea
+partOf: dungeon-of-knowledge-complete
+position: 43
+ownLength: 4147
+unit: words
+ownProgress: 4147
+publishedAt: 2024-03-10
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1549032/chapter-43-the-power-of-a-crazy-idea"
+royalRoadId: "1549032"
+markedReadAt: "2026-06-29T20:12:23.773Z"
+---
+
+Magic may be a tremendous force, but applied blindly it is little better than hitting something with a rock. It is knowledge and imagination that will be your lever and fulcrum, multiplying your power beyond reckoning.- Thaldorien Stormshaper [The Inscrutable], Elven King of Dal’mohra.
+
+Ali stood on the battlements gazing down from behind the protection of her barrier. There was a chill to the breeze that stirred in the early morning air, and as the sun began to rise, the distant shapes on the ground below began to resolve into the haphazard sprawling chaos that was the encamped Goblin horde.
+
+So, this is a dungeon-break.
+
+She wrapped her arms around her chest, rubbing her sleeves in a futile attempt to ward against the cold as she stared, her mind struggling to grasp the sheer scale of the Goblin siege.
+
+When she and Mato had taken the courier wagon via the south road, this entire area between the town walls and the southern forest had been sprawling farmland, rich with crops. Now it was simply Goblins, everything of value stripped and eaten, or turned into crude wooden palisades sprouting what looked like rickety trebuchets that had little to no chance of actually working. Still, what they lacked in technology they made up in sheer numbers – and, sheer stench. A light breeze helpfully wafted that right into her extremely ungrateful nostrils.
+
+As she surveyed the monstrous forces, an arrow cracked against her barrier, shattering into splinters and falling down outside of the wall. Ali jerked her head back behind the cover of the heavy stone merlon. While the Goblins were building all kinds of siege contraptions by stripping the forest, it was the elite Goblins – the archers, the lightning-wielding shamans, and the Fire Mages that were the real danger. Lurking behind the rickety palisades, they spent the day taking potshots at the defenders on the walls with uncanny accuracy.
+
+Ali peeked her head back around to observe the Goblins through the crenel. She did not have the head for strategy that Calen and Malika did, but she remembered the Guildmaster’s briefings. If the horde had simply been regular Goblins, there wouldn’t have been much trouble. But lazing about among the green-skinned Goblins were sporadic bands of enormous orange or brown furry Goblin Bugbears with their massive weapons and spiked pauldrons that glinted wickedly in the morning light. Damage dealers.
+
+And if that weren’t enough, riding among the troops on the backs of enormous black Timber Wolves, she could see the Hobgoblin commanders. They stood out as a cut above the other Goblins – a little taller and heavier than a human, their red skin and higher quality armor and weapons made them easy to pick out among the masses of unruly green monsters. It was these that the Guildmaster had been particularly worried about. Hobgoblins were highly intelligent, competent commanders, driving even the ornery Bugbears into a semblance of order. Typically above level forty, they were the biggest challenge facing the town. Like bosses. The dungeon analogy really works, she told herself, shivering again. How are we supposed to stop all that?
+
+Myrin’s Keep did not have many combat classes capable of taking on Hobgoblins, but the Guildmaster had told them that any group they did assemble would be rapidly overwhelmed by the horde on the field. They were unable to stand back and destroy the Goblin horde from the battlements with arrows and fire because of the potency and accuracy of the Goblin elites, and the harsh barked commands from the Hobgoblin commanders keeping the baying hordes back out of range of the archers and mages on the battlements.
+
+A standoff.
+
+Ali wondered if their dilemma was the result of the Hobgoblins’ intelligent planning, or if it was simply the result of natural Goblin cunning and luck. To make matters worse, the response to the Town Council’s call for aid from the capital, Southport, had been that they were too swamped quelling an undead uprising in some outlying towns to send any support for at least a week.
+
+Ali spent the entire walk back to the Adventurers Guild turning the problem over in her mind. Nobody could get to the elite Goblins because of the Bugbears and Hobgoblins on the field. They couldn’t take care of the hundreds of Goblins with archers and mages because they were all pinned down on the battlements. Raising one’s head above the parapet was clearly an unhealthy idea. The garrison couldn’t take the field because, without the protection of the walls, the horde of Goblins would easily overwhelm them by sheer force of numbers coupled with the power of their infamous horde combat buffs.
+
+If only we could distract the elites. Or frighten off the lower-level Goblins. Any change that might break the lock the Goblins had on the town’s defenses.
+
+Ali dismissed the problem from her thoughts as she entered the guild hall. Hopefully, the Guildmaster or the Town Council would come up with some smart strategy to save the town.
+
+Getting into line in front of Mieriel’s reception desk, she immediately recognized the novice adventurers in front of her as the ones who had been down in the sewer fighting her slimes. Teagan, I think? They were still muddy, the warrior covered in slime, and they stank of sewage. Aah yes, Myrin’s Keep’s finest effluent. Gross!
+
+“Congratulations on your first quest,” Mieriel told them, clearly trying her best not to wrinkle her nose too obviously. “May this be the first of many.”
+
+As the happy group walked off with their earnings chatting excitedly amongst themselves, Ali identified them again.
+
+Level four now, she noted. She was still a touch miffed by the extra work they had caused her, but it was hard to be mad when they were so clearly excited to have been useful. Higher-level adventurers would make the guild stronger – Ali recalled just how big of a difference there had been between level three and four when she had been that low.
+
+Ali stepped forward, climbing up onto her barriers and unloading the arrows she had made on the desk for Mieriel to store.
+
+As she concluded her quest with Mieriel and stored her coins, a bright, clear voice rang out from behind her, putting a smile on her face in an instant.
+
+“Hi, Ali!”
+
+“Hi Serendipity,” she said, turning to greet the Gnome mage. “Are you turning in a job, too?”
+
+“I am! And you can call me Seri, you know!”
+
+Somehow Seri’s cheerful voice always made her grin. The little Gnome always seemed to be overflowing with excitement and energy, a ray of sunshine on legs.
+
+“Ok, Seri it is. What job did you do?”
+
+“I’m a wall washer,” she answered, performing a small pirouette, and spreading her hands wide in a flourish.
+
+“A what?”
+
+“The Goblin scouts tried to scale the walls last night. I washed them off with my water. It’s hard work. I’m not really suited to shooting water bolts from the battlements. My skills are much better suited to manipulating existing water, that’s why I normally take merchant jobs.”
+
+“That sounds pretty helpful, though,” Ali answered, wondering why someone with skills like hers had joined the guild. Having personally seen what havoc even a single Goblin scout or scavenger could do inside the town, though, she could appreciate just how important the ‘wall washing’ – as she had colorfully described it – really was.
+
+“If only the river was closer,” Seri continued. “Then I would be devastating! I’d just wash them all away.”
+
+Seri struck a pose that involved flexing her less-than-stalwart biceps, and Ali chuckled at the image.
+
+Ali left her perch at Mieriel’s desk so that the cheerful Seri could finish her business with the guild and joined Malika and Mato in the lounge area while they waited for Calen to return from his shift shooting Goblins from the battlements.
+
+Wash them away…
+
+Something about the way Seri had said it caught her imagination, and she turned it over a few times trying to figure out what it was.
+
+“Ali…”
+
+“Uh, sorry,” she answered, realizing with a flush that Malika had been trying to get her attention for a few moments already.
+
+“What are you woolgathering about?”
+
+“Oh, nothing,” she answered. Quickly, she changed the subject to the Goblin horde and the siege, and they continued talking while they waited, discussing potential jobs. Initially, Ali hadn’t been sure about the Adventurers Guild, but she had to admit it was nice to earn money, even though the situation was rather dire. More importantly, she felt good about making a positive contribution to the defense efforts.
+
+Given they were discussing jobs, Ali decided to check the board in case anything had been posted since she last checked. She made a step for herself with her barriers and searched through the quest offerings for anything she hadn’t seen. While there were a few new things, Ali was most interested in the herbalist collection job – it had been updated to now include her three mushroom varieties, along with prices.
+
+I guess the Glowcap mushroom is valuable, Ali thought, as she compared the various prices on offer.
+
+“That’s a nice trick,” Calen said, indicating her barrier platform as he walked over to join them.
+
+Ali smiled at him. She was still a little embarrassed about her ability to split her barrier magic, given that she had subjected herself to an explosion of water to discover it. She still got anxious when she remembered being flung through the air amidst a torrent of water and boulders, and the utter devastation to the area the lake burst through, washing all the bone piles off into the southern edge of the cavern and the new lake.
+
+Wash them away… Oh!
+
+Several separate memories cascaded in her mind, colliding in a chaotic swirl of mana-like colors, and producing the beginnings of an idea so crazy that Ali wasn’t certain she should really be thinking it at all. She remembered Calen telling her that they were right above the lake when she was looking out of the sewer outflow over the area now occupied by the Goblins. She remembered the devastation of the water in the underground cavern. And Seri’s comment.
+
+If we can wash away some of the Goblins, or confuse or split up that horde, maybe we can fight them?
+
+“Hey, Seri!” Ali called. “Do you want to help me with something?”
+
+***
+
+Ali waited on the bank of the lake, looking out over the roiling, swirling water. It was murky and completely opaque, and the stirring in the depths was almost certainly because it was still filled with Toxic Slimes.
+
+“What do you think?” she asked.
+
+“I think you’re crazy to want to try that again,” Malika said.
+
+“I think it can work, it’s in the perfect position, the only question is if you can do it,” Calen added.
+
+“I love it!” Seri exclaimed, her eyes sparkling in the dim light of Ali’s mushrooms while she gazed at the expanse of deep water. “I want to do it! Can we? Please?”
+
+Ali grinned. It was certainly a crazy idea, but nobody seemed to think it wouldn’t work. “I just need some way to get to the rock wall so I can deconstruct some of it.”
+
+“Oh, that’s easy,” Seri said brightly. Her arm reached forward, and a surge of cobalt-blue mana erupted from it, entering the water of the lake, and spreading out through it rapidly. Slowly, the surface of the lake nearest the rock wall began to lower, as if a giant invisible hand were pressing down on it. In a few minutes, there was a deep trough in the water as if it were being held back by an invisible dam.
+
+Ali stepped forward, about to enter the gap and set her plan in motion, when Calen stopped her.
+
+“Wait.”
+
+“What? Why?”
+
+“This will be vastly more effective if we coordinate with the garrison and the guild,” he said. “Strategically, we will want to be prepared to take advantage of the distraction while it’s still a surprise for the Goblins.”
+
+“Aww, boo,” Seri said, with a pout.
+
+Ali could see the wisdom in Calen’s suggestion, but she also resonated strongly with Seri’s disappointment. She had been ready and excited to see if her idea would actually work, and now she’d have to wait.
+
+Malika crowded in with the rest of the adventurers in the makeshift forward command center – a former warehouse commandeered by Commander Brand for the defense of the town. Everybody was here, and she could scarcely believe it. Ali’s idea was legitimately crazy, and yet somehow the Guildmaster believed it could work. Furthermore, she had convinced everyone else.
+
+Calen stood beside her, and Mato was off to the side talking with a beautiful Druid woman and a monstrous towering beast of a man who ruffled Mato’s hair as if he was a small child.
+
+His parents, Malika guessed. The resemblance was clear enough, even though his father seemed to be the very definition of the term ‘monster race’ and towered above him – he towered above everyone, even the tallest Elves and Humans.
+
+“Ok, listen up!” Vivian Ross’s voice boomed out in the warehouse, causing the hubbub to slowly fade.
+
+“We will start in a few minutes. Aliandra and Serendipity are in charge of creating a water distraction that should hit the eastern flank of the Goblins. The two teams of bronze adventurers are assigned to that flank. Your goal is to create as much chaos as possible and draw off as many of the regular Goblins as you can. Watch out for Bugbears and if you encounter Hobgoblins, you are to disengage and retreat immediately.”
+
+“Theia and Bjorn,” she said, turning to address Mato’s parents. “If you two could take care of the western flank? There are dangerously many Bugbears over that side.”
+
+Mato’s monstrous father looked up and simply answered, “Got it.” His voice rumbled powerfully over the crowd, silencing the remainder of any conversation.
+
+“Everyone else, please remember Bjorn is a silver-rank Berserker. You are to avoid the western flank at all costs.” Her caution was met with an outbreak of murmuring comments and gasps.
+
+“The main thrust of our attack will target the Hobgoblins in the center with our highest-level group, led by Commander Brand.”
+
+She indicated the wiry gray-haired man standing at the front, now dressed in heavy plate armor with a shortsword strapped to his waist, and a shield slung across his back that seemed to be half a foot thick of pure burnished steel with the garrison crest emblazoned on the front. He nodded at the crowd, scanning them with a grim twist of his lips that kept the murmuring to cowed whispers.
+
+“Joining him will be me, Donella Novaspark of the Novaspark Academy of Magic, Roderik Icecrown from the Town Watch, and Lamyndra Duskwind from the Temple of Lunaré.”
+
+Each of them acknowledged their names as she spoke. Donella Novaspark stood with an air of absolute power and confidence, projecting a presence much larger than her tiny Gnomish stature. She was famous in Myrin’s Keep for her prestigious Novaspark Academy of Magic, and for being a powerful lightning mage, but Malika knew her only by her reputation. The academy had always been far too well guarded for the kind of petty thievery she had been forced to do, and without a class, she had never had any way to avoid their security.
+
+Lamyndra Duskwind stood quietly behind the others. Her beautiful, long hair of pure white cascaded down past her shoulders, contrasting powerfully against skin of such a deep purple it seemed almost black, and her violet eyes conveyed deep compassion. Malika was very familiar with the Night Elf priestess, having needed so many trips to her temple after Adrik and Edrik’s visits. She had always treated Malika with respect and dignity despite her low status, title, and suspiciously frequent injuries. How they had convinced someone so committed to peace to join this fight was something Malika couldn’t fathom. Perhaps she had decided this was the way to save the most people?
+
+But it was Roderik Icecrown that got her boiling inside. With his blond hair, blue eyes, handsome radiant smile, and noble birth, he was everything Malika was not. And yet she knew that, behind those pretty looks and eloquent speech, beat the heart of a true sadist. Connected as he was to the noble circles, he was the reason the Town Watch enjoyed so much autonomy in Myrin’s Keep. It was Roderik who had advocated for more freedom to act; he who was buddy-buddy with Jax Hawkhurst and the secret spiderweb tendrils of the Hawkhurst Trading Company’s hidden criminal syndicate core that financed the Watch. It was an open secret among the common people of the slums that this monster liked hunting to keep his skills sharp – hunting in the poor districts of the town. He enjoyed watching his victims suffer, bleeding out while he taunted them. He occasionally participated in the Town Watch training exercises with Kieran Mori, and the only time Malika had experienced that, she had been sent to the temple with an entirely unnecessary ice lance punched through her shoulder. She schooled the disgust out of her expression with a powerful effort of will, hoping that she was far enough beneath his notice that he wouldn’t recognize the urchin pickpocket he had so uncaringly shot. He was undoubtedly the most powerful ice mage in the town, and Malika was nowhere near strong enough to survive a clash with him.
+
+One day, she vowed silently inside. One day, Roderik…
+
+“As soon as we get started, the groups of the garrison will move forward to defend the gate, and the novice adventurers will form up behind them to take care of any stragglers. The Temple of Lunaré will set up a field hospital here in this building.” Vivian indicated four robed and hooded Night Elves who were standing silently to one side. A soft murmur of voices offering thanks for their services rippled through the crowd.
+
+“Why isn’t Mori here?” Commander Brand asked. He seemed to be suppressing an undercurrent of annoyance in his carefully controlled voice.
+
+“He said he was too busy with watch duties. He sent Roderik in his place,” Vivian answered.
+
+Commander Brand’s face showed he didn’t really believe the excuse, but he changed the subject. “This is a harebrained scheme, even for you, Vivian.”
+
+Malika had to agree with the commander. If it hadn’t been Ali who had proposed it, she would have had a hard time believing it could work. But she had seen the devastation that had burst forth from the wall when Ali had cracked it open, and if she could repeat that feat…
+
+Vivian sighed and then looked across the crowd directly at her. “Malika, we’re ready. Get it started.”
+
+Malika nodded and retrieved a critical piece of their plan, a small scrap of parchment with intricate runic symbols inscribed upon it.
+
+Sending – level 3Mana: Send a short telepathic message to a familiar target within one mile. Charges: 1/1.Quality: MagicValue: 65 silver.Created by Donella Novaspark.Scroll
+
+Following the instructions she had been provided, she pushed a little of her mana into the scroll and formed a clear message in her mind.
+
+“Ali, you’re up!”
+
+She had a sense of the message echoing in a long chamber and an acknowledgment that felt like the brief fluttering of golden butterfly wings, clearly Ali’s mind, and then the scroll in her hand quickly crumbled into dust, drifting away to the floor.
+
+Several tense minutes passed until eventually the commander broke the silence.
+
+“Is this going to work?”
+
+A muffled crack silenced the talking as a deep tremor shook the ground. A few moments later, another tremor rocked the room and sporadic nervous conversation erupted throughout the waiting crowd. Just as she thought it might be over, an enormous explosion ripped through the air, causing the stone beneath her feet to buck violently, throwing several people to the ground. In the aftermath, she could hear shouts and commotion coming from outside.
+
+“Holy shit,” Donella grunted. She stood before a conjured illusion projected from her outstretched palm that showed the entire Goblin horde that was arrayed against them as if viewed from high above the ground. The Goblins were scrambling like ants in a disturbed nest. From the base of the cliffs in front of the eastern flank, an enormous, grayish geyser gushed out across the field, raining boulders and sludge down upon the unwitting Goblins. Goblins, palisades, crude siege weapons, in fact, everything was smashed and in disarray, dragged along by the powerful torrent of water.
+
+She did it! Malika didn’t want to admit how worried she had been, but Ali had pulled it off with spectacular results.
+
+“Commander, we’re ready,” Vivian announced, her voice steady as if such sights were an everyday occurrence.
+
+“Move out!” Commander Brand barked with the crisp command in his voice that came from years of experience.
+
+Everyone moved.
+
+Ali reached out a hand and deconstructed the giant slab of stone in front of her, while her feet sloshed in the mud at the bottom of the lake. The disconcerting, sheer wall of water at her back loomed high above, spiking her sense of anxiety. She could even see the slimes bumping up against it, trying to get through, but Seri’s magic held fast, and the suspended wall of water persistently failed to crash down upon her.
+
+She deconstructed another boulder, dodging back to avoid falling debris. It was tricky work. She could hardly forget that the last time she had done this she had caused the entire wall to explode in her face. This time there should be no water pressure – at least until Seri released the pent-up flood – but if she deconstructed the wrong boulder, she could all too easily drop tons of rock down upon her head.
+
+She deconstructed a few more, summoning barriers to protect herself from dust and falling pebbles.
+
+“You don’t have to go all the way through,” Seri called out from the relative safety of the shore. “We can let the water finish the job.”
+
+It’d be nice if Deconstruction had that kind of range, Ali thought, glancing warily again at the towering wall of water before returning to her task. She could tell she was following an old channel because the rocks at the bottom were worn from the flow of water. She guessed that at some point in the ages past, the channel allowing the river to flow out of the cavern had simply collapsed.
+
+One more. She was now totally inside the rock wall in a self-made tunnel, deconstructing more rock that was hopefully not the last support for the tons of stone and boulders above her head.
+
+I really hope I’m not being stupid again.
+
+Ali backed out of the tunnel she had created and signaled to Seri as soon as she was out of the way. Suddenly, the walls of supporting cobalt mana holding back the entire lake vanished, and tons of water crashed down into the gap Seri had been holding with her magic. Ali’s tunnel vanished, submerged beneath the entire depth of the lake. The surface of the lake roiled violently as bubbles of air welled up from below through the surging waters, but it rapidly quietened down.
+
+She waited. And then waited some more.
+
+“Nothing is happening. Should I clear more rock?” Ali asked.
+
+“Let me try something,” Seri said, her face wrinkling into a frown of concentration.
+
+Ali watched her manipulate the water with her pretty cobalt-blue mana. Under the influence of her magic, the lake began to drift and flow toward the edge of the cavern, as if a giant hand had simply tipped the entire cavern causing the water to collect against the rock wall right above her tunnel. Higher and higher it piled.
+
+“What are you doing?”
+
+“Increasing the pressure,” Seri said, gasping her words as if she were struggling to lift something incredibly heavy.
+
+Perhaps she is? More water piled up, forming an unnatural mound as the banks of the lake receded. Soon, the ground trembled, as a mild but visible shockwave rippled across the surface of the water. A second, more palpable shock threw up small wavelets, and then suddenly, Ali was knocked off her feet as an enormous explosion shook the cavern, sending water spraying high into the air. She summoned a barrier above her even before she hit the dirt. As the fountain cascaded back to the surface of the lake, a tremendous sucking sound rose as a huge whirlpool formed.
+
+Ali watched in awe as the entire lake began to drain through the tunnel and out into the world beyond.

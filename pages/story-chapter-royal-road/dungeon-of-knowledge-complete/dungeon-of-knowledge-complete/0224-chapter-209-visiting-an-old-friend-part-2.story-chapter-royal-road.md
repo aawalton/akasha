@@ -1,0 +1,155 @@
+---
+id: f4823335-85dc-527c-b8cc-2104be7b4ac9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 209: Visiting An Old Friend (Part 2)"
+slug: 0224-chapter-209-visiting-an-old-friend-part-2
+partOf: dungeon-of-knowledge-complete
+position: 224
+ownLength: 2564
+unit: words
+ownProgress: 2564
+publishedAt: 2025-03-11
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2119728/chapter-209-visiting-an-old-friend-part-2"
+royalRoadId: "2119728"
+markedReadAt: "2026-06-29T20:18:44.760Z"
+---
+
+“What do you know about it?” Mato asked, his eyes never leaving the monster for a moment.
+
+“The flowers eat mana.”
+
+Ok, stay away from the flowers.
+
+“The big things on top bite, the branches can reach the walls, and monsters come in from the top.” Naia continued. “And then it grows bigger, and my slimes die.”
+
+“What do you think, Mato?” Ali asked.
+
+“The big buds on the top have teeth,” he said. “It already knows we’re here; I can sense its hostility.” Mato turned back toward them. “It’s a plant, so we should use fire. Naia, can you make more of those lava oozes?”
+
+“Yes,” she said, her voice holding some traces of hope as she split off several glowing lava oozes that instantly set the fungal creep to blistering and blackening beneath them. The stench of acrid burning fungus followed the thin coiling tendrils of gray-black smoke everywhere.
+
+This is just the edge of the dungeon, Ali thought, studying the Mana Eater. If this was the weakest of the dungeon’s bosses, Naia would be hopelessly outclassed and slowly crushed as it expanded through her space, eventually forcing her to be exposed to the citizens of Volle.
+
+She needs to be much stronger. Or, she needs help. And not just for a single boss fight. Ali considered the problem, turning the options over in her mind. They were unable to continue against the Corrupted Fire Drake, but they were planning on taking out the death-affinity dungeon in the blighted forest next, but perhaps it would be best to switch over to here instead. However, that would delay Lira’s desire to restore her forest.
+
+“Naia, you can’t make boss monsters yet, can you?” she asked.
+
+“What is a boss monster?”
+
+“It’s a monster made more powerful by the mana of the dungeon, with extra skills called domain magic,” Ali said, explaining it for her while gesturing to the twisted aberration before them, but Naia’s response had already answered her question. “Naia, I want to try something, I think it will help you.”
+
+“Ok?”
+
+Gently, Ali reached her hand out and placed it on Naia’s soft membrane, feeling it pulsing and shivering beneath her touch, and she channeled her mana, offering it to the little ooze. It was substantially more difficult this time, making it quite clear to her that she had a limited capacity for tithe enchantments, and she would need to level up or gain a substantial amount of wisdom if she wanted to create another after this, but it finally condensed, and her notification sounded.
+
+You have offered your patronage to Naia.
+
+Naia bobbed and shimmied for a few long moments, obviously reading the notification, and then without question, Ali’s notification sounded again.
+
+Your patronage has been accepted.Naia added as a Protégé.Protégé – NaiaClass: Slime LordTraits: Water, Ooze, Minion, Domain, Stealth, Illusion, Movement, Perception, Wisdom, Dexterity, Intelligence.Your experience, mana, and traits will influence the experience gain of your protégé. Experience tithed back to you via the mentorship tithe may influence your own traits and growth.Enchantment – Tithe
+
+“I’m not sure how much it will help, but hopefully you get a skill advancement that makes you stronger,” Ali explained. She couldn’t stay here in Volle to help Naia all the time, even though she wanted to help her friend. It was difficult to predict what the mentorship enchantment and her mana might do for Naia, but if it unlocked a minion-enhancing skill like Martial Insight or Empowered Summoner, she might stand a better chance when she was alone. Or, she dared to hope, perhaps she could unlock domain enhancement allowing her to turn her oozes into bosses to protect her caves.
+
+“Everyone ready?” Mato asked.
+
+“What should I do?” Naia asked, ripples of anxious energy pulsing chaotically over the surface of her membrane as her color flickered and warped, trying to change to match the rock and creep, almost instinctively.
+
+“The lava and steam oozes come with me,” Mato said. “Put the Sparkling Oozes on the roof and shoot the mean plant from there.”
+
+“Won’t they die?” Naia asked.
+
+“I will heal your slimes,” Ali said. “You find somewhere to hide and watch.” She surveyed her friend’s forces, satisfied that she had chosen well. There were a few Brine Oozes, but most of her slimes were either the Lava Lurkers or Scalding Slimes, with a few Sparkling Oozes for their area damage.
+
+They spent a little while finetuning their positions to ensure that her drakes would not breathe fire on or cleave Mato or the oozes. Then Mato transformed into his Bear Form and charged the plant in the center of the cave, his claws tearing great chunks from the fungal creep as he accelerated. A great roar rocked the cavern followed by an inhuman shriek from the plant as Mato’s claws ripped into the heavy gnarled wood, flinging massive splinters across the cavern as he laid into it like a demented woodcutter.
+
+Instantly, the plant reacted in a frenzy of chaotic whipping branches and coiling bramble vines. High-pitched screeches filled the chamber as the thorny protrusions scraped along his heavy armor and left bloody gashes wherever he was unprotected.
+
+“Mister Thriftpenny, please come on in,” Vivian said as the Gnome storekeeper knocked on the open door to her office. As usual, his tailored suit was impeccable, and he had even chosen an eyepatch that matched his pocket square. “What can I do for you? Is there something wrong with your new store space?”
+
+“Good afternoon, Guildmaster,” he said, stepping into the room. His usual poise and elegance were marred by an undercurrent of anxiety. While he kept his hands clasped behind his back, Vivian could see the subtle interplay of his stamina energy as his fingers fidgeted.
+
+Merchant – Gnome – level 30 (Space)
+
+“Congratulations on level thirty,” she offered, hoping to put him at ease.
+
+“Well, that’s the problem,” he said. “My class seems to have broken, and I was hoping for your advice.” It all came out in a sudden rush.
+
+Vivian forcibly suppressed the sudden gut-clenching pang of worry. She took a breath and said, “Why don’t you sit and tell me what happened?” Weldin had turned out to be a fantastic addition to the guild: hard-working, with excellent skills, and very conscientious. He was personally responsible for much of the guild’s burgeoning relationship with the crafters and artisans in Myrin’s Keep, and she was loath to see something so awful happen to him.
+
+It's not the same as yours, she told herself. Classes generally did not break, per se. Not unless there was a major change, like… a natural path tier-up. Or adding an affinity. However, due to traumatic or critical experiences, sometimes classes pivoted in what they offered as new skills and advances, and if the change was too dramatic, the result could be a terrible conflicting mess of inefficient skills, resulting in something that could never be good at any one thing. It has to be something like that…
+
+“I think it’s because I was trapped in that Goblin dungeon,” Weldin said, sighing as he took a seat. “Or maybe because I got this space affinity from Aliandra’s shrine. I just reached level thirty and there are no merchant skills for me to choose. Everything seems related to dungeons.”
+
+“Why don’t you show me?” Vivian asked – and in seconds her mind’s-eye filled with strangely glittering writing.
+
+Spatial StorageResistance is increased by +[skill]%Mana: store or retrieve an item in your own personal spatial dimension. You can store up to [1000 x skill + 20 x intelligence] lbs.Space, Storage, Intelligence.Dismantle MonsterYou are proficient at evaluating monster parts for crafting or other uses. You are proficient at using daggers, knives, or similar tools for carving up a corpse.Mana: Carve up a monster, retaining the valuable parts for sale or use. Space, Knowledge, DexterityDungeon SurvivalYou are proficient with leather armor.Mana: Warp space around you, making your body much harder to detect. You gain stealth. Space, Illusion, Stealth, Intelligence
+
+Wow, that’s unusual.
+
+Weldin simply sat there in morose silence while Vivian carefully studied the offered skills.
+
+Her first impression was one of surprise – these skills were surprisingly strong. But she could see how a merchant would be devastated at not finding anything that would really improve his ability to move merchandise or manage money more efficiently.
+
+“That does seem to be a divergence,” Vivian said carefully.
+
+Weldin nodded sadly. “Even the Spatial Storage skill offers resistance – that’s a combat class attribute, isn’t it?”
+
+“True,” Vivian said, pinching her chin. The more she looked at it, the more it seemed like it wasn’t really a divergence. Perhaps she was just looking at the whole thing from the wrong angle. What if Weldin’s class had never been a pure merchant at all?
+
+“What can I do?” Weldin said in a tone that told her he would be wailing if not for a prodigious feat of emotional suppression.
+
+“Do you know what a Porter is?” Vivian said, finally realizing what it was about Weldin’s skills that had piqued her curiosity.
+
+“A mule?” Weldin asked, his expression twisting into a sour scowl. “The class that gets exploited across the kingdom and forced into dungeons to carry stuff for the adventurers?”
+
+“Yup, that one,” Vivian said. “I think your class might be a Porter, not a Merchant.” It wasn’t like Porter was an official category that would show up in Identify – it was more a hybrid non-combat class suited for the role because of the unique blend of skills it had.
+
+“I don’t want to be a mule. I like my job as the guild store merchant, and I’d like to keep it, thank you very much,” Weldin stated firmly.
+
+“I don’t intend to force you into anything,” Vivian said, keeping her tone calm and relaxed, and sighed with relief inwardly as Weldin’s agitation and stress visibly subsided. “Let me explain the Porter role to you from the perspective of an experienced adventurer, and then you can make whatever decision you want.”
+
+He nodded, clearly deeply unhappy. “Please.”
+
+“It is true that the class – or role, really – has a reputation for being exploited, but the reason is because Porters are so extremely useful. Unfortunately, being non-combat classes, they have very few ways to protect themselves from unscrupulous delve groups. Most prestigious guilds have a Porter, and their identity is typically a closely guarded secret because they are so valuable. They’re vulnerable to kidnapping. The reason for their value is they multiply the effectiveness of a dungeon group by an order of magnitude – and even more so for raid groups.”
+
+“What makes it so valuable?” Weldin asked, intent on her account.
+
+“Look at that Spatial Storage skill, for instance. At gold rank, we give our adventurers a storage ring with 1750 pounds of storage. At level one, your skill would have more than that, and with just a few skill increases, you would easily be able to store the entire contents of your shop. If you just took that skill and went along with the raid group, you would increase the time they could spend in the dungeon by days, or even weeks, because you could bring all the supplies they needed and carry back everything they harvested or killed. The amount of gold they could bring back from a single delve would be an order of magnitude larger, increasing the reward enormously. That’s why most of the top guilds grant a minimum of a full share of the dungeon haul to the Porter, and sometimes even two or three times more than a combat class.”
+
+Weldin’s eyebrow looked like it was going to crawl under the brim of his hat.
+
+“Now take a look at the Dismantle skill. Adventurers kill lots of dungeon monsters – hundreds, sometimes thousands if there’s some kind of swarm, for example. You would be bringing back the bones, hide, scales, teeth, blood, or whatever is valuable from everything they kill. Most adventurer groups leave the bulk of that stuff to be reabsorbed into the dungeon and wasted because they can’t harvest it and don’t have the space to store it all. With the three skills you’ve been offered, you would make a fortune on every single delve.” Successful delve, Vivian amended in her mind – but now was not the time to dredge up old history.
+
+“I have one skill I think I can part with,” Weldin said, deep in thought. “Which two should I take? Storage and Dismantle?”
+
+“I think the Survival one is essential too. Dungeons are dangerous places, and you need to be able to survive. Your group will protect you, but that skill is strong. May I see what else you have already?”
+
+Weldin shared his full skill list, and Vivian carefully studied it, meantime thinking that he did not seem averse to dungeon delving – quite the opposite, in fact.
+
+“Were you thinking of scrapping Accountancy?” she asked.
+
+“No, Evaluate. I have Appraise as a general skill, so I don’t really need Evaluate also.”
+
+“My recommendation would be to drop Accountancy, too; you can hire someone to do that. And you can teach Mieriel to manage your store while you’re out in the dungeons,” Vivian said. Weldin’s about-face on the Porter class seemed heavily influenced by the sheer amount of money he would be making for himself, but it would be an incredible boon to the guild and to the adventurers that he grouped with, too. And Vivian hadn’t been exaggerating the value of a Porter – if anything, she had undersold it. The true value would likely be unbelievable.
+
+“Ok. Done,” Weldin said. “Who should I talk to? And do you have any other suggestions?”
+
+“I would talk with Aiden and Teagan. They are the closest groups to your level. And maybe have a quick chat with Basil – he is a non-combat class who is working with the adventurer groups, so he can give you some personal insight. You can further increase your efficiency by learning a few general skills like gathering – specifically, Skinning and Herb Gathering may be the least useful because of your Dismantle and Basil’s skills, but Mining, Cooking, Disenchanting, and Camping skills might be very useful.”
+
+“Ok,” Weldin said, pulling out a neat stack of paper and an ornate quill pen to take notes.
+
+“There is also a fairly obscure general skill you can learn called Dungeon Harvesting; Ryn can probably help you research more details in the library. It helps you to find edible plants and harvest them – not normally that useful – unless you happen to have a nature-affinity dungeon like Aliandra’s. It might not sound like much, but all the produce grown in a dungeon is mana-infused, and the cooks are going to go crazy for even a single dungeon-grown apple.”
+
+“This is excellent,” he said, nodding. “I remember the frenzy when Aliandra fed the town.” He licked his lips lightly. “Yes, yes, very good.”
+
+“Oh, you’re a space-affinity user. For your level forty unlock, keep an eye out for mass teleport skills, or skills that might develop into that. The most effective Porters can teleport their raid group into dungeons across the continent and sell their wares in any city in the world.”
+
+Weldin’s eye grew wide with surprise and excitement. “What?”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,295 @@
+---
+id: 01b7b96f-b04f-5f27-9007-e3a74393296d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18: Fire in the Darkness"
+slug: 0018-chapter-18-fire-in-the-darkness
+partOf: dungeon-of-knowledge-complete
+position: 18
+ownLength: 5015
+unit: words
+ownProgress: 5015
+publishedAt: 2024-02-14
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1518186/chapter-18-fire-in-the-darkness"
+royalRoadId: "1518186"
+markedReadAt: "2026-06-29T20:11:35.917Z"
+---
+
+Aliandra
+
+Ali followed along, bringing her summoned monsters prowling beside her as they picked their way through the dark, bone-littered area of the cavern. Calen had surprisingly sharp eyes, easily calling out the skeletons hidden in the darkness well before any of the others could spot them, saving them time and again from deadly surprises.
+
+With each skeleton that crawled, clacking and creaking out of cracks in the walls or from behind decaying trees, her terror rose anew as she struggled to shed the fear and helplessness of that night fleeing from monsters through the deserted streets of Dal’mohra.
+
+Malika tanked with gritty determination and resilience, withstanding the onslaught of the undead monsters with her body and her healing magic while Ali strove to kill them as fast as she could manage. And each time one died; she felt the rush of pure relief once again. She hated the skeletons, but at least she was no longer fleeing them in abject terror.
+
+“Looks like a cave entrance up ahead,” Calen said quietly.
+
+Ali stared ahead, squinting as she tried to pierce the gloom, but all she could see were shadows. It wasn’t until they had walked about halfway there that she finally made out the darker outline that marked the jagged gap in the rocky wall. A cool, dry breeze wafted out from the opening, carrying the smell of stone and just a hint of something burnt.
+
+“Shall we explore it?” Calen asked.
+
+“Yes, let’s go see what’s in there,” Malika agreed. “Though, if it’s a bunch of skeletons together, we run. One is my limit, I think.”
+
+“I’m game,” Mato said.
+
+“Ok.” Ali added her vote, trying to ignore the fluttering in her belly.
+
+“Ok, let’s go,” Malika said.
+
+Ali crept toward the entrance, keeping behind the others, barely breathing as she tried not to make a sound. There was a tense moment as Calen’s Mote of Light drifted through the jagged opening, slowly illuminating the interior of a cave that probably hadn’t seen light in thousands of years.
+
+She gasped; her breath caught abruptly by the sudden bands of tightness that clamped across her chest.
+
+The cave was not particularly large, but the ground was littered with a thick layer of broken bones. Huge heaps of bone lay piled up against the walls as if blown there by some violent squall, gleaming a bleached white under the radiance of Calen’s floating magic. At the back of the cave, a small stone-paved square of ground remained mysteriously clear, and in the center was a black hole leading somewhere below.
+
+Guarding the hole was a skeleton.
+
+Warrior – Undead Skeleton – level 9
+
+It had no legs. Instead, its torso loomed nearly three meters above the coils of what must have been a long tail on the ground – now naked vertebrae and ribs. It had an elongated skull with giant protruding fangs, and four arms held four rusty scimitars. An eerie scraping pierced the silence as the Naga skeleton shifted, dragging bone across the rough stone paving.
+
+“Armand…” Ali gasped, choking on the sudden lump in her throat.
+
+Malika
+
+A chill settled into the pit of Malika’s stomach as she stared at the monstrous skeleton looming large in the center of the small cave. It was some kind of four-armed Naga that stood nearly ten feet tall even with most of its body still draped across the ground.
+
+The skeletons outside this cave hit unbelievably hard, and she was immensely grateful for her Enlightened Evasion and Soul Armor skills – and the fact that, so far, they had only encountered them solo. Taking on more than one skeleton simultaneously was simply out of the question, she had to heal continuously to tank just one. And annoying as he sometimes was, she had to admit that Mato’s ridiculous skill that allowed him to take damage for her whenever she was in trouble, had saved her several times already.
+
+But this thing was enormous. This is going to be tough.
+
+“Armand…” Ali said, with a sudden hitch in her voice that caught Malika’s attention instantly, making her heart lurch.
+
+“Ali?”
+
+But Ali was unresponsive, her eyes glued to the monster, her body trembling.
+
+Gently Malika placed a hand on her shoulder, and Ali startled, her head snapping around to stare at her. Malika could see the tears welling up.
+
+“Somebody you knew?” Malika asked, trying to keep her voice as gentle as possible.
+
+“Armand,” Ali said, swallowing hard. “He… he was a dear friend who saved my life.”
+
+“We need to kill that,” Mato said, his lips curled back like a wolf or bear tasting something foul.
+
+“But…” Ali said, her voice sounding tiny and brittle.
+
+“That’s not your friend anymore,” Mato said, his voice softening.
+
+Ali looked like she was about to shatter.
+
+“I have to agree with Mato, Ali,” Malika said, crouching down to look her in the eyes. “That thing in there is a monster wearing the bones of your friend. Armand is long gone. We should kill it and release your friend’s remains so he can be with his ancestors in the spirit realm. Just like we did with Donavan.”
+
+“Ok,” Ali said, sniffing, clearly struggling to hold back her tears.
+
+Malika stood, readying herself. “Mato, I’m going to need a lot of help with this one.”
+
+“I got you covered,” he said.
+
+“Hold up,” Calen cautioned.
+
+Malika glanced at the Half-elf as he stared at the monster with narrowed eyes.
+
+“My Explorer skill is identifying it as a dungeon boss,” he said.
+
+Malika’s notification sounded like a strangely hollow gong in her head as Calen shared his skill.
+
+Warrior – Undead Skeleton – level 9
+
+[Explorer]Category: Dungeon BossThreat Level: GroupMonster Type: UndeadDamage: Physical
+
+A chill ran down her spine. The regular skeletons had hit hard enough. How much harder will a boss hit? And it was level nine.
+
+“What’s a boss?” Ali asked quietly in the darkness.
+
+“A monster that is stronger than normal,” Malika explained. “Adventurers have categories of threat. Bosses are usually found in dungeons, and usually require a group of adventurers to defeat.”
+
+“How many in a group?”
+
+“Four to six, depending on levels, strength, and classes,” Malika replied, glancing over to Calen to confirm. The truth was somewhat worse though – bosses were supposed to require excellent team coordination in addition to simple numbers.
+
+“I still think we should try to kill it,” Mato said. “The undead are abominations against nature. They spread blight and death and nothing good will come of us leaving it here.”
+
+He certainly hates the undead, she thought. But she was inclined to agree with him, if it were not for the extreme danger, she would also choose to destroy it.
+
+“Perhaps we can test it, and if it seems too dangerous, we retreat?” Calen said. “With Ali’s summoned monsters, we’re quite a strong party, but if it’s too strong we could level up a bit more and come back later.”
+
+“I could go for the ‘try it and run away’ plan,” Malika answered. “What about you Ali? Are you ok?”
+
+“I’ll be ok,” Ali said. “Let me summon another rat.”
+
+“Ok, same plan as usual,” Malika said, waiting for Ali to finish her summoning before she turned and entered the cave.
+
+The four-armed Naga skeleton turned at the sound of her footsteps, its bones and swords clanking discordantly in the enclosed space. A whisper of wind rose from the dark hole in the ground, bringing with it the smell of dusty catacombs and a hint of acrid brimstone.
+
+She hadn’t taken more than two steps before the monster rushed at her, crossing the bone-covered ground with an incredible burst of speed, brandishing all four swords. She dodged left. Three powerful overhead swings whipped past her face, sending chips of bone and dirt flying, and her heart racing. Malika spun, unleashing a spinning kick empowered with her Soul Strike to land her first attack on its lower ribs with a flash that briefly overpowered Calen’s light.
+
+She dodged a fourth horizontal slash and stepped further into the cave, positioning the monster where Ali’s summons and Mato could easily reach it. She punched it a second time and everyone engaged as if the brief clash had stung them into motion, unleashing a light show of magic and arrows and the sudden din of combat that rang loudly in the close confines of the small cave.
+
+Not so bad, she thought as she lined up another attack.
+
+In that moment, the skeleton’s swords all glowed with a dull red light and suddenly she was flying across the cave to slam into the wall with a stunning impact. She coughed once, half of her health ripped away in an instant by the sword that had cleaved clean through her chest. She slid down the wall, struggling for breath with the tattered bloody remnants of her lungs, and landed with a crash in a pile of bones. Urgently she channeled her mana to heal herself as a sense of impending doom settled upon her.
+
+Out in the center of the cave, the swords glowed again, slashing viciously. Mato’s heavy fur-covered body slammed into the wall with a thump that reverberated in the cave. A dense wave of his red mist of rage billowed out from his battered and bleeding body. An instant later, Ali’s wolf flew across the cave, bisected by the sword slash, landing with a splat in two gruesome bloody pieces.
+
+We’re going to die. The colossal magnitude of their mistake hit her like a gut punch of absolute certainty.
+
+“Run!” she croaked, coughing up left-over blood as her brain struggled to catch up with the whiplash of having her lungs ripped out and then nearly instantly repaired.
+
+Over at the cave entrance, something flickered like a dark shadow crossing the sun. A deafening thunderclap reverberated off the rocky walls, and Malika blinked at the sudden afterimage of a shadowed figure blurring across the ground with a silver spear pointing forward. A silver flash heralded an explosion of bone, and the pieces of the giant Naga skeleton rained down across the entire cavern.
+
+Your group has defeated Skeletal Warrior – Undead Skeleton – level 9.
+
+What the fuck? She stared uncomprehendingly as rusty scimitars clanged against the stone with bone fragments clattering down beside them.
+
+A shrouded, hooded figure clad in black leather stood where the skeleton had been, holding a glowing steel spear casually in his left hand. A premonition of danger knotted Malika’s gut at the sound of a gloating chuckle rising from a second figure entering the cave.
+
+“No more running for you, little rat.” It was Edrik’s voice, dripping with his sadistic glee.
+
+Which means… she looked back at the shrouded figure as he dropped his hood, revealing his face.
+
+Fuck! The knot in the pit of her stomach froze in an instant.
+
+She instantly recognized Kieran Mori, leader of the Town Watch, and Adrik and Edrik’s boss. The man known as ‘Sudden Death’.
+
+And lurking behind Adrik and Edrik at the entrance was another shadowed figure that Malika recognized.
+
+Tala.
+
+It was abundantly clear to Malika, in that moment, exactly what had happened. Tala had sold her out, betraying her to the thugs of the Town Watch, and by the contented look on her face, she was the one who stood to gain the most from her death.
+
+“Let me show you what it means to betray us, little rat,” Edrik said, stepping forward with his sword already drawn.
+
+Malika watched her executioner limber up his arm as he strode across the bone-littered gap separating them. It would not even be a contest. She knew he was over level twenty, and he would take her choosing a Monk class as a personal insult. The sword blurred towards her.
+
+I wish I had gotten more time.
+
+Before the sword strike landed, a blur of red mist and muscle slammed heavily into Edrik’s side, knocking him sideways and drawing a surprised grunt, stopping him as suddenly as if he had run headlong into a wall. Mato stood there; four paws planted as his huge bulk blocked Edrik’s advance. He roared his rage, spraying pink-tinged foam from his mouth.
+
+Malika gawped, stunned. Why? It was a hopeless battle; all he was going to achieve was getting himself killed as well. Her eyes took in the scene, as if in slow motion; Edrik slowly getting to his feet, his face twisted in murderous anger, Mato looming between them, blood gushing from the grievous sword wound the skeleton had inflicted, his cloying mist of rage billowing from his body.
+
+As Edrik charged, Malika reacted. She reached out her hand and touched Mato’s back, unleashing as much of her mana and stamina into her Healing Mantra as possible.
+
+Live! She screamed it in her mind as her magic tore through his body in a rush of desperate healing the instant before Edrik’s sword lifted him from the ground and tossed him across the room. The bear slammed into Ali’s tiny body and, with a loud crash and a startled yelp, suddenly both of them were gone.
+
+“Edrik, you’re ruining the merchandise,” Kieran said, his voice glacially calm.
+
+Edrik immediately halted, as if frozen in place. “Sorry, boss.”
+
+“Now secure the rest before we lose any more. Without that Fae, it will be hard to turn a profit from this fiasco.”
+
+His cold eyes swiveled and settled on Malika. Her vision faded to black as an intense pain blossomed through the back of her head. She hadn’t even seen when Kieran Mori had moved.
+
+Aliandra
+
+The sword flared with an angry red searing light as it arced around in a vicious empowered strike. It bit into Mato’s flank with a sickening crunch, spraying crimson blood into the air, and a force so powerful that it lifted the entire mass of the bulky bear into the air, tossing him across the room flailing like a ragdoll.
+
+Ali stared, dumbfounded, at the sight of a bear growing rapidly larger as it hurtled through the air toward her, her mind unhelpfully reminding her of the physics of the situation, and how Mato outweighed her several times over. Too late, she tried to run, but Mato’s body struck the ground right in front of her, bounced almost a meter into the air, and then collided with her tiny frame. Something crunched. The impact knocked the wind from her lungs, throwing her across the darkness of the hole to crash into the rocky wall behind it. She felt a sharp jolt of pain as her head cracked against the rock, followed by the sickening lurch of weightlessness. In her daze, she desperately tried to process the yawning expanse of empty darkness below her feet.
+
+Falling!
+
+Her body flailed, feeling strangely languid as the echoes of the impact pounded through her dazed mind. Panic clamped her chest.
+
+Think!
+
+The smooth walls of a stone shaft whipped by in a blur as she and the dim bulky outline that was Mato plummeted into the dark unknown, and in that moment her muddled thoughts suddenly sharpened into crystal clarity.
+
+I’m going to die.
+
+In desperation, Ali reached for her mana; stretching out a hand below her, she summoned a barrier. For one brief moment, it shone out with the bright golden glow of hope, banishing the darkness. Her body smacked into it with a bone-jarring stop, radiating a spiderweb of cracks through the magical surface. Her respite was fleeting; Mato’s enormous bulk crashed down on top of her, shattering the barrier into tiny glowing shards and splinters of spent magic.
+
+She fell.
+
+Forcing the pain and shock of the double impact aside, Ali summoned a second barrier. But the sheer momentum of her and Mato’s fall shattered the barrier instantaneously, filling the stone shaft with golden light, and drawing her terrified attention to the endless darkness below.
+
+She cast it again.
+
+Desperately, she burned her mana, casting and recasting barriers as they smashed their way through her golden magic in a precipitous descent of exploding shards and jarring pain. Somehow, Mato managed to twist his bulky form so that he was below her, taking most of the impact instead of her. She clung to his blood-soaked fur with all her pitiful strength, while she chain-cast her barriers, heedless of the cost.
+
+With a loud, sudden thump, Mato collided with something solid and stopped. Ali bounced off of his furry stomach and landed in a painful heap on the cold stone floor at the bottom of the shaft, stunned and dazed, watching the shards of her broken magic slowly rain down on them like fading golden snowflakes while she struggled to breathe. Something inside her had broken. Her body ached, her head was throbbing, her breathing was agony, and she had spent nearly all her mana.
+
+Health: 12/100
+
+Mato groaned beside her as his form twisted and morphed back into his normal body.
+
+Alive.
+
+The word drifted around her stunned mind for a while before it began to make any kind of sense. How am I alive? Somehow, that crazy stunt with her barriers had slowed their descent enough that the landing at the bottom had not left them as splattered bloodstains on stone.
+
+Although she felt like she would have preferred to be pushed down a mountain.
+
+Mustering her scant remaining strength, Ali willed her bruised and battered body to move. She winced at the jab of pain in her side.
+
+Whatever broke in there must have been important.
+
+She bled freely from several cuts, and likely, her entire body was one large bruise. Slowly, she sat up and glanced around, trying to grasp what had happened, and where she was.
+
+By the fading light of the last remnants of her barrier magic, her eyes took in an area of dust-covered, fitted flagstones, and the unmistakable precision and artistry of Dwarven stonework in the walls of the dark chamber they had landed in. As her gaze searched across the stone room, she suddenly froze. There, staring back at her from the darkness, she found three sets of glowing red eyes.
+
+A flicker of flame sprang up in the darkness, its red glow lighting an outstretched taloned and scaled hand. The flames intensified, condensing into an angry orange-red ball hovering in the air. Her instincts screamed at her to flee. Dancing reddish light grew stronger, illuminating a blunt reptilian face. The scent of smoke and flame, and the sounds of crackling and sizzling filled the room.
+
+“Mato!” she shouted, her voice cracking with panic and urgency. She spent the dregs of her mana to summon one last barrier between them and the high-speed ball of fire that shot out across the room.
+
+The fireball shattered her barrier in a deafening detonation of flame and heat. Like a ragdoll, her body was tossed by the concussion wave of force and heat and slammed into the beautiful dwarven stonework. She slid down to the ground, ears ringing and lungs burning as she struggled to breathe in the suddenly scorching air.
+
+Still alive? I’ll never doubt Malika again. Every point of vitality was worth it…
+
+Dimly, she heard Mato’s yell twisting strangely into a roar as he transformed into his Bear Form. The burns and scorch marks down the side of his body were so severe in places that the white of his ribs could be seen through the burnt flesh – a gruesome testament to the power of the monster’s fire magic. Did he take some of my damage too? Smoke from the flame mingled with the red mist of his rage as Mato tore across the room and collided with the monsters with a display of aggression and savagery that shocked her to the core. For once, Ali was grateful for Mato’s eagerness to dive into battle, but his demeanor and the density of the red mist flowing around his body told her just how severely he must have been burned.
+
+Why is this happening? She wanted to wake up, run away, or do anything to make this stop. But she couldn’t. No matter how much she wanted it, the air still burned in her lungs, and her head still throbbed with searing pain.
+
+Instead, her mind clung to the memory of Malika’s calm voice coaching her through their first battle together, and the torrent of panic settled just a little.
+
+Ali drew a deep breath. What can I do? She wouldn’t be effective if she didn’t at least understand what she was facing – she was not Mato, someone who could just wade in and figure it out on the fly. Using Identify, she examined the monsters engaged in brutal melee with Mato.
+
+Mage – Kobold – level 9Rogue – Kobold – level 8Warrior – Kobold – level 8
+
+Kobolds! Her panic immediately loomed larger when she saw just how high their levels were. I’m five and Mato is only level three! Urgently, she rechecked her mana while Mato roared his challenge, but it would be a while before she could regenerate enough to be of any help to him.
+
+The warrior was a little bigger than the other two, standing perhaps a little over a meter tall, covered with dense green scales that gleamed in the flickering light of the still-burning remnants of flame strewn across the room and dripping down the walls. The Kobold’s swings and jabs with its rusty sword were deft and quick as it darted back and forth, balanced well on taloned feet and a sturdy tail. Short, sharp white horns protruded from its head and a row of sharp fangs lined its mouth, lending it a monstrous, almost draconic appearance, while its reptilian red eyes were filled with malicious cunning as it focused on dodging Mato’s wild swings and slicing at him from the side.
+
+“Mato! Use your heal!” Ali yelled, realizing that he was already so far gone in his rage that he had forgotten to activate his healing skill yet again. To her intense relief, the greenish flicker of his magic activated on his swipe and his wounds began to recover slowly.
+
+Thank goodness, she thought. She had been terrified that he was too far in the rage to hear her.
+
+The smaller, black-scaled Kobold chittered in a high-pitched call, darting out of the shadows to flank Mato with uncanny speed. Using its black scales and blackened leather armor to great effect in the shadows, it buried two daggers in his back before he could even react. Mato roared in pain and lashed out with his claws, but the Kobold rogue deftly sidestepped, dodging back in to make another attack. The green-scaled warrior in front of him slashed across his shoulder with its sword, taking advantage of the sudden distraction.
+
+The malevolent red Fire Mage, however, was the one that terrified Ali the most. It hung back at the far side of the room, fixing its glowing eyes on Mato and summoning its fire once more. Its claws gleamed in the intensifying light of the flames it conjured and the walls of the room began to flicker with dancing shadows. With a cold certainty, Ali knew that if that fireball hit Mato, it would all be over.
+
+She cast around the room, desperately looking for something, anything. But there was nothing to even throw, not that she could throw anything effectively. She racked her brains, frantically searching, when suddenly a flash of inspiration came to her. She reached out towards the mana she was still reserving to support the rats left behind in the cavern above and with a painful wrench, she broke the connection. It wasn’t much, but it was all she had.
+
+“Mato, mage!” she yelled, unleashing an arc of glowing arcane bolts at the red-scaled Kobold who was still summoning his fire magic. Mato clearly heard her because he broke off the engagement with the warrior and rogue, and with a burst of speed from his skill, charged at the mage. The instant he moved; the fireball flew from the Kobold’s outstretched claws. With reactions born from sheer desperation, Ali summoned a barrier between them with some of her precious remaining mana, angled to deflect the imminent inferno.
+
+The violent explosion rocked the room, filling it with smoke, flying gobs of fire, and the glowing shards of Ali’s shattered barrier. The blowback from the fireball knocked the Kobold mage rolling head over heels across the stone floor. The concussive explosion tore further wounds along Mato’s shoulders and flanks, but much to her relief, Ali’s barrier had blunted the bulk of the explosion, and he still stood.
+
+He swayed a little.
+
+Ali fired Arcane Bolts into the downed Kobold mage while it scrambled to regain its feet in the aftermath of the explosion, but to her horror, Ali’s mana dried up and the mage immediately began summoning more fire.
+
+No! Her barrier had cost most of the mana she had regained – she had nothing left to stop him.
+
+In that moment, Mato descended on the downed Kobold, pounding it senseless with a mighty swipe of his forepaw. Then his jaws closed on its neck, shaking it, and tossing the creature against the wall, where it fell limp and lifeless to the stone floor. The half-cast fireball careened off into the corner and detonated, spraying fire across half the room. Several flaming gobs landed on her, burning through her clothing and searing her arm and both legs. Ali hissed in pain as her vision dimmed briefly, coming back in a wave of dizziness.
+
+Mato still tangled with the rogue and the warrior while bleeding profusely from dozens of severe stab wounds and gashes, but Ali was completely out of mana again. Helpless without her spells, and terrified of being noticed and attacked, she sprinted unsteadily across the room to the corpse of the Kobold mage and began to deconstruct it. Seconds ticked by like dripping molasses as Ali watched the rogue’s daggers repeatedly stabbing Mato while his healing magic struggled and failed to keep up with the onslaught. The ground was slick with blood and Ali had never seen his misty aura so dense and red. He was spitting foam and blood from his mouth as his attacks became more and more erratic and violent. Fresh smoke rose from his burns, and the room was filled with the stench of partially cooked flesh, burnt fur, and sulfur.
+
+Finally, after seemingly forever, her spell finished with the rush of mana filling her pool. Immediately, she summoned a Barrier to block the rogue’s dagger strikes and cast her Grasping Roots to lock it in place, giving Mato some room to maneuver. However, Mato ignored the rogue, slashing at her barrier with his claws instead.
+
+“What are you doing? Move!” Ali yelled. But Mato simply growled and tried to bite her magic, dripping bloody froth all over the barrier.
+
+He can’t hear me anymore, she realized, releasing her barrier so that it wouldn’t distract him further. Instead, she channeled her mana into her Arcane Bolts and fired them as fast as she could at the rogue, deciding that it was by far the most dangerous of the two remaining Kobolds. Ali emptied the rest of her mana into the rogue, finally dropping it right as she ran dry with Mato landing the final attack, able to connect with a swipe because her roots were interfering with its ability to dodge.
+
+Ali left Mato to deal with the remaining warrior. Dodging gobs of fire, her feet slipping on the blood-soaked flagstones, she ran back across the chamber to the corpse of the rogue and began to Deconstruct it. As she urged her magic to somehow work faster, she kept glancing at the brutal fight unfolding before her, checking on Mato, hoping she would be done before he succumbed to his grievous injuries. Even his eyes were beginning to glow red, and the dense mist around him seemed to be pulsing with an ominous heartbeat. He knocked the warrior back with a powerful attack, taking a deep cut on the shoulder from its sword. Lost to the rage of his Berserker magic, he simply ignored the ugly wound.
+
+Ali was forced to look on, helpless to intervene, while her magic continued to dissolve the corpse at her feet.
+
+As soon as it finished, she immediately poured her mana into Arcane Bolt, and the stream of magic slammed into the warrior, sending green scales flying. Anxiously, she watched her mana dwindle as the bolt stream curved across the room. Suddenly, and with an anticlimactic swoon, the remaining Kobold collapsed to the sound of a soft chime going off in her mind.
+
+Ali sunk to the ground too, exhausted, burned, and in extreme pain. Mato continued growling and shaking the corpse of the warrior.
+
+“Stop it, Mato, it’s dead,” she said, exhaustion and the aftermath of shock and adrenaline finally crashing down on her.
+
+Mato turned gleaming red eyes on her and roared, suddenly charging at her. She screamed in sudden panic and created a barrier at the last moment. His large frame slammed into it, spraying blood across the golden surface. He roared and attacked the barrier, biting it repeatedly.
+
+“Mato! Stop!” she shouted, the panic making her voice crack. He was completely out of control. She scrambled backward along the ground in her haste to escape the enraged bear. His heavy paw smacked into the floating barrier, shattering it into tiny floating golden shards.
+
+Her eyes opened wide with shock, and she screamed as the huge bear charged her. She summoned another barrier, but all she got was a fitful puff of golden glitter that bounced off his snarling muzzle. His foaming jaws bit down on her ankle with a sickening crunch. Her tiny body was no match for his power as he shook her back and forth. Her ankle snapped with a loud crack, a surge of incredible pain, and with a dizzying lurch her vision faded to black.

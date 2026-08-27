@@ -1,0 +1,241 @@
+---
+id: 911beaa2-5087-5eb7-967e-9eff88056274
+page-type-slug: story-chapter-royal-road
+title: "Chapter 120: The Aftermath"
+slug: 0121-chapter-120-the-aftermath
+partOf: dungeon-of-knowledge-complete
+position: 121
+ownLength: 5001
+unit: words
+ownProgress: 5001
+publishedAt: 2024-08-24
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1772518/chapter-120-the-aftermath"
+royalRoadId: "1772518"
+markedReadAt: "2026-06-29T20:15:07.168Z"
+---
+
+Mato roused himself quietly and sat up. Without a lit campfire nearby or the benefits of their tents and sleeping bags, the library was chilly and dark, and the hard, cold stone he had slept on had left him with a few aches and what felt like a new bruise on his hip.
+
+He stretched, hearing his spine pop several times before he got to his feet and glanced around. Everyone was still sleeping, but he knew that they would soon wake, and they would probably be hungry – at least, he was. It had been a trying day yesterday, but he was glad everyone had finally gone to bed in good spirits.
+
+As he busied himself setting a small fireplace, he reflected on what had happened. It had not been his preference to hide Ali’s secret from her, but even then, he had not imagined… any of this. What she had experienced when the Watch attacked must have been terrifying.
+
+Poor Ali. He glanced over at her lying on the stone ground, shivering in her sleep. She had the roughest time. We won’t let that happen again. Never. He might not know if it was a nightmare or the cold, but he checked his storage quickly and retrieved a small blanket, placing it carefully over her small frame, trying not to wake her.
+
+He smiled as her shivering stopped and then busied himself setting a new fire. Most of his cooking gear had been lost in the forest cavern – including his favorite large saucepan – just one more insult to add to the Town Watch’s tally. Serves me right for trying to save space in my ring, I guess. At least I still have a decent pot – we can have oats.
+
+His thoughts returned to the events of the last couple of days while his hands carried out the familiar tasks of preparing breakfast. The Kobolds in the cavern above had hardly counted – all of them being far too low-level to present a real challenge, but the Spectral Wolves had been something else. He frowned, recalling the stench of undeath on them and the blight that had ravaged Ali’s Aunt.
+
+That necromancer is going to be trouble, I just know it. The problem was he couldn’t just waltz into town and tell the Mayor, the Guildmaster, or the Garrison Commander. Sorry, Mom. Your son is an outlaw.
+
+Malika and Calen had agonized for days over the necessity of killing the Town Watch pillagers, but they had attacked first and offered Malika no quarter. Or Ali, he thought, frowning. They had it coming. He wasn’t about to let squeamishness get his friends killed. It had been a great fight though; a perfect test of his skills. He had taunted the entire melee group off of Malika and used Charge to group them up on top of the ranged classes – the mages and archers – before they had time to react. Once he had the battlefield set up the way he wanted, he had abused his Swipe: Battle Master advancement to impose total control. More than half of the squishy classes hadn’t even figured out that trying to run would get them punished before they died to his claws.
+
+He stirred the pot slowly while he visited the large tree in his mind, checking the roll-up of his progress over the events of the last few days.
+
+Druidic Shapeshifter has reached level 39.+10 attribute points.Arboreal Sanctuary has reached level 20.Swipe has reached level 27 (+2).Brutal Restoration has reached level 28.Bear Form has reached level 27.Survival Instinct has reached level 17.Battle Trance has reached level 10.Identify has reached level 10.Cooking has reached level 7.
+
+Hmm, one more level to forty. He glanced over at Ali, shocked to see how many levels she had gained while she had been stuck down here. What on earth did she do? The two fights were worth a level for him, but Ali must have been fighting constantly for the last four days to advance as much as she had.
+
+I’m just going to need to work harder. He spent three points each on vitality and strength, improving his health and his attack power. Then he added two points to endurance to improve his tanking skills and resilience. His final two points went to wisdom, reinforcing his mental defenses and improving most of his Druidic magic skills.
+
+That’s a good start.
+
+Ali’s awareness struggled, mired in the tar pit of deep slumber, but ultimately it was the delicious aroma of Mato’s cooking, and the crick in her back, that finally roused her to wakefulness. Where… bleary-eyed, she glanced about her unfamiliar surroundings. She lay on a hard stone floor, covered with a warm but unfamiliar blanket. Where is my sleeping bag? My tent? Encrustations of bone protruded from the walls, and a heavy, cloying mana seeped into the space from somewhere behind her. Oh, the library. And with that, the awful memories of the last several days crashed in on her, instantly obliterating any possible remnants of sleep from her mind.
+
+Off a little way to one side, she could hear the voices of her friends, muted as they tried to allow her to sleep. It had been hard to take Lira’s advice, but she was grateful for it, and the fact that she had been able to reconcile with them. However, who knew how long it would take to fully restore their sense of camaraderie, if ever. Can I still trust them?
+
+Wait, I usually wake first, don’t I? She was used to having a couple of hours to herself before the others woke, but she still had a blank spot in her memory, and just the image of the devastation in the jungle to explain it. It must have taken more out of me than I thought. While she lay quietly in the dark, she wrestled with her situation. She was certainly wanted dead – not alive, they had been very clear on their preference – by the Town Watch, for the crime of having the wrong class. But she had her friends. And, beyond all expectations, Lira was alive.
+
+Carefully, she browsed through the parchment pages of her gold and green book – her mind’s representation of her notifications and status – trying to piece together what had happened.
+
+Grove Warden has reached level 45 (+5).+50 attribute points.
+
+Apparently, I’m level forty-five now? She searched backward till she found the notifications. No unspent attribute points remained, so she must have spent them at some point over the last couple of days. He was a level sixty-two Ice Mage? Killing Roderik by herself had earned her two class levels. The three subsequent levels had been earned by wiping out the jungle, it seemed.
+
+Painstakingly, she pieced everything together, adding everything from Roderik through the twisting of her domain to accommodate Lira’s mana.
+
+Minion Teleport has reached level 8 (+7).
+
+A whopping five of the levels in Minion Teleport had been earned in her frenzied flight from Roderik. She shivered involuntarily at the memory of his ice magic creeping through her flesh after piercing her. The rest of her skill increases must have been earned for using her skill in the jungle – for what, she had no idea.
+
+Arcane Insight has reached level 25.Sage of Learning has reached level 18.Domain Mastery has reached level 12 (+5).
+
+Her skills were all over the place. Arcane Insight, Sage of Learning, and the insane five levels in Domain Mastery had all come from the astonishing mana bending she had performed to save Lira and herself from the dungeon-rage caused by their domain mana clashing. She still had no idea how she had pulled that off, but she was grateful she had been able to do it in time to save her. At least most of these skill levels she remembered earning.
+
+Barrier has reached level 33 (+3).Grimoire of Summoning has reached level 28 (+3).Martial Insight has reached level 26 (+3).Empowered Summoner has reached level 22 (+2).
+
+The growth in her Barrier and Grimoire of Summoning skills had to be the result of the devastation and incursion of her domain into the jungle, along with two of the levels in her Domain Mastery skill. Her combat skills, Martial Insight and Empowered Summoner, only leveled in combat, so that had to have been from fighting.
+
+Gaining skill levels in Grimoire of Summoning seemed particularly surprising – she had always struggled to get it to level fast enough for the imprints she wanted, but it had leveled three times. Perhaps the extensive use in combat? She had a feeling that her entire time in the jungle – which must have been a couple of days – was all spent in continuous battle. How she had found the time to summon things mid-battle remained an impenetrable mystery.
+
+Arcane Recall has reached level 5 (+4).
+
+She stared at the last one for a long time.
+
+Mom…
+
+Arcane Recall had undoubtedly saved her life. She had been far too busy at the time to dwell on it, but lying in the darkness clutching her mystery blanket, the emotional impact of the skill suddenly crashed in on her. It was undoubtedly the same magic her mother had used to save her: at least a nascent version – her mother’s spell had been a legendary invocation of breathtaking elegance and power. It was that unforgettable flickering gray landscape and the sense of frozen time that left its indelible imprint on Ali’s mind. There could be no doubt.
+
+I lost Arcane Bolt. It had been a sacrifice she had made in the heat of the moment, a desperate grasp for a thread of hope in the moments before dying at the hands of Roderik. When she had first been offered Arcane Recall, she had eventually passed on it in favor of Minion Teleport because of the steep cost of a twenty-four-hour recharge. Had she known what the spell truly was, she would have taken it in an instant. Now that she had it, there was no way she was giving up her mother’s spell to recover her old Arcane Bolt. But it did leave her with a ton of questions.
+
+Does that mean I’m no longer a combat class? She quickly dismissed the idea though. While it was true that her discarded Arcane Bolt – and her earlier Grasping Roots skill – were her only personal damage skills, she still had minions to deal damage for her. Barrier was a Defense-trait combat skill, although the forest of sharpened barrier shards impaling corpses in the jungle might call the defense part into question.
+
+It would most certainly fundamentally change how she approached combat. I should probably discuss it with Calen and Malika, she thought, and then suddenly realized that they were sitting close by, and the fact that she actually could discuss it with her friends was quite a precious thing. I won’t take it for granted again.
+
+The bigger questions would likely remain unanswered for a while. How do I have this skill? And what is it? Mana affinities and even some skill traits or types were known to run in families, but this seemed something more. With just the description, she would have guessed it was a true bloodline skill, but her status page showed nothing like that. Is it related to my arcane mana being golden instead of purple? Is it a Fae thing? But no answers were forthcoming. Just as opaque was the nature of how the spell even worked. She was far more widely read than most, especially on the nature of magic. Scholars seldom agreed, but there was almost unanimous acknowledgment in the literature that true time manipulation magic was impossible – a fantasy. It would cause far too many problems with the fundamental rules of the universe and mana itself. However, haste came in many forms, and could be incredibly fast, resulting in spells that were functionally equivalent to stopping time briefly. This was nothing like that. That place she went when she had activated the skill had seemed like being transported into a dream. Something real, and yet imaginary at the same time. Those flickers that showed snapshots of the world at what must be prior events were just as real to her as the current moment, and yet… how could that be possible?
+
+Shaking her head with far more questions than answers, she pulled up her class for a summary of all that had happened to her.
+
+Name: Aliandra AmarielRace: FaeTitles: AncientClass: Grove Warden – level 45- Arcane Insight – level 25- Arcane Recall – level 5- Barrier – level 33- Grimoire of Summoning – level 28- Runic Script – level 18- Sage of Learning – level 18- Martial Insight – level 26- Empowered Summoner – level 22- Domain Mastery – level 12- Minion Teleport – level 8General Skills- Reading – level 8- Identify – level 13- Sculpting – level 3- Inspiration – level 7Aptitudes- Languages: Ancient Dal'mohran, Elvish, Dwarven, Common, Draconic, Goblin- Mana (Affinities): Nature, Arcane- Tiny (Racial): The effects of Strength and Vitality are reduced by 50%- Magical (Racial): The effects of Wisdom and Intelligence are increased by 50%- Domain (Class): Your mana increases with the size of your domain, up to +100%- Domain: -10% maximum health per day domain withdrawal. You have Domain SenseAttributes- Vitality: 59- Strength: 6- Endurance: 17- Dexterity: 36- Perception: 80- Intelligence: 158- Wisdom: 164Equipment- Body: Tailored Cotton Clothing – level 25- Hands: Wooden Bracelet – level 11- Ring: Silver Guild Ring – level 30Resistance: 360Magical Damage Reduction: 22.22%+21% to mana regenerationHealth: 295/295Stamina: 170/170Mana: 1724/2787 (1063 Reserved)Grimoire Imprints1- Stone2- Armor (Body)3- Arrow4- Bone Bracelet (Hands)5- Book6- Bow7- Dagger8- Shield9- Sword10- Creeper11- Grass12- Moss13- Mushroom14- Tree15- Wildflower16- Dragon17- Elemental18- Goblinoid19,20- Kobold21- Ooze22- Wolf23-28-
+
+Her intelligence was far lower than normal, but that was the result of her having lost the mage she had been using with Empowered Summoner. She still had minions, somewhere out in the jungle, but they were all too far for her to use. Easy to fix. All she needed was to resummon her usual Kobold retinue.
+
+What the heck? Somehow her semi-conscious mind had decided to spend eight of her attribute points on dexterity… and two on strength! Was I punching things? But it was her mana that was the most problematic. Most of her domain had been destroyed when the Town Watch burned the forest, and now she was left with just what she had made in the library and the jungle – and the little extra in the cavern above the library for Lira. Without a full domain, her mana pool had nearly halved – and it was not a problem she could fix with a few minutes of work.
+
+But the loss of her domain was something she could feel deep inside, and not just in the numbers on her class sheet. It was as if she had sustained an unseen wound, something that would take a while to heal.
+
+Speaking of things that will take a while to heal, she thought, rolling over and sitting up. Glancing worriedly at her friends, wondering how they would see her now that it was a fresh day. Carefully, she got up and walked over to where they sat, trying to ignore the sudden burst of anxiety and the racing of her heart.
+
+“I saved you some breakfast,” Mato announced without preamble, handing her a bowl of steaming hot oats and a few slices of fruit.
+
+“Thanks, Mato,” she said, the tight band of worry around her chest unclenching. His easy familiarity did a lot to dispel her fears, and she sat beside Malika and began to eat, finding her ravenous hunger from last night had returned in full force.
+
+“I can change my class,” Ali said, finally broaching the subject that was on everyone’s mind. “I know it means starting over, but I did have some other decent class choices.”
+
+“How the heck are you going to do that?” Mato asked, looking up with surprise written clearly across his face. Everyone else stared at her in surprise.
+
+“I can just get it removed at one of the advanced shrines. I was hoping you guys could tell me where one is, and that I have enough money to afford the teleport. I think this will be the best solution for everyone.” If she started over, then nobody would have any reason to hate her – she could just be a regular mage. The Arcane Mage and Runic Sage options she had been offered had both been quite good classes and, provided they were still available, she could try one of those. It would cost her, though – she would no longer have the Forest Guardian, or Arcane Recall – her treasured links to her parent’s magic.
+
+“Ali, there are no shrines like that. Those are just stories,” Malika explained, staring at her like she had suddenly sprouted an extra head.
+
+“Ared Culyn is not too far, and they have one at the Academy,” Ali countered. The shrine in the city of commerce had been well known throughout the continent. It was expensive, she had heard, but with a little help, she could probably afford it.
+
+“Ared Culyn was real?” Calen gasped.
+
+Ared Culyn… gone? Calen’s surprise drove home the visceral and shocking weight of the passage of three thousand years in a way that the numbers simply failed to capture. Many things would have changed over the thousands of years, but Ared Culyn had been such a fixture in the minds of all the cultures on the continent; the city of trade, the place to go whenever you needed something impossibly rare or fantastic. Her mother had even taken her there on a trip once, but she had been too young to remember much.
+
+“What about Aalion?” Ali asked, trying a different tack. It, too, had boasted a powerful shrine. Surely the Sun Elf City of Light had survived? It had stood as a tall radiant beacon in the north for countless centuries, steeped in the tradition and magic of the elves well before Dal’mohra had even existed.
+
+“Aalion?” Calen cocked his head to the side a little. “The great elven city of legends? It was destroyed in the Necromancer Wars several thousand years ago. Nobody even knows where it was after the Breaking reshaped the land.”
+
+“Mi’ir Valdanis?” Ali asked, the Night Elf capital had been a thriving underground city; she had never visited, but she was certain it had a shrine.
+
+“Ali, I don’t even know what that is,” Calen said, shattering her last hope.
+
+“I think I’m lacking a lot of history,” Ali finally answered. She didn’t know what the Necromancer War was but, having personally witnessed the destruction of Dal’mohra at the hands of Nevyn Eld, she could imagine. Shocking as the changes were, they simply drove home the irrefutable truth of the new world she found herself in.
+
+There are no advanced shrines left, she realized. It explained a little more why Malika was so impressed with her Shrine of the Ancient Grove. But that means I’m stuck with my class. Surprisingly though, she didn’t feel anxiety, just a sense of relief that she could keep the magic and skills that gave her so much joy.
+
+“Ali, I don’t think you should try. In the stories, people do not recover from changing their class,” Malika cautioned, concern written across her face. The shrines Ali remembered had been widely used and considered perfectly safe, but she chose not to argue, finding Malika’s concern for her wellbeing to be comforting.
+
+“Mato had the courage to throw away a skill when it was bad,” Ali said. Part of her problem was that her friends had been branded as outlaws simply for their association with her as a dungeon.
+
+“That’s different,” Mato interjected.
+
+“How is it different?” Ali asked. “That skill made you hurt your friends, so you replaced it. You guys were attacked by the Town Watch because of my class. Isn’t that the same thing?”
+
+“My skill made me into something I’m not. If I was in control, I would never have hurt you,” Mato answered quietly. “You are still yourself, always. You’ve never tried to hurt any of us on purpose.”
+
+“I have no memory of what I did in the jungle, and I did attack you with my Guardian,” she countered.
+
+“That’s not because of your class, you were just scared.”
+
+“What about when I shoot you with fireballs? That’s on purpose,” Ali retorted.
+
+“But I kinda like that. It’s nice and warm,” Mato chuckled, the somber melancholy mood he always got when reminded of his attack on her evaporating quickly with her attempt at humor.
+
+“Seriously, though,” he continued, “don’t try and hide your class, or pretend to be something else because of what people might think. If you’re going to be a dungeon, be a dungeon, you know? Be legendary and show everyone who you are. I will support you no matter what.”
+
+“I… You really don’t care that I’m a dungeon?” Mato’s opinion had to be the most Mato-thing she had ever heard, but his overly straightforward approach to her issue touched her heart and made her feel welcome in a way that no amount of reasoning her way through the problem could have ever hoped to do.
+
+She saw Malika shake her head. “Right.”
+
+“I like it,” Mato said firmly. “The plants and trees are cool, and I want to help you build an amazing forest. You’re very strong and reliable in fights – we would never have defeated the Skeletal Wyvern or the Wights without you. I don’t care that you’re an unconventional adventurer, I want to do more of that with you.”
+
+“You really mean that?” It surprised her greatly. Mato was not making excuses for her class or trying to cover over the problems – which is what she had instinctively been looking for. He wholeheartedly supported it, and that was a perspective she would never have considered.
+
+“You know he’s serious because he used a lot of words,” Calen chipped in from where he sat listening.
+
+“You’re ok with it too?” Ali asked.
+
+“Yup,” Calen nodded. But from him, a single word was all she needed to be certain of his sincerity.
+
+“Malika? Your family was killed by a dungeon, and I know you’ve carried a lot of hurt from that. Are you really ok with me?” Ali was most worried about her, and the tremendous burden of pain she had shared. She knew she would do anything for her, even tearing the continent apart, searching for a shrine to change her class, no matter the risk or cost.
+
+“I’m ok, Ali,” Malika answered, staring off into the distance as she spoke. “You are not the dungeon that killed them.” She fell silent for a while, but then she collected herself and glanced at Ali, meeting her eyes. “There was a time when I wouldn’t have made that distinction. I was terrified of earning a class that would define me as bad, and I was so relieved when I got one that was good. But you have a dungeon class, and you’re still Ali. It was when Calen told me that I knew who you were that I think I finally realized the class doesn’t define the person unless they allow it.”
+
+“Thank you,” Ali answered, feeling profoundly moved. Malika’s shift in her perception had to have been painful and challenging for her, especially considering the weight of her past experiences.
+
+“May I join you?” The soft voice carried a resonance and vitality that had been missing yesterday.
+
+“Lira!” Ali exclaimed, jumping up and running to her. “You look so much better!” Indeed, there were no signs of the blight that had afflicted her, and her color was deeper and richer, as if rejuvenated. She moved with an entirely familiar poise and grace – no longer so frail.
+
+“Thank you, dear. I do feel much better,” she answered, returning Ali’s embrace and joining them by the small cookfire.
+
+“Can I make you something to eat?” Mato offered.
+
+“Thank you,” Lira said, “but I’m more tree than creature. I am sustained by mana or sunlight – although I do occasionally enjoy some tea.”
+
+Without a word, Mato pulled out a bag of tea leaves and set some water on the fire to boil.
+
+“I’m glad to see you’re talking with your friends again,” Lira said, looking down at Ali.
+
+“Thank you for your advice yesterday,” Ali said. “I was really upset and not behaving well. We were just sitting here talking about my class. Did you know Ared Culyn, Aalion, and Mi’ir Valdanis were destroyed?”
+
+“I did,” Lira said, “and the shrines were destroyed, too.”
+
+“What? They can be broken?” Ali exclaimed. She had grown up believing her father’s shrine was indestructible. “My shrine…”
+
+“Yours is probably fine,” Lira reassured her. “It takes immense power to destroy one, and I don’t think anyone in this town is capable of it.”
+
+Ali breathed again, but the worry didn’t entirely vanish.
+
+“One advanced shrine remains at Aman Rak,” Lira offered.
+
+“The trolls?”
+
+“Yes, but for what it’s worth, I agree with the young Mato here. I don’t recommend changing your class.”
+
+Ali glanced at Lira, recalling something she had revealed yesterday, that she had forgotten among the many shocks and emotional events of the day. “Can you tell me more about my dad?”
+
+“Orian? About him being a dungeon?” Lira asked, understanding her curiosity instantly.
+
+Ali nodded.
+
+“Even back then, many people feared dungeons,” Lira said. “He was not accepted by all, but the Council of Kings saw his value and supported him. Over the many decades he lived in the Grove, he freely provided thousands of youths with potent classes through the services of his shrine. In a way, you could say he created the backbone upon which Dal’mohra achieved its glory and prosperity. He also provided the city with many resources from his magic, but it was the abundance of powerful magical classes that truly set Dal’mohra apart from ordinary cities, and that was entirely due to Orian’s life of service.”
+
+Ali sat in silence for a while, considering Lira’s words. It painted her father in quite a different light. While she knew most of what she had said, she had never been told that his class was a dungeon. The information had been right in front of her – he regularly conducted class advancements at his shrine, he could summon monsters, and it was he who had taught her about domains and withdrawal. His quiet humility had hidden a greatness that she had never explicitly been aware of.
+
+“Another friend?” Lira interrupted her thoughts, and she snapped her head up to see a violet-tinged golden mana formation appear in the atrium.
+
+Ali panicked for a moment, recognizing it as a teleportation spell, but as it completed, it was Ryn that appeared, her gossamer butterfly wings flowing gently to keep her aloft.
+
+“Ali! Are you here?” Ryn called out.
+
+“Over here, Ryn.”
+
+“Oh, thank goodness you’re ok,” she exclaimed, swooping down to join them. “The town is in uproar. The Town Watch is claiming they killed a dungeon down here, and a lot of their members died. I was worried you had been hurt so I came as soon as I heard the news.”
+
+Ali’s words caught in her throat as her excitement at seeing her friend was banished by sudden anxiety. I must tell her.
+
+With a deep breath, she braced herself. “Ryn, it’s me. I’m the dungeon – they were trying to kill me.”
+
+“I figured as much,” she answered, her lips drawn into an earnest pucker. “I’m so glad they didn’t get you. Here, I brought you a change of clothes, some apples, and a book to read.” She handed Ali a bag that had the familiar Reading Corner logo on it. “Sorry I couldn’t bring more; food prices have suddenly skyrocketed and even just these apples were hard to find.”
+
+Ali was stunned speechless for a moment. She doesn’t care that I’m the dungeon? She looked into the bag to find a couple of apples nestled on top of a book she had been meaning to read and a neatly folded bundle of warm clothing. It was not like Ryn had misunderstood – she had acknowledged Ali’s admission – it had simply not mattered in the slightest.
+
+“Thank you,” she told Ryn. While she made it seem like she was saying thank you for the thoughtful gifts, she was most deeply grateful for Ryn’s indifference to her class issues.
+
+“They’re looking for all of you in town. Well, not you Ali – word got out that you’re the dungeon that they killed – but the Town Watch identified Malika, Calen, and Mato as having killed the dungeon hunters. The mayor wants you all brought in for questioning. I heard Vivian Ross was furious about the whole deal.”
+
+Ali raised her eyebrow, she hadn’t expected the Guildmaster to be so upset, but she had seemed protective of her guild members. “Do you know if Havok and the other novices survived? Roderik tried to kill them.”
+
+“I healed Havok and Aiden before I came down looking for you, Ali,” Malika answered. “He was ok when I left the guild.”
+
+“Oh, thank goodness,” Ali breathed. “Any chance you can tell Eliyen and Basil that I’m ok? And perhaps Thuli and Kavé too? But perhaps best to keep it quiet.”
+
+“My mom will be worried sick,” Calen added, looking pretty worried himself.
+
+“Ok, ok,” Ryn tutted with a smile. “Let me make a list. I can try to get whatever supplies you need too, but people are hoarding fresh food, so that might be difficult to find.”
+
+Lira was right, Ali thought, her gaze drifting to her Aunt’s knowing hazel eyes. I have amazing friends.

@@ -1,0 +1,107 @@
+---
+id: e35429c4-6261-5a04-9d4f-a590aa210952
+page-type-slug: story-chapter-royal-road
+title: "Chapter 214: Blood (Part 1)"
+slug: 0234-chapter-214-blood-part-1
+partOf: dungeon-of-knowledge-complete
+position: 234
+ownLength: 1990
+unit: words
+ownProgress: 1990
+publishedAt: 2025-03-22
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2143705/chapter-214-blood-part-1"
+royalRoadId: "2143705"
+markedReadAt: "2026-06-29T20:19:05.770Z"
+---
+
+Malika carefully tied the garishly painted Jambeau behind her calves, pulling firmly on the sturdy straps and laces to secure them to her smaller legs. It was not that her legs were particularly small, but she was no match for the seven- or eight-foot-tall troll warriors they had faced. At least the leather-and-bone greaves had been designed to be adjustable. She stored the Pathfinder boots Calen had bought – she would decide what to do with those later. It was just a shame she couldn’t use the boots and the greaves at the same time, but the higher-level item always took precedence. She slipped on a pair of lighter, mundane shoes so she would at least not stub her toes or get overly dirty feet – who knew what she might step on in here.
+
+When she had first earned her class, she hadn’t quite realized how much she would be sacrificing by giving up weapons, body armor, and shields. Certainly, her class provided her with a great defensive foundation using her skills to make up the difference, but good items had magical attribute enchantments on them, and with much more limited choices, she simply had fewer options to customize her class and build than her friends. These Swift Bone-Studded Jambeau proved that conclusively, sporting four solid enchantments that would substantially boost her offensive capabilities and improve her survivability with extra endurance and a health leech effect.
+
+Well, Mato has it worse, she thought. Being a bear – and a shapeshifter in general – seemed to come with much greater gear limitations than her monk class. He had to equip items with a specific shapeshifting enchantment or give up on the slot entirely – for all slots.
+
+She got to her feet, hopping up and down to settle her new equipment. She had never been wealthy enough to care about fashion, but even she grimaced at the garishly painted red-and-yellow clashing designs. Are these Trolls colorblind or something? She suppressed the possibly unkind thought, instead focusing on the obvious skill of the crafter – the effect of the movement enchantment was intoxicating. Her body was lighter, and she felt much faster. She sprinted around, doing a couple of familiar agility training drills to get the feel for it, grinning as she felt her body’s dramatically increased speed. And as she fed stamina to Divine Step she discovered, to her delight and amazement, that the movement enchantment seamlessly improved her powerful movement skill too. I am faster!
+
+“Impressive,” Calen said, nodding at her.
+
+“Thanks!” All that remained was for her to test how effective the health leech enchantment was. Her class had never provided huge amounts of damage on each strike like Mato or Calen, but what she lacked in raw power, she made up for in speed and precision. Even if the small percentage returned only a few health per hit, she would have a powerful new tool at her disposal, and she had no reason to believe it wouldn’t be effective. The troll warriors’ style of combat had not been dissimilar from her own; their frenzied axe and tonfa strikes were obviously hasted just like hers – easily observed just by the complex interplay of the stamina energy they fed to their muscles. If the health gain worked for them, it would work for her.
+
+“You look… loud.” Mato chuckled as he spoke. Malika whipped around, only to find Mato was teasing Calen rather than her. The half-elf seemed devastated, staring down forlornly at his similarly garish greaves; the patterns painted on his items didn’t even match between the left and right leg.
+
+Even though she was wearing something just as… obnoxious, she couldn’t help laughing.
+
+“Hey! Yours are just as bad,” Calen complained.
+
+“Maybe the paint washes off?” Malika offered, seeing hope light up in Calen’s eyes. The paint didn’t seem to serve any purpose other than loudly declaring the trolls’ utter contempt for camouflage. Each piece had been unique, so she supposed that the decorations might represent personal styling or individual expression rather than tribal affiliation.
+
+“Shall we continue?” Ali asked.
+
+“Do we need to discuss strategy?” Malika countered. “If those were dungeon-spawned monsters, then we’re going to encounter more of them.”
+
+“I think we should commit to focusing our damage and kill them one at a time,” Ali said. “Rather than spreading our attacks out.”
+
+“Agreed.”
+
+“Yup.”
+
+“How about Mato tanks as many as he can, and we all kill whatever Malika picks?” Calen suggested.
+
+“Sure. I can pick targets,” Malika said. It was a simple strategy, but simple seemed good, especially given how little they knew about this dungeon.
+
+As they walked quietly along the trail, Malika couldn’t help but admire the lush, verdant forest surrounding them. She had grown up in Bakahn village, high up in the mountains, and even when she had been uprooted, she had ended up in Myrin’s Keep, neither of which had particularly impressive natural vegetation. Sure, she had visited the forests south of Myrin’s Keep, but you could walk through those, wherever you wanted. If it weren’t for the path here, they would have had to cut their way through the jungle. Even so, the beauty of the jungle was marred by the ever-present Grim Totems lining the path, a grizzly reminder that they were in a hostile dungeon that had wiped out an entire people.
+
+They hadn’t walked for more than about ten minutes before Calen reappeared from the undergrowth.
+
+“Another group up ahead,” he announced, his voice pitched low so it wouldn’t carry too far. The jungle was noisy, but it was better to not take the chance of being overheard. “Six warriors and something new – there is a slightly higher-level shaman with them this time,” Calen continued.
+
+“Same plan?” Malika asked. The shaman was an unknown quantity.
+
+“I don’t see any need to change the plan, just pick something and we’ll all kill it and move through them one at a time,” Calen said.
+
+“You don’t want to do it?”
+
+“I can use multishot against the tanked warriors,” Calen said. “And I will try using Grappling Shot for strategic control. We’ll keep an eye on that shaman for any surprises.”
+
+“Ok, sounds good,” Malika nodded; her role easy to understand. She would need to make snap decisions in the middle of the fight but, provided everyone agreed to assist her with whatever she picked, it usually worked out well. She would just need to keep her eyes open and adjust. With Mato, and Ali’s Armored Drake and Forest Guardian, they had three tanks – more than enough to lock down a decent-sized group of melee monsters. She followed along behind Calen, eyes and senses alert, scanning the dense brush and trees for anything that looked like a troll.
+
+She still hadn’t found anything even remotely suspicious when Calen stopped in the middle of the path, his bow appearing in his hands. He nocked an arrow in a fluid motion and paused waiting for Mato to complete his transformation, and then his bow howled its horrid scream, launching the brilliant white arrow wreathed in deadly black flame hurtling through the trees of the jungle. Birds screeched, taking to the air as one, and unseen animals fled from the disturbance in a clamor of scuttling and crashing.
+
+The armored form of a troll dropped from a heavily moss-carpeted branch, landing on the ground with poise and grace, and then blurred into motion, tearing across the path in a rush of stamina and trailing bone spikes that sprouted from the footprints. Mato moved to intercept him with a roar and a charge of his own, the crash of impact echoing off the trees. Four more painted trolls shot out of the bush to join the fray, bone blades gleaming wickedly. Up on the other side of the path, two trolls with bright crimson shocks of hair appeared beside a large Grim Totem, the taller troll with blue-and-white face paint immediately filled the air with whizzing throwing axes, but it was the second troll that really caught Malika’s attention.
+
+This troll was adorned with none of the bony protrusions and defenses of his comrades. He wore similar leather-and-bone armor but in his hands, he held an axe and shield of bone, painted with bright geometric shapes. As she studied his unfamiliar appearance, he took the axe to his own arm, slicing deeply and spraying his own blood into the air. But the blood failed to fall to the ground. Ribbons and streamers flowed from his wound to be rapidly soaked up by the shield and the axe until both were deeply stained red and dripping.
+
+That guy has to be bad news, Malika thought, deciding on the spot that he would be her first target.
+
+“Shaman,” she yelled, triggering Divine Step, and charging headlong across the path toward the shaman and his axe-throwing companion, exiting the wave of writhing roots and ensnaring magical chains that attempted to lock down the wiry bone warriors. Before she was even halfway there, the shaman tossed three totems into the center of the battlefield. Malika ignored them and punched him in the face.
+
+Shamans, she knew, were typically hybrid-melee fighters with powerful magic to back them up. She also knew from chatting with Teagan, that attacking the totems restored the Shaman’s recharge, making it a pointless endeavor. She studied her foe with Soul Sight, but none of his abilities seemed to be using stamina so far. She needed to shut down his magic as soon as possible, so her opening flurry of attacks were all Soul Strikes aimed at his mana.
+
+Huh? What…? Her punches had definitely connected; three times in fact. Her new greaves fed a welcome trickle of health into her body via its leech enchantment, but the Soul Strike that should have returned stolen mana from the enemy came back empty.
+
+Nothing?
+
+Scarcely believing it, she punched again, and this time the shaman’s stamina energy flared as he blocked her strike with his blood-soaked shield.
+
+You have been cursed with Vampiric Hex+12 Blood damage per second.+25% vulnerability to bleeding.Attackers gain health on hit.Duration refreshed on hit with Blood damage.Curse – Duration: 30 seconds.
+
+The shaman’s stamina surged more powerfully, an intricate flow of energy that poured from his heart and outward through his muscles and into his weapon. His axe sliced across her ribs, biting deeper than she had expected, and causing a large gout of blood to spray across the shaman’s armor.
+
+You have been afflicted with Bleeding.+10 Physical damage per second.Physical – Duration: 1 minute, 20 seconds.
+
+Malika pulsed a heal. The curse and the bleed were not enough damage to be dangerous yet, but she couldn’t afford to let herself get low with so many enemies on the battlefield. But that wasn’t what worried her; the blood still gushing from her wound was not slowing down – and it spiraled away in thin streamers through the air, sucked into an ominous-looking totem in the center of the battlefield.
+
+She leveled a high snap-kick at the shaman, catching him in the side of the head, but again her Soul Strike only flickered, returning no mana.
+
+It has no mana? None? How is it casting? Health?
+
+She had seen it use stamina for both the block and the axe strike, so he wasn’t concealing his energy somehow. Unless he was somehow immune to mana drain, Soul Strike returning nothing meant he was empty. Her only reasonable conclusion, unlikely as it was, was that this troll had no mana at all. But flying blood and curses didn’t come from nowhere – and she could tell he hadn’t used stamina for those. She switched her Soul Strike to attacking his health instead, noting with satisfaction that Ali’s minions had just arrived to assist her, and Calen’s flaming arrows were already whizzing past her ears.
+
+About time, guys!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

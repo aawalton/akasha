@@ -1,0 +1,377 @@
+---
+id: a1221ec6-4e13-5f5a-ad87-b0e6b9bfa0b4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 184: Flamecaller Spear"
+slug: 0187-chapter-184-flamecaller-spear
+partOf: dungeon-of-knowledge-complete
+position: 187
+ownLength: 7009
+unit: words
+ownProgress: 7009
+publishedAt: 2025-01-16
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2013175/chapter-184-flamecaller-spear"
+royalRoadId: "2013175"
+markedReadAt: "2026-06-29T20:17:25.293Z"
+---
+
+Sometimes you just gotta hit it more than it hits you.- Aurin ‘Stabby’ Wizzlecrank, Assassin, Leader of the Crimson Sprockets, an all-Gnomish dungeon group operating out of Thorel Moldur.
+
+Ali’s friends were in good spirits, chatting happily while tackling the fully respawned Emberforge Mines. Well, Mato was roaring more than he was chatting, but he looked energetic in how he took on the elementals.
+
+He and Calen had taken a fair while to complete the quest on the southern road, and it had given Ali an excuse to work on the library: cleaning up, making more bookshelves for their expanding collection, copying the books Ryn had collected, and studying her mother’s book. She was beginning to realize Clarence was unruly by nature, but for some reason, he had allowed her some quality time with the content he contained – even helping direct her searches with an intuition for her questions that was frankly uncanny. Unfortunately, the material was so complex and esoteric that the main result of her studies had been a long list of books and subjects for Ryn to hunt down.
+
+Not that more books is ever a problem, mind… Ali grinned to herself, slapping up a swift barrier to deflect a stray spray of raging orange-yellow flame. It might be tiny, but I love my little library.
+
+When Calen and Mato had returned, it had spawned a flurry of activity as some of the adventurers returned to her dungeon to gather mushrooms or grind out a little experience or, more likely, to search for the two new bosses she had made.
+
+Inspired by the powerful advancement she had earned for Domain Mastery, she had created two new raid bosses and left a note with Mieriel at the guild. Despite the substantial reserve costs for supporting bosses, she still sported more than five thousand free mana. It was a rush; for the first time in ages, she had more mana free than reserved, and it gave her a heady sense of freedom while the four of them tore through the early tunnels and chambers of the mines.
+
+“Double pull next,” Calen called over, weaving his words and the action of his bow seamlessly together. Malika and Mato split the two Living Flame elementals efficiently, allowing Ali and Calen to destroy them with unprecedented speed. It was remarkable just how much faster they were now compared to the first time they had tentatively stepped into these passages. She had gained eight levels since then, and her friends even more. Combined with good strategies, and the best elixirs and equipment they could buy, they positively flew through the dungeon, clearing out the Flame Broodmother and the Cloned Living Flames in record time.
+
+“The Landing is cleared,” Calen observed the moment the boss was defeated, “but the door is shut.”
+
+Ali used the eyes of her Hobgoblin, and sure enough, the massive stone doorway leading to the Inferno wing – as they had started calling it – was closed and the Rune of Living Flame burned brightly once again.
+
+“Do you think it respawned the entire wing?” Malika asked.
+
+“Almost certainly,” Ali answered. Almost all of her own dungeon monsters were now attached to her domain mana and automatically respawned in several hours. There was no reason to believe the Emberforge Mines had different abilities. The respawn time for these monsters seemed a little longer than hers, but it had been a couple of days already.
+
+“The distillate has more charges, right?” Calen asked.
+
+“Yup,” Malika said, “But we don’t need to clear the Inferno again if we don’t want to. Probably. I have the new potion.” She retrieved a large vial that glowed with a deep, frozen blue light and flickered from within with an eye-squintingly intense core of white flame. “If Morwynne did this right, we should be able to open the middle door now.”
+
+Rubbing his stomach, Mato said, “I’m hungry.”
+
+“Again?” Ali asked. They had stopped for a snack break just a few caves back.
+
+“You need a bigger storage enchantment for all those supplies?” Calen snickered.
+
+Joining in, Malika teased, “He is a walking storage enchantment, didn’t you know?”
+
+“Am not.” Mato turned pink. “I have a healthy appetite, that’s all. The other day my mother accused me of wasting away, can you imagine? She said all this fighting in the mines is… burning off the fat.”
+
+They all groaned on cue and Mato bent over to slap his knees, chortling heartily.
+
+Although Ali had little insight into the alchemy that powered the potion, she stared at the fascinatingly complex interactions of several different mana affinities that really had no business being compressed together in the same vial, and yet were. She held her breath though, caught up in the exaggerated caution with which Malika was treating the vial as she painstakingly decanted a single drop onto the Rune of Inferno.
+
+Fire and ice mana flared in conflicting eddies and the rune abruptly froze over as the flames sputtered and died. There was a moment of exquisite stillness, and then the fire mana barring the doorway faded. A jarring click echoed through the empty chamber and a perfectly vertical line cracked down the center of the stone door.
+
+Mato leaned in, bracing an armored furry shoulder against the doors. His muscles bulged and the Landing filled with a deep grating sound as stone ground across stone. Black sooty smoke billowed out into the Landing and Ali took a step backward, covering her mouth and nose with a hand to protect herself from the acrid chemical stench.
+
+Through the widening gap, she saw darkness lit by glowing red. Webs of flame lined the roof and walls and the darkest nooks and crevices crawled and shifted at their intrusion.
+
+“Spiders on the roof,” Calen said. “Big ones.”
+
+“Area damage?” Malika asked, her eyes narrowing at the sight.
+
+“Agree,” Calen said, drawing his bow. “Mato, back up a bit. Ali, help me out here.”
+
+While Ali hadn’t had the time to fine-tune her minions, she still had a couple of Sparkling Oozes. She and Calen immediately filled the tunnel with an assault of arrows and explosions of light magic in a continuous barrage. Through the chaos unleashed, Ali kept a close eye on the mana itself.
+
+“Clear,” Ali said once she was certain the last knots of fire-affinity mana had been snuffed out. When the assault faded, nothing moved except for a few lumps that dropped from the roof making disgusting splatting noises as they struck the rocky ground. Most of the smoke had been blown away by their magic, and the way down was revealed to be a dark, rock-strewn passageway with tendrils of smoke still curling up from somewhere ahead.
+
+The floor… well, she was just glad she could fly. She paused only to add a few of the more intact Flame Spinner chunks Calen spotted to her imprint. Mato tromped through the gore and burnt spider bits with gruesome squelching and crunching steps as he led the way deeper into the dungeon, moving with an air of cautious vigilance now that they were once again in uncharted territory.
+
+Ali followed along as they picked their way downward through the dark, winding tunnel, sweating as the temperature grew steadily hotter and the air progressively smokier. Breathing grew harder and harder in the acrid atmosphere of sulfur and other strange chemical smells until she felt her lungs had grown raw from the abuse.
+
+Past the gore of the spiders, the cavernous passages grew strangely quiet. The clicking of sharp Kobold talons striking the hard rocky ground rang out jarringly in the ancient and undisturbed silence. Their scaled tails made soft swishing sounds as they slid across the stone. Even the Sparkling Oozes she had retained for their unique senses were not quite as silent as she had thought, making soft sloshing noises as they wobbled and poured themselves along the rocky tunnel floor. Or the ceiling. Oozes seemed equally at home upside down on the roof as on the ground.
+
+“Where is everything?” Malika whispered.
+
+“Keep your eyes open,” Calen advised, tension visible in the set of his shoulders and the intensity of his gaze.
+
+In the darkness, Ali found herself relying more and more on the impressive low-light vision of her Kobolds, and the unusual Tremor Sense of the Oozes. Calen had his Motes of Light drifting down the passageway, but she found that the bright light made it harder for her to see anywhere else other than wherever the light orbs floated. Her Kobolds were significantly less inconvenienced by this, being able to see clearly despite the brilliant light and dark shadows, but Tremor Sense ignored all of it, feeding a wealth of information directly into her mind from the immense weight of rock and stone that pressed in on all sides.
+
+The dark tunnel widened dramatically, and Ali suddenly found herself standing upon the threshold, looking out over a vast cavernous space. The entire area – dropping away, extending out a distance that had to be several kilometers far – seemed to have been dissolved out of solid rock. Instead of the typical limestone cavern with stalagmites and stalactites, it appeared to have been hollowed out by some intense flow of lava or a flame so hot it could make rock run in rivulets and puddles. Enormous pillars rose out of smokey depressions like giant, half-melted candles surrounded by puddles of solidified stone.
+
+Throughout the space, visible among the pockets of smoke, were rivers and pools of thick, bubbling black viscous liquid. Tongues of dark black flame danced upon the pools; a flame that reminded her of the Rune of Hellfire she had touched. The roof above was completely obscured by thick billowing clouds of smoke that swirled in the eddies formed by the heat rising from the tar pools.
+
+Waves of oppressive heat slammed into her face, overwhelming even the powerful resistance of her crafted robe. Her ears filled with the distant roar of superheated flames. Ali took a breath and instantly choked, overcome by a coughing fit that lasted until an Acolyte infused her with a Restoration. The very air was poisonous, or the heat was slowly destroying her lungs in the same way that her skin burned and blackened.
+
+Perhaps both. Maybe Morwynne can make a smoke breathing potion? If anyone had helpful tricks for breathing in toxic smoke it would be the Gnomish Alchemist with a penchant for explosions.
+
+“Incoming,” Calen said, his voice sounding unnaturally calm given the environment and his words.
+
+Malika eyed the slithering, serpent-like beings drawing rapidly closer to their position at the entrance to the cavern. The four of them looked almost identical at first glance, their powerful snake-like bodies driving them sinuously along the ground with upright torsos that seemed to be a nightmarish cross between a Kel’darran, a human, and a serpent. Every part of their bodies was covered with tough-looking dark orange-brown scales that glistened and shimmered with inner heat, and spinal ridges and spikes protruded from the back of their upper torsos and formed a crest along the back of their necks and heads. She did notice a scar running down the left side of the slightly larger one in the lead.
+
+It'll be hard to hit them from behind.
+
+Each creature wielded a long-bladed, red-hot, glowing spear, gripped with the sharp gleaming talons that completed their powerful scaled arms. Deeply recessed under heavy brow ridges, their cunning eyes gleamed with a yellow inner light that flickered like the nearby flames they ignored.
+
+Snake men? Fire snakes? Whatever they were, they looked extremely powerful and dangerous.
+
+“Flamecaller Elementals. Fifty-nine to sixty-three,” Calen announced. He had never once complained about having to call out level ranges for her when everyone else could see them directly, and for that alone, she was eternally grateful. He also seldom forgot.
+
+Mato stepped forward, taking a stable four-legged defensive stance, and Malika took her place beside and slightly behind him, ready to engage. The creatures were deceptively far away, hard to judge in the strange flaming black-and-red landscape, and she found them growing ominously larger as they closed in.
+
+They must be eight or nine feet tall, she thought, not counting the bulk of the snake-like body slithering along the ground. And have incredible perception skills.
+
+The scarred Flamecaller shouted something sibilant and unintelligible, forked tongue flicking past wicked-looking fangs, and the white trails of energy within its body twisted and stretched. Its immense body suddenly blurred into a forward rush as it tore across the ground, spear competently gripped with both clawed hands. Ominous black flames flickered in its wake, persisting like a deadly slug trail. At the last moment, the spear thrust powerfully, and Mato blocked against its crossbar, but the deceptively long blade still bit deep into his shoulder, spraying blood across Malika’s arm and the side of her face. She slapped his right hindquarters reflexively and healed the damage. Oh, uh… oops? But her flush of embarrassment was short-lived as an identical energy signature flickered and stretched within the bodies of the other three, and they all shot forward, spears set to strike.
+
+Malika flew into action, accelerating with Divine Step. She wasn’t sure how well Mato would be able to block all three incoming spears, nor how fast Ali’s Acolytes would be able to react, so she flanked Mato and pulsed a heal into his body right as the crash of spears slammed into him. She felt the shock of the impact as Mato was physically pushed back several feet, but he roared immediately in response, grabbing their attention with his Taunt.
+
+Ever since Mato had learned his Challenging Roar skill, she had stopped needing to hold back early in the fight. The taunt ability that came with his roar skill effectively glued most melee attackers to Mato, better even than that nasty flaming web stuff. Unless she was unreasonably persistent and used her mana-leeching attacks, it was nearly impossible to tear monsters away from the angry armored bear. This was one such occasion.
+
+She tore into the nearest Flamecaller with a powerful flurry of blows, all charged to do maximum damage with her Soul Strike and accelerated by her powerful Divine Step momentum control. She studied the energy flows within the serpentine creatures as their spears flickered and struck.
+
+What have you learned from this fight, Malika? The memory of Rezan Jin’s voice echoed in the background of her mind as she followed the rapid strikes. She knew now that he had meant well, but, at the time, such questions had been profoundly frustrating, as if he were taunting her for being weak or lacking understanding.
+
+Arrows and magic filled the air as Ali and Calen engaged, but Malika tuned it all out to focus on her chosen opponent. She landed a powerful double kick combination and the Flamecaller whirled to face her. Her heart quickened as she ducked and dodged the blurring spear. The twisting energy of its stamina flickered so fast that she struggled to follow the details, and despite her incredible speed, the sharp blade found its mark several times.
+
+Three black-scaled Kobolds materialized right behind the Flamecaller, looking positively tiny beside the massive serpentine elemental. Dark daggers gleamed in the firelight, stabbing with respectable speed. The monster hissed angrily and the scales along its torso flared with an intense heat that made them glow. Her next punch slammed into a much denser, scaled armor, burning her fist. Most of the strength of her punch was rebuffed by the sudden density, with only the magic of her Soul Strike getting through.
+
+“Armor skill,” Malika announced. Rezan’s relentless insistence on focus, attention, and learning about her enemy had changed the way she fought. She had not seen any energy usage prior to the heat and glowing scales, meaning it had to be a mana ability. The only time she had felt something similar was when she had tried to punch through Basir’s rock armor – this was a little more yielding to her attacks, but no less problematic.
+
+In response to her words, the elemental’s energy surged in a brief strange formation centered around the throat and it let out a loud hiss that thrummed with power, tearing painfully at her ears. A powerful surge of fear coursed through her and the Flamecaller suddenly seemed to grow impossibly large and powerful. She diminished, shrinking into insignificance, cowering against the overwhelming might of the monster. The implacable stillness of her Clarity settled within her mind and suddenly the vision of fear and intimidation snapped, banished, presumably by the strength of her high wisdom and bloodline skill.
+
+“Malika!” Ali yelled.
+
+Malika stumbled as pain replaced the illusion and she suddenly noticed two fresh spear wounds, burning punctures deep in her left thigh and ribs, earned while her mind was distracted. Shit. Quickly, she healed herself, ever grateful that her armor skill was passive.
+
+You have gained Clarity.
+
+“What was that?” Calen shouted.
+
+“Intimidation skill,” Malika yelled back. It had to be that – or some fear-imbued war cry variant. Mato appeared to have recovered quickly, but Ali’s three rogues cowered where they stood. Stamina blazed a radiant white within the monster and the Flamecaller’s spear let out a deafening whip-crack as it cleaved through her guard in a blindingly quick arc. It seared through her flesh, leaving hungry black flames licking the edges of the gash and continued on to slice all three cowering rogues.
+
+She pulsed her Healing Mantra, but her magic struggled to heal her while the flames flared angrily. Fuck. She healed it again. That felt like pure fire damage, she thought, healing a third time to stem the persistent and agonizingly painful consuming power of the black flame. She glanced over, but it seemed Ali’s Acolytes had noticed the same thing – at least judging by the focused expressions on their faces and the frantic gesticulation of their hands.
+
+Malika focused on dodging, blocking, and counterattacking the uncannily agile spear, meanwhile, in the background, she was categorizing all the abilities she had observed. The heat of its scales dissipated, and she found she could punch it again, meaning it must be a short-duration defensive ability boosting its armor. The cleave attack was nasty, and Ali’s rogues were still struggling with the aftereffects of the intimidation.
+
+On the other hand, she was quickly getting used to seeing the monster’s stamina usage with her Soul Sight, and as she became more familiar with its patterns of thrusts, blocks, and sweep attacks, her blocking and dodging became that much more efficient. She resisted another intimidating hiss from one of the nearby Flamecallers, but again Ali’s rogues were reduced to cowering by the overpowering mental attack.
+
+Cleave!
+
+She saw the attack coming by recognizing the spike of stamina usage within the thick muscles of its torso and arms. She dodged, but the strike continued, slamming through the rogues, and setting their bodies on fire. One of them died outright, while the others survived long enough to get a restoration or some other healing spell from the Acolytes.
+
+Suddenly, and without warning, the largest Flamecaller switched its spear to a right-handed grip and a great shield of black flame appeared on its other arm. It sprang backward, gaining a surprising amount of distance with its incredible feat of strength. Malika responded, accelerating to close the distance, but the Flamecaller had similar ideas. The energy pattern from its original attack flickered powerfully through its body, and the entire bulk of the serpentine monster blurred across the intervening rock, slamming its spear clean through her side, up to the crossbar, and out through her back. She winced at the searing pain of flames tearing through her as she was flung bodily off the creature into the air. The energy pattern repeated.
+
+Shit! she thought, followed immediately by the echo of Rezan’s voice reverberating through her mind once more. No excuses, did you learn nothing? Change the attack vector, unbalance the foe!
+
+She pulsed mana into her Divine Step, blue-white soul magic manifesting in the air beneath her feet as she pushed off the force of her skill in mid-air, redirecting her trajectory up and over the blurring spear and the trails of flame it left in the scorching air. She tucked her legs to clear its head, wincing at the still-burning wound under her ribs, and aimed a powerful kick at the back of its head, accurately striking the spot between two of the spinal ridges. Only then did she spare the mana to cast another Healing Mantra, landing behind the creature as it struggled to reverse its enormous bulk and momentum in the face of her feat of agility.
+
+That’s how to do it, she realized as she studied the monster from behind. As it wheeled to strike her, she decided to not be there, pulsing stamina into her Divine Step and sprinting around to the side, not even a single step touching the ground. What followed was an extended aerial dance where barely one step in ten touched the ground. She twisted and spun, flipping and dodging around the creature, all the while striking out with rapid punches and kicks. Despite her speed, the creature still managed to block with its flaming shield, and it scored regular hits with its rapid spear strikes, each block or cut searing into her, fueling the dark flames that consumed her flesh and blackened her skin. She could tell her body was on fire in several locations, but she just channeled more mana into her Healing Mantra to keep up her relentless attacks. It was a powerful upward kick to the throat that finally did it. Her foot connected with a full extension supplying maximum power to the blow, bypassing the shield of flame, and her Soul Strike flashed straight into the monster’s head. The light in its eyes dimmed and it slowly toppled sideways, hitting the ground with a loud thump and she finally relaxed, easing her prodigious stamina expenditure to a more reasonable amount.
+
+“Good!” Calen shouted, redirecting his stream of arrows. “This one next!”
+
+Aargh! He was right, of course. This was no time to rest.
+
+The Restoration magic on her slowly pushed back the flames that still burned on her body, and she looked out at the rest of the battlefield, trying to ignore the pain. Mato was burning from countless already healed wounds, still tanking three of these creatures. Behind him, three lightning totems were pulsing out lightning novas, and arrows and magic surged in the flickering light of the flames.
+
+I’ve learned how they fight, Rezan. Watch this, old man! she thought, a big grin on her face. She hopped once and tore into battle, targeting Calen’s favorite monster.
+
+***
+
+Malika sat beside the burning bear, taking a few moments with Clarity to regenerate her stamina and mana and then pulsed Healing Mantra into him once more. She hissed as her fingers brushed the persistent black flames that burned away at his wounds. He grunted unhappily, still unable to shift back to normal as he was taking far too much damage to release his prodigious vitality boost. The little kobolds chirped anxiously beside them as they too continued to heal him.
+
+Why am I regenerating so much?
+
+She opened her mana regeneration information, hoping for some insight, but the only thing it showed was that she was receiving substantially more mana and stamina regeneration from Mato’s Sanctuary aura than she normally did.
+
+Mana RegenerationPercentage of maximum mana regenerated per hour.+100% Racial (Human).+470% Clarity.+335% Sanctuary.Total: +905%
+
+This is ridiculous. It’s like his battle trance triggered, but it usually only works for stamina… She opened her stamina regeneration, finding identical numbers. But then the amount dropped for no apparent reason.
+
+Stamina RegenerationPercentage of maximum stamina regenerated per hour.+100% Racial (Human).+100% Relentless.+470% Clarity.+100% Sanctuary.Total: +770%
+
+She sat and stared at it in confusion for a little, and then automatically healed Mato again, and suddenly the amount jumped back up.
+
+Oh! She opened up her Clarity skill and then suddenly had her answer.
+
+Clarity – level 13Your proficiency with meditation is enhanced by your Ahn Khen bloodline. Your mind has reached a permanent state of clarity, during which mana and stamina regeneration is increased by +235% [40 + skill x 15]. Bonus is doubled if you sit and focus.Soul, Bloodline, Wisdom, Endurance
+
+The amount her regeneration had increased was precisely her own skill’s regeneration rate. And it had come through Mato’s aura. Sanctuary shared all of his regeneration with nearby allies. Including his Battle Trance. But her healing had just given him her own Clarity regeneration buff for a few seconds, and his Sanctuary appeared to be sharing that with her too.
+
+Curious, she placed her hand on Mato’s flank, deliberately putting it in the flames and holding it there while she grimaced at the pain.
+
+“Uh, Malika?” Ali asked, a worried look in her eyes.
+
+“Just testing something,” she muttered and then healed both herself and Mato in rapid succession.
+
+You have gained Clarity.
+
+Her regeneration jumped yet again.
+
+Stamina RegenerationPercentage of maximum stamina regenerated per hour.+100% Racial (Human).+100% Relentless.+705% Clarity.+335% Sanctuary.Total: +1240%
+
+“What the heck do you need to test that requires burning yourself?” Ali asked.
+
+Holy shit. Without bothering to say anything, she just shared her stamina regeneration with her friends.
+
+“What the heck!” Calen exclaimed, sitting bolt upright. “How…”
+
+“Clarity,” Malika said, grinning at him.
+
+“Did you get an advancement, Malika?” Ali asked.
+
+“Nope,” she said. “I’m just using it four times.”
+
+“You… what?” Calen gasped, and Malika was treated to the half-elf being literally speechless for a moment.
+
+“I get double Clarity for sitting and focusing,” she explained. “And I can give Clarity to anyone I heal for a bit more than sixteen seconds. It works on myself… and Mato.”
+
+“Ooh!” Calen said, scrambling for his notebook, and then immediately storing it again with a look of chagrin on his face as the pages caught fire. “And…”
+
+“Yes, his Sanctuary reflects it back to me for the fourth instance.”
+
+“Ok, that’s… really ridiculous,” Calen said. “But… we can use this!”
+
+“You’re regenerating your entire stamina pool every five minutes?” Ali said, still staring.
+
+“Four minutes fifty seconds,” Calen corrected absently, his eyes taking on a faraway glaze.
+
+Now, that’s a bloodline skill! No wonder Rezan said they were important.
+
+Her mana regeneration was nearly as good, just not getting the advantage of Relentless. And to make it even more useful, Sanctuary reflected her Clarity boost to every member of their team in range, including Ali’s minions. All she had to do was heal Mato when he was damaged – and that was nearly always.
+
+Finally, having resolved her confusion to her own satisfaction, she turned her attention back to the results of the fight. Ali got up and resumed her deconstruction of corpses and the no-longer glowing spears.
+
+“Those Flamecallers have a temporary duration armor boosting skill,” she said, thinking about the most important skills she had seen during the fight.
+
+“Yup, when the scales glow, the only thing that gets through is my nature magic,” Mato agreed, finally shifting back to his Beastkin form. “By the way, that Clarity thing is awesome, Malika.”
+
+“Thanks!”
+
+“They can also do pure fire damage with those spear attacks, and it leaves your wounds burning for ages.” Malika had spent a substantial portion of her resources continually combatting the persistent flames.
+
+“Yep, I noticed that one,” Mato said with a wry grin. “They figured out that I have a lot of armor and swapped to that very quickly. I was burning a lot. What is that flame – it’s very not fun.”
+
+“It’s hellfire,” Ali said, joining them on the rocky ground. “I can identify their mana affinity. I can’t see that hiss thing, so I’m not sure what it does. But it’s really bad for my rogues – they couldn’t fight.”
+
+“It’s a martial arts intimidation skill,” Malika answered. Both she and Mato had high wisdom, and her Clarity helped her keep her mind calm under pressure. “Your rogues are probably not high enough level to resist a level sixty Intimidate.”
+
+Ali twisted her mouth and frowned. “I need to find some higher-level minions soon,” she said. “This is becoming a real problem.”
+
+“What about these Flamecallers?”
+
+“Not sure,” she answered. “They seem to be some classed variant of a hellfire elemental, so I’m thinking I probably can’t summon them. I will try though, if we can get enough.”
+
+“You didn’t get it for your elemental imprint?” Calen asked, looking surprised.
+
+“No, and I really have no idea why,” Ali grumbled. “This stupid classification system makes no sense.”
+
+“That’s too bad, they’re very tough,” he said.
+
+Having something like this on their team would solve a lot of Ali’s challenges with low-level minions. Malika continued sharing the insights she had learned by observing the monsters and their stamina patterns and combat behavior. The others all listened with interest and active questions – even Ali, who she knew was now a highly motivated student of combat. Malika didn’t hold back – every little bit of new information may provide her with some help for her other minions, or even choosing which ones might work the best.
+
+Ali sighed. The Flamecaller Warriors were unreasonably powerful and incredibly durable. Their scaled hide was so extraordinarily tough that more often than not, her Kobold archer’s arrows just bounced off. When they activated their defensive skill, making their bodies glow with radiant heat, there was no chance her Bone Mages or archers could even scratch them.
+
+Her rogues were a lost cause – she stopped summoning them. All the Flamecallers had a powerful intimidating hiss that completely incapacitated the black-scaled Kobolds, rendering them quivering and helpless, unable to even dodge or attack. They just became a mana soak for her Acolytes’ healing magic.
+
+The only minions she had that seemed to do any damage at all were her shamans – from a distance – and that seemed to be entirely due to their lightning vulnerability curse. The Sparkling Ooze also seemed effective, but of course, they hurt Mato and the rest of the melee with their explosive area damage, making the fight unacceptably dangerous.
+
+“This way,” Calen said, his voice a low whisper.
+
+They crept forward following the path Calen had picked out, winding through the desolate, heat-fused landscape past the vigorously bubbling black pools spewing sulfurous black smoke and the pillars of blazing black hellfire.
+
+“Give me a moment,” Malika said, halting their progress as she studied the bubbling pools before retrieving an empty vial from her ring. “I want to collect some of this for Morwynne, it looks interesting.”
+
+Healing mana flowed through her arm continuously as she reached out through the hellfire and dipped her hand and the vial into the boiling black goopy stuff, coming back with an arm aflame, a grimace of pain, and a vial full of the black stuff.
+
+Abyssal Brimstone Tar (Hellfire)
+
+“What is that?” Ali asked curiously. The substance stank of sulfur and even in the vial, it continued to boil and burn with the intense black flame.
+
+“It seems to be a reagent, useful for explosives,” Malika answered.
+
+“And you want to give that to Morwynne Fizzlebang? Is that really a good idea?” Ali asked. It seemed that every time she entered Pretty Powerful Potions, something was in the process of exploding. The Gnomish Alchemist seemed to need no extra help blowing things up.
+
+“She’ll be ecstatic,” Calen grinned.
+
+Mato snorted, “Best warn… well, the entirety of Myrin’s Keep!”
+
+“Hmm…” was all Malika said, but she stored the foul-smelling stuff in her ring.
+
+“Incoming,” Calen said, interrupting them and raising his bow to aim at the three rapidly approaching reptilian elementals.
+
+“Same strategy?” Malika asked, getting an affirmative nod from Calen.
+
+Warrior – Flamecaller Elemental – level 60-63 (Hellfire) x3
+
+This time Ali had no rogues, and instead sent in her Hobgoblin, along with all her shamans and the Sparkling Ooze. She still had no idea what to do with her Bone Mages and archers, but she made them shoot anyway, deciding that even the paltry damage they were able to do might be worth it.
+
+The first intimidating hiss caused the entire melee group to stagger, except for her ooze which, to Ali’s surprise, seemed to be immune. It was not like it had a lot of wisdom. A few tense moments passed while the flamecaller had free rein to stab and slice at Mato, but Malika twitched, recovering her wits quickly, and healed him. Mato was the next to respond, blocking two sweeping spear strikes on the banded steel of his armor.
+
+The Hobgoblin attacked, shaking his head as if trying to dislodge a bug from an ear, but her shamans remained down and out, cowering near the ground. The simultaneous spear cleaves from the flamecaller warriors cut down two of them in an instant.
+
+Ali winced at the snap of her reservation and tried to pull the remaining shaman out of melee range to save it, but it was still incapacitated and unable to respond. It fell quickly to the next reaping strikes of the long-bladed spears.
+
+Well, that didn’t work. At all.
+
+“Keep shooting,” Ali instructed, glancing at her archers and mages, but it was arguable if they were having any effect. She ignored them for now, turning her attention to her Sparkling Ooze, impressing on it her intention to aim its shots near, but not exactly on top of the enemy monsters. The bright balls of light shot up, arcing over the battlefield, but most of them missed entirely, and the ones that hit caused Malika to have to dodge and she almost killed her own Hobgoblin when the blast synchronized with a particularly nasty spear cleave.
+
+“Argh, stop,” she told it, and instead encouraged it to go try eating the Flamecallers, or at least hit them with a pseudopod. But that only increased her frustration as, without any fire resistance, the ooze struggled against the molten armor and the flame. Eventually, she had it disengage so that her healers did not have to worry about keeping it alive and instead fired barrier shards at the flamecallers.
+
+Her frown didn’t go away even after the Flamecallers dropped – mostly as a result of Calen and Malika’s damage.
+
+There must be something I can use, she thought, paging her Grimoire, but she had the entire thing memorized already, and nothing new could be found lurking somehow undiscovered among its pages. She walked over and deconstructed the corpses while she considered her options.
+
+Imprint: Flamecaller Warrior completed.
+
+Oh, maybe… The warriors were strong, and their spear attacks were powerful, and she considered the possibility of using them against their own kind. She didn’t hold too much hope though, given that they identified as some type of elemental monster. I don’t have a spear imprint either. Still, they were a high-level, robust monster, so she had to at least try it.
+
+“You got it?” Calen asked.
+
+“Yes…” But what do I replace? Her Grimoire was currently full, and as she ran through the list, her eyes stopped at the chapter encoding coins. Do I really need this? She was loath to create money directly because it would disrupt the economy of Myrin’s Keep in a much more devastating way than what they were already doing to it with their essences and massive demand for potions. Besides, she could create all the metal directly, now. There wasn’t any pressing need for them to be created into the shape of a coin specifically, other than the nostalgia and historical value of the Dal’mohran gold coin. And she still had several of those in her ring so she could learn them again if she wanted to.
+
+Ali made the decision, quickly replacing the coin imprint with the Flamecaller Warrior, and then summoned one. But to her dismay – and not wholly surprisingly – it collapsed to the ground like every other elemental besides her Forest Guardians, destroying her hope of using the powerful snake-like monster against the denizens of the Emberforge Mines.
+
+“It was worth a try,” Malika said.
+
+“Yes, I know,” Ali answered, but it wasn’t much consolation. In a fit of frustration, she created everything that might even remotely have a chance of working, and then, when Calen pulled the next patrolling group of Flamecallers, she systematically tried out each of them.
+
+The first thing that happened was one of the Flamecallers hung back and threw its spear with enormous force at her flying Lux Drifters, retrieving the spear with some ridiculous magical boomerang skill and flinging it again, wiping out the entire flight of the swarm oozes she had made in a matter of seconds. The Scalding Slime and the Lava Lurker did not struggle with the ambient fire damage in the dungeon, but they did the wrong type of damage, steam and lava both being based on heat and thus proving ineffective against the hellfire elementals. The Brine Oozes hung back out of range firing their water bolts, but they struggled in the fire of the mines and took an entire Acolyte’s mana pool to keep them alive for the duration of the fight. Her wolves just died to the fire, her non-fire-based spiders were all way too low-level to be useful, and her giant bats were simply skewered out of the sky by the thrown spears.
+
+“This is stupid,” she announced finally as they took a break. “I need better minions, everything I have is useless.” Without fire resistance, most of her beast minions were worthless, and the ones she could equip were simply far too low-level to have much effect on the level sixty monsters.
+
+“Still struggling to find effective monsters?” Malika asked.
+
+Ali nodded. It was depressing that she was the highest-level member of their group, and they were basically carrying her at this point. All she had was her shards and her Acolytes.
+
+“He’s pretty effective,” Mato said, plopping himself down nearby, pointing at her tall plate-covered Hobgoblin. “Why not make more of those?”
+
+“He’s level forty-one, they cost too much…” she stopped suddenly. She had been about to say her Hobgoblins would cost her too much mana and she couldn’t afford it, but that had been an automatic response. It’s not actually true anymore, she realized, glancing at her substantial free mana pool.
+
+“I guess I can afford them now,” she admitted sheepishly. She had not considered it because she had been struggling with mana for so long. It took only a couple of minutes for her to summon some new minions, most of her others having been wiped out in the last fight.
+
+Warrior – Hobgoblin – level 42-44 x3.
+
+Your reserved mana has increased by +595.
+
+“What kind of weapons do you prefer?” she asked, speaking in Goblin.
+
+“Axes, mistress,” the female Hob replied. She wore her long, coarse black hair up in a topknot and was the highest-level Hobgoblin of the group.
+
+“Sword and a shield,” one of the males answered, echoed by the second.
+
+“Easy enough,” she replied, making each of them a Fireforged hybrid plate armor to replace the leather items her skill had automatically chosen. Thuli’s work will be far better than that junk. Then she created a pair of nasty-looking Eimuuran steel axes for the female Hob and shields and swords for the males.
+
+“There you go,” she said, pointing at the heavy equipment she would have struggled to even lift.
+
+“Thank you, mistress!” The three new hobs swarmed over the gear, equipping it immediately, and soon she had the new hobs and the one from earlier standing in a nice, neat row before her. It was almost eight-hundred mana for four Hobgoblins, but as she saw them standing in the burnished Fireforged- and Eimuuran-steel she felt her spirits rising and the frustration of the day beginning to fade.
+
+“Here,” Mato said, handing her a tray of fire elixirs.
+
+“Wait, these are the expensive ones,” she exclaimed looking at the potions he had just given her for her new minions.
+
+“They’re high enough level to use them,” he answered with a shrug. “Might as well have the best defenses on our team. We want them to live, right?”
+
+“I guess so,” Ali said, nodding and then handing out the elixirs.
+
+One of the Hobgoblins snarled at his neighbor, puffing up his chest and raising his sword, but the female hob simply barked a sharp command, and the others immediately stood down. Then she took the elixirs and distributed them.
+
+I guess she’s the leader, Ali thought, recalling just how hierarchical the Goblin society was – even to the point of them having aptitudes and skills that were more powerful when fighting with other Goblins. The hobs in particular had the ability to pull the unruly members into line, as long as the hierarchy was clearly established. She checked each of their skills and abilities, finding minor differences in masteries and weapon skills, but all of them had decent defensive abilities and an impressive-looking Rallying Cry skill that she had liked the look of.
+
+With that thought fresh in her mind, she resummoned her Goblin shamans. I can always keep them out of melee range, she thought, deciding to think of them like replacement mages. They wouldn’t be quite as effective, but they wouldn’t die during the intimidation, and their lightning was decent damage still. And they were Goblins, boosting the power of her Hobs.
+
+“Are you making the beginnings of your own Goblin horde, Ali?” Mato observed with a grin. “How about we try them out in battle?” As was usual, Mato did not like sitting around when there were enemies to fight, but Ali was just as excited to see her new army in action too.
+
+“I’ll go scout,” Calen announced, grinning with eager anticipation.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

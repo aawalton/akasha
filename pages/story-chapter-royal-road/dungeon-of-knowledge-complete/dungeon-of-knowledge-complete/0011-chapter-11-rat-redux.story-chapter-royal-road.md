@@ -1,0 +1,329 @@
+---
+id: 02b1cc18-65d3-536e-b74e-6286310ed2e7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 11: Rat Redux"
+slug: 0011-chapter-11-rat-redux
+partOf: dungeon-of-knowledge-complete
+position: 11
+ownLength: 6252
+unit: words
+ownProgress: 6252
+publishedAt: 2024-02-07
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1509950/chapter-11-rat-redux"
+royalRoadId: "1509950"
+markedReadAt: "2026-06-29T20:11:22.227Z"
+---
+
+Aliandra
+
+Ali sat chatting with Malika for quite a long while, initially just happy with her new ability to communicate. Sage of Learning still took a point of mana here or there to fill in some missed meaning while she was listening, but it proved significantly harder to speak. Stumbling frequently with her language proficiency, she began to tell Malika a little about her life and how she had grown up in the great city of Dal’mohra, but before long she found herself circling the great well of sadness and fresh grief at the center of her heart. Whenever she approached the subject of the last day, she found herself diving into a tangent.
+
+For her part, Malika proved to be a great listener, sitting patiently, asking occasional questions, and simply letting her find her own way. When she finally found herself describing her and her mother’s escape from the city under attack, it was like a dam burst deep within and she could only watch from the dark recesses of her mind, powerless to stop the words as her story burst forth. It just came out, words falling over each other as she relived her terror and weakness, the horror of facing the Nevyn Eld and his Death Knights, and the heart-wrenching grief of her father and then mother sacrificing their lives for her to survive. When she came to her mother’s final words, Ali choked up, unable to continue.
+
+Surprisingly, Malika did not tell her how it would all be ok or offer any other platitudes. She simply sat a little closer, and, staring off into the distance, she began to fill the silence with her own story. Unable to speak, Ali simply listened, shocked at both the horror of the story and the unemotional delivery in which it was shared.
+
+“It was a rogue dungeon,” Malika began. “When the dungeon-break happened, hundreds of fire salamanders were ejected into the surrounding area. There was nothing anyone could do; my entire home town was burned to the ground.” She continued in a flat clear voice, describing waking up in the heat and flames and fleeing in terror while choking in the billowing smoke as if she was discussing a trip to the bakery. When she described how her parents had died, her voice did not change in the slightest, but Ali’s heart broke in sympathy with the tears that spilled unnoticed down Malika’s face.
+
+“I barely escaped with my life, hiding in a fleeing merchant wagon, and that’s how I ended up across the border here in Myrin’s Keep.”
+
+“The pain has never really gone away,” Malika continued. “I’ve spent the last ten years indebted to the Hawkhurst Trading Company’s loan sharks, being forced into a life of crime with the Town Watch. But with your help and the shrine, I have a new purpose. I want to become someone they would have been proud of, you know? A strong martial artist, able to do some good in this world. I think they would have liked that.” She finally noticed the tears and wiped them with the back of her hand, turning her face away, as if she were trying to hide her embarrassment.
+
+She’s been dealing with all that for ten years? How can she even continue every day?
+
+They both fell silent, sitting side-by-side for a long while, each with their own memories.
+
+“For me, it was yesterday,” Ali said miserably. “I miss them so much.”
+
+While it did nothing to diminish her emotions, Ali felt somewhat better for having shared with Malika. If nothing else, she felt there was one person in this horrible world who understood what she felt.
+
+Slowly her heart quieted, and her mind began to return to the present and the situation she found herself in. Her home was gone. In its place was this monster-filled dark underground mockery that smelt of death and decay – here, where she had taken the almost unthinkable step into the unknown by choosing her class, a hybrid class with combat abilities.
+
+“I don’t know how to fight,” Ali said, finally admitting to Malika, and herself, that she felt woefully out of her depth. People studied for years to prepare for a life with a combat class – there were entire schools devoted to training the tools needed to survive and succeed – and she had none of it. A little overwhelmed, she wished for a return to her previous life, a now unreachable life of safety and study.
+
+“What do you mean?” Malika looked a little surprised. “Calen and Mato said you identify as a mage now?”
+
+“I spent my entire life preparing to be a scholar and researcher,” Ali answered. “My mom was one of the preeminent researchers on the nature of magic itself. And she always said I might surpass her someday.” In truth, she had been beyond excited to embark upon that journey, learning from her mother, and the other prominent researchers and sages. All of that must lie buried in the sands of time or long relegated to the pages of history by now.
+
+“Well, now my home is gone, overrun with monsters, and I have combat spells, but I have no idea how to use them. I know my way around a library, but out here, I’m just scared,” she finished awkwardly.
+
+“You were going for a non-combat class?” Malika asked, an incredulous expression on her face. “You had no combat skills to speak of earlier and you killed that rat by yourself?”
+
+Ali nodded. She knew it was perhaps an unbelievable thing, but it had happened. Through fortune, good luck, or sheer willpower, she had won against a monster.
+
+It’s not like I had much of a choice.
+
+“Do you think you can teach me?” Ali asked. Malika was so confident in battle. She always seemed to know what to do. Ali just remembered feeling lost and confused, or terrified most of the time.
+
+“I don’t know much about mage classes,” Malika answered. “And I just got my own class, so I’m hardly an expert.”
+
+Ali’s disappointment must have shown on her face because Malika quickly continued. “I don’t mind helping you test your skills, and we can discuss some strategy ideas. How about you share your combat skills with me? I mean … if you feel comfortable sharing.”
+
+Ali got the distinct impression that it was Malika who would feel more uncomfortable sharing, but she didn’t mind. She smiled and brought up her status book in her mind, opening it to her class skills, and then chose her first four skills and sent the descriptions of each to Malika. “I don’t know what the last one is for,” she said, referring to her Deconstruction skill. “My two remaining skills are non-combat skills for study and magic. They’re how I was able to learn to speak so fast.”
+
+Malika studied the skills for a moment. “It looks like you have all the bases covered with the first three. You have a damage skill, a defense skill, and a control skill.” Malika’s demeanor had changed instantly, the vulnerability replaced with a certain confidence and the reappearance of the self-assurance Ali had observed earlier.
+
+There are categories? Ali was truly out of her depth. The defense category was easy. That must be my Barrier skill. “What is control?” she asked, “Don’t both of my other skills do damage?”
+
+“Your Grasping Roots is a control spell,” Malika said. “It does do damage, but the most useful effect will be preventing the monster from moving. That way it can’t get to you. Think of it this way, you can use your roots to bind the monster and then you, or your team, whittle it down until it dies. You have your Barrier as a backup in case it breaks free.”
+
+“Oh, ok,” Ali said, nodding. That sounds surprisingly straightforward – in theory. I’m not sure I could have held that Starving Alpha for long, if at all.
+
+Your proficiency with the Common language has improved.
+
+Ali hadn’t been bothered by the disorienting shuffle of memories in her mind for a while, but it seemed her Sage of Learning was still ticking away in the background, improving her understanding of the language as she practiced more.
+
+“Ok,” Malika said, getting up. “Let’s test your skills.”
+
+Ali stood up, uncertain what to expect. “What should I do?”
+
+“First, let’s see your Barrier,” Malika said.
+
+Feeding a little mana into the skill, her disk of golden magic materialized right in front of her, hovering in the air about the size of a dinner plate. A human-sized dinner plate. The beautiful transparent construct shone with the golden radiance and tugged at her heart once more. Mother.
+
+Malika poked at it. Then she pushed it with increasing power, but the magical construct refused to budge. “Can you move it?” she asked after a few moments.
+
+Ali tried moving it with her will, and with her hands, but nothing worked. To the best of her admittedly meager power, the barrier seemed fixed in space, anchored right where she had created it.
+
+“Ok, let me hit it.” Malika drew back a fist and threw a powerful punch connecting with the magical barrier with a loud thwack. “Not bad,” she said, shaking her probably bruised hand for a moment to ease the pain. Malika’s skin suddenly flared with white glowing magical runes that quickly faded. “I have a skill that increases my attributes,” she grinned. She threw another punch and a crack appeared in the barrier disk. Her third punch flashed with the light of a magical skill as her fist slammed through the barrier, shattering it with a tinkling sound. The barrier shards dissolved into the air as the mana powering it dissipated.
+
+Ali looked forlornly at the shards. What good is it if it breaks?
+
+“How fast can you make another one?” Malika asked her.
+
+Instantly a second barrier appeared, taking only the time needed for her to will it into being. Oh. Now she felt silly and small. She really knew nothing, didn’t she?
+
+“That looks like a really good defensive spell,” Malika said approvingly. “It took my full power and three skills simultaneously to break it. It’s much better than the spell you used on the wolves yesterday.”
+
+“The class change consumed that skill to give me this, I think,” Ali said. She pictured her mother’s kind face and sent a quick thought of gratitude for the powerful magic she had inherited.
+
+“Now why don’t you try out your damage spell?” Malika suggested. “Shoot me.”
+
+“What?” Ali exclaimed in shock. Is she out of her mind?
+
+“How are we going to figure out how much damage it does?” Malika asked. “Besides, I have a healing spell. It will be ok, just stop if I ask.”
+
+Obviously, I’m not powerful enough to really damage her. Alright.
+
+Confirming twice that Malika was ready, Ali tried her Arcane Bolt spell. She had seen mages casting firebolts and ice lances and similar combat spells a few times, so she set her feet wide on the ground, tentatively thrust a hand forward pointing at Malika, and tried to push mana into her skill. Obviously, she didn’t want to really hurt her new friend.
+
+Nothing happened.
+
+Hmm. She pointed her finger instead, but, once again, her magic failed to materialize.
+
+“Shoot!” she declared. Uh, why is this so hard? She cleared her throat uncomfortably and tried again. “Fire! Cast! Summon Arcane Bolts!”
+
+A flush crept up to her cheeks as she realized she was prancing around like a child playing ‘Mages and Sorcerers’. It didn’t help one bit to see Malika grinning at her.
+
+The instant she turned her focus to Malika, the mana she had been failing to shove into Arcane Bolt suddenly rushed out, like water draining from a bathtub the instant the plug was removed.
+
+A tiny golden orb of energy a little larger than a marble appeared in front of her hand and shot off with a soft thwip and a whoosh, accelerating rapidly as it curved toward Malika. Her mana flowed, channeled continuously into the Arcane Bolt spell. Another orb materialized, and then another, firing off two more bolts in rapid succession.
+
+“Eep!” she squeaked, fumbling with her skill in a desperate attempt to cancel it while the bolts struck Malika in the chest with a staccato thud, thud, thud. With a wrench, she stifled the flow of her mana and the spell stopped, but she stared in abject horror at the thin wisps of smoke rising from three small, cauterized holes punched through Malika’s tattered shirt and skin.
+
+She had just shot her new friend three times in half as many seconds.
+
+“Are you ok?” she gasped, running over to her.
+
+“Looks like fifteen damage,” Malika said. “So, about five per bolt? That’s not too bad.” Malika’s body flashed with a sudden blueish-white light and the holes in her flesh vanished.
+
+She calculated that? Ali thought, still struggling a little to move past the fact she had just shot her friend. Oh, that makes sense. Plus, that must be her healing skill. While Malika had not chosen to explicitly share her skills, Ali’s curious mind and fascination for magic were rapidly forming a detailed picture of her friend’s skillset. She had already seen the healing magic when Malika had used it on her.
+
+“I would die in less than five seconds,” Ali said. That’s quick! I hope we don’t fight anything with magic.
+
+“Ooh!” Malika exclaimed, eyes suddenly widening in surprise. “Is your health really that low?”
+
+“It’s twenty-five,” Ali answered, suddenly worried that she might have messed up something important.
+
+“You need to invest in vitality,” Malika answered. “I have a hundred health – you’re definitely going to need more.”
+
+“Are you sure?” Ali asked. “I get only five health per point because of my race – I get a penalty because I’m … small.” She frowned. It had bothered her since she was old enough to read it – the aptitude was even called ‘Tiny’. “I get fifteen mana per wisdom instead.” She had spent all her attribute points on intelligence and wisdom already, trying to make the best of her racial aptitudes and her class skill traits.
+
+“Yes, definitely,” Malika answered without hesitation. “Adventurers get hit; you can’t always block everything. If your health goes to zero, you’re dead and none of your other attributes or skills matter. If you have enough health to survive, you earn more time to escape or cast your barrier. Otherwise, you will die from the first surprise attack.” She smiled grimly. “Dying tends not to be recommended.”
+
+Ali grimaced. “I see.” I really don’t know what I’m doing. She had simply chosen her attributes based on what had the largest effect. However, Malika’s point showed the glaring flaw in her logic as clear as day.
+
+What use is mana if I’m dead?
+
+What she had thought of as a simple task – assigning attributes – had suddenly become a complex balancing act where her life was at stake.
+
+“Ok, shoot me some more,” Malika insisted. Ali was still extremely uncomfortable with this approach, but she did as Malika requested, firing her magic in short, controlled bursts, and eventually found she was glad she did. Testing her skills was much like practical research – she learned a lot about how the skill worked. It turned out that her skill let her fire the arcane bolts in almost any direction, and, provided she kept Malika fixed in her mind as the target, the bolts would arc around in the air and home in on her position.
+
+“Guided missiles have a lot of tactical potential; you have a great attack spell!” Malika seemed quite excited about her magic. “Ok, now let’s try your roots.”
+
+Ali used her plant magic on Malika. Thick, gnarled brown roots sprung up from the ground, tangling Malika’s legs rapidly. The air filled with grinding and the scent of fresh wood and sap. Ali quickly realized that there was no comparison between her new spell and the Plant Growth skill her class had absorbed. For one thing, she didn’t have to find roots in the ground and encourage them to grow with her mana – the spell created the roots. The second difference was the sheer power and durability of the constructs. There was no contest between this combat-grade magic and her previous cantrip.
+
+Malika seemed to be struggling against the roots, trying to break out by punching them with her magic, and still, it took her some time.
+
+Maybe I could get away now? Her thoughts returned to her first traumatic experience fighting the Sewer Rat, wondering just how different it might be now that she had Grasping Roots.
+
+“It doesn’t do a lot of damage compared to your arcane bolts, but it’s strong,” Malika pronounced after she finally freed herself from the grasp of Ali’s plants. “You could definitely do some damage while your enemy’s trying to escape if you use both your skills.”
+
+Ali smiled, happy that her combat toolbox was coming together. It was a good idea to test them, she thought, appreciating Malika’s help more and more. And she was having a lot of fun with her magic. Maybe now I won’t be so useless after all. What did she mean by calling me an adventurer? Is that what I want?
+
+“Ok, what was your last one?” Malika asked.
+
+“Deconstruction,” Ali answered, “I’m not sure what this is for, it destroys stuff but requires focus...” she trailed off. It really was a confusing skill, and for the life of her, she couldn’t figure out how to use it.
+
+“Show me?” Malika asked. “It says destroy, right? How about we test it on that patch of moss first?”
+
+“I’m not sure how.”
+
+“How about you try prancing around like before?” Malika asked with a grin.
+
+“Hmph.” Ali imbued her glare with the full weight of just how unimpressed she was with that idea – which only made Malika grin more.
+
+Although… maybe it works the same way as Arcane Bolt?
+
+“It says it has a range of ‘touch,’” she mused, reviewing the skill’s description. Ali reached out toward the moss, resting her fingertips on the springy surface while she focused her mind on it just as she had when she had figured out her other skill. Deconstruction instantly activated, taking a surprisingly tiny amount of mana. A ring of glowing golden runes appeared, settling onto the patch of moss around her fingertips. Slowly, the moss began to glow with a softly pulsing radiance, emitting tiny golden motes that floated upwards. Many of them evaporated in the air, but those few that touched her skin were absorbed.
+
+Is that mana? It was incredibly rare for mana to manifest visibly, and Ali’s eyes widened at the sensation of it being absorbed through her skin with every soft touch. At the same time, her mind filled with an enormous influx of information that was somehow shuttled off somewhere unseen.
+
+This effect lasted a little more than ten seconds and when the spell finished, the moss had completely dissolved into light and dispersed.
+
+I recovered quite a lot more mana than the skill used, she realized, still trying to puzzle out what it had actually done.
+
+“Yeah, I see,” said Malika, “Let's skip that one for combat, for now, I think whatever is attacking you won’t wait patiently for you to do that. Not sure what you’re going to use it for, but it seems really good for cleaning stuff,” she said, pointing to where the moss had been. The stone looked pristine and entirely undamaged, with only the moss completely removed.
+
+“It restored almost twenty mana,” Ali said.
+
+“That could be useful,” Malika said. “Ok, let's talk strategy a bit, and then go find a rat to test your skills on.”
+
+Ali glanced at her nervously. Seriously? Does she want to find a rat on purpose? She still felt rather traumatized by her first encounter with the giant sewer rat. A live one?
+
+“It’ll be ok, I’ll help you if you get in over your head,” Malika reassured her. “Plus, I need to try out my skills too, and I need to earn some experience.”
+
+Before Ali knew it, and, in her opinion, entirely too soon, she found herself standing next to Malika outside in the dark cavern staring at another huge mangy rat, her legs a little wobbly with remembered fear. Being an adventurer was such a terrible idea – but, if it made her stronger…
+
+Sewer Rat – level 2
+
+It hadn’t seen them yet, but she could almost hear the hiss and screech that it would make and smell the reek of decay on its breath. Her last time facing a rat had almost killed her.
+
+“You can do this,” Malika encouraged her. “There’s a world of difference between having no class and being level one.”
+
+That’s right, I have a class now, she thought, but her fear didn’t much care for the distinction. Especially considering neither of them had tried their new classes in combat before. For all Malika’s confidence, Ali was acutely aware that they were both equally inexperienced with their skills and classes. You go first. I’ll just stay back here.
+
+The gray Sewer Rat scrabbled and scraped around in the dirt and among the piles of old bones with its sharp claws, presumably searching for something to eat. The sharp yellowed teeth and beady eyes gleamed in the dim light, reminding her all too clearly of her first encounter. Ali glanced nervously at Malika who smiled back at her. She was beginning to understand Malika’s insistence on vitality. Twenty-five health points felt far too little facing a monstrous rat bigger than she was.
+
+Suddenly, the rat looked up, nose sniffing the air and it turned its head sharply, fixing its eyes on Ali. With a screech, it charged. Ali stiffened up in panic as her heart hammered in her chest.
+
+“First use roots, then shoot,” Malika’s calm voice cut through her fear. Hanging onto the calmness in Malika’s voice as if it could save her life, Ali cast her Grasping Roots. Her mana poured into her skill and an explosion of thick, gnarled brown roots erupted from the ground, winding themselves around the rat’s legs, bringing its charge to an abrupt halt.
+
+It hissed loudly, shaking its head as it tried to bite the roots binding it.
+
+Whoa! That … worked?
+
+She sucked in a deep breath and reminded herself why she was doing this. She was going to get stronger, strong enough to recover her home and never feel helpless again. Even facing Nevyn Eld. She was taking her first step forward. You can do this, Ali, she urged herself. Her determination returned. Carefully fixing the rat in her mind as her target, just like in their practice, she used her Arcane Bolt skill. The tiny golden bolt of energy catapulted away from her, accelerating to the rat even as another formed, and then another. The rat let out a loud pained squeal, almost breaking her concentration, but she held onto her stream of conjured flying bolts.
+
+After several seconds of rapid bolts slamming into the rat, it broke free and charged, leaping straight for her. Crap! The pain made it stronger! Before panic overwhelmed her, Ali summoned her backup magic. The barrier disk snapped into existence right in front of her face, golden light pouring out over the mossy ground. With a heavy crash, the rat slammed into the barrier, its teeth screeching across the surface as it slid to the ground, dazed. Following Malika’s suggestion, she recast her Grasping Roots on the momentarily stunned rat, and it immediately started thrashing frantically.
+
+Ali jerked backward, desperately dodging flailing claws and snapping jaws, and tripped over a rock, landing with a bone-jarring thump on her behind. Breathing heavily, she scrambled to her feet and fled the furious monster she had just trapped.
+
+Once she reached a safer distance, she created a new barrier in front of her. Angling her spell above the barrier, the golden bolts flew skyward, accelerating as they arced back down to slam into the rat’s back. She kept firing for a few seconds until the rat once again broke free and charged her. Her bolts simply readjusted their direction to track the rat as it came on like a mangy juggernaut full of pain and fury.
+
+She saw its face looming through the transparent magical barrier, jaws agape and ready to attack, when suddenly it collapsed to the ground right at her feet, followed immediately by the sound of a soft chime in her mind.
+
+You have defeated Sewer Rat – level 2.
+
+Grasping Roots has reached level 2.Arcane Bolt has reached level 2.Barrier has reached level 2.
+
+Oh, that was it? She just stared uncomprehendingly at the corpse on the ground and the notifications for a while, breathing hard.
+
+“Well done, you did great!” The excitement and happiness in Malika’s voice clashed with the remnants of panic and fear still gripping her.
+
+“I was scared,” she told Malika with a frown, “I panicked. If you hadn’t said something at the start... I mean, that was terrible!”
+
+“That’s fine,” Malika interrupted as she trailed off. “Being scared is ok, this is your first time doing this on purpose, right? Besides, you stood your ground, and you killed the rat without letting it get to you.”
+
+Ali looked up, her face relaxing into a little smile, some of her confidence trickling back at Malika’s encouraging words. She has a point, Ali decided – her last encounter with a similar rat had almost killed her, but this time – even though terrifying – she hadn’t even been hit. I did panic, but I recovered and finished it by myself. That has to count for something, right?
+
+I love my magic, she thought. It may not be the class she had dreamed of, but the golden magic was most certainly hers. And as she stared at the rat she had just killed and the friend that had helped her, a little of the fear in her heart faded.
+
+Malika
+
+Malika had never told anyone her story. She had only done so because Aliandra sounded so lost and alone. It had been almost ten years since that day, and she had had to bury her feelings deep inside to survive the harsh life on the streets of Myrin’s Keep. The only time she had cried in front of Edrik had earned her a swift concussion and a few broken ribs – and an expensive trip to the healer. She had been woefully unprepared for the surge of unleashed emotions that hit her like an avalanche when she had opened up to Aliandra, and even now she still felt like her heart was trembling within her. She disliked the feeling – the feeling of weakness and vulnerability. A feeling that would get her hurt, beaten, or worse – but the feeling refused to go back into the room she had banished it to all those long years ago.
+
+She sat and waited while Aliandra recovered her breath from the fight. The Fae clearly came from a soft life and was woefully unprepared for even the rats and wolves down here, to say nothing of the monsters in her story. And yet, Malika saw something within her that refused to give up. It was that tiny spark of unbroken will that spoke to Malika. As different as they were, the spark that refused to be snuffed out resonated so powerfully with her that her heart clenched within her chest. A connection with a person that she hadn’t felt in forever.
+
+She shook her head, dismissing it all as sentimentality. I’m just unsettled by my memories, she thought. At least working with Aliandra on her skills and teaching her the basics of strategy felt productive and satisfying, even if she wasn’t nearly qualified to help. Seeing Aliandra’s quick grasp of her magic and how to use it under pressure was almost as exciting as her anticipation of trying her own class out. But connections with people? That was a vulnerability a Street Rat couldn’t afford.
+
+I wonder if I would have her courage if the rats were as big as me.
+
+She was still shocked that Aliandra had faced down and killed a level three monster with nothing but cantrips. The way she described her previous two spells, they sounded like the kind of skills you would use as a teaching aid – something safe for children to play with.
+
+Eventually, her little companion looked up. “I used up almost all my mana in that fight. It’ll take me an hour to fully regenerate.”
+
+“Why don’t you use your trash disposal skill?” Malika asked with a grin, teasing her to try and lighten the somber mood. “You said it recovers mana.”
+
+“It’s not trash disposal!” Aliandra retorted. “I’m… just not really sure what it’s for.”
+
+Her pout looked way cuter than Aliandra had probably intended. Tactfully, Malika declined to point it out. Instead, she said, “Whatever it is, it restores mana, right? Why not use it on the rat and see how much you get? It can’t resist anymore, so it should be a valid target.”
+
+Trash cleaner or corpse disposal duty. She does not look amused!
+
+Malika looked on curiously as Aliandra used her unusual spell on the corpse of the rat slowly turning it into particles of light and it dissipated into the air. It was a rather strange magic, and she didn’t have the faintest idea of how to help Aliandra figure it out.
+
+“That got me a lot of mana,” Aliandra said, openly startled. “I’m ready to continue.”
+
+“Did you get any skill increases from the fight?”
+
+“Yes, three!” Aliandra said, grinning brightly. “Wait, you didn’t?”
+
+“No, I didn’t do anything in the fight, so I probably didn’t even earn any class experience,” Malika answered.
+
+Technically, she might have been a contributor – she was actually reducing the risk simply by being there and acting as the lookout. Is that really how it works? Did I reduce her experience, too? If she had earned some small amount of experience, she had no way of knowing.
+
+“Oh, did you want to find a rat, too?” Aliandra asked.
+
+“Yes, I’d like a chance to use my skills,” Malika said. “This time, can you stand to the side and jump in if I get in trouble?”
+
+“Ok,” Aliandra answered. She sounded more than a little uncertain, but her eyes and the set of her mouth conveyed an inner determination that somehow Malika found easy to trust. “I’ll do my best.”
+
+“You know, with your skill, you could probably get a job in Myrin’s Keep as the town cleaner. Or maybe Chief Rat Disposer.”
+
+Aliandra pouted again. “I’m not so sure about this skill anymore…”
+
+Malika led the way through the darkened cavern, careful to avoid any groups of monsters that may be beyond their abilities. It didn’t take long before their patience paid off.
+
+The rat looked like the one Aliandra had defeated, just a little scabbier around the muzzle, and she felt a surge of anticipation as she studied her foe.
+
+“What level is it?” Malika whispered.
+
+“Level two,” Aliandra said. “Why, don’t you have Identify?”
+
+“No, I have Appraise,” Malika said, keeping her reply simple and to the point. There had been enough sharing for one day.
+
+Quietly, she gestured to Aliandra to wait and keep watch as she approached the rat. She turned on her skills in preparation for the fight: Perfect Body which enhanced her attributes, and her defensive skills; Enlightened Evasion and Soul Armor which would hopefully protect her from excessive damage. Her body reacted to the surge of magic, becoming faster, nimbler, and yet significantly tougher. It was an exhilarating feeling.
+
+Remember to watch the cost.
+
+With all her enhancement skills enabled, she was reserving a substantial amount of her mana and stamina, but she had already decided she would simply have to learn how to manage her resources efficiently – turning off any of her defensive skills at this stage seemed a terrible idea. At least her Relentless aptitude gave her the flexibility to pay the reservation for Soul Armor and Perfect Body with stamina instead of mana if she chose. For now, though, her experiments suggested that reserving mana would be better – the bulk of her attacks would come from Martial Artist and that could only be fueled with stamina, so she decided to prioritize that.
+
+The rat caught her scent and whirled, charging at her with a shrill, grating screech. As she stepped up to meet it, the rat reared up and hissed at her furiously, swiping with its sharp claws. Malika’s faster and more agile body easily dodged the first swipe, but she took the second on her right thigh.
+
+A small trickle of blood ran down her leg from the shallow wound.
+
+Soul Armor? she thought. Her skin seemed unnaturally tough, and the claws had simply not penetrated nearly as deeply as she had expected. Not only that, dodging the first attack had felt natural and easy, but she knew it had been faster than she would have been able to dodge yesterday. Still, it got me. I need to be sharper.
+
+As the rat recovered from its initial attack, Malika unleashed a punch she had practiced since she was old enough to stand in the dojo, but this time she empowered it by feeding a bit of stamina to her Martial Arts skill. Even from the initial twisting in her torso and the flexing through her feet, she could tell it was the most powerful punch she had ever thrown. As her fist flew, she found that the knowledge of how to use her Soul Strike support skill came to her intuitively. She linked Soul Strike to her Martial Artist attack with a brief pulse of mana, and a bright aura of blue-white energy sheathed her fist as she connected solidly with the side of the rat’s neck. The power of her blow knocked the rat back several feet, skidding onto its haunches, and she immediately felt the warmth of her magic returning a few points of health, about half of what she had lost to the rat’s claws.
+
+That is going to add a lot of survivability. She would gain a constant trickle of health so long as she had the resources to use her Soul Strike. She was beginning to understand the other half of her Relentless aptitude. More stamina regeneration meant she could keep going for a lot longer.
+
+Shaking its head, the rat scrambled to its feet. Malika immediately pressed her attack. Charging forward, she traded blows with the creature. She dodged one claw swipe with an uncanny precision that must have been the result of her Enlightened Evasion, taking the second hit on her shoulder, feeling the force of the attack again being blunted by her reinforced body. Her punch connected flush with its ribs, and again she felt the small but welcome trickle of regained health from her Soul Strike. The tough rat whirled, grappling her with its claws and tearing into her side and shoulder with unrestrained ferocity. Malika went to the ground with it, her left arm wrapped around its neck while punching it repeatedly with her right fist, causing flickers and flashes as her Soul Strike lit the dirt and rocks nearby every time she struck. Unable to escape from her headlock or defend against the relentless tide of her fists pounding its head, the rat quickly expired, dropping limp in Malika’s choke hold.
+
+You have defeated Sewer Rat – level 2.
+
+Soul Strike has reached level 2.Perfect Body has reached level 2.Soul Armor has reached level 2.Martial Artist has reached level 3 (+2).
+
+Not a pretty fight, but effective. She checked the bite wounds on her shoulder and side, but they weren’t nearly as deep as she had feared. Most of her injuries had already healed over from her repeated use of Soul Strike, and with just a small flash of her Healing Mantra, the remaining cuts closed over, returning to unblemished healthy skin. The first monster experience earned with my new class! She watched the glow of the floating blue-white notifications hovering in her vision slowly fade, leaving a heady sense of achievement.
+
+Aliandra came running over, gasping and wide-eyed.
+
+“I’m fine,” she reassured her. “I just healed the damage, and I should be ready to go after a few minutes of Meditation to restore my stamina.”
+
+So much easier than yesterday, she thought happily. My class is awesome!
+
+Suddenly, her worries about the Town Watch thugs and a life of crime in the alleys began to fade. Her stubborn insistence on maintaining the daily discipline of the dojo, secretly training her martial arts no matter how many times she was beaten, seemed to have finally paid off. Even though her opponent was just a level two Sewer Rat, the contrast between her power yesterday and today was like night and day.
+
+If I work at it, if I train hard, I can definitely get stronger.
+
+She sat to Meditate and recover her mana and energy while Aliandra deconstructed the corpse of the rat she had just killed.

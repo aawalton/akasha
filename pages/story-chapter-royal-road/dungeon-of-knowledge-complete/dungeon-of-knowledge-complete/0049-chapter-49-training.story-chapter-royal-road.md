@@ -1,0 +1,199 @@
+---
+id: 543a2486-c866-5842-845a-4db000fdd757
+page-type-slug: story-chapter-royal-road
+title: "Chapter 49: Training"
+slug: 0049-chapter-49-training
+partOf: dungeon-of-knowledge-complete
+position: 49
+ownLength: 3357
+unit: words
+ownProgress: 3357
+publishedAt: 2024-03-24
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1566556/chapter-49-training"
+royalRoadId: "1566556"
+markedReadAt: "2026-06-29T20:12:35.270Z"
+---
+
+The quest board looked decidedly anemic compared to the week before. All the jobs that Ali had been tracking to make money had been tied to the defense of the town and supplying the garrison – all of which had expired now that the threat had been safely dealt with. She sighed. Not even stocking up on arrows? Times must be tough.
+
+“Why don’t we take the Kobold quest?” Mato asked, touching her shoulder in sympathy. “We know where they are, and we can do some good, ridding the town of the persistent attacks on the outlying farms.”
+
+Ali was already tracking the Kobold quest on her guild ring, so there wasn’t much more for her to do – well, apart from going out to do the work.
+
+“What about this?” she asked, as something caught her eye in the announcements section of the postings. “It looks like the Guildmaster is giving a lecture on adventuring strategy today.”
+
+The Adventurer’s Guide she and Malika had bought had really opened her eyes to how inexperienced she was. It was chock-full of details and jargon, much of which felt like a slog through a dense morass of obscure knowledge. I suppose that’s actually exactly what it is. Ali had no idea if Vivian Ross was a skilled instructor, but their interview left her with the impression that the Guildmaster was certainly knowledgeable and experienced, and she was curious to find out more.
+
+“That’s a good idea,” Malika agreed.
+
+“I think it could be useful,” Calen answered thoughtfully.
+
+“Argh,” Mato groaned.
+
+“Come on Mato, it will be good for you. It’s only an hour,” Calen encouraged.
+
+“I’d rather just smash Kobolds and learn that way. Can’t you summarize it for me after?” he asked.
+
+“She did have some good insights on our group assignments,” Ali pointed out. She knew Mato would probably never enjoy formal study and lectures, but this seemed like an opportunity that their entire group might benefit from. She didn’t want to miss out on something that only Mato would understand because of his unique experience and role.
+
+“You guys are killing me,” he grumbled, but to Ali’s surprise, he followed when Malika led them to the lecture room.
+
+He was still muttering under his breath constantly, so Ali simply reached up and took his enormous hand.
+
+“Thank you,” she said, smiling up at him.
+
+He gave her an amusingly startled look, but he didn’t say anything – and the muttering and grumbling mysteriously vanished. Catching Malika’s amused smile at the interplay, Ali’s ears heated up right to their points.
+
+The lecture itself was aimed at novice adventurers, focused on many of the basic concepts and ideas that Malika had taught her early on, but there were a few gems of insight that explained some of the fundamental principles that Ali had been struggling to understand in the Adventurer’s Guide.
+
+What was more interesting to her, though, was who else was in the lecture. She waved happily to Serendipity who was the highest-level adventurer in the room. Of the rest, the only people she recognized were the group of three that had been questing for mushrooms in her sewers – now all level five. While several of the other faces were familiar, Ali didn’t know who they were, having not spent much time in the guild hall itself.
+
+Vivian Ross had mentioned something that stuck with her, and she worried about it the entire way back to their camp near her shrine. She had noticed that her Martial Insight hadn’t leveled up in several fights, even though she had used it continuously throughout the battle against the Goblins. According to the Guildmaster, a stalled skill was a sure sign that you were using it incorrectly, not training properly, or simply misunderstood how the skill really worked. But for the life of her, she couldn’t figure out what she was doing wrong.
+
+She finally put it away, resolving to think about her stubborn skill again later. She plonked herself down near the cookfire and suddenly noticed the sullen grumpiness of her friends.
+
+What did I miss?
+
+She had been so in her own head that she hadn’t even noticed. Mato was definitely sulking, and Calen seemed defensive, while Malika seemed to be trying her best to avoid getting involved.
+
+“I don’t see why we can’t just go down there and fight. We haven’t done much since the Goblin battle,” Mato complained.
+
+While he seemed annoyed and upset, Ali was struck by the undertone of respect in his voice.
+
+“I still think we should do some more training beforehand, like the Guildmaster said,” Calen replied.
+
+Calen’s comment seemed closed, and lacking explanation. Not like he normally was when he got on a subject he enjoyed or was excited about. The two of them had vastly different personalities, and Ali often wondered how they had remained friends.
+
+“What’s going on?” she asked, worried about what kind of treacherous swamp she might be stepping into.
+
+“I want to go fight something,” Mato said grumpily. “But Calen thinks we should train more.”
+
+That about sums up their differences, she thought.
+
+“What did you have in mind?” she asked Calen, hoping to draw the introvert out of his defensive stockade a bit.
+
+“I just think our team got a few new abilities, and maybe we should figure out how to use them before we jump into another battle unprepared.” He shifted awkwardly, as everyone’s gaze settled on him. “Well, underprepared, that’s what I meant.”
+
+“Oh, what did you get?” Ali’s curiosity was immediately piqued. She didn’t have a lot of insight into how other classes worked, and she was becoming more and more curious as her friends became freer with sharing their skills and advances.
+
+“Not me, you.” Calen met her gaze, his eyes filled with the familiar look of curious intelligence, replacing the defensiveness that had been there prior. “You can make Bugbears now, right? I noticed how effective your Kobolds were in the battle, and I think we should try to work out some strategies using the Bugbears and their skills and strengths.” He pulled out a small notebook and looked at it briefly. “You now have two minion buff skills, one of which requires you to be close to combat – within forty-nine feet. You’re not very strong, so the distance requirement is something we need to account for.”
+
+Ali was stunned by the quiet and accurate assessment of her abilities and the strategic implications he had just shared. By the looks of surprise on Malika and Mato’s faces, he had neglected to mention any of this in the prior argument. She glanced from his face to his notebook, recalling that she had wanted to memorize her friends’ abilities, but had simply never gotten the time to ask. It seemed Calen had had the same thought, but he had actually been paying attention, and writing everything down. Ali considered his words, replaying them in her mind.
+
+Wait…
+
+“What is ‘feet’?” she asked. She had only just recently learned the Common language and she wondered if the unfamiliar word was something she had missed in translation.
+
+“Your Empowered Summoner skill has a range of forty-nine feet, right?” Calen asked.
+
+I did hear correctly, she thought. And worse, the number was entirely incorrect. “No, it’s a little over fifteen meters.”
+
+“I don’t know what a ‘meter’ is.” Calen looked just as confused as everyone else.
+
+“You know, a meter,” she said, hovering a hand a little higher than her head. “This high from the ground.”
+
+“That’s about three feet,” Calen corrected.
+
+Oh dear.
+
+It would seem that in addition to the language changing over the three thousand-odd years she had been sleeping, the measurement system had apparently changed, too – and she had not even noticed. Several details suddenly clicked for her. She hadn’t paid much attention to it, but all her notifications and her status were in Ancient Dal’mohran, not Common, presumably because it was the language most familiar to her. But when she shared her skills with her friends, they had no trouble reading them. Which meant they were seeing it in Common. Given that, it was no stretch to assume the units of measurement were also being translated on the fly.
+
+She quickly explained the measurement system they had used in Dal’mohra and compared it with what Calen explained of the current system. For the life of her, she couldn’t figure out why they had chosen the units they had, but at least she had a quick and easy conversion now. Just multiply meters by three to get their feet thing, she thought, ignoring the complexity of the other units and conversions, for now.
+
+Mato nudged her with his elbow. “You can use my-sized feet if it helps.”
+
+“Thanks.” Ali stuck out her tongue. Just glad I noticed before I needed it in some urgent situation.
+
+Her thoughts returned to the skills Calen had been talking about and her issue with Martial Insight pricked at her memory. Can’t hurt to ask, perhaps they can see something I missed?
+
+“Hey, on the subject of my minion skills, I am having an issue with Martial Insight, and I can’t seem to figure it out.” It was one of her most powerful skills, and certainly the one which had turned their fortune when she and Mato were stuck underground. “It hasn’t leveled up recently, and I used it all day when we were fighting the Goblin horde, and again when we faced Adrik and Edrik in town. I would have expected it to level at least once during one of those battles.”
+
+“Can we see it again?” Calen asked.
+
+Ali obliged by sharing her skill description.
+
+Martial Insight – level 7Your mana empowering summoned creatures now carries your accumulated experience. Your creatures gain +51.1% [40 + skill + perception / 10] to combat abilities. Martial Insight only gains experience when you observe your minions’ combat.Nature, Minion, Mastery, Perception
+
+“The problem is, I have been observing my minions while they fight, and nothing happens. According to the Guildmaster today, a stalled skill means I’m missing something important.”
+
+“Hmm…” Calen’s response simply told her he was just about as lost as she was.
+
+The troubling part was, she had pored over the wording in the description in excruciating detail, but she simply couldn’t see it.
+
+“Hey, Ali, do you actually know how to fight?” Malika asked, her expression thoughtful in the flickering light of the cookfire.
+
+“Oh! That’s it!” Calen exclaimed, sounding quite surprised.
+
+What’s it? Why could everyone else figure it out but she could not? The frustration of not being privy to the shared realization rankled. She hissed, “No, obviously I’m not a fighter. Why does that matter? I know… some things. I’m learning all the time.”
+
+“Your skill says it ‘carries your accumulated experience,’” Malika explained. “I wonder if it means you use your perception to understand how your summoned creatures fight, and once you personally understand it, your skill increases and that knowledge is shared with your future minions.”
+
+Ali blinked as the import of Malika’s interpretation sunk in. “But I’m not a fighter! I’m not trained.” It couldn’t work that way. Could it?
+
+“I think that’s why it stalled,” Malika said, “You are looking, but you need to understand.”
+
+Ali frowned. This is frustrating. How can it work like that? I’m not a fighter! More and more, she was beginning to feel like the skill was just stupid. Although, there was a difference between reading a text, understanding it, and truly mastering it.
+
+“Don’t be like that,” Malika chided softly. “Why don’t we test it out? And if I’m right, I know how to help you.”
+
+“How?” Ali found her frustration fading a little in the face of Malika’s quiet confidence.
+
+“Ask one of your rogues to come over here and I’ll teach it some stances and moves. We’ll see if that helps your skill.”
+
+“Ok.” Ali still felt dubious, but she was willing to go along with Malika, especially given how interested she and Calen both seemed to be in the results of this experiment. Mato busied himself with the cookfire, but Ali could tell that even he was keeping a close eye on this. She called over one of her rogues, coincidentally, the same one that had run all the way back to town after they had rescued Calen and Malika.
+
+“Focus on your skill and make your rogue copy me. We’ll start with some basic drills and posture exercises I learned as a child,” Malika instructed, studying Ali. “Make sure you’re trying to understand it as the rogue if that makes any sense.”
+
+Ali told her rogue to copy Malika and tried to deliberately focus on the strange sense from her Martial Insight. Immediately, she found the rogue’s presence in her mind and she relaxed into the sense of it, trying to observe carefully what they were doing.
+
+What followed was an hour of Malika correcting her form via her rogue.
+
+“Bend the knees here.”
+
+“Lower your center of gravity. Remember you have a tail.”
+
+“On the ball of the feet. Talons. Claws, whatever.”
+
+“Punch with the whole body, like this.”
+
+Surprisingly, Ali found herself beginning to get caught up in the exercises. The connection to her Kobold via the Martial Insight skill carried so much more than just commands. She could almost feel what it was like to move as a Kobold, balance with a tail and strike with claws or a dagger. She had never been one for physical activities, and it had never occurred to her that there would be so much nuance and precision in just standing and moving the body correctly. While her Kobold had good basic instincts, she was beginning to understand how Malika could improve the way it moved. Already, she could tell the differences in how the Kobold moved through the practice drill sequence since the first try. She could actually feel the increased stability, speed, and power via the connection with her skill, and as she concentrated more on the feel and sensations, she found she could follow the weight and momentum of the Kobold as it stepped through the complex sequence.
+
+She had memorized the pattern quickly, but as they progressed, she found she had to memorize more and more nuance and detail, paying attention to smaller and smaller adjustments that all added up to substantial improvements. Who knew that standing balanced over the ball of your foot took so much attention to detail and precision?
+
+“Ok, that’s good enough for now,” Malika announced, interrupting her concentration. “Now, let’s teach you how to block and take advantage of it to make a return strike. Quite a simple technique, but I think it will be a great starting point.”
+
+“Ok, what do I do?” Ali’s frustration was long gone. She had always admired Malika’s graceful movement, and now, after just an hour, she could see small traces of it beginning to show in the Kobold Dagger Rogue.
+
+“First, have your rogue try to stab me with its dagger,” Malika instructed.
+
+The rogue attacked, aiming to stab Malika in the stomach. Ali idly noted that she no longer worried if the rogue would be successful. I guess I’m getting used to Malika being able to heal. Malika blocked the strike with her left arm and immediately counter-punched, knocking the rogue backward. It was so quick Ali almost didn’t see what had happened. Curiously, she felt her body trying to react to the punch the Kobold had just taken. Is that my skill?
+
+Malika healed the rogue and then demonstrated the move much slower so that Ali could follow it.
+
+“Now make him do it,” Malika instructed.
+
+“Ok,” Ali said and walked the rogue through the technique at the same slow speed. It was quite tricky to control the rogue mentally with her intent. At least the rogue seemed unbothered by this somewhat clumsy method of teaching Ali using his body. Malika corrected the way Ali was having the rogue move by referencing the stances she had taught in the drill sequence earlier. Ali was forced to concentrate. It was one thing to give her creatures verbal or mental commands, it was quite another to convey the totality of a physical action with any sort of precision. Once Malika was happy with her form, she began punching the rogue, increasing her speed progressively, and slowly incorporating more and more variation in attack direction. Ali felt the beginnings of the same sensation as earlier, almost as if she could physically feel what the Kobold was experiencing. The weight of her arm during the block, the force of the impact channeled down into the ground using an efficient stance, and the power buildup in the muscles of the entire kinetic chain for the retaliatory strike.
+
+Suddenly, Ali realized that her skill was based on all her perception abilities, not just vision, as she had assumed. I think the skill is connecting my proprioception to the Kobold somehow. The idea was both remarkable and fascinating.
+
+Suddenly, her chime sounded, startling her out of her focus.
+
+Martial Insight has reached level 8.
+
+“I got it! My skill leveled up.” Ali was both excited and amazed that it had actually worked. Without fighting anything dangerous, she had advanced one of her skills through nothing more than focused training.
+
+“Awesome.” Malika grinned. “Now summon a new rogue and see if it knows the technique without you telling it.”
+
+Oh, that’s what she meant. Ali finally realized what Malika had understood about her skill. Knowing that it would work, Ali nonetheless summoned another rogue and had it spar with Malika, noticing that, even without her doing anything, it was able to execute the new technique flawlessly on its first try.
+
+Ali sat beside Malika as they took a break. The import of their experiment was clear to Ali now. “I have to personally learn how to fight in the style of each of my minions.” The prospect was daunting. The training exercise they had just completed had been rather thorough. If Ali had a dagger in her hands right now, she was certain she could execute the block and counterstrike maneuver her rogue had just learned. However, she had neither the strength nor the skills to make it effective.
+
+“Yes, it seems that way,” Malika said with a smile. “Don’t worry so much, it will be fun. I can teach you, and I’m sure Calen will help if you want to have archers. Same with Mato for anything big and muscly.” Mato’s snort from over by the campfire was heard by everyone.
+
+“Isn’t it a bit much?” Ali had been glad she had minions to fight for her, so she didn’t have to learn how – but now, she had to confront the task of learning how to fight like every single one of them.
+
+“I think this is a very powerful skill,” Calen suggested from where he had been watching. “Leveraging your accumulated experience across every creature you summon is incredibly strong. You can train without getting physically tired while learning with multiple creatures simultaneously. That block and retaliate sequence Malika just taught you will probably immediately work for your warrior Kobolds too. You can also learn from books. Combat and fighting techniques are one of the most researched subjects. There are books for every style – even if some are complete rubbish, of course. You’d have to weed those out.”
+
+“Maybe it will help if you approach it like learning a language. The words are your punches and kicks, sentences are your techniques and combinations, and the story or conversation is the overall fight. I think it’s a good analogy,” Malika said.
+
+I didn’t think of books. Ali found it somewhat ironic that she had to be reminded some books could teach you skills. Also, the way Calen and Malika explained it, she no longer felt that her skill was stupid. It would be hard work, but she could see the potential now. And it’s a good excuse to go back to the bookstore!

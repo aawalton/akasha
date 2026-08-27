@@ -1,0 +1,145 @@
+---
+id: 0eff8b2a-18af-5884-933c-79f61c63fa55
+page-type-slug: story-chapter-royal-road
+title: "Chapter 245: Snow Globe"
+slug: 0277-chapter-245-snow-globe
+partOf: dungeon-of-knowledge-complete
+position: 277
+ownLength: 2225
+unit: words
+ownProgress: 2225
+publishedAt: 2025-05-10
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2269277/chapter-245-snow-globe"
+royalRoadId: "2269277"
+markedReadAt: "2026-06-29T20:20:37.255Z"
+---
+
+Ali was in remarkably good spirits as they made their way through the jungle along what was progressively becoming much more of a road than a trail, avoiding potholes and the encroaching overgrowth. While she kept a close watch on her minions, using their senses to help Calen scout the area for monsters, she still maintained her split focus, keeping tabs on the trolls lobbing ice bolts at Naia’s boss halfway across the continent.
+
+“Back off and let it regenerate for a few moments,” she instructed. Either troll could probably solo Naia’s level fifty-one boss, but with careful application of their Frost Nova and chill debuff, she found it possible to essentially kite the Brine Ooze indefinitely.
+
+No change yet. She flipped her attention back to Aman Rak.
+
+The sun rose slowly and majestically, shining down through the branches of the tree canopy and by the time it reached around midmorning, Ali and her friends encountered the first huts. Most of them seemed to be abandoned, haphazardly erected alongside the road in roughly cleared spaces that were rapidly being reclaimed by the relentless jungle growth. Incredibly, many of the huts already seemed to be overgrown, and while she didn’t know exactly how long it had been, the fall of Aman Rak couldn’t have been more than a week or two ago.
+
+“River up ahead,” Calen announced. “Eyes open.”
+
+“As if we weren’t already,” Malika said, grinning to let him know it was a joke.
+
+The usual sounds of the jungle slowly gave way to a rushing roar that built to overwhelm the insects’ and birds’ calls, and after a few minutes, they rounded a bend to discover a towering waterfall cascading over a cliff into a deep blue pool beside the road. The rushing rapids drained away from the pool, cutting a deep rocky channel through the middle of the road. Balanced across the rapids was a single, large, felled tree with the branches roughly stripped away.
+
+“That looks precarious,” Ali observed, not worried so much for herself, but it seemed to be the only way to cross the river.
+
+In the clearing beyond, nestled up against the cliffside and the pool, was a circle of bone-shingle huts clustered around a giant Grim Totem, so overgrown with blood-drenched moss and plants that only a few tusks and rib-bones protruded. But even covered as it was, Ali recognized it instantly by the powerful flow of domain mana that cascaded from the gruesome tower.
+
+“Can you manage, Mato? Or do you want Ali to give you a lift?” Calen asked.
+
+Mato just gave him a look, shifted to his Bear Form, and strolled out onto the massive trunk bridge as if he were taking a stroll in the park.
+
+“Ok, follow him,” Ali said, organizing her minions to follow Mato across the fallen tree bridge one at a time. She hopped onto a barrier to ferry herself across and eyed her enormous Armored Drakes for a second.
+
+“They can probably cross without the bridge,” Calen suggested.
+
+“Oh, yes,” Ali said, prodding her enormous drakes to follow Calen’s advice and ford the river a little further upstream. It was deep, but the water only came up to their shoulders – and their enormous weight kept them from being swept away.
+
+With half her minions committed to the makeshift bridge, a sudden troll shout rang out, and wiry, painted figures of blue, green, and sometimes gray skin began spilling from the huts.
+
+“Fuck, incoming!” Calen said, springing into the air on his wings with his bow drawn.
+
+Instantly, Ali threw up a broad barrier sheet in front of the tree bridge just in time to block the crashing impact of explosive bone axes before the cunning trolls dislodged her minions from their precarious footing. An explosive pulse of ice mana erupted from the center of the bridge as an emerging Ice Mage unleashed Frost Nova on the biggest concentration of their forces. Two Hellfire Imps were knocked from the fallen tree and sucked into the rapids below, but both reacted with instant fireballs, switching to their Flame Form to hitch a ride on their own explosive spells. The hellfire detonated loudly among the huts while the rest of Ali’s monsters struggled against the chilling cold of the Frost Nova and the hail of ice bolts that sliced through her barrier and several of her creatures at a time, grouped up as they were on the narrow bridge.
+
+“Mato’s across, I’ll support him,” Malika shouted, teleporting across the river to join Mato as he slammed into the rapidly growing group of trolls.
+
+Ali took the moment of distraction to rush her minions off the far end of the bridge and fan them out into some semblance of a reasonable formation. “Totems!” she commanded, and then she directed her attacks to follow Calen’s chosen target – the Ice Mage. “Frogs! I need some frogs!”
+
+“As you wish, Seeker,” her witch doctor cackled, having made his way across the river via the Spirit Realm.
+
+Suddenly something rippled, a change in the mana in the back of her mind. Ali instantly diverted her attention to Naia’s cave. The Brine Ooze shivered as an Ice Bolt punctured through it. “Fuck, I said don’t kill it!”
+
+“What?” Calen asked.
+
+“Sorry, not you,” Ali said, but her breath caught at the sudden change she witnessed through the ice-affinity-enhanced vision of her distant trolls. The mana within the Brine Ooze suddenly flurried – if that was a description – turning it into what looked like a snow globe for a second. White accretions collected like snow and immediately crystalized. The temperature in the cave plummeted and chunks of ice appeared in the water of the underground pool of mana-purified water.
+
+Slush – Ooze – level 51 (Water / Ice)
+
+“Good job,” she sent to her two trolls, totally not jealous of Naia’s ridiculous skill. “Disengage and return to the library.”
+
+A dark shadow passed overhead, yanking her attention back to the tree bridge and the unfolding conflict by the rapids. Ali’s eyes flicked skyward, and her heart stopped cold.
+
+When Ali was young, she had the privilege of witnessing one of the monstrous giant trolls in a peaceful delegation to Dal’mohra. Even without weapons, and peacefully walking around the city, her breath had caught in primal terror at the sight and sound of the creature.
+
+Warrior – Giant Troll – level 97 (Blood)
+
+This one was very angry. He snarled through jagged crimson warpaint, dangling blood-soaked beads from tusks longer than Ali’s entire body. Arms as thick as tree trunks wielded double-bladed greataxes larger than Mato’s entire Bear Form, leaving ribbons of blood trailing through the air. And he had to be nearly fifteen meters in the air and coming down fast.
+
+Ali yelped.
+
+“Watch out! Above!” Calen screamed.
+
+With a great shout, the massive troll landed, the tremendous impact buckling the ground for several meters about. Wielding a bloody greataxe in each hand like they weighed nothing, he lashed out viciously, cleaving back and forth, immediately sending one of her shamans flying into the waterfall. The backhand swing caught Mato squarely in the chest, knocking him tumbling across the clearing until he collided with a tree with a sickening crunch. The half-meter-thick trunk snapped like a twig, branches splintering as it collapsed on top of him.
+
+“Run!” Malika yelled.
+
+The giant troll extended his axes out to the sides, threw his head back, and roared, “With crimson rage, I paint the ground. In my blood, you’re lost, not found!” His muscles bulged and he turned once, then twice, and began to spin, picking up momentum as the blood streamed from his arms and weapons, building a bloody vortex that almost obscured his enormous form.
+
+Then the storm moved, tearing across the battlefield – a massive maelstrom of whirling blood and axes.
+
+Ali screamed for her minions to dodge, but in vain; most of them were already flying like ragdolls through the air, their sprays of blood sucked into the vortex to power its thirst.
+
+Amid the carnage and the steady thumps and screeches of her minions landing all over the clearing, Ali froze, stunned by the brutal force of nature that had descended out of the sky upon them.
+
+What? How do you even fight… that?
+
+“Ali-friend?” Naia failed to control the shivering of her membrane as she witnessed the scene down below. She knew the taste of betrayal from so long ago; the anguish of being imprisoned in her own home, of fearing for her life every minute of the day.
+
+Ali… you said you were Naia’s… friend.
+
+When she had tasted Ali’s mana from down in the deepest caverns, she had been so overjoyed. Ali was visiting! It had taken a bit to extricate herself from the battle against the plant monsters in the depths, but she had arrived in the upper cavern just in time to feel Ali vanishing. And in her stead, she had left two … trolls?
+
+Mage – Troll – level ?? (Ice) x2
+
+The closer troll barked something with unintelligible vibrations and the other fired shards of bitingly cold mana into her Brine Ooze, causing it to slow down.
+
+None of her boss’s minions had survived, and Naia tentatively tasted the dissipating mana of their corpses. Frozen.
+
+Aghast, she quivered in her hole high above the fight. Mistake? Mistake? No… not Ali. But the trolls reeked of Ali’s mana like she had wiped one of her appendages on them, marking them. Naia couldn’t pretend it was all a mistake. One of Ali’s trolls blocked the water bolts with a wall of ice and then vanished, appearing on a boulder on the other side of the chamber. Ice mana detonated in its wake, and her Brine Ooze froze solid.
+
+No…no. NO! Naia grasped her mana and, quivering with rage now, she began summoning. Rot oozes, Luminous Slimes, Lava Lurkers – everything she had. They swarmed down the walls to attack the intruders.
+
+The troll closest to the wall glanced up and made some more vibrations and then unleashed a blast of ice that filled the area. Half the slimes froze on the wall and a spray of sharp ice bolts washed back and forth across the rocky wall. Frozen slimes burst in a cascade of shattering detonations as the two powerful trolls scoured the walls. In moments, Naia’s rage turned to fear as her forces were decimated.
+
+A... Ali… why? But the trolls ignored her silent, invisible cowering, and turned their impossible ice back on her Brine Ooze, leaving Naia with no option but to watch its destruction. She clung to her crevice, but the trolls refused to finish it off. Time and again, when the Brine Ooze got low, they would take a break and run it in circles until it recovered. Then they started again.
+
+Are they toying with me? Why are you doing this? Confusion prickled through Naia’s mind as the fight drew on longer and longer, and the intruders repeatedly failed to capitalize on their huge power advantage.
+
+And then it happened. Naia’s membrane froze in shock at the sound of a notification chime prickling brightly across her membrane. Her mind jolted with sudden strength and clarity.
+
+Slime Mutation has altered your Brine Ooze.Imprint: Slush completed.
+
+Chunks of ice crystalized within the membrane of the Brine Ooze, a brand-new mana affinity rippling through its body. It shuddered with sudden speed as it shed the grip of the powerful chill debuff and accelerated toward the two annoying trolls.
+
+Cold, Naia thought, feeling the sensations through her connection to the ooze, and she tasted the Ice affinity from within. All her senses prickled as the sudden increase in her intelligence boosted her skills and her mana pool swelled from increased wisdom as her class recognized the new imprint.
+
+Now, I can win! Naia thought, turning her attention to the terrible trolls. But as she bore down on them, they stopped. One of the trolls bowed and then made some vibrations so badly that Naia could almost not understand.
+
+“I hope you like it, Naia,” the Troll said. “I’ll come visit again soon.” Then both the trolls teleported over the rune circle Ali had left for her – the one she had been caring for – and vanished.
+
+Naia just trembled, flabbergasted.
+
+Ali-friend… is still friend?
+
+Joy burst up from within her, ripples of excitement she could barely control. Is a gift? she realized, as it suddenly dawned on her that this had been Ali’s intent all along. The attack – the terrible trolls – had not been sent to hurt her but rather to deliver her Ali’s gift. Is gift! Ali teach new Slime!
+
+Immediately Naia began to divide, concentrating the new ice-affinity into a cold slush in one half of her body before she split it off. And there it was – her newest ooze. She poked it with a pseudopod, recoiling as her essence began to freeze. Then she used its attack, amazed to feel the ice bolt that shot out and passed through the rock of the wall. Just like the trolls.
+
+Watch out, nasty plants. Naia is coming. And with that, she turned, intent on trying out her precious gift against the plant monsters in the depths.
+
+Thank you, Ali-friend.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

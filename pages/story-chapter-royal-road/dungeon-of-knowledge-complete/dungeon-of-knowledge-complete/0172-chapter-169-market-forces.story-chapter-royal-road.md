@@ -1,0 +1,279 @@
+---
+id: f6786275-60b5-5aa0-9a5b-b43e6bc425c0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 169: Market Forces"
+slug: 0172-chapter-169-market-forces
+partOf: dungeon-of-knowledge-complete
+position: 172
+ownLength: 4818
+unit: words
+ownProgress: 4818
+publishedAt: 2024-12-12
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1952962/chapter-169-market-forces"
+royalRoadId: "1952962"
+markedReadAt: "2026-06-29T20:16:51.497Z"
+---
+
+Ali and Malika entered Lydia’s boutique clothing store to the sound of the soft musical chimes, but to her surprise, it was not Lydia Ali found behind the counter. Instead, she found herself staring at a tall, dark-haired young man dressed in an elegant black suit that was clearly Lydia’s work.
+
+Human
+
+An unclassed human? A little surprised, she found herself not quite sure what to do.
+
+“Good morning. Welcome to Lydia’s Allure,” he greeted them in a voice that seemed cultured and just as elegant as his suit, but a little hesitant, like he was unsure of himself.
+
+“Hi, is Lydia in?” Ali asked, glancing back at Malika for a moment, before returning to study the new person.
+
+“She’s in the back working on an order and asked me to take care of anyone who came in. Is there anything I can help you with?”
+
+“Could you get her for us?” she asked, and the young man reacted with obvious discomfort and uncertainty.
+
+“I’m not supposed to…” he began, but Lydia emerged from the back room and interrupted him.
+
+“It’s ok, Elton,” she said, patting him on the shoulder. “Aliandra and Malika are our most important customers.”
+
+“Oh, ok,” he said, seeming relieved that he hadn’t blown it somehow.
+
+“Welcome back,” Lydia said, turning to her and Malika. “This is Elton Moss, he’s my new apprentice – he just started yesterday, so he’s getting to meet all the regulars. With all the work you guys have been giving me, and the popularity the store has been gaining lately, I simply couldn’t work in peace anymore. He wants to be a tailor when he unlocks his class, so I offered to take him on as an apprentice.”
+
+“Good to meet you,” Ali said and then turned to Lydia. “How are the studies going?”
+
+Tailor – Human – level 62
+
+Lydia had not leveled up since the last time she had been in the store, and when she looked closely, she could see dark smudges below her eyes and a surprisingly disheveled – at least for her – appearance, as if she had not slept in a while.
+
+“I learned the enchant! That book is incredible, there are over two hundred tailor enchantments, many of which I’ve never seen before.” Lydia beamed happily. “I found a source of monstrous silk, which might work for your new piece, and I’m just looking for the remaining components. I think I heard a rumor that someone had found an essence of fire, but I’m not sure if that’s true or if I can get one.”
+
+Tired, but excited, Ali noted. It was a marked difference from the cloud of despondency and defeat she had been struggling with the last time they had talked. That’s the power of the right book.
+
+“About that, I think we can help with the essences,” Ali said as, at the same time, Malika produced two from her storage.
+
+“Oh!” Lydia exclaimed. “Elton, grab that storage box under the counter quickly. The purple one.” When he produced the correct box, she pulsed a little mana through it and the two essences vanished into its storage enchantment before they could burn anything. “That’s going to be very helpful, thank you! What can I pay –”
+
+“There’s this too,” Malika cut in with a smile, pulling out a tangled clump of Flame Web. “I’m not sure if this will be useful but Appraise tells me this should be a fairly valuable crafting material, so we thought we’d check with you. It comes from a big fire-affinity spider we found deep underground.” The sticky web was bundled up into a clump now, but it was still burning with red flame, and Malika’s healing magic pulsed every now and then while the tailor shop filled with the unmistakable smell of burnt skin.
+
+“Wow, that’s really something!” Lydia said, studying the clump of burning web. “May I?”
+
+“Careful, it’s really sticky and it burns,” Ali told her, but her hands were already gloved by a delicate formation of her mana, and she picked at the sticky mess without the flame bothering her in the slightest.
+
+“Would you hand me the spool please, Elton?” Lydia said. “No, not that one, I need the one for dangerous threads. The black one on the top shelf.” As soon as her apprentice found the right spool, Lydia picked a thread’s end from the clump of tangled webbing, and with a deft swirl of her protective mana, she pulled, easily untangling the clump into strands and rapidly wound it onto the magical spool.
+
+It was a fascinating use of magic that she had never seen before, and Ali studied the formations carefully. Clearly, it was some intrinsic non-affinity tailoring skill that drew from her mana to untangle and manage the tricky webbing. It looked like an extremely useful skill for a tailor.
+
+“Can you please run next door and get Hilda for me, Elton?” Lydia asked her agog apprentice. “She’s the dwarf weaver who owns the fabric store – we’re going to need her skills to make some cloth.”
+
+“So the web is good?” Ali asked. She had learned the imprint for it, hopeful that it would turn out to be something nice, but the way Lydia was reacting, it might be better than she had hoped for.
+
+“This stuff is amazing; I haven’t seen such high-level silk before – I was hoping to use some of that monstrous silk for your items, but this is far superior,” Lydia answered. “How much do you want for it? And the essences?”
+
+“Will you take it as payment for the sets of clothing I need?” Ali asked.
+
+“That’s perfect,” Lydia answered. “I know you can’t sell it directly to her, but if you find more web, tell Weldin that Hilda will buy all of it. Then I will have a supply of high-level fabric to work with. I should have something ready for you by tomorrow.”
+
+As she and Malika headed back, Ali reflected happily on Lydia’s breakthrough with the book she had given her, and the anticipation of something to help her fire resistances.
+
+“A lot of people are being affected by us needing fire resistances, aren’t they?” It was something that Ali just suddenly connected in her mind. Lydia progressed because they needed an enchantment and she had translated a book. Then Lydia involved a new person with weaving skills and got a new apprentice to handle the expanded work. And it was not just her, Thuli too. Ripples and more ripples.
+
+“Yes,” Malika answered. “And if Weldin is successful at preventing Hawkhurst from cornering the market, many of the crafters are going to make a lot of progress, particularly as we delve deeper into the mines and pull out more and more essences, and web, and whatever else is down there.”
+
+It was a kind of attention Ali hadn’t anticipated. Something rather different than using the shrine and declaring her class to the world, one that seemed far less under her control. Every single request seemed to have a broad web of impact on the crafters and artisans of the town, many of the interactions probably occurring beyond her ability to observe, but she had to believe that growing higher-level and more capable crafters must be a positive influence on everyone’s lives. What possible downside could there be if an unknown dwarven weaver lady gained a few levels because of her request to have something made from the flame webbing?
+
+“That’s a good thing, right?”
+
+“Oh yes, if we can somehow contribute to cracking the Hawkhurst stranglehold on Myrin’s Keep, it could become a much more prosperous and better place for everyone. We do need to be careful, though.”
+
+Ali nodded. Jax’s reaction would be all too predictable.
+
+***
+
+Ali found herself with a bit of spare time on her hands before they were scheduled to hit the Emberforge Mines again, so she made her way down into the sewers, searching out the best spot for her newly acquired Tunnel Weavers.
+
+Seth’s idea had been rather compelling, and she thought of people like Sabri and Brena trying to afford equipment and potions without much opportunity to earn gold. Almost all the quests and jobs required a minimum of bronze rank – mainly for safety reasons. Most of the novices would likely be leveling exclusively down here until they ranked up.
+
+This looks like a good spot, she decided, walking up a branching tunnel section that had several chambers and connections and was currently only sparsely populated. She unsummoned some of the monsters in the tunnels, leaving just the toxic slimes, and then she began to create spiders. I should tell Seth where to find them. Or maybe not… Probably several of the guild rogues, rangers, or hunters had tracking and scouting skills, or even treasure senses, and this might give them something to hunt.
+
+It didn’t take long, her Grimoire’s summoning benefiting substantially from the spell haste provided by her slowly growing Arcane Recall, and soon enough, her chosen area was crawling with Tunnel Weavers, ranging from level two through level eight, giving a reasonable range for the novices to cut their teeth on. As she went, she adjusted the tunnel walls, carving out nooks and crannies for the spiders to hide in, and creating some boulders on the ground for cover.
+
+While she worked, she reflected on Seth and his request. She could sense him somehow through the magic of the tithe enchantment that bound them together. It was nothing like an actual perception skill, but she could tell he was connected. She wondered how she appeared to someone like him – a reviled class, unable to be accepted in most parts of the civilized world. How would someone like him find a good mentor, other than walking the path of evil and choosing a necromancer? It just so happened that his traits overlapped substantially with a dungeon that he happened to trust – what were the chances of that?
+
+I just hope I can find one for myself, she thought, but the problem seemed insurmountable. Her class was arguably even more terrifying than his, and there were no convenient people around to grant her a mentorship. I’m just going to have to do it the hard way, she thought, trying to console herself. The problem was that mentorship could often unlock options that couldn’t be earned without help. And she would likely never know what she had missed out on.
+
+Don’t be so down about it, she told herself. After all, if Seth had managed, perhaps it was possible somehow. She put the downward spiral of her thoughts away, and attached her spiders to her domain, giving them the ability to be respawned automatically.
+
+Going with the coincidental poison theme for this corridor, she planted several dozen Forest Amanita mushrooms in various corners and cracks and marked them for respawn too. The mushrooms, she had learned, could produce a rather potent poison for their level, one that her rogues liked a lot, and she was certain would be highly sought after by some of the novice guild members.
+
+She stepped back to survey her work, finding that the Tunnel Weavers had already begun to spin, draping web across the walls and the roof of the tunnels, creating pockets of dense webbing in and around the holes she had provided.
+
+Looks like the tailors and weavers are going to have a steady silk supply soon. Happy with her work, she headed down to the library to see if Mato and Calen were done shopping.
+
+For all her bluster and argumentativeness, Giddy Clicksprocket was a fantastic jeweler. Weldin had vouched for her, and Malika decided she needed to give him a big thank-you. In her hand, she held two hairpins – one with a topaz and one with a ruby, just as the Gnomish jeweler had suggested. Both were crafted from platinum, making the mundane components substantially more expensive. But the Gnome had insisted that something with fire resistance on it should not melt in battle – and she had covered the extra cost personally.
+
+But it was the craftsmanship that took Malika’s breath away – both pins were simple in design, but that simplicity deceptively belied the superb quality. Everything from the choice of materials designed to be robust to extreme heat, the compact design making certain they would be effective in combat, to the color choices and cut of the jewels to match the intended recipients. She loved her ruby pin, and the topaz would be stunning in Ali’s green hair.
+
+Ruby Hairpin – level 40+20% to resistance against Fire+168 to resistance against FireRequirements: Wisdom 140Quality: MagicValue: 14 goldCreated by Giddy Clicksprocket.Head – Jewelry
+
+Somehow Giddy had managed to squeeze a resistance enchantment onto a hairpin. While most people would probably find the whopping twenty percent increase to be the defining feature of the piece, she had zero resistance, and the modest hundred and sixty-eight flat resistance would make all the difference in the world to her. It would only work against fire, unlike a normal piece of armor, but down in the Emberforge Mines, fire was all she needed.
+
+She pinned her hair up with the clip, happy to find the quality of the craftsmanship extended to how well it served its primary function too. With the hairpin, she had just under fifteen percent damage reduction against any monster at her current level. It didn’t sound like much, but the dungeon put out so much continual fire damage that even this small reduction would make a huge difference.
+
+“Ooh, that’s pretty!” Ali said as she flew down into the library from the cavern above.
+
+“I got you one too,” Malika said, holding out the second hairpin and enjoying the instant delight on her friend’s face.
+
+“I love it! Thank you!” Ali exclaimed, followed immediately by, “Oh, wow!” when she took the pin and examined the enchantments. “This is incredible. Wow, would you look at that regeneration stat?”
+
+“It’s something, right?”
+
+Topaz Hairpin – level 40+20% to resistance against Fire+63% Mana RegenerationRequirements: Wisdom 140Quality: MagicValue: 14 goldCreated by Giddy Clicksprocket.Head – Jewelry
+
+“And it’s so pretty, a girl really can’t battle elementals looking less than her best! Who is Giddy Clicksprocket?”
+
+“A jeweler that Weldin recommended. She has a bit of a temper, but her work is amazing.”
+
+“Heya,” Mato said as he and Calen finally arrived from their excursion in town.
+
+“How did it go?” Malika asked. They had done the run-around between Eliyen and Morwynne, trying to organize potions for their next excursion.
+
+“Perfect, look at these!”
+
+Elixir of Fire Resistance – level 41Consume: +20% to resistance against fire damage. Duration: 1 hourValue: 2 goldCreated by Morwynne Fizzlebang – “A little less burn.”Potion
+
+“That’s really good,” Malika said. And it really was – for someone like Mato who couldn’t drink potions every few minutes because he was a bear or a tree, this would add a lot to his defenses against fire. She didn’t even mind that it was two gold for a single potion. But for her, another twenty percent wouldn’t be a very large number. “It’s probably too expensive to waste on me, though.”
+
+“I got something else for you,” Mato said, pulling out a crate of small vials of red liquid.
+
+“Wow, it’s gifts all around,” she teased gratefully.
+
+Potion of Fire Absorption – level 40Consume: Absorb up to 576 Fire damage. Duration: 3 minutesValue: 1 gold, 20 silverCreated by Eliyen Mistwood.Potion
+
+“Yep, Eliyen is a wizard,” Calen said. “When I explained your situation, she immediately whipped these up.”
+
+The potions were outstanding. “Just like a health potion,” Malika said, examining it closer.
+
+“Better,” Calen observed. “You drink it before you go into the fight, and it blunts the first chunk of damage you take, as long as it’s within three minutes.”
+
+“So, I down this when I see a double-pull of Shards of Flame?” Malika asked.
+
+“Yes,” Calen said, wincing visibly.
+
+“One gold, twenty silver per shot though,” Malika grimaced. “I feel like I’m going to be drinking all our hard-earned essences.”
+
+“Welcome to the club,” Calen said.
+
+“Seems worth it,” Mato said. “Besides, we paid with the bucket of mana-purified water Calen hauled up with us, and I just gave her double the number of fire flowers she needed, so she can make other stuff. We didn’t pay any gold for this.”
+
+“Still feels a little wrong,” Malika said, but she knew it would make a big difference down there. It helped that Mato confirmed her potions took fire flowers instead of essences – something Ali could grow.
+
+Jax is going to peck out his own liver at this rate…
+
+Calen stalked back to the group, his skin beginning to burn as the restoration spells wore off.
+
+“The double pull is next,” he said. He had studied it for quite some time, but there did not seem to be any way to split them, and the tunnel was rather narrow.
+
+The Emberforge Mines had respawned most of the monsters since they had cleared it the first time, but they were progressing substantially faster this time. Knowing where everything was helped, but the extra fire resistance from the elixirs was the biggest difference. Less downtime meant they were fighting more and resting less, and they were already coming up on the tunnels full of fire spiders.
+
+“I think we should all stand in the intersection,” Calen said. It was a bit risky, but he had an idea of how to do it. “Mato, you charge the first one, take it into the side tunnel, and Malika I’ll pull the second one down here to you and you can tank it here.”
+
+“Pull it far enough so there’s no overlapped aura in the intersection, right?” Malika asked.
+
+“Yup, that’s my thought,” he answered. Malika and Mato would be down separate passages, unable to see each other, but they didn’t need to, from the intersection, Ali should be able to have her Kobolds heal everyone. The only problem would be the beginning of the fight where the Shards of Flame were being dragged over everyone.
+
+“Ok, sounds good,” Mato said, transforming into his Bear Form.
+
+“Ali, maybe block off a corner for yourself and the healers, there’s going to be a storm of firebolts as they come through.”
+
+“Right,” Ali said, and a golden wall appeared immediately.
+
+“I got the one at the back. Go,” he said, and Mato charged down the dark rocky tunnel, smacking into the Shard of Flame.
+
+Calen released his arrow and struck the far Shard of Flame squarely in the center of its core, making it hiss angrily as it tore past Mato toward the group. Ali and most of her minions sprinted off down the tunnel toward the intersection while hiding behind the barrier she took with her. Many of them immediately ignited in the fire aura of the oncoming Shard of Flame before the burning was extinguished by healing magic.
+
+Looks good, Calen thought, seeing Mato disappear down the side passage and Malika’s punches landing on the elemental that was burning him just by its presence. But Malika did her job well, and the elemental never even got a chance to take a shot at him before it turned to her in rage.
+
+He left her to it, sprinting down the tunnel to get out of the aura of flame. From the intersection, he found he could clearly see both elementals, one down each tunnel, and with a little work, he positioned his bow horizontally, splitting his arrows to fire almost ninety degrees apart, one down each tunnel to strike each elemental. While Multishot split the base damage between each of the arrows fired, his light-damage enchantment applied the full damage to both, and he only paid for it once. For the skills he had, Multishot was almost always a win, unless he was forced to shoot without enchants.
+
+Multishot had been his reward for training with Nendir at Ciradyl the first time, and he had tried for another advance the last time he had gone, but no matter what they did, he could not unlock anything. Both Nendir and Lyeneru had recommended focusing on some other form of area damage, particularly given how he wanted to develop his class, and so they had been focusing on his arrow enchants this time.
+
+It felt so close, he thought, remembering his last training session before he returned. He had even extended his stay just a little, certain he was about to unlock something, but it hadn’t been enough.
+
+The anxiety he had over what had to be the most dangerous pull in the dungeon so far slowly faded as the fight progressed. No unexpected adds sprang out of the lava to join in, and the monsters were separated enough that nobody except the melee was getting the extra burn damage from the auras. He grinned as Malika’s elemental collapsed and he heard the chime sounding in the background.
+
+Malika and all the melee minions had to run the long way around, but that wasn’t much of a problem, given how stable Mato seemed to be now. Knowing what was coming up next, he withheld his Righteous Fury, choosing to keep it for the tunnel of spiders instead. He nocked a normal arrow because it would do just a little more damage when fired at a single target, but he was still happy that his Multishot generated its own arrows – it was so much less work and money to avoid ammunition.
+
+A few minutes later, the second Shard perished with a muffled implosion.
+
+Your group has defeated Shard of Flame – Elemental – level 40 x2.
+
+And then his chime sounded a second time. Oh?
+
+Arrows of Brilliance has reached level 31.Requirements met for skill advancement.Mentor: Lyeneru Silverleaf.Arrows of Brilliance has surpassed level 30.Received master-level archery instruction and practice.Dexterity has surpassed 250.Intelligence has surpassed 190.Arrows of Brilliance has gained a new enhancement. Blinding FlashMana: Cause an extremely bright flash when your arrow hits, blinding nearby targets. Range: 20 feet.Light, Area, Ranged, IntelligenceExplosive ShotMana: Your arrows explode on impact, dealing light damage to all targets in the immediate vicinity. Range: 10 feet.Light, Area, Ranged, IntelligenceArmor PiercingStamina: Your arrows will pierce armor, ignoring a percentage of the target’s armor valuePhysical, Ranged, DexterityMote of LightMana: Attach a Mote of Light to your arrow, fixing it at the destinationLight, Ranged, IntelligenceChoose one enhancement.
+
+Odd that it triggered now, but it only required level thirty, he thought, eyeing the requirements. The only explanation he could think of was that he had needed some time to internalize his training. Quickly, he scanned through the offered options.
+
+There it is! Without hesitation, he selected Explosive Shot. According to Nendir, it would work just like his light-damage enchantment – each bolt would gain an explosive payload and he would pay once for the shot itself. Certainly, Nendir should know, he was a master with multishot.
+
+I guess I’m never going to get around to picking Armor Piercing, he thought wryly. He had wanted to get it the last three times his skill advanced, and each time there was something more important.
+
+His skill advancement was perfectly timed, too. He tested it immediately on the next pull. He enchanted an Eimuuran Steel arrow with both Enhanced Range and Explosive Shot, and when hit struck, it detonated with a loud bang and a blinding flash.
+
+“Oh, a new advancement?” Ali exclaimed.
+
+“Yes, Explosive Shot,” Calen said. “I’m excited to try it on the spiders.”
+
+“Looks like the Sparkling Ooze light bombs,” Ali noted as they whittled the next elemental down.
+
+Calen led the group through the tunnels drawing the elementals from the side passages and the Lava Lurkers from the glowing pools and rivers one at a time before finally reaching the spider tunnel.
+
+“Spiders,” he said, eyeing the flaming web draped from the ceiling and walls.
+
+“Give me a few minutes, I want to summon some Sparkling Oozes,” Ali answered.
+
+“Good idea.” The swarm of spiders had been a real challenge the first time they had run into it, but they had been unprepared. Usually, Ali kept a good set of Fire Mages, and their fireballs took care of groups, but they couldn’t use fire down here, and that had exposed a weakness in their area damage output.
+
+This time should be different.
+
+While Ali worked her summoning magic, he stalked up ahead to scout the tunnel, marking the locations of the tiny holes the spiders had poured out from, and the few individual spiders that hung up in the webbing, but as he tried to step forward, he sensed a premonition of danger and froze. It felt like something was watching him, able to somehow see through his stealth.
+
+Not willing to risk it, Calen backed out slowly and silently and rejoined the group.
+
+“I think there’s something big lurking back there, but I can’t quite detect it, so keep your eyes open,” he told them. He wasn’t quite sure if it was his Explorer skill or just random paranoia, but he couldn’t shake the sense of being watched.
+
+In the lull that followed, Ali finally spoke up. “Have you noticed this dungeon doesn’t seem to bother with low-level monsters? I mean, the Flame Skitterers are the only thing below thirty-five, and they’re a swarm mob.”
+
+“Seems about right for most dungeons,” Calen answered. Everything he had read seemed to follow similar patterns. Usually, dungeons had a level spread of monsters, but they were supposedly clustered close to the level of the dungeon itself.
+
+“How does it have enough mana for that? I can’t seem to afford even the low-level monsters I have,” Ali grumbled, her voice leaking frustration.
+
+Malika glanced up and said, “Perhaps their class offers them some substantial discount that you haven’t found yet?”
+
+Calen considered the question for a moment, but then it came to him. “The owner of the Ruins of Dal’mohra were the Twin Wights, right?”
+
+“Yes, what of it?”
+
+“They were a raid boss,” he answered. “And your raid boss has some ridiculous mana pool. Didn’t you say your Domain Mastery might let you do that to yourself?”
+
+“Oh, I should have thought of that,” Ali said, her brow furrowed. “Yes, I’m pretty sure my skill can apply the boss transformation to me, but I get the impression that it’s permanent, and there’s no way I’m doing that. Domain Withdrawal is enough of a limit for me, I don’t want to be confined to a cave.”
+
+“That’s probably smart,” Malika said. “You can’t unsummon yourself if you make a mistake.”
+
+“Ok, well, I’m ready,” Ali said, still frowning with evident frustration. “What’s the plan? Charge in and blow everything up?”
+
+“That’s about right, maybe send your oozes in first and flush them out, and I’ll shoot from here, and try not to hit your monsters,” Calen said. Ali’s face was lit up brilliantly by the presence of the six Sparkling Oozes that surrounded her, taking the place of several other minions that she had unsummoned to make enough mana to support them.
+
+“Oh, don’t worry about the Sparkling Oozes, they’re immune to light magic,” Ali chuckled. “Go crazy.”
+
+“Oh perfect.” Calen resummoned his motes and sent them floating out into the tunnel to make sure nothing was hiding in stealth. The oozes slithered and crawled after them, more or less flowing up the craggy walls, ignoring the web as they went. In seconds, the tunnel filled with a hissing sound, and blobs of fire began to shift and scurry around. Hundreds of eyes gleamed down from behind the webbing and spiders began to pour out of their hiding spots in the cracks and crevices in the walls.
+
+The tunnel suddenly filled with a strobing light and deafening roar as the oozes let loose, but even given the intensity of the clash, his enhanced vision still picked out the densest groups of spiders clearly. Ali clamped her hands over her eyes, and as she did, Calen triggered his Righteous Fury, filling the air with triple-shot volleys of magical arrows enhanced with additional light magic damage and his newest Explosive Shot. The roar from the tunnel washed over him, but he didn’t let up until the mana in his veins stopped burning and the crawling in the dark tunnel ceased. The only thing left moving were the oozes plopping down from the ceiling to consume the occasional twitching spider, and Mato tanking the few almost dead higher-level Flame Spinners that had survived the gauntlet.
+
+Well, that was fast, he thought, switching up his arrow enchantments to help finish off the remaining spiders. But he still felt the sense of something watching him with far too many eyes.
+
+Motes of Light has reached level 15.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

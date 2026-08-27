@@ -1,0 +1,213 @@
+---
+id: 34e5ac9b-4eb7-5135-bb27-aac604e69f51
+page-type-slug: story-chapter-royal-road
+title: "Chapter 65: Discussion of Skills"
+slug: 0065-chapter-65-discussion-of-skills
+partOf: dungeon-of-knowledge-complete
+position: 65
+ownLength: 4001
+unit: words
+ownProgress: 4001
+publishedAt: 2024-04-28
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1614474/chapter-65-discussion-of-skills"
+royalRoadId: "1614474"
+markedReadAt: "2026-06-29T20:13:06.324Z"
+---
+
+Mark: Katie Brockworth.Quest Giver: Kieran Mori.Rank: Bronze.Category: Assassination.Reward: 1 gold.Katie Brockworth is a level 6 Ice Mage, and a member of the Adventurers Guild. See enclosed for information about the mark’s habits and apartment address. Use a distinctive calling card – we want to send a strong message.- Kieran Mori. Orders for the ‘Silent Assassin’, Tala
+
+Malika grinned at Ali’s antics and contagious laughter. Despite her obvious frustration at the melee-unfriendly fight, it was hard not to get caught up in the relief that it was over – and Ali’s obviously unfettered joy of flying.
+
+“Whoa, watch out!” Malika exclaimed as Ali banked sharply to the side and tumbled off her barrier, but Ali just laughed and got right back up and tried again.
+
+How does she even have the energy? Ali had looked like she was about to pass out a few minutes ago, and now she was acting like a child who had just been handed a shiny new toy.
+
+“That was a ridiculous fight,” Calen said.
+
+“It sure was,” she agreed, as the three of them sat by the still-smoking wreckage of the wyvern watching Ali learn to fly. “I could barely do any damage to the monsters.” Both the Skeletal Wyvern itself, and the summoned Piercer Scorpions had unreasonably dense bone armor, rebuffing almost every single one of her attacks. It was only with Soul Strike that she could do any damage at all, and even that had been a pittance at best. Her magic was restricted to the surface, to the area she touched. Unless one of Ali’s shamans had softened the monster up, she had done almost nothing.
+
+“Same,” Calen said. “Half the time my arrows just bounced off, but you still got six levels!”
+
+“I have no idea how,” Malika admitted. If there had been a way to calculate their individual contributions, Malika was certain hers would be right at the bottom. “I’m sure only Ali and that little Kobold Acolyte did less damage than me.” She had even been scared to check her notifications.
+
+She skipped past the stream of Kobold and elemental kill notifications again, searching for that final all-important kill notification. It was still there.
+
+Your group has defeated Skeletal Wyvern – Undead Dragon – level 37.
+
+So much sweat, blood, and perhaps even a few tears were bound up in such a simple unemotional notification. Definitely a lot of blood, she thought, dwelling for a moment on the monster’s level. It was more than twice her own, and a raid boss at that. Just a few days ago, there was no way they would have pulled this off. And even though it had been close, she was confident that they would have been able to escape and return with improvements to their plan and they would have been successful for certain.
+
+Heck, just having the second healer survive would have made it much easier.
+
+“We should probably have run when the rogues ambushed the healer,” Malika admitted. “Too stubborn or just plain lucky?”
+
+“Pure skill?” Calen quipped, but his brow remained furrowed. “You’re right. It would have been expensive, but it’s smarter to be safer and try again. We should do that next time.”
+
+But they hadn’t, and here they sat, in an empty library of bone beside the still-smoking corpse of an undead dragon.
+
+Malika sat for a moment, just staring at the surprising notification she had seen earlier.
+
+Soul Monk has reached level 24 (+6).+60 attribute points.
+
+Just like that, I’m 24? The system had clearly and firmly disagreed with her assessment of her contribution to the fight. She had earned more levels than all her friends. She considered the fight again, searching for what it might have been.
+
+“I still think I should have gotten the least experience,” Malika muttered.
+
+“No, I should have,” Calen said.
+
+“Hey, when I said ‘competition,’ it wasn’t to see who did worst,” Mato chipped in.
+
+“I still don’t get it,” Malika complained.
+
+“Nobody really knows the exact rules for how experience is earned,” Calen said. “Risk and contribution are usually touted as the most important factors, that and turning the outcome of the encounter.”
+
+“But I barely hit anything.”
+
+“You took over for the dead Acolyte,” Calen pointed out.
+
+“Healing?” she asked. Could it be that simple? Only with her Relentless aptitude had she been able to stand in for the missing healer, stretching her stamina and mana to the limits, even with all her potions, Meditation in Mato’s aura, and the occasional dip in Ali’s Inspiration circle. Perhaps dodging attacks to heal Mato in the storm of bone spears and talons had done the trick? It had certainly been essential to their survival.
+
+“Should be,” Calen said. “Otherwise, healers would never gain experience on dungeon raids.”
+
+“I know that. It’s just…” Malika had never imagined it could be so much. I guess there must be balance, I just didn’t see it that way. She was still amazed she had survived at all – even Mato had come perilously close to being crushed.
+
+Sixty points. Still, Malika’s class benefited well from nearly every attribute, making the distribution of points quite challenging. She juggled her priorities in her head a little and then spent sixteen points on dexterity and four on strength to improve the effectiveness of her punches. For resources, she added eleven points to endurance and fifteen to wisdom. Survivability was always worth investing in, especially if she was going to be toe to toe with bone elementals, so her next investment was eight points of vitality. For her final six points, she split them among perception and intelligence, currently her least useful attributes, but still worth boosting a little. She should at least try to see a little better in the darkness.
+
+She took a deep breath and settled herself, finally taking the time to really study the details of her notifications.
+
+Soul Strike has reached level 15.Healing Mantra has reached level 12 (+3).Perfect Body has reached level 12 (+2).Soul Armor has reached level 15 (+3).Enlightened Evasion has reached level 13 (+3).Divine Step has reached level 12 (+4).Meditation has reached level 9 (+3).
+
+Healing Mantra leveled up a lot. Now that she had Calen’s perspective, the numbers made much more sense. Three levels for her healing skill. And the rest was a testament to how hard it had been to survive while delivering healing to Mato in the maw of the wyvern, or while dodging the scorpions. Still, the next section made her neck prickle with anticipation.
+
+Class skill slot unlocked.New skills are available for Soul Monk.New skill unlocked.Class level has reached 20.Strength has reached at least 10.Broken your own hands punching an enemy of a higher level than yourself.Stunning StrikeStamina: Channel your energy for up to 10 seconds and 100 stamina, significantly increasing the power and weight of your next strike. You have a chance to stun your enemy.Physical, Melee, StrengthNew skill unlocked.Class level has reached 20.Dexterity has surpassed 120.Survived significant damage due to projectile attacks.Deflect MissilesStamina: Focus your energy to attempt to deflect or catch an incoming projectile.Physical, Defense, DexterityNew skill unlocked.Class level has reached 20.Endurance has surpassed 100.Wisdom has surpassed 100.Used more than three times your maximum stamina in a single fight.Second WindExchange mana to gain + [40 + wisdom / 10 + endurance / 10] % of the amount as stamina.Soul, Wisdom, Endurance
+
+“I unlocked a new class skill,” she said, but even though her voice was quiet, Ali instantly stopped zipping around and lowered to the ground. Both Mato and Calen immediately perked up. How did I ever think it was better to hide this stuff? she wondered. Having friends to discuss it with was so much better.
+
+“Me too, but you go first,” Calen said, pulling out his notebook and a battered quill pen and glancing at her expectantly.
+
+Malika obliged by sharing her three new skill options. She also shared the Soul Blast skill she had passed on at level ten, because, after today’s fight, she was seriously rethinking getting an area magical attack.
+
+Soul BlastMana: Release your energy in a spherical burst around you, damaging all targets with Soul damage. Range: 5 feet.Soul, Melee, Area, Intelligence
+
+“Stunning strike could be decent depending on how much damage it does,” Mato suggested. “Although, I guess Soul Blast might be better if you need a magical attack.”
+
+“Yes, I struggled today. Soul Strike barely covers my skin, so it doesn’t work well against heavy armor. I was reconsidering Soul Blast because it’s a ranged magical attack. Area damage would just be a nice addition,” Malika said. She was unsurprised to see Mato evaluate the damage skill offerings first – he enjoyed hitting monsters.
+
+“It doesn’t look like Stunning Strike would have helped today,” Calen said. “It’s purely physical damage.”
+
+“What about Deflect Missiles?” Malika was ambivalent about this one. It seemed a little too specific for her liking, but she supposed it might have been useful to deflect Bone Spears. Not that she had needed to, given how efficient Ali had been with her barriers.
+
+“You already have an evasion skill, right?” Calen replied. “Wouldn’t this just be doing the same thing, but worse?”
+
+“Yes, Enlightened Evasion,” she answered. Calen was right, likely she wouldn’t be able to dodge and deflect at the same time, and so she would basically be trading one avoidance skill for another one. Unless she wanted to give up Enlightened Evasion, which was definitely not in her best interests. Without that, the wyvern would have swatted her like a bothersome gnat.
+
+“How many mana abilities do you have?” Ali asked. She sat cross-legged on her floating barrier a foot above the ground, which placed her level with everyone else. “That Second Wind skill looks interesting.”
+
+“Healing Mantra and Soul Strike are my primary mana abilities. Some of my defensive skills can also reserve mana, but I usually reserve stamina instead. I also sometimes switch to stamina even for healing.” Malika wasn’t entirely certain what Ali was thinking, but it was clear by her pursed lips that she had seen something in the strange resource management skill that she had not.
+
+“Wisdom is one of your primary attributes, right?” Calen asked.
+
+“Yes, Soul Strike, Healing Mantra, and Perfect Body all scale off wisdom, and a bigger mana pool allows me to regenerate a lot with my Meditation.”
+
+“I would definitely pick Second Wind, then,” Ali said, sounding surprisingly definite.
+
+“Why?” Malika asked curiously, making an encouraging gesture when the Fae hesitated. She had been seriously considering Soul Blast to bolster her magical damage, but without that option, she might have chosen Second Wind only because it was the least uninteresting. Ali seemed to have a different take.
+
+“You’re going to be spending a lot of points on wisdom anyway,” Ali said. “You might as well get more benefit out of each point. Second Wind increases your options dramatically. You can already spend stamina for any of your skills, but what happens when you run out? With this, you can spend mana to cover the shortfall.”
+
+Calen made an approving grunt and nodded.
+
+Hmm… Malika considered Ali’s explanation. She had definitely had resource problems during the incredibly long battle. “You’re saying that Second Wind is like a reverse Relentless, only less efficient, right? It lets me spend mana for any skills even if they require stamina.”
+
+“Yup,” Ali answered. “If a fight is heavily focused on melee and you don’t need to heal, you can use mana to supplement your stamina skills. It will also help you to keep your resource deficits balanced, allowing you to always get the full benefit of regeneration for both mana and stamina simultaneously – even if the fight demands only one kind of resource – so it works better with Meditation.”
+
+“Aah, yes, kinda double-dipping,” Calen said. “It looks powerful when you put it that way.”
+
+“I like that,” Malika agreed. It would certainly give her unprecedented control of her resources, allowing her to adjust to any situation.
+
+“Also, I don’t think it will stay inefficient for long,” Calen said, looking up from his notes. “It scales from both wisdom and endurance – both primary attributes for your class – so you’re likely to pass one hundred percent efficiency sooner or later.”
+
+“Oh, I didn’t think of that!” Malika exclaimed. That sounded extremely good – if she leveled it up, it could potentially become far better than her Relentless aptitude. Convinced, she selected Second Wind and then activated her Divine Step to burn off some stamina.
+
+You have gained the class skill, Second Wind.
+
+Activating her new skill was unlike any other skill she had. There was no activation cost or anything, she simply willed it and her mana shifted, becoming stamina. The process was remarkably easy and instant, almost as if the two resources were simply different sides of the same coin, and all she had to do was flip it over to make it work.
+
+She took her time, experimenting with a few obvious tests to get the hang of using it, and a few other ideas that Calen suggested. She discovered that Second Wind did not interrupt focus for Meditation, which was good, but also that her skill didn’t count as ‘paying for’, or ‘activating’ a skill, and therefore her Relentless aptitude wouldn’t allow her to substitute stamina and turn it into less stamina. It’s like some sort of passive skill. She wouldn’t have even thought to test that one, but Calen wanted to know if she would have infinite stamina once her skill passed the hundred percent efficiency mark. He seemed a little disappointed when it didn’t work.
+
+***
+
+Name: MalikaRace: HumanTitles: Street RatActive Buffs: Perfect Body, Soul Armor, Enlightened EvasionClass: Soul Monk – level 24- Martial Artist – level 11- Soul Strike – level 15- Healing Mantra – level 12- Perfect Body – level 12- Soul Armor – level 15- Enlightened Evasion – level 13- Divine Step – level 12- Second Wind – level 1- [Locked]- [Locked]General Skills- Meditation – level 9- Dancing – level 4- Calligraphy – level 3- Lockpicking – level 5- Appraise – level 9Aptitudes- Languages: Common- Bloodline (Ahn Khen): Dormant- Mana (Affinity): Soul- Relentless (Class): +100% to Stamina Regeneration- Relentless (Class): You can pay for any abilities with stamina instead of manaAttributes- Vitality: 43- Strength: 14- Endurance: 104 (+38)- Dexterity: 134 (+49)- Perception: 18- Intelligence: 20- Wisdom: 101 (+37)Equipment- Ring: Bronze Guild Ring – level 10Armor: 105Physical Damage Reduction: 13.51%Evasion: 91Dodge: 11.92%Health: 430/430Stamina: 936/1040 (104 Reserved)Mana: 707/1010 (303 Reserved)
+
+Calen put his pen down on the notebook in his lap and pulled up his notifications. The white text shone brightly within his mind. Wow, there’s a lot.
+
+Archer of Light has reached level 23 (+5).+50 attribute points.
+
+Calen consulted his notes immediately. Following his charts he distributed his points: ten in dexterity, eleven in perception, and eight in intelligence. His investment in his primary attributes was lower than he liked, but he had to address his mana issues. Thirteen points went into wisdom – hopefully enough to stave off some of his mana starvation problems. With the remainder, he put two into endurance and six into vitality. That should help.
+
+Radiant Archery has reached level 15 (+3).Arrows of Brilliance has reached level 17 (+4).Motes of Light has reached level 9 (+2).Blessing of the Dawn has reached level 13 (+2).Eyes of the Archon has reached level 12.Class skill slot unlocked.New skills are available for Archer of Light.New skill unlocked.Class level has reached 20.Intelligence has surpassed 90.Intentionally caused a higher-level enemy to chase you for more than 100 yards. Trap ShotStamina: Fire an arrow that immobilizes or impedes your target’s movement for a few seconds. Duration: [skill] seconds.Physical, Ranged, DexterityNew skill unlocked.Class level has reached 20.Intelligence has surpassed 80.Prevail in a battle of 20 minutes or more against an enemy more than twice your level. Righteous FuryMana: Temporarily supercharge your mana amplifying all your magic by + [100 + skill + Intelligence / 10] %. Your mana burns you. Duration: 30 seconds. Recharge: 15 minutes.Light, IntelligenceNew skill unlocked.Class level has reached 20.Radiant Archery has surpassed level 10.Defeated more than 20 heavily armored enemies in a single fight.Bolt of LightMana: Fire a magical projectile of light from your bow. Shot penetrates armor doing purely magical damage. Does not require ammunition.Light, Ranged, Intelligence
+
+Calen shared his choices with the others, writing them each down in his notebook beside the other skills he had been offered.
+
+“Wow, the system liked you,” Malika said. “You got an answer for everything you struggled with today.”
+
+“Except running out of mana,” he said. “I used nine mana potions in that fight. But yes, it does make the choice harder.” That was nine potions just for himself, not counting the ones he had given to Ali. I need another source of income.
+
+Calen would have loved to have a resource management skill, like Malika’s Second Wind, or Relentless. In fact, he had been hoping for anything that might help him out, but all his abilities seemed to be focused on his bow and doing more with more mana. The skills looked strong though, so he wasn’t upset.
+
+“I like the Righteous Fury,” Mato said.
+
+“Trap Shot would have been quite useful when I was luring those Piercer Scorpions up the stairs,” Calen mused. He could still feel the terrifying wind from the scorpions’ spear limbs slicing at his back. “But I think Mato might be right, Righteous Fury looks like it will work on everything, seeing as almost all my skills use mana.”
+
+“You don’t want to try out that Bolt of Light?” Malika asked. “Ignoring armor seems strong.”
+
+“It does look great, but I saw an armor-piercing advancement on my Arrows of Brilliance. I think I can take that instead, next time the skill advances. That should save me a skill slot.”
+
+“Why not just try out the Righteous Fury skill and see if you like it?” Ali said. “Mato and I both switched skills, you just lose any levels you earned. For a level one skill you don’t lose anything.”
+
+Calen weighed his options, but Ali’s observation was correct. His best information would come if he simply tried it out. He selected Righteous Fury.
+
+You have gained the class skill Righteous Fury.
+
+He got up and readied his bow. This should affect everything, even Blessing of the Dawn. He made a note to check quickly when he activated it and memorize the improvements to his attributes.
+
+He activated his new skill – and gasped as his mana lit his blood on fire. It wasn’t literally on fire, but it sure felt like it – it burned inside him, flooding through his veins with such intensity that he felt sweat pop out on his brow and his health decreased by several points. It didn’t stop him from moving, but – even though he’d never been curious – he now knew how to describe being burned from the inside out in excruciating detail.
+
+The entire room suddenly became as bright as day, with the most minuscule details of shattered bone revealed to his enhanced eyes even from as far away as the shelves on the opposite side of the atrium. That was over two hundred yards away in what had just been utter darkness.
+
+Quickly, he nocked an arrow, drew, and fired, shooting at a jutting outcrop of bone across on the other side of the landing. His arrow flashed with a brilliant incandescence and shot across the space, punching clean through the bone and out the other side without even slowing, embedding itself deep into the wall beyond. He gasped in surprise. That’s… damn, can I do that again?
+
+He fired another two arrows in quick succession noting that his rate of fire was even increased, presumably because of his temporarily increased dexterity attribute. Everything that used his mana was more powerful – including the motes of light hovering overhead. He tried his increased range enchant, finding that it too had been enhanced. In the background, he heard Mato’s surprised exclamation and colorful comment about the piercing power of his new skill.
+
+After thirty seconds, the light dimmed, and the room returned to normal.
+
+“This is a super powerful skill,” he said, more than a little in awe. The arrows punching right through the bone outcropping and into the wall without any piercing magic had been vastly more than he had expected. Maybe I won’t even need that Armor Piercing upgrade.
+
+“That looks nice!” Malika agreed.
+
+He checked his health, noting the amount he had lost was quite manageable, even though it was enough that he would need to keep it in mind whenever using this skill. The pain was annoying, but it too had been manageable.
+
+“You looked awesome!” Ali exclaimed. “Your eyes were glowing white, with little trails of energy coming off them when you moved. And everything got brighter, including your motes, and you had white mana markings on your arms and face.”
+
+“It seems to affect everything,” Calen said, “even my perception skill, and my attribute boost. I got faster because I had more dexterity. The only downside is the mana burns me, so I may need to stock some healing potions for dangerous fights.”
+
+“And you can use your skill from stealth too,” Ali said.
+
+“What do you mean?” Calen glanced at her in surprise. Hadn’t she just told him he lit up the room with magic when he used it?
+
+“It affected your motes. You had those out already, so it affects even stuff you had previously cast.”
+
+Oh! He hadn’t noticed that little detail. That meant he could do the same trick with his arrows. He could shoot from stealth first, and then activate Righteous Fury while the arrow was still in flight. The same technique Ali had taught him, just with a new skill.
+
+“You know, that skill looks a little like the thing your Kobold did with the pillar of light, Ali,” Malika said. “Except, instead of healing power it makes him into a super-archer.”
+
+“I think I’m going to keep it,” Calen said. “At least I want to try it against a real monster sometime. I’ll probably need more mana potions because this thing lets me shoot so fast. Super-archer is going to make me go broke.”
+
+“We really need to find a way to make more money,” Malika agreed.
+
+“I can help with that now,” Ali said. “I can make quite a few good weapons and armor.”
+
+While Calen didn’t enjoy the idea of his friends paying for him, he had consumed a bunch of mana potions to just remain relevant in the longer fight – and he couldn’t exactly think of a better way of making money with his own skills.
+
+Perhaps the guild has some new quests. That way I can help out while also earning money for more mana potions. That Morwynne Fizzlebang is probably going to think I use them for brushing my teeth or something. Of course, he still tried Bolt of Light out because he was curious, but his heart was set on Righteous Fury.
+
+Name: Calen AveryRace: Half-ElfActive Buffs: Blessing of the DawnClass: Archer of Light – level 23- Radiant Archery – level 15- Arrows of Brilliance – level 17- Motes of Light – level 9- Explorer – level 14- Blessing of the Dawn – level 13- Eclipse – level 12- Eyes of the Archon – level 12- Righteous Fury – level 1- [Locked]- [Locked]General Skills- Bowcraft – level 6- Wood Carving – level 3- Cartography – level 5Aptitudes- Languages: Common- Mana (Affinity): Light- Perceptive (Racial): +11 to Perception- Quick (Racial): +5 to Dexterity- Timing (Class): You have an innate sense of timingAttributes- Vitality: 30- Strength: 9- Endurance: 19- Dexterity: 149 (+55)- Perception: 105 (+39)- Intelligence: 98 (+36)- Wisdom: 36Equipment- Weapon: Hunter's Bow – level 10- Body: Leather Vest – level 10- Ring: Bronze Guild Ring – level 10Evasion: 120Dodge: 15.7%Health: 300/300Stamina: 190/190Mana: 288/360 (72 Reserved)

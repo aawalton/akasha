@@ -1,0 +1,85 @@
+---
+id: 517c8333-2d02-5f97-8892-e3842375db69
+page-type-slug: story-chapter-royal-road
+title: "Chapter 217: Bone Temple (Part 3)"
+slug: 0243-chapter-217-bone-temple-part-3
+partOf: dungeon-of-knowledge-complete
+position: 243
+ownLength: 2068
+unit: words
+ownProgress: 2068
+publishedAt: 2025-04-01
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2165874/chapter-217-bone-temple-part-3"
+royalRoadId: "2165874"
+markedReadAt: "2026-06-29T20:19:24.462Z"
+---
+
+Calen jogged back down the path toward the Temple of Bone and the aftermath of their brutal fight. All the way, his Explorer skill prickled in the back of his mind like an unreachable itch. Something was unnatural about this place, beyond the obvious, and the skill insisted on reminding him continuously, keeping him on edge.
+
+What am I missing? He scanned the jungle for threats, focusing his vision with Eyes of the Archon, but all he found was the dense undergrowth and huge trees, their boughs weighed down with aerial plants, moss, and vines. The only things that moved were a whole host of regular creatures: birds, insects, small rodents, frogs, and many unseen crawling things going about their lives, oblivious to the fact that they now lived in a dungeon filled with warped magic, filling the air with the noise of their calls.
+
+The Temple of Bone, he thought as he shifted his awareness back to the clearing, the crude collection of stone and bone huts, and the perimeter fence made from giant ribs. Kir’mogan’s domain. It felt somewhat misnamed to him – the ‘bone’ part of the name was most certainly descriptive of Kir’mogan’s magic style and the construction – but he was certain Trolls did not worship the gods. Ali had explained that they were too arrogant or superior to worship other gods, instead revering the spirits of their own champions and heroes. Why it would be translated as ‘temple’ escaped him.
+
+“Yo, welcome back,” Mato said. “Ali ok?”
+
+Calen entered the clearing, finding Malika meditating and Mato cleaning up the cookfire. Gara sat morosely, staring at the stained ground, all that remained of the bone altar Ali had destroyed.
+
+I can’t imagine what she must be feeling, he thought. Her entire home – all of Aman Rak – had been destroyed and turned into a dungeon; returned to haunt them with a mockery of its former life.
+
+“Ali says she’s going to need a lot of time to decipher the magical barrier,” Calen said. “I think we should go over there and make camp. That way we can get some rest until she figures out a way past and also avoids the dungeon respawning this place on top of us.”
+
+“Sure,” Mato nodded, collecting his things quickly.
+
+“Ok,” Malika said, uncoiling from her meditation pose.
+
+Gara turned to look at him with uncomprehending eyes.
+
+I need to ask Ali to teach me the troll language, he thought, gesturing for her to join them as they relocated. In all that free time we have. She looks so lost. His eyes surveyed the bloody mess of corpses, broken ground, and left-over vines and roots, and then he helped Malika store the remaining troll corpses Ali hadn’t yet deconstructed to give to her later.
+
+He led them out of the temple to where Ali still sat, completely absorbed in her study of the strange necromantic barrier blocking their path. As they began setting up a simple camp, his thoughts returned to the challenging fight against the troll champion, Kir’mogan.
+
+It had been a difficult battle for their team, but not particularly difficult for him personally – the most he had had to worry about was dodging the occasional deadly flying axes Kir’mogan threw at random people. For that, his Mirage Armor had once again proved its exceptional worth. All his stress had come from worrying about Mato and the precarious position he had found himself in fighting against the champion of bone.
+
+Fighting two raid-enhanced shamans and the empowered warrior champion simultaneously had been almost more than they could handle. It had taken more than the full duration of his Righteous Fury to burn through the first shaman’s greatly increased health and the powerful blood magic healing.
+
+Mato had almost died when the shaman had used Bloodlust to haste their foes. It was something he worried about incessantly; without the skills to see health and magic, he had to rely on his teammates to tell him when to change strategy. Worse, Mato’s ability to communicate was severely limited in Bear Form. It was truly fortunate for them that the shamans had only used their blood enhancement magic once during the fight – if the second one had used the same ability, they would most certainly have died – well, they would have recalled. It can’t be that they forgot – there must be some limitation to it.
+
+He glanced over to where Ali worked with that incredible scholarly focus that came so naturally to her, flanked by the two tall troll Bone Warriors she had made. She was a strange person, but one he had come to care for deeply – the two trolls had been an incredible increase in power for their team, and yet Ali had struggled with the ethical implications of making them. Even though she was incredibly smart, he respected that she was also a complex person, driven more powerfully by her emotion and empathy than by reason. He would have simply taken the rational argument to increase their strength without any of the anxiety and conflict she had experienced.
+
+And once she was done with the barrier, she would need to make another decision. The two shaman corpses in his storage should give her sufficient material to add the variant to her Grimoire. Then she would be faced with a choice between the power the shamans would undoubtedly bring to their team, and the corresponding increase in their safety, or the complex guilt and confusion in her heart around making sapient creatures that seemed just like people. He hoped she would choose to make the shamans because their healing and the blood magic would be an incredibly powerful strategic tool, but he wasn’t about to force the issue when Ali had struggled so much with it.
+
+His thoughts turned inward as he began to document and study the growth he had earned from the fight.
+
+Archer of Light has reached level 68 (+5).+50 attribute points.
+
+It was a substantial reward for a dangerous fight, and his thoughts returned to the conversation Lyeneru and Nendir had had about his unreasonably fast progress. It would have been safer if we had been at a higher level, he thought, acknowledging their worries and concerns about the risks he was taking. But he could not see how he could have done it differently – they had been thrust into the dungeon without Lyeneru’s aid because of the appearance of the Blind Lich. They had planned to do the investigation with her, which would have made this fight an easy and safe task.
+
+I hope she’s alright. He had personally witnessed her power, but she was up against Nevyn Eld. The Blind Lich who had created the Death Knight they had struggled against. It was not something he could do anything about right now – but he could focus on his own power and growing strong enough to be effective.
+
+Calen consulted his notes, ran his calculations, and then distributed his new attribute points. Dexterity was still his highest priority, so he spent seventeen points on that. Next, he added ten to perception – seeing his foes was a critical skill for a scout. Seven each went to endurance and intelligence, boosting his magical damage and increasing his stamina pool and resilience. He did have stamina leech now, but the overall benefit of more endurance still penciled out in his computations. Five points went to wisdom to help his never-ending mana problems, and then he spent two each on strength and vitality, rounding out his build. Yes, that will do nicely. Now, I’ll review the rest.
+
+Radiant Archery has reached level 36 (+2).Arrows of Brilliance has reached level 42 (+3).Motes of Light has reached level 24.Explorer has reached level 37 (+3).Blessing of the Dawn has reached level 27.Eyes of the Archon has reached level 27.Righteous Fury has reached level 23.Mirage Armor has reached level 20 (+3).Cartography has reached level 15.Howling Hellfire Bow has reached level 63 (+2).
+
+Even though his notification chimed again, he spent several minutes examining his giant, noisy recurve bow. The growth enchantment was proving to be extraordinary. The base damage range on the bow grew modestly with each level – small numbers to be certain, but with the way his skills scaled, it multiplied out to enormous wins. It hadn’t happened yet, but he was sure at certain level breakpoints, the strength of the enchantments would bump up too. Finally, he put it away, curious to see what else awaited him.
+
+Requirements met for skill advancement.Patron deity: The Wanderer.Mirage Armor has reached level 20.Perception has surpassed 300.Intelligence has surpassed 415.Synergy: Eclipse has surpassed level 20.Mirage Armor gains Blurred Magic.Mirage Armor gains the Stealth trait.(You are significantly harder to see, and your mana is cloaked from perception skills granting an additional +20% [skill] to Resistance.)Mirage Armor – level 20Mana: Bending light around you, your body creates afterimages as it moves, making it significantly harder to hit you. Evasion is increased by +1101 [skill x 7 + intelligence + dexterity]. You are significantly harder to see, and your mana is cloaked from the perception skills of your enemies, granting an additional +20% [skill] to Resistance. Reserve: 10%Light, Defense, Illusion, Stealth, Intelligence, DexterityAccept this advancement?
+
+Oh! Now this is nice! He studied the offered advancement with growing excitement. A stealth upgrade? A synergy had been found between his Mirage Armor and his Eclipse skill, driven by his acceptance of his patron deity’s mana. He had been regularly gaining reputation simply by exploring this dangerous new dungeon, so it seemed plausible that it was related to that.
+
+This advancement would help him in many ways – some experimentation would be needed to figure out how it interacted with Eclipse when he was out scouting, but a skill that masked his mana was a powerful addition to his repertoire of stealth tools. Ali kept reminding him that she could see his mana when he used his skills. Nevermind that she was ridiculous, he had already faced foes that saw him as less bothersome than a gnat. If something powerful detected him while he was out alone… yes. His mind churned on. He didn’t get hit a lot, typically, but in dungeons like the Emberforge Mines, it was impossible to avoid environmental damage. The additional resistance to magical damage was like a free Elixir of Fire Resistance, but one that worked across all magical affinities. He could stack it with elixirs, and it would grow as he leveled his skill. Any way he looked at it, this was an extraordinary advancement.
+
+He quickly accepted it, instantly noticing how his body suddenly gained a shimmering insubstantiality to it, as if it wasn’t exactly there. I look like one of Ali’s Stalkers.
+
+That might be awkward in town, he thought, his eyes wanting to slide off himself to look elsewhere. But he could disable it when he was shopping or visiting with his mother.
+
+***
+
+Name: Calen AveryRace: Half-ElfTitles: Rift WardenActive Buffs: Blessing of the Dawn, Mirage Armor, Motes of Light, Blessing of the Wanderer, Well-fedClass: Archer of Light – level 68- Radiant Archery – level 36- Arrows of Brilliance – level 42- Motes of Light – level 24- Explorer – level 39 (+2)- Blessing of the Dawn – level 27- Eclipse – level 24- Eyes of the Archon – level 28 (+1)- Righteous Fury – level 23- Azrael's Wings – level 19- Mirage Armor – level 20General Skills- Bowcraft – level 7- Cartography – level 15- Skinning – level 10- Basic Daggers – level 2Aptitudes- Languages: Common, Elvish- Mana (Affinity): Light- Perceptive (Racial): +11 to Perception- Quick (Racial): +5 to Dexterity- Timing (Class): You have an innate sense of timingPatrons & Tithes- Deity: The Wanderer- Mentor: Lyeneru SilverleafAttributes- Vitality: 120 (+58)- Strength: 111 (+68)- Endurance: 43- Dexterity: 595 (+384)- Perception: 312 (+142)- Intelligence: 428 (+261)- Wisdom: 70Equipment- Weapon: Howling Hellfire Bow – level 63- Body: Studded Jacket – level 40- Hands: Flamecaller Bracers – level 44- Feet: Swift Bone-Studded Jambeau – level 60- Ring: Gold Guild Ring – level 60- Ring: Pathfinder Initiate Guild Ring – level 40Evasion: 1499Dodge: 44.04%Resistance: 403Magical Damage Reduction: 17.46%+15% to Attack speed.+2% of your damage is returned as Stamina over 30 seconds.+2% of your damage is returned as Health over 30 seconds.+27% to Movement speed.Health: 1200/1200Stamina: 430/430Mana: 245/700 (455 Reserved)
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

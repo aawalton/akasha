@@ -1,0 +1,281 @@
+---
+id: 54082e5c-e032-5990-bff6-394c8a126df5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 53: Some Preparation Required"
+slug: 0053-chapter-53-some-preparation-required
+partOf: dungeon-of-knowledge-complete
+position: 53
+ownLength: 5188
+unit: words
+ownProgress: 5188
+publishedAt: 2024-04-02
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1577579/chapter-53-some-preparation-required"
+royalRoadId: "1577579"
+markedReadAt: "2026-06-29T20:12:43.194Z"
+---
+
+Definition: Train (noun/verb, adventurer jargon). A large group of monsters incited to pursue the same person or target. Typically, the result of a failed pull in a dungeon, the recommended strategy is to use escape skills or artifacts. Without such tools, running away is strongly recommended. While rare, due to the risks involved, there have been known incidents of murder by dragging deliberately created trains of monsters onto the victim. - Excerpt from The Adventurer’s Guide, Third Edition
+
+Calen dropped lightly to the sewer floor, skipping the last several rungs of the rusty ladder. He landed on the balls of his feet and summoned his mote of light as the others joined him.
+
+A soft chime sounded in his mind as soon as his feet stepped onto the springy moss. The brilliant glowing text appeared in his mind containing information relayed via his Explorer skill.
+
+[Explorer] You have entered a dungeon.Ancient Grove – level 21Affinity: Nature, ArcaneAge: NewKnown Creatures: Kobold, Goblin, Ooze, WolfKnown Bosses: --Dungeon
+
+Huh?
+
+He stared at the notification in confusion. His Explorer skill had been noisy before, spamming him with unnecessary dungeon notifications whenever he was down in the cavern, but when it expanded the dungeon analysis while exploring the ruins of Dal’mohra, he had been certain the skill would settle down finally. And now this.
+
+He stared at the analysis, casting a surreptitious identification on Ali as she descended the ladder to join him.
+
+Mage [Ancient] – Fae – level 21
+
+The level, the affinities, and even the monster types matched. The only thing he couldn’t figure out was how his Explorer skill had been confused into identifying Ali’s domain as a dungeon.
+
+“You ok?” Mato asked, stepping up next to him, and placing a hand on his shoulder.
+
+“Yeah, fine,” he answered and set off on the path back to their camp.
+
+The whole way back to camp, he turned it over in his mind, but by the time he sat down, he was still no closer to figuring out what was wrong with his skill. It had worked perfectly down in the ruins.
+
+He pulled out his notebook and transcribed the bizarre notification onto a new page, resolving to try a few experiments to see if he could narrow down the problem.
+
+Satisfied that he had chased down every lead he currently had, he turned the page in his notebook and set his mind to an entirely different task. His pen began to fly across the page as he translated his memories from earlier and his notes into a usable map of the underground ruined city. Slowly, he began to smile, happy to finally be able to use his Cartography skill for something that would help them explore.
+
+“We saw lots of those Spitter Drones when we were down there last time. There were tons of them in the plaza out in front of the library,” Ali said. She glanced at Mato, and he nodded in agreement. “So, what are we going to do if we run into more of them?”
+
+“I’m going to let the strategy people figure that out,” Mato declared. “I’m hungry, so I’ll make some food for whoever wants to eat.”
+
+“Typical, Mato cares more about his stomach than giant exploding bug monsters,” Calen quipped from where he was working in his notebook. His quiet teasing, and Mato’s faked indignant look, got a laugh out of Ali. “Yeah, I’ll thank you from the bottom of my stomach in a minute. Get cooking, you.”
+
+“One bug stew coming up, just for you!” Mato declared. “I think I still have some tasty bits stuck in my fur.”
+
+“Gross!” Calen said, curling his lip in disgust, but then his gaze shifted to rest on Ali for a moment before adding, “One thing for sure, we should try to bring more casters next time. That regenerating bone armor is no joke. I literally can’t do any damage until someone with a spell breaks the bone plates first.” He looked back down at his notes and began to draw again.
+
+Funny how confident and poised he is when he’s talking strategy, Ali thought. And how distinctly different it was from his usual somewhat awkward introversion. His assessment was spot on though, while her Bugbears were huge and powerful, they had been next to useless against the Spitter Drone and the armored Kobolds. Even with the new added nature damage from her Empowered Summoner skill.
+
+“I agree,” Malika said. “Their armor seems vulnerable only to magical damage. More fire will make it a lot easier. We just need to figure out how to handle that explosion.”
+
+“Time it for the Kobold horde?” Mato suggested humorously, failing to hold back his grin.
+
+Calen said, “Simple, right?”
+
+Sitting safely by the fire discussing the Spitter Drone and the challenging Kobolds with her friends, Ali finally felt some distance from their recent near-death experience. It felt more like sitting in a room full of researchers discussing how to optimize an experiment or solve an abstract problem.
+
+“I can see the mana for the explosion before it happens,” Ali said. “It’s too distinctive to miss – an enormous amount of mana condensed right inside that creature when it froze.”
+
+“If you called it out when you saw it, how much time do you think you could give us?” Calen asked, once again focused on the discussion, his pen resting across his notebook.
+
+“Maybe six seconds? Five, more likely,” Ali said, furrowing her brow as she tried to remember precisely how long it had taken to explode.
+
+“That should be more than enough time to get away,” Malika said approvingly. “Now what do we do about that enormous train of Kobolds we attracted? Escaping with potions every time is going to be expensive.”
+
+“I was just thinking about that,” Calen said, glancing down at his notebook as if to check a particular note. “What if we lured it into a building and fought it there, a little away from the center? That way the explosion would be contained and, hopefully, not attract as much attention.”
+
+“Fireballs should do more damage in an enclosed space,” Ali said. It’s a great idea, and the walls should muffle the explosion a bit, too.
+
+“We could be more thorough about clearing out the nearby Kobold patrols before engaging the drones,” Calen said. “What about here, near the first concentric main road?” He held up his notebook revealing a detailed map that Ali instantly recognized as Dal’mohra.
+
+“Did you just draw that?” Ali asked, amazed at the detail he had included.
+
+“I have Cartography as a general skill,” he said, suddenly appearing more awkward and uncomfortable. “I had to guess a lot. But I will try to make it better next time.”
+
+“Is that why there’s a big chunk missing from your map near the top?”
+
+“No, that part of the city is missing, there’s a big hole there. I wanted to go take a closer look when we’re done with the monsters and see if I can figure out what happened.”
+
+How can it be missing? Calen’s blunt declaration caught her by surprise – Dal’mohra had been crafted from the best stone by the finest Dwarven crafters and mages. Even after three thousand years, it should still be strong.
+
+Then, she remembered the giant explosion and the landslide that took out half the mountain, burying the forest under tons of rubble. “Definitely needs some investigation,” she resolved, agreeing with Calen.
+
+“What are these markings along the terrace and the outer rim?” Malika asked, pointing it out on the map.
+
+“I don’t know, those looked like large runes carved into the stonework,” Calen shrugged. “The detail seemed important, so I included it.”
+
+“Those are the city defensive arrays,” Ali answered, recalling her school lessons. “The entire city is a magical artifact powered by enormous mana condensers on the second level. In times of war, those runes were activated to create city-wide barrier magic and a teleportation array should evacuation become necessary.” For all the careful preparation and foresight, none of it had helped at the moment they were needed the most. She recalled the supposedly impregnable barriers breaking during the attack. Perhaps the attack had come so swiftly that the defenders had been unable to react in time. Or perhaps Nevyn Eld knew how to circumvent them, she thought soberly. After all, he had been a senior magical researcher in the city for many years – at least before he had disappeared and returned as a Lich.
+
+“That’s incredible!” Malika exclaimed.
+
+“There’s another whole level?” Calen asked, his eyes widening.
+
+“Yes, the city had three main underground levels. The Grove and the forest with those giant trees used to be above ground,” Ali said, pointing to the enormous, blackened trunks that towered over her comparatively small trees, holding up the rock overhead. “The first underground level is the one we were exploring today, mostly filled with residential districts. The second level is the industrial level with transport and power generation. The third level was farmland, extending outward into the mines and forges. The Grand Library Arcana is in the center and connects all three levels to the surface.”
+
+Calen’s eyes grew round as she explained the full extent of the city.
+
+“I’m not sure how much remains,” she added, not wanting to get his hopes up too much.
+
+The discussion turned to tactics as Malika ran with Calen’s idea of luring the Spitter Drones into a ruined house, adding several good ideas of her own. They argued and brainstormed, slowly cobbling together something that might resemble a plan. Ali felt a lot better as they hashed out the details – her friends’ confidence was contagious and, more importantly, the logic of the emerging plan seemed sound. It would make the fight a lot safer if they followed some basic strategy designed around their new knowledge of the monsters.
+
+Ali glanced up and smiled her thanks as Mato handed her a small plate with some pan-fried fish and sauteed vegetables covered in a red sauce that let off a mouthwatering aroma. How does he do it every time? This smells delicious! She belatedly remembered that she had decided she would stop being so surprised at the quality of Mato’s cooking.
+
+And it’s definitely not bug stew! As she ate, she scanned through the notifications for the day, ending with the disastrous battle with the drone.
+
+…Your group has defeated Fire Mage – Kobold – level 19.Your group has defeated Dagger Rogue – Kobold – level 16.Your group has defeated Warrior – Kobold – level 18.Your group has defeated Spitter Drone – Elemental – level 25.Grove Warden has reached level 21.+10 attribute points.Arcane Insight has reached level 12.Barrier has reached level 17.Martial Insight has reached level 11 (+2).Empowered Summoner has reached level 5 (+4).
+
+Malika was right, she thought happily, noticing that Martial Insight had leveled twice. She had an easier time understanding her Fire Mage, but the training in fighting forms and techniques she had done with her friends was really helping with the rest. Considering her attributes for a moment, she decided to put all ten points into wisdom to increase her minion capacity.
+
+If I need more mages, it’s probably going to be expensive.
+
+***
+
+Ali woke early, as usual. Stretching, she rose, unzipped her tent flap, and emerged into the quiet of their camp, the nearby moss and trees softly illuminated by the powerful runes etched into the surface of the shrine behind the tents, and the scattered fairy rings of golden Common Glowcap mushrooms. The campfire Mato had used to cook last night’s dinner lay cold and dark, and the entire Grove exuded an aura of emptiness.
+
+A couple of mounds of wobbly greenish brown blobs decorated the moss – no doubt the remains of a few oozes killed by Malika or Calen while on watch. She glanced about for a few moments before she realized she’d grown used to finding her Kobolds standing guard when she woke. This morning there were none. After their close call yesterday, all her higher-level minions had been killed, leaving only those she had sent to patrol the sewers above. Even though her friends were nearby, she still felt vulnerable without her ever-present minions.
+
+She had been so tired yesterday that she had forgotten to replace her monsters to help with guard duty. I need to make more anyway. She sat beside the cold gray ash of the campfire and manifested her Grimoire. Floating in the air next to her, it shed its soft gold-and-green glow all around the Grove.
+
+By the soft light, she saw a strange, raised circle of thick moss, noticeably thicker and denser than the moss she had planted everywhere else. Distracted for a moment, she gazed at the phenomenon, quickly realizing it was a sizeable circle centered on Mato’s tent. All through the area, mana shimmered and flowed in a mesmerizing pattern. Curiously, it didn’t interfere with her domain mana imposing its structure across the entire space. Instead, Mato’s mana seemed to flow between and through it, like water through porous rock. Whereas her domain seemed structured and crystalline, Mato’s seemed to be much more fluid. And yet, Ali could see powerful similarities – and further details that hovered just beyond the edge of her skill’s ability to resolve.
+
+Collecting herself from her distraction, she recalled Mato had said his Sanctuary domain skill shared his regeneration somehow with plants, causing them to grow. That explains the moss circle.
+
+Ali returned to the problem at hand. I definitely need more mages. The issue was what else to bring to a fight against those armored Spitter Drones. Her melee warriors, rogues, and Bugbears had been mostly useless against the monsters with their dense regenerating bone armor, but once the armor was breached, the axes and daggers could be used to great effect. I want to be ready for anything else we find. She browsed through her Grimoire studying her various imprints for inspiration but the only imprints with monsters of high enough level to be interesting were the Kobolds, Goblins, and wolves. But Ali didn’t think the Timber Wolf variant would be particularly useful in the ruins. I think I’ll still want one or two melee minions, just in case.
+
+Ali flipped to the Goblin imprint and channeled her mana. It would take a few tries to get a Bugbear. And I only have enough equipment left for one, she thought, eyeing the diminished pile of weapons and armor. All the gear that she had used yesterday had been lost to the explosion and horde of Kobolds.
+
+Skirmisher – Goblin – level 1
+
+Sigh.
+
+Warrior – Goblin – level 2
+
+Double-sigh.
+
+For the hundredth time, she wished there was some way to choose which variant her Grimoire produced. From her experience so far, she was certain the Grimoire created variants based on how many of each she had deconstructed. For Goblins, this meant most of the time she got low-level ones: Skirmishers, Scavengers, and the like. As she expanded her imprints, it became progressively more and more difficult to get the specific kind she was looking for, let alone the right level.
+
+Skirmisher – Goblin – level 1
+
+Ugh. This is going to take forever. She channeled her mana once again.
+
+Shaman – Goblin – level 19 (Lightning)
+
+Oh… OH! I forgot about them! There had been the Storm Shaman they had encountered rescuing Calen and Malika in the southern forest, and she also remembered being cursed by a shaman during the Goblin siege. I must have deconstructed enough of them to learn the variant before I learned the imprint. The Goblin stood there staring at her, far prouder than his brethren. The shamans had been powerful foes with their lightning bolts and vulnerability curse. Two would be perfect. Her gaze flickered across the random Goblins she had created before this one and she sighed again, realizing there was no way she was going to be able to afford the reserved mana for all the unwanted Goblins she would need to create just to get another shaman through random chance. She felt quite uncomfortable with releasing her mana and killing them, even though they were just summons. The one time she had witnessed it, it seemed like the creature had gone mad, like an animal in extreme pain. If they were daggers or chainmail, I would just deconstruct them.
+
+Wait… She stopped and blinked. Why can’t I deconstruct them? The spell description for Deconstruction had had a rather unusual wording, something she had had trouble understanding at first. Pulling it up, she read it once again.
+
+Grimoire of Summoning – level 14Mana: Release the mana from an unresisting or inanimate target, learning about its structure, and retaining some in your own mana pool. Requires continuous uninterrupted focus and the target is destroyed.Mana: Manifest a Magical Grimoire storing the runic imprint of any object you have fully understood. You may create any object recorded by using the Grimoire as a focus.[Summons cannot exceed your class level. Reserve cost is reduced by 3% per class level higher than the summon.]Arcane, Nature, Minion, Channeled, Knowledge, Intelligence
+
+There it was: ‘Unresisting or inanimate target.’ At the time she had wondered why it was necessary to say unresisting, instead of, say, dead. Eager to test her theory, she reached out to a Goblin Scavenger and used the Deconstruction part of her skill. The Goblin stood there quietly while her magic worked, and a few moments later he evaporated into a cloud of mana. Her mana pool still recovered the normal amount, but there were none of the usual sensations of learning or collecting information. I wish I’d known I could unsummon them earlier. While it didn’t exactly solve the random nature of her Grimoire, it would certainly help her to get the right combinations. Provided I have enough mana and time. Certainly not while sprinting for my life.
+
+She summoned more Goblins until she got a second Storm Shaman. She collected enough of the lower-level ones to replenish her sewer guards – and stationed a few around the shrine to protect against slimes. Then she equipped them from the junk in the equipment pile and unsummoned the rest.
+
+“Can you go through that pile and collect all the shields and maces, please?” Ali said, pleased to hear her spoken Goblin language sounding a little better. A little more correct, she amended. The Goblin language sounded awful to her ears – guttural and harsh.
+
+“Yes, master.” The two Goblin shamans nodded and set to work.
+
+Ali grimaced. While the Goblins were not calling her ‘ancient mistress’, ‘master’ was not a whole lot better. The Goblin language, she found, was tricky to translate. On the one hand, many of their concepts were overly broad, vague, and poorly distinguished. For example, the word ‘master’ also meant ‘parent’, ‘leader’, or even ‘slave owner’. She grimaced. And the Goblins didn’t seem to need gendered role descriptions either. On the other hand, the word Ali had used to ask the shamans to find maces translated literally to ‘blunt heavy steel stick used in the main hand by a shaman for crushing the bones of their foes.’
+
+She disliked speaking Goblin, it made her feel dirty and crass, and entirely too focused on disemboweling, crushing, and pillaging. It contrasted sharply with the Draconic language of her Kobolds, which was arrogant, bold, and vastly more sophisticated – and lacked any words whatsoever for apologizing. But understanding the languages made her more capable of directing her minions, so she was determined to work on all of them.
+
+While her new shamans scrambled through the pile, Ali began summoning Kobolds, unsummoning any unwanted variants till she had three Fire Mages and two rogues. Then she set to the laborious task of creating gear. Armor was particularly difficult because she had quite a few variants, now. Eventually, she had enough Tattered Robes, leather armor sets for her Kobolds, and two chain shirts for her shamans.
+
+Your reserved mana has increased by +675.
+
+I also have an empty imprint chapter. She glanced over the various piles of gear, deciding that shields seemed marginally more useful than the rest. Some of her warrior minions could use them too. She got up and began deconstructing the pile of shields the shamans had collected until she had consumed them all.
+
+Imprint: Shield completed.
+
+Ali added the imprint to her Grimoire’s last free chapter. She created daggers and shields to equip her rogues and shamans. She didn’t have an imprint for maces, so she simply asked her shamans to choose one each from the pile. There were still axes, bows, two-handed weapons, and who knew what else and Ali wondered if she would ever have enough imprint space for all the stuff she wanted.
+
+By the time she was done, Mato emerged from his tent, yawning.
+
+“Morning, Ali,” he said. “You’re up early.”
+
+“Heya, Mato.”
+
+He grunted with all the eloquence of a grumpy, freshly awakened bear and began poking at the campfire, summoning some wood from his storage ring.
+
+“Can you light the fire for him, please?” Ali asked her nearest Fire Mage.
+
+The Kobold lit the fire by sticking its clawed hand into the stacked pile of wood and channeling some fire mana before releasing it.
+
+“That’s convenient,” Mato said appreciatively. “Eggs for breakfast?” He already had the pan out.
+
+Ali smiled and nodded. “I’m not sure my spark of inspiration really justifies eggs?”
+
+He grunted, “Works for me.”
+
+Ali’s little army was a lot smaller than last time, but it was a much higher level, overall. She had deliberately unsummoned some of the lower-level creatures, even ones with the correct classes, just so that she could roll the dice again and get higher levels. She didn’t have any Bugbears this time, but she was hoping her new shamans would make up the difference. She surveyed her ragtag army with Identify.
+
+Shaman – Goblin – level 18-19 (Lightning) x2Mage – Kobold – level 13-16 (Fire) x3Rogue – Kobold – level 12-14 x2
+
+Mato stood outside Pretty Powerful Potions, surveying the damage. Someone had really done a number on this place between the last time he had visited and now. One of the windows was boarded up, and there were still a few shards of broken glass on the sidewalk that hadn’t yet been swept up. The pink door had been smashed in, and then poorly repaired, leaving it crooked and unable to fully close.
+
+He followed Calen into the brightly lit store, where the trail of destruction continued. There were several broken tables piled up along with an enormous amount of glass and smashed equipment filling about half of the store. There were a few new tables and a clean-swept area, but it was obvious that an enormous amount of work remained.
+
+A clatter and a crash rang out from somewhere in the piled debris, followed by some colorful swearing, and a small figure wearing a stained leather jacket emerged shuffling backward from the wreckage dragging something broken behind her. The tiny Gnome stopped and stood with one hand on a hip, cursing at the thing in her other hand with an impressively long, colorful string of invective before she turned around and jumped, startled to find them standing there.
+
+“Fucking thugs. Don’t know what they’re breaking,” she exclaimed heatedly, shaking her head angrily and making her shocking pink pigtails whip around before she tossed the strange, broken contraption back onto the pile.
+
+“What can I do for …. Oh, it’s you!” she exclaimed upon seeing Calen. “Calen! I have a fresh batch of mana potions, if you’d like!”
+
+“If anything’s still –” Calen began, only to be cut off by a word fit to make a Hobgoblin blush.
+
+Mato grinned broadly at Calen as the proprietor scurried off to dig a box of potions out from under some papers. Morwynne Fizzlebang’s antics never ceased to amuse. It wasn’t often he needed potions, but lately, he had been frequenting the store, mostly spending all his hard-earned coin buying the Potion of Recall that had become so urgently necessary.
+
+Calen and Morwynne seemed much more acquainted, already haggling prices for the mana potions.
+
+“You’re going to get addicted to those things, you know?” he said, letting his gaze drift about the store.
+
+“I’m not sure I want your opinion,” Calen grumbled, setting Morwynne to giggling.
+
+“First one is free!” Morwynne declared brightly.
+
+“Don’t forget, we need some Recall Potions for Ali and Malika,” Mato called out, while he stooped to examine some of the debris on the floor. The shakedown here had clearly been extensive.
+
+“You guys know Malika? And Aliandra?” Morwynne exclaimed, her face lighting up with a beaming smile.
+
+“Yes, they’re in our group,” Mato said from where he was crouched on the floor.
+
+“Then I can give you the friends and family discount! You should have told me, Calen,” she said, slapping him on the thigh. “Please thank them again for saving me from the assholes who busted up my store.”
+
+Oh, that’s right, Mato thought, remembering the story. While they had been out scouting the Goblin dungeon and recovering Weldin Thriftpenny, Ali and Malika had taken care of two of the Town Watch thugs in the middle of assaulting a merchant. Clearly, this store had received their especially tender ministrations.
+
+Speaking of Weldin… The Gnomes in Myrin’s Keep kept a rather tight-knit community.
+
+“Do you know Weldin Thriftpenny?” he asked.
+
+“Oh yes, a nice, polite boy, that one. I heard he left town though; it was rather a shame,” Morwynne said.
+
+“We found him half dead in a destroyed Goblin dungeon,” Mato replied. “When we brought him back, he took a job at the Adventurers Guild up the street as the guild merchant.”
+
+“Oh well, good for him! I’m glad to see a fellow Gnome get such a prestigious position. We have to stick up for each other, you know. Otherwise, huge oafs like you might step on us without even noticing.” Morwynne’s big grin and exaggerated tone told him she was poking fun at him, but she turned serious for a moment. “Thanks for looking out for one of us. It shan’t be forgotten, despite it clearly being in your beneficent character.”
+
+“Eeeh… no problem,” Mato heard himself wheeze, trying not to blush too badly. “I just thought you might want to know. I don’t think it would hurt if you put some of your potions right in the guild store.”
+
+“Oh my, what a great idea! And that gives me a great excuse to go catch up with dear Weldin.”
+
+After breakfast – scrambled eggs with a side of fresh avocado slices, lightly salted, and strong black coffee – Mato and Calen headed up to town to purchase supplies. Ali passed the time productively, sparring her shamans against Malika to train her Martial Insight and to familiarize herself with how the shamans fought. Initially, Ali assumed she would need to use the shamans just like she used her Fire Mages, but she quickly discovered that their skills were far more suited to melee combat. In fact, they behaved a lot more like defensive warriors with their shields and armor, blocking Malika’s punches and kicks efficiently, and wielding their lightning magic to enhance their damage.
+
+While the Fire Mages were purely ranged magic users, and her rogues were entirely melee-range physical damage dealers, her shamans seemed to be a hybrid, a crossover between both roles. They could both hit and take hits in melee while using totems and lightning magic to attack at range.
+
+“They’re pretty robust,” Malika said, nodding approvingly. “And fast.”
+
+“I think their weapon and shield support skill has a melee haste component,” Ali said. It made sense, according to what she remembered: one of the major themes of lightning affinity was speed or haste. Once the shaman had enchanted their weapon or shield with cascading sparks, their blocks and attacks became dramatically faster, almost matching the speed of Malika’s punches.
+
+“That’s going to be useful,” Malika said.
+
+While they rested, Ali had her minions sort the remainder of the gear pile and she deconstructed everything she had an imprint for, with the rationale that she could just re-make them if necessary. What was left were just bows, crossbows, axes, spears, and maces. There, that’s much tidier. At least the Grove wouldn’t look quite so much like a trash heap.
+
+She was busying herself creating trees nearby when Mato and Calen eventually returned.
+
+“Here,” Mato handed her two of the black liquid recall potions. He handed two more to Malika.
+
+“Aren’t these very expensive?” she asked.
+
+“Yes, but they saved our lives,” he answered. “I don’t want to head back down there without an escape plan.”
+
+“Although, he’s broke now,” Calen said from behind him.
+
+Mato made a face. “You’re broke, too. That Gnome alchemist knows you by name already. She came running with mana potions as soon as you walked in the door.”
+
+Ali giggled behind her hand.
+
+Calen frowned – his teasing efficiently flipped back at him. “I can’t help it; I keep running out of mana.”
+
+“It’s a good thing she’s giving us a discount. She said to tell you guys thanks again for saving her life.”
+
+“Thank you,” Ali said. “At least let me pay you for these when we eventually turn in the Kobold hunting quest.” She carefully stored her potions so she could retrieve them easily in an emergency. When Vivian Ross had called out escape as one of their group’s weaknesses, Ali had mostly dismissed the problem, but after experiencing the horde of Kobolds chasing them, she had drastically adjusted her opinion. Teasing and joking aside, she was immensely relieved to have the Recall Potions stashed within easy reach.
+
+***
+
+Name: Aliandra AmarielRace: FaeTitles: AncientActive Buffs: Empowered SummonerClass: Grove Warden – level 21- Arcane Insight – level 12- Arcane Bolt – level 13- Barrier – level 17- Grimoire of Summoning – level 14- Runic Script – level 9- Sage of Learning – level 10- Martial Insight – level 11- Empowered Summoner – level 5- [Locked]- [Locked]General Skills- Reading – level 8- Identify – level 8- Sculpting – level 2Aptitudes- Languages: Ancient Dal'mohran, Elvish, Dwarven, Common, Draconic, Goblin- Mana (Affinities): Nature, Arcane- Tiny (Racial): The effects of Strength and Vitality are reduced by 50%- Magical (Racial): The effects of Wisdom and Intelligence are increased by 50%- Domain (Class): Your maximum mana increases with the size of your domain, up to +100%- Domain: -10% maximum health per day domain withdrawal. You have Domain SenseAttributes- Vitality: 50- Strength: 4- Endurance: 15- Dexterity: 20- Perception: 41- Intelligence: 100 (+32)- Wisdom: 82Equipment- Body: Tailored Cotton Clothing – level 15- Hands: Wooden Bracelet – level 11- Ring: Bronze Guild Ring – level 10Resistance: 216Magical Damage Reduction: 26.86%+21% to mana regeneration.Health: 250/250Stamina: 150/150Mana: 1376/2460 (1084 Reserved)Grimoire Imprints1- Moss 2- Arrow 3- Armor (Body)4- Dagger 5- Wolf 6- Mushroom 7- Stone 8- Kobold 9- Sword 10- Tree 11- Ivy 12- Toxic Slime 13- Goblinoid14- Shield

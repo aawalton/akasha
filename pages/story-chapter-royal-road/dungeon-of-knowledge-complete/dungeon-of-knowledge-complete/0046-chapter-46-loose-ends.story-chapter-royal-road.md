@@ -1,0 +1,245 @@
+---
+id: e233b70d-b6d9-59d3-af2b-a6e0a6403766
+page-type-slug: story-chapter-royal-road
+title: "Chapter 46: Loose Ends"
+slug: 0046-chapter-46-loose-ends
+partOf: dungeon-of-knowledge-complete
+position: 46
+ownLength: 4312
+unit: words
+ownProgress: 4312
+publishedAt: 2024-03-17
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1557791/chapter-46-loose-ends"
+royalRoadId: "1557791"
+markedReadAt: "2026-06-29T20:12:29.577Z"
+---
+
+When Malika woke, she found herself in an unfamiliar dark room and it took more than a few moments to remember she was still in the guild hall. Ali lay beside her on the couch tucked under a soft moss-green woolen blanket, and by the sound of her soft, steady breathing, she could tell she was fast asleep. Malika sat up carefully, her eyes scanning the room. In the gloom, she could make out the forms of many sleeping adventurers, curled up on couches, chairs, or even just sprawled out on the floor.
+
+The guild was never really closed, but in the aftermath of the Goblin siege, everyone must have been exhausted.
+
+Ali stirred as she sat up.
+
+“Where are the boys?” Malika asked, pitching her voice low to avoid waking the people sleeping around them.
+
+“The Guildmaster needed them to scout the Goblin dungeon so that they can ensure this doesn’t happen again,” Ali said, rubbing her eyes and sitting up. “They said they’d be gone for a few days. Do you want to go back down to the shrine?”
+
+“Yes, let’s do that,” Malika answered. The guild itself was relatively safe, but Malika had little desire to push her luck. The less time she spent in Myrin’s Keep, the less likely it was that she would run into the Watch’s thugs.
+
+She got up, and Ali gestured for her remaining Kobolds to follow as they quietly snuck out of the guild hall and into the night. The cool breeze after the warmth of the guild hearth gave her a brief shiver, and she glanced up at the clear night sky and the sparkling stars shining down. A good day for mischief, she thought soberly, noting the darkness and the absence of the moon.
+
+Malika shook her head slowly. That was a different life, she reminded herself, putting such depressing thoughts away. She was an adventurer now and had spent all day yesterday facing down monsters in defense of the town. She had healed many people who might have otherwise died. This is who I want to be. Somehow, despite the indelible brand of her title proclaiming her as a Street Rat to anyone with Identify, she had still earned several grudging nods of respect from the guards who had witnessed the battle.
+
+Ali’s two Kobold rogues shifted in the shadows and vanished from her sight as soon as they were on the street. The moderately terrifying Fire Mage kept pace with them as she took a shortcut between several merchant buildings to the nearest sewer entrance.
+
+She moved quickly, forgoing any chatter, her old habits making her anxious to be out on the streets after dark.
+
+They were no more than a block away from the sewer entrance when her instincts prickled. Instantly, she froze, scanning the street up ahead, eyes searching for the danger that surely lurked there.
+
+What was that? Everything seemed quiet, and nobody was out.
+
+Suddenly, she caught a twitch – the tiniest of movements. A small bundle lay on the sidewalk. It took a moment before it moved again, and Malika saw a shock of pink, and a small hand reaching out toward the open door of the nearby shop.
+
+Is that blood? Ruse or real?
+
+In a flash, Malika assessed the situation and then crossed the distance, burning stamina to accelerate her run. Lying crumpled in the gutter like so much discarded trash was a Gnome. She had been severely beaten and bled profusely from a nasty gash across her face caused by the shattered glass of her broken goggles. Malika immediately released healing into the stricken figure, pouring her stamina into her skill in a bright flash of blue-white light.
+
+Shards of glass clinked against stone as they were pushed out of the rapidly closing lacerations by Malika’s Healing Mantra, falling one by one to the pavement.
+
+“The Watch…” The Gnome managed, her hand still reaching toward the dark doorway. Malika’s eyes snapped up at the sound of glass crunching under a heavy boot, seeing the open doorway and the shattered window for the first time.
+
+“What have we here? Our little rat has returned to play?”
+
+Edrik! The sadistic timbre of his voice sent an ice-cold surge of fear racing down Malika’s spine. The two familiar, identical faces of the Watch enforcers emerged from the dark doorway and into the starlit street.
+
+“Edrik, Mori has no more use for her, so you can have your fun. But I want the Fae, she is worth something on the market,” Adrik said.
+
+“Suit yourself,” the other agreed.
+
+Ali! Amid the chaotic jumble of thoughts unleashed upon her by the sudden surge of fear, one fact stood out clearly in her mind. Not only was she in danger, but they would capture and sell Ali as soon as they finished with her. Her little friend had hung back in the shadows – wisely, as it turned out.
+
+“Ali, run!” Malika shouted as she stepped forward. She had already once gotten all her friends into terrifying trouble with these thugs because of her past, and she would not let it happen again.
+
+“Ooh! The rat thinks she can fight!” Adrik laughed, contemptuously.
+
+“I think she needs a fresh reminder of her place in life,” Edrik said, cracking all his knuckles with a sound like snapping bones.
+
+Malika charged her Divine Step and accelerated across the cobbled stone street, leaving the Gnome she had healed to her own devices. Her kick blurred through the air toward Edrik’s face, and just as it was about to land, he drew his sword and slashed across her inner thigh with a strike so fast she could barely react.
+
+Shit! In all the shakedowns she had endured, Edrik had never once drawn a weapon on her, preferring a much more hands-on approach. The blade drew a shallow slice across her leg as Soul Armor provided resistance against the sharpness of the sword. Her kick still landed, and Soul Strike flashed as she connected – and with it, the familiar trickle of health returned from the magical drain.
+
+She guarded against the backhand sweeping strike and punched Edrik in the gut, stealing another small trickle of his health that was quickly repairing the sword slash, staunching the flow of blood leaking down the inside of her leg.
+
+Edrik roared, coming at her with a brutal overhead strike, and Malika used her Enlightened Evasion to dodge the telegraphed attack.
+
+I can do this! She could tell she had gotten a lot stronger, but the fact that she was holding her own against Edrik for the first time in her life still seemed somehow shocking.
+
+Just as she felt a touch of confidence pool like warm liquid in her gut, Adrik’s sword plunged deep into her back, passing between her ribs and puncturing her left lung. At precisely the same moment, Edrik’s knee came up slamming her in the face as her body jerked forward. She saw stars and tasted blood welling up in her mouth as she coughed, blinking back the pain. The cold cobblestones cracked painfully into her forehead as she struck the ground. Immediately Edrik’s boot slammed down on her hand, snapping several bones with a grinding twist of his heel.
+
+She had just enough presence of mind to use her Healing Mantra before another brutal kick, this time from Adrik, connected with the wound in her back. She healed again, struggling to move her body.
+
+Fuck. I forgot about Adrik. The other twin had always stood around and watched while Edrik beat her up, and she had simply gotten used to their pattern, assuming she was fighting just Edrik. Stupid, stupid…
+
+A powerful hand hauled her up by her hair, slamming her into the wall, and then gripped her by the throat, her feet dangling about a foot above the pavement. She healed again, and slowly the stars in her swimming vision began to fade as she struggled to breathe against Edrik’s chokehold. In her hazy vision, she saw Ali still standing at the end of the street, one hand raised, palm out as if asking her to wait.
+
+Ali! Run! Why didn’t you run?
+
+Edrik’s powerful fist smashed into Malika’s face, rocking her head painfully off the wall. In the distance, through eyes already swelling shut, she saw Ali bend one finger closed. Beside the Fae, an angry red dancing light sprung into existence, hovering above the gleaming claws of her Kobold mage.
+
+What?
+
+Her head bounced off the wall again in response to the follow-up backhand that she was so familiar with.
+
+Ali withdrew a second finger.
+
+Three. Malika’s dazed mind produced the number matching Ali’s fingers. Three what? She pulsed a little more healing and her mind cleared.
+
+The Kobold lurking in the darkness poured mana into the volatile red ball of flame dancing above his hand and it began to blaze with the fury of a furnace fueled by a bellows.
+
+Three!
+
+With a hiss of exertion that might have been a scream were she not being choked, Malika grabbed Edrik’s hand by the thumb and yanked outward, twisting, and briefly breaking his chokehold, overcoming his enormous strength with the simple advantage of leverage. She slammed her forehead into the bridge of his nose, pulsing Soul Strike into his face and rocking him back onto his heels.
+
+Two!
+
+With the urgent speed borne of desperation, she stepped on Edrik’s thigh, using Divine Step and Soul Strike in tandem. To her surprise, Soul Strike triggered as if her step were a melee attack, even though she had not put any force behind it. She pushed off his left shoulder with her arm, driving her body upward, and kicked out, hitting Adrik in the neck, once again using Divine Step to accelerate her upward momentum.
+
+One!
+
+She stepped off Edrik’s head, twisting to face the wall, and took two rapid steps running straight up the sheer stone surface and leapt high, arching over backward in full layout.
+
+There was a swift sizzling whoosh, and suddenly the world below her exploded in a roaring yellow inferno. The shockwave slammed into her back tossing her body high into the air. For a moment, she lay suspended on a billowing pillow of flame with the beautiful stars twinkling in the dark sky overhead. Malika healed her rapidly burning skin and arched her neck backward as her flip completed.
+
+Momentarily suspended upside down, at the apex of her trajectory, she sighted the burnt form of Edrik, face down on the ground, struggling to recover. Golden shards tumbled end over end around her – the glowing remnants of one of Ali’s barriers. She must have cast that to protect my head from the Fireball. It was probably the only reason she still had hair – or was conscious. Gauging the distance, she tucked her knees to her chest, accelerating her plummeting fall. At the last possible moment, she thrust her right knee downward and triggered Soul Strike to augment her Martial Arts. Her knee-strike slammed heavily into the back of Edrik’s neck with the flash of her magic. The loud crack of snapping bone drowned out the soft sound of her notification chime.
+
+Oh, sweet Ancestors, it’s done.
+
+Malika rolled to the side, healing her shattered kneecap as she scrambled to her feet. Edrik lay unmoving, his head twisted grotesquely to the side.
+
+With an incoherent roar, Adrik surged to his feet, his face a mess of burnt flesh. However, it was too late. Malika punished his unguarded rush with a jab of stiffened fingers to his throat. As he choked, trying to recover, two of Ali’s rogues appeared out of thin air, burying their daggers in his back. A few seconds later a stream of golden magical bolts slammed into his head and neck. He crashed down onto the dirty street beside his brother.
+
+Your group has defeated Bruiser – Human – level 23 x2.
+
+As the blue-white text appeared in her mind, she felt several notifications and the distinct sensation of growing stronger. Realizing she had been far too exhausted to check yesterday, she watched in surprise as the text unfolded before her mind’s eye.
+
+Soul Monk has reached level 16 (+5).+50 attribute points.Soul Strike has reached level 12 (+2).Healing Mantra has reached level 9 (+3).Perfect Body has reached level 9.Soul Armor has reached level 10 (+3).Enlightened Evasion has reached level 9.Divine Step has reached level 6 (+5).Meditation has reached level 6 (+2).Appraise has reached level 8.
+
+“Malika, are you… ok?” Ali asked, rushing over to her.
+
+“Ali, why… why didn’t you run?” Malika was breathing heavily after the short, but brutal, fight. Her stamina was low, but already regenerating, so she pulsed her Healing Mantra one more time to repair the remainder of the burns she had sustained while riding the huge ball of fire.
+
+“I couldn’t leave you to face them by yourself.”
+
+Malika gaped at Ali for a long moment, at a complete loss for what to say. Adrik and Edrik were dangerous and violent, and Ali had put herself at great risk by getting involved. Mortal risk. An unfamiliar and strangely uncomfortable warmth rose in the center of her chest, and the more she thought about Ali coming to her aid with the Fireball, the more an embarrassing wetness welled up in her eyes.
+
+She looked away. Ali had changed so much. “What happened to the scared little Fae I met underground?” She said it softly, not expecting an answer.
+
+“She’s still right here, just as scared,” Ali whispered back. “But I’m here for you, whenever you need. That’s what friends are, right?”
+
+Malika may actually have cried right then, but she was soon interrupted by another voice.
+
+“You killed them! You really killed them!”
+
+The little Gnome she had healed earlier was on her feet, standing nearby, hands on her hips, shocking pink hair all awry, staring down at the two corpses.
+
+But before Malika could worry, the Gnome spat on Edrik and kicked his leg. Then she launched into an unbroken string of what had to be profanity in several different languages, none of which Malika understood.
+
+After a minute, and the tirade showed no signs of stopping, Malika glanced over at Ali. Seeing her raised eyebrow, she simply shrugged. Eventually, the feisty Gnome slowed down, her tirade of invective petering out.
+
+“Thank you for saving me and my shop. You have done the entire town a great service by ridding the world of these two thugs. My name is Morwynne Fizzlebang, and I own Pretty Powerful Potions.” She indicated the shop with the broken window. “If there is anything you two ever need, please don’t hesitate to stop by.”
+
+“You’re welcome,” Malika offered, not quite knowing how to take the highly energetic person.
+
+Morwynne quickly retreated into her store, and soon sounds of banging emanated from within and some boards appeared blocking the broken window.
+
+“Do you mind if I deconstruct them?” Ali asked, her eyes still on the charred corpses of Adrik and Edrik.
+
+Malika just nodded, still struggling to process the torrent of feelings surging within her. One way to clean up the scene of the crime – the not-crime… Strangely, it was the sight of the bodies turning into mana and slowly dissipating into the cool night air that finally calmed her heart. She had hated these two for as long as she could remember. So many times she had wished for someone to come save her, for an unnatural disaster to befall them, or for someone to simply kill them for all the pain and destruction they had caused. But in the end, she had done it herself, with the help of a friend she never imagined she could have.
+
+Now, watching the motes of golden mana drifting away, she finally felt free.
+
+***
+
+Name: MalikaRace: HumanTitles: Street RatActive Buffs: Perfect Body, Soul Armor, Enlightened EvasionClass: Soul Monk – level 16- Martial Artist – level 9- Soul Strike – level 12- Healing Mantra – level 9- Perfect Body – level 9- Soul Armor – level 10- Enlightened Evasion – level 9- Divine Step – level 6- [Locked]- [Locked]- [Locked]General Skills- Meditation – level 6- Dancing – level 4- Calligraphy – level 3- Lockpicking – level 5- Appraise – level 8Aptitudes- Languages: Common- Bloodline (Ahn Khen): Dormant- Mana (Affinity): Soul- Relentless (Class): +100% to Stamina Regeneration- Relentless (Class): You can pay for any abilities with stamina instead of manaAttributes- Vitality: 35- Strength: 10- Endurance: 73 (+25)- Dexterity: 95 (+33)- Perception: 15- Intelligence: 17- Wisdom: 65 (+22)Equipment- Ring: Bronze Guild Ring – level 10Armor: 70Physical Damage Reduction: 13.51%Evasion: 63Dodge: 12.32%Health: 350/350Stamina: 657/730 (73 Reserved)Mana: 455/650 (195 Reserved)
+
+Ali stepped out of her tent, relishing the sight of her forest and savoring the crisp springiness of the Verdant Moss squishing down beneath her feet. The mana of her domain had a calm, gentle pulsing flow, no longer being drawn into the shrine now that it was fully recharged.
+
+She turned to look out across the broad expanse of the trees she had planted along the southern half of the cavern and paused in surprise, wrinkling her nose at the whiff of an unpleasant odor. Before she had gone to bed, she had left her Kobolds with instructions to scour the battlefield during the night for anything useful. She stared, flabbergasted, at the gigantic pile of Goblin bodies, armor, weapons, arrows, and whatever else the Kobolds had gotten their claws on.
+
+Perhaps I should have been more specific, she thought, wondering how the Kobolds had managed to drag something as large as a Bugbear or a Hobgoblin in full gear all the way underground to this pile. Much of the equipment looked damaged or broken – or just plain terrible – and it was clear that what she thought of as ‘useful’ did not quite match her Kobolds’ criteria.
+
+With a simple mental command, she halted her Kobolds’ collection efforts, returning them to the shrine, while she examined the pile, racking her brain as to what to do.
+
+Bodies first.
+
+Ali began deconstructing the corpses. They weren’t useful for anything other than filling out the remainder of her Goblinoid imprint, and they would begin to stink if she just left them. Stink more, she thought, correcting herself and wrinkling her nose. Goblins already reeked. She couldn’t imagine the smell if she let them rot. Besides, she would need Malika’s input to sort the rest of the gear anyway.
+
+It took ages to work her way through the pile, and every now and then, her Grimoire flipped through its own pages to insert small updates to the glowing runes adorning the conjured parchment. Before she was done, she had to enlist the aid of her Kobolds to move the loose armor and weapons so she could reach the bodies at the bottom of the pile, but eventually, she completed the chore and put her Grimoire away.
+
+She had no idea what was valuable or worthless in the pile of items that remained, and Malika wasn’t awake yet. So, she instructed her Kobolds to sort the pile, of what was probably mostly junk, into categories, which she took care to specify properly. While they toiled over the mound of gear, she sat in front of her tent on the mossy ground to study her runes until her friend woke.
+
+While she had not gained any formal skill or notifications for her efforts practicing meditation, she still took a couple of deep breaths, assuming the same cross-legged pose Malika favored. She calmed her mind for a moment, settling in, and followed the advice Malika had given her. She had no idea if she was doing it right, but the breathing exercises did seem to improve her focus a little. Then she opened her Grimoire and began to study its intricate inscriptions.
+
+Sometime later, Malika stirred, emerging from her tent. “Wow, that’s a lot of stuff.”
+
+Ali looked up from her Grimoire to find Malika standing beside her staring at the now roughly sorted piles of armor, swords, daggers, bows, and various other items.
+
+“I thought I’d wait for you to see if there’s anything valuable in here.”
+
+“It’ll take a while,” Malika answered, raising her eyebrow. “Why don’t we do a little, and then head up to the guild and turn in our Goblin extermination quests?”
+
+“Oh yes, that’s a good idea.” Ali had forgotten they had taken a kill quest prior to the Goblin horde showing up, and now they would be able to turn it in for money. With a good night’s sleep between her and the battle, Ali was able to even feel excited at the prospect.
+
+***
+
+The guild hall had returned to a semblance of normalcy by the time they arrived, albeit somewhat quiet because it was still early. Mieriel looked up from her desk as they walked in.
+
+“Oh, hi again Aliandra, Malika, good to see you.”
+
+The Elven guild administrator wore a brand-new, elegant outfit this morning. Is she going to singlehandedly keep Lydia in business?
+
+“Can we turn in the Goblin quest?” Ali asked as she stepped up on the small barriers she created to raise herself to the level of the desk.
+
+“Of course! I can take care of that right away.”
+
+“How does it work? I don’t think I killed all these Goblins on my own.”
+
+Bronze Guild Ring – level 10A ring signifying bronze-level membership with the Adventurers Guild.Owner: Aliandra AmarielQuests: Eliminate hostile Kobolds in and around Myrin’s Keep – 0 Eliminate hostile Goblins in and around Myrin’s Keep – 137 Mana: Store or retrieve an item. Capacity: 7.5 / 25kgCreated by Giddy Clicksprocket.Ring
+
+Her ring listed the crazy total of one hundred and thirty-seven Goblins killed. While the battle had spanned a large portion of the day, and she had fought without pause, she knew many of the Goblins had been killed by the group, often with supporting arrows and spells from the defenders on the battlements. Or sometimes, Serendipity’s waterspouts. The battlefield had been utter chaos.
+
+“Congratulations!” Mieriel exclaimed. “And thank you for helping to defend the town.”
+
+She pulled out the magical panel again.
+
+“The ring records the type and level of the monster, and how much experience you earned for shared kills. We run it through this panel which has been enchanted with an advanced Analyze spell. It will calculate your contribution and how much to award you for your share in completing the quest,” Mieriel explained.
+
+It all seemed pretty sophisticated, but Ali was excited to study advanced magic in action. As soon as Mieriel placed the panel in front of her, she pressed her ring to it. Her normal senses registered almost nothing, but with her mana sight, she saw a delicate and complex magical formation pop up briefly, twisting and rotating in curious and inexplicable directions before it faded. After a moment, it dinged and displayed a result.
+
+3 gold 27 silver.
+
+“Nice work!” Mieriel complimented her, while she deftly counted out three gold coins, one large, one medium, and two small silver pieces, and placed them in front of Ali. “The guild cut has already been processed and will go towards the price of your ring.”
+
+“Thank you,” Ali said, collecting her coins and storing them before stepping down to let Malika have her turn. Her ring, she noticed, still recorded the quest, but the kill count had been reset back to zero.
+
+“Is this a lot of money?” Ali whispered to Malika after they were both done.
+
+“It’s pretty good for our level, I think. More than I ever got my hands on,” Malika answered. Then, she made a curious face and asked, “I guess you don’t know how much money is really worth?”
+
+Ali nodded. It had been over three thousand years. While they still used gold and silver coins for currency, the coins themselves were unfamiliar and the prices of things didn’t make much sense. Initially, she had assumed there had been a simple inflation, but she had quickly been proved wrong. The cost of magical items seemed unreasonable, while the price of mundane labor was far cheaper than she recalled.
+
+“Five coppers will get you a simple meal. One silver will buy you a room at an inn, or a set of basic clothes. Five silver bought us one of those daggers. It’s a hundred copper to one silver, and so on. Things get a lot more expensive if they’re magical or designed for wealthy people.” Malika explained. “Like our fancy clothes.”
+
+“How much are books?”
+
+“Books are quite expensive, the cheapest around twenty-five silver. Anything with magic is a gold or more. A lot higher for advanced stuff.”
+
+Ali frowned. Malika had mentioned that books were expensive, but if that was true, her funds wouldn’t go very far, even if she included all the money she had earned making arrows for the garrison supply quest.
+
+“Why so expensive?” She was sure that books in Dal’mohra hadn’t been nearly that pricy, in relative terms, but she had also not needed to buy many books with the enormous library available for free whenever she wanted to read anything. And if the Grand Library Arcana didn’t have a book for something, likely it didn’t exist.
+
+“Books, especially magical books, are status symbols for the wealthy. Besides being rare, having access to good magical books can enhance someone’s power substantially because they help guide skill growth and unlock advancements. That’s why they’re hoarded. I didn’t mind as much when I was forced to steal books from some of the wealthy people.”
+
+The last admission seemed to make Malika uncomfortable, and she shifted in place awkwardly, but then she brightened. “Hey, there’s a good bookstore just nearby, why don’t we go check it out together?”
+
+“Oh! Can we?”

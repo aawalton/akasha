@@ -1,0 +1,267 @@
+---
+id: 07d4238e-8df9-5d9f-981e-69218e8a0fde
+page-type-slug: story-chapter-royal-road
+title: "Chapter 160: The Class Shrine"
+slug: 0163-chapter-160-the-class-shrine
+partOf: dungeon-of-knowledge-complete
+position: 163
+ownLength: 4885
+unit: words
+ownProgress: 4885
+publishedAt: 2024-11-21
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1916184/chapter-160-the-class-shrine"
+royalRoadId: "1916184"
+markedReadAt: "2026-06-29T20:16:31.638Z"
+---
+
+Ali sat at the broad walnut table in the library with ‘The Fundamentals of Arcane Magic’ lying open in front of her, but her eyes were not seeing the pages. It was still too early for her friends; Mato and Malika were still sleeping. Calen and Ryn, of course, were still off in Ciradyl.
+
+Shaking her head, she tried to refocus on her task – she had been studying this book, searching for new magic for making better traps, but she was far too distracted, and her heart was simply not in it.
+
+It’s today.
+
+Today was the scheduled class advancement for the guild. Today was the day she would be screaming to the world that she was a dungeon.
+
+I already have enough people coming down here to kill me. As if in response to that thought, her notification chimed.
+
+Your minions have defeated Warrior – Zombie – level 3.
+
+Thanks, she told it. That’s not exactly what I meant.
+
+“Deep thoughts, child?” Lira asked, her body twisting a little as her mana rippled through the heavy branch and she stepped out onto the deep-pile rug Ryn had bought for the area.
+
+“Am I making a huge mistake, Aunt Lira?” Ali asked, putting voice to the question weighing on her heart. Malika was quite invested in helping the guild recruits and had been the one asking if she could help out with her shrine. Well, her friend probably cared more about helping the poor and disenfranchised and saw the guild as a means to an end – but was it really smart to be doing something as public as this? It was a noble goal, but every time Ali had drawn attention to herself and her abilities, it had just heaped problems upon her head. Serious problems, like Roderik and his murderous intentions. She barely had enough mana to make a passable defense for her domain – sometimes she wished she had claimed a far smaller, more defensible area far from civilization and the prying eyes and grasping ambitions that came with people.
+
+“What mistake?” Lira asked, trickling a little mana into the pot to summon water for tea.
+
+“Obviously, it will be good for the recruits to get better class choices,” Ali said. “And probably good for the town in the long run, but is it smart to draw that much attention to myself and my class? I just wish people would leave me alone. I know the Guildmaster really wants it, and so does Malika, but …”
+
+“What does your heart tell you?” Lira asked. “I think everyone in the town already knows what your class is, but they don’t necessarily know who you are. Perhaps this is a way to show them?”
+
+My heart? How is that relevant? “You think it’s a good idea to show them I’m a dungeon?”
+
+“Everybody knows what a dungeon is,” Lira said, looking up from the tea set to regard her closely for a moment. “Who is Aliandra? I suspect they do not know who you are – you are not just some evil monster-spouting dungeon, right?”
+
+Show them who I am? Ali paused in the middle of making a face as Lira’s meaning became clearer. It was an unexpected perspective, and one of the things she appreciated most about her aunt – with so much experience, she had a unique perspective that sometimes shone such clarity onto problems that unexpected solutions might simply leap out of the confusion.
+
+“I guess they’re already attacking me,” Ali said, letting a little of her frustration color her voice. “I may as well be open about it.” But that was not exactly what Lira was getting at. People were afraid of dungeons and, without anything else to go on, they would be likely to support the people trying to kill her. If she stood up and showed them who she was, maybe some of them would want to help her? Would that be better? How closely does ‘help’ align with ‘take advantage of?’
+
+So, who am I?
+
+When she put it like that, it was a remarkably difficult question to answer.
+
+“I don’t know…” Ali said, looking to Lira for help.
+
+“What were you thinking when you saved that dear Goblin from the Ice Mage? Or rescued the necromancer boy, Seth?” Lira asked, pouring the tea and bringing it to the table for her.
+
+“I…” Ali stopped as an easy answer failed to materialize. She hadn’t really been thinking at all; those things had just happened. She had done the only thing that seemed right at the time. Like jumping off the city ring to save Calen, sometimes things just had to be done. But then there were other times when she had needed to decide; saving Mato after he had savaged her, choosing to let her friends use the shrine to unlock their classes before she even knew them, or even trying to save Lira. In each case, there was an easier way out, but there had never been any doubt in her heart, so she had simply followed it without necessarily giving it much thought.
+
+What does my heart say? I’m basically good?
+
+Simplistic as it sounds, that’s what she means… and more. Yes. Suddenly, understanding flooded in. She wanted to help the novices get good classes because in her heart she knew it was the right thing to do. As to the rest, she would just have to figure it out along the way.
+
+But she suddenly found herself wishing she could sit with her father in his Grove and talk it over with him like she always had when she was younger, and the comforting warmth of the idea that she might do good splintered under the weight of her grief. She was afraid of him – the Blind Lich. Afraid of his power. Afraid of his overwhelming presence, and the specter of his returning to finish the job. And yet… somewhere deep within her, that defiant rage leaked through the cracks. Perhaps she had… other reasons to want to offer her shrine.
+
+“My heart says it’s the right thing,” Ali said, her stomach still churning with apprehension. Such idealism did not make the problems any less real, though – she was really going to need to get her defenses shored up. There was no number of low-level adventurers with combat classes like Aiden and Havok that could save her. She – a dungeon – needed strong allies.
+
+“Your father would have been proud of you,” Lira smiled, joining her at the table and sipping on her tea. “He made the same choices. Occasionally, the paths he chose did cause him some big problems, but in the long run, he made an enormous difference to many people’s lives.”
+
+“Why did he do it?” Ali asked, wrestling with the specter of the mountain of problems she might be about to create.
+
+“He lived his life according to his values,” Lira said. “Everything else, he said, would take care of itself. He was strong and had your mother, powerful friends, and allies in the three kings, but he always stood firm for what he believed was right. He didn’t talk too much about it, but I think it gave his heart a deep, abiding peace – at least, that’s what I always sensed and observed about his Grove and the life he made here.”
+
+“I wish it wasn’t so hard,” Ali said, but she had always gone to him when her world had been shaken. She would have given anything for the steady rock of his comfort and calm assurance right now.
+
+Sabri stepped down off the last rung of the rusty iron ladder bolted into the side of the crumbling brick wall and found herself in a dimly lit chamber. She huddled back against the wall, slipping a little on the slick moss that carpeted the ground, trying to avoid the press of all the strangers chatting excitedly around her. Threaded through the hubbub was the sound of trickling water and the faint foul odor of sewage. Sabri pulled her eyes away from the small circle of sunlight confined to the top of the brick shaft, briefly wondering if she’d ever see it again. Firmly, she pushed the unwanted thought out of her mind.
+
+“Welcome to the Myrin’s Keep sewer, where those of you seeking to unlock combat classes can conduct your trial. I’ve made the monsters back off for now so that we can pass through uninterrupted, but usually there are up to level five kobolds, goblins, or slimes in this area.”
+
+The musical voice had an unusual accent and came from the Fae perched upon a small glowing magical disk, levitated to a height that everyone might see.
+
+Aliandra. The dungeon.
+
+She continued explaining, pointing out notable sights as she led the group deeper into the sewer, but Sabri anxiously searched the crowd. Somehow, she had managed to become separated from Rezan, Hala, and Basir, finding herself entirely surrounded by strangers. She hung back a little, giving herself a little more room by being at the back of the group. She shrunk back further and then yelped as she bumped into a hairy giant of a man who seemed to be all muscle and power.
+
+Druid – Beastkin – level ??
+
+Sabri bounced off him, but he might as well not have noticed given how little the inadvertent collision affected him. Her eyes snapped up to his face at the sound of a sharp crunch and the sudden scent of sweetness. He glanced down at her with smiling eyes and bit into a shiny red apple.
+
+Her stomach grumbled audibly, and she looked away as a burning flush filled her cheeks.
+
+“Catch.”
+
+The voice and a flicker of motion triggered her reflexes and, with a slapping noise, she suddenly found a second apple caught in the palm of her hand. She stared at the beautiful thing while her stomach clenched with hunger. But she had nothing to offer in exchange.
+
+“I can’t afford it,” she said. It took all her willpower to stretch her hand out to return the apple to him. But he just took another bite of his own apple, conspicuously ignoring her hand.
+
+“You remind me a little of Malika. She didn’t like gifts either.”
+
+He knows Malika?
+
+“Ali has a few apple trees down in her forest, and I help cultivate them with my mana. I’d bet anything you’ve never tasted anything as good as a dungeon-grown apple,” the hulking Beastkin added, seemingly not minding carrying the conversation.
+
+Feeling stupid holding the apple out to him, Sabri withdrew her hand, glancing at his face trying to discern if he was being serious or making fun of her. He just smiled and continued munching his apple with great relish while they followed along behind the group. Her eyes returned to her hand and the shiny fruit so large she struggled to get her fingers around it. The last time her mother had been able to afford an apple they had split it as a treat – it must have been the summer before last, and she still remembered the sweetness. A sweetness she could still smell as the Beastkin bit into the apple again, already almost finished with his snack.
+
+Without her even being conscious of moving, Sabri found herself holding the apple to her mouth, the faint scent of it filling her nostrils. The crisp fresh crunch of her teeth biting into it was followed by a rush of sweetness in her mouth as the juice sprayed everywhere. She gasped and reached up to catch the drops running down her chin, not wanting to waste even a tiny bit of the heavenly nectar.
+
+He chuckled beside her. “Good, aren’t they?”
+
+But she barely heard him in her rush to devour it.
+
+***
+
+“… and this chamber is where I made my first boss. It is a raid threat, so do not engage it until you’re prepared and have reached high enough levels.”
+
+Sabri tuned into the words of Aliandra floating way up at the front of the group as they all filed into a dank chamber lit by the mystical-looking glowing mushrooms that dotted the entire sewer. It was a strange place with plants growing up the walls, moss on the ground, and surprisingly clear and fresh water flowing through the channels in the ground. Entirely unlike the dirty, smelly place she had expected when they had told her it was a sewer.
+
+As she entered the large chamber, her eyes widened, and her heart began to thump behind her breastbone. Standing up against the far wall, silhouetted by the rising glow emanating from a jagged hole in the floor, were four of the largest, meanest Kobolds she had ever seen. The muscular green-scaled one at the front bared its teeth, brandishing a well-honed shortsword and rattling a solid-looking shield of polished gray bone.
+
+None could be Identified which meant they were higher than level five, but Sabri did not need her skill to tell they were powerful. She could feel it. The sheer presence they emitted and the intense looks in their reptilian eyes sent shivers up her spine.
+
+This is a dungeon.
+
+Aliandra barked words in a guttural harsh language, and all four Kobolds stepped aside.
+
+“I have instructed them not to attack without provocation for today, so you can complete your trials. I don’t suggest you test them.” A whisper and murmuring swept through the crowd as the powerful monsters responded to her commands.
+
+Even with the reassurance from the dungeon herself, Sabri still hung back, battling with a surge of fear triggered by the sight of sharp fangs and the powerful aura emanating from the monsters in the back. She briefly shut her eyes and used her Meditation to try to calm herself down, wondering why she was the only one who was afraid.
+
+The monsters bowed to the small Fae floating by as she led the way to the hole in the floor and the stairwell below.
+
+“How are you doing?”
+
+Sabri jumped at the sound of the familiar voice from right beside her, and when she turned, she found Malika standing beside her. Her heart still thumped in her throat, but she knew it was not entirely due to being startled. The first time she had seen Malika, it had been in the ring facing Basir. She had been curious, knowing most people who faced him tapped out after mere seconds, but Malika had gone head-to-head with him for ages, never giving an inch, facing down his rock and stones with a shocking resilience. Sabri yearned to be that strong. If she could only be as powerful as Malika, she would have no trouble earning money to help her mother. They wouldn’t have to work the fields all spring and summer, and still have to beg for food in the winter.
+
+“I… I’m scared,” Sabri blurted out. Immediately she blushed and covered her mouth with a hand. How could she betray herself to someone so strong?
+
+“I was scared the first time I came down here, back when it was a dungeon of bone and death magic,” Malika said softly. “I see you’ve already met Mato. We all unlocked our classes at Ali’s shrine. Come, let’s walk together.”
+
+She stared at Malika’s back as she led the way forward.
+
+She was scared, too? Malika?
+
+It somehow seemed impossible, but Malika had sounded honest and genuine, and she acted like being scared was nothing special. She glanced up at the huge Beastkin, Mato, but he just gestured for her to go first. Sabri scrambled to catch up to Malika and walk beside her, glancing nervously as they approached the four terrifying Kobolds but, while she felt their stares on her the whole way, the scaled and fanged creatures stood aside and let them pass.
+
+She put a foot on the golden magical stair, finding the floating step unexpectedly unyielding and then she rushed down, following Malika. It seemed to be made from the same stuff that Aliandra was using to fly on. She was so preoccupied with the stairs that she only looked up when Malika spoke.
+
+“Impressive, isn’t it?”
+
+She froze on the last stair, gaping at the sight. The ground below fell away, drawing her eyes to a vast cavern that stretched out into the distance. A vast lake nestled among huge trees emitting a soft blue magical light and the entire space was filled with constellations of golden glowing plants and mushrooms. As their group wound its way between the trees and along the moss and grass, monstrous black wolves stood aside watching their progress with intense green eyes.
+
+A green light darted by, nearly bumping into her face as it zipped off into the trees. “What…” she yelped, startled.
+
+“A wisp,” Mato said, chuckling. “Pretty, aren’t they?”
+
+“Y… yes.” Neither he nor Malika seemed even slightly perturbed by the strange creature. Searching the trees, Sabri found dozens of them, darting back and forth, filling the air with the ethereal glow of their mana.
+
+The hike through the forest took quite some time, but Sabri spent all of it staring, trying to take it all in, taking comfort in the fact that someone as powerful as Malika was beside her the entire way. Eventually, she emerged from the forest into a mossy grove dotted with fairy rings of glowing mushrooms and she saw it. The shrine! She had never seen a shrine before, but there was no mistaking it. The giant obelisk of polished black stone towered above her – above everyone – nestled in the center of the grove with a small stone pathway inviting them to approach. Vast power emanated from the artifact, a palpable hum that was felt in her bones rather than heard, and it positively shone with magical runic inscriptions etched all over its surface.
+
+The ground beneath her feet shuddered. And then again, and Sabri snapped her head to the side to follow the loud creaking and grinding noise. Gasps and yelps echoed from the recruits. Slowly approaching the shrine was a monster of wood and bark large enough to crush them all, and heavy enough to make the ground shake with every step of the four gnarled trunks it used for legs. Trailing along in its wake were smaller monsters of various kinds, wood and mushrooms, and as they swept past, they left flowers dotted across the ground.
+
+“Stop.” The monster instantly ground to a halt at Aliandra’s command. “This is my second boss, made to protect the shrine.”
+
+Sabri shivered at the sheer power of the monster. She stared, finally understanding how a deer felt gazing at a wolf. The Kobolds had been powerful, but this thing made her feel insignificant. Like a speck of dust in a storm. It was only when Malika touched her on the shoulder that she realized Aliandra was gazing at her waiting for a response.
+
+“I can unlock your class experience before the trial,” she repeated.
+
+“I… mine is already unlocked. I have only one day left,” Sabri said, her gaze dropping to her feet worried that, somehow, she would not be eligible for the shrine because of it.
+
+“Oh. Would you like to choose your class now?” Aliandra asked. “Or did you want to attempt the trial first to try to earn more experience and improve your chances?”
+
+“I can choose?” Sabri had not expected that she could simply walk in and pick her class immediately.
+
+“If you’re happy with the direction of your natural class and just want to look at a few other options, we can take care of it now. The trial is necessarily risky; just because the monsters are mine doesn’t mean they can’t kill you. If I interfere in any way, you won’t earn experience for the trial. But if you really want to improve the chances of getting a good class, the actions you take during the trial matter a lot.”
+
+Laborer.
+
+The whole reason she was here was because her natural class committed her to the same life of poverty her mother had endured. Unlocking something like her natural class was the last thing she wanted.
+
+“I would like to do the trial?” she said. “Um… if that’s ok?”
+
+“Of course,” Aliandra said with a disarmingly pretty smile. “Malika, can you give her some armor and a sword while I unlock everyone else?”
+
+“Sure. Here, this should fit you,” Malika said as Aliandra turned to the next candidate. She turned to find Malika holding out a sword, not unlike the one wielded by the Kobold warrior in the sewer above, a small buckler, and a set of leather armor. She stared at the items, a flush rising in her neck and reaching her cheeks.
+
+Everyone will see how poor I am. As if her dirt-stained bare feet and torn shirt hadn’t already given it away.
+
+“Take them,” Malika insisted. “You will need protection for the trial. Unless you’re interested in an unarmed monk class? I can get you different weapons if you have a preference. You’re not the only one who needs equipment, I’m not singling you out.” The last part was said much softer, pitched so that only she could hear.
+
+Reluctantly, Sabri took the sword and let Malika strap her into the uncomfortably stiff leather jerkin. She hated the attention of all the people watching her, but Malika had been truthful, and after she was done, she went to help several other people.
+
+“Sabri, why don’t you join this group?” It was the Guildmaster who led her to a group of several other applicants, all of which were standing around in varying states of excitement or her own dazed bewilderment.
+
+***
+
+Elder Rezan was gone. Basir and Hala were gone too, and so was Malika. Sabri would have been happy even to have Aliandra, or the Beastkin who had given her the delicious apple. She stood and stared down the dark sewer tunnel with four complete strangers, most of them wielding borrowed weapons and armor without the classes and skills to give them true power. Sabri was terrified. The unfamiliar sword she held trembled lightly in her grasp.
+
+Come on. I’ve trained for this. Elder Rezan says this is right. He must think I’m ready.
+
+“Let’s get this done,” the tiny Gnomish girl with the shock of blue hair said, waving an expensive-looking wand around in the air. “I want to get my Lightning Mage class today.”
+
+They had all introduced themselves before setting out, but she had been so nervous about the trial that she hadn’t had the presence of mind to remember any of their names. The Gnomish girl seemed to be a little impatient and somewhat arrogant. Still, she was comfortable leading, so Sabri simply followed along at the back of their group, trying to be vigilant to everything, squinting in the dim light cast by the mushrooms.
+
+The tunnels twisted and turned haphazardly and before she knew it, Sabri was lost in the endless enchanted sewer tunnels. She turned a corner and heard a strange sloshing sound followed by a plop. Another splat followed close behind and something wobbly and mottled-brown crawled its way across the mossy ground.
+
+Toxic Slime – Ooze – level 1Toxic Slime – Ooze – level 2
+
+Monsters! Even though they were explicitly searching for them, she had irrationally hoped they wouldn’t find any. Her heart thumped loudly in her throat and her sword shook as her grip tightened on the hilt. The creatures sloshed closer, their forms stretching and oozing along the ground as they pulled themselves forward with protrusions formed from their bodies. She wanted desperately to run, but her feet seemed glued to the mossy ground.
+
+Panicky yells echoed from the tunnel walls as the others charged the slimes, but Sabri stood there, unable to even move. Three of her companions attacked the first slime, leaving just the tiny Gnome to face the higher-level one on her own. Amid the frenzy of yelling and awkward clanging of swords, the Gnome leveled her wand, and a bright spark shot out, hitting the slime. But the monster hardly budged, flowing forward undeterred as the Gnome scrambled backward until she was pressed up against the wall. She fired again, her eyes growing wide with terror as the monster flowed up against her, enveloping her legs.
+
+Sabri stared in horror as the Gnome began to scream, battering the squelchy monster as it slowly enveloped her body. It covered her legs and then flowed up her chest while she thrashed ineffectively, arms making pitiful splatting sounds against the greenish sludge. The screaming cut off abruptly as slime flowed over the girl’s head.
+
+She’s going to die. It was a certainty. But the thought floated around in Sabri’s head, unattached to any perception of meaning. The Gnome was going to suffocate and die, or drown, or be dissolved. Suddenly, time seemed to freeze between one panicked thud of her heart and the next. Everything became clear, extraordinarily clear, and it seemed she had entered a waking dream.
+
+I shouldn’t be here. She could have just chosen her class, she should have. She should have avoided the danger, but she had the arrogance, the temerity, to want a better class, and now she was going to have to watch someone die.
+
+Will I be next? She still couldn’t move a muscle. Her gaze locked with the terrified eyes of the Gnome, seen through the transparent murky membrane of the muddy green slime’s body.
+
+Malika wouldn’t let her die.
+
+Sabri had no idea where the thought had come from, but the idea of Malika standing rooted in fear while someone was eaten by a monster was so unimaginable that it snapped her mind right out of its fear with a sharp jolt of clarity.
+
+I can’t let her die! Without a second thought, Sabri rushed forward, waving her shaking sword at the monster that was trying to eat a Gnome. She screamed as her wayward slash connected and toxic fluid splashed against her skin and the poison burned into her flesh.
+
+You have been afflicted with Poison.+0.15 Poison damage per second.Poison – Duration: 10 minutes. Count: 1
+
+She slashed again, and again and again.
+
+I have to get her out. Sabri tore into the monster with a single-minded fury, slashing with the bone sword and battering it with her fists, letting the endless hours of practicing forms take over her body, reacting to her will to tear the monster from the weakly struggling Gnome.
+
+Your Poison has increased to 2.
+
+Her sword pierced the slime’s membrane tearing a hole in its jelly-flesh. She dropped her buckler and thrust her hand into the hole, ignoring the searing pain, and pulled with all her strength, ripping it wider to free the Gnome’s head.
+
+Your Poison has increased to 3.
+
+The blue-haired Gnome sucked in a ragged breath, coughing and spluttering, while the monster tried to reform its body, but Sabri kept ripping and slashing, not letting up until the slime slid off the Gnome and collapsed into a foul-smelling, gooey puddle on the ground and a chime sounded in her mind.
+
+Your group has defeated Toxic Slime – Ooze – level 2
+
+Sabri sank to the ground panting from the exertion, fear, and pain, trying desperately to keep the apple inside her churning stomach. The sword slipped out of her nerveless fingers. She would need a healer after this, her skin was severely burnt, but the Gnome was far worse off than she was.
+
+She looked over to find the Gnome on all fours beside her, coughing and retching, her blue hair slicked down by the remains of the slime.
+
+Brena. Her name is Brena.
+
+“Thank you,” Brena said weakly. “You… you saved me.”
+
+Sabri sat stunned for a while. She had never imagined those words would be spoken to her. Saving people was for the heroes of the stories her mother told her when she was a child.
+
+“Here,” Brena said, producing two small vials of red liquid and offering one to her. “For the poison.”
+
+“Thanks,” Sabri said, taking it, but before she could examine it, a sloshing splash from the water interrupted her and a new slime loomed up behind Brena. Leaping to her feet, Sabri scooped up her shield and slammed it into the slime an instant before it reached the other girl. Brena yelped and scrambled backward, leaving Sabri alone to contend with the monster.
+
+Desperately, she fended it off with her shield but, right at that moment, something bright flashed past her shoulder, crackling as it impacted the slime. Sabri glanced back, locking eyes with the grim-faced Gnome who leveled her wand at the monster and fired again.
+
+“Let’s do this!” the Gnome screeched, sounding almost… happy? “Potion!”
+
+Dumping the potion down the back of her throat, Sabri discarded the vial and scrambled to snatch up her sword from where it had fallen. She slashed upward, knocking the Toxic Slime backward. A soft glowing warmth pulsed from within her as the potion began to do its work. She might be outmatched, but she was not alone.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

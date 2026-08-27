@@ -1,0 +1,101 @@
+---
+id: c072522c-3df0-55bd-b1ad-4530e34a3a1d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 238: Mok’freja, Ice Queen (Part 2)"
+slug: 0270-chapter-238-mok-freja-ice-queen-part-2
+partOf: dungeon-of-knowledge-complete
+position: 270
+ownLength: 2229
+unit: words
+ownProgress: 2229
+publishedAt: 2025-05-02
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2249092/chapter-238-mokfreja-ice-queen-part-2"
+royalRoadId: "2249092"
+markedReadAt: "2026-06-29T20:20:22.450Z"
+---
+
+There Mok’freja sat, wearing robes of blue and white shimmering fabric, surveying the array of trolls before her. They had all been partially frozen, locked in permanent uncomfortable positions of prostration or obeisance before her, like a horrifying parody of a royal court. And before them all stood a majestic altar of black ice; malice and death mana rolling out from it to suck the life from the forced supplicants. Despite the ground being frozen solid, the Spectral Wraithroses and Soulshade Blossoms that had accompanied the other altars carpeted the area around this one, swaying in time with the currents of death mana.
+
+The prisoners were silent, but it was not because they retained the willpower to resist – most were unconscious, and those who were not seemed too exhausted and drained to do anything other than stare in abject despair at the majestic figure on the throne.
+
+“Aah, new sacrifices have arrived,” Mok’freja spoke, her voice carrying upon an arctic frozen wind that buffeted them with fine crystals of ice and snow. She had the most cultured and sophisticated troll accent Ali had ever heard, and powerful ice-affinity mana poured off her body in waves. “Perfect timing.”
+
+Mok’freja [Ice Queen] – Troll – level ?? (Ice)Frost Weaver – Spider – level ?? (Ice)
+
+Higher than ninety-five, Ali thought. It was a sobering observation, most of the monsters they had encountered she had been able to identify, but not Mok’freja. Even her familiar was at a higher level than she could see.
+
+“Raid boss, be on your guard,” Calen confirmed. “Level ninety-seven.”
+
+“Tank it in the middle?” Mato asked.
+
+“Yes, if you can,” Calen said. “Might be difficult to tank though, she probably has high wisdom, and all that ice magic won’t do you any favors.”
+
+“Got it,” Mato said, shifting immediately and leading the group through the gap between the giant pillars of ice. There was no point in hesitating once it was obvious Mok’freja had seen them – besides, they had been discussing their strategy all the way here.
+
+As Ali entered the courtyard, Mok’freja slowly stood, raising her left hand into the air. Thick troll fingers curled around a glowing cerulean crystal sphere, and an intense wave of ice mana cascaded off her, rippling out into the surrounding space, completely filling the courtyard and beyond. In its wake, an icy wind rose, howling mournfully as it tore through the ice palace, whipping up flurries of heavy snow, sleet, and hail and driving their visibility down to almost nothing. But Mok’freja’s shimmering robes only swayed gently, barely affected by the domain-empowered tempest she had unleashed. Immediately, Ali felt her body begin to slow in the grip of the bitterly cold aura the Troll Ice Queen was emitting with her mere presence, and she knew the first Domain Magic that Mok’freja had chosen.
+
+“Ice-affinity aura,” Ali announced, extending her awareness through the eyes of one of her troll Ice Mages, taking advantage of his enhanced vision in cold environments. The whirling gusts of snow and ice suddenly clarified, like a great hand had wiped the condensation off a mirror, revealing the sights within. Mok’freja remained standing on her throne, studying their slowing approach with an expression of clear disdain on her face.
+
+“Let me know as soon as you get a hint of the other two domain magic skills,” Calen said, catching her meaning at once.
+
+“Right,” Ali said, hunkering down behind her minions, keeping a low profile as she had them fan out into the courtyard while she sampled all her available senses for the first signs of fresh spells. As soon as her Trolls closed to range, she began, not waiting for Mato, Malika, and the rest of her melee minions as they struggled through the drifts of snow and the biting wind, trying to overcome the chill of Mok’freja’s aura of ice.
+
+“Attack,” she commanded. And her Ice Mages and Hellfire Imps unleashed a magical broadside on the Ice Palace.
+
+Off to her left, the swirling snow and ice flashed brightly as Calen unleashed the demonic howl of his bow and a stream of brilliantly shining arrows that lit the flurries from within just how Ali imagined a front-row seat to the inside of a lightning storm might look.
+
+“Free Action totem”, Ali instructed, sending her mental commands to her Blood Shamans. “And stay away from that Bone Altar.” A forest of blood-stained sticks sprouted from the snow drifts, her shamans naturally choosing complementary ones, making her wonder how much of that was their affinity for efficient battle strategy, or something she had learned and was conveying via her Martial Insight to them. On each pulse, a couple of her minions were freed from the icy grip of the chill for a few moments before the movement-impairing aura once again regained its hold. It wasn’t much, but, as Calen had observed, it was surprising just how far a Bone Warrior could get with just a second of freedom.
+
+Hellfire fireballs, streams of rapid ice bolts, and Calen’s volleys of magically empowered arrows lanced out into the icy blizzard that had descended upon the ice palace – the howling of Calen’s bow rivaling shrieking wail of the rising storm winds. Flickering ribbons of blood shot forth, curling about the shimmering blue beams of the witch doctor’s Soul Drain.
+
+“Pitiful. Now freeze!” Mok’freja announced in a haughty voice that pierced the storm. Seen through the driven snow and sleet, the Ice Queen’s body filled with jagged formations of mana and then a powerful Frost Nova exploded outward from her throne, freezing the entire palace in an instant.
+
+Ali reflexively threw up a spherical barrier, enclosing her entire body, but the potent Frost Nova passed right through it, leaving her encased in a bitterly cold block of ice, unable to move. Fuck. Spectral Ice. There would be no blocking Mok’freja’s magic – not even Mato’s Ghost Mushroom snacks had helped her against the spectral mages’ ice.
+
+With a casual wave of her hand, several cascading echoes of mana replicated through the domain like a spell seen through a hall of mirrors and Mok’freja unleashed five simultaneous streams of high-speed Ice Bolts. Frozen within a prison of ice, Ali could do nothing but stare. One stream slammed through the broad chest of the Armored Drake in front of her, the burst from the impact spraying shards of ice into the air, but the Ice Bolt stream continued right through the drake, her ineffectual barrier, and pierced through Ali’s side.
+
+The crushing concussion of ice shattered bones and ruptured blood vessels. Ali fell to the ground in a heap, instantly losing over eighty percent of her life. As she struggled against the dizzying pull of unconsciousness, she was dimly aware of the two Hellfire Imps beside her shattering utterly and falling to the icy ground in a rain of gruesome frozen chunks. Ali immediately burned her recharge and switched her Empowered Summoner buff to a different imp to retain her intelligence bonus.
+
+But the unrelenting streams of Ice Bolts did not cease for even a moment, and as soon as Ali found herself freed from her prison of ice, she launched herself on a barrier disk, desperately scrambling to outrun the curving arc of deadly ice while downing her strongest health potion. One of Morwynne’s choicest Dwarven curses passed her lips, thankfully snatched away on the howling winds. Threads of blood stitched through their forces like some gruesome needlework project as the Blood Shamans struggled to recover from the immense damage they had sustained. Bone axes flew, and fireballs detonated, but nothing fazed the unflappable form of Mok’freja standing cool and calm in the eye of the storm.
+
+“Regroup,” Calen shouted.
+
+Two spectral forms rose beside the Ice Altar, visible only by the death mana animating them, and the ice vision of her troll mages that could pierce the blizzard. “Curse them,” Ali commanded, knowing that none of their melee fighters would have a hope of reaching them in any reasonable amount of time. One shimmered, displaced immediately into the Spirit Realm, and the other flopped, shrinking into a transparent green frog that rapidly froze to the ground.
+
+Ali barked out a rapid series of commands, even while swooping around on her barrier in desperate evasion, making certain that her minions were not close enough to give Mok’freja the benefit of multiple hits.
+
+Holy crap, I can’t get hit by that again, Ali thought as the ice bolt stream retargeted, giving her a moment to breathe. “Those Ice Bolts are domain enhanced,” she shouted for Calen’s benefit. Two of three.
+
+Ali watched in eager anticipation as her drakes and warriors finally reached the throne, only to have Mok’freja teleport out into the courtyard, triggering a battle-wide Frost Nova which left everything except Malika frozen hard in glittering blocks of ice. Then the Ice Bolt streams resumed.
+
+With a barely noticeable blue-white flicker against the storm, Malika appeared right behind the boss, punching, and kicking as her magic flared brightly in Ali’s mana sight.
+
+Ali sat on her barrier waiting for the block of ice to wear off and took the moment to absorb the chaos of the first few moments of battle. Her melee minions were struggling against the continuous storm of ice mana howling through the courtyard, unable to properly engage. She had already lost two imps without even making a dent in Mok’freja’s Ice Shield. Blood ribbons were arcing around the battlefield, repairing the devastating damage from the Frost Nova and the ensuing Ice Bolts that shattered prisons and reaped life.
+
+Suddenly, something moved in the darkness behind the throne and several nets of glittering white webbing shot out, pinning several trolls to the ground. In the frantic scramble, Ali had lost track of Mok’freja’s familiar.
+
+“Attack that spider,” Ali commanded, sending her intent to her two Abyssal Stalkers. She had hoped to use them against the Ice Queen herself, but she hadn’t been able to get them even close. They were much lower level, but with Blood Shock and Demonic Web they should be able to keep it distracted, but now she had several minions struggling in the web, unable to move.
+
+“Frog them,” Ali said, sending her instructions to her witch doctor in a burst of unexpected inspiration. Immediately, a Bone Warrior hopped through the icy mesh of the Frost Weaver’s web. “Now decurse him,” she said, and the frog vanished, replaced with a freed troll. “Ok, free the others,” she added, leaving the canny witch doctor to take care of the mess on his own, content to use her barrier magic to block the frost-webbing whenever she could and give her minions an edge.
+
+Happy with her small success, she turned to study the boss just in time to see the Frost Nova rippling outward from her, once again turning their entire army into a forest of frozen statues. Ice bolts streamed outward, arcing toward their targets and a third Hellfire Imp shattered. Malika exploded in a shower of ice, but her healing magic flared brightly. A stream of ice bolts whispered through the snowy air, bearing down on Ali, and she instantly swapped places with her nearest Bone Warrior, narrowly avoiding the strike.
+
+It's a good thing that freeze only affects physical abilities. She definitely did not want to experience that explosive Shatter critical damage again, but the stream of ice bolts redirected, arcing across to where Calen was still frozen in ice. He’s low! Judging by the scent of his blood, he was already below half health, unable to act to save himself, and caught beyond the range of her shamans.
+
+But not her witch doctor. “Banish Calen,” she commanded with desperate urgency. Calen’s form shimmered and vanished the barest instant before the Ice Bolts swished impotently through the now-empty space he had just occupied.
+
+“Now get him back,” Ali sent, and there was a second shimmer as her witch doctor stepped into the Spirit Realm to retrieve Calen. The witch doctor may have to wait a short while for his Hex recharge, but she got the sense that he clearly understood he was to decurse Calen and return him to the fight with all due haste.
+
+Ali returned her attention to the battle, lashing out with several barrier shards, just in time to see Mok’freja teleport again. In the wake of her movement spell, the Frost Nova exploded through their forces again and Ali gritted her teeth in frustration – or she would have, if she could move. Malika, however, dodged the explosive ice magic and followed instantly, teleporting to Mok’freja with a punch that she completed on arrival. The sharp crack of knuckles against the back of a Troll skull rang out over the wind.
+
+Get her! Ali thought, appreciating Malika’s strategic approach. She had deliberately saved her teleport skill for right after Mok’freja had used hers so she could keep up the pressure. And it seemed to be working – Mok’freja’s aim with her Ice Bolts wasn’t nearly as accurate with Malika’s fist in her face. Especially with that bluish flash of her Mana Drain attack.
+
+I need to do something, Ali thought, watching her melee struggle through the chilling winds and Ice Bolts, still not having reached Mok’freja. Otherwise, this will take forever. One mistake…
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

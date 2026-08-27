@@ -1,0 +1,263 @@
+---
+id: cab2dbae-60dc-56bc-b791-7fee608b87ee
+page-type-slug: story-chapter-royal-road
+title: "Chapter 105: The Herbalist’s Choice"
+slug: 0106-chapter-105-the-herbalist-s-choice
+partOf: dungeon-of-knowledge-complete
+position: 106
+ownLength: 5550
+unit: words
+ownProgress: 5550
+publishedAt: 2024-07-30
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1737990/chapter-105-the-herbalists-choice"
+royalRoadId: "1737990"
+markedReadAt: "2026-06-29T20:14:33.860Z"
+---
+
+Eliyen’s hands and mana flowed in the precise, familiar patterns of the skills she had been using daily for more than a century, tending to the shrubs and herbs in her garden – the small space of peace she had carved out amid the urban stress of Myrin’s Keep that she had come, out of necessity, to call her home. The dappled light of the late dawn sun filtered through the branches of the trees she had grown from seedlings to chase away the remnants of dew beading their leaves.
+
+It was not that the plants needed her tender care and adjustment, but it was a place of quiet for her to think. With the developments of the last few days, she had a lot weighing on her mind.
+
+She idly adjusted the mana flows between several of the plants and pruned a few dead twigs from a nearby bush. The plants communicated emotions of contentment and peacefulness in the slow measured way plants always did as the garden settled back into harmonious balance. She studied the flows of mana and the subtle interactions and interplay through the garden, pursing her lips and nodding in satisfaction. The itch of the minor imbalances to the ecosystem of her safe space slowly faded. She sighed.
+
+That girl is a dungeon.
+
+Her hands continued to flicker across the bushes, pruning and cleaning automatically without thought, healing the scars, and encouraging new growth with deft applications of her nature magic.
+
+When her shameful heart, full of vengeance, had been revealed by the Ahn Khen girl, Eliyen had been certain her scheme had been wrecked, but somehow Aliandra had accepted anyway.
+
+No, she accepted because the truth came out. Eliyen had not considered it much at the time, but she was always mistrustful of those who claimed to want to do good for its own sake. There is always a self-interested reason that lurks beneath the desire. Others may find her to be cynical, perhaps, but it was a truth wrested from pain and betrayal.
+
+Yet when Aliandra had dangled the possibility of revenge and closure before her, she had ignored all her decades of experience. She had given her word to a stranger and bankrupted herself on the endeavor. All the signs had been there, and yet she had chosen to ignore them. Willful ignorance. She snorted. She was no youth, barely past her fifth decade. I mean, what kind of class has skills like that?
+
+She stored a few trimmings and sprigs that she could use for her tinctures and extracts, examining the bush before moving on to the next one. With a few days to think, and consider the implications, the worry had begun to creep in. For several weeks, now, she had noticed a growing, pervasive sense of mana welling up from somewhere, influencing the growth of her plants. Stories from Basil, and his unfortunate choice of class, and various other unrelated odds-and-ends had been circling in her mind, trying to find a place to sprout.
+
+This morning, before dawn, she had finally unpacked her wooden staff from where it had lain unused in her bedroom for decades and made the journey through the sewers and down into the surprisingly vast underground forest below, following the trail of the mana. The descent into the dense domain had filled her with a fear she had not experienced in ages. Despite her relatively high level and her staff, she was still a non-combat herbalist, and one did not easily forget the unmistakable, overwhelming pressure of the dense structured mana of a dungeon. Aliandra’s domain was filled with the richness of life and nature but carried a backbone of sparkling golden arcane mana that sent prickles and jolts through her senses. Mana propagated by the Blue Mana Grass Basil had gifted her, now growing everywhere she could see, and the Common Glowcaps that dotted the vast, dark cavern.
+
+But no monsters had leaped from the shadows to maul her. Instead, she had found herself standing on the bank of a glowing blue lake filled with the tiny mushrooms she had sent Aliandra questing for. All about were trees, mushrooms, and moss in surprising varieties – including a luminous bright stand of trees with beautifully fluted trunks that glowed with the intensity of daylight.
+
+Aliandra had certainly fulfilled her end of their bargain and brought the mana-purified water to this town.
+
+Do her friends know what she is? The evidence was incontrovertible, and yet even now Eliyen’s mind struggled with the enormity of her unbelievable discovery. A sentient dungeon. She had struggled to believe it the first time Aliandra had related her conversation with Volle’s dungeon, but now she had seen it with her own eyes. Is that what a dungeon is? A class? It flew in the face of everything she had believed, everything she had been taught.
+
+Eliyen continued moving among the plants in her little garden, collecting the necessary clippings and cuttings as her mind continued to wrestle with her dilemma. Her heart told her that the Fae was trustworthy and sincere, but years of experience told her that dungeons were tricky, fickle, and infinitely dangerous.
+
+And here I am making an agreement with her. She hadn’t known that Aliandra was a dungeon when she had sent her out on her quest – she hadn’t appreciated the danger she was getting herself into.
+
+I gave my word. She swallowed uncomfortably. I won’t break it, even if she is a dungeon. Even if it meant danger to herself, her word was sacred. Going back on her promise would betray the core of who she was. It’s not like I have anything else left.
+
+If that’s even worth anything anymore. Her youth had been filled with dreams of helping people, easing their suffering by providing much-needed potions and elixirs – the fruits of her labor and skill. Life had instead handed her suffering, and hardship, and hardened her heart by leaking in vengeance, anger, and frustration. Somehow, the shiny dreams of youth had become tarnished and damaged with the passage of years and the collision with the harsh reality of the world. Here she was, in Myrin’s Keep, without enough wealth to make any difference at all, struggling to keep afloat amid the predatory taxes of the Town Watch, and the interest on her loans. Her sole achievement of the last decade had been her scheme of vengeance against Volle.
+
+Besides, I’m broke now. I need her. Her attention returned to the present and the garden that provided her with an anchor, her safe space, knowing that without securing a profitable arrangement with Aliandra, she would lose it all to her creditors.
+
+Is it possible she doesn’t know? Would a creature like her even have a conscience?
+
+The thought appeared in her mind like a startling chime, causing her to pause mid-action, her pruning tool frozen for several long seconds. It would certainly explain her friends and the lack of monsters in her forest.
+
+Not likely, she finally decided. If I were a dungeon, I would hide that knowledge aggressively. There would be mayhem, and worse, if word got out.
+
+Still, I need to make my agreement with Aliandra. She needed the mana-purified water for the potions she planned to make. It was a modest vision, but if she could secure a good agreement, Myrin’s Keep would become the source of some of the most sought-after elixirs and potions, saving lives throughout the nearby towns and cities – a small homage to her youthful dream. And she would keep her garden.
+
+“Basil,” she called out as she entered the house. “Please fetch my paper and ink.” Aliandra had said she could be contacted through the Adventurers Guild if she wasn’t otherwise available, and it was time to write the Guildmaster a note. But what should I write? She considered how she should approach it, mind racing. There was no way Vivian Ross did not know what Aliandra was. Not with that Sun Elf she keeps, and her terrifying class. Eliyen shuddered briefly. Secrets, secrets everywhere…
+
+“Yes, master,” came the dejected sound of Basil’s voice from the back room.
+
+Eliyen sighed in exasperation. Ever since she had berated the boy for choosing his class without consulting her, he had reverted to this very formal address and despondent attitude.
+
+He seems hurt. Basil was the sensitive type, and he had been so excited to be able to choose a rare herbalist class. Eliyen recalled the almost childlike joy he had had when he shared the details with her.
+
+What was he thinking? she asked herself for the thousandth time. Choosing a dungeon-related herbalist class? How would he gain experience without any combat skills to protect him in a dungeon? What did it matter that the class was rare if you couldn’t use it? It had been weeks since he had earned his class and he still had been unable to earn a single level – nothing they had tried had allowed him to gain any experience at all.
+
+She looked at his downcast eyes, and the paper and ink as he laid them out on her desk with unnecessary care and precision. Suddenly, two thoughts connected in her mind.
+
+No that’s crazy, she thought as she sat down. But the idea wouldn’t let go of her. I don’t believe in coincidences, she reminded herself – certainly not ones of this magnitude. He must have been offered the dungeon-based class because she is a dungeon herself. He had been in a dungeon, collecting mushrooms from the dungeon, and unlocked his class from the dungeon. Aliandra was the reason for this class.
+
+Perhaps we can solve two problems at once, she thought, her pen poised above the paper without writing. If I must make a contract with the devil, I may as well get something out of it. Feeding a dungeon was a sin. She couldn’t believe she was intending to do it purposefully. She shuddered softly with the thrill of fear, and … excitement?
+
+“Basil,” she began – but she stopped when she saw him twitch. She put her pen down and looked at the morose boy. Are you expecting me to reprimand you again? Was I really that harsh?
+
+“Here’s what we’re going to do,” she said, trying to keep her voice kind. He was a good kid, and he just wanted to do well, but he had certainly landed himself in a pickle with his overreach for a powerful class.
+
+“We’re going to ask Guildmaster Vivian Ross to accept you as a member of the Adventurers Guild.”
+
+“You’re… getting rid of me?” Basil’s eyes snapped up to meet hers, filled with anguish, and Eliyen felt a pang of pain and guilt. She didn’t mean to hurt him, but he was being overly sensitive.
+
+“No, you are still my apprentice,” she said, breathing deeply and channeling patience, but his face looked like she had just ripped his entire world out from under his feet.
+
+“Basil, this is not a punishment. I think this is the best way to help you with your class. If we play it correctly, it will help us close a good deal with your friend Aliandra. We can help her and us at the same time, but I won’t make you do it if you don’t want to.” The strands of the complex web were rapidly coming together in her mind, and the solution was beginning to take shape. This might just work.
+
+“I’m confused?” he muttered.
+
+“Basil, you have a powerful class,” she continued. “I’ve seen similar classes before. At the highest levels, you will be able to grow and harvest the most powerful herbs and plants, in the most dangerous locations. The problem is you cannot level up – most people with your type of class are allied with powerful organizations and use entire adventurer groups to level up. You simply don’t have access to that here. The only other options are to stagnate with an unusable class, or you will be used by those who seek to profit off you.”
+
+“Joining the Adventurers Guild would allow you to learn how to be a non-combat support class for an adventurer group. You will get training and support from the combat classes, and you will use your skills to help support them. If you do that in a dungeon, you will level up in relative safety, protected by the adventurers you are supporting.”
+
+Basil’s expression changed, his eyes finally recovering a little of his natural curiosity and interest. “Why would they want me? I can’t fight.”
+
+“A good herbalist support class in a nature dungeon can triple the return on investment for the entire group simply by what you can harvest. If you invest in your Combat Herbalism skill and study your recipes, you will be able to provide them with the ideal potions for any situation.”
+
+“Ahh,” he said, his eyes brightening.
+
+“Also, Aliandra will not be able to sell the mana-purified water to us directly because she does not have a merchant license. She can sell it to that Weldin Thriftpenny who runs the guild store, but then we will have to buy it at market price. This way, you can collect the water, take our share as an adventurer, and sell any extra to the guild store. This will be our cut of the deal – our advantage for setting it all up. We will offer Aliandra a percentage of the potions we make, and you will offer to plant some plants in her forest for her – I have a feeling she will value that more than the money.”
+
+“And they’ll agree to this?”
+
+“Vivian Ross, through the guild store and Weldin Thriftpenny, will become the main supplier for mana-purified water for this half of the continent. Especially if they undercut Volle’s prices. They’ll definitely agree.” I hope.
+
+A complex sequence of emotions played across Basil’s features, mirroring his churning thoughts, before he finally answered, “What plants should I offer?”
+
+“Here, I have some seeds. When you plant them, use your class skills to grow them in that underground forest. I think it will be good to practice in an area of dense mana.” She wasn’t about to tell Basil – the fewer people that knew about Aliandra, the longer their deal would be allowed to proceed. Besides, I don’t know if it will work. She pulled open a few drawers, pausing in thought before selecting several packages and adding them to a pile on the table in front of Basil. A little something for her, and something for us.
+
+He collected them carefully, and then his eyes widened in surprise. “Mystic Bluebells? Arc Lilies? I thought these only grow in dungeons?” The two small seed packets in his hands had cost a literal fortune, and she had been sitting on them for years, hoping to find a way to cultivate them.
+
+“I think with your skills and the density of the mana down in that cave, it has a chance of working,” Eliyen answered. And it will confirm if she is a dungeon for certain. Not to mention that if they could grow them, they would have access to incredibly potent reagents for some rare elixirs now that she had a steady source of mana-purified water. The Minor Precognition potions she could make from the Mystic Bluebells were highly sought-after tanking potions and would fetch a tidy sum if she could figure out a way of getting them to the right markets. Lesser Clairvoyance was just icing on the cake. She could obviously make Elixir of Lightning Resistance from the Arc Lilies, but it was the Rapid Striking haste potion she was betting on. Not to mention the number of things Alchemists could do with her lightning tinctures meant she would have a reliable buyer in Morwynne Fizzlebang.
+
+“But they’re so rare and expensive,” Basil objected, his hand shaking as he held the tiny packets of seeds.
+
+“I think it is worth the experiment,” Eliyen answered. If it helped unlock his class problems, that alone would be worth the cost. If she succeeded in seeding the dungeon and securing a source for these flowers, she would easily make the cost back many times over. Forcing a smile onto her lips, she joked, “Don’t lose them down a sewer, now.”
+
+He clutched the packages to his chest, “No, never!”
+
+Eliyen sighed. Even her attempt at levity had just fallen flat. “Look, you’re my apprentice and we need to find you a way to grow, Basil – literally and figuratively, if I may be so blunt. I really think this is for the best.”
+
+“Ok,” Basil said, finally relenting. “But why Common Red Poppy and Forest Daisy, then? They don’t have any use or value as ingredients.”
+
+“Aliandra admired those from my garden, so I thought it would be a nice gift.” He didn’t exactly look happy, but he was no longer actively morose. Eliyen was certain, now, that this plan would work. She just had to convince Aliandra, which should be easy, and Vivian Ross, which seemed much more challenging.
+
+She turned finally to the paper and the letter of introduction she needed to write.
+
+Ali was in good spirits as she left the guild with Basil in tow. She had spent much of the morning with Ryn, discussing books over tea and cookies, and when she had returned to the guild, Basil had been there waiting for her – a lovely surprise.
+
+The worries about negotiating a deal with Eliyen had been hanging over her head, but she hadn’t had the time to think about it much since she had returned from Naia’s dungeon. She had been so relieved when Basil had come with a generous offer already prepared. She would get a small cut of any potions or elixirs that Eliyen and Basil made with water harvested from her lake. There was a provision for Basil to plant some varieties of wildflowers in her cavern which, if they grew properly, she should eventually be able to learn. He was also on the hook to source any interesting plants for her in the future, provided the agreement was still active. It was a clause that Malika had said might be a little too vague, but Ali decided she trusted Basil enough for it to work. I already got my Blue Mana Grass from him. Mato is good, but Basil has a class for this.
+
+“And so, I joined the guild,” Basil finished explaining, proudly showing off his new guild ring. The plan was supposed to help Basil with his class problems, but he hadn’t mentioned exactly what the issue was. By his obvious anxiety when he mentioned it, and the fact that he was still level one, she had to conclude it must be a serious issue. The letter he had shown her explained that Eliyen wanted him to try his skills in the mana-rich environment of her domain – which was simultaneously a technically detailed explanation, and one that told her nothing about the problem, but Ali was happy if their agreement helped him too.
+
+Ali led him down the brand-new staircase she had made that morning using her barrier magic, replacing the rope leading down from the rockfall into the cavern. It had been a trivial matter to attach the individual barrier stairs to her domain, fixing them in place in the air. She had yet to encounter any limit to how many barriers she could make in her domain, and certainly, the glowing spiral staircase had been quite easy to construct.
+
+“The lake glows!” Basil exclaimed in awe as they arrived in the forest cavern. “What are those shining trees? And… are those new mushrooms? You have wisps here? You have to tell me everything! Uh –” spots of color leaped into his cheeks at her answering smile “– please? I don’t mean to be a bother or anything.”
+
+“You’re not.”
+
+Ali flew him down to the bank of the lake, and their excursion turned into an impromptu tour of her new light-affinity plants and the lake itself. Ali happily agreed to let Basil collect a few of her new mushrooms and some of the Glow Moss for him to experiment with later.
+
+“What will you need to plant your garden?” Ali asked. She had been overjoyed when Basil mentioned Eliyen had sent him over with an assortment of wildflower seeds. As much as she loved her trees and mushrooms, wildflowers would add a beautiful injection of color that the cavern currently lacked.
+
+“A spot that’s not in the way? Perhaps a small alcove or a sheltered spot near the water?” Basil looked around. “It might be nice to have one of those trees nearby to give it light.”
+
+Selecting a rocky outcrop near the river where it flowed into the lake, she carved out a ten-meter-wide alcove filled with sand. Her new and powerful Domain Mastery skill made the job quick and easy, and she copied her previous efforts, buttressing and fortifying the edges with terraces of rock and stone from her Grimoire imprint. Once she was done, she created a couple of Radiant Larch trees encircling the space, as if it were a natural clearing in a pine forest.
+
+A bright yellow glowing forest.
+
+Domain Mastery has reached level 7.
+
+Ooh, that will help. “How does this look, Basil?”
+
+“This is perfect,” Basil said, examining the space. “Do you have any preferences for what I grow? Eliyen made some selections she thought you’d like, but some of them are probably things she would want as an herbalist.”
+
+“Whatever you like,” Ali answered. She was just happy she would be getting some flowers. If Eliyen had selected them, they would likely be beautiful, even if they were functional too.
+
+“Well, this space will make a cozy garden,” Basil said. “I’ll do my best.” He knelt in the dirt and got to work.
+
+The packets and containers of seeds he produced were meticulously labeled. His mana gently reached out toward the ground as he began to prepare it with some of the tools he had brought. He laid out the garden, choosing several different areas for each species, and then began planting the seeds. Rather than displacing her domain, the delicate tendrils of his nature magic seemed to work with her mana to achieve their results, as if it was subtly nudging her domain to assist him.
+
+“Your magic looks very gentle,” Ali told him, earning a shy smile from the boy, as he continued his work.
+
+Finally, Basil stood up. “If this works, the plants should grow quickly. Perhaps check on them tomorrow?” Gone were any hints of anxiety and stress when he had discussed his class, replaced with what Ali thought might be cautious optimism, or even a little flicker of hope, and a happy grin at being able to create a garden for her.
+
+Before Ali escorted him back to the guild, they stopped by the lake and made sure he filled up on the mana-purified water he would need for Eliyen’s potions.
+
+***
+
+Ali woke with a start to the sound of several chimes going off, and the bright light of her Grimoire manifesting on its own.
+
+What? It had never done that before. She scrambled up to a seated position, finding that her Grimoire was simply floating in the air waiting for her, open to a blank chapter. What’s going on?
+
+Hurriedly, she checked her notifications.
+
+Imprint: Common Red Poppy completed.Imprint: Forest Daisy completed.Imprint: Mystic Bluebell (Divination) completed.Imprint: Azure Cornflower completed.Imprint: Arc Lily (Lightning) completed.Imprints merged. Imprint: Wildflower completed.
+
+How?
+
+It took a few moments for her sleep-addled brain to connect the messages to Basil’s work from yesterday. Riding a rising sense of excitement, she skipped out of her tent, summoned her floating disk, and flew off into the forest cavern to check on the garden. When she swooped in over the alcove that they had carefully prepared, the bare soil had vanished, replaced with a garden of flowers in full bloom. Each section Basil had planted had sprouted overnight, bursting in a chaotic riot of different colors, and yet all seeming to somehow fit within a grander pattern, a property of Eliyen’s garden she had so admired. There was a grassy section with white and yellow daisies and another with a sea of red poppies. A circular patch of Azure Cornflowers contrasting the red, and off to the sides, patches of softly glowing bluebells, and sparking lilies.
+
+It's beautiful! I love it!
+
+Amazed, she stared at the overnight flower garden. Her domain mana flowed through the plants as if she had created them herself. Several of the flowers were even emitting their own unique mana.
+
+Is this the result of Basil’s skills? She still felt that she didn’t fully understand her own complex magical abilities, but having her Grimoire react to add a new imprint without needing her to deconstruct anything was so far out of her expectation that she was still struggling to figure out why it had even worked. Or is it because they grew from seed in my domain?
+
+She alighted on the ground and stepped up a little closer to examine the flowers, recognizing the small patch of poppies Eliyen had in the corner near the gate, and the little yellow daisies nestled up against the oak tree she had on her path. Except, with the advantage of abundant space, her garden had many more flowers, covering a broad area with color.
+
+This is curious, she thought, stopping in front of the patch of bluebells. Her domain mana was filtering into the plants in the usual way, but it was being transformed into strange wisps of deep violet that shimmered and shifted.
+
+Mystic Bluebell – Wildflower – level 5 (Divination).
+
+Divination? Now that she saw it, she was suddenly reminded of the feel of Ryn’s class mana. Her friend had a potent arcane affinity, but she had a similar secondary affinity with divination that had fascinated Ali. She studied the swirling mana for a long while, wondering what Eliyen had been thinking to offer this flower. Divination was extraordinarily rare, and whatever this flower was, it was probably a highly sought-after crafting component.
+
+Ali walked over to the other side to examine another curiosity. Small groups of lilies had sprouted, softly glowing with the silvery-white mana of her shamans. Every now and then, tiny little arcs of electricity would flicker, coalescing and crawling along the lilies before dripping to the ground and dissipating in a shower of tiny sparks. Ouch. Pity the person who tries to pick those!
+
+Arc Lily – Wildflower – level 3 (Lightning).
+
+She pondered the unexpected imprints for a while, before opening her Grimoire and recording a new chapter for the wildflowers. It was clear that Eliyen’s selection had been masterfully chosen. She had provided a beautiful array of flowers that Ali immediately fell in love with, and she must have seen it as an opportunity to use Ali to grow something difficult that would benefit her herbalism craft at the same time.
+
+Oh – she’s using me! Massaging her stomach as the realization seemed to slither around in her gut, Ali considered the implications – it did seem in character for the scheming Wood Elf – but Ali found that she didn’t mind being used like this. I’m getting the better end of the deal. She had only wanted something pretty, and Eliyen’s selections were all perfect. The potential benefit of growing and selling the flowers was well above and beyond what she had asked for – and cooperating with Eliyen’s scheme would benefit her, too.
+
+Whatever the explanation was, they were all gorgeous and it was with a rush of excitement that she returned to their camp and began to explore her new flowers by making them fill in little gaps among the moss and trees.
+
+Basil sat bolt upright in bed with a start and no small amount of panic, the sound of his notification chimes going off constantly.
+
+He glanced around anxiously for any clue to the source of the commotion. All he found was the quiet darkness of his room in the middle of the night. Eliyen was out in the garden, as usual.
+
+Everything seems… normal?
+
+With no small amount of trepidation, he opened his notifications.
+
+Dungeon Herbalist has reached level 3 (+2).+20 attribute points.Domain Cultivation has reached level 3 (+2).Dungeon Flora has reached level 2.Adventurous Collector has reached level 2.
+
+Basil stared, stupefied as he read through the notifications nestled there in his mind-garden. The shining words gleamed brightly, and the climbing roses were already twining through the letters, blossoming with new growth and fresh buds. It took him a few moments to even realize that these were notifications about class and skill increases – his new class and skills.
+
+Did I level up? I did!
+
+A surge of happiness and excitement made his heartbeat quicken as he began to understand the significance of the notifications.
+
+I don’t have to replace my class! If that was even possible. But he was most certainly no longer stuck at level one.
+
+But… what does this even mean?
+
+His class was a dungeon-related class, that had been the entire problem in the first place, and the main reason why Eliyen was mad at him. He couldn’t level up because his class required that he earn his experience in a dungeon. The thought percolated through his still sleep-muddled mind for a few moments with a sense of rising alarm.
+
+Ali’s in danger! That cavern must be a dungeon!
+
+He sprang from his bed and rushed for the door, slamming it open. “We have to help Ali!” he shouted to the surprised Eliyen. “There’s a dungeon down there! She’s in danger!”
+
+He looked at the calm face of Eliyen as she just sat patiently – as if waiting for something. Like she did when he was being particularly dense with his studies, and he had missed something obvious.
+
+Puzzled, he paused and took a breath, and his mind caught up. He had watched Ali excavate the flower garden in minutes, and she had created all the trees around it. Stone and rock had flowed like water to her whim and design. It had been her mana he had sensed so strongly in the forest cavern.
+
+“Ali… is the dungeon?” he whispered, barely able to vocalize the thought as the terrifying realization suddenly sunk in. “That’s why you wanted me to try my skills in her forest.” Everything Eliyen had set up suddenly made sense – the offer of the wildflower garden, the choice of rare dungeon plants, joining the guild, his class…
+
+Eliyen smiled a small smile and nodded at him. “I hope you also realize why you cannot tell anyone about this?”
+
+He opened his mouth to speak and then shut it again. What will happen to her if people find out? He didn’t have to answer his own question, he knew the answer, and it wasn’t a pleasant thought.
+
+“You cannot tell her you know either.”
+
+That took him by surprise. “I trust her.” Whatever she was, Ali had been kind to him; she had even helped save him from those Goblins. He owed her his life.
+
+“She seems to be honest and straightforward,” Eliyen said. “But anyone knowing her secret is a real risk to her life. And she must know that.”
+
+Basil shifted uncomfortably. I don’t like this. The implications gave him the chills. Would Ali really kill me to keep her secret? He couldn’t imagine that from the kind Fae he knew, but then again, he hadn’t known she was a dungeon all along.
+
+Eliyen paused and gave him a significant look.
+
+“You are level three now. You have just demonstrated that an alternative path exists for your development. Allied with a cooperating dungeon, you could advance quickly. I would still recommend resetting your class in favor of a more normal one, but there is a real danger of wrecking your advancement permanently. In the end, it’s your choice. You must decide how much you trust Aliandra because you will be dependent on her to level up – at least, until you gain enough strength to stand on your own. At least as a member of the Adventurers Guild, you will eventually have other options to level with them when they delve into other… less friendly dungeons.”
+
+Her voice softened a bit. “I have never seen such cooperation between an herbalist and a dungeon. I must admit I’m curious to see what could come of it. It’s a big risk, but I will support whichever decision you make.”
+
+Eliyen is right, it is a huge risk.
+
+Basil sat with all the conflict and uncertainty in his heart for a long while. Not being able to ask Ali rankled – it made him feel like he was using his friend. However, his thoughts kept returning to the happy smile he had seen on Ali’s face when she showed him her new tree, and when he explained he could grow flowers in the garden, and he knew what his choice would be.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

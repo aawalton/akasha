@@ -1,0 +1,123 @@
+---
+id: 9c2f5671-0c40-54a2-be91-948ffeb31903
+page-type-slug: story-chapter-royal-road
+title: "Chapter 208: Archery Practice (Part 1)"
+slug: 0221-chapter-208-archery-practice-part-1
+partOf: dungeon-of-knowledge-complete
+position: 221
+ownLength: 2272
+unit: words
+ownProgress: 2272
+publishedAt: 2025-03-09
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2115303/chapter-208-archery-practice-part-1"
+royalRoadId: "2115303"
+markedReadAt: "2026-06-29T20:18:38.386Z"
+---
+
+A note on Titles – a title is awarded for an exceptional achievement, but the rules for what warrants a Title seem convoluted and somewhat arbitrary. New titles are being discovered constantly, and for most, they appear to be unique and impossible to duplicate.
+
+Earning a title is quite rare, at least until platinum rank, so most adventurers do not consider the implications, but being aware of the traps and pitfalls early is quite important. Not all titles are good. Most provide a permanent enhancement of some kind but beware of earning a despised or prohibited title – once you earn a title, you are forced to display one. If your only title is Mass Murderer or Grand Heist, you may find yourself unwelcome to enter almost any city in the kingdom until you earn a second title and switch the display to a more socially acceptable one.
+
+Some of the more common and better-understood titles are listed in Appendix G, along with the typical requirements for unlocking them.- Excerpt from The Adventurer’s Guide, Third Edition
+
+Calen left Malika in the marketplace hunting for tanners and leatherworkers who might want to buy all the dragon scales and demonic hides he had skinned and made his way to the Pathfinders Guild.
+
+“Half-human.”
+
+He frowned, deliberately trying to ignore the whisper as he passed by. He knew he stood out as an anomaly in Ciradyl – one of the very few half-elves – but the whispers, surprised glances, and occasionally hostile glares set him on edge. It was worse than Myrin’s Keep.
+
+Half-human. The elves called him that, while the humans called him ‘half-elf’. It was truly a sad commentary on both humans and elves that they universally referred to him by the race they liked the least – an outsider to both.
+
+He sighed, pushing the depressing thoughts out of his mind as he opened the door to the Pathfinders Guild. Lyeneru treated him like a person, and so did Nendir. And in fact, most of the elves he had met in Ciradyl had been polite and civil with him. He wished he could simply ignore the occasional hateful or shocked glances.
+
+He walked up to the front desk, manned by an elegantly dressed elf who looked up with a welcoming smile on his face – a smile that didn’t immediately vanish upon seeing him.
+
+“Is Lyeneru available?” he asked.
+
+“She’s out, and I don’t have information on when she will return,” the receptionist answered. “Calen Avery, right? I do have a note for you from her.” He shuffled around in a filing drawer and returned with an envelope with his name written on it in flowing elvish script.
+
+“Thank you,” he said, grateful for the friendly face and civil manner. The letter simply had a list of recommendations for training classes and lectures for him to consider whenever he arrived at the guild – which was actually quite thoughtful. His eyes scanned the list, picking an advanced archery class with Nendir which was due to start on the forest floor in a quarter of an hour.
+
+Calen flared his wings and began the long descent through the giant Ciradyl tree branches to the forest floor far below, taking great care to keep a respectful distance from the pillar of shifting light streaming upward from the Well of Souls.
+
+Like Myrin’s Keep, the majority of Ciradyl’s population had low-level or mundane classes, but with the vastly larger population of the city, there were quite a remarkable number of flying people with various forms of wings, levitating constructs, or magic platforms. But even despite the traffic, the class was rather easy to find.
+
+As he walked the final few minutes along the soft springy ground, his thoughts turned to the advanced archery class with mounting anticipation. Last time he had taken a class with Nendir he had received some clear pointers on the path toward true mastery, and Nendir had even helped him unlock his multishot advancement. Calen had been practicing every time he drew his bow, comparing his technique to his crystal-clear memory of Nendir’s efficient and elegant mastery. He had brought his old Hunter’s Bow just in case Nendir wanted a cleaner way to compare his technique improvements. His Howling Hellfire Bow was obnoxiously noisy and wreathed in hellfire most of the time he used it, making it less than ideal for receiving instruction.
+
+This must be the spot, he thought, seeing a small gathering of elves in a clearing. Two of the elves stood a little apart from the others dressed in expensive leather armor and conversing together, while the others stood around as if deferring to them. Several of the elves were higher level than he could even identify – which, given how much Explorer had progressed, surprised him.
+
+He raised his eyes and fixed his posture just like Lyeneru had suggested, and made his way over to join them, deliberately ignoring his rising anxiety. Toward the outer edge of the group, a hand waved at him, accompanied by a friendly smile. Coria. He immediately recognized Nendir’s daughter from his lessons last time and he smiled and waved back.
+
+“Are you lost, half-human?” The contempt dripping from the words spoken in heavily accented common ripped his attention away from Coria’s friendly greeting.
+
+He turned to find the two expensively dressed elves glaring at him, the taller one looking at him like he had something distasteful in his mouth, the rings on his hand making metallic clinking noises as it came to rest on the hilt of an ornate shortsword clipped to his belt. In the periphery, he saw several of the other elves shifting or looking away awkwardly.
+
+Despite the occasional looks of hostility he had received on his way here, he was ill-prepared for quite that level of direct hatred and contempt, and he stumbled to a halt, eliciting harsh laughter from the elf’s companion.
+
+“I…” he gathered himself. “I’m here for the archery class.” He had no reason to be embarrassed or afraid, he had been invited after all.
+
+“Go away, your kind is not welcome here,” the elf said, earrings of the highborn elven nobility sparkling in the dappled forest light as he turned his back on Calen.
+
+Calen was not exactly familiar with the trappings of noble rank, but this elf was displaying a substantial number of expensive earrings and jeweled piercings, signifying that he was being picked on by someone of significant social status. Someone who wore his rank like a robe and clearly expected deference, even boot-licking, from those he considered his inferiors.
+
+Sighing inwardly, he simply waited, choosing not to reply. He was rather used to awkwardness, and so he simply allowed the silence to draw out until the elf rounded on him again, anger flushing his face.
+
+“I told you to leave! Do you not know who I am?”
+
+“No, I have no idea who you are,” he answered, keeping his emotions level. Unfortunately, this elf was one of the ones he was unable to identify, and it was looking increasingly likely that he would have to abandon the lesson if he wanted to avoid provoking a fight.
+
+The anger on the elf’s face turned darker, and more furious, and he was about to say something when Nendir suddenly appeared out of nowhere in the middle of the group. Calen had not known the master archer had a stealth skill, but that was hardly unusual.
+
+“I invited him, Malanior. Stand down.”
+
+The elf wheeled, turning angrily to Nendir. “But he’s a half-human!” Spoken in Elvish, it was stated as if the mere fact of his birth was more than enough to disqualify him.
+
+“He is a Pathfinder,” Nendir responded, also in Elvish. “If you have a problem with Calen, go take it up with his mentor.”
+
+“Very well. I will have his mentor expelled from the Guild,” Malanior said.
+
+“Oh, I very much doubt that,” Nendir said, chuckling musically. It was the first time Calen saw uncertainty flicker across the haughty elf’s face. It also didn’t escape his notice that a couple of the quiet elf students cast surreptitious glances filled with curiosity in his direction. Coria hid a sudden grin beneath a rather obviously faked cough.
+
+“Enough time has been wasted,” Nendir said. “I’d like to see all of you shoot.” His brusque attitude clearly dismissed the previous conversation as he began his class in exactly the same fashion as the last one. “One at a time,” he said, pointing to a row of magical targets that had most certainly not been present when Calen had first arrived. He was suitably impressed that Nendir had been able to place them without him even noticing.
+
+One at a time, each elf stepped forward drawing powerful enchanted longbows or recurve bows and shooting several times each under the intense scrutiny of the master archer. Each student got a few personalized pointers and Calen took careful note of each issue and the remedy, grateful that Ali had taught him Elvish. Without exception they were all extremely gifted – even Malanior was way better than he was, but he wasn’t the best – that honor still went to the low-leveled Coria. It surprised him that she was still so low with such good technique, but she had only gained a single level since his last visit.
+
+When it was finally his turn, he retrieved his Hunter’s Bow and stepped forward to the mark. As he nocked an arrow, he heard Malanior snicker behind him.
+
+“He can’t even afford a real bow.” The faux whisper was pitched loud enough for him to hear easily, and the fact that it was spoken in Common just made it abundantly clear that he was being intentionally taunted.
+
+Calen tuned him out, but he couldn’t quite quell the annoyance and frustration of having someone so blatantly hate him. He released his arrow, and smoothly nocked a second one, focusing on getting his technique perfect. Fortunately, he had been practicing so often under pressure that it had become muscle memory, and he was able to execute his technique without the inner turmoil of his emotions interfering. It was certainly much easier than shooting effectively with the Mark of Prey curse and a room full of demons.
+
+“Good. You’ve been practicing,” Nendir said.
+
+“Thank you, teacher,” Calen said, deliberately answering him in Elvish, using a term of respect reserved for a master teacher or mentor.
+
+Nendir’s face showed a small smile as he smoothly swapped to Elvish without comment. “When you release your bowstring, hold your fingers a little more like this. You’re catching the string and losing a little power. Also, when you focus on your target, think about relaxing the muscles in your jaw. Coria does it well, you can use her as a reference while you try getting the hang of it.”
+
+She gave him a quick smile which turned to a frown when Malanior scowled at her, but she still turned and demonstrated her technique for him to watch. It took a few tries for him to begin to get the hang of it, and she gave him a few tips, her voice soft and pitched to not carry far.
+
+Nendir stopped by several times to guide his progress further, dispensing advice equally to everyone. Calen made a point of memorizing the feedback he offered Coria because he would likely need exactly that information as he improved.
+
+“Ok, enough target practice for today. Everyone, follow me,” Nendir said, calling a halt to the shooting as he led them all through the forest and out of the city itself.
+
+“There are a lot of boars in this area,” Nendir said, finally stopping several miles outside of the elven city. “We’re going to hunt. For those of you who have not done this before, the goal is to bring down a boar before you run, allowing me to observe you shooting under pressure. You two have done this before, go round up a couple of boars and bring them back while I explain to the rest of them. Calen, you’ll be up first.”
+
+Malanior and his companion nodded, disappearing into the woods.
+
+“The boars are around level forty, so you should be able to kill one before they reach you,” Nendir said, but his eyes briefly flickered to Calen’s Hunter’s Bow before continuing. “Don’t get yourself killed though, there is no shame in running if you have to.”
+
+Calen nodded and stepped up to the spot facing the trail, holding his bow ready. He focused on controlling his breathing and relaxing his muscles, trying to imagine he was about to fight a boss with his friends, instead of being watched and critiqued by a master.
+
+There was a dull rumbling, and the ground began to shake beneath his feet, the sound quickly growing louder and louder until the very trees were shaking. Two lithe elven forms broke from the trees, sprinting fast, and a few moments later the boars crashed onto the trail following with loud squeals and grunts as they charged. But instead of just a couple, the boars kept pouring from the forest in waves, until a horde of massive Bristletusks were bearing down on him with the momentum of a sharp-tusked avalanche.
+
+“Watch out!” Malanior yelled, and then right as he got close, he locked eyes with Calen, smirked, and both he and his companion vanished, leaving Calen to face the entire horde by himself.
+
+Calen took a deep breath to settle his racing heart and summoned a gold coin to his hand.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

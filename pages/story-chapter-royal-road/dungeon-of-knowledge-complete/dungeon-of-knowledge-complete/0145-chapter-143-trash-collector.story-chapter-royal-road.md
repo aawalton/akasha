@@ -1,0 +1,263 @@
+---
+id: d1fa0f33-de0f-5524-b50e-829c7428058f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 143: Trash Collector"
+slug: 0145-chapter-143-trash-collector
+partOf: dungeon-of-knowledge-complete
+position: 145
+ownLength: 4786
+unit: words
+ownProgress: 4786
+publishedAt: 2024-10-15
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1851491/chapter-143-trash-collector"
+royalRoadId: "1851491"
+markedReadAt: "2026-06-29T20:15:50.068Z"
+---
+
+Ali glanced up from her book as Mato stirred and finally got up. “Good morning,” she said.
+
+“Bleh,” he managed, rubbing his eyes.
+
+“The bear emerges from his hibernation,” she chirped.
+
+“Too early, Ali. Way too early.”
+
+She left him to stomp around and returned to her story. Ryn, she reflected, was a genius at finding the best books, and the tiny collection in their library had more than doubled in size already. By the time Ali was done reading, Mato was chopping up strawberries and walnuts to put on top of the oatmeal he had just made for breakfast.
+
+“What are you going to do today?” Ali asked, putting the books back on the shelf and joining him at the table.
+
+“There are still many farms that need my help, but Eliyen gave me a couple of cheap potions that increase my regeneration, and that seems to make it go faster,” he said. “What about you?”
+
+“I’m going to check the trash my Kobolds collected last night and see if there’s anything I can learn,” Ali said, wrinkling her brow as she mentally scrutinized her to-do list. “After that, I was thinking of reopening the passage down to the ruined city – the one that the Town Watch blew up. That way, I can reinforce my domain by connecting it to the top through a third area.”
+
+“Sewer first?” Mato asked.
+
+“Yup.” That’s where her industrious rogues had been dumping whatever they could lay their talons on.
+
+“I’ll walk with you,” he said. Ali helped him clean up after breakfast and then the two of them headed out while she explained the details of her trash collection scheme.
+
+“So, you’re the town’s trash collector now?” Mato said, his eyes crinkling with amusement.
+
+“I guess so,” Ali answered, wondering if anyone would notice the town mysteriously cleaning itself overnight. She was glad to have his company – she’d spent most of yesterday hunting alone, and she was sure he was beginning to feel just as lonely as she was.
+
+It was right as they approached the shrine in the forest cavern that she heard a mournful moaning and saw some shambling figures shuffling around in the light of the runes etched onto the stone.
+
+“Zombies!” Mato shouted, transforming quickly.
+
+“Again?” Ali said. “Where the heck from this time?” It took only a moment for her to connect with her Kobolds at the far south end of the cavern but, aside from a few piled-up bones and corpses, the Grasping Roots traps were clear, and her minions still lived.
+
+Ali dropped herself to the ground and let her slime and Kobolds off as she resummoned her barrier to protect herself. Using the remaining capacity, she fired off two barrier shards, slicing into the shambling undead monsters, while her Kobold mage began to fire spears of bone that easily impaled rotting flesh.
+
+Mato slammed into them with a huge crash, sending several monsters flying, and it was all over in seconds.
+
+Your group has defeated Warrior – Zombie – level 2-7 x15.
+
+Oh. No real reason for panic. Ali eyed the scattered and mauled corpses littering the Grove. “They’re obviously from the blighted forest, but how did they get in?”
+
+“I’m not sure,” Mato said. “It’s a good thing they’re all low levels.”
+
+“Give me a moment,” Ali said, and then hopped onto her barrier with a Kobold and levitated high above the trees. Using the eyes of the Kobold, she surveyed her Forest Cavern, her brow furrowing at the sight, and then flew back down.
+
+“Find anything?”
+
+“They’re everywhere again,” Ali said, “but I can’t tell where they got in. Strange.”
+
+“I can help you clear them,” Mato said, but his expression was conflicted.
+
+“No, you have a commitment to keep at the farms,” Ali said. “I can handle this.”
+
+“You sure?”
+
+“Yup.”
+
+“Thanks, Ali,” Mato said, smiling at her. “Maybe try out your new bats?”
+
+“That’s a good idea,” she said, summoning the barrier again and resuming the flight to the sewer. “Wolves can cover a lot of ground too; I might make some to help with cleanup.”
+
+Mulling over her plans for how to deal with the mess in the cavern, she deposited Mato on top of the giant trash pile that had formed overnight at the bottom of the sewer grate and bade him good luck. As she had done the day before, she worked her way down from the top, deconstructing everything her Kobolds had collected.
+
+Variant: Walnut added to Imprint: Wood.
+
+Variant: New Darian Silver Crown added to Imprint: Coin.
+
+She discarded several worthless imprints, including one for bread. For a town that was supposed to be struggling for food, it was surprising just how much of it she found in the trash pile.
+
+Just then she stopped, her blood running cold at the sight of a blackened foot poking out of the pile. Gingerly, she deconstructed the trash around it, revealing precisely what she feared: a corpse.
+
+What the fuck?
+
+Her eyes widened at the mangled remains. Something, or someone, had removed this body’s skeleton – with extreme force. The flesh had been torn apart as if something had reached in and simply ripped the bones out. Struggling to keep her breakfast down, she deconstructed the remains. This town is awful.
+
+There were no further surprises, and Ali’s stomach had settled by the time she disposed of the rest of the pile.
+
+“Ok, you two, come with me, we have work to do,” she said, directing her voice to the two hidden Kobold rogues. Both of them appeared instantly and hopped onto her barrier with her Acolyte and Bone Mage, and she flew all the way back to the shrine before landing.
+
+“Go clear the zombies,” Ali commanded as soon as she landed, and her two rogues vanished once more. Then she opened her Grimoire and began summoning monsters. She would have called her Forest Guardians to come clean up, but she hadn’t figured out how to get the behemoths up or down the library stairs. With Mato’s caution to keep strong minions nearby still fresh in her mind, Ali created a fresh Guardian instead.
+
+There’s so much ground to cover, she thought, studying the cavern. Then, she got to work. For her first choice, she summoned five Timber Wolves, and then twenty of the much cheaper Starving Wolves. As she created each one, she sent them off into the cavern with instructions to hunt down the undead and protect her domain, but before long she noticed the wolves grouping up together. Each pack formed around the nucleus of a single Timber Wolf with four or five of the smaller Starving Wolves.
+
+How does that work? They’re not even the same species. Ali studied them for a while, but finally concluded it was simply the wolves’ instincts to fight as a pack. Perhaps it’s because everything shares my mana? They feel like the same pack…
+
+Whatever the reason, the wolves worked well in their packs, so she let it go and began summoning bats. Ali started with several Giant Bats and then a whole flight of the smaller Cave Bats, sending them out into the forest to help with the cleanup, and then she put her Grimoire away.
+
+Grimoire of Summoning has reached level 29.
+
+Neat. Ok, now where did you all come from?
+
+She racked her brain for the answer, but no sudden revelations were forthcoming. If I can’t figure it out, I’ll just have to search, she decided, splitting her awareness into a few of the Timber Wolves and Giant Bats. I need the practice anyway. Sooner or later, her minions would run into the gap in her defenses, all she needed to do was keep watch.
+
+Leaving the cleanup of the zombies to her wolves and bats, she flew off to tackle the next item on her checklist. Arriving at the northwestern area of the cavern, she set herself down by the giant rockfall that now blocked the passage to the ruined city gates. Someone had detonated something powerful in here to cause so much damage, but she had planted her Living Bamboo Forest all the way to the edge and her domain already extended deep into the rock, clearly visible with Arcane Insight.
+
+She flexed her Domain Mastery skill, feeding it an enormous amount of mana, and then walked into the rockfall. All that shattered and broken rock flowed, receding from her path, withdrawing up into the walls and ceiling of the new tunnel she forged. With her Grimoire out, she augmented her domain skill with more robust stone variants, forming arches from Aether-Fused Obsidian and lining the ceiling with solid granite.
+
+She stopped for a while, deconstructing rock to refill her mana pool and fill the ground with moss and mushrooms before she resumed her slow walk, boring through the rockfall.
+
+Half an hour into her work, her tunnel broke through a jagged opening in the side wall. In an instant, the tunnel filled with low moaning as a thick press of zombies and skeletons spilled out of the dark crack.
+
+Shit! The moment she saw the undead, she switched places with her Kobold rogue and shot out of the tunnel on a hastily summoned barrier disk, heart thumping rapidly. That’s where they’re coming from!
+
+Calen had surmised that the cave system near this passage had somehow connected with the northern farms, resulting in the Kobold infestations they had to quell back when they had triggered the dungeon-break. Ali had assumed the rockfall had blocked them – but evidently not all.
+
+“Help!” she called, summoning all her nearby monsters to herself as the rogue backed out of the tunnel, overwhelmed by the sheer number of zombies spilling through. As the tremor of her Forest Guardian rushing toward her shook the ground under her feet, Ali scrambled to summon barriers to block some of them.
+
+Her Bone Mage unleashed its Bone Spears into the crush of undead flesh, filling her nostrils with the sulfurous odor of burning flame, as the first Timber Wolf arrived, howling for allies.
+
+Wait… flame? She glanced at her Kobold mage, doubting herself for a second. But the steady stream of Bone Spears was better than Identify. I don’t have a Fire Mage…
+
+She sniffed the air but caught nothing. No, it’s not me. She glanced at her Timber Wolf and suddenly understood; she was still splitting her awareness into the wolf, borrowing its senses – and the wolf, with its vastly more sensitive olfactory senses, could smell fire.
+
+She slipped her awareness into her Luminous Slime, but it couldn’t sense anything unusual using its senses. Puzzled, she checked with the wolf once again, but the acrid odor persisted, overriding even the foul stench of the press of zombie flesh.
+
+On a hunch, she swapped to a swooping Giant Bat and activated its echolocation.
+
+A dark shape sprang into her mind, hovering about fifteen meters behind and above her, entirely invisible to all her other senses.
+
+Someone is here! And not just floating about either; it was casting a spell that was somehow entirely invisible to her mana sight. The rapid-fire clicks of the bat picked out the shape of the person clearly. Hovering above their outstretched hand was a diffuse ball that had to be magic – a creation of much lower density that appeared tenuous and blurry to the senses of the bat.
+
+But after so many times of using the spell, even with the unfamiliar perception mode of echolocation, she recognized the Fireball just by the size and shape, and how it twisted, roiling above the outstretched hand. And the stench of fire in the nostrils of her Timber Wolf.
+
+Her heart pounded in her chest, but she forced herself to remain calm, deliberately facing the press of zombies and the crash of her Forest Guardian as it trampled the undead. Whatever she did, she wasn’t going to let the invisible flying mage know she had seen them. Clicking continuously with ultrasonic pulses behind her, she continued to study the spell.
+
+Now! Right when she was certain the Fireball was about to complete, she summoned a barrier with all the reaction speed and haste she could muster. Drawing heavily on her domain mana, she infused her barrier magic with as much density and strength as she could, and the instantaneous glowing globe snapped into place around the flying mage, right as the Fireball left their fingertips.
+
+The muffled detonation filled the magical sphere with sudden roiling flame and black smoke. Ali held the barrier spell in her mind, not relenting for one moment, even with the wince of referred pain from the detonation felt through the ears of her bat.
+
+You have defeated Fire Assassin – Human – level 43 (Fire / Illusion).Grove Warden has reached level 50.+10 attribute points.Barrier has reached level 37.Martial Insight has reached level 29.
+
+Panting from tension, she gripped her magic tight and stood in silence, still using echolocation to see if she was truly safe. But nothing other than her minions moved, and no sound broke the silence other than the squelching of zombie flesh under her Forest Guardian’s feet. That was far, far too close.
+
+She released the barrier and grimaced as the charred remains of a person dropped to the ground with a sickening thump.
+
+“He should have put some points into vitality,” Ali said, using draconic.
+
+“That would have been wise,” her Acolyte said, nodding in agreement. Her Bone Mage just chuckled evilly.
+
+Am I becoming desensitized? Ali thought, staring down at the corpse at her feet. It was her second human corpse today. Uncertain, she deconstructed him and his ruined gear. I just killed a person. And I’m making jokes with my minions. But while she didn’t immediately feel anything, her heart was still pounding, and she could see her hands shaking.
+
+That’s quite an assassin. A Fire Mage with invisibility and a way to cloak his mana signature. Someone had gone to quite extraordinary lengths to kill her without being noticed. Without the Timber Wolf’s keen sense of smell, and her bat’s echolocation, she would never have even seen him before the Fireball hit her in the back. Even her slime hadn’t been able to sense him flying so high in the air. She had her new magic resistance armor, courtesy of Lydia, but she wasn’t certain that would have been enough to save her.
+
+She had a million questions running through her mind. Who sent him? Why do they want to kill me? Is it just because I’m a dungeon? But most of it she already knew the answers to.
+
+Lyeneru was right. I need to get stronger.
+
+She grimaced, deconstructing the mess her Forest Guardian had made, and returned to her task of finishing the tunnel – this time keeping her Guardian closer, and her attention locked on the various senses of her minions.
+
+Domain Mastery has reached level 17.
+
+She reached the entrance hall to Dal’mohra without further incident, at least if she discounted the constant trickle of undead crawling out of the walls, but her minions took care of those. Ali breathed a sigh of relief when her domain connected with the work of her Spore Spreaders and Moss Creepers working hard among the ruins of the city. One more connection meant her domain was that much more secure.
+
+Now, zombies. Again, she could easily just close up the holes, but she just knew that was making a bigger problem for someone down the line. Undead never went away unless you took care of them explicitly.
+
+On the Dal’mohra side of the new tunnel, in the ancient entry hall, she summoned rock, reshaping the shattered boulders and stone doorway into a narrow channel, just wide enough for a Forest Guardian to traverse, and then she filled it with Grasping Roots runic circles. It’s a good thing these traps don’t take mana.
+
+Variant: Lavaforged Granite added to Imprint: Stone.
+
+Oh, nice! Heat-resistant rock. It seemed that the ancient city gates had been well forged.
+
+On the Forest Cavern side, she had a little more work to do. First, she lowered the ground and raised rock walls on either side, making a ravine or channel that extended out into her Living Bamboo Forest before flattening out. She filled in some more bamboo, making the forest a bit denser and then summoned some Bamboo Crawlers to hide there. Along the banks of her constructed ravine, she planted Luminous Glowcaps and Radiant Larches causing the entire length of it to light up like the main street during the Harvest Festival. At the bottom of the ravine, she created several more traps and then stood back to admire her handiwork.
+
+Wait, zombies are stupid… Most of the lesser undead were not known for their dizzying intellect – how smart could a skeleton or a zombie really be with an empty hole or rotting mush for brains, respectively. Ali spent a good fifteen minutes digging three-meter-deep holes in the ground with Domain Mastery. Watch out, they don’t call me The Dungeon of Obvious Traps for nothing! You might trip over a rock and stub your toe!
+
+Domain Mastery has reached level 19 (+2).
+
+It didn’t take long before a zombie appeared to run her gauntlet. To her utter amazement, it fell into the first pit trap. It took three tries before one got as far as the first Grasping Roots before it got caught. The sniper Bamboo Crawlers immediately opened up, peppering it with thorny darts dripping with poison. It was not perhaps the most efficient match-up, given that undead were typically immune to poison, but the noise attracted the bats and the wolves, and in short order the zombie was dead.
+
+And everything is cheap.
+
+With the zombie incursion taken care of – or at least, managed – and her domain reinforced, Ali changed tack, planting patches of peacebloom throughout the Living Bamboo Forest on her way back to the Grove. When she reached the Grove, she planted more around the shrine. She decided she loved the little flowers and the ambiance they provided. Besides, they reminded her of Malika.
+
+They really do have a lovely scent. I wonder what Malika’s up to right now?
+
+Malika sat gingerly on the bench beside Rezan, her body aching and sore, and studied Hala and Basir circling each other in the ring. It was not that she was hurt – her own healing had taken care of that in short order – but her quick bouts against Hala and her lightning magic always left her feeling ragged and smashed. The girl was simply too fast and powerful for her to land a single hit.
+
+She glanced at Rezan sitting calmly beside her. No, I’m too slow. I need to get faster.
+
+“Begin,” Rezan instructed, and Malika glued her eyes to the match, studying the explosion of hasted movement from Hala and the deliberately solid stance Basir employed. She used both her eyes and her Soul Sight – now having grown her perception skill’s spherical range to cover most of the ring. Part of her difficulty with Hala was that so many of her most powerful attacks used mana and, even though she was making enormous progress on anticipating attacks with her Soul Sight, she was still blind to mana itself. This time, she focused on Basir instead – somehow the bulky, heavier rock mage had figured out how to anticipate Hala’s much faster attacks, and she wanted to unravel the secret.
+
+Rezan, of course, insisted it was simply practice. He sat calmly beside her, and she expanded her awareness to include his energy as he had taught. It did no good to focus narrowly during combat and miss the surprise attack, so her awareness needed to be trained to register everything her perception skills showed her. It was tricky to achieve even just sitting here on the rough-hewn wooden bench, let alone in the cut and thrust of a tough match. She found it no problem during meditation, but everything was harder when you were being punched in the face.
+
+She held both Hala and Basir in her awareness as they flickered and surged with the energy of their skills and added the Elder’s overwhelming presence beside her. In her mundane vision, he was quiet and composed, but her Soul Sight revealed an unbelievable well of energy that flowed through his body, pulsing with exquisitely controlled power even when he sat at rest. It was awe-inspiring that a human could achieve such a state.
+
+Before she had unlocked Soul Sight, she would never have been able to perceive the vast gulf between herself and the Elder, and yet that thought did not fill her with despair or discouragement. She had taken the first step. She could see the path now – the path revealed by the translation of the ancient text Rezan had made her study, and that sparked a prickle of excitement for what she might become.
+
+She continued breathing quietly, calmly expanding her awareness through the full extent of her Soul Sight, including the handful of students and spectators who watched Rezan’s disciples sparring. Basir used a defensive skill, his stamina shaping within him in a distinct form that Malika was learning to read, but in the corner of her awareness, like a tiny echo, she saw the same pattern duplicated. Surprise skittered across her deep pool of calmness, and she turned to see Sabri emulating Basir’s stance while keeping her utmost attention fixed on the fight. In the ring, Hala’s energy surged as she blurred into action, and beside her under the tree, Sabri’s form shifted. Malika’s breath caught at the echo of her father’s defensive footwork, the drills she had practiced for hours every day, and the foundation of her Divine Step skill.
+
+No, not his… she copied me.
+
+Hala’s lightning attack smashed into Basir’s chest, sending chunks of his rock armor flying into the air. He had dodged the wrong way.
+
+But Sabri had not. Sabri’s unstructured nascent energy was clean and pure, and her movement almost perfect – although without skills to back it up, she lacked any significant power or speed. But she had somehow seen through Hala’s incredible speed, reacting without any perception or haste skills of her own, and had created the forms that would have moved her into a perfect striking position if only she had access to Divine Step.
+
+No, she didn’t react, Malika realized in that instant. Sabri had moved before Hala had even begun to activate her skill. Which meant she had known which way Hala would move before she even started. She stared at the classless girl, her amazement growing as she realized that Sabri had ‘merely’ predicted Hala’s movement with her knowledge and intuition, entirely unaided by magic or skills. Not to mention that she had learned her father’s footwork by simply observing Malika’s bouts in the ring.
+
+“Do you see?” Rezan said calmly, and if Malika were being uncharitable, she might have said a little smugly. “Do you understand now why I say you need more practice?”
+
+Malika looked up to see Rezan watching her studying Sabri. Her time in Kezda under the Elder’s tutelage had been short and intense, and he had been consistently harsh on her for overreliance on skills. He had even forbidden her from complaining that Hala was too strong, frustratingly insisting that she was just not good enough to win.
+
+And now… “Yes, I see it now,” she answered soberly. If it had been Sabri in the ring instead of Basir, with nothing more than Malika’s own Divine Step, she would have avoided Hala’s potent strike and landed a hit on the lightning-enchanted monk – something Malika had yet to achieve.
+
+“Good,” Rezan said after watching her for a moment, a ghost of a smile creasing his lips. “You have learned the most important lesson I have to teach you.”
+
+“Thank you, Elder,” she answered, bowing her head briefly to acknowledge his teaching and sat in silence, just watching Sabri emulate the two powerful fighters in the ring.
+
+“She’s a genius,” Malika finally said, after watching her adapt the footwork to her copied impression of Basir’s fighting style.
+
+“She studies every fight, and she practices hard,” Rezan corrected.
+
+“She’s going to be an amazing fighter when she earns her class,” Malika said, wondering what kind of class might best suit the dirty, overly skinny girl who seemed to love martial arts as much as she did.
+
+This time the wince flickering across Rezan’s features was obvious, and Malika’s curiosity would not be denied.
+
+“What is wrong, Elder? That’s the second time you reacted when I spoke of Sabri. Is there something wrong with her?”
+
+“No, there is nothing wrong with her,” he said, and fell silent again, but before Malika could muster the courage to push him on it, he spoke again. “She suffers from the misfortune of being born to a poor family, in a poor village, to a culture in decline. I would help if I had the resources to do so, because wasting potential such as hers is a tragedy, but the reality is most of Ahn Khen’s youth are forced to accept the natural class they are offered. No one can afford the thirty-gold fee to travel to Vertias and use the shrine there. She will be offered Laborer or Farmer for her class because that is what she helps her mother with, just for them to scrape by every day.”
+
+The injustice of it ignited the burning fires of fury within Malika, shattering the calm of her meditative awareness in an instant. She had faced exactly this inequality in Myrin’s Keep. Never, never had she expected to see it here in Kezda – in the heart of the Ahn Khen lands! The wealthy controlled the shrines, granting access only to the wealthy, growing the divide between those who had the opportunities provided by powerful classes and those forced into lives of labor and servitude.
+
+Why shouldn’t she be able to choose the class she loved? Malika wasn’t quite sure if she meant herself or Sabri. She had been fortunate indeed to meet Ali and have access to her powerful shrine, but Sabri would never have that opportunity, and her immense potential would be dashed forever upon the rocky shores of poverty.
+
+I’m sorry, Ali, she thought. Ali’s secret was not hers to share, but she couldn’t let such a travesty go without trying to fix it. Besides, Rezan was too perceptive to keep the secret from him for long.
+
+“My friend Ali has a shrine, and I’m certain she will let Sabri use it for free,” Malika said.
+
+“The Fae girl?” Rezan asked, a ripple pulsing through his energy as he snapped his head to stare at her in surprise. “How does she have a shrine?”
+
+“She is a… a dungeon,” Malika answered, her voice cracking despite her attempt at calm. Please forgive me, Ali. Much of Myrin’s Keep already knew of Ali’s class, but it was not her place to be sharing it. What else can I do? She did not relish the conversation she would have when she returned, she just hoped Ali would understand.
+
+For the first time since she had met the Elder, she saw him speechless.
+
+“You keep dangerous friends. I will not allow Sabri in a dungeon,” he finally said, a frown of disapproval creasing his face.
+
+“Elder, I beg you to reconsider. I know it is hard to believe, but you have met Ali, she is a good person. I owe her my life many times over, and I owe her for the class I have. Without her shrine I would be a Thief or a Pickpocket. Her shrine is extremely powerful – it offered me six alternate class choices and the option to unlock my soul magic affinity. Is the dungeon prejudice worth wasting the potential of someone like Sabri?”
+
+“Thank you, Malika. I can see your heart believes this is the right path, even if it is with a dungeon. I think you may be blinded by your affection for this Aliandra and willfully ignoring the danger.” His words were polite, but his face bore a frown of worry.
+
+Malika’s fragile hope guttered and died. That sounded very much like a no – and even a warning that she was wrong to trust Ali.
+
+But he doesn’t know Ali the way I do.
+
+Malika fell into an awkward silence, studying Sabri as she practiced a new form under the tree, a new sadness filling her heart.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

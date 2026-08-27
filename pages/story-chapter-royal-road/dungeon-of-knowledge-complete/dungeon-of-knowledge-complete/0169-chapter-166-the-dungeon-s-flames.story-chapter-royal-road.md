@@ -1,0 +1,263 @@
+---
+id: 21937181-04b6-50e8-9c68-549b64803af7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 166: The Dungeon’s Flames "
+slug: 0169-chapter-166-the-dungeon-s-flames
+partOf: dungeon-of-knowledge-complete
+position: 169
+ownLength: 4353
+unit: words
+ownProgress: 4353
+publishedAt: 2024-12-05
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1941332/chapter-166-the-dungeons-flames"
+royalRoadId: "1941332"
+markedReadAt: "2026-06-29T20:16:45.006Z"
+---
+
+“Is it just me, or is this getting a little easier?” Ali asked. It took only half an hour to fight through the denizens of the jungle to the entrance of the Emberforge Mines, but she was already sweaty, and her Tailored Cotton Clothing was drenched.
+
+“There are fewer monsters,” Calen observed. Either their earlier efforts had had a lasting impact, or the presence of Ali’s new boss, and the constant stream of fire elementals spewing forth from the dungeon, was thinning out the monster population.
+
+As Ali’s minions, barriers, and runic circles came into view in front of the tunnel of dense rock, she had her answer. Strewn across the blackened and scorched ground fanning out from the entrance were the corpses of dozens of elementals; Shards of Flame, Coruscant Rays, Glimmer Shards, and even the occasional Radiant Brawler. The blackened and charred heaps of two Forest Guardians spoke to the sheer power of the fire magic used against a vulnerable monster.
+
+Out amid the fissures of molten rock that radiated from the entrance, her goblins and kobolds were fighting. A mob of summoned goblins hooted and hollered from behind the strategic barrier emplacements Ali had created, slinging stones or firing arrows – although a far larger number of them lay burnt and smoking among the corpses. The battered Hobgoblin stood front-and-center tanking a blazing Shard of Flame while the archers and mages shot it from afar.
+
+“That Hob is doing an impressive job,” Mato marveled.
+
+Ali connected to the senses of her Hobgoblin boss and the two Storm Shaman minions using Martial Insight, getting a sudden front-row seat to a battle with a raging monster of flame. Her Hob barked orders, sharp and staccato. The shamans both fired their lightning magic, flanking the elemental using a simple but effective group strategy. Directly connected with the boss, Ali felt the surge of mana and saw the reaction from her domain. A fresh level-three goblin Skirmisher appeared out in the open, only to immediately eat a Firebolt from a radial volley and collapse with a scorching hole through its chest. Mana surged again, and again in quick succession, producing two more low-level goblins and a mid-range archer before the Hobgoblin bottomed out her nearly empty mana pool and stopped summoning.
+
+“It’s running on empty,” Ali said.
+
+“Decent strategy, I think,” Calen said. “Summon as many monsters as possible and then just top them up as mana regenerates.”
+
+“Seems like it,” she answered. It made even more sense with the cumulative bonuses they all received for having a bigger group.
+
+The Hobgoblin snapped an order and the goblin hunters in the back fired arrows. The kobold archers took their cue, just a few moments delayed. The intense heat from the Shard of Flame billowed outward, scorching her red goblin skin, and Ali had to catch herself from flinching back, mentally reminding herself that it was her minion’s senses, not her own body. It was a good thing indeed that these monsters were just constructs of her mana.
+
+Calen’s arrows of pure light began to whip past her shaman’s ears, slamming into the elemental with pinpoint accuracy. A roar told her Mato had joined in, and then Malika was there too. It didn’t take long to burn it down.
+
+Your group has defeated Shard of Flame – Elemental – level 38 (Fire)Martial Insight has reached level 32.
+
+Ooh, nice. Ever since she had learned that she could level her skills remotely with her boss, Ali had been spending lots of time observing the fights with Martial Insight. Already she could feel an intuitive understanding of the Hobgoblin’s group fighting tactics and she was beginning to unravel some of the nuances of how they used timing and flanking.
+
+“Good work,” Calen said as the noise of battle faded and the Hobgoblin returned to a restful vigil back behind the barriers.
+
+Ali scanned through the minions and then directed her Hobgoblin to stand in the Inspiration circle and recover her mana quicker.
+
+The battlefield was a disaster zone, but it had not grown to encroach further into the jungle since she had placed her boss here to guard it. But now she needed to change strategies. She had new armor for the shamans and she would not be able to enter the mine with minions that were constrained to her domain.
+
+And I don’t have the mana to support both.
+
+“I need a few minutes to prepare,” Ali said, considering her options. First, she deconstructed most of the corpses in the area.
+
+Variant: Shard of Flame added to Imprint: Elemental.
+
+Her Grimoire continued to flicker with updated runic fragments for several other variants as she deconstructed the corpses. Malika followed her around, collecting the Lesser Essence of Flame, and then settled near the entrance of the tunnel just within the fire domain to meditate, the pulses of her healing magic flickering with consistent regularity as she burned.
+
+“Maniac,” Mato muttered, observing her.
+
+“You’re one to talk,” Calen chuckled.
+
+When they had tried to enter the mine last time, the sheer amount of fire damage from the domain itself likely meant that none of her lower-level minions would survive. First, though, she needed mana. Quickly she unsummoned all the extra monsters in the area other than her Hobgoblin boss and her assigned minions, grimacing at how little that freed up.
+
+“I don’t have much mana,” Ali said. She had no idea how to remove monsters from her domain, other than unsummoning them, but she was certain other dungeons simply rescinded their mana reservations, ejecting them as a dungeon-break – which she was not comfortable doing. “What do you think I should make?”
+
+“I don’t suppose having the boss summon a horde for us would work?” Mato asked.
+
+“Too low-level,” Ali said. “They’ll just die in there.”
+
+“Do you have anything with ice magic?” Calen asked.
+
+“Nope,” Ali said.
+
+“Fire resistance?”
+
+“Just the kobolds,” Ali said. “I think they’re the best choice. That and a few goblins, perhaps?” She glanced at her Hobgoblin boss and then began to summon.
+
+Warrior – Hobgoblin – level 41Storm Shaman – Goblin – level 18-19 (Lightning) x3
+
+Her new Hobgoblin had a more angular face and some impressive scars across his chest. Without the potent buffs from her domain and only the three shamans, he was unlikely to be nearly as effective, but Ali didn’t have a lot of options. At least Thuli had finished the chainmail shirts she had commissioned. Ali wielded her Grimoire and created three sets, much to the shamans’ delight.
+
+Chain Shirt of Fire Resistance – level 18Armor: 151Resistance: 151+19 Endurance+17% to resistance against Fire damageRequirements: Strength 36, Wisdom 36Body – Chainmail – Fireforged Steel
+
+“Thuli did a great job with those,” Calen said.
+
+“Yes,” Ali agreed. Granted it had taken a lot of essences, but it seemed they had a large supply now, if what Malika had just picked up was anything to go by. Also, Mato looked amazingly scary in his Bear Form with the banded plate armor.
+
+Ali turned the pages and began summoning kobolds.
+
+Acolyte of Azryet – Kobold – level 22 x4Mage – Kobold – level 21 (Bone) x3Archer – Kobold – level 20 x3Rogue – Kobold – level 22-24 x3
+
+She fed the extra mana into her customization, encouraging her magic to create both the archers and rogues with the Studded Jackets Calen had commissioned in Ciradyl. She only had to fix two incorrect summons, and that was only because her Grimoire made kobolds below level twenty twice – the minimum level to wear the armor.
+
+“I just hope the mages and Acolytes don’t get hit too much,” Ali said. Each of them sported a duplicate of Lydia’s work providing general magic resistance in addition to their natural racial resistance to fire, but they all had lower health totals which wouldn’t help.
+
+“Don’t you have some interesting slimes?” Calen asked.
+
+“I do, what are you thinking?”
+
+“Let’s test them out. Those steam slimes might be resistant to heat,” he said.
+
+“Good idea,” Ali answered. “I have water too, maybe that works against fire…”
+
+Brine Ooze – Ooze – level 18-21 (Water) x2Scalding Slime – Ooze – level 20-22 (Water) x2
+
+Without the benefit of wearing armor, she wasn’t quite certain if they would be able to survive – although they did have a higher attribute progression than the kobolds or the goblins. As to whether fifteen points per level would make enough of a difference, Ali wasn’t sure.
+
+“Ok, I’m ready,” she announced.
+
+“You’re keeping the boss?” Malika asked, getting up and joining them.
+
+“It’s a nice backup plan in case we have to run,” Ali admitted.
+
+“I’ll go try to pull them out one at a time,” Calen said. “Wait here.”
+
+He vanished from all Ali’s senses, even the slimes. He had explained it to her before – he was using the combination of two stealth skills – one that cloaked his image from vision, and one that cloaked his movement, sound, and tracks. Without any sound, her slimes couldn’t see him, and he was careful to not use much mana. In fact, he was just about as difficult to detect as the fire assassin illusionist who had been sent to kill her.
+
+Before she knew it, Calen was sprinting back out of the cavern, steam rising from his body in clouds and his skin blistered and reddened by the fire within. Hot on his heels was a burning angry shape, blasting a constant stream of firebolts while he dodged rapidly back and forth.
+
+“Heal him,” she instructed, and her Acolytes sprang into action. With their Healer’s Sight, she could tell just how much damage he had taken in just the few minutes he had been gone – even with his brand-new jacket improving his resistances. All her minions waited at the ready behind the barriers.
+
+Mato roared and charged in, taking the role of tank. Malika joined him in a flash.
+
+“Go,” Ali instructed, and her hob, shamans, and rogues all sprinted into the fire, but Ali kept her Hobgoblin boss back for now. Immediately her Acolytes reacted by pumping out heals, but to her relief, they didn’t instantly go for their Devotion powerup skill. Carefully, she studied the fight.
+
+Beyond the fire aura, her ranged minions were only taking occasional blasts of firebolts, but inside, everyone was burning. Surprisingly, Mato needed no additional healing – the combination of his brand-new armor and his own Brutal Restoration was keeping him comfortably topped up. She could even tell whenever he used his potent Bestial Combat support skill because his health dipped each time he used it, slowly recovering over time afterward. Her shamans and rogues needed constant healing though, even with their new armor, and Malika and her Hobgoblin were taking far more damage than everyone else – neither wearing any fire resistance gear.
+
+“I’ve seen enough,” Ali said. “Go finish it.”
+
+“Yes mistress,” her boss said, and instantly the domain mana around her surged as she began summoning goblins to throw into the fray.
+
+Against their preparation and numbers, the Shard of Flame fell quickly.
+
+“How’s it look?” Calen asked.
+
+“I think it’s ok,” Ali said. “We need to check with the domain mana adding damage. The Hobgoblin and Malika are taking a lot of damage, and it will be worse in that furnace down there.”
+
+“I can heal myself,” Malika said. “And I can look out for the goblin.”
+
+“Give Calen a Restoration,” Ali told her nearest Acolyte as Calen prepared to enter the tunnel once more. Knowing her minions’ abilities had drastically improved her ability to optimize her forces. Restoration healed over time, and it was perfect for loading him up with a buff that would keep him safe while he was hunting for their next target. At least for the first thirty seconds.
+
+They kept at it for about an hour, Calen pulling the elementals out of the cave beyond the tunnel one at a time for them to kill in the safer environment of the jungle itself. After each one was killed, she deconstructed it for mana and Malika collected the occasional essences they dropped.
+
+“Resistance definitely made that easier. Mato, your armor is fantastic,” Malika said as they took a short break once Calen declared the cavern cleared.
+
+“Agreed,” Ali said. While the fights required constant healing, her minions were never in any real danger – and Mato’s health barely budged at all.
+
+“Yes, Thuli did great with this,” Mato said, grinning broadly.
+
+“I wish I could wear resistance,” Malika complained. And it was true that her health had been the most volatile, but she had her own healing to help mitigate the issue, and with only two to worry about; Malika and the Hobgoblin, Ali was far less worried about the sheer amount of damage they had experienced the first time.
+
+“Time to go in?” Mato was as eager as ever to get going, but Ali had to admit she was enjoying the challenge of managing her minions in battle once again.
+
+The dungeon’s domain had receded from the jungle, leaving just the powerful heat of ambient unbound fire mana leaking from the fissures and the tunnel entrance, but as they made their way through, the heat began to grow until it was radiating off the very rock walls. All her sweat vanished, and her skin slowly began to redden from the scalding air. As soon as she stepped across the threshold, and into the now-deserted cavern, everyone caught fire from the raw intensity of the dungeon’s domain mana.
+
+This was why she had made four Acolytes, and they immediately busied themselves loading up everyone with a Restoration that would heal them for thirty seconds before needing to be refreshed. She didn’t exactly need all four to do this job, but if they were going to fight too, they would probably need the extra healing, and the ability to take turns recovering their mana. It wasn’t like the dungeon was going to give them a break.
+
+The cavern itself appeared devoid of life, barren and scalding hot. Fissures ran through the rocky floor and walls, leaking lava in pools and rivulets that had to be avoided as they walked. It was wide, with a lowish roof of jagged protruding stone, marked up with scrapes and gouges, the legacy of the ancient miners who had excavated this place, tracking veins of ore or carts of gems and valuable stone. The lava and the ruddy glow lent a soft ambient light, hot enough to cause heat shimmers to ripple through the air.
+
+“This is uncomfortable,” Mato observed, coughing a little.
+
+“It’s hard to even breathe,” Malika agreed.
+
+“That’s because your lungs are burning,” Calen unhelpfully pointed out.
+
+“Well, that’s a pleasant thought,” Ali said sarcastically. It was certainly a good thing they had abundant healing magic. “Where do we go?”
+
+“There’s another tunnel back there,” Calen pointed toward the shadowed section at the back of the cavern.
+
+The tunnel was broad and wound its way ever downward, the walls and floors bearing the marks of the ancient miners as it meandered, following whatever vein of ore they had harvested. Sections of the tunnel were remarkably smooth, as if someone had suddenly decided to employ a designer instead of a pickaxe – clear signs of the work of earth mages. But the tunnels carried the weight of ages. Half melted rubble and slag piled up in all the nooks and crevices, deeper than her waist in some places. Many of the side passages had caved in or been eroded away by the slowly dripping lava that seeped from the ever-present fissures in the rock.
+
+It had been so long since she had taken this passage, and even that had been only one time, that she simply had no recollection of it. Besides that, it now flowed with rivulets of lava which were only present because of the dungeon’s mana. As they carefully picked their way around the treacherous footing, she was ironically reminded of her own sewer with its brick tunnels and flowing sewer water – now purified by her mana and mushrooms. Except these tunnels had lava instead of water, and nothing grew here.
+
+“Side passage, one elemental,” Calen called out from up front.
+
+Ali turned into the side tunnel, finding that it opened up into a small chamber, meticulously carved out of the solid rock by the ancient miners. In the far corner was a dark hole leading downward, presumably a shaft to a lower excavation, now a sink for a ‘lavafall’ – a brilliant cascade of glowing molten rock that poured down into the depths from the river that wound its way through the chamber.
+
+Shard of Flame – Elemental – level 41 (Fire)
+
+This one would be a challenge to fight – she could see its flame aura filling the entire chamber.
+
+“Mato? Can you tank it over by the lava river?” she asked.
+
+“Yup, sure thing,” he answered, sounding quite jovial about the whole thing, especially considering he would be the one sticking his face in the fire. But he was clearly in his element, so to speak, at least the fighting part – not necessarily the burning part.
+
+He charged it, smacking it with his paw, and drawing it back away from the group. Ali had to react quickly to position her healers close enough to reach him, but remaining out of the range of the flame aura.
+
+“Attack,” she said, sending in the rest of her minions, keeping an eye on her monsters and the Shard of Flame’s health. It took all of ten seconds before she noticed the first problem. “Fuck,” she muttered and pulled her Scalding Slimes out of the fight.
+
+“No good?” Calen asked.
+
+“They’re not taking much damage,” Ali said. “But it seems that steam is close enough to fire to not do any damage either. They may actually be healing it a little, I can’t tell.”
+
+Firebolt volleys exploded outward in devastating sprays from the Shard of Flame, striking the burning figures in the chamber. Mana flickered continuously as the healers rotated through their entire party, topping everyone up.
+
+Ali was just about to fire off a shard of barrier magic when something surged out of the river of lava. A great blob lashed across the jagged stone and slapped Mato in the face. And then another stretched out and yanked one of the kobold rogues into the river, dragging it under.
+
+A giant, black-speckled orange glowing glob burst from the river, sloshing itself across Mato’s back, and immediately began enveloping his body. Even with his powerful regenerative magic and the fire resistance provided by his new armor, his health began to plummet.
+
+“Adds!” Calen announced.
+
+“Devotion, keep him alive,” Ali instructed.
+
+“Yes, Ancient Mistress.” The kobold’s glowing pillar of light filled the room with lambent holy radiance as she poured her healing into Mato’s body while he struggled with the animate lava and the Shard of Flame.
+
+A sudden snap in Ali’s mind told her that her rogue had perished somewhere deep under lava, and the river surged again as a second blob splashed its way ashore, leaving a trail of molten rock on the ground behind it.
+
+Lava Lurker – Ooze – level 37-39 (Lava) x2
+
+“Lava oozes,” Ali said, immediately recognizing the name from the blobby corpse of searing lava Mato had brought back with him when he returned with Basil from their fire plant expedition. And with that realization came the possibility that this Emberforge Mine dungeon had not been as trapped as she had thought. Something for later.
+
+One of her mages erected a wall of bone, blocking the ooze from reaching them, but its body simply blackened and incinerated pieces of the bone wall and it oozed its way through the small gaps, reforming like a relentless puddle of viscous, super-heated goo.
+
+“The oozes are healing the elemental,” Ali yelled, suddenly realizing that the two great blobs of lava were producing enough heat from their bodies and the trails of lava they left behind to trigger the Shard of Flame’s fire absorption. Presumably lava affinity was close enough to fire that it counted. Whatever it was, the Shard of Flame was almost back to full health.
+
+“Swap attacks to the oozes. The left one,” Calen called their target, synchronizing their efforts. “I’ll try to pull the other one off of Mato.”
+
+Ali redirected all her minions, and as she did, the pillar of holy magic faded from her acolyte. Suddenly, the health of her Hobgoblin and Malika both began to drop precipitously.
+
+“Devotion!” she called out desperately, but she was too late to save the Hobgoblin who perished under the weight of the ooze of lava. The ooze mindlessly ignored everything hitting it and finished enveloping its meal. Malika saved herself with her own healing spell, but as soon as the kobold lit the room with its empowered magic, everyone’s health stabilized once more.
+
+“We have to kill it fast,” Ali said, pouring mana she really couldn’t afford to waste into shards of barrier magic, firing them into the ooze in the hopes of accelerating its death and relieving the pressure from her healers.
+
+The whole chamber suddenly filled with brilliant light as Calen clearly came to the same conclusion she had. An intense hail of radiant arrows of pure light mana filled the air, slamming into both oozes simultaneously, somehow managing to accurately fire two arrows at the same time.
+
+The ooze which had just made a meal of her Hobgoblin turned to attack one of her shamans, its health slowly ticking up, presumably from having just eaten, but the one that had been trying to consume Mato peeled itself off him and tried to slither-crawl its way toward Calen. In an instant Mato whirled and struck, slamming his paw down through the ooze, spraying molten lava into the air in a sizzling cascade. Tough roots sprang from the ground to grapple with the monster, instantly set alight by the lava and the fire of the domain. The ooze ignored them, slipping its body between the roots and flowing past as if it hadn’t even noticed. But Mato’s strike had taken its toll, and all three of her shamans finished it off with a triple blast of lightning, enhanced by their vulnerability curse.
+
+But they were by no means out of the woods. Malika flickered with constant healing magic as she hammered the lava monster with her bare fists, each punch burning away the flesh on her fists, only to be healed again by her magic for the next punch. Ali could only imagine how much pain she was in, but somehow Malika seemed calm, almost serene, dancing with grace and balance around the clumsy ooze.
+
+Ali retaliated at once, sending in her Brine Oozes, but both of them lasted as long as a few droplets of water tossed into a scalding pan.
+
+Calen’s arrows ceased splitting into two, focusing on the remaining ooze, and its health began to fall rapidly. The only problem was that they didn’t exactly have a tank for it, and it was bigger than her shamans. It began enveloping one of them, lava flowing rapidly around the goblin’s body, its touch incinerating flesh and muscle. But the shaman did not falter, igniting both her shield and sword with lightning enchantments even as she was being consumed. She summoned a Lightning Nova totem to her hand and shoved it into the center of the ooze’s body, following up with a potent Lightning Bolt right before she died.
+
+Ali slashed again and again with her barrier shards, working desperately to whittle its health down and simultaneously corral the monster. Finally, with Malika’s flurry of punches, the last few seconds of Calen’s righteous fury, and the full force of the remainder of her minions, they defeated it, right before it could finish consuming the shaman’s corpse.
+
+“You three heal, you use your prayer, and you drink this,” Ali instructed, handing the nearest Acolyte a mana potion. They were already running low, and it would do nobody any good to run out of healing while they were down here. Most of her force was quite low, some of them even below half health already, but with the two lava oozes down, the pressure eased noticeably, and the healers began to get everything back under control.
+
+Finally, after what seemed like ages, the fire elemental imploded, dropping its flaming core to the ground, along with a Lesser Essence of Flame, and Ali breathed a sigh of relief.
+
+“Well, that was insane,” Malika said. “I’m almost down to half stamina.”
+
+“Half?” Ali gasped. She could scarcely believe it. Among the insanity of fire and lava damage, Malika had been healing more or less continuously, keeping herself alive, and even supplementing Mato’s healing while they fought the Lava Lurkers. And she still has half her resources.
+
+“Yep, they took a lot out of me.”
+
+Ali glanced forlornly at her own nearly empty mana pool. Granted she was supporting an entire dungeon with more than seven thousand mana, but that left her with just a little over a thousand mana to fight with. It was just more than a little unfair – if she could have brought her bosses in here, the fights would be more than a little different.
+
+Although my bosses would be a terrible choice for this dungeon. Her guardian was vulnerable to fire – it had more than thirty thousand health, but still, this was a fire and lava dungeon. And her Kobold warrior was only level ten. The Hobgoblin would be the best choice, but she didn’t have any fire resistance yet.
+
+“At least Thuli will like these,” Malika said, storing the essence.
+
+While Malika sat to meditate – noticeably choosing to sit in a small pool of lava – Ali set to the task of recovering her mana.
+
+Variant: Lava Lurker added to Imprint: Ooze.
+
+I wonder if Naia would like these?
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,303 @@
+---
+id: 11d1f6f8-fca9-58bc-a272-c0737fe5358a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 61: Picking a Fight"
+slug: 0061-chapter-61-picking-a-fight
+partOf: dungeon-of-knowledge-complete
+position: 61
+ownLength: 5405
+unit: words
+ownProgress: 5405
+publishedAt: 2024-04-18
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1601061/chapter-61-picking-a-fight"
+royalRoadId: "1601061"
+markedReadAt: "2026-06-29T20:12:58.548Z"
+---
+
+When considering your attribute investments, do not ignore perception. Adventurers often find themselves stuck in situations where there is no light, or pitted against enemies that have ways to obscure their presence. Being able to actually see your enemy is a bonus no adventurer can afford to pass up. Preferably, before they see you. Investing in perception will increase your natural awareness of your surroundings, enhance your natural senses, and improve your vigilance. It is also an essential attribute for any skills that grant enhanced or magical senses. Perception is typically a primary investment for archers and scouts.- Excerpt from The Adventurer’s Guide, Third Edition
+
+Ali picked her way across the cold and stark first floor of the library, trying to keep her feet off the crunchy bone and step only where the underlying flagstones were exposed. She had always been grateful for Mato’s reassuring bulk and Malika’s steady confidence but, after having been forced to flee yesterday, she kept just a little closer than normal to her friends.
+
+“Do you think those scorpions are still down there?” she whispered. Her low-pitched voice sounded jarringly loud in the quiet darkness, the only other sounds being her own breathing, the soft clicking of her Kobolds’ taloned claws scraping on the exposed stone, and the background crunching of the Bone Worms feeding.
+
+“I’m not sure,” Calen answered. “But don’t worry, I should be able to see them from far enough.”
+
+“I’m more worried about alerting that Skeletal Wyvern,” Malika said, stepping cautiously onto the landing. “We need to get ourselves set and ready before it strikes.”
+
+Ali paused at the edge and peered down into the deep darkness of the atrium, but her eyes failed to pierce the gloom. All she could make out was the increasing density of dark and ominous mana billowing up as it swirled around the ancient walls and the bone-encrusted floating stone stairway. She suppressed a shiver; this was harder, knowing what awaited them in the depths. Worse, it stank of death and the dusty smell of decaying bone.
+
+She pressed her lips into a firm line, summoned courage from the presence of her friends, and carefully set foot on the top step, beginning to follow them on the long descent.
+
+I wish I had his eyes, she thought, glancing enviously at the sure-footed steps of Calen leading the way.
+
+Nobody spoke now. As they descended, a grand arc that had them circling the entire atrium, Ali began checking over the edge of the stairs, glancing down into the dark abyss below with her Arcane Insight. It was a compulsion, she knew, but she just couldn’t help it – even though the dark bone affinity mana moved with thick lazy swirls rather than the sudden burst of power that had heralded the ascent of the Skeletal Wyvern. It was definitely down there, though; she could almost feel its malevolent gaze just beyond the dense flowing mana.
+
+Ali’s shirt clung to her skin, damp with sweat, and her heart thumped loudly in her chest by the time she finally stepped foot on the second-floor landing. It was pitch dark down here and all her friends had stopped.
+
+“I’ll go scout,” Calen whispered, and then he disappeared into the darkness.
+
+Seconds stretched on, growing into minutes while Ali struggled to keep her breathing under control. Not being able to see a thing sent her imagination into terrifying flights of fantasy. Trust them, she told herself, reminding herself that her friends had her back.
+
+Ali nearly yelped out loud when Calen suddenly emerged from the shadows.
+
+“It’s clear,” Calen said. He gestured with his left hand and a Mote of Light appeared out in the darkness. “I’m not sure where the scorpions all went, but they’re not here anymore. Maybe the dungeon despawned them?”
+
+As the light shone out from Calen’s orb, it revealed a scene of utter destruction. In the aftermath of their chaotic fight, shattered bone spears littered the ground. Piles of bone shards and shafts were strewn about, swept up into enormous dunes against the walls and broken shelves as if collected by a tremendous gale. Drifts had formed out in the open, undulating waves of broken bits lying haphazardly covering the battered, gray flagstones of the floor. Here and there, intact spears as long as Calen’s height – if he stretched his arms high overhead – hung impaled into solid stone walls or through bone-encrusted prominences, like arrows left over from a Giant’s archery practice.
+
+“Why isn’t this place completely filled with spears if something like that monster lives here?” Malika asked.
+
+“Perhaps that’s what the Spitter Drones are for?” Calen suggested. “They eat bone.”
+
+“The corpses are all gone?” Ali asked, her head twisting left and right as she scanned everything. She stepped gingerly out onto the floor, careful not to roll her ankles on the loose bone shards. There was no sign of the spawned Piercer Scorpions anywhere, and if the dungeon had reclaimed everything, that meant her Kobold Acolyte corpse would be gone, too.
+
+“I saw a scorpion corpse over here,” Calen said, pointing toward a low wall. “It’s under the pile.”
+
+“Can the dungeon just not support the spawned monsters then?” Ali asked.
+
+“I have no idea,” Calen answered. “Perhaps it just put them somewhere else?”
+
+How does this even work? Yet again, Ali felt the powerful need for an extensive library. In its heyday, the Grand Library Arcana would have been able to answer this question for them in a few minutes. As it was now, all she had was the rampant speculation running circles in her mind.
+
+Ali trotted over to the pile Calen had pointed out, grateful for the light, and proceeded to deconstruct the Piercer Scorpion she found buried there.
+
+“Another one here,” Mato said as everyone fanned out and began searching.
+
+Little by little, Ali retraced the steps of the battle, deconstructing whatever remained of the corpses – mostly buried beneath the piles of shattered bone. Some of the corpses were unrecoverable, merely stains of red mixed with bone dust and chips of stone.
+
+“Over here.” Calen’s whisper sounded loud in the dark and tense atmosphere.
+
+Ali scrambled over to where he was, trying her best to move silently on the treacherous bone-covered floor, and saw the telltale white embroidered fabric of a robe poking out from beneath a pile. A yellow-scaled arm was exposed by Calen as he moved several bone spears to the side.
+
+“That’s good,” she told him. She reached out her hand and activated her Deconstruction skill. Ten seconds later, her notification chime sounded, and the body dissolved into energy and mana causing an uncomfortably loud clatter as bone shards collapsed into the suddenly vacated space. Ali’s Grimoire appeared, shining brightly – but no inscription ensued.
+
+Variant completed, but the imprint is full. Make space or select a new chapter.
+
+What? This had never happened before.
+
+She stared at her Grimoire in surprise. How would I even make space? She supposed that her Kobold imprint was the largest one she had, and regularly adding new high-level variants to it was a lot of information. Not knowing how, or even what she would delete to make space, she paged to the end of her magical tome and tried to choose the one free chapter she had available. Fortunately, it leveled, otherwise I might have had to lose an imprint.
+
+Her Grimoire responded by riffling rapidly through the pages, reordering all the chapters so that the blank one was now right after the Kobold imprint. Only then did the typical light show begin and all the storm of bright glowing runes were inscribed into the newly created space.
+
+Variant: Acolyte of Azryet (Holy) added to Imprint: Kobold.
+
+“I got it,” Ali whispered. Yes! That’ll help.
+
+They spent a little more time gathering the usable items and gear from the Kobolds from beneath the piles of strewn bone. Calen’s sharp eyes even found the fire magic bracelet Ali was so fond of before they all made the tensely silent trek back up the stairway to the upper floor.
+
+Finally able to breathe a little easier, Ali set to the task of creating her newest minions. It took some time, but the others waited patiently until she had two gold-scaled Acolytes, wearing the Simple Robes she had created for them.
+
+Acolyte of Azryet – Kobold – level 23 (Holy)Acolyte of Azryet – Kobold – level 21 (Holy)Your reserved mana has increased by +321.
+
+“Wow, those are expensive,” she exclaimed, feeling the pull on her mana pool. But that wasn’t too surprising, given they were the highest-level creatures she had ever made. In fact, one of them was the highest-level creature she could make, matching her own class level.
+
+“Don’t forget the healing bracelet,” Malika suggested.
+
+“Oh yes.” Ali retrieved the bone bracelet from her storage ring and handed it to the highest-level Acolyte. “Here, use this.”“Of course, Ancient Mistress.” Her voice was soft and mellow for speaking Draconic, even with the typical chirping sounds the Kobolds made.
+
+“Shall we get set up?” Calen suggested.
+
+“How about here?” Mato asked, striding out across the floor to pick a spot.
+
+Ali looked up to find him standing behind the sturdy-looking wall adjacent to the atrium, and she recognized the spot they had picked out on Calen’s map. If it was anything like the wall she and Calen had hidden behind, it should work well.
+
+“A little to your left,” Calen suggested, and Mato shifted over. “There’s good.”
+
+“Ok, I’m ready. Ali?” Mato called, doing his usual routine of rotating his shoulders and cracking his neck.
+
+“Are you sure?” she asked, getting up and walking over.
+
+Ali was still extremely dubious about this whole exercise, but she understood the need to test tricky things before you used them in a life-or-death situation. Still, fireballing her friend wasn’t something she had thought she was signing up for at any point.
+
+“Give me a minute or two,” she said, bending down and beginning to inscribe the runes for her restoration circle, making it about two meters wide, centered on Mato.
+
+Just like back then, she thought as she finished up her mana inscription, recalling the urgency and her utter exhaustion the first time she had used this skill to save him.
+
+Your reserved mana has increased by +89.
+
+The green runes flared to life as the circle closed and drew on her mana to power it, bathing Mato in the greenish glow of the restoration magic. Seeing as she was planning on using the circle to help heal Mato, she needed to know if it would survive the damage, too.
+
+“Stay here,” she said, watching him shift into his Bear Form, while she backed away to a safe distance.
+
+“Please fireball him,” she instructed her lowest-level Fire Mage, trying to still a pang of guilt at what they were about to test. Sorry, Mato!
+
+“Of course, Ancient Mistress,” he said, summoning his fire without a moment’s hesitation.
+
+“And you, heal him,” she told her Acolyte.
+
+“As you wish, Ancient Mistress.”
+
+The fireball shot off with a whoosh and a surge of heat, and the spot Mato was standing in suddenly turned into an inferno of flame, with the massive detonation of the fireball exploding in his face.
+
+Ali’s heart stopped.
+
+The Acolyte beside her gestured with her hand and a soft yellow-white mana flickered once, visible in the heart of the inferno. It flashed a second time and then began to fade.
+
+Slowly, the acrid smoke began to disperse, and before she could even make him out in the dense clouds and remnants of flickering flame, she heard Mato chuckling.
+
+“That was fun,” he said.
+
+“Be serious,” she chided him. “I was beside myself with worry!”
+
+“I’m not level three anymore.”
+
+“And that mage isn’t level nine either,” she retorted, referring to the same fight.
+
+“Ali, I have over a thousand three-hundred health, I’m ok.”
+
+“Oh.” Ali had thought she was doing well with health, having spent so much on vitality, but her meager two hundred and seventy was not even close.
+
+“What about your eyebrows?” Malika snickered.
+
+“Less bushy,” he chuckled. “I wouldn’t want to take more than two or three fireballs in a row without healing though, especially while being hit by scorpions.” His tone turned more serious. “Your circle is great; it heals continuously so I got some health the instant the fireball detonated. It was even faster than the little Acolyte.”
+
+Ali walked over to inspect the circle, but the magic seemed to be impressively robust, completely unaffected by the detonation and flames.
+
+“And how about the healer?” Ali asked.
+
+“I like her,” Mato answered, grinning. “Nice warm feeling to her magic. Malika’s is a little rough.”
+
+“Hey, I can always keep my healing magic to myself, you know?” Malika grumbled. “Rough? The flipping nerve! How’s about I rough you up with my elbow?”
+
+Ali grinned at Malika’s unimpressed response. “I meant, how much health?”
+
+“Oh, she healed me to full in one shot,” Mato said.
+
+“Impressive,” Ali crowed.
+
+“It’s holy affinity, with a class specialized for healing,” Calen said. “Malika was right, this Kobold is going to be useful.”
+
+They spent about half an hour trying out different tactics, allowing Ali to practice with her new Acolyte minion before Calen headed off to fetch the first group of monsters.
+
+Malika yawned, “Farming time.”
+
+“Farming?” Ali spluttered.
+
+“Don’t pretend to be all shy, now,” Malika said. “That little smile says you’re enjoying this just as much as the rest of us. Bring on the experience!”
+
+Seriously? Now I’m imagining pulling potatoes out of a field.
+
+Calen sucked in a deep breath. He stood on the precipice, studying the deep darkness filling the atrium in the center of the library but the distance was too much for even his enhanced vision to make out the bottom – and the monster lurking below. At least our plan is as good as we can make it. Now it was time for execution. Before they could fight the boss, though, they would need to clear the library of all the lesser monsters that might interfere.
+
+“Ok, going down,” he announced.
+
+“Be careful, this isn’t the sewers,” Ali answered.
+
+He nodded at the worried expressions on their faces and then turned on his Eclipse and blurred into the shadows. Masking the sound of his movement with his Explorer skill, he sprinted down the stairs and out onto the second floor. His eyes scanned across the bone-littered floor, noting the easiest pathway, the blood stains, and the occasional tripwire, all clearly visible to his skill-enhanced vision. Everything looked to be various shades of monochromatic gray – a sure indication that there was nearly no light down here – but to his Eyes of the Archon, that simply served to highlight the contrasts.
+
+There were no monsters immediately visible, so he hopped out onto the floor and darted along the path he had picked out, carefully avoiding splinters and shards of bone and the various skitterers and worms which failed to scurry away on account of not being able to see or hear him.
+
+The lingering stench of the vile Spitter Drones hung over the dusty dry crypt-like smell of old bone – stronger down here than on the level above. He took his time, shadowing the outer wall and making a full circuit along the perimeter of the floor, marking only a single remaining group of monsters.
+
+Kobolds only. He carefully noted their classes and levels. Easy enough. Too quiet down here. Sure gives me the creeps – I haven’t missed anything, have I?
+
+No. The challenge would come on the stairs. He would need to outrun them while avoiding alerting the giant Skeletal Wyvern lurking in the depths. He nocked an arrow and carefully drew his bow till the taut string pressed up against his cheek. He sighted down the shaft towards a Kobold Acolyte with prominent white horns and imbued his arrow with Increased Range and Light Damage withholding the completion of his damage enchantment on the cusp of release.
+
+He fired.
+
+The arrow sped away into the darkness; its target remaining completely unaware of its presence. About two-thirds of the way into its brief journey, Calen released his magic and a brief, brilliant flare shone out in the darkness before the arrow buried itself in the Kobold’s left shoulder – a perfect shot. The entire camp erupted into a frenzy of scrambling, screeching, and chirping calls as they leapt up and charged him.
+
+Now comes the hard part. Calen had broken his stealth with that attack, and he ceased spending resources to power Eclipse and Explorer, knowing there was no way he could regain stealth with that many eyes glued to his back. Besides, he needed them to chase him to the top. He sprinted for the landing, anxiously straining all his senses for any signs of the wyvern’s fury.
+
+They better not wake him up, he thought, glancing back at the screeching Kobolds hot on his heels. He took the stairs at speed, heedless of the lack of railing and the uneven steps. Up and up, he ran with the Kobolds in tow, careful not to outrun them by too much. Thankfully, there was no stone-splitting roar and he hit the top landing at a sprint and rushed past Mato.
+
+“Kobolds only, two healers, three archers, and three warriors,” he announced as he ran by. Immediately, he summoned a couple of Motes of Light to hover above the landing to ensure there were no surprises with stealth, and that Mato and Malika would be able to see.
+
+Metallic clinking sounds heralded the appearance of several steel totems on the stairs near the landing, spraying pulsing circles of lightning magic as the Kobolds reached the top. Mato roared and charged, slamming into the pack with a giant crash, his brand-new banded armor gleaming darkly by the light of the floating orbs. When Mato backed out, slowly retreating toward the green-glowing runic circle, the three warrior Kobolds were stuck with him like glue, along with a stream of arrows from the archers.
+
+Six Kobolds on Mato. Calen was worried until he saw the soft yellow gleaming scales of Ali’s white-robed Acolytes waving their hands from back behind some shelves, already hard at work. Swords and arrows bit into Mato’s hide with splashes of blood, but the wounds closed as fast as the Kobolds dished them out.
+
+“Healer on the left,” Calen said, aiming and firing. “The one with the arrow sticking out of her shoulder.”
+
+“Gotcha,” Malika said, diving into the fray.
+
+“Ok,” Ali added.
+
+The landing lit up with the crackle of lightning and the red flames of firebolts as Ali’s minions focused on the Acolyte. The Kobold stumbled, staggered by the heavy impact of fire and punches, and the bolts and arrows raining down upon it.
+
+“Switch to the other Acolyte as soon as it dies,” Calen said.
+
+But right as the Acolyte seemed about to drop, a bright yellow-white pillar of light erupted from its body, pulsing with potent visible magic as its wounds all but vanished. Calen’s eyebrows nearly climbed off the top of his head as the tiny Kobold outhealed their entire combined firepower for a full thirty seconds before the glow began to fade.
+
+“What the heck was that?” Calen exclaimed.
+
+“A lot of holy mana,” Ali said, grim-faced as she kept firing her bolts.
+
+Calen redoubled his efforts, firing arrow after arrow at the Acolyte. Just as he thought it was done for the second time, the other Acolyte did the same thing, flaring with a brilliant pillar of holy magic. Again, no matter how much damage they dished out, the tenacious Kobold refused to falter.
+
+“That is a ridiculous skill,” Calen said. It must be some kind of temporary healing power boost that had a short duration and a long recharge.
+
+As the glow finally faded from the second healer, their onslaught rapidly began to take its toll on the previously pristine Kobold. Bone armor ridges shattered, and smoke drifted from cauterized wounds. Even those wounds were still slowly closing when the Kobold finally dropped to the ground.
+
+Wow. Unbelievable. Fortunately, the Kobolds were down to one healer now, and there was no reappearance of whatever powerful skill that was. It still took nearly a dozen arrows before the second Acolyte collapsed.
+
+“This one next,” Calen said, using his Light Damage enchantment as a tracer to pick out an archer in the back dodging Lightning Novas while trying to shoot Mato. While he fired his arrows, he studied his enemies. All three of the Kobold archers were wielding bone bows made in a segmented design. He guessed it might offer a stronger draw. And the arrows they fired seemed to also be made from sharpened bone – something he hadn’t seen before. He moved on to the next archer, mentally noting that he should check their arrows after the fight to see if they were better than the ones he was using.
+
+As soon as they dropped the last of the archers, Calen turned his attention to the warriors. Mato was constantly pulsing with healing magic still. There was a widening puddle of blood on the ground at his feet, but the combination of the Acolytes and his own healing magic left him almost uninjured. I hope Ali’s Kobolds have that crazy healing powerup too, he thought, curious to see what they might be capable of during the big battle to come.
+
+While the others recovered their mana, Calen headed out once again. This time, he headed straight to the bottom floor.
+
+Calen stepped off the bottom landing into an alien world. The reek of death and bone dust filled his nostrils and he swallowed to prevent the cough that threatened to explode from his lungs. The ground floor of the library was so densely encased in bone spines and ridges that it looked like a cavern of gray rock. There wasn’t even a single piece of stone showing, or a recognizable shape. The ceiling was covered with ridges and spines that jutted out in all directions. Bone worms crawled over everything. Even the crunching noise was far louder. He glanced towards the center of the library where he found a towering spire of bone reaching up from the floor in the center of the atrium, crawling with bone worms. Coiled around the spire was the Skeletal Wyvern.
+
+His scalp crawled. Damn, that thing’s no less ugly than I remembered.
+
+Skeletal Wyvern – Undead Dragon – level ??[Explorer]Category: Dungeon BossThreat Level: RaidMonster Type: Undead DragonDamage: Physical, Bone
+
+Making sure to move with utmost silence, Calen headed straight for the outer perimeter wall and then carefully scouted the entire floor, keeping himself as far from the center and the wyvern as he could. There were only three groups of monsters, but one of them had four Piercer Scorpions. Those will be last, he thought, selecting a closer group for his first target. Let’s see how asleep that heap of animated bones really is.
+
+He picked out his path and fired, drawing the Kobold group towards the outer edge of the giant circular floor. He wanted their chirping as far as possible from the wyvern. Keeping to the outer edge of the floor, he led the Kobolds on a long chase around a quarter of the circumference before he reached the closest point to the stairs. He fired another arrow, which bounced off a Kobold’s sword, and sprinted inward heading for the landing. He held his breath, taking the stairs two at a time as the Kobolds raced up after him. He didn’t breathe until he was halfway past the second floor. At least the foul odor of undeath was somewhat diminished as he drew further from the depths.
+
+The battle up top went much the same way as the first one, if just a little bit better as they got used to the space and the capabilities of these particular groups. Once they were done, Calen retrieved the second to last group, and they were equally easily dispatched.
+
+“The final group is four Piercer Scorpions,” Calen told the others. “Perhaps we should practice our strategy for the wyvern fight?”
+
+“That’s a good idea,” Malika said.
+
+“I need a few minutes to inscribe the remaining runic circles,” Ali said from where she was finishing cleaning up the corpses.
+
+While Ali worked, they all spent the time discussing the finer points of the strategy – more as a refresher than anything else. After all, they all knew the plan. The restoration circle was already inscribed, visible only by a faint greenish hue wafting above the ground where they planned to have Mato tank the Piercer Scorpions. Ali had thoughtfully outlined it with some chalk marks on the stone to make it easier to find. It had been carefully placed with the massive wall between it and the atrium where the Skeletal Wyvern would be flying. Ali placed two further Inspiration circles far enough away that whoever was standing in them wouldn’t get hit by a stray scorpion strike, but also protected from the wyvern’s breath by the wall. Calen carefully marked the locations of the two circles by the soft bluish light. While they intended to use them for the healers, he decided it would be smart to know where they were just in case.
+
+Once the circles were complete, Calen dismissed his lights, leaving the battlefield lit only by the glow of Ali’s runic magic. In stealth and silence, he descended to the bottom floor, once again holding his breath as he snuck past the dormant wyvern.
+
+He carefully approached the last group of monsters on the floor. Four Piercer Scorpions stood about in a huddle, absolutely motionless next to a giant wall of bone. This needs to be perfect. The scorpions were incredibly fast, and he didn’t want to be caught by them on the stairs. He nocked an arrow and drew, standing at the maximum of his extended range.
+
+Moment of truth. He breathed out and held it, aiming with his utmost focus. He released the arrow. As soon as he released his light magic, he spun on his heel and sprinted for the landing. He didn’t even wait to see if his arrow had reached its mark, the shaking of the ground was more than sufficient to tell him everything he needed to know.
+
+Calen flew up the stairs as fast as the wind, burning his stamina as he went, but he could feel the heavy bone creatures slowly gaining on him. By the time he reached the landing at the top floor, he could feel the wind of their spear strikes missing his back by inches. He hit the landing at a dead sprint, opening up over the flat ground, gaining maybe an inch or two on his pursuers.
+
+“Run, Calen!” Ali screamed.
+
+What do you think I’m doing? He charged straight for the green glow and slightly to Mato’s right, not stopping until he was ten feet past and heard the roar and crash behind him.
+
+Glancing back, he found that Mato had expertly captured the full attention of all four monsters and Calen finally breathed a sigh of relief. That had been closer than he had expected. Far too close. I should see if Morwynne can craft run-speed potions for emergencies.
+
+Calen didn’t bother to try shooting the scorpions, knowing that his arrows would be ineffective – and unnecessary in the main fight. He was far more interested in analyzing how the fight proceeded, because this would be the cornerstone of their strategy for the main battle. Mato had comfortably locked down all four monsters and was tanking inside the restoration circle. His body flickered and pulsed with the green restoration aura and the yellow-white healing from Ali’s Kobolds, each standing in one of the blue circles.
+
+A soft series of metallic clinks echoed through the battlefield as the shamans deployed their totems. The arcing lightning of the nova pulses was placed accurately enough to hit the bone scorpions but avoid Mato. Calen didn’t know if this was Ali’s doing or if the shamans had done that on their own, but the totems looked very effective for this part of the battle.
+
+“Ok Ali, go,” he said.
+
+Ali frowned, clearly still unhappy about this part of the strategy, but she executed it well. Four Fireballs began to form in a timed sequence, one in front of each mage. Three near-simultaneous Lightning Bolts etched their brilliance into his retinas while the thunderclaps deafened him. The bolts struck clean through all four scorpions before the first fireball hurtled away. There was a deafening explosion of flame and Malika blurred towards Mato, healing him, and then she dodged away before the second fireball exploded. A yellow flash topped Mato up, followed by the third explosion. Another flash while pieces of bone armor began to fly. The fourth fireball finished it and all four scorpions shattered simultaneously, collapsing in a pile of smoking bone debris.
+
+“That went well,” Mato said, shifting back to his normal form. “Never went below half.”
+
+“You smell half-cooked,” Ali retorted.
+
+“Especially the armpits,” Malika added, wrinkling her nose.
+
+“Seriously? This healing circle is only half-baked if it doesn’t soap and style my hair, too,” Mato chuckled. “Come on, Ali. I have a long list of requirements.”
+
+“Let’s take a quick break,” Calen suggested with a wry grin, sitting down and consulting his notifications. For what was coming next, he would need every advantage he could get. He scrolled through a ton of notifications from the earlier fights, coming at last to the final few.
+
+Your group has defeated Piercer Scorpion – Elemental – level 26-29 x4.Archer of Light has reached level 18 (+2).+20 attribute points.Radiant Archery has reached level 12.Arrows of Brilliance has reached level 13 (+2).Motes of Light has reached level 7.Explorer has reached level 14 (+2).Blessing of the Dawn has reached level 11.Eclipse has reached level 12 (+3).Eyes of the Archon has reached level 11 (+3).Cartography has reached level 5.
+
+Eclipse and Eyes of the Archon were leveling rapidly on this dark battlefield. He spent some time analyzing the changes, taking down a few notes in his notebook. Calen distributed most of his attribute points among dexterity and intelligence while he waited for Ali and her minions to finish regenerating. It was good progress, and the extra attribute points would come in handy for the fight with the Skeletal Wyvern. Still, what he wouldn’t have given to see his Class reach level twenty for this fight… but he had to be patient.
+
+Once everyone was set, he calmly got up and announced, “Ok, getting the wyvern.” Inside, however, his heart was racing, both with excitement and nervousness. On one hand, he felt he had been born for this role – setting out alone into the darkness, scouting the unknown, and finding and defeating the denizens of terrifying dungeons. A true explorer, a pathfinder. On the other hand, it was an undead Skeletal Wyvern, probably close to twice his level and commanding terrifyingly powerful bone magic. And, even if just for a bit, he would be confronting it alone.
+
+I just have to lure it up the stairs, he reminded himself. They’ll all be waiting to help me at the top. He activated his Eclipse skill and descended the stairwell one more time, wishing it wasn’t quite so long.
+
+Time to pick a fight.
+
+***
+
+Name: Calen AveryRace: Half-ElfActive Buffs: Blessing of the DawnClass: Archer of Light – level 18- Radiant Archery – level 12- Arrows of Brilliance – level 13- Motes of Light – level 7- Explorer – level 14- Blessing of the Dawn – level 11- Eclipse – level 12- Eyes of the Archon – level 11- [Locked]- [Locked]- [Locked]General Skills- Bowcraft – level 6- Wood Carving – level 3- Cartography – level 5Aptitudes- Languages: Common- Mana (Affinity): Light- Perceptive (Racial): +11 to Perception- Quick (Racial): +5 to Dexterity- Timing (Class): You have an innate sense of timingAttributes- Vitality: 24- Strength: 9- Endurance: 17- Dexterity: 131 (+47)- Perception: 86 (+31)- Intelligence: 84 (+30)- Wisdom: 23Equipment- Weapon: Hunter's Bow – level 10- Body: Leather Vest – level 10- Ring: Bronze Guild Ring – level 10Evasion: 120Dodge: 19.23%Health: 240/240Stamina: 170/170Mana: 184/230 (46 Reserved)

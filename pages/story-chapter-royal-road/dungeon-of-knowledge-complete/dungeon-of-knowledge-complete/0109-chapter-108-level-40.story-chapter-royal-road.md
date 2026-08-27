@@ -1,0 +1,237 @@
+---
+id: 25fea80b-027f-58c7-8abe-47310ce53035
+page-type-slug: story-chapter-royal-road
+title: "Chapter 108: Level 40"
+slug: 0109-chapter-108-level-40
+partOf: dungeon-of-knowledge-complete
+position: 109
+ownLength: 4546
+unit: words
+ownProgress: 4546
+publishedAt: 2024-08-04
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1744472/chapter-108-level-40"
+royalRoadId: "1744472"
+markedReadAt: "2026-06-29T20:14:40.451Z"
+---
+
+Kieran: Report.Tala: It’s harder to find Adventurer Guild marks now that half of them left to join the Watch, but I have a promising lead.Kieran: See that you make it memorable. Use your card. We want them jumping at shadows, terrified of the Silent Assassin.Tala: I’ll see to it.Kieran: Any progress on the bounty for that Aliandra and Malika? Mr. Hawkhurst is pressuring me for details.Tala: About that… Aliandra has a dungeon shrine.Kieran: What? Don’t be preposterous!Tala: It’s true. I overheard some of the adventurers talking about it. That group with the mayor’s son used it to get their classes.Kieran: This better not be some ruse…Tala: I snuck down into the cavern and verified it for myself. There’s a huge shrine there and it has her name on it as the owner.Kieran: I need you to inform Roderik Icecrown at once. The Shadow Council must be informed immediately.Tala: Shadow Council?Kieran: The organization we’re really working for.Tala: Wait, we don’t work for Hawkhurst trading?Kieran: Jax Hawkhurst is a small fry in a nothing town. Keep this information strictly between us. When you level up a little more, I will induct you. For now, pretend you don’t know anything about it… if you value your life and sanity. Just tell Roderik about the shrine.Tala: It’s as good as done.- Conversation via Sending Panel between Kieran Mori and the Silent Assassin, Tala Kane.
+
+Ali’s two Kobold Acolytes bowed their heads and clasped their hands in a pose she had come to recognize as their regeneration skill – and she knew that the poison had finally expired. Mato and Malika still lay unconscious on the springy grass, but their breathing seemed to have settled into a much healthier rhythm, and the hard-working Kobolds no longer saw the need to heal them continually.
+
+She let out a soft sigh of relief and watched Calen slowly make his way over to where she had flopped down on the ground, still up on her ridge – the spot she had chosen for its good view of the battlefield.
+
+“How are they doing?” Calen asked, joining her on the grass.
+
+“I think they’re going to be ok,” she answered. “It seems to be a poison with the side effect of knocking you out. My Kobolds nearly ran out of mana keeping them alive.” She glanced at her Acolytes, but they were still calmly regenerating their mana and seemed to have no further urgency about healing. She finally released the mana reserved for her frantically inscribed Cure Poison runic circle and watched the glowing magic fade.
+
+I nearly lost everyone. The battle itself had seemed easy enough when they had first engaged. But the Spore Spreader monsters, and their popping Violet Dreamclouds, had instantly knocked Mato and Malika out, turning the battle on its head. Only Calen’s quick thinking had saved Mato and Malika from being trampled, crushed under the immense weight and fury of the rampaging Forest Guardian. Caught too far out of range for her barriers, she had been forced to watch the disaster unfold – and, while her slimes were somehow unaffected by the spores and the rampant growth, they were nowhere near powerful enough to tank the guardian.
+
+“That was some good strategy with the Scalding Slimes,” Calen said, continuing their quiet conversation. “And whatever craziness you cooked up with your Arcane Bolts… you saved my life. Our lives.”
+
+Ali blushed, squirming.
+
+“Thanks,” Ali murmured, accepting his compliment, but in truth, she had felt anything but strategic and smart. Mostly, she had been reacting to the shock of seeing Mato and Malika being stomped. Immediately followed by the nail-biting, heart-pounding race between Calen and the relentless mountain of wood and bark. How he had managed to remain one step ahead of those grinding jaws and writhing roots she could scarcely imagine.
+
+“Thanks for having our backs,” he added, doubling down, and intensifying her blush. “How did you even find the time to use your Grimoire? And what made you think of steam?”
+
+“I summoned them while you were circling the rock pile,” Ali admitted. When he had vanished behind the rocks and overgrowth, she had been left with nothing but the horrific sounds of the chase and no way to help. In that moment she had despaired of ever seeing the quiet, shy Half-elf again. Normally her Grimoire was far too slow to summon minions during battle, but there had been nothing else she could do, so she had resorted to that. Her Wyverns’ poison seemed ineffective against the nature elemental, and her Fire Mages or Storm Shamans couldn’t run fast enough to keep up with it. It was while she was racking her brain for anything that might work that she recalled the scene in Naia’s dungeon. “Naia was very efficient with the Scalding Slimes,” Ali admitted. “That’s what gave me the idea.”
+
+There was nothing smart about it, I had no other choice.
+
+“Well, making the steam slimes ride the Guardian was brilliant,” Calen said. “They were devastating.”
+
+“Mhm,” Ali nodded, just happy it had worked out.
+
+“How did you manage that trick with your Bolts? C’mon, you can’t leave me in the dark here,” Calen said, leaning in a little closer.
+
+“Do you remember that testing we did on Arcane Bolt to figure out its range?” Ali asked. She had always thought Calen was overly pedantic about writing down every skill and advance, studying the limits, and testing everything exhaustively.
+
+“Yup, we learned it has a two-minute time limit, not a distance limit… wait, that’s what you used?” Calen said, suddenly sitting up in surprise.
+
+“Yes,” Ali nodded. “And I can retarget them mentally. I ping-ponged the bolts between the slime on the overhang and myself, keeping as many in flight as possible.” It had been an act of inspired desperation, something she had fumbled her way into by accident and urgency. She was just grateful it had worked so well.
+
+Calen let out a low whistle. “Two minutes, three bolts per shot…” he muttered, his face screwed up in computation for a few moments before his eyes widened. “You had nearly five hundred bolts in the air at once?”
+
+“Probably only about three hundred of them hit,” Ali said, nodding. “Lots of them expired on the way.”
+
+“That’s ridiculous,” Calen said. “No math involved?”
+
+She snorted mildly, “How? There wasn’t any time, Calen.”
+
+“You just winged it?”
+
+“It was such a last-ditch thing,” Ali observed, “I was out of mana so fast. If you’d been just a little later, it wouldn’t have worked.” It had been so close. Before she got stuck in a spiral of self-critique, she got up and decided that doing something productive would set her mind back to rights. Everyone is alive, and that’s what is important. She could work on improving for next time.
+
+Your group has defeated Spore Spreader – Fungus – level 11-19 (Plant) x3.Your group has defeated Forest Guardian – Wood Elemental – level 40 (Nature).
+
+Plant magic affinity… She studied the strange three-limbed mushroom monster lying burnt on the ground. Her mages had been good for one thing – destroying these. Plant magic affinity, by most accounts she had read, was a rare, specialized form of nature magic – one that worked only with plants and plant growth, but due to the extreme specialization, the effects were supposed to be that much more powerful.
+
+She deconstructed it, and then the rest of them and the few Violet Dreamcloud mushrooms that remained.
+
+Variant: Spore Spreader added to Imprint: Mushroom.Variant: Violet Dreamcloud added to Imprint: Mushroom.
+
+She looked at her Grimoire curiously. She had long given up on figuring out how it categorized things, but lately, it had been extra weird. At least in her mind, she had been separating the imprints into broad categories; materials, equipment, plants, and monsters – but now her Grimoire was insisting on putting monsters in plant imprints and her precarious understanding of how her magic worked had just come crashing down.
+
+The two notifications from the previous battle just served to reinforce the issue.
+
+Variant: Moss Creeper added to Imprint: Moss.Variant: Floral Menace added to Imprint: Wildflower.
+
+I guess these monsters are literally plants? It seemed weird, but her Grimoire certainly seemed to think so.
+
+“How long do you think before they wake up?” Calen asked.
+
+“I’m not sure,” Ali said. “They don’t need healing anymore.”
+
+“Ok, I’m going to scout a bit while we wait,” Calen said, getting to his feet.
+
+“Ok,” Ali said, turning her thoughts to the three new monster imprints she had learned, variants of her plant categories. With nothing better to do, she pored over the runes. There was a tantalizing similarity between the three of them, but, stubbornly, the runes refused to divulge their secrets to her eyes. I guess I’ll just summon them, she decided. Familiarizing herself with her imprints and her monsters would allow her to make smarter choices.
+
+She started with the Moss Creeper – summoning two of them. The green monsters that appeared could best be described as mounds or clumps of fine-stranded plant matter. One of her new minions appeared as a level sixteen monster, a mound that took her up to her thighs. The second was much smaller – level four – and the size of a small ball.
+
+They flopped around a little, not doing very much until she sent them a mental nudge. Their movement seemed to have been concocted from an ill-advised merging of a sloth and an ooze – moss-covered protrusions moved within their bodies to grasp and pull the monster across the grassy dirt. Ali watched in fascination as the larger one reached a small boulder, entirely covering it with its body, and then began to use a nature affinity skill. A trickle of mana twisted and bent, shaping a formation that, for a second time, evoked a tantalizing sense of familiarity. When the monster was done, it moved off unhurriedly, searching for another spot, leaving the previously bare boulder covered in dense mossy growth.
+
+Not very exciting, Ali thought. Studying its magic was fascinating in and of itself, but other than that, it didn’t provide a whole lot of options for combat, unless it had abilities it couldn’t show. What monster will wait for me to grow moss on it?
+
+Ali turned her attention back to the hovering Grimoire, summoning two more monsters, a Spore Spreader, and a Floral Menace. At least the gnarled, woody Floral Menace had a pretty pink scruff of petals – the Spore Spreader looked like a misshapen and mutated, oversized mushroom. These two she understood in terms of combat capabilities – it was rather that their abilities might take some careful planning to apply in a combat situation.
+
+Nevertheless, she put them through their paces, studying their magic as they grew violet mushrooms and pink flowers. She had put them a little way apart from their group, just to be safe, but even at this distance, she could tell that whatever magic they were doing seemed familiar to her, once again.
+
+Similar to each other. She wasn’t quite sure why this had caught her attention, but without anything more to go on, she finally decided that it was simply the nature of a skill that summoned plants. How different could they be? One summoned flowers and the other summoned mushrooms, but besides that, there had to be some common structure to the skills she was observing.
+
+Finally, tiring of her studies, she unsummoned the new monsters, freeing her mana for combat, and turned her eyes to the enormous bulk of the still-smoking Forest Guardian, trying to suppress the complex surge of emotions rising within her. It was a terrifying monster, especially when it was trying to maul or crush her friends. But she felt a conflicting nostalgia even from the giant corpse of wood and bark, battered and destroyed from the steam and her arcane magic. It had been a harsh wakeup call to be forcibly reminded that it was a monster capable of crushing them when her mind had been filled with the memory of her father’s gentle touch as he helped her up onto the back of a Forest Guardian so that she could ride it around the forest for fun.
+
+And that’s the third one.
+
+She flew over and began to deconstruct it, unable to fully contain the bubbling excitement of her anticipation. But to her dismay, when the monster’s corpse exploded into sparkles and motes of mana, drifting away on the light breeze, her Grimoire did not appear, and she did not hear the notification telling her that she had learned something new.
+
+Sometimes it takes more than three, she told herself, trying to assuage her disappointment, while trying to ignore the voice in the back of her mind that was wondering if this monster had some peculiarity that prevented her from ever learning it – like the light or bone elementals her magic couldn’t bring to life.
+
+“Did you get them?” Calen asked as she returned.
+
+“The Spore Spreaders and the Violet Dreamcloud, but not the guardian yet.” She couldn’t keep the disappointment from her voice, but even learning the strange tripod mushroom monster was a sort of progress. The fact that she couldn’t immediately think of a good use for it was probably just a failure of imagination due to her exhaustion.
+
+To take her mind off it, she turned to her notifications, finding, much to her surprise, that the fight had been enough to earn a class level.
+
+Grove Warden has reached level 40.+10 attribute points.
+
+Forty… The nice round number appeared before her, masquerading as normal and mundane, but it was filled with significance and meaning. She was no longer the weak research assistant, terrified to face a rat. Forty with a combat class meant she was likely considered ‘powerful’ by most people in the town, if not the kingdom. If her class didn’t deviate from the normal pattern, it should come with her final skill unlock, a potentially significant milestone in her growth.
+
+She pursed her lips carefully and spent one point on vitality and two points on dexterity. The rest she spent on her primary attributes; five into intelligence and two into wisdom for more mana. She turned the parchment page in her mind to reveal the rest of her notifications.
+
+Arcane Insight has reached level 24.Arcane Bolt has reached level 24 (+2).Barrier has reached level 30.Grimoire of Summoning has reached level 25 (+2).Martial Insight has reached level 23.Empowered Summoner has reached level 20.Identify has reached level 13.
+
+Grimoire of Summoning was a skill she constantly struggled to level up, especially as a major portion of her growth was tied up in the number of imprint chapters she had earned. Early on, simply using deconstruction in combat had been sufficient for substantial growth, but summoning monsters was a long process, and it was hard to find time to use it mid-battle, so she rarely got experience for using it under dangerous circumstances.
+
+In this fight, she had been forced to summon slimes in combat and her skill growth clearly reflected that.
+
+Class skill slot unlocked.New skills are available for Grove Warden.New skill unlocked.Class level has reached 40.Leveled at least three Minion skills to 20.Leveled at least three Arcane skills to 20.Intelligence has surpassed 170.Memorized the runic structure of a Teleportation Locus.Minion TeleportMana: Instantly swap location with any minion. Range: 15 meters. Recharge: 10 seconds.Arcane, Movement, Minion, IntelligenceNew skill unlocked.Class level has reached 40.Leveled at least three Arcane skills to 20.Intelligence has surpassed 175.Used an Arcane Defense skill for Attack.Endured a long-term infusion of Arcane mana.Inflicted more than 1000 Arcane damage in under a second.Arcane RecallYou are proficient with Arcane magic. You gain + [skill x 5] % to spell power, spell haste, mana control, and mental reaction speed with Arcane magic.Mana: Ignore the recharge for any Magic skill, spell, or triggered ability. Your magic is cast instantly. Recharge: 24 hours.Arcane, Metamagic, Mastery, IntelligenceNew skill unlocked.Class level has reached 40.Leveled at least three Minion skills to 20.Wisdom has surpassed 150.Defeat a Nature Elemental above your class level.Summoned a Nature affinity minion higher than level 30.AvatarMana: You may possess one of your summoned creatures, greatly increasing its power. You are absorbed into its body for the duration. If your creature dies, your body is ejected unharmed. Recharge: 3 hours.Nature, Minion, Wisdom
+
+“Ugh… what happened?” Mato groaned, stirring finally. He sat up, holding his head while looking around.
+
+“You’re awake! You both got knocked out by the poisonous mushrooms,” Ali answered, noticing Malika’s eyes flickering open before she squeezed them shut again as if in pain.
+
+“How am I not dead?” Ali could see Mato’s eyes lingering on the torn-up grass and dirt where he had been tanking the guardian before Ali had her minions drag him and Malika to safety. His eyes then switched to the enormous boulders and piles of upturned soil left by the Forest Guardian when it had ripped Calen’s magic chains out of the ground to free itself.
+
+“Calen’s quick thinking,” Ali said. In truth, her respect for the introverted boy had grown enormously. She had always respected him, of course, but the unhesitating way he had thrown himself into harm’s way to save the others left her powerfully moved. He had done it without a plan to save himself. She might have expected an unthinking selfless action from Mato – but understanding a little about how Calen’s mind worked, he had to have known just how bad his chances of surviving were, and yet he had chosen to do it anyway.
+
+“Thanks,” Mato said, looking over at Calen who was jogging over to join them.
+
+“Yes, I appreciate it,” Malika managed.
+
+“It was nothing,” Calen deflected, seeming back to his usual self, embarrassed to be the center of attention.
+
+“Why can’t I heal this awful headache?” Malika asked, her magic flickering a few times before it subsided.
+
+“Probably the aftereffects of the poison, my Kobolds had to heal you both for ages,” Ali said. Seeing that the others were not going to be moving much for a while, and knowing Calen was unlikely to take the initiative, she explained what had happened while they were unconscious.
+
+“Calen kited it?” Malika’s voice was a mix of incredulity and admiration.
+
+“Yup, for the entire battle.” Ali had finally encountered the use of adventurer jargon that she had understood. There was a chapter in the Adventurer’s Guide that explained various strategies, and this ‘kiting’ was one of them. It meant the ability to attract a monster’s attention from range, and, through clever use of terrain, skills, agility, and speed, ensure that you always remained beyond its reach while retaining its undivided attention. It was occasionally used as a substitute for a tank, but the book had cautioned that it had an extremely high skill requirement, with very little room for error.
+
+“I nearly ran out of stamina,” Calen said, clearly still subdued by his near brush with death. “Do you feel ok?”
+
+Malika nodded, “I think so. Just got a nasty headache and I feel like I got run over by one of those things.”
+
+“You did get run over by one of those things,” Ali said.
+
+“I think we need a few minutes to rest,” Malika said, flopping back down onto the ground.
+
+“I hit level forty,” Ali said. “If you feel up for it, I could use some advice on choosing a skill.”
+
+“Oh, congratulations,” Malika exclaimed quietly, still cradling her head as if it might explode at any moment. “What did you get?”
+
+Ali shared her three new skill offerings with the others. Her heart raced the most when she read the description of Minion Teleport. She had always been fascinated by teleportation magic in all its infinite variety. She would often sit in the library simply watching the clerks and visitors using their magic to browse. Her offering seemed unique to her nature as a summoner – something she hadn’t seen in action before, filling her with a fresh sense of intense curiosity. But Avatar looked ridiculously powerful for a summoner, and Arcane Recall seemed to be the very essence of arcane combat magic – a powerful tactical meta-magic spell.
+
+“Those requirements are insane,” Mato answered. “When did you do more than a thousand damage in a second?”
+
+“I killed the guardian with a couple of hundred simultaneous Arcane Bolts,” Ali answered. It had to be that – nothing else she had ever tried would have come even close. The requirements to unlock Arcane Recall were particularly impressive – besides the instantaneous damage achievement, her efforts to repurpose her barrier magic into flying shards for attacking had been one of the major factors in unlocking it. The mana infusion had to be related to her time spent locked in her mother’s barrier.
+
+“Those all look amazing, Ali,” Malika said.
+
+“I don’t know what to pick,” Ali answered honestly. If she went purely by feeling, she would take the teleport, but it was hard to tell which was the better skill.
+
+“Avatar looks like a pure power skill,” Mato said, voicing his preference. “Can you imagine if you get one of those Forest Guardians and use Avatar on that?”
+
+“I agree. You’d be able to trample all your enemies,” Calen said. Both Malika and Mato winced.
+
+For once Ali agreed with Mato’s skill preferences. Normally he picked without subtlety, opting for the most directly combat-oriented damage increase. But for a summoner, Avatar seemed to give her the option of safely joining the fight in person. She would fight as whatever minion she picked, and the power increase would need to be tested, but it seemed that even if her minion died while she was using it as her Avatar, she would simply be ejected, and she could continue fighting as herself. Like most minion-trait magic, it would get stronger as she collected more interesting or powerful minions – like the Forest Guardian. Likely she would need to learn to fight in whatever role her selected minion was suited for – but she was already doing that for Martial Insight, and she was certain her powerful enhancement skill would work with Avatar.
+
+Seeing no reason not to, she tested it out. Affixing Avatar as her final skill, she spent the substantial mana cost and suddenly she became her Kobold Acolyte.
+
+You have gained the class skill, Avatar.
+
+She flexed her talons and glanced around feeling the strange way her vision had changed to match the reptilian creature’s senses. I can see their health. Her friends stared at her with interest as she explored her new body. She had some familiarity with Kobold physiology from her Martial Insight, but this was far more personal. I have a tail! She had fangs too. I am a Kobold… She ran the Acolyte through its paces, testing a bunch of skills Calen suggested before she eventually ran out of ideas.
+
+“Um… how do I get out of this?” she said.
+
+“I could kill it,” Mato offered. “It said you go back.”
+
+“Uh… I’m not sure I want to experience dying.”
+
+“Does it last the full three hours?” Calen asked.
+
+“Looks like it might,” Ali said. She checked the description and then pulsed her mana into the skill again and her perspective lurched momentarily, a disconcerting sensation of separation from herself. She blinked, realizing she was back in her own body, staring at the Acolyte. Easy enough.
+
+“How was it?” Calen asked.
+
+“It’s… good,” Ali said. “I think it would be a lot better with a stronger minion, and a bunch of skill levels.” The power increase hadn’t been all that noticeable at level one, but presumably that would improve. Mato had been right – it would be impressive if only she had access to a Forest Guardian.
+
+“Your other choices look strong too,” Malika observed.
+
+“I agree,” Calen said. “Minion Teleport and Arcane Recall look incredibly useful in combat. Your Grimoire of Summoning is Arcane right?”
+
+“Yes,” Ali confirmed. That was the main reason she considered Arcane Recall to be powerful. She would be able to summon a monster in combat instantaneously. Even if it were just one, such an ace up her sleeve could turn the tide of a risky fight, like the one they had just survived. The skill was so clear, she didn’t even need to test it out to know exactly how it would function – it was mostly passive with the bonus of allowing her to instantly use any arcane skill. Once.
+
+“How do you feel, Ali?” Malika asked, looking up at her.
+
+“I think Arcane Recall is amazing. Any arcane mage would love it. Especially with the slow Arcane skills I have. I could instantly summon a creature to help, or presumably instantly create a runic circle,” she said as she considered the spell. “It seems to be the smart choice.”
+
+Calen nodded at her assessment.
+
+“But…” she paused, considering her feelings carefully, “I have always loved teleportation magic.”
+
+“How would you feel if you didn’t take the Minion Teleport?” Malika asked.
+
+“I think I would be sad,” Ali answered truthfully.
+
+“I think you should go with your heart,” Malika said. “My parents always told me to pick what you’re passionate about. When your heart and soul are in alignment, your true potential can shine.”
+
+“I don’t think there are any bad choices,” Calen added. “Anything you pick is going to be great. But consider this; Arcane Recall can only be used once per day. Minion Teleport will be available as a local escape skill for every fight. And you can always work on developing your skill to grow the range.”
+
+“You can change your mind later, too,” Mato offered.
+
+“Ok, I’ll try this out for now,” Ali answered, feeling instant relief that her decision had ended up aligning with what she had wanted. She selected Minion Teleport for her final skill slot.
+
+No free skill slots available, choose a skill to replace.Avatar will be replaced with Minion Teleport, all skill levels will be lost.You have gained the class skill, Minion Teleport.
+
+The spell was instant, one moment she was sitting by her friends connecting her mana to the skill, and the next she was suddenly on the side, having instantaneously swapped places with her Acolyte several meters away. It looked up at her in surprise, and Ali just laughed happily.
+
+The range is fifteen meters, and the recharge is ten seconds. It was clearly a combat-oriented teleport spell – with such a short recharge, she would be able to use it frequently, but it was unlikely to eliminate the need to carry recall potions for her escape tool. At least for now. She had already memorized the Novaspark Academy locus, and all skills could be grown.
+
+As soon as the ten seconds expired, she used it again, switching back, returning to the circle of her friends.
+
+“You look happy,” Malika said, smiling at her.
+
+“I am!” And she could even feel the grin growing on her face.
+
+Ali spent the next hour or so while her friends recovered familiarizing herself with her new teleport skill – but mostly it was an excuse to play with it.

@@ -1,0 +1,347 @@
+---
+id: 3688fdb7-348b-52f1-9e08-b6a5b81bb132
+page-type-slug: story-chapter-royal-road
+title: "Chapter 15: Look Mom, I’m a Bear"
+slug: 0015-chapter-15-look-mom-i-m-a-bear
+partOf: dungeon-of-knowledge-complete
+position: 15
+ownLength: 5979
+unit: words
+ownProgress: 5979
+publishedAt: 2024-02-11
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1514400/chapter-15-look-mom-im-a-bear"
+royalRoadId: "1514400"
+markedReadAt: "2026-06-29T20:11:30.258Z"
+---
+
+Mato
+
+Mato awoke to the fluting song of a robin greeting the pre-dawn light through the open windows in his bedroom. This had been his room for as long as he could remember, even before his older brothers had moved out.
+
+Perhaps it’s time for me to find my own place, he thought. Something out in the forest like his brothers would suit him fine, somewhere away from the ugliness of town life and a little more connected with nature. To be surrounded by the rustling leaves of the oaks, the scent of earth, the calls of birds, and the forest animals – he sighed softly at the thought of such a peaceful image.
+
+Even though he had been considered an adult for several years now, with the unlocking of his class, his official status in the kingdom of New Daria had just taken a huge leap forward. He would be afforded significantly more respect from here on out, and the freedom to choose his own path. At least, officially.
+
+This is still Myrin’s Keep, he reminded himself. There was not a whole lot of respect to go around in such a place – and he had inherited his father’s Beastkin genes, so he would likely always be viewed with some hostility or fear.
+
+That’s their problem, he thought, reminding himself that he didn’t care. He would forge his own path – with his strength if he had to.
+
+Still, he wasn’t about to let such things bring him down today. He dismissed the negative thoughts, returning to the reason he had woken up in such a great mood.
+
+I’m a shapeshifter!
+
+He cleaned up and dressed quickly, heading downstairs to the kitchen and opened his class status again, still not tired of seeing it. The huge oak he visited in his mind when he viewed his status had grown substantially larger, burgeoning with the growth of his class and experience. The branches were thicker, reaching wider and higher, rooted in a swirling cloud of glowing translucent green leaves. As it always had, the bark on the tree’s trunk rippled, drawing aside to reveal the glowing green writing within.
+
+Name: Mato BahrRace: BeastkinClass: Druidic Shapeshifter – level 1- Arboreal Sanctuary – level 1You emit a spherical Sanctuary aura of nature magic centered on yourself. Range: 10.3 feet.Mana: You can redirect damage from anyone to yourself. Range: SanctuaryNature, Domain, Area, Wisdom- Swipe – level 1Stamina: A slashing attack with your weapon that hits all enemies directly in front of you for weapon damage +24% [skill + strength]. Physical, Melee, Area, Strength- Brutal Restoration – level 1Mana: Enhance a Physical, Melee attack with additional nature damage. Gain +10.1% [10 + skill / 10] of the supported attack’s damage as health over 30 seconds.Nature, Melee, Healing, Support, Wisdom- Bear Form – level 1Stamina: Shapeshift into a bear.Bear Form: Your hide provides +49 [class x 12 + skill x 12 + endurance] natural Armor. Granted Skills: Charge.Nature, Shapeshift, Buff, Endurance- Wolf Form – level 1Stamina: Shapeshift into a wolf. Wolf Form: Your perception attribute is increased by +42% [40 + skill x 2].Granted Skills: Hamstring, Pack Tactics, Tracking.Nature, Shapeshift, Buff, Dexterity- Primal Rage – level 1You embody the primal aggression of nature. The more you are hurt, the more your Primal Rage takes over to destroy everything around you. For each point of health lost, your Physical damage is increased by +1%.Nature, Melee, Mastery, Vitality- [Locked]- [Locked]- [Locked]- [Locked]General Skills- Identify – level 4- Cooking – level 4- Wilderness Lore – level 5Aptitudes- Languages: Common, Beast- Mana (Affinity): Nature- Strong (Racial): +7 Strength- Tough (Racial): +10 EnduranceAttributes- Vitality: 14- Strength: 23- Endurance: 25- Dexterity: 7- Perception: 6- Intelligence: 8- Wisdom: 14Equipment- Weapon: Mace – level 1- Body: Leather Vest – level 1Evasion: 12Dodge: 30%Health: 140/140Stamina: 250/250Mana: 140/140
+
+I can’t wait to try it out. Leaving the cavern with its monsters and returning to town when all he had wanted was to let loose with his new skills had been hard – but Calen was right, his mother had been so relieved to see him alive.
+
+He stepped into the family kitchen and inhaled deeply. The air itself seemed to carry a subtle hint of comforting aromas, a delightful medley of spices, herbs, and the lingering smell of roasted coffee beans.
+
+The heart of the home.
+
+With a small injection of mana, he lit the sconces, filling the room with a soft warm glow, and then crossed the sturdy granite-tiled floor with a spring in his step and bent over to peer into the oven.
+
+That looks just about perfect.
+
+He opened the oven, and the aroma of freshly baked bread billowed out to fill the kitchen. He disabled the timer and heating enchantments he had set last night before he went to bed, and pulled the bread out, setting it on the large oak dining table that dominated the center of the kitchen. Large enough for a family of seven, it was steeped in nostalgia and the memories of him and his brothers hanging on every word of his dad’s epic stories, while his mom sat smiling happily beside him.
+
+His father was out visiting his brothers, and so breakfast today would be a small affair – just him and his mother – and she would likely be up soon. If she wasn’t already stirring, the scent of the fresh bread wafting upstairs would certainly wake her.
+
+He opened the pantry, remembering to refill the preservation enchantments with mana, before pulling out some eggs, fruit, cheese, and coffee. The coffee he set to brewing beside the hearth, and then, with the ease of years of practice, his hands automatically set the heating runes and he began preparing some eggs. Scrambled, with a sprinkling of grated cheese on top. Just as she preferred.
+
+Keeping an eye on the eggs, he sliced up some fruit onto the white ceramic platter with the blue trim while his mind drifted back to his new class and the events of yesterday.
+
+Aliandra.
+
+It was thanks to her and her shrine that he had uncovered his powerful affinity with nature magic and unlocked his Druidic class – but the fight to save her from the wolves had been brutal. Far worse than anything he had imagined. Monsters are something else.
+
+Any fight that you walk away from is a good one, he reminded himself, echoing one of his father’s favorite quotes. The fight had been insane, but they had done it. Malika had been a bit of a stick in the mud, telling him off afterward, but she was no slouch in combat situations. Mato had known it the instant he had seen her standing, recently beaten up, in the Town Hall. The way she carried her admittedly poorly fed body told him all he needed to know about her fighting skill.
+
+Maybe I should feed her, he thought, looking at the breakfast that was rapidly coming together in the family kitchen. She might loosen up a bit. His mom had always kept snacks in the house in case dad got grumpy, and for a long time he had been sure his dad would fake grumpiness to get extra. But will that work on human girls, too? She did seem half-starved, and that just wouldn’t do. He resolved to pack some extra food when he headed out.
+
+He wasn’t quite sure which form he preferred. His class had offered him two shapeshifted forms: Wolf and Bear. Probably the wolf, he thought. Perhaps a little ironic, given his heritage. The bear was huge, heavy, and slow, but it had a lot of armor and an admittedly exciting charge ability which would leverage his momentum for more damage. But the Wolf Form was sleek and powerful, and it looked like it would do a lot more damage to monsters. Damage is king, he thought, again recalling his father’s stories and anecdotes about his old life as an adventurer.
+
+I’ll just have to try both – of course, the different forms could have advantages against different monster types. The status sheet and the skill descriptions had lots of numbers, and while Calen would be all over that with his notebook and calculations, Mato much preferred to ask questions with his fists, as it were. Or fangs and claws, now. He would have his answers the first time he fought with his new skills.
+
+Primal Rage, though, he already knew would be his favorite skill. Following in his father’s footsteps, his rage ability was a druidic version of one of the many variants of Berserker skills. And his version seemed exceptionally powerful – he was certain it would turn his shapeshifted form – whichever one he decided to use – into a powerhouse on the battlefield. All through his youth, he had been accused of having a temper, getting into fights too easily, and having a short fuse. Now he would turn that inner rage into his personal power.
+
+There seemed to be a great deal of implied synergy in his class that he wanted to discuss with Calen. He assumed Arboreal Sanctuary would allow him to take damage on behalf of his friends, protecting them while at the same time fueling his Primal Rage. His personal heal – Brutal Restoration – was based on how much physical damage he dealt out – which again would benefit greatly from Primal Rage.
+
+He caught the creak of footsteps on the wooden stairs, and turned off the heat, pulling out a couple of plates.
+
+“Morning Mato, you’re up early.” His mother greeted him warmly as she came and sat down at the table. “Thank you,” she said as he set a plate in front of her and then joined her at the table. She pulled a ribbon from her pocket to tie back the thick red hair he had inherited as part of the Human side of his heritage.
+
+“I’m going to meet up with Calen in a bit and then we were planning to go down and do some monster hunting to gain a few levels today.”
+
+“With the two girls you mentioned; Aliandra and Malika?” she asked.
+
+“Yup.” His answer was muffled by a mouthful of food, earning him the raised eyebrow of disapproval.
+
+“Mato,” she said, clearly switching to a more serious mood. “I want you to be careful with that rage skill of yours.”
+
+“I’ll be ok, mom,” he answered. “It’s not that different from dad’s skill.”
+
+“You forget, I was there all those years of adventuring, healing him when he screwed up. I remember just how long it took him to learn to use it well. He loves to tell a good story, but the truth was sometimes far rougher than he seems to remember. If he remembers at all.”
+
+Mato glanced up in surprise. He had never heard her be so blunt before. Typically, she never spoke of her days as an adventurer, preferring to let his father tell the stories.
+
+“Ok,” he said. “I’ll be careful.”
+
+“Good,” she said, and her smile returned, her green eyes crinkling, full of warmth. “You have a good heart, Mato. Here, I want you to have this.” She placed a thick green leather-bound book on the table and pushed it toward him.
+
+An Introduction to Druidic Magic.
+
+His eyes widened. Books were generally quite expensive, but ones about magic were far beyond his family’s means – or so he had thought.
+
+“I earned this from a quest a long time ago, and it has helped me with my class more times than I can count. I want you to keep it with you. It might not be useful right at the start when everything is exciting and the skill levels grow fast, but as you advance your class and your abilities, it might be just what you need to help direct your growth. I know you’re not one to enjoy studying like Calen, but please trust me on this, ok?”
+
+I’m not a kid! he wanted to protest, but something in her manner stilled that response. Instead, he simply nodded, picking up the book carefully. He was sure it was worth a fortune in gold. Easily worth more than everything in the house combined.
+
+“Thanks, Mom,” was all he could manage in the face of her extraordinary gift.
+
+“My pleasure,” she said. “Now off you go and enjoy monster-slaying with your friends. And thanks for making breakfast.”
+
+Mato finished his breakfast and pushed his chair back, rising to his feet, pausing only to run the dishes through the cleansing enchantment and fill his pack with food.
+
+“Be safe, ok?”
+
+“Yes Mom,” he answered automatically, and gave her a goodbye kiss, before heading out the door.
+
+***
+
+Calen was already there when he arrived at their agreed meeting spot. It was the same sewer entrance they had used the first time they went down, and Calen was leaning up against a wall reading his favorite book:
+
+The Unexplored Lands, by Lyeneru Silverleaf, Elven Pathfinders Guild.
+
+Mato knew it by sight, considering Calen must have read it about a hundred times. Even though Calen’s unnaturally pale skin, slender build, and the pointed ears almost hidden beneath his silvery hair were all unmistakable signs of his Half-elven race, his friend relentlessly ignored everything about the Elven side of his heritage. Everything except for Lyeneru Silverleaf. Calen idolized Lyeneru, the legendary pathfinder and Elven archer, and he voraciously consumed everything he could find related to her adventures.
+
+It was said that half-breeds were universally hated by everyone, but Calen had never talked about it. His race had always been a magnet for bullies and thugs, and Mato had earned a large number of bruises standing up for his friend. Mato was not viewed much better, also being a half-breed but he was generally bigger and stronger than most; he had his father’s Bear Beastkin genes to thank for that. And while Calen preferred to back down and escape, Mato approached all conflict head-on. He had come to appreciate it was simply a difference in approach between the two of them.
+
+“Hi Calen,” he greeted, getting a nod from the shadows for his effort. “Did you get everything done?”
+
+Calen put his book away in his pack with care and then answered. “My mom said she’d deliver the sword to the mayor later today.”
+
+Mato frowned. He had always despised Donavan Asterford for his self-important, entitled noble attitude, regularly getting into fights with him over his irritating habit of talking down to everyone. However, as much as he disliked him, he would never have wished for him to be crushed in a rockfall. A punch to the face was good enough. Maybe more than a few.
+
+He leaned down to help Calen lever the grate up so that they could descend into the dark sewer below. As soon as they reached the bottom of the rusty iron ladder, Calen summoned his light, setting something scrambling off into the shadows. Alert for a moment, both of them waited, but nothing emerged to attack, so they headed off down the smelly, damp tunnels.
+
+“Calen,” Mato began. “Can you help with some of my skills?”
+
+His question immediately got a curious look from his friend, so he shared the details of his Brutal Restoration, Primal Rage, and Arboreal Sanctuary skills, explaining his thoughts on how they might synergize.
+
+“Do you think it will work that way?” he asked, hoping that his friend would agree. Calen preferred to downplay his intellect, but Mato knew from experience that he was extraordinarily smart.
+
+Calen remained silent for a while as they continued down the dark sewer passage, with just the soft plinking of dripping water breaking the silence. Eventually, he answered. “Yes, it should work like you say. They should all benefit each other.”
+
+“But?” Mato could tell that Calen had more to say, but probably wouldn’t share unless prompted.
+
+“Mato, I think your Primal Rage is a dangerous skill.”
+
+Mato sighed. Why does nobody like my most powerful skill? It’s really strong!
+
+Surprisingly, Calen stopped walking and continued. “It’s a passive Berserker skill, Mato. You won’t be able to turn it off. I’m just worried you will lose control.”
+
+“I’ll be fine. I’m used to being angry in fights.” Mato pressed his lips and frowned, bristling a little inside. Everyone thinks I can’t handle it.  So far, everyone he had shared his skill with had warned him about it. First his mother, and now Calen too. “I know what I’m doing. Besides, it’s the same as my dad’s skill.”
+
+While Calen didn’t seem to be happy about it, he didn’t press the issue, for which Mato was grateful.
+
+“What do you think of the bear and the wolf forms?” Mato asked.
+
+“Those both seem quite powerful,” Calen said. “I think you should use the bear for now, until we have someone else to tank for you. Your wolf’s Pack Tactics and Hamstring will synergize better with a bigger group.”
+
+They continued in companionable silence, their footsteps echoing through the dank tunnels as Calen’s magic held back the darkness. He guessed they were probably halfway to the rockfall before Mato finally broke the silence again.
+
+“How are you liking your class?”
+
+“It’s really strong,” Calen answered thoughtfully. “Eclipse seems like a powerful stealth skill, but I’m struggling to figure out how I will use the rest of my skills with it. Everything I have involves Light magic, which breaks stealth obviously.” He pointed up at the mote of light that floated up near the roof of the tunnel, silently following along with them.
+
+“I’m sure you’ll figure it out,” Mato answered. “You always do.”
+
+“That’s no help,” Calen responded.
+
+“At least people will notice you with all the light magic,” Mato quipped. “You’re on your way to becoming as legendary as Lyeneru.”
+
+Calen sighed, and Mato grinned.
+
+Mato couldn’t help teasing him, but in truth, he was happy Calen had unlocked a class that seemed very powerful. It would do him good – and having a problem to focus on typically was what made him happiest in the long run.
+
+Mato was still chuckling to himself when he turned a corner to find a lone spider roaming the tunnel, startling both of them.
+
+Giant Spider – level 1 (Hostile)
+
+“Spider!” Mato called out, alerting Calen, while he triggered his shapeshift. His body twisted and warped, pulling his muscles while his limbs changed shape. It wasn’t a painful experience, exactly, but having your bones twist and grow while still inside you wasn’t exactly comfortable either. His body grew heavier, pressing down upon the slick brick floor as the denser muscle and thicker bone of his new form settled onto large, clawed paws. As soon as he assumed the form of his bear, he used his Charge. Heavy though he was, an exhilarating sense of unstoppable power coursed through his body, accelerating him to an unbelievable speed as he tore across the broken, crumbling brick of the sewer toward the shiny, black Giant Spider.
+
+It screeched as he smashed the spider into the wall using the full force of his weight and the momentum of his Charge. Pain burst through his shoulder as the spider lashed out sinking its black fangs into him, but he simply ignored it, his fur and heavy hide sufficient to blunt the damage significantly. He channeled a little stamina into his Swipe skill and lashed out with a heavy paw. Power and energy rushed through him, accelerating his claws into a horizontal sweeping attack. A satisfyingly loud crack echoed off the damp brick as his paw smashed into the spider with chitin-crushing force.
+
+A spray of dark ichor drenched the side of his face.
+
+He shook it off, grinning as he shifted a little to the side to give Calen a clearer shot and attacked again. This time, as he spent his stamina to power a second Swipe, he also spent some mana on his Brutal Restoration skill, attaching the healing support skill to the Swipe. He didn’t have a better explanation for how he did it, only that it felt intuitive, like asking the second skill to enhance the first. A brief flicker of green light burst out from where his claws connected, lighting up the tunnel, and reflecting off the shiny carapace. His claws tore through the chitin armor easily, ripping through it with sheer physical force and the additional burst of nature magic. As soon as the strike landed, warm magic flowed back through his body, beginning to heal the bite.
+
+Hissing loudly, the Giant Spider lunged forward and sunk its sharp mandibles into his shoulder again. His thick hide and fur prevented it from penetrating far, which was a little disappointing. It felt like he could sense a little increase in power from his Primal Rage, but it wasn’t particularly noticeable yet, and his restoration magic was quickly erasing the damage anyway. He frowned, looking for some way to use his Arboreal Sanctuary to power his Primal Rage. But Calen wasn’t taking any damage, so there was nothing to steal.
+
+Doesn’t matter, he thought, thoroughly enjoying the feeling of power that came from stacking his Swipe with Brutal Restoration, and how tough he felt with the additional armor and weight of his shapeshifted Bear Form.
+
+A blindingly bright streak of light shot down the sewer tunnel, followed rapidly by a second and a third, as Calen joined the fight, firing arrows lit with magic that punched into the side of the spider. It didn’t last too long after that.
+
+Your group has defeated Giant Spider – level 1.Swipe has reached level 2.
+
+“That was much easier,” he said after shifting back to normal, recalling the first time he had faced one of these spiders.
+
+“Yes,” Calen agreed, a hint of a smile playing across his reserved face.
+
+He checked quickly but found that his Brutal Restoration had continued healing him, albeit slowly, and now that it was over, he was back to full health already. Well, that’s handy. It certainly would cut down on recovery time between fights.
+
+Curious about the change he had seen with Identify right before the fight, he pulled up the description of his skill.
+
+Identify – level 4Mana: Discern information about a creature or item up to level 5 [class + skill]. Synergizes with any relevant Perception, Knowledge, or Information skills. Synergy (Languages): Identify can display disposition for beasts.Knowledge, Perception
+
+That explains it, he thought, realizing it was his new beast ‘language’ that had come with his class that was providing additional information on his Identify skill. Spiders were beasts.
+
+Does that mean I could learn to talk to them? he wondered. Although, how intelligent could a level-one spider that lived in the sewer really be?
+
+Calen
+
+That was far easier, Calen thought, his eyes lingering on the ichor and crushed chitin of the black spider before searching the darkness up ahead for anything that might have been attracted to the noise. Quickly, he extracted his spent arrows from the corpse, wiping them clean of viscous green goop before returning the undamaged ones to his quiver. The rest he tucked into his pack for later repairs.
+
+The contrast between this fight and the last battle they had fought in the cave against the wolf pack stood starkly in his mind. Yesterday, he had barely survived, and today, with a new class, he hadn’t even gotten winded, let alone hurt. It was really no contest.
+
+With Mato taking the front line and tanking, and even healing himself, all Calen had to do was make sure his skills were all properly aligned and powered – and that he was using them correctly. It wasn’t even tough to use both Radiant Archery and Arrows of Brilliance simultaneously. The spider had died fast – faster than he had expected.
+
+One of those wolves was level five, though, he warned himself soberly. And it led a group. This had been a solo level-one spider. The true test would come later when they faced a similar challenge together. But still, Calen was excited. His class fit him; in some indefinable way he couldn’t really articulate.
+
+Up ahead, Mato began to move on down the dark tunnel, but Calen hesitated, frowning a bit. That berserker skill… It hadn’t seemed to be a problem in the fight against the Giant Spider, so perhaps Mato did know what he was doing. Still, it didn’t sit easily with him.
+
+He stepped forward, putting his unease away for later, and followed his friend down the sewer tunnel, tracking the path by memory. It was a marvel: Explorer’s description simply said he had an enhanced spatial perception and perfect recall of the places he had explored. But the experience of it was something else. He could ‘see’ the sewers as if he was studying a map in his head. A perfect map, with depth and color. One he could mentally traverse in an instant. If he had his notebook and pencil, he was certain he could transcribe it in detail.
+
+So it was that when he turned the next corner, he knew exactly where he was. The chamber with the cracked and crumbling floor that had collapsed out from under them in the middle of the fight against the rats, dumping them into the undiscovered cavern below. With a simple application of his will, he sent his Mote of Light on ahead, diving down through the hole to illuminate the rope still dangling there, and the trickle of foul sewer water pouring down onto the rock pile below.
+
+As he followed Mato down the rope, that same prickling sense of unease returned, only stronger now.
+
+What is that?
+
+He had dismissed the sensation before as simple anxiety or unease at the dark cavern, but there was definitely something uncanny or strange in this space that had not been present in the sewer above.
+
+Something like a premonition. Though he didn’t usually put much stock in things like that. It must just be the sense of age and decay.
+
+His foot reached the rocks below and he released the rope. And on his next step, the sound of a chime startled him.
+
+Explorer has reached level 3.
+
+“What’s wrong?” Mato asked, shifting alertly as if reacting to some unseen danger.
+
+“I’m not sure,” he answered, “I have a strange feeling down here.”
+
+“Yep, it’s weird alright. Nature seems screwed up in here.”
+
+It’s not just me.
+
+Still, he saw nothing obviously out of place, so Calen dismissed it for now, instead turning on the tracking ability of his Explorer skill, happy to find their own tracks from before. Mato shifted into his Wolf Form beside him and then they headed out into the cavern with his magic lighting the way. He kept his bow at the ready, eyes searching the vast darkness beyond the light, always ready for monsters or danger.
+
+Explorer has reached level 4.
+
+He gaped at the notification. What’s making it level up so quickly?
+
+He stopped, scanning his surroundings once more. But other than an enormous pile of bleached bones near a blackened stump, he couldn’t see anything that might shed light on his conundrum. He scratched his head and studied the tracks. As expected, they had grown more detailed and clearer with his skill level rising, but other than the prickling premonition growing similarly stronger, nothing seemed to be amiss.
+
+Just as he was about to continue, his chime sounded again.
+
+[Explorer] You have entered a dungeon.
+
+He felt a sudden ice-cold chill as his premonition crystallized.
+
+“Mato… I figured out what it is. This is a dungeon.” His eyes darted back and forth, scanning every single dark nook and cranny he could see, searching for the monsters that surely lurked just beyond his sight.
+
+Mato’s body warped as he shifted back to his Beastkin form. “So?”
+
+Calen stared at Mato blankly. Does he not know what this means? “What do you mean, ‘so’? Dungeons are extremely dangerous.”
+
+“Yes, yes. They have monsters and stuff,” Mato answered, standing nearby and studying their surroundings before turning back to look at him. “I don’t see why you’re worried. We already know this place has monsters. I’m not surprised it’s a dungeon.”
+
+Calen pressed his lips together, keeping his thoughts to himself. There were some things Mato was simply not interested in, and when he got like that, there was no convincing him. In Mato’s mind, the terrifying revelation that they were in a dungeon seemed to be a non-event, and Calen knew he would not be able to convince him otherwise.
+
+He probably just sees it as more monsters to fight.
+
+Calen continued, following the map in his head, and the tracks and landmarks across that dark cavern, deep in thought. He glanced at Mato, but the wolf seemed to move with a barely contained energy, almost like he was excited. Who can I tell? Likely this discovery explained many of the frequent monster attacks in town – the Kobolds and spiders, and sometimes slimes or rats that would appear somewhere in town, or the outlying farmlands, and cause chaos and destruction until someone found a high enough level person with a combat class to exterminate them. Nobody had figured out where they were coming from yet.
+
+Also, wasn’t there something about the excess mana from a dungeon affecting nearby people?
+
+He shivered.
+
+***
+
+They approached the small cave where they had sheltered from the wolf pack without further incident, but as they approached, Calen could clearly see that it was deserted. The dirt by the entrance was busy with a multitude of crisscrossing tracks.
+
+That’s weird. There were quite a few tracks that must have been Malika and Aliandra coming and going. Aliandra’s tiny feet were quite obvious, but there were also monster tracks mixed in among them, fresh claw marks from the large Sewer Rats, and Calen couldn’t figure out which was hunting which.
+
+“Looks like the tracks head to the shrine area,” Calen said, letting Mato know what he had found. “Keep alert, there are some rat tracks, too.”
+
+His friend nodded and shifted back to his Wolf Form, and they headed out toward the shrine.
+
+As soon as they entered the Grove area that contained the shrine, they were greeted with a hiss and a screech, and two monstrous Sewer Rats charged.
+
+Sewer Rat – level 1-2 x2.[Explorer]Category: MinionThreat Level: NormalMonster Type: BeastDamage: Physical
+
+Calen blinked away the additional notifications. Not now! He grabbed his bow, aiming at the nearest rat while Mato growled and rushed forward.
+
+“Oh no! Sorry!” The light voice that cut through the imminent battle had a strange melodic accent and sounded familiar.
+
+To his astonishment, the two rats immediately stood down and retreated to flank Aliandra who stood near the shrine, her bare feet upon a new lush carpet of green moss and a chagrined expression on her face.
+
+Calen stood on guard for a few moments, but the rats stubbornly refused to attack anyone. Lowering his bow, he stepped forward.
+
+[Explorer] You have entered a dungeon.
+
+Why is this skill so noisy?
+
+“I’m sorry about that,” Aliandra said, allowing him to connect the source of the unusual accent.
+
+How did she learn to speak so quickly? Must be a skill.
+
+“You can talk now, little one?” Mato growled, as his form changed back to Beastkin, echoing Calen’s thoughts.
+
+“Yes, I can.” The reply was accompanied by a frown. “And I’m not little, you’re just huge.”
+
+Mato simply burst out laughing – a response that was so typically him that Calen almost rolled his eyes. The loud belly laugh startled both girls, but soon they were grinning, too.
+
+“I like you. I’m Mato. Glad to finally be able to meet you properly.”
+
+Calen had lost Identify when he had affixed his class, the general skill subsumed by Explorer, but he could still identify people by using the more advanced class skill.
+
+Mage [Ancient] – Fae – level 4[Explorer]Race: FaeThreat Level: NormalDamage: Arcane, NatureMonk [Street Rat] – Human – level 4[Explorer]Race: Human (Ahn Khen)Threat Level: NormalDamage: Physical, Soul
+
+Now, this looks useful, he thought, studying the new notifications. Must have happened when Explorer leveled up. There was some variation, the information his skill provided was a little different for the Sewer Rats – they had a ‘category’ and a ‘monster type’. Hopefully, it doesn’t get too distracting in battle.
+
+Calen put his pack down on the clean mossy ground and pulled out the two bundles his mother had given him when he left earlier. He handed one to Aliandra and then the other to Malika.
+
+“What is this?” With a look of suspicion flickering across her face, Malika opened it to reveal the shirt and pants his mother had crafted from a dark brown rugged cotton fabric. “I can’t accept this,” she said, trying to hand it back. “I have no money to pay you.”
+
+Aah. He had sort of expected something like this after his mother’s strange suggestion. Doesn’t like being in debt? Or just dislikes charity?
+
+“My mom is a Tailor, and she insisted on making you two something as a small thank-you gift for helping me survive the trial. She was very worried about me.”
+
+The hard expression on Malika’s face immediately softened and she looked again at the clothing in her hands.
+
+“I’m supposed to apologize that I can’t guess your sizes, so the fit is probably off. She wanted to invite you to stop by the store when you’re in town and she can make a better set.”
+
+“This is really well made,” Malika said, running her hands over the stitching as she admired the craftsmanship. And then in a much softer voice, perhaps not intended to carry, she added, “Expensive, too.”
+
+“It’s not like you have much choice,” Mato chipped in with his blunt directness. “What you’re wearing is about to fall off. And Aliandra’s shirt is more dirt and dried blood than cloth.”
+
+The last remnants of reticence evaporated, and he and Mato turned around and sat on the moss so that the girls could change behind the shrine.
+
+It was while he sat talking with Mato that he realized the strange discomfort and sense of premonition he had when he had entered the cavern had somehow magically disappeared.
+
+It didn’t take long for Aliandra and Malika to change. The fit was clearly too big, particularly on Aliandra, but they both emerged with smiles on their faces, happy to have clean clothing that wasn’t hanging in tatters. Aliandra had simply put a big knot in the shirt so that it didn’t hang below her knees, and Malika had turned up the hem on her pants to shorten the length a bit.
+
+Ouch. That’s why I am not a Tailor.
+
+“So, what happened?” Calen asked, his curiosity burning inside him. At the surprised looks, he elaborated. “How can you control rats? How can you talk now? Where did all this come from?” He pointed at the moss they were sitting on.
+
+“And you reached level four already!” Mato added. He was smiling, but Calen could tell his excitement for them was tinged with just a little jealousy.
+
+“Ali is a summoner,” Malika supplied, and Aliandra nodded.
+
+Ali? Calen glanced at Aliandra in surprise, wondering how the tiny Fae had managed to bypass Malika’s impregnable defensive walls, getting on friendlier terms in such a short time.
+
+“I summoned these two,” Aliandra said, patting the rat that was following her around like a puppy, albeit a giant one that was nearly taller than she was. Then she sat and began to explain a little about her class, and all that happened, filling in the details of how she had gotten here, which Calen noticed Malika seemed to already know.

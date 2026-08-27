@@ -1,0 +1,213 @@
+---
+id: 82f3a0ee-2758-5434-8b8c-d4a58eed5f19
+page-type-slug: story-chapter-royal-road
+title: "Chapter 57: Acolyte"
+slug: 0057-chapter-57-acolyte
+partOf: dungeon-of-knowledge-complete
+position: 57
+ownLength: 4269
+unit: words
+ownProgress: 4269
+publishedAt: 2024-04-11
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1590578/chapter-57-acolyte"
+royalRoadId: "1590578"
+markedReadAt: "2026-06-29T20:12:50.967Z"
+---
+
+Malika peered around the bone-encrusted bookcase, squinting against the darkness beyond. By the light cast by their small, distant campfire, she could easily make out the four Kobolds, and the hulking shape of the Piercer Scorpion standing guard behind them. She had no idea what they were talking about as they hunched over their fire, their voices carrying over to her as muffled yips and quiet chirps.
+
+Instead of impatiently waiting for Calen and Mato to regenerate their mana, she had volunteered to scout their surroundings, but now she was feeling more than a little out of her depth. If the Kobolds hadn’t made an easily visible fire allowing Calen to point out the way to her, she was sure she would have just tripped over their camp in the darkness. Even now, she was still so far away, she could barely tell them apart.
+
+I need to get closer. At least, she would need to risk it if she wanted some real information for this fool’s errand.
+
+Choosing her footfalls carefully to minimize the crunching sound beneath her feet, she crept forward to a nearer lump of bone and poked her head out again.
+
+The Piercer Scorpion, of course, loomed large behind the campfire, standing entirely motionless. If she hadn’t seen one in action, she might have mistaken it for a realistic statue. The two rogues were easy to make out by the daggers they had sheathed at their waists, their black-stained leather armor, and their pitch-black scales. The mages, however, were something new altogether. They wore cloth robes of far higher quality than Malika had yet seen in this dungeon, and even their coloration was different. Their exposed faces and tails were covered with off-white and gray scales, and their large pale gray eyes were visible even at this distance because of the soft glow against the darkness.
+
+A new kind of mage?
+
+She backed away, making every effort to move silently. Hopefully, Calen had fully regenerated his mana by now – with his skills, he should have much less trouble sneaking up on this group. As soon as she reached the bone-encrusted bookcase, she retraced her steps to rejoin the others, resolving to leave all future scouting in the dark to Calen.
+
+“Two mages, two rogues, and a Piercer Scorpion,” Malika announced. “I’m not sure what the mages are, but they’re not the normal, red-scaled kind and their gear looks better than usual,” she said. “How do you think we should do this?”
+
+“Mato on the Piercer, obviously,” Calen said.
+
+“Good, I’m looking forward to a rematch!” Mato growled, flexing his bulky shoulders.
+
+Initially, Malika had thought Mato’s confidence was just bravado, however, she had come to appreciate that he lacked any kind of pretense or guile. He simply enjoyed a good fight. I guess he’s growing on me, she thought, a little surprised by the realization. If two people could have opposite values relating to preparation and risk, it would be her and Mato.
+
+“What do we do about the rogues? Me and the shamans?” Malika asked, knowing that her armor and evasion would be significantly better facing off against the rogues than either Ali or Calen.
+
+“That works,” Calen said, his expression focused, clearly thinking. “And then Ali and I will take out the two mages first?”
+
+“Sounds good,” Malika said after glancing at Ali to see if she had any objections to the plan.
+
+The Fae shrugged slightly. “Sounds good to me.”
+
+“Ok, I’m ready,” Calen announced, standing up. “Mato, I’ll bring the Piercer Scorpion right to you.” He disappeared into the shadows, leaving his motes of light floating in the air above.
+
+Seeing him vanish silently into the darkness, Malika realized she had been oblivious to just how many skills he had to help him with this kind of scouting task. It wasn’t just the ability to cloak his presence, sound, and see in the dark. He had mentioned being able to identify things from much further away, he had a tracking skill, and he could shoot from extreme range. In fact, the only skill she shared, that was remotely relevant, was the ability to run faster than normal.
+
+A few moments later there came a distant, piercing screech, a commotion of chirps, and the ground began to shake and the bone-covered bookcases rattle from the heavy impacts of the Piercer Scorpion running. Calen appeared from the gloom with the massive Bone Elemental hot on his heels, both easily outpacing the rest of the Kobolds by a large distance. She hung back waiting for them to draw closer, and for Mato to secure the target, before engaging.
+
+Bone burst from the ground as a dozen spikes shot up, grasping for Calen’s body and capturing him in a bird cage, sized for a Half-elf. His head made a loud crack as it bounced off the instant bone prison and fell to his knees. With a groan, he raised his head, twisting around to stare at the onrushing mountain of bone elemental bearing down on him.
+
+He’s going to get crushed!
+
+Malika sprang into action, sprinting for Calen’s bone cage while pushing her speed to the limit with Divine Step. She crossed the distance in a second and stepped past to intercept the monster. Her heart hammered in her chest as she stared up at the gigantic Piercer Scorpion thundering toward her while its blade-like legs churned the ground making the stone quake. The frontal spear legs drew back, coiled to strike as it closed the distance in a flash. Malika swallowed and took her stance, placing her body between the monster and Calen as he struggled to free himself.
+
+With its longer reach, the monster struck fast, spear limbs blurring as it lashed out with unfathomable power. She dodged left, and then right, feeling the wind of the blades caressing the skin of her neck before she leapt into the air and kicked it in the maw, unleashing her Soul Strike magic. Her foot cracked painfully against dense bone and bounced off, only her magical energy penetrating, and not particularly deep either. The only thing she accomplished was getting its attention. Which meant Calen would live.
+
+Unfortunately, that meant she had its attention. She ducked again, avoiding a spear strike by a hair, and saw a blur of movement from above. Desperately, she scrambled backward, but the tail strike sliced clean through the muscle of her left thigh and smashed into the stone below. Malika instinctively dropped her center of gravity and forced her momentum downward with Divine Step so the brutal withdrawal of the serrated tail wouldn’t fling her across the room. She couldn’t hold back the gasp of pain as the creature ripped its weapon out of her leg, tearing through muscle and spraying her blood across Calen’s cage. She stumbled, falling heavily to the ground as she pulsed her Healing Mantra to fix her leg, but she was still on the ground and the next strike was already incoming to impale her.
+
+The massive form of a Bear barreled over her prone body, colliding heavily with the monster, taking the lashing strike to his shoulder. Mato roared furiously, retaliating with a swipe of his heavy paw.
+
+Oh, Mato, perfect timing…
+
+Panting heavily, Malika scrambled to her feet, intensely grateful that she had been saved. The irony of it was not lost on her, she had leapt in to save Calen, and then she had become the person needing saving. What’s next, Ali rescues Mato?
+
+Calen wriggled free of his prison. From the looks of the scorched and burnt fragments of his bone cage lying around him, Ali’s mages had had something to do with that.
+
+“You ok?” Malika asked.
+
+“I… yes, thanks,” he managed, scooping up his bow.
+
+A great grinding crunch was followed by a heavy thump. Between two distant bookshelves, a broad wall of bone sprouted, covered with oversized protruding ribs, and reinforced with haphazardly piled vertebrae the size of small dogs.
+
+Malika spluttered, “What the…”
+
+“Watch out!” Calen hissed, darting sideways.
+
+Malika barely had enough time to throw herself to the ground again when a high-speed spear of sharpened bone shot past her ribs. What… but a glimpse of movement made her roll, and a second spear punched into the ground, slicing her calf muscle open. She winced, healing it, but immediately had to dodge again as another volley of spears cleared the distant wall of bone, shooting for her body lying exposed out in the open.
+
+A shimmer of gold flickered before her, and three bone spears shattered against Ali’s barrier.
+
+“Go kill the rogues,” Calen said, diving for the cover of the barrier, catching himself in a forward roll, and arriving on his feet with his bow drawn. “Ali and I can handle the mages.”
+
+“Right,” Malika said. Oh yes. Before everything had gone belly-up, there had been a plan. Malika searched the darkness, catching sight of the painfully bright Lightning Nova totems. The shamans seemed to be holding the line against the two rogues, apparently evenly matched. Malika sprinted over to disrupt the balance.
+
+She admired the lightning shield enchantment that retaliated with sparks every time the shamans blocked one of the rapid dagger attacks. Sparks of lightning that tore through the bone armor like butter. She dove into the midst of the fight, unleashing a flurry of punches that impacted against pliable scales rather than heavy bone armor. Her soul magic burst from her fists into the already softened-up rogue’s belly.
+
+It should be close now, she thought, giving her body over to the flow of combat, the dance of strike and counterstrike, pulsing her magic every time she hit. The rogue was flagging, looking rather worse for wear, bleeding, and scorched from several wounds already.
+
+She punched again, striking the Kobold in the ribs and feeling a crack of bone under her fist. The Kobold’s scales glowed with a soft yellowish-white light, and her next punch slammed into a fully intact bone plate.
+
+What?
+
+Malika’s next punch literally bounced off an apparently fully recovered and grinning rogue.
+
+That looked an awful lot like my Healing Mantra, she realized with the chill of knowing something with absolute certainty. What did we miss? She quickly turned to scan the battlefield but found nothing obviously amiss.
+
+Her gaze was suddenly drawn to a flicker of light and movement in a dark corner. Behind a blocky protrusion of bone stood a lone Kobold. It was dressed in a flowing, full-length robe with white embroidered symbols. Soft yellowish-gold scales covered its face and arms, and small horns of pure white poked up from its head. It blinked. It was the eyes that had caught her attention. They glowed brightly, yellow against the darkness.
+
+I knew it! They have a healer!
+
+“Healer in the back!” she shouted and immediately charged across the battlefield, knowing there would be no progress until the healer had been dealt with.
+
+Suddenly, her face slammed into spines of bone that sprang up to imprison her. She yelled in frustration, slamming the bars with her fists, trying desperately to break through the unyielding bone.
+
+“Ali, new target, all mages and rogues on the healer. Follow my arrows,” Calen’s calm voice pierced Malika’s frustration. At least they had understood the urgency of taking out the healer first. Her attention was suddenly wrenched back by a long bone spear punching through her ribs. She gasped, completely winded. She grasped the blood-slick spear with her hands and hauled it out while clenching her teeth against her muffled scream and then she healed herself.
+
+A golden barrier materialized in front of her prison, shattering several more incoming high-speed spears. Ugh, I’m a sitting duck out here, they are going to turn me into a pincushion in this cage. Obviously, that was the point, but she refused to give them the pleasure. She was a Street Rat for a reason. Malika lashed out, punching at the thick curved bone bars while a veritable volley of Firebolts and arrows flew overhead. Finally, she got one of the bone spines to shatter and she squeezed her body through the narrow gap.
+
+Malika charged for the healer, sprinting in an erratic line – and, sure enough, another bone prison erupted from the ground. Fortunately, this time it appeared two feet to her right side and she hurtled past the bookcase, still free of the Bone Mages’ frustrating attacks.
+
+She punched the Kobold healer, catching her right under her left arm, and knocking her to the ground. Malika kicked her several times while she tried to scramble to her feet. The Kobold’s scales glowed with pulses of her magic, and it seemed to shake off all her damage. I’m going to need help with this. Carefully, Malika aimed a sweeping kick, knocking the Kobold’s legs out from under her, making her stumble back into the open. Immediately, several Firebolts slammed into the glowing creature, punching through some of the bone armor. That was enough of an opportunity for Ali’s two rogues to shimmer out of the shadows stabbing in tandem with their gleaming daggers. Malika ignored the whistle and crash of bone spears flying through the air and shattering on golden barriers, intent only on punching the dangerous Kobold before her.
+
+It took the combined might of three mages, Calen, herself, and the two rogues, but they finally overcame the Kobold’s powerful healing magic and the regenerating bone armor. As soon as it collapsed, Malika breathed a big sigh of relief.
+
+“Mages next, Mato seems to be ok,” Calen said, calling out the next target.
+
+Calen’s firm, calm directions contrasted against the personality she had gotten used to. He’s normally so quiet. Malika ran for the bone wall as the two rogues ducked behind a dark bookcase and vanished. As she arrived, she saw the intensifying red glow reflected off the gray bone wall. She took three steps up the side of an ossified bookcase and leapt over the wall, just as three Fireballs detonated below her, blowing the bone wall to shards. As she reached the apex of her flip, Malika sighted the two Bone Mages below her. Adjusting her trajectory with a twist, she kicked the nearest mage in the back of his neck, trying to break it on the way down. Landing beside it, she ducked backward, giving all Ali’s mages and Calen a free line to attack the creature, while she unleashed her punches from behind. From her vantage point, she could see Ali sweating with focus and concentration, her barriers flicking into existence every time one of the Bone Mages cast their Bone Spear attacks.
+
+She kicked the staggered mage in the back of the knees, and it collapsed before her, taking three Firebolts and an arrow to the face before keeling over. The second Bone Mage died far faster, victim to a pair of Ambush strikes as Ali’s rogues reappeared, burying their daggers in its kidneys with identical, chittering snickers of glee.
+
+Without the regenerating bone armor, I could have taken these out by myself. As soon as the second mage died, Malika felt the pressure of the fight ease up. She took a moment to collect herself and breathe. One of Ali’s shamans lay collapsed on the ground beside the corpses of the two enemy rogues. The ones Malika had been supposed to take care of – at least according to their carefully laid plans which hadn’t survived past two seconds into the fight. The remaining shaman had already re-engaged, now attacking the Piercer Scorpion.
+
+Malika checked on Mato first, but his health seemed fine even tanking the Piercer Scorpion. His fighting style had changed dramatically. Malika studied it for a few moments, deciding he seemed vastly more confident in himself compared to the last fight. His new skill must give him an enormous edge. Good combat perception skills had that reputation, she knew, after all, it was what her Ahn Khen bloodline was renowned for.
+
+The Bear seemed to be moving with uncanny precision and efficiency now. Blindingly fast spear strikes that should have impaled him were blocked, leaving shallow gashes instead of debilitating injuries. Even the deadly tail strike that had nearly killed him while fighting the first scorpion now merely broke bones or left bloody gashes rapidly healing under the power of his restoration skill.
+
+She settled in for the long battle of attrition against the giant bone monster, finally stepping back and watching it explode as Ali finished it off with her favorite strategy – filling its armor with fireballs. The soft sound of her notification chimed in the back of her mind.
+
+Malika was quite low on stamina and breathing heavily after the fight. A couple of emergency heals, and a lot of frantic damage to try to kill the healer and the mage had really taken their toll on her resources. She walked across the now quiet battlefield and into the darkness where the golden Kobold healer had fallen. Grabbing the corpse by an ankle, she dragged it over to where the others sat recovering from the long, hard-fought battle. She dumped the corpse in front of Ali, earning a wide-eyed look of puzzled worry from her tiny friend.
+
+“This thing was a real pain,” Malika explained. “You need to learn how to make them.”
+
+Aliandra nodded, and chirped, “By which logic, I should make a few more of you?” Malika gaped at the unexpected, hilarious snipe. Her expression made Ali turn pink. “I’ll just get busy over here, shall I?” she muttered.
+
+“You do that.”
+
+Malika sat down with a sigh and began her Meditation. It would take quite a while to regenerate all the stamina and mana she had burned during the fight. At least I have Mato’s aura. As she relaxed, she took the opportunity to review the results from a day’s worth of combat.
+
+Your group has defeated Acolyte of Azryet – Kobold – level 21.Your group has defeated Bone Mage – Kobold – level 22-23 x2.Your group has defeated Dagger Rogue – Kobold – level 19-24 x2.Your group has defeated Piercer Scorpion – Elemental – level 27.Soul Monk has reached level 18 (+2).+20 attribute points.
+
+Getting closer! Ali had unlocked the next class skill slot at twenty, and the Guildmaster had confirmed that was the usual progression. Just two more levels… I don’t want to get behind.
+
+Martial Artist has reached level 11 (+2).Soul Strike has reached level 14 (+2).Perfect Body has reached level 10.Soul Armor has reached level 12 (+2).Enlightened Evasion has reached level 10.Divine Step has reached level 8 (+2).Appraise has reached level 9.
+
+Solid progress all around, Malika decided, particularly chuffed that Divine Step had leveled twice. She had used it a lot during this battle – she had needed to, because the amount of damage their enemies had been throwing about was no joke. She spent seven points each boosting her dexterity and endurance, and then the remaining six on wisdom.
+
+Name: MalikaRace: HumanTitles: Street RatActive Buffs: Perfect Body, Soul Armor, Enlightened EvasionClass: Soul Monk – level 18- Martial Artist – level 11- Soul Strike – level 14- Healing Mantra – level 9- Perfect Body – level 10- Soul Armor – level 12- Enlightened Evasion – level 10- Divine Step – level 8- [Locked]- [Locked]- [Locked]General Skills- Meditation – level 6- Dancing – level 4- Calligraphy – level 3- Lockpicking – level 5- Appraise – level 9Aptitudes- Languages: Common- Bloodline (Ahn Khen): Dormant- Mana (Affinity): Soul- Relentless (Class): +100% to Stamina Regeneration- Relentless (Class): You can pay for any abilities with stamina instead of manaAttributes- Vitality: 35- Strength: 10- Endurance: 85 (+30)- Dexterity: 106 (+37)- Perception: 15- Intelligence: 17- Wisdom: 75 (+26)Equipment- Ring: Bronze Guild Ring – level 10Armor: 84Physical Damage Reduction: 14.28%Evasion: 70Dodge: 12.19%Health: 350/350Stamina: 765/850 (85 Reserved)Mana: 525/750 (225 Reserved)
+
+Ali sat on an uncomfortably lumpy rock, nursing a pounding headache, wishing she could have a bath. Her well-crafted Tailored Cotton Clothing clung to her skin, drenched in her sweat, with a big splash of crimson blood across the left sleeve – thankfully not hers. Everything stank of smokey flame and ozone. It was no wonder the Kobolds’ Tattered Robes always stank – they tossed fire about like nobody’s business.
+
+The concentration and focus of constantly reacting to the Bone Mages with barriers for most of the fight had taken a toll on her. It had demanded so much of her attention that she hadn’t even noticed that none of the enemies were dying until Malika had shouted her warning about the healer. Not exactly keeping an overview of the battle, there.
+
+She gazed down at the corpse of the yellow-scaled Kobold lying on the ground in front of her, the possessor of a Holy magic affinity. Acolyte of Azryet. Malika had been frustrated, but she was right. The healer had been by far the most dangerous Kobold in that group, and it would be incredibly powerful if she could learn to make it. Knowing Malika, though, she was probably most frustrated that she hadn’t figured out the healer quicker.
+
+She reached down and placed her hand on the Kobold’s scales, now soft and supple after the bone armor effect was removed. She turned it into motes of mana with her magic. I’ll need at least two more before I can learn this kind. She picked up the bone bracelet and robes the Acolyte had been wearing and examined them.
+
+Acolyte’s Bone Bracelet – level 14+5% spell power to Healing skills.+8 Wisdom.Requirements: Wisdom 49.Hands – CharmSimple Robes of Healing – level 15Resistance: 105+7% spell power to Healing skills.+17 Intelligence.Requirements: Intelligence 53.Body – Cloth
+
+The Bone Bracelet was just like the fire one she had given to one of her mages. Its smooth surface was marred only by the runic magic inscribed upon it. Ali examined the enchantment. Using her Runic Script, she studied how the magical runes combined to create the healing enchantment – but it immediately became clear that it would be a matter of more than just a few minutes to understand. The Simple Robes were not as good as what Ali was already wearing, however, the enchantment might be useful if she ever learned to make the Acolyte.
+
+No more Tattered Robes. The Kobolds inside the library seemed to be yet another step up in gear quality. I could do with some gearing up, too.
+
+Ali got up and walked over to where Malika was sorting various items the other Kobolds had dropped. “Can you use this?” She handed Malika the Acolyte’s Bone Bracelet.
+
+Malika took it, turning it over a few times before putting it down beside two other similar-looking bracelets. “Unfortunately, it’s too small for me. But perhaps we can keep it for later?” Malika pointed to the other two on the ground, “These are the same, only the enchantment is for bone magic.”
+
+Ali nodded and began her task of deconstructing the remaining corpses. Her Grimoire flickered and pulsed with energy and runes as she worked her way through the Kobolds. The level twenty-four Kobold rogue was a particularly welcome addition, hopefully allowing her to make even higher-level rogues. If I get lucky with the random summons, she reminded herself. One more before I can learn the Bone Mage variant, too.
+
+Ali deconstructed the second huge Piercer Scorpion.
+
+“Do you think you can learn to make those?” Calen asked.
+
+“I sure hope so,” Ali answered. The Piercer Scorpions were so devastating, that Ali felt they could certainly replace creatures like Bugbears in her repertoire. “I’d have to level up a bit first, though.” More than that, they would need to defeat at least a dozen more.
+
+“You can ride one into battle,” Mato grinned.
+
+Ali dutifully chuckled. No, she would not. She’d much rather keep out of the line of fire.
+
+“Are these similar enough to learn?” Malika handed her three Simple Robes. The two gray ones had enchantments boosting the wearer’s bone magic spell power but were otherwise the same as the Acolyte’s white Simple Robes of Healing.
+
+“I think so,” Ali said.
+
+“Ok, worth a try,” Malika said.
+
+Ali deconstructed the three robes, delighted to see her Grimoire react.
+
+Variant: Simple Robes added to Imprint: Armor.
+
+Malika smiled at the obvious light show. Clearly, she had gotten used to how Ali’s magic worked. “Do these next,” she said, handing Ali a set of four bone daggers, presumably looted from the rogue corpses.
+
+Each dagger was honed to a fine edge, so sharp and polished that it gleamed. With the same technique as the bracelets, the polished bone blades were delicately inscribed with magical runes down the center of the blade.
+
+Deadly Bone Dagger – level 20Damage: Piercing, Physical+11% increased critical strike chance.Requirements: 70 DexterityOne Handed – Dagger – Bone
+
+Ali quickly deconstructed all four of them, getting the expected update to her imprint after she deconstructed the third.
+
+Variant: Deadly Bone Dagger added to Imprint: Dagger.
+
+Unfortunately, her level twelve and fourteen rogues would not be able to take advantage of her newest dagger imprint. I’ll need higher-level rogues – hopefully soon.
+
+“I don’t have enough space anymore; can you carry these until we either get more or decide to sell them?” She handed Ali two sets of leather armor with bone splints sewn in to reinforce them, and the three bone bracelets. Ali nodded to Malika, storing the items in her ring.
+
+“Ok, what now?” Ali asked.
+
+“My mana is nearly recovered,” Calen answered, getting to his feet and hefting his bow. “I’ll go look for more monsters.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

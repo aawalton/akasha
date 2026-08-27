@@ -1,0 +1,199 @@
+---
+id: b4a6d3c7-8e4c-538a-8a09-55ee2564a1d6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 229: Rivals (Part 1)"
+slug: 0261-chapter-229-rivals-part-1
+partOf: dungeon-of-knowledge-complete
+position: 261
+ownLength: 2603
+unit: words
+ownProgress: 2603
+publishedAt: 2025-04-22
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2222132/chapter-229-rivals-part-1"
+royalRoadId: "2222132"
+markedReadAt: "2026-06-29T20:20:03.155Z"
+---
+
+“Come, Clarence,” Ali said, walking a little way out of their camp to confront the barrier that barred their way higher up the mountain. “I want your help deciphering this.”
+
+The Eldritch Tome riffled his pages in excitement and took off, chasing her, swooping around her head as she approached the extensive magical construct. With one particularly exuberant dive, Clarence collided with the barrier, bouncing off it. Immediately he grew golden teeth and snapped at the offending construct.
+
+“It’s ok,” she said, calming the offended book down. “We’re going to dismantle the barrier after I get a chance to study it.”
+
+Clarence took one last nip at the Lich’s magic and then his barrier teeth faded.
+
+Ali constructed a disk to sit on and levitated herself to approximately the middle of the barrier, several meters off the ground. Clarence circled slowly and then approached, hovering in front of her, and sprang open to a chapter on soul magic.
+
+“Thank you,” Ali said and turned on her Sage of Learning. The vast expanse of the necromantic array before her glittered darkly, very much like the one at the Temple of Bone – at least on a superficial examination, but she had subsequently learned the rune magic of the Trolls and now everything lay revealed to her scrutiny.
+
+I will discover your secrets. All I need is time.
+
+***
+
+Ali gritted her teeth in frustration. She had been at this for several hours and the jungle was now dark and filled with the nocturnal calls of hunters and prey that never came out during the daylight hours. Fortunately, nothing wanted to risk provoking her minions, or her friends camped nearby.
+
+“Stupid barrier,” she muttered, venting her frustration into the night.
+
+Clarence bobbed and riffled through the pages, returning to the chapter on soul magic, brandishing the gleaming, complex sequence of runes depicted on the first page like a weapon aimed at Nevyn Eld’s masterpiece.
+
+“Why do you keep showing me that page?” she grumbled. Not that he could answer her. There were occasional soul magic runes embedded in the structure, but not many, and it couldn’t have anything to do with what was actually missing. She had checked. Exhaustively. With her new understanding of Troll runes, she could now parse the key structures and connections written in their language, but invariably Ali found a mysterious gap in the center of each cluster as if something was supposed to be there but wasn’t. She couldn’t even guess what it might have been, just that the connections led nowhere, and the formation didn’t make sense.
+
+Why isn’t it unraveling on its own? She sighed and dutifully studied the text that Clarence wanted her to read for the umpteenth time, but no new insights came to her.
+
+“Maybe I’m just not smart enough,” Ali said, sighing again and closing Clarence. Defeated and frustrated, she slowly flew back to the camp. She was exhausted after such a long day, and she wanted to sleep.
+
+“Can’t dismantle this one?” Calen asked, his voice coming from the shadows before he slowly revealed himself.
+
+“Oh, I know enough to destroy it. But I still have no idea what it’s for. It’s annoying and frustrating, and I hate it.”
+
+“Well, you can’t always get everything,” he answered. “And you did get a lot out of this fight.”
+
+“That’s true,” she agreed, albeit a little begrudgingly. She had two new kinds of bat with drains and a nasty contagion. Lovely. She had learned the imprint for the troll witch doctor; the result of that knowledge was standing by on guard. She had also deciphered the remarkable inscribed gear of the troll runic soul ink skill – something she most definitely wanted to try out for herself when she had the time. Even though she hadn’t taken time to study her class notifications yet, she knew she had leveled up – but she was sure nothing there would aid her with deciphering the formation.
+
+“Hey Calen, what do you think happened to all those monsters you killed in the Spirit Realm?” she asked, suddenly remembering there were wolves, scorpions, tigers, and a whole host of other things that had attacked them.
+
+“Here,” he said, dumping four Ghostly Stalkers on the ground. “I knew you’d be interested in them, so I collected the wolves.”
+
+“Thanks!” she said, and quickly deconstructed the spirit wolves, adding the imprint to her Grimoire.
+
+Variant: Ghost Stalker added to Imprint: Wolf
+
+“Do you think the other monster corpses are still there?” she asked, noticing the open chapter in her Grimoire.
+
+“Probably,” he said. “You could go check, can’t you?”
+
+“How?” she asked, and then saw him glancing over to her witch doctor. “Oh! She can go there with Spirit Walk.”
+
+“You could also have her curse you over, right?” he asked.
+
+“That’s… brilliant,” she answered, considering the implications. “I never thought of that. I’m going to go check.” And with that, she flew to the center of the battleground, bringing her witch doctor along with her.
+
+“Just be careful,” Calen called after her.
+
+“Banish me,” she commanded, nodding to Calen to let him know she had heard his warning. “And then follow me into the Spirit Realm.”
+
+“As you wish, Seeker,” her Troll said, and immediately, the black of night shifted to the diffuse gray of the Spirit Realm. To her delight, a large number of spirit monster corpses lay spread out across the ground, dead where Calen’s arrows had killed them. In the center, all that remained of Kir’vella’s beacon was a conspicuous empty circle among the corpses.
+
+The Spirit Realm flickered, shifting its aspect, but the glowing corpses remained. Happy to have success at least in something, she quickly ate one of the ghost mushrooms and set about deconstructing everything.
+
+“Keep me here for now,” she told her witch doctor, taking her time to be thorough. Soon enough, her Grimoire reacted.
+
+Imprint: Spirit Beast completed.Variant: Ghost Piercer added to Imprint: Spirit BeastVariant: Ghost Prowler added to Imprint: Spirit Beast
+
+She had a Spirit Beast version of a spider, wolf, scorpion, and tiger, and her Grimoire had rearranged the variants to add her Ghostly Spider and Ghost Stalker variants to the Spirit Beast imprint in addition to their spider and wolf imprints.
+
+That’s convenient, she thought, happy to expand her Grimoire with interesting monsters. It was with thoughts of how she might add them to the underground residential ruins back home that she slowly turned and made her way back to camp to wait out the curse and drop back to the real world. I guess I can just remove the curse easily enough, she thought – she had two ways to do that now.
+
+But as she reached their camp, all thoughts of her sleeping bag and a good night’s rest vanished. A giant wall of pulsating magic shone out from among the trees, a towering edifice of magic construction. And streaming out from it in all directions were long undulating tendrils of blue-white soul magic, trailing away out of sight. All along the wall, for ten meters on either side, a glowing carpet of Soulshade Blossoms bloomed.
+
+What is this? She knew it must be the barrier she had studied, but there was so much more to it here.
+
+Then her eyes caught the brilliant golden halo around the Eldritch Tome as it slowly rose into the air at her approach. It flipped open, and she couldn’t help but notice it was the very same chapter.
+
+But the complex construct of magic inscribed there popped out of the pages, hovering above the book – an astounding three-dimensional construct of glittering magic, slowly twisting and turning as the components followed an intricate dance. She had studied this page extensively, but this projection had vastly more detail – aspects and dimensions revealed to her eyes that constantly shifted with a living, restless energy.
+
+“Clarence… what… what is that?”
+
+He just shuffled smugly under the impossible display.
+
+Wait… she studied the magical construct carefully. There! It flickered, just like the rest of the Spirit Realm, updating ever so slightly. Then again. As she watched, the entire construct began evolving in real-time in front of her eyes, showing her the full richness of multi-dimensional magic.
+
+And suddenly, she understood.
+
+In absolute awe, she carefully retrieved her notebook, turned to the expansive barrier wall, and began copying down everything she saw; the complete magic of Nevyn Eld’s infernal array, now including the vast hidden internal structure made from soul magic. She had to refer to Clarence many times, but as she progressed steadily, her understanding deepened.
+
+Luminous soul magic tendrils connected the spell array to others of its kind. The ones leading back down the mountain appeared severed, presumably the result of her destroying the Temple of Bone’s magic. And several tendrils lay limp on the ground leading to where the Bone Altar had been. From her current perspective, she could see the construct was but one of several nested shells guarding the inner reaches of the dungeon.
+
+“This isn’t just for raising undead,” she breathed, sharing her realization with Clarence. The sacrifice of life energy to power the altars was being harvested by the array, in addition to the enormous power of the domain magic pulsing through the entire construct.
+
+But to what end?
+
+Finally, she returned to the real world, satisfied that she had the entire structure encoded.
+
+“Thanks, Clarence, you’re the best,” she told the Eldritch Tome, and scratched him along his spine, making him flip his pages in delight. Then she marshaled her magic and unraveled the entire barrier structure, causing it to collapse with a vast sigh and a billowing cloud of mana rising up into the night sky.
+
+“Learned something?” Calen asked from where he stood watch.
+
+“A lot,” Ali nodded. “I’ll fill you in in the morning.”
+
+He nodded. “Sleep well.”
+
+“I still need to spend my attribute points,” she chuckled, crawling into her sleeping bag.
+
+Grove Warden has reached level 78 (+5).+50 attribute points.
+
+Oh, I got the same as the others this time. She had been expecting to earn a little less because her class was at a higher level than her friends’, but she wasn’t that far ahead, and apparently this time the level thresholds had conspired to allow her five levels of class growth. Nice!
+
+Attributes advancement was, of course, very welcome. She dropped twenty points each into wisdom and intelligence, and the remaining ten into perception.
+
+Arcane Insight has reached level 45 (+2).Barrier has reached level 53.Grimoire of Summoning has reached level 36.Runic Script has reached level 38 (+3).Sage of Learning has reached level 36 (+3).Martial Insight has reached level 52 (+2).Empowered Summoner has reached level 39 (+2).Inspiration has reached level 16.
+
+Variant: Spirit Nightwing added to Imprint: Bat
+
+That’s all… very nice… Ali thought, but before she could dig in, she drifted off into the dreamless sleep of the completely spent.
+
+Gara’s stomach lurched, and she stumbled embarrassingly upon arrival into an unfamiliar room. The black, polished marble was smooth and cold beneath her feet, and she found herself standing in the center of a large circle of magical runes.
+
+At the far end of the room, a bored human wearing a brown robe slowly looked up from a messy pile of papers littering the desk. “Welcome to the Novaspark Academy of Magic in Myrin’s…” he began, and then suddenly gasped as he caught sight of her.
+
+The magical runes flared around her, and Tarek stepped through, followed by each of the others, one at a time. She ignored the man at the desk and moved quickly to steady her charges.
+
+“Uh… welcome to Myrin’s Keep,” the man spluttered, glancing down at the device on his desk. “Your mana charge was fully covered by the source. You must have used some high-level teleportation to achieve that. Please don’t cause any trouble in town.”
+
+Gara took a few moments to work out his rushed speech, deciding that she wouldn’t have to fight him after all.
+
+“Thank you,” she said, pulling out the map that the Half-Elf, Calen, had drawn for her. “Adventurers Guild?” she asked, forming the unfamiliar words carefully.
+
+“This hall will take you to the main street. The safest path is to follow the main street across the bridge and then through the market, and you’ll find the guild on the other side of town,” the official told her, turning his attention back to his papers.
+
+Gara’s eyes settled briefly on the leaping pulse at his neck. Huh. She was not used to terrifying anyone. Were her kind regarded as high up in the hierarchy, here? She wished now that she had asked Aliandra for more of an explanation of Human cultures.
+
+“Come,” she said, and led her four charges through the hallway, trying not to stare in awe at the massive construction of stone and marble. How does it not fall down?
+
+She would not admit to getting lost, but it took longer than she had expected to finally reach the guild. At least the map had saved her from the indignity of admitting she didn’t know where she was to a mere human.
+
+“This is it,” Gara said, eyeing the heavy-looking doors. She took a step forward but immediately paused as the delicate aroma of spices and charred meat reached her nostrils. Her head snapped to the side to find an aged human woman wielding a spatula like a rapier while bent over a skillet filled with sizzling chunks of meat. The cook glanced up with a curious smile.
+
+“Travelers, would you like a free sample?” she called out, her voice raspy and thin.
+
+“What does the human want?” Tarek asked.
+
+“She’s offering free food,” Gara said. Her instinct was not to trust the human, but her nose told her that this one knew what she was doing with that skillet.
+
+“Can we?”
+
+“I’m hungry.”
+
+Didn’t you all just eat the bear’s food? But she chose not to say anything on that front. “Ok, I’ll go,” Gara answered instead. As the only member of their group who could converse with the humans, all the interactions fell to her.
+
+“Here you go dearie,” the woman said, handing her a handful of skewers. “It’s the last of my drake meat, so enjoy.”
+
+“Thank you,” Gara said, wondering how someone so frail had been able to kill a drake. Perhaps she is a powerful mage, she concluded, but her identification just caused more questions.
+
+Laborer – Human – level 17
+
+Why is she here cooking, if she’s a Laborer? Why would she choose such a worthless class? The woman looked frail – weak even for a human. But as Gara tasted the skewer, she knew she would have to be back. Her cooking was even better than the Bear’s.
+
+She nodded to the woman and distributed the skewers before pushing the door to the guild open and stepping inside.
+
+“Welcome to the Adventurers Guild, how may I help you?”
+
+The voice was light and pleasant, and she turned to find an elf looking her way.
+
+Analyst – Sun Elf – level 18
+
+Not a threat, Gara decided, looking around the room carefully but finding no one else. She stepped forward and offered the letter that Aliandra had written for her. The elf accepted it and adjusted a strange device on her face while reading it.
+
+But as she did, the door slammed open again.
+
+“Monsters!”
+
+The shout had barely reached her ears when Gara leapt in front of her charges, shield raised and her axe ready.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

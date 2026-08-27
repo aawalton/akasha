@@ -1,0 +1,185 @@
+---
+id: 5c1c0540-d7ee-5fea-ad1f-bee7c92acce3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 196: A Brand-new Guildhall (2 of 2)"
+slug: 0201-chapter-196-a-brand-new-guildhall-2-of-2
+partOf: dungeon-of-knowledge-complete
+position: 201
+ownLength: 3061
+unit: words
+ownProgress: 3061
+publishedAt: 2025-02-11
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2060891/chapter-196-a-brand-new-guildhall-2-of-2"
+royalRoadId: "2060891"
+markedReadAt: "2026-06-29T20:17:56.167Z"
+---
+
+Malika pushed open the well-oiled doors to Thuli’s forge and took a moment to adjust to the noise and heat before stepping inside. Her business in town consisted of selling the mountain of essences that had been filling her rings to Weldin and dropping off some of the hellfire essences and the abyssal brimstone tar with Morwynne Fizzlebang for evaluation at her alchemy shop. But after she had taken care of all that, she had found Sabri waiting for her so that they could go to the blacksmith together – one thing had led to another, and their small group had grown to include Mato and Havok.
+
+“I can’t even identify you,” Sabri said, eyeing the Goblin paladin.
+
+“Havok strong. Twenty-two,” he answered with a firm nod and stepped across the threshold into the din.
+
+“You’ll get there, Sabri,” Mato said, giving her a reassuring pat on the shoulder.
+
+“Greetings,” Kavé said, glancing up from where she sat wiping oil onto a pair of delicate-looking swords with a well-used rag. “This one will let the master know you are waiting.” She slipped back into the din of the forge where, presumably, Thuli was working industriously to create the noise.
+
+“How’s she doing?” Malika whispered. Ali would certainly want to know.
+
+“Level twenty-four, now,” Mato said, smiling.
+
+Malika surveyed the antechamber of the forge, studying the many shining pieces on display. Few, if any, would be of use to someone like her, but she couldn’t help grinning at Sabri’s obvious excitement as she dragged Havok over to examine the shields. Not that the little holy Goblin needed any encouragement, his jaw was literally hanging open at the display of exquisitely crafted defensive equipment – a stark contrast to his worn and battered gear.
+
+“Hey, hey,” Thuli said, voice booming through the room as he entered with a big smile. “Welcome back, what can I do for you all today? Oh! Rift Warden! There’s a fancy Title!”
+
+The dwarf’s stamina circulated smoothly through his muscles using a technique that was surprisingly similar to what Rezan had been teaching her.
+
+“Hi, Thuli,” Malika said. “We wanted to…” but she was interrupted by an earnest Goblin.
+
+“Havok need shield. But…” he glanced mournfully at some of the display items, “not have lot gold.” He pulled out a shield that had deep scratches and notches in it, so bad that it looked like it was about to fall apart.
+
+“Aye, fierce one. That ya do.” Thuli picked up the shield, examined it with a critical eye, and then tossed it into a trash bin behind him. “Scrap.”
+
+Havok’s eyes widened as they followed his shield flying into the bin.
+
+“Kavé, why don’t ya see what you can hammer together for Mr. Havok here? You’ve reached a high enough level to make him something good, now. And it looks like young Sabri could use some upgrades, too. Congratulations on reaching level nine, lass.”
+
+“Thanks, sir!” Sabri said.
+
+“Yes, Master,” Kavé said, almost simultaneously.
+
+“What did I tell ya about that master twaddle?”
+
+“Yes, M… aah, Thuli.” It was clear that Kavé was surprised, but extremely happy to be given another customer by the master smith and she quickly drew the two of them off to the side to discuss what they needed.
+
+Thuli chuckled and turned back to them. “Kavé is about ta surpass every apprentice smith in Myrin’s Keep, and I can’t wait ta see the faces of their masters when it happens. Now, what can I do for you two? Do ya need an upgrade on your bear plate?”
+
+“That would be great,” Mato said. “We just got a bunch of levels recently and something more advanced would definitely help.”
+
+“Something to do with yer shiny new titles?” Thuli asked knowingly.
+
+Mato shifted uncomfortably.
+
+“Yes, something like that,” Malika said. Beating about the bush wasn’t going to change things, and they needed the smith’s expertise if they were going to get stronger. She quickly retrieved the chunk of Abyssal Bloodstone Ali made from her ring and showed the darkly gleaming blood-red gem to the heavy-set Dwarf. “I was wondering if this might help – Ali said it’s a form of magicite.”
+
+“By Thovir’s beard! Where did ya get that!” Thuli exclaimed, his voice ringing through the smithy, causing the others to stop and stare for a moment before returning to their planning.
+
+“We encountered an abyssal rift down in the fire dungeon near the ancient forge. This was growing on the walls in the cave on the other side.”
+
+“Does that mean ya can get more?” Thuli asked, his voice hushed in stark contrast to his earlier outburst, conspicuously ignoring the circumstances of their finding it.
+
+“Probably,” Malika answered. But it wouldn’t be because they could go back and mine it – although she didn’t need to tell him that. By tacit agreement, they seldom mentioned which of the exceptionally valuable materials Ali could actually just make. It would probably be a disaster for the economy and result in people pestering her for materials. All Thuli really needed to know was that there could be more if he found a use for it.
+
+“I can do so much with such an advanced material, but I’d need to employ a jeweler to cut it properly. Nothing I could make would require such a big chunk. But I think I might be able ta convince that Giddy Clicksprocket lass to do it for cheap, she’d love the opportunity to work with such a high-level material,” he looked at her, his eyes speculative. “I’m not sure I can afford to buy this outright, though, but I could split it with you and make him an upgrade for his bear armor as part of the payment.”
+
+“That sounds great,” Malika agreed, watching him store the egg-sized jewel as soon as she agreed. I bet we’ll see Giddy Clicksprocket at the guild store pestering Weldin for some of this bloodstone before evening, she thought – she had personally witnessed just how persistent that Gnomish jeweler could be.
+
+While Mato discussed the specifics of his armor with Thuli, Malika watched Kavé work the forge. She had her hands elbow-deep in a crucible of molten steel and she was manipulating and extruding plates of the stuff from it using what had to be her steel-shaping skill. Stamina flickered and warped through her body and out from her hands into the steel. Sabri looked on, openly awestruck as the dragonkin handled the molten steel like a baker rolling dough, all the while Havok kept up an excited, mostly one-sided conversation with the two of them.
+
+Malika watched fascinated for about half an hour while Kavé worked her skills and craft, surprisingly using stamina-based skills almost as often as mana, as seen by the intricate flow of energy through her Soul Sight. Mato and Thuli eventually joined her, around when she quenched the steel and finally put everything together.
+
+“Yours will take a couple of days ta forge,” Thuli told Mato while helping tweak the fit for Sabri’s new breastplate and adjusting the straps for Havok’s shiny new steel shield. Both seemed overjoyed with their purchases and settled up quickly with the dragonkin apprentice.
+
+“Ok, not a problem,” Mato said, clasping hands with the dwarven smith with a momentous slap that echoed throughout the forge.
+
+Men… Malika thought, rolling her eyes. She was, however, extremely eager to see what Thuli was able to fashion for Mato with the bloodstone. She didn’t know any specifics, only that Appraise called it exceptional, and rare – and that it could help enhance certain enchantments. If Thuli could do something good with it, she would need to let Ali know to make a few pieces to sell to the guild store – they were not exactly running out of money, but they were always in the market for good new equipment, and who knew what Giddy Clicksprocket might make if she could get her hands on some of the bloodstone. As long as people didn’t ask too many questions about where it came from. It was called ‘abyssal’ after all, and anyone with an advanced Appraisal skill would be able to see the Demonic trait.
+
+“Oh, before ya go, Mr. Havok, take this,” Thuli said, reaching into a bin and retrieving a plain but sturdy shortsword and handing it to him. “Ya need something better to go with that shiny new shield o’ yours.”
+
+Havok stared at the sword and then glanced at the dwarven smith, momentarily nonplussed. “No gold,” he said, turning his tattered money pouch inside out to demonstrate. A pinch of dust and half a dead moth fell out.
+
+“Take it,” Thuli insisted. “On the house. It was just gathering dust in that bin over there. Just bring your business back to our shop when ya grow outta it.”
+
+“Ok!” Havok declared, his eyes lighting up and accepting the gift.
+
+“Where to next?” Mato asked.
+
+“Back to the guild to drop these two off, and we have a lesson with Mieriel in an hour,” Malika said, holding back a grimace.
+
+“Oh, right,” the Beastkin said, nodding his head with a suddenly serious look in his eyes.
+
+Malika left it unsaid, but it was time to pick the Sun Elf’s brains for the best mind magic defensive techniques.
+
+Ali snapped her head up from her studies as the electrum-inlaid locus at the bottom of the library atrium surged with mana. Visitors? Intruders? It hadn’t even been half a day yet and already her runic teleportation circles connecting the library to the guild were getting their first use.
+
+Easy, Ali. It’s probably just a few of the novices coming to check it out. She slipped her mind into one of the minions she had left to keep watch over the locus at the base of the Elder Tree. Oh, it’s Vivian… and Mieriel? Vivian was staring at the barrier across the entrance to the jungle, where the rift break had finally been halted. As the dragonet’s eyes flickered across the locus, Ali froze.
+
+Towering over the human and the elf were three wiry trolls. Flanked by his two aides, the elder troll in the center stood easily two and a half meters tall – he wore an elegant, flowing silk robe of the deepest purple and a look that said he owned the place. His sky-blue skin was adorned with ritualistic sigils and runes, delicately rendered in snow-white warpaint that matched his shock of spiky white hair. Ali was no expert in troll culture, but even she could tell the ceremonial tusk braiding was overly ornate. Visitors of importance.
+
+It took several minutes for the party to ascend the stairwell, and yet even that wasn’t sufficient time to still her racing heart. They climbed in complete silence, giving Ali ample opportunity to observe how deferentially even Vivian acted around them. An aura of intense cold billowed off the largest troll, leaving frost riming the stairs as they passed, but his aura was shot through with eddies and swirls of violet mana that reminded Ali of Ryn.
+
+“What is it, Ali?” Ryn whispered, clearly reacting to her body language.
+
+“Trolls!” Ali whispered back, scrambling to her feet.
+
+As soon as they stepped onto the uppermost landing, Ali identified the party and gasped inwardly at their levels.
+
+Mage [Seer of Divergent Paths] – Troll – level ??? (Ice, Divination)Mage – Troll – level ?? (Ice)Warrior – Troll – level ?? (Ice)Warrior – Human – level ???Spy – Sun Elf – level 52 (Mind)
+
+“Aliandra, you have visitors,” Vivian said, her voice formal and stilted. “This is…”
+
+“Tol’zerath!” Ryn exclaimed with a gasp and immediately bowed low.
+
+For a moment, Ali froze. A Tol? Here? How does Ryn know him? But her experience with visiting lecturers from the troll kingdoms took over and she bowed low enough to match Ryn.
+
+“Tol’zerath is pleased to be received with appropriate respect, even out here in the human lands,” one of the attendant trolls said, her voice husky and pompous even through the heavily accented Common. “You may rise.”
+
+Ali lifted her head in time to see the largest troll fix her with an icy glare. “Enough. That elvish whelp informed me that you have the Lich’s book. You will give it to me. Now.” His voice crackled and snapped like a grinding glacier while his mana flared around him, filling the air with a biting chill.
+
+Not again…
+
+Ali took a deep breath, ready to defy trollish royalty, but her impending impertinence was snuffed before she could even voice it.
+
+“Tol’zerath,” Lira said, her voice filling the room with resonance and the sudden scent of pine and wildflowers that somehow pushed the frost back. She said a few harsh words that seemed to stagger the big troll, guttural utterances that sounded impossible falling from the dryad’s lips. Then she switched back to Common, and added, “So nice of you to visit. Look at how big you’ve grown.”
+
+She just treated him like a toddler! Ali stifled the surprised chuckle that threatened to burst from her lips at the look of pure shock and startlement upon the wizened troll’s face.
+
+“Great Mother of the Deep Woods,” he said, forcing a spine that was painfully unaccustomed to genuflection into the semblance of a bow of respect.
+
+“That won’t be necessary, child. I was just telling dear Aliandra here that we don’t get enough visitors,” Lira said. “Come, sit. I will make us tea.”
+
+As Lira turned toward the kettle, her face momentarily concealed from the visitors, she gave Ali a wink. Suddenly, all the tension she was holding faded and Ali stepped up to usher her guests to appropriate places at the table. She wields that tea like a deadly weapon. I need to learn a few of her tricks, and maybe an imprint for different teas?
+
+Lira distributed the small steaming porcelain cups and then sat beside the Tol and placed a hand on his arm. “So, to what do we owe the honor of your visit?”
+
+The big troll cleared his throat awkwardly and retracted his mana as he reached for the teacup. “Nathaniel Sunstrider has a copy of the Blind Lich’s book. According to him, the original is here. I have had a vision of dire import. The fate of the troll kingdoms may hinge on what is in that book. You must let me have it.”
+
+“Why didn’t you read his copy?” Ali blurted out, before even considering who she was speaking to.
+
+The two troll attendants gasped, but Tol’zerath silenced them with a gesture. “That elf’s fate is shrouded from me. I do not trust him. The portents that surround him are obscured by something…”
+
+“… something dark, like writhing tendrils of eldritch mana that seem to be feeding upon him?” Ali asked. The image she had seen was unforgettable.
+
+“How did you…” Tol’zerath began, his eyes darting between her and Ryn who sat nearby. “You do not possess the sight.”
+
+She could not suppress a shudder. So, he saw it too. “No, not with her magic,” Ali answered, guessing what was on his mind. It had not been a divination, at least that she was aware of. “I saw him when I used my spell.”
+
+The troll collected himself with a deep breath. “Tell me, how is it that he has the book, then?”
+
+“I copied it for him,” Ali said softly, “in exchange for him allowing me to copy my mother’s book.” She reached over and tapped Clarence’s cover where he sat quietly, resting on the table.
+
+“Then you must trade with me,” Tol’zerath declared. “What I can offer is of far more value than anything that self-important elf gave you – the purity of trollish magic has never been surpassed by anything produced by the lesser races.”
+
+Not likely, old troll, Ali thought. Matching her mother’s work would be impossible, even for the vaunted reputation of the trolls. However, she stopped short of saying anything as he summoned a meticulously crafted book bound in purple-tanned leather of a texture and lightness that made Ali hesitant to ask where it came from. Yet, despite his arrogant declaration of trollish superiority, his manner seemed surprisingly tentative as he placed the tome on the table beside Clarence. The words on the cover were written in a script she could not understand.
+
+“Tol’zerath is the realm’s foremost visionary on the subject of divination,” Lira said, surprisingly injecting herself into the discussion right at that moment. “The reputation of any library would be greatly enhanced by boasting his work.”
+
+“Exactly,” Tol’zerath said, drawing himself up to his full height while his mana flickered along the backs of his hands and across his shoulders, leaving a brief dusting of snow to float down to the table. “My work on divination is groundbreaking, and there are few left alive who can even comprehend its significance.”
+
+Should I? Can I afford to let him see my Grimoire? Ali studied the powerful troll sitting across the table from her, masking her scrutiny under the guise of considering his words. Despite his arrogant superiority – or perhaps because of it – she found herself more inclined to trust him. Besides, I already showed this ability to Nathaniel Sunstrider.
+
+“Very well, you have a deal,” Ali said, and choosing to follow Lira’s lead, she flattered the troll leader further by adding, “But I will owe you a favor for your great generosity.”
+
+By the grin that creased his leathery face, she knew she had chosen her words well.
+
+Ali glanced at Ryn, but her friend’s eyes were glued to the divination tome like it was the only thing in the room. I’m going to have to learn to read and write Trollish soon. Ryn will need a translation, Ali thought as she listened to Lira and Vivian quiz Tol’zerath about his vision and the implications for the Troll kingdoms. It didn’t take long for her to duplicate Nevyn Eld’s book again, but Tol’zerath’s tome had to be copied by imagining the words to be pictures – a far more difficult undertaking, and one she would not have been capable of till recently.
+
+“Oh!” Ryn exclaimed as soon as the duplicated divination tome appeared, and Ali could instantly tell she had leveled up. Twice!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

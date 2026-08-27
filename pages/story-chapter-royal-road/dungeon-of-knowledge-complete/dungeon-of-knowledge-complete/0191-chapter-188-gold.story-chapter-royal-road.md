@@ -1,0 +1,361 @@
+---
+id: 38def9b7-d6f7-56cf-8bab-dec9c1623161
+page-type-slug: story-chapter-royal-road
+title: "Chapter 188: Gold"
+slug: 0191-chapter-188-gold
+partOf: dungeon-of-knowledge-complete
+position: 191
+ownLength: 6512
+unit: words
+ownProgress: 6512
+publishedAt: 2025-01-26
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2030876/chapter-188-gold"
+royalRoadId: "2030876"
+markedReadAt: "2026-06-29T20:17:34.481Z"
+---
+
+Ali had slept well and was in a particularly good mood this morning – yesterday had been tiring, but productive. The morning sun cast long shadows from the guild building, but the air smelled fresh and there was a light breeze blowing. Outside the guild entrance, the old food cart vendor was setting up her stall and beginning to fill the street with the scent of spices and frying meat.
+
+“Morning, Tabitha,” Mato called, waving.
+
+“Oh, morning, young man, care for a bite before you get started?” Tabitha asked, a hopeful grin on her weathered face.
+
+“Don’t mind if I do,” Mato said, rubbing his belly.
+
+“Mato!” Malika exclaimed. “We just had breakfast.”
+
+Ryn chuckled.
+
+“I’m bigger than you. I can’t help that I’m still hungry,” he said. “I’ll catch up with you guys in a bit.”
+
+Malika just shook her head and walked up to the guild, opening the doors.
+
+“Enjoy,” Ali said, grinning at Mato, and then she floated through the doorway following Calen, Ryn, and Malika while carrying an Acolyte and a Bone Mage on two separate barrier disks. She was still getting used to the dramatically increased control she had over her barrier magic since the advancement, but this too was another reason she was in a great mood – she hadn’t even begun to scratch the surface of the possibilities with her increased finesse.
+
+“Welcome back, Aliandra,” Mieriel’s musical voice greeted her. As usual, she wore an elegant outfit that Ali had never seen before, although she recognized Lydia’s handiwork and style in all of Mieriel’s outfits. Guess that’s where her income goes.
+
+“Hi, Mieriel,” Ali returned her greeting with a smile.
+
+“Congratulations on reaching gold rank,” Mieriel continued, causing a sudden hush to fall over the entire guild hall as many heads swiveled to stare at her. “I’ll call the Guildmaster, she will want to chat with you.”
+
+“Aah, ok,” Ali said, a little surprised. Reaching gold rank was a substantial milestone for an adventurer, but she hadn’t expected Vivian Ross to take a personal interest in administration. Although, it suited her quite well – she had wanted to discuss Ryn’s potential guild membership with her. Ali sat for a moment while she waited.
+
+“Congratulations, Aliandra,” Vivian said a few moments later. “Why don’t you join me in my office?”
+
+“I’ll be back,” she told her friends. Leaving them to their own devices, she followed the Guildmaster into her office, ignoring the rising murmur of conversation as she left the hall. Ali remained seated on her barrier, legs dangling over the edge as she floated into the room and glanced about. Everything was neat and tidy, and the entire space, while a little on the spartan side, was efficiently furnished and organized. It didn’t surprise her at all, in fact, it perfectly matched what she knew of Vivian’s personality. A small gold box sat prominently in the center of the desk.
+
+“Congratulations on reaching level sixty, Aliandra,” Vivian repeated, taking her seat. “I imagine you’re wondering why the private meeting?”
+
+Ali was indeed wondering, and rather surprisingly, Vivian Ross seemed to be a little on edge, as if she were the nervous one. Her hands idly organized various items on her desk, things that were already perfectly arranged.
+
+“I am,” Ali answered. “I’m also wondering what has you so worried?”
+
+Vivian glanced at her hands and immediately stopped rearranging her stuff. She took a deep breath. “I guess I should be straight with you. You’re the first member of our little guild to reach gold rank.”
+
+“Is that a problem?” Ali had not expected that her level would be such an issue, nor did she understand what the concern was exactly. Sixty is not that much stronger than fifty-nine. Besides, there will soon be a few more.
+
+“I guess you don’t know, then,” Vivian said, taking a deep breath to settle herself. “As the Guildmaster, I’m required to register all members of gold rank or higher, meaning most guilds, Town Councils, and the nobility across the continent will know who you are. Many towns do not have high-level adventurers, so the registry allows them to direct requests for jobs or help when things are too difficult to manage on their own.”
+
+“I see,” Ali said. It all sounded quite reasonable. The Adventurers Guild was a collective organization that spanned most of the known world, and it made sense to help out the weaker towns when needed. Only…
+
+“Yes,” Vivian said, indicating she had anticipated that very thought. “I took the liberty of securing permission to keep the nature of your class private, at least. On Nathaniel Sunstrider’s authority, so it won’t be questioned. That doesn’t exactly solve the issue because a person with censored class information will invite a lot of attention – but it should be better than advertising you across the length and breadth of the continent as a dungeon.”
+
+Ali schooled her features the instant Vivian mentioned the Archmage. Everyone seemed to believe his footsteps were made of arcanite and he exuded an aura of pristine mana wherever he went, but she could never shake that dark image of whatever it was that infested his image whenever she saw him under her Arcane Recall spell.
+
+Is that even real?
+
+She shook it off without revealing her worries and asked, “How exactly will I be listed?” She hadn’t expected this level of attention, and she was certain the details mattered. Probably a lot.
+
+“You will be listed generically as an arcane- and nature-affinity summoner with your class name, but all further detail will be restricted. Mieriel spent a substantial amount of time corresponding with Nathaniel Sunstrider, working out the best strategy. They decided it would be prudent to list you the same way you signed up with the guild before anyone knew. No information would be cause for alarm – instead, if we include the Advanced Identification of your affinities along with listing your class as a ‘summoner’ people won’t immediately conclude you’re a dungeon or a necromancer.”
+
+“I guess that’s true,” Ali allowed. If a nature affinity was listed, then the summoner class type would immediately be associated with something druidic in nature, rather than any of the more problematic summoner class archetypes. It seemed complex, but she was grateful for the effort and forethought to forestall the knee-jerk reaction that might have resulted from identifying herself as a dungeon to the whole world. Enough people know already. Including the Advanced Identify results seemed smart – some factual information was certainly better than a complete fabrication or no information at all. I just hope it works.
+
+“Is that ok with you?” Vivian asked, that unexpected nervous energy making a surprising reappearance.
+
+“Could you perhaps delay listing me for a week or two?” Ali asked. Until her friends hit sixty, she would stand out like a sore thumb as the only gold-ranked adventurer in Myrin’s Keep. If her listing was merely one of four, it would hopefully not be quite as noticeable.
+
+“Yes, that’s a good idea,” Vivian answered, but it seemed this was not the only thing bothering the Guildmaster. Ali simply remained silent, allowing her to continue.
+
+“The second problem is more personal,” Vivian finally explained. “Many new guilds die when they begin producing gold-ranked adventurers. Picked over by the vultures. Achieving gold is hard, and quite valuable outside of places like Myrin’s Keep. The guilds from prosperous cities, with their cushy environments don’t produce many, but they can afford to devote quite substantial resources to poaching talent from frontier guilds like ours. You will most likely be offered a lot to move, and I’m worried that we’ll lose you.”
+
+Ali considered the Guildmaster’s position. Trying to establish a guild from nothing seemed like an enormously challenging undertaking. On the other hand, Vivian Ross had always gone out of her way to help, and even if it was all for building her guild.
+
+The Guildmaster bit her lip, frowning, and Ali sensed there was more.
+
+“It’s not like I’ve treated you all that well,” Vivian said quietly.
+
+Aah. There it is. “I have certainly not forgotten,” Ali said, and Vivian swallowed, breaking eye contact to look down at her hands.
+
+As her strength had grown, particularly her wisdom attribute, all those memories had come back clearer and clearer, a well of anguish she chose not often to plumb – but, she realized in this moment, that somehow she saw her mother’s death as a kind of betrayal, too. This was raw. Betrayal upon betrayal. How could a person – a dungeon – ever forget?
+
+“Aliandra… I’m… sorry,” Vivian whispered at last.
+
+“An apology?” Ali heard herself rasp. “Now, when you have something to lose?”
+
+Vivian’s lips pressed together, but it was not anger. “I don’t expect forgiveness. I understand if you prefer to go somewhere else and be done with it all, but I do hope you choose to look past it and stay with us. You have done so much for this guild and the people of the town.”
+
+Ali sighed. It was true that she wasn’t about to forgive Vivian. However, she knew the dangers of blindly clinging to vengeance, ignoring everything else. She had benefited greatly from the guild and Vivian’s advice. Carefully, she said, “Without your help, I wouldn’t have survived the Town Council trial, and I’m well aware of what you did with Alexander Gray. You and I may have our differences, but I like my guild mates, and I feel I can have a positive impact on people’s lives if I stay. I’d like to keep offering people new classes and helping them grow stronger.”
+
+Vivian’s face registered immediate relief. “I guess that’s the best I could hope for.”
+
+“Besides, my class makes it a little tricky to go somewhere else,” Ali said. It was hard to believe that such a powerful person could be rattled by something like this, especially when she was normally so confident. Vivian had been no slouch, ejecting weaker talent and poorer attitudes from the guild. But seeing her so nervous finally ripped the curtains away and allowed Ali to see her clearly.
+
+She’s insecure. Something, some past experience perhaps, had broken Vivian’s confidence. It didn’t matter that she was a second-tier evolved combat class with tons of experience if she didn’t believe in herself. She hid it well, pouring everything into the guild, like someone obsessed, and yet, when it came down to it, a guild membership could not be coerced, forced, or controlled. She sat there on the other side of the desk, unable to influence whether her highest-level adventurer chose to stay or go – regardless of how much it might damage the guild.
+
+Ali squirmed inwardly, not knowing what to make of this sudden insight, but the specter of Vivian seemed to shrink before her. A horrid slurry of emotions boiled inside her chest – self-loathing for this sudden pang of sympathy, the knowledge that her choices here and now would shift something fundamental inside her… all she wanted was to bury herself in a good book, but she also knew she needed to live in the real world, a world where dungeons were hated and power both prized and despised. One thing was certain, Vivian would not be the last person to try to use her for their own purposes, nor Roderik the last to try and end her. She would need to be stronger and smarter than all of them. She would need to take every advantage she could, and forge her own path.
+
+“This is your gold-rank ring,” Vivian said, breaking the silence and reaching for the golden box on the desk between them. Inside, Ali found a gleaming golden ring. “It will unlock the planning room at the end of the hall, and you are invited to join in the guild’s policy decision-making, quest creation, and such things. Not that there’s a lot of that yet, but we are growing quickly.”
+
+“Thank you.”
+
+Ali picked up the ring and glanced at it. She hadn’t realized the guild Vivian was building would allow her to participate in a leadership capacity. She wasn’t quite sure what to make of that, or whether it was something she even wanted. Perhaps she could help plan the class acquisition process – watching novices unlock their classes was one thing that gave her great joy.
+
+Ali channeled a small amount of mana into her new ring, binding it to her mana, and then slipped it on her finger, replacing the existing one. Like last time, the ring slowly shrunk to fit snugly and comfortably on her finger, and she quickly transferred all her stored items and quests from the old ring to the new one and handed the old ring back to the Guildmaster.
+
+Vivian nodded, her eyes shadowed. “Thank you.”
+
+Gold Guild Ring – level 60A ring signifying gold-rank membership with the Adventurers Guild. It serves as a key granting access to private areas in the guild hall.Owner: Aliandra Amariel+41 Intelligence+33 Wisdom+104% to mana regenerationRequirements: Intelligence 210QuestsEliminate undead in and around Myrin’s Keep – 134Eliminate hostile Kobolds in and around Myrin’s Keep – 0 Mana: Store or retrieve an item. Capacity: 30 / 800kgCreated by Giddy Clicksprocket.Ring
+
+“This is impressive,” Ali said, staring at the ring in amazement – having missed the enchantments when she first picked it up. It had three attribute enchantments in addition to the storage enchantment, putting the ring squarely in the most-expensive-thing-she-owned category. She looked up to find Vivian smiling happily.
+
+“You and your friends have made the guild quite a reputation with the crafters, and our store is now one of the most heavily traded locations in the town. We had enough money, so I decided to have the gold-rank rings personally crafted for each person who reached that level. I hope those enchants work for you?”
+
+“This is perfect, thank you,” she said. She might just have to go pay a visit to this Giddy Clicksprocket in person and see what else she could make.
+
+“There is one matter of business I wanted to ask you about,” Vivian said, sitting back in her chair.
+
+“You have enough people for another shrine run?” Ali guessed.
+
+“Yes, we have five combat class recruits who want to be adventurers and three non-combat candidates. I believe you already know Lydia’s apprentice, Elton Moss. Weldin Thriftpenny asked if he could try to unlock a mana affinity if that’s ok with you. It’s not as big a group as last time, so we could wait for more people if you prefer.”
+
+“That’s fine, I can do that today if everyone’s ready,” she said. She had already planned on taking the time to do it, and today was as good a time as any. Besides, getting the new people started was important – and, to be frank, one of her favorite activities. “I just hope nobody tries to interfere again.”
+
+“Mieriel says the bounty on your head has increased, but after Nathaniel Sunstrider and Rezan Jin were seen at the guild, and seeing that stories about how easily the last assassin group was crushed may have gotten out –” her eyes twinkled briefly “– you are developing a reputation as being a bit of a suicide mission among some of the criminal underground. She thinks we won’t be interrupted this time, but I’ll come along just in case.” Vivian, it seemed, was also worried about what had happened last time. She made as if to stand up.
+
+“I also have a request,” Ali said. “And I think it might help you with high-level adventurer retention in the long run.”
+
+“Oh?” Vivian said, arching an eyebrow and sitting back down.
+
+“My friend, Ryn, is sitting out in the guild hall. She’s looking for a new job and I was wondering if we could have her join the guild as a librarian?” Ali asked.
+
+“You want a librarian to join… an Adventurers Guild?” Vivian asked, confusion playing across her features.
+
+“I am rebuilding the Grand Library Arcana, which currently has almost a thousand books that I have copied from various libraries around the continent – including Ciradyl,” Ali said. It sounded a little pompous when she said it, but she didn’t care, she was proud of it. When she had asked Ryn, the count had shocked her, but almost a thousand books in that enormous space did not look like a whole lot. “Ryn has a unique skill that allows her to teleport to any library she has ever visited, and she can bring three people along with her. I was going to offer access to the Grand Library Arcana for free to any guild member. Ryn would be able to provide transport, research, and book-hunting services to the guild as its official librarian.”
+
+It was clear the precise moment when Vivian understood her proposal just judging by the astonishment that flooded her face.
+
+“When those other guilds come looking to poach from us, do you think they will be able to offer membership at a library dedicated to finding adventurers the perfect information for growing their classes?” Ali finished her pitch. But she knew the offer was way too good to turn down, and Ryn would be happy here, helping all the guild members with their questions.
+
+***
+
+Ali knocked on the open door to the spartan office that the aide had shown her to. There was a small bookshelf with a few select tomes, all of which glowed with the effects of various runic inscriptions. Across the surface of the table were two bottles of glowing ink and a neat stack of parchment aligned perfectly with the edges of the desk. One book lay open, and the Gnome sitting behind the desk looked up at the sound of her knock.
+
+“Hi, Aliandra, come on in,” Donella Novaspark said, showing a polite smile. “What can I do for you?” She laid the pen down in a holder that was made for it beside the ink bottles.
+
+“This might be a bit of a long shot, but I haven’t been able to advance my Runic Script skill in a while, and I was wondering if you had someone who could teach me some of the other uses for mana-inscribed rune magic? I can make runic circles and read runic magic, but I’ve been reading that there are many other paths and I’m a little stuck on my own.”
+
+“Aah, I see,” Donella said, straightening up in her seat. “Why don’t you have a seat?”
+
+Ali took a conveniently sized seat on the chair opposite Donella.
+
+“My first question would be, are you sure you want to learn this?” Donella asked, a surprising question to be sure. But then she explained, “Most of the uses for runic magic fall squarely into the realm of crafting. Pursuing something like item enchantment, scroll inscription, and the like may affect the growth of your class, guiding it towards a crafter path rather than a combat one.”
+
+“I didn’t know that,” Ali answered. “But my class is a scholar-combat hybrid already, so I’m reasonably certain it won’t break.” She gazed at the materials on the table, noting the subject matter displayed on the open book, and deduced that Donella had been in the middle of inscribing a scroll. “Isn’t it the same for you?” she asked, curious as to why the lightning mage would recommend against the very thing she was doing. “I’ve seen your signature on items before, and you’re crafting scrolls, wouldn’t that influence your growth too?”
+
+“Of course,” Donella said, her smile a little more genuine this time. “Do you know what makes an archmage so devastating?”
+
+“They’re very strong?” Ali suggested. “And past at least one class evolution.”
+
+“Both true,” Donella answered, “but there’s more to it than that. Almost all archmages have hybrid classes – crafters and combat mages, or crafters and scholars. For their crafting, they specialize in making wands and scrolls – vastly enhancing the versatility of their magic. Nathaniel Sunstrider carries a heavy tome of prepared inscriptions – a spell for every occasion. It’s an exorbitant path, but extremely effective.”
+
+“Is that the path you took?” Ali asked, growing even more curious now that Donella seemed to be opening up a little.
+
+“Taking,” Donella said. “I haven’t reached my evolution yet, but I’m hoping to gain the archmage path. The only problem is I haven’t been able to secure a shrine to process my evolution, and I’m not about to risk breaking my class with a natural-path advancement, so I’m at a bit of an impasse.”
+
+“I see,” Ali said. Being the owner of a shrine herself, she found this topic extremely interesting, but there seemed to be nobody who could tell her how to get her own shrine to do what Donella needed. As usual, she felt the acute loss of the wealth of knowledge that would have been at her fingertips three thousand years ago.
+
+“If you’re sure you want to study this, there are a few teachers available downstairs for the usual private lesson fee,” Donella said, but then she paused briefly and continued, “I have the next hour free, I could give you a beginner lesson on how to imbue your mana into the ink and let you experiment with making scrolls.”
+
+“That would be fantastic,” Ali said, leaning in closer in anticipation of learning something fascinating. She had, of course, done her research and already knew that the Novaspark Academy of Magic charged a fee for lessons, but in her opinion, they had very reasonable rates, and a small investment of gold to gain expert tuition seemed quite appropriate.
+
+“Ok,” Donella said, picking up the pen and the ink and channeling a little mana into both. “This will be handy for writing magical books, too. You can see my mana, right?”
+
+Ali nodded and watched and listened as Donella began to explain the basics of mana-imbued ink, how to instill one’s own mana into it and create permanent runes on paper.
+
+“When you tackle sufficiently advanced projects, you will want to get your ink made by a professional ink crafter,” Donella said, making her mana do some very intricate loops and whorls. “But every runic scribe should be able to make the basic level inks.”
+
+Ali nodded, intent on not missing a single detail.
+
+Donella continued to wield her mana while explaining how to convert rune formations from a book into scroll format, how inscriptions worked, and all the little expert tips and insights that would have taken Ali absolutely ages to discover on her own.
+
+While Ali wasn’t successful at actually creating a functional scroll by the time the lesson ended, she was extremely happy with the time spent. Donella was an exceptional tutor, adjusting rapidly to the specifics of Ali’s skills. She managed to get the hang of imbuing the ink with her mana to Donella’s satisfaction, and even successfully created a rune on her test parchment, but to actually create a scroll would likely require a skill advancement. And, according to Donella, it would help greatly if she learned the Calligraphy general skill.
+
+***
+
+“Ali, where are you taking me? I thought we were going to the café for lunch?” Ryn asked.
+
+“I thought we’d take a little detour first,” Ali said, trying, but failing to be mysterious as they arrived at the door to Lydia’s Allure.
+
+“This is a clothing store, Ali. An expensive one!”
+
+“Yes. It’s run by Calen’s mother, and she helped our group out a lot when we got started. She makes all my robes, and Mieriel’s dresses.”
+
+“I know who she is. Why are we here?” Ryn asked, fixing her with a look of suspicion as Ali opened the door and invited her in.
+
+“Because I thought I’d treat you to a celebration gift for becoming the guild librarian,” Ali said and turned to introduce her to Lydia, who was already smiling at them from behind the organized chaos of cloth, fabric, and thread spread out across her worktable.
+
+“Ali, you can’t!” Ryn exclaimed.
+
+But she could tell that her friend was already excited, staring wide-eyed at the gorgeous gowns and robes on display.
+
+Rubbing her hands together, she declared, “Oh, my dear Ryn, I can and I will!”
+
+Clearly picking up on the mood, Ryn giggled, “Tyrant.”
+
+“In training.”
+
+***
+
+“Ok, opening it,” Malika said, retrieving the strangely animate quenching potion.
+
+Ali stood quietly waiting in the Landing while Malika decanted a single drop onto the Rune of Inferno.
+
+The smaller class advancement had gone remarkably well, and thankfully, no unwanted guests showed up to crash the party. The small group of combat applicants had been overwhelmed by the whole experience, and she was almost certain most of them had been expecting it all to be revealed as an elaborate hoax. Judging by the appearance of their clothes, they had all come from the slums, and likely none of them was used to being offered a real opportunity without strings attached. Certainly, their reactions to her handing them armor and weapons before their trial proved it. But the expressions of joy and amazement when they finally unlocked real classes had been touching to see.
+
+The only downside was that none of them had unlocked a healer class, so forming a group to level up would be challenging, but Vivian reassured them that she had a plan and Ali left it to her to figure out.
+
+Lydia’s apprentice, Elton, unlocked an unexpected affinity for shadow magic, and Weldin had an even more unusual space affinity. She just hoped their mana wouldn’t interfere with their chosen classes too badly, but she had seen some rather surprising combinations work well, so she wasn’t particularly worried. She had rather enjoyed the sight of Elton trudging through the dungeon in a tailored suit, but he seemed a lot more mellow when he wasn’t manning the desk in the store.
+
+It makes sense, Ali thought as she considered the usual kind of customer that frequented Lydia’s Allure. Besides, he looks quite dapper. He would have loved the city I grew up in…
+
+Over by the doorway, the densely mana-infused liquid of the potion sizzled as it dropped into the flames and the rune froze in place. Ali gathered the Sparkling Oozes she had deployed against the Flame Broodmother in preparation for the next spider-filled tunnel. They were just so effective at ignoring the web and unleashing explosions. She would summon replacements that would be better for the tar-filled caverns and the Flamecaller spears up ahead when she reached that part.
+
+“Ok, this should be quick,” Calen said, rolling his shoulders and raising his bow. And suddenly they were blasting their way down through the spiderweb-filled tunnel and out to the other side.
+
+“How do you want to do this?” Ali asked, studying the two patrolling Flamecaller hunters slithering their way across the scalding rocks using the superb vision of her Hobgoblins. There were only five wargs this time, but their average level was a bit higher.
+
+“How were you seeing through the illusions last time, Malika?” Calen asked. “Soul Sight?”
+
+“Yes. They have a long-duration skill that charges up right after they disappear. Their stamina rises like a massive wave behind a wall,” Malika said, gesturing expressively with her hands.
+
+“Sounds consistent with the Power Shot theory, then,” Calen said thoughtfully. “Or something just like it. It gains power the longer it’s channeled – a great skill to combine with Ambush. It’s annoying that they get to pull it off multiple times in a fight.”
+
+No wonder it was destroying my barriers so easily, Ali thought. A long-duration power skill multiplied by the bonus from Ambush striking out from under the cover of stealth or invisibility would easily kill most of her minions in a single shot.
+
+Or me, she thought. She had always had an uncomfortable relationship with Ambush, and now they were facing monsters that could unleash it from range.
+
+“Keep some Sparkling Oozes,” Calen suggested. “We should be able to suppress the illusions with multishot and area damage – just blast them from range. Malika, pull a warg out of the pack and we’ll have the melee attackers focus on that.”
+
+“You don’t want me on the hunters?” Malika asked, glancing at him in surprise.
+
+“I think you’re better used to off-tank the wargs. You can call out the positions of the hunters if you’re close enough, right?” Calen said. “We’ll use area damage to break their illusions faster.”
+
+“Ok, can do,” Malika nodded.
+
+“I’ll make a few shamans, too,” Ali said. They had been quite effective last time with their novas and curse of lightning vulnerability.
+
+“Yes, I think those are good for this fight,” Calen agreed. “Mato? Anything you want to add?”
+
+“Mmm?” Mato grunted. “No. As long as I can keep a wall at my back, I’m good.”
+
+“Right,” Calen said. “And Ali will keep a closer eye on your health, this time.”
+
+“Yes,” Ali agreed, nodding vigorously. She had been forced to conclude that, impressive as they were, bringing a Hellfire Warg to this fight would not be particularly smart, and none of her other beast summons were high enough level to be useful. All that remained was Healer’s Sight, and she had resolved to be more vigilant about watching Mato’s life this time. I can’t let him get so close again.
+
+Ali backed up into the tunnel to conceal the brightness of her Grimoire’s magic and began summoning the monsters she needed. Wait, don’t I have that? As she worked her magic, a thought popped into her brain. She paged through her Kobold imprint quickly, searching for it. Aah, there it is.
+
+Death’s Acolyte. It was a Kobold variant she rarely had occasion to use, but for this job, it might just be ideal. She typically discounted the dull, onyx-scaled Kobolds with their purple eyes as inferior death-affinity versions of her fireball-slinging pyromaniacs. The Death Rupture explosions they wielded were not quite as big or as impressive as Fireball, and they could badly hurt their allies. But they were her highest-level Kobold variant, meaning they had more health, attributes, and resilience. Down here where everything was immune to fire, the death-affinity magic was suddenly looking mighty attractive. As long as I don’t hit Mato and Malika.
+
+Smiling, she summoned two of them and replaced their robes with fire-resistance versions.
+
+Death’s Acolyte – Kobold – level 33-34 (Death) x2.
+
+“Ready?” Calen asked as she emerged from her tunnel with her new monsters in tow.
+
+“Yup.”
+
+“Ok, pulling,” he said, raising his bow and aiming out into the cavern where the hunters roamed.
+
+Just like last time, as soon as Calen fired his arrow, the Hellfire Wargs charged, and the air filled with a hail of flaming arrows. Mato roared, drawing all the howling wargs to himself, but all similarities to their previous fight ended right there.
+
+Ali erected barriers to protect the healers she’d already positioned well back near the rocky walls of the cavern, and Mato immediately charged back toward the secured location. Five howling two-headed demonic wolves chased him, each using their Flame Dash skill while snapping at his heels and painting the ground with trails of black hellfire. Fortunately, that was empty terrain, with Malika and Ali’s Hobs already in place, waiting for them while remaining well out of range of the hunters’ powerful flame-wreathed arrows.
+
+Ali stood a little behind her ranged minions – archers and mages – in the middle, right between the howling, claw-raking, biting melee erupting over by the wall and the Flamecaller hunters ranging wide out in the open. She threw up the strongest barrier she could maintain for protection against the ridiculous fire arrows and Ambush attacks that were certain to come her way. High above her head, a single Mote of Light began to pulse softly, and she knew Calen was ready. Perfect, she thought, glancing at the second beacon pulsing above Mato and Malika.
+
+“Attack!”
+
+Ali’s mental command caused a ripple of activity to burst from her minions. Brilliantly incandescent balls of explosive light magic lofted up over the barriers to fall down on top of the two Flamecallers with their buzzing ignited bows. Standing beside Ali, the pair of Death’s Acolytes unleashed their scary-looking roiling black balls of death magic. Three steel totems impaled the distant stone near the hunters, jutting out like lightning rods. The Storm Shamans cast their curses.
+
+She quickly scanned through her minions to make sure she hadn’t missed anything – a process that was slowly becoming a habit. Mato was on fire as he tanked the multiple hellfire breath attacks, but he wasn’t in dangerous territory.
+
+The two hunters both fired and vanished, leaving behind six animated illusions that drew and held their bows.
+
+“On the left ridge!” Malika shouted.
+
+Balls of starkly contrasting light and dark magic fell like rain among the images while Calen filled the air with volleys of shining arrows. All the conjured illusory Flamecallers evaporated in a shower of sparks and a roaring crescendo of explosions and lightning.
+
+“Brace!” Calen yelled.
+
+Ali crouched, reinforcing her barriers with additional mana and a second layer. Powerful arrows of pure flame shot forth from the angry bows of the suddenly exposed hunters. Power Shot, but without Ambush, she realized. Their area suppression strategy had disrupted the Ambush by dispelling the illusions, but even partially charged, the Power Shot volleys were still extremely dangerous. Two screaming arrows hammered into her barriers, causing a crack to run down the middle of the one right in front of her face. A powerful surge of mana flowed into her mana pool as her barrier magic converted a portion of the powerful magical strike to usable mana. Immediately, she spent it all and rebuilt her barrier as the next volleys struck.
+
+“That worked well,” Ali observed, cautiously standing up and surveying the scorched rock under the two Flamecallers.
+
+“Mhm,” Calen said, his actual words slurred away to incoherence around the mana potion he threw down his throat. Ali squinted at the sudden brightness as he ignited his mana with Righteous Fury. It was a crazy spell, making his entire body appear like he was burning with flames of white as his mana became supercharged. He had told her it was painful and actually damaged his health a little, but with a restoration already ticking on him, that would not be an issue.
+
+He fired volley after volley in a rapid stream at the two hunters, burning through mana without a care, but she knew exactly what he was doing. His recent Righteous Fury advancement had removed the penalty of splitting damage among his multishot arrows, and with his new mote-beacons, he would be getting an extra helping of damage per arrow that hit.
+
+But Ali’s attention snapped to the mote-beacon floating above her head as it too ignited in response to his skill.
+
+“All out!” she commanded, realizing in that instant that all of Calen’s mana was empowered by his skill, including the new damage-enhancement aura from his Motes of Light. Which meant her minions also gained thirty seconds of power. Her Kobolds and Goblins yelled and yipped furiously, responding with magic and redoubled efforts. Axes and swords gleamed and flashed with light magic, light and death bombs detonated in a continuous roar of rolling thunder, almost exceeding the brilliance of the Lightning Bolts. As the light of Calen’s ridiculous spell faded, she heard the sound of a double chime and the dull thuds of the Flamecaller hunters’ bodies hitting the ground.
+
+“Ali!” Malika shouted. “Warg!”
+
+Ali snapped her head around and saw Malika standing over the body of a dormant collapsed warg, her fists still aflame with hellfire.
+
+Instantly, she switched places with the nearest Hobgoblin using Minion Teleport, threw up a small barrier to protect herself from any stray hellfire, and began deconstructing the downed warg. With both the hunters already eliminated, she let her larger barrier drop as the rest of her minions retargeted to the Hellfire Wargs. It didn’t take long for the monster to turn into tiny streamers of glowing mana. When Ali looked up, Malika was dancing toward her, luring a second warg out of the pack.
+
+Ali slipped her awareness back into one of her holy Acolytes and commanded her slimes and Death’s Acolytes to aim their devastating area damage attacks behind the two wargs Mato was tanking, keeping a close eye on his health while the rest of her minions fired at the isolated one Malika had brought. It didn’t take long before the warg perished, and she deconstructed it too, blocking a billowing stream of hellfire breath from resurrecting it. As soon as she finished deconstructing it, both remaining wargs collapsed under the onslaught of her Sparkling Oozes, Death’s Acolytes, lightning totems, and Calen’s powerful multishot.
+
+“Do I need to deconstruct those now that everything is dead?” Ali wondered aloud.
+
+“If you don’t need them for your Grimoire anymore, let’s have Calen skin them,” Malika suggested. “That demonic hide fetches a nice price.”
+
+“Ok. Calen, do you want the hunters too?” Ali asked. “Maybe their scales are good?”
+
+“I’ll wait for you to learn them first,” Calen said, retrieving his sturdy skinning knife and getting to work.
+
+“I already learned the hunters,” Ali said, instructing her Hobgoblins to go retrieve the corpses for him to skin. Hopefully, they would be worth some money because they were rather useless taking up space in her Grimoire. Not that it was a big deal, she could just replace the imprint when she found something more useful.
+
+Ali looked up at the sound of heavy breathing and scraping of scales over the rock to find her Hobgoblins dumping the corpses by her feet. “Do you want this stuff, Malika?” Ali asked, eyeing the bows and bracers they wore.
+
+“You have a bow imprint, right?” Malika asked.
+
+“Um, yep,” she said.
+
+“Why don’t you learn them, then?” Malika asked, producing a third bow and offering it. “It’s a pretty great bow.”
+
+“Oh, cool!” Ali proceeded to deconstruct all of them. “I could make a few for you to sell. I’m not sure the guild store has a lot of bows yet.”
+
+“Maybe when the novices get a few more levels under their belts,” Malika smiled.
+
+“Aah, yes,” Ali agreed. It was not just the novices that were too low for the bows. “I should find some higher-level archers too.” It was just a shame she couldn’t use these Flamecallers.
+
+Variant: Flamecaller Bow added to Imprint: Bow.
+
+All in all, she had to admit, the encounter with the Flamecaller hunters had been vastly easier with a little experience and better strategy.
+
+“What’s next, snack time?” Mato asked hopefully.
+
+“Even budding little tyrants need a snack,” Calen added.
+
+It took Ali a long moment to process the connection. Then her head snapped up. “Calen! Have you been talking to Ryn?”
+
+“Would I?”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

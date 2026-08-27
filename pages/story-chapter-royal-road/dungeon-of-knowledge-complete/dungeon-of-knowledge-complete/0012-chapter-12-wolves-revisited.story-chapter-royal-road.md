@@ -1,0 +1,237 @@
+---
+id: fd360513-abb2-5085-ad89-04c3bfe86234
+page-type-slug: story-chapter-royal-road
+title: "Chapter 12: Wolves Revisited"
+slug: 0012-chapter-12-wolves-revisited
+partOf: dungeon-of-knowledge-complete
+position: 12
+ownLength: 4420
+unit: words
+ownProgress: 4420
+publishedAt: 2024-02-08
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1511072/chapter-12-wolves-revisited"
+royalRoadId: "1511072"
+markedReadAt: "2026-06-29T20:11:24.090Z"
+---
+
+Intelligence is the premier attribute of the mage. Known variously as intellect, mind, or spell power, Intelligence provides all that, and more! The most sought-after effect is that Intelligence scales most magical damage or spell potency. However, it also provides benefits in learning languages, improved memory, and the ability to focus on more things simultaneously.
+
+- Excerpt from The Adventurer’s Guide, Third Edition
+
+Aliandra
+
+Ali watched Malika’s fight closely, admiring the other girl’s efficient and graceful movements. She had to admit she found the fluid way she moved and the obvious power in her attacks to be fascinating. Finding beauty in a fight seemed unnatural to Ali’s entire life experience, and yet, it felt like she was watching a performance – a ballet of punches, dodging, and kicks. Only the stakes were much higher than the theater.
+
+Malika was currently beating up a level three rat they had found rummaging through a giant pile of ancient bones. Ali felt her assessment was on point, both of them had been somewhat cautious and uncertain in their first fights, but with experience came a certain confidence. Malika dominated this fight and even Ali could tell the rat had no chance despite its violent counterattacks and sheer physical size.
+
+It wasn’t just Malika. I feel stronger too, she thought, reflecting on the battle in front of her, and all the changes that she had experienced over the hectic couple of days since she had woken up. I have my class, and I’ve fought monsters and gotten stronger. While her class was somewhat complicated and confusing, Ali was growing to really like what she could do – the fear that had felt so debilitating was receding in the face of her new experience.
+
+Ali glanced about, taking her assigned role as lookout seriously, as she continued taking stock of her current situation. Her turns as lookout gave her some mental downtime to think. Malika seemed to be overly cautious, trusting others only when there was no other choice. Seems understandable, Ali thought, considering the small snippet of her harsh life story that she had shared. Ali didn’t mind though, she already considered Malika to be a friend, and she was happy to be patient and let Malika figure things out on her own. I’m lucky to have met her, she thought, wondering how she would have fared on her own, even if she had been able to survive the wolves.
+
+The simple strategy Malika had suggested for her with her skills worked incredibly well. She found that rooting the rats in place and shooting them from a distance suited her way more than having the monsters bite and claw her face. Honestly, who would want that? And she was noticeably stronger now – her Grasping Roots and Arcane Bolt spells had both leveled up, and even just one skill level made an enormous difference to their effectiveness in battle. The rats took noticeably longer to break free, and her pretty but deadly arcane bolts were killing the monsters significantly faster.
+
+She looked down at her tattered and bloodstained t-shirt – now almost unrecognizable as clothing given the great gashes and rips torn by the monsters she had faced. She was still running around fighting monsters barefoot.
+
+I hope I can find some real clothes soon.
+
+Her gaze returned to Malika’s elegant punches as she fought her rat. They discussed skills and strategy between battles and now Ali was beginning to be able to follow Malika’s strategy.
+
+Also, the rats don’t seem quite so scary anymore, that helps a lot!
+
+While Malika had been the one to personally rescue her, Ali had noticed she kept her distance from the boys within the group of rescuers, too. It’s not just me she has a hard time trusting. Initially, Ali assumed that she was the most unapproachable of the group, but as soon as she started talking with her, she found Malika to be eager to help. Particularly with combat and training, she seemed to thrive on finding the perfect angle for a punch, or exactly how to place one’s feet for maximum power. Ali didn’t understand physical combat very well, but Malika seemed super passionate about it, her eyes lighting up with excitement every time Ali showed interest.
+
+Suddenly, Ali’s reverie was disrupted by a rustling behind a nearby fallen trunk and three gaunt, dirty-brown furred forms slunk out of the shadows, eyes intently focused on Malika, not noticing her in her hiding spot as the lookout.
+
+Starving Alpha – Wolf – level 5.Starving Wolf – level 2-3 x2.
+
+“Malika! Wolves!” Ali shouted and simultaneously cast her Grasping Roots on the weakest of the three. In their downtime strategy discussions, Malika had stressed the importance of picking a good target. The lowest level monster would take the longest to break out of the roots, giving them more time to deal with the others. A little surprised that she was able to recall the strategy in the heat of battle, Ali focused on the chaos, trying to figure out her next move.
+
+Immediately, the other two wolves swung towards her, while the bound one struggled and thrashed in a vain attempt to free itself from Ali’s binding plant magic.
+
+Malika spun on her heel, ignoring the rat she had been fighting, and charged toward the group of wolves. Her magic flickered and flashed as punches lashed out at the Alpha and unbound wolf. For a few seconds that old terror at the sight of the two huge snarling wolves coming for her froze her in place, but she breathed her relief as they reacted to the more immediate threat of Malika’s punches. Then, the forgotten Sewer Rat rushed in and slammed into Malika’s back while she was focused on the two wolves.
+
+She’s struggling! Ali could only watch while Malika stumbled from the impact, desperately trying to block and dodge three monsters simultaneously. Distracted by the rat, Malika failed to block the Alpha and it sunk its teeth into her shoulder, staggering her as it tried to drag her off her feet. Her crimson blood sprayed into the air, staining the moss and bones on the ground.
+
+Judging by the frenetic pace of Malika’s punches and the rapid flickering of her magic, Ali knew she was burning through her stamina and mana at an enormous pace. She’s not going to last. I have to help her!
+
+Quickly, Ali focused on the biggest threat; the level five Alpha wolf. Just as she was about to fire her bolts, she recalled Malika’s strategy advice. She’s expecting you to follow the plan. Switching her focus, Ali targeted the most injured monster – the rat.
+
+Her high-speed stream of arcane bolts lit up the area as they raced across the battlefield, smashing into the rat in a flurry of thuds and scorched flesh. It screeched in pain. Malika had stressed the importance of focusing on the weakest enemy – eliminating an attacker quickly, she had said, was the most reliable way to turn the tide in a battle. At the time, Ali had thought Malika was being overly cautious in trying to plan for every eventuality, but now, in the middle of the fight with her heart pounding and her breathing ragged, with the monsters snarling and screeching all around her, Ali reached for the security of that plan and clung to it for dear life.
+
+Malika is counting on me. Her heart pounded while her adrenaline coursed through her veins. Everything faded except for her focus, channeling her arcane magic to kill the rat and ease the pressure on Malika.
+
+Lost in the intensity of her purpose, Ali missed the wolf breaking out of the magic binding of her Grasping Roots. A sudden snarl, and the wide-open jaws baring wickedly sharp fangs, startled her out of her casting and her magic failed as she tripped and fell to the ground. Acting out of panicked reflex, she threw up a barrier and the wolf’s face made a sickening thud as it collided with the impervious disk of magic. Snarling savagely, it attacked the unexpected obstacle at once. Desperately scrambling away, Ali tried to cast her Grasping Roots again as the wolf sidestepped the barrier and charged. Her magical conjured roots exploded from the ground, trapping the wolf a little less than a meter out of reach. She tried to calm her breathing as she scrambled away from the snapping jaws.
+
+Too close. Focus Ali!
+
+Determined to do her job properly, she refocused on the rat. Only, this time, she created a barrier nearby between her and the trapped wolf, just in case. She poured her mana back into her Arcane Bolt and resumed her attack on the rat on the other side of the battlefield. This time, she kept glancing anxiously at the struggling wolf, trying to gauge when it might break free. Splitting her focus between her target, casting her bolts, and checking on the wolf was challenging, but Ali was not going to be surprised like that again. Fortunately, the chime soon sounded, and the rat dropped to the ground.
+
+Ali took the opportunity to recast her root spell and to open a little more distance between her and the wolf. Resummoning her barrier to her new position, she focused back on the battle. Malika’s magic was coming slower and slower. She must be running low. I need to be careful too. Ali had been spending her mana furiously to keep up the sheer number of spells she needed to survive, and she was also beginning to run low on mana.
+
+Ali focused her magic on the weaker of the two remaining wolves that were still attacking Malika. Her bolt stream made a graceful arc through the air as her mana drained to fuel it. She kept an anxious eye on her mana but continued to channel her attack spell. Remembering the trapped wolf, she paused to refresh the roots. I won’t make the same mistake again.
+
+As her attention returned to the wolves, Malika finished off the weaker one, leaving only the Alpha and the wolf trapped in her root spell. I only have enough mana for a few more spells. Ali shot her bolts at the Alpha continuously until she had to refresh the roots once more. She let her barrier drop to conserve mana. Only one more. Suddenly, the Alpha knocked Malika to the ground as her magic faded. Her punches were no longer powered by her skills and her wounds were no longer closing to the light of her magic.
+
+Malika!
+
+Without thought for the cost, Ali emptied her remaining mana into her Arcane Bolt spell, sending the golden magic hurtling toward the snarling and biting wolf that was tearing at Malika as she struggled on the ground. Please be enough! The bolts flew in a continuous stream until, without warning, she ran out and the spell sputtered and died. The three remaining bolts flew through the air, striking the wolf in the chest. Thump, thump. As the second-last one struck, the Alpha collapsed, landing heavily on top of Malika. The final bolt smacked into the dead Alpha and Ali ran toward Malika.
+
+“Help, I’m out of mana!” she shouted. The roots would break any second, releasing the final wolf. A wolf which was certainly very upset with her.
+
+Malika struggled out from under the heavy Alpha corpse. “I need stamina,” she said simply, and sat facing the last struggling wolf. Ali cast around for something she could do. Her eyes lit on the corpse of the rat and suddenly she remembered her Deconstruction.
+
+Do I even have enough mana?
+
+Trying the skill, she found she had regenerated barely enough mana to fuel the tiny cost to start her strange mana recovery spell. Focusing on her magic, she cast Deconstruction on the rat. The spell took focus and about ten to fifteen seconds, and she was highly aware that the wolf would break free at any moment.
+
+As her magic took hold, the corpse of the rat glowed for a few seconds. With a loud snarl, the wolf tore itself free and charged. Ali’s panic rose, threatening to break her focus.
+
+No, I need more time!
+
+Malika was empty, sitting with her head down, and the enormous wolf was bounding toward them. Ali could cancel her magic and run, but she would be unable to fight.
+
+Just a few more seconds!
+
+“Malika! Watch out!” she called out. At the last possible moment, Malika powered her body into a rising punch. She shouted as her bright magic rekindled and her punch connected under the angry wolf’s jaw. With a flash and a crack, the wolf tumbled to the ground, thrashing and yelping. Malika’s magic faded and the wolf got to its feet, snarling, approaching with more caution. Shifting her stance, Malika moved to block the wolf from bypassing her and attacking Ali. She’s guarding me. Without any of her magic. Whatever brief flash of magic she had used was gone now, but the wolf still circled cautiously, growling deep in its throat.
+
+Ali’s Deconstruction spell finished in a flash of dissipating motes of energy and a rush as mana flooded into her mana pool. Instantly, Ali cast her Arcane Bolt and emptied all her mana into it while Malika acted as her personal barrier until the wolf finally dropped under a relentless barrage of strikes.
+
+Ali’s knees grew weak, and she slumped sitting on the ground, heedless of the damp and dirty moss. Relief welled up in her as the reality of the outcome slowly worked its way through her mind.
+
+We won?
+
+The bright sound of chimes rang in her mind.
+
+Your group has defeated Sewer Rat – level 3.Your group has defeated Starving Wolf – level 3.Your group has defeated Starving Wolf Alpha – level 5.Your group has defeated Starving Wolf – level 2.
+
+Grove Warden has reached level 2.+10 attribute points.
+
+Grasping Roots has reached level 3.Arcane Bolt has reached level 3.Barrier has reached level 3.Deconstruction has reached level 2.
+
+Ali stared at the notifications; her close call quickly forgotten. “I leveled up!” she exclaimed excitedly. “Malika, I leveled up to two.” Ali looked at her friend sitting exhausted on the ground in a pose of quiet Meditation.
+
+“I did, too,” Malika said with a smile.
+
+***
+
+In the aftermath of the battle, Ali deconstructed all the monsters and then walked beside Malika in sober silence as they returned to the relative safety of the Grove and the stone shrine. Ali felt completely spent, and by the looks of things, Malika wasn’t far off herself. She had healed herself while Ali was busy with the monster corpses, but something about expending all her mana in a battle to the death was exhausting on another level, and Ali was sure Malika was feeling that too.
+
+Sitting down with Malika next to the dark and depleted shrine, Ali asked, “That was pretty close, wasn’t it?”
+
+“Yes,” Malika responded thoughtfully. “I ran out of stamina and mana. I had to heal myself a lot at the start when there were three of them attacking me. Your roots at the end gave me just enough time to Meditate. I recovered barely enough stamina for one Soul Strike and then you finished it off.”
+
+“I ran out of mana, too. I needed those few seconds to finish my Deconstruction, otherwise I would have been helpless.” She reflected on the battle and how close it had been. If Malika had not been willing to put herself in the wolf’s path, Ali would have been unable to help. Suddenly, she realized just how much Malika must have trusted her in that moment.
+
+“Thank you for having my back out there,” Malika said, smiling at her. “I know you’re new at this combat stuff, but you really stuck to the plan. In the heat of battle, that can be very hard.”
+
+Ali looked down, her mistake gnawing at her while Malika offered praise that she felt she didn’t deserve. “I forgot about my rooted wolf. It nearly got me.” The mistake was so obvious now, in hindsight when she was safe, but it could have so easily gotten them both killed.
+
+Malika smiled. “It’s ok to make mistakes; you pulled through, and that’s what counts. I made mistakes too. I could have managed my stamina better, and we wouldn’t have had such a close call at the end.”
+
+Ali glanced over, surprised by her calm and level assessment of even her own mistakes. “It’s hard to keep track of more than one spell at the same time,” Ali admitted. “There were a few times I felt I wouldn’t be able to keep my barrier and shoot accurately at the same time.”
+
+“Perhaps invest a few more points in intelligence soon? It’s not just for making your spells hit harder, many battle mages say it helps with splitting your focus among several things simultaneously. I’m not that familiar with mages, but it could be worth a try. Also, practice should help a lot,” suggested Malika.
+
+Ali felt a little better about her performance in the battle after Malika shared her opinion and advice. Turning her attention inward, she decided to assign four attribute points to each of vitality and wisdom, leaving two points to try out Malika’s intelligence recommendation.
+
+As soon as she had assigned her points, she felt something shifting within her. She definitely felt the increase in her mana, but there was something else. Her mind felt just a little sharper and a thrilling vigor coursed through her body. Curious, she flipped open the status book in her mind, focusing on the bottom.
+
+Health: 45/45Stamina: 50/50Mana: 285/345
+
+Stamina remained unchanged, but her health was no longer a meager twenty-five. The four points of vitality had bought her almost double her health. It just seemed a little frustrating that a human, like Malika, would have gained twice that much for the same investment.
+
+On the other hand, she had the advantage when it came to mana – four points of wisdom had increased her mana capacity by sixty points! She grinned inwardly, watching for a bit as her mana began to slowly tick up. Maybe my Fae heritage isn’t so bad after all.
+
+She and Malika sat together in silence for a while, Ali focused on what she had learned from the fight, trying to turn the battle over in her mind for how she could do better. After Malika’s kind words, her attention shifted from worrying about what she had done wrong, to more productive thoughts on how she could improve next time.
+
+Beside her, Malika’s hand reached out to rest on the shrine for a few moments before she spoke, but to Ali’s surprise, it was not about fighting.
+
+“Aliandra Amariel,” Malika said, softly. “You have an unusual name.”
+
+Ali looked up in surprise but immediately relaxed seeing Malika’s thoughtful expression. “It’s Dal’mohran,” Ali answered, “from my home city.” She fell silent for a few moments, dwelling on her thoughts of home, before adding, “Ancient Dal’mohran now, I guess. My family pronounced it a-MA-ri-el. But it’s more than three thousand years ago now, and even the language has changed. I’m not surprised it sounds strange.”
+
+“It’s pretty,” Malika said, falling silent again.
+
+Ali could tell there was something on her mind, so she simply sat quietly and waited, giving her friend some space with her thoughts.
+
+“The Ahn Khen – my people – do not use family names,” Malika finally broke the silence. “I’m just Malika until I awaken my bloodline.” She stopped again; brow furrowed as she stared off into the darkness.
+
+Ali simply waited for her.
+
+“Usually, people awaken their bloodline shortly after earning their class, and then their parents pick an awakened name. There’s a small set of awakened names that represent the most powerful ancestors, and your awakened name is chosen to be a guide or an anchor to help connect you with the Ancestor most suited to your personality. It’s considered a very personal thing, shared only with close friends and family, or sometimes with a foe you recognize as honorable.”
+
+“Are you worried that you’ll have nobody to give you a suitable name when your bloodline awakens?” Ali asked, realizing that while this issue seemed important to Malika, it felt more like the other girl simply needed to connect, and share, and she hadn’t done it for so long that she felt awkward.
+
+Malika paused, again seeming to be preoccupied, before answering somewhat obliquely. “I haven’t paid my respects to the ancestors since they took my life away from me. I’m not sure they would be happy to share one of their names with me.”
+
+She seems sad, Ali thought, watching Malika for a while as she struggled with her inner thoughts.
+
+“You can call me Ali,” she said, breaking the silence, “if you like. It’s the name my friends and family used most often.”
+
+Malika looked over toward her, a little more present, perhaps a little surprised. “Ali…” She said, trying it out. “I… thank you.”
+
+Ali smiled at her. That last fight had been scary, but even when they had come close to dying, Malika hadn’t abandoned her for even a second.
+
+“Ali, do you think the ancestors really are looking out for us?”
+
+Ali considered the question, wondering what she was getting at. “I’ve never followed the ancestors or the gods of the other races myself, there don’t seem to be any Fae-specific deities that I remember. The human and elf gods always seemed to care most for their own races, or at least their temples and churches were not that welcoming. And most of the dwarves seemed to worship a sentient rock. The only people I knew who followed their ancestors as patrons were the troll races. And they’re even more unwelcoming of other races, considering everyone else to be inferior. Why do you ask?”
+
+“My class feels like it was made for me. It specifically requires the Ahn Khen bloodline. I unlocked a soul magic affinity – just like my mother’s – and my class requires that too. It provides defense and attack skills based on martial arts knowledge… I just can’t see how anyone other than me could satisfy the requirements. How can that be unless the ancestors created it?”
+
+So that’s what her magic is, Ali thought as Malika began sharing some of the details of her class. Her question, though, had been the subject of many lectures at the Dal’mohran University of Magic, and Ali had personally spent many long hours researching it in the library.
+
+“My class seems just as specific,” Ali said eventually. “I got a unique hybrid class – half my skills are combat skills, and the other half are research or knowledge skills suitable for a scholar class.” Malika inhaled sharply. “Yes. My class is domain-bound just like my father’s, it mentions the shrine and even requires that I have remained here for more than three thousand years. It’s how I even know roughly how long it’s been.”
+
+“Three thousand? No wonder…”
+
+Ali opted to shrug. “The Title says Ancient. I’m an antique.”
+
+They shared a chuckle.
+
+“So, the university had a lot of research on this subject. My favorite theory is that any time we are faced with a turning point; a risk that needs to be taken, a crucial decision, a battle, a discovery, or something created, we gain experience. Even when we don’t have a class. And experience comes with traits similar to the traits listed in your class and skills. Traits like melee, magic, creation, helpful, physical, harmful, defensive, aggressive, arcane, et cetera. When the system assigns classes, it matches your experience and the most prominent traits to whatever classes are present. But sometimes it creates a new class based on your balance of experience and traits. That’s most likely what happened to both of us.”
+
+“You seem to know a lot about this,” Malika answered.
+
+“Researcher,” Ali replied. The class decision was one of the most important decisions in anyone’s life, and she had had access to the best library in the world. Of course, she had researched the heck out of it.
+
+“I’m just glad I don’t need to go and apologize to the ancestors.”
+
+“I don’t know much about belief, and the ancestors,” Ali said, “but I’m happy to be a friend and listen if you need someone to talk it over with.”
+
+Malika gave a small snicker, shifting her mood. “I’m not sure I even remember how to be a friend. I’m sure you could do a lot better than a Street Rat.”
+
+“You’re my only friend,” Ali whispered awkwardly. After a moment, she added, “I was kinda hoping that the boys wanted to be friends, too. What happened to them?”
+
+“Calen wanted to check in with his mother and let her know he survived. They said they wanted to come back and level up with us, so you could probably try when they get back.”
+
+“You could try too, they seem nice enough,” Ali answered.
+
+“Ugh, that Beastkin is frustrating and annoying,” Malika said, wrinkling her nose as if smelling something nasty.
+
+“He has a good heart,” Ali countered.
+
+“You’re just saying that because he saved your life.”
+
+“True, so I like my life. What about the Half-elf then?”
+
+“Calen? I’m not sure I trust a boy who is prettier than me,” Malika answered with a quirky smile.
+
+“You’re pretty,” Ali noted.
+
+“Are you kidding, have you seen us?” Malika said, with mock incredulity, indicating her own ruined, bloodstained clothing.
+
+“Not quite ready for the ballroom party and fine dining?” Ali asked, setting both of them to gales of laughter.
+
+***
+
+Name: Aliandra AmarielRace: FaeTitles: Ancient
+
+Class: Grove Warden – level 2- Grasping Roots – level 3- Arcane Bolt – level 3- Barrier – level 3- Deconstruction – level 2- Runic Script – level 1- Sage of Learning – level 4- [Locked]- [Locked]- [Locked]- [Locked]
+
+General Skills- Reading – level 7- Identify – level 5- Sculpting – level 2
+
+Aptitudes- Languages: Ancient Dal’mohran, Elvish, Dwarven, Common- Mana (Affinities): Arcane, Nature- Tiny (Racial): The effects of Strength and Vitality are reduced by 50%- Magical (Racial): The effects of Wisdom and Intelligence are increased by 50%- Mana Sense (Racial): You are sensitive to nearby mana
+
+Attributes- Vitality: 9- Strength: 4- Endurance: 5- Dexterity: 10- Perception: 11- Intelligence: 28- Wisdom: 23
+
+Health: 45/45Stamina: 50/50Mana: 345/345

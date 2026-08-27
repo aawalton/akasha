@@ -1,0 +1,105 @@
+---
+id: a17e23c0-b903-5472-bd15-8493d37fd256
+page-type-slug: story-chapter-royal-road
+title: "Chapter 249: Critical Block (Part 2)"
+slug: 0281-chapter-249-critical-block-part-2
+partOf: dungeon-of-knowledge-complete
+position: 281
+ownLength: 2065
+unit: words
+ownProgress: 2065
+publishedAt: 2025-05-14
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2278808/chapter-249-critical-block-part-2"
+royalRoadId: "2278808"
+markedReadAt: "2026-06-29T20:20:45.654Z"
+---
+
+Calen skirted the dense undergrowth, ducking under the hanging coils of an emerald-green tree snake. He made no sounds and left no traces, his Eclipse and Explorer skills continuously sipping from his stamina to make him practically invisible to the eyes of his foes. He kept his awareness focused on the breeze, what little of it there was down among the trees, attentive for any changes in direction. Ever since Ali had made him aware that the Blood Shamans possessed a scent-based perception skill, he made sure that he always approached from downwind, which was why he had left the trail and was sneaking through the bush.
+
+He peered through the trees, his acute vision enhanced by his perception skills and attributes, allowing him to make out the details of the troll camp further up the road. He stood motionless in the dappled shade, counting the trolls and cross-referencing them in his mind by the uniquely painted armor and designs on their skin, giving himself enough time to be certain of their numbers.
+
+Another berserker.
+
+Right in the middle of the camp, a giant troll stood towering over the roughly constructed huts, looking down on the other normal trolls going about their business on the ground below like a tracker studying ants.
+
+I should let the others know. Calen was about to head back and report when a loud crack echoed through the camp, making him freeze, pressing himself up against the trunk of the tree for cover. The ground trembled below his feet, even from this distance, and a second giant troll emerged slowly from the forest to the sounds of snapping branches and crushed bushes – as much an inconvenience to the immense being as a spiderweb.
+
+Shit, there’s two of them. He was proud of his friends with their growing abilities and effective teamwork, but there was no way they would survive facing two giant berserkers at the same time. He held his breath as the troll slowly wandered across the clearing between the huts, each casual footfall shaking the ground underfoot. Several Bone Warriors and a Blood Shaman emerged from various huts and joined the giant troll, speaking among themselves while adjusting their garishly painted gear.
+
+Holding his breath, Calen watched. The group continued down the road, not even pausing at the edge of the clearing. They’re splitting up! But that’s… Suddenly, Calen realized that they were heading down the trail toward his friends. Shit. I need to warn them. Ignoring the risk, he ducked back, angling toward the road, aiming to reach it ahead of the trolls. He reached his mark and then continued, shadowing the group from the cover of the trees and bushes along the edge of the road.
+
+Calen had been following along beside them for about five minutes when the Blood Shaman barked a command, and the entire patrol halted. Even the giant troll paused, casually ripping a branch from a tree so he could get a better view. After a few moments, the group turned around and began to head back toward the troll camp and Calen saw his opportunity fading.
+
+I have to nab them while they’re isolated, he thought. If they returned to rejoin with the others, there was no telling when or if he’d get the opportunity to split them up again. But I also need to survive the run back. He drew his bowstring to his cheek and aimed carefully, sighting on the lowest-level troll warrior. He fed stamina to Power Shot while the trolls slowly approached his maximum range. With more than a sixty percent stamina-cost reduction from Blessing of the Dawn, he channeled for more than twenty seconds in absolute silence before he approached the bottom of his stamina pool. His arms were shaking from holding back the immense pent-up power as he judged how much left-over stamina to hold in reserve, just in case he missed and was forced to flee. At the last possible moment, he released Ali’s duplicate of the expensive crafted arrows he had bought in Ciradyl. Waiting till the arrow was almost touching the warrior, he swiftly added his Light Damage and Armor Piercing enchantments. The arrow flashed briefly before punching through the unsuspecting troll’s chest, dropping him to the ground to the sound of his notification chime.
+
+All the remaining trolls spun about with shouts of alarm. Blood magic spiraled outward from the sliced arms of the shaman and the berserker, flowing into their weapons.
+
+Yes! He had just one-shot a level sixty-five troll – Ambush with his Power Shot advancement was everything he could have hoped for. But now he had to deal with a pack of furious trolls intent on turning him into paste.
+
+That got their attention, Calen thought, his heart racing as he spun and sprinted down the road. Mato, I hope your ears are this good. “Incoming! Berserker group!” he yelled.
+
+The ground bucked under his feet, and he risked a backward glance to find the giant troll already nearing the apex of his gigantic leap. With a thought, Calen unfurled both sets of his wings, taking off and flying directly sideways, cutting through the trees at top speed to shorten a bend in the road. A great crash like several elephants jumping in unison sounded behind him, followed by the din of something massive tearing through the jungle at high speed, snapping branches and knocking down trees as it went.
+
+They better be ready, Calen thought, forcing himself to take a deep breath and shout another warning as he dodged the maze of tree branches whipping by, grateful that his broad wings were made from insubstantial light magic rather than something solid. The second he emerged onto the road, he released his wings, falling to the ground and rolling to his feet, and resumed sprinting. As long as the path was clear, he knew he was a little faster on the ground. The giant troll burst from the jungle in an explosion of splinters, leaves and small branches, drawing the other, smaller trolls along in his wake.
+
+He took the next corner on the road with his thighs brushing the undergrowth, trying to cut as much distance as possible, and to his intense relief, he saw Mato, ready and waiting in Bear Form with Ali’s minions and Malika arrayed in a loose formation behind him. Oh, thank goodness. He laid out the strategy while his legs screamed from the exertion of saving his life from thousands of pounds of angry troll.
+
+“Mato, the big one. Kill the shaman first,” he said. As he sprinted past Malika and the line of Ali’s monsters, he leapt into the air, spinning backward, and unleashed a volley of five conjured arrows at the incoming group. From hard-earned experience, he knew his skill wouldn’t work on the giant, but five chains unfurled, grappling with the smaller trolls at the back, locking them down, and pinning them in place while the others struggled for control.
+
+Roars split the forest, and Mato and the giant troll collided in the middle of the road with a deafening crash. Calen ducked as Mato’s huge furry body flew over his head, cartwheeling a couple of times before landing far further down the road than he would have expected. Mato was heavy – but the giant troll had punted him like a ball. Immediately, Calen dodged sideways into the bushes as the enormous troll chased Mato through the center of their forces, batting an unfortunate Bone Warrior into the jungle with a casual backhand swing of his greataxe.
+
+An enormous surge of blood erupted from the enemy shaman as it used its potent Bloodlust. Nice. Poor timing.
+
+“Fuck! Bloodlust!” Malika shouted, teleporting across the battlefield to where giant bloody runes formed around the crown of the berserker troll, slapping Mato frantically as she tried to top him up.
+
+“Early Bloodlust is good for us,” Calen yelled back.
+
+“What?” Ali asked incredulously.
+
+“Crowd control,” Calen explained, realizing that for once he had full mana even after unleashing an expensive Grappling Shot-enchanted multishot. He did it again, making sure he re-chained everything that was outside the range of the enemy shaman’s totems.
+
+“Oh,” Ali said, and immediately her witch doctor frogged one of the remaining trolls, leaving a furious but tiny green frog hopping up and down with miniature blood runes circling its head.
+
+“That, and I don’t want to see a Bloodlusted berserker at full rage,” Calen added. That scenario would probably require all their escape tools to survive.
+
+From his spot beside the road, Calen began his assault. Malika was tanking the shaman and occasionally popping in and out to heal Mato. Ali’s two drakes were fighting the loose troll warriors, so he chose to conjure volleys of five arrows each, enchanting Armor Piercing and Light Magic on his shots, trying to burn them all down as fast as possible. The time for stealth was long gone, and he made his bow howl as he added the hellfire damage enhancement.
+
+Shockingly, the steep cost of his Grappling Shot was erased in a single volley, and he began to work it into his rotation every time the recharge expired. Mana leech changes so much.
+
+He ducked again, reflexively, and needlessly, as Mato’s body lofted high overhead back to where he had started, landing with a painful grunt and the sound of ribs cracking from the force. The ground shook as the berserker troll chased him down. Calen ignored him, seeing the arcing ribbons of blood-magic healing following Mato’s trajectory as the shamans worked to keep him alive. Calen kept firing his arrows, focusing on aiming properly amid the detonations of hellfire, Frost Nova blasts, and the dragon-fire breaths, almost downing a mana potion reflexively before remembering he didn’t need it. Instead, he fished out an Elixir of Agility and downed that, grimacing at the fizziness in his throat.
+
+The troll shaman died first, and then he, Ali, and Malika rapidly burned down the struggling warriors who no longer had their healer to keep them alive. Between his chains and Ali’s Frog Hex, the only person taking damage was Mato.
+
+When the last of the trolls – the normal-sized ones – fell, Calen glanced around but Mato was nowhere to be found. Nor was the massive berserker troll visible in any direction.
+
+“Err…” Calen said.
+
+“He’s over there,” Ali pointed.
+
+A loud thump was immediately followed by the splintering cracks of tree branches, and Mato flew back onto the road, rolling several times before he regained his feet.
+
+“That’s impressive,” Malika observed.
+
+“What is?” Ali asked.
+
+“He always manipulates the berserker to toss him back to us.”
+
+Oh, wow. I didn’t even think of that. The enormous berserker troll catapulted out of the forest, trailing streamers of blood from his greataxes amid an explosion of leaves, splintered branches, and a malevolent-looking red mist. As he descended on Mato’s position, his greataxes swung down with enormous force. To control such a force of chaos…
+
+Mato set his paws firmly, roaring defiantly at the incoming troll meteor. The axes struck and there was an exceptionally loud crack. The air blurred visibly from the shockwave of Mato’s block. Despite all expectations, the far more massive troll ricocheted off Mato’s defensive bulwark, landing and stumbling, shaking his head from the shock.
+
+Critical Block? It looked a lot more impressive than it had originally sounded. Mato had stopped the troll’s massive attack cold – and even knocked him back a little. New wounds had appeared on the monster’s broad painted chest, blood fed to the mists of rage.
+
+“Spread out,” Calen called, anticipating the devastating, board-sweeping vortex of blood and axes would come as soon as the melee engaged. “Don’t engage. Wait for his Bloodlust to drop. Save ours for the end.” There was no point in feeding the berserker more damage while he was still hasted. So they skirmished instead, moving back and forth down the road every time Mato got knocked flying – sometimes even into the trees. The shamans played a dangerous dance, darting in to refresh bleeds and curses and make sure the totems were properly placed every time the battle shifted. Malika darted in and out to heal and everyone else simply waited it out.
+
+“It’s down,” Malika called.
+
+Right, now we can go all out!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

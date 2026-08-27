@@ -1,0 +1,135 @@
+---
+id: 97a01360-5663-5f5d-bf2b-36253060ad37
+page-type-slug: story-chapter-royal-road
+title: "Chapter 252: Blood Berserker (Part 1)"
+slug: 0284-chapter-252-blood-berserker-part-1
+partOf: dungeon-of-knowledge-complete
+position: 284
+ownLength: 1973
+unit: words
+ownProgress: 1973
+publishedAt: 2025-05-18
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2288352/chapter-252-blood-berserker-part-1"
+royalRoadId: "2288352"
+markedReadAt: "2026-06-29T20:20:51.776Z"
+---
+
+Roses are red.Violets are red.Blood is red.You are dead.- Tol’brekk, leader of Aman Rak. First poem, penned at age five.
+
+Leaving the guild raid group back home to revel in their fresh victory, Ali began the chore of deconstructing all the monsters. Several of the Bone Warriors in this group had been at a higher level than those already recorded in her Grimoire, so she made certain she collected everything, updating her imprints as she went.
+
+Variant: Heavy Bone Greataxe of Carnage added to Imprint Axe.Variant: Bloodsteel Shield added to Imprint: Shield.Variant: Bloodsteel Handaxe added to Imprint: Axe.
+
+Finally, she hovered beside the massive corpse of the female giant berserker troll, studying it carefully. If she was lucky, this would be the one that allowed her to make them, and yet her mind conjured all sorts of reasons why her sometimes-unpredictable Grimoire may refuse to allow it. She wiped her palms on her robes. Giant trolls were reputed to be a bloodline mutation common to all troll tribes, and as a mutation, she wasn’t certain it would record any differently than what she had already inscribed into her book.
+
+I want them. It was strange, she reflected, recalling just how reluctant she had been to use the troll imprint at all when she had first learned it. But most of her reluctance had dissipated as she had been forced to rely on them more and more and had been exposed to how the Temple of Aman Rak – and presumably Tol’brekk – used the summons. Now she found herself hovering beside the enormous giant corpse, hoping she would learn how to make it her own.
+
+She reached out with her hand and slowly deconstructed it.
+
+Variant completed, but the imprint is full. Make space or select a new chapter.
+
+Aah, come on, what? Ali stared at the unexpected notification. Of all the things she had imagined that might go wrong, this one – the most mundane of all – had simply not occurred to her. The Troll imprint didn’t have many variants, certainly not compared to her armor or her elemental one. But everything is very high level, she realized. And perhaps that’s more important.
+
+She sighed, considering the difficult decision she now faced. No open chapters remained in her Grimoire, so she needed to either pass on the troll berserker, or she had to lose something else to make space.
+
+I can’t let this one go, she thought, biting her lower lip as she paged through her Grimoire, but there were no obvious choices left.
+
+“Can I get some help with a decision?” Ali asked, flying back to the others and explaining her dilemma.
+
+“Well, what are your options?” Malika asked.
+
+Ali quickly listed all her Grimoire imprints for them, along with salient information like the most useful variants she knew – sorted into her favorite categories.
+
+Grimoire Imprints1- Metal2- Stone3- Wood4,5- Armor (Body)6- Arrow7- Axe8- Book9- Bow10- Charm (Hands)11- Dagger12- Greaves13- Potion14- Shield15- Sword16- Creeper17- Fungus18- Grass19- Moss20-22- Tree23- Wildflower24- Bat25- Borer Beetle26- Demon27- Dragon28,29- Elemental30- Goblinoid31,32- Kobold33- Ooze34- Spider35- Spirit Beast36- Troll37- Wolf
+
+“Maybe one of the plants you don’t use much?” Malika suggested. “Like the creeper, maybe?”
+
+“I thought of that one,” Ali answered. “I use the creeper to extend my domain vertically when I can’t plant trees, and it’s also one of the few sources of fire affinity for our fire potions.”
+
+“What about wood or stone?” Mato suggested. “Those are probably the easiest to replace.”
+
+“Yes, it may have to be that,” Ali admitted. “I have some very good stone variants, but maybe wood could work.” She would be sad having to see it go and then trying to relearn it later, hopefully getting the same variants that she had used for her sculpture practice.
+
+“What’s that beetle one?” Calen asked.
+
+“It’s a swarm beetle I picked up with Mato in Naia’s dungeon. It’s my only earth-affinity monster and I was hoping to study it, and maybe use it to make digging caves a little easier. I guess it can go,” she answered. That would be sad too, it seemed like the perfect monster for experimenting with, but the giant troll berserker would most certainly help them right now, and she had a dangerous dungeon to clear. She turned her Grimoire to that chapter, preparing to remove it.
+
+“Are you ever going to use your Kobolds or Goblins again, now that you have the trolls?” Calen asked suddenly.
+
+“I’m using the Kobolds for the low-level adventurers,” Ali said.
+
+“But not the Goblins,” he prompted.
+
+“The Goblin shamans were very useful, and the Hobgoblins we used in the fire dungeon.”
+
+“But the Goblin shamans are level nineteen, if I remember correctly, and the Blood Shaman is way better. And why would you use a Hobgoblin if you have Bone Warriors and these berserkers?”
+
+“I do have the shaman and ooze boss in the lake, though,” Ali said. She had no idea what might happen to it if she removed the imprint from her Grimoire.
+
+“Maybe you can remake that with a kobold?” Calen offered.
+
+He has a point, though, Ali thought, considering Calen’s reasoning. The only reason she would ever summon any of her Goblin variants would be as something for the new adventurers to fight and she was primarily using the Kobolds for that. She didn’t need to spend two imprints for the same purpose. Besides, she had never been particularly excited about filling her dungeon with Goblins – she would miss the Storm Shamans and their Lightning Nova totems, but she had definitely outgrown them. As it stood right now, Goblins were less useful than even her wood imprint, or the Borer Beetles – at least if she focused on her future growth.
+
+“Don’t worry too much about making a mistake,” Malika said. “Goblins are very common if you want to relearn them later for whatever reason.”
+
+“Ok, I think that’s the best approach, then,” Ali said and selected the Goblinoid chapter for her new variant. If nothing else, Malika’s argument was strong – goblins could be easily replaced, but these might very well be the last living Aman Rak Blood Berserkers.
+
+Her Grimoire immediately rearranged itself as it inscribed the newest addition.
+
+Variant: Blood Berserker added to Imprint: Troll.
+
+Immediately she checked in on the lake in her Forest Cavern, but although the raiders had killed it, her respawn timer was still going. She would have to wait to see what happened when it expired, but given how much information was imprinted on the domain itself when she created bosses, she was willing to bet that it would resummon just fine. She just wouldn’t be able to make a new one anymore.
+
+Ali took a deep breath and created her newest troll. She had had to scale its level back substantially using her customization to even be able to summon it. But there he stood, towering above her in all his massive glory. She had left most things up to the random chance of her Grimoire, withholding only gear and weapons, and she had ended up with a huge male troll with a shock of crimson spikey hair and enormous tusks longer than her entire body. Even though his legs were short and stocky relative to his frame, Ali could only reach up to about his knee – and the sunlight gleamed majestically off of pecs and biceps the size of large boulders.
+
+Blood Berserker – Giant Troll – level 85 (Blood)Your reserved mana has increased by +638.
+
+“Ouch, over six hundred mana!” Ali recalled when, not that long ago, her entire mana pool was less than six hundred.
+
+Calen let out a low whistle. “That’s expensive.”
+
+The huge troll gazed down at her, and in that moment, Ali wondered if this was what a bug felt like right before it was squashed. Then he spoke in a deep voice that seemed to grind its way out from within a vast cavern, “Seeker, what is your will?”
+
+“You will fight with me,” Ali answered, pleased beyond even her own expectations that her voice did not crack or waver when she spoke. “Err… for me,” she quickly corrected at his look.
+
+“I have no weapons with which to fight,” the troll responded, turning his massive but empty palms up, surprising Ali with his proficiency with the Troll language. She had just assumed something so big and muscular would sound stupid, but for all his power and size, the troll’s eyes reflected a clear awareness of his surroundings, and his speech demonstrated an unexpected intelligence.
+
+Without prompting, Malika simply began dumping the oversized troll equipment they had been collecting on the ground next to the berserker.
+
+He stared at the growing equipment pile, the muscles in his forearms twitching, and then glanced at Ali with clear desire on his face.
+
+“Those are for you,” she said, giving him permission. His sudden grin of pleasure and excitement instantly broke any remaining fear she had of her newest monster. He hummed a little tune that sounded like an avalanche of boulders rolling down a mountainside as he tested the heft of the double-edged greataxes, donned the armor, and braided the painted leather strips onto his tusks.
+
+“This is terrifying up close,” Calen said, looking up at the giant troll.
+
+Malika and Mato burst out laughing, and Ali realized right then that their perspective as melee classes was always up close, and then never with a docile troll like this one.
+
+“So, what can he do?” Calen asked, already retrieving his notebook and pen and looking at her eagerly.
+
+Ali shared the status summary with everyone.
+
+Race: Giant TrollActive Buffs: Ancestral Spirit RunesClass: Blood Berserker – level 85- Blood Rage – level 56- Blood-Soaked Slash – level 48- Leap – level 30- Blood Vortex – level 42- Blood Manipulation – level 43- Ancestral Spirit Runes – level 45- Overwhelming Power – level 38- Monstrous Armor – level 38- Scent of Blood – level 23- Last Stand – level 25General Skills- Identify – level 23- Philosophy – level 39- Poetry – level 18Aptitudes- Language: Troll- Mana (Affinity): Blood- Giant Power (Racial): +85 to Strength- Massive (Racial): You are immune to most forms of Knockback- Bloodline (Aman Rak): +30% to range and power of Bloodline skills- Regeneration (Racial): +600% health regeneration. Can regenerate mortal injuries. Fire damage cannot be regenerated- Blood Magic (Class): You can use health to pay for any mana costs. You have no mana. Instead, you gain 10 health per point of WisdomAttributes- Vitality: 665 (+430)- Strength: 1278 (+877)- Endurance: 1068 (+770)- Dexterity: 240 (+49)- Perception: 114- Intelligence: 77- Wisdom: 149Equipment- Main Hand: Heavy Bone Greataxe of Carnage – level 81- Off Hand: Heavy Bone Greataxe of Carnage – level 81- Hands: Carnage Bindings – level 80- Body: Blood-Soaked Vest – level 80- Feet: Blood-Soaked Greaves – level 70- Tusk: Painted Tusk Braids – level 75Armor: 4438Physical Damage Reduction: 65.09%Evasion: 672Dodge: 22.01%+8% chance for your Physical damage to inflict Bleed.+15% damage to Blood Melee skills.+3% of your damage is returned as Stamina over 30 seconds.+15% to Movement speed.+13% faster recharge for Movement skills.Health: 8140/8140Stamina: 8544/10680 (2136 Reserved)
+
+“That’s… how does he have so much health?” Calen asked.
+
+“Blood magic,” Ali explained. It was identical to her Blood Shamans – no mana. Instead, wisdom and vitality both contributed to health.
+
+“Look at that armor!” Mato exclaimed.
+
+“No wonder you were getting pummeled,” Malika said, almost simultaneously. “Twelve hundred strength – how is it even that high?”
+
+Ali quickly did some calculations, confirming her suspicions. “He gets fifteen attribute points per level, not ten.”
+
+“And he gets gear too? How is that fair?” Malika said.
+
+“He’s a giant?” Calen said, shrugging.
+
+“He’s a Troll,” Zor’kan said as if explaining the existence of a tree to a child.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

@@ -1,0 +1,149 @@
+---
+id: d13c1a5a-543a-5af1-b0ae-b941bb60b973
+page-type-slug: story-chapter-royal-road
+title: "Chapter 200: The Hatchery (1 of 2)"
+slug: 0206-chapter-200-the-hatchery-1-of-2
+partOf: dungeon-of-knowledge-complete
+position: 206
+ownLength: 2711
+unit: words
+ownProgress: 2711
+publishedAt: 2025-02-20
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2078855/chapter-200-the-hatchery-1-of-2"
+royalRoadId: "2078855"
+markedReadAt: "2026-06-29T20:18:06.900Z"
+---
+
+Nothing burns hotter than Dragonfire.- Artur Dragonsworn [The Rule of Law], Human King of Dal’mohra
+
+He stood in the strangely pristine archway squinting out at the enormous chamber beyond, constantly scanning the threats arrayed before them while trying to keep a lid on the nerves that threatened to bubble over from within. He had witnessed the Cleaving strike that almost took Malika’s life, but he hadn’t been aware of just how close it had been until after the fight when she and Ali talked about it. There’s no way for me to do this safely. The monsters would barrel through the chokepoint of the archway, creating a deadly blender that would claim one of their tanks in a heartbeat. Unless… he glanced back speculatively at the Kobolds shifting restlessly inside the smaller chamber.
+
+“Ali, can you help me split the next pack?” Calen asked.
+
+“Sure, what do you need?” She floated up to join him at the doorway.
+
+“Can you make an archer and put it next to Mato and have it shoot the Armored Drake?” he asked, pointing to the monsters they would need to take on next. The next group had an identical composition to the last one, with just minor differences in the monsters’ levels.
+
+“Just an archer?”
+
+“It doesn’t have to be an archer, whatever has the longest range.”
+
+If they were successful at splitting the pack and directing the monsters in two different directions, they could avoid having the chaotic mess in the doorway, which was how Malika had gotten hit in the first place. Skipping the confluence of fire auras and cleave attacks was suddenly his highest priority.
+
+“Your minion pulls the entire pack, and I’ll shoot each of the Shards of Inferno to pull them over here and Malika can take them from me,” he said. “If it all goes well, everything should run towards Mato and then about halfway the elementals will come after me and the pack will be split in two.”
+
+“I see,” Ali said as she considered his suggested strategy. “I think I’ll use a Bone Mage. It’s got a slightly longer range than my archers.”
+
+“We have to get you better minions,” he chuckled. “What self-respecting archer allows a mage to out-shoot them?” His joke got a couple of laughs, which finally began to lighten the mood a little. “Still, the archer probably has a better chance of dodging the Cleave and surviving.”
+
+“The Kobold is disposable,” Ali said.
+
+“Isn’t that a bit… cold-blooded?”
+
+“Not at all,” Ali said, glancing back at him. “Resurrection is impossible, but resummoning is effectively resurrection for my minions. If the Kobold gets Cleaved it’s no big deal, I just wasted some mana. If you or Malika dies, it’s over.”
+
+“Makes sense,” Calen said. She’s right… but why does that make me so uncomfortable?
+
+“Ok, how about here?” Ali asked, conjuring a Kobold mage complete with high-quality robes beside Mato.
+
+“Looks good to me. Try to only hit the Armored Drake,” he said, readying his bow. “That will make the rest of this easier. Everyone ready?” He moved to the side next to Malika but kept well within range of the ramp the pack of monsters would have to use to reach them. This was going to be a tricky shot, and he fully appreciated why Nendir recommended he invest heavily into intelligence to support his Multishot.
+
+The pack of monsters meandered slowly about, but Calen instantly caught the moment they came into range by the sudden tensing of the Kobold’s shoulders and the muted yip of a suppressed battle call. A sharp spear-like length of bone materialized in the air above the Kobold’s right shoulder, and it suddenly mimed a throwing gesture, launching the magical projectile out into the scorching chamber beyond and then scampering away.
+
+Good shot, little Kobold. Calen raised his bow, tracking the high-speed projectile effortlessly with his enhanced vision. It zipped past the elementals and struck the massive red drake on the side of its head, splintering against the tough, scaled hide. The dragon roared, galvanizing the entire group, and charged toward the doorway at a terrifying pace.
+
+He drew his bowstring back and conjured four glowing arrows, holding them in place as the monsters charged, tracking all the monsters simultaneously, computing trajectories, and predicting velocity.
+
+Now! He saw the moment and took the shot, four glowing arrows casting sudden shadows as they zipped past Mato and the archway. He didn’t bother to enchant extra damage or release another volley, as the extra damage would make it that much harder for Malika to take the monsters away from him – and he definitely could not tank them himself. His arrows struck true, two hitting the Shards of Inferno and two hitting the Kobold Fire Mages. With a hissing noise and a sizzle, the elementals turned and surged toward him, the Kobolds stopping dead in their tracks to summon fireballs. He ducked behind the rock wall to break their line of sight, forcing the mages to cancel their spells and move instead.
+
+The drake thundered through the doorway, its heavily armored shoulder taking a hefty chunk out of the stone arch and charging through the pulverized stone dust toward its Kobold antagonist, now cowering behind Mato.
+
+Perfect. Calen skipped backward, allowing some space for Malika to maneuver in front of him. The shards surged across the chamber, quickly bearing down on him and Malika on the opposite side of the doorway to Mato. Gritting his teeth, he stood his ground, his heart pounding as the elementals loomed rapidly larger and scarier. He seldom had a reason to be this close to monsters, but he couldn’t run until she hit them – if he did, they would chase him and make Malika’s job all but impossible. But right then, a large golden barrier snapped into place in front of him a heartbeat before a massive fireball detonated against it. He shot a grateful glance up at Ali hovering above the battlefield and she sent him a grin and a thumbs-up.
+
+He shifted his attention away from Malika’s dance of uncanny grace and speed among the elementals to the Kobold Fire Mages setting up shop just inside the doorway. Malika wasn’t going to bother with those because there wasn’t a whole lot of point in tanking the mages when they had him and Ali’s spiders. Flashes of gold went off in his peripheral vision as Ali anticipated the attacks with protective barriers.
+
+He ducked back out of the aura of flame, raised his bow, and channeled his stamina into it, causing it to ignite with blazing hellfire. The Kobolds might be resistant to fire, but they were no elementals. His bow unleashed a deafening howl as the flight of glowing conjured arrows leapt from his bowstring – blazing missiles of intense white radiance wreathed with sizzling black flame. The arrows struck again and again, each impact flashing in time to the pulses of his Motes of Light bobbing overhead, hellfire and light causing painfully blinding contrast. But his vision skill ignored the intensity and with each shot, he felt stamina leeching back into him in a rush as his potent bow re-energized him. This thing is fantastic!
+
+The Kobold mages seemed to be about halfway through casting their fireballs at him when Ali’s spiders dropped from their perches on the walls, unleashing such powerful Ambush attacks that their unfinished spells popped, dumping puddles of burning fire at their feet. Momentarily stunned by the impact, the Kobolds were instantly trussed up by thick strands of demonic web. Calen turned away, looking for the next target, knowing that it was all over for them.
+
+“Shards next,” he said.
+
+“Right,” Ali said, and a ripple of reaction spread through her minions.
+
+By now, Malika had enough time to secure the elementals, so he quenched the hellfire from his bow, downed a mana potion, and used Righteous Fury. Without the hellfire, he would be doing less damage, but the elementals were immune to it, and this way, his bow was mercifully silent. He unloaded volley after volley into the Shards of Inferno, enchanting every single shot with his enhanced light magic, trying to eke out the most damage possible. Ali must have noticed him using his skill because all her minions began attacking the shards with renewed fervor, not holding back to conserve mana or stamina while the motes of light were empowered.
+
+It was remarkable just how much sheer damage the combination of righteous fury, motes of light, and the removal of his multishot damage penalty added up to. Even more so when he factored in the damage from all Ali’s minions combined. The Shards of Inferno collapsed under their withering assault, and he felt the sheer glut of stamina returned to him by his new bow.
+
+Not wanting to miss out on even a second of his Righteous Fury, he smoothly switched to shooting the Armored Drake across the room. As his mana ticked rapidly downward, he began interspersing his conjured arrows with real ones. The magical arrows did much better against the heavily armored target, but with Mato’s armor penetration skill, the physical arrows were at least doing respectable damage, not like the time they had had to fight the bone elementals in the library.
+
+The burning in his veins waned as Righteous Fury ended, and his mana consumption eased off to a more normal level. His skill fortunately had the same recharge as Mato’s Last Stand so they would both be ready for the next fight at the same time. He shifted more and more toward favoring physical arrows as he switched up his resource consumption to prefer stamina over mana. For this, his new bow was phenomenal – keeping his stamina topped up for as long as he was shooting. It had given him a way to stay relevant in long fights keeping his damage high, even if he was unable to reach his peak using primarily stamina instead of mana. Now, however, he was back to running out of arrows, and Myrin’s Keep did not have a high-level Fletcher. And his obvious dependence on mana potions hadn’t eased up even one bit.
+
+I’ll have to ask Lyeneru or Nendir, he thought, making a mental note to buy some good arrows the next time he visited Ciradyl and bring them home for Ali to learn.
+
+The Armored Drake corpse burst into a cloud of mana motes and her hand fell through it, suddenly unsupported by the solid bulk of the dragon and its searing impervious scales.
+
+Variant: Armored Drake added to Imprint: Dragon
+
+“You got it?” Calen asked.
+
+“Yes!” she said. Finally. It had taken four corpses for her to inscribe the new variant into the pages of her Grimoire. As they pushed deeper into the vast terraced stone chamber, they encountered more and more variety among the packs of monsters – Shards of Inferno, Flamecallers of various kinds, and even the Lava Lurker oozes near the river of lava flowing through the middle of the chamber filling it with additional waves of radiant heat. Packs with no Armored Drakes allowed them to continue without waiting for Mato’s Last Stand recharge to expire – which improved their speed by reducing their downtime, but it had also meant that she had had to wait quite a while to finally learn the imprint.
+
+Now, if only there were somewhere I could use it.
+
+“Nice, Ali,” Calen congratulated her.
+
+“You can have the next one,” she told him as his eyes tracked the next group of monsters he was considering. “For skinning.”
+
+“Cool, thanks,” he answered with a hint of a smile and then led them closer to the edge of the chamber to reach the next group of monsters.
+
+Hitting a run of easier combinations, Calen pulled pack after pack, barely pausing to rest. Ali quickly lost count in the controlled chaos of battle, but eventually, they reached the wall and a large, jagged opening that led to somewhere beyond. What stood out most was the irregular shape in the smooth and well-crafted stone wall, as if something had bored a hole through the wall about halfway through the massive chamber to reach the natural cave system behind it. Or, melted it, she thought, studying the edges of the dark rocky tunnel – in places it looked like it had been carved out by giant claws or teeth, but elsewhere it had smooth ripples as if the rock had hardened from a viscous liquid or lava state. A heavy musky scent billowed out of the opening carried to her nostrils on swirling vortices of ambient fire-affinity mana, masking the near-ubiquitous stench of sulfur and molten rock that pervaded the dungeon.
+
+“Let’s be careful,” Malika said, eyeing the opening with obvious suspicion, mirroring Ali’s thoughts. “The last time we found something like this, there was a Pit Lord inside.”
+
+“We’re not charmed this time,” Ali observed, deliberately checking once again, but Malika’s point was well taken. “I’ll help to scout.” She sent her Abyssal Stalkers up front, shrouded by their powerful stealth skill, entering the darker tunnel and creeping along the walls and ceiling quietly to avoid any potential monsters lying in wait in the dim reddish glow up ahead. The rough-hewn tunnel cut straight through the rock, curving back on itself a little, and blocking their view of whatever their destination might be, but all seemed silent, and nothing leapt out to attack them. Calen made a cautioning hand signal, and she summoned her barrier as a precaution. Around the bend, the tunnel widened, revealing a surprisingly large subterranean cavern lit by numerous sconces and braziers of fire, and a large waterfall of lava pouring from the ceiling into a pool that dominated the back half of the cavern.
+
+Numerous shadowy caverns and passages dotted the walls, leading away from the main cavern, and nestled in every corner, alcove, and hollow were clutches of large mottled red-and-brown eggs, each almost a meter tall, tended by the Flamecallers that slithered among them.
+
+One clutch seemed to have recently hatched, splinters and shards of eggshell scattered about, and dark shapes curled and shifted among the remnants, poorly lit by the dancing firelight.
+
+Hatcher – Flamecaller Elemental – level 19-27 (Fire) x33Drake Hatchling – Dragon – level 12-17 (Fire) x47
+
+“Low-level hatchers and drake eggs,” Ali whispered, relaying the information to Malika and Mato as they crept around the corner. The monsters might all be low-level ones, but there were many of them.
+
+Carefully, and with as much silence as they could manage, they crept forward toward the entrance until Ali could survey the dark chamber with her own eyes.
+
+“This group should be easy. Mato, tank them right here in the tunnel,” Calen whispered, appearing from the depths of a nearby shadow. “Use area damage.”
+
+“I’ll just punch everything really fast, shall I?” Malika said. “That counts as area damage, right?”
+
+“Knock yourself out,” Mato chuckled softly and then transformed and took his stance in the center of the tunnel.
+
+Calen raised his bow and fired.
+
+The volley of arrows flared brightly in the darkness, covering the distance in a blink and impaling Flamecaller Hatchers and Drake Hatchlings alike.
+
+For a moment everything froze. Ali held her breath.
+
+And then, the Flamecallers fled, running the other way.
+
+“Fuck!” Calen exclaimed.
+
+The entire room erupted in a chorus of screeches, roars, and hissing, with Flamecaller Hatchers scrambling around in panic, knocking over unhatched eggs that cracked, disgorging more hatchlings.
+
+“Fuck, run!” Malika shouted.
+
+A sudden eruption of flame and lava from the pool accompanied a thunderous screech loud enough to rattle the rock, dropping pebbles and dust from the roof. An enormous form exploded up from the pool of lava and extended giant wings of flame amid a riotous tempest of fire mana. A sharp beak turned toward Ali, and she felt the piercing glare of the monster of fire transfix her with pure anger and rage.
+
+Its wings flapped once and it took off, flying through the cavern toward them, a firestorm raining down in its wake.
+
+Phoenix of Living Flame – Elemental Bird – level 72 (Fire)
+
+“Run!” Ali screamed.
+
+-----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

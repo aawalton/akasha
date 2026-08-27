@@ -1,0 +1,91 @@
+---
+id: 93d8b174-fe37-5e65-9c7a-47a4fa8ad778
+page-type-slug: story-chapter-royal-road
+title: "Chapter 265: Seeker of the First Age"
+slug: 0297-chapter-265-seeker-of-the-first-age
+partOf: dungeon-of-knowledge-complete
+position: 297
+ownLength: 1543
+unit: words
+ownProgress: 1543
+publishedAt: 2025-06-01
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2321917/chapter-265-seeker-of-the-first-age"
+royalRoadId: "2321917"
+markedReadAt: "2026-06-29T20:21:20.188Z"
+---
+
+Mato transpired, as trees did. Sap flowed, drawing mana from his vast trunk and circulating it out through his leaves and into the world beyond, filling the broken ruined buildings with the influx of his Sanctuary Aura.
+
+The frantic battle against the paramount troll of Aman Rak and his final Death Knight ascension faded to a quiet memory in the soft tranquility of his arboreal existence. However, the notifications still glowed against the bark of his inner nature.
+
+Druidic Shapeshifter has reached level 98 (+9).+90 attribute points.
+
+Warm gratitude filled his heartwood, his mind empty of words. None were needed. Without much urgency, he dwelt on the nature of his own class, and the rewards offered until he achieved an intuitive clarity, and then he spent his points. He allocated four points to dexterity, knowing it would boost his ability to block and wield his roots. Eight points went to perception and two to intelligence. Fourteen points pushed his wisdom up nicely, hopefully reaching a high enough total to substantially improve his defenses against fear. He spent twenty points on vitality, twenty-five on strength, and seventeen on endurance, before browsing through the rest of the messages.
+
+Arboreal Sanctuary has reached level 43 (+2).Swipe has reached level 51 (+3).Brutal Restoration has reached level 52 (+4).Bear Form has reached level 48 (+6).Rampant Growth has reached level 22.Bestial Combat has reached level 43 (+3).Natural Prowess has reached level 39 (+3).Survival Instinct has reached level 46 (+3).Battle Trance has reached level 33 (+4).Last Stand has reached level 16 (+2).Identify has reached level 17.Cooking has reached level 21.Herb Gathering has reached level 20 (+2).
+
+Mato studied the notifications arising from the battle, but in the serenity of his tree form, they simply failed to hold his interest for long. They were good, and he would build an understanding of his new capabilities through experience. Of much more importance were the horrific wounds and the terrible corrupted blight that afflicted Lyeneru Silverleaf. His magic struggled to find purchase against the insidious death magic of the Blind Lich, and he knew he had never felt anything quite like it before. Not even the diseases spread by the bats and the ghouls, as terrifying as they were, could even come close to the nature of this pestilent affliction. The only thing he had ever struggled against like this was the corruption of the evolved Pit Lord, Maalgaroth.
+
+But he had the patience of sap and the persistence of wood and bark, and he applied his mana with the relentlessness of a river wearing down rock to sand that washed away. Eventually, the blight loosened its hold, flaking away under the ceaseless onslaught of his Arboreal Sanctuary.
+
+And even while he persisted, he felt others, alive within his Sanctuary, struggling to hold on, maimed with fire and impaled to walls. His magic soothed them all.
+
+Yes. This was deep, necessary work.
+
+***
+
+Name: Mato BahrRace: BeastkinTitles: Rift WardenActive Buffs: Tree Form, Natural Prowess, Well-fedClass: Druidic Shapeshifter – level 98- Arboreal Sanctuary – level 43- Swipe – level 51- Brutal Restoration – level 52- Bear Form – level 48- Rampant Growth – level 22- Bestial Combat – level 43- Natural Prowess – level 39- Survival Instinct – level 46- Battle Trance – level 33- Last Stand – level 16General Skills- Identify – level 17- Cooking – level 21- Herb Gathering – level 20Aptitudes- Languages: Common, Beast, Plant, Troll- Mana (Affinity): Nature- Strong (Racial): +7 to Strength- Tough (Racial): +10 to EndurancePatrons & Tithes- Mentor: Lirasia- Deity: AzryetAttributes- Vitality: 1480 (+971)- Perception: 373 (+229)- Intelligence: 37 (+20)- Wisdom: 1163 (+766)Equipment- Trunk: Abyssal Bear Armor of Fire – level 60- Branch: Carnage Bindings of the Shifter – level 80- Root: Blood-soaked Greaves of the Shifter – level 70- Knot: Gold Guild Ring – level 60Armor: 504Physical Damage Reduction: 15.51%Resistance: 632Magical Damage Reduction: 18.72%+33% to Fire resistance.+8% chance for your Physical damage to inflict Bleed.Health: 14800/14800Mana: 9304/11630 (2326 Reserved)
+
+Ali flew out across the wreckage of the Temple of Blood and approached the wall of one of the few buildings that still stood. It was a relief that there was no sacrificial altar to deconstruct this time, but they had still failed to rescue most of the troll prisoners. Malika was gathering the few strewn around in the wreckage that had managed to survive, and Ali flew up to the aged troll impaled through his chest by the blade of an enormous greataxe, pinned like a bug to the ancient, bloodstained stone.
+
+The troll’s alert eyes gazed at Ali as she approached. His body, aside from the giant axe wedged in his lungs, was already mostly healed by Mato’s aura. She reached out to the axe haft to deconstruct it and free him.
+
+“Elowynn? Elowynn Amariel?” he breathed, “What are you doing here? I thought you had perished.”
+
+Ali’s hand paused as the bittersweet memory of her mother’s face flashed across her mind, and, as she looked closer, she suddenly, surprisingly recognized this troll. He was a little more wizened and a lot dirtier, but he had been a celebrity visiting lecturer at the Grand Library Arcana, come to give a first-hand account of the events of the first age. Back then he had already been ancient – and more than three thousand years had passed since.
+
+Curious, Ali identified him.
+
+Val’korr [Seeker of the First Age] – Troll – level ??? (Soul)
+
+He gazed on, expectantly and Ali finally answered, “My mother’s spirit has passed to the other realm.”
+
+“Your mother?” His eyes sparkled with curiosity. “Aah, you are her daughter… Aliandra? I remember you.”
+
+Wow, I must have made a good impression, she thought. This esteemed historian had remembered her name from a single encounter over three thousand years ago.
+
+“You were that precocious brat in the front row who kept accusing me of making mistakes in my lecture,” he said, scowling down at her.
+
+“Brat?” Ali frowned, annoyed that of all the good qualities she had, this was what had stuck in his mind for thousands of years. “What good is being the Seeker of the First Age if you can’t keep your facts straight?” she retorted. That lecture had been almost a year and a half ago, according to her subjective experience of time, and she still clearly remembered at least two errors, self-contradictions, from his presentation.
+
+“What good is being the Seeker of the First Age if that doesn’t make my words automatically true?” he answered, looking rather smug.
+
+“I don’t care who you are, you contradicted yourself in that lecture,” she snapped, recalling being rather annoyed with him at the time. In fact, she was getting rather annoyed with him right now, and she was having second thoughts about deconstructing the axe immediately. Perhaps leaving him hanging around for a while would be good for his attitude, at least he wasn’t in any immediate danger.
+
+He cackled, the sound strangely punctuated by the gurgling and the impediments of having a greataxe wedged through a lung. “You know that I put those mistakes in there on purpose?” he said.
+
+“Why would you do something like that? You’re supposed to be a source of quality information,” Ali demanded. She really didn’t like this guy at all. “People trusted you!”
+
+“It’s my way to separate those who listen to what I say from those who listen to no more than my title,” he answered, his eyes still crinkling around the edges.
+
+Ali slapped the axe handle, thoroughly annoyed and more than a little surprised at herself for becoming so annoyed in the first place, and deconstructed it, while telling him precisely what she thought of his little charade using the choicest of words in trollish. That just sent him into paroxysms of cackling and coughing until the axe evaporated and he fell to the ground, his wounds visibly growing shut under the enormous, combined influence of his personal troll-regeneration and Mato’s aura.
+
+He groaned, and Ali felt moderately guilty about dropping an old troll on the ground so heavily.
+
+“Val’korr, you live!” Zor’kan exclaimed, rushing in and bowing low to the aged troll sprawled on the ground.
+
+“Of course, boy, it would take far more than that little disturbance to kill me,” Val’korr said. “Now help me up. Where’s my staff?”
+
+Ali eyed him suspiciously as Zor’kan scrambled to help him up. While the scraggly white hair, yellowed tusks, grumbling, and leathery, weather-beaten skin spoke of an advanced age, his body was wiry and lean.
+
+Is he faking it? she wondered. After all, he was a three-mark troll, inheriting their legendary regeneration. But Zor’kan helped him up and supported him as the two of them began searching the wreckage for a walking stick, of all things.
+
+He’s definitely faking, she decided. It was not that she could see through his deception – far from it; his act must have been practiced for longer than she had been alive, even counting her time suspended in the Spirit Realm, but it was her read of his personality. Even with just the brief amount of time she had spent interacting with him, she was certain he was the kind of person who would be capable of a thousand-year-long charade. Trolls don’t age.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

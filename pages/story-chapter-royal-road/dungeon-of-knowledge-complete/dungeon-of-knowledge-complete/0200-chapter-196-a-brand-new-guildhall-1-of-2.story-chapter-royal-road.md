@@ -1,0 +1,167 @@
+---
+id: decf8c2e-5e5b-59b2-9568-54c9d991204b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 196: A Brand-new Guildhall (1 of 2)"
+slug: 0200-chapter-196-a-brand-new-guildhall-1-of-2
+partOf: dungeon-of-knowledge-complete
+position: 200
+ownLength: 2886
+unit: words
+ownProgress: 2886
+publishedAt: 2025-02-11
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2060869/chapter-196-a-brand-new-guildhall-1-of-2"
+royalRoadId: "2060869"
+markedReadAt: "2026-06-29T20:17:53.982Z"
+---
+
+Breakfast was tasty but eaten quickly; everyone was eager to get to town and take care of various errands and chores. Ali packed a few arcane magic books in her ring, just in case she needed to adjust something on the fly. She had just discovered a potential solution to her teleportation problem, and she was eager to experiment with it from the guild. The solution had come to her in a moment of surprising inspiration while studying the obscure triggers in a dusty, and decidedly ancient magic tome Ryn had unearthed somewhere deep within the bowels of the Ciradyl Grand Library’s extensive section devoted to cataloging this magic of lost or forgotten cultures.
+
+It had been torturous to unravel the dense and overly technical manual, written in an archaic dialect of the Dwarven language, but what she had teased from its fragile pages was the method to trigger her spells based on various attributes and properties of the triggering mana itself. She could trigger on her own mana signature, or even recognize the specific mana ‘shape’ of a target runic circle. The ancient design principles, when applied to her runic magic, introduced so much complexity that it placed very real limitations on how well it would scale – mainly because the formations of the triggers had to be duplicated and built into the runic structure itself, essentially making two runic circles with copies of each other embedded within the design. And that was if she wanted a single trigger. She had tried sketching out a double trigger design, but all she had earned was a headache. However, it had given her the method for activating a teleportation locus based on a single specific source teleportation circle. It was a bit of a round-about approach, but she was certain it would accomplish what she wanted – a teleportation locus that could only accept incoming teleportation magic from a specific designated source circle. She had even inscribed the first half of her experiment in the flagstones at the bottom of the atrium beside the circle that would take them to the Novaspark Academy.
+
+Teleportation Locus – Linked Magic – level 51 (Arcane)A magical locus that serves as an enhanced teleport destination.Mana Key: [incomplete – unknown teleport runic circle]Runic Circle
+
+She had inscribed the mana key trigger to require her own personal mana signature and to match several runic variations she intended to inscribe in the teleportation circle at the other end. It would be a little over two hundred and fifty mana to maintain the teleportation circle in the guild hall, but the convenience of it was worth it. And she could break it in the case of an emergency. If it worked, the library may just become a mini-hub of travel; a study destination for the growing guild.
+
+“Ok, I’m ready,” Mato said, stepping off the spiral staircase to join them at the bottom of the library. His eyes lingered on the brand-new circle of electrum-inscribed runes Ali had completed. “That looks complicated – pretty, though.”
+
+“It took some work to make the destination locus secure,” Ali said, quirking an eyebrow at the grinning Beastkin. “I don’t want just anyone showing up – you know, like people specifically called Mato.”
+
+“Huh,” he snorted. “What’s your favorite dish, again?”
+
+“All of them! You’re in. Permanently.”
+
+“Mmm, so easily bought,” he rumbled.
+
+Blushing mildly, Ali sorted through her minions, deciding to leave most of them behind, choosing only her Hellfire Imp, a Kobold acolyte, and her new Abyssal Stalker to accompany them to the guild.
+
+“You’re bringing that thing?” Calen asked, gesturing toward her chosen minions.
+
+“I want to practice getting used to its Blood Scent,” she said, glancing at her murderous-looking spider demon. It had taken some time to get used to the overpowering sense around just her friends, and it was certain to be even harder up in town around all those people. “Besides it has great stealth, nobody will see it. Here watch.” She quickly instructed the stalker to hide, and it vanished from most of her senses, only the ooze and her own Martial Insight able to tell where it was.
+
+“That is pretty good,” Mato said. “It has no scent, and I can’t even detect it in my sanctuary aura. I can hear it when it moves, though.”
+
+“It can cloak its mana,” she answered, proud of the newest additions to her forces. Even the Vampire Hornets – which she had set loose in the forest cavern to scout for sneaky rogues or assassins.
+
+“I think he meant the other one,” Malika said, pointing at the imp she was using to boost her intelligence attribute. “Mieriel will yell at you if it burns her precious carpet.”
+
+“Oh, right,” she said, frowning at the tiny imp. She had gotten so used to them that she had forgotten it was permanently wreathed in hellfire. “Maybe I can leave it outside?”
+
+“Tabitha will probably try to figure out some way to use the hellfire for cooking. Imp-roasted marshmallows, anyone?” Mato said with a grin.
+
+They stepped through Ali’s teleport circle to the Novaspark Academy locus one by one and then made their way to the Adventurers Guild, but when they arrived, the entire place was in disarray. Half the building was torn down, and unfamiliar people were crawling all over it with an intensity of purpose and constant flickers of mana as they worked.
+
+“What’s going on?” Ali asked, finding Vivian Ross out on the street observing the work beside Tabitha’s food cart.
+
+“Hi, Aliandra,” Vivian said, giving the imp a suspicious side-eye and then arching an eyebrow in the general direction of the invisible Abyssal Stalker. “With all the crafters coming in and out every day, and all the new recruits, the guild was just getting too small. So, I bought the abandoned plot next door and we’re expanding. We’re going to have a bigger guild hall, more training rooms, a dormitory, and expand Weldin’s store substantially.”
+
+“More store space?” Malika said, excitement oozing from her voice.
+
+“Oh, that seems good,” Ali said. It was rather shocking, to be honest, and she hadn’t expected the entire building to be torn down when they arrived. But she had found it rather cramped the last few times she had been up here.
+
+“Congratulations on reaching gold rank,” Vivian said, addressing the others. “Why don’t you all come with me? Mieriel has set up around the corner and we can get you your rings.” And with that Ali found herself left to her own devices amid the bustle and banging of furious construction.
+
+Curious, she wandered around the site, practicing tracking people by the scent of their blood – which was not nearly as overwhelming as she had feared – but every time one of the crafters and artisans did something unusual with their mana, she found herself gawping in amazement. How does she afford it? The guild must have been doing rather well financially for Vivian to be able to undertake such a big project, and Ali couldn’t help wondering just how much of that was because of her own group’s efforts.
+
+A bigger store… Weldin always seemed busy with crafters coming and going constantly. Nothing remained on display in the store for very long, but the scale of this undertaking implied far more success than she had even imagined. I should check my account. She generally left the group’s finances to Malika’s capable management, and she had a few arrangements that regularly funded her bank account, but she rarely checked on it herself, relying on Ryn more often than not.
+
+She peered down into a large hole in the middle of what used to be the guild hall, where an impressive amount of earth magic was being wielded to excavate. At the bottom of the hole, she found two dwarven women pouring their mana into the stone, making it warp and bend, flowing like water as they restructured it into a staircase that led down to what looked like it might eventually become a lower floor or a basement.
+
+“Oi, careful!” one of them exclaimed. “Go any deeper and it will collapse into the sewers below.”
+
+“Aye, I forgot.”
+
+“Can ya not see?”
+
+“Shut yer yapping gob, Belra.”
+
+The banter between the two stone crafters seemed good-natured; at least Ali decided the absence of dwarven profanity lent it a sense of camaraderie rather than actual annoyance. Their words made her focus on the rock below their feet instead of their earth magic, and to her surprise, she could see the mana of her domain leaking through.
+
+Could I link my spell? she wondered. Leaving them to continue their work, she eagerly retrieved her book on arcane magic that had been stashed in her ring for a while and looked up the mana key trigger, curious to discover if linking her domain to her spell would mess up the signature she had designed into the library locus.
+
+Aah, here it is, she thought, finding the chapter for the obscure trigger magic. She began tracing out the runes carefully while using her minion’s senses to avoid tripping and falling on her face as she navigated the construction clutter, returning to where the Guildmaster had said Mieriel would be.
+
+Oh, interesting. It looked like she wouldn’t know exactly until she tried it, but her personal mana and her own domain should match closely enough. Probably she could get an exact answer from her mother’s book, or Nevyn Eld’s tome on dungeons. She grimaced at the last thought briefly. But the trigger text suggested that even if it didn’t work, she could update the locus after the fact, so her work wouldn’t be wasted.
+
+“Oh, hi Ali,” Malika said. “We were just finishing up. I brought Vivian up to date on the rift situation and she said she will work out some contingency plans with Commander Brand.”
+
+“Did you explain my boss?”
+
+“Yup,” Malika said. “Also, we got our new rings.”
+
+“Can I see?” Her own ring had been amazing, and she was excited for her friends.
+
+“Here, this is mine,” Malika said, sharing the ring with a happy smile on her face.
+
+Gold Guild Ring – level 60A ring signifying gold-rank membership with the Adventurers Guild. It serves as a key granting access to private areas in the guild hall.Owner: Malika Yu+23 to all attributes.Requirements: Wisdom 210QuestsEliminate undead in and around Myrin’s Keep – 0Mana: Store or retrieve an item. Capacity: 150 / 800kgQuality: RareValue: SoulboundCreated by Giddy Clicksprocket.Ring
+
+“Wow, all attributes?” Malika’s ring had only a single enchantment, but it was incredible and perfectly suited for her monk class.
+
+“I know, I’m going to stop by and thank Giddy Clicksprocket in person,” she said.
+
+“Share mine too, please,” Calen said, holding up his hand with the gleaming golden ring prominently displayed. Malika did.
+
+Gold Guild Ring – level 60A ring signifying gold-rank membership with the Adventurers Guild. It serves as a key granting access to private areas in the guild hall.Owner: Calen Avery+39 Dexterity.+36 Intelligence.+12% movement speed.Requirements: Dexterity 210QuestsEliminate undead in and around Myrin’s Keep – 0Mana: Store or retrieve an item. Capacity: 62.5 / 800kgQuality: RareValue: SoulboundCreated by Giddy Clicksprocket.Ring
+
+“Movement speed is a great choice for you,” Ali said. Obviously, the two primary attributes for his damage would not go to waste either.
+
+“Here’s mine,” Mato said, surprising her. Given that he spent most of his time in Bear Form, and occasionally Tree Form, whatever enchantments that were on his ring would not matter. But when she saw the ring, she realized just how wrong that assumption was.
+
+Gold Guild Ring – level 60A ring signifying gold-rank membership with the Adventurers Guild. It serves as a key granting access to private areas in the guild hall.Owner: Mato Bahr+40 Endurance.+34 Strength.+12 Vitality.Mana: Shapeshift.Requirements: Shapeshifter, Endurance 210QuestsEliminate undead in and around Myrin’s Keep – 0Restore blighted farmland – [complete] Mana: Store or retrieve an item. Capacity: 146 / 800kgCreated by Giddy Clicksprocket.Ring
+
+“You can shift the ring?” she asked in amazement.
+
+“Yes,” he said with a huge grin.
+
+With the ability to shift the ring into his Bear Form, he would be able to take advantage of the attribute enchantments when he was fighting. It was truly a masterfully crafted item, perfect for him.
+
+“Hey, Vivian. What’s the big hole in the middle for?” Ali asked, pointing back the way she had come. The discussion of everyone’s rings had given her yet another improvement for her idea.
+
+“It’s a lower level. Storage rooms for the guild store, equipment, and things like that. The dorm will be down there too. It was cheaper to hire the stone crafters for two extra days than to buy more land,” the Guildmaster said.
+
+“Can I have a room down there?” Ali asked.
+
+“What for?”
+
+“I can make a teleportation circle right to the library,” she answered.
+
+“Are you sure you want that kind of access?”
+
+“I can make it to require a guild ring,” she answered. It should be a simple matter to use a detect trigger for that.
+
+“Can you make it silver or gold rank only?” Vivian asked. “If the silver or gold adventurers can escort people to the library it would be a very nice privilege for earning that level, and it could eliminate a lot of issues monitoring access given the number of new recruits we’re getting lately.”
+
+“How about I make it big enough to take several people, but it won’t activate unless one of them has the right ring?” It would make the enchantment just a little more complicated, but nothing too challenging.
+
+“That works.”
+
+With the Guildmaster’s approval, Ali headed back to the big hole and levitated herself downward. After explaining herself to the two dwarven stone crafters, they suggested an area for her to use, right beside the now-completed stairwell.
+
+Reaching down, she brushed her fingertips along the stone, finding most of the floor infused with her domain mana already, with some of it leaking up into what would become the new room. Pulling on her mana, she shifted the floor, lowering it by nearly two meters.
+
+“Be careful going too low, the sewer is under there.”
+
+“I can see it,” Ali replied absently, shifting her skill to use her stone imprint and transmuting the entire floor into the extremely hard Aether-fused Obsidian that had kept Naia prisoner for centuries. This stone, she knew, would be more than strong enough to hold the floor without cracking.
+
+“Ooh, that’s a thing now, isn’t it?” one of the dwarves exclaimed, immediately squatting down to examine it more closely.
+
+“Sure you aren’t part-Dwarf?” said the one called Belra.
+
+Ali smiled at her and then sat in the center of the black stone floor, smooth enough to be polished, and began to inscribe her runic circle, first creating each rune in gleaming silvery-yellow inlaid electrum, and then imbuing the entire structure with the mana of her Runic Script. It was quick work as she had most of the runic structures planned out already, and as the magic circle completed, she bound it to the domain mana leaking through the floor and it snapped into completion, glowing powerfully as the magic flowed through the runes.
+
+Static Teleport – Linked Magic – level 51 (Arcane)Teleport to a preset teleportation locus.Locus: Dal’mohran Grand Library Arcana.Detect: Gold Guild Ring or Silver Guild Ring.Voluntary Trigger.Runic CircleAccept teleportation to the Dal’mohran Grand Library Arcana?
+
+It worked! She smiled happily at the notification, especially delighted at the ‘Dal’mohran Grand Library Arcana’ designation for the locus. What an honor! Her circle had detected her gold ring and offered to teleport her back to the library. And the fact that the mana pulsed with power, ready to send her, meant that the locus she had inscribed back in the library was ready to receive her.
+
+That should make Vivian happy, she thought, declining the teleportation for now. She stood up and surveyed her work – she had linked the triggers so that the person wearing the gold or silver guild ring would be the one receiving the voluntary trigger for the teleport, but everyone within the circle would be sent. Vivian’s idea would help allay her security concerns – at least initially, the only people who could activate it would be the Guildmaster, Mieriel, and her own group. But she was certain the bronze-ranked adventurers would reach silver quickly, and then they could be responsible for ferrying the recruits in and out of the library as needed – and she appreciated Vivian’s idea for setting up additional guild perks at each milestone.
+
+“This is beautiful work, lassie.” The two dwarven stone crafters were staring at her stone floor, touching it and examining it with their mana, and studying the runes made from mana-infused electrum.
+
+“Thank you,” she said, at least a little embarrassed at their overt appreciation for what she had made. Although she did have to agree, the shiny glowing runic circle embedded in the obsidian made a very striking image. She would still have to test it all extensively, but she could do that later after she had finished up in town. As she watched, the two dwarves quickly erected walls, turning her teleportation circle into a room with a doorway.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

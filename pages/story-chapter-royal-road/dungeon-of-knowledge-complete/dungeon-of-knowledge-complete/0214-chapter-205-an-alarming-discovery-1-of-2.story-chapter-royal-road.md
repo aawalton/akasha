@@ -1,0 +1,139 @@
+---
+id: 86b2367e-f9a5-55e3-b5d5-43bb85999c61
+page-type-slug: story-chapter-royal-road
+title: "Chapter 205: An Alarming Discovery (1 of 2)"
+slug: 0214-chapter-205-an-alarming-discovery-1-of-2
+partOf: dungeon-of-knowledge-complete
+position: 214
+ownLength: 3112
+unit: words
+ownProgress: 3112
+publishedAt: 2025-03-02
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2098817/chapter-205-an-alarming-discovery-1-of-2"
+royalRoadId: "2098817"
+markedReadAt: "2026-06-29T20:18:23.756Z"
+---
+
+Mato rested, relaxing into the weight of his branches, the soft rustle of his leaves, and the stretching of his roots deep into the earth. His awareness flowed beyond the reach of his tree, extending outward in all directions, carried by the mana of his Sanctuary Aura. Just by his mere presence, the little plants germinated and grew, aided and fed by his mana.
+
+He liked growing plants. It was a surprising realization. He had always loved nature and the forests, but he had never considered that he would one day enjoy actually growing things – but his magic had given him the tools to become a tree, and his excess mana and health regeneration spilled out into the world around him, a well of nature magic that attracted wisps to his branches, germinated seeds and opened flowers all around his roots.
+
+“Well met, young druid,” Lira said, her voice echoing clearly in his mind in the strange language of plants. For the most part, plant thoughts were alien, strange echoes of emotions, barely intelligent enough to be remembered or felt. But from some plants, he experienced more, and the dryad was by far the wisest plant he had ever met.
+
+“Well met, Lirasia,” he answered, his thought-speech automatically shaped by his mind in this Tree Form.
+
+“I have some thoughts on your questions,” she continued. “The question of growth.”
+
+As his mentor, he had asked her about his class, and the direction his development was taking – if he was following a balanced path. It was under the influence of her mana that he had learned the magic of his Tree Form, and he had come to understand the intrinsic stability of its form in his life. His bear was a form of violence and defense, but in his tree form, he could protect and grow.
+
+“I have reached the conclusion that your growth is unbalanced,” she said. “Only now in the opposite direction. The fault is perhaps my own. When you accepted my mana, you were a creature of only fangs and claws, intent on the ferocity of battle. But I am not, my path of balance is the growth of nature and the decay of the ages. Under the influence of my mana, your growth has expanded, and you have learned of nurture, germination, and the stability of the oak. But you have strayed from your own balance – the balance of fangs and claws. I believe that my mana is pulling you too powerfully to my path.”
+
+“Must I release your mentorship?” Even within the serenity of the tree’s mind, he felt his discomfort at the idea of abandoning Lira’s mentorship and guidance. The dryad, tree spirit, was the essence of nature in a way, and someone who had drastically influenced his potential. Despite the risk of being warped, he was loath to abandon the potential for growth.
+
+“That is one path,” she answered, her voice warm and soft in his mind. She fell silent for a while and he simply waited, an act of patience he had never achieved in his other forms.
+
+“There is another path available to you,” she said eventually. “You could take another patron. One who matches your instinct and calling to battle. It is not a path I could ever choose or a counterbalance I could ever provide, but it could fit well with your personality, setting you back into overall balance.”
+
+“Who should I choose?” There were not a lot of choices of mentors that favored combat. His father might have been a good choice, but his power could never come close to counterbalancing someone of Lira’s level and influence. Nor was he beyond Mato’s own level anymore.
+
+“It is an intriguing idea,” she said. “I met with your little Goblin friend’s patron and, in that moment, I thought of you. Azryet. Dragon God, Harbinger of Chaos, Herald of Havoc, and The Calamity. He shares your passion for battle, and I saw within him a fundamental desire to champion the oppressed, defend the weak, and pit his might against evil with a glorious rending of teeth and flame. He would be the perfect match for your battle nature.”
+
+“Azryet?” He had not expected that at all, and surprise rippled through the serenity and calm of his mind. Her words made sense, but the part of him that enjoyed battle seemed distant in this form, like an acquaintance remembered, or a picture of himself.
+
+“How would I even contact the dragon god and ask for his favor?” he asked after considering her proposal for quite some time. Havok was a paladin, and he had a specific skill for requesting Azryet’s blessing. He had no such thing and, presumably, he would actually need to meet Azryet to ask him. That was if he would even be accepted.
+
+“A paladin or a priest can act as a conduit, interceding with their god on behalf of someone else. You could simply ask your friend.”
+
+With Malika called away to chat with the Guildmaster, Calen found himself left to explore the new guild by himself in the few minutes he had before his strategy discussion group. The guild hall itself was more than three times larger than the old one, and yet it still did not display any ostentatiousness. It seemed more a reflection of the Guildmaster’s pragmatic mindset, something he found rather refreshing.
+
+Still, it had been thoughtfully furnished – there were several open-plan meeting areas with couches and chairs, a small bar and eating area, surrounded by potted plants, lending it a more comfortable atmosphere. In the center, Ryn was overseeing several crafters putting the finishing touches on what looked like a sophisticated new quest board replacement, while Bookwyrm, her familiar, sat atop the construction looking on curiously and generally just getting in the way.
+
+The open-plan space transitioned into the much more spacious guild store at the far end, and all around the hall were meeting rooms of various sizes and functions. He had time to look at that later, so he headed downstairs to explore the training rooms.
+
+As soon as he set foot on the landing at the bottom of the stairwell, his senses prickled, and he turned to find a room with several steps down to a recessed floor of pitch-black stone with a beautifully ornate inlaid work of runic magic, almost identical to the teleportation circles Ali had crafted in the library.
+
+This must have been the one she mentioned, he thought, taking the stairs downward, his boots clicking on the hard, polished obsidian. As his foot reached from the final stair toward the floor, his notification chime sounded.
+
+[Explorer] You have entered a dungeon.Ancient Grove – level 68Affinity: Nature, Arcane.Age: New.Known Creatures: Kobold, Goblin, Ooze, Wolf, Elemental, Spider, DemonKnown Bosses: Toxic Slime (5), Tunnel Weaver (8)Raid Bosses: Kobold Warrior (10), Storm Shaman / Brine Ooze (19), Timber Wolf (26), Forest Guardian (40), Forest Guardian (53), Toxic Spitter (55).Dungeon
+
+Oh, that’s clever. Judging by when the notification sounded, Ali had deliberately lowered the floor until it was about one foot submerged into her domain mana, allowing her to construct the runic circle supported by the dungeon and still locate it inside the guild building.
+
+He resumed his descent, walking across the floor and entering the circle. As soon as he did, he received a notification.
+
+Accept teleportation to the Dal’mohran Grand Library Arcana?
+
+He declined the circle, but he marveled at just how convenient it would be from now on to have a direct teleport from the guild to the library. He headed back upstairs to find the meeting room for his discussion group.
+
+***
+
+The new meeting rooms had sophisticated updated privacy enchantments worked into the construction, so Calen activated it with a little mana and sat down to wait for the group leaders to arrive, pulling out his notes to review today’s subject matter. He was hoping to discuss the corrupted fire drake with them, but while he always prepared something, he left the choice of discussion topic up to the group, and he expected that today might be different.
+
+The drake was going to be a rather difficult challenge for them, and frankly, he didn’t see how it was possible at their current levels, so perhaps a different topic would be more productive anyway. They either needed to level up a lot, bring more people, or get Ali some much stronger minions.
+
+At least progress was being made toward gaining more levels – the Phoenix of Living Flame and the trash monsters leading to the drake had netted him three levels. With a quiet sense of satisfaction, Calen reviewed his gains.
+
+Archer of Light has reached level 63 (+3).+30 attribute points.Radiant Archery has reached level 34.Arrows of Brilliance has reached level 39.Motes of Light has reached level 23.Blessing of the Dawn has reached level 26.Righteous Fury has reached level 22.Azrael's Wings has reached level 19.Mirage Armor has reached level 17.Cartography has reached level 13.Skinning has reached level 10 (+2).Howling Hellfire Bow has reached level 61.
+
+His skills were growing nicely, but it was the last line of his notifications that really grabbed his attention. It had happened during the last Corrupted Fire Drake attempt – a fight where he was so flush with mana and stamina that he had been finally able to go all out and hadn’t held back in the slightest. Carefully he studied the changes to the bow, comparing it to his notes. Some of the enchantments seemed to have improved a little, but the biggest change came from a fairly modest increase to the bow’s base damage range. On paper it seemed minor but, with the massive multiplier from Radiant Archery, his dexterity scaling, and the way that some of his Arrows of Brilliance enchantments scaled with his bow damage, the result was quite a substantial overall improvement.
+
+He could not wait to try it out against a suitable foe – but now, a noise at the doorway distracted him and Calen dismissed those thoughts. Time to focus on his students.
+
+***
+
+He left the meeting room in a pensive, thoughtful mood. The strategy discussion group had been anything but normal – everyone wanted to talk about the Kobold raid boss that had resulted in Theon’s death, and Belmar and Brena in particular had become emotional about their personal experiences with the fight. Not exactly his strongest suit, but Aiden and Tegan had helped to provide a balanced perspective, and, as difficult as it was, he felt it had eventually turned into one of the most productive and useful meetings they had had so far. Especially on the topic of leadership, with everyone having great ideas for how to avoid something like this from ever happening again. He had personally learned a lot and was finally beginning to see Lyeneru’s perspective on how good leadership could often save more lives than skills and strategy.
+
+“Calen, do you have a minute?” Mieriel asked as he passed by her new desk.
+
+“Sure?” He followed curiously as she got up and led the way into a private meeting room. Normally she just conducted business in the guild hall, so this must be something rather more sensitive or important.
+
+“I received some intelligence on the kidnapping operation that you scouted some time ago,” she said, sitting down at the table, pulling out some papers, and adjusting her glasses.
+
+Calen had begun to smile at the pretty Elf, but his lips compressed into a thin line instead. Them! It had been the group that had kidnapped Seth, and while the trail had run cold for him at their abandoned hideout, he had dug up quite a haul of paperwork and turned it over to Mieriel.
+
+Clearing her throat, Mieriel said, “Havok and Devan followed the lead and encountered the kidnappers. During the altercation, two hired guards and the ringleader were killed, along with their Kel’darran merchant contact. Several prisoners were recovered and returned to their homes. I thought you’d like to hear how it turned out.”
+
+“Thanks for letting me know,” he answered politely. It was rather good news, and every small step that made Myrin’s Keep a little safer was a great thing. But it was hardly worth a private meeting room, so he sat patiently waiting for her to elaborate.
+
+“The Guildmaster registered you four together as a gold-rank group and, as we discussed, only Aliandra’s abilities were obfuscated. This morning, we received a royal courier bearing a gold-ranked quest.” She pushed her glasses up on the bridge of her nose and met his curiosity with a smile. “It’s a scouting mission. We were hoping you’d be interested – it pays quite well, although your team doesn’t seem to be struggling for money. But it would substantially enhance the guild’s reputation if we could successfully deal with a gold quest on behalf of the kingdom.”
+
+“What is the job?” It certainly seemed to be a great opportunity and, depending on the details, his skills might be quite suited to a scouting mission. But for the mission to receive a gold-rank rank it must be quite a challenge. Not just good for the guild, he thought to himself, knowing the dangers Aliandra in particular would face if the kingdom ever discovered the true extent of her skillset.
+
+“The kingdom has lost contact with all the small towns to the south along the border with the troll kingdoms. The teleportation loci are unresponsive, and a Silver Cog merchant caravan has gone missing in the area too.” She pushed a beautifully scribed page over to him with a wealth of details, but on closer scrutiny, the details all amounted to one thing: there was no information for anything that had entered that area in the last week. Even a few silver-ranked scouting groups had gone missing, which was why the job had been upgraded to gold. “The quest is to scout the cause and bring back information that the generals can use to deploy their forces – and if it’s an incursion from the troll kingdoms, there is a bonus for information on the size and disposition of their forces.”
+
+“I’ll take it, I’m familiar with that area,” he said, thoughtfully. It was a little south of Lyton, but on the New Darian side of the Myrin River – an area they had explored extensively while searching for Lira’s oak trees. Presumably these towns had been further south than the blight, past the forest – a guess he quickly verified with the detailed map provided. The challenge, of course, would be taking the job by himself – nobody else could fly and use stealth – and he would need those skills to survive if it really was a troll incursion.
+
+“Thank you,” she said. “And be careful, we don’t know what might be out there.”
+
+“I will,” he answered, storing the documents. “Could you let the others know where I went?” It was quite a distance and would likely take the better part of a day or more to fly all the way there and back, even with his speed.
+
+***
+
+Calen flew steadily southward, studying the endless miles of dead, blighted forest. Lira had been asking if he knew anything about the blight and if it was fading at all, but sadly, apart from the first couple of miles where the bronze adventurers had been clearing the undead and explicitly purifying the blight with expensive elixirs, the miasma seemed stronger than ever.
+
+About ten miles from the ruined town of Lyton, he saw a dark cloud rising from where the small town had once stood. A cloud that to his eyes looked nothing like a natural rain cloud or pillar of smoke. On a hunch, he used Eclipse to cloak his presence from any eyes that might be watching and pressed on. Eclipse was harder to use with his glowing wings, but it still made him much more difficult to see. He drew closer and his eyes began to make out shadowy figures wheeling in the cloud.
+
+Skeletal Wyvern – Undead Dragon – level 43 x5
+
+The skin on the nape of his neck prickled as he recalled facing one of these in the grand library, but that had been a dungeon boss, and these seemed to be just undead.
+
+Random high-level undead dragons flying in a black ominous cloud. Not at all suspicious.
+
+He added his stealth skill from Explorer, cloaking the sound of his passage, and continued.
+
+[Explorer] You have entered a dungeon.Ruins of Lyton – level 84Affinity: Death.Age: New.Known Creatures: UndeadKnown Bosses: --Dungeon
+
+A new dungeon? His caution ratcheted up several notches and he continued to scan the ground carefully as he flew onward. A dungeon that was at the extreme range of his ability to identify – in fact, without his blessing of the wanderer, he wouldn’t have been able to see the level. How a new dungeon had gotten to such a high level so quickly was only one of the unexplained questions running through his mind.
+
+Carefully, he skirted Lyton itself, not wanting to tangle with the skeletal wyverns and whatever the black cloud was, but now that he knew a death affinity dungeon was involved, he had a few guesses as to what the cloud might be. An undead blight was perhaps the least terrifying.
+
+He flew further and further south, discovering two raid bosses – a skeletal wyvern, higher level than they had fought in the library, and a death affinity wight which was flying around above the trees with a horde of skeletons and zombie minions lurking below it. When he finally reached the ruins of the first town, he still had not left the domain of the dungeon, and he had counted several more bosses and looming clouds of whatever death magic it was creating.
+
+The first town he was searching for was simply missing. In its place, he found only a broad patch of treeless dirt inhabited by some kind of oversized ghoul he wasn’t inclined to tangle with. The second two towns were ruins, scoured bare of anything that seemed to indicate life. Of the merchant caravan, he found no signs, which, given he was in a dungeon, was hardly a surprise. Dungeons could consume almost anything to make themselves stronger, for a dungeon of this size and extent, a caravan or a town hardly presented a challenge. He found himself a relatively safe spot and began to take detailed notes – likely it would take longer than he had expected to scout the full extent of this new rogue dungeon.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

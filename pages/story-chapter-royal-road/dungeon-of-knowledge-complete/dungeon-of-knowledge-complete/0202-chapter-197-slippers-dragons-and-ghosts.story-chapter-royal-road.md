@@ -1,0 +1,281 @@
+---
+id: f8d47b5d-9fda-5417-8572-e735f444f3c9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 197: Slippers, Dragons, and Ghosts"
+slug: 0202-chapter-197-slippers-dragons-and-ghosts
+partOf: dungeon-of-knowledge-complete
+position: 202
+ownLength: 4996
+unit: words
+ownProgress: 4996
+publishedAt: 2025-02-13
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2064714/chapter-197-slippers-dragons-and-ghosts"
+royalRoadId: "2064714"
+markedReadAt: "2026-06-29T20:17:58.186Z"
+---
+
+Wisdom, wisdom, and more wisdom! Your primary defense against mental assault is to build up your wisdom. However, by its very nature, mind magic is a subtle art. You must be aware of a mental attack to bring the bulk of your defenses to bear – without awareness, you are as vulnerable as a newborn baby. It is much like an Assassin, striking from the shadows to gain the critical damage from Ambush and it is how I’ve learned to apply my skills effectively to those substantially higher level than myself. I use acting, mundane deception, distractions, and costumes all to show my target what they expect to see. And then, I strike.The defense against being unaware is simple – training, and a healthy investment in perception. - Mieriel Dawnbloom, Mind Mage and Guild Administrator, Private lesson to the senior members of the Myrin’s Keep Adventurers Guild.
+
+“Hi, Elton,” Ali greeted the apprentice, who stood behind the counter in the elegant receiving room of Lydia’s allure. He wore his signature dark suit, and his hair had been slicked back in what Ali was only peripherally aware was ‘in’ among the circles frequented by the wealthy and influential right now. “Is Lydia in? Nice outfit, by the way.”
+
+Tailor – Human – level 4 (Shadow)
+
+The tall, newly minted tailor looked up from the cloth he was cutting, curious dark wisps of his shadow mana pausing interrupted in their flowing dance. His lips crooked the barest hint of a smile – which, Ali was certain, was for him a beaming grin. “Good morning, Aliandra. Thank you. Yes, she’s in the back, I will tell her you’re here.”
+
+Already level four, she thought as he ducked out of sight through a doorway. He must be working hard. She had to admit, she was curious to see what a shadow-affinity tailor would be able to make when he earned a few more class levels.
+
+“Oh, there you are! Hi, Aliandra,” Lydia said brightly, stepping into the main room of her store with a distinct energy to her steps. “It’s good to see you.” She, of course, stepped around the counter and gave Calen a big hug which made him blush fiercely as usual.
+
+Tailor – Human – level 68
+
+Wow, sixty-eight! She’s doing so well. “Lydia, this is Brena Novaspark,” Ali said, introducing the novice guildmember. “She’s a Lightning Mage and we wanted to see if you could help her with an upgrade. She’s outleveled her gear already.”
+
+“Hi there,” Lydia greeted Brena with a smile, distracting the Gnome who had been staring with intent curiosity at all the expensively tailored dresses on display. “You must be Donella’s daughter, right?”
+
+“Yes,” she answered with a nod and a guarded expression. Likely, she was used to being recognized by her mother’s reputation.
+
+“Mmm, they outlevel things so fast early on,” Lydia said, running her fingertips gently across the fabric of the cuffs of Brena’s cloth robe with professional ease. “I’m just glad you brought her to me, Aliandra, instead of having her wear that nasty stuff you had on the first time you visited.”
+
+Brena coughed, hiding a laugh behind her hand.
+
+“Aah, yes,” Ali said, grimacing at the uncomfortable memory – at the time she had been so happy to have something that had resistance against the fireballs, but the Kobold Tattered Robes had been quite nasty and reeked. She was ever so glad she had destroyed them, and that she had far better options even for low-level Kobolds now.
+
+“How about something similar to the first piece I made for you?” Lydia asked, her eyes still sizing up the novice.
+
+“That should be perfect,” Ali answered.
+
+“Lightning and intelligence?” Lydia asked.
+
+It took a moment before Brena realized Lydia was asking her. “Oh… yes!”
+
+“Perfect,” Lydia said, mana flickering as she activated several skills while she had Brena turn around a few times. She jotted down a few things down in her notebook, a mannerism so like Calen’s that Ali almost laughed out loud. “This shouldn’t take more than a few minutes,” she said, surprising Ali with how little time she needed.
+
+Leveling up has been good for her, she thought.
+
+“Elton, would you mind grabbing the box in the back with Aliandra’s name on it?” Lydia said, as she walked through the open doorway into the next area and began laying out some silky, royal-blue fabric with a tight weave on the worktable.
+
+Box? Ali wasn’t sure what Lydia was doing, but Elton returned from the storage room in the back a few moments later with a small box, and Lydia directed him to give it to her.
+
+“I made this for you – a thank-you gift for the fire silk,” Lydia explained, wearing a beaming, happy smile that lit up her face.
+
+Ali’s curiosity was almost burning her up as she accepted the box from the tall apprentice.
+
+She flipped up the lid. Nestled within it were a pair of cloth slippers, cut from the clean, white fabric that shimmered with red dancing flame embedded within the weave itself. She reached out to touch the familiar fabric that matched her robes feeling the innate warmth of the fire magic that was woven together with the thread. “Ooh…”
+
+Fire Silk Slippers – level 60Elegantly crafted footwear designed to be stylish enough for high society, and yet robust enough for dungeon delving. +15% to resistance against Fire damage.+40 Intelligence+23 Wisdom+67% to mana regenerationRequirements: Intelligence 210Created by Lydia Avery.Feet – Fire Silk
+
+Ali’s breath caught in her throat as she stared at the mesmerizing silk slippers for a long moment, not quite believing what she was seeing. The fabric was stunningly beautiful, and the design elegant – but the enchantments Lydia had managed to weave into the item were astounding.
+
+And four…
+
+“How…” she didn’t quite know what to say.
+
+“Do you like them?” Lydia asked, a grin creasing the sides of her eyes.
+
+“This is amazing! How did you manage to make this? There are four enchantments – four!” The words spilled out of Ali’s mouth in a tumbling rush.
+
+“The book you got me taught me how to combine them, and with high-level fabric like this fire silk, it ended up being surprisingly straightforward. Technically, I can only make three enchantments right now, but the fabric has such a strong fire affinity it can take one extra fire enchantment as long as it’s not too powerful,” Lydia said. “That’s where the fire resistance one comes from.”
+
+“She didn’t sleep a wink,” Elton added archly from the counter where he was back to working with his fabric.
+
+“Elton!”
+
+Calen just chuckled in the background.
+
+“You can’t just give me such an expensive gift!” Ali exclaimed.
+
+“Ali,” Lydia said, finally using the familiar form of her name, “I don’t think you understand just how much money I made from selling fire silk dresses to the nobles. After Mieriel went to the party at the Asterford House, everyone needed one. And because the supply is so restricted, I can charge whatever I want for the couple I’m able to make.” She smiled wryly, “I’m pretty sure not even you could afford the going rate for those slippers – but it’s not about the money. I’m truly grateful for everything you’ve done for me.”
+
+I probably could afford it, Ali thought, but she understood that wasn’t Lydia’s point and accepted the gift with a happy smile. She could easily pay it back in kind with more materials – including the demonic silk webbing she was carrying. Seeing Brena trying to remain polite despite her obvious curiosity, Ali showed her the slippers.
+
+“Your shoes have almost as much intelligence as me,” she said, earning a round of chuckles and laughs.
+
+“Well, now you know who to come to when you level up,” Ali said, carefully putting the slippers on her feet.
+
+“She won’t have any fire silk left by then,” Brena pointed out, her dramatic pout nearly making Ali snort.
+
+“The flame web comes from a fire-affinity spider I can make,” Ali explained. “I was planning to make an area for them in my dungeon so that Lydia can offer collection quests at the guild for it.”
+
+Lydia’s ears immediately perked up. “How… soon… do you think you might have those spiders ready?” she asked and then coughed awkwardly.
+
+“Any time,” Ali answered. “But nobody in the guild is strong enough to kill them yet.” Well, that wasn’t quite true – Vivian could take them out, but she didn’t do delves anymore, now that she was retired. She turned back to Brena, and said, “When you get to the early fifties you should be able to collect the raw materials for your robes yourself.”
+
+“That’s too bad,” Lydia said. “We’ll just have to help them get stronger then, shall we?”
+
+Ali was not sure what part of their comments had caused surprise, but Brena lapsed into a quiet thoughtfulness for the entire time Lydia worked. But, soon enough, there was a new round of excitement as she got to try on her brand-new robe. Masterfully crafted from monstrous silk, it would probably be quite a bit tougher than the original cotton items Ali had used, and now that Lydia had surpassed her class plateau, Brena’s robe had a nice intelligence enchant and something to boost lightning damage. It had clearly been much simpler and easier for Lydia to create than her brand-new slippers, but Brena would be replacing it quickly as she leveled up.
+
+“I have one more thing for you to play with,” Ali said, getting Lydia’s immediate attention as she retrieved the demonic silk web from where she had stored it in her ring.
+
+“Oh, new thread!” Lydia exclaimed, fetching the enchanted spool, and transferring the web to it, her skills allowing her to handle the dangerous, sticky webbing without difficulty. “Elton, be a dear and run next door and get Hilda again please?”
+
+“I don’t imagine this will be useful for high fashion, but I don’t think adventurers will care about wearing fabric with a demonic trait,” Ali said. The webbing seemed to have a darkness to it that shimmered and shifted, causing her eyes to want to look elsewhere, just like the Abyssal Stalker itself. “I’m guessing it might work well with stealth traits?”
+
+“I think you’d be surprised what the nobility and wealthy will do to one-up each other,” Lydia said casually while finishing storing the web itself. “If you can get your hands on more of this, I’m definitely interested in seeing what we can make with it.”
+
+“I can get you some more right now,” Ali said, snapping a broad barrier disk into place, hovering vertically in the air beside the waiting chairs.
+
+“Huh?”
+
+“Shoot that,” Ali instructed.
+
+Brena happened to be facing the exact corner where the Abyssal Stalker lurked, clinging upside down to the ceiling. She let out a shrill scream, as the demon appeared and plastered the barrier with demonic webbing.
+
+Even Lydia had jumped back in surprise.
+
+“Aah, sorry,” Ali apologized, “I should have warned you.” She had forgotten just how terrifying the stalkers were the first time she had seen them. Brena was only level nine, and Lydia had no combat skills. But it was just a few moments to collect more silk with a barrier that she could dismiss, avoiding all the stickiness issues.
+
+The door chime suddenly sounded, announcing the return of Elton and the dwarven Weaver.
+
+“Would ya look at that!” she exclaimed, eyes already glued to the web.
+
+***
+
+Mage – Human – level 22 (Death)
+
+“Congratulations on passing twenty, Seth,” Ali said. “Did you get anything good for your class skill unlock?” She sat on her barrier in the open-air area the guild was using as its makeshift hall while construction was underway. All around, there was the bustle and noise of construction, less than ideal for a conversation, but Seth had asked for help, and it sounded important.
+
+“I think so,” he answered cautiously. “I didn’t choose yet; I was hoping to get your advice. Not many people understand the tradeoffs for summoners.”
+
+“Do you mind sharing your choices? I can tell you what I think,” she answered. It had always been a challenge to decide, particularly early on, but what had helped her out immensely was having a few people she trusted to discuss it with.
+
+“Ok,” he answered, and her notification chimed as he shared three skill choices with her, the text showing up as a strangely familiar glowing black light on ashy parchment.
+
+Summon GhostMana: Summon a ghost to serve as a minion. Ghost level is random [up to class level]. Reserve: by level. Recharge: 15 minutes. Duration: 1 hour.Death, Minion, IntelligenceDeath BoltMana: Fire a bolt of death magic. Range: 50 meters.Death, Ranged, IntelligenceEmpowered ArmyMana: Your minions gain added Death damage on hit. Your highest attribute is increased by an amount dependent on the number and class levels of your minions. Range: 15 meters. Reserve: 20%Death, Minion, Buff, Intelligence
+
+“They all look like decent skills,” Ali said, studying them carefully, trying to put herself in the shoes of the necromancer to figure out what would be the most useful for him, rather than what looked best to her.
+
+“Yes, that’s the problem,” he answered. “It’s hard to decide.”
+
+“If it helps, you don’t lose the options after you choose, and you can replace them if it doesn’t work out,” she told him, continuing to weigh the choices.
+
+“Oh, I didn’t know that,” he said. “How did you figure it out? I think some of the others will be interested in that tip.”
+
+“Or perhaps I can mention it to the Guildmaster, it sounds like she should include that in the basic instruction,” Ali said. “Mato figured it out when he had to remove a berserker skill that almost made him kill me.” It wasn’t particularly obscure information, just she was almost certain most people wouldn’t risk experimenting with their skills unless they knew for certain, but it made choosing so much less stressful. There were a few rare cases where taking a new skill consumed an existing one, and those presumably couldn’t be reverted nearly as easily, but those seemed rare. “What are your first thoughts on the skills?”
+
+“Summon Ghost is nice,” Seth said, pinching his chin thoughtfully. “It doesn’t require a corpse, but it is limited in number of minions. They’re incorporeal though, which is strong. Death Bolt would help me get started when I have no minions to make my first corpse. On the other hand, Empowered Army would make all my minions stronger, so I like that too. Empowered Army is an offering influenced by your mentorship, by the way.”
+
+“I see,” Ali said, recalling some of the problems he had mentioned with his class – skeletons and zombies required appropriate fresh corpses to raise, but his strength came from the monsters he raised. A troublesome problem if he found himself with no minions to get going. “Your Volatile Wraith is also incorporeal, and it doesn’t require a corpse, right?”
+
+“Yes.”
+
+“I’m thinking of that more like a fireball spell than a summon,” Ali said. It was such a memorable spell. The Death Wight had employed it to great effect against them down in the ruins. “An undead, guided, incorporeal fireball. So, maybe getting the death bolt wouldn’t be solving any new problems for you?”
+
+“It’s a little awkward to use Volatile Wraith in a group because it can do life drain,” Seth answered, grimacing. “I was considering swapping it for Death Bolt. Party members don’t like it when you drain them by accident.”
+
+Ali was sure there was a story there somewhere, but she let it go. “But if you’re in a group, you can rely on them killing a few easier monsters to get you started, right?”
+
+“True.” He hesitated. “I like taking solo quests at night, though.”
+
+“I have to admit, my preference would be for Empowered Army,” Ali finally concluded. “While the ghosts are nice because you can make them without a corpse, they’re also limited in number, and they go away after an hour. If the recharge or the minimum level doesn’t scale, it will get statistically worse as you level up. I don’t like that you could need a monster urgently and it only summons a level one ghost by chance.” Ali was well acquainted with this problem, having had more than enough experience rolling the dice with her Grimoire prior to receiving her Customization advancement. “Empowered Army is multiplicative across all your minions and will get stronger as you get more of them. Improving your attributes is strong, too.”
+
+“I think I like it too, but it’s only one attribute. Most of the others have skills that boost three attributes at the same time,” Seth said. “I worry that it’s underpowered because of that.”
+
+“It’s quite similar to my skill,” Ali said, sharing her Empowered Summoner. “Don’t underestimate that damage it adds on every hit. It adds up to a lot, and scales as you get more and stronger minions. On my first advancement, I got the option to upgrade it to two attributes.”
+
+“Huh, why does yours only have a ten percent reservation?”
+
+“I’m not sure. I think it’s because I have a domain aptitude that gives me effectively double the mana pool. Ten percent reservation works out to the same amount of mana as a twenty percent for some other class without that.”
+
+“You would go with Empowered Army then, over Summon Ghost?”
+
+“Yes, definitely,” Ali said. “Stronger minions instead of more. Your other offerings overlap a lot with what you can already do. If you keep intelligence as your highest attribute, it will increase that, making most of your skills scale up to be much more powerful. If you get a second attribute on an advancement, choose wisdom, and then your army will expand dramatically because you can reserve more mana.”
+
+“Ok, that sounds smart.”
+
+“Also, note that Empowered Army is keying off your highest attribute, not the base attribute, so you can control it with gear choices if you like,” she said.
+
+“Oh, cool. That’s an expensive option, but I think it could be useful later,” Seth answered, sounding rather interested in the obscure detail, reminding her strongly of Calen’s fascination for skill interactions and optimization.
+
+Perhaps I should have him talk to Calen, too?
+
+“Why don’t you try the ghosts and the army out on your next group quest? With your team supporting you, you have a little more leeway to experiment.”
+
+“That’s a good idea. We were planning to kill the wolves a couple more times to get some levels, and then go raid the abominations in the forest. I’ll try it there – thank you!” He seemed much happier than when she had first found him sitting there.
+
+“Why don’t you guys kill the shamans in the lake too?” Ali asked, unable to hide her curiosity. Sure, the magicite she had left in the den was a great incentive, but the mana-purified water from the lake was running low, according to Weldin, so it had to be worth retrieving.
+
+“The team doesn’t like that boss,” Seth said, grimacing. “Some of them don’t like swimming, and our strategy isn’t the greatest.”
+
+“But your skeletons don’t need to breathe, right?” Ali asked. “And the Volatile Wraith should work underwater too.”
+
+“Uh… oh!” Seth’s face lit up with comic suddenness as the realization struck home.
+
+***
+
+“Here dear, you’ve been studying for hours.” The steaming cup clinked softly as Lira placed it carefully on the table beside her, far enough away from the open books strewn across the polished mahogany surface that there would be no risk of spilling.
+
+“Thank you,” Ali said, looking up from her mother’s book and stretching her neck and shoulders as she smelled the refreshing aroma of the tea Lira had brewed. It’s probably a good idea to take a break.
+
+With Mato’s armor being reforged, and the guild being rebuilt, they had decided to spend the next couple of days relaxing, and she had chosen to hunt down the elusive idea of mana affinities and how they overlapped and could sometimes be translated from one to another. Much like how Nathaniel Sunstrider’s powerful arcane mass teleport and Professor Addlestone’s space magic version had been strikingly similar.
+
+She reasoned that if anyone had known the intricate rules for how it worked, it would have been her mother – and if she could just learn how to do the transcription from one affinity to another, she would have a fantastic new source of spells for her runic magic. She had visions of arcane fireballs and nature magic versions of ice lance, only conjured from wood. But the subject was impossibly complex, and she barely understood half of what was written in the Eldritch Tome. In fact, she was beginning to suspect that not all the information was actually there, which had her on a half-hour tangent, trying to cajole the recalcitrant book into sharing any secret info with her.
+
+It hadn’t worked, and it just gained her some very strange stares from the guildmembers who had begun taking advantage of her newest teleportation circle to the library until she realized that Clarence was shy and wouldn’t reveal himself when others were watching, meaning she just looked like she was arguing with an inanimate book.
+
+As was often the case when she had no pressing deadline or emergency, she had found herself hurtling down an unexpected rabbit hole of knowledge, a side-passage to a side-passage that had whisked her away into an esoteric discussion of the magic of skills, and how sometimes skills had the same exact framework, but a different payload attached, and this allowed them to be much more easily understood and modified.
+
+It had triggered a strong sense of déjà vu, but for the life of her, she couldn’t recall where she had seen one of them.
+
+Definitely a good time for a break, she thought. At least before she got frustrated. She leaned back in her seat and sipped at the tea, making sure to not get it near the books.
+
+“What are you working on?” Lira asked, taking a seat beside her, her soft voice soothing after spending so long immersed in the books.
+
+“I got sidetracked by something called homologous magic. It’s apparently possible to have two spells that have the same structure, but certain parts are shaped differently to produce different effects,” she explained. It fascinated the scholar within her, but it likely had very little practical use.
+
+“That sounds like something your mother must have named,” Lira said with a smile, sipping on her tea.
+
+“It’s nice to have people in the library again,” Ali said, sighing happily. It had a rightness to it – libraries were meant for people to read and learn. Obviously, she was used to having Lira around, and her friends, but there were five adventurers from the guild sitting at various tables studying magic, combat stances, skills, or whatever struck their fancy.
+
+“Yes, it is good,” Lira said. “Maybe I should go into town and buy more tea – perhaps they would like some?”
+
+“That’s a good idea,” Ali said, idly watching as one of the novices pulled out a small cube, placed it on the table beside him, and activated a light magic enchantment within it using a small puff of his own mana. The tiny magical formation blossomed up and out of the simple artifact and a soft reading light manifested floating in the air above the table.
+
+“That’s it!” she exclaimed suddenly, almost dropping her tea as she suddenly remembered the elusive magic that had slipped her mind earlier.
+
+She ignored Lira’s knowing smile as she rummaged through her storage ring with her mind, finding and retrieving her old notebook. She paged through it and quickly found the runic inscriptions she had noted there, representing Calen’s Motes of Light spell.
+
+“I know exactly where I saw this,” she muttered, flipping through her Grimoire looking for a small variant she had barely used. Aah, here it is: Luminous Dragonet.
+
+She slowed down, studying the densely packed runic structure encoding the tiny dragon she had learned in the jungle. Here it is, she thought confirming her memories had been accurate as her fingers brushed across a runic structure that matched the spell in her notebook almost exactly. She did not understand the structure of the imprint magic in her Grimoire, but if she had to guess, she was looking at a light magic skill that was almost identical to the Motes of Light spell Calen had allowed her to study for so long.
+
+There was a large structural section to the spell that seemed identical, but contained within it was a core that had a different function. On a hunch, she directed her Runic Script magic to the page in her Grimoire, beginning to inscribe the runic magic from her notebook.
+
+To her great surprise, the Grimoire did not resist her efforts, instead, it simply created space for her new magic beside the existing spell runes. Her mana flowed into the receptive pages just like it did into magical ink or her electrum, only the Grimoire’s pages accepted her mana imprint decidedly more readily. Somehow, she was using her Imbued Runes advancement to inscribe runes directly onto the pages of her Grimoire – a construct of her own magic.
+
+Not understanding precisely what she was doing – or how – she enabled her Sage of Learning and continued transcribing the runes from her notebook into the growing space her Grimoire provided, carefully linking the runes in exactly the same way as the existing spell, copying all the duplicate runes for the homologous structure keeping the same relationship to the rest of the imprint, as if grafting something new into the same space.
+
+Fully immersed in her study trance, she didn’t notice the intense glow emanating from her Grimoire until she finished, and her notification chime sounded.
+
+Runic Script has reached level 31.Sage of Learning has reached level 23.Variant: Glitter Dragonet added to Imprint: Dragon.
+
+A new creature?
+
+Ali stared at the notification for a long while as the implications of what she had just done slowly seeped in. Suddenly, her curiosity caught up with her and she poured her mana into the new variant and created the creature.
+
+Glitter Dragonet – Dragon – level 1 (Light) x9Your reserved mana has increased by +1.
+
+Ali stared at the bevy of tiny golden dragons that perched on the table, their gleaming scaled necks arching and craning this way and that as they studied her with their luminous eyes or explored the books at their feet. Each was about the size of a kitten but with a significantly longer tail. The nearest one’s small reptilian eyes gazed at her intently with an inner burning light. It blinked, two sets of eyelids closing, and then opening. Its deep golden-colored scales were accented by black along the spine ridges on its back, down its tail, and its four clawed feet. The tiny horns and spines protruding backward from its head were also tipped with black. Shimmering trails of softly sparkling light and mana followed them wherever they went.
+
+So pretty!
+
+Just then the tiny dragon perched upon Clarence made a confused expression, as the book shifted, trying to dislodge it. It suddenly let out a belch, emitting a small mote of light that hovered in the air in front of its face. It cocked its head and stared at it quizzically as the mote slowly rose in the air. It had risen several meters when a small buzzing shape was drawn to its light, flying around and around in a circle.
+
+Every single tiny dragon head turned, eyes tracking the movement with the pure focus and alertness of a hunter spying its prey. Quick as a flash, the tiny dragon launched itself into the air, and with two rapid strokes of its outstretched wings, and a snap of its jaw, the moth became the dragon’s first dinner. It raised its tiny head and let out a tiny, absolutely adorable roar of triumph. Ali couldn’t help grinning. Baring its fangs, it gathered its mana into a delicate spell formation of light affinity and released a stream of motes from its mouth like a child blowing shimmering golden bubbles of light that drifted around floating upward.
+
+The entire flight of dragonets took to the air in a sudden display of golden wings, aerial acrobatics, and an explosion of tiny motes of light as the hunt for more insects began.
+
+Without hesitation, Ali summoned more and more of them, filling the library with the soft illumination of floating Motes of Light, drifting glitter, and tiny soaring dragons, stopping only when she had created more than two hundred tiny dragonets. Everyone visiting the library stopped to watch their playful antics as they darted about chasing insects, each other, or alighting to roost on branches of the elder tree, or the tables and bookshelves of the library.
+
+Ali grinned happily, enjoying the antics of the dragonets. Most of her monsters were terrifying, but the Glitter Dragonets were truly beautiful, elegant, and graceful as they swooped about, but by far her favorite was the one with his tiny head raised to the sky roaring his tiny fierce roar, declaring himself the king of the bookshelf. And the entire flight of more than two hundred had cost only twenty-three mana, so she didn’t bother even attaching them to her domain, simply allowing them to roam wherever they liked without instructions.
+
+“Think with monsters,” she murmured. Just from her mana sight, she could tell she had finally succeeded in duplicating Calen’s stealth-dispelling spell.
+
+Beside her, Lira smiled softly and took another sip of her tea. “That’s right, dear.”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

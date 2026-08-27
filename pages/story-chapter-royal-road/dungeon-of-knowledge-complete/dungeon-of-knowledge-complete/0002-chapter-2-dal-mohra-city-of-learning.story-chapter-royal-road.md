@@ -1,0 +1,271 @@
+---
+id: 309dbcea-5f42-5743-b4c0-d674f5401a4a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: Dal’mohra, City of Learning"
+slug: 0002-chapter-2-dal-mohra-city-of-learning
+partOf: dungeon-of-knowledge-complete
+position: 2
+ownLength: 4367
+unit: words
+ownProgress: 4367
+publishedAt: 2024-01-29
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1499274/chapter-2-dalmohra-city-of-learning"
+royalRoadId: "1499274"
+markedReadAt: "2026-06-29T20:11:04.923Z"
+---
+
+Aliandra
+
+The body that had once been Maeria Runeweaver squelched in a pool of blood as the heavy-set, creaking skeleton stepped off of her, advancing toward the table. The longsword hung loose from bony fingers, the tip screeching as it was dragged along the bloody flagstones. Mismatched pieces of armor hung from the bones, clanking discordantly with each step.
+
+Ali jerked back, her stomach heaving as everyone fled, their screaming unable to drown out the hammering of her heart. Her chair toppled backward, spilling her onto the floor with a bruising thump. Splinters of wood pelted her as the skeleton’s blade bit deep into the wooden table right where she had been sitting. Flickers of light rippled throughout the library as those who could evacuated using personal teleportation skills, talismans, or artifacts.
+
+… she’s… dead…
+
+Ali scrambled backward on her butt, unable to tear her eyes away from the creaking bones, the dripping sword, and the sheer malevolence as it transfixed her with its horrifying, glowing gaze. A loud muffled thump shook the library, and the skeleton stumbled drunkenly to the side. With a burst of adrenaline lending her arms and legs sudden strength, she scrambled to her feet and fled, heart racing as she gasped for breath.
+
+I couldn’t… I should have…
+
+Ali had seen death only a couple of times before, but never with such sudden brutality. And never a person dying at the hands of a monster.
+
+That… that was a skeleton…
+
+The undead were horrors for the combat classes. It was terrifying to even read about them in books. That one had appeared in the library… she simply couldn’t believe it. And yet she was fleeing for her life.
+
+She shot out of the library, desperately trying to outrun the clanking footsteps that chased her. It grew louder and louder as the urge to look became unbearable, but then she suddenly caught sight of a flash of slithering bronze scales. A burst of wind buffeted her as it flew past, and suddenly a loud crash echoed off the walls behind her. She tripped, rolling head-over-heels, landing in a pile of something hard and pointy, but her eyes were glued upon the terrible battle.
+
+Outlined in the gigantic doorway, a gleaming Desert Naga unleashed a dizzying flurry of attacks with four saber-wielding arms as thick as Ali’s torso. He hissed as the skeleton’s blade sliced a long gash across his ribs, but his double-overhanded strike cleaved the monster’s bony arm clean off its body.
+
+“Armand,” she whispered, her body suddenly weak with relief. But still, she held up her library book like an improbable shield.
+
+But to Ali’s horror, the loss of its arm did not even slow the skeleton down. It returned with another devastating jab which Armand barely parried. Furious battle ensued, with a dizzying blur of attacks and counterattacks, Armand hissing and the skeleton clacking its jaws while the ring of steel echoed through the plaza.
+
+A moment later, Armand lashed out with his enormous tail, knocking the skeleton down, crushing a femur, and the flurry of swords rained down, decapitating the monster. Still, it twitched upon the pavement clawing toward her with its one remaining arm.
+
+Armand hit it again and again, until he had separated every bone from the monster, beating the unholy unlife from its bones with sheer brute force. Ali stared at the remains for a long time, ready to scream, run, or something. But it failed to move.
+
+“Ali? Are you hurt?” Armand asked, slithering up to her.
+
+“No, I don’t think so,” she said, checking herself. “But…Maeria… she…” She choked up as the gruesome memory proved too much for her.
+
+“The others fled already,” Armand said. “But you didn’t come out. And then there were the skeletons… What is going on?”
+
+“I don’t…” Skeletons? Ali glanced around, registering for the first time that the previously bustling plaza was deserted, abandoned carts and possessions dotting the open space like so much discarded trash, under the pulsing red of the emergency lights. Smoke billowed from a few burning carts, shrouding the plaza in a haze. But when her eyes fell to her surroundings, she found herself sitting among a pile of dark gray shattered bones. She yelped, springing to her feet and launched herself toward Armand and safety.
+
+“We need to go,” Ali said. It was the one clear thought in her mind. The alarm had said to go home and wait for the guard, so that was what she was going to do. Safe. Inside the barriers. They were already up, giant domes of purple magic, beckoning to her with the promise of safety through the apocalyptic red haze.
+
+“Yes,” Armand said. “I can take you home.”
+
+Ali could have hugged him right then.
+
+“Can you call us a transport?” Armand asked. “My communication panel broke in the fight.” He carefully sheathed two of his blades, keeping two scimitars at the ready, slithering slowly beside her, slow enough to accommodate her small stride, but still with a sense of urgency.
+
+Ali hurried along, reaching into her pocket, but found her communicator was offline. “It’s not working,” she said, shaking the thing and checking again. Another explosion shook the ground and she caught herself against Armand. But instead of hard, smooth scales, her fingers encountered something warm and sticky. Pulling her hand back she gasped at the sight of blood. “Armand! You’re bleeding!”
+
+“I’ll be ok,” he said lightly, but his grim expression told a different story. “Why are the undead here?” he asked, changing the subject.
+
+“I don’t know,” Ali answered, shivering. It would be a long walk to get home, but the further from those horrible skeletons and that terrible tear in the fabric of reality, the better. They walked – or slithered – side by side for a while in silence until they reached the feet of the three kings.
+
+“Where’s the guard?” Ali asked, looking about. Where, for that matter, was anyone? The deserted plaza had been one thing, but staring out at the main boulevard, now empty of all traffic, sent a fresh chill down her spine.
+
+“I don’t see anyone,” Armand said. “I’m not sure I like this.”
+
+“We have to remain positive,” Ali said. At least that’s what she had always been told. “We just need to reach the barriers and then we’ll be safe.” But her own words sounded hollow. There should have been a barrier around the library. And there should be guards swarming the area. High level combat classes.
+
+She pressed on, following Armand, leaving her worries to fester in the background of her mind. It was not like there was anything she could do about them. They walked for almost half an hour, past the administration buildings and community centers ringing the plaza, and Ali’s legs were getting tired. It was when they approached the first terrace that Armand suddenly stiffened up, stopping in the middle of the street.
+
+“What is it?”
+
+“I hear something,” he said. His head swiveled quickly from side to side scanning the area, and then he gestured with one of his lower arms. “Stay behind me.”
+
+There was a soft schink as he drew his other two swords and he slithered forward, pausing to listen carefully before turning onto the next street. Ali could hear nothing but when she followed him around the corner she immediately froze at the sight of the gruesome scene. It wasn’t so much what was there, but what was not. Right in the middle of the street, garishly red upon the dark stone pavement, were several large pools of blood. And leading away from each was a trail painted across the street, where something – or someone – had been dragged away.
+
+“Armand…” she whispered.
+
+“I know,” he said, his voice just as low as hers.
+
+But he slithered forward, his muscular body rippling across the stained pavement without so much as a sound. Up ahead, Ali heard a clang, the rattle of steel touching steel, and her head snapped up to see a skeleton emerging from a side street. Her heart began to race, and her throat spasmed involuntarily as she suddenly noticed that half of the skeleton’s body had been bathed in something crimson.
+
+Armand did not hesitate. His form blurred as he shot across the street, trash and dust bursting into the air in the vacuum of his wake. Swords clanged against plates of armor and cracked against bone.
+
+Ali hid, pressing herself up against a wall, trying to make herself as small as possible behind a set of stone stairs. She was not a combat class like Armand – worse, she didn’t even have a Class yet. All she could do was stay hidden and be grateful for Armand – she would never have made it out of the plaza without him.
+
+She poked her head up when the banging and crashing stopped and the street grew suddenly silent, finding Armand standing over a pile of bones, looking cautiously around. Ali stepped out and joined him. He’s injured again, she thought, spying several fresh cuts dripping blood down his arms. And I can’t even help him.
+
+“I leveled up again,” Armand said, grinning. “I had no idea it could be this fast.”
+
+Ali blinked at the incongruity of his happiness. But upon a moment’s reflection, she realized what it meant – a stronger Armand would make both of them safer. “That’s awesome, Armand,” she said, quietly. And truly it was, but her thoughts, and eyes, returned to the blood stains in the street, and the pile of crushed and chopped bones at their feet.
+
+In the middle of the residential area. Without a barrier protecting it.
+
+And still, no sign of the city guards.
+
+Another muffled thump shook the city, and in the distance, one of the great purple barrier domes flickered once. Twice. And then suddenly it shattered into a cloud of purple smoke and glittering sparks that drifted upward toward the floating solar orbs, still pulsing with the red of the alarm.
+
+“Hey, Armand,” she said, suddenly making a decision. “I’m worried about my mom. Do you mind if we go there first? I know it’s a little further...” In truth, the worry was clawing at her heart with the cold fingers of dread. Something was very wrong. There shouldn’t be skeletons this far into the residential district. There shouldn’t be skeletons in the city at all. But they hadn’t seen a single person since leaving the library, no guards, no fleeing people, nobody riding on a late transport. Nothing.
+
+And one of the barriers had just gone down.
+
+We need to leave the city.
+
+She didn’t want to go hide at home behind a barrier that might break, hoping for guards that wouldn’t show up. She needed to leave the city entirely. And there was no way she was leaving her mom down here with the skeletons. At least, with Armand’s help, she could get her mom to safety.
+
+“Yup, that’s a good idea, Ali,” Armand said, inclining his head. “That way, right? The Eastern Quarter?”
+
+“Yes, inner ring, so it’s not too far,” Ali added, previously unnoticed tension suddenly easing from her shoulders as Armand agreed to her plan. “Thank you.”
+
+“Your mom is well connected, she should be able to tell us what’s going on,” Armand said, his voice oozing calm and confidence. But he kept close by, setting an urgent pace, and Ali rushed to keep up.
+
+As they drew closer to the glowing purple wall of the barrier, muscles Ali didn’t even know she was clenching began to ease. “It’s just over here,” she called out to Armand. He was slowing down now, and his breathing was labored, but at least most of his bleeding seemed to have stopped. She led the way confidently. Even though her communicator panel wasn’t working, just the fact that she had it in her pocket should allow them both access through the protective magic promising safety just up ahead.
+
+And her mom lived just a few streets up from here.
+
+“Ali, wait up,” Armand said.
+
+She turned, finding him breathing heavily, struggling now to keep pace with her urgent rush. Behind him, the bakery she had promised to stop by at on the way to dinner loomed shuttered and deserted. She stopped, giving him the chance to catch up, smiling encouragement. “Mom keeps emergency healing potions at her house,” she said. “We’ll get you fixed up in a minute.”
+
+But his eyes suddenly widened, staring past her, and his fists clenched around his swords. “Ali!” he shouted, his body suddenly blurring with speed.
+
+Ali turned her head to look back at whatever was lurking behind her, but her body moved too slowly. Everything happened so quickly. Armand’s enormous body slammed into her. She flew across the street as something drew a line of burning pain down her arm, and she bounced off the purple barrier with enough force to knock the wind out of her. Her body hit the pavement, head cracking painfully against the stone, but she scrambled to her feet, struggling to move her right arm as her amber blood spilled from her fingers onto the ground.
+
+She gasped, struggling for breath that wouldn’t come. But her heart froze at the sight of the gleaming sword protruding from Armand’s back.
+
+Armand… she reached with her dripping hand, stumbling toward him.
+
+The giant skeleton stood a head taller than even Armand’s enormous height. In the frozen moment of silence, her mind registered the heavy armor and the shining greatsword. Before she could utter a single sound, the skeleton wrenched the sword sideways out of Armand’s body. It blurred in the air and came down in a vicious overhand chop that tore through Armand’s scaled torso from his shoulder, winding up lodged in his sternum.
+
+Crimson sprayed up into the air splashing against her face and neck, drenching her coat. Four sabers clattered loudly as they hit the ground.
+
+“Armand…” she said, her voice weak and tiny.
+
+“… Ali… run…” he whispered, blood gurgling out of his mouth. And then he hit the ground with a heavy thump.
+
+Whether she screamed or not, she did not know, all she knew was she found herself scrambling toward the barrier in a frantic state of sheer panic. She hammered her hands against the unyielding magic before her mind caught up.
+
+Key…
+
+Clanking footsteps echoed behind her.
+
+She reached into her pocket and fumbled the communicator panel with blood-slick hands. It fell to the ground and bounced, skittering away from her grasping fingers.
+
+Metal scraped against stone as she frantically chased the panel. Wind whipped past her ears as she ducked to pick it up. The clang of steel rang out loudly as the heavy sword hit the impervious barrier. Grabbing with all her might, she slammed the panel against the barrier, and suddenly it gave, pitching her through the wall of magic to land sprawled and bruised on the stone beyond.
+
+She leapt to her feet and flinched as the sword hit the barrier again, right in front of her face, but it bounced off as the skeleton glared at her through the transparent magic. It took another strike before Ali breathed, realizing she was finally safe.
+
+Her eyes found Armand’s crumpled, unmoving body, and her heart sank, weighed down by a sudden flood of guilt. I shouldn’t have rushed ahead…
+
+Tears spilling from her eyes, and blood dripping from her fingers, she turned and fled. Familiar streets flew by in a blur, but all she could see was the horrific spray of crimson blood and hear the terrible whisper of his last words. Even as he died, his thoughts were for her safety.
+
+Her hand left bloody amber prints upon the door as she hammered on it.
+
+The door suddenly opened, and she pitched forward into her mother’s surprised arms.
+
+“Ali! Oh my goodness, what happened? You’re bleeding!”
+
+Ali struggled to form the words, but her mother did not wait, pulling her inside and slamming the door shut. She yanked the first-aid kit from the hallway cupboard, reached in and grabbed a red vial and upended the contents into Ali’s mouth.
+
+Ali spluttered and choked, but she managed to swallow it down. Warmth blossomed from her stomach, rapidly spreading as it infused her shaking limbs and trembling body with its magic. Pain receded, and her arm stopped bleeding as the gash from the skeleton’s sword knit itself closed.
+
+“Aliandra, what happened? I heard the alarm and the evacuation warnings, but the communication panel isn’t working. I have been trying to get hold of you for ages.”
+
+“I… they’re… he’s dead,” Ali gasped.
+
+“Easy, breathe first.”
+
+Ali took a deep breath. The potion pulsed again, filling her with healing magic. Her headache faded and her mind steadied.
+
+“Now, why don’t you start at the beginning? You were supposed to be meeting Professor Maeria Runeweaver in the library…”
+
+“She’s dead,” Ali said, the words simply blurted out. Her mom gasped, but she continued. “It was a skeleton, it stepped out of something… a tear in the fabric of reality? A portal?” And as soon as she started, the entire story tumbled out of her, words spilling over each other like a river breaking its banks.
+
+“But that’s impossible,” her mom said. “Where was the guard? And the barriers?”
+
+“There was nobody, mom,” she said. “Not just the guards, it was just me and Armand. And we had to walk from the library. There was no barrier around the plaza, nor anything around the first terrace.”
+
+“I… that shouldn’t be possible,” her mom said. “But you’re safe now, the barrier will keep them out.”
+
+“Mom, I saw one of the barriers fail. I really think we need to get out of the city.”
+
+“Look, Ali, I know you’ve had a horrible day. You said you ran all the way from the library with skeletons chasing you, you were injured, and Armand…” Her mom trailed off for a moment staring intently at her. “All I’m saying is, maybe you were mistaken? The barriers are indestructible. If we stay here, we will be safe – if we go outside, we might run into monsters.”
+
+“It really broke,” Ali said. Somehow, she needed to convince her mother. If they stayed here, she knew they would die, just like Maeria. Just like Armand. “The entire western residential district barrier shattered with one of the explosions. Please believe me, we need to hurry.”
+
+Her mom held her gaze for a few moments in silence.
+
+“Please, mom…”
+
+“I believe you Ali. Let me get a few things, we can leave by the southern gate and meet up with your father in the Grove. His domain and elementals should be able to protect us.”
+
+She believes me? Knots of tension dissolved from her neck and back and she reached out a hand. Her mother took it and gave her a reassuring squeeze before she began collecting a few important items.
+
+Ali shrugged out of her blood-soaked coat, dumping it with a wet splat in the bathroom for now. She slipped her library card between the pages of her library book, closed it, and tucked it under her arm. By the time she was done, her mother was ready. They stepped out of her mom’s studio apartment and walked cautiously down the deserted street. Even though her mother’s wings worked just fine, she chose to walk beside Ali, and for that she was incredibly grateful.
+
+It took a few minutes to reach the purple barrier – a soaring dome wall of magic that arched high overhead, protecting the entire district. But Ali’s eyes were glued on the street beyond, and the bloodstains that were all that remained of Armand.
+
+“Where… where is he?”
+
+“Ali, that is an undead skeleton,” her mom said, and following her gaze past the stained pavement Ali caught sight of the huge skeleton that had slain Armand. “And where there are skeletons, you can be sure there is a necromancer. And I have a feeling I know who it is.” Her fists were clenched tight at her sides, and her eyes were narrowed frowning at the monster as if she could unmake it with the force of her glare.
+
+A necromancer… Armand is… her eyes fell upon the terrifying armored skeleton given ghastly unlife by the necromancer’s magic.
+
+A loud thump shook the ground and suddenly all the lights went out, leaving just the glowing purple dome. Ali yelped as she hit the ground, but a second more powerful blast detonated right in her face as the entire dome shattered, filling the air with sparks and shards that slowly faded, leaving them in utter darkness.
+
+Ali sat up in a daze. Mana prickled along her skin and suddenly a golden wall appeared right before them, and the giant skeleton clattered loudly as it slammed into the barrier magic and bounced off.
+
+Ali caught her mother’s eyes and saw both fear and determination in her. All her life she had been taught that the barriers were invulnerable. No matter what, she could shelter under their magical protection and be safe. She knew her mom had believed it too.
+
+Not anymore.
+
+Ali scrambled to her feet, reaching for her mother’s free arm. Mana surged again and a second golden wall appeared, trapping the skeleton in a side alley, and they fled.
+
+On and on they ran through the pitch-dark deserted city, navigating by the light of her mother’s golden barrier magic. But the city was far from silent. The muffled clanks and scraping of steel, or the clacking of bone footsteps announced each new skeleton. Her mother was no combat class, but her barriers blocked each monster, leaving them time to escape.
+
+Distant ethereal screams floated through the air, punctuated by explosions. And still they ran, pausing for breath only when Ali ran out of stamina – and then only long enough for Ali to drink a stamina potion. At least her mom had had the foresight to pack potions.
+
+The southern entrance into Dal’mohra was an enormous chamber hewn from the bedrock of the mountains themselves. The city’s largest radial boulevard emerged from the entrance hall, normally teeming with traffic of all kinds. Carts pulled by tamed beasts, flying people or mounts, magically engineered transports of infinite variety. Now, however, it lay silent in the darkness.
+
+Ali hugged herself, rubbing her bare arms against the sudden icy breeze.
+
+“Nearly there,” her mom said, trying to be cheerful. Outside the gate they would simply follow the short passageway upward, and then they would find themselves above ground in the Grove.
+
+Safe.
+
+Ali followed her mom inside.
+
+What she found was a scene of utter destruction. The giant stone doors that protected the city from the outside world lay shattered, strewn across the chamber as giant boulders and rubble. Among the jagged stone lay the bodies of the missing defenders, crushed and mutilated.
+
+Ali’s gut tightened, clenching painfully as her eyes recoiled from the terrible carnage. Over by the far entrance, two dozen defenders stood; their expressions frozen in abject terror by the enormous blocks of ice that entombed them.
+
+An unnatural, bone-chilling wave of cold rippled through the room. Frost coated her eyelashes, and her hair as visibly growing ice crackled and crept across the floor.
+
+Ali shivered as the aura hit her, dragging her mind into a frozen pit of terror and despair.
+
+What happened?
+
+She struggled, her body shaking from fear and icy cold as the blood drained from her face. Something moved. A crunch of a heavy footstep on ice. Shuddering, and unable to flee, or even to scream, she slowly turned.
+
+The dark figure emerged from the shadows; its huge bulk shrouded by a black, hooded cloak. Leather creaked as it moved. Metallic clanking echoed from the chamber walls, the sound of heavy plate armor. Another heavy footstep as dark steel crunched against the ice.
+
+A frigid blue glow emanated from under the black cloak, illuminating the splintering ice growing around its feet. And when that shrouded head turned toward her, she was transfixed by two piercing pinpoints of blue and the sudden wave of intense cold crawling across her skin. Ali’s heavy breathing echoed loudly in her ears.
+
+“Don’t be afraid,” her mom whispered. A warm hand grabbed Ali’s frozen one and a rush of sparkling mana filled her, banishing the fear instantly.
+
+Ali reeled at the sudden whiplash of her emotions.
+
+Magical fear?
+
+What is that thing?
+
+“He has come for you, Elowynn Amariel.” When it spoke, it set the very chamber to trembling. Shards of ice cracked, coming away from the walls and falling to the ground in loud splintering crashes. It resonated from everywhere and nowhere, like an echo from the underworld lingering unnaturally long in the ice-laden air.
+
+Ali gripped her mother’s hand with the force of desperation; grabbing onto a tiny lifeline in a world turned suddenly incomprehensible and terrifying.
+
+“Tell your master he will get nothing from me,” her mother said. She spoke with defiance, her chin raised as she locked eyes with the horrifying apparition.
+
+In response, the blue eyes blazed with intensity, and a vast towering presence unleashed from the monster, a wave of palpable cold that Ali knew without a doubt would annihilate her. Ice crystallized in the air, large lances hovering, humming with power.
+
+But an equally potent force blossomed from beside her. The familiar sparkling prickle of her mother’s magic, only thousands of times more potent than she had ever felt. And suddenly a large sphere of golden barrier magic snapped into place around the shrouded ice knight.
+
+Ali suddenly grabbed at her hand as her mother stumbled, catching her before she hit the ground.
+
+“Thanks, Ali,” she gasped. “We need to leave, that won’t hold him for long.” Her chest was heaving as she struggled with ragged breaths. Whatever she had just done had clearly taken a huge toll on her and Ali supported her mother as they scrambled across the rubble and treacherous ice and fled out through the shattered gates.

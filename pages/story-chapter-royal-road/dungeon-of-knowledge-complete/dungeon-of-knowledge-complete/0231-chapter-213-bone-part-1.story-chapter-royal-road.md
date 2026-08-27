@@ -1,0 +1,111 @@
+---
+id: 878565e3-ee61-5337-9c20-28c0351c4a2f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 213: Bone (Part 1)"
+slug: 0231-chapter-213-bone-part-1
+partOf: dungeon-of-knowledge-complete
+position: 231
+ownLength: 1935
+unit: words
+ownProgress: 1935
+publishedAt: 2025-03-19
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2136731/chapter-213-bone-part-1"
+royalRoadId: "2136731"
+markedReadAt: "2026-06-29T20:18:59.361Z"
+---
+
+Tala ignored the curious stares from the various Town Watch guards lounging around the lobby and took a deep breath to compose herself. It would not do to show weakness before them. She reached out and knocked sharply on the door to Kieran Mori’s office.
+
+She waited in the silence after her knuckles had rapped against the solid oak, biting down on her mounting anxiety. She had expected this summons – obviously. She had provoked it after all. If Mori realized she had done it on purpose, though, she probably would not survive this meeting. But he had been inexplicably dragging his feet, and Tala could not get the sight of Aliandra and Malika standing trial out of her mind. I’m supposed to be on the accelerated leveling plan. How the fuck are they beating me by so much…
+
+“Come in, Tala.”
+
+She gulped, and then opened the door and entered.
+
+Kieran sat at his desk, signing paperwork with an expensive mana pen. His spine was ramrod straight and his focus unshakeable, and the impressive leather armor he always wore was concealed beneath a dark cloak. Tala approached the desk and waited quietly, the remaining moments of her fate slowly ticking away to rising pressure in her chest and throat.
+
+“You have been made,” Kieran said, his gaze flicking up to pierce her with the same deadly precision with which he wielded his spear.
+
+“What?” she exclaimed, feigning surprise, not having to fake at least the intensity of her emotions.
+
+“Vivian Ross found Donavan’s boots on the merchant caravan and put it together somehow,” he said, putting his pen down on the desk beside the papers with unnerving deliberateness. “I can’t believe you killed Bastian’s son. He’s furious. He wants blood. And he wants it now.”
+
+This was the moment. Tala widened her eyes to sell it better. “I…” she paused under his withering glare and then deflated her chest and lowered her head. “It’s how I unlocked my class…” She trailed her voice off.
+
+“I figured it was something like that,” Kieran said. “No matter. It puts us in a bit of a difficult position, but nothing we can’t handle.”
+
+Wait… he bought it?
+
+“Do you want me to resign?” she asked, daring to glance up at the powerful assassin. She had been prepared to argue for leniency, to have to play up her value and contributions, and he had just skipped right past all of it. Is he toying with me? Is this a play?
+
+“Officially, you’ve already skipped town and I’m searching for you to bring you back and face Bastian’s wrath – or justice, depending on who you ask,” Kieran said. “You’re no longer a member of the Watch.”
+
+“Unofficially?”
+
+“We’re moving up our plans. You’re still not quite ready, but… you will apprentice with Indacus Argyle. He is the Shadow Council chapter leader in Southport. He will take care of accelerating your leveling, giving you additional jobs for the Shadow Council. You’re still reporting to me directly, though, so your actions reflect on my reputation in the organization, and I will require you to return here every other week or so for specific jobs. Just don’t get seen.”
+
+Fuck yes! “Um… ok. If you’re sure I’m ready.”
+
+“You’re not,” Keiran said bluntly. “Argyle will push you far harder than I have. Don’t die.”
+
+“I see…” Tala said, ruthlessly suppressing the grin that threatened to emerge by pasting a practiced demure expression on her face. “Thank you, thank you for looking out for me. I won’t make another mistake.”
+
+“You better not,” Kieran said and tossed a small black disk at her. “Show that token to Indacus Argyle. It’s your invitation to the organization. Congratulations. Now, piss off.”
+
+Asshole.
+
+Ali directed her minions to fan out as she followed along in the middle of the pack, her Armored Drake and Forest Guardian flanking Mato at the front while she kept her Acolytes close beside her so she could better protect them with her barriers. Birds and jungle wildlife fled from the heavy thumping steps of her most massive minions, filling the air with raucous calls and the rustling of shivering underbrush.
+
+Everywhere Mato went, his signature vibrant green mana seeped into the ground, causing the plants to respond to his passage. Tiny leaves sprouted from branches overhanging the dirt pathway, moss grew a little taller, and the trees seemed to sigh, extending their branches just a little further.
+
+He must be enjoying the ability to use his plant magic, she thought. Working their way through the Emberforge Mines was akin to trekking through a desolate wasteland of flame and rock compared to the verdant jungle pressing in all about them. In fact, if it wasn’t for the presence of the undead and the domain mana to remind her that she was in a dungeon, she might have imagined herself taking a relaxing walk through the vibrant greenery and flowers, listening to the patter of water dripping from the canopy onto the lush ferns below, and the melodic chirping of songbirds hidden among the leaves. At least till her monsters frightened them away.
+
+Despite the idyllic beauty of Aman Rak, Ali kept vigilant, sampling the many senses of her minions. She even kept her attention on the riotous, overwhelming response from her Abyssal Stalkers’ Scent of Blood skill, immersed as they were in the dense blood mana of the dungeon’s domain. It was giving her a headache. With the dirt path winding through dense, impenetrable jungle, Ali immediately found that scent skills and her imps’ heat vision were far more useful to her than mundane vision, and it was her own Arcane Insight sensing the fluctuations in the domain mana through the obscuring undergrowth that first warned her of something changing.
+
+“The mana is different up ahead,” Ali said, trying to puzzle out what she was seeing. It was as if there were geysers of bone-affinity mana somewhere up ahead through the trees – but they were placed too regularly to be a natural phenomenon. Warily, they rounded the next bend to find a low wall of stone running perpendicular to the trail. On either side of the path stood two age-worn stone statues of important-looking trolls, and spanning the break in the wall was an arch made from the spine of some huge monster, rib bones sticking out like spikes reaching toward the sky.
+
+“These guys look big,” Malika said.
+
+“Yes. Some Trolls can grow quite large,” Ali said as she studied the large statues, sculptures honoring some past champions of the tribe. Trolls tended to revere the spirits rather than the gods, and honoring the fallen warriors in this way was an ancient tradition. The two Trolls were sculpted from a dark stone, and the artist had clearly emphasized their large, prominent tusks, spiked ridges of bone armor, and the imposing weight of the axes clutched in their powerful three-fingered grasp. Moss grew on their shoulders and centuries of rain seemed to have pitted the surface of the work, leaving it looking rough and weather-beaten.
+
+“You seem to know a lot about them,” Calen said.
+
+“I’ve encountered a few in my time,” Ali said. Even back when she was growing up, Trolls were legendary for their reclusive tendencies, mostly keeping to themselves and avoiding the cities of the so-called lesser races – as they referred to dwarves, humans, and elves. Still, Dal’mohra had been such an important cultural center for the entire continent that their tall blue- or green-skinned forms could often be seen about the city. Their ambassadors, the ‘Mok’ as they referred to them, were often bringing delegations to the neutral ground of Dal’mohra to broker treaties, or settle disputes, and so she was no stranger to their kind.
+
+But it was not the political ambassadors she was most familiar with. Trolls, and indeed most reputable historians, believed that their race predated even the Elves. Because of their unique and widely envied powers of regeneration, Trolls didn’t suffer from mortality in the same way as most other races. They – some would say stubbornly – did not die of natural causes, and therefore, there were some truly ancient Trolls among their kind, often invited by the scholars and historians of Dal’mohra to consult or lecture on the minutiae of historical events.
+
+Ali had found them to be oftentimes arrogant and proud, believing strongly in the superiority of troll-kind. However, they also had a profound and complex sense of honor and access to uncommon and powerful magic which had always fascinated her in her youth. Magic that was often related to the soul or spirits of their ancestors, divination, and strange runic tattoos. While almost everyone was bigger than her, the Trolls tended to be taller than most races, standing about a head taller than even the tallest elves and humans. But Ali would never forget the awe and instinctual fear she had experienced the first time she had seen one of the rare giant trolls in a delegation. It had been so massive she would not have even reached its knees, with legs wider than her entire body and footsteps that shook the ancient stone of Dal’mohra announcing its approach before she had even glimpsed its giant tusked face and the enormous axes looming over the tops of the buildings.
+
+“This must be the Temple of Bone,” Calen said quietly. “Lyeneru explained a little about Aman Rak on the way.”
+
+The dirt path meandered through the macabre rib-and-vertebrae arched gateway and onward into the jungle that continued on the other side, unconstrained by the presence of a mere wall.
+
+Lining the edges of the pathway at regular intervals were tall totems, perhaps twice Ali’s height, and made from what appeared to be fresh troll bones. A gruesome, tusked skull capped the totem, and it was decorated with jagged mystical glyphs of dark red that she hoped was paint. Scattered about the foot of the totem was a pile of what seemed to be discarded bones upon the darkly stained ground, and the entire gory construction emitted pulses of powerful bone-affinity mana that rapidly assimilated into the surrounding domain.
+
+Grim Totem – Totem – level 58 (Bone)
+
+“What is that?” Malika asked, her face wrinkled in an expression of extreme disgust.
+
+“It’s what the dungeon is using to propagate its bone-affinity mana,” Ali answered. But such a statement conveyed none of the skin-crawling revulsion she experienced just looking at the horrible thing.
+
+“The bones smell fresh,” Mato said, kicking one with his foot. “They must have killed someone recently to make this.”
+
+“Can we destroy it, please?” Malika said.
+
+“I can deconstruct it,” Ali said, “But I fear we will provoke the dungeon just like we did when I deconstructed the Bone Spire.” She had no desire to face another dungeon-break, and this time without the benefit of her domain mana granting them the power of a raid boss for defenses.
+
+“How about we destroy the whole dungeon, and then clean up all this stuff?” Mato said, his face set with an uncommonly firm determination.
+
+“Definitely,” Calen said, nodding. His cheeks seemed to have taken on a slight shade of green.
+
+“If we can,” Ali said. They had only signed up to get information, but she wholeheartedly agreed. Some sort of horrific desecration had been inflicted on this place, defiling the once-thriving home of the Aman Rak trolls, turning it into a gruesome dungeon of butchery, crawling with the undead remnants of their people.
+
+“We need to get to the bottom of this,” Malika said.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

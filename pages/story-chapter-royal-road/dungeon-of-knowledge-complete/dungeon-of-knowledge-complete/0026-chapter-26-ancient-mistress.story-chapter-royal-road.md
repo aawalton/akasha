@@ -1,0 +1,377 @@
+---
+id: 6efeb1e8-6188-5c2e-80f6-dcc4c518b7ad
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26: Ancient Mistress"
+slug: 0026-chapter-26-ancient-mistress
+partOf: dungeon-of-knowledge-complete
+position: 26
+ownLength: 7284
+unit: words
+ownProgress: 7284
+publishedAt: 2024-02-22
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1528011/chapter-26-ancient-mistress"
+royalRoadId: "1528011"
+markedReadAt: "2026-06-29T20:11:51.145Z"
+---
+
+Mato sat in silence, keeping watch. Ali had barricaded the doorway as usual, but he had been struggling to sleep the last couple of days, and keeping watch felt like he was doing something useful.
+
+I’m so sick of this place.
+
+They had been trapped down here in these endlessly bleak, dark stone ruins for more than a week, now. He missed the trees and the sunshine. Down here, the only things that grew were the ugly black mushrooms that reeked of death and decay. No sane person would ever dare to eat those. Everywhere they turned they encountered Kobolds, skeletons, and even the giant bone behemoths surrounding that enormous tower Ali had called the ‘library’.
+
+What little food he’d had in his pack – preserved through the fall by his shapeshifting magic – was long gone. And Ali barely ate.
+
+If it wasn’t that Ali was worse off than he was, he knew he would be complaining incessantly. He glanced over at his companion, twitching and thrashing fitfully in her sleep. Besides, he didn’t deserve to complain. She doesn’t have much time left. Her Class has some severe drawbacks – as does mine, I guess.
+
+He had been deliberately silent with his worries and complaints and kept as much distance between them as he could, simply to try to ease her suffering. He didn’t know what else he could do.
+
+One way or another, it will be over in the next two days. Ali’s domain withdrawal would run out, and he had no way of surviving without her support – especially against the Fire Mages. Ali hadn’t mentioned her withdrawal after the first couple of days, but he had eyes and knew how to count. He sighed heavily, continually wrestling with the situation, but deep within he knew he was giving up. What could he do? Nothing.
+
+At least we got a bit of a break yesterday, he thought, looking at Ali’s new Kobold minions standing guard with him and trying to turn his mind to a more positive track. Her advance had dramatically improved their progress through the ruined city, and he had even reached level eight in his class – an achievement that once would have made him so excited.
+
+I just hope it’s not too little, too late.
+
+At that moment, Ali’s thrashing stopped and her amber eyes snapped open, wells of deep pain. She curled up into a ball, trying to stop herself from screaming as she had the last several nights. Slowly, she mastered it and then sat up.
+
+Eight.
+
+“You ok?” he asked her softly.
+
+“Bad dream.”
+
+Still won’t mention the withdrawal. She might be a titch, but there’s no shortage of courage.
+
+You have been afflicted with Domain Withdrawal.Separation from your domain weakens you.-10% to maximum health.Affliction – Duration: Indefinite. Count: 8
+
+Ali woke to the familiar chime and jolt of pain from the daily increase in her domain withdrawal, finding herself curled up into a ball on the dirty stone ground. Her endurance was still making the pain bearable, barely, but her entire investment in vitality yesterday had just been wiped out.
+
+Only fifty health left. There was no longer any doubt that a single Ambush attack from an unseen rogue or an unblocked Fireball would kill her instantly. She felt fragile.
+
+Or just two more days…
+
+“You ok?” Mato’s concerned voice from the other side of the room brought her back to the present.
+
+“Bad dream,” she answered. It was a small lie, but she didn’t trust herself to keep it together if he started being concerned about her withdrawal. It wasn’t like either of them could do anything about it anyway.
+
+I hope we can find a way out today, she thought. Yesterday’s development had been a spectacular improvement in their mobility around the ruins – the higher-level Kobold minions were devastatingly effective compared to the rats or wolves. No longer were they forced to waste precious time cowering in the darkness for hours on end, waiting for the Kobold patrols to pass by without noticing them. Ali glanced at the three Kobolds she had made, standing quietly on guard by the blocked doorway. Somehow, they didn’t seem to require rest or even food. She didn’t understand how this summoner class really worked, yet, but it wasn’t like she had had any time to sit down and study it.
+
+She got up and began deconstructing the barricade she had created. The hunger had faded several days ago, and instead, she had begun experiencing bouts of dizziness, which she knew wasn’t a good sign. Worrying about it won’t make it better, she thought, trying to put it down. At least Mato had been able to find water by the sounds of dripping behind some of the larger buildings. Water doesn’t fill an empty belly.
+
+“I’m ready.”
+
+“Let’s go.”
+
+Ali stepped through the doorway and led the way to the boulevard once again. They were close to the outer edge of the cavernous underground city now, and she had reasoned that the broad boulevard would be safer this far from the Kobold army encamped around the library.
+
+It took them through two smaller patrols before they reached the gigantic road that cut through the entire ancient city. Broad enough for multiple lanes of carriages, wagons, and magical transport platforms to service the needs of a bustling city, it lay bare and silent now, strewn with bones and rubble.
+
+“Looks clear,” Mato observed in a whisper from next to her. “Is that it?”
+
+Mato stared at the giant stone archway set into the vast, sheer expanse of rock – the craggy perimeter of the underground city that rose far out of sight overhead. The boulevard plunged through the archway into a tunnel leading to the city’s entry hall and the West Gate – the stone chamber where Ali and her mother had encountered the Death Knight. Her body involuntarily shivered at the memory of his aura of fear, and the ominous crunch of his footfalls on the remnants of his devastating ice magic.
+
+“Yes. The West Gate is through that tunnel, just beyond the old entrance hall. It should lead up to the forest – err, the dead forest in that cavern where you guys found me – and eventually the Grove with the shrine,” she answered. The way through the mountain was worse off than she remembered. It looked like there had been a rockfall at some point, there were piles of debris and boulders strewn about around the archway, and great cracks in the pavement of the road – but it still looked passable. It was hard to keep the flickers of hope from blooming prematurely.
+
+What if the Death Knight is still there? But she didn’t say anything. If there was something as powerful as a Death Knight this close, they were already dead.
+
+“Ready to chew some rock?” Mato responded.
+
+Despite her exhaustion, Ali chuckled, “Nothing more exciting than a pile of rubble.”
+
+“Right, let’s go. Be careful of patrols.”
+
+Just like every day, she thought, but she didn’t voice her negativity. She was sure Mato was hiding his fear and frustration for her benefit. Whenever he spoke with her, he seemed to be just as brave and self-assured as normal. But whenever she caught him in an unguarded moment, his shoulders were hunched, and his eyes seemed to be filled with a hollowness that spoke of deep despair and guilt.
+
+They made their way down the nearby stairs as quickly and quietly as they could, alighting on the enormous street below. Keeping to the nearest edge in the hope of avoiding any scouts or stray Kobolds, they pressed on, creeping stealthily through the dark tunnel beyond the archway, until Mato was close enough to peer into the entrance hall itself.
+
+“Kobolds!” he hissed in an intense whisper, pulling back abruptly and pressing his body up against the rock.
+
+The entrance hall was almost exactly as Ali remembered it. A large chamber with the road passing straight through to the giant West Gate on the far side. In ages past it had contained the defensive fortifications for the city guards, and places for customs officials to inspect incoming wagon cargo, but now it was all shattered. Deep shadows failed to completely hide the wreckage, with the rubble of the exit doors still strewn across the entire room. But instead of a sheet of ice, frozen defenders, and the chilling presence of the Death Knight, what she saw instead was a Kobold campfire in the center of the road blocking their passage to freedom.
+
+Around the disconcertingly cheerful crackling of the campfire, sat several different Kobolds. A single skeleton – missing a left arm – stood guard nearby with a perfect view of the entire chamber – but Ali had eyes only for the Kobold Warrior. It was by far the largest Kobold Ali had ever seen, more than a head and shoulders taller than its compatriots. It wore solid gray plate armor strapped over its emerald-green scales and carried a long gray sword that gleamed in the firelight. Both seemed to be made from polished bone, honed to a dangerous-looking sheen.
+
+Warrior – Kobold – level ??Mage – Kobold – level ??Warrior – Undead Skeleton – level 11Slinger – Kobold – level 13-14 x2
+
+“Is that a boss?” Ali’s heart sank at the sight of the enormously powerful-looking Kobold warrior and what seemed to be his minions. There’s no way we can beat them. The savage bite of frustration and disappointment was made just that much sharper by being able to see the exit that lay just beyond the Kobold campfire. I got so much stronger yesterday, and I’m still not enough. Far from it. Nevyn Eld would crush me like a bug.
+
+“I don’t have Calen’s skill,” Mato answered. “But it looks like it’s a boss. I don’t think we can take this group.”
+
+“Can we slip past?” Ali asked.
+
+“I don’t see how – that skeleton will definitely see us coming. Neither of us have stealth skills. Is there another way out of the city?”
+
+“The city has other gates,” she answered. “But I don’t think we can make it… not anymore.” The lump in her throat and the constriction in her heart refused to go away, no matter how hard she tried. She had only two days left, and the next nearest gate was far from here – and let out in the mountains far from the Grove.
+
+“Come on, don’t give up,” Mato said. “We have to try.”
+
+He was clearly putting on a brave face for her benefit, and she appreciated the effort. But deep inside she knew she didn’t have time. The chilling certainty that she would die down here took root within her heart.
+
+“Ok,” she said, forcing a smile on her face. A smile that felt like it was stuck on with cheap glue and would fall off at the slightest breeze. “We need to get to the North Gate.” Even if she didn’t last the journey, she could still point him in the right direction and maybe one of them would survive. That’s better than both of us dying, right?
+
+“Ok, let’s go,” he answered. His enthusiasm sounded equally forced.
+
+Who are we fooling? Ourselves? But the sight of the exit, so tantalizingly close, and yet so impossible to reach, had crushed what little hope remained, dashed to pieces against the impenetrable wall of the Kobold boss.
+
+As silently as they could, they retreated through the tunnel and back into the ruined city, and once Ali had a chance to recover her bearings, she began to lead them toward the distant North Gate. It took them the better part of an hour before she located a main thoroughfare and only then did their speed begin to improve.
+
+“Patrol!” Mato whispered urgently, stepping back into the alleyway with her, and the cover of darkness. They waited in silence, listening to the Kobold chirps as they slowly passed by in the broader main street, sizing them up, trying to decide their course of action. The group of Kobolds stopped for a while, and Ali’s anxiety began to rise, and so did the cramping in her muscles as she tried not to move or make a sound.
+
+In the darkness near to her, Mato shifted uncomfortably. One of the tightly fitted gray flagstones shifted under the weight of his foot, and he stumbled.
+
+Click.
+
+Whoosh!
+
+Thump.
+
+A huge rock attached to a fraying rope swung down from the roof of the building on the opposite side and slammed into Mato’s back, launching him across the street and into a wall where his body collapsed in a heap.
+
+With loud yipping chirps and calls of alarm, the patrol sprang into action, charging Ali.
+
+Warrior – Kobold – level 11-15 x2Mage – Kobold – level 13Slinger – Kobold – level 12
+
+Crap! Mato! Acting entirely on instinct, Ali created a barrier to hide behind and sent her warrior to charge the enemies.
+
+“Get the mage!” she instructed her rogues, fixing the image of the Fire Mage in her mind as she projected her intent. Her pair of rogues slipped away, vanishing into the shadows on their way to Ambush the mage.
+
+The clash of steel rang out in the street, echoing off the stark stone walls of the nearby buildings. A stone the size of an egg cracked sharply against her barrier and ricocheted into the darkness of the alleyway behind her.
+
+More of them? Not good! Her warrior was outnumbered and was quickly giving ground against the furious attacks of the pair of enemy warriors, bolstered by flying rocks and the occasional sizzle of a Firebolt. Ali trembled, crouching behind her barrier with her minuscule health total foremost in her mind, while trying to cast her roots to save her Kobold Warrior.
+
+From across the street, a dark red mist began to seep out of the crumpled shape that was Mato’s body, soon developing into billowing clouds. The indistinct form in the shadows began to twist and warp, growing dramatically larger, and suddenly, with a great roar, he shot across the street and slammed into the two Kobold Warriors, knocking one sprawling from the sheer momentum.
+
+“Mato, heal!” Ali screamed.
+
+She got another roar for a response, but the flicker of green on the impact of his claws told her that the rock trap hadn’t knocked him quite so far into his rage that he lost control. Quickly, she switched her attention to the Fire Mage at the back, and the already intensifying glow of flame blooming in his clawed grasp. Hiding behind her magical barrier she released her bolts overhead to arc downward, pelting the smoking red-scaled Kobold with golden orbs of her magic.
+
+Her two rogues chose that very moment to emerge from stealth with their devastating Ambush attacks, daggers glinting wickedly in the light of the fire as they stabbed in tandem, sliding their silent blades between his lower ribs. The mage staggered, losing control of his magic, and the partially-formed fireball careened off into the alleyway, detonating with a loud bang against a wall. Heat radiated from the concussion wave of flame on her back, but her nasty tattered robes did their job reducing the damage to a few paltry points.
+
+Phew. I hope nothing heard that, she thought.
+
+Her rogues chirped to each other, coordinating their attacks as they flanked the mage. Her Sage of Learning kicked in, beginning to drain her mana.
+
+Not a good time!
+
+The enemy mage switched to the smaller and faster Firebolt spell, but the relentless attacks from her rogues’ daggers and her Arcane Bolts killed it before it could get off more than a few shots. She let out a held breath as the mage collapsed, relieved that the most dangerous enemy was dead.
+
+As Ali directed her two rogues to attack the Slinger, who was still peppering her barrier with stones, they chirped again, causing her to lose even more mana to her frustratingly ill-timed Sage skill. She thumped her forehead with the heel of her hand. Stop it. Seriously?
+
+The Slinger managed to fire off two shots at her rogue, whose body was still smoking from the Fire Mage’s magic, and it collapsed in the middle of the street right before reaching its foe, releasing her reserved mana with the sharp whip-crack of a dishcloth stinging her mind. Down a rogue, and missing the benefits of ambushing from stealth, Ali took far longer to kill the Slinger, but she persevered, whittling it down with stab wounds and sizzling bolts of her arcane magic. This was long enough for Mato to take care of one of the warriors by himself.
+
+She sprinted over and deconstructed the corpse to recover the substantial amount of mana she had spent while sending her remaining rogue limping over to help Mato with the last Kobold. As soon as her mana was recovered, she joined in with her bolts and the last Kobold in the patrol collapsed.
+
+“Help Mato,” she instructed, and her two Kobold minions leapt to assist Mato in dragging the corpses into a nearby house while they hid, worried that the sound of fighting and the detonation might have attracted nearby patrols. But apart from some distant chirping, all remained quiet.
+
+Your group has defeated Warrior – Kobold – level 11-15 x2Your group has defeated Fire Mage – Kobold – level 13.Your group has defeated Slinger – Kobold – level 12.Grove Warden has reached level 10.+10 attribute points.Arcane Bolt has reached level 10.Barrier has reached level 10.Class skill slot unlocked.
+
+She barely muffled a squeal of delight. What? A class skill? Ali had not expected to level up, but defeating the higher-level Kobolds, and presumably, the additional danger of the initial rock trap, had somehow earned her enough experience to reach level ten.
+
+All that was well and good, but the snippet of glowing golden text persisted in her mind, refusing to go away. Class skill slot unlocked … class skill …
+
+The notifications continued to stream by; a soft chorus of chimes in the back of her mind.
+
+New skills are available for Grove Warden.New skill unlocked.Class level has reached 10.Raised two Arcane skills to at least level 10.Perception has surpassed 10.Received master-level instruction in mana manipulation.Arcane InsightYou can see mana. Arcane, PerceptionNew skill unlocked.Class level has reached 10.Defeated multiple enemies while having your health reduced by 80% or more.Has summoned 5 or more minions.Berserk SummonerYour summoned creatures gain Enrage if you lose more than half your health. Their damage is increased proportionally to how damaged you are. Range: 20 meters.Nature, Minion, EnduranceNew skill unlocked.Class level has reached 10. Defeated multiple enemies above your level using minions.Disrupted an Ambush attack using the perception skill of a minion.Observed your minions fighting with martial skills and weapons. Martial InsightYour mana empowering summoned creatures now carries your accumulated experience. Your creatures gain + [40 + skill + perception / 10] % to combat abilities. Martial Insight only gains experience when you observe your minions’ combat.Nature, Minion, Mastery, Perception
+
+“Mato! I got a new skill slot and three choices,” Ali exclaimed in an excited whisper. Quickly, she shared the options with him. “I want Arcane Insight…” her excitement grew as she read the deceptively simple description. I will be able to see magic! Mana was the fundamental energy of magic, the substance that made up its structure and the infinite intricacies of its formations. Every important magic researcher had a skill like this. Being able to see mana was essential to understanding magic. Her mother had such a skill and she had used it to teach Ali to manipulate her mana, earning her her first Arcane Cantrip skill when she was a child.
+
+“That isn’t going to help us get out of here.”Mato’s words pierced her bubble of excitement and brought her crashing back down to the reality of what they faced.
+
+“The other two sound as if they would be more useful.”
+
+He’s right. She desperately didn’t want him to be right, but he was.
+
+“Berserk Summoner would be great if it counts your withdrawal as damage,” Mato said, wrinkling his nose as if he understood her dilemma, but then his voice grew quieter, “but I’m not sure we want more Berserker skills.”
+
+“I agree,” Ali said, considering the skill for a moment. “It is too risky. Martial Insight is a much more straightforward improvement to minion damage – well, maybe. That wording about experience is weird.”
+
+“Yes. How many creatures can you make?” Mato asked.
+
+“I was going to put my points into vitality, but I could do wisdom and maybe summon up to five Kobolds,” she replied. “Why?”
+
+“Martial Insight looks like a large damage boost. If you have enough creatures to leverage it, do you think we can take that boss Kobold at the entrance hall?”
+
+A sudden blinding ray of hope surged in her heart as she hastily checked her mana and the skill description. It was a Mastery skill, and therefore a passive boost to her minions, meaning it wouldn’t cost any more mana than the amount she already reserved to support them. If she followed Mato’s idea, she could bring more minions to the fight. But she would leave herself dangerously low on mana for her defenses, making herself vulnerable and far more reliant on her creatures.
+
+I can be more aggressive with deconstruction. Her mana use, besides her minions, would just be Arcane Bolt, Barrier, and Grasping Roots.
+
+And whatever the stupid Sage eats.
+
+“Let’s try it,” Ali said. It would be close, but there was no more time. Waiting would simply be giving the doomsday clock of her Domain Withdrawal more time to tick. Besides, even if she followed her normal approach of investing all ten points into vitality, with her racial limitations and the current state of her withdrawal, it would only increase her total health by ten.
+
+This might very well be our only option.
+
+Observing Mato’s sober nod from the corner of her eye, she swallowed what felt like a burning rock and dropped all her attribute points into wisdom. An expansive sense of openness unfolded somewhere deep within her as the well of her mana grew dramatically larger. Quickly, she summoned three more Kobolds: two level eight rogues, and a level nine warrior.
+
+Your reserved mana has increased by +179.
+
+She checked her mana to verify her mental calculations while summoning armor and weapons for her newest minions.
+
+Health: 48/50 (-80% Domain Withdrawal)Stamina: 120/150Mana: 112/670 (283 Reserved)
+
+With a last longing look at Arcane Insight, Ali selected Martial Insight and immediately felt a strangely disconcerting mental connection to each of her five Kobolds that were standing around watching her.
+
+You have gained the class skill Martial Insight.
+
+That feels odd. I guess it’s a perception-based skill.
+
+“It will be tight, but I think this can work,” Ali said eventually. She was going to need to be extremely frugal with her mana usage.
+
+Mato flexed his shoulders and cracked his knuckles. “Ready?”
+
+“I’m ready.” I really hope this works.
+
+***
+
+Ali peered into the ruined entrance hall, dimly lit by the flickering Kobold campfire.
+
+Warrior – Kobold – level ??Mage – Kobold – level 17Warrior – Undead Skeleton – level 11Slinger – Kobold – level 13-14 x2
+
+“I can identify the mage now, it’s level seventeen,” Ali whispered, eyes glued to the hunched Kobold Fire Mage sitting on a rock while the dancing glow of the campfire flickered off her gleaming red scales like a portent of doom.
+
+“What do you think?” Mato asked. All signs of his growing depression seemed to have vanished, and instead, he bristled with a strangely restless, manic energy that could only come from desperation.
+
+We’re insane, Ali thought. That’s a level seventeen Fire Mage. The number of things that could go wrong was astronomical. Her new skill was unproven; it could so easily prove to be inadequate for the fight. She could run out of mana. The boss could be way too strong, just like Armand’s skeleton.
+
+Ali stopped herself and took a deep breath. “I’m willing to risk it if you are.” She honestly didn’t have a choice, but even so, she was not about to drag Mato into this if he wasn’t sure. They could very well lose their lives in this fight – Ali in particular, given her extremely vulnerable health.
+
+She saw him take a deep breath too.
+
+“Let’s do it then,” he said. “Whatever happens, let’s have a good fight.” He shifted into his Bear Form and stepped up to the entrance.
+
+The biggest wildcards in the fight were going to be the giant warrior Kobold, and the level seventeen mage.
+
+“Can you engage the big guy and keep him busy?” she asked. “I’ll put my two warriors on the skeleton and try to kill the mage first.”
+
+The huge bear dipped his head once, chuffing softly as he expelled air through his mouth, and then stepped out into the hall. The barely restrained energy from before settled like a sense of resolve into his powerful frame. With a great roar, he charged, grabbing the attention of the entire room. His massive bulk barreled into the giant Kobold, sending the others sprawling in a spray of cinders and sparks from the campfire he had just destroyed.
+
+“Go!”
+
+Ali’s warriors charged forward, and her rogues were nowhere to be seen. Using the chaos of Mato’s entrance, Ali slipped into the entrance hall, placed her back up against a giant boulder – a fragment of the once great gates of Dal’mohra – and surveyed the battle.
+
+Now that she was fully committed, her mind told her she was an idiot, and she was going to die. Probably to a Fireball the size of a house.
+
+She shut her mind up by summoning a barrier. Ali found she could tell precisely where her invisible rogues were as they sneaked past the middle of the fight in stealth. Martial Insight was a bizarre new sense she had never had before – similar to the way she always knew where her arm was, even with her eyes closed – only the same thing for her minions.
+
+Across the chamber, the Kobold Fire Mage invoked her flames, hunched over a walking stick, staring in Ali’s direction with her hate-filled gleaming red eyes. Ali began her assault, lofting golden Arcane Bolts high over the battlefield to impact the mage while she crouched, sandwiched between her boulder and her barrier. As the mage extended her clawed hand, the ball of flame hovering above it, Ali signaled her rogues. “Now!” Shadows shifted, momentarily filled with whetted blades, and all three rogues simultaneously Ambushed the Fire Mage. The brutal flurry of dagger strikes caused the Kobold to falter, and the Fireball careened off into the wall above Ali’s head, detonating with a ringing bang and raining gobs of fire all around her.
+
+Freak that was too close! Ali gritted her teeth and hung onto the focus required to maintain her magic. Come on, come on …
+
+Suddenly the shadows nearby flickered as a gob of flame fell from the wall, bouncing off something unseen. Instantly, before the panic could even register, she threw up a new barrier between her and the shadow. With a loud clink of metal, a dagger struck her barrier, cracking it, and a black-scaled enemy rogue appeared out of nowhere, looming over her as its lips curled back into a snarl revealing far too many razor-sharp fangs.
+
+Just like in her first fight with Malika guiding her, Ali calmed herself, hiding behind her barrier, and cast her Grasping Roots spell. The gnarled wooden roots sprang up and latched onto the rogue’s ankles and coiled around his tail. Then she stepped away from the struggling Kobold and recreated her barrier, and only then did she let her terror register in her mind.
+
+Her Kobold rogues chirped and yipped, and she sensed their concern flowing through her new augmented link with them.
+
+“Kill the mage.”
+
+She reinforced her intention through the connection. It wouldn’t do to have them rushing over to save her and leaving the Fire Mage to her own devices. A chirping chorus rose from the rogues as they redoubled their efforts and Ali’s Sage of Learning took a sizeable bite out of her mana pool. She grimaced. But she wasn’t about to make the same mistake again – ignoring the mage would be suicide. Not even the magical protection of her tattered robes could save her, now.
+
+I don’t have much to play with. And she needed to prioritize her defenses. Keep moving? Throw the mage off, somehow?
+
+She yelped and sprang backward as a sizzling Firebolt zipped past her face, bursting into a thousand flying sparks as it hit the boulder beside her. She resummoned her barrier just in time to catch the second Firebolt, eliciting a distant frustrated screech from the Fire Mage.
+
+Priorities, Ali! She lined up her Arcane Bolt spell targeting the Fire Mage, but at that instant, with a slash of a dagger, the rogue managed to free himself from her roots and came sprinting toward her with a mad gleam in his eyes. Frantically, she switched to Grasping Roots, barely managing to stop the dagger-wielder right before he reached her. She had never been so happy to be able to scramble away and hide on the far side of the boulder before she returned her attention to the Fire Mage.
+
+A second detonation tore through the hall and one of her rogues collapsed with a smoking hole burned through its chest. Ali kept up her stream of Arcane Bolts and, surprisingly, the Fire Mage collapsed with a final whimper at the feet of her remaining rogues.
+
+That was fast. The only reason Ali could think of was the enhanced damage her rogues were able to deal out because of her new skill, especially considering the mage had been level seventeen – and the triple Ambush. But it was not just damage, her little Kobolds seemed to be incredibly resilient compared to before, shrugging off damage from the higher-level monsters that should have incapacitated them.
+
+Martial Insight says it affects ‘combat abilities’ – does that mean defensive skills too? Later…
+
+Ali quickly refreshed her Grasping Roots and darted across the battlefield to the corpse of the mage. She was almost out of mana already – Sage was nibbling it continuously, and she had needed some emergency barriers she hadn’t counted on to survive that Ambush. She set her two remaining rogues to attack the enemy rogue still struggling to free itself from her roots. Using almost the last of her mana, she created a barrier to protect herself from flying stones and began to deconstruct the mage. By the time she had finished replenishing her mana, her two rogues had already opened some substantial wounds on their foe, making it bleed profusely. Ali launched a fresh flight of Arcane Bolts to support them. Her rogues were taking quite a beating, but her Martial Insight skill was definitely helping them hold their own against the higher-level opponents. After about thirty seconds, the enemy rogue collapsed, dead, and still tangled up in her roots.
+
+Ali breathed a sigh of relief; her two most feared opponents were out of the way. She glanced over to where Mato was engaged in a furious brawl, but to her relief she could still see the telltale flicker of his healing magic. She ran back across the battlefield to the rogue’s corpse to replenish her mana. Sage of Learning was still taking occasional bites out of her mana pool whenever her Kobolds spoke, and if she didn’t have mana to attack, they would most likely die. Several times Ali had considered instructing them to be quiet, but she needed her minions to have every possible advantage in this fight, and presumably, their chirps were their way of coordinating.
+
+One of Ali’s warriors lay dead, next to the corpse of the previously animated one-armed skeleton. She had been so absorbed with the threat of the rogue that she hadn’t noticed. Taking the initiative on its own, her other warrior had moved on to assist Mato by the glowing remnants of the campfire. The sling-wielders fired a continuous stream of high-speed rocks at Mato, who was already bleeding from many gruesome-looking sword slashes inflicted by the hulking Kobold Warrior. His red rage-mist was dark and ominous, and he was beginning to froth at the mouth, but somehow, he still had his healing magic running.
+
+He’s losing control. Ali pushed down her fear and decided to focus on the Slinger Kobolds. Mato’s heal is still up. If I reduce the damage he’s taking, he should be able to come back.
+
+“Heal!” she called out, deciding that it would be best to remind him anyway. He still had his new regeneration aura active, as evidenced by the slowly closing cuts on her nearby Kobold warrior’s body. Even in the chaos of battle, an isolated part of her mind noted how effective it was and wondered if she should be trying to take more advantage of it with her minions.
+
+Leaving herself temporarily vulnerable, Ali created a barrier blocking the Slinger’s line of sight on Mato, and then she sent in her rogues. With her mana no longer critically low, she began arcing her magical bolts over at the weaker of the two rusty-brown Kobold Slingers. Unable to attack Mato, both Slingers switched to pelting her rogues with flying stones that whizzed through the air. There was a chaotic exchange of high-speed ricocheting rocks and flickering daggers, all illuminated by the golden glow of her bolts and barrier. Suddenly one of her rogues and the Slinger they had been attacking both collapsed simultaneously.
+
+Ali’s mana was running low again, but she dared not run into the fight with the remaining Slinger still standing. Her last rogue immediately engaged the brown-scaled sling-wielder with a spectacular dagger-flourish and Ali immediately supported him with her bolts. Don’t die. If the rogue died, she would be out of defenders and out of mana – completely vulnerable. The struggle raged on with Ali adding a continuous barrage of missiles, trying her best to conserve whatever mana she could. But after a few moments, she realized that one on one, the ranged sling-wielding Kobold was poorly matched against her dagger-wielding rogue, and a little of her anxiety eased. Letting the rogue finish up, Ali ran over to replenish herself from the sparkles of mana that erupted as she dissolved the corpse.
+
+A bit gruesome, but whatever it takes …
+
+Mato was now facing the boss warrior by himself. The red mist of his rage seemed to be contending with the green glow of his healing magic in a precarious battle for supremacy. He was covered with sword slashes and fighting in a slick pool of blood, but the raw power of his ferocious attacks was beginning to stagger the much higher-level Kobold Warrior. Both of Ali’s warrior Kobolds lay dead, face down on the bloody flagstones.
+
+He’s still losing. What can I do to help without getting in the way? Or getting hit …
+
+Mato’s power was unreal, every strike landing with bone-cracking force that reverberated through the chamber and sent showers of crimson blood spraying into the air in the wake of his brutal claws. But the Kobold was more powerful, his bone sword flickering and darting around Mato’s brute force, whittling away at his life with every strike despite his regeneration.
+
+“Help him,” she instructed, sending in her rogue – her last remaining minion. And with that she unleashed her remaining mana, pouring it into a steady stream of Arcane Bolts, desperate to finish the Kobold off before they both died.
+
+“Heal!” she urged. Hold on, Mato!
+
+The Kobold wielded his wickedly serrated sword of bone with uncanny skill, making it blur and whistle with speed. Even with her inexperience, Ali could easily tell it was a far superior weapon than the rusty swords she had seen all the others use.
+
+The Kobold Warrior boss raised his weapon, making the sword glow briefly before he slammed down with a vicious overhand strike. Blood sprayed from Mato’s shoulder as his flesh separated, sliced to the bone, and he roared as his rage deepened. What skill was that? Ali had never seen the warriors use that skill before. No wonder he’s struggling. The wound started closing – too slowly – as his healing struggled to restore him against the onslaught of that wicked blade. Ali held her focus, pouring her magic into her Arcane Bolts – it was all she could do to help him. She even dropped her barrier to free up mana and focus. Behind the outsized Kobold, Ali’s rogue darted and dodged, stabbing furiously with a blood-drenched dagger. The warrior stamped his foot and his sword glowed again, arcing a near-instantaneous horizontal sweep attack that sliced Mato in the chest and sent her rogue flying with a deep gash through its upper thigh.
+
+What the heck is this Kobold?
+
+Ali stopped shooting to deconstruct the last Slinger corpse nearby as her rogue limped back into the fray, blood flowing freely from its wound. Finally replenished, Ali attacked once more with her relentless flurry of small but significant strikes. Minutes ticked by. They hung on, Mato hovering on the boundary of mindless rage, Ali almost out of mana, and her rogue barely surviving the occasional hit that the warrior landed on him, before returning to the fight, regenerating with painful slowness within Mato’s aura.
+
+Eventually, running completely dry yet again, Ali risked moving closer, and without even the protection of her barrier, she deconstructed the skeleton and the body of her own Kobold Warrior, both of which had been killed so much earlier in the fight. Again, she resumed, pouring her recovered mana into her skill, making Arcane Bolts soar across the room. Another two minutes passed without any visible progress before finally, Mato struck the warrior with a great swipe, smashing it to its knees. It hissed, struggling feebly as it clutched its sword and tried to jam it into her friend’s chest in self-defense, but it was too late. Mato’s jaws crunched down on its throat, and it did not get up.
+
+Mato roared, shaking his head, while blood and froth sprayed into the air. Ali’s rogue hastily backed away.
+
+“Mato! Stay with me!” He’s struggling. “Mato. Mato! Remember who you are!”
+
+The heavily injured Berserker seemed to be fighting with himself, thrashing back and forward as the red mist seemed to eat at him. Ali created a barrier and her rogue stepped in front of her, chirping at her. His worry for her came through the Martial Insight connection as clearly as if he had spoken it. There was a sudden lurch in her mind and a chime as she suddenly lost most of her remaining mana to the Sage of Learning.
+
+You have learned the Draconic language.
+
+“I will protect you, Ancient Mistress.”
+
+My Kobold spoke!
+
+Suddenly Mato’s body warped, shrinking and twisting back into Beastkin form. He collapsed to the ground, gasping and panting in a pool of blood that seemed to be mostly his own.
+
+“That was … almost lost it,” he said, coughing and choking, blood spilling from his mouth and running down his chest. He tried to lift his hand. “Stay… Ali, stay away from me for a moment.” His eyes still glowed red from within the mist. He looked haunted – as if the battle for his will at the end had taken more out of him than any of the powerful sword strikes.
+
+Her chimes pinged in the background.
+
+Your group has defeated Fire Mage – Kobold – level 17.Your group has defeated Dagger Rogue – Kobold – level 14.Your group has defeated Warrior – Undead Skeleton – level 11.Your group has defeated Slinger – Kobold – level 13-14 x2.Your group has defeated Swordmaster – Kobold – level 21.
+
+“Glad to have you back,” Ali said as she allowed herself to slump down against a large chunk of stone column.
+
+“Ugh, a level twenty-one Swordmaster…” Mato said, still breathing with heavy, ragged gasps, but the feral roughness in his voice was beginning to fade.
+
+After taking a few minutes to be sure Mato was in control, Ali carefully got to her feet, deconstructed the remaining gear and corpse, making sure to Identify all the items first, just in case. Then she inscribed a Restoration circle for Mato to sit in, knowing his healing magic wouldn’t be much use when he had no enemies to hit. Even though his aura would allow him to recover in time, her magic circle would heal him far faster.
+
+Sitting down beside him, Ali flicked to her notifications.
+
+Grove Warden has reached level 12 (+2).+20 attribute points.Grasping Roots has reached level 6.Arcane Bolt has reached level 11.Barrier has reached level 11.Sage of Learning has reached level 8.Martial Insight has reached level 5 (+4).Imprint: Sword completed.
+
+With the abrupt lack of danger, the tension in Ali’s back and neck began to fade. She turned to study her last standing Kobold.
+
+“You can speak?” she asked, trying out her new Draconic language. Her accent was atrocious, even to her ears.
+
+“Of course, Ancient Mistress,” he said. His speech was soft and fluid, punctuated with the chirps she had grown accustomed to.
+
+And what is with this ‘ancient mistress’? Can it sense my Ancient title through the Martial Insight connection?
+
+An overwhelming rush of emotions, feelings, and thoughts crashed into Ali’s mind now that a strange quiet settled over the ruined Dal’mohran entry hall. Opening her Grimoire, she carefully inscribed her new sword imprint into an open chapter while she considered what had transpired.
+
+Mato is in control of himself.
+
+It had been close. Ali still felt terror at the thought of what he might do if he lost control again. She looked around the city’s entrance hall, now empty. While she knew it was just remembered fear, her eyes instinctively searched out the dark alcove from which the ice Death Knight had originally appeared. But, of course, that was a memory of the long distant past.
+
+We did it.
+
+Realization slowly seeped into her heart as she gazed at the emptiness between her and the shattered city doors. Trickles of light and hope slowly softened the clenching of her heart.
+
+We can leave!
+
+“We did it,” Mato said softly, unknowingly echoing her thoughts. “I really thought we were going to die.”
+
+“How about we get out of here?” Ali said, a tired smile working its way onto her face.
+
+Mato moaned, but he clambered to his feet and followed, limping a little as he favored a leg that was still not fully healed. She led the way out of the massive open archway and up towards the forest cave and the Grove with her shrine.
+
+Suddenly, a horrible thought popped into her mind. “Say, you don’t suppose those thugs are still up there waiting for us?”
+
+“Not a chance,” Mato said. “It’s been more than a week. They definitely think we’re dead.”
+
+As they retraced the familiar steps from her previous life, Ali began to feel the emotional impact of escaping the underground ruins, the darkness, the shattered remnants of her memories of home, the traps, and all the Kobolds. By the time she entered the Grove, and felt her domain, she was blinking back tears of relief and happiness.

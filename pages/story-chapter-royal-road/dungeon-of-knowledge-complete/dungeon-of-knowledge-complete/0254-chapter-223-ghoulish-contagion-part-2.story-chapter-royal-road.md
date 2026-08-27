@@ -1,0 +1,127 @@
+---
+id: b74f2c5f-3d1c-5841-9cc4-059f40600f0c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 223: Ghoulish Contagion (Part 2)"
+slug: 0254-chapter-223-ghoulish-contagion-part-2
+partOf: dungeon-of-knowledge-complete
+position: 254
+ownLength: 1845
+unit: words
+ownProgress: 1845
+publishedAt: 2025-04-14
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2201156/chapter-223-ghoulish-contagion-part-2"
+royalRoadId: "2201156"
+markedReadAt: "2026-06-29T20:19:47.391Z"
+---
+
+Calen stalked down the jungle path, taking full advantage of the shadowy light created by the dense canopy of vines and branches overhead to help maintain his stealth. He kept his tread light and quiet, having no desire to repeat his experience of being caught alone by a witch doctor and turned into a frog. Ridiculously embarrassing. In the branches overhead, he caught a flicker of gold and smiled, knowing Ali had his back. He couldn’t even sense the Stalkers.
+
+He raised his eyes, catching a shadow flying above the canopy. Nightwing, he thought, quickly identifying the bat. He lowered his eyes as he rounded a bend and ran straight into a silent pack of monsters.
+
+The heavy-set rotting flesh of what had once been a troll spun around and slashed him across the ribs with sharp, blackened claws.
+
+You have been afflicted by Paralytic TouchThe touch of a ghoul can arrest even the most powerful of warriors.You are paralyzed.May be mitigated by resistance or endurance.Curse – Duration: 10 seconds.
+
+Oh shit! This isn’t my day!
+
+Bone Ghoul – Undead Troll – level 53.
+
+The monster turned to him and opened its gaping maw, showing rotted teeth and blackened tusks. It let out a hideous, mournful groan, releasing a cloud of miasma from deep within its body, a sound which was echoed by several other shambling forms emerging from concealment among the bushes and trees.
+
+You have been infected by Bone Contagion.Your bones weaken and begin to grow with unbound malignant proliferation, inflicting grievous internal damage. +3 Bone damage per second.-10% to Movement speed.Vulnerability to critical strikes increased by 10%.Small chance per vitality point to recover from Bone Contagion.Disease – Count: 1.
+
+Calen struggled in vain against the paralysis, desperate to flee from the hideous monster. It swung its claws again, but this time missed, seeming to aim a little too much to one side. He thanked his lucky stars – and his mentor – for the Mirage Armor skill as he struggled more and more desperately.
+
+Your Bone Contagion has increased to 2.
+
+The billowing miasma the ghoul was breathing infected him a second time, and deep within his body, he felt a horrific twisting pain as his bones began to stretch and grow chaotically. The ghoul lunged forward, the unnaturally large mouth opening horrifyingly wide.
+
+Something shimmered behind the Ghoul and a sleek nightmarish spider materialized, lashing out with sharp blade-like legs that ripped rotten flesh from the undead’s back. The mouth snapped shut a fraction of an inch in front of his paralyzed eyes, and he was inundated by the overwhelming stench of the billowing gray clouds emanating from the ruined remains of its face.
+
+Calen railed futilely against the paralysis, watching the timer slowly ticking down, knowing precisely how lucky he had been. His only defense was the illusion of his Mirage Armor, and Ali’s thoughtfulness – everything else required him to be able to move. He winced inwardly as skin ruptured and spikes of malignant bone growth pierced outward, twisting his limbs into unnatural shapes. The ghoul drew back an arm and swung, but right before it connected, his paralysis dropped.
+
+In that instant, he stumbled backward with as much speed as he could muster, his legs not working quite right. Something snapped in his right leg, a sharp stab of pain causing him to collapse as the ghoul’s claws swept by less than an inch above his head. The Abyssal Stalker hissed, shooting webbing that tangled the Bone Ghoul’s limbs, slowing it down just a hair.
+
+Move! He poured his magic into Azrael’s Wings and took off, fleeing back down the path as fast as his twisted body could take him, his heart racing at the sound of thudding footsteps, groaning, and the sounds of Ali’s minions tangling with the rest of the pack.
+
+Malika walked along the path behind Mato, listening as Gara described the various troll bloodlines to her in broken common. It seemed that the Aman Rak trolls had a set of bloodlines that manifested along various affinities – most commonly, the blood and bone magic she seemed so proud of.
+
+She was just about to ask about the witch doctors, trolls who seemed to possess neither bone nor blood affinity, when she suddenly heard a rustling in the bushes, followed by a desperate shout that sounded like Calen’s voice.
+
+“Incoming! Ghouls!” he shouted, and burst into the clearing, flying hard on his distinctive wings of light. But there was something very wrong with him. His body seemed lumpy and twisted, and Malika knew he could fly far faster than that.
+
+Instantly on guard, she was already primed when something broke from the jungle beside her and swung a heavy clawed arm in her direction while a billowing cloud of gray miasma belched forth from its rotting mouth. Malika dodged easily, but the strike tore across Gara’s chest. The poor troll girl bounced off a tree, landing on the ground frozen in a rictus of pain as bone spikes erupted from her arms, back, and chest.
+
+Malika didn’t have even a moment to be horrified before her notification chime sounded.
+
+You have been infected by Bone Contagion.Your bones weaken and begin to grow with unbound malignant proliferation, inflicting grievous internal damage.+3 Bone damage per second.-10% to Movement speed.Vulnerability to critical strikes increased by 10%.Small chance per vitality point to recover from Bone Contagion.Disease – Count: 1.
+
+Pain seared through her body, disrupting her balance and the flow of her energy, and in that instant, she knew there was no way Gara could survive something so deadly.
+
+Your Bone Contagion has increased to 2.
+
+Reaching down, she scooped up the stricken low-level troll, pulsed Healing Mantra, and sprinted away, carrying her to relative safety behind Ali’s barrier, struggling to make Divine Step go faster with the steep movement penalty.
+
+“Disease,” she said as she landed beside Ali. “And… paralysis?” She hadn’t seen anything like it before, but all of Gara’s stamina seemed to be wound up tight and frozen in place. The little Kobold Acolyte immediately began healing her, but Malika knew it wouldn’t be enough – she was already healing her, but the troll was taking substantially more damage simply due to her lower level, and she had vastly less health with which to endure it.
+
+Malika flipped her awareness into her storage rings, hunting for something she had bought for emergencies, but hadn’t used since the Twin Wight battle had concluded.
+
+There. She retrieved the Elixir of Vitality Rejuvenation and forced the exorbitantly expensive concoction down Gara’s throat.
+
+“Can you look after her?” she asked.
+
+“I got it,” Ali answered, a barrier forming around the troll, still lying prone on the ground.
+
+Malika turned and charged back into battle where Mato was already tangling with five ghouls.
+
+“Bone Ghouls. The red one is a Blood Ghoul. All close to level sixty,” Calen announced, identifying their foes for her.
+
+The ghouls seemed unreasonably strong, their rotting arms and black, stained claws causing shuddering impacts on whatever they hit. They were recognizable as former trolls by the tusks, now blackened, protruding from their mouths, but the rotting flesh and the miasma they were emitting left no doubt that these were horrific undead raised from the bodies of proud Aman Rak warriors.
+
+Mato’s stamina was frozen, and he seemed locked in place by the ghouls tearing into him, but as she watched, he suddenly broke free, roaring to attract the rotting undead to him. His body twisted with a sickeningly loud crunching sound, and he launched himself into battle.
+
+Did he just shapeshift himself to crush the growing bone?
+
+Toxic clouds of gray miasma billowed from the mouths of the Bone Ghouls, but the Blood Ghoul in the middle was breathing something altogether worse – a red-tinged cloud that infected everything around it with bleeding sores that reminded Malika of the Blood Contagion the Vampiric Nightwing bat had brought. A contagion that propagated via proximity damage.
+
+We’re going to have to be very careful. Already, most of Ali’s minions were sprouting grotesque bone protrusions and leaking blood everywhere. “Watch out for that red cloud!”
+
+Malika waded back into the fight, healing everything she could reach, but the two shamans seemed to be doing an amazing job with the sheer amount of blood flowing on the battlefield. She unleashed her kicks and punches, focusing on the Blood Ghoul, dodging a bite and a claw swipe, but she was unable to avoid a strike from a different ghoul from behind her. The claws tore through her shirt, drawing blood from a painful set of parallel gashes.
+
+You have resisted Paralytic Touch.You have been infected with Blood Contagion.
+
+“Go,” Calen said.
+
+He sounded like he was in tremendous pain, choking on his words, but the Motes of Light flared powerfully in response to the magic of his Righteous Fury skill.
+
+“Bloodlust!” Ali commanded – a distinctly recognizable troll word that required no translation.
+
+As the rush of bloodlust surged through her body, Malika went all out, ignoring the crunching and snapping of bone from the malignant growth within her body, channeling her healing as she pushed her body beyond the limit of pain.
+
+You have been afflicted with Paralytic Touch.You have been infected with Bone Contagion.Your endurance has cured your Paralytic Touch.
+
+Even the half second of paralysis she had been forced to endure had allowed several ghoulish strikes to land, ripping through her body, and snapping her weakened bones. But the powerful blood magic of Ali’s shamans and her own Healing Mantra kept her alive while she was vulnerable, and then she struck again, sprinting off the air as fast as she could, hampered by the unnaturally sprouting bone within her muscles.
+
+The sudden enormous burst of damage from the combination of Bloodlust and Calen’s Righteous Fury enhanced Motes of Light burst the Blood Ghoul like a ripe melon.
+
+“This one next,” Malika said, automatically taking the role of focusing the team on one enemy.
+
+By the time the last ghoul finally dropped, she had four counts of the Bone Contagion, and five counts of the Blood Contagion running simultaneously. She didn’t have Mato’s ridiculous vitality to combat the disease, so she moved apart from the others to try and mitigate the area damage.
+
+“Let me tree up,” Mato said, beginning his shift to the form that allowed him to cure diseases and corruption with the same Vitality Rejuvenation magic that was used to make the elixir she had fed to Gara.
+
+Limping over to Ali as Mato’s aura began to wash over her, she found Gara still lying on the ground, but thankfully alive and now looking around. “You survived.”
+
+“I did. Thank you.”
+
+Malika regarded the openly crestfallen young Troll. In her best Trollish, she said, “Even the ant bites. You will grow. Grow strong. Then…” Her lips curved into a wicked grin, and she smacked her right fist against her palm. “Agreed?”
+
+Gara’s lips curved away from her tusks. “This ant will bite!”
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

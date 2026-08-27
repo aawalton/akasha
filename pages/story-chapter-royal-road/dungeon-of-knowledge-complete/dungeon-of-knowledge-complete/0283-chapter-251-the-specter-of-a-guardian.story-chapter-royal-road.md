@@ -1,0 +1,125 @@
+---
+id: a4a10c14-97ae-5096-bd41-3d5f01485ac7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 251: The Specter of a Guardian"
+slug: 0283-chapter-251-the-specter-of-a-guardian
+partOf: dungeon-of-knowledge-complete
+position: 283
+ownLength: 2030
+unit: words
+ownProgress: 2030
+publishedAt: 2025-05-17
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2286243/chapter-251-the-specter-of-a-guardian"
+royalRoadId: "2286243"
+markedReadAt: "2026-06-29T20:20:49.646Z"
+---
+
+Seth studied the giant monster grown from living wood and bark, slowly meandering on its long patrol around the shrine grove, creating a broad swathe of wildflowers and mushrooms wherever it wandered. He had seen this boss several times, and it had always felt so powerful, and so far off – but here he was, with an army of wolf skeletons and zombie bats, facing it for the first time.
+
+“Everyone ready?” Aiden asked.
+
+“Ready,” Seth said. I’d better be ready, after all that. The entire raid group had taken an enormous detour earlier to wipe out the easier Timber Wolf and Storm Shaman bosses, just to give him the opportunity to replenish his undead army with goblins, wolves and the larger bats that inhabited that area. After having everyone go so far out of their way for his benefit, he couldn’t afford to mess up. No. I am ready. He rolled his shoulders, feeling several snaps and pops from his tense muscles.
+
+“Remember, we want to hit forty so we can go face that slime boss with new skills,” Aiden continued. “But safety comes first, we haven’t fought this boss before, but we know some of the strategies. Make sure you get your elixir from Basil so that you don’t get knocked out.”
+
+Seth checked his storage one more time, making sure he knew where his recall potion was, and where his elixir was.
+
+“Ok, Havok, Seth – when you guys are ready,” Aiden said.
+
+“Havok good,” the Goblin said, nodding his head up and down enthusiastically.
+
+“I’m ready,” Seth echoed, walking with Havok to the small open space, soon to become their battlefield, with his army clacking along behind him. The ground shook. It shivered beneath his feet again and again as the giant elemental’s legs struck the ground one at a time, drawing it further and further into the clearing.
+
+“Havok, go!” Aiden shouted.
+
+The Goblin lit up with intense holy light and charged off, leaving a trail of holy fire consecrating the ground behind him. There was an enormous crack as his holy shield slapped the elemental and it raised its head with a fearsome, tree-shaking roar.
+
+But Seth was too busy to be scared. All his skeletons charged down after Havok, arriving at the scene just a little after the Goblin who was now furiously engaged with the giant, immensely powerful behemoth of wood. But Seth’s job was different. He directed his minions to attack all the Spore Spreaders and Floral Menaces that followed the Forest Guardian around, each one getting the attentions of two or three skeletal wolves, and then he began to move, slowly dragging them to the side. His job was to take care of the minions, but he wasn’t about to ignore the main fight.
+
+With a thought, he cursed the Forest Guardian with Life Tap, granting a little extra healing to each person who hit it, and then proceeded to curse each of the boss’s minions with Amplify Damage. His skeletons wouldn’t need life.
+
+He was backing away, keeping his distance, when suddenly a giant explosion of petals filled the air, obscuring all his skeletons. Immediately, he switched to Eyes of the Damned, seeing through his minions instead. First, one, and then the second Spore Spreader planted themselves, summoning mushrooms that exploded in great clouds of spores, entirely hidden within the petals. But Seth was too far away for it to matter, and undead were immune to sleep.
+
+That should be far enough, Seth thought, tuning out the main battle for now. Nobody had been hit by the clouds as Havok had pulled the Forest Guardian in the opposite direction, splitting them further, and out of range of the regeneration aura it supposedly had. Which means…
+
+He cast Volatile Wraith – a skill that had leveled substantially from extensive use. The volatile undead spirit shot out into the cloud of petals, biting whatever lived, and then it detonated in a devastating explosion of death magic, amplified by his curse. He felt the familiar rush of life drain returning health to himself, and simultaneously the explosion healed his skeletons. He cast Volatile Wraith again, and again – a shrieking storm – until the Floral Menaces and Spore Spreaders all collapsed.
+
+“Attack,” he commanded, sending his skeletons charging down to engage the Forest Guardian. Roots and vines sprang from the ground all around the giant monster, reaching to grapple his minions, but Teagan thankfully held them at bay with a single Free Action totem.
+
+“Bats!” Kaitlyn called out, sending arrows arcing skyward.
+
+“Go,” Seth commanded, directing his bats to join in the fight, and then he fired off a Volatile Wraith. So high in the sky his wraith would not hurt his team, but they would heal his zombie bats from Kaitlyn’s devastating lightning arrows. Carefully, he cursed each bat with Amplify Damage, making them drop much quicker.
+
+“I’m keeping up with Havok’s health,” Teagan called over. “You can switch curses.”
+
+“Ok,” Seth said, and with a thought, he swapped his curse on the Forest Guardian with Amplify Damage.
+
+“Oh yes!” Devan exclaimed, burning several cooldowns and quaffing a damage-enhancing potion.
+
+Damage freak, he thought. He would never tell her that, but the others most certainly teased her about it. But he knew she loved his Amplify Damage.
+
+***
+
+The fight took a long time, but Teagan kept reassuring them they were making steady progress. Halfway through the battle, Basil got really busy making more mana potions for everyone who had miscalculated and run out. But eventually, his chime sounded.
+
+Your group has defeated Forest Guardian – Wood Elemental – level 40.Undead Commander has reached level 41 (+4).+40 attribute points.
+
+Oh yes, I got four levels! He sat down right there on the grassy hill and scrolled quickly past the skill notifications. He would study them in detail later, but he wanted to see what he had unlocked.
+
+“Holy shit! Is this magicite?” Braden yelled out across the grove. “Look how big it is!”
+
+“The boss dropped three Living Essence!” Devan yelled back excitedly.
+
+But Seth ignored them; loot could also wait for later.
+
+Class skill slot unlocked.New skills are available for Undead Commander. New skill unlocked. Class level has reached 40.Possess an affinity for Death magic.Intelligence has surpassed 200.Sacrificed a minion to regain health. Healed yourself with Life Drain.Grave PactHealth: Create a shield of death magic around you, protecting you against damage proportional to the amount of health spent, skill level, and intelligence.Death, Defense, Intelligence. New skill unlocked.Class level has reached 40.Mentor: Aliandra Amariel.Defeated a raid boss with minions.Successfully tanked with your skeletons. Intelligence has surpassed 200.You have studied a Ghoul.Raise GhoulRequires: Humanoid corpse.Mana: Summon a ghoul minion. You may summon up to 1 [1 + skill / 4] ghouls. Ghouls inflict the Paralytic Touch curse and a type-specific contagion. Reserve: by level.Death, Minion, IntelligenceNew skill unlocked.Class level has reached 40.Mentor: Aliandra Amariel.Defeat a raid boss with minions.Successfully destroy raid minions with an incorporeal undead. Intelligence has surpassed 200.You have studied a Specter.Raise SpecterRequires: Corpse.Mana: Summon a specter minion. You may summon up to 1 [1 + skill / 20] specters. Specters are incorporeal and retain the class they had in life. Reserve: by level.Death, Minion, Intelligence
+
+Specters! Seth had been filled with hope ever since Ali had shown him the troll specter, but he knew it was by no means a given that he would get it. It was a skill he had even seen Alexander Gray wield. He had tried to downplay his eagerness to earn the skill, but now that it was here, his excitement rose, rushing through his body. It wasn’t even a choice, Grave Pact and Raise Ghoul were both good, and he might make the decision to make space for them by discarding another skill, but he immediately chose Raise Specter.
+
+“Can I have that, please?” he asked, pointing at the giant corpse of the Forest Guardian.
+
+“Sure, I don’t see why not,” Aiden said.
+
+“What do you want it for?” Teagan asked.
+
+He smiled and cast Raise Specter. The corpse of the Forest Guardian was suddenly suffused with an ethereal ghostly light, and something huge rose from the corpse.
+
+“Come,” he commanded. Even though he was expecting it, the sight of the giant specter of the Forest Guardian stepping out of its corpse and passing right through the body as it walked over to him made his heart race. Now this is something!
+
+“Holy shit, Seth!” Aiden exclaimed, wide-eyed in shock.
+
+Forest Guardian Specter – Undead Wood Elemental – level 40.Your reserved mana has increased by 291.
+
+Oh wow, that’s expensive! But just looking at the massive monster, he knew it would be worth it. Eager to figure out what he had earned, he opened his specter’s class sheet and began to study its skills and aptitudes.
+
+Ali’s notifications chimed the end of another tough battle.
+
+Your group has defeated Blood Berserker – Giant Troll – level 97 (Blood)Your group has defeated Blood Shaman – Troll – level 78-79 (Blood) x2Your group has defeated Bone Warrior – Troll – level 68-75 x4
+
+“Next time, let’s try not to fight so close to the Grim Totem,” Ali said as she surveyed the wreckage of the small troll dwelling and the clearing it had been built in. The mana flowing out from the gruesome construct of bone and blood-drenched moss had been doing something to the dungeon trolls. She just had no idea what.
+
+The results spoke for themselves though – they had won, but barely. Once again, most of her melee minions lay dead in great pools of blood. The berserker troll had not held back in her efforts to destroy Mato, cleaving through the huts, trees, and Ali’s minions with her greataxes like they were nothing more than paper and twigs.
+
+Ali’s chime had sounded earlier, informing her that she had leveled up, so she glanced over the notifications. Fighting the giant berserkers seemed incredibly rewarding – presumably a direct consequence of just how dangerous they were.
+
+Grove Warden has reached level 85.+10 attribute points.Arcane Insight has reached level 47.Arcane Recall has reached level 16.Barrier has reached level 56 (+2).Martial Insight has reached level 56 (+2).Empowered Summoner has reached level 43.Identify has reached level 19.
+
+Neat, but these levels are definitely getting more expensive. Ali quickly spent two points on perception, and four each on intelligence and wisdom.
+
+It had been touch-and-go near the end, the female berserker troll no less powerful than her male counterparts, and perhaps a little more cunning. Maybe that’s what the dungeon is doing with the totems, she thought. The common theme seemed to be that the trolls around the totem were more deceptive in combat and trickier to fight – occasionally they shouted annoying rhymes, and most of her trollish minions would become unruly and harder to control – but it was hard to quantify, and Ali couldn’t tell if it wasn’t entirely in her head.
+
+Regardless of what had happened, she needed the Grim Totem to be gone – and, by the scowl on Malika’s face, she wasn’t the only one thinking it. So, she flew over to it and deconstructed it, and all the plants that had been growing on it, and, as soon as it vanished, the strange knots in the domain mana began to dissipate, and she sighed away her unease and immediately her chime sounded again. Ali checked the message.
+
+Your Forest Guardian has been defeated.
+
+This time, at least, the notification from back home was not a big surprise. During the fight, she had sensed her Forest Guardian under attack back near the shrine, but aside from quickly verifying that it was Aiden and Teagan’s raid group, she had not devoted much attention to it. But now, having seen the notification, she quickly checked in, finding the group tired but happy, sitting beside the corpse of her second-ever raid boss. As she watched, Seth got up and did something to the corpse, and then to her astonishment, a ghostly apparition rose from the fallen Forest Guardian.
+
+So those troll specters came in handy after all. Good job, Seth!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

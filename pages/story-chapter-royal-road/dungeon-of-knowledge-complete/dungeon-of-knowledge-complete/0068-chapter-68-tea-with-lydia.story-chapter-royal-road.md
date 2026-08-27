@@ -1,0 +1,259 @@
+---
+id: 1771b70d-431b-5a74-b01d-79b981a9c162
+page-type-slug: story-chapter-royal-road
+title: "Chapter 68: Tea with Lydia"
+slug: 0068-chapter-68-tea-with-lydia
+partOf: dungeon-of-knowledge-complete
+position: 68
+ownLength: 4391
+unit: words
+ownProgress: 4391
+publishedAt: 2024-05-05
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1624388/chapter-68-tea-with-lydia"
+royalRoadId: "1624388"
+markedReadAt: "2026-06-29T20:13:12.141Z"
+---
+
+Ali walked up Artisan’s Row by herself, enjoying the bright afternoon sunshine and the busy sidewalks as people went about their business. She was the subject of a few strange looks, walking with her Kobold Acolyte in tow, but familiars and pets were quite common on the streets of Myrin’s Keep, so nobody made a fuss.
+
+It probably doesn’t hurt that she identifies as an Acolyte, Ali thought. She imagined it would be hard for the townsfolk to feel threatened by a healer dressed in pristine white robes, even if it was a Kobold and higher level than many of them would be able to accurately identify.
+
+Calen had warned her about the dangers of walking in this area after dark and she could certainly see why – but her request for Lydia shouldn’t take long and she had no intention of staying out late enough for it to become an issue. Even though the street was bustling with business and trade – people rushing about on errands and such – she could still see the signs of arson and crime in the abandoned, gutted buildings here and there, and boarded-up windows belonging to otherwise busy stores. There seemed to be a furtive urgency, an edge, to most of the townsfolk, as if they were eager to complete their errands before something bad came along.
+
+When she finally reached the quaint storefront with the elegant sign, Ali noticed that Lydia had found the time to have the upper floor repainted, lending the store a much more presentable face.
+
+She pushed on the door to Lydia’s Allure, opening it to the pretty chiming of the entryway sound enchantment. Much to her surprise, the store was busy, with Lydia attending to several customers who were standing around in outfits of varying stages of completion. Lydia was fussing over a girl who looked like she was from a noble family. At least, the presence of someone who seemed to be a maid or assistant attending to her indicated a level of social status Ali wasn’t quite used to.
+
+“Hi Aliandra, I’ll be with you in a few minutes,” Lydia called out without looking up from her work.
+
+“Thank you,” Ali answered. She moved to a spot to one side beside a couple of well-dressed mannequins, allowing her eyes to feast on the delicate tracery of mana on display as Lydia wielded her skills. She hadn’t studied crafters’ skills and magic much. From what she could tell, there didn’t seem to be a whole lot of difference between some of them, and combat spells – at least by mana construction. Much of what Lydia was doing appeared to be some kind of perception skill – at least there was a lot of magical energy centered on her eyes as she worked – but there were also subtle flickers and wisps of mana around her fingers and the needle she wielded with such uncanny deftness and speed.
+
+“So, Lydia dear, did you hear about that nasty business the other day?”
+
+The well-dressed woman who spoke sat primly upright in a large brown leather-covered chair surveying the work. She spoke with an affected high-class accent and Ali assumed she was the girl’s mother, judging by the similarities in their eyes and cheekbones. The strong scent of an expensive rose oil infusion wafted out from their direction.
+
+“Which business would that be, my lady?” Lydia asked respectfully, confirming Ali’s guess that they were some kind of nobility or well-to-do.
+
+“It seems that some ruffians killed two of the Town Watch down near the market. I was horrified!”
+
+“That sounds awful,” Lydia answered, her fingers flickering with speed as she sewed a seam. Ali blinked. Those stitches were so fine and precise, it almost looked like the seam chose to weave itself together.
+
+“Yes, Adrik and Edrik. Nice young lads. Who is going to keep this town safe now that people are killing the Watch left and right?”
+
+Ali clenched her jaw. Nice young men? They had been looting the alchemy shop while the owner, Morwynne, bled out on the street.
+
+“That’s horrible, your family must be so scared,” Lydia answered, finishing up a few more trims.
+
+“I know, I was just telling my sister-in-law, Agnes, I’m not sure we can stay here in Myrin’s Keep anymore. It’s too dangerous. What happens if Cordelia gets attacked at school by these ruffians? It’s just lawless out there! Don’t tell anyone I said this, but we’ve been thinking of moving back to the capital.”
+
+Ali just stood in stunned silence, listening to the misguided discussion, her pulse throbbing in her temples. Calen had mentioned several times that Adrik and Edrik had visited this very store, in their usual aggressive fashion. How is Lydia agreeing with this out-of-touch noblewoman? Ali just couldn’t fathom it. I thought I was the meek one!
+
+Lydia nodded. “I hear Southport is beautiful at this time of year. There, is that how you wanted it?” She gestured to the outfit the girl was wearing. “Turn around Cordelia and show your mother the back.”
+
+The girl took a few turns while everyone watched.
+
+“Oh, my, that is perfect!” The mother exclaimed. “Lydia, your work is exquisite! I will miss you in Southport.”
+
+Ali dropped into a chair, fuming, while Lydia settled up and finished with the last few waiting customers.
+
+Finally, Lydia turned to her and said, “Sorry about that, it got really busy. How can I help you, Aliandra?”
+
+“What was that about? Don’t you know how horrible Adrik and Edrik were?” Ali said, her voice perhaps a little louder than was polite. It was really none of her business, but the conversation had really rankled her. She had put her life on the line and saved Morwynne and helped put an end to Malika’s misery at the hands of those two. Her business or not, she simply couldn’t abide listening to them talking about it like she was the criminal.
+
+“I see,” Lydia said, pressing her lips together. “Would you like some tea? I want some tea.”
+
+Ali stared at her, nonplussed. The drastic change of subject took her completely by surprise, and without waiting for an answer Lydia vanished into a back room, emerging with a steaming teapot and an elaborately carved dark wooden tea caddy. The silence as Lydia selected the tea leaves and set them to steeping didn’t seem to bother the woman in the slightest. It was only when the aromatic scent of brewing tea reached Ali’s nostrils that the tailor looked up at her.
+
+“I had heard that two girls from the Adventurers Guild had killed Adrik and Edrik. Not a lot of possibilities there, it was you and Malika, wasn’t it?” she asked.
+
+“Yes,” Ali said, defiantly meeting her gaze. “But…”
+
+“Thank you.”
+
+Lydia’s interruption left her speechless, struggling to find the right words, all her carefully prepared rebuttals collapsing like a precarious pile of wood under a stiff breeze.
+
+“Look, Aliandra, that lady is a noble. The Town Watch doesn’t beat up nobles, so she has no idea what is really going on here in Myrin’s Keep. Especially not with their blue-eyed darling hero, Roderik Icecrown, waxing poetic about the gallantry of the Watch at every noble gathering.” Lydia’s eyes were hard as she reached over to begin pouring tea into two small white porcelain cups adorned with delicately hand-painted pink cherry blossoms.
+
+“Those two beat me up simply because they could. I had already paid them, but they weren’t entertained enough, I suppose. I had to wait for Calen to come home so he could carry me to the temple for healing. Most of this town is grateful to you for ridding us of those two sadistic bastards. I am personally grateful.”
+
+“But then… why?” Ali said, not quite following the sudden reversal.
+
+“The nobles? They are my customers. If I try to correct their preconceived ideas, I might be successful at changing their minds. Most likely not. But I wouldn’t get their business either way. It’s better to let them talk and make their clothes and let them be on their way.”
+
+“I don’t know how you do that,” Ali finally conceded. “I would be so upset with them.” She took a sip from her cup, finding the aroma to be surprisingly relaxing.
+
+“I know, I do get upset. I’ve just learned to hide it. I’m sure a better person would be able to do something about it, but I have bills to pay, and even though Adrik and Edrik are gone, the Town Watch will still collect their protection money as long as Kieran Mori is at the helm.”
+
+Fair enough. Those thugs must have had a master. Ali took note of the name, one Malika had discussed a number of times before. The spear rogue responsible for tossing her and Mato down into the ruins.
+
+Lydia took a deep breath and smiled. “Speaking of business, I wanted to thank you, and Malika in particular, for what you did at Laurel’s Café. My store has become an overnight sensation ever since you went there. I heard some of the stories via the grapevine. People were raving about these important folk from out of town that paid a gold for lunch without thinking and had shopped at my store.” She chuckled as if the previous topic had already been forgotten.
+
+Ali smiled. “That was Malika’s idea. I would have saved the change to give back to you.”
+
+“Smart girl, that. I’ve made that gold back many times over already,” Lydia smiled. Then she gazed at Ali over her teacup for a moment and asked, “So, what happened yesterday?”
+
+“What do you mean?”
+
+“I gained two levels out of the blue. My regular clientele never does anything risky if they can help it. It should take me many months or even a year to gain a level, let alone two. It had to have been you. You’re wearing my only piece of combat armor. You did something, didn’t you?”
+
+Ali identified her.
+
+Tailor – Human – level ??
+
+Still too high.
+
+“We defeated a level thirty-seven raid boss in a dungeon deep beneath Myrin’s Keep. It would have been early evening I think,” Ali admitted.
+
+“Well, that explains it,” Lydia said, her lips pursed as she took a thoughtful sip of her tea. “I’ve never leveled so fast in my life – thank you! I hope it wasn’t too dangerous?”
+
+“It was pretty bad, but we made it.”
+
+Lydia had explained her mana signature and the way it allowed the wearer of her work to ‘tithe’ extra experience to the crafter, but Ali had not expected it to have such a dramatic effect. According to the enchantment, Ali had been awarded extra experience in the encounter with the Skeletal Wyvern, and the excess had been given to Lydia, proportional to the value her armor had provided. It seemed that it was related to exposure to risk, not necessarily from being hit, otherwise Mato would be getting all the experience.
+
+“Anyway, I assume you want to update your armor, seeing as you leveled a lot?” Lydia asked, her eyes sparkling with interest.
+
+“Mmm, yes, please. I also had a few questions for you,” Ali said, moving on to the reason she had sought Lydia out. “I found these in the dungeon. I was wondering if you could duplicate the enchantments for me?” She was restricted to whatever had been inscribed in her Grimoire, and now that she had a wider variety of minions, Ali was beginning to see the potential value of custom crafting.
+
+Ali retrieved a few Simple Robes she had learned to make from the higher-level Bone Mages and Acolytes they had encountered in the library. “I’m particularly interested in this healing power enchantment,” Ali added, pointing to her Kobold Acolyte standing next to the wall nearby. “This is one of my summoned creatures. If you can make gear with this enchantment, I’d like to equip my monsters too.” Ali wasn’t sure how tithing experience through the mana signature would work when used on a minion, but it wouldn’t hurt to try.
+
+“I’m sorry, I can’t make any adventurer enchantments yet,” Lydia answered, handing the robe back, with an apologetic frown on her face.
+
+“What would it take to learn it?” Ali asked.
+
+“Normally, training at the Guild of Tailors. Or perhaps a book, but neither of those two options are available to me,” she said.
+
+“Is that the only way?”
+
+“Well, it’s theoretically possible to learn enchantments by studying the item, but the process will destroy it. Also, it will undoubtedly take several tries before I’d be successful, which is why it’s rarely done that way; nobody wants to give up a decent or expensive item to a process like that.”
+
+“How many?”
+
+Lydia glanced at her with a confused expression flickering across her face. “How many what?”
+
+“How many robes do you need to learn the enchant?”
+
+“I don’t know, I’ve never tried it before. Maybe a couple?”
+
+Ali retrieved two more of the robes and put them in a pile on the table, next to the tea. “Let me know if you need more.”
+
+“Are you sure? You can probably sell these for a lot of money.” Lydia seemed quite surprised by Ali’s request, and her insistence.
+
+Even though there was nobody else in the store, Ali lowered her voice. “I can duplicate items if I have enough of them to learn from. I can make as many of these as you need. It just takes time and mana.”
+
+It’s intriguing that we both need to destroy several items before we can learn something. Does that mean my Grimoire of Summoning is actually a crafter skill?
+
+Lydia nodded, now seeming more sure of herself. “Ok, I’ll study them and see what I can learn.” She straightened the pile of robes and put them on the desk. “Please don’t share that we’re doing this too widely. I’d like to avoid the attention of the Guild of Tailors.”
+
+“Ok. One more thing,” Ali added. “Can I commission a couple more sets of your cloth armor? A few in her size,” Ali pointed to her Kobold. “And a higher-level one for me, if possible. Oh, and I have money this time, so I can pay for your work properly.”
+
+“Definitely,” Lydia answered, quickly measuring the Kobold, and jotting down a few notes with an elaborate quill pen. “Is tomorrow ok? I have quite a few orders to work on.”
+
+“That’s perfect,” Ali answered. Thanking her, she took her leave and headed back to meet the others.
+
+We can do all the quests and then I can pick up the items tomorrow.
+
+***
+
+Having met up with Calen and the others at the guild as agreed, they followed him as he led them across town to the outskirts of the Western Quarter. It seemed to be a quieter neighborhood, without much of the bustle and business that was common nearer to the center of town.
+
+The house itself was recessed quite far from the street, and the golden late afternoon sunlight highlighted a lush and dense garden full of trees, well-tended bushes, and a soft trickle of water. There was a low wooden fence with a small gate, upon which an elegantly painted sign read: Eliyen’s Herbs and Essences. The fence and the sign were grown through with climbing roses blooming in delicate shades of red and pink, looking for all the world like they had chosen to grow in a way that didn’t obscure the sign, rather than having needed to be trimmed back.
+
+Ali entered through the gate and found herself on a narrow path of moss-wreathed flat brown stones meandering through the garden, curling lazily around trees and bushes, and even a small waterfall with a pond that tinkled merrily. Every open space was covered with a tiny herb, shrub, or flower, filling the air with a complex medley of aromas and scents. Everything seemed to just grow haphazardly like it had simply been tossed into the air and grew wherever it landed. And yet, the master planner’s intent came through clearly as every bush and flower conspired to create a harmonious whole.
+
+“Are you getting some ideas for your forest?” Mato asked, his voice and broad grin breaking her entranced spell.
+
+I was staring. Ali realized that she had been so taken by the garden that she had even stopped walking. A little embarrassed by her distraction, she resumed heading down the path.
+
+“It’s really beautiful,” she admitted.
+
+“Yes, whoever made this is extraordinarily skilled. As far as I can tell, every plant here is useful for some tincture or potion. Or cooking.” He pointed out a few herbs he had noticed as they passed. At least half the plants Ali could see had some kind of mana affinity, and even those seemed to blend elegantly.
+
+The house itself was covered with climbing roses and a wisteria grew across the wooden doorway providing a beautiful purple archway. An elegantly handwritten sign – in both Common and the flowing script of Elvish – hung on the door: Open: please come in.
+
+As Ali opened the door, a soft rush of wind set a cluster of chimes to ringing delicately in the open room. The wind was clearly magical, but the chimes were simply delicately crafted metal tubes, hanging from a string. It was like stepping into a greenhouse, the room was filled with planters across the windows and attached to the walls where others might have installed decorations and shelves. Hanging from the ceiling were more plants and every open space had pots growing something. The lush growth filled the room with an invigorating verdant scent and the soft perfume of flowers.
+
+In the far corner of the room stood a spry Elf, tending to an unusually blue fern with a watering can. Her skin had the same green hue as many of the plants, and her long hair spilled in a soft wave of grayish silver down her back. Her dress seemed to be made entirely from living leaves and rustled softly as she moved about. She glanced up as they entered.
+
+Herbalist – Wood Elf – level ?? (Nature)
+
+It was odd seeing a Wood Elf in a Human town, but Ali presumed customs must have changed remarkably in the many intervening years since she had last seen one of their kind. The fact that she identified as using nature affinity magic was no surprise at all. Wood Elves had always had a strong cultural connection to forests, trees, and nature in general.
+
+At least it used to be. Ali had to keep reminding herself that many things had changed from what she remembered.
+
+“We’re looking for Eliyen Mistwood,” Ali said, addressing the Elf with the traditional bow that was customary in her time.
+
+“I am Eliyen.” Her voice had a soft quality that seemed to linger in the air after she had spoken. The plants seemed to rustle and shift throughout the room, as if eager to catch the remnants of her voice with their leaves.
+
+“Your garden is beautiful,” Ali said retrieving the quest posting she had taken from the guild board.
+
+“Thank you, dear,” Eliyen smiled at her.
+
+“We saw this quest at the Adventurers Guild and thought we might be able to help.” Ali handed her the script.
+
+“Aah, yes, thanks for taking our request,” Eliyen said, handing the quest notice back to Ali. “Basil will go with you to harvest the mushrooms – all you need to do is protect him from the Kobolds in the area.” She turned away and called out toward a back room, “Basil, customers!”
+
+“I’m coming.” There was a hurried scurrying sound from the back room, and a thump before a studious-looking, flustered young man appeared in the doorway with a surprised look on his face.
+
+“You’re her! Aliandra!”
+
+Ali immediately recognized Basil. He looked more serious and studious in the light when he was not terrified and fleeing from Goblins. Ali cast Identify.
+
+Human
+
+He still identified as being without a class, but he seemed old enough. He must be approaching his class unlock soon, surely?
+
+“Basil, you’re forgetting your manners,” the Elf chided softly, a hint of a smile on her face. “These people are here for your Stonecap gathering.”
+
+“S… sorry.” Basil shifted awkwardly, clearly fighting a rising flush in his face. Collecting himself a little he added, “Thanks for saving me the other day.”
+
+“You’re welcome, Basil, it’s good to see you again.” Ali smiled at him, and she could tell when he began to relax. “What can you tell us about these mushrooms you need?”
+
+“Yes. The mushrooms.” His confidence reemerged now that he was on familiar ground. “Stonecaps are an earth affinity mushroom. We use them to make armor potions. Since the Goblin war, demand has been high, and we’ve already run out of Stonecap essence. Normally Eliyen sends me to these caves in the mountains north of the farmland to gather them, but there have been lots of reports of Kobolds having moved into the area.”
+
+Ali winced inwardly but gave an encouraging nod.
+
+He added, “The ones we are after are brown and grow underground, directly on rock. I usually just wander the caves and collect about ten mushrooms. They go quite a long way. Here, this is what the essence looks like.” He pulled out a large vial with a small amount of a tar-like black substance collected into a blob at the bottom. “The extraction process uses a complicated, three-stage Glumnur-keyed filtration mechanism –” he caught Eliyen’s slight smile “– ah, well, I suppose you don’t care about the details that much.”
+
+Ali enjoyed hearing him ramble on about the mushrooms, even though he was clearly sharing the information because he enjoyed talking about it, rather than focusing on what they would need to complete the request.
+
+Mato shifted, transforming into his Wolf Form, startling Basil. He sniffed at the Stonecap essence vial before transforming back. “It has an earthy scent,” he said. “I think I will be able to help search for them when we get there.”
+
+“Sorry to make you all fight the Kobolds so I can collect mushrooms,” Basil apologized.
+
+“It’s ok,” Ali answered. “We got a request from the farmers to take care of the Kobolds anyway, so it will be good for everyone. How about we meet at the city gate in an hour? I have a few things I need to prepare before we can head out.” Ali wanted to collect her minions and find a way to smuggle them through the city without causing too much alarm. One Kobold healer had attracted quite a lot of attention: she was more than a little concerned about the reaction she would get walking through the town at the head of a small army.
+
+Probably I can use the hole Seri and I made…
+
+It was on the way back to the guild that she recognized him. Malika had been walking along with her friends, idly listening to Mato’s latest story and just enjoying their company, when the well-dressed merchant emerged from the storefront of a small-time commodity trader right across the street. She couldn’t help but notice the very same merchant she had pickpocketed to afford her shrine fee the day she had taken her first steps to sever her ties to the Town Watch and Jax Hawkhurst’s criminal empire. It was the sharp pang of guilt in her heart that did it.
+
+He no longer wore a visible money pouch, and there was a brand-new, expensive-looking ring on his finger that had not been there before.
+
+“Give me a moment,” Malika blurted out, eliciting a cascade of surprised looks from her friends and she dashed over to intercept him before he vanished into the bustling crowd.
+
+“Excuse me,” she said, as she approached. He turned his head sharply, regarding her with a guarded look.
+
+“What is it?”
+
+“You probably don’t remember me,” Malika said, and then took a deep breath, committing herself to what she had to do. “My name is Malika. I stole two large silver pieces from you at the class advancement ceremony in the Town Hall. I didn’t have the money to pay for the shrine, then, and I thought… well… I wanted to apologize and return your money.” She retrieved two large silver pieces from her ring and offered them to the merchant.
+
+The man glowered at her admission, a red flush of anger flooding his cheeks, but right as he was about to say something he paused. “Wait… you’re her!” he exclaimed, his face suddenly flipping to an expression of surprise. His hand paused a few inches above the coins offered on her palm.
+
+He’s going to call the Watch. It was a normal reaction, she supposed, considering she had just admitted to a crime. Why couldn’t you just keep your mouth shut, Malika? And yet, she had felt guilty enough about robbing him that she had felt compelled to say something.
+
+“Thank you,” he said, his hand falling back to his side.
+
+“I’m sorry, what?” Why is he thanking me for robbing him?
+
+“Your name is Malika? You and your friend were the ones to help the alchemist?” He moved closer and whispered, “You killed Adrik and Edrik?”
+
+“We… did,” she admitted, still confused by the man’s unexpected response.
+
+“Well, thank you both. I can sleep easier at night now that I don’t have to worry about a visit from those two. Please keep the coins – that way I can tell all my friends I helped you get started! They’re going to be so jealous.” He grinned broadly and winked at her and then walked off, leaving her staring after him in surprise.
+
+“Can you imagine being so awful that an entire town is happy you’re gone?” Mato asked soberly, as her friends joined her on the sidewalk.
+
+Malika grimaced. “Tell me about it.”
+
+From her other side, Calen put in quietly, “It’s good to take out the trash, Malika, but even better not to return to pick it over later.”
+
+Startled, she considered his words for a moment before recognizing their wisdom. They really are gone forever. “Thanks, Calen.”

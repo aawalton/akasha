@@ -1,0 +1,257 @@
+---
+id: 6cd57a6c-10cc-5241-ac18-6bef1c7500df
+page-type-slug: story-chapter-royal-road
+title: "Chapter 100: Brawlers"
+slug: 0101-chapter-100-brawlers
+partOf: dungeon-of-knowledge-complete
+position: 101
+ownLength: 5279
+unit: words
+ownProgress: 5279
+publishedAt: 2024-07-18
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1722490/chapter-100-brawlers"
+royalRoadId: "1722490"
+markedReadAt: "2026-06-29T20:14:22.683Z"
+---
+
+Dexterity is the attribute most associated with rogues and archers. However, it is worth considering how the attribute functions to correctly prioritize it for your class.
+
+Dexterity is often called agility, reflexes, or speed and can be said to represent all these qualities. If your class skills are based on the precise placement of your strike, such as an archer, rogue, or monk, then dexterity is a critically important attribute. It will increase your reflexes, critical damage chance with physical attacks, and speed. This makes it essential to dodging, outrunning your opponent, and generally reacting to faster enemies. What is most poorly understood is that dexterity also increases the reaction speed of a mage. So combat mages that are physically reactive in their style would also benefit from some investment in dexterity.
+
+- Excerpt from The Adventurer’s Guide, Third Edition
+
+Ali kept her eyes and her mana sight peeled for signs of any more Forest Guardians, but it was hard to make out anything against the riotous storm of chaotic ambient mana that billowed up out of the dense jungle.
+
+This lowest level of Dal’mohra had once been flush with fields and orchards, producing a wealth of food to supply the city and its surroundings. Given the thousands of years that had passed, she had expected the nature and light mana orbs and enchantments sustaining the farmland to have failed, leaving an area dead and dark, much like the cavern in which she had awoken. However, it was anything but.
+
+The floating orbs of light were long gone, but it was not dark. The jungle itself glowed.
+
+“Why is it so bright down here?” Malika asked.
+
+“The mana is so dense that it’s glowing,” Ali answered. And that was not all. Everywhere she looked there were crawling creatures or flying insects – and the vast majority of them shone with radiant white or yellow light, or glowed with deep viridian green, chartreuse, or various shades of jade.
+
+“I can’t see much of anything through this,” Calen groused.
+
+Indeed, the density of the gnarled trees, draped with heavy layers of vines, moss, and all sorts of aerial plants made searching for more Forest Guardians nearly impossible.
+
+Up ahead, Mato chuffed softly and slashed his claws across the trunk of an old oak, a variety Ali did not recognize.
+
+“Thanks, Mato,” she smiled, flying up to the tree and deconstructing it before they pushed onward through the brush.
+
+“Wait Mato, monsters,” Calen said.
+
+Ali froze, scanning the bushes and vines for whatever Calen had seen. He pointed, and through the branches she found herself squinting at something emitting an incredible radiance, far brighter than even the forest itself.
+
+Radiant Brawler – Elemental – level 35-37 (Light) x2.Luminous Slime – Ooze – level 24-25 (Light) x2.Sparkling Ooze – level 34-37 (Light) x3.
+
+Oh, that’s new!
+
+Malika squinted, trying to make out the shape of the monsters prowling among the trees up ahead. They had been following Calen’s lead for only a few minutes through the muggy jungle before they had found trouble. It was hard to miss the intense blue-white light the pair of monsters were radiating, casting sharp moving shadows of trees and undergrowth as they slowly paced. They looked like some kind of aberrant, squat dog – if dogs could weigh upward of eight hundred pounds, were more than twice as broad as they were tall, and shone like some sort of incandescent sun. Standing nearly as tall as she was at the shoulder, their front legs were thick and set wide. Their backs sloped down to shorter hind legs. The head was broad, and mostly jaw, composed almost entirely of fangs, with no sign of eyes or nose. Snaking up around from the thick shoulders were four tentacle-like limbs that flicked and twitched in various directions as if sampling the air. Their shapes were somewhat blurry as if furred by a shimmering heat mirage.
+
+“Radiant Brawlers. Mid-thirties elementals – and there are some oozes back there in the bushes,” Calen whispered.
+
+“Light affinity,” Ali added.
+
+I didn’t even see the oozes. They lurked in the blinding effulgence in much the same way that rogues hid in shadows. The two bulky Radiant Brawlers were so bright that it was hard to make out the wobbly oozes even after she knew to look. Two of the oozes looked like the ones they had defeated on the floating rings on the second level. Luminous Slimes, she recalled. They were a known quantity, but she had never seen anything like the other three before – they seemed to be at least four or five feet across, and almost entirely transparent. Suspended within their bodies were several fist-sized incandescent blobs of brilliant white light.
+
+Malika rubbed her eyes, already feeling the beginnings of a headache from staring at so much brightness.
+
+“Ready?” Mato asked. “Those brawlers look bitey. I can tank them with the oozes over by that oak.”
+
+“Watch out that the Luminous Slimes don’t completely dazzle you,” Ali said.
+
+“We don’t know what the Sparkling Oozes and the Radiant Brawlers do,” Calen reminded them, drawing a longsuffering growl from Mato. “Be ready for anything.”
+
+Malika double-checked that all her skills were active before nodding. Not like she ever turned them off now. “I’m good to go. I’ll pick up anything if you miss it.”
+
+Mato roared and barreled forward, tearing a broad gash through the undergrowth. Malika sprinted along the trampled path he left in his wake.
+
+She had almost reached the monsters when a shimmer caught her eye coming from the two Brawlers. Both their forms became indistinct, and in an instant, there were several images of each of them along a straight line between where they had been prowling and Ali and Calen waiting at the back. With a crash of claws against a magical barrier, they solidified, and the images began to fade. Distracted by the instantaneous move, Malika missed the incandescent spray of light from the oozes that blasted both her and Mato, blinding her in a flash.
+
+Shit, Ali and Calen need help. Her mind seemed unnaturally calm, given the giant melee monsters threatening her friends, and the fact that she was suddenly partially blinded. Going entirely off memory, she triggered her Divine Step and charged back the way she had just come, blinking to try and accelerate the recovery of her eyesight.
+
+She overshot, unable to properly gauge the distance, and slammed bodily into the back of one of the brawlers. Clumsy, but it achieved her objective – both brawlers blurred with speed and light, wheeling to attack her with the whip-like tentacle limbs that shimmered and cracked as they struck from multiple angles.
+
+She winced, but not at the pain of the flurry of strikes hitting her face and arms – somehow, incredibly, with each lashing strike, mana was ripped from her mana pool.
+
+So fast! If she didn’t do something soon, she would be leeched dry before she knew it. Instantly put on the defensive by the insane flurry of attacks, Malika channeled more and more stamina into Divine Step, accelerating her movement in a desperate attempt to dodge and block faster.
+
+“Watch out!” she yelled. Calen and Ali definitely did not have the armor or defenses to take a hit from these. In the distance she could hear Mato’s frustrated roaring.
+
+The larger brawler on her left shimmered and blurred, making half a dozen images appear all around her. Before she could react, the image directly behind her solidified, biting down on her thigh with its enormous maw full of sharp teeth, tearing and ripping through her muscles, and spraying her blood across the damp grass.
+
+Fucking teleport! What is this? She gritted her teeth against the pain, pouring mana into her Healing Mantra while hammering her elbow down hard on the thing’s head trying to dislodge it. It took the full power of her Martial Arts supported by Soul Strike to get it to let go, and in the process, the other brawler’s lashing tentacles ripped away even more of her mana.
+
+I need to do something about that. Soon. Deciding that they couldn’t steal her mana if she didn’t have any, Malika activated Second Wind, instantly converting all her remaining free mana to stamina. Now try stealing my mana, stupid monster, she thought, unleashing a punch combination as the brawler that had mauled her leg darted away, feeling the welcome steady trickle of stolen health from her Soul Strike.
+
+“Back up, Ali,” Malika said, accelerating herself to her maximum, while dodging and blocking every single attack the monsters unleashed. She had their complete attention now, but she didn’t want Ali to take any chances by being too close. To her surprise, Ali seemed to be moving in slow motion, taking way too long to withdraw from the danger. Malika blocked another attack that might have struck Ali’s barrier and she was about to tell her to hurry up, when she saw the incoming Firebolt from one of Ali’s mages, also moving all too sluggishly and easily avoided by the brawler it was targeting as it blurred into images and teleported itself behind Malika.
+
+It's me that’s fast! Unconsciously, Malika had pushed her haste as far as she could, struggling to keep up with the insane speed of the brawlers, but everyone around her was still moving at normal speed. She had simply not noticed because her own reflexes were similarly accelerated. Even Mato, over by the tree with his paws full of angry glowing oozes, seemed to be moving like molasses.
+
+She blocked again, a flurry of lashing attacks, missing one which struck her on the shoulder. Mana leeched, drawn out by the strange tentacle-like appendage, and to her horror, her Perfect Body skill suddenly expired.
+
+What? The sudden decrease of her attributes slowed her reflexes instantly and the brawlers suddenly accelerated beyond her ability to even react. In desperation she tried to reactivate her skill, but it wouldn’t work. Not enough mana? Changing tactics, she used Relentless and re-enabled Perfect Body using stamina instead. As her reactions suddenly accelerated, she began to block and dodge properly once again, flashing Healing Mantra to recover the sudden spike in damage.
+
+What the fuck? How?
+
+While she was unable to spend mana that was reserved for her skills, it seemed that the reservation was not a protection against the mana-leeching ability of the brawlers. When she emptied her mana pool with Second Wind, she had inadvertently made herself vulnerable to losing her skills when they leeched the mana reserved to maintain them. Malika was still running out of mana, unable to block or dodge everything that was thrown at her. Anticipating the problem before it manifested, she switched Soul Armor over to stamina also and then emptied the rest of her mana into stamina.
+
+The smaller brawler’s tentacles lit up with a sudden incandescent intensity and Malika instinctively dove to the ground, executing a quick backflip to avoid the four sudden beams of intense blue-white light that shot out of each of its floating limbs. The beams swept across the battlefield in all directions, slicing through the terrain, trees, and anything else they touched.
+
+Ali cried out in pain and dropped to the ground behind her barrier, smoke curling up from a terrible burnt gouge through the muscle of her upper thigh.
+
+Ali!
+
+As much as she wanted to help, Malika was pinned down by these two monsters. Whichever way she dodged, they instantly followed. She could hardly even take her eyes off them to check to see if Ali was ok. Malika gritted her teeth and blocked again, burning stamina just to keep up. She has a healer, she reassured herself, dancing backward through the undergrowth to pull the two brawlers further away from her injured friend.
+
+“Malika, above you!” Calen’s shout caught her attention and she glanced upward to see an incandescent white ball arcing high through the branches of the trees toward her. The briefest moment her glance took was enough to get her hit three times before she snapped her focus back to dodging. She unleashed a quick jab into the nearest brawler and dodged sideways, putting it between her and the incoming projectile. As it hit the dirt, both brawlers shimmered into their teleport and Malika threw herself to the ground as whatever it was exploded with a deafening bang, filling the entire battlefield with an incandescent blinding light. A heavy shockwave slammed into her back and shoulders, followed instantly by a rain of dirt, sod, and shredded plant matter.
+
+She sprang to her feet, anxious, lest the monsters catch her while she was down. She pulsed Healing Mantra, burning the little mana she had managed to regenerate before the brawlers took it, and then dodged a flurry of attacks as one of the monsters charged her. The larger brawler began to glow from the tips of its tentacle limbs and Malika flew into a tumbling sequence of evasive flips and rolls as she recognized and tried to avoid the intense sweeping beams of light.
+
+I can’t dodge it! One of the beams sliced into her left arm leaving a smoking, cauterized wound. She grimaced at the pain, but Clarity kept her mind focused, and she landed nimbly on her feet, dodging the aggressive follow-up attack, spending a little of her rapidly dwindling stamina on healing her arm. In the distance, she heard Mato roaring in pain, but there was nothing she could do for him.
+
+Clarity was simply astounding, regenerating both stamina and mana as if she were sitting to meditate. Undoubtedly it was the sole reason she was still able to fight. But as good as it was, she was still running out – she had lost a critical amount of mana to the insanely fast leech attacks, four at a time per monster, and she was burning through her stamina at an incredible rate just to match speed with them. She retrieved one of the few mana potions she had stored in her ring and downed it between blocking attacks, continuously transferring the regenerating mana to stamina as soon as it appeared in her mana pool. It was an inefficient transfer, but anything was better than losing it to the monsters.
+
+Faster, she urged herself. No, I need to fight smarter. She had been pushing herself faster and faster, but that had a clear expiration. Honestly, even at their insane speed and multiple attacks, Malika was acclimating to the high-speed battle, and beginning to match speed with them. She studied her foes while she unleashed a flurry of punches and kicks timed in between blocking and dodging.
+
+Time the pattern. The smaller one prefers to come from the right. She concentrated her focus, studying her two foes carefully, and then she moved. Left, left, bite, right, pause, and then slash. She predicted each move, dodging in response to each attack. As her final dodge took her into the range of the larger monster, she realized her mistake as the whip strike slashed across her cheek, spraying blood into the air.
+
+Shit, they’re cooperating. It wasn’t a lot of damage, and she hadn’t left any mana in her mana pool, but if she were forced to use her healing magic this often, she would run out of stamina too quickly. She ignored the wound, letting the blood run down her face, deciding to prioritize only injuries that impaired her speed or defenses, letting the slow trickle of health leeched by Soul Strike take care of the rest.
+
+This one should be ready to teleport soon. She guessed it, but she didn’t think she could be as precise as she would like. But right on cue, it blurred into its afterimages. Where is it? She focused all her attention on her senses trying to catch the instant it materialized. There! She caught the subtle shimmer in the image out of the corner of her eye and executed a deep backbend, barely avoiding the attacks that sliced through the air inches above her face.
+
+Soaring through the air, another incandescent ball descended toward her, and she turned her backbend into a flip, landing flat on the ground right before the explosion ripped up the turf, launching clods of grass in all directions. Burning more of her precious stamina on a heal, she found the brawler that had just used its teleport was now leaking a glowing blue fluid from several wounds.
+
+Is that its blood? Previously the brawlers had avoided the explosion with their teleport, but it looked like it had been caught in the blast with its escape skill on recharge. It was the first time she had seen real damage on one of them, and it gave her an idea.
+
+She attacked in a flurry of accelerated blows, several punches connecting with the creature while it was still staggered by the blast. She sprang up, leaping over the monster as the other re-engaged, lashing out with its four-way beam attacks.
+
+A glowing arrow shot past her ear, burying itself deep into the wounded brawler. A thunderous roar alerted her to Mato’s incoming charge, while firebolts and other attacks began filling the air. Most of the attacks seemed comically slow and the brawlers effortlessly avoided them, but Ali’s guided bolts seemed to land, and the Lightning Bolt from her shaman seemed instant as normal.
+
+In particular, Mato looked hilarious, flailing around awkwardly at the afterimages of the brawlers, but his regeneration aura was just as welcome as the warm pulse of holy magic settling in on Malika to heal the wounds she had been neglecting in order to save stamina. And then Mato began stealing damage from the hits she failed to block – a truly ridiculous skill that allowed him to tank damage by proxy even if he couldn’t see or keep up with the monsters at all.
+
+If I don’t have to heal as much… did Calen send him in? Malika powered her Divine Step, boosting her haste, and went on the offensive, taking risks now in favor of landing more hits, relying on her suddenly boosted regeneration to keep her in the fight, along with the support of the Kobold healers.
+
+She punched the brawler in the jaw just as it attempted to bite her, deflecting the attack. As the creature dodged sideways to avoid her kick, it ran into a suddenly appearing barrier and her kick connected. Clever. Unable to hit the monsters with her minions, Ali seemed to be resorting to pinning them down with her barriers and shooting Arcane Bolts instead. Without a second thought, Malika took advantage of the sturdy construct, running up the golden wall and executing a flip at the top, coming down with a vicious knee strike to the back of the monster’s head. It collapsed to the ground in a shimmer of chaotic light images and the chime of the kill notification.
+
+Take that!
+
+But Malika didn’t get any respite, immediately pulsing her healing magic as she failed to dodge a sudden beam of light magic that sliced through her leg and bit deep into the corpse below her. She sprang up into the air with a thrust of her good leg, landing on the back of the one remaining brawler. Wrapping her left arm around the whip-tentacles, she ignored the continuous leech while she grappled with it for leverage. Once she had them secure, she unleashed a brutal series of punches and elbow strikes into the back of its head while it struggled to dislodge her. It shimmered, and Malika’s grip suddenly was air and afterimages as the monster teleported away. She hit the ground running, launching a series of kicks as the monster materialized right in front of her. Her foot connected with a solid strike to the side of its head as she traded blows with the monster, sending blue glowing fluid flying as it struggled against her magical onslaught.
+
+A final kick crushed its jaw from beneath, and Soul Strike pulsed brightly before the monster collapsed to the ground. The shimmer and glow slowly faded as her chime sounded.
+
+Your group has defeated Radiant Brawler – Elemental – level 35-37 x2.Your group has defeated Luminous Slime – Ooze – level 24-25 x2.Your group has defeated Sparkling Ooze – level 34-37 x3.
+
+“Are you ok?” Malika asked, looking to where Ali was still hiding behind her barrier. It had been agony to hear Ali scream in pain and not be able to rush over to heal her. But dragging the two elementals over to her friends would have put them in incredible danger.
+
+“Yup, I’m fine now. I just keep forgetting that light goes right through my barrier,” Ali said, her eyes dropping to her feet in chagrin. She dropped her barrier and walked over to join her by the corpse of the monster and Malika could see that whatever injury she had sustained had been long healed, the evidence remaining only as scorched marks on her clothing.
+
+“You’re going to need to talk to Lydia again soon.” Ali’s expensive tailored armor was sporting several burns and rips which looked like they would need repair. But Ali just frowned briefly, concentrating, and suddenly the holes closed up and Malika remembered Lydia’s armor creations could repair themselves with mana.
+
+“You’re so fast, I can barely see you now,” Ali said, looking up at her. “I couldn’t follow these monsters at all, only my Arcane Bolts could track them.”
+
+“What are they anyway?” Malika poked the heavy, motionless corpse with her foot. The light was already much dimmer, and it was still leaking blue stuff from several wounds.
+
+“Light elemental. Haste and teleport,” Calen said, joining them too. “It’s hard to figure out exactly what they’re doing when they move so fast – it felt like I was trying to shoot a jar full of angry dragonflies.”
+
+“The whip-tentacle things can steal mana too,” Malika observed.
+
+“I couldn’t see anything,” Mato grumbled, cracking his knuckles with a frustrated growl.
+
+“Your dexterity is pretty low, right?” Calen asked him, getting a nod. “Dexterity improves reaction speed, so it helps tremendously with this kind of monster. That and high perception.”
+
+“But I Swiped the air so powerfully,” Mato mock-groaned.
+
+A grin overtook Calen’s unusually intense stare. “Sure, sure, and that waving business with your paws was you trying to knock them over with a whirlwind, right?”
+
+“That or my beastly breath?”
+
+As they ribbed each other and chuckled through increasingly terrible jokes and puns, Malika’s thoughts immediately returned to the middle of the battle when the brawler had drained her mana below the amount she needed to sustain her Perfect Body enhancement. The instant her skill failed, her reaction speed had dropped dramatically. Perfect Body enhanced her endurance and wisdom, but most importantly for this fight, it boosted dexterity by a lot. Calen was right, as usual. A little more dexterity wouldn’t hurt her either.
+
+“Would dexterity help me to attack something like that?” Ali asked, looking up as she finished deconstructing the Brawler’s corpse. Three small motes of bright light persisted, floating in the air where the mana of the corpse dissipated.
+
+Lesser Radiant Essence x3Light-affinity crafting reagent.Mana: Combine 3 Lesser Radiant Essence into one Radiant EssenceValue: 5 goldReagent – Mana Essence
+
+Oh nice, crafting reagents! These might sell well! Malika stored the essences. She would need to do a little research with Weldin to find out who might be a good buyer for them.
+
+“Yes, I think so,” Calen answered Ali. “But I think it would be hard for a mage to prioritize dexterity over wisdom or intelligence most of the time.”
+
+“I have a lot of skills that scale from higher dexterity,” Malika added. “Each point I gain does a lot for me.” She gazed at the huge corpse of the remaining elemental. “I don’t suppose you can make these, Ali?”
+
+“Nope,” she answered. “I would need an affinity for light magic.”
+
+“Too bad, I was hoping you could make them as sparring partners,” she grinned.
+
+“I thought I was the battle junkie,” Mato mumbled while Ali set about deconstructing everything in sight.
+
+“Oh, what were the flying explosion things?” Malika asked, remembering the intensely brilliant explosions that she had had to try and dodge.
+
+“The Sparkling Ooze spits those out and they blow up,” Mato explained, with a pained expression. “It’s super annoying when the other ones blind you and you take the explosion to the face.”
+
+“I really want to make them,” Ali said with excitement.
+
+Malika smiled at Mato’s exaggerated groan and sat down. “Thanks for the regen aura and the damage transfer. That turned the battle for me,” she told him. The more she got to know him, the more she realized Mato craved being useful in a fight. She was certain he was hiding an enormous amount of frustration at spending half the battle flailing helplessly at foes that were too fast for him. As soon as she thanked him for his help, he suddenly relaxed and returned her smile.
+
+She calmed her mind further, focusing on her breathing for a few minutes, feeling the welcome sensation of her regeneration accelerating. With Clarity, the bonus for sitting and focusing, and the influence of Mato’s regeneration aura, she wouldn’t need too long to refill her mana. Looking inward, she began to read the blue-white glowing notifications.
+
+Soul Monk has reached level 34.+10 attribute points.Martial Artist has reached level 16 (+2).Soul Strike has reached level 20 (+2).Healing Mantra has reached level 20.Perfect Body has reached level 17.Enlightened Evasion has reached level 19.Divine Step has reached level 18 (+2).Second Wind has reached level 6 (+2).Clarity has reached level 4 (+3).Dancing has reached level 5.
+
+Dancing leveled from a fight? The last notification took her by surprise, but her parents had been the ones who encouraged her dance classes, saying that skillful and dexterous movements were all based on the same principles. Clearly, the system had thought her fighting style sufficiently graceful, or perhaps she had unconsciously used her dancing skills during the fight.
+
+Maybe I should get back to training it explicitly… The rest of her skill level gains seemed more normal, other than the fact that she had pushed herself to the limits on many of them and the sheer number of levels gained was impressive. She pursed her lips in thought for a moment and then spent four points on dexterity and two each on vitality, wisdom, and endurance.
+
+To her surprise, another notification popped up immediately and she caught her breath, reading through it in a rush.
+
+Requirements met for skill advancement.Soul Strike has reached level 20.Experienced mana leech attacks.Survived being drained to zero mana in combat. Wisdom has surpassed 120.Soul Strike gains Mana Strike.Soul Strike – level 20Mana: Enhance a Melee Attack with your soul magic, striking directly at the health or mana of your opponent. A portion of this health or mana is returned to you. Your Attack gains +207% [40 + skill + wisdom] additional Soul damage. Range: Touch.Soul, Melee, Support, WisdomAccept this advancement?
+
+This is an amazing advance, Malika thought, reading through it again. It wouldn’t improve the amount of damage she dealt, if she understood the ‘striking directly at the mana of your opponent’ part, but she had just experienced how challenging it was to fight a monster that kept sapping her mana. She had Relentless as a defense against that – an opponent relying on mana without something like her aptitude, or a very high regeneration rate, would be rendered helpless.
+
+“Hey, what do you guys think of this?” she asked, sharing the offered advancement with her friends for a second opinion. However, unless they brought up something critical that she had missed, she was certain she wanted this.
+
+“Wow, a denial attack!” Calen said, looking surprisingly excited. “Situationally useful, but extremely powerful when used well. That would give our team some great new strategic options.”
+
+Well, that’s a very Calen way to put it, Malika thought, grinning widely at him. He suddenly found his toes incredibly interesting; Mato’s gruff chuckle of realization made their friend blush richly.
+
+“What’s denial?” Ali asked.
+
+“If a monster consumes all your mana, you’re not dead, but you can’t do much,” Calen explained. “I would be nearly worthless in combat without any mana. It’s even worse if the monster steals the mana because then they can use it against you.”
+
+“It’s worse even than not being able to cast anything. These brawlers leeched the mana I had reserved to keep my Perfect Body and Soul Armor running. The enhancement skills dropped as soon as the reserved mana was less than the required amount.” Malika had gotten quite a big scare in the middle of the fight because of it.
+
+“How do you even defend against that?” Ali looked horrified.
+
+“Magic resistance, high regeneration, mana potions, stuff like that,” Calen suggested.
+
+“Or just don’t get hit,” Mato added.
+
+“I used Relentless to swap my skills over to using stamina instead,” Malika said, “and Second Wind to transfer any mana to stamina instead of letting the monsters have it. I spent most of that fight on zero mana. I think I’m going to take this one, it sounds good.”
+
+“It is good,” Calen said, nodding.
+
+“Hey, Mato, can I test it out on you?” Malika said, accepting the advancement.
+
+“Sure,” he said, grinning broadly, and swapped to his Bear Form.
+
+It didn’t take long to figure it out. When she used Soul Strike, she had to choose between Mana Strike or Health Strike – there seemed to be no way to choose both simultaneously. At least it was intuitive. With just a few quick punches, she verified that her magic damage was attacking his mana pool instead of his health, and she received a slow trickle of stolen mana instead of the usual stolen health.
+
+“That’s nasty,” Mato said after the test. “I wouldn’t want to duel you.”
+
+“Can you do it without punching?” Ali asked.
+
+“Yes, why?”
+
+“I want to see how much resistance helps,” Ali answered.
+
+Malika reached out and touched Ali’s arm with Soul Strike – eliminating the physical damage component of her strike entirely. There was a flash of blue-white light as her skill triggered, and she felt the mana leeching back into her mana pool.
+
+“Ouch! That feels awful,” Ali said, snatching her arm back with a gasp.
+
+“Sorry. I got less than three-quarters of what I got from Mato,” Malika mused, watching her mana numbers closely.
+
+“That’s just about my magical resistance,” Ali confirmed.
+
+Calen said, “Well, let’s take a minute and then we should continue exploring.”
+
+***
+
+Name: MalikaRace: HumanTitles: Street RatActive Buffs: Perfect Body, Soul Armor, Enlightened EvasionClass: Soul Monk – level 34- Martial Artist – level 16- Soul Strike – level 20- Healing Mantra – level 20- Perfect Body – level 17- Soul Armor – level 19- Enlightened Evasion – level 19- Divine Step – level 18- Second Wind – level 6- Clarity – level 4- [Locked]General Skills- Dancing – level 5- Calligraphy – level 3- Lockpicking – level 5- Appraise – level 11Aptitudes- Languages: Common- Bloodline (Ahn Khen): Dormant- Mana (Affinity): Soul- Relentless (Class): +100% to Stamina Regeneration- Relentless (Class): You can pay for any abilities with stamina instead of manaAttributes- Vitality: 54- Strength: 15- Endurance: 145 (+57) - Dexterity: 207 (+90) - Perception: 25- Intelligence: 22- Wisdom: 147 (+58) Equipment- Hands: Wraps of Accuracy – level 17- Ring: Silver Guild Ring – level 30Armor: 133Physical Damage Reduction: 12.25%Evasion: 133Dodge: 12.25%+6% to Accuracy rating.Health: 540/540Stamina: 870/1450 (580 Reserved)Mana: 1470/1470

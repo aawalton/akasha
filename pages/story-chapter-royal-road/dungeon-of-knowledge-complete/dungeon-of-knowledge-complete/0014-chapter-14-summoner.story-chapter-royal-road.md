@@ -1,0 +1,303 @@
+---
+id: 1905e1a2-55fe-5d22-a3ee-62f5523ea031
+page-type-slug: story-chapter-royal-road
+title: "Chapter 14: Summoner"
+slug: 0014-chapter-14-summoner
+partOf: dungeon-of-knowledge-complete
+position: 14
+ownLength: 5329
+unit: words
+ownProgress: 5329
+publishedAt: 2024-02-10
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1513412/chapter-14-summoner"
+royalRoadId: "1513412"
+markedReadAt: "2026-06-29T20:11:27.991Z"
+---
+
+Aliandra
+
+After breakfast, Ali followed Malika out into the darkness as they searched for monsters to test themselves against. The transition as she stepped out of her mossy domain around the shrine and into the larger cavern was jarring, going from invigorating and vibrant to death and decay in the space of just a couple of steps. Ali shivered involuntarily and summoned a small barrier for light, trying not to breathe quite so deeply through her nose.
+
+As her magic skill leveled up and she invested more in her intelligence attribute, she sensed her control and proficiency with her barriers improving dramatically. It was just yesterday that she required intense focus to place the barrier, and little to no control over how it appeared. Now she could summon the constructs easily, placing them one at a time for illumination, and with just a little more attention she could even limit the size of the barrier substantially to conserve her mana.
+
+It seemed that her and Malika’s efforts yesterday had eliminated most of the nearby monsters and so it took a fair while to walk to an unexplored area. Either the monsters had territories, or they simply hadn’t noticed the gaps yet.
+
+She took the opportunity to really look around at what had become of her home. Many of the ancient oaks still stood, trunks wider around than houses – but they were blackened and dead, slowly succumbing to decay and the predations of the ever-present mushrooms and fungi. It was still astounding to her that they had survived intact for so many long centuries. The terrain too, had changed – transformed beyond recognition. What had once been gentle forested hills with beautiful streams and trees, filled with birds and wildlife, was now muddy moss, boulders, decaying wood, and scattered bones. As they moved further and further from the shrine, the pretty glowing mushrooms grew progressively scarcer, replaced by pitch-black fungi that infested the dead wood and bones. The reek of decay and rot quickly became cloying. The piles of bones grew progressively more common and stacked up higher and higher till they appeared at a distance like dunes or drifts of gruesome, horrifying snow. It seemed as if the shrine itself had been standing as a beacon, the last bastion holding back the darkness and decay as the ages ravaged her father’s old domain.
+
+The air hung heavy with an oppressive stillness, broken only by the distant howls and screeches of the monsters that lurked in the foreboding gloom steeped in the ancient lingering remnants of the Blind Lich’s touch. That skin-crawling chill of his mana seemed to emanate from the very ground, just like the prickling premonitions she had felt on that awful day on the way to meet Maeria, turning the once-vibrant Grove into a crypt.
+
+Nevyn Eld. She could only imagine what he must have done to turn the thriving city of Dal’mohra, and the verdant life of her father’s forest, into this.
+
+“Over there,” Malika whispered, halting their advance.
+
+Up ahead, rooting around among the bones and dead trees, she saw three Sewer Rats. Despite all the practice from yesterday, Ali couldn’t quite quell the anxiety that rose within her. This would be the first time they were going to try to tackle a group together – at least on purpose.
+
+Sewer Rat – level 2-3 x3.
+
+She called out the levels for Malika’s benefit.
+
+“Ok,” Malika said. “You can use your roots on the level two rat. I will tank the others while you shoot from the back and act as lookout.”
+
+“What is ‘tank’?” Ali didn’t understand the unfamiliar term. She still struggled occasionally with her new proficiency in the common language of this time, but Malika’s usage hinted at a more specific meaning – something that eluded her.
+
+“I keep forgetting you didn’t have any combat experience or training growing up,” Malika said. “Tank is adventurer jargon for getting hit – or being the person who puts themselves in front of the monster to get hit. I will go over and annoy the rats, so they hit me instead of you, that way you are free to shoot and control the other rat.”
+
+“That sounds unfair,” Ali frowned. “I will fight too – I even put points into vitality like you suggested. I don’t want you to have to do all the hard work because I’m weaker.”
+
+Is she looking down on me because I’m not as tough as she is? It didn’t help that Ali didn’t think she was all that tough herself, and Malika certainly had experience with a rather rougher life.
+
+Malika stopped and turned to face her, a serious expression appearing on her face. “I already know you’re brave,” she replied. “But think about what each of us is good at. I have more than twice your health, I have an armor and a dodge skill, a heal, and I can only attack from close up. Your arcane magic can dish out some serious damage, but you can’t use it if you’re being eaten by a rat. I’m not trying to be condescending; I really think this is how to get the most out of both of our classes.”
+
+“Oh, I didn’t think of it like that,” Ali said, a little chagrined at her snap judgment. She had often enjoyed optimization problems and when Malika put it like that, it really did make sense. “So, you’re trying to get the most out of us specializing?”
+
+“Yes, exactly,” she said smiling. “You provide control, lookout, and damage. I’m the tank and healer. It’s called teamwork.”
+
+Smiling uncertainly at the obvious attempt at a joke, Ali asked, “Is that always going to be my role?”
+
+“No, it will change depending on who is in our group, and what we are fighting,” Malika answered. “Though, you’re unlikely to ever be the tank.”
+
+Tiny tank! Tada! Surely, she could be the best tank under one meter. She was certainly cuter than any Gnome warrior she had seen.
+
+Malika paused for a moment and then added, “Just remember, I’m doing this by what I was taught. I am just as inexperienced as you. If you think of a better idea, then we can definitely try it.”
+
+“Ok I’m ready,” Ali said. She liked Malika’s honest and open manner and having her share her thinking and admit her own inexperience made Ali feel a lot better. Also, having names for the roles made it sound very official. While she knew it was a trivial thing, Ali liked the sound of her roles.
+
+“Ok, begin with the roots,” Malika said. “I’ll attack as soon as they notice us.”
+
+Shifting forward until she was close enough to use her spell, Ali cast her Grasping Roots on the weakest rat. It was like dumping a stink bomb into a crowded café. As soon as the roots erupted from the ground trapping the rat, chaos erupted with screeches, hisses, and the mad scramble of sharp claws. The two free rats turned toward her and charged in a blur of scraggly fur and bared teeth. Fear surged through her at the sight of the monstrous rats bearing down on her with clear killing intent in their black eyes. She gritted her teeth and stood her ground through pure willpower, using a little mana to create a Barrier in front of herself just in case.
+
+I’m still not over that first rat. Malika, where are you?
+
+As if summoned by her terrified plea, Malika dashed in from the side, intercepting both rats. Her magic flickered, bright blue-white coronas of energy that flashed with every impact as she danced among the monsters, delivering kicks and punches with grace and precision.
+
+Reminding herself of Malika’s careful plan, Ali held her position with a calmness she felt in no bone of her body, waiting until both rats were fully focused on her friend. It was far harder than she had thought. Gleaming claws slashed at Malika’s ribs. Yellowed teeth snapped at her face, as a snarling brawl erupted. Through it all, Ali had to stand there and watch the blood fly.
+
+Come to think of it, perhaps tanking isn’t my thing…
+
+“Ok, now!” Malika yelled.
+
+Ali picked the closer rat and fired. Her arcane bolts arced over her barrier and lanced into the rat’s back and shoulders, landing with a sequence of quick thumps eliciting pained screeches and leaving thin wisps of smoke rising from the points of impact.
+
+Ali took her roles seriously.
+
+Trusting the bolts to do their work, she made sure to scan the surroundings for any extra monsters that may have heard the ruckus, and then she double-checked her root magic just in case. Her attention swapped back to the battle, and she immediately saw why Malika had assigned her the lookout role. Malika was dodging and weaving around the rats so much that it was unlikely she had any decent awareness of the surrounding area.
+
+She sent another volley of bolts at the rat before she recast her root magic, keeping the frustrated third rat well out of the way. Ali’s heart raced. When they had been discussing the strategy, her three roles seemed easy. Almost trivial. Now, in the face of three furious, snarling monsters, their success depended on her doing her part and she found it to be infinitely more challenging. She scanned the area again, and finding nothing, fired another volley of bolts. Much to Ali’s surprise, the rat slumped to the ground in a heap.
+
+“Good job!” Malika shouted, a little breathless from dodging.
+
+So quick? She took a second to scan the battlefield, taking stock of the fight so far. To her surprise, she realized she had been able to maintain her arcane bolts, even while taking on all her other tasks simultaneously. Malika was right, the extra points in my intelligence attribute definitely improved my control.
+
+Malika’s magic flashed as she healed herself, and then a kick lashed out with enough power to send the other rat sprawling. Ali immediately responded, adding her arcane magic to the fight, making sure to maintain her vigilance on the surroundings and refresh her roots.
+
+It’s working.
+
+And she hadn’t even needed her Barrier magic yet. Everything seemed to be going according to the plan. Even though her heart was racing, it didn’t seem to be out of fear – not anymore. Am I excited? Even though she wouldn’t describe her feelings as happy, Ali decided she could begin to understand the term ‘thrill of battle’.
+
+The second rat died to a brutal glowing kick to the side of the head and three of Ali’s golden bolts slamming into its back. At once, Malika charged over to the rat Ali had been keeping trapped for the entire fight. With a withering flurry of punches and kicks, and Ali’s gracefully arcing arcane magic, the final rat collapsed, and the battle was suddenly over as silence descended once more. Ali remembered to scan the area again before she ran over to check on Malika. While her clothes were mostly in tatters, she didn’t have a scratch on her.
+
+“Are you ok?” Ali asked, a little breathless.
+
+“I healed myself, Ali,” she said.
+
+“Oh, of course. It went well, don’t you think?” Ali asked. It had felt like it went well, but she wasn’t exactly certain when it came to combat.
+
+“Yes,” Malika said, “that was perfect. No surprises and everything went well. Let’s regenerate our mana and then go find some more rats.”
+
+Ali quickly deconstructed all three rats and waited while Malika restored her stamina and mana using Meditation.
+
+For the remainder of the morning – at least, Ali chose to think of it as morning – they hunted rats. The unrelenting darkness down in the cavern was beginning to mess with her sense of time, but Ali was filled with a sense of purpose as she rapidly grew in her understanding of combat as a mage.
+
+Not all the fights went quite as smoothly as the first. Occasionally, her roots would break earlier than expected and she would have to react with her Barrier to regain control. Once, an extra rat had tried to ambush Ali from behind and it had been only Malika’s timely warning that allowed her to save it with a Barrier. It had been chaos for a while, but she had managed to cast a second Grasping Roots, barely managing to hang on to both spells, but as soon as Malika had managed to secure three of the rats, things had stabilized.
+
+Tank sounds so weird as a verb, Ali thought, but she was making an effort to adopt the proper terms, and she understood the intent of the word clearly now after having seen Malika take the role time and again.
+
+As they headed back to the shrine, Ali reflected on her upbeat mood. She hadn’t expected combat to require such specialization and teamwork, but in hindsight, and with the experience she had gained, it made a lot more sense. With a teammate like Malika helping her with strategy, fighting felt much less crazy and uncontrolled – and when things did go poorly, Ali was becoming much more adept at reacting to the ever-changing situations with effective responses.
+
+Ali paused as she entered her little patch of moss around the shrine, stopping to take a deep breath and savor the sudden feeling of vitality and energy she sensed from her domain. She and Malika had been fighting all morning, with little downtime, but somehow, she wasn’t nearly as tired as she expected. I’m not getting injured as much anymore, she reasoned. And I feel a lot less stressed.
+
+Sitting down on the moss near Malika, Ali scanned through the notifications from their morning of rat hunting.
+
+Your group has defeated Sewer Rat – level 2-3 x8.Grove Warden has reached level 3.+10 attribute points.Grasping Roots has reached level 4.Arcane Bolt has reached level 4.Barrier has reached level 4.
+
+It seemed crazy that they had defeated so many rats. Even though it had taken at least three or four hours, it was still more than she ever imagined she could survive.
+
+“I got to level three!” she exclaimed.
+
+“Congratulations,” Malika smiled. “I just got it on the last fight, too. That’s decent progress, Ali.”
+
+“What should I do with my points? More vitality? The intelligence has been helping a lot, and I hardly got hit today.”
+
+“There were a few close calls,” Malika said thoughtfully. “Like when we got that add.”
+
+Add? It took Ali a second before she recalled that Malika liked using the term ‘add’ as a shorthand reference for ‘additional monster’. More adventurer jargon. When they had inadvertently attracted an extra Sewer Rat mid-combat, things had become unstable really quickly. She had been quick enough to save the situation with a Barrier before Malika could grab the attention of the rat, but it could have so easily gotten so much worse. Just a small lapse in focus caused by pain or fear could have caused the entire fight to spiral into disaster.
+
+“That’s true,” Ali replied.
+
+“It’s a balancing act that only you can decide. Intelligence makes your spells hit harder, making the fights shorter and safer, so it’s valuable, too. But my dad always told me, this is not the legends or the stories where the gods can reach down and give you a second chance. If you must misjudge your vitality, you would much rather have too much than too little.”
+
+Ali fell silent for a while, considering the tradeoffs. My racial Aptitude reducing my health is really problematic, she reflected, realizing now why so few Fae had chosen combat classes, even given their powerful magical talents. The risks are all too real.
+
+Eventually, hoping that she was being smart, she decided on six points for vitality, splitting the remainder between Intelligence and Wisdom. I do get fifty percent more damage per point of intelligence, she thought, reasoning that the flip side of her racial aptitude somewhat mitigated the cost of spending fewer points on intelligence.
+
+Seeing that Malika had settled into her Meditation, and not wanting to disturb her, Ali got up and headed to the edge of her moss patch, intending to work on expanding it a little bit. For a few minutes, she busied herself deconstructing a pile of bones and dead wood, enjoying the sense of her mana flowing through her body, and the idea that she was slowly cleaning up the space. When she was done, she filled the newly vacated area with fresh moss and then moved off to start a new section nearby.
+
+Right beside her, she found her first rat, still strung up and bound by the roots she had so desperately grown to defend herself. She walked over to inspect it, and suddenly wrinkled her nose in disgust as the reek of death and decay assaulted her nostrils. A mass of something white and crawly writhed within its open mouth, and somehow the black fungi had already begun colonizing its back, sprouting up out of the fur.
+
+That fight had been terrifying, in a way that had left a lasting impression on her. She remembered her helplessness, the blood pouring from her wounds, and her rage at the unfairness of the world.
+
+You’re not so scary anymore, are you? she thought, considering how she had spent the entire morning hunting rats just like this one, on purpose, taking on three or sometimes even four at a time. That’s the power of a class and combat skills, she thought. She had always known having a class would make an enormous difference, but it was something else to experience it so directly. Don’t forget, there are far more dangerous monsters than rats out there.
+
+At least this was something she could clean up. Stretching out her hand, Ali channeled her Deconstruction magic and the sight of such a terrifying foe dissolving into golden motes of mana was profoundly satisfying. Like she was simultaneously deconstructing her trauma and fear. Proof that she had stood her ground and grown from the experience. As soon as the corpse disappeared, Ali felt the familiar pressure behind her eyes.
+
+Imprint: Sewer Rat completed.
+
+Sewer Rat? I did not want that! Ali’s Grimoire popped into existence, opening itself to the first empty chapter automatically. What happens if they’re all full? She had noticed that it seemed to grow an extra chapter every time the skill level increased, but it seemed plausible that she might run out of chapters if she wasn’t careful. For now, though, she had space, so she committed the knowledge to the pages of her Grimoire, once again watching the light show of the inscription with rapt fascination.
+
+She was just about to try the new imprint when she suddenly stopped cold as she considered what it actually was.
+
+“Malika,” she called out, “I got a new imprint, but it’s for the Sewer Rat. I want to try creating one, but I’m not sure if it will attack us. What do you think?”
+
+Malika sprang to her feet. “You should totally try it,” she said. “One rat should be easy for us to handle now, even if it’s hostile.”
+
+Confirming that Malika was ready, Ali sent her mana into the imprint. The light and runes were bigger than when she created moss, and eventually, it all coalesced into the familiar shape of a rat. Ali felt a pull from where she normally felt her mana draining when she used skills connecting to the rat.
+
+Your reserved mana has increased by +15.Grimoire of Summoning has reached level 5.
+
+In front of her stood a huge grayish rat, just like every Sewer Rat they had fought, though a little cleaner and less smelly on account of having been freshly created. It shuffled about and sniffed the air, gazing around. It looked at Ali for a moment, and then stared at Malika, sniffing at her, too. Their tense standoff continued for a while before the rat lost interest and resumed its shuffling about.
+
+Sewer Rat – level 2
+
+“It doesn’t look hostile,” Malika said.
+
+Ali was shocked to see Malika poking the creature, but the rat had no overt reaction to Malika trying to annoy it.
+
+Is it waiting for something? Ali considered the situation.
+
+“Can you make it do anything?” Malika asked, clearly coming to the same conclusion.
+
+“I’m not sure…” Ali said. Turning to the rat she commanded, “Sit!” The rat looked up at the sound of her voice, but quickly lost interest and continued meandering about.
+
+“It probably it doesn’t understand Common,” Malika mused, then added a smirk that made Ali flush.
+
+She tried again in each of the languages she knew, but the results were the same. She puzzled over the problem for a few moments before an idea occurred to her. Mustering her will, she visualized her intention – in much the same way as she focused on a target for Arcane Bolt, but an action instead of a thing – and sent it out along the mana connection she had felt when she had created the creature.
+
+“Sit!”
+
+It promptly sat.
+
+“Oh wow, that’s cool!” Malika exclaimed.
+
+“I didn’t expect that to work,” Ali said, rather surprised. “It seems to respond to mental intention and mana, somehow.”
+
+“What else can you get it to do?” Malika asked excitedly.
+
+What followed was a series of rat gymnastics and track events as they experimented with various ideas. The rat could follow surprisingly sophisticated commands such as “Follow Malika”, or “Run to that rock and come back.” Ali quickly learned that the vocalization of the command was not even necessary, just her intent.
+
+“I got some strange notification about reserved mana,” Ali said, eventually tiring of coming up with crazy ideas for the rat to do and instead recalling the unusual message she had received when she created the rat.
+
+Pulling up her status, she showed Malika her mana pool.
+
+Mana: 385/400 (15 Reserved)
+
+“I have a few skills that do that, too,” Malika said. “You have four hundred mana, but fifteen is set aside for the skill.”
+
+“Ah, I see. What happens if I take the mana back?” Ali asked.
+
+“For me, that just turns off my skill,” Malika answered.
+
+Ali reached for the place where she felt the mana connection and pulled. Suddenly, her mana snapped back to normal, and the rat instantly screeched and attacked Malika.
+
+“Sorry!” Ali yelped. Desperately, she tried to shove the mana back but quickly discovered that it was futile. The unreasonably erratic and frenzied rat tried to maul Malika, but she simply blocked and dodged most of the attacks, returning powerful, magic-enhanced punches.
+
+In the end, Ali was forced to fire her Arcane Bolts at the rogue rat, and soon enough, the creature died.
+
+Your group has defeated Sewer Rat – level 2.
+
+Ali apologized again, but Malika just seemed amused.
+
+“I guess your mana is what controls the creature,” she said. “It seemed crazed when you let it go.”
+
+Ali deconstructed the corpse, recovering quite a bit less mana than the creature had cost to create.
+
+“I think you’re a summoner, Ali,” Malika said.
+
+Summoner. Her mind was suddenly filled with memories of her father and his creatures of Nature magic.
+
+“My dad was a kind of summoner too.” Although Ali’s little rat was nothing compared to the seven- or eight-ton elementals of wood her father could make. “Do you think we can try using it to fight something?” She had no idea if this would work or was even smart. But her father had used creatures for battle, and there was a little spark of hope within her that she might be like him someday.
+
+“That’s a great idea, Ali,” Malika answered, “I think I saw some spiders over by the edge of the cavern. We could go try it on those.”
+
+A little surprised by Malika’s enthusiasm for her experiment, especially after she had just created a monster that turned on them, Ali channeled her mana into the imprint once more.
+
+Your reserved mana has increased by +8.Sewer Rat – level 1
+
+The level-one monster is quite a bit cheaper. Ali observed that other than the level difference, the rat behaved in much the same fashion, and it was easy to get it to follow them as Malika searched for a suitable fight.
+
+Eventually, Malika found them a spider.
+
+Giant Spider – level 2
+
+The spider had a bulbous round body, spindly legs, and a sleek shiny black carapace. Its hissing screeches set her teeth to clenching and her skin crawling.
+
+Malika immediately rushed forward and punched it, and Ali tried to get her rat to attack the spider, too. It took only a few tries to realize that she could target the spider mentally, the same as when she used her Arcane Bolt spell. When she did that and visualized attacking, the rat immediately sprang into action. Ali studied it as her rat hissed and bit the spider’s legs while Malika punched it from the front.
+
+Malika wasn’t struggling, so Ali decided to experiment further. Formulating her intent carefully, she sent the instruction to ‘defend Malika’. Obviously, she had to use the image of Malika rather than her name, but the rat immediately interposed itself between Malika and the spider. Quickly, Ali rescinded the order and returned it to attacking normally.
+
+Potentially useful, but not when Malika is tanking. Or, maybe to give her a break?
+
+The battle drew out far longer than normal because Ali was not using her Arcane Bolt magic, but she learned she could position the rat to flank the spider opposite Malika, and she could even pick targets, such as attacking the left back leg, or the abdomen.
+
+Your group has defeated Giant Spider – level 2.
+
+“I learned a lot,” Ali told Malika after the battle while she deconstructed the spider. Malika had to Meditate for longer because the battle had taken more of her resources to keep going. But as Ali explained what she had tried, Malika encouraged her to experiment more.
+
+“The more you know, the stronger you can get,” Malika said. Ali found that this resonated well with her.
+
+“I want to try targeting with my Arcane Bolt and commanding the rat simultaneously next time,” Ali said.
+
+“Well, I’m ready,” Malika responded. “Let’s find another one.”
+
+“You like this far too much.”
+
+“I like staying alive.”
+
+For an hour, they fought spiders while Ali fine-tuned her new ability. Her role in the battles had just gotten a lot more complex. However, the fights became a lot more reliable and quicker as soon as she figured out how to control her rat and shoot at the same time. And Ali was thoroughly enjoying learning.
+
+“Why don’t you make a second one?” Malika suggested while they sat between fights.
+
+“Controlling two might be a challenge,” Ali said thoughtfully. But in her heart, she welcomed it. It was really a matter of focus and concentration, one of the few things in this new world that Ali felt she had a good handle on.
+
+Channeling her magic once more while Malika meditated, Ali created a second rat.
+
+Your reserved mana has increased by +15.Grimoire of Summoning has reached level 6.Sewer Rat – level 2
+
+Checking her status quickly, Ali confirmed she was now reserving twenty-three mana for her two summoned rats. She tried a few test commands to get familiar with using two creatures.
+
+They took down the first lone spider so fast that Malika began attacking groups instead of waiting for spiders that were wandering on their own.
+
+It was an explosion of chaos. With multiple enemies, two rats, and her own spells to contend with, Ali was nearly overwhelmed. But then she figured some things out. For one, she could hold a single target in her mind and send the same command to both rats simultaneously. And she could leave the rats with fairly simple commands, such as ‘attack that spider’ and they would figure it out on their own. It seemed their combat instincts remained intact, even though they were freshly summoned monsters.
+
+And then she figured out she could share the target for the rats and her Arcane Bolt, and that made a whole lot of things easier.
+
+But it wasn’t just Ali experimenting. Malika had decided she should learn to heal the rats mid-combat, and that greatly extended their life and usefulness.
+
+Ali was getting a headache and mental fatigue after several hours of killing spiders while controlling her creatures, so when her notification chimes eventually went off, she suggested they stop for the day. Just like her, Malika had reached level four, but she waited till they returned to the shrine area to read the notifications.
+
+Your group has defeated Giant Spider – level 1.... Your group has defeated Giant Spider – level 3. Grove Warden has reached level 4.+10 attribute points.Arcane Bolt has reached level 5.Barrier has reached level 5.Grimoire of Summoning has reached level 7.Imprint: Giant Spider completed.
+
+I guess that was predictable. Ick.
+
+She added the Giant Spider imprint to her next open chapter, grimacing a little as she did. Ali wasn’t particularly fond of spiders at the best of times – and these were bigger than she was, with ugly snapping mandibles. At least they’re not venomous. But she wasn’t going to ignore a new imprint, either. Especially now that she knew she was a summoner, adding another creature, even a spider, to her Grimoire was far too good of an opportunity to squander due to squeamishness.
+
+Ali followed the same plan as before, dividing her attribute points between vitality, wisdom, and intelligence. The extra intelligence might even help me direct my monsters simultaneously. When she reviewed her status, she noticed that, curiously, the reserved mana had dropped from twenty-three to twenty-two when she had leveled up. She quickly pulled up the skill description, confirming that there was indeed a small discount for the reserve cost each time she leveled – something she hadn’t understood and therefore forgot when she had first gained the skill.
+
+This time, Malika chose to sleep first. Ali gave her two rats the command to guard them and then opened her Grimoire and began to study the complex formation of delicate runes inscribed in it. With her newfound proficiency in runic magic due to Runic Script, she even managed to puzzle out several new runes she had never seen before. But she was still far from understanding the whole structure of the magic. Especially given how tiny the runes were, and the sheer, dizzying variety of them covering the pages – aside from which, at least half of them appeared to be in some language she didn’t even understand. Yet.
+
+Runic Script has reached level 3.
+
+There we go, that should help decipher some of this puzzle, she thought, digging in for some serious study time.
+
+***
+
+Name: Aliandra AmarielRace: FaeTitles: AncientClass: Grove Warden – level 4- Grasping Roots – level 4- Arcane Bolt – level 5- Barrier – level 5- Grimoire of Summoning – level 7- Runic Script – level 3- Sage of Learning – level 4- [Locked]- [Locked]- [Locked]- [Locked]General Skills- Reading – level 7- Identify – level 5- Sculpting – level 2Aptitudes- Languages: Ancient Dal’mohran, Elvish, Dwarven, Common- Mana (Affinities): Arcane, Nature- Tiny (Racial): The effects of Strength and Vitality are reduced by 50%- Magical (Racial): The effects of Wisdom and Intelligence are increased by 50% - Mana Sense (Racial): You are sensitive to nearby mana- Domain (Class): Your mana increases with the size of your domain, up to +100%- Domain: -10% maximum health per day domain withdrawal. You have Domain SenseAttributes- Vitality: 20- Strength: 4- Endurance: 5- Dexterity: 10- Perception: 11- Intelligence: 33- Wisdom: 27Health: 100/100Stamina: 50/50Mana: 409/430 (21 Reserved)Grimoire: Imprints1- Verdant Moss2- Wood3- Sewer Rat4- Giant Spider5-6-7-

@@ -1,0 +1,291 @@
+---
+id: f09a4acb-0475-588f-983c-470c6d205ff6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 67: New Quests at the Guild"
+slug: 0067-chapter-67-new-quests-at-the-guild
+partOf: dungeon-of-knowledge-complete
+position: 67
+ownLength: 4680
+unit: words
+ownProgress: 4680
+publishedAt: 2024-05-02
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1620320/chapter-67-new-quests-at-the-guild"
+royalRoadId: "1620320"
+markedReadAt: "2026-06-29T20:13:10.201Z"
+---
+
+Ali stood on the threshold of her domain, staring out at the wasteland of bone and death that filled the remainder of the cavern. What had once been an ominous dark roiling expanse of hostile dungeon mana was now… empty. Somehow, her impulsive action of deconstructing the enormous bone spire in the center of the library had triggered a chain reaction of unraveling that went well beyond what she could have ever imagined.
+
+There were still remnants, wisps, and smoky tendrils of bone mana wafting through the cavern, and small isolated pockets of death affinity emitted by the ever-present Blackened Deathcap mushrooms, but the malevolent structure that identified it as the domain of a dungeon had entirely vanished. Dismantled by her actions yesterday.
+
+Even the residential level of the ruins of Dal’mohra had been liberated from the dark and depressing clutches of the dungeon – she had seen no signs of any remaining mana weave or structure the entire walk back. In fact, the only signs that the dungeon still lived were the remnants of the domain that seeped through the closed library doors on the second level.
+
+Neither she nor her friends had seen any signs of Kobolds either, which was beginning to worry Ali.
+
+Where did they go? Is this my fault?
+
+She considered the conundrum for a few moments while her minions shifted restlessly in the dark beside her. But no clear answers materialized, no flash of inspiration in the dark.
+
+Well, she thought, gazing at the expanse of the newly liberated cavern. I guess that means I don’t need to worry about triggering a dungeon-rage. With fifty new attribute points from all the levels she had gained yesterday, Ali had felt comfortable spending a significant portion of them on increasing her wisdom. Her investment had grown her maximum mana substantially, but now her domain contribution had once again fallen below the maximum threshold, meaning she would need to expand if she wanted to gain the full benefits of her Domain aptitude.
+
+She turned around and surveyed the expanse of the cavern she had already claimed, smiling happily at the sight of thousands of tiny pinpricks of golden light rising from her mushrooms, and the jagged flickers and flashes of green that looked like hyperactive fireflies from the growing population of nature wisps that had settled in to live among the branches of her trees. They seemed to particularly favor the oaks.
+
+She had woken a few weeks ago, adrift, filled with grief, brutally disconnected from everything she had known and loved by the horrifying ambition of the Blind Lich. She had almost died right there, alone in the darkness, food for a wandering Sewer Rat. Now, however, she had a domain that spanned half a cavern, she had laid claim to an entire town’s sewer system, and yesterday she and her three friends had defeated an undead Skeletal Wyvern in the heart of a dungeon and reclaimed the ruins of the Grand Library Arcana – and, if she was reading the mana right, her destruction of the spire meant the dungeon wouldn’t be respawning that monster any time soon.
+
+If I want to keep it, I need to claim it. There was a long way to go, but she had everything she needed to grow her domain all the way to the library. She could plant trees here, ivy down the ventilation shaft, and mushrooms and moss through the streets of the ruined city. The only thing she needed was the time to do it. I guess I can also go through the entrance hall, she thought. It was the longer route, but it would work too. Both, she decided. At least eventually.
+
+She was being sentimental. Claiming the library had nothing to do with possessing a ruined building – nothing in it was worth saving. She had done more than enough psychology studies to guess that it was probably a straightforward reaction to the trauma of losing everything. That her unconscious will was reaching to reconnect with anything that remained from her past life, and that the library represented the idea of stability, familiarity, and safety for her. But it still felt right. Her inner voice of practicality told her she needed to grow her domain to increase her mana anyway, so it might as well be on the way to the library.
+
+She turned back to face the boundary between her domain and the former territory of the Ruins of Dal’mohra dungeon and produced her Grimoire. She opened it to the tree imprint, spilling the bright light of her magic out into the darkness before her. She decided on trees first, to claim as much space as quickly as she could before backfilling it with the moss and arcane Glowcap mushrooms that would augment her nature and arcane mana. With her direction clear, she summoned her mana and began creating trees.
+
+Grimoire of Summoning has reached level 17.
+
+***
+
+“That’s looking pretty good, Ali.” A calm deep voice coming from close behind her startled Ali out of her focus.
+
+She turned to find Mato standing there with an offering of breakfast. Surprised, she glanced around, realizing that several hours had passed in a flash and that she was starving. She left her Grimoire floating in the air for the light it provided and gratefully accepted Mato’s newest creation – a neatly wrapped breakfast sandwich. “Thanks!”
+
+She had made substantial progress, expanding her domain out to the cavern walls and stretching quite far into the space previously claimed by the Ruins of Dal’mohra dungeon. She had easily reached and filled the small cave with the ventilation shaft and even extended far enough to incorporate the source of a sluggish, brown, and frankly rather smelly stream that fed into the large lake to the south. All through her newly claimed area, the Verdant Moss and the Common Glowcap mushrooms were beginning to pour their nature and arcane mana affinities into the air to weave into the intricate pattern that still eluded her understanding but represented the basic structure of her domain.
+
+“What do you think of making some open areas with grass?” Mato asked as he stood keeping her company while she wolfed down the sandwich. “Or maybe some wildflowers?”
+
+Ali raised her eyebrow at him, her mouth still full of delicious breakfast.
+
+“I told you I wanted to help you with your forest,” he said, grinning with a broad, infectious smile. “You can’t just make mushrooms for the rest of your life.”
+
+“I got a new imprint chapter a few hours ago, so I could try learning something new,” she said. It was only one imprint, and she had many things vying for the limited slot. There wasn’t a particularly urgent need to get a new kind of minion, but the support gear and weapons took lots of imprint space. Perhaps it was time to learn something new for her forest. Her father’s forest had been an idyllic and beautiful space filled with gorgeous orchids, wildflowers, and rolling grassy hillocks. If she could create something even a fraction as beautiful, she would be ecstatic.
+
+“Excellent,” Mato said.
+
+“I guess I also have the worthless bone elemental imprint that I could free up, too,” she said after some thought. “What do you think is the most important?”
+
+“Grass, I think,” he said. “We should get that first. It has the most options for diversifying your environment.”
+
+“Ok,” Ali said, a bit disappointed to pass up on something pretty like an orchid or a tulip, but Mato was probably right, there were tons of varieties of grass out there, and moss could only go so far to cover the ground.
+
+“Oh, look!” Mato exclaimed with an urgent whisper, pointing off into the trees.
+
+Ali looked, seeing nothing more than a large oak she had planted several hours before. She glanced back at him, but his attention seemed captivated by something, so she examined the area more closely.
+
+And then she saw it. A scampering furtive movement, and a flicker of nature mana that darted along the ground among the thick roots at the base of the tree. A few moments later, with a high-pitched chirping squeak, a small shape shot up the trunk and out along the branch.
+
+Acorn Hoarder – Squirrel – level 2 (Nature)
+
+“Oh, goodness! Where did that come from?” Ali exclaimed in a whisper, staring at the furry creature scampering across the branches. The tree had not been planted long enough for it to shed any acorns on the ground, so the squirrel was snagging them right off the branches, popping them into its mouth with a tiny flicker of mana each time it collected one.
+
+She had watched it store several acorns in this way before she recognized the shape of the mana. It was similar to the structure of the enchantment that let her store things in her ring. Her eyes widened in surprise as she observed the squirrel tucking away vastly more acorns than had any right to fit in its cheeks.
+
+“Is it using storage magic?” Ali asked quietly.
+
+“That would explain it,” Mato observed.
+
+“That’s so cool, I love it!”
+
+“I think the two biggest issues are light and clean water,” Mato said, hand going to his chin in thought as he glanced about. “I’m not quite sure how to solve that. But if you want to continue attracting creatures like the squirrel and those wisps, I think that aiming for a balanced environment would be an effective approach.”
+
+“My mushrooms consume dirt and filth,” she said. “I tried it in the sewers, they can clean the water a little bit.”
+
+“Why don’t we try it here?”
+
+Mato’s interest and curiosity kindled a new sense of excitement within her. She had had her mushrooms for a while, but she hadn’t explored how they might affect the water in the cavern – there had always been more pressing matters to take care of. But now she had the time, and it helped to have someone to share it with.
+
+She summoned random mushrooms all along the edge of the dirty stream, creating a strange mystical garden – a riot of conflicting color and mana – and slowly, as the mushrooms began to work, thin streams of clear water began to emerge amid the muck of the sluggish, stagnant flow.
+
+“That’s really something,” Mato said, examining the results of their experiment closely.
+
+“The Deathcaps seem to do the most,” Ali said. “But I don’t think they have enough power to fully clean the stream, let alone that huge lake back there.”
+
+“It’s a start,” Mato said cheerfully. “Perhaps we just need to find some higher-level mushrooms that can influence a bigger area? Or try different species and affinities?”
+
+***
+
+“Is there a bathhouse in this town?” Ali had made a habit of keeping a Cleanse circle active near her tent, and she used it regularly to take care of the dirt and grime she earned for fighting her way through Kobold-infested ruins, but the idea of a relaxing soak in a real bath sounded perfect after yesterday’s battle.
+
+“Yes,” Calen answered. “It’s over by the bridge near the city center. It won’t take us long to get there.”
+
+“Maybe we do that before we go to the guild?” Malika suggested, which suited Ali just fine. “I mean, Mato, you have to take care of those bear-pits before your poor mother smells you.”
+
+“Thanks,” he snorted.
+
+The bathhouse was just as wonderful as Ali imagined. For a small silver, they purchased two private hot pools. One for the men, and one for the ladies. Ali stored everything in her guild ring, ignoring the provided containers, and then channeled some of her mana into the heating enchantments etched into the pool. She was happy to see the pool was also equipped with a cleanse enchantment, making the water sparkle with clarity. It also meant the array of colorful soaps provided were more for the choice of fragrance than out of necessity for cleaning.
+
+She climbed into the rapidly warming water and let out a sigh of pleasure.
+
+“You too,” Ali told her Kobold Acolyte. She had decided to bring the Kobold with her to town, earning a few strange looks from passersby. The Kobold seemed initially uncomfortable in the water, but as it heated up, she seemed to relax.
+
+“Hey, Malika,” Ali said.
+
+“Hmm?” Malika sat submerged so far into the hot water that only the top half of her face was sticking out with her nose barely above the surface.
+
+“Is it always going to be so hard?” For most of the fight, she had been frantically reacting to the mana of the massive undead wyvern, but she had not missed the close calls: barely-dodged talons or bone spears blocked at the last possible moment. She had to save Calen from being impaled several times, and the slightest miscalculation would have lost her a friend. Even more terrifying were those moments when Mato had been impaled, or Malika had stepped in harm’s way in front of the wyvern’s claws to save him.
+
+“You mean, fighting monsters in dungeons?” Malika said, surfacing a little to speak.
+
+“Mmhm,” Ali said.
+
+“I don’t know, Ali,” Malika answered, her voice measured and thoughtful.
+
+“What do you mean? You’re the combat expert.”
+
+“I have trained in martial arts all my life, but when it comes to delving into dungeons and defeating bosses, I’m just as inexperienced as you are,” Malika said.
+
+“Oh,” Ali said. She had not even considered that she might not know. To her, Malika had always been the expert on everything related to fighting and combat classes. “I guess I didn’t think of that.”
+
+They sat in silence for a few moments.
+
+“Does it scare you?” Ali asked.
+
+“Yes,” Malika answered. “I think we should try being more careful in the future. This fight was hard, and we should probably have run away and tried again. Maybe get a few more levels and better equipment before we try something that hard again.”
+
+“I guess so.”
+
+“Ali, what’s really bothering you?”
+
+“I can’t help thinking that he put the dungeon there to kill me when I woke up,” Ali said.
+
+“The Blind Lich?”
+
+“Yes,” Ali said, shivering for a moment despite the heat of the bath. The coincidence of him being a necromancer and the dungeon being populated with undead had been gnawing at her for a while now.
+
+“Why do you think someone so powerful would care about a person without a class?” Malika asked. “I’m not trying to be mean, but why would you be important to someone like him?”
+
+“I don’t know,” Ali answered. She remembered every word of the conversation between Nevyn Eld and her mother. He had craved her mana. Mana that he thought Ali had inherited. “I saw him, Malika. When I was trapped in my mother’s spell. He spent hours raging against it, trying everything in his power to destroy it.”
+
+“I’m sure he’s forgotten by now,” Malika said. “It’s been three thousand years, right?”
+
+“Right,” Ali said, trying to believe the words.
+
+“Besides, we can just get stronger.”
+
+“Ok,” Ali said. She was already far stronger – but how could someone like her ever hope to become as strong as him? And how strong was he now, after all this time?
+
+She and Malika passed the rest of the hour chatting quietly, but mostly in silence. When she finally emerged, Ali felt renewed, the tension she hadn’t even noticed in her small frame was entirely wiped away. Even her concerns about the Blind Lich and his undead dungeon had faded into the background of her mind, not forgotten, but not hounding her thoughts as they had been before.
+
+“Let’s use the fancy clothes Lydia made for us,” Malika suggested as they dried off. “We can do a little more advertising for her store.”
+
+“At least we’re clean now,” Ali said, grinning.
+
+“Better not to distract potential clients with our smell, you mean?”
+
+“Exactly! Let’s go find Mato and Calen.”
+
+***
+
+Mieriel glanced up at Ali as she entered the guild hall and then her eyes flickered briefly to the Kobold Acolyte by her side, before she reached up to touch her glasses, calming the frenetically flickering magic formations in front of her eyes.
+
+“Hi, welcome back,” she greeted them with a smile, “How can I help you all?”
+
+“I’d like to turn in the Kobold extermination quest,” Ali answered, levitating herself up to a more comfortable height in front of the desk. Mieriel was once again wearing a stylish outfit Ali had never seen before, and she wondered if the guild administrator had ever worn the same outfit twice.
+
+Out of habit, Ali identified her, curious to see if she could see her level now.
+
+Spy – Sun Elf – level ?? (Mind)
+
+What? Ali was certain she had identified Mieriel before, and equally certain she would have recalled something as dangerous as mind magic.
+
+Mieriel’s eyes narrowed, and tiny wisps of mana formations appeared around her temples. Ali experienced a sudden dizzy spell as if the room had lurched sideways for a moment. She caught herself on the table as she noticed the notification in front of her twisting and warping, but it returned to normal as soon as her mind cleared.
+
+She stared at Mieriel in shock, about to say something. Mieriel frowned, and her hand touched her glasses, triggering a much stronger burst of mana that made her eyes shift to a deep violet glow for a moment.
+
+“You ok, Ali?” Malika had a steadying hand on her shoulder as she looked around in confusion.
+
+What was I doing?
+
+Analyst – Sun Elf – level 18
+
+The notification hovered in front of her for a second before she dismissed it.
+
+“I can help you with the Kobold quest,” Mieriel suggested with a light smile. Perhaps it was just Ali’s imagination, but for some strange reason, Mieriel seemed tense.
+
+Oh yes, the quest.
+
+“I like your dress today,” Ali offered as she moved to press her guild ring to the offered panel, trying to shake off the strange mental lethargy that seemed to have afflicted her just now.
+
+“Oh yes, I just love Lydia’s Allure, she makes the best outfits!” Mieriel’s smile seemed much happier this time.
+
+Bronze Guild Ring – level 10A ring signifying bronze-level membership with the Adventurers Guild.Owner: Aliandra AmarielQuests: Eliminate hostile Kobolds in and around Myrin’s Keep – 187 Mana: Store or retrieve an item. Capacity: 11.5 / 25kgCreated by Giddy Clicksprocket.Ring
+
+“Wow, you guys did a lot of work,” Mieriel complimented her as she tallied up the gold. “Be sure to come back and check in with me when you reach level thirty. I can upgrade your ring to a silver-level membership. It comes with a lot more storage.”
+
+“Thank you,” Ali answered, storing the money pouch in her ring.
+
+“I also posted a few new bronze quests on the board,” Mieriel said, right as Ali was turning to leave. “If you guys liked the Kobold quest, one of the farmers reported a large increase in Kobolds last night, and he was hoping that someone could help him out.”
+
+“Ok, thanks,” Ali answered, heading for the quest board.
+
+Last night. The timing was too exact to be a coincidence. Had her destruction of the bone spire and the subsequent unraveling of a large part of the dungeon domain caused this? Calen had mentioned that he couldn’t find a single Kobold in the upper-level ruins on the way back.
+
+Ali felt a pang of guilt at the idea that she might have inadvertently unleashed trouble on some poor unsuspecting farmer.
+
+When she reached it, Ali glanced over the quest board, finding two new quests posted in the center. The guild hall was quiet this early in the morning with just a couple of people sitting at the bar, chatting quietly among themselves. The new merchant, Weldin Thriftpenny, looked up with interest as Malika approached.
+
+The first quest was a job posted by a farmer named Sigurd. Apparently, his farm had been attacked by a larger-than-normal group of Kobolds who had killed one of his pigs, stolen all his chickens, and set fire to a portion of his orchard. He was offering a reasonable amount of silver for someone to take care of the pests for him.
+
+Ali reached up and took the quest, wondering if she should be taking payment for a job to fix a problem she might have caused.
+
+Right beside it, her eyes caught the word ‘mushroom’ on a second quest, and she leaned in to examine it a little closer.
+
+It was a straightforward collection quest. A local herbalist was asking for ten ‘Brown Stonecap’ mushrooms. According to the listing, the mushrooms grew in mountainous regions or caves, and their minor earth magic affinity meant they were useful for creating armor potions. Potions which were now in short supply after the garrison had used up so many during the Goblin siege. The paper was signed by an ‘Eliyen Mistwood’.
+
+An earth affinity mushroom might be nice, Ali thought, recalling her conversation with Mato. Perhaps it would be something she could use to clear the water even more. Even if not, it seemed the reward for this quest was rather high, so perhaps she would be able to sell some in the future.
+
+She reached out and took the mushroom collection quest too. Quest and job etiquette were a little complex it seemed – and there was even a set of guidelines tacked to the top of the board. For general community quests, like the Kobold or Goblin extermination quests, the ring tracker was used. But if the quest was a one-off, you were supposed to actually remove the quest posting from the board in case someone else tried to do the same job. Not that there were enough adventurers in the guild to collide much, but still, Ali was a fan of good principles, and the rules seemed to make sense.
+
+Ali stored the two job requests and floated herself over to where her friends were browsing the guild store. Malika was still engaged in an animated and passionate debate about quality and economics with an equally intense Weldin Thriftpenny, in what seemed to be the closing arguments of an epic negotiation.
+
+“I have three kids to feed,” Weldin declared. “There is no way I can accept such an atrocious offer!”
+
+“You told me you don’t have family!” Malika countered.
+
+“I don’t, but it’s the principle, young lady.”
+
+“Don’t ‘young lady’ me, I’m older than you are!”
+
+Ali wasn’t exactly sure how any of this was relevant to the pile of items and gold on the table, but they both seemed to be having a great time, so she simply browsed the shop instead. The converted meeting room had turned into a rather professional-looking store. Weldin had removed the entire front wall, leaving it open to the main guild hall, and it was brightly lit by a few well-placed enchantments. Ali found many of the items that she and her friends had collected from the Kobolds on display, but there were a few other things she knew they hadn’t supplied.
+
+Front and center on the main display table, she found a collection of colorful potions, including mana, health, and stamina potions, and her personal vote for the ‘most essential potion in a dungeon’, the potion of recall. The powerful smells of caramel, mint, and vanilla emanated from the display – flavors included by the alchemist to make the harsh taste of the ingredients more palatable. There was a nicely designed sign identifying the potions as having been sourced from the Pretty Powerful Potions alchemy store, where she and Malika had fought Adrik and Edrik to save the Gnomish alchemist with her shocking pink pigtails. From the display, it was clear that the two Gnomes had already forged a business partnership.
+
+On another table, she found an artfully arranged set of steel daggers and swords that she thought she recognized. Getting close enough to have to wrinkle her nose against the strong smell of weapons oil, she confirmed that each of them had Thuli’s mana signature inscribed on them. I guess Thuli did follow up.
+
+Ali had initially been uncertain about the idea of a guild store, but it seemed that this Weldin Thriftpenny took his new job quite seriously. He was already turning leads into business relationships, and stocking interesting and useful equipment. Maybe he will buy some of my arrows, Ali thought, considering the value of the new Eimuuran steel Arrows of Accuracy she had picked up, or some of the Bone Arrows. She resolved to talk to Malika about it, because, if she had to negotiate the way Malika and Weldin did, she would be lost in two seconds.
+
+“The Gnome likes our Kobold gear. Says it’s sized for proper people,” Malika declared, joining the rest of them. She was smiling, so Ali assumed the deal had gone well.
+
+“Here you go,” she declared, tossing a pair of sturdy, but otherwise unremarkable, leather boots at Calen.
+
+Given his surprised reaction, Ali looked a little closer.
+
+Simple Boots of Swiftness – level 15+5% to Movement speed+8 DexterityRequirements: Dexterity 53Feet – Leather
+
+Oh, those are nice, Ali thought. Not that she would ever use anything like it, but Calen had been looking for potions to make himself run faster after their experiences in the library, and now Malika had found him a permanent movement speed enhancement on a new pair of boots. It didn’t look like a big improvement, but Calen was beaming. “I can use these and still drink mana potions,” he said.
+
+“I also got these,” Malika said, deftly wrapping her wrists and hands with dark tan leather wraps. “It seems our guild merchant snagged them in the marketplace, thinking he could butter me up with them.”
+
+“It worked, didn’t it?” Weldin called out from where he was laying out his new acquisitions.
+
+“Next time, Gnome, just wait till next time!” Malika retorted.
+
+Weldin just chuckled and continued with his arrangements.
+
+Wraps of Accuracy – level 17+8 Dexterity+6% to Accuracy ratingRequirements: Dexterity 60, UnarmedHands – Cloth
+
+“Unarmed gear is rare and hard to sell, so I did him a favor by buying it,” Malika said loudly enough to be overheard. And then more quietly she added, “But yes, these are amazing for my class.” Malika quickly shared the remaining gold with each of them. “I got five gold for the lesser bone essence.”
+
+Ali hadn’t thought about it much, but it was easy to trust Malika with their money. She always shared it fairly and explained how she was working it out and where it all went when she spent it – such as the two items she had just purchased. She took a smaller share of the gold, accounting for the value of her wraps.
+
+“I found these two job requests on the quest board,” Ali said, retrieving the two pieces of parchment and laying them on the table for the others to see. “What do you think?”
+
+“You want to kill more Kobolds? Just at this guy’s farm?” Mato asked.
+
+“I’m honestly a little worried that I’m responsible for that,” Ali said. Yes, and I feel ashamed, so please, let’s go with it.
+
+“You think it might be a dungeon-break?” Malika asked quietly.
+
+“Yes, when I deconstructed that spire, it damaged a large chunk of the dungeon. We still don’t know where all the remaining monsters went,” Ali said.
+
+“Unfortunately, the timing fits,” Calen said, confirming her reasoning. “Also, this is a good idea,” he said, tapping a finger against the second job. “It seems to be in the same location, so we can probably do both at the same time.”
+
+“We’re good at killing Kobolds, I’m in,” Mato replied.
+
+“Me too,” Malika said. “Regardless of how it happened, we should help the townsfolk. It’s not like it was on purpose anyway.”

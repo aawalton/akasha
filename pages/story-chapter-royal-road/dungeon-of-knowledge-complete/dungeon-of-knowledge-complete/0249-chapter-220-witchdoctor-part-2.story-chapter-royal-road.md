@@ -1,0 +1,105 @@
+---
+id: 1f1fc4f0-8b11-521b-a4a5-3ae4baf931f6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 220: Witchdoctor (Part 2)"
+slug: 0249-chapter-220-witchdoctor-part-2
+partOf: dungeon-of-knowledge-complete
+position: 249
+ownLength: 2034
+unit: words
+ownProgress: 2034
+publishedAt: 2025-04-08
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2184657/chapter-220-witchdoctor-part-2"
+royalRoadId: "2184657"
+markedReadAt: "2026-06-29T20:19:36.897Z"
+---
+
+Hop, hop, little frog. You won’t escape my pot.- Aman Rak Witchdoctor
+
+Malika picked out the enemy shaman from the fray as their primary target, and Ali’s trolls sprang into action, the warriors only marginally faster. Her shaman opened with a Lacerate critical strike, using its thirty-second recharge skill. Even overwhelmed by the sense herself, Ali witnessed the attack being delivered with precision and agility, guided by the Scent of Blood. As the blood-drenched axe struck, it sliced open a deep wound that gushed with blood – blood that began coiling and twisting through the air toward the nearby totem. At the instant the blood in her axe mingled with the enemy shaman’s wound, Ali felt her shaman trigger her Vampiric Hex, and through her Healer’s Sight, she could immediately tell all their attackers began receiving pulses of healing magic from every successful strike. Healing that was powerfully supplemented by the nearby Blood Restoration totem.
+
+Ali glanced at her line of Acolytes standing by, but none of them had cast anything more than a few precautionary restoration buffs.
+
+“Go!” Calen yelled, and a surge of light magic filled the battle, pulsing from the motes floating overhead.
+
+“Bloodlust!” Ali yelled, structuring her mental and vocal command in the language of the trolls for added precision and clarity.
+
+Out in the thick of battle, her shaman responded, instantly triggering the potent signature spell. Troll blood surged, exploding outward from her body as her health dipped dramatically, blood spent to power the spell. Ribbons and streamers of blood lashed out across the battlefield, forming the circling bloody runes, and coloring everyone’s eyes with tears of blood.
+
+“Blood and Bone! For Aman Rak!” Gara screamed. A thin tendril of blood shot out from her hand, bending around the barrier and touching the much higher-level shaman in the middle of the melee, recovering just a little of her sudden loss of health. Moments later, the Kobolds reacted with holy spells.
+
+Ali felt the surge of power coursing through her body, the rush of new strength and lightness in her limbs. She forcibly ignored the powerful desire to rush over and hit something with her fists. I need to have her limit the targets in the future, she noted, wiping the bloody amber tears from her cheeks in what must have made an extremely grim picture. Bloodlust did nothing for a pure magic user like her, nor her Acolytes. The only creature excluded from her shaman’s power was her Forest Guardian fighting on the far flank of the battlefield.
+
+“Burn it down!” Calen yelled; his voice far rougher than usual.
+
+Across the battlefield, her minions, Malika, and Mato blurred with bloody haste and power. The enemy shaman’s health spiraled in an unprecedented freefall, visible to Ali with both her Healers’ Sight and Scent of Blood.
+
+“Focus, everybody,” Malika said, her voice calm and steady. But even her punches seemed far faster and more powerful.
+
+Ali kept her attention trained on the enemy shaman searching for the signs of a magic she couldn’t see forming. A few seconds later, it released its own Bloodlust in response, just as she had predicted. The blood magic exploded out of the shaman, surging toward all the enemy Bone Warriors, causing them to roar and yell battle cries and challenges.
+
+“Use your recharge skills,” Malika called out.
+
+But Ali’s friends and minions were already trained on the enemy shaman, and their empowered assault burned its health down relentlessly, killing it in seconds – before it could even use its powerful healing spell. She noted the clear vulnerability for future strategy: Bloodlust cost a substantial amount of health, leaving the shaman momentarily vulnerable – lower on health and briefly unable to heal.
+
+“Good call, Malika,” Ali said. Her view of the battlefield showed the dramatic impact of the enemy Bloodlust on their overall health, but her shaman responded with Blood Siphon, targeting Mato. Thick ropy streamers of blood burst forth from her hand – far thicker than Gara’s – and slammed into Mato’s straining body as he aggressively defended against four hasted Bone Warriors. The streamers cascaded through him, hopping across to one Armored Drake and then the next in an instant. All three of them recovered dramatically, so much health restored that Ali was shocked. Less than a second later, the shaman did it again, this time the second and third jumps bursting through the Hellfire Wargs.
+
+“This warrior,” Malika announced, picking the next target.
+
+I guess that’s the real difference between a level seventy-one healer and a level twenty, Ali thought, shifting her minions to the new focus. It was as clear a demonstration as she could imagine of just how obsolete her Kobold Acolytes were in a battle against monsters more than three times their level. If I can get used to seeing health with Scent of Blood, there is no reason to use the Kobolds anymore. Or the Forest Guardians. For some reason, this thought made her sad. Maybe Naia can help me with working out how to level them further?
+
+The rest of the battle proceeded predictably now that the enemy shaman had been killed. The Bone Warriors were strong, no doubt, but without their powerful healer, it was simply a matter of time. Malika called the targets one at a time, and they shifted efficiently through them. Before their Bloodlust ran out, Ali and her friends had taken out more than a third of their enemies, her shaman keeping their forces healthy by herself, only needing to supplement her Vampiric Hex and Restoration Totem with an occasional Blood Siphon to top off the tanks.
+
+As the battle wound to a close, Ali had made up her mind. After deconstructing all the fallen trolls, she unsummoned her Forest Guardian, and all but one of her Kobold Acolytes. I only need one, she thought, deciding that Healer’s Sight was critical enough to keep – at least until she was confident with Scent of Blood. It didn’t feel good to part with her father’s Elemental Guardian and the trusty Kobold Acolytes that had served her so well for so long, but they were simply too low level to matter much against these dungeon-spawned trolls. She paged through her Grimoire and summoned a second female troll shaman, giving her the equipment from the enemy shaman they had just killed.
+
+“That good, huh?” Calen asked, responding to the obvious readjustment of her forces.
+
+“Yes,” Ali answered. The difference in capability was so large, that to not adjust and leverage her shamans would be irresponsible. She was beginning to understand why most of the dungeons they had encountered simply didn’t bother with lower-level summons. There had been a few fire spiders in the Emberforge Mines, and the swarm of Stinging Jellies in Naia’s ooze dungeon but, other than that, all the dungeons except for her had skipped the lowest-level creatures entirely. She had enough mana to support maybe one or two more creatures, but she decided to hold off and observe for now. Probably I’ll want another imp, she thought.
+
+“Thanks, Ali,” Malika said.
+
+Calen slipped through the trees without making a sound. His Explorer skill warned him that the area he was moving through was somehow different than earlier, even though the dense overgrowth and mossy trees looked the same – but his tracking revealed strange details about whatever had moved through this space, things he couldn’t readily explain.
+
+Gara had told Ali about the witch doctors, and the presence of a special kind of mushroom they needed to continue through the dungeon. He didn’t know how to find mushrooms, but his skills were ideally suited to tracking down the trolls in this part of the jungle.
+
+Except…
+
+The distinctive three-toed tracks he was following inexplicably vanished again. It was as if his prey had simply taken the last step and then disappeared. The last time this happened, it had taken him about ten minutes of searching before he discovered where the tracks had miraculously reappeared.
+
+A skill for obscuring tracks? Teleport? Calen’s mind supplied theories and explanations as he began searching.
+
+His focus was so trained on the trackless ground, with his skills enhancing his visual perception, that he almost missed the strange flickering in the air by a nearby tree. He whipped his head around in time to see a lean, blue-skinned troll shimmer through from… elsewhere. The troll squatted down, balanced on the knuckles of one hand pressed against the ground. He wore a garishly painted bone mask that completely obscured his face but still allowed his tusks, adorned with dangling beads and leather braids, to jut out forward and to the sides. His lean torso was clad in armor of leather and bone, and in his left hand, he grasped a long segment of a humanoid femur, delicately etched and painted. The troll gestured with the bone and spoke a single word, following that with a cackle of laughter and a little hopping dance.
+
+A wave of dizziness hit Calen as the world beneath his feet lurched. The cackling, brightly painted, capering troll began to grow rapidly larger. His Howling Hellfire Bow grew larger, and heavier in his hand until he was forced to drop it. The trees grew larger until even the bushes and ferns towered above him, while his body felt like it was twisting in all kinds of unnatural ways.
+
+He yelled in alarm, but the only thing that came out was a croaking noise. “Ribbit!”
+
+You have been cursed with Frog HexYou are a frog.Strength is reduced to 5.Damage has a chance to dispel Frog Hex.Curse – Duration: 2 minutes.
+
+Fuck!
+
+His obnoxious troll adversary let out gales of uproarious laughter, going so far as to hold the sides of his belly and slap his thigh.
+
+Throughout the troll’s outburst of mirth, Calen flopped around. He was tiny and weak – far too small to even lift his bow. All his other equipment had gone wherever equipment went when shapeshifted. He couldn’t access his storage enchantment because his ring was gone. And he was green. He croaked again, but he couldn’t make a loud enough noise to attract the others, nor would they even hear him above the sounds of the other frogs and jungle animals.
+
+He had no choice – he ran. But his tiny frog body refused to cooperate, waddling and flopping about. Shit! The troll pointed a broad finger at him and let out another peal of laughter. Calen had never been a frog in his life before. How does a frog even move? He flopped around again, but his legs were too long and bent in weird ways.
+
+Frogs jump, he told himself. Careful not to flop over again, he concentrated. At least my dexterity is still good. He tensed his muscles and sprang forward into the air, executing a phenomenal leap, many times his own height and length, and landed a few feet further from the troll.
+
+Panic began setting in, and Calen did the only thing he could think of. He identified the troll using Explorer.
+
+Witchdoctor – Troll – level 80[Explorer]A Troll Witchdoctor in traditional Aman Rak attire.Category: Dungeon MonsterThreat Level: NormalMonster Type: TrollDamage: SoulKnown Abilities: Regeneration
+
+The witch doctor had finally stopped laughing, and conjured an earthenware jar from somewhere, making a scooping motion with it through the air. In the middle of the arc, the jar – and his hand – became ethereally transparent for a moment before returning to normal. The troll peered into his jar, shaking it a bit before he cackled again and tossed it hard at Calen.
+
+Calen leapt again, barely avoiding being crushed as the jar exploded into fragments on the ground, spilling its contents everywhere – a horde of blueish, transparent spiders and several buzzing insects. To his horror, his throat and mouth convulsed at the sight and, before he could stop it, his tongue shot out and caught a fly.
+
+Gagging and choking on his unwanted, nasty meal he turned tail and ran – or rather, hopped as fast as he could – as a horde of spiders almost as big as he was converged upon him.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

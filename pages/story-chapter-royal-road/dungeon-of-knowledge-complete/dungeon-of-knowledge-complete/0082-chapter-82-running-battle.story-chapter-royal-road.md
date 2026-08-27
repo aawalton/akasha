@@ -1,0 +1,161 @@
+---
+id: d054217f-ed8f-5709-bcc4-07b9f36db110
+page-type-slug: story-chapter-royal-road
+title: "Chapter 82: Running Battle"
+slug: 0082-chapter-82-running-battle
+partOf: dungeon-of-knowledge-complete
+position: 82
+ownLength: 3637
+unit: words
+ownProgress: 3637
+publishedAt: 2024-06-06
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1666071/chapter-82-running-battle"
+royalRoadId: "1666071"
+markedReadAt: "2026-06-29T20:13:41.000Z"
+---
+
+Ali took the last step off the stone bridge, alighting on the time-worn gray flagstones of the central ring. To the north, she could see the jagged edge where about a quarter of the ring was simply missing, a great empty swathe of darkness where once had been a thriving district, ripped away by an ancient catastrophe to presumably fall shattered to the ground far below.
+
+“This is so incredible,” Calen said, breathlessly.
+
+“It looks so different,” Ali answered. She had just been down here – only several weeks ago, her mind insisted, blatantly ignoring the intervening millennia she had not personally experienced – and the jarring shift to darkness, ruins, and undeath unnerved her in a way that made her question her very existence, or purpose. Surely this is all a dream, her mind insisted. It can’t be real.
+
+“I wish I could have seen it intact,” Calen said. “Before whatever it was that blew up half of the rings.”
+
+“It was beautiful,” Ali whispered.
+
+“What’s the plan?” Malika asked, tapping her right foot impatiently.
+
+“That building first,” Calen said, pointing.
+
+Ali recognized the building just ahead as the remains of a research lab she had visited not a week before the calamity, delivering books from the library. Now, half of it lay crushed by an unexplained disaster, covered by a dense layer of the dungeon’s bone. The building crawled with undead; dozens of skeletons and zombies creeping around with movements that no one could ever mistake for the living. Skitterers and other tiny white bone creatures scattered out of their way, hiding in buildings or under the giant, pitch-black mushrooms, only to return as they passed to resume their strange, unknown purposes.
+
+“Can I put the runic circle here?” Ali asked, pointing to a spot in the center of the cleared area Calen had led them to – a tiny beachhead of safety amid the surrounding sea of undead monsters and ruins.
+
+“That'll work,” Calen replied. It was a rather unremarkable spot, distinguished from the rest of the granite flagstones underfoot by being relatively free of bone.
+
+She got to work, finding her Runic Script for her Cure Poison spell coming much quicker with so much practice. From here on out, it would be a lot harder to use her magic circles, she was inscribing these simply as a backup – a failsafe if their incursion into the second ring failed. The buildings were set so close together, that in all likelihood they would be facing a running battle that would take them to the next major street or clearing before they would be able to take a break. They expected it to be much like their first experience with the inner ring, where monsters kept joining the battle in an unending stream, but this time, they would do it with purpose and a clear plan. Ali understood the reasoning, the strategy was required simply due to the density and number of monsters, but she could still feel her heartbeat beginning to grow louder, quicker within her chest as she readied her minions.
+
+She finished up hastily, “I’m done.”
+
+“Ok, I’ll chase that zombie bat off the roof, and then after that, you guys go in,” Calen said, speaking to Mato and Malika. “Ali and I will meet you on the roof.” Their strategy was necessarily simple because they didn’t know the distribution of monsters they faced, nor the exact layout of the building. She and Calen would remain outside laying down covering fire – a strategy Ali had just learned about – while Mato and Malika would poke the hornet’s nest by charging through the front door and finding a way to the roof, if possible, attempting to draw all the undead along with them.
+
+“Ok, sounds good,” Malika said. She and Calen had spent ages hashing out a hundred contingencies in case their plan didn’t work.
+
+“Let’s go,” Mato said, his words ending in a rough growl as his magic warped his body into his favorite form.
+
+Light magic swirled around Calen’s hands, imbuing his bow and the nocked arrow with a strikingly beautiful formation of shining mana before the delicate chain of light shot out across the clearing, angled to strike the zombie bat wheeling just above the building. It screeched as the deceptively powerful magic chain dragged it over the side to crash down on the stone several stories below.
+
+Mato was on it in an instant, and the battle was joined.
+
+“Attack,” Ali commanded her minions, trying desperately to ignore the flurry of noise and activity that they had just provoked from within the ruined walls, and the putrid stench of zombie flesh being shredded by bear claws.
+
+The combined firepower of her friends and all her minions finished off the zombie bat just as the first skeletons burst out, charging from the shadowy doorway.
+
+Re-killed? Ali tried to ignore her distracting thoughts, prompting her to clarify what it meant to ‘kill’ an undead creature that was already dead. I have work to do. Mato had already crashed through the emerging skeletons and was rushing toward the doorway with Malika beside him, roaring his Taunt.
+
+“Go with them,” she said, speaking Goblin to her Storm Shamans. In close quarters, few of her other minions would be effective, but the shamans would be ideal to help Malika and Mato when they ran into heavier resistance.
+
+“Yes, master,” they said in chorus, rushing into the building behind Malika. Immediately, brilliant flashes of lightning magic could be seen lighting up the dark windows and doorways. She heard a feminine scream and a sharp clattering of bones as Malika must have almost exploded a skeleton.
+
+As the others disappeared inside the building, Ali summoned the largest barrier she could muster, cramming Calen and as many of her Kobolds onto it as she could before levitating the entire thing into the air, hovering level with the second-story windows. It took a surprising amount of her willpower to lift the barrier with the weight of all her minions, but she gritted her teeth and pushed ahead.
+
+As Ali levitated up the side of the building, a movement in the darkness through the windows on the third floor caught her eye. Judging by the lightning and soul magic she could see through the stone building, Malika and her shamans had just made it to the second floor, so whatever was in there wasn’t friendly.
+
+“Fireballs through that window,” Ali told her mages, getting a couple of chirps and wicked smiles in response. She raised the barrier higher while their summoned flames intensified. With a swoosh and sizzle, the incendiary spells launched from her improvised floating artillery platform shot through the dark window, illuminating the interior briefly before the detonations ripped through the shambling shapes within, knocking chunks of loose stone and shattered bone from the walls to clatter down into the street below. Fire sprayed out of the windows, tossing debris and even a couple of blazing bodies with it, and as the glow died down, Ali noted with satisfaction that nothing moved within.
+
+Using her barrier as an elevator, she willed it to take their group right to the top. Ali stepped out onto the flat roof and began arranging her minions as they disembarked so that they would have the best shot at the open trapdoor and stairwell that led down into the bowels of the ruin below. Calen scanned the air briefly for any aerial danger while Ali tracked their friends’ progress deep within the ancient Dwarven stonework by the steady flickers and flashes of mana visible through the solid granite walls thanks to Arcane Insight. The building began to tremble and shake as the crashing of combat and the muffled cracks of lightning grew progressively louder.
+
+With an abrupt crescendo of noise, Mato burst out from the stairwell and onto the roof, trampling several luckless skeletons beneath his paws, immediately followed by Malika and a horde of monsters. Ali identified them at once.
+
+Warrior – Skeleton – level 24Mage – Skeleton – level 31 (Fire)Warrior – Zombie Kobold – level 28Rogue – Kobold – level 25The tale has been taken without authorization; if you see it on Amazon, report the incident.…Mage – Skeleton – level 32 (Ice)Mage – Kobold – level 33 (Death)
+
+Some of the undead skeletons and mages must have once been Elves or Humans, judging by size. Most were clad in mismatched bone armor and wielding weapons of bone, but there were a sizeable number of Eimuuran steel pieces in evidence, obvious by their distinctive reddish-black gleam. Several Kobold zombies emerged, bringing with them the overpowering stench of rot and death. But interspersed among the dead were several live Kobolds – a haphazard group of dungeon-spawn that seemed to have no rhyme or reason to their makeup.
+
+Every creature focused on killing Mato as he wheeled about to face them, thundering his challenge again. Briefly Ali’s nape crawled. That was one impressive chunk of bear. And he’s my friend, remember?
+
+“Fireballs,” Ali commanded, without further hesitation. There were probably around thirty monsters; trying to pick them off one at a time was simply not an option. She crouched behind her golden barrier, focused entirely on directing her minions, summoning lightning totems in the center of the pack, healing Mato with her Acolytes, and dropping sequential Fireballs on top of the undead.
+
+“They’re not dying,” Calen noted, after a few moments of unleashing his arrows into the magical onslaught.
+
+“What?” Ali gasped. The center of the rooftop had turned into a chaotic explosion of magic, filled with so many different types of mana and attacks that Ali was struggling to keep track of what was even going on. But, to her dismay, the expected death of all the monsters failed to materialize. Even after the fifth fireball, she had only managed to down two of the living Kobold rogues – none of the undead had even faltered.
+
+She focused intently, ignoring the flickers of lightning, the detonations of fire, Malika’s soul magic, Mato’s nature mana, Calen’s shining arrows, and even the holy magic of her Acolytes. What is left? There were several unusual formations of ice magic from a couple of skeletal mages. And then she saw it. A potent formation of dark black mana condensed into an orb gripped in the talons of a black-robed Kobold, that seemed to suck energy and life away from any living monsters in the vicinity. The talons opened, releasing the orb, and it flew into the center of the conflagration and exploded, a concussion of death magic that she had not noticed amid the continuous Fireballs.
+
+Is it healing them? Is that a kind of reversal of Nature-based healing? No, more like the opposite of holy… With a chilling certainty, Ali knew it was true. The explosion of death mana was being absorbed, taken up by the skeletons and zombies as they scrambled to their feet with renewed vigor.
+
+“Calen! The Kobold Death Mage at the back is healing them!” Ali yelled. She redirected all her archers and her own Arcane Bolts in a desperate attempt to kill the mage. Beside her, Calen flared with the brilliant incandescence of his Righteous Fury sending his arrows screaming across the rooftop into the small Kobold healing the undead from its hiding spot by the stairwell. In a matter of seconds, the Death Mage dropped to the ground, a smoking pincushion, and suddenly, like marionettes with severed strings, the undead began to collapse to the deafening explosions of fire and lightning.
+
+Better. Ali stopped her enthusiastic Fire Mages, redirecting her minions to mop up the stragglers. A few of the skeletal mages had been outside the range and were missed by the fireballs. But the concentrated firepower of all her minions made short work of them.
+
+Ali mopped her forehead with the back of her hand. “Done?”
+
+“Hardly. We aggroed the next building over,” Calen announced, his voice calm, but still conveying the urgency of the situation. “Incoming.”
+
+Sure enough, the next building was crawling with activity, skeletons, zombies, and Kobolds already spilling out of the windows and doorways, drawn by the sound of their combat. And here, finally, Ali fully understood the genius of Calen and Malika’s plan. Most of her minions were ranged – mages and archers. Quickly, she lined them up beside Calen at the edge of the rooftop, yelling, “If it moves, shoot it!”
+
+Both Mato and Calen snort-laughed at her high-pitched tone.
+
+“Whatever works,” Malika grinned.
+
+Blushing, Ali formed her barrier elevator for Malika, Mato, and her shamans, and lowered them down to the ground to face the incoming horde while she rushed to deconstruct anything she could lay her hands on in preparation for the second wave.
+
+Mato charged off the barrier before it even touched down, tearing across the street and smashing into the undead monsters spewing forth from the doorway, roaring a challenge to reduce their strength and ensure they all focused on him instead of running rampant and causing chaos. Rearing up onto his hind legs, he Swiped left and right to clear himself a space to fight in.
+
+There were a few larger skeletons among the masses – raised remnants of Humans or Elves, and even a few stocky shapes that may once have been Dwarves. All of them wore pieces of bone plate armor or the dark Dwarven Eimuuran steel, just like his own. His Swipe crashed through everything, crushing bone and crumpling armor, empowered with his Bestial Combat and the energy imparted by his spent life force. The raking attacks were perfectly suited for striking multiple closely bunched monsters simultaneously. He was getting used to the tearing pain whenever he used his ability, and it hardly bothered him anymore. Much more important was judging how much he could spend without putting himself at undue risk. While his Brutal Restoration restored a substantial amount of health, it trickled in over thirty seconds, and a lot could happen in a battle in the short span of a few moments.
+
+He blocked several particularly dangerous strikes from slashing bone swords, opting to let his armor and bear hide take the brunt of the other attacks. The burning surge of healing through his body told him Malika had arrived, and he could press forward. Without her by his side, his attack would have failed in minutes, a meaningless death in a dungeon deep underground.
+
+“Let’s go,” Malika said, punching an undead Kobold so hard in the throat, its spine snapped with a sharp report. “I’ll follow you.”
+
+He shifted sideways, pulling the pack of skeletons with him, placing himself beside the gossamer glowing chain that catapulted upward, snagging a bat out of the sky and dragging the struggling creature to the ground with a crash that splintered two skeletons from the force of the impact. Calen saw that? Nice! Mato roared, lashing out with an empowered Swipe that tore through the lightly armored bat hide as if it were paper. The blood that sprayed across his face and the skeletons he was fighting surprised him for a moment – it had been a while since one of these had been alive instead of the more common, putrid rotting zombies.
+
+Mato sensed the incoming fireball before he even felt the heat. As his Survival Instinct leveled, he was beginning to gain more and more subtlety with his perception – and telling the difference between a fireball and a sword without being able to see it was a remarkable advantage. The detonation sent bones and rotting flesh flying before Malika seized the chance to top him up with a quick heal.
+
+The chain of light expired, and the bat frantically launched itself into the air to get away, despite its grave injuries. Mato ignored it, content for the moment that he had enough monsters to engage with, and charged through the doorway and into the darkened room within the ruined building, dragging the remnants of the monsters along with him through the hail of fire and arrows. His enhanced senses adjusted quickly, picking out the roaming forms of several zombies and skeletons that still wandered within.
+
+Suddenly, a magical wall of bone sprouted out of the floor with a creaking crunch that set his teeth on edge. He charged, relying on his mass and momentum to crash through a section of the bone wall, sending dust and shards flying and the Kobold mage on the far stairs scurrying upward and out of sight.
+
+Click.
+
+Shit! Traps! His Survival Instinct warned him of the attack, but it was already too late. Multiple darts slammed into his flank, several of them bouncing off his heavy armor, but a couple were placed perfectly to deliver their poison.
+
+You have been afflicted with Poison.+3 Poison damage per second.Poison – Duration: 10 minutes. Count: 1
+
+Immediately, three squat Dwarven skeletons emerged from the swirling dust and darkness, wearing plate armor and wielding shields and swords of that same reddish-black steel. He swiped crosswise hitting all three of them with a powerful blow, feeling the stabbing pain as his attack ripped through their armor. A touch of Malika’s healing and the long slow pulse of his restoration magic began counteracting the damage of the poison as he shifted sideways, pulling his enemies further into the room.
+
+His job was not to kill them all, merely to collect them and rush to the top of the building again. But as he reached the stairs, Survival Instinct screamed at him, and he desperately tried to guess which direction to block. He lucked out, blocking one of the two rogue ambushers, but the second stabbed from the shadows, burying its darkly glinting dagger deep between his ribs. The burst of pain was so extreme he stumbled, crashing into the wall. Fuck, Ambush! He roared a challenge, realizing belatedly that he should have done that to reduce the rogue’s strength at the first sign of danger.
+
+Live and learn, he thought, noticing Malika had collected the skeletal and Kobold mages from the corners and was sprinting toward him, dodging bolts of magic. “Second floor, go!” she yelled. “Heal incoming!”
+
+Mato charged up the stairs with Malika close behind, only to run face-first into a wall of bone that sprang up out of nowhere. A large barrel tipped into the stairwell from above, pouring copious quantities of toxic green liquid over his head and shoulders – a liquid that looked suspiciously like wyvern spit. Stinks like it too.
+
+Your Poison has increased to 2.
+
+A distant detonation sounded from somewhere far above, rocking the foundations of the walls and triggering a pained screech from beyond the stairs. Mato swiped at the wall of bone, spending the health to tear it to shreds with his claws while Malika’s magic topped him up once again.
+
+With their enemies still hot on their heels, he and Malika raced up the stairs into a broad open second level, lit by the still-flickering gobs of flame – remnants of one of Ali’s fireballs. Corpses lay everywhere, burnt past recognition. Whether they had been undead or not, Mato didn’t much care; instead, he charged the still-moving figures in the far corner.
+
+His Swipe tore into the bone-studded leather armor the warriors were wearing, much softer targets than the usual plate armor, but the longswords set his danger sense off, tearing great slices through even his dense hide.
+
+Another bone wall appeared between him and the mages huddled in the corner, and he heard a thump and a muffled curse from Malika.
+
+“Fucking wall,” she grumbled. “I can’t see shit.”
+
+He was just debating how he could corral the monsters chasing him, the new ones, and still hit the wall, when Malika backed up two steps, then raced up the sheer bone barrier and leapt over the top.
+
+“I’ll bring the mages,” she said, freeing Mato to drag the monsters he had already secured off to the stairwell again while stealing a little of the damage she incurred to himself to give her an edge.
+
+Mato took to the stairs again, charging upward after verifying by the sound of her breathing that Malika was just behind him. The two of them emerged onto the roof with a veritable horde of Kobolds and skeletons right on their heels. Ali and Calen were already firing at skeletal wyverns overhead, so he simply rounded up all the monsters, trying to create the tightest pack he could. Calen would appreciate it; he did like to be efficient.
+
+“Ali, we’re ready,” Malika called out.
+
+The first fireball struck, detonating almost on top of Mato. The flame seared his flesh, burning his fur up in a flash of sulfurous stench that burned at his lungs. The holy magic of an Acolyte and Malika’s simultaneous searing surge healed him to full in an instant. My health is getting whiplash! Mato thought. This strategy worked, but he didn’t have to like it.
+
+In the second between the fireball and the blinding flashes of lightning, Calen’s shining chain dragged a skeletal wyvern down into the crush. Blinded by flame, Mato Swiped to his left flank, guided entirely by Survival Instinct and memory, claws shredding through bone and scales as the wyvern crashed to the ground.
+
+Your Poison has increased to 3.
+
+One of the most annoying things about the skeletal wyverns – apart from the flying – was the fact that mere proximity was enough to be afflicted with their poison magic. This time, though, the wyvern did not escape. The constant barrage of lightning and fireballs destroyed everything that wasn’t getting constantly healed.
+
+“Incoming, next building,” Calen announced, and within a few moments, Mato was being lowered to the ground to repeat the entire exercise once more.

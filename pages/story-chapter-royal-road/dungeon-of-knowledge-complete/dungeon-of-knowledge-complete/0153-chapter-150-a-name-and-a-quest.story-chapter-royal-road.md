@@ -1,0 +1,211 @@
+---
+id: 90497b4d-b3b3-5182-bad5-edb0c0bebb22
+page-type-slug: story-chapter-royal-road
+title: "Chapter 150: A Name and a Quest"
+slug: 0153-chapter-150-a-name-and-a-quest
+partOf: dungeon-of-knowledge-complete
+position: 153
+ownLength: 4269
+unit: words
+ownProgress: 4269
+publishedAt: 2024-10-31
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1877213/chapter-150-a-name-and-a-quest"
+royalRoadId: "1877213"
+markedReadAt: "2026-06-29T20:16:08.771Z"
+---
+
+“Thanks for the warning, Aliandra,” Vivian said.
+
+“Yes, I thought it was better to be safe,” Ali said, taking her leave from Vivian’s office and returning to the guild hall. At least she took me seriously. She had no idea what she would do if her minions accidentally killed one of the novices. I hope they take it seriously too. She would hate to have to unsummon her first boss because she had been over-enthusiastic and unthinkingly selected ‘raid enhancement’ believing that made it the best one.
+
+Best? That’s relative. The problem is I need strong bosses, but not too strong. Right. The challenge of balancing her defense needs against the needs of the guild and the limitations of the pre-bronze novices churned constantly in the back of her mind. She had very limited resources and she had to make every one of them count. At least she had warned the guild now and, hopefully, that meant her Kobold warrior would not be painting the sewer with the blood of the enthusiastic faces she saw clustered around the guild hall enjoying snacks or engaged in animated conversations.
+
+That just leaves my mana situation. Now that her dungeon had monsters, she had barely more than a thousand mana free, and that included all her bonuses from her Empowered Summoner skill and her domain itself. In fact, mana was so tight that if she let her Acolyte get out of range of her skill, her maximum mana would drop below her current reservation from the loss of her wisdom buff, and that would surely be a disaster. There was a time when that much mana would have seemed a luxury, but as she leveled up, all her skills demanded more and more to fuel the growing potency of their effects. Right now, she would struggle to manage in even a halfway-serious fight.
+
+Her best option, of course, was to simply level up – but that required time, her friends, and – the real kicker – enough mana to do something. Another option would be to hunt for a higher-level, wisdom-dominant monster to learn, but she had already asked Ryn to help with research and they had not turned up any particularly good leads so far.
+
+I may have to unsummon some minions, she thought, frowning. It would be counterproductive, drastically reducing the coverage of her domain, but she needed to make more bosses and she did not have the mana to support them. If she wanted to get serious about her defenses, she couldn’t be making level-ten Kobold bosses either – she needed higher-level monsters that could stand up to serious invaders or assassins.
+
+Still deep in thought, Ali nodded to a few adventurers as she passed the jobs board and found herself stepping into the guild store.
+
+“Good morning, Aliandra.”
+
+“Hi, Weldin,” she greeted the always-elegant Gnome who was sorting trinkets perched high up on a tall chair in front of the main display table. “How are you?”
+
+“Good, good,” he said absently, running his forefinger along the text on a tan scroll set before him.
+
+He seems busy, but maybe…
+
+“Hey, Weldin, do you have anything that might increase my mana pool?” she asked.
+
+At the hint of a potential sale, the Gnome’s head snapped up and he fixed her with an intent gaze. “Mana? Regeneration? Or wisdom? I assume you want to keep that fancy new tailored outfit for your body armor slot?”
+
+“I get some powerful bonuses for wisdom from this,” Ali confirmed, running her fingers across the sleeves, “so that would be best.”
+
+“Yes, Lydia’s work is exceptional. Hmm…” he inspected her for a moment, rubbing his chin thoughtfully. “Oh, I think I may have the perfect item for you. Donella sent it over a few days ago – a sample of what she can make with that Magicite you found. Now, where did I put it… brain isn’t what it used to be, you know.”
+
+Ali watched him rummage around in some drawers and boxes, curious as to the nature of what Donella had crafted.
+
+“Here we are – what do you think of this? It’s an off-hand mage bauble that takes the place of a shield slot. You have to hold it – which can be inconvenient – but it comes with this handy adjustable leather strap to attach it to your wrist. She suggested I try and sell it to a priest, or a nature magic druid, but you can have it if it works better for you.”
+
+The item he placed before her was a short silvery metal shaft with a green sphere of glass firmly attached to the end by an oversized clawed jewelry clasp. As he had pointed out, there was a sturdy-looking adjustable strap that could be used to attach it to her wrist so she didn’t accidentally drop it. With her mana sight, she could make out the intricate runework etched into the handle, and the minuscule shard of nature-affinity magicite suspended in the glass orb, giving it a soft inner glow. The craftsmanship seemed decent, but the exquisite runework and elegant tracery of mana really caught Ali’s attention.
+
+“She put a tiny piece of magicite in there to create the mana-battery effect,” he added. “It’s nature affinity, so it should be quite efficient to recharge it with your mana.”
+
+Orb of Mana – level 35Resistance: 252+27 Wisdom.Mana: Recharge the mana storage. Mana may be withdrawn to pay for skills or costs. 251/500Requirements: Wisdom 123Created by Donella NovasparkOff Hand – Orb
+
+“That looks great, Weldin, can I try it out?” It was better than great, she hadn’t been looking for additional resistance, but any additional amount would be most welcome the next time she faced any magic users. The mana battery wasn’t something she would normally need, but being so short on mana right now, she could see the attraction.
+
+“Of course,” he answered. “But if you break it, you bought it,” he added with a chuckle.
+
+She smiled at him and picked up the Orb of Mana. “Oh, it’s heavier than it looks.”
+
+“Yes, but not unwieldy,” Weldin said.
+
+Ali hefted the object a few times, deciding that the Gnome was right and even with it, she would never develop biceps to rival Mato. “I could get used to this,” she observed. She looped the strap around her wrist, adjusting the length to fit comfortably, and then examined her mana. Well, that’s much better, she decided, eyeing the whopping eight hundred and ten increase. Several calculations later, she decided it was more than worth it. Empowered Summoner’s reservation was ten percent of her total mana pool, so it had increased somewhat, but the bulk of the increase accrued to her free mana, putting to rest a lot of her concerns.
+
+“How much does it cost?” It wasn’t nearly enough mana for her to go wild with high-level bosses, but it was a big step in the right direction. And I can study the runework. It was great to see the kind of crafting that was possible with her magicite and that just made her more excited about the orb.
+
+“The magicite makes it a little on the expensive side,” he said, shrugging apologetically. “But I can let you have it for eleven gold and thirty-seven silver.”
+
+“Done,” she answered, pulling out the coins from her ring. It was expensive, but she didn’t want to be caught without enough mana to defend herself.
+
+“You’re supposed to haggle,” Weldin said with an exasperated sigh, and she realized she had just ruined his fun and excitement.
+
+“Oh, oops?” she answered, but she was already happy with her purchase and wasn’t exactly all that sorry. Malika would probably be just as frustrated, she thought.
+
+“Here, I’ll give you a two-gold discount if you promise to find me more of that magicite. Malika told me it was you who found it, and Donella left a standing order to buy all I could lay my hands on. I just hope there’s more of it wherever you found it.”
+
+“Oh, there’s more,” she said, catching herself before she admitted she could make it. She wasn’t lying though; the remains of the condensers still lay in the ruins.
+
+Is it really that valuable? If there was an open order from the Novaspark Academy of Magic, she wouldn’t need to worry about the money Ryn was spending on library memberships and might even have a really easy way to fund the cost of teleportation services to get her a couple of new ones. She would just need to be careful not to bankrupt the academy and draw the wrath of Hadrik Goldbeard by flooding the market. But if she produced a constant trickle, she should have plenty of money, and if this was the quality of items Donella was producing with her raw materials, it would be an excellent result for everyone.
+
+With a happy grin, she took the two coins Weldin offered, and the deal was done.
+
+Malika’s awareness slowly returned to her body. Hard stone pressed into the tingling numbness of her legs. Her ears reacquainted themselves with the continuous background roar of the waterfall. The chill mist caressed her skin, freezing on the ground around her. An incandescent pillar of circulating energy sat before her. I can see. Malika took a deep breath of the thin, icy air and opened her eyes, finding Rezan studying her with glowing blue eyes and a surprisingly open and caring expression on his weathered face.
+
+“You are fully healed,” he said.
+
+“Thank you, Elder,” she said, dipping her head respectfully. It was as he said – the last of the damage inflicted by her bloodline had faded during her meditation exercises and she could feel – and see – her energy circulating smoothly within her body, a pale echo of the power she saw from Rezan, but clean and healthy for the first time since she had earned her sight.
+
+Healed.
+
+For the duration of their frantic, barely remembered journey, Malika had feared dying – and for weeks after, she had been terrified that she would never recover fully. But under the Elder’s patient tutelage and care, she had recovered – and more importantly, she had learned and grown.
+
+When he had initially offered formal mentorship, she had been reluctant to trust him – a stranger, known only by reputation and his authority as an Elder – but, over the weeks of her convalescence in Kezda, she had come to appreciate his consistency, care, and commitment to her recovery and the growth of his students. More important than traits and skills, she had grown to admire and respect the essence of who he was and the open and free way he shared his experience. As a role model and a mentor, she could think of nobody more suited to take over where her parents had left off. His refusal to push her on the question of being his student, when it so obviously meant something important to him, had left a surprisingly powerful impression on her.
+
+She took another deep breath. “Elder Rezan, I have considered your offer of mentorship. If you still consider me worthy to be your student, I’d be honored to accept.” As the words left her lips, she was suddenly plagued by doubts. What if he changed his mind?
+
+He regarded her for a while before breaking the silence. “You honor me with your trust, Malika,” he said, bowing to her. “I gladly accept you as my student, and I vow to guide you to reach your fullest potential, to the best of my abilities.”
+
+“Thank you,” she said, her inner insecurities flipping to relief in an instant.
+
+“You are ready to return home whenever you choose,” Rezan continued, “You have more than enough to work on, but I’d like you to stop by every few months – or when you hit level or skill breakpoints – for further training.”
+
+Malika nodded. She had already noticed she was reaching saturation and she needed time to implement the training she had received. But there was something else that weighed heavily on her mind.
+
+“Teacher,” she said formally, using the Ahn Khen word for a respected teacher or mentor – one of the few words in the ancient language she knew. “My family was killed at Bakahn. Before I return, may I ask you to complete the Rite of Awakening and grant me an Ancestral Name?”
+
+Without her family, she didn’t know who else she could turn to, and she lived in Myrin’s Keep, far from the ancestral villages of her people. While she no longer prayed to the ancestors, she felt that without her Naming, the awakening of her bloodline would be left incomplete somehow. Unfinished. Perhaps it was not the biggest thing, but it… mattered to her, she decided. A warrior could be no other than who she was, no more and no less.
+
+“It would be my honor,” he answered, a small flicker of surprise crossing his face. He fell silent, eyes focused inward for some time. “You have demonstrated great bravery, tenacity, and determination, and yet your energy is gentle and filled with kindness. I, Elder Rezan Jin, would be greatly honored if you would accept the Ancestral Name of Malika Yu.”
+
+How… did he know her? A storm of emotions flooded through Malika. Whether he had done it on purpose, or it had been a pure coincidence, Rezan had chosen her mother’s Ancestral Name for her.
+
+Trembling from the unexpected rush of old grief and happy memories, she fell back on the formal response she had heard so many times, “Thank you, Elder. I will do my best to bear the name of the Ancestor and to bring honor to the Ahn Khen bloodline which has been awakened within me.” She took a deep breath to steady herself and then added, “And to honor my mother who carried the name before me.”
+
+As she uttered the last part, a flicker of surprise crossed Rezan’s face, and somehow that felt right. The fact that he hadn’t known sat better with Malika – almost as if it were meant to be. Even though – she reminded herself – she put no stock in fate and portents.
+
+I have a name. She tentatively explored her feelings. Ancestral Names were chosen to offer homage to the most powerful ancestors and, with only a limited number of them being available, sharing one with someone you knew wasn’t uncommon. Still, it was an undeniably powerful connection to her past, and her family.
+
+Malika Yu.
+
+She tried her new name out in her mind, getting used to how it sounded. A sense of pride slowly rose within her as her Ancestral Name settled, like it had always belonged. It would carry more than the usual responsibility, but she would live up to it. The relief that she had not died in the process of earning it slowly faded, replaced by a fresh resolve to honor them. She just wished her parents could have been here to see this – they would have been so happy to see her growing.
+
+“Yay!” Hala exclaimed, causing her to startle.
+
+“Congratulations,” Basir said, slapping her on the shoulder with a hand heavy enough to unbalance her.
+
+“Ok, I’m ready,” she said. It would be a long hike back down the mountain from the waterfall, but she was eager to return home and see her friends again.
+
+“Very well, let us return,” Rezan said, leading them to the narrow rocky path down the mountain.
+
+“Teacher, if you change your mind about Aliandra’s shrine, you can contact her through Vivian Ross at the Adventurers Guild in Myrin’s Keep.” It was nearly impossible to emulate Rezan’s patience. Still, she managed to hold back on trying to push him on this, reminding herself frequently that it was his patience with her accepting his mentorship that had worked for her. She just hoped it might have the same effect on him.
+
+“I will consider your suggestion,” he answered, but this time she noticed he wasn’t frowning. Hopefully, it was a real shift and not just her wishes for him to change his mind.
+
+I have a name. A new skill, an awakened bloodline, new friends, and the mentorship of an Elder. So much had changed since she had come to Kezda. I can’t wait to share this with my friends.
+
+Friends.
+
+After a moment, she touched her eyes. Once, she had vowed she would never cry again. Maybe this, too, was growth?
+
+Ali smiled at the sight of the brightly gleaming new sign hanging over the great doors to Thuli’s smithy. Gone was the decrepit old sign, lending the smithy tucked away at the end of the cul-de-sac an air of quality and craftsmanship.
+
+I bet that’s Kavé’s magic, Ali thought as she stopped on the step to examine the beautifully lettered sign wrought in steel. Elegantly embossed script proudly proclaimed, ‘Thuli’s Steelworks’ for all to see in Common, Dwarven, Elvish, and even – ambitiously – Draconic.
+
+Nice, Ali nodded and approached the door, instructing her Kobold bodyguards to open it for her. The note Thuli had left for her with Mieriel had been characteristically sparse on details, saying only, “Please stop by whenever ya have a moment. Totally not urgent.” Ali could easily imagine the burly Dwarf saying it exactly like that and, seeing as she was in town already, she decided to pay him a visit and see what he needed.
+
+It’ll be nice to catch up with Kavé too. I hope her apprenticeship is still going well.
+
+The big doors to the smithy swung open under the chirping ministrations of her Kobolds, and Ali had to take a moment to let herself acclimate to the reverberating clamor of ringing crashes and bangs and intense wave of heat that assaulted her as soon as she entered the busy blacksmith shop.
+
+Phew! She blinked. How could people stand so much clamor all day long? Give her a cozy nook in a quiet library any day!
+
+“Greetings, Aliandra. This one wonders if you have come to practice your Draconic?” Kavé asked, glancing up from the bench upon which she was sorting various steel arrowheads and packing them in boxes. She spoke Draconic, but she wore the strange tight-lipped expression that Ali had come to recognize as the girl’s attempt to smile without terrifying people by showing her sharp teeth.
+
+She’d look so pretty if she’d just smile naturally, Ali mused, but that was a far longer project than her learning to speak Draconic. “Hi, Kavé! Thuli left a note at the guild for me to stop by,” she answered, automatically shifting to the Dragonkin’s preferred language, trying to emulate her pronunciation, but she still struggled, substituting Kobold chirps for what should be growls, hisses, or, more correctly, one of the several intricate conjugations of roars.
+
+“That one is busy, he will join us shortly,” she answered. “Your Draconic is improving, but it still sounds like a Kobold.”
+
+“Sorry.”
+
+Ali found a seat near Kavé, dodging the racks of spears and swords, boxes filled with equipment ready for shipping, and the various plate and chainmail armor sets that were spread out on all available surfaces. It was, to her mind, a phenomenal transformation from the dimly lit, dusty, cold room she had found on her first trip here.
+
+Blacksmith – Dragonkin – level 14 (Steel)
+
+“You’re making great progress, Kavé,” Ali exclaimed, coughing as the attempted growl tickled her throat. The new Blacksmith, by all accounts, was advancing phenomenally quickly under the skilled tutelage of her Dwarven mentor, and, with her obvious disposition for hard work, Ali expected her growth to continue unabated for some time.
+
+Those in the trades advance so slowly. Seems unfair, somehow.
+
+Kavé nodded, stoically, but Ali saw the flicker of a smile and knew the Dragonkin girl was happy.
+
+Ali passed the time waiting for Thuli to finish, happily catching up with all the details of Kavé’s apprenticeship and taking feedback on her spoken Draconic skills. Sage of Learning had long since helped her achieve fluency with the language, and it only occasionally reacted to something Kavé said – an unusual turn of phrase or an unfamiliar or uncommon expression. But there were still some important growls and snarls that, without being born with any Draconic heritage, she struggled to emulate sufficiently accurately to live up to Kavé’s strict standards.
+
+“There ya are, lassie!” Thuli exclaimed, stomping into the antechamber, the smithy having fallen silent finally. He dunked his head in a barrel of water, smeared the soot around getting most of it off, and then pulsed his fascinating ember-affinity magic a little, causing his skin and hair to dry instantaneously. Ali studied the brief flurry of tiny flecks of ash floating down to the ground as his unusual mana faded.
+
+“I got your message,” Ali said, “but before we get to that, I brought you some axes.” Knowing she’d be visiting the Blacksmith today, she had created an assortment of axes sampling the entire spread of variants she had learned. Her collection made a surprisingly large pile on the broad wooden table.
+
+Thuli let out a long whistle of appreciation as he picked up a heavy two-handed axe and examined the craftsmanship. “This is a fine axe.” He tested the sharpness of the blade with a broad thumb and then handed it to the curious Kavé so she could study it too.
+
+“You guys look quite busy now,” Ali remarked, indicating the racks of reddish, burnished steel weapons on display, and the boxes and crates stacked up high to the side up against the wall.
+
+“Aye,” Thuli answered. “Commander Brand wanted a lot o’ weapons after the Goblin siege and the undead, and he was quite excited about my new Fireforged Steel. Even some adventurers from out of town wanted to buy some swords and daggers.”
+
+“That must be good for business,” Ali offered.
+
+“It is,” Thuli said, but then he sighed melodramatically and threw up his hands. Ali recognized it as a typical Dwarven affectation and just let him take his time to get to the point.
+
+“I think I’m stuck,” he said, eyeing her intently. “I haven’t been able ta unravel the final steps in the creation of Eimuuran steel. After that farce of a Town Council trial, I know you found the ruins of Dal’mohra, and I understand why you would want to keep something that big a secret.”
+
+Ali grimaced. It had been necessary at the time, but secrets were not good for building trust – a fact she was well acquainted with. She had slowly come to appreciate Thuli for his blunt honesty and extraordinary workmanship, but early on, she had not known who she could trust. “Would you like to see it?” Ali asked, by way of consolation. Or perhaps as a salve on her conscience.
+
+“No, lass, I am no adventurer. Crawling through ruins and fighting off monsters is for you combat people,” Thuli said, grinning. “I’m more than happy with these,” he declared, lifting a halberd in one hand like a feather.
+
+Huh? I would have sworn he’d be falling over himself to see the Dwarven ruins. This much was a surprise, given that he had explicitly stated that finding the lost city was the personal quest he had devoted his life to. However, Ali still detected distress on his face and in his body language, and knowing he was at his wits end she waited, giving him the space to share his thoughts.
+
+“But… if ya find any signs of the Great Forge… that I would give my right arm to see,” Thuli said, a faraway look coming to his eye.
+
+“You need that arm to use the forge,” Kavé said in an admonishing tone, taking Thuli’s hyperbole literally in a way that caused him to snap out of his reverie and made Ali laugh.
+
+“I… obviously, I dinna mean that literally,” he said glaring at her with an expression that was half amusement and half exasperation. “But there must be a missing piece, something I don’t understand in the forging of the steel. I hoped that if I could just see the Great Anvil or the Forge of Thovir, I might find inspiration. Maybe I’m asking too much.”
+
+“I haven’t found the forge yet, but I know where it is,” Ali said. “Or at least, where it should be, I guess. When I was younger, I took a trip down into the mines and saw the forge. I even witnessed Thovir Emberforge working his magic there, but back then I did not have the ability to appreciate his skill with mana. I don’t know if it still exists, but if it does, it would be below the old farming level of the city, somewhere through the mines.” The only problem was it would be behind the jungle and the spawning pools, and by her reckoning, the entrance would be buried under a mountain of rubble fallen from the upper city levels.
+
+“If you can find it – anything – I would dearly love to see it,” Thuli said, reverence filling his voice. “Or even just the Emberforge Mines – if you find any essences, ore, or metals – anything might help.”
+
+“Very well, I will ask my friends to help clear the way there,” she said. There were plenty of monsters in that jungle, but she knew at least one bear Beastkin that would be eager for the challenge.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

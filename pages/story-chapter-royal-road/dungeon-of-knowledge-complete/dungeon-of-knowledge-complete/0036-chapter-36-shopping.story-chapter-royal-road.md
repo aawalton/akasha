@@ -1,0 +1,349 @@
+---
+id: f093062b-24f2-53a5-9efb-9ca637dc92fb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36: Shopping"
+slug: 0036-chapter-36-shopping
+partOf: dungeon-of-knowledge-complete
+position: 36
+ownLength: 6481
+unit: words
+ownProgress: 6481
+publishedAt: 2024-03-03
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1540129/chapter-36-shopping"
+royalRoadId: "1540129"
+markedReadAt: "2026-06-29T20:12:10.424Z"
+---
+
+Ali blinked and then had to squint as she stepped out of the Adventurers Guild into the bright afternoon sunshine. The street out front was not a major thoroughfare, but it was still close enough to the marketplace that there was a constant bustle of busy people flowing past, going about their business, and yet far enough that the pervasive odor of moldering trash and worse that Ali had come to associate with Myrin’s Keep had subsided to only a mild assault on her nose.
+
+Although the sun shone brightly, Ali’s Kobold rogue – the one she had summoned to demonstrate her abilities to Vivian Ross – simply vanished from sight the moment they left the building.
+
+How does it do that? There were no shadowy areas for it to slip into and hide. Nor had she seen any obvious mana usage. However, she could still feel the subtle pull on her mana telling her that he lurked nearby, watching over her.
+
+While their meeting with the Guildmaster had been cut short, Ali felt it was for good reason. “It’s a relief that she took us seriously about the Goblins,” she said, as her friends joined her outside on the cobbled street.
+
+“Definitely,” Calen agreed. He seemed the happiest of them all. Malika and Mato still seemed a little uncertain, even sullen, but Ali was sure it was because of Vivian’s unexpected suggestion about a role change.
+
+“What did you guys think of her?” Ali asked, trying to draw them into a conversation to see what exactly was bothering them.
+
+“She’s very experienced and knowledgeable,” Malika observed, “But…”
+
+“I don’t know if I want to be the tank all the time,” Mato finished the thought, getting a nod of agreement from Malika.
+
+So, I was right. It had felt like a huge torrent of new information to Ali, and she knew she would take a while to process it herself, so it wasn’t all that surprising that her friends had reservations, too. They can’t both tank… wait, is that a thing?
+
+“She had good reasoning,” Calen offered, but Ali could clearly see it wasn’t the logical part of the argument that was most problematic.
+
+“She said it was a suggestion. We could try it a few times like we did with the Goblin Warband, but we don’t have to stick with it if you don’t like it.”
+
+Ali’s peacemaking suggestion got a quick smile and a nod from the two of them.
+
+“I’d be ok trying it out a few times, I guess,” Malika said, scanning the street as if checking for thugs.
+
+Mato simply grunted, before rolling his shoulders as if to suggest he’d be ready to tank a few more Bugbears right now.
+
+“What should we do now?” Ali asked.
+
+“We should get some supplies,” Calen said.
+
+“Too bad there isn’t a proper Guild Store,” Malika frowned.
+
+“What’s that?” Ali asked.
+
+“Many guilds have a dedicated merchant who specializes in catering to the needs of adventurers – buying unwanted items like those Goblin armors we had to sell, and offering member discounts for commonly needed supplies,” Calen explained. “They are granted special permission by the Crown to deal in items that may be considered too dangerous for the general market. But this guild is still very new, it doesn’t have one yet. We don’t need much, though, so that store will probably be fine.” He pointed across the street to a gray stone building. A garishly painted yellow sign hung from a wooden pole jutting out over the doorway.
+
+The Prepared Adventurer.
+
+“Conveniently located,” Ali said dryly, eyeing the building. Clearly, until recently it had been something else – there was a half-dismantled loading dock on the outside and a hoist bolted to the stone of the side of the building. There were ample signs of recent renovation – not yet completed – turning it into a store that appeared to exist solely to capitalize on the new guild across the street.
+
+“At least we don’t have to traipse across town again,” Malika said. “Let’s go check it out.”
+
+Ali followed the others into the shop, her eyes taking a moment to readjust to the dimmer light of the interior. It was crowded and cramped inside, though not from lots of customers. Racks and narrow shelves were arranged in tight rows, bursting with an enormous array of camping gear. Large sections further within displayed rows of rugged boots, entire shelves full of climbing gear, and ropes of all sorts of lengths. Pots and pans hung from nails on the wall, clanking together gently from the breeze they had let in. Portable fire starters, advertised as ‘ideal for when you don’t have a Fire Mage’, were artfully set out at the perfect height to catch the eye.
+
+The bare wooden floors creaked below their feet, and the air smelled of worked leather and fresh mortar, with just a hint of smoky flame coming from the nearby shelf of fire starters. Ali coughed at the sudden reminder of Kobold Fireballs.
+
+“We don’t have a lot of money, but here’s what I got from selling the Goblin gear in the market earlier,” Malika said, showing some coins on her palm.
+
+“We can get the essentials,” Calen said, sizing up their loot with a calculating look.
+
+Ali immediately got lost as the three of them began a rapid-fire discussion of options. All she was able to catch was that they needed a lot of stuff before Malika darted off between the loaded shelves and racks to find tents and Mato raced in the opposite direction looking for cooking gear, bumping almost everything along the way with his broad shoulders.
+
+Calen remained nearby inspecting packs and rope.
+
+“What are we doing?” she asked.
+
+“Well, some outdoor equipment will make camping underground a lot more comfortable,” he answered, “especially as you and Malika are basically living down there.”
+
+“But I can’t carry it, or pay for it,” Ali objected. Mato always carried his pack, and it was huge. But then he was huge and very strong. She, however, was not.
+
+“You have your new ring, remember?” Calen reminded her. “And we’ll share the money Malika got for selling gear. We earned it together – well, we should probably discuss loot as a team soon.”
+
+“Oh, ok.” Ali had been worried about how to earn money, but she hadn’t realized she already had. Even though it probably wasn’t that much, she hadn’t realized they would automatically share, and a lot of her anxiety eased.
+
+It probably could have been a lot more, she thought, glancing at her new favorite wooden bangle that she wore on her left wrist. Malika had mentioned that it was probably worth more than the rest of their haul. Is it really fair?
+
+“Hey, Calen,” she asked, “why did I get a share of the gold when I got this?” She raised her wrist showing her prize.
+
+Calen looked up from his browsing. “Oh, that’s just how adventurer groups split loot. Well, the smart ones, that is. It’s impossible to predict when you’ll find something useful, so the most successful groups simply assign items according to maximum benefit for the team. The rogue always gets the daggers, the archer gets the first pick of the bows, and the mage gets the bangle with Mana Regeneration. Anything left over is split evenly for gold or vanity purposes.”
+
+“Vanity?”
+
+“Like Mato wanting a huge mace to show off in town.”
+
+She giggled. “I see.” The mace certainly wouldn’t improve the team’s fighting ability given that Mato used his claws and fangs. But the regeneration she received from the bangle would always be useful in a fight. “That seems like a smart approach.”
+
+“It even has a name. It’s called the ‘need before greed’ system,” Calen added.
+
+“Thanks.” Well, that explains it. It seemed like a decent system, and Calen’s explanation had taken quite a load off her mind as soon as she realized nobody was going to resent her for taking the most valuable item in their haul.
+
+Intense discussion drew her attention over to the front desk where there seemed to be a vigorous display of gesticulation between Malika and the shop owner. Are they fighting? Did she just threaten to throw Mato at him? Ali stared openmouthed at Malika, listening with growing amazement as her friend bargained with the merchant, efficiently rebuffing his attempts to upsell them fancy magical versions of everything. In surprisingly short order, the volume subsided, and the animated gestures were replaced with smiles and handshakes as they came to an agreement that was conveniently within their price range. She’s clearly done this before.
+
+With a satisfied grin, Malika returned and helped Ali fold everything they had chosen for her into a sturdy olive-green pack that was almost as tall as she was. Each of them, she noticed, had chosen quite a different set of equipment; Mato had a set of pots and pans dangling from his pack – naturally, given his penchant for food – and Calen had picked more varieties of rope than Ali could imagine ever needing. What does the weave of the rope and the fiber have to do with anything? At least he picked some nice colors.
+
+For her pack, they had selected a small portable tent, a sleeping bag sized for a Gnome that felt so soft she couldn’t wait to try it, a magical fire lighter, and a polished stone with a water purification rune inscribed on it – items with simple enchantments for those who didn’t have the relevant magical affinity or skills. She was, of course, going to learn that purification rune as soon as she had the chance to study it. The rest of her pack was filled with various necessities for living in the wild. Like soap, spare socks, and a small knife.
+
+“Uh, why do we need to pack everything if we each have a storage enchantment?” Ali had never owned one – magical storage items had always been well out of her price range as a student. In fact, she felt it was remarkably generous of the Adventurers Guild to provide such a luxury, but the others seemed to think it was essential adventuring gear.
+
+“It should be easier to organize in the ring,” Calen said, and with a tiny puff of mana, his entire pack vanished.
+
+It was a surprising and remarkable thing watching the spatial enchantment work. With the infusion of just a few points of his mana, the entire large pack had just been drawn through a temporary portal of space magic to somewhere unknown. She knew how it worked, in theory – the enchantment provided easy access to a small bubble of space – but watching the magic work was what fascinated Ali.
+
+Touching her pack, she channeled her mana and studied the rapid fluctuations of magic emitted by the ring’s enchantment. Space itself seemed to fold, wrapping her pack in distorted shimmers for an instant, and then it vanished. When she inspected her ring, she could once again see the dim interior in the back of her mind. Only this time, she found her pack, and the original Recall Potion, hovering in the enchanted closet in her mind, just waiting for whenever she needed to retrieve them. She chose the pack and retrieved it before storing it again, just trying to familiarize herself with the process – and, of course, to take another chance to witness the magic unfold. She moved the potion a few times too, noticing that – even though it was a tiny amount – it cost the same amount of mana for the small potion and the huge pack. I guess that’s what Calen meant? She peered at the inside of her ring. If she hadn’t packed everything, it would probably appear cluttered, and she would have to spend a lot more mana to get stuff in and out.
+
+On the other hand, she couldn’t directly retrieve anything from inside the pack. I should keep the recall potion separate, she decided. If she ever needed it in an emergency, she didn’t want to be retrieving her pack and digging through it to find the potion. Hmm. Actually, I need to think more carefully about how I store things in the future.
+
+Bronze Guild Ring – level 10A ring signifying bronze-level membership with the Adventurers Guild.Owner: Aliandra Amariel.Quests: Eliminate hostile Kobolds in and around Myrin’s Keep – 0 Mana: Store or retrieve an item. Capacity: 6.2 / 25kg.Created by Giddy Clicksprocket.Ring
+
+Ali emerged from the mildly claustrophobic confines of the supply shop stepping out into the street once again, enjoying the warmth of the sun on her face, happy that she was familiar with her new ring, and that she didn’t need to carry everything on her back. And there’s still quite a bit of room in there, she thought as they made their way to the market. Most importantly, while she had more than six kilograms of stuff stored inside – a sizeable percentage of her own body weight – it still weighed the same as a normal ring.
+
+While Mato shopped at the nearby vendors for food, Ali took in the delightful sights and smells of the street merchants as they cooked and hawked their wares to the passing townsfolk. There were even buskers trying to attract the attention – and coin – of the passersby with fantastic shows of magic. One young man with a shock of crimson hair, furry ears, and unusual facial tattoos produced a beautiful bouquet of small flowers made entirely of flame and set them floating around Ali as she watched with enraptured fascination before he moved the display to another passing woman who had dropped a copper into his collection tin.
+
+His show was entirely silent, a stark contrast from the noisy market, and Ali wondered if he could even speak. But he seemed amazingly popular, earning quite a few tips in the short time Ali was waiting. Her Arcane Insight enabled her to admire the incredible magical constructions that gave rise to his delicately beautiful display.
+
+He’s really talented, she thought, dropping a few small coins into his tin with a clink, clink, clink that brought a delighted smile to his face.
+
+Arcane Insight has reached level 7.
+
+Oh! Maybe I’ll just watch him for a little longer.
+
+***
+
+“Are there any good bookstores or libraries in Myrin’s Keep?” Ali asked at a suitable lull in Calen’s lamenting the lack of a good Bowyer in the town’s crafting districts. She had not had the opportunity to read anything other than Mato’s Druidic magic book and Calen’s book which seemed to be a collection of fantastical stories about a legendary Night Elf adventurer clearing out impossible dungeons.
+
+“Yes,” Malika answered. “But both are quite expensive.” Ali quirked an eyebrow at her. “The library is near the town center, and it works a little like a guild, but the membership dues are higher than most people are willing to pay.”
+
+“You seem to know a lot about it,” Calen said.
+
+“I had quite a few… jobs… there,” Malika said, her eyes glancing away as if she was quite uncomfortable. “Books are common targets for thievery because of their value. Adrik and Edrik used to run a racket where they would get someone to steal a book, and then they would ‘find’ it and claim the finder’s fee.”
+
+“Everything costs money,” Ali sighed. She had nothing to her name, except the clothing she was wearing – and even that had been a gift – and her guild ring, which she still needed to pay off. Which, technically, meant she was in the red. She had joined the guild because her friends thought it was a good idea, but she still didn’t have the foggiest idea of how to actually earn any money from her membership. “How do I even make money with my class?”
+
+“Quests,” Mato replied, providing the obvious answer, and entirely missing the point.
+
+“The Kobold extermination quest looks like it pays very well, and you and Mato conveniently found their lair, so we will have an advantage,” Malika answered. “And if the Guildmaster can convince the Town Council, we should see some profitable jobs on the quest board tomorrow related to the town’s defense efforts.”
+
+“Like killing Goblins?”
+
+“Yes, but securing a town against a dungeon-break requires a lot more than just fighting,” Calen answered. “Likely there will be a lot more quests to collect materials and ingredients for the crafters to make arrows or potions and all the other supplies necessary to survive.”
+
+“If the herbalists want something collected, I can help you with that,” Mato said. “Perhaps you can even learn to make whatever they need and have a steady source of income?”
+
+Ali nodded. “I was hoping you might say that. Yes please.”
+
+They all seemed to have very practical suggestions – even Mato’s offer to help set Ali’s mind at ease. Fighting a horde of Goblins sounded scary, but in smaller groups, it might be manageable. Collecting herbs did sound nice and peaceful – if she could make money doing that, she was all for it.
+
+“I guess, if I can’t do anything till tomorrow at the soonest, I’ll just go back down to the Grove. I want to recover from my withdrawal,” Ali said. The ache was bugging her, and honestly, she was quite excited to try out her new tree imprint.
+
+“While we’re still in town, why not visit the blacksmith?” Malika suggested.
+
+“Why would I do that?”
+
+“Vivian Ross suggested that you get better equipment for your rogues. There aren’t a lot of leather armor options, but a blacksmith could have some good daggers. It’ll be fun – come I’ll come help you bargain.”
+
+“Oh, ok,” Ali said, agreeing quickly. She had forgotten that suggestion in the deluge of new information Vivian had subjected them to. With a quick agreement to meet back at the Grove later, they split up, the boys heading out to visit their families, while she followed Malika to the blacksmith quarter.
+
+Malika led her north to where the town butted up against the mountainside – now unrecognizable from her three-thousand-year-old memories. The enormous landslide that had buried the forest and the Grove, while she had lain encased in her mother’s protective spell, had almost sliced it in two, leaving a sheer cliff face that was still jagged and sharp after so many years. The road led directly into the mountain, through a wrought stone archway that was carved with what had, no doubt, once been a delicate relief sculpture – now worn from the long passage of time. How old is Myrin’s Keep?
+
+The passage led surprisingly deep into the mountain, lit at regular intervals by smoky sconces bearing orange-red flickering lights fashioned with fire magic. Faux cobblestone had been carved into the face of the solid rock beneath Ali’s feet, turning the passageway into a street that led past several shops and even a bank hollowed out of the mountain on either side before it reached a cul-de-sac at the end. There she found herself gazing along an underground circular – if she were being very generous with the term – street lined with a noisy row of forges and smithies hewn directly into the rock.
+
+So noisy, no wonder they put them out of the way, she thought, wondering exactly how the smoke of the fires hadn’t filled the air, choking everyone. Sweating laborers, stripped to the waist, toiled in the hazy air, pushing a steady stream of creaking handcarts loaded high with chunks of ore, sloshing barrels, or stacks of wood to feed the hungry hive of industry up ahead.
+
+Malika strode confidently up to the largest and most prominently located smithy and pulled open the burnished steel doors with an ease of movement that spoke volumes for the precision craftsmanship of the owner.
+
+Ali stepped through the doorway and was immediately hit by a wall of heat and noise. The interior of the smithy could best be described as controlled chaos. Behind the typical store-front counter, with its displayed wares, lay a vast sprawling area filled with glowing forges and smiths hammering molten metal upon huge black steel anvils. The magic of crafting skills flickered and flashed, clashing with one another in a violent display of light and noise, reminding her painfully of her withdrawal headache. There were dozens of apprentices dressed in soot-stained leather aprons dashing back and forth at the behest of shouted orders, carrying crates of ore, buckets of water, tools, and a whole host of other obscure errands.
+
+Presently, a bald, sweating man with a singed leather apron worn over his protruding belly appeared from the back room and walked up to the counter with a smile on his face.
+
+“What can I do for you fine ladies?”
+
+Blacksmith – Human – level ??
+
+“We’re looking for a couple of daggers,” Malika said, switching to the same confident manner Ali had seen her use at the supply shop earlier.
+
+Ali was immediately grateful to her for taking charge of the negotiations.
+
+Happily, the smith pulled out a selection of ornate jeweled daggers, placing them carefully on the counter for them to inspect. “These are the finest craftsmanship, look at the sparkle of the garnet in the hilt.”
+
+“I’m sorry,” Malika said, “That looks like an apprentice project. We’re looking for something more practical and in the range of about five silver.”
+
+The man’s face instantly scrunched into a scowl, and he said, “Don’t waste my time girls, go play adventurer somewhere else.” He scooped up the daggers and turned, stalking off while muttering angrily.
+
+Confused, Ali looked at Malika as they left, “What was his problem?”
+
+“This is going to be harder than I thought,” Malika said, sounding rather frustrated. “He saw our fancy clothes and thought we were nobles looking to drop lots of gold on those toys.”
+
+Ali glanced at herself, a little surprised to find she was still wearing the gorgeous outfit Lydia had made for her. And here I am traipsing around in a smithy.
+
+The second smithy turned them away in an almost identical manner, even though this time Malika deliberately asked for practical weapons up front and conspicuously avoided pointing out the lack of quality when they were offered similarly ornate work.
+
+“I don’t want to have to get changed to get proper service,” Ali said angrily at their third failure. “This is annoying. Should we ask the boys for help?” She was loath to admit defeat and ask for help with such a trivial task, but the surprising wall of rudeness they had just been subjected to left her at a loss for how to proceed.
+
+“Heck no!” Malika exclaimed. “I’m not about to ask them for help. Mato will probably get an over-inflated opinion of his importance. Let’s try another one.”
+
+While Ali was quite certain Mato was not actually that kind of person, she appreciated Malika’s determination and persistence.
+
+“What about that one?” Ali asked, pointing to a smaller smithy tucked away at the end of the row, with a dilapidated sign hanging askew that read: Thuli’s Steelworks. It looked forlorn and run-down and, frankly, she felt a little sorry for the building.
+
+“That’s not a bad idea,” Malika answered, peering at it thoughtfully. “Seems like this Thuli might need some business. If he’s even open, that is.”
+
+The atmosphere upon entering Thuli’s Steelworks could not have been more different from the previous blacksmith shops. The air was cold and stale, and the entire smithy, if it could even be called that, was dim and quiet. None of the chaos or heat, nor the noise of busy apprentices and ringing anvils filled its walls. It took Ali several moments before she even noticed the broad-chested Dwarf slouched over a book at the long, scuffed wooden table.
+
+Blacksmith – Dwarf – level ?? (Ember)
+
+A deep red, smoldering heat radiated out through the cracks in a fractured core of coal-black mana buried within his broad chest – the slumbering glow of a still-hot campfire after all the flame had faded.
+
+Ember? That’s an unusual affinity, she thought, mesmerized for a moment, wondering what sorts of magic he might be able to do with it.
+
+“Excuse me? Are you Thuli?” she called out to him. He was short and squat, and like most Dwarves, a little taller than Ali, but broader around in the chest than four or five of her. His enormous beard and red hair were braided untidily, and he looked like he hadn’t bathed in weeks.
+
+Smells like he hasn’t bathed in weeks. Ali wrinkled her nose as she caught his fragrant aroma. He doesn’t look like he’s slept, either. He seemed to be studying the book with a desperate intensity, driven entirely by willpower and focus when, going by his haunted look, he should have collapsed from exhaustion several days ago.
+
+“Go away. I don’t have time for your kind.” The Dwarf didn’t even bother looking up.
+
+Does he hate me because I’m Fae? Or because I’m a woman? Ali shared a worried glance with Malika, but she didn’t want to be rebuffed yet again. “I’m looking to buy a couple of daggers,” she said.
+
+The Dwarf looked up at her, something dark and red glowing in the depths of his eyes. With a gruff, dismissive tone said, “I don’t sell toys to little rich girls, go bother one of the other fancy smiths.”
+
+Ali’s frustration boiled over. Switching to Dwarven, a language she felt far better suited for expressing her anger, she retorted, “Do all the smiths in this town have a problem selling weapons to women? Perhaps you’re unable to make real weapons. I’m here to buy a proper dagger for stabbing real monsters. And you treat me like a girl, I would have thought a Dwarf of all people would not look down on someone for being short.”
+
+Thuli stared at her, speechless. Ali was rather proud of the fact that she had enough restraint to avoid the countless colorful swearwords that the Dwarven language seemed so uniquely suited to. At least, the normal words sounded harsh enough to satisfy her.
+
+“You have a bit of a temper, girl.” While the Dwarf’s words were still confrontational, and he still referred to her as ‘girl’, his tone was substantially more subdued, perhaps even respectful.
+
+“The daggers?” she asked, raising an eyebrow.
+
+“Fine. You should be able to find one or two suitable pieces for your level in that bin over there.” Thuli indicated a large, shallow wooden bin over by the wall that seemed to be filled with random weapons as he returned his attention to the book in front of him. “Anything you find in there you can have for five silver each.”
+
+His attitude was atrocious, but Ali was just happy that they were further along than they had gotten with any of the other smiths. She reached into the bin, picked up a shiny steel dagger, and identified it.
+
+Steel Dirk – level 12Damage: Piercing, PhysicalRequirements: 42 DexterityOne Handed – Dagger – Steel
+
+“Is this any good?” Ali asked in a whisper, showing it to Malika. It certainly seemed sharp enough.
+
+Malika shook her head. “Here, this is a good one,” she said, handing Ali what appeared to be a rather plain and simple weapon – at least to her untrained eyes.
+
+Steel Dagger – level 10Damage: Piercing, PhysicalRequirements: 35 DexterityCreated by Thuli.One Handed – Dagger – Steel
+
+“I don’t see a big difference,” Ali admitted, examining Malika’s choice. The only obvious thing she could see was the mana signature on the second one. “And it’s a lower level.”
+
+“It Appraised as Masterwork quality, so it will do more damage. It’s also a better level for your rogues, and it’s worth a fair bit more than the five silver he’s asking,” Malika explained in a low whisper. “Here’s another good one,” she added, seeming a little surprised and examining her next find curiously for a moment before handing it to Ali. “Odd. I can’t imagine why he’d leave these in a random bin.”
+
+It took just a few minutes, and Malika had selected four Masterwork daggers, all quite similar; functional and simple, and the best quality she could find.
+
+Ali took her haul over to the table and laid them before Thuli, and then placed twenty silver she had borrowed from Calen beside them.
+
+Thuli reached over and picked up one of the daggers and peered at it with his bloodshot eyes. “I see you have a keen eye.”
+
+“I hope you’re not going to try to change the price on us,” Malika said, staring him down.
+
+“No,” he said, sighing, and placed the dagger back on the table. “I may not be worth much anymore, but at least my word is still good.”
+
+As Ali collected her new daggers, her eyes settled on the now-closed book Thuli had been reading.
+
+The History of Dal’mohra: The Lost City of Learning
+
+Her heart skipped as she caught her breath in her throat. A book about home! “I would love to read that book,” Ali blurted out, without a moment’s hesitation.
+
+“You really should mind your own business,” he answered grumpily. “Now take your daggers and be on your way. Before I get upset.”
+
+Ali frowned at his rude response, but she simply stored the daggers in her ring, keeping her annoyance to herself. She had had her fill of rudeness for one day and simply wanted to leave.
+
+“He was really crusty,” Ali complained as they left the blacksmith quarters.
+
+“Yes, crustier than a week-old loaf of bread, but he was also the only one who would sell us anything,” Malika answered, and then after a bit of a pause, she added, “His work is remarkably good. All the daggers with his mana signature were Masterwork quality. Not many smiths put that much care into low-level items – I doubt we could have gotten better anywhere else.”
+
+“Then why does he have such a horrible attitude? Shouldn’t he be doing quite well if his work is that good?” Ali asked.
+
+“I’m really not sure,” Malika answered thoughtfully. “There seems to be more to his story, but we probably won’t find out today. Let’s keep him in mind.”
+
+Perhaps I really ought to mind my own business, Ali thought, but her curiosity kept drawing her back to his book, her speculation of what it may contain, and the puzzle of why this Dwarf might be reading it.
+
+Gerald Brand glared across the table at the woman who had invited herself in and refused to leave. He resisted the temptation to rub the knot forming in his neck, but he could already feel the throbbing of a vein in his temple that presaged the onset of a migraine. There was a mountain of work to get done, and scouts to organize. The Torian forces were making moves that he simply could not afford to ignore, and yet Vivian Ross sat opposite him insisting he listen to this insanity.
+
+It didn’t help that she was a three-mark and none of his staff had even tried to deny her access to his office. Reprimands are in order. And mandatory discipline training.
+
+“Guildmaster Ross, I appreciate your efforts to build an Adventurers Guild chapter here in Myrin’s Keep. Your desire to improve life for all our townsfolk is admirable, but you’re still barely getting started and I have real problems to solve right now. I don’t have time for these ridiculous claims of a dungeon-break.”
+
+“And if it’s true?” she asked. Vivian Ross didn’t seem at all perturbed by his putdown of the importance of her guild.
+
+“It’s not true.” He said it as firmly as he could without raising his voice. “I read the report. Two half-breeds, a Fae monster, and an urchin did not fight a bunch of Bugbears and win. There is simply no way – you, of all people, should know this. And that refugee girl is Anh Khen – she is Torian. Need I remind you we’re currently at war with Toria? And they are pressing their advance as we speak? I appreciate your concern for the town, but I must ask you to leave and let me do my job.”
+
+At that moment, Vivian cocked her head to the side. She did not otherwise budge, utterly unmoved by his tirade.
+
+What now?
+
+“Visitors?” Vivian said, as if he’d asked the question aloud.
+
+At that very moment, his enhanced hearing caught the sounds of yelling and a cacophony of thuds and muffled scraping coming from outside. The door to the garrison headquarters suddenly burst open with such force that the foundations of the building shook.
+
+The din blasted through the headquarters, halting an entire building-full of clerks and aides as they all stopped their work and stared at the spectacle.
+
+An unabashedly humongous figure stooped down, twisting sideways to jam his enormous frame through the doorway. Several guards hung from his legs in a futile attempt to slow him down. He growled as he entered the room, straightening up to his full eight feet of dense muscle and thick dark black fur.
+
+He wore nothing but thick leather breeches and an enormous two-handed blood-stained steel mace strapped to his broad back. His tree-trunk right arm was casually draped over the equally huge Goblin Bugbear corpse slung over one shoulder.
+
+The monster’s red eyes found him across the room. “Brand!” he roared, his voice even louder than his entrance.
+
+Helios save me! It’s that fucking Beastkin again – could this day get any worse?
+
+Gerald Brand groaned as he pushed to his feet. Bjorn’s timing could not have been worse, but the Bugbear he carried spoke of a far more ominous problem. At least she has the decency to not gloat, he thought, glancing back at Vivian who remained silent, sitting with remarkable composure in her seat.
+
+“Bjorn, you are making a scene in my office. I could have you fined for this,” Gerald said, raising his voice finally. He had never made any secret of his dislike for the Beastkin Berserker. He had been acquainted with Bjorn for years, and other than being on the same side for every important fight in Myrin’s Keep, Bjorn had been like a constant splinter under his fingernail. Why does he have to always be so undisciplined, so loud, so … Bjorn? Every time Bjorn got involved, Gerald had more work. It was always that way.
+
+“The Goblins in the south forest seem to be a little larger than normal,” Bjorn snorted, his voice grating like grinding boulders. The giant Beastkin tossed the Bugbear into the center of the room like he was discarding some dirty laundry, making the windows rattle from the heavy impact.
+
+Before Gerald could respond, the giant spun on his heel, raising a fur-covered hand furnished with wicked black claws in farewell, and lumbered back the way he had come, wholly oblivious to the half-dozen guards trying to restrain him.
+
+Gerald took a deep, steadying breath. “Let him go. Get someone to clean that up,” he ordered, indicating the foul-smelling corpse that now littered his lobby. His aides startled and then leapt to carry out his orders.
+
+“I guess I owe you an apology,” Gerald finally admitted, turning back to Vivian Ross – who still hadn’t moved an inch. More than anything, he prided himself on being good at reading people, knowing who was reliable and who was not. And Bjorn had just made a fool of him. Vivian too.
+
+“I still don’t believe those kids killed three Bugbears,” he said, finally sitting down to face Vivian Ross, letting out his frustration as a sigh.
+
+“The Fae girl is a Summoner,” she said.
+
+Well fuck. It was all that needed to be said, honestly. One more surprise cherry on top of this shit-sundae he was being fed today.
+
+“What do you want?” he grunted.
+
+“Same as you, I want the town to survive. I don’t mind if you’re the one to tell the Council – you certainly have the evidence now. I would like the emergency protocols invoked as quickly as possible so that we can get started posting defense quests and supply jobs,” Vivian answered, her tone businesslike. “In exchange, you’ll have my vote for your defense initiative.”
+
+Vivian was offering him a thinly disguised favor, a way to save face. Unfortunately, it was an extraordinarily good offer. If he presented the facts to the Council, he would be seen as doing his job and taking charge of the defense of the town. He would be shown as a confident leader, at a time when the town couldn’t afford the Council’s recent disturbing caution and distrust of his defense recommendations. And her vote would break the tie in the Council. It would put him in debt to Vivian, though.
+
+“Thank you,” he said, accepting her unstated trade. At least I can trust that she won’t want anything that isn’t in the best interests of Myrin’s Keep. It will just also be in the best interests of Vivian Ross and that silly guild project she loves so much.
+
+“They said that Kieran Mori is involved, and you know what that means.”
+
+“Fuck.” Gerald did not typically curse or swear – at least out loud. But if Mori knew of the imminent Goblin horde, he was certain that they would be cornering the market for all the important consumables right at the worst possible moment. He wouldn’t be able to supply the garrison with arrows, potions, and a whole host of other items critical to keeping his forces in fighting shape.
+
+“Now that you’re aware of the situation, I’ll leave it in your capable hands,” Vivian said without a single trace of sarcasm. Even her heartbeat sounded calm and relaxed to his enhanced hearing.
+
+Platinum Rankers. He had met several people over level one hundred, in the second tier, and they were all equally absurd.
+
+Even before she had left the building, he was inundated with work – calling an emergency meeting of the Council, creating purchase orders for supplies, rallying scouts, and sending them out to the southern forest.
+
+He leaned back in his chair, rubbing his temples for real, now. Skies shitting boulders! Hope this stupid town survives – it always has before, against the odds.
+
+Suddenly, he straightened and bellowed at a hapless aide who had the temerity to peek around his doorpost, “Get me a background check on that group of kids as soon as everything is taken care of! Get moving!”
+
+If they were going to be providing critical intelligence, he needed to know if he could rely on them.

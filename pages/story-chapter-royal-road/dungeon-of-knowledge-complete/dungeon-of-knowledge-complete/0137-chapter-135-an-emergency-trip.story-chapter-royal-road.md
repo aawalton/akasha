@@ -1,0 +1,261 @@
+---
+id: 50e2f078-5d20-54f4-b532-1ff6f348cf01
+page-type-slug: story-chapter-royal-road
+title: "Chapter 135: An Emergency Trip"
+slug: 0137-chapter-135-an-emergency-trip
+partOf: dungeon-of-knowledge-complete
+position: 137
+ownLength: 4093
+unit: words
+ownProgress: 4093
+publishedAt: 2024-09-26
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1821310/chapter-135-an-emergency-trip"
+royalRoadId: "1821310"
+markedReadAt: "2026-06-29T20:15:27.323Z"
+---
+
+“Where do we go?” Ali asked, turning to look at Ryn as they stood waiting in line at the Novaspark Academy of Magic. She was a little out of breath, having had to rush across town to get Ryn, and then to the bank to get money. But they had still arrived ahead of Mato and Malika.
+
+Where are they? Ali wasn’t sure what was keeping them, but given how much pain Malika was in, it couldn’t be good.
+
+“We should go to Vertias,” Ryn answered, putting the atlas away. “It seems to be the closest major town near the northern border of the Torian kingdom with a Teleport Locus listed.”
+
+The line moved on, and Ali found herself finally facing the receptionist. He looked harried by the sheer number of people, but he still looked up at her from behind his desk with a small smile.
+
+“Emergency transport to Vertias for four please,” Ali said.
+
+“Of course,” he answered, fiddling with a panel and doing a few calculations. “Professor Addlestone is available, and the fee for four to Vertias will be forty-four gold and six silver.”
+
+Ryn gasped at the price, but Ali simply emptied her pouch on the counter and counted out the coins quickly, pushing them over to the receptionist. It was most of her remaining money, but she didn’t care – they could always make more. It was a good thing teleportation services were open again – Ali hadn’t been sure if she could trust the rumors that the Torians had been driven off, but she had seen no signs of any suppression magic on the way over.
+
+“Here you go,” he answered, returning an invoice and a mana-signed token. “Room 6301.”
+
+Ali nodded to him, taking the receipt and token. She remembered the way from when she had teleported out to Volle and met Naia.
+
+“Ali, that’s expensive. Maybe I should stay behind?” Ryn whispered.
+
+“No, I need your help when we get there. I have no idea where to go.” She hadn’t realized just how much she relied on Calen for navigation, and now that he was gone she felt lost.
+
+Ali turned to see Mato entering via the huge doorway into the academy, and Ali’s heart ached to see him carrying Malika in his arms. Her friend, who had been so powerful in battle, was reduced to an invalid who couldn’t even walk on her own.
+
+It took just a couple of minutes to get upstairs to the office of the eccentric professor of space magic, and suddenly they were in Vertias, standing in the center of an inscribed teleportation locus.
+
+***
+
+“We can rent a wagon from the district near the city’s northern gate,” Ryn said, looking up from the tourist material she had grabbed from the teleportation locus receiving room.
+
+“No,” Ali said. “That’s too slow, I’ll fly us. Hop on.” She summoned a broad disk of barrier magic in the middle of the street and climbed up onto it. She hovered awkwardly by while Mato laid Malika gently down in the center. She itched to help, but with her size and lack of strength, she would simply be in Mato’s way. After Malika was finally situated, Ali sat down beside her while Mato and Ryn took their places toward the front and Ali set them shooting off over rooftops to the sound of startled shouts from passersby.
+
+“Go north,” Ryn said, her nose already buried in the maps.
+
+Ali directed the barrier out of the north gate at a healthy clip, finding an arid dusty landscape with sparse bushes and withered trees dotted about. The dry air had an unfamiliar, peppery tang perhaps from the bushes. Below them, the road wound its way northward, but it seemed only to be maintained for the first kilometer or two, and after that, it petered out into an ancient dirt track with ruts where generations of wagon wheels had carved grooves deep into the rocky ground.
+
+“This way?” Ali asked.
+
+“Yes, follow the road,” Ryn said, glancing up from her books and maps.
+
+“Ok,” Ali said. Through the haze of heat and dust, the mountains slowly loomed larger as the day wore on. She hadn’t had the money to teleport her minions, nor did she have a lot of space left on the barrier disk, so, for safety reasons, she summoned a couple of emerald-green Poison Wyverns to act as an aerial escort. With nothing better to do, she also summoned a flight of Luminous Dragonets to act as extra eyes and a single Kobold Acolyte, just in case.
+
+“I’m scared, Ali,” Malika whispered.
+
+“We’re right here with you, Malika,” Ali said. Malika had explained how her bloodline was consuming her maximum health, stamina, and mana unpredictably. It seemed even more terrifying than her domain withdrawal – at least her withdrawal was predictable and had a simple fix. Not knowing what to do, Ali simply held her hand and sped them along.
+
+Where will we find an Elder? There’s nothing out here. Nothing at all.
+
+Calen stood staring at the corpse of the oversized Obsidian-Scaled Monitor Lizard, breathing heavily. It had been a rough fight; the monster’s tough, black-scaled hide had protected it far too well against his arrows. He had scratches and scrapes all over his face and arms, but he had stuck to Lyeneru’s rules and beaten it without using flight.
+
+“Good job,” she said, descending and summoning her skinning knife to her hand.
+
+“Thanks.” Lyeneru had made Calen hunt every monster they encountered on the way, each time giving him a different set of restrictions or challenges to achieve. While Ambush had not been one of the skills she had been looking for, he had to admit it was a far bigger upgrade for his class than he had even dreamed of. With his ability to delay his magic enhancements till the last possible moment, he was able to take advantage of the bonus to critical damage, applying it to his magical as well as physical damage. So far, he had beaten everything she had thrown at him, and the new Ambush skill was a large part of the reason for his success.
+
+Aah, finally, he thought as the long-awaited chime sounded. Apparently, he wasn’t half as patient as he would have liked to think.
+
+Archer of Light has reached level 40.+10 attribute points.
+
+He considered his ten points carefully. Lyeneru had recommended a little more investment into strength to help use more powerful bows. But I don’t have one right now. It was unlikely that she would have him fight, but if she did, he needed to invest in survivability. That meant boosting his evasion, speed, and health. Continuing to follow his carefully charted plan for optimal growth, he spent five points on dexterity and three on intelligence, placing the last two in vitality.
+
+Radiant Archery has reached level 26.Explorer has reached level 25.Azrael's Wings has reached level 12 (+2).Class skill slot unlocked.New skills are available for Archer of Light.
+
+Please be something good. The Pathfinder had offered him temporary use of her mentorship enchantment and accelerated his skill advancement dramatically, and for all the help and advice, all he had to do was point in the direction of the Death Knight whenever she asked. Something she presumably had the skills to do for herself anyway. This was all for his benefit, and still, he yearned to show her what he could do. To impress her, as impossible as that sounded.
+
+New skill unlocked.Class level has reached 40.Survived a battle against more than 100 foes.Dexterity has surpassed 260.StrafeStamina: Magically split your arrow firing consecutively at each of the [2 + skill/10] nearest foes. Split arrows are hasted taking the same time to fire all arrows as a normal single shot. Light, Ranged, Area, Dexterity
+
+Oh, nice! Area damage. Not as effective as one of Ali’s fireballs, but still, it was a multishot skill of a sort.
+
+New skill unlocked.Class level has reached 40.Two or more Light skills have reached 20.Killed over 50 monsters in a single battle. Intelligence has surpassed 100.Heaven’s StrikeMana: Use half your maximum mana to cause a huge pillar of light to strike your enemies from the sky.Light, Ranged, Area, Intelligence
+
+Interesting… This skill was also an area damage attack, but it sounded more like a mage skill. Does it even use my bow? It was ridiculously expensive, especially since mana was already such a problem for him. Maybe if I had an illimitable font of the stuff… smiling wryly to himself he checked the next skill notification.
+
+New skill unlocked.Class level has reached 40.Mentor: Lyeneru Silverleaf.Defeated a higher-level enemy while dodging every attack.The story has been illicitly taken; should you find it on Amazon, report the infringement.At least one Illusion skill has reached level 20.Dexterity has surpassed 250.Intelligence has surpassed 150.Mirage ArmorMana: Bending light around you, your body creates afterimages as it moves, making it significantly harder to hit you. Evasion is increased by [skill x 7 + intelligence + dexterity]. Reserve: 10%Light, Defense, Illusion, Intelligence, Dexterity
+
+Illusory armor?
+
+“Congratulations on the level up,” Lyeneru said, coming to land beside him. “Get anything decent?”
+
+“These are my options,” Calen said, immediately sharing his skill choices with her.
+
+“Mirage Armor, definitely,” Lyeneru said, without even a hint of hesitation.
+
+“Are you sure?” Calen asked before he caught himself questioning her experience. But she didn’t seem to be annoyed by his presumption. “It’s just an illusion.”
+
+“Strafe is strong, but it has a big weakness – you cannot choose your target. I’ve seen many strafe builds locked down by a monster that can outspawn their firing rate, and they are simply unable to shoot the spawner,” she answered.
+
+“I see,” Calen said, immediately recalling the fight against the Toxic Spitter slime in the jungle below Dal’mohra.
+
+“Heaven’s strike is very strong, especially if you can get it to work with Ambush. But that armor will keep you alive.”
+
+“I assume it only works against sight?” Calen asked.
+
+“Yes,” Lyeneru said. “But the Death Knight uses sight. More importantly, most monsters use sight, and you have an advanced Identification skill. Train that till it helps you identify modes of perception and you will know which fights to run from.”
+
+“Ok,” Calen answered. She seemed incredibly knowledgeable, understanding the nuances of the skills even for a class that was not her own. It made sense though, she had a wealth of experience he couldn’t hope to match.
+
+“If you disagree, you can swap it out after we kill the Death Knight. Or better yet, replace your Motes of Light skill, unless it advances well. If you pick Mirage Armor, you have a decent shot of surviving the Death Knight – at least, with me there to help you.”
+
+“You’re going to let me fight?” He bit his lip. Yes, I just sounded like an idiot.
+
+“A small role,” Lyeneru said, smirking. “I’ll admit I was a little skeptical of your light affinity at first, but that is one of the best defensive skills I’ve ever seen on a silver rank.”
+
+Whoa, hold on a fricking second! A compliment, plus she’s going to let me fight the Death Knight? For a brief moment, it was all he could think of. Nothing else mattered. It was nigh impossible to untangle the excitement and pure terror that rose within him. The Death Knight was a terrifying foe, and he was going to go up against it. He just hoped he didn’t mess it up and embarrass himself in front of her. Well, he’d be too dead too fast to be worried about the embarrassment.
+
+Oddly, the macabre thought eased his anxiety and Calen found himself actually smiling – smirking, even – as he filled his final class skill slot.
+
+You have gained the class skill Mirage Armor.
+
+“I’m ready,” he said.
+
+“Let’s hunt!” Lyeneru let a rare grin show. “Trust me, after this fight, you are never going to want to disable that skill.”
+
+Malika drifted in and out of consciousness, vaguely aware of the passage of several days upon Ali’s flying barrier and her continued presence beside her. Her moments of lucidness were dominated by frantically checking the cumulative degeneration of her bloodline which progressively consumed her life and energy, and her bouts of shooting pain and visual distortion.
+
+Malika tuned out Ali’s reassurances, not because she didn’t care, but because she found it almost impossible to concentrate on the words while the jolts of pain punctuated each terrifying notification.
+
+Your bloodline has deteriorated. -4% to maximum health.
+
+I don’t want to die. The world faded to black as she passed out once again.
+
+Malika came to, but this time something was different. The wind on her skin was gone and she lay on the ground by a rock.
+
+We’re not moving.
+
+Somewhere up ahead, voices were arguing. Ali, Mato, and Ryn – her constant companions for the last several days – were all conspicuously absent. She groaned as she sat up, finding her body to be weak and unresponsive, but she dared not heal herself lest she trigger another round of painful notifications and the further deterioration of her bloodline.
+
+She crawled around the rock and stared out at a confrontation. Mato stood out front with his chest puffed up, blocking the path as he gestured emphatically with his hands. Beside him, Ali levitated on her barrier while Ryn took cover in the back. Several large wyverns circled menacingly in the air.
+
+But Malika had only eyes for who they confronted. She gasped.
+
+Out in the center of the dilapidated road were three people dressed in plain homespun robes. She squinted to try to make out the details. The two monks standing deferentially to the rear wore the colors of disciples; a slender woman with black short-cropped curls and a stocky mountain of a man with a shaved head. At the front stood a dark, weathered monk wearing a brown robe. His arms were folded across his chest, and adorning the left side of his face were the ornate runic tattoos signifying his station as an Elder.
+
+How is he here? Malika did not recognize the man, but she pulled herself up to her feet to get a better look.
+
+His piercing blue eyes fixed on her the moment she emerged.
+
+“Child of Ahn Khen,” he spoke directly to her. “I am Elder Rezan, we have come with great haste from Kezda in search of you. I witnessed the beginnings of your awakening in my vision; your bloodline may be in grave danger if we do not follow the proper awakening rituals.”
+
+Malika shuffled forward and bowed to him with the form of respect her parents had taught. “Greetings Elder Rezan, I am Malika.” She still did not recognize the man, but that was not surprising as the only elder she had ever met was Inaya, the Bakahn Village Elder.
+
+Immediately, she saw the tension drain from Mato and Ali as they lowered their guard.
+
+“Please do not use your bloodline skill until we complete the rituals,” Rezan said brusquely, turning away. “My camp is close; we will do it there.”
+
+“I cannot turn either of them off,” Malika answered, stumbling as she tried to follow.
+
+“You have two?” he asked, registering surprise on his weathered face.
+
+“I have Clarity and Soul Sight,” Malika answered.
+
+Rezan raised his eyebrow in surprise. “Clarity has not been seen in decades. Come. Time is against us.”
+
+Leaning heavily on Mato’s arm, Malika pressed on and as soon as they reached Rezan’s tiny camp, the pain struck again like a bolt of lightning out of a clear sky. Malika gasped, driven to her knees as she clutched her head, as the world around her lurched, fading to black briefly before returning to normal.
+
+Your bloodline has deteriorated. -5% to maximum stamina.
+
+Rezan turned sharply. “Your bloodline is already unstable.” It was not a question, and she could see the harsh emotion written on his face.
+
+Malika nodded. “For three days?” she glanced at Ali, avoiding Rezan’s eyes.
+
+“Five days,” Ali corrected.
+
+Rezan crouched in front of her, his eyes beginning to glow with an inner light as he held her head and stared, looking right inside of her, and she found herself entirely unable to look away.
+
+“Is there any hope?” Malika asked, ashamed of the tremor she heard in her voice.
+
+He sighed, a frown creasing his weathered face. “You are too far gone for the rituals already.”
+
+Malika’s heart dropped.
+
+“The only chance you have now is to accelerate your awakening. In ancient times, awakening was the result of surpassing yourself in battle. An awakened bloodline will heal,” he said. “But… you will have to defeat me to even have a chance at awakening.” He paused, the lines around his mouth seemingly graven in granite, yet she sensed an emotion – regret, perhaps – beneath his stark pronouncement. “The only other path is death as your bloodline consumes you.”
+
+Malika knew he wouldn’t allow that path. If her bloodline consumed her, she would lose her mind and become destructive and violent before it tore her apart. It was his duty to end her before that happened. With luck, she would die before she could do any real damage.
+
+Malika got to her feet and raised her guard. “I’m ready.” She staggered a little as a jolt of pain hit her.
+
+“You realize I cannot go easy on you?” Rezan said. “If you are unable to awaken, you will die in this fight.”
+
+“Don’t do it, Malika!” Ali gasped. “You can’t!”
+
+“If this is the only chance I have, I will take it,” Malika said firmly.
+
+To her left, Mato shifted, getting a little closer to her, and then his body twisted, growing into a tree.
+
+“Very well,” Rezan said. Carefully removing his outer robe, he handed it to one of his disciples. He stood in a relaxed stance, his athletic arms and torso hardened from a lifetime of training. “You must use all your skills to defeat me. Overcome the pain of the bloodline.” He took a basic stance.
+
+Malika matched him.
+
+“Begin,” he commanded.
+
+Malika had no doubt her chance of winning was minuscule. The Elders’ skills were legendary; she didn’t even question going all out. Immediately, she activated her Divine Step, accelerating herself to close the distance in an instant, unleashing a perfectly executed combination kick and punch with her Soul Strike discharging in rapid flashes. Rezan’s body shifted slightly, avoiding the kick and deflecting the punch on his forearm with an extraordinary economy of motion.
+
+“I said use everything,” he said with unsettling calm as he avoided her flurry of attacks. “Stop trying to ignore your Soul Sight. Do you think you can defeat me without it?”
+
+Malika leapt back and paused. Her body recoiled in anticipation of the excruciating pain, but she did what he demanded. Her entire vision exploded in a riot of colors and distortion. Rezan’s body lit up with a brilliant white energy that wavered and shimmered, warping her perception. An enormous jolt of pain drove her to her knees once more.
+
+Your bloodline has deteriorated. -7% to maximum health.
+
+She forced herself up with a roar that was equal parts frustration, anger, and fear, and charged him once more. Burning stamina, she poured all her roiling emotions and channeled the pain into her attacks, blurring punches and kicks and elbow strikes while Rezan blocked each one flawlessly, his energy flickering crazily in her warped and pain-wracked vision.
+
+She fought purely instinctively, her usual calm and rational fighting style impossible with the pain she was unable to mitigate, even with her Healing Mantra, and her entire field of vision and balance lurching and warping as she tried desperately to push her body faster, harder, and more precisely.
+
+With a sudden flash, too fast for even her reactions, his left hand shot out and connected with her elbow, spinning her, and knocking her to the ground. She rolled head-over-heels, briefly cradling her numbed arm against her body before she surged to her feet and attacked again. The Elder’s mouth hardened into a firm line, and he struck once again, hitting the same elbow. This time the flash of energy was significantly stronger, and Malika distantly heard a crack.
+
+Your bloodline has deteriorated. -3% to maximum health.
+
+In the haze of pain and warped vision, she got up from where she had somehow hit the ground, and attacked once again, registering surprise as her arm did not respond.
+
+“Heal it,” Rezan commanded firmly.
+
+Dimly, she realized her arm hung broken at her side. She had not even felt the pain. She cast Healing Mantra and the arm knit back together with a searing burst of pain that seemed to come more from her use of stamina than the grating of bone snapping back together. She unleashed another series of attacks, but Rezan blurred into action. With two powerful kicks, Rezan broke both her legs, one at the shin and the other mid-thigh. She collapsed on the ground, her legs suddenly unable to support her weight. She ground her teeth as she triggered her Healing Mantra again.
+
+Your bloodline has deteriorated. -3% to maximum stamina.
+
+This isn’t working, it’s killing me. Through the haze of pain, she felt a chill down her spine as her bloodline’s deterioration accelerated due to her fighting. Every time she used a skill, or used her stamina or mana, it ripped and tore her up inside. She got up as soon as her legs worked, and blinked her eyes, trying to see him clearly through the warping energy. Channeling Second Wind to replenish her stamina, she launched her attack. Two steps glanced off the air with Divine Step as she gained height, and, with a flip, she attacked from above using a vicious knee strike that connected hard against Rezan’s crossed arms. As she descended, he punched her in the stomach with an enormous release of energy which blew her backward like a kite in a thunderstorm.
+
+Ali shouted something in the background.
+
+Dazed, Malika shook her head to clear the ringing as she regained her feet.
+
+I haven’t hit him even once. Her heart sank with despair. There had never been even a minuscule chance of her winning her awakening. She had never been so outclassed in her life. It was only due to him allowing her to heal herself that she was even standing.
+
+Your bloodline has deteriorated. -7% to maximum mana.
+
+She staggered from the pain, her vision darkening briefly.
+
+I cannot win like this. I’m just dying faster. Malika used her Healing Mantra and then refilled her stamina using Second Wind. Summoning her utmost determination, she ignored the pain and her fears and put everything into her attack.
+
+If I must die, I will do it fighting. She found she didn’t hate him. She had no desire to leave this world trembling in a ball, screaming in pain. If anything, her only regret was that she would miss her friends.
+
+Don’t be silly, she told herself. They will miss you. You will be worm food.
+
+Forcing her body faster than it had ever gone, she charged, attacking with her most powerful kick, and a flurry of high-speed punches, pouring all her energy into Soul Strike while she dodged his counterattacks. At the end of her combination, her last punch finally connected with his ribs, unleashing her Soul Strike into his body.
+
+But he simply took her strike, his body absorbing her damage without even flinching.
+
+With a sudden rush, his energy surged to a pure incandescent white in her sight, warping and shifting as it drove flashes of pain through her mind. As if in slow motion, she saw his fist blurring, splitting six ways to strike her torso, head, and chest simultaneously. She saw it, but she could not even move an inch in the face of his power and speed.
+
+Instantaneous Strikes. One of the legendary martial skills detailed in the Nine Paths of Ahn Khen.
+
+He released a powerful surge of energy through his fists, blasting through her body and catapulting her into the air. There were several loud cracks, felt more than heard in the distance, and a tearing sensation in what felt like the core of her mind. Her vision shimmered, the world receded to a tiny point of light, and her pain faded.
+
+Ali screamed.
+
+Malika never even felt the ground as her awareness left her.

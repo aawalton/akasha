@@ -1,0 +1,133 @@
+---
+id: 8599c942-08c7-5c82-83cb-5b69f3196d92
+page-type-slug: story-chapter-royal-road
+title: "Chapter 236: A Specter of Aman Rak"
+slug: 0268-chapter-236-a-specter-of-aman-rak
+partOf: dungeon-of-knowledge-complete
+position: 268
+ownLength: 1984
+unit: words
+ownProgress: 1984
+publishedAt: 2025-04-29
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2240819/chapter-236-a-specter-of-aman-rak"
+royalRoadId: "2240819"
+markedReadAt: "2026-06-29T20:20:18.289Z"
+---
+
+Ali’s mind roamed around her dungeon, taking in all the details. The subtle comfort provided by the structured arcane mana woven through by the vibrant threads of living nature mana soothed her, even viewed from afar. The bats roosting on the cavern roof and among the branches of the Lirasian Oaks, the tiny soaring Glitter Dragonets. Somehow, along the way, her horror at being a dungeon had melted and left her with a profound sense of home; she was a dungeon, and her dungeon was her safe haven. Home.
+
+I miss it.
+
+She explored the sewers through her web senses and kobold eyes, absorbing the bright-eyed excitement of a group of novice adventurers she barely knew reaching levels four and five. She remembered most of them from the ceremony at the shrine, and now they were embarking on their journey of growth, ecstatic over the crude daggers and scuffed leather armor their Kobold foe had dropped.
+
+The longer she was away, the more Ali found her mind returning to her domain, simply to observe, and absorb the comfort of her space. Surprisingly, she found it had nothing to do with her domain withdrawal, just a yearning to return home.
+
+She flew through the vast forest cavern, chasing a prickle of mana, leapfrogging from wolf to bat to Forest Guardian until she reached the entry hall to the ancient city of Dal’mohra with its shattered stone doors and the aura of flame from the fire grass and the Kobold boss she had installed to protect it.
+
+Once again, she found adventurers, ever striving to grow. This group stood just outside the range of the bright burning aura that filled the room, discussing strategy. Ali paused for a moment to study them, recognizing Sabri with her gleaming plate armor and heavy shield. There was the tiny Gnome, Brena Novaspark, dressed in mage robes of Lydia’s familiar design.
+
+Gara? To her surprise, the tall troll stepped forward to stand beside Sabri and accepted a potion from the Ahn Khen girl. Then the two of them readied their shields and sprinted forward into the center of the room.
+
+Ali released her awareness right as the first fireball impacted Sabri’s shield, leaving them to their fight, but wishing them luck.
+
+“Gara is fighting my Fire Mage with Sabri and Brena’s group,” Ali said.
+
+“Oh, that’s a good match for her,” Malika said. “And they needed a healer.”
+
+“She’s brave to face a fire encounter – that entire room is burning,” Ali said. Fire was the foil for the legendary regeneration of the troll races, and even culturally they seemed to treat it as dangerous or taboo.
+
+“She is Aman Rak,” Zor’kan declared proudly. “Bravery runs in our blood and infuses our bones.”
+
+“Obviously,” Ali said, but without any trace of sarcasm. She hadn’t met many Aman Rak trolls, but Gara had clearly demonstrated her bravery on more than one occasion. “But it’s still nice to acknowledge it.”
+
+Oh, this is different, Calen thought, staring at the three trolls walking casually down the trail. They seemed somehow difficult to make out, and initially, he thought it was the dappled light, but no, these trolls were transparent. He could see right through them.
+
+Spectral Mage – Undead Troll – level 81 x2[Explorer]Undead spectral mage of the Telim Gor bloodline.Category: Summoned MonsterThreat Level: NormalMonster Type: Troll, SpecterDamage: IceKnown Abilities: Regeneration, Incorporeal.Spectral Warrior – Undead Troll – level 75[Explorer]Undead spectral warrior of the Aman Rak bloodline.Category: Summoned MonsterThreat Level: NormalMonster Type: Troll, SpecterDamage: Physical, BoneKnown Abilities: Regeneration, Incorporeal.
+
+Specters. He had encountered specters before – their group had rescued Lira from the spectral wolves of Alexander Gray when they were searching for Ali. Explorer helped him identify them as summoned monsters, but like before, not technically spawned by the dungeon itself. Although he had never seen these before, it strongly implied another of those horrific blood-stained Bone Altars somewhere up ahead. A more powerful one, by the looks of things.
+
+Carefully he slipped away, taking every precaution to remain unseen, returning to his friends as they made their way up the pathway.
+
+“Specters,” he said. “Undead – two mages and a warrior.”
+
+“Those things are hard to hit,” Malika said, clearly remembering the spectral wolves.
+
+“Yes, they’re incorporeal, we should favor magical damage,” Calen answered. Explorer and his studies were helping him out a lot here. His skill clearly identified the undead traits, and, after he had scouted the undead dungeon south of Myrin’s Keep, he had studied the monster compendium in the library, specifically for the undead.
+
+“Well, that sucks,” Mato said, frowning.
+
+“I’ll use my motes, so you get a little more magical damage,” Calen said, reassuring him. “Ali, set up here, I’ll bring them right down the center.”
+
+And then he slipped away into the shadows using Eclipse, sprinting up the path to intercept the spectral trolls. As soon as he got into range, he paused with an Eimuuran steel arrow held to his bowstring. Physical or conjured? Typically, he fired crafted arrows – technically summoned by Ali’s magic – from stealth for the chance at Ambush – his multishot conjured arrows were far too bright to remain undetected. But these specters were incorporeal, and the physical ammunition wouldn’t affect them – only his enchantments – dramatically reducing his damage potential.
+
+He twisted his lips to the side as he wrestled with it for a few seconds. Aah, screw it, he thought and stashed the arrow back in his ring. In a single fluid draw, he sacrificed his stealth to release three brilliantly shining arrows, making his bow howl hungrily through the trees as he poured on the hellfire damage, adding it to his Light Damage, Explosive Shot, and Motes of Light. May as well use everything.
+
+The pack of Trolls wheeled about at the sudden noise just in time to be lost in the heavy thump and flash of detonating arrows. Morning, boys!
+
+Calen turned tail and fled, darting back and forth as Ice Bolts swished by his ears and a whirling bone axe nearly cut a new parting in his hair before detonating in a piercing spray of bone shards that drew blood from the exposed skin on the back of his neck and head.
+
+Marking his next few steps through the bush, he turned sideways and unleashed a second volley of arrows, burning mana and stamina to power his skills. Again, a howl and thump of explosive arrows ripped through the jungle and Calen felt the surge of energy as his gear leeched back health and mana from his damage.
+
+I could get used to this, he thought, glancing gratefully at his gorgeous bracers as his mana rapidly ticked back up to full and his skin closed, ejecting the bone splinters.
+
+He sprinted around a bend in the trail and darted between the giant pair of drakes and then spun around to find Mato already charging forward through a hailstorm of Ice Bolts while the spectral troll warrior lashed out with translucent bone axes.
+
+At once, he conjured a trio of shining arrows to his bowstring and released them, imbuing magical enhancements on the fly. Even while they were still en route, he conjured a second volley, and then the third, releasing them before the first had even landed.
+
+The first volley struck, triggering a heady rush of mana, health, and stamina returned to him from the damage. Ever since he had donned Zor’kan’s bracer, he understood exactly why Lyeneru had never upgraded it. He simply did not run out of mana anymore, no matter how much he enchanted his arrows. The sheer amount of damage his bow delivered returned far more than enough mana and stamina to cover the cost of his attacks.
+
+Even with the stamina leech on his Howling Hellfire Bow, prior to equipping his bracer, he still sometimes struggled with stamina. Typically, it was when he had to ration his shots and enchantments due to being low on mana – and he was always mana-starved.
+
+Now he had a heady rush of constantly trickling mana flowing back into his mana pool every time his arrows landed. In fact, fully enchanted conjured multishot returned more mana than an unenhanced single shot with a physical arrow. And when he had Righteous Fury up, the trickle of mana turned into a torrent. He hadn’t needed a heal in the last couple of fights either.
+
+He also understood what Lyeneru had meant about using percentage mana effects; skills that took half or more of his maximum mana to activate or those reserving a percentage of his mana. They typically had a much larger impact, and with so much mana being returned, they would easily refund their costs in mere seconds. He no longer considered the cost to reserve his Motes of Light damage boost; it was always on.
+
+At this rate, I might have to reconsider my skills.
+
+He fired his continuous barrage, noting just how durable these trolls were. His attacks were pure magic, constructed of hellfire and light-affinity mana, unaffected by their incorporeal nature, but he could see how much the drakes and Mato were struggling to land hits. And that was even when they were not being chilled or frozen by the frost nova and the ice bolts.
+
+“Hey, Ali, can we get a Free Action totem?” he asked, keeping up his stream of arrows.
+
+“It didn’t work last time,” she answered.
+
+“I think it does still free people briefly, it might be worth it,” he said. Ali seemed to prefer running with two shamans, and even just one of them switching would be worth it.
+
+“I’ll give it a try,” she said, and a bloodstained wooden totem appeared, planting itself into the ground.
+
+“There, see?” he said, as the drakes and the bone warriors suddenly accelerated briefly, before becoming mired in the chill again.
+
+“It’s not a lot of freedom,” she said, frowning.
+
+“Yep, but you saw how far that warrior got with Rush, even with such a small window?”
+
+“Yes, I’ll keep the totem,” she said, nodding her head as she conducted her golden shards of magic through the air.
+
+Pursing his lips, Calen took aim and pinned one of the warriors through the left eye, pleased with his skill even though the shot made no actual difference to the damage – not with these spectral undead. As his hands blurred on and on, he evaluated the fight and soon enough, his chime sounded.
+
+Your group has defeated Spectral Mage – Undead Troll – level 81 x2Your group has defeated Spectral Warrior – Undead Troll – level 75
+
+“Well, that was annoying,” Malika said. “My punches go right through them, only the Soul Strike does anything.”
+
+“Yes, very frustrating,” Mato said. “It’s a good thing they didn’t have shamans.”
+
+“I’m not sure shamans would be a problem,” Calen said, suddenly thinking of the implications. “Specters don’t have blood… so I don’t think the Bloodlust would work. I’m not even sure any of the shaman’s abilities would work.”
+
+“Oh, that’s true,” Ali said. “Do you guys mind if I keep these specters? I want to give Seth a study project.”
+
+“Go ahead,” Calen said, turning his attention to the further chime that just sounded.
+
+Archer of Light has reached level 74.+10 attribute points.Radiant Archery has reached level 39.Motes of Light has reached level 27.Explorer has reached level 42.Eclipse has reached level 28.Eyes of the Archon has reached level 29.Mirage Armor has reached level 24.Bowcraft has reached level 8.Cartography has reached level 16.
+
+“Oh, nice, seventy-four,” he said, watching as the glowing white writing appeared in his mind.
+
+“Congrats,” Malika said.
+
+“Thanks,” he said. His gear was definitely changing the way he allocated his attribute points. With only ten available, he spent four on dexterity, then three each on perception and intelligence. More damage means more mana and stamina returned.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

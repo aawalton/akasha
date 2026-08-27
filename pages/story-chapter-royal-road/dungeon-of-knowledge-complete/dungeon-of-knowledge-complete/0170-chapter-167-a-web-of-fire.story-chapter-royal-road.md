@@ -1,0 +1,303 @@
+---
+id: 718ce6dc-5709-56e5-bf6f-d9d224fe9557
+page-type-slug: story-chapter-royal-road
+title: "Chapter 167: A Web of Fire"
+slug: 0170-chapter-167-a-web-of-fire
+partOf: dungeon-of-knowledge-complete
+position: 170
+ownLength: 5808
+unit: words
+ownProgress: 5808
+publishedAt: 2024-12-08
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1946362/chapter-167-a-web-of-fire"
+royalRoadId: "1946362"
+markedReadAt: "2026-06-29T20:16:47.167Z"
+---
+
+Burn to ash!
+
+- Inferno [The Consuming Flame]. Unique Fire Elemental.
+
+The continual burning of Malika’s skin, hair, eyes, lungs, or basically every part of her exposed to the air, left her feeling drained and exhausted. She sat cross-legged in the pool of lava, simply because the wretched Path of the Earth: The Defensive Arts had clearly indicated that she could learn defensive skills by meditating on the nature of the damage. It had sounded quite straightforward when she had first read it, but after days of sitting in poison traps while meditating, she had made no breakthroughs – and sitting to meditate while her flesh blackened and burnt from the magic of the dungeon’s fire and lava was easier said than done.
+
+“You look toasty,” Mato said.
+
+“I’m busy, Mato,” she said, her prior irritation making her words sharper than she liked.
+
+“Mhm,” he offered unhelpfully.
+
+She pulsed another heal, regenerating the burnt flesh and feeling a fresh rush of pain from the newly regrown nerves that instantly began to char again in a never-ending cycle, and tried to force her mind to become calm.
+
+You can’t force it. The words of her father’s teaching, guiding her through her first meditation, sprang clearly to her mind and she sighed as she let go of her need to make anything happen. Instead, she focused her attention on the incredible pain and the sensation of her flesh cooking from the magical energy and molten rock. To her surprise, her mind quietened, settling into the waves of alternating burning and healing. As she contemplated the rhythm, she began to notice how fire felt different from the poison of her prior study subject matter. Then another cycle flowed by her steady awareness, and she began to sense the distinction between fire and lava.
+
+So that’s what it meant…
+
+“I’m ready,” Ali said, her voice echoing from the small side chamber.
+
+Malika released her meditation after finally having achieved something resembling calm, reminding herself to also release her annoyance at being interrupted by Ali’s voice right when she was making progress. Progress will be there when I return. At least she had invested heavily in her endurance. It was certain that without it, her rather extreme training would not have been accessible to her, even with healing. The confounded book clearly stated the importance of a calm and receptive mind.
+
+The ancestors had pretty messed-up training methods, she decided, getting up and reequipping her stored equipment straight from her storage enchantment with a thought – a handy trick Calen had taught her. Ali emerged from the side chamber with her repopulated army following her about like a brood of ducklings.
+
+“I found this while deconstructing the corpses,” Ali said, summoning an essence and balancing it on a small disk of her barrier magic.
+
+Clever.
+
+“Thank you,” Malika said, taking the ever-burning flame and instantly noticing just how different the essence felt from the ambient fire and lava as it burned at her skin. Something to investigate later, she decided, storing it in her Seal of the Quartermaster ring.
+
+Calen’s voice echoed from beyond the far entrance, “Lots of side passages up here.”
+
+They headed out, Malika taking her spot near the front, resting a hand on Mato’s furry shoulder and pulsing her healing constantly to keep them both topped up. At least with the benefit of Mato’s aura, her stamina regenerated faster, and her healing would take some of the burden off Ali’s Acolytes.
+
+She hopped over a lava flow, landing lightly on the other side, and then confronted a much larger pool that filled the tunnel, spilling out across into a side passage. Rock crackled and popped constantly from the fluctuating heat of the lava stream.
+
+“Dead end,” Calen said, emerging from the passage, and flying over the lava.
+
+While she could have simply Divine Stepped over the large expanse of molten rock, she chose instead to copy Mato and waded through it, healing them both constantly while the holy magic of Ali’s acolytes ticked her health up. I really hope this is worth it, she thought, waiting till Ali had finished ferrying her minions across before continuing.
+
+The tunnels continued to meander randomly with excavations of many different sizes and extents branching outward. It took ages to progress with each side passage needing to be investigated, explored, and deemed safe, rather than risk monsters adding from behind when they least expected it.
+
+“There’s a difficult pull up ahead,” Calen said, raising his bow and aiming with a grimace. “I’ll try to split them.”
+
+They were clustered up in a wide bend in the tunnel. Up ahead, Malika saw the glow of two Shards of Flame, gliding back and forth between the main tunnel and what looked like it might be a passage to the side in a complex weaving dance. They vanished and re-emerged as their paths took them into and out of view, causing the angry red glow to dim and brighten erratically. She held her breath, tension building as Calen studied their movement, aiming for the perfect shot.
+
+Suddenly, his bowstring twanged. The arrow fletching buzzed loudly over the soft sizzling and creaking of superheated rock. The white, glowing arrow slammed into the core of the nearest elemental as it popped into view, and it immediately turned, surging toward their group with a hissing roar like bellows fanning a forge. It glided over the rock, clearing pools and rivulets of lava without slowing.
+
+But a second roar echoed from within the side tunnel and the other Shard of Flame emerged right behind it.
+
+“Fuck, missed that,” Calen swore.
+
+Mato answered the challenge with a roar of his own and immediately charged forward past Calen to intercept the elementals. Right. Action time. Malika sprang forward, alongside Mato, keeping pace with his tremendous speed. But as soon as she entered the auras of flame the elementals were emitting, she realized the problem. Her body immediately ignited as she entered the two overlapping auras of ravenous consuming flame. No way! Urgently she unleashed a flurry of blows, supplementing the sudden demand for healing magic with her Soul Strike.
+
+“We aren’t doing any damage. They’re healing each other!” Ali yelled.
+
+Malika slapped Mato, unleashing a torrent of healing into his burning flank, and then whirled to do the same for Ali’s Hobgoblin. But the instant her hand touched the crimson, burning skin, the powerful goblin collapsed, reduced to a heap of rapidly charring flesh and dense coils of smoke. Crap, too slow!
+
+“Split them!” Calen shouted. “Malika!”
+
+“I’ll take the left one,” Malika said, immediately taking on the role of the second tank and letting Mato know which one she wanted him to ignore, so she could peel it off him. He just grunted, never letting up his focus on his attacks.
+
+Can I even do it? Malika had no fire resistance because of her class’s frustrating gear restriction, and she was already struggling to keep up with the damage, but there was nobody else. The only difference between her and the Hob was that she had a healing skill. So, she leaned into her attacks, punching harder and interleaving her attacks with rapid kicks and brutal knee strikes, imbuing every single one with her mana-stealing Soul Strike. It took several long seconds and more than a dozen hits before the elemental whirled about and punched her with its strangely insubstantial fiery arm. She brought up her forearms in a cross-guard block, but it was only partially successful, most of the damage slamming through her defense and crushing her ribs. She doubled over from the sharp spike of pain, feeling her health drop precipitously.
+
+Right, dodge those, she thought, reacting instantly with a full heal, ignoring the stamina cost, and began to back away from Mato. And here she encountered her second problem.
+
+“Where can I take it?” The brawl had erupted in a tunnel – broad if one were merely walking through, but constricting for a fight. If she moved away from the group, she would be isolated and likely die on her own. But, if she moved toward the group, she would bathe them all in fire. Making the safer decision, she began to draw it away.
+
+“No, bring it here,” Calen called, countering her decision decisively. “We need to kill yours first.”
+
+“Ok.” It was not the decision she would have made, but she trusted him to know what he was doing. At the very least, a coordinated strategy was far better than arguing about which might be the ‘best’ one. She sprinted straight up the tunnel toward Ali and Calen, leaping lava streams, dodging firebolts, and even occasionally managing to avoid the magical damage from the auras themselves with her advanced Enlightened Evasion, but never enough to give her a moment’s pause. She was burning through stamina rapidly, and now that she was beyond Mato’s aura it wouldn’t regenerate nearly as quickly.
+
+“More,” Ali said, making golden flashes as she wielded her barrier magic, reminiscent of the time Rezan had blocked the entire seventh form’s punch sequence with just his palms. “You’re still in the aura. Another five meters. Uh… fifteen feet.”
+
+The elemental hit her with a staggering blow, followed by a firebolt, neither of which she managed to dodge, and her health dipped instantly into dangerous territory. Somewhere behind one of Ali’s barriers, a pillar of holy light shone forth, but she poured her stamina into her healing again, unwilling to risk waiting for the Acolyte. Her health shot up and instantly vanished as the Shard of Flame landed a heavy blow on her back. The gentle embrace of holy healing settled onto her, but with a rapidity and force that had been empowered.
+
+She dragged the elemental further and further down the tunnel in an effort to escape the aura of the other elemental.
+
+“That’s good,” Ali called out. “Right there!”
+
+Malika breathed a sigh of relief as the intensity of the overlapping fire auras halved. She glanced over to see Mato still fighting over by the distant lava stream, and she hoped the little Kobolds would be able to keep him safe from that far.
+
+“Healer down!” Ali yelled, urgency making her voice shrill.
+
+Glancing backward, she saw the kobold Acolytes all on fire, healing rapidly. As she watched, a second one triggered its potent desperation magic, forming a new pillar of brilliant holy light. One of Ali’s rogues collapsed, followed shortly by one of the shamans.
+
+This is bad. She filled her own body with a constant stream of healing, focusing intently on dodging as much as she could to take the pressure off the beleaguered kobold healers. It was clear that Ali was forced to make them stand in the fire aura to reach Mato. If only we had space to separate them properly.
+
+“Another healer down!”
+
+“Recall?” Malika yelled.
+
+“Not yet,” Calen said as he lit the tunnel with his powerful Righteous Fury skill, unleashing a hail of arrows to try to burn the monster down as fast as possible.
+
+Ok, your call, she thought, going all out with Soul Strike, trying to match Calen and hold the Shard of Flame against his prodigious damage. She didn’t have a taunt skill like Mato’s roar to recover it if she let it get away from her. Several more of Ali’s melee minions collapsed in burning heaps as the healing throughput dropped dramatically.
+
+Suddenly she found Ali beside her, standing on a platform of barrier magic.
+
+“What are you…” Malika’s voice cut off as the elemental punched through her guard and hit her in the stomach.
+
+“Don’t move from here,” Ali said, and then something flickered almost imperceptibly in Malika’s Soul Sight – as if Ali’s energy was, for the briefest of moments, in several places at once. Then she felt the pulse of magical restoration coursing through her body.
+
+What skill was that? She couldn’t see the runic circle that Ali had made in that instant, but she most certainly recognized the feeling of the spell that rapidly healed her, taking the place of the fallen healers. Grateful for Ali’s quick thinking, Malika diverted some more mana to stamina and focused on picking up the remainder of her own healing so that the two Acolytes could help Mato instead.
+
+In the zone of continuous punching, dodging, healing, and blocking, Malika became aware of the fading of Calen’s light, but her Soul Strike suddenly came up empty, and the Shard of Flame imploded with a dull whoomph and collapsed to the scorching rock.
+
+She turned to charge over and help Mato, but Calen brought her up short. “Mato, bring it back here to the runic circle.”
+
+Smart. Malika thought, waiting in the circle, letting it top her up before she yielded it to the burning Bear. With two healers down, the Acolytes had to be running low on mana, and they still had a second Shard of Flame to deal with.
+
+The intensity of her self-healing dropped dramatically as she no longer found herself contending with fiery punches blasting through her defenses. Instead, she unleashed her martial arts upon the fire-spewing elemental, dodging in and out to heal Mato whenever she could. It was just her and Mato, and the only remaining shaman Ali possessed, and under the potent effects of Mato’s aura, her stamina began to recover. More and more, she wove heals in between the forms of the Nine Paths, shouldering a progressively larger burden of healing now that he was taking care of the tanking.
+
+With Mato in the circle and her own increased output, the flow of battle suddenly reached a precarious stability.
+
+Ali surveyed battered and burnt remnants of her minion army, with a frown that provoked feelings of uneasiness to spill over through her connection to her few remaining kobolds. It had taken a mere two Shards of Flame and her minion army had been wiped out. The overlapped auras of flame, combined with the underlying fire of the dungeon’s domain, had proved all too deadly for her forces.
+
+The Hobgoblin had died almost instantly, caught in the crossfire of the auras and both volleys of firebolts. Without any fire resistance, her highest-level monster had proved to be worthless, incinerated like so much kindling on a bonfire. Even her Acolytes had rapidly fallen once exposed to even one of the elementals’ auras – a necessity for them to reach Mato with their healing skills given the confines of the tunnel system.
+
+“Deep thoughts?” Calen asked.
+
+“My minions don’t have enough health,” Ali said.
+
+“Even with the Studded Jackets I got?” Calen asked.
+
+“Those are fantastic! Vitality and resistance – they’re the reason the rogues can survive at all,” Ali said. However, being dragged under the lava by the crushing grasp of a lava monster while still taking fire damage from the ambient dungeon domain proved far too much for a level twenty kobold rogue, regardless of his natural racial boosts to fire resistance and the quality of his gear. “The Hobgoblin was useless, and I didn’t even get to test my Brine Oozes properly before they disintegrated.”
+
+“I see,” Calen said. “Fire resistance really is that good? Maybe we can see if Thuli can craft something for your Hobgoblin once we collect more essences?”
+
+“That would help,” Ali said. Even with fire resistance gear, the rogues and shamans had struggled. Higher-level monsters like the Hob were at less of a disadvantage against the elementals and had more vitality and therefore health.
+
+“Maybe we can find you a few higher-level monsters in here?” Mato suggested.
+
+“As long as they don’t have fire,” Ali grumbled. “Even my Scalding Slimes have enough of the fire trait in their steam that they’re healing the elementals.”
+
+“Nice save during the fight, by the way,” Calen said.
+
+“I had to use Arcane Recall to inscribe that restoration circle,” she admitted. They needed to know her ace skill had been burned and she would not be able to pull off that maneuver again – at least for today.
+
+“Ok, if I see a potentially tricky pull again, we go home instead of risking it,” Calen suggested.
+
+“You mean to continue?” Malika asked.
+
+It was the question on Ali’s mind too. Just being in the fire dungeon was dangerous enough, not counting the elementals, or the lava oozes, and who knew what else lurked up ahead.
+
+“I think it’s worth exploring a little further unless you all would prefer to stop here,” Calen said. “I have a better idea of their range now, so I can be more precise.”
+
+“Ok,” Ali said. “Let me resummon my minions.”
+
+Her friends waited patiently while she rebuilt her little army. When she was finally done, she put her Grimoire away, knowing that she had scoured it for ideas and come up wanting. She knew every option she had and understood the limitations she faced, but it was not like she had many better choices.
+
+I really need higher-level monsters. It always came back to that. In particular, a more robust healer would be fantastic. For various unrelated reasons, all her highest-level monsters were unsuitable for this dungeon in some critically important way – from the fire vulnerability of her Forest Guardians to her frustrating inability to summon most of her elemental imprints. She could only imagine how effective a Radiant Brawler or a Coruscant Ray might be down here. Burning down the Shards of Flame with beams of intense light from the far end of the tunnel would be so easy.
+
+At least she might find some success with her Hobgoblins if Thuli was able to turn the latest batch of Essence of Flame into some decent plate armor like Calen suggested. The only problem with that approach was collecting enough essences. This excursion into the mines had so far added two to their haul, and delving deeper had the potential to earn more. Alternatively, they could just wait for her boss to kill enough of the monsters the dungeon spat out, but that seemed frustratingly slow. Not to mention, she needed to earn experience so she could grow her mana pool.
+
+What a mess! Ali sighed and announced, “I’m ready.” If there was one thing she had in abundance, it was problems to solve.
+
+“Ok, follow me,” Calen said.
+
+Even given the struggles of the prior battle, Ali found herself surprisingly curious about what lay ahead. When they had first explored the Ruins of Dal’mohra she hadn’t known she was a dungeon, and for at least the initial exploration, she hadn’t even had her Arcane Insight skill to see mana. Now with so much more information under her belt, from personal experience and finally studying Nevyn Eld’s book on dungeons, she found it extraordinarily educational to study the domain of the Emberforge Mines.
+
+They pressed onward, following Calen through the twisting mine tunnels and exploring the frequent side excavations. Occasionally they ran into isolated Lava Lurkers – mostly in lava-filled chambers off the central path – but, true to his word, Calen managed to pull each of them separately, allowing them to overcome the threat with minimal danger.
+
+Ali spent most of her time between battles trying to ignore the oppressive heat and the weight of tons of rock overhead. It surprised her that it felt so uncomfortable, given her entire dungeon was underground, but somehow the rock ceiling being so close overhead conspired to prevent her from ignoring it. Interestingly though, the best way she found to manage the incipient claustrophobia was to keep the point of view of at least one of her slimes. With their strange amorphous biology, they perceived space vastly differently, and small crevices and large openings seemed interchangeable within their otherwise simplistic minds.
+
+As she rounded the next bend, Ali’s eyes were instantly drawn to a jagged sliver of dark gray rock jutting out of the ceiling overhead. Up in a corner, by a small opening, a set of cobwebs hung loosely from the bare stone. What caught her eye was the fact that they were on fire. Nothing down here could be on fire for long without being utterly consumed, so the fact that the cobwebs were still there meant they were either very new, or…
+
+Fire affinity. Focusing on the sense of the mana, she struggled to parse it out from the background of the domain itself, but the web was clearly burning on its own. It seemed to be spun by winding fire affinity into the substance of the silky webbing itself.
+
+“Do you see that, Calen?” she asked, pointing.
+
+“Yes,” he answered, his alert eyes scanning the crevices constantly. “I haven’t seen any sign of what made them… yet. Always the spiders, right?”
+
+“Can’t wait to smoosh them,” Ali grinned wryly.
+
+The tunnel led further downward, punctuated by small holes and crevices, some of which leaked lava into the main path. As they picked their way over the streams and boulders, more and more webbing appeared draped among the rocks overhead until the entire ceiling vanished behind a dense net of burning web.
+
+“Another Shard,” Calen said. “Solo.”
+
+His radiant arrow made shadows flicker down the long tunnel. A loud sizzle and hiss echoed back as the arrow slammed into the blazing Shard of Flame up ahead.
+
+Mato roared, as usual, and rushed to meet the surging elemental midway down the tunnel. Malika danced in behind him, flickering with soul magic as she healed both of them. Ali’s barriers went up with their golden radiance, easily in time to catch the first volley of firebolts before they slammed into her healers.
+
+Halfway through burning down the elemental, with her forces fully engaged, she heard something unusual. Well, it was more that she felt it. Connected as she was to the senses of her Brine Oozes lobbing water bolts from behind her barriers, she detected an unusual, rapid scrabbling as if many things approached quickly. She shivered despite the heat, uncomfortably reminded of that Bone Skitterer crawling across her skin. She glanced around rapidly but couldn’t see anything with her eyes or her mana sight, so she focused back, splitting her awareness into both her remaining oozes simultaneously. What do you sense?
+
+Her eyes snapped to the erratic glow from within the cracks and holes beyond the webbing. “Something is coming!” she yelled. Moments later, a stream of gleaming black shapes skittered out of the holes, crawling along the ceiling and the web. Fire mana radiated from each creature, wreathing them in auras of flame.
+
+Flame Skitterer – Spider – level 12-16 (Fire) Swarm x43
+
+“Shit, bunches of spiders!” Calen yelled, reacting to her warning. “Incoming!”
+
+The endless swarm spilled from the crevices above, attracted to the sounds of combat. Ali’s eyes widened at the sight of the growing aura of flame. “If they reach the Shard, we’re going to lose!”
+
+“Mato, move!” Calen shouted, provoking a roar from the burning Bear.
+
+“Wall it off,” Ali commanded, and her Bone Mages instantly filled the corridor up ahead with their Bone Wall spells. But the ridges and cracks of conjured bone began to blacken under the onslaught of the combined flame of the spider swarm building up behind the blockage.
+
+“I can’t hold them off long!” Ali shouted, spending a sizeable portion of her precious mana on a floor-to-ceiling barrier to reinforce the bone wall.
+
+“Mato, further!” Calen shouted.
+
+Ali immediately reacted by moving her mages and Acolytes so that they remained out of the flame aura, but still close enough to heal Mato as he moved.
+
+“Ali, can you make a small opening in the barrier?” Calen asked. “We can’t let them build up for too long, we won’t be able to handle the rush when they break through. Put all the ranged attackers on the hole and leave the Shard for the melee.”
+
+“Got it,” Ali said, reorganizing her minions according to his directions. I need a tank. She glanced over, but Malika was fully occupied healing Mato, so she redirected one of her shamans instead. When it reached the barrier, she shifted it sideways, creating a gap between the rock and her defensive spell. A stream of spiders burst forth from the gap, right into the shaman’s lightning-enchanted shield. Immediately, volley after volley of water bolts, arrows, and bone spears tore into the horde of spiders as Ali redirected all her minions. She could barely add a single barrier shard, most of her magic tied up in the enormous barrier she was using to block the entire tunnel.
+
+For a moment it seemed like they would hold them back, but then spiders began pouring out from nearby crevices, bypassing the barrier and beginning to overwhelm their arrows and bolts by sheer numbers. Calen responded instantly with Righteous Fury and volleys of triple-conjured light-affinity arrows. To Ali’s relief, the horde began to fall back slowly. But then something else came through.
+
+“Big one!” Calen spat through clenched teeth.
+
+Flame Spinner – Spider – level 54 (Fire)
+
+Oh, that’s a big boy. Big was an understatement. Ali had no idea how something larger than her had managed to crawl through that tiny tunnel, but it emerged, unfolding long spindly legs of shiny black chitin, blazing with powerful flame. It tipped its abdomen toward them, and with a wet thump a blob of fire arced overhead, sizzling as it unfolded into a flaming web. With her barrier magic fully committed, Ali could only watch as the web slammed into her and her ranged minions with a splat. The weight of it knocked her flat and pinned her to the ground. She struggled against the tough silk, her skin blistering and blackening wherever the sticky flaming silk touched, but she had nowhere near enough strength to break free.
+
+But the same was not true of her oozes, they slipped free of their bindings with ease, heading for the walls. Ali picked one and switched places with it, freeing herself and putting the ooze right back into the trap, from which it promptly escaped once again.
+
+No bones is a handy skill…
+
+A surprising chime sounded, followed by the sight of Malika sprinting right up the wall and into the flaming silk web on the ceiling to punch at the huge Flame Spinner, freeing Calen to concentrate on the little spiders once again. Mato stomped into the center of the tunnel and roared, provoking most of the spider horde to swarm him.
+
+“Heals on Mato,” Ali instructed, wincing at the sight of fire converging toward him on far too many legs. She left her Acolytes webbed, choosing instead to use her barrier shard to saw away at the threads binding her archers, but it took mere seconds before she realized it was futile. Instead, she reached out with a hand and began to deconstruct the binding web, strand by strand.
+
+While she worked to break her minions out of their flame bindings, she studied the deluge of monstrous spiders swarming the tunnel. Her mages’ walls were creaking under the weight of the spiders building up behind them. If I can’t contain them…
+
+“Wall on that side,” Ali commanded, pointing to where she wanted it. “And you do the opposite side,” she added. Still bound by the flaming web, her Bone Mages threw up their walls. She did not intend to block the spiders, instead, the new walls formed a series of baffles to channel the tide, funneling them through the center channel and serving them up to Mato’s claws and Calen’s arrows.
+
+“Lightning Nova totems in the breach,” she said, lining her shamans up behind Mato, and making certain that they were deploying their lightning effectively through the bulk of the spider horde.
+
+“Good work, Ali,” Calen said, nodding his approval and unleashing a fresh volley of arrows.
+
+With each archer she broke free, she added a stream of arrows to help Malika with the oversized spider still clinging to the ceiling. Fortunately, Malika had drawn all its ire, and the blasts of the burning web were exclusively aimed at her. Even more fortunately, Malika had managed to dodge all of them.
+
+The chimes continued to ping as the smaller spiders died in droves.
+
+Sparkling oozes would be so good right now, Ali grumbled, annoyed that she hadn’t thought of it earlier. The strangely glittering oozes with their light-affinity area damage would have decimated the clumped-up spiders in seconds. Certainly more effective than them, she thought, observing the Brine Oozes trying to blast the spiders one at a time.
+
+The crawling black tide slowly began to ebb. Bunched up as they were by the bone walls, Mato’s claws killed them by the dozen as he slashed furiously back and forth. Calen’s new multishot, conjured arrows seemed similarly effective, killing three at a time, which left Ali feeling more than a little jealous. Typically, she brought the area damage, and taking care of a swarm like this would have been her job. But, without her Fire Mages, she was relegated to the sidelines, making do with shamans and barriers, and just taking care of the bulk of the healing.
+
+Enough grousing. Instead, she switched her attention to the giant spider on the roof and sent her barrier shard slicing upward to assist Malika.
+
+***
+
+Your group has defeated Flame Skitterer – Spider – level 12-17 (Fire) Swarm x311Your group has defeated Shard of Flame – Elemental – level 36 (Fire)Your group has defeated Flame Spinner – Spider – level 54 (Fire)Imprint: Flame Skitterer completed.Imprint: Flame Web completed.
+
+“What are you looking at, Malika?” Ali asked. Her friend was bent over poking at some burning web on the ground.
+
+“This stuff is insanely strong,” Malika said, shaking her hand vigorously as she got a bit stuck on her fingers. “Appraise says it’s a valuable crafter resource. How about we collect some and see if Lydia can use it?”
+
+“Oh, that’s a great idea,” Ali answered, not having considered the crafting angle at all. She was debating whether to commit the Flame Web imprint to her Grimoire solely on the strength that she might be able to make some good traps with it, but if Lydia could use it, that would be so much better. And I got my spider imprint, too! It wasn’t exactly what she had had in mind, but she was excited to see if they had some good perception skills she might put to use.
+
+Her Grimoire had the space right now, so she added both new imprints while Malika burned herself collecting as much of the burning web as she could find. “How did you get it off your fingers?”
+
+“I stored it in my ring,” Malika said, grinning as she produced a still-flaming chunk of web and then made it vanish.
+
+“Where did the big spider land?” Ali asked. While there had only been one, she wanted to make sure to get it so that she could learn the variant as soon as possible. If the little spiders proved useful, she just knew the big one would be far better. Maybe not in here, though, she thought, recalling the flames and burning web.
+
+“Over here, Ali.” Calen pointed to where it lay, a thick carapace jutting out of the middle of a heap of hundreds of Flame Skitterer corpses.
+
+“I vote we call it here; I have a lot of stuff to sell,” Malika said, and everyone agreed.
+
+“Yep, I’m getting tired too,” Mato said.
+
+“Hungry, did you say?” Calen piped up.
+
+“Always. Besides, your mom told me to help you put some skin on those bones.” The half-elf’s eyebrows lifted, whereupon Mato said in a terrible falsetto, “Mato, please look after my poor little Calen and make sure he eats three square meals a day, because no girl wants to marry a stick, no matter how handsome he thinks he is.”
+
+“As if!”
+
+Saving their potions, the quartet shared a few more playful insults as they retraced their steps back through the tunnels. On the way out of the mine, Ali couldn’t help noticing that the domain of the fire dungeon ran up against the opening she had bored through the rubble of the fallen city, but without Shards of Flame drawing the domain out, the only fire mana that escaped was a dense flow of ambient and unstructured mana, similar, but not as chaotic in nature as the original mana that pervaded the jungle itself.
+
+“Can we take a moment here?” Mato asked, stopping their group. “Ali, how about planting some of those fire plants we collected? That way I can harvest some and see what kind of potions Eliyen can make for our next trip.”
+
+“Oh, yes,” Ali said. It was a great idea actually – the lashers at least required some ambient fire mana, and this was the only place near her domain that had any. Pulling out her Grimoire, she planted a giant Lirasian Oak outside the entrance to the mine, close enough to extend her domain through the tunnel, but not too close that her mana would overlap with the dungeon within. With that towering detail taken care of, she filled the cracked and burned ground with Fire Grass and grew a couple of dozen Flame Lashers up the rubble walls beside the tunnel entrance. It took a while for her to finish, but by the time she was done her domain had reclaimed the space, and using that, she blocked the entrance with a series of dense barriers that she attached to the domain itself, hopefully sealing the fire elementals inside in the event that the dungeon respawned them.
+
+It was a tricky tradeoff. Blocking the entrance would preserve her domain from the Shards of Flame, but that meant her boss would no longer be killing them and generating a steady stream of essences. Perhaps I’ll open it again after Mato’s done, she decided, watching him harvest the pretty fire flowers and samples of grass.
+
+***
+
+Race: SpiderClass: Flame Skitterer – level 16- Flame Bite – level 11Stamina: Bite your target. Bite does additional Fire damage. Range: Touch.Fire, Physical, Dexterity- Flame Aura – level 10Mana: Emits an aura of fire doing damage to everything in range. Aura combines with overlapping auras of swarm members. Range: 1.3 feet. Reserve: 100%Fire, Area, Swarm, Intelligence- Flame Sight – level 10Can see heat sources directly. Can sense nearby fire.Fire, PerceptionAptitudes- Mana (Affinity): Fire- Immunities (Racial): Fire- Vulnerabilities (Racial): +50% extra damage from Ice or Cold- Swarm Spawn (Racial): Spawns in groups of 12- Swarm Tactics (Racial): +6.5% to Accuracy per Flame Skitterer attacking the same targetAttributes- Vitality: 23- Strength: 15- Endurance: 19- Dexterity: 39- Perception: 34- Intelligence: 11- Wisdom: 19Armor: 112Physical Damage Reduction: 20%Evasion: 134Dodge: 23.02%Health: 230/230Stamina: 190/190Mana: 0/190 (190 Reserved)
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

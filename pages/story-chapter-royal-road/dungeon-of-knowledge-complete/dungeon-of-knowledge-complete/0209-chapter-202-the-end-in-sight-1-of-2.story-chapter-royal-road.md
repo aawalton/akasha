@@ -1,0 +1,159 @@
+---
+id: 077be3a3-0740-532a-802f-ffe662a435a2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 202: The End in Sight (1 of 2)"
+slug: 0209-chapter-202-the-end-in-sight-1-of-2
+partOf: dungeon-of-knowledge-complete
+position: 209
+ownLength: 2312
+unit: words
+ownProgress: 2312
+publishedAt: 2025-02-25
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2088814/chapter-202-the-end-in-sight-1-of-2"
+royalRoadId: "2088814"
+markedReadAt: "2026-06-29T20:18:13.164Z"
+---
+
+There is nothing more terrifying than a Paladin with a map and a plan.
+
+- Bragni Doomhammer [The Hammer of Justice], Dwarven King of Dal’mohra.
+
+“Havok take this one,” Havok declared, scrambling over the pile of rubble strewn across the half-completed flooring and offering the job slip to Mieriel. He had finally found a job on the makeshift board where he could help people – the guild had somehow unearthed a lead on the kidnapping operation that had captured Seth, and he could make sure nobody would be captured and sold as slaves ever again. His first job as a paladin of Azryet! He didn’t like the undead much, but Seth had always been nice to him.
+
+“I’m sorry Havok, I can’t let you take that job by yourself.”
+
+“Why? Help people! Like Miss Malika said…” Havok’s heart dropped into his scuffed boots – for some unfathomable reason, Mieriel didn’t want him to take the job to help those poor folk. Being an honorable warrior and helping people was not a matter of a single deed, but a firm commitment, a goal to strive for every day. It was not a trivial matter of money and jobs – it was a way of living. He knew it in every fiber of his being. He had a strong class, Azryet’s blessing, and it was time to clean up the town! He saw them every day – the poor and downtrodden – people weaker than himself. People who needed his help.
+
+“See here?” Mieriel explained, pointing at the bottom of the job. “This job requires a minimum of two people.”
+
+“But Havok strong …” he trailed off, saddened by the unexpected obstruction to his mission to save the kidnapped people. He could see them in his imagination, suffering, struggling behind bars.
+
+“It’s for your safety,” Mieriel said. “You remember Katie, right? That Silent Assassin is still out there somewhere.”
+
+“Havok remember,” he said, dejectedly looking at his feet. Katie had smiled at him, and now she was dead. He was still weak. He still needed someone to protect him.
+
+“The Guildmaster insisted on the buddy system for this kind of job. You need someone watching your back.”
+
+“Ok,” he said, turning around with the job slip, intending to put it back on the board.
+
+“I’ll come with you.”
+
+Havok’s head snapped up at the sound of the angelic voice, of someone swooping down to save him from the pit of despair.
+
+“Devan help?” he asked, a tentative smile coming to his lips. Could the rogue really be offering to save him from the tyranny of this ‘buddy system?’ Devan had been in his group when Havok had unlocked his class, and at the time he would have sworn she was the runt of the litter – pitifully weak and underfed. Now, with her black hair tightly braided and sporting dark leather armor, she moved with an uncanny speed and power that Havok had come to respect on the battlefield.
+
+“Sure. That’s the kidnapping syndicate job, right?” she said, spinning a dark dagger across her knuckles and then making it vanish.
+
+“Yes. Is.” He brandished the job slip at her to support his argument.
+
+“It pays pretty well,” she said, reading the job slip quickly. “Do you want to do it together? We’re both above twenty now and I don’t know about you, but I could do with the coin.”
+
+“Mhm,” Havok declared, nodding vigorously. He didn’t have a very good handle on communicating with humans, so he made sure to exaggerate every gesture until they understood. Goblin is so much more expressive. There were a thousand ways to ask someone to join you to smash things – none of which he could say in this annoying ‘Common’ language.
+
+“Yes, that would be perfect,” Mieriel smiled, handing them a package of paperwork, and just like that the obstruction vanished. His heart soared.
+
+“Let’s go!” Havok said, excitedly.
+
+“Wait up, Mr. Paladin, you need the map first,” Devan said, handing him a folded-up piece of paper.
+
+“Map?” He unfolded the paper carefully, trying his best to not tear it this time, and then turned it around, finding a map drawn on it. Devan was already reading the other papers. There was a big circle on the map and a lot of little pictures, but he had never learned to read. He barely even knew how to speak this difficult common language, but nobody here spoke Goblin. Except Miss Aliandra. She is smart!
+
+“Here,” Devan said, taking the map. “The intel is good, I know where this place is, I can show you the way. We must be careful – apparently, Mieriel learned that they hired some guards.”
+
+Mieriel? He glanced up at the tall smiling Sun Elf. The elf lady got us the information? It surprised him a little, but then he knew she was still much higher level than he could identify, so she must be strong.
+
+***
+
+The walk through the town took them out of the fancy neighborhood where the guild hall was being rebuilt. Not the really fancy part of town – but he was not allowed to go there most of the time. He glanced up at Devan as they marched through a rundown, crooked street filled with potholes. Many of the buildings were barred or boarded up. Weeds sprouted around the cracked pavement or tumbled-down houses. A familiar atmosphere, much like the many places he had made his bed before joining the guild.
+
+“This is it,” Devan said, checking the map one more time before putting it away. There was a short, weed-covered path to a painted steel door that had rusted and peeled a little in the rain.
+
+“Ok, Havok smash,” he said, pulling out his awesome new shiny shield that the blacksmith girl with pointy teeth had made for him. He still couldn’t pronounce her name, but he loved her, and the shield she had made for him.
+
+“I can open it quietly,” Devan said, pulling out some complicated wires and pointy things that she stuck into the lock. There was a muffled click, and to Havok’s amazement, the door popped open and Devan pulled it wide and invited him to go inside.
+
+“No smash?”
+
+“Not yet,” Devan grinned.
+
+That was smooth, he thought. Devan sure had some cool skills. He quickly cast his blessing on her and himself and then stepped boldly across the threshold. A Paladin of Azryet needed to be confident. Raising his shield into a defensive guard position and retrieving his sword, he crept silently through the hallway till he reached a stairway going downward. Havok surprise smash. More fun!
+
+He nodded back to Devan and then headed down until he emerged from the stairwell at the bottom into another dark passage, lined with barred, locked doors. The place stank of sour rat urine. At the far end, over to the left, a door stood ajar, leaking light and the sound of an argument into the dimly lit hallway.
+
+That must be where the guards are, he realized. He sprinted toward the door and slammed it open with his shoulder as he charged in. “You bad! Havok stop!” he declared.
+
+You have been afflicted by Hold Person.You are paralyzed.Duration: Channeled.
+
+Havok’s body suddenly froze as a black beam of light arced to his chest from the fingers of a robed woman wearing a stylish pointy hat. This was not how it was supposed to go. He was a Paladin of Azryet now! He struggled against the unexpected spell, but his muscles simply refused to work. He couldn’t move even his eyes as his gaze remained fixed on the room in front of him.
+
+Merchant – Kel’darran – level 12.Smuggler – Human – level 11.Warrior – Human – level 26.Warlock – Human – level 27
+
+The merchant was one of the scaled reptilian humanoids he’d heard about – a Kel’darran – and had been in the middle of an argument with the smuggler when he had entered the room intent on breaking up their operation. Miscreants all of them. He struggled again – if only he could move his shield.
+
+“What have we here? More merchandise falling into our laps?” the warrior said, fixed him with a wicked grin while the warlock simply continued channeling her spell.
+
+“Adding the paladin won’t make your offer any less ridiculous,” the merchant snapped.
+
+“Nice work, Cyrene,” the warrior said. “Are you going to play with this one like you did with the others?”
+
+The warlock wrinkled her nose in disgust. “Don’t be retarded, he’s a Goblin – they’re disgusting.”
+
+You’re disgusting, lady. Now, where did Devan go? He struggled again, trying to use any of his magic or skills, but he was unable to take any action other than watch. Maybe she went to get help? He couldn’t hear her behind him anymore, and clearly, the guards couldn’t see her either. But how was he going to escape from this horrible spell?
+
+“Dispose of him quickly,” the smuggler ordered. “He must not live to tell anyone of our base or our contact, otherwise we’ll be dealing with the authorities again, and you know how expensive that is. If he gets away it’s coming out of your pay.”
+
+“We’re not going to sell him?” the warlock asked in surprise.
+
+“Not worth it,” the smuggler said. “He’s a paladin and a Goblin. Nobody will pay for him.”
+
+“I got it,” the warrior said, sweeping his cape to the side and drawing a long, gleaming sword from a scabbard at his hip. As he advanced on Havok, the sword began to glow with a manic red pulsing gleam.
+
+Unable to move, or even use most of his skills, Havok was forced to watch as his executioner approached menacingly. Extreme frustration filled the core of his being – he didn’t mind if he had to die, but facing his death without being able to use his new shield was so unfair.
+
+Just then, out of the corner of his eye, he caught sight of something strange. Under the influence of this foul magic, he was entirely incapable of reacting. A shadow stretched, growing an arm that crept along the wall behind the warlock who was watching him with excited anticipation dancing in her eyes. A flash of quick steel, and a blade sliced across her throat, spraying blood six feet across the room.
+
+Havok gasped as the black arcing ribbon of magic tethering him to her dimmed and faltered, and suddenly he was free. In his mind, squiggles appeared and the familiar voice intoned:
+
+Your group has defeated Warlock – Human – level 27.
+
+Havok threw up his shield, simultaneously activating his Holy Shield defensive skill. A shining, impenetrable barrier of holy magic wreathed his shield, and he intercepted the descending sword with a loud crash, dissipating the momentum through his legs into the ground. Shield Proficiency! How’d you like that? His sword swung low, on a short, sharp arc, cutting under the warrior’s guard and slicing into his thigh. The warrior screamed like a stuck pig. As the glowing sword bit through flesh, it flashed with the holy light of Smite, and an intense flicker of pitch-black void damage as his patron’s blessing triggered.
+
+You have gained Azryet’s Favor. The Calamity smiles upon your actions.Your attacks gain additional Void damage on hit.Blessing – Duration: 1 second.Smite has inflicted critical damage. You gain Holy PowerYour attacks gain additional Holy damage on hit.Blessing – Duration: 5 seconds.
+
+“Havok smite!” he screamed happily, whirling his sword in the air. “Azryet best!”
+
+The ground beneath his feet erupted in white holy fire and he felt the warmth of his Consecrated Ground skill triggering from the critical damage. Healing energy swelled within his body, but for his foes, he knew it would burn fiercely. Havok swung his shield in a flat arc, bashing the warrior on the point of his right elbow. There was a loud crack as his Shield Slam shattered the bone, and the warrior’s sword arm dropped limply to his side, giving Havok a clear line to strike up through his throat.
+
+Your group has defeated Warrior – Human – level 26.
+
+***
+
+“All dead?” Havok asked, but the notification told him that Devan had successfully run down the Kel’darran before he could flee too far.
+
+“Easy fight, we got the jump on them,” Devan said, panting slightly after the rush of battle. “Nice distraction at the start.” Her eyes surveyed the room and then with a sweep of her hand all the papers on the desk vanished into her storage ring, and she did the same rifling through the drawers and cabinets. “Come, let’s go free the prisoners.”
+
+“Good. Save prisoners,” Havok agreed, after all, this was why he was here. Turning sharply on his heel, he followed Devan back into the hallway where she quickly unlocked all the doors by wiggling her wires. The prisoners looked dirty, poor, and unfed, and they took a little convincing before they believed that they were actually being rescued. It was a good thing Devan could speak well, he reflected. They seemed rather scared of him, but he healed them anyway.
+
+“Good job with that warrior, Havok,” Devan told him.
+
+Havok nodded. “What do with them?” he asked, pointing at the scared bunch of prisoners.
+
+“Let’s take them to Mieriel – she will know what to do with them. We need to give her all these papers too.”
+
+I saved some people! he thought, happy with the way the job had gone. And this buddy system isn’t too bad.
+
+“Devan is good buddy.”
+
+“You too, Havok.”
+
+Your actions have increased the reputation of your patron.
+
+“Azryet also buddy!” he said, feeding a little mana into his skill to turn it into a prayer. Azryet needed to know he was appreciated, too.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

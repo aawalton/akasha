@@ -1,0 +1,155 @@
+---
+id: 7ecdf798-ace1-58ad-b41e-40b9875d3547
+page-type-slug: story-chapter-royal-road
+title: "Chapter 244: Winter’s Desolate Celerity"
+slug: 0276-chapter-244-winter-s-desolate-celerity
+partOf: dungeon-of-knowledge-complete
+position: 276
+ownLength: 2755
+unit: words
+ownProgress: 2755
+publishedAt: 2025-05-09
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2266791/chapter-244-winters-desolate-celerity"
+royalRoadId: "2266791"
+markedReadAt: "2026-06-29T20:20:35.001Z"
+---
+
+“What is that?” Seth asked, and Ali glanced up to find her protégé standing beside her with a dark tome clutched in one hand. He was gazing intently at the Spectral Nightrose which radiated a tiny aura of death-affinity mana into the surrounds.
+
+“An undead flower,” Lira said.
+
+Seth crouched down to examine it, and Ali took the opportunity to glance at the book he had been studying. Necromancy? If she wasn’t mistaken, he had found her book on basic necromancy, most likely by asking Ryn. Although he kept to himself a lot, Seth seemed to get along remarkably well with Ryn, and Ali had occasionally found the two of them deep in discussion about some detail gleaned from a book.
+
+Mage – Human – level 36 (Death).
+
+Wow, good job, Seth! He had certainly grown a lot since she had been away.
+
+“What were you reading?” Ali asked when he straightened up.
+
+He glanced at the book in his hand and tipped up the cover so that she could confirm her guess about necromancy. “I’m looking for some ideas for better undead summons,” he answered. He squirmed just a little, so Ali smiled to let him know she wasn’t weirded out. It might sound bad if someone were to overhear it, but it was his class. He needed to develop it to become strong. Ethically. An ethical necromancer, that’s gotta be a first. About as common as a benign dungeon – I am benign. She winced. Not even close.
+
+“I might have the perfect thing for you to play with,” Ali offered and then dumped the ghouls and specters on the floor. As the wall of stench hit her, she experienced instant regret, wishing that she had instead taken the time to exit the library before retrieving them. And maybe held her breath. The specters weren’t so bad, but she had forgotten just how awful the ghouls were, not that there was much she could do about it now.
+
+Seth wrinkled his nose – the only indication he gave acknowledging the overpowering odor, instead bending down to study the undead with great interest.
+
+“The ghouls have a Paralytic Touch and Blood Contagion disease,” she explained. “And the specters seem to have full classes, they’re just incorporeal and almost immune to physical damage.”
+
+“These are amazing!” Seth exclaimed, poking one of the ghouls with his finger, and then recoiling in disgust when something dark and sticky oozed out.
+
+“You can have them,” Ali said, “I hope they’re helpful.”
+
+“If I could summon something like this…” Seth trailed off, and then he seemed to remember where he was, quickly storing the nasty, decaying corpses before the stench drove everyone from the library. “Thank you!”
+
+“It’s my pleasure,” Ali said, smiling. At least the monsters might prove useful for something.
+
+“I found something for you, too,” Seth said and produced several silvery spiders, each about the size of a large dog. “I don’t think they’re that useful for fighting, but they make Shimmerweb Silk, which fetches a good price at Lydia’s Allure. It’s apparently the perfect thing for this winter’s ballgown fashion.”
+
+“Oh, my goodness! Thank you, Seth,” she said, quickly deconstructing the spiders and adding them to her imprint and then deconstructing the ichor left behind by the decomposing ghouls, reducing the stench to something much more bearable.
+
+Variant: Shimmerweb Spider added to Imprint: Spider.
+
+Aman Rak was a treasure trove of new and powerful imprints for her Grimoire, but Ali was acutely aware that nothing she had found there, save maybe for some of the plants, would be appropriate for any of the guild adventurers – not until they leveled up a lot. It was certainly convenient that Seth had thought of her when he found these spiders.
+
+“Did you guys get a chance to check on Naia?” Ali asked.
+
+“We did,” Seth answered, but by the perplexed frown on his face she knew it hadn’t gone as she had hoped. “It seems Naia has some difficulty gauging her power. The Brine Ooze she made for the first boss is way too hard for us – we tried a few times, but we had to run every time.”
+
+“Oh dear.” Ali had hoped the silver-ranked adventurers might be able to form a relationship of mutual benefit with Naia, but it seemed she might need to intervene.
+
+“That’s the reason I’m studying this,” Seth continued, tapping the tome on the table. “Aiden thinks we’re strong enough to raid your Forest Guardian, and that should be able to get us to forty. Then, hopefully, we can try the Brine Ooze again. My skeletons and zombies are immune to the Dreamclouds, so I wanted to see if I could find an undead capable of tanking it. But… nothing so far.”
+
+“Don’t give up,” Ali said, trying to encourage her protégé. “If you can figure out the specters, you could raise something that’s already a tank. The ghouls were pretty tough, too.”
+
+“That’s a good idea,” Seth answered, and Ali excused herself, seeing that he was suddenly much more motivated to get back to his studies.
+
+Ali sat down at a desk that was covered in piles of books, and read the sweet, encouraging note Ryn had left for her before spending an hour duplicating the entire stack.
+
+Let me just go check on Naia, she decided. She had a little time before her friends woke up and would want to continue the exploration of Aman Rak, so she flew herself and her two troll ice mage bodyguards down to the ground floor of the library and took the teleportation circle to Naia’s dungeon.
+
+She emerged into the familiar cavern to the thunderous roar of the crashing waterfall and the brilliant cerulean-blue light of the mana-infused water creating a rippling light show on the craggy rock overhead.
+
+“Naia, are you here?” Ali waited a few minutes, but there was no response. Maybe she’s busy with something? Gathering her trolls, she pressed on into the cavern following the light and the rushing water.
+
+Now where is… but she immediately saw the knotted domain mana and recognized the boss submerged in the pool. She studied it carefully, noting the subtle differences inherent in the water affinity compared to her own domain. She had seen enough different domains and bosses now that she could tell this was a group-level threat, but one that was substantially stronger than the silver-ranked adventurers should probably be taking on.
+
+Brine Ooze – Ooze – level 51 (Water).Brine Ooze – Ooze – level 10 (Water) x15.
+
+Minions, for sure, Ali thought, recognizing the patterns in the formation. And Intelligence? It was not a particularly sophisticated boss, but it seemed to be an efficient set of choices that would work well in the water of the lake. Intelligence would boost the spell power of the water bolts, and the boss could easily attack from underwater to take cover in an advantageous environment.
+
+“Attack it,” she said, switching to troll, and her two Ice Mages immediately launched continuous flights of Ice Bolts while their Frost Dragon familiars took off to circle above. She gave herself a full-body bubble barrier and floated into the air to observe. There was no better way to gauge the threat level of the monster Naia had made.
+
+The huge slime sloshed up out of the pool, lashing out with tentacles and pseudopods of water, and in its wake came the army of minions. Minions first, Naia! Maybe a lesson or two on basic combat tactics is in order. Right before the boss reached her two trolls, one of them triggered Frost Nova, and both teleported to their familiars, continuing the assault.
+
+Hmm. She considered the fight carefully, watching how the boss’s water bolts froze as they struck the Ice Shields of her trolls. She had to remember that the Brine Ooze was chilled and moving at about half of its normal speed. Water is a bad match against ice, she decided, but of course, her Ice Mages had an impressive level advantage over Naia’s creation.
+
+“Stay here and play with it,” Ali told her trolls, recalling some of the more impressive skills the cute little mimic slime had at her disposal. “Don’t kill it, but keep shooting whenever it recovers.”
+
+“Yes, Seeker,” one of them answered, turning back to the boss with a fresh stream of Ice Bolts.
+
+Sorry I can’t stay, Naia. I’ll pop in again soon. Ranging far with her mind, Ali connected to the Glitter Dragonet she had displaced to the Temple of Aman Rak, and teleported.
+
+***
+
+A large chunk of Ali’s mana evaporated in a rush, and she was suddenly hit with the pungent scent of growing trees and composting leaves, overlaid with the faint metallic tang of blood. She glanced around at the camp, finding everything just as she had left it. Her minions stood guard around the small tents, Malika was meditating on a rock nearby, waiting for Mato to finish cooking, and she guessed Calen was off scouting somewhere. Zor’kan glanced up from his work when she appeared, but he simply nodded to her and returned to his project.
+
+All about her, the trickle of water mingled with the songs of the birds and the random chirping of tree frogs. Perhaps I should get some frogs for my dungeon, she thought. Or birds. The soft sounds of the jungle seemed soothing as if the creatures either didn’t care or didn’t know the disaster that had befallen this place. She sighed, putting the idea on hold; as usual, her Grimoire was almost out of space, and there was little she could do about livening up her space, other than begin to plant the orchids she had learned. Perhaps Mato can help me entice some ordinary frogs into the dungeon? Pay some kids to collect them by the bucketload?
+
+“Welcome back, Ali,” Malika said, her blue eyes glowing with inner mana.
+
+Is that new? she wondered. She hadn’t seen quite that intensity of magic in her friend’s eyes before. And what had been previously invisible to her was now laced with swirling formations of mana.
+
+“I have something for you,” Malika added.
+
+“Ooh, presents! What did you find?”
+
+“This.” A beautiful cobalt-blue sphere, glowing with powerful inner mana, appeared in the palm of her hand and she extended it, offering the orb. “I’m curious to see if it works for your skills.”
+
+Glacial Orb of Defense – level 80A perfect polished translucent sphere of cerulean crystal, icy to the touch. Resistance: 576+50 Intelligence+20% Spell damage to Ice skills+23% Spell power to Defense skills+15% Spell hasteRequirements: Intelligence 280Off Hand – Orb
+
+“This is Mok’freja’s orb?” Ali asked, reaching out to take it with both hands. The orb sat heavily against her palms as her fingers curled around its chilly surface. It was big, but not so big that it would be uncomfortable to wield. “The ice enchantment is wasted on me.”
+
+“Yes. But, does the defense enchant work for you?” Malika asked, eyeing her with obvious curiosity.
+
+“Oh, that’s an interesting idea,” Ali said, her gaze settling on the orb once again. It certainly was pretty, and the powerful mana it was emitting captured her interest. It was undoubtedly what Mok’freja was using with her Ice Shield, and as Malika had correctly remembered, her Barrier was also a Defense trait skill.
+
+She summoned a barrier sphere around herself, the golden magic appearing instantly and sparkling brightly in the early morning light. Oh, now that’s something, she thought – the effect was so great it was visible even without mana sight. She studied her spell glittering in the morning sunlight, tracing the flows carefully. It’s as if it gained several skill levels, she realized. She dismissed her barrier and created several shards, the shape coming easily to her mind now, and yet they seemed denser and sharper than before.
+
+“It definitely makes a big difference,” Ali said, making her barrier shards spin in the air. Even they seemed zippier. “It seems like the spell haste helps me accelerate them, too.”
+
+“Nice! Congratulations on your new orb,” Malika said, a big grin on her face.
+
+“Don’t you think we should sell it? It seems valuable,” Ali asked.
+
+“I think I can get over forty gold for it,” Malika said, and Ali almost choked at the ridiculous amount. She surreptitiously tightened her grip on the orb for fear of dropping it. “But I can get gold anywhere – I can’t get another one of those. If it makes our team stronger, that’s much more exciting!” Malika finished.
+
+Even though she was excited for her new orb, Ali saw Malika’s point. Aman Rak had grown significantly more dangerous as they had fought their way further and further up the mountain, and they couldn’t afford to rely just on their personal level increases – they had to leverage every available advantage. Who knows what’s on the road up there? she thought, looking up at the mountain peak and the strange overgrown buildings she could barely make out among the trees. It’s too bad there aren’t more orbs so I could learn it and give them to my troll mages, she thought. Although I would need to level my Grimoire for that anyway.
+
+“Besides, that thing’s price has nothing on these,” Malika said, handing her three crystal wands. “These wands are over one hundred and seventy gold each.”
+
+“Seriously?” Ali exclaimed, looking down at the elegantly carved wands in disbelief. But then she identified one.
+
+Winter’s Desolate Celerity – level 85 (Ice)A delicately carved wand of quartz with a deep core of glowing blue energy.+52 Intelligence.Charge: Cast Winter’s Desolate Celerity. Your target gains +85% [skill] to spell haste. The bonus is doubled if the target is chilled or frozen. Duration: 10 seconds. Charges: 3/9.Requirements: Intelligence 596.Main Hand – Wand
+
+“Oh, wow,” Ali murmured, picking up the wand gently and feeling the weight of the solid carved quartz crystal in her hand. It pulsed with potent mana. But it was the skill that had been enchanted into it that had her speechless. That’s what that was, she realized, recalling the sudden unbelievable acceleration in Mok’freja’s magic right at the end of the long battle. Not that it was difficult to recall, in the moment, she had been convinced she would die. “So that’s how she did it.”
+
+“Yep,” Malika said.
+
+The other two wands were both drained to zero charges, which might explain why Mok’freja hadn’t used them willy-nilly. Either way, Ali would need to wait to test it out; she couldn’t use it until she reached level eighty-five. Fortunately, that was only one level off.
+
+She smiled, “Not long, and then I can be like you.”
+
+“How’s that?”
+
+“Power-slapping monsters at high speed.”
+
+“Hey! Those are the ancient and noble martial arts of my ancestors you’re talking about. No respect for tradition around here.”
+
+***
+
+Name: Aliandra AmarielRace: FaeTitles: Ancient, Rift WardenActive Buffs: Empowered Summoner, Well-fedClass: Grove Warden – level 84- Arcane Insight – level 46- Arcane Recall – level 15- Barrier – level 54- Grimoire of Summoning – level 37- Runic Script – level 39- Sage of Learning – level 38- Martial Insight – level 54- Empowered Summoner – level 42- Domain Mastery – level 30- Minion Teleport – level 30General Skills- Reading – level 15- Identify – level 18- Sculpting – level 6- Inspiration – level 16Aptitudes- Languages: Ancient Dal'mohran, Elvish, Dwarven, Common, Draconic, Goblin, Ahn Khen, Troll- Mana (Affinities): Nature, Arcane- Tiny (Racial): The effects of Strength and Vitality are reduced by 50%- Magical (Racial): The effects of Wisdom and Intelligence are increased by 50%- Domain (Class): Your maximum mana increases with the size of your domain, up to +100%- Domain: -10% maximum health per day domain withdrawal. You have Domain SensePatrons & Tithes- Mentor: Clarence- Protégé: Seth Weston- Protégé: NaiaAttributes- Vitality: 140 (+63)- Strength: 6- Endurance: 23- Dexterity: 71 (+29)- Perception: 189 (+26)- Intelligence: 764 (+485)- Wisdom: 649 (+329)Equipment- Off Hand: Glacial Orb of Defense – level 80- Head: Frosted Sapphire Drop – level 75- Body: Elegant Robes of Fire Resistance – level 50- Hands: Ancestral Spirit Beads – level 64- Feet: Fire Silk Slippers – level 60- Ring: Gold Guild Ring – level 60- Ring: Forest Band of the Perceptive – level 33Resistance: 1296Magical Damage Reduction: 35.52%+32% Spell damage to Ice skills.+23% Spell Power to Defense skills.+15% to Spell Haste.+21% to Ice resistance.+253% to mana regeneration.+25% to Fire resistance.+15% to Fire resistance.Health: 700/700Stamina: 230/230Mana: 6779/19470 (12691 Reserved)----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

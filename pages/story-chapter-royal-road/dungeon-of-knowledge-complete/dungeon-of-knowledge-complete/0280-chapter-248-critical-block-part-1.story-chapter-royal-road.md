@@ -1,0 +1,177 @@
+---
+id: 21f8704a-6f4c-5ba9-8124-1c5985e81e27
+page-type-slug: story-chapter-royal-road
+title: "Chapter 248: Critical Block (Part 1)"
+slug: 0280-chapter-248-critical-block-part-1
+partOf: dungeon-of-knowledge-complete
+position: 280
+ownLength: 2652
+unit: words
+ownProgress: 2652
+publishedAt: 2025-05-13
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2276398/chapter-248-critical-block-part-1"
+royalRoadId: "2276398"
+markedReadAt: "2026-06-29T20:20:43.571Z"
+---
+
+Silence descended suddenly upon the battlefield; a stark contrast to the panic-fueled, violent mayhem that had consumed her utterly until just moments ago.
+
+Ali gazed in astonishment at the immensity of carnage and destruction wrought by a single giant troll. Of her entire melee force, only blood and dead bodies remained, strewn about like broken dolls. One single shaman had survived, standing beside her witch doctor and ice mages, and that had only been achieved because Ali had explicitly pulled her back behind the back-line barrier so that she could heal Mato.
+
+The Armored Drakes had proven the most robust, lasting almost until the end. But the final whirling maelstrom of blood and axes unleashed by the giant berserker troll, deep into its damage-fueled rage, had reaped them like so many weeds under a scythe-blade of destruction.
+
+Her eyes slid across the bloody pool, mutely noting the blood-stained splatters of impacts nearly ten meters up the cliff face. On the opposite side, in the jungle, the remains of a Troll Bone Warrior hung from the branches of several trees, dripping blood slowly to the ground – no amount of legendary troll regeneration would bring that one back. Several craters of shattered rock and earth dotted the clearing, marking the launch spots or landings of the terrifying, gravity-defying leaps. The splintered remnants of old-growth trees left piles of snapped branches and kindling all around the clearing. More blood than could reasonably fit in all the dead creatures covered every available surface – a scene only possible with unparalleled brutality, extensive blood magic use, and potent healing.
+
+Ali wandered among the bodies and the pools of blood in a daze, eventually finding herself among the stone huts with their bone-thatched roofs and rough walls grown over with a thick layer of crimson blood-drenched moss. But as she entered the circle of huts, her distraction was instantly dispelled by the pressure of an upwelling of dense mana. And there, in the center, she found herself confronted with the horrific evil of a giant Grim Totem.
+
+The mana pouring forth from the grim effigy of troll bones and skulls was far denser and more potent than the smaller Grim Totems she had encountered in the Temple of Bone or even the Temple of Contagion. This one stood taller and was shrouded with dense bloody moss that concealed most of the bones entirely. Several tusked troll skulls had been mounted above the bones and moss, and the whole gruesome structure had been capped with the skull of a giant troll.
+
+The whole thing reeked of blood and death.
+
+“What is that?” Malika asked, drawing up beside her.
+
+“Whatever it is, it needs to go,” Ali said firmly. Sprouting from between the eye sockets were several orchids, their aerial roots twined around tusks and emerging from between yellowed teeth. Each orchid grew a single scarlet flower that dripped blood-red liquid, making the skulls look like they were crying blood.
+
+Ali reached out a hand, catching a drop on her finger and drawing it to her nose, but from the potent senses of her Blood Shaman she already knew what it was; real blood imbued with potent blood-affinity mana, not some kind of plant mimicry making nectar that pretended to look like blood.
+
+Grim Totem – Totem – level 95 (Bone)Blood-Drenched Moss – level 32-41 (Blood) x4Scarlet Tears – Orchid – level 63-71 (Blood) x7
+
+“Be ready for anything,” Ali warned.
+
+Malika nodded and took a ready stance.
+
+Then Ali deconstructed the entire ugly thing; she was growing weary of the gruesomeness of this dungeon, and, despite the risk, she didn’t want to look at the horrific totem anymore.
+
+Imprint: Bone completed.Variant: Scarlet Tears added to Imprint: Wildflower.
+
+After a few tense moments in which nothing much happened other than a rapidly fading disturbance in the mana of the domain, both of them relaxed.
+
+Ali dismissed the bone imprint, for probably the twentieth time since she had gotten her Grimoire. She wasn’t certain she’d ever use the Scarlet Tears orchid, but it didn’t cost her much to keep the variant – and she knew an Herbalist who would be endlessly fascinated with it.
+
+“Let’s go clean up,” Malika said, turning about and moving back toward the carnage.
+
+“Good idea,” Ali said, making her way slowly across the ruined battlefield and deconstructing friend or foe while Malika collected any salvageable gear until finally, she found herself staring up at the enormous giant troll lying dead in the pool of water.
+
+Even lying there on its back, its massive chest towered above her modest-sized frame. Ali shook her head, her mind still refusing to grasp how something so massive could leap like gravity itself was optional and didn’t need to apply.
+
+It’s bigger than my Forest Guardians.
+
+She levitated herself up, inspecting the corpse. It had been terrifying enough from where she had stood on the back line of the fight, but up close, the massive size of this troll gave her pause.
+
+How does he even tank something this big? Ali wondered, recalling just how easily the enormous greataxes had flung Mato’s body across the pool and into the trees on the far side of the clearing. She shook her head in amazement; obviously, he had some powerful defensive skills and high endurance, but there was something primally terrifying about the size and power of this troll.
+
+Gingerly, she reached out and placed her palm on the exposed skin of the troll’s shoulder, feeling even smaller at the obvious contrast. She released her deconstruction, and the troll evaporated into a cloud of mana, his heavy armor collapsing into the pool with a big splash. Between them, they stored all the armor pieces and the pair of giant axes before continuing their rounds.
+
+By the time she was done deconstructing the last pieces of her minions hanging from the trees, Mato and Calen had found a relatively blood-free spot to sit and discuss their possible strategies should they encounter another giant berserker.
+
+“Let’s take a look at the loot,” Malika said, dumping out an array of items.
+
+“Anything useful?” Calen asked, perking up immediately.
+
+“Here’s the first one,” Malika announced, hefting an enormous vest made to fit the torso of the giant troll berserker.
+
+Blood-Soaked Vest – level 80Armor: 672Evasion: 672+49 Strength+22 Dexterity+14 Vitality3% of your damage is returned as Stamina over 30 seconds.Requirements: Endurance 160, Dexterity 160Created by Zor’kan.Body – Leather / Bloodsteel
+
+“Uncommon grade?” Ali asked. Most of the leather parts were stained a dark red color, and the massive ensemble had been reinforced with stitched-on steel disks.
+
+“Yup. Good stats for melee,” Malika added.
+
+Zor’kan just nodded.
+
+“Then there’s this,” Malika said, picking up the next item. “Not sure how useful this will be.”
+
+Painted Tusk Braids – level 75+47 Endurance.+13% faster recharge for Movement skills.Requirements: Troll, Endurance 150, Strength 150Tusk – Leather
+
+The braids were rather unique, several strips of brightly painted leather that had been tied to the giant troll’s tusks with an ornate series of ceremonial knots. They didn’t have a whole lot of use for items that were worn on tusks, and Ali would need to find some higher-level Troll Bone Warriors if she was going to use them for her minions. If it would even fit a regular-sized Troll.
+
+“There are four pairs of these greaves,” Malika said, producing a smaller pair from her storage. “The bone warriors were wearing them as well. Ali, do you have an imprint for something like this?”
+
+Blood-Soaked Greaves – level 70+45 Endurance+27 Dexterity+12 Vitality+15% Movement SpeedRequirements: Endurance 210Created by Zor’kan.Feet – Leather / Bloodsteel
+
+“I don’t, and I would need a bunch more to learn it,” Ali answered. But then she had an idea. “Hey, weren’t the warriors earlier in the dungeon wearing that Jambeau set you’re using? How many of those do we have?”
+
+“Oh, I have tons of those, they’re cluttering up my rings,” Malika answered, summoning a bunch of the gaudy greaves. “I’d be so happy if you could learn them, it would free up my space for those giant axes.”
+
+“Ok, I can do that,” Ali said, and set to the task of deconstructing all the legwear; Trolls, it seemed, preferred lower-leg armor over boots. Not so surprising, Ali thought, glancing at her Blood Shaman’s splay-toed feet.
+
+Imprint: Greaves completed.Variant: Blood-soaked Greaves added to Imprint: Greaves.Variant: Swift Bone-Studded Jambeau added to Imprint: Greaves.
+
+And just like that, her Grimoire was full again. But Ali was happy to have the imprint – her trolls were turning out to be an exceptional investment.
+
+“These greataxes are huge,” Malika said, grappling with the unwieldy weapons, “And they take up a lot of space.”
+
+Heavy Bone Greataxe of Carnage – level 81Damage: Slashing, PhysicalAdded Physical damage on hit with this weapon.+50% critical damage with this weapon.+10% chance of crushing blow.Requirements: Strength 284.Two Handed – Axe
+
+“Wish I could use those,” Mato said, eyeing the bone axe with obvious longing.
+
+“I can deconstruct them, I have an Axe imprint,” Ali said, “but I would need a few more to learn how to make them.” The greataxes were truly something to behold, the broad double-bladed axe head was made from dense bone and painted red. At least Ali hoped it was paint.
+
+“I can store them, I have enough space now,” Malika said.
+
+“These are impressive, too,” Malika said, holding up an enormous band of leather, studded with steel reinforcements and garishly painted. The troll had been wearing them laced around his forearms as bracers. Ali would bet she could use it as a belt. A very wide belt.
+
+Carnage Bindings – level 80+51 Strength.+29 Endurance.+8% chance for your Physical damage to inflict Bleed.+15% damage to Blood Melee skills.Requirements: Strength 280Created by Zor’kanHands – Leather / Bloodsteel
+
+“That’s a lot of damage,” Ali said as she examined the enchantments on the oversized bracers. Certainly, that amount of strength would benefit a primarily physical and melee class enormously. If the bracer were smaller, she would have most certainly tried it out on her warriors or shamans.
+
+“What I wouldn’t give for something like that,” Mato said, his tone filled with the obvious frustration of a shapeshifter. Nothing they had ever found worked with his skill.
+
+Wait a moment, Ali thought, looking across at their rescued Troll companion. “Zor’kan, are you able to make something like this for a shapeshifter?” she asked, pointing at the heavy bindings in Malika’s hands.
+
+“I cannot work bloodsteel without help from a smith,” he said. “I would not normally offer this, but circumstances are dire. If you’re willing to accept less-than-perfect work, I can modify those for him, but I will have to remove one of the enchants to stitch in the Shapeshifter enchant.”
+
+“I can do without the damage to Blood Melee skills,” Mato suggested.
+
+“Very well," Zor’kan said, taking the bindings and producing his bone needle. “Give me the berserker’s Bloodstained Greaves too, I can modify them also.”
+
+“Thank you, Zor’kan,” Ali said, addressing him with a more formal style of Trollish, emphasizing his title as a master craftsman.
+
+The leatherworker inclined his head and said, “I believe he will need the help if he is to survive what awaits at the top of the mountain.”
+
+Ali studied Zor’kan’s deft movement and the intricate flow of his mana for quite a while, and when he finished, he instructed Mato to shift to Bear Form in order to strap the oversized greaves and bindings to his legs. He cut a rather garish and moderately hilarious figure with troll gear strapped over his fur, but then he shapeshifted back to Beastkin, and the bindings adjusted to his form. And then when he shifted into Bear Form, they became part of his hide, showing only the bloodsteel and painted markings below his fur.
+
+“That looks much better,” Malika said, approving.
+
+“That’s a lot of extra damage for you, right?” Ali asked.
+
+“I’m thinking of it more as a defensive improvement,” Mato said, after returning to his Beastkin shape.
+
+“How’s that?” Ali loved hearing her friends’ perspectives on their roles as adventurers – so often their thoughts helped her see better ways to improve her strategy with her minions. Mato had wholeheartedly embraced the role of tanking, and Ali seldom needed to help with that, so her thoughts on the subject were more than a little unrefined, and she knew it. “I can see it has some endurance on it, but everything else is for damage.”
+
+“Strength is a powerful defensive attribute for my class,” Mato explained. “The amount of damage I can block is based on my strength.”
+
+“Whereas, for my class, dexterity determines how effective my blocks are,” Malika chimed in.
+
+“Why is it different?” Ali had no idea how blocking worked. She just threw up a barrier and it either stopped the attack or it didn’t.
+
+“It’s a matter of style and function,” Malika answered. “Mato blocking is like putting a brick wall in the way of a punch. My blocking is more like guiding the punch a foot to the left, so it doesn’t hit so hard.”
+
+“You punch with your foot?” Ali asked, briefly confused by Malika’s word choice before she remembered the common measurement system. “Oh, the foot was meant as distance? You deflect the attack?”
+
+“Yup,” Malika chuckled. “I push the attacks sideways or deflect them, Mato absorbs the force by opposing with his strength. It’s not quite that simple in reality though – without enough strength, I cannot block a powerful strike, and without enough dexterity, Mato will be too slow to block a quick strike.”
+
+“I see,” Ali said, finally understanding Malika’s analogy. “So, the strength on the Carnage Binding means you take a little less damage every time you can block an attack?”
+
+“Yes,” Mato answered. “Also, my Natural Prowess skill increases my strength by a substantial amount, and my Brutal Restoration self-heal scales with my damage, so it helps me recover a lot faster. Also, my bear just advanced, and I learned Critical Block.”
+
+He shared the details of his new Bear-specific skill.
+
+“When do we get to see that in action?” Malika asked, her eyes lighting up at the prospect.
+
+“Full-damage blocking is overpowered,” Calen said.
+
+“Would Critical Block have been useful against that berserker troll?” Ali asked, surprised again by just how excited her friends were by Mato’s new skill. Sure, she could read; it was easy to understand, but how it affected the flow of battle would require some experience for her to fully appreciate.
+
+“You bet!” Mato answered. “Every time he did critical damage, he inflicted a bleed on me. He had some kind of crushing attack that broke my ribs every time it hit. Blocking prevents critical damage, so more tools to block would have reduced a lot of damage.”
+
+Mato’s analysis reminded Ali of her Blood Shaman’s Blood Manipulation skill which improved their critical damage, while converting the damage into a bleed. While Mato presented a happy-go-lucky, battle-junkie personality, she was again impressed by just how observant he was, especially about the skills of his foes and the tactics he needed to master in order to defeat them.
+
+While they rested and discussed their strategy options if they faced another berserker troll, Ali resummoned her minions. She hesitated on resummoning her Abyssal Stalkers – at level forty-five they were her lowest level minion, and melee at that. They hadn’t lasted through the berserker’s first strike. But she eventually decided she wanted to make them anyway – but with a modification to her battle plan – she would have them fight any mages or witch doctors instead of the berserkers. At the very least, they would need a good strategy as Zor’kan had indicated that Tol’brekk was a giant troll, much like the one they had just defeated. That thought did nothing to ease Ali’s mind.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

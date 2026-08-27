@@ -1,0 +1,219 @@
+---
+id: fbdddddf-dd87-5251-b73f-721369f4b3dc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 94: Battle of the Steam Vents"
+slug: 0095-chapter-94-battle-of-the-steam-vents
+partOf: dungeon-of-knowledge-complete
+position: 95
+ownLength: 4419
+unit: words
+ownProgress: 4419
+publishedAt: 2024-07-04
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1704447/chapter-94-battle-of-the-steam-vents"
+royalRoadId: "1704447"
+markedReadAt: "2026-06-29T20:14:08.865Z"
+---
+
+“I hope she’s going to be ok,” Malika said, breaking the solemn mood as the three of them crossed the bridge in the middle of town.
+
+“You can trust Ali,” Mato said. “She’s strong and resourceful.”
+
+“I know, but…”
+
+“I wish we could be out there helping her, too,” Calen put in. “But this life drain is making us all vulnerable.”
+
+“Ali will get the water, and then we’ll get the elixirs, and everything will be back to normal,” Mato said, wincing at the wishful note in his prediction. She will be fine, believe it. “Now, I need to go to the market to stock up on some spices and vegetables.”
+
+“We shouldn’t split up,” Malika said.
+
+“Yes, let’s all go,” Calen agreed. “And then maybe after, we can drop in at my mom’s shop so I can let her know how I’m doing?”
+
+“Works for me,” Mato said, leading the way up the street toward the bustling market. He ignored most of the vendors, heading directly for his favorite. Rounding the corner, he couldn’t help but grin as he saw the Rabbitkin hard at work. He was wearing a dark blue serviceable apron while he rapidly arranged carrots and heads of dark green lettuce with properly gloved hands. His long floppy ears twitched as he hummed a tune.
+
+“Hi, Roger,” Mato said, striding up to the fruit and vegetable vendor, with the authoritative air of a Beastkin with a stewpot to fill. The man glanced up skittishly, whiskers twitching, but as soon as he saw Mato he smiled.
+
+“Hi, Mato, what can I do for you? Need some apples? Just got a fresh batch in.”
+
+“Mmm, I’m good on apples for now, but I’m very interested in that cassia bark,” he said, scanning the selection of spices on the side table but not finding what he was looking for.
+
+Roger twitched. “Uh… what cassia bark?”
+
+“Don’t be so coy, I can smell it!” Mato said, leaning in a little closer and sniffing.
+
+“Sorry, it just came in and I had to pay through the nose for it,” Roger said. “I was hoping to turn a profit by selling it to the Asterford house chef later tonight. I hope you understand.”
+
+“Aah,” Mato said, thinking quickly. “I don’t need a lot, just a stick or two. How about we make a trade?” He used his ring and retrieved a bag of cherries he’d picked from Ali’s new tree.
+
+Behind him, Calen stiffened briefly, but Roger didn’t notice, a frown appearing on his brow. “We both know cherries aren’t worth that much, Mato. Besides, I already have a whole box right here.”
+
+“Aah, but these are dungeon-grown,” Mato whispered conspiratorially.
+
+Roger’s eyebrows nearly left his face.
+
+“No way. You don’t have dungeon-grown cherries.”
+
+“Here, try this,” Mato said, slipping a single cherry from the bag and offering it to him.
+
+Roger plucked the cherry from the palm of his hand with a dubious expression and then put it in his mouth. His eyes suddenly widened in shock, his whiskers twitching violently. “Oh… oh my,” he managed, seeming lost in a trance for a few moments, before finally swallowing. He smoothed down his apron and collected his wits. “Two sticks, then?” he whispered, reaching under the counter.
+
+“Two is perfect,” Mato said, exchanging his bag of cherries for the bark. All he needed now was a trip to the butcher and he had everything he needed for a perfect curry.
+
+“Mato, you must tell me where you got these,” Roger said, holding the bag of cherries like he had a handful of gold.
+
+“I promised not to reveal my source,” Mato said, tapping the side of his nose with a finger.
+
+“Then at least stop by my store first whenever you get more, please?”
+
+“I got you,” Mato said, “we Beastkin need to stick together.” Then, he finished up his business by replenishing his stock of vegetables before they headed off to visit Calen’s mother.
+
+“You sold him cherries from Ali’s trees?” Calen asked, his voice pitched low not to carry.
+
+“Yes,” Mato said. “Dungeon-grown fruit is highly sought after for its incredible flavor. Besides, I asked her if I could take some before she left.”
+
+“Is that wise?” Malika worried.
+
+“Nobody knows where I got it from,” Mato said. “How would they even find out?”
+
+Ali swam along the long, winding tunnel, following its twists and turns for about ten minutes before emerging through the roof of an enormous underwater cavern. She felt a brief sense of vertigo as she floated above a deep blue void that faded into darkness below as her mobile wobbly lights crawled along the roof above her or swam around nearby. The heaviness of water moving into and out of her lungs made breathing effortful and more than a little uncomfortable.
+
+In the water, her slimes seemed remarkably graceful, even considering their alien locomotion – the Brine Ooze particularly so, undulating softly and flowing elegantly along as it moved. She studied the cavern carefully, but it was far too big to see much other than the smoothly worn nearby stone walls. She would have to move if she wanted to explore, and if she recalled correctly, the map had marked this area as ‘dangerous’ without specifying why.
+
+She paused, floating in place for a few moments while she considered her options against an unknown danger. But she was forced to conclude that she didn’t have enough information, not unless she put herself out there. Deciding on a compromise, she committed some more of her mana, summoning two more Brine Oozes to add to her little army, reasoning that a little more variety of magic and attack roles might leave her better prepared for whatever surprise awaited.
+
+I’m never going to feel ready, she told herself, grabbing onto her barrier and pulling herself downward into the dark blue water, willing her minions to follow beside her.
+
+She searched the walls, rocks, and crevices for signs of the skittish monstrous observer, but as she was distracted, she felt something soft brush up against the back of her neck briefly before vanishing. The warm sensation intensified, suddenly turning into a powerful stinging that almost made her cry out from the pain.
+
+You have been afflicted with Poison.+0.15 Poison damage per second.Poison – Duration: 10 minutes. Count: 1
+
+All around her, the water began to move, as if alive. Tiny tendrils of mana flickered out, and ripples flowed and vanished. Another brushing sensation traced along her arm, followed by the same intense, stinging pain.
+
+Your Poison has increased to 3 (+2).+0.15 Poison damage per second.Poison – Duration: 10 minutes. Count: 3
+
+Her eyes widened in shock as she suddenly realized she was surrounded by virtually invisible enemies. Hastily she summoned her barrier magic, struggling to form a complete sphere around herself as the water began to crawl with movement and her Kobolds and Goblin reacted to the pain.
+
+Stinging Jelly – Ooze – level 5 (Water)Stinging Jelly – Ooze – level 3 (Water)…Stinging Jelly – Ooze – level 2 (Water)Stinging Jelly – Ooze – level 6 (Water)
+
+She could see them now – outlined in traces of dimly glowing water-affinity mana – tiny, transparent blue disk-like creatures the size and shape of an upside-down tea saucer, trailing long frond-like strands of tentacles below them that waved and flowed through the water, reaching out gently to caress their prey.
+
+They were very low-level, and the poison was not particularly strong, but the water was filled with the swarm, way too many to count. The tendrils trailing the tiny monsters glowed with water magic, and Ali was certain they were the source of the brushing sensation and the poison that stung way more than it had a right to. It had taken mere seconds, but she already had three stacks of the poison coursing through her veins.
+
+“I need a wall. Over there,” she called out the first thing that came to her mind. A surge of bone mana erupted from her Bone Mage and with a cracking and popping, a large structure of bones erupted before them, anchored to the nearby wall. At least for her healer, hiding behind it would be essential.
+
+I don’t have much area magic, she thought. Normally she would have blasted everything with a Fireball, but she had discarded the idea of fire magic underwater after her extensive affinity testing. Her new Brine Oozes were firing their almost invisible bolts through the water, and her Luminous Slimes were thrashing around with their pseudopods, but they were making little headway against the swarm’s overwhelming numbers.
+
+“Dazzle!” She squeezed her eyes shut as she called for the attack, and even through her eyelids, the light magic seared her retinas with its brilliance. When she stopped her slimes and looked around, it was clear that Stinging Jellies had ignored the light.
+
+“Nova totem!” she commanded, trying everything her mind conjured in the hopes of finding something that would work. Her Goblin tossed the steel totem into the midst of the monsters, but it rapidly sunk, carried down to the bottom of the cavern somewhere far out of sight where it would be of no use to anyone.
+
+So much for that idea.
+
+She was about to call a retreat when something crazy popped into her head.
+
+“Get out there and hold the totem,” she instructed and was instantly grateful that her Storm Shaman was intelligent enough to understand her unconventional request. He swam out into the midst of the swarm, summoning the steel totem into his hand.
+
+“Heal him,” she told her Acolyte while hiding behind the wall of bone. Her Acolyte responded with a pulse of holy magic that shimmered around the Goblin swimming out front. Ali grimaced at the soft touches of poison tendrils lacing across her Goblin’s head and shoulders.
+
+The totem pulsed a powerful sphere of crackling lightning magic that rippled out from the center, tearing through the Goblin holding it and all the swarm of Stinging Jellies trying to reach him. A chorus of chimes sounded before the totem pulsed again. The jellies thrashed and twisted in response to the potent attack, trying to get to the Goblin in the center of the Lightning Nova and poison him to death.
+
+Ali’s skin prickled uncomfortably from the electrical discharges, the effect carried to her via the water, even at this distance.
+
+“Attack. Stay outside the lightning,” she instructed the rest of her minions, hoping that such a command wasn’t too complicated for her Luminous Slimes. Using the little remaining capacity she had for her barrier, she summoned a blade, modeled on her practice emulating the Glimmer Shard, and waved it through the roiling waters. She barely had to aim; the crude blade of magic simply sliced through the dense swarm with every swipe, leaving a cascading chorus of chimes in its wake.
+
+The silent battle waged on and on for minutes. Ali even tried to target the Stinging Jellies with her Arcane Bolts, but she found retargeting and only hitting a single monster at a time was simply not worth the focus and the mana, reverting eventually to her blunter imitation Glimmer Shard as her weapon of choice. The lightning pulsed continuously, and she was beginning to wish she could disable the cacophony of chimes.
+
+Her Acolyte suddenly shone out with an intense pillar of holy magic and the speed and power of the healing spells landing on her Goblin Storm Shaman intensified dramatically. For thirty seconds the equilibrium was held, and the lightning pulsed, but as soon as the potent enhancement magic faded, her Goblin collapsed, perishing from the cumulative load of poison that he had racked up standing in the middle of the swarm.
+
+But the roiling waters had subsided dramatically, and as the corpse of the valiant Goblin shaman drifted down into the depths still clutching his totem in his hand, Ali could tell that the swarm had been broken. All that remained was for her slimes to mop up the remnants with their pseudopods and water bolts.
+
+You have defeated Stinging Jelly – Ooze – level 1-9 (Water) Swarm x287
+
+That was close, she thought, eyeing the swarm-kill notification curiously while deconstructing whatever she could find to replenish her mana. Her Acolyte continued dispensing her holy magic to combat the lingering poison while it lasted.
+
+Variant: Stinging Jelly added to Imprint: Ooze.
+
+The map had indicated a cavern with some air up ahead, and Ali began directing her forces downward toward where the exit had been marked, pausing only to make her Luminous Slimes retrieve the corpse of her Goblin shaman. Not about to feed this dungeon, she thought. The tunnel curved around and opened into the bottom of a moderately sized cavern in a deep pool of water. Rising from the side was a ridge of rock that jutted out into the pocket of air that filled the top half of the cave. Ali levitated herself up and onto the rock along with her minions, happy to take a breather and wait out the poison.
+
+At least the air feels fresh.
+
+“Let me know when you recover your mana,” she told her Acolyte. Ali summoned a replacement for her dead Goblin shaman, and then sat on the rock and pulled out her map. There were only a few more passages and caves left before she reached the bottom and the one marked with an ‘X’ which is where she assumed she would find the mana-purified water. Her path through the dungeon had been pretty direct, bypassing only a few side passages and dead ends. Hopefully, she wouldn’t need to come back and explore them all.
+
+“I am ready, Ancient Mistress,” her Kobold said after all the poisons had dropped and it had sat for several minutes in a pose of prayer.
+
+“Good, let’s continue,” she said, retrieving a spare Underwater Breathing Potion and handing it to her new Goblin shaman, before diving back into the water.
+
+The next several caves and tunnels were narrower and smaller, seeming rather cramped by comparison to the large spacious caverns from earlier. She encountered several more Stinging Jelly swarms and Brine Oozes, but with the limited space, their numbers were fewer and correspondingly much more manageable.
+
+And I know what to expect now. Although Ali was careful to not get complacent. There was still much she didn’t know about what might lurk in this dungeon – and she knew of at least one thing she hadn’t been fast enough to identify yet.
+
+It was on her approach to the second to last cavern that she started noticing the water getting warmer. The tunnel wound downward, meandering back and forth lazily, and as she swam along, the temperature rose to that of a nice warm bath. When the tunnel finally ended, she emerged swimming into the upper reaches of an enormously deep submerged water cavern. She gazed downward into the darkness, noticing some vague reddish glow from the distant depths.
+
+She began her descent, swimming downward slowly, with her minions flanking her as she kept her eyes, and all her senses alert for surprises. As they descended, the water began to grow uncomfortably warm and the glow near the bottom brightened to an angry red that reminded Ali uncomfortably of fireballs.
+
+A shimmering ripple and flicker of water-affinity mana bolts fired by her Brine Oozes alerted her to the attack before she even saw the swarm of Stinging Jellies. Reacting quickly, she summoned her barrier, and directed her minions, using the same strategy – a creaking wall of bone and the shaman carrying the lightning nova totem like a torch.
+
+She was not particularly worried, the swarm wasn’t as big as the first one she had encountered, and she had enough experience with these monsters now that she could avoid most of the damage. Even her shaman had only died on the first one.
+
+As her gaze drifted around the battlefield, it was drawn to a tiny flicker of gray mana in the depths of the cavern, contrasting against the dull reddish glow of the background.
+
+There it is again. And again. Rising from the depths she saw what looked like a series of tiny bubbles, followed by soft popping noises. The bubbles rose, growing rapidly larger as they approached, and she had a sudden premonition of danger. Quickly, she moved her barrier to block them, studying the grayish swirling vapor as they drifted past.
+
+The bubbles rose, trickling around her slimes and they instantly began to recoil in pain. The bubbles didn’t explode exactly, but they did burst into many tiny bubbles on contact, and they seemed to be dealing enormous amounts of damage.
+
+What? She urgently tried to maneuver her monsters away from the rising bubbles and her unknown attackers. A couple of her Luminous Slimes that were too slow to react collapsed like deflated water balloons, spilling luminous goo to drift away into the surrounding waters as their lights went out.
+
+Below their position, briefly illuminated by the staccato pulsed intensity of the lightning nova, Ali suddenly made out several grayish shapes swimming up toward them.
+
+Scalding Slime – Ooze – level 19-23 (Steam) x4
+
+Steam! My slimes are being boiled!
+
+“I need another wall! Now!” Large spines and ridges of bone suddenly sprouted from the nearby cavern wall below where Ali floated, her Bone Mage imposing a substantial and comfortingly solid barrier between them and the rising steam bubbles.
+
+Hopefully, that diverts the steam.
+
+Most of the Stinging Jelly swarm seemed to be dead now, and Ali recalled her shaman to the protection of the wall. It would have to do for now, her Luminous Slimes could take care of the rest, her priority was the incoming flight of Scalding Slimes.
+
+“Attack!” she focused her will directing her shaman, mage, and the Brine Oozes to all open fire on the rapidly closing enemy monsters, adding her Arcane Bolts to the mix, hoping to take at least one of them down before they closed the distance. Several more of the gray shapes swam into view, coming up from what seemed to be a glowing red vent below.
+
+A bone spear flew through the water, leaving a trail of cavitation bubbles, and impaled the slime Ali was shooting. It popped releasing a cloud of steam bubbles into the surrounding water, rising quickly to the bone wall which deflected them away from her creatures with an eerie hissing sound. Ali’s bolts slammed into the next Scalding Slime and her barrier shard sliced the creature. The bright flash of her shaman’s Lightning Bolt ripped through the monster and into the next, leaving a tingling feeling across Ali’s skin as the discharge propagated through the water. It took only a few more bolts and it expired. The stream of steam bubbles rising was forming a sizzling curtain around them as more slimes joined the fray. A little worried, Ali had her Bone Mage create a second, backup wall just in case. Several of her Luminous Slimes fighting above were caught in the bubble stream and boiled, but the bubbles were also wiping out the remaining jellies at the same time. Ali recalled her Luminous Slimes, shocked to find she had only four remaining.
+
+Risking a little vulnerability, she switched to a smaller frontal barrier for protection and freed up enough capacity to control two more barrier shards. She found if she flew them in formation, they were easier to control while maintaining her focus on her Arcane Bolts and tracking what her minions were doing.
+
+As the Scalding Slimes approached the bone wall, they began to fire rippling bolts that shimmered through the flash-boiled water, shredding the bone wall and leaving trails of steam bubbles and loud cracking noises in their wake. Her Brine Oozes returned fire with a similar hail of bolts and ripples through the water, but though they had more range, the Scalding Slimes demonstrated an extraordinary amount of destructive power with their steam jets.
+
+“Another wall!” Ali instructed, urgency making her wish haste on her mage. Their seemingly solid protective bone wall was rapidly melting against the onslaught of steam. Large sections of the wall began to crack and break off, falling away into the depths below.
+
+Ali waved her shards of barrier magic inexpertly across the attacking slimes, not certain if she was having much effect, but at least her Arcane Bolts were landing. With a deafening underwater concussion, her shaman’s Lightning Bolt tore through the attackers, frying two of them and unleashing an explosion of steam as they popped. Another large section of the bone wall cracked and fell away, releasing a massive curtain of trapped steam bubbles that rose rapidly toward Ali. She willed herself to the side by moving her barrier, pulling herself closer to the dubious safety of the rocky cavern wall as her bone cover rapidly shrunk and the steam bubbles began to slowly encroach their defensive position. Caught in the open, a couple of her slimes were engulfed by the rising cloud of deadly bubbles and were quickly scalded to death.
+
+Below her, Ali’s Bone Mage had been fighting a valiant effort to patch up the bone wall, but he was caught in a blast of steam that sliced through his creation like butter, putting him out of commission for a while. The now-familiar pillar of holy magic flared around her Acolyte, a sure sign of her Kobold’s desperate efforts to save someone. The three remaining Scalding Slimes were rapidly squeezing their way through the small cracks and holes in the bone wall, intent on destroying whatever they found inside with mindlessly relentless persistence.
+
+Ali shot her barrier shards at the hole, and bone and steam exploded as she killed the first slime halfway through. But the explosion blew the hole wide open, and as she struggled to target the remaining slimes with her Arcane Bolts, chaos erupted as bubbles filled the entire area, no longer constrained by the walls. The rapid cracking reports of steam jets deafened her ears as the slimes tore into her minions.
+
+This is either crazy or brilliant, she thought as an idea sprang into her mind. In the chaos, she didn’t have the time to figure out which. But it wasn’t like she had much choice.
+
+Definitely crazy. Inspired by her vision of the Bone Wight and his bone prisons, Ali summoned her spherical barrier, but instead of using its protection on herself, she enclosed one of the two remaining Scalding Slimes, trapping it in a prison of her magic and preventing its steam and jets from hitting anything. This unfortunately left her entirely unprotected and vulnerable to the torrents of bubbles. She could already feel steam scalding her skin and the reactive pulses of holy magic as her Acolyte noticed she was taking damage.
+
+“Attack! That one!” Ali directed her minions specifically to the free Scalding Slime, not trusting that her slimes would be smart enough to figure it out on their own. Then she focused all her remaining energy on Arcane Bolts, firing continuously.
+
+She flinched as the bubbles caressed her skin, searing her and peeling her flesh, only for it to be healed and steamed off once again. The Scalding Slime retaliated with a vicious volley of steam jets and a cascade of bubbles killing another of Ali’s slimes before a direct hit with her shaman’s Lightning Bolt and the boost of the lightning vulnerability curse caused it to explode.
+
+Ali screamed as a cloud of bubbles tore into her legs and arm, but her Acolyte was ready with her healing magic, repairing the damage as quickly as she could.
+
+Taking a few moments to recover, Ali noticed that her Acolyte’s powerful pillar of light had expired and it was now bent in a pose of prayer, clearly trying to recover mana. The corpses of her minions floated around in the water nearby, boiled or scalded to death. Of her entire force, all that remained was one Brine Ooze, two Luminous Slimes, her shaman, and Acolyte.
+
+And that Scalding Slime. Ali frowned at the bubble of her barrier filled with a swirling grayish vapor that entirely obscured the monster lurking within. She moved her minions out of the path of the inevitable steam explosion and held on to her barrier for a few moments longer – giving her healer a little extra time to recover mana, and herself time to deconstruct a corpse.
+
+Close enough. She released her barrier magic, snapping it back as a disk in front of herself. There was a concussive crack and steam exploded from where the remaining Scalding Slime was, sending a flurry of bubbles rising beyond her sight. The slime attacked, aggressively shooting steam in all directions.
+
+“Kill it!” Ali unleashed her Arcane Bolts and barrier shards and winced at the loud crack of lightning detonating underwater. One of her Luminous Slimes wrapped its pseudopods around the Scalding Slime and there was a sudden grappling fight of twisting, stretching, bending, and warping as the two amorphous monsters struggled unsuccessfully to pin each other down.
+
+Ali simply reinforced her command and continued firing her magic unabated, not caring if she hit her own slime or not. It was getting cooked anyway. But it was somewhat successful at keeping the monster in one spot, making it easier for her to land hits with the shards of her barriers. Ali could see her Acolyte’s magic trying to keep the Luminous Slimes from being scalded to death, but the sudden bolt of lightning that tore through the furious melee made it all moot. There was a massive burst of steam bubbles and glowing yellow slime as both monsters exploded.
+
+The explosion was large enough to envelop her in the outer fringes of steam bubbles and she gritted her teeth against the searing pain, quickly adjusting her barrier to avoid further exposure while she waited for her Acolyte to heal her.
+
+Next time I’m definitely bringing more healers. Ali had tried to keep the number of her minions to the absolute minimum in order to save the enormous cost of the Underwater Breathing Potions. But floating in the searing heat of a cloud of superheated steam from a deadly slime, Ali was seriously questioning her priorities.
+
+This dungeon is far more deadly than I expected.
+
+Gritting her teeth, she began to deconstruct everything, loath to leave anything that might cause the dungeon to grow.

@@ -1,0 +1,173 @@
+---
+id: a6c7a8a5-2903-54c7-8493-2bf3e6b9aab9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 224: Kir’vella (Part 1)"
+slug: 0255-chapter-224-kir-vella-part-1
+partOf: dungeon-of-knowledge-complete
+position: 255
+ownLength: 3136
+unit: words
+ownProgress: 3136
+publishedAt: 2025-04-15
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2204133/chapter-224-kirvella-part-1"
+royalRoadId: "2204133"
+markedReadAt: "2026-06-29T20:19:50.733Z"
+---
+
+They slogged on through the dense, muggy jungle for the better part of the rest of the day, and, by the time the trail opened out into a broad clearing nestled up against the rocky cliffs of the mountainside, Ali was thoroughly sick of all the incessant buzzing insects and their insatiable hunger for Fae blood.
+
+Variant: Vampiric Nightwing added to Imprint: Bat
+
+“I never want to see another contagion,” Ali grumbled. The trek had not been particularly far, but they had been forced to battle their way through ghouls, trolls of every kind, and dozens of roaming Vampiric Nightwing bats.
+
+“I have a feeling we’re not done yet,” Mato warned. “Something up ahead smells nasty.”
+
+“I agree,” Calen added.
+
+Their party slowed and finally came to a halt as the jungle gave way to a broad cleared area nestled up against a rocky cliff, fenced off with a perimeter of Grim Totems and piles of loose bones.
+
+Ali studied the clearing as they all hunkered down behind the trees, using the senses of her drakes to see more clearly. Something out in that clearing was most certainly foul, almost bad enough for her to disable the Scent of Blood skill. “Wow, that is rank.”
+
+Mato wrinkled his nose.
+
+The path they had been following vanished as it led into the broad clearing but, over at the far side it resumed, exiting back into the jungle to wind higher up the mountainside. Heaped up near the exit was a vast pile of bones and fresh troll corpses, fresh enough that the stench could not be due to rot.
+
+A shadowed cave opening split the rugged cliff face, an ominous slash of brooding darkness, and in front of it, a garishly masked troll stirred a huge bubbling and frothing cauldron set over a modest crackling fire. Tied to her feathered loincloth, Ali made out a long, unsheathed bone dagger, stained with fresh blood. The strange troll shook a horrific painted troll skull attached to a short stick and adorned with bright feathers that matched her clothing. The soft shush, shush, shush of the beans inside her gruesome maraca carried clearly across the distance. She wore her back and midriff bare, covered only by a stunning array of intricate runic tattoos that glowed with dense soul-affinity mana.
+
+“That’s a raid boss,” Ali whispered, Identifying her immediately. She was most definitely a raid boss if the domain mana flowing through her was anything to go by.
+
+Kir’vella [Empress of Bats] – Troll – level 87 (Soul)
+
+“Agreed,” Calen said. “Nasty, too.”
+
+Five beams of arcing blue energy suddenly erupted from the witch doctor’s hand, flickering and dancing across the weakly struggling or unconscious trolls tied suspended to the Grim Totems around the fire or staked to nearby trees. The faint sounds of singing reached Ali’s ears, a song that sounded like a children’s counting rhyme, timed with the stirring of the pot, the shaking of the rattle, and the pulsing of the drain magic.
+
+Set a little off to the side, so as not to interfere with the troll’s gruesome cooking ritual, Ali spied a familiar stained bone altar, complete with the telltale glow of death magic emanating from deep within it and the surrounding field of light blue Soulshade Blossoms. As she watched, it pulsed once and a troll corpse slowly clambered out of the pile of bodies, its skin rapidly desiccating, pulling taut over the protruding bones as it blackened with rot and decay. The skin of its face tightened into a rictus of blackened teeth and tusks, accelerated into advanced undeath by the power of the altar.
+
+“Ghoul,” Ali whispered, recognizing the undead monster instantly.
+
+“So, this is where they’re coming from,” Calen murmured. It was just like the Temple of Bone, only the undead being produced from the corpses of the trolls here were far more terrifying and deadly.
+
+“Go,” the painted troll said, making an impatient shooing gesture toward the forest with a spatula that dripped something nasty and black. Some foul concoction that had to be related to blood by the stench her shamans were subjected to. The Ghoul groaned once and stomped its way out of the flower patch, leaving a wave of black footprints as the undead Spectral Wraithroses raised themselves from the crushed remains of the Soulshade Blossoms.
+
+“The crazy bat-lady,” Gara whispered.
+
+Ali glanced at Gara, but her expression was anything but joking, and her body was even trembling a little.
+
+“I was always afraid of her,” Gara continued, her unashamed admission delivered in a clear and unwavering whisper. “She was always too creepy. She is different than Val’korr – a Kir of Aman Rak, she ranked above even Kir’mogan. She is a master herbalist, alchemist, and bat summoner. She can haunt people. I do not know if the haunting is true or just something she said to scare people, but I definitely saw her summoning bats. I will wait back here.”
+
+“Thanks,” Ali said. She couldn’t help the unease she felt at the very obvious nervous fear Gara was emoting, even though it didn’t creep into her voice. And she’s a Troll. What sort of person is Kir’vella? But at least if Gara stayed back, she should be safe.
+
+“So, potions and bats, and maybe some other whacky stuff?” Mato asked. “This already sounds like a stupid fight.”
+
+“Give me a few minutes,” Ali said. Mato’s comment was spot on, knowing that she was facing a Witchdoctor with its annoying escape skills and Vampiric Nightwing bats with their blood contagion, she decided she should not bring more melee than was strictly necessary. The only problem was she didn’t have many decent choices for ranged damage – certainly not at the level she would need to make a difference against a level eighty-seven raid boss.
+
+Quickly, she unsummoned her two wargs and replaced them with imps. While not the easiest minion to control, she was guessing the fireballs would be less of a problem aimed at flying bats. That left her with the two Abyssal Stalkers and two Armored Drakes for her pure melee minions – her trolls could all fill multiple roles, which made them quite versatile if the fight proved to be anything like she expected.
+
+“You got everything?” Calen asked.
+
+“I just wish I had a good flying monster. Going after hordes of bats is going to be a real pain,” Ali said. Her best fliers were the Poison Wyvern and the giant sound-affinity bats, neither of which were particularly high level compared to what they faced. She had learned the Vampiric Nightwings on the way over, but Blood Contagion was indiscriminate, and would certainly prove more problematic for them than the Witchdoctor. My only other option is… wait.
+
+It was a crazy idea, and a monster she had never tried out in combat so far, but for once, she had the mana to spare. “This is going to be a bit of a whacky idea, I don’t know if it will work,” she said, but she flipped through her Grimoire to the demon entry and summoned fifteen Vampire Hornets. Of course, with their swarm aptitude, that meant she actually had one hundred and five of them.
+
+Vampire Hornet – Demonic Insect – level 27-28 (Blood) Swarm x105
+
+Your reserved mana has increased by +800.
+
+“That’s an interesting idea,” Calen said, eyeing her cloud of heavy, demonic insects speculatively. The low buzzing drone coming from the swarm gave Ali the heebie-jeebies.
+
+“I’m just going to set them on any bats and forget about them,” Ali said. She was grateful for his approval because she was going to feel very stupid if sending a horde of untested level twenty-eight monsters against the boss backfired in her face. But their swarm formation skill meant they would more than double their attributes, and they had shared healing whenever they bit or stung something with blood. And they had taken out her Hobgoblin boss pretty effectively when they had been fleeing from the rift break. It has to be worth a try.
+
+Calen studied the witch doctor dancing by the bubbling cauldron carefully, noting the strange gear, the dagger, and the familiar drain magic. The prisoners looked to be in very bad shape, and they would need to hurry if they were to stand any chance of rescuing any of them.
+
+“How about Mato tanks her over by the cauldron?” he said. “I will concentrate on any flying bats if they’re a problem, and we can try using the same strategy we used on the other witch doctors – whoever is in the Spirit Realm hit her until she comes back. Ali can de-frog whoever we need most.”
+
+“Sounds good,” Malika said. “I’ll just punch stuff then?”
+
+“Yes. We’ll have to adjust on the fly – she is a raid-level threat. Be prepared for anything.”
+
+“Ok,” Ali said, gathering her minions into a loose formation.
+
+Calen shifted into the shadows, blurring his form and disappearing with the aid of his powerful illusion magic. He tried his best to ignore the gruesome brewing ritual that was being shown to him in exquisite detail by his Eyes of the Archon; Kir’vella was prancing around and singing, and every few minutes she would drain her captives. It was clear to him that she was using their life energy to augment her craft somehow, as she carefully waited for them to regenerate between uses of her blue beams. Whatever she was doing with the pot seemed to have rather unexpected side effects as every now and then something bizarre would happen: her shock of wild hair abruptly changed to blue, she leapt around, squawking in surprise with sparks falling from her mouth, and once, several frogs appeared from nowhere, hopping around for a while before she caught them and tossed them into the boiling cauldron.
+
+Calen put his concerns away, Mato was starting. The only good thing about fighting witch doctors was that, even during the fight, he could easily recover his stealth whenever they transferred to the Spirit Realm. But, although Ambush against a normal witch doctor took a large chunk of their health, against a raid boss’s massive health pool, he wasn’t so sure it would be as effective.
+
+With a shattering roar, Mato charged.
+
+“Ooh, visitors! Excellent!” the witch doctor cackled, pausing her brewing to rub her hands in glee.
+
+Ali’s grasp of strategy had certainly grown by leaps and bounds – Calen saw she had easily recognized that armor didn’t particularly matter against a Witchdoctor – and so, she had mixed her imps in with her front-line melee forces. The witch doctor’s first curse target turned a Hellfire Imp into a frog, which didn’t particularly impede its ability to cast fireballs. But then, it did something he hadn’t expected. The imp immediately transformed into fire and reappeared, having shed the frog form.
+
+Oh, I forgot they could shapeshift! Brilliant!
+
+The second Frog Hex hit Mato, which he promptly broke, and then followed by a drake and a shaman, and then Kir’vella tossed a jar into the oncoming group which exploded with what seemed to be ghostly snakes.
+
+Calen drew his bow and sighted his shot, biding his time, waiting patiently for the perfect moment. Right as the blue drain magic appeared, he loosed the arrow from his bow, holding his fully formed magic enhancement in his mind as his powerful vision tracked the path and the arrow sped across the clearing. At the last possible moment, he released the magic he was holding in check, and a giant flash of light filled the clearing, slamming into the witch doctor’s body with all the power of his Ambush attack. The drain beams vanished to the sound of Kir’vella’s angry screech, but she didn’t retreat to the Spirit Realm in response to his attack.
+
+Ok, she’s tough…
+
+Kir’vella stamped her foot and raised the painted and decorated troll skull in her hand, shouting something unintelligible that sounded like the troll language but was beyond his rudimentary grasp. A vast rushing, rustling sound echoed from the dark hole in the cliff behind her, and suddenly the sky darkened as bats poured out from the cave.
+
+“Mass Summoning,” Ali shouted from somewhere behind him.
+
+Vampiric Nightwing – Bat – level 43
+
+…
+
+He couldn’t get a good count because the bats kept coming in a swarm that darkened the sky. Ribbons of red blood magic flickered from the bats, striking indiscriminately at anyone on the ground. One of the ribbons flickered out, touching his shoulder and instantly, he felt his health being drained.
+
+You have been infected by Blood ContagionYour blood bubbles grotesquely, hemorrhaging from suppurating sores. +3 Blood damage per second, to you and the surrounding area. Targets hit by Blood Contagion have a chance to be infected. Range: 10 feet.Small chance per vitality point to recover from Blood Contagion.Disease – Count: 1.
+
+Calen drew his bow, activating the hellfire enhancement, all thoughts of stealth now gone. His bow howled as he fired continuous volleys of arrows into the storm of bats in the sky. His arrows exploded with light and flame, followed shortly after by the hellfire fireballs from Ali’s imps, and it began to rain blood and bats as his explosive arrows ripped through their numbers. As the cloud began to thin, Calen saw a bigger bat above, glowing a soft blue color.
+
+Spirit Nightwing – Bat – level 67
+
+Here you go, Mato, he thought, firing a Grappling Shot arrow into the much larger bat, and dragging it to the ground. Enjoy.
+
+Kir’vella’s body shimmered, and she vanished to the Spirit Realm, taking Ali with her. She can take care of herself – I hope! But with his attention fixed on the bats, he failed to notice Kir’vella’s parting gift to him. A vial filled with a foul concoction from the cauldron shattered at his feet and erupted in a cloud of purple vapor.
+
+You have been afflicted with Curse of Insanity.The purple smoke reeks of foul decay right up until it takes effect.You are insane.Curse – Duration: 45 seconds.
+
+Calen turned, ignited his mana with Righteous Fury, sighted on Mato, and released his arrows. He knew Mato was his best friend, of course, but somehow, shooting him right there seemed like the funniest idea he had ever heard of.
+
+The familiar banishment curse settled onto Ali, and the color drained from the world as it forcibly yanked her into the Spirit Realm. Immediately, she retrieved one of Mato’s fried ghost mushrooms and popped it into her mouth, wondering just how he and Gara had conspired to make something so simple taste so good.
+
+She quickly split her awareness, continuing to observe and direct her minions left in the real world. The Spirit Realm flickered, showing her a different echo, but she ignored it, relying on the senses of her minions to inform her. The bats need attention, she thought, directing her imps to shoot skyward, and checking that both her Bone Warriors had switched to throwing their exploding axes.
+
+The Vampire Hornets were unreal, tearing through bats at a furious rate. They flew in a compact swarm that shifted and bowed around the agile bats, but they were enveloped in a permanent haze of blood as the unrelenting stings and bites ripped into the bats, distributing healing among them. With their powerful swarm bonus to their attributes, each hornet had over a thousand health, and they were tanking hellfire fireballs without flinching, healing each other back to full in seconds.
+
+I should have made more. If they had to do the fight over, she would.
+
+She didn’t bother with putting bleeds on her drakes this time; with that many Vampiric Nightwing bats, the Blood Contagion was going to be a far greater problem than the Frog Hex. Her attention was suddenly dragged back to the Spirit Realm by a flash of magic and the brightly colored Kir’vella appearing before her. Immediately, she summoned a protective barrier to block the drain attack and retaliated with several sharp barrier shards.
+
+“You have some fight in you, little one,” Kir’vella said with a ghastly smirk, her voice sounding raspy and hoarse. Whether that was caused by the Spirit Realm, or her normal sound, Ali wasn’t quite certain, but the cackling laughter that followed had a disturbing ethereal echo to it and sounded more than a little unhinged. “Let’s see how you deal with this, then…”
+
+Kir’vella raised a hand, and a bright radiant light appeared within her fist, created from the soul magic within her. She opened her hand, and the construct slowly floated to the ground where it remained, flickering and glowing.
+
+A beacon? It reminded Ali a lot of Calen’s motes, but this one settled on the ground instead.
+
+“Time to go! You brought me such fun toys to play with.” With those ominous words, Kir’vella vanished back into the normal world.
+
+A menacing growl from the side thrummed through Ali’s body and she snapped around to find a blue, glowing, translucent canine form slinking out from behind the gray trees and brush, its eyes fixed upon her as it approached.
+
+Ghost Stalker – Spirit Wolf – level 71 (Soul)
+
+The monster vanished, suddenly appearing behind her and biting at her barrier, but her magic held, and she wasn’t particularly worried, simply feeding a little more mana to the barrier while she turned to study the beacon Kir’vella had left behind. A little later, the beacon pulsed, and another glowing form emerged from the forest. This time, a scorpion.
+
+Ghost Piercer – Spirit Scorpion – level 68 (Soul)
+
+It isn’t summoning them, so much as it’s calling them, she realized, tracing the delicate threads of mana and flow within the unusual spell. Could I learn something like this?
+
+Mid-thought, Ali was yanked back to the normal realm as her banishment curse expired early again. Is my magic resistance shortening the duration? Her musings were immediately interrupted in favor of more important things. Her Blood Shamans were healing constantly, and her one remaining Kobold Acolyte lay dead on the ground. Everyone seemed to be bleeding. Bats were pouring from the cave and when she looked around, she found Calen hopping up and down, croaking in frustration.
+
+Ali immediately dispelled his curse, wondering how he was able to emote frustration as a frog.
+
+Still under the influence of the fried ghost mushroom, her mana sight extended partway into the spirit realm, showing her the wolf and the scorpion as insubstantial blue outlines prowling nearby. She summoned her barrier, just in case, but they both turned their gaze on her and then simply walked through her barrier. She yelped as the ghostly fangs and pincers drew very real blood.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

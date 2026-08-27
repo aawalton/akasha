@@ -1,0 +1,207 @@
+---
+id: aa0f3482-fbe6-52f6-b464-6c1e363b66b0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 110: Bamboo Forest"
+slug: 0111-chapter-110-bamboo-forest
+partOf: dungeon-of-knowledge-complete
+position: 111
+ownLength: 4603
+unit: words
+ownProgress: 4603
+publishedAt: 2024-08-08
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1749643/chapter-110-bamboo-forest"
+royalRoadId: "1749643"
+markedReadAt: "2026-06-29T20:14:44.868Z"
+---
+
+You have been infected with Undead Blight.A debilitating infection that grows stronger every day, rotting flesh and propagating to everything it touches.-1% to maximum health+1 count per day10% chance to spread Undead Blight on contactIf you die while infected, your body will be raised as a zombieSmall chance per vitality to recover from Undead BlightDisease – Count: 23
+
+Lira stumbled for the umpteenth time; her faltering consciousness jerked back to reality by the threat of falling. The white waters of the Myrin River rapids roared ceaselessly beside her, filling the air with damp spray and slicking the rocks beneath her feet. She reached instinctively for her magic again, but it slipped from her grasp, held in abeyance just out of reach by the awful Mana Severance curse Alexander had inflicted upon her.
+
+Worse still was the corruption of death magic that had taken root within her, twisting and warping her mind. She wasn’t certain exactly how long she had been walking – her consciousness shifted, drifting somewhere between awareness and stupor. Nightmare Slumber fed incessant whispers of insanity into the back of her mind, dragging her down to the dark embrace of the terrifying phantasms – and every time she succumbed, she woke weaker, her mind’s defenses eroded by the corruption. Soon she would no longer wake.
+
+One more step. One more.
+
+You have been afflicted with Domain Withdrawal.Separation from your domain weakens you.-10% to maximum health.Affliction – Duration: Indefinite. Count: 4
+
+Everything was excruciating pain. She doubled over as the immediate spasm wracked a body already ravaged by blight and poison, her bruised and battered face twisting in agony. But nothing came close to the sting of betrayal, withdrawal, and the dreadful raw wound in her heart where the soothing sense of her forest had once nestled. She would rather have had her arms or legs torn off by that zombie troll than lose her forest. But it was gone – she could no longer feel the connection to its mana and her domain – the forest that had been her home, her life, for thousands of years. Gone forever.
+
+Furious, she brushed the unwanted tears from her eyes.
+
+Alexander Gray.
+
+She clenched her teeth in anger and frustration. How had she been so blind to his deception? To the fact that he was a Necromancer? She was over four thousand years old, not some simple village girl, hanging on to the false promises and stories of some local knight. Yet she had fallen for his handsome face and pretty words just the same. Her fury lent some measure of strength to her blight-ridden body, and she pressed on.
+
+Just one more step. A water-slicked stone rolled underfoot, and she stumbled again.
+
+Her mind returned unbidden to the horror and grief of waking to the sight of her beloved forest consumed by the blight. She had felt the remnants dying, filled no longer with the animals she had grown to love, but with the stench of foul undeath. She was not a vindictive person, but she wished with all her being to live to see his downfall. To see him pay for destroying everything she loved and driving her, cursed and dying, from her home. For the first time in millennia, she yearned for the tools of violence rather than her class’s delicate magic of growth and nurturing.
+
+No chance of that. It was perhaps a mercy that it would all end in a few days. She did not relish the thought that she would become one of the undead, serving him after she passed from the life she barely clung to now, but if she didn’t find a new home soon, she would certainly perish from the withdrawal.
+
+She reached with her senses, communing with the plants as she made her painstaking way along the riverbank, and to her surprise, her magic responded to her will. “Continue…” they reassured her. “The mana is there… up ahead. Keep walking and you will find it.” She gritted her teeth and pressed on, driven only by the images and impressions of the dense nature mana the plants told of further to the north.
+
+Myrin’s Keep. It was cruelly far. There was no real chance, but it was the only choice she had. If I can just reach it… Maybe she could claim it, save herself, and make a new home.
+
+Or perhaps it would simply vanish like a mirage in the desert, taunting her with the illusion of water.
+
+As she stumbled onward, her mind returned once again to the strange boy who had released her from her tormentor.
+
+Ali sat cross-legged, perched on her new favorite spot atop the broad back of her Forest Guardian, holding tightly to the ridges of bark armor for support as they pressed on through the jungle. Its scent of old wood, sap, and new growth filled her lungs, shooting right to her core in the way that only smells steeped in nostalgia could. She studied the passing trees and overgrowth from her elevated vantage point beside several of her Kobold minions sitting on the rough bark armor that shook with the powerful rhythm of her elemental’s slow, plodding gait. She was grateful to be high enough up that, in the moments when her emotions threatened to overwhelm her, she wasn’t forced to share her tears.
+
+Her friends seemed to be in good spirits, chatting away with each other, somehow intuitively grasping her need for a little space to be with her memories. Or maybe Malika said something? She smiled though, hearing the pride they had at having helped her earn this Forest Guardian – it had truly been a team effort, and Ali felt an outpouring of gratitude to them and their enthusiasm for helping her to grow stronger.
+
+“That way,” she instructed, directing her Forest Guardian to follow the game trail, tracking roughly in the direction of the slowly increasing mana density – the direction of maximum curiosity for both her and Calen. Each lumbering step of her massive steed sent tremors through her body, shaking the bushes and trees beside the trail and she cautioned her newly reformed minion army following along beside them to be alert in case the sound of their passage attracted any monstrous attention.
+
+When she had resummoned her Kobolds after the last fight, she had discovered that if she allowed her Grimoire free rein to take extra mana, it would summon her monsters with already created gear – clearly something new from when her Customization had advanced. While still random, the gear choices seemed heavily biased toward what the minion could use – her mages had all been summoned with an assortment of robes, while her Storm Shaman appeared with a chain shirt, a shield, and a sword. The levels and selections were not optimal, nor was the choice of sword for her shaman, but this development was certainly going to save her a lot of time – and she could still do it manually if she cared.
+
+Avatar would have been incredible, she thought, laying a hand on the Forest Guardian and trying to imagine what it might be like to be inside such a monster, seeing through its eyes, and walking around with its body temporarily her own. She wasn’t having second thoughts about her skill choice – but Avatar had seemed extraordinarily powerful, and she had just earned the guardian – she couldn’t help but wonder what it might have been like with such a powerful form.
+
+“Ali, how much is your health regeneration right now?” Calen asked from down below, walking beside the guardian’s front leg. He had his notebook out, but his eyes were still vigilantly scanning the surrounding jungle.
+
+Health RegenerationPercentage of maximum health regenerated per hour.+125% Sanctuary.+639% Forest Guardian.Total: +764%
+
+“Here you go,” she said, sharing her numbers with him, still floored by the sheer amount of regeneration her guardian projected. Like most classes, her base health regeneration was zero, meaning that she required healing magic – an Acolyte, Priest, or a potion of some kind – to recover from any injuries. With Mato providing his Sanctuary aura, and her Forest Guardian’s stupendous regeneration aura, she would – by her quick calculation – regenerate her full health in as little as seven minutes. Not that it mattered a whole lot to her – she had measured the Forest Guardian’s aura to extend out a bit more than five meters from its immense bulk – exceptionally effective for Mato, Malika, and whatever melee minions she chose to make, but Ali was unlikely to personally benefit from the aura. At least during combat. It would be a waste to have one hang back with me, wouldn’t it?
+
+“Hmm… that’s curious. Your percentage is different,” Calen said, pausing to scribble a few things, somehow still walking with agility and poise even while writing. “Perhaps because you have a higher class level than the guardian? The rest of us are getting exactly seven hundred percent from the aura, so… three percent reduction per extra level, maybe?” It seemed Calen had found a new puzzle, and he appeared to be quite absorbed in solving it. The numbers he had guessed seemed to work but Ali was content to wait till she had the free time to summon several guardians and examine the differences directly.
+
+“It’s impressively high still, even compared to Mato’s Sanctuary aura,” she added, trying to get a feel for exactly how this might affect her strategy and the choices for which minions she would bring to combat. Her shamans and rogues were certainly going to benefit enormously in any fight involving close melee, taking a lot of the load off her healers. Bugbears too, but she hadn’t made those in a while – given the levels of what they were up against, she found her slimes and oozes to be far more effective. Currently, her minions numbered only a single Storm Shaman, but several Scalding Slimes, all of which could benefit provided she kept them close to the guardian.
+
+“Mato’s aura improves mana and stamina too, so it’s arguably more powerful,” Malika chimed in.
+
+“That’s true,” Ali agreed. She had certainly benefited from his shared mana regeneration whenever she could be close enough – typically only during post-combat recovery. “Does this mean I can prioritize area damage more?” It certainly seemed like her opportunities to use her favorite fireball attacks had just grown substantially.
+
+“Are you sure you’re not secretly a Fire Mage, Ali?” Mato asked, chuckling from down below.
+
+“Hey!”
+
+The dense trees, moss, and undergrowth of the hot, humid jungle slowly began to give way to clumps and stands of bamboo, and soon Ali found herself riding through a dim forest of dizzyingly tall, giant green stalks, sprouting through a thick layer of decaying leaves that carpeted the ground. The raucous calls of insects and the crashes and roars of distant monsters hunting slowly faded away, leaving a muted calm, perhaps expectant atmosphere. Even the heavy thumps and vibrations of her Forest Guardian’s stride were muffled by the thick, springy layer of rotting vegetation.
+
+But it was the appearance of the ambient mana that attracted her attention instantly. If the roiling, chaotic nature mana in the jungle was like a sea in the middle of the storm, here in the bamboo forest, it was like a deep lake – still, heavy, and dense. Quiet, but flowing smoothly. The bamboo itself appeared to be drawing in ambient mana and sending it flowing upward in a vast upwelling current into the dense canopy of leaves well beyond Ali’s ability to see.
+
+Living Bamboo – Grass – level 32 (Nature)
+
+Nature affinity. Like everything else in this strange place, the bamboo had been warped by the glut of abundant ambient mana. Many of the giant stems were well over a meter in diameter, making them appear like giant branchless tree trunks, rather than grass. The entire forest seemed to be exerting a soothing pressure on the underlying ambient mana. I could use this! Ali thought, her mind instantly filled with possibilities for applying it to her domain – nature affinity plants generated her domain mana, and this Living Bamboo was simply enormous.
+
+She created a barrier and flew herself down to the ground, inspecting the bamboo up close.
+
+“You going to learn that?” Mato asked.
+
+“It’s got a nature mana affinity, so I think it will be very helpful,” she said. She had been so disappointed when her oaks and maples had not worked to grow the density of her domain, but this bamboo might just do the trick.
+
+“It’s a great idea, see how peaceful it looks?” Mato said, smiling. “See how it seems to attract the wisps? Maybe you can duplicate this atmosphere in the cavern somewhere?”
+
+“That would be great,” Ali said. A little deeper into the forest, visible past the edge of the trail they walked, the bamboo forest was lit with the glow of hundreds of glowworms and wisps sedately floating and hovering about, seeming to follow the currents of the mana. High above, she could even see the occasional flashes of light and brief glimpses of golden scales that had to come from the luminous dragonets hunting for dinner – the sole remaining remnants of the previously plentiful light affinity creatures.
+
+“It would be nice to Meditate in a forest like this,” Malika said.
+
+It was certainly pretty and peaceful, and Ali could easily see a nice large bamboo stand somewhere between the lake and the shrine. Being able to relax in such a space whenever she wanted sounded perfect, and it seemed that Mato would be excited to help her build it. She reached out, placing her hand on one of the bamboo stems, and triggered her deconstruction.
+
+“Ow!” she cried out aloud as a stinging jolt of pain stabbed through her leg, rudely ripping her away from the introspective thoughts of a peaceful imagined forest and disrupting her magic.
+
+You have been afflicted with Poison. +1.25 Poison damage per second.Poison – Duration: 10 minutes. Count: 1
+
+In an instant, the angry rumbling hulk of her Forest Guardian was hovering protectively over her, and all her minions were suddenly ready for battle.
+
+Protruding from her leg amid a trickle of fresh blood staining her clothes was a thin sliver of wood – a dart or a thorn that pierced deep into the muscle. Gritting her teeth against the pain, she grabbed it firmly and yanked, pulling the spike free. In her hand, she held a surprisingly long, needle-sharp dart of wood that dripped amber with her own blood and stained with a dark green sticky sap. She stumbled a bit as her leg gave out when she put weight on it, the pain and the poison making her muscles tremble.
+
+“Poison,” she warned. Collecting her wits, she put up a barrier in the direction of the spike, just in time to hear a rapid sequence of swishes and cracks as multiple wooden needles splintered against the magic of her barrier before falling to the ground. A dark viscous green stain remained where the projectiles had struck her barrier, slowly dripping down the impenetrable golden wall with the consistency of honey or syrup. She crouched behind her barrier, scanning the bamboo forest for clues to the danger as she let the soft pulse of her Acolyte’s magic fight the poison.
+
+“There!” Calen’s call was matched with the tracer-like shot of his glowing arrow flying between the bamboo and slamming into a most bizarre creature. Previously invisible, Ali had only been able to see it because of Calen’s attack, and if she lost sight of it for a moment, she was certain she would be unable to find it again. The monster’s body, if it could be called that, was a stick of bamboo almost as thick as her arm and a little over a meter long. Sprouting from it were six long segmented legs and various twigs and leaves. An ungainly, oversized bamboo stick insect. Its camouflage was so good in this environment, that the only thing Ali could fault was the fact that the body was horizontal, not vertical like the Living Bamboo stalks – and that the flow of mana through its body didn’t quite match its surroundings.
+
+Bamboo Crawler – Grass – level 27 (Nature)
+
+A brief flicker of nature magic stirred within the Bamboo Crawler’s stem, and something shot out at high speed with an audible thwip. Calen dodged sideways and the projectile smashed into the bamboo right behind him. Difficult to see as it was, it reminded Ali of a diagram of a blowgun she had once discovered during a fun research project. A camouflaged, self-guided blowgun made from bamboo.
+
+“Take cover!” Malika shouted, darting between the bamboo stalks.
+
+From behind the protection of her barrier, Ali let loose her Arcane Bolts, a triple-stream of magic that arced up and over her barrier to thread the bamboo and smash into the strange monster that had attacked her. The dark, glowing red of flame danced among the nearby bamboo trunks as Ali’s Fire Mages retaliated, unleashing the odor of smoke and brimstone into the peaceful forest. Unbidden, her Forest Guardian charged, its huge bulk accelerated by its Rush skill, leaving a wake of smashed and uprooted bamboo. But the Bamboo Crawler fell from its perch before Mato and the Forest Guardian could even make the distance, dead from the hail of arrows, bolts, and fire they had unleashed through the peaceful forest.
+
+Your group has defeated Bamboo Crawler – Grass – level 27 (Nature).
+
+Ali limped over to where the monster lay, her leg still numb from the slowly fading poison.
+
+“Sniper-type monster. I think it has decent stealth too… I couldn’t see it until it attacked,” Calen said, staring down at the crumpled and burnt heap of bamboo sticks that was the corpse of the monster. He poked at it with his foot a few times as if to check that it was dead before he let Ali have it.
+
+Strewn about the strange monster’s former perch were the golden corpses of a half-dozen Luminous Dragonets, each one impaled with a slender wooden stake. “It must hunt the little dragons,” Ali observed while her deconstruction skill did its work. She took her time, deconstructing all the tiny brightly-scaled dragonet corpses and the knobby Bamboo Crawler before securing a few more samples of the Living Bamboo while her friends kept watch for her.
+
+“Which way?” Calen asked her. Normally he would be the one picking out the path, but it was her mana sight they were using to figure out the direction of what they hoped would be the source of the heavy nature mana.
+
+“Back that way,” Ali pointed, indicating the trail they had been following. While the mana seemed to flow more calmly here, she only had to glance around to see the increase in density in that direction.
+
+They set off once more, but this time Ali kept her barrier magic active, hopefully able to intercept any surprise attacks. But it was Calen who kept them safe, sending his motes of light ranging out ahead of them to flush out the stealthy snipers, and his incredibly acute vision to point them out before they could shoot.
+
+***
+
+Ali’s Forest Guardian slowed, coming to a halt at the edge of the dense bamboo forest. From her spot high up on its back, she could make out the trail meandering down the slope to the banks of a viridian green lake below, nestled in a terraced hollow, up against a vast mountain of rough rock and shattered stone. The entire surface of the lake bubbled, erupting in geyser-like explosions of dense mana that shot tens of meters into the air before cascading down to the surface to pour off into the forest like a tsunami of mana. But to her mundane vision, the pool was quiet and still, with only the light of thousands of slowly rising wisps indicating the otherwise invisible churn and chaos visible to her mana sight.
+
+“Another spawning pool,” Calen said, quietly identifying the phenomenon. Ali’s Identify skill failed to activate on the terrain, but she could see the obvious similarities compared to the pool of light and radiance they had previously discovered.
+
+“That’s liquid nature mana,” Ali added, her skin prickling even at this distance. The air was filled with the cloying dense scent of growth mixed with rot as the evaporating mana continuously billowed out from the lake. This time, there was no dripping waterfall from on high, so Ali cast around trying to identify the source, and there she found it. On the far side of the lake, part of the mountain of boulders and ragged stone and almost fully covered by overgrowth, she suddenly recognized the shape of a mana condenser. The giant pyramid structure had split – fractured into several pieces – and dense, glowing liquid mana seeped out through the cracks, forming small streams and rivulets that flowed down into the lake.
+
+“That’s the remains of the city,” she said as her mind suddenly snapped to a wider perspective, taking in the entire mountain of broken stone and shards of rock.
+
+“Wow, you’re right!” Calen exclaimed, his gaze snapping upward to where the suspended rings of the ruined city should be, but Ali’s eyes were not good enough to pierce that far.
+
+“Wow, that’s crazy," Mato said.
+
+Ali didn’t need to see the ruins to recognize the debris of the shattered upper levels of the city that had fallen here. Nestled among the rock and the overgrowth she could clearly see the shattered black shards, remnants of the magical stone foundations of the rings above, and even shattered, the mana condenser was uniquely recognizable. It was the sheer size of the mountain of rubble and overgrowth that had kept her from initially connecting it to its origin.
+
+Spawning from the surface of the lake, or crawling out onto the muddy banks, was a continuous stream of strangely warped insects, frogs, snakes, and occasionally larger monsters brought into being by the unthinking chaotic power of the concentrated mana and ejected into the forest like some kind of waste byproduct of the lake itself.
+
+Roaming the banks was the largest Forest Guardian Ali had ever seen. Perhaps a third larger than the one she was riding, it slowly wandered around the lake, pausing to drink directly from the glowing green mana. How can it survive that? Mana this concentrated was dangerous, affecting whatever it touched in strange ways. That much was obvious by the very nature of the jungle and its inhabitants.
+
+Forest Guardian – Wood Elemental – level 53 (Nature)
+
+“That’s a higher level than the Wights,” Ali said, flying down and glancing over at Malika.
+
+“We’ve leveled since then,” Mato countered.
+
+It was true. While Ali didn’t necessarily feel that different, she had gained eight class levels and quite a few skill levels since engaging the twin undead Wights to defeat the Ruins of Dal’mohra – and this monster wasn’t a raid-level threat or a boss.
+
+“I think we can do it,” Malika answered, thoughtfully. “What do you think, Calen?”
+
+“Ali has a Guardian now, that should make a big difference,” he said. “And there’s only one of them this time. I’d hate to think what regeneration that thing puts out.”
+
+“Ok,” Ali answered, double-checking her minions. She had one Storm Shaman which she would send in with the Scalding Slimes. Hopefully, between Mato’s and the Forest Guardian’s auras, they’d have enough to keep her shaman alive among the roots and vines. The remainder of her forces were Acolytes and Fire Mages. Good enough, she thought, deciding she didn’t need to make any changes.
+
+“Follow Mato,” Ali commanded, levitating herself up off her Forest Guardian’s back. It raised its head in a deep throaty roar that caused the ground to tremble, the vibration in the air thrumming powerfully through her body. It charged. Stunned for a moment by the visceral sensation of its raw power felt from such proximity, Ali stared as it crashed into the larger enemy guardian with incomprehensible strength and violence.
+
+It would take her shaman and oozes a little longer to reach the melee, but it seemed Mato had the monster well locked down. “Firebolts,” she said, and her Fire Mages cackled with glee as they prepared to unleash their favorite attack spells.
+
+Volleys of firebolts lanced out across the open beach between the bamboo and the mana lake, striking the giant Forest Guardian in a thumping, sizzling salvo of destruction, leaving curling wisps of smoke and scorched holes in the bark armor. Ali kept her barrier at the ready and added her Arcane Bolts to the barrage.
+
+“Steady,” Calen said, loosing arrow after arrow in a glowing stream.
+
+Looks pretty straightforward, Ali thought. While the Forest Guardian was indeed huge, Mato seemed to be handling the damage just fine. The area around the dueling Forest Guardians exploded with writhing plants and roots as the two auras of nature magic collided in a daunting display of nature’s fury. The Scalding Slimes ignored it all, slipping through the tangled growth like it wasn’t even there and flowing up the Forest Guardian’s legs to unleash near-invisible white jets of high-pressure steam into its back.
+
+“Your oozes are the perfect counter to that growth magic,” Calen observed, his eyes studying the fight unfolding before them.
+
+Ali nodded, just about to add her thoughts when a sharp crack sounded from right beside her. She whipped her head around, finding a telltale green stain slowly dripping down the middle of her barrier. There was a soft rapid staccato puffing noise and three of her Kobold mages stumbled, clutching injured limbs with wooden needles protruding from their scales.
+
+“Calen, Bamboo Crawlers!” she yelled, and Calen spun about, his eyes stabbing into the dappled bamboo forest behind them.
+
+“Shit, there’s a lot of them,” he said, his bowstring already singing. “Mato, Malika, beware!”
+
+“Gather up close,” Ali instructed, drawing all her Kobolds together and feeding more mana to her Barrier to grow it as she twisted it around for maximum cover.
+
+“Are they attracted by noise?” Ali asked. Her eyes were nowhere near as good as Calen’s, but now that they had fought several of these Bamboo Crawlers, she knew what to look for. By the soft shimmers in the ambient mana, there were at least half a dozen of them lurking in the forest.
+
+“Mana, I think,” Calen spat from between his teeth. “They don’t have ears.”
+
+Ali ignored the melee with the guardians down by the pool, instinctively knowing the Bamboo Crawlers would destroy them if left unchecked. Poison might not do lots of upfront damage but left to stack up, it would rapidly get out of hand.
+
+She picked a target for her mages and added her Arcane Bolts, as she and Calen worked to clear the unwelcome additions to their battle.
+
+“Something’s coming out of the pool!” Malika yelled.
+
+“Shit, now what?” Calen said, his head swiveling around.
+
+Malika’s voice had sounded superficially calm, but Ali knew her well. Hurriedly, she glanced over to where they were fighting by the lake. The green liquid mana swirled and shifted, and a dark green and brown amorphous blob slowly hauled itself out of the water. Its body extended temporary pseudopod limbs in all directions, shifting and warping as it moved.
+
+Toxic Spitter – Ooze – level 55 (Poison)
+
+“Holy shit, that’s big!” Calen exclaimed.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

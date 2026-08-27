@@ -1,0 +1,271 @@
+---
+id: b09d7fcd-e55d-5075-a001-5279cb2ebe5f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 72: A Simple Proposal"
+slug: 0072-chapter-72-a-simple-proposal
+partOf: dungeon-of-knowledge-complete
+position: 72
+ownLength: 4768
+unit: words
+ownProgress: 4768
+publishedAt: 2024-05-14
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1635952/chapter-72-a-simple-proposal"
+royalRoadId: "1635952"
+markedReadAt: "2026-06-29T20:13:20.041Z"
+---
+
+Ali stood on the threshold watching dejectedly as Ryn’s bright smile gave way to a concerned frown.
+
+“What’s wrong, Ali?”
+
+It all came out in a rush – yesterday’s story, and her failure in the library. Her friends had all been supportive and concerned when Malika helped her back to the camp, and she had already told her story once to them. But even today, telling it a second time, there were still tears. Tears of frustration mingled with grief for the library, her past, and the shame of having destroyed her books for nothing.
+
+“I destroyed it, Ryn. The Painter’s Remembrance. And for nothing…” Her heart felt like a lead weight had been lashed to it, dragging it down toward her feet, and she reached up to wipe her eyes, stopping in surprise as Ryn handed her a tissue.
+
+“It’s ok, Ali,” she said gently, putting an arm around her shoulders to comfort her. “You had to try it if there was even a small chance to save the whole library. For what it’s worth, I think you were brave.”
+
+“Brave?” Ali’s throat choked on the word. She felt anything but. She had been crying since yesterday, and she couldn’t help but feel she should have known better. But Ryn’s arm and her kind words calmed her down a little and helped her push the tears away. “I loved that story.”
+
+“I know, it was beautiful, wasn’t it?”
+
+Ali nodded, not trusting herself to speak. The other two books hadn’t affected her nearly so deeply, but sacrificing this story had left her raw inside.
+
+“And I don’t think it was for nothing,” Ryn continued.
+
+“What do you mean?”
+
+“Well, you got the imprint.”
+
+“Yes, but it makes gibberish books,” Ali repeated. It was worse than useless – like her skill was taunting her.
+
+“But you’re not done growing your skill yet,” Ryn answered. “If you work at it, I’m sure you can advance your skill into something that will turn out to be amazing. Who knows? Maybe you can still salvage the library?”
+
+Malika had told her much the same thing yesterday after she had found her sobbing in the darkness. But she had been much too distraught to pay any attention. Ryn’s right, she thought, skills grew as their wielder learned and gained experience. With careful cultivation, skills could be intentionally influenced to grow in a specific direction. This was something that had been repeated incessantly in her classes and studies – it took effort, but guiding your skills in productive directions, rather than letting them meander randomly was by far the most potent way of developing your class into something powerful.
+
+“It might be hard,” Ali said.
+
+“I just know you can do it,” Ryn answered with a smile. “Come, I found another story I just know you’re going to love. Let me show you.”
+
+***
+
+Ali sat cross-legged on the moss out in front of her tent. Her visit with Ryn had cheered her up a lot and her kind words had lit something of a fire of new purpose in Ali’s heart. If she could study her way to a better skill, and wrest something useful from her trying experience, she was going to figure out how. She just could not imagine leaving the library in that state, where a stray breath of air could destroy irreplaceable knowledge forever.
+
+Malika was nearby working through a set of kick drills, training herself, but Ali knew she had deliberately chosen to remain nearby to offer support if she needed her. Ali caught her eye and smiled for a moment before returning her attention to her purpose.
+
+She opened her Grimoire, gazing at the frustrating, but beautiful magic floating in the air in front of her. She had tried many times to study and understand the contents inscribed in her imprints, but she had precious little to show for it. However, this time she had a bit of a new plan.
+
+Instead of trying to understand how the magic of the creatures and plants were encoded into runes, she was going to focus precisely on the structure of the Grimoire: specifically, on how it encoded variants. The randomness had been a pain in her side for quite a while now, and she would need a deep understanding of how it worked if she were to ever unravel the mess that was encoded in her book imprint.
+
+With a little trickle of mana, she enabled her Runic Script skill, carefully inscribing a runic circle for Inspiration around herself, feeling the cool trickle of magic caressing her skin as the circle closed. She hadn’t yet figured out how to use her Inspiration skill and her Study Trance simultaneously – both requiring focus – but her runic circle was a perfect compromise. Then, with a substantially larger channeled amount, she activated her Study Trance, giving her mind over to the focused concentration of her Sage of Learning skill. The swish-thump of Malika’s shins striking the tree trunk faded into nothingness along with the entire camp, shrine, tents, and even her minions.
+
+Nothing remained, just her mind, and the glowing Grimoire floating before her. With a powerful determination, she began to read.
+
+Sometime later, Ali’s awareness slowly returned to the camp and its surroundings. Malika was meditating off to the side, and Mato and Calen had both returned: Calen sat by the campfire repairing some arrows chatting amiably with Mato while he stirred a bubbling pot. As usual, the herb-seasoned broth smelled amazing, and her stomach voiced a no-nonsense gurgle.
+
+Not now. I have to get this first.
+
+In the end, the structure of her Grimoire was straightforward. Each chapter had a broad set of inscriptions representing the essence of what the Grimoire category required. It was followed by something that felt a little like an index containing a section of variation, modifications, additions, and deletions that made each variant unique. Simple as it was, it had required unraveling an incredibly complex set of connected arcane runes that created the pages, the imprints, and the book itself as she had to delve deeply into the nature of the skill. She was far, very far, from a full understanding of the mechanisms, but she had at least learned a few things.
+
+With her mind, she grasped the imprint open before her and pushed. Without any resistance whatsoever, the Grimoire pages flickered and shifted, and the imprint switched with the one after it, changing the order of the chapters. It was not a big thing, but it had been a substantial breakthrough in her understanding of how the entire spell worked. Now she could order her imprints in whatever way suited her.
+
+Finally, she brought up her notifications. The echo of her chimes and the shifting in her skill had been what finally prompted her to end her studies and return to the present moment.
+
+Requirements met for skill advancement.
+
+Oh – yes! A full skill advancement was not at all what she had expected, but she’d take it any day. Biting her lip in excitement, she read on.
+
+Grimoire of Summoning has reached at least level 20.Learned 20 imprints.Achieved a rudimentary understanding of the structure of imprint magic.Augmented an imprint with at least 8 major variations.Grimoire of Summoning gains Basic Customization.Grimoire of Summoning – level 20Mana: Release the mana from an unresisting or inanimate target, learning about its structure, and retaining some in your own mana pool. Requires continuous uninterrupted focus and the target is destroyed. Mana: Manifest a Magical Grimoire storing the runic imprint of any object you have fully understood. You may create any object recorded by using the Grimoire as a focus. You may spend extra mana to influence the variation created. Control improves with skill level. [Summons cannot exceed your class level. Reserve cost is reduced by 3% per class level higher than the summon.]Arcane, Nature, Minion, Channeled, Knowledge, IntelligenceAccept this advancement?
+
+Ali immediately accepted the advancement. Intuitively, she knew it wouldn’t be the complete solution to her problem with her book imprint – as the requirements stated, her knowledge was still rudimentary at best – but the advance was a step in the right direction.
+
+Ryn was right, she thought. I can do this! If she kept at it, she could guide her skill growth down the path of more and more control, until eventually she would have what she needed.
+
+And for now, she thought, a big smile on her face, this is going to be very useful! Let’s try a few mushrooms first…
+
+She flipped the pages over to her mushroom imprint and channeled her mana. This time, though, she understood precisely where in the inscription to inject it, choosing the Common Glowcap variant. It used a little more mana to control, but her book produced a small mushroom which gave off the telltale golden light and arcane mana. She did it again, and again, creating a pretty fairy ring around where she sat, without once creating an unwanted variant.
+
+Perfect! No more would she spend hours cycling through unwanted variations, unsummoning them just to get what she needed. And even more encouraging – while she could tell she wasn’t quite there yet – she was certain that with a little more growth she would be able to influence other attributes too, like color, size, and even level seemed tantalizingly close to her reach.
+
+Finally, feeling a little better about herself, Ali got up and wandered over to join the others at the campfire.
+
+“Studying is hard work; do you want some beef and vegetable stew?” Mato asked.
+
+Ali nodded enthusiastically and accepted a plate of something hot and delicious, and besides that, she had no idea because she wolfed it down in an instant.
+
+“Hey, you should at least chew once, don’t just inhale it!” Mato exclaimed, but he quickly ladled another helping onto her plate. “Where do you put it all?”
+
+“My brain?” she chuckled.
+
+Tapping his knuckles on his own head, Mato made a hilarious hollow knocking sound. “Yes, the empty space, I understand.”
+
+“Mato, you beast!”
+
+“You doing ok, Ali?” Malika asked, “You were out for about four hours.”
+
+“I feel a lot better now,” Ali admitted. “I studied my Grimoire with my Sage of Learning skill, and I earned an advancement.” She shared it with them, pointing out that the advancement of her skill allowed her to avoid any of the random variations that had so frustrated her before.
+
+“That’s going to save you a lot of time,” Calen approved.
+
+“Hey, I have an idea I want your opinions on,” Ali asked, getting everyone’s attention. It was an idea that had been kicking around in her head for several days now, and after her last visit with Ryn, she was certain she wanted to do something about it.
+
+“Ryn and Basil both said they’re up for unlocking their classes in the next couple of days. I want to do something nice for them. Do you think offering to let them use the shrine is something they would appreciate?” Ali knew the mayor had a shrine, and it was offered to everyone in the town. But Malika had told her that her shrine was better. She just wasn’t quite sure if it was enough to be the kind of gift they might appreciate.
+
+“Oh, heck yes!” Mato’s exclamation was instantaneous.
+
+“Is it really that different? I want to give them something that’s at least meaningful and helps them out.”
+
+“Ali, I don’t think you appreciate how good your shrine really is,” Malika said. “The shrine in Myrin’s Keep is an artificially constructed artifact with a five-thousand mana reserve. It can unlock your class experience and offer one additional class choice. And I had to rob someone to afford the two large silver to pay the fee to use it.”
+
+“Uh…” Ali had no idea where to even start. “You robbed someone? Why are there fees?”
+
+“Yes,” Malika grimaced. “I was a poor street urchin, remember? The people who own shrines charge for access for many reasons. Mostly it’s to keep the good class choices among the nobles and the wealthy and force the poor to live with the natural class choice offered by the system. That’s how you get a lot of laborer, fighter, thief, and farmer classes, and the wealthy can preserve their positions with superior class choices.”
+
+“I’m pretty sure it’s just greed, Malika,” Calen said. “I don’t think it’s a conspiracy to keep the poor people down – they just want to line their own pockets.”
+
+“That’s terrible, it should be free!” Ali had never heard of charging for the shrine and the options it unlocked. In Dal’mohra, her father had taken it as his civic duty to provide the shrine whenever anyone needed it.
+
+“Yeah, well, that’s not how it is. Most places charge a lot more than two large silver. This mayor is being quite generous, taking only enough to cover all those expensive mana potions he needs to recharge the shrine.”
+
+“Oh,” Ali answered. She guessed it made sense, even though the idea bothered her immensely. It was a good thing her domain worked to recharge her shrine; she couldn’t imagine producing one and a quarter million mana to fill its reserve using mana potions.
+
+“Your shrine also allows one to unlock mana affinities, which the town one doesn’t do,” Malika added.
+
+“That’s not a guarantee, though,” Ali pointed out. “It only sometimes finds latent affinities.”
+
+“Still, it’s better than no chance. But the biggest value is the sheer number of class choices it offers. Anyone is bound to do much better if they have six to eight options to choose from, rather than one or two,” Malika said.
+
+“Ok, that sounds like the kind of gift I want to give,” Ali said. If it were just saving a couple of pieces of silver, she would have probably looked for something else. If the town shrine only offered one choice, then Ali was certain she stood a good chance of giving them both a lasting gift that might dramatically improve their quality of life permanently.
+
+“Ali, would you consider offering your shrine to more people?” Malika asked, her voice sounding a little uncertain.
+
+“What do you mean? Which people?”
+
+“I know it’s not my place to suggest what to do with your shrine, but…” Malika said, her eyes glittering intensely, “I’m sure there are many people in Myrin’s Keep just like I was. Held back by the circumstances of their lives, never having the opportunity to grow and step out of the slums like I did. I was fortunate to have met you, and I can’t imagine my life if you hadn’t offered me the opportunity to use your shrine. I’m just wondering if you would be open to sharing that opportunity with strangers to give them a better chance?”
+
+“I guess the shrine has enough to safely do about a dozen people before it runs out of mana,” Ali said, but the more she thought about it, the more the idea began to grow on her. “How would we find people – the, uh… right people?”
+
+“I think the Guildmaster might be very interested in helping us with that,” Calen said, looking up from his twine and arrows.
+
+“Shouldn’t we be worried about people discovering the shrine?” Mato asked.
+
+“Hmm, that’s a good point,” Malika said. “Perhaps we shouldn’t risk it. I wouldn’t want Tala or Mori finding out.”
+
+“We haven’t heard from them in a while,” Calen said, “and I think we can trust the Guildmaster.”
+
+“I really want to do something nice for Basil and Ryn,” Ali said. “I’m willing to talk to Vivian Ross about it and see if she thinks it’s safe.”
+
+***
+
+Ali perched on her barrier, returning Vivian Ross’s curious gaze across the dark mahogany wood conference table. The chairs arranged around the table looked comfortable, but Ali ignored them, preferring to use the unique advantages of her barrier magic to elevate herself to the same level as everyone else.
+
+“So, what’s this all about?” Vivian asked. It had taken all of about five minutes to get this meeting. It seemed their thorough work at exterminating the Kobolds and keeping the farmers happy had gained a lot of positive reputation for the guild, and Vivian had most certainly noticed. While Vivian seemed to be in an open and curious mood, Ali still found her to be a little intimidating and welcomed the support of her friends at the table.
+
+“I have a proposal for the upcoming class advancement that would require your support,” Ali began.
+
+Vivian raised her eyebrow but waited for her to continue.
+
+“I have a class shrine,” Ali said. “It’s a bit more advanced than the one the mayor has, and I wanted to offer my services, provided you can help with security.”
+
+“I see,” Vivian said, her eyes narrowing almost imperceptibly, but the rest of her face remained a stony mask as she considered Ali’s revelation. “So that’s how you guys all unlocked your classes without returning to the Town Hall?” she asked after a few moments’ thought, reminding Ali just how sharp the Guildmaster really was.
+
+“Yes,” Ali answered. “The features I have to offer are the ability to draw out potential latent mana affinities, and an alternate class choice search that produces at least six options.”
+
+“Six?” The shock on Vivian’s face was obvious this time, and equally quickly hidden. “That’s a remarkable claim. What do you want in exchange?” Her voice seemed cautious and guarded.
+
+“Nothing,” Ali said. “I just want to set some conditions on the candidate choices. I was planning on offering the service to two friends, and Malika suggested offering it wider. I can take ten more people. My conditions are that they are not charged for use, and there is no restriction on eligibility – poor or wealthy, noble or common, combat or non-combat. I want it to be fair. I’m not sure of the best way to do that safely, though, which is why I’m asking for your help and visible involvement.”
+
+“That’s very generous of you. Any restrictions?”
+
+“The mana attunement is not a guarantee. In practice I’ve seen it succeed about half the time,” Ali said. She had watched it in action under her father’s hand many times. “The class chooser has never offered fewer than six choices as far as I’m aware. I figured having a chance at significantly better classes would align well with your goal for growing the guild and the opportunity to be involved allows you a better chance for recruitment.”
+
+“Very well,” Vivian said thoughtfully. “I’m interested, I will talk to Mayor Turner, and in exchange, I ask only that I see your shrine for myself.”
+
+Alexander sat morosely in the back of the rickety merchant wagon, reflecting on his terrible fortune. His research had taken him all the way out here to the village of Lyton, a nothing village in the middle of nowhere, nestled up against the impenetrable ancient Lirasian forest in the most worthless part of the Kingdom of Toria. And there his leads had simply dried up. So here he was, hitching a ride on a slow, bumpy wagon, not entirely certain what he should do.
+
+The merchant was a taciturn man of few words – for which he was grateful – and he had accepted a small silver piece for a ride. But the wagon was so uncomfortable and slow that Alexander was beginning to consider abandoning his Druidic disguise and having his skeletons carry him instead. The only problem was the moment he took off the amulet, his real class would make him a pariah in every human settlement across the continent, and he couldn’t afford the time and energy to kill everyone who saw him.
+
+He sighed.
+
+He owed the Shadow Council a report at the very least, and he had nothing. The acolytes and underlings of the order, unwilling to even utter the Master’s name for fear of annihilation, would have little patience for his failure. It mattered not that he had been diligent with his studies and had grown fast. The Master himself was impatient.
+
+Nevyn Eld.
+
+He shivered at that memory. Even though he wanted to swear, he dared not. The Master’s appearance at their isolated academy had been a complete shock to everyone. He had simply materialized in the middle of the hall – a being of such power and presence that even Alexander’s class resistance to fear and death magic had crumbled before him. He had been reduced to a curled-up trembling ball on the ground, rooted to the spot in the aura of despair he projected. Alexander had always known he was destined for greater things, but at that moment, he knew he was beholden to the Lich with his scarlet blindfold and monstrous presence – his robes billowing out from the sheer power of the darkness that he emitted. His path to true power would come directly from the Master – and perhaps even one day, he may earn the immortality of the Lich transformation.
+
+His mentors still gave him tasks to carry out – menial jobs that would never get the attention of the Master. But Alexander remembered what the Lich cared about most – the discovery of dungeons. Specifically, new and uncharted ones that could be captured and dominated, then turned to his inscrutable purpose.
+
+He didn’t know what the Lich wanted with these dungeons, but the only time his voice had held any emotion or passion had been when he was talking about acquiring them. Alexander knew then that his path to recognition would be to find one and capture it for him.
+
+Alas, all his research had led him to this dead end. He was beginning to run out of hope.
+
+Absently he brushed the ice crystals from his sleeve before he suddenly stopped and stared.
+
+Ice?
+
+“Whoa,” the merchant said, reining in the cart horse.
+
+Alexander glanced around seeing fresh ice crystals on the grass beside the road, incongruously sparkling in the midday sun. A sudden nervous whinny from the skittish mare alerted him to the danger right before the tendrils of fear clawed their way up through his ribs to encircle his heart.
+
+“Aah…” the merchant’s cry was cut off as the fear got hold of him, and Alexander could see the wide-eyed stare of terror, and smell the sudden stench of loosened bowels.
+
+A tall figure shrouded in a black hooded cloak emerged from the forest, seemingly absorbing all the light around him. The icy chill deepened as the frost spread across the road, reaching the wheels of the now stationary cart and the hooves of the terrified horse. Heavy metal sabatons crunched as the shrouded being stepped out across the ice. With a seemingly casual wave, the dark figure fired two lances of ice, taking the horse through the chest and the merchant through the throat, dropping both in an instant.
+
+Death Knight! Alexander fought against the rising fear as the monster turned glowing blue pinpoints of light under his shadowed hood to fix him with an icy gaze. It was a struggle, but it was nothing compared to him.
+
+“Alexander… Gray…” The voice echoed strangely as if carried to his mind by the aura of fear itself. “Remove your disguise if you wish to live.”
+
+My… disguise? For a moment the Death Knight’s command confused his fear-stricken mind, but as soon as he understood, he scrambled to comply, pulling the amulet from his neck as fast as his shaking hands could manage.
+
+“A… wise choice.” The ice cracked ominously as the Death Knight approached. Alexander was unable to keep from craning his neck as the tall monstrous undead knight drew near, becoming more and more intimidating by proximity, towering above his own normally tall frame.
+
+The Death Knight seemed aware of how greed mingled with fear in his heart, pausing for far too long before it hissed, “The Master has a task for you.” It was not a request. But even so, a thrill of something that was not fear jolted through Alexander’s core.
+
+Nevyn Eld, the Master, knows who I am?
+
+It was simultaneously terrifying and exhilarating.
+
+“Of course, I will do it,” he stammered, not that he had the option of refusing. But he wanted this. This was his chance – whatever it was, he had to execute it successfully.
+
+“The Master has divined the existence of a new dungeon somewhere in this region, and you are the closest. You will find it and capture it for him. Or at the very least, discover its location and lead me to it.”
+
+So, I got lucky. His fortune turned on this accidental proximity to a new dungeon. But how was he to find it?
+
+“Is…” he swallowed uncomfortably, noticing his hands slowly turning blue with cold, “Is there any information that might help locate this dungeon?” he asked and then froze in fear as the Death Knight turned to stare at him with its piercing blue glowing eyes. Those eyes stripped his soul bare, leaving him reeling in the presence of pure, inescapable death.
+
+“It has both nature and arcane mana affinity, and it is less than a few months old,” the Death Knight finally answered. “Fear not, the Master has seen fit to send you some tools.”
+
+The Death Knight waved a gaunt hand and summoned two enormous corpses, dumping them onto the icy road with a substantial thump. Both bodies were enormous humanoid shapes, colored a slate grayish blue, with heavy tusks protruding from their lower jaws, and thick coarse crimson hair. They had both been slain by a lance strike through the center of their chests.
+
+Giant Trolls! Alexander stared covetously at the enormous bodies, which must have weighed well over a thousand pounds each, with arms thicker than his torso. They were an amazing windfall for a necromancer like him, but he failed to see the use of such a gift in tracking down a dungeon.
+
+“The Master also requires you to create a diversion in this region.”
+
+“What kind of diversion?”
+
+“Something that will command all attention for as long as possible. You are a Blight Summoner, are you not?”
+
+“I am,” he answered, quickly grasping what was required of him. He didn’t know why Nevyn Eld required him to make so much of a disturbance, but his class was ideally suited to the task.
+
+“Very well, then get to work.” The Death Knight dismissed him, turning on a heel that ground the ice into slush and disappeared into the forest. As the monstrous undead’s presence vanished, so did the overwhelming fear, until finally, Alexander breathed a sigh of relief.
+
+As the ice began melting under the sun, he considered his task.
+
+Nature… He smiled, feeling his fortunes changing for the better as the beginnings of a fantastic plan began to form in his mind.
+
+First things first.
+
+“Arise,” he commanded, directing his magic towards the generous gift the Lich had seen fit to bestow upon him. The two enormous corpses twitched, and then slowly clambered to their thickly splayed, three-toed feet, groaning mournfully.
+
+Warrior – Zombie, Giant Troll – level 58Warrior – Zombie, Giant Troll – level 53Your reserved mana has increased by +492.
+
+His smile turned into a broad grin. He had never commanded a minion this powerful, and the Master had seen fit to give him two.
+
+He glanced over at the cart and raised the horse as a zombie too. Not one to let a useful resource go to waste, he raised a skeleton from the corpse of the merchant, smiling at the satisfying way the bones tore their way free of the dead flesh. It was only a low-level skeleton, but he could always use the extra pair of hands, and the man had soiled himself. Raising him as a skeleton would leave the stench behind. Obnoxious fool. Now, he could serve a higher purpose.
+
+Hopping up on his new mount, he summoned a Sending scroll from his storage and channeled his mana into it.
+
+Meet me at Lyton. Bring a vial of Dreamcloud extract. Urgent.
+
+The scroll crumbled into dust in his hands, and he brushed the remainder from his cloak. With his message sent, he commanded his horse to retrace the path back to the village of Lyton. He grinned happily at the sound of the heavy thumping footsteps of his new minions following close behind.
+
+Finally, fate is smiling on me…

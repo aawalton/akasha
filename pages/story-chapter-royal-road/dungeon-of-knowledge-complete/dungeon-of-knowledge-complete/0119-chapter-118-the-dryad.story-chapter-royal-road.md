@@ -1,0 +1,209 @@
+---
+id: 3cccf6a7-8997-5fec-9293-56e59b47194c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 118: The Dryad"
+slug: 0119-chapter-118-the-dryad
+partOf: dungeon-of-knowledge-complete
+position: 119
+ownLength: 4102
+unit: words
+ownProgress: 4102
+publishedAt: 2024-08-22
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1769618/chapter-118-the-dryad"
+royalRoadId: "1769618"
+markedReadAt: "2026-06-29T20:15:02.870Z"
+---
+
+Dryads are a reclusive species that defy easy categorization. Distantly related to other sylvan species, they appear to be incredibly long-lived hybrids between the Fae and specific species of trees, exhibiting attributes of both. This leads to such variations as oak-, maple- or pine-dryads. A typical Dryad has a green or brown complexion and can gain energy directly from light or mana. Many will have bark, flowers, or leaves for hair or as part of their skin.
+
+All Dryads establish a magical domain ranging from a single tree to an entire forest, strongly preferring matching species, and seldom leave their homes. When their trees are cut or destroyed, they quickly lose strength and die.
+
+Their reputation as monsters comes from their sometimes-feral nature and their tendency to aggressively defend their home. Their magic is always non-combat nature affinity – nurturing rather than violent, but do not mistake them for pacifists. Once a powerful Dryad establishes a home in a forest, most merchants and travelers will choose to bypass it and avoid the risk of being lured in to spend the rest of their short days lost in the dense forests, crushed by roots, or mauled by beasts.
+
+However, many Dryads are highly intelligent and curious when not threatened and behave much like any other sapient race, often interacting with travelers, most commonly speaking the Elvish or Sylvan tongues. Dryads all share the ability to merge with their trees, have powerful plant magic, and charm beasts that enter their domains. When interacting peacefully with a Dryad, it is helpful to bring a druid, as they tend to be curious and fascinated with all nature magic.
+
+- Excerpt from The Monster Compendium, Ziba Malek, Elorthian Empire Royal Scholar, Translated.
+
+Calen sprang lightly from rock to rock as he followed the narrow mountain trail, careful not to disturb the tracks with his steps. Something had come this way, and it was not a Kobold. What the heck is that? He stooped down to study the confusing signs once again.
+
+Is it also hunting Ali? Malika had been right, they were unwelcome in town, which had made resupplying far more challenging. They were running low on food now after several days of searching, but he had made no more progress unraveling the puzzle of how the Kobolds – and other creatures – had been getting in and out of the ruins. This was the first time he had seen tracks of something bigger than a muddled confusion of Kobolds, or the occasional wolf tracks.
+
+He pulled out a gold coin, flipping it into the air, and grimaced as it vanished.
+
+You have gained the Blessing of the Wanderer+1 to Perception and Tracking skills.Blessing – Duration: 1 day.
+
+It was an expensive way to boost his skills, but he needed all the help he could get. His testing so far had shown him his patron buff would probably only work with something that he felt was valuable – copper coins had not worked, but surprisingly he had been able to gain a buff from offering a mana potion. He had only tried that once.
+
+Calen’s Sense Prey tracking skill had given out a couple of days ago, but it had verified Ali was still alive – at least back then. She had remained unmoving on the first floor of the library for a long time, at least judging by the direction sense provided by his tracking skill and his memory of the spatial layout of the ruins. However, just before his skill had expired, she had moved lower, and he had lost track of her somewhere in the jungle.
+
+Why are you in the jungle, Ali? It made no sense and only served to intensify his worries. At least you’re still alive.
+
+He reached down and plucked a small leaf from the strange humanoid footprint. By size and weight, he judged it to be a small human or an elf woman, but there were marks around the print that made it look like it had been uprooted whenever she walked. He would have dismissed it as an inconsequential coincidence, except every print had similar signs, forcing him to conclude that it was an integral part of the print. Some strange kind of footwear, perhaps?
+
+Not even Mato’s nose had been able to shed light on the tracks. Following on behind the humanoid tracks were the tracks of two huge wolves, their prints lighter than he would have expected for their size. But he couldn’t make out if they were accompanying the humanoid tracks or hunting them.
+
+He examined the wilted leaf, his brow furrowing at the sight of the strange blackening around the edges.
+
+“Mato, what do you make of this?” he asked, calling his larger, muscular friend over, and handing the leaf to him.
+
+He sniffed at it and then wrinkled his nose in disgust. “I smell undeath.”
+
+“An oak leaf is undead?”
+
+“It is blighted,” Mato explained, and Calen was immediately reminded of the briefing Vivian Ross had given at the guild earlier in the week – the blight plague and the undead creeping up from the southern regions. “Don’t touch it too much.”
+
+He dropped the dangerous leaf promptly. “What about these?” Calen asked, pointing to the wolf tracks. “I can’t tell if they’re all together, tracking Ali, or if they’re hunting each other. There’s no good reason for them to be up here in the mountains like us unless they’re searching for a way in, too.” Searching for Ali.
+
+Mato put his nose to the ground and sniffed the tracks of the humanoid and the wolves for a while before he rose again and grimaced. “More death. I need to ask some people,” he said cryptically, shapeshifting into the form of a large wolf before he disappeared among the rocks, leaving Calen to deduce he was going to find some animals who might have seen something.
+
+“Come, let’s continue,” Calen said.
+
+“Ok,” Malika replied. “If whatever you’re tracking is hunting Ali, we should find her before they do.”
+
+“Agreed,” Calen said. He and Malika continued following the trail for about half an hour, and he was examining another blighted oak leaf when Mato finally loped back to the trail.
+
+“I don’t know what to make of it,” he said, shaking his head. “Whatever that creature is, it seems to be some kind of Sylvan.”
+
+“A Sylvan? Out here?” Calen’s gaze swept the rocky mountain pass in surprise. Other than small scrub bushes and hardy wildflowers, there was little in the way of natural vegetation. Certainly, there were no trees or forests that a sylvan plant creature might prefer – but it would explain the strange footprints.
+
+“I couldn’t get a good image – all the animals I found seem to be in awe of whatever it is. The wolves are undead, and they are not with the Sylvan. There are two of them and they look partially incorporeal.” Mato wrinkled his face in disgust, displaying his obvious distaste for the undead.
+
+“Specters? Ghosts?” Calen was hardly an expert on the undead, but not many were partially incorporeal. It ruled out zombies and other similar monsters, but spirits or ghosts were normally entirely incorporeal. The problem was that any conclusion he came to did not bode well – all the monsters that fit the description were greater undead, possessing skills and intelligence to rival the most powerful monsters.
+
+But if it’s a Sylvan… he gazed at the small handful of oak leaves he had collected, then these must have been part of its body. The instant he used Explorer’s Sense Prey skill on the leaves, he knew where the sylvan creature was. His powerful tracking magic provided him with a clear pull diagonally downward into the mountain – but, as with Ali, he still had no clue how it got in there.
+
+“We’re going to have to do this the hard way,” he muttered, studying the direction of the tracks following the rocky trail. At least his Blessing of the Wanderer was helping him track faster and more precisely. “At least, if I track this monster, it should lead us to the way in.”
+
+He followed the tracks across the rocky mountainside until finally he found himself entering a small box canyon with rugged rocky walls, and here the trail seemed to end, erased by what seemed to be dozens of Kobold tracks and the difficulty of seeing anything on the sharp, rocky scree beneath his feet. “Lots of Kobold tracks,” he said, warning his companions, but there was no sign of them anywhere in sight. He scanned the dead-end canyon for any clues, but there seemed to be no obvious way out. His tracking skill kept telling him that their prey was in some place below his feet.
+
+“I can still smell the undead,” Mato said, confirming that they were in the right place.
+
+“It looks weird when you sniff the ground like that, Mato,” Malika said. “At least do it in wolf or bear form.”
+
+“Pfft,” he snorted, but the usual banter fizzled, none of them in much of a mood for it.
+
+Calen surveyed the canyon, using his Eyes of the Archon skill to enhance whatever he saw. Over at the far end of the canyon, on a rocky outcrop, he spied an oak leaf, stuck to the rock with what looked like a few drops of clear sap. The sap had dripped down the rock and pooled on the ground below. Is that… sylvan blood?
+
+“Over here,” he said, sprinting through the short canyon to the rocky cliff wall at the far side. He reached for the sticky oak leaf, but to his surprise, the rock it had been stuck to was concealing a crack in the cliff face – a passage into the mountain, from which wafted a musty cold breeze. “Hey, there’s a cave here.” Carefully, he squeezed his lanky body through the gap, activating his stealth as a precaution, and found himself in a narrow rocky passage – a natural cave formation. There were no obvious tracks on the rough, rocky ground, but every couple of yards he could see drops of sap leading deeper into the caves.
+
+“I can smell Kobolds, and the undead in here,” Mato said, after struggling to squash his larger frame through the cavern entrance.
+
+Malika limbered up her shoulders quietly squinting at the darkness but did not say anything.
+
+“I’m not going to use light,” Calen whispered, “Will you be able to keep up?”
+
+“Yup,” Malika murmured, “I can hear Mato.”
+
+The three of them quickly made their way through the twisting caverns, following the rocky passages as they led deeper and deeper into the mountain. Calen had taken a chance tracking the strange sylvan monster, he had no clue how to track Ali directly anymore, but this was the breakthrough he had been searching for. The passage was finally taking them in precisely the right direction according to his skill, but rather than feel excited, his apprehension and urgency rose instead.
+
+As he approached the next bend in the tunnel the chirping sounds of angered Kobolds reached his ears. From the twitching of Mato’s wolf ears, he had heard it too. Signing for them to wait, Calen refreshed his Eclipse skill to blend himself with the shadows and stepped around the corner to scout. The tunnel emerged into an enormous underground cavern, easily as large as Ali’s forest cavern, but lit instead by the occasional small messy campfires of the Kobolds. A horde of the scaled reptilian creatures swarmed the rocks, slinging stones and arrows down at the figures struggling below, their raucous chirps and yips echoing strangely in the underground cavern.
+
+Sprawled on the rocky ground, drenched in her own sap, he found his prey, struggling weakly to drag herself away from the two enormous spectral wolves mauling her. The wolves were clearly undead, both emitting a cold harsh blue glow in the darkness, and he could even see the vague outline of the rocks through their partially transparent bodies. But their teeth were sharp as they savaged the downed sylvan creature, sending sap spraying into the air with every vicious bite.
+
+Dryad [Great Mother of the Deep Woods] – Sylvan, Tree Spirit – level ???[Explorer]An oak dryad.Category: SylvanAge: AncientThreat Level: UnknownDamage: NatureSpectral Gray Wolf – Wolf, Specter – level 45-47 x2[Explorer]A partially incorporeal undead wolf.Category: Monster, MinionThreat Level: NormalMonster Type: Greater Undead, SpecterDamage: Physical, DeathKnown Abilities: Partially incorporeal (physical damage reduction)
+
+A dryad! And a three-mark? He could not even imagine what extreme event had drawn such a notoriously reclusive being so far from her forest and the source of her power. She might have passed the first tier and reached platinum rank, but without any way of fighting back, she was as helpless as a level-one wisp. She struggled weakly in the spectral jaws of the wolves, likely only barely hanging onto life due to her class level and what must be an extraordinarily high vitality or endurance attribute.
+
+“Mato, wolves! Malika, heal the dryad. I’ll cover,” he barked orders rapidly but he didn’t wait for confirmation. They needed to act now, or the dryad would die, and take any answers with her to the grave. Ali’s survival may very well depend on it.
+
+Mato roared and charged, his body twisting and warping from Wolf to Bear as he transformed directly. Malika shot off, hot on his heels, matching his barreling rush.
+
+Calen drew his new bow and fired a rapid volley of bright, glowing arrows into the horde of Kobolds. His shots struck true and two of the lowest level ones collapsed with loud screeches, causing the entire troop to scatter, diving for cover.
+
+He shifted his aim to the center, finding Mato had drawn the two enormous spectral wolves off the dryad who was now lying on her side, pressed up against a rock. The two wolves flanked Mato, taking turns trying to dart in for a hamstring, leveraging their coordination to gain an advantage over the larger and slower bear. But Malika was there to foil their agile attacks. As Mato faced down one feint, Malika leapt off his back to land a kick on the second wolf, just as it darted in to strike. Her kick sank into the wolf’s shoulder, passing through the glowing semi-transparent flesh like sticky treacle, pulsing brilliant blue-white with her soul magic to light its body from within. Mato wheeled about, but it was a feint to lure in the first wolf, and when he rounded on it with a Swipe, it tried to disengage, drawing the wrath of the Bear’s powerful retaliation strike.
+
+But even before he unleashed his arrows, Calen could tell that the normally potent physical damage from Mato’s strike was having much less effect on the undead monsters than normal. Even Malika’s hits were not doing nearly as much damage as he expected.
+
+Calen unleashed his arrows. Like Malika’s foot, his arrows seemed to pass through the spectral wolves’ bodies unless he made a clean strike as if they were not quite here. Only his light magic seemed to have its normal effect.
+
+“Load up on magic,” he shouted. “They’re incorporeal.”
+
+I just need to increase the power of my magic then. Taking his own advice, he lit up his Righteous Fury skill. Mana burned him from within, brightening everything he could see. The cavern grew dramatically brighter as his perception skills surged with power: even the smallest detail became crystal clear to his eyes. He fired a rapid stream of fully enchanted arrows, focusing on the wolf Mato had pinned down with his roots. An immobile target versus his ignited mana. Although even now, it was shaking off the bindings by drawing its legs through the gnarled roots.
+
+Even with its powerful resistance to physical damage, his enhanced magic made short work of the undead monster, burning it down as he flew through his rapidly dwindling supply of arrows.
+
+Your group has defeated Spectral Gray Wolf – Wolf, Specter – level 45.
+
+He ignored the notification, downing a precious mana potion and redirecting the remainder of his short-duration skill to the second wolf, trying to do as much damage as he could while he had the advantage. His skill expired, but with Malika and Mato focused on the remaining wolf, and it no longer having any flanking advantage, they made quick work of it.
+
+Your group has defeated Spectral Gray Wolf – Wolf, Specter – level 47.
+
+Calen sprinted over to the dryad lying in a pool of her own sap and leaves, keeping a wary eye out for Kobolds. She was in far worse shape than he had expected. While the wolves had badly mauled her, she showed large black patches of necrosis that stank of rotting wood. Her leaves were almost all wilted and brown, and her cheeks were sunken and hollow. But it was the deep anguish in her eyes, far beyond even what matched her dire physical condition, that gripped his attention.
+
+“I don’t know what’s wrong with her, I keep healing but she’s not getting any better,” Malika exclaimed with frantic worry. It was not strictly true, the rents and tears in her flesh closed up and she stopped leaking sap onto the ground, but the blight and affliction remained.
+
+“Let it go, child…” The dryad spoke with a shaky voice that rasped and crackled like dry leaves in a soft breeze but still carried the faint hints of the beautiful resonance it must have had in full health. “What I have cannot be healed.” She sighed, clearly in a great deal of pain, and Malika seemed beside herself that she was unable to heal her.
+
+“What do you have? And why is a dryad out here in the mountains?” Calen asked. She was clearly far from home, and dryads supposedly did not do very well separated from their trees.
+
+“Alexander Gray,” she answered, her eyes snapping open, flashing with fierce anger before she sagged back down, exhausted from the effort.
+
+A person? Calen did not understand her unexpected response.
+
+“Who?” Mato asked.
+
+“He is a necromancer most foul. He deceived me with pretty words, gifts, and promises of love. While I was vulnerable, he poisoned me and destroyed my precious forest,” she sobbed, before catching herself. “I am cursed. I have the undead blight, the same he inflicted on my forest, and I am dying from domain withdrawal.”
+
+“A necromancer?” Mato spat, his face wrinkled with disgust.
+
+“You are talking about the Lirasian Forest to the south?” Calen asked. Shit, if this is true… Vivian had mentioned a blight from the south, but if this dryad was to be believed, the problems were far more urgent than the Guildmaster knew. A necromancer!
+
+“Yes, young half-elf, you are quite perceptive. You honor your patron. I am Lirasia, and my forest is no more.”
+
+She can see my Wanderer patronage? As he registered his surprise, his notification chime sounded.
+
+Your actions have increased the reputation of your patron.You have gained the Blessing of the Wanderer+12 to Perception.+2 to Perception skills.Blessing – Duration: 1 day.
+
+“The forest is gone?” Mato asked aghast.
+
+“Yes, my home is no more,” she said. She paused; her body wracked with feeble coughing. “In its place is only undeath now.” She reached out her hand and touched Mato on the chest. “You have a beautiful aura, young druid,” she murmured, “but you are not the source I seek.”
+
+“Why did you come all the way here then? What is it that you are seeking?” Calen demanded, his breath catching in his throat. Is she hunting Ali?
+
+“Without my domain, I will wither and die,” she answered. “I require an oak tree in an area rich in nature mana to recover. Some time ago I scented a beautiful new mana aura coming from this area. In pain and agony, and driven from my home, I had only thoughts of finding the mana aura and saving myself. But it seems in this too, I was played by the necromancer’s puppet strings.” She pointed meaningfully to the two spectral wolf corpses. “He probably sought the mana for his own foul purposes.”
+
+Calen glanced meaningfully at Malika and Mato, catching their eyes.
+
+“But it matters not,” the dryad continued. “The precious mana dried up about four days ago, gone like a fleeting mirage in a desert. I will perish a few hours hence, and if you do not burn my corpse, the blight will raise me as a zombie. I fear for what damage I will cause with my death. Promise me you will not allow this to come to pass.” She sounded mortified by the idea, so much so that she was pleading with strangers to burn her body.
+
+“It fits. Ali’s forest was burnt by the Town Watch four days ago,” Malika said quietly.
+
+Mato coughed, drawing up straighter. “If only we could find her,” he said.
+
+“We’re right here,” Calen answered, getting up and looking around. They’d been tracking out in the mountains for ages, but his sense of direction and spatial awareness placed him directly over the library. It must be… It took but a few moments for him to find the low squat stone building that, by his reckoning, capped the gigantic, ruined library and the city below. “There,” he pointed to it. “That’s the library.”
+
+“Can we trust her?” Malika asked, glancing at Lirasia.
+
+“She’s going to die if we don’t help her,” Mato said.
+
+“She is too weak. If she had the means to hurt Ali, she would have used it against those wolves,” Calen answered.
+
+As if they’d been waiting for a reason, Malika leapt to her feet and Mato leaned over to help the Dryad.
+
+“You mustn’t touch me, young Druid,” Lirasia said. “You may catch the blight.”
+
+“You can’t walk,” Mato growled, gruffly. “I’m not going to leave you here to die. The Kobolds will kill you.” He scooped the Dryad up into his arms and they followed Calen to the building.
+
+While Calen kept a sharp eye out for the Kobolds that still lurked among the dark boulders, he checked the notifications that had chimed at the end of the fight.
+
+Archer of Light has reached level 35.+10 attribute points.Motes of Light has reached level 13.Explorer has reached level 23 (+2).Blessing of the Dawn has reached level 19.Eclipse has reached level 18.Eyes of the Archon has reached level 21.Cartography has reached level 9.
+
+Without missing a step, he dumped three points each into dexterity, intelligence, and perception, and spent the final point on raising his strength, hoping against hope that he wouldn’t need it for whatever they found below.
+
+Alexander smiled as he wove his dark magic, stitching and melding the dead flesh together. It had been a productive day.
+
+He had surprisingly run into a small logging village this afternoon, similar in size to Lyton, but he hadn’t cared to find out the name of this one. It had, however, provided him with an abundance of new skeletons, and a few more volunteers for his sacrifice gang.
+
+With his surplus, he had left a sizeable contingent of his undead in the village to harvest some of the enormous mana-rich trees before pressing onward.
+
+“You guys are the privileged few,” he continued, explaining their good fortune to his sacrifice gang. “Your life energy will be sacrificed at the right time to empower my skills. Isn’t trading a meaningless life for that something to be proud of?”
+
+The recruits just stood there, prohibited from moving or speaking by the compulsion collars he had forced on them. In his experience, worthless farmers and laborers like them seldom saw value in the greater purpose. At least on this point he and Roderik saw eye to eye.
+
+Speaking of Roderik, that odious brute is late. They had been due to meet a day ago, and the noble still hadn’t shown up.
+
+Suddenly, he felt the sensation of his mana connection releasing and he snapped his perception into his remaining spectral wolf. He was facing a bear and a monk, while an archer shone like the sun in a deep cavern, firing a furious stream of glowing arrows at him. With the few moments he had left with this specter, he glanced around quickly, spying the dryad dying in a pool of her own sap.
+
+Excellent, he thought as the connection severed. His plaything had led him right to the doorstep of Myrin’s Keep.
+
+“Come, everyone,” he announced. “It’s time to move out.”

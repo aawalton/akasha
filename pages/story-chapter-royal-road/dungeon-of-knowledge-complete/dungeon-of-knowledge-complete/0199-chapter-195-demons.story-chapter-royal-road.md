@@ -1,0 +1,277 @@
+---
+id: 1d70b2c4-c814-5f02-850d-20bd11951745
+page-type-slug: story-chapter-royal-road
+title: "Chapter 195: Demons"
+slug: 0199-chapter-195-demons
+partOf: dungeon-of-knowledge-complete
+position: 199
+ownLength: 5802
+unit: words
+ownProgress: 5802
+publishedAt: 2025-02-09
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/2056974/chapter-195-demons"
+royalRoadId: "2056974"
+markedReadAt: "2026-06-29T20:17:51.924Z"
+---
+
+Clarence was being surprisingly cooperative for a change. Normally the willful, obstinate book would make her chase him down if she wanted a chance to study from him – or he would have his own inscrutable ideas for which pages she needed to see. Today, however, he rested relatively docilely upon the table and allowed her to turn the pages without too much ‘helping’.
+
+Ali still had several hours to go, waiting for the Emberforge Mines to interrupt the dungeon-break, but already the tsunami of demons crashing against the library had dwindled away to a trickle of its former immensity. It was fortunate the rift had not been big enough to admit the Pit Lord or any of the larger demons – from the immense power she had witnessed, she was certain it would have crushed her bosses in moments. It was hard to believe that the terrible devastation and enormous scope of the Lair of the Demon God’s dungeon-break must have been caused by what, for it, had to have been some of the lowest-level monsters it could summon. Expendable trash, as it were.
+
+Not the least terrifying moment in our lives…
+
+But even with the remnants of the ongoing dungeon-break still throwing themselves at her dual poison bosses just beyond the glittering impervious golden wall, she was still stuck down here, providing her Empowered Summoner bonuses to her bosses. Mato had cleaned up from dinner and was now experimenting with his new skill, Calen worked on his maps, and Malika was helping Sabri decipher the ancient martial arts texts, which involved grappling and bouts of intense shadow boxing. So, with Ryn’s help in ferrying books for her, Ali took the opportunity to study something she had remembered only when she had earned her metal imprint – a sliver of forgotten knowledge, perhaps dredged up from her subconscious mind by Sage of Learning.
+
+She spent ages poring over the various magical crafting texts that Ryn had selected for their library, searching for clues, but it was within the pages of her mother’s unruly book that she found the most useful information:
+
+“… so this, then, is the reason why materials like silver, gold, and mithril are so prized by artisans and crafters – the structure of the metal conducts most affinities of mana extremely efficiently. Similarly, the reason why steel is preferred over bronze for weapons – not only is it harder and stronger, but enchantments take to steel easier, resulting in a broader range of enchantments that may be imbued into it. Higher forms, such as mithril or enchanted orichalcum have even more capacity…”
+
+She continued studying, learning more and more about the use of materials to enhance magic, and vice versa.
+
+So that’s why Thuli wants to rediscover the lost technique of Eimuuran steel so desperately. It seemed there were an uncountable number of ways to produce metals, stone, or wood to enhance specific properties of magic, and as she had personally witnessed, the quality of the enchantments on the gear she wore made all the difference when facing threats and monsters.
+
+Aah, here it is, she thought as she finally reached the section on runic magic. While all the theory around crafting would be useful for professional crafters like Lydia and Thuli, and Ali fully intended to discuss the subject with them at length, it was in runic magic where her passion and skills lay. She had known that binding runes to the material could enhance integrity, range, or power, or even enable otherwise impossible magic. She had even worked on the library’s runic circle which was imbued into the foundations of the building itself, but she had never fully understood quite what was possible. After her lesson with Donella, she had a little more of an intuition for how to flow her mana into a material. Well, magical ink, she clarified to herself. But it can’t be that different, can it?
+
+“Did you find it?” Ryn asked, looking up from a different reference manual.
+
+“I think so,” Ali said, considering the passages she had just read. “If I understand this passage correctly…”
+
+“Maybe you should just try it out and see?” Ryn suggested.
+
+Ali glanced at her notebook lying open beside her, and the sketch of a new trigger spell she had unearthed from one of the numerous magical tomes that now graced the newly restored shelves along the library wall of the uppermost level. Ryn had been hard at work, categorizing and organizing their growing collection – often, Ali had caught her humming as she worked, or even talking to the books.
+
+“This might be the perfect test case,” she agreed, getting to her feet and moving to an open set of flagstones. Ryn joined her, with Clarence hovering beside them, fluttering curiously.
+
+Ali manifested her Grimoire in a splash of green and gold light. Mustering her concentration, she twisted the stone beneath her feet, slowly etching out the shape of her runic spell. Wielding both Sculpting and Domain Mastery, she progressively etched out a circle of silvery yellow runes near the base of the Elder Tree, curving them around and slowly drawing them to a close as she formed the base runic structure out of electrum inlaid deep in the stone. She couldn’t help but notice the similarities between using a pen to lay down imbued ink on parchment and using Domain Mastery to create electrum and Sculpting to shape it into runes.
+
+She frowned, inspecting her work. For this, it had to be perfect – and so, she fussed over it, tweaking the runic shapes and enhancing the purity of the metal until she was certain it was perfect. Then she inscribed her mana into the pure, gleaming metal. As soon as she began, she could immediately tell the difference – the metal seemed to consume her mana with visceral hunger, soaking it up like a sponge. When she finally completed her spell and tied it off with her domain mana, it pulsed once and thrummed with power, filling up with more mana than she had imagined it might hold, causing the electrum to shine with a steady, pure radiance.
+
+“Did it work?” Ryn asked.
+
+Clarence zipped several delighted circles in the air as if he were playing with the light.
+
+“Clarence definitely thinks so,” Ali said. “According to this, it should have a substantially increased range and take far less mana to power it.” Neither of those two properties was actually useful for her test, but it was still a great way to practice a new technique. As her mana finished the circle, her success was greeted with the welcome sounds of several chimes.
+
+Runic Script has reached level 30 (+2).Domain Mastery has reached level 28.Reading has reached level 14.Sculpting has reached level 6.Static Teleport – Linked Magic – level 35 (Arcane)Teleport to a preset teleportation locus.Locus: Novaspark Academy of Magic, Myrin’s Keep.Voluntary Trigger.Runic Circle
+
+Satisfied, she stepped into the circle, seeing the glow from the runes pulsing once as she entered.
+
+Accept teleportation to the Novaspark Academy of Magic?
+
+“It worked!” Ali said. She declined the message from the Voluntary Trigger enchantment and the glow dimmed, nothing further happening. Now Ryn would not need to use her teleportation recharge to return the novices to town. Nor would any of them need to fly up through the sewers anymore. “Here, why don’t you try it?”
+
+“Oh, that’s perfect,” Ryn said after stepping into the circle to see for herself.
+
+Ali’s chimes picked that moment to interrupt her.
+
+Requirements met for skill advancement.Mentor: Clarence.Runic Script has reached at least level 30.Intelligence has surpassed 500.Received formal training in runic inscription.Imbued your magic into more than one compatible material.Repaired a grand runic circle.Runic Script gains Imbued Runes.(You can imbue your runic magic into compatible materials, adding permanence, durability, power, and other properties drawn from the chosen material, allowing limited crafting of magical items and constructs.)Accept this advancement?
+
+“Oh, I can make items!” Ali said, immediately sharing her notifications.
+
+“That’s nice!” Ryn said.
+
+Feeling an upwelling of excitement, Ali accepted the advancement. Donella had recommended she learn Calligraphy to create scrolls, but she had just unlocked an alternative that worked with her Sculpting skill instead. She could inscribe runes using metals, and presumably some of the other material imprints she knew, creating substantially more powerful rune magic. And by the description, she should be able to make some permanent inscriptions that might even work outside of her domain magic. It was, of course, limited in scope – as expected – she didn’t have the benefits of ten synergistic skills that a proper crafter would get from their class, but still, it was a breakthrough for her, and she studied her new work with just a little pride at her achievement.
+
+“Now we just need a private locus runic formation,” Ali mused.
+
+“I’ll get right on it!” Ryn declared.
+
+Somewhere buried in the recesses of her arcane magic texts Ali was sure they would find a teleportation locus spell that could not be freely used by anyone who had memorized it. Once she had that, she would inscribe it down here in the library and make a matching teleportation circle in the Adventurers Guild so that she could conveniently return home – and Ryn could save her teleport recharges for more research instead of library visits.
+
+Your Timber Wolf has been defeated.
+
+“Just a minute, Ryn,” Ali said, the unexpected notification catching her by surprise. Immediately she switched her awareness to her newest boss, but her skill failed to connect, not finding anything left alive. She widened her search, finding a bat roosting in a tree nearby, and sent it darting over to investigate. Far below her leathery wings, Ali scanned the aftermath of what must have been an epic battle with her bat eyes. Half of the adventurers were sprawled out on the ground among the corpses of Timber Wolves, and she experienced a spike of anxiety until she realized that all of them were still breathing – they just seemed exhausted.
+
+Basil crouched in the back of the wolves’ den, harvesting some of the rugged Stonecap mushrooms she had planted there. Havok lay sprawled on the ground under an apple tree, his dented and battered shield laying on the ground on his left while he enjoyed the spoils of battle with relish – her acute hearing caught the distinctive juicy crunch as he bit into a shiny red apple with almost indecent relish. For a small creature, he could certainly pack away a meal and seemed to need a snack in between, too. He and Mato got on like frogs in a pond when it came to food.
+
+“Teagan? Aiden? I think this is magicite!” Basil’s excitement echoed from within the den as he scrambled out, holding the small sliver of magicite overhead like the boy-hero from her story bearing the holy sword aloft. His exclamation had every single adventurer leaping to their feet as they excitedly rushed to examine the find. Ali smiled, leaving the tired and happy bronze raid group to their celebrations after doing a quick identify on them.
+
+“The bronze group just defeated the Timber Wolves,” Ali told the others as she returned her awareness to her body. “They all just passed twenty.”
+
+“Oh, nice!” Malika said from where she was sitting.
+
+“Vivian will be happy to have a bunch of eights,” Calen said.
+
+Eights? It sounded like adventurer jargon again, and one she had not heard before, but she immediately guessed what it was. At level twenty most classes unlocked their eighth class skill, and over the next few levels, it would represent significant increases in power for many of them. Hers had been Empowered Summoner, and the ability to enhance one of her attributes while imbuing all her nearby minions with nature damage on hit – it had been a substantial increase in her combat abilities, especially after it gained a few skill levels.
+
+“I think the Novaspark Academy will be happy too,” Ali observed. “I put a sliver of magicite in the wolves’ den.”
+
+“Oh, that’s a fantastic idea,” Malika said, opening her eyes and looking across at her. “How much did you leave?”
+
+“About this size,” she indicated with her fingers. It was a rather small piece, but she didn’t want to break the economy.
+
+“That seems appropriate,” Malika answered. “They should be able to buy two or three really good upgrades for the early twenties.”
+
+“They’re going to be back every time that boss respawns,” Calen observed without looking up from his cartography.
+
+“I think that’s what I wanted. If they level up enough, they can begin tackling the bigger undead in the forest by themselves.” It had been part of her reasoning when Calen had told him of their struggles. But it did mean she probably needed to start planning something of a higher level for when they surpassed the wolves. She couldn’t wait to tell Lira that they would soon be making progress on eradicating the undead in her former forest for good.
+
+***
+
+Ali woke to the quiet darkness of the lower library floor, and a blissful silence, devoid of her notification chimes. The only light down here came from the wisps circling the Elder Tree, her new teleportation circle, shining with golden silvery radiance, and the light from her barrier blocking the doorway to the jungle beyond.
+
+She looked around, finding nothing stirring besides Lira who had offered to keep watch while they slept.
+
+“They stopped coming a few hours ago,” Lira whispered softly, getting up to prepare her a cup of tea from the already steaming kettle.
+
+“I still feel bad for putting everyone at risk,” Ali said, getting up and joining her aunt on the temporarily relocated couch, accepting the offered tea gratefully and inhaling the floral aroma.
+
+“It worked out well, did it not?” Lira said. Ali had told her the whole story last night, grateful that Lira was willing to stand watch so close to the chaotic mana of the jungle so they could rest. At least with the tree and her own domain now, the worst of the jungle’s mana was encountered further out.
+
+“It did, but it could so easily have gone wrong. We got lucky.” In fact, the two failed bosses she had made bore silent testament to just how difficult it had been to halt the demons. They had had some ridiculous abilities, and the power of the horde was something she did not wish to face a second time. Quietly and thoughtfully, she removed the mana reservation for the ooze and Hobgoblin bosses, preventing them from respawning, and returning her mana.
+
+“I believe that good fortune comes along to allow us to learn,” Lira answered calmly.
+
+“That sounds… nice,” she said, not really wanting to criticize Lira’s beliefs. We were stupid and gullible and can just be thankful the lesson wasn’t far costlier.
+
+“I know dear; it’s not how the world really works. But it’s a nice way to remember to look for what you can learn from it, rather than dwelling on what may have been. If you could go back and do it differently, I’m sure you would.” Lira’s kind and calm voice began dissolving her anxiety and allowed her to look at the situation a little more objectively. Yes, they could have been more careful, but she had learned something important.
+
+Stay away from the rift, she thought soberly. Whatever that dungeon beyond the rift was, she had no desire to mess with it, especially with something as ridiculously powerful as that Pit Lord. The ease with which it had thrown thousands of strong demons into the rift was terrifying. The realization that they had seen only a small fraction of the dungeon’s true power caused the pit of her stomach to writhe uncomfortably. Stay away from massively strong demons with mind powers!
+
+On the other hand, Ali’s understanding of what her bosses were capable of had skyrocketed yesterday. If she thought creatively, she had many potent combinations, and studying the possibilities would be to her benefit. Yet another reason to experiment and familiarize herself with her abilities using simpler and easier versions for the bronze adventurer groups. If they were only higher level, she could pit them against some of her more dangerous abilities safely.
+
+Grove Warden has reached level 66 (+2).+20 attribute points.Arcane Insight has reached level 34.Arcane Recall has reached level 14.Martial Insight has reached level 39 (+2).Empowered Summoner has reached level 31 (+2).You have earned the Title: Rift Warden.
+
+Quelling the dungeon-break with her raid bosses had earned her two additional levels – mostly while she slept. It was clear that hiding behind her raid bosses earned her substantially lower experience than, say, putting herself personally at risk in that Demon Hunter fight, but still, two levels for keeping her magic empowering her bosses while they wiped out thousands of monsters was well worth it.
+
+And a title? She studied the strange notification before she opened it to see what it was.
+
+Rift WardenYou have saved more than 10000 people from an incursion from a different realm.+10% to damage against monsters from a different realm. Title
+
+Just in case we need to do that again, she thought, grimacing. Although it looked like an amazing title, she pushed down the resurgence of guilt. The incursion had been the result of their own mistake, and the fact she had been awarded a title for it meant the town really had been at dire risk of being wiped out. She considered it for a while; although she wasn’t exactly a fan of displaying her Ancient title, she just couldn’t bring herself to swap them – after all, she had just personally created the disaster she was being rewarded for. But it did look very strong.
+
+“Do I have to display a title for it to work?” she asked.
+
+“No, dear, all titles are always in effect,” Lira answered, finishing her words with a curious expectation – a subtlety Ali had always admired in her.
+
+“I got Rift Warden,” she answered the unspoken question.
+
+“A worthy title,” Lira said, smiling at her.
+
+Ali found Lira’s smile and approval took a bit of the edge off her guilt, and her mind turned to more practical matters. “I’m going to go open the barrier and see if I can learn any of those monsters,” she said, giving Lira the chance to retire to her tree rather than be subjected to the uncomfortably chaotic mana in the jungle.
+
+Ali removed the top half of the barrier, opening the giant doorway, but preventing the deep layers of toxic slimes and pools of liquid poison from splashing into the library. As she flew out over the battlefield, she surveyed the wreckage from a safe vantage. Her three cloned Forest Guardians stood out among the trees, beyond the mountain of corpses, quietly minding their own business. The Toxic Spitter was somewhere off to the side in the pile of wobbly ooze – a fact she knew only because she was using it as a backup sense to make sure she was safe out here. Most of the remaining live toxic slimes and split toxic spitters had wandered off, presumably to become prey of the much more powerful elementals that lurked out in the depths of the jungle, and the remainder would likely be reabsorbed into the Toxic Spitter boss eventually or die when their summoning mana ran out. She made the Toxic Spitter move a little further away so that she wouldn’t be poisoned by its aura while she worked.
+
+The pile of demon and slime corpses was so vast that it posed a problem of a rather tricky logistical nature – it would take days for her to put a meaningful dent in it with just deconstruction. She lowered herself to a grassy knoll that seemed free from poison and considered the mountain.
+
+I guess I need to resummon my minions, too, she thought, pulling out her Grimoire and beginning with the Hobgoblins. As soon as she had several minions, she sent them off into the pile with instructions to clear a passage to the library, collecting any corpses that were either a higher level than she currently knew, or were a monster that wasn’t an ooze, Hellfire Imp, or warg.
+
+By the time she had finished summoning the rest of her little army, she had a pile of demonic spiders, hornets, and a tidy selection of imps and wargs.
+
+This is more manageable, she thought, deconstructing the higher-level monsters to update her current variants and imprints before she started on the pile of demonic insects.
+
+Imprint: Hellfire Imp updated to Imprint: Demon.Variant: Vampire Hornet added to Imprint: Demon.
+
+Hmm… a demon imprint? Recalling what she had done for the Flamecallers, she reached for the pages of her Grimoire with her will.
+
+Variant: Hellfire Warg added to Imprint: Demon.
+
+Perfect, she thought and turned her attention to her newest acquisition. The Vampire Hornets had been terrifying in the tunnels and against her Hobgoblin raid boss, and yet they seemed to come in levels ranging from only twenty-three to twenty-eight. Curious, she summoned one.
+
+Vampire Hornet – Demonic Insect – level 28 (Blood) Swarm x7Your reserved mana has increased by +68.
+
+The magic of her Grimoire completed, and instead of the one monster she had expected, seven mean-looking black hornets flew off into the air, buzzing around her head on blood-red wings, the jagged red bands on their abdomens flashing angrily as they swooped in and out.
+
+Aah, that makes sense, she thought as she studied them. Cheap swarm monsters. If only I could have unleashed a hundred of these on Roderik Icecrown’s butt… she giggled, blushing at her own joke. And the less of that thought, the better!
+
+She slipped her awareness into the senses of the Vampire Hornets and instantly recoiled from the overpowering stench of blood. She disconnected from their senses for a few moments to recover. Ugh. Bracing herself against the olfactory assault, she tried again, finding it was manageable now that she was prepared – barely.
+
+Race: Demonic InsectActive Buffs: Swarm FormationClass: Vampire Hornet – level 28- Bite And Sting – level 19- Vampiric Drain – level 21- Scent of Blood – level 23- Swarm Formation – level 26Aptitudes- Mana (Affinity): Blood- Vulnerabilities (Racial): +50% extra damage from Holy- Swarm Spawn (Racial): Spawns in groups of 7- Swarm Tactics (Racial): +4% to Accuracy per Vampire Hornet attacking the same targetAttributes- Vitality: 66 (+4)- Strength: 25 (+1)- Endurance: 41 (+2)- Dexterity: 74 (+4)- Perception: 83 (+5)- Intelligence: 33 (+2)- Wisdom: 49 (+3)Armor: 196Physical Damage Reduction: 20%Evasion: 235Dodge: 23.06%Health: 660/660Stamina: 410/410Mana: 245/490 (245 Reserved)
+
+It did not seem to be a particularly strong monster, but it was clearly a swarm, as shown by the aptitudes and the reduced skill list. Its attributes seemed low, and it didn’t even have any magic resistance, although there was the somewhat terrifying stacking accuracy per hornet, which was probably how the clouds of hundreds of hornets were even able to hit the much higher-level Hobgoblin raid boss reliably. It had a remarkably unusual blood magic affinity – something that she had only ever read about – but she was certainly missing something important, so she looked through the details of the four skills they had.
+
+Bite And Sting – level 19Stamina: Bite and/or sting your target. Range: Touch.Physical, Melee, Dexterity
+
+A basic attack skill, I guess? Ali thought, studying it closely. The first skill seemed rather mundane – it was a hornet, and it had a physical attack that could bite or sting. Even mundane hornets could bite or sting, but having a skill for it would add proficiency and power. She read on.
+
+Vampiric Drain – level 21Requirements: Target must have blood.Mana: Enhance a Physical attack to do an additional +127% [40 + skill + vitality] Blood damage. A portion of this Blood damage is returned as health shared with nearby swarm members. Range: Touch.Blood, Melee, Swarm, Support, Vitality
+
+Oh! Now, this is interesting, she thought, studying Vampiric Drain. A support skill that could make the bite or sting do additional blood damage – quite a lot in fact. It did have the interesting limitation that the target had to have blood – which excluded her slimes and most elementals – and likely her own Forest Guardians. But not the Hobgoblins. The skill had a built-in health leech effect much like Malika’s Soul Strike or Mato’s Brutal Restoration, but this one was shared among its friends. What else?
+
+Scent of Blood – level 23You can smell the blood of creatures nearby.You can sense weakness and injuries by the scent of blood, increasing your chance of landing a critical strike.Mana: You can track your prey by the residual scent of their blood.Blood, Tracking, Perception
+
+This must be why everything stinks! The hornets, it seemed, were a tracking-type monster – and their unique blood affinity allowed them to track by the scent of blood – which in the aftermath of a battle seemed quite overpowering. On a hunch, she double-checked its attributes, discovering that she had finally found a monster with its highest attribute in perception. Too bad it’s not a higher level. Still, a novel perception skill was very much a welcome addition to her repertoire – all the assassins sent to kill her so far had possessed blood.
+
+Ok, what’s this last skill, she thought, pulling up the description in her mind.
+
+Swarm Formation – level 26Fly in formation with other Vampire Hornets, executing coordinated attacks. Mana: Blood magic damage and all attributes are increased by +7% [1% per Vampire Hornet in the swarm formation]. Reserve: 50%Blood, Swarm, Perception
+
+Wait, damage… and all attributes? She reread the ridiculous Swarm Formation skill, and the terrifying nature of these Vampire Hornets was finally laid bare. With her seven buzzing terrors, her tiny swarm received a paltry seven percent boost to their blood magic damage and all their attributes – for the enormous cost of reserving half their mana. But during their frantic flight through the mines, and the battle itself, there had been hundreds of these vicious insects flying in great droning swarms. If she imagined doubling or tripling all its attributes and increasing its damage output, with its group healing and enormous accuracy bonus, it suddenly became vastly scarier as a foe.
+
+No wonder the Hobgoblins died so fast.
+
+But now they were hers. Unfortunately, not much in the mines had blood – with the possible exception of the Flamecallers and their demonic minions. But she was already considering how useful they might be as mobile sentries in her dungeon or used as a target for a summoner boss.
+
+“Ok, no more Vampire Hornets,” she said, directing her industrious minions. “Unless you find one higher than level twenty-eight.” Then Ali turned her attention to the second growing pile and got to work, trying to suppress an involuntary shiver.
+
+Variant: Abyssal Stalker added to Imprint: Demon.
+
+Ali continued deconstructing everything in the pile, filling out the range from level thirty to forty-five in the pages of her imprint. She had already witnessed their incredible stealth skill in action, but beyond that, and the assumption of an Ambush skill, she didn’t have the foggiest idea of what to expect. Other than the ability to give someone a heart attack.
+
+Abyssal Stalker – Demonic Spider – level 45 (Blood).Your reserved mana has increased by +184.
+
+She shivered at the sight of the sleek, demonic spider up close – every square centimeter of its body seemingly crafted for stealth or violence. Even just at rest, its dark body shimmered indistinctly, her eyes drifting off its form as if it were somehow slippery to look at.
+
+Race: Demonic SpiderActive Buffs: Demonic Power, EvasionClass: Abyssal Stalker – level 45- Mutilate – level 37- Critical Bleed – level 33- Blood Shock – level 34- Stealth – level 31- Ambush – level 35- Scent of Blood – level 28- Demonic Power – level 31- Evasion – level 33- Web Spray – level 22- Onslaught – level 25Aptitudes- Mana (Affinity): Blood- Vulnerabilities (Racial): +50% extra damage from Holy- Quickness (Racial): +45 to Dexterity- Innate Stealth (Racial): All stealth skills are 20% more effectiveAttributes- Vitality: 106- Strength: 255 (+123)- Endurance: 89- Dexterity: 428 (+206)- Perception: 239 (+115)- Intelligence: 53- Wisdom: 89Armor: 315Physical Damage Reduction: 20%Evasion: 1465Dodge: 53.76%Resistance: 315Magical Damage Reduction: 20%Health: 1060/1060Stamina: 623/890 (267 Reserved)Mana: 890/890
+
+As Ali studied the monster’s attributes, it became abundantly clear that she was looking at a pure melee assassin class, supported by a powerful blood affinity. It had high attributes, and with a quick calculation, she figured out that it was one of those monsters that gained fifteen attribute points per level. It had a respectable amount of natural armor and innate magic resistance, but its evasion was extraordinary at more than fifty percent dodge against monsters at level forty-five.
+
+She tried not to get her hopes up, but it was hard to extinguish the feeling that maybe, just maybe, she might have gained something very useful from their accident in the abyssal plane. It did have a blood magic affinity, which likely would limit its usefulness in the mines, but she couldn’t shake the desire for it to be good.
+
+Mutilate seemed to be a decent physical damage melee skill that allowed attacking with the sharpened forelegs and mandibles. It also had a Double Strike advancement with a recharge, which it undoubtedly used with its Ambush skill. Ambush was pretty standard, but it did add a respectable increase to critical strike damage. The spider’s stealth skill was extraordinary, cloaking vision, mana, and scent.
+
+She studied a few of its support skills. As she had learned from Calen, most Ambush classes specialized in a small number of big attacks, stacking support skills to enhance them, and relying on Ambush to push the total damage to the extremes.
+
+Critical Bleed – level 33Requirements: Target must have blood.Mana: Enhanced Melee attack gains +33% additional critical damage as a Bleed.Blood, Melee, Support, DexterityBlood Shock – level 34Requirements: Target must have blood.Mana: Enhance a Physical attack to do an additional +502% [40 + skill + dexterity] Blood damage. Critical strikes with the supported attack have a chance to stun.Blood, Melee, Support, Dexterity
+
+Both support skills unfortunately required their target to have blood, which made them worthless against fire elementals. But the skills seemed remarkably powerful – Blood Shock, in particular, enhanced damage by an amazing amount, and it even had a chance to stun the target. Being stunned by an Ambush was almost certainly a death sentence, and she was grateful she had not been subjected to that experience.
+
+Onslaught – level 25Critical Strike chance increased by +25% [skill].Mana: Gain +25% [skill] melee haste for 5 seconds on kill. Trigger.Blood, Melee, Mastery, Haste, Dexterity
+
+Calen is going to love this monster, she thought, reading through Onslaught a second time. The mastery skill substantially increased critical strike chance, which made Ambush, Blood Shock, Critical Bleed, and Mutilate all substantially stronger. The trigger on kill to grant haste seemed very unfair – especially combined with Blood Shock’s chance to stun.
+
+It had the same Scent of Blood perception skill which again increased critical strike chance. Its demonic power enhanced strength, dexterity, and perception, and it had a defensive skill for evasion. All in all, a very well-rounded assassin class, provided she was fighting something with blood in its veins.
+
+Its final skill was a rather interesting choice – Web Spray – a control skill.
+
+“Shoot the Hobgoblin,” she instructed, and the Abyssal Stalker instantly reared up. A thick net of webbing flew from its abdomen striking the Hobgoblin with a heavy splat. To her surprise, the Hobgoblin struggled to shake off the sticky and dense net pinning it to the ground.
+
+Well, that’s mildly terrifying, she thought, imagining all the nasty critical damage and ambush attacks that became available against an incapacitated foe. She had absolutely zero desire to find herself trapped and at the mercy of one of these, and walked over to examine her helpless Hobgoblin. Using teleport twice, she switched herself and then an ooze into the web, freeing it. Hmm, I wonder what the actual material is? Identify…
+
+Demonic Silk Web
+
+She would need to ask Malika for the detailed appraisal, but it wasn’t hard to guess who would be interested. Lydia’s going to flip when she sees this! Well, Hilda I guess, she corrected herself. She didn’t know the weaver well, but Lydia seemed to prefer the dwarven woman for making thread and cloth. Still, if it can hold down a level forty Hobgoblin… She just stored the web to show them later.
+
+A thought suddenly occurred to her, and she quickly compared the Abyssal Stalker against one of her Kobold rogues. This spider is better, she concluded. Even without the two blood support skills. Mutilate did so much damage, that with just that one skill, the extremely high dexterity, and Onslaught, these stalkers would drastically outperform her rogues. And they had three times the health and way more defensive attributes, higher levels, and a control skill – Calen was going to have a field day studying these.
+
+She reached out a hand and gingerly patted the hard spiny chitinous armor of her newest monster, suddenly much more receptive to using it despite its terrifying appearance.
+
+Malika woke with a start at the sound of her notification chime. She blinked, and looked around, but nothing seemed like it was about to leap out of the dark corners to try and eat her. Lira sat off to the side, sipping on her typical steaming cup of tea. Movement off to the side caught her attention. Through the barrier between them and the jungle, she found Ali zipping around doing something with her minions… and the enormous mountain of demon and ooze corpses.
+
+Reassured that nothing dangerous was going on, she turned her attention inward to find the source of the chime that had roused her. And there it was, letters of brilliant glowing blue-white energy hovering in her mind.
+
+You have earned the Title: Rift Warden.
+
+A title?
+
+Wait… a Title!
+
+Scarcely believing her eyes, she opened it to see what it might be.
+
+Rift WardenYou have saved more than 10000 people from an incursion from a different realm.+10% to damage against monsters from a different realm. Title
+
+Holy shit…
+
+For a long time, she just sat there and stared at it.
+
+Can I… but it was trivial to switch her displayed title, the change registering immediately on her status.
+
+I… goodbye, Street Rat. I’m a Rift Warden now! Almost angrily, she knuckled the wetness in her eyes. Fuck yeah!
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledge
+
+https://www.scribblehub.com/series/1135403/dungeon-of-knowledge
+
+https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

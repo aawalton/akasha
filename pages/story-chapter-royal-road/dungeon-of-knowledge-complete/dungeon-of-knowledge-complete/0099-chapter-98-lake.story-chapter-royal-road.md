@@ -1,0 +1,379 @@
+---
+id: a071b977-2373-5077-9fa7-2afff8e90855
+page-type-slug: story-chapter-royal-road
+title: "Chapter 98: Lake"
+slug: 0099-chapter-98-lake
+partOf: dungeon-of-knowledge-complete
+position: 99
+ownLength: 6823
+unit: words
+ownProgress: 6823
+publishedAt: 2024-07-14
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1717141/chapter-98-lake"
+royalRoadId: "1717141"
+markedReadAt: "2026-06-29T20:14:17.848Z"
+---
+
+Ali coughed and waved her hand vigorously in front of her face to disperse the remnants of smoke from her recall potion. She glanced around at the familiar black marble floor with the inscribed runes of the teleportation locus slowly fading, the magical power that had transported her across kingdoms back to the Novaspark Academy receiving room dissipating into the dense stone.
+
+Home. It was an odd thought. Myrin’s Keep was certainly not the nice peaceful town that she would have liked as a home, nor was it the center of learning she had grown up in – nor even the natural forest of her father’s Grove. Presumably, she still had an illegal open contract out on her life. But after Volle, Ali felt a sense of relief at returning – a homecoming, of a sort.
+
+Myrin’s Keep broods over the ruins of my past… she shivered. No. I am here now. That’s all gone.
+
+Yet so many vivid memories lived in her mind. Shivering again, Ali deliberately focused on her present. Her inbound teleportation from Volle was not cheap – traveling such a distance with something as weak as a Potion of Recall required a large infusion of mana from the Novaspark Academy Locus. She quickly arranged for a message to be sent to her friends at the Adventurers Guild so that she wouldn’t need to risk walking halfway across town by herself and then settled in to refill the mana reserves for the academy locus using her Inspiration.
+
+While she waited, she turned her attention to the gorgeously crafted runework inscribed into the marble floor. Whoever had made it had been a true artist. The runes were inlaid silver in a delicate flowing runic script set flush and smooth with the dark marble. The soft glow of purple arcane mana illuminated the entire construct, flaring with bursts of energy whenever someone arrived.
+
+Teleportation Locus – level 42 (Arcane)A magical locus that serves as an enhanced teleport destination.Runic Circle
+
+Oh, I can see its level now! For some reason, this simple, almost trivial development drove home a sense of personal progress and growth in a way that defeating monsters had never done. When she had first used this locus, the advanced runic magic had seemed so powerful and incomprehensibly advanced that she had only imagined she might be able to understand it someday in a distant future.
+
+It would take some time for the message to reach her friends and for her mana to regenerate sufficiently to cover her teleportation debt. She eyed the runes with curiosity and a growing hunger to know. The official was poring over his paperwork with the zeal of a dog enjoying its favorite bone, and nobody would be bothering her for a while. She snapped a barrier into the air and sat on it, elevating herself so her feet dangled over the runes, and then powered up her Sage of Learning’s Study Trance. I’ll just memorize all of this, shall I? she thought, as her eyes and mana sight followed the sophisticated mana tracery through the runic structure with her Runic Script and Arcane Insight skills. After all, the official had given her permission to do just that the first time she had used the locus. She gave herself over to the total focus of her studying.
+
+“Ali! You’re back!”
+
+Ali blinked and slowly tore her gaze away from the runes to find Malika rushing toward her with a broad smile on her face, followed close behind by Calen and Mato.
+
+Runic Script has reached level 16.Sage of Learning has reached level 15.
+
+The Teleportation Locus shimmered like a mana-imbued picture in her mind, complete and entirely understood. She had no idea if it would prove useful, but she didn’t care. I got it! I learned a new runic construct!
+
+“Hi, thanks for coming to get me,” Ali said, hopping off her barrier to greet her friends.
+
+“Chewing up a few runes?” Calen grinned, his eyes darting to the runic circle as he guessed exactly why she’d been so distracted.
+
+Mato began, “She’s just hungry –”
+
+“Of course,” Malika interrupted, giving her a quick hug. “How did it go? Here, let me help you finish paying the mana for this and we can talk on the way back.”
+
+With Malika’s extraordinary talent and her own mostly regenerated mana, they quickly settled up and headed out.
+
+“I got it,” Ali told them, answering the pressing question on all of their minds. “I just need to get back to the Grove and try it out on the lake.” She proceeded to tell them all about her adventures in Volle’s Dungeon and about Naia, the Anomalous Mimic Slime who had made it.
+
+“I’m really conflicted now,” Ali said, after explaining how she had freed Naia from her imprisonment. They had just reached the shrine in the Grove, so Ali plopped herself down on a clean, dry rock and studied her friends’ faces, worried that she would find horror or disapproval there. “Dungeons are supposed to be a terrible scourge that are full of dangerous monsters like the Skeletal Wyvern or the Wights. But I just couldn’t leave Naia imprisoned like that. Did I do something wrong? Malika, I really missed your perspective down there. What would you have done? If you found a dungeon that was also a person, and you felt you could trust them, would you have helped?”
+
+Her friends exchanged uncomfortable glances, and a complex set of emotions flickered across Malika’s face. Knowing Malika’s personal dungeon-related trauma, Ali was most anxious for her approval, but she was terrified that Malika would hate her for helping the dungeon. She didn’t want to risk her friendship, but she couldn’t see how she would have acted any differently.
+
+“I would have helped, too,” Malika finally answered. She seemed conflicted and terribly uncomfortable and like she might be on the verge of saying more, but eventually she simply looked at Ali and said, “I think you did the right thing.”
+
+A huge burden dropped from Ali’s shoulders. Knowing Malika would have made the same decision felt liberating and knowing she didn’t hate her for what she had done was a powerful sense of relief. Ali took a deep breath, settling the turmoil of emotions caused by the knot of worry finally untangling within her.
+
+“So, what did you guys get up to? How was your lecture, Calen?”
+
+“Oh! Lots of drama. Calen broke the guild,” Mato said, with a chuckle as Calen cleared his throat awkwardly and glanced down at the ground.
+
+“What? What happened?”
+
+“Half the guild walked out and joined the Garrison or the Town Watch. Calen’s lecture was great though, he did amazing,” Malika explained. “The newbies think Calen is some strategy god now, like a reincarnation of Lyeneru Silverleaf or something.” Then, between the three of them, they filled Ali in on the details of how it had happened.
+
+“Wait, they joined the Town Watch? Isn’t that bad?”
+
+“Someone has been assassinating guild members, and the Town Watch started offering cash bonuses to join,” Malika said. “Vivian leaned on the guild and the flakey members quit.” Malika went on to share the details of the exodus. “She was actually pleased about it, right, Calen?”
+
+The Half-elf grunted guiltily.
+
+“Right!” said Mato, wrestling his friend into a pretend headlock. “Right, Calen?”
+
+“Oof, get off,” he complained half-heartedly.
+
+Hmm… Ali had imagined some kind of disaster when Mato mentioned drama, but once they explained what Vivian Ross had said, she began to understand. Not sure if I agree though, she thought. Strengthening the Town Watch wasn’t something she would have done. But, if their recounting of the attitudes of the remaining adventurers stocking up on Potions of Recall, asking engaged and curious questions about combat strategy, and where to get better gear was anything to go on, the Guildmaster’s strategy would probably result in much smarter and more prepared adventurers in the long run. At least that’s something. I hope she knows what she’s doing. Ali could certainly appreciate the value of proper training and preparation, given she had started with no understanding of combat, and without her friends, and later the guild, to help her, she would have probably died many times already.
+
+“Ok, I need to get to work,” Ali announced, climbing onto her barrier. Her friends still needed the elixirs made, and the mana-purified water wasn’t going to make itself. Alighting on the bank of her smelly and murky lake, she paused for a few moments to consider the problem.
+
+Ugh, this is going to be nasty. First, and in her opinion, most importantly, she inscribed a Cleanse runic circle on the bank of the lake. Then she summoned three Luminous Slimes and retrieved her last remaining Underwater Breathing potion from her ring storage. This would be so much easier if Seri were here, she thought, but she didn’t want to take the time to travel back to the guild when she could help her friends right now. Wrinkling her nose at the necessity of what she was about to do, she downed the nasty potion and dove into the disgusting lake. While she could breathe easily, the potion did nothing to remove the taste of the stagnant waters, nor could it help with the greasy, slimy feel of it on her skin. She shuddered momentarily, and then struck out for the bottom, dragged along by her barrier magic with three Luminous Slimes in tow. She couldn’t see much of anything down here, but the glow from her Luminous Slimes helped, and at least her mana sight was unimpaired by the murk, allowing her to clearly pick out where her slimes were on the lakebed.
+
+She opened her Grimoire and, guided entirely by mana sight, paged to the mushroom imprint, and began to summon her newest Psathyrella mushrooms. She summoned the tiny water-affinity mushrooms in broad swathes, as many as she could at a time, paying no heed to the mana cost. Whenever she ran low, she deconstructed anything she could find – rocks and dirt from the lake floor, or even the murky, stagnant water itself. Her mana flowed and mushrooms sprouted as she fell into the zone, trying to cover as much of the lakebed as she could before her potion ran out.
+
+Imprint: Water completed.
+
+Water? Ali looked at the notification for a moment, before deciding to dismiss it without adding it to her Grimoire. She couldn’t think of a good use for being able to summon water – especially the mucky stuff she had been using to refill her mana pool.
+
+Unexpectedly, she inhaled a lungful of water that she suddenly couldn’t breathe. Amid the rising panic of drowning, she interrupted her magic, summoned a barrier, and shot up to the surface, choking and coughing up muck and dirty water.
+
+“Hey, no dying out there!” Mato shouted.
+
+“Sorry,” Ali spluttered. “Potion wore off.”
+
+Yuck. In her focus, she had forgotten to keep track of her Underwater Breathing potion and it had expired while she was still at the bottom of the lake. She drew a ragged breath, spat out some more nasty water, and then made a beeline for her Cleanse runic circle, plopping herself down in the center with a wet splat and finally relaxing as the gentle prickle of the magic began to dissolve the stench and muck, and her clothes and body began to slowly dry off.
+
+Grimoire of Summoning has reached level 22.
+
+Out in the lake though, the greenish-brown muck stirred. Water and sludge swirled lazily downward, and, deep beneath the surface, she could make out the cascade of blue water-affinity mana spreading out from the bottom where she had planted her mushrooms. Over the next few minutes, streaks of blue broke through the dirt, growing broader and wider like the sky revealed by dissipating storm clouds, until suddenly Ali could see clear through the lake to the rocky bottom and the forest of underwater mushrooms she had planted. The change was remarkable – brownish-green sludge still poured into the lake from the tributaries, but it dissolved on contact with the larger body of water, leaving the vast expanse of the lake clear and blue. The change would take longer to percolate into the muck on the bottom and sides, she noticed, but this was a promising start.
+
+“Well, that’s much better,” Mato said, staring out at the lake.
+
+But as Naia had predicted, the water was just water. Nicely purified by the water-affinity mushrooms. I need to grow these everywhere.
+
+She got up, finally clean, and paged through her Grimoire till she reached the Ooze imprint and summoned one of the Aetheric Slimes Naia had taught her when she had understood Ali’s quest. To her surprise, instead of one, her magic spellbook summoned six of them instead.
+
+Aetheric Slime – Ooze – level 12 (Arcane) Swarm x6
+
+Your reserved mana has increased by +41.
+
+Ali puzzled over the strange behavior of her magic as the small ooze creatures crawled and wobbled along at her feet. Even the mana reservation seemed in line with a single monster, but there were six almost identical monsters, and she hadn’t been going for volume as she had with her mushrooms earlier. She couldn’t figure it out, but they did seem smaller and perhaps weaker than her other minions around their level. And they did Identify as a swarm, like those Stinging Jellies.
+
+“Go,” she told them, shooing them toward the lake. Blobbing happily, the tiny blue monsters reminded Ali of Naia as they wobbled down the bank and into the water.
+
+“Now what?” Malika asked. All her friends were watching intently.
+
+“Now we wait, I guess…” Ali studied the lake carefully, watching the almost invisible blue slimes crawl around seemingly at random, exploring their new home. They left swirls of arcane mana behind that created eddies and currents in the ambient water affinity mana the mushrooms were producing, all of which was occurring within the weave of her domain that permeated the entire lake.
+
+She watched for several minutes, searching for any sign that it might be working, but she had no idea what she was looking for. For all she knew, it might take weeks. Naia hadn’t explained much to her, so she began worrying that she hadn’t done it right.
+
+Do I need more slimes? Or more mushrooms? Is the lake too big? Is there a missing ingredient?
+
+As she was worrying, the swirls of mana within the lake began to synchronize, eddies and vortices began to flatten out and quieten down, and suddenly, the entire lake stilled, frozen, and unmoving as if waiting in anticipation. Deep in the center of the lake, a kernel of intense blue appeared. In the next instant, a shockwave rippled out from the center – a silent explosion of mana that shot through the entire lake in a fraction of a second.
+
+What was that?
+
+Malika gasped.
+
+“Whoa,” Mato breathed.
+
+Slowly, as she watched, the water began to glow, turning a deep cerulean blue that quickly spread throughout the lake, lighting up the trees and the cavern around it with a beautiful rippling light. A glow that she recognized instantly.
+
+“Wow, you don’t see that every day,” Calen quipped.
+
+“An Ancient Fae doing real magic?” Malika grinned. “Astonishing, right?”
+
+It worked!
+
+Ali sat back, basking in the glow and enjoying the beauty of the lake. She didn’t even need to check; she knew it was mana-purified water.
+
+“That’s so cool!” Mato said, his voice managing to be awestruck and excited at the same time.
+
+Ali turned to find her friends grinning in delight at the radiant blue light that now illuminated almost half the gigantic underground cavern.
+
+“Here you go,” Malika said, making a large steel bucket appear in her hand and offering to help Ali fill it from the lake.
+
+“Why do you have a bucket in your ring?” It was rather handy, she had to admit, but even though their new silver rings allowed much more storage, space wasn’t free and there was almost always something better to put in there.
+
+“I had Weldin find me one in the market so we could bring enough to impress Eliyen,” Malika answered.
+
+“But… how did you…?” Ali’s question faltered, half-formed, as a grinning Malika winked at her and dunked the bucket in the lake.
+
+But Malika is always so careful with money. Ali had felt so unsure of herself when she had set out to face her first dungeon alone. She felt a lump in her throat and a tightness in her heart as she realized Malika had believed in her enough to buy the bucket before she had even returned.
+
+Why am I getting emotional about a stupid bucket?
+
+She identified the bucket, not because she needed to, but more to distract herself from her embarrassing feelings.
+
+Mana-purified water.
+
+***
+
+“Welcome back, Aliandra.” Eliyen’s expression was calm and serene, as usual, but Ali could sense an expectancy that might be lurking just below the carefully schooled elven features. Even the lack of an explicit query about how her quest had gone hung waiting in the air, unasked.
+
+Ali retrieved the ten vials she had filled in the dungeon and placed them on the table. Not wanting to leave her hanging longer than necessary, Ali decided to start with what had not gone according to plan.
+
+“I learned the mushrooms, but it turns out that they only clean the water, they do not create mana-purified water. And I chose not to kill the dungeon.”
+
+Eliyen’s face fell, disappointed and sad, rather than angry or frustrated.
+
+“But the dungeon shared the real secret, and I made this,” Ali said, making Malika’s bucket full of mana-purified water appear on the work surface next to the vials.
+
+“Oh… Oh my!” Eliyen’s face lit up with a smile of joy. “Do you know how many potions I can make with that much? That’s more than I could get in a decade! You will have your elixirs – and know that your actions will save dozens of lives.”
+
+“She made an entire lake of this stuff. You should see it, the glow lights up the entire cave,” Mato said.
+
+Eliyen’s mouth opened and closed a few times, but all that came out was a choked spluttering and a cough. “A… lake?” she finally managed.
+
+“Yup,” Mato answered, clearly enjoying the effect.
+
+“Well, then…” Eliyen said, collecting herself with obvious effort. “Maybe we can save a few more than a dozen. Basil, come and learn how to make the Elixir of Vitality Rejuvenation. It seems we will be making lots of them in the future. And you, my dear…” she said, turning back to Ali. “I would love to hear the full story of your adventure. The dungeon told you how to make this?”
+
+While Ali recounted her adventures with Volle’s Dungeon and Naia, Eliyen’s hands worked with practiced ease, retrieving dried herbs, roots, and various essences and tinctures that glowed with magical potency. Her movements were deft and precise, measuring and mixing with a continual flow of mana from her hands, and yet she never missed a word of Ali’s tale. Basil sat in rapt study beside her writing notes as the small cauldron boiled, and the various tinctures stirred themselves with the mana the Elven herbalist added.
+
+She pulled out a small glowing green crystal, suffused with a dense nature affinity mana, and ground it up using an imbued mortar and pestle before measuring a minuscule quantity to add to her creation.
+
+Ali surreptitiously Identified it.
+
+Living Essence
+
+By the time Ali finished up with her story, Eliyen filled three waiting vials with liquid from her magical brewed concoction, and the fluid slowly settled and began to glow with a soft green light.
+
+Elixir of Vitality Rejuvenation – level 25 (Nature)Consume: A potent curative elixir capable of reversing severe maladies, poison, corruption, or diseases affecting vitality.Created by Eliyen Mistwood.Potion
+
+“Take this with food. You should begin to see an improvement within a few hours. I recommend not doing anything too strenuous until you’re fully healed – which should take no more than a week. Come back and see me if it doesn’t fully clear up by then.”
+
+“A week?” Mato groaned, stretching his back.
+
+Calen said, “You can perfect some of your recipes, see your family…”
+
+“Thank you,” Ali said, and her words were echoed by her friends as they each collected one of the elixirs.
+
+As she turned to leave, Eliyen stopped her, “And Aliandra, please consider what sort of arrangement you would like for the water and let me know when you’re ready. You have no idea how much good we can do with what you have achieved.”
+
+***
+
+“Why was she so shocked when Mato told her about the lake?” Ali asked. The lake shimmered and rippled with new, active energies, sending the cascading blue light out in all directions. It was certainly beautiful, and it was full of an important reagent. But for someone like Eliyen to react so strongly, Ali was sure she was missing some important implication.
+
+“Remember when I told you the vials were worth about a gold each?” Malika asked.
+
+“Yes?” Ali answered. The rare mana-purified water was certainly an expensive reagent, making the elixirs all the more difficult to get. Ali’s eyes traced the pretty blue patterns in the lake before her mind made the connection. “Oh!” she exclaimed; her mind staggered by the volume of water in the serene blue lake with its shifting glowing light – and how much it might all be worth.
+
+“Depending on how you choose to structure your deal with Eliyen, you have a real chance of breaking the potion market. Some of those elixirs are going to become dirt cheap,” Malika answered.
+
+“Isn’t that a good thing?” Ali asked.
+
+“For the people needing potions, yes,” Malika said, thoughtfully. “Provided the Herbalists and Alchemists can stay in business.”
+
+“Hey, I just gained back some of my drained health!” Mato’s exclamation was met with all-around excitement.
+
+That’s a relief. It was definitive proof that the aged Elf’s magic elixir was as potent as she had claimed. So much of the tension Ali hadn’t even realized she’d been holding vanished at the evidence that her friends were finally on the mend. Her solo experience in the dungeon had been successful but knowing that her friends would be fine was the final piece of the puzzle.
+
+She took a deep breath, staring out over her now beautiful lake with her happy friends. Content, Ali finally turned her attention inward and pulled up her notifications.
+
+Grove Warden has reached level 38.+10 attribute points.
+
+Arcane Insight has reached level 21.Arcane Bolt has reached level 21 (+2).Barrier has reached level 28.Martial Insight has reached level 21.Empowered Summoner has reached level 19.
+
+One level, for defeating a whole dungeon? She considered it for a few moments. I guess I did outlevel everything by a lot. Plus, these higher levels are becoming harder, as Calen keeps reminding us. Naia’s minions had been surprisingly effective, but the combination of the low levels and there being no boss monsters probably meant the challenge hadn’t been as hard as it had felt – and she hadn’t really defeated Naia in the end. But there were a few more golden glowing notifications waiting for her attention.
+
+Requirements met for skill advancement.
+
+Arcane Bolt has reached level 20.Intelligence has surpassed 150.Simultaneously tracked multiple targets in combat.Simultaneously used multiple targeted attack skills in combat.Defeated a swarm of more than fifty monsters.
+
+Arcane Bolt gains Multishot.
+
+Arcane Bolt – level 20Mana: Fire up to 3 [1 + skill / 10] small arcane bolts that accelerate and curve toward your mentally chosen target. Bolts can be independently targeted.Arcane, Ranged, Channeled, Intelligence
+
+Accept this advancement?
+
+Oh, that’s nice! Ali studied the skill advance for her Arcane Bolt spell carefully. There was nothing subtle about it – it was a straightforward power increase in her primary combat magic. Shooting three bolts at a time meant three times the power. The requirements were curious too, clearly the advancement was based on her ability to split her attention between multiple spell targets and monsters in combat – a mental tool she had needed to practice extensively to manage her minions and her skills simultaneously. As her intelligence attribute had grown, her ability to pay attention to more things grew commensurately.
+
+The swarm requirement must have been the Stinging Jellies. That one seemed pretty obvious to her. But what were the multiple targeted attack skills? Directing her minions to attack seemed to not quite fit the requirement. She simply sent her instructions to them to use their skills.
+
+Oh, wait, Barrier! She suddenly recalled the relentless Scalding Slimes tearing their way through her bone wall protections to get at her and shooting shards of her Barrier magic through the gap to puncture the aggressive oozes while simultaneously shooting with her Arcane Bolt spell.
+
+It recognized Barrier as an attack skill… wow! I did not see that coming. Her practice while trying to get her Barrier magic to emulate the Glimmer Shards seemed to have paid off, but she had done that mostly as an intellectual curiosity. She had not expected it to be useful or affect her personal growth at all – and even in the battle, she had used it more out of desperation than any coherent purpose. Yet her work practicing her Barrier magic had somehow led to a powerful advancement for her Arcane Bolt skill.
+
+This changes… a lot of things. She had been thinking of her Barrier skill as purely a defensive tool in battle, nothing more than a hard wall that could be thrown in the way of incoming attacks. Arcane Bolt was her only attack skill – but she already had ample evidence that her spells could be used in multiple ways. She regularly used her barrier to fly, and it had even gained the movement trait because of it. This was telling her there was more. Merely practicing using her skills in an unusual way had led to this powerful advance – an unexpected interaction between two of her skills. It was something she had always read and knew about, but seeing it play out suddenly made it a lot clearer. Practicing shaping her barriers into shards for attack, or spheres for defense might be the thing that unlocked her skill growth, paying powerful dividends in the future.
+
+I have a week while the others recover. What else can I learn? Maybe I can ask Ryn if she has any new magic books… and Calen will have a lot of ideas for sure.
+
+Requirements met.You have gained one primary class slot.
+
+The notification chime reached down into the dark recesses of Seth’s mind, where he cowered quivering in horror and fear. The surprise of it shattered his fragile defenses, yanking his awareness back into the awful reality.
+
+Why now?
+
+He vaguely recalled he had been waiting for his class initiation to begin for several weeks now. Earning a Lumberjack or Logger class would have been such a boon for him and Gran. Only now, she was… his mind shied away from what lay down that path, and his eyes avoided the crumpled heap lying unnaturally still on the ground.
+
+He stood out in the sun in what remained of Lyton’s town square. His skin was already cracked and reddened from exposure to the sun. Beside him were four other youths from the town – all from families he knew and had grown up with.
+
+The only survivors.
+
+The white-robed mage had descended on Lyton Town like a demon of ice, leaving behind a wake of frozen blood and broken bodies. He had knelt out there, not far from where he now stood, clutching Gran’s body as the ice lance through her stomach had stolen her smile, and the kind wrinkles around her eyes. He had screamed, frustrated and furious in the face of overwhelming power and the senselessness of it all, powerless to turn the lances of ice from his own flesh. And yet, inexplicably, he was still alive. Instead of taking his pain, the mage had bound him to a pole.
+
+He blinked, his eyes blurred and filled with grit. From up ahead, a tall figure emerged from the forest. A figure dressed in an expensive tailored black suit. The ground shook. And then again, as if struck by something of immense weight.
+
+“Put her over there,” the man said, his cultured and incongruously calm voice carrying clearly across the town square.
+
+A giant figure emerged from the forest, dragging something behind it. Blackened tusks longer than Seth’s forearm protruded from its rotting lower jaw. An enormous three-toed foot raised high into the air and when it came down the ground shook once more. Seth’s breath died in his throat.
+
+Zombie!
+
+The man strolled across the square toward Seth, his eyes studying the prisoners. “Thank you, Roderik,” he said. “These will do nicely.”
+
+“No problem,” came the response as the terrifying Ice Mage rounded the corner.
+
+The man in the suit approached, and before Seth knew it, he produced a collar and snapped it shut around his throat. With a deft movement, Seth’s bindings were cut, and he collapsed to the ground. He lay there for a moment, coughing in the dust.
+
+“Get up,” the man commanded.
+
+I can’t… But to Seth’s horror, his body forced him to his feet at the man’s words.
+
+“Stay,” he commanded, and Seth found his body freezing in place as similar collars were attached around the necks of the other prisoners.
+
+“Do you need me for anything else, Alexander?” Roderik asked. “There are many demands on my time.”
+
+“No, you can go. I have a lot of work to do.”
+
+“Call if you need me,” Roderik said and promptly vanished.
+
+“Time to get to work,” Alexander declared to nobody in particular and walked out into the square, pausing for a moment to glance down at Gran’s crumpled body.
+
+“Arise!” he said in a voice, suddenly deeper and thrumming with power.
+
+A scream bubbled up in Seth’s throat as Gran’s body twitched. It writhed from the inside, and before his very eyes, her bones ripped their way out of her body and stood up behind the man dripping gore onto the ground.
+
+“You shut up,” Alexander said, and Seth’s throat shut down on the scream against his will. “You, bring me the bodies of everyone else,” he said, and the skeleton that had once been his Gran rushed off to do his bidding.
+
+Seth’s mind fled into the darkness.
+
+***
+
+“You, come with me.”
+
+Seth’s mind reconnected with reality at the disconcerting sensation of his body moving of its own accord. While his legs obeyed without his permission, following the necromancer, his mind screamed and railed against the compulsion that flowed from the collar, forcing his obedience.
+
+But his body followed to where a woman lay in a crumpled heap against a thick wooden stake that had been driven into the ground.
+
+“Tie her up, and then feed her this.” In his hand was a vial of the darkest black liquid Seth had ever seen. He shuddered inwardly at the aura of evil leaking from the vial.
+
+Seth’s hands reached to do as he was commanded, and his mind railed against the compulsion once again, but to no avail. He grasped the potion and the rope and began to tie the woman to the post.
+
+While his hands worked against his will, his mind was clear to observe what he was being forced to do. The person, or creature the necromancer had dragged unconscious out of the forest was easily the most beautiful person he had ever seen – smooth clear skin of vibrant green, with leaves clothing her body and filling her hair, soft delicate features, and elfin ears. She looked regal, even laid out on the ground. He tried to be gentle, but the compulsion forced his hands to tighten the bonds.
+
+He removed the stopper from the vial, and immediately a dense black smoke began bubbling out of it, falling to the ground and seeping in. His nostrils were assailed by an indescribable stench, but still, his hands moved to lift the woman’s head, open her mouth, and pour the vile fluid down her throat. Within seconds, dark patches and bruises broke out on her skin, and a couple of leaves in her hair began to wither and die. He felt sick to his stomach, realizing he was hurting her, perhaps killing her, in some horrific way.
+
+A loud tearing crack echoed out from the forest, snapping his head around. To his horror, he found the giant zombie troll walking out of the forest, dragging an enormous, uprooted oak, branches splintered, roots shedding soil.
+
+No! Even though Lyton was a logging town, they always respected the forest, drawing from the new growth, and replanting the trees that they harvested. Never, never would they cut one of the ancient oaks. Gran had always told him they needed to respect the forest spirit that made its home in the dangerous heart of the woods. If they left the big oaks, the spirit would tolerate their modest logging.
+
+But nothing reacted to the sacrilegious destruction of the ancient oak, and the zombie simply deposited it in the massive smoking hole the skeletons had dug, returning to the forest with heavy steps to get another.
+
+Suddenly, he looked down at the bound woman he had just poisoned in horror, urgently using his Identify skill as he had been taught.
+
+Dryad [Great Mother of the Deep Woods] – Sylvan, Tree Spirit – level ???
+
+***
+
+Seth’s mind fled to his safe, dark corner while his body carried out the necromancer’s bidding. He had been given the gruesome task of collecting the remains of the dead bodies of the villagers – most of them ripped and torn apart by the violent extraction of their own animated skeletons. If he had been in control of his own body, he would have fled, thrown up, and screamed. Instead, his mind recoiled from the sight of the gory remains of his friends and neighbors, screaming inside that he had poisoned the ancient forest spirit that they had all so revered.
+
+When his mind finally re-emerged from hiding, he was standing again, watching the necromancer do something indescribably horrific with the remains of the flesh and the extracted ash from the giant oak trees burning in the pit. As he stood there, the zombies returned again and again, feeding the ancient, sacred trees to fuel the scorching fire, sending continuous black billowing smoke rising into the sky.
+
+It was too much. His mind retreated into numbness as the necromancer molded the dead flesh and the ash with his evil magic.
+
+“You, come.”
+
+Seth stepped forward before his frightened mind could register the command. Several skeletons waited in a loose circle around the necromancer. He could no longer tell which was which. The necromancer, Alexander, lovingly caressed what could only be described as an abomination of flesh, reassembled into a chaos of horrifying nightmare. It was about the size of a dog, but there was no resemblance to anything wholesome or natural. A patchwork of random recognizable human parts stitched together in ways that made no sense.
+
+The necromancer stood up and gave him a happy smile, somehow still immaculately dressed in his suit. With a gesture, three skeletons gathered up three of the twitching flesh monsters.
+
+“Take these out into the forest. Walk in that direction and release one of these Patchwork Horrors every hour, and then come back. Use the skeletons to carry them and defend yourself if needed. Make sure you take care of yourself – I don’t want to lose my sacrifice gang unnecessarily. Just before you release each one, feed it one of these potions.” He handed Seth three vials of a similar pitch-black liquid, just like the one he had fed to the Dryad. “Any of the mouths will do.”
+
+Without the ability to resist, he set off with his skeleton retinue carrying their nightmare flesh monsters, while hearing the necromancer repeat the instructions with each of the other collared youths.
+
+His mind quavered and trembled, as he desperately tried to ignore the clacking of skeleton bones that followed him, and the abominations they carried. But the forest felt peaceful and quiet after the horror of the undead hive that the necromancer had raised from the ruins of Lyton Town.
+
+After what might have been an hour, he stopped. His feet were bleeding, but the compulsion did not care. One of the skeletons deposited a twitching patchwork flesh construction at his feet, and he knelt to feed it the potion. It took him a moment to find something that resembled a mouth, eventually deciding to split the potion between two openings that seemed to coincidentally have several human teeth each.
+
+He recoiled internally against the stench as he uncorked the vial, but his hands were steady as they poured the liquid in. For several moments nothing happened. Then the thing spasmed – and to his horror, scrambled to its – well limbs would have been generous. It had two isolated hands and one foot attached to various parts of its fleshy exterior. Three unconnected eyes sprang open, looking around with demented feverish urgency. An acrid black miasma began pouring from various orifices as it began to move.
+
+The monster scrambled its way over to the nearest tree, belching its miasma. Wherever the dense stuff settled, plants withered and blackened, dying in seconds.
+
+Blighted Patchwork Horror – Undead Abomination – level ??
+
+His compulsion made him stand, setting out in the direction he had been instructed. His collar did not care that it made him walk through the dense miasma clinging to the ground, ignoring his mind railing against the absolute tyranny of the necromancer’s spoken command.
+
+His chime sounded as soon as he walked through the miasma, but he didn’t need to read the notification to know he had been infected with something dire. It seeped into his flesh, spreading excruciating pain and blackening his skin in patches like the Dryad he had infected.
+
+You have been infected with Undead Blight.A debilitating infection that grows stronger every day, rotting flesh and propagating to everything it touches.-1% to maximum health+1 count per day10% chance to spread Undead Blight on contactIf you die while infected, your body will be raised as a zombieSmall chance per vitality to recover from Undead BlightDisease – Count: 1
+
+It was only by the time needed to release the third monster that he somewhat recovered his wits. It happened when he automatically pushed a face-height branch out of the way and suddenly realized that the action had no relation to the compulsion from the collar.
+
+It didn’t stop me.
+
+Cautiously, he began experimenting – probing the limits of his freedom. Very quickly he discovered he couldn’t bring his hands anywhere near the collar. Nor could he deviate from the path chosen for him by the necromancer. Any thought of throwing the vial away was simply ignored by his body, and if he pushed for it, he quickly earned himself a splitting headache. But minor changes seemed to be ignored. He could bend over, provided he didn’t stop walking. He could move obstacles out of his way, and he could look around.
+
+Everywhere he looked, he found the lush and verdant growth of the ancient woods – oak trees as big around as houses. It was a forest that had sustained the small logging village, and provided their livelihood – and in return, they had respected the ancient woods. Yet Seth knew with certain dread that all of it would be gone in a few days, blighted, and destroyed by the Patchwork Horrors he was being made to set loose upon the revered forest.
+
+He hung his head in despair, trying not to look at all that would be destroyed by his handiwork, while the compulsion forced him onward. But in the depths of his anguish, his eyes caught sight of something lying on the trail a few yards ahead. Something small and round.
+
+An acorn!
+
+For reasons entirely unknown to him, the acorn lit a tiny flicker of hope within his heart. Acorns were seeds, and seeds represented life and new growth. He had no idea what he was going to do with it, but he stooped down as the compulsion forced him to walk past and scooped up the acorn and put it in his pocket.
+
+A small, and perhaps meaningless gesture of defiance against his plight, but Seth kept his eyes on the trail, hoping that luck may allow another acorn to cross his path.

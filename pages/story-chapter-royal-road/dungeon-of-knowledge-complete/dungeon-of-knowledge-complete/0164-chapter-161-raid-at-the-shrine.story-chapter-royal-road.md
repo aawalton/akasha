@@ -1,0 +1,223 @@
+---
+id: 753e7356-1462-5937-b0e6-998a763101e8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 161: Raid at the Shrine"
+slug: 0164-chapter-161-raid-at-the-shrine
+partOf: dungeon-of-knowledge-complete
+position: 164
+ownLength: 4108
+unit: words
+ownProgress: 4108
+publishedAt: 2024-11-24
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1921603/chapter-161-raid-at-the-shrine"
+royalRoadId: "1921603"
+markedReadAt: "2026-06-29T20:16:33.694Z"
+---
+
+It was quiet in the Grove now that all the applicants had left. The crafter, merchant, and artisan aspirants had been escorted back up to town by Vivian Ross to undergo their trials with their respective mentors and masters, and the combat class aspirants had been dropped off in the sewers. She wrinkled her nose. Lucky them.
+
+All that remained was to wait for them to return. Malika found herself pacing restlessly back and forth, worrying about the recruits she had helped train. Would they survive? Would they get hurt? She had been the one to encourage many of them to undergo the trial, and now that they had to fend for themselves, she worried that she might have been too hasty. What if they don’t get good classes? She glanced over to the shrine and found Ali propped up against Mato’s trunk, reading a book. Rezan sat quietly while Basir and Hala meditated beside him, leaving Malika to her own devices.
+
+Malika sat deliberately. Meditation was good for calming the mind, so she took her posture, emulating the Elder, and began to breathe. Presently, her mind turned to considering the problem of resistances and the challenges presented by the fire dungeon. Calen was certain to find some useful resistance armor in Ciradyl, and she had confidence that Ryn and Ali could figure out the cloth armor with Lydia. Mato’s armor was already in production at Thuli’s smithy, but she did not have a good plan for how she would survive the fire aura. It was true that some classes were unsuited to certain kinds of fights, but she hadn’t expected to run into something quite so fundamental so soon.
+
+Slowly she opened her eyes and then got to her feet. She walked over to where Rezan sat, hoping he wouldn’t mind the intrusion – but just in case, she waited until he acknowledged her before speaking.
+
+“Elder, may I ask your advice?”
+
+“Ask,” he said, his eyes remaining shut. Although, she was well aware his magical sight was vastly better than his eyes.
+
+“How does a monk deal with resistance fights? We’ve encountered a fire dungeon with elementals that burn constantly with an aura of flame. I cannot use armor or a shield, so it seems I cannot find any resistance equipment.”
+
+“Aah, this is an easy question. You simply need to meditate upon the nature of magic damage.”
+
+Well, that’s cryptic. And annoying. She considered his words and the extraordinarily trite but unhelpful message, searching for any hidden meaning.
+
+He cracked an eye and looked at her momentarily, and then Hala and Basir laughed. “You must find your solution in your skills. Defensive skills and advances exist for improving magical resistance – you already have one. You can dodge magical explosions. You can seek another. I would suggest studying the Path of Earth, or as it is better described, the Path of Defense. Meditate on its teachings and you will find an answer.”
+
+She ironed any doubt out of her voice. “Thank you.” While this answer was far more practical, Malika still had a seemingly insurmountable problem. “I do not know the ancient language, and I have no access to the Nine Paths. How can I study?”
+
+“Take these to your friend. She can translate them for you, or better yet, teach you the language. She has my permission to copy them, just please ask her to return the original to me before we leave for Kezda.” Rezan produced nine thick leather-bound volumes and handed her the priceless heirloom of their culture and knowledge.
+
+Malika suddenly found herself holding the Nine Paths of Ahn Khen, with her jaw dropping in surprise. She picked it up and stared at the volumes in her hands. “I… ok,” she managed.
+
+“As a favor, would you mind asking her if I can test my students’ skills against her monster?” he indicated to the oversized Forest Guardian waiting patiently at the side of the Grove.
+
+“Hala and Basir are going to fight that thing?” she asked, incredulously.
+
+“I have one more student,” Rezan said, grinning wickedly. “Or did she forget already?”
+
+***
+
+“So, any ideas?” Basir asked, his deep resonant voice sounding quite serious as the three of them studied the giant Forest Guardian.
+
+“The wood creatures fill the area with petals so you can’t see, and the stumpy ones grow mushrooms with spores that can knock you unconscious. The big one has a regeneration aura and a wide area roots spell. I don’t know what else because I’ve never seen this boss fight.”
+
+“Basir, you tank. Malika, you’re on heals. I’ll take out the little ones first,” Hala said, her tone businesslike.
+
+It was a decent plan, simple as it was, and it probably all hinged on their being able to kill the mushrooms fast enough, and then out-damage the regeneration.
+
+“We’re ready, Ali,” Malika called out. Her friend nodded from where she stood, now beside Rezan, with Mato reverted to normal so that he could watch the fight.
+
+“Ok, releasing it.”
+
+As soon as she said it, Basir fired a rock projectile at the elemental and it roared, charging toward them. Even though she had faced these elementals before, Malika still felt the rush of fear at the sheer mass of the thing – twice the normal size – bearing down on them in fury.
+
+Malika sprang into action, stepping up off the air and out of reach of the grasping roots as rock spread across Basir’s body and the monster slammed into him with a great crash. She hopped right over it, stepping on its back twice, and came down with an elbow strike on one of the Spore Spreaders, knocking it off its perch and onto the ground among the rest of them.
+
+A flicker in her Soul Sight got her to look up and, in the air above them, several bats suddenly materialized.
+
+“It’s summoning bats!” she called out.
+
+“I got it,” Hala yelled from the sidelines.
+
+An incandescent flash registered from the corner of Malika’s eyes, and Hala suddenly materialized beside her in a shower of arcing sparks and little balls of lightning that cascaded out in all directions. In her hand, a javelin of pure lightning appeared, and she threw it with a powerful motion that began from the legs and feet, traveling up through her hips and torso and culminating in a snap from her arm. The javelin shot forward, striking the Spore Spreader clean in the gut, and then it split, forking to the two nearest Floral Menaces, splitting again, and in a fraction of a second the entire battlefield was filled with lightning arcing between every monster, even leaping into the air to proliferate among the diving bats.
+
+Area damage? I want some of that! Malika had seen this ability in the couple of bouts she had had against Hala, but she had never imagined the ability was focused on area damage, it had always seemed so powerful, but there had only ever been one of her, and she had never imagined it could fork like that.
+
+The remaining Spreaders suddenly both planted themselves and the violet mushrooms began to sprout from the ground, while at the same time, the Floral Menaces all released a giant cloud of pink and purple petals into the air, clouding her vision. She felt her first moment of panic having her eyesight taken from her, but that was merely her lack of comfort fighting with her Soul Sight skill. She closed her eyes to focus her attention on her perception skill, pinpointing all the monsters and her fellow students.
+
+Basir vanished from where he was tanking the Guardian and appeared amid the smaller minion monsters. Immediately, the ground erupted into a maelstrom of stone and rock. Malika dodged inward, touching the rock armor on his chest and releasing a pulse of her Healing Mantra into him, topping up his health from the surprisingly small amount of damage he had sustained so far.
+
+The whirlwind of jagged stones tore through the monsters, ripping up the delicate mushrooms and shredding the petals while Malika used her Enlightened Evasion to dodge most of his magic. The entire battlefield flashed an intense white as Hala unleashed another lightning javelin strike and several of the lower-level monsters and bats fell to the ground.
+
+Quickly, Malika located the remaining Spore Spreader and unleashed a flurry of kicks and punches into the rooted monster, empowered with as much soul magic as she could until it also died. She breathed deeply, knowing that at least the first major hurdle had been cleared. Killing the Spore Spreaders under the influence of the regeneration aura had been the shakiest part of their plan. She hopped up again into the air as the Forest Guardian charged Basir, ensuring that she would not be rooted by its annoying control magic, and she left the remaining adds to the others. Their skills were way more suited to area damage than hers, and she was well aware of how hard it was going to be to kill the guardian itself.
+
+She switched her Soul Strike to Mana Drain and began to lay into the Guardian, beginning the long slog to whittle down its gigantic health pool, while she searched her Soul Sight to ensure she wouldn’t be taken by surprise and stunned by any of the summoned bats.
+
+Their group was bedraggled and exhausted, covered in dried slime and blood as they made their way back through the forest, but they were all alive. There had been several close calls, but as soon as everyone had reached the experience threshold, they had unanimously decided to return. She scraped a bit more of the nasty goop off her scored and battered shield. It would probably not last longer than another fight.
+
+The lurking black shapes of the huge wolves slunk deep within the shadows, but Aliandra was true to her word, and none of them emerged to attack. Brena limped along with acid burns over much of her body, but although she grimaced and used Sabri for support, the stubborn Gnome never once complained. Her wand had broken toward the end, but rather than sit the fights out, Brena had insisted on collecting rocks and clubbing any monster Sabri fought with them.
+
+But as they approached the Grove, the thunderous sounds of battle became clearer and clearer. The ground shook from the heavy impacts, and the air was filled with the pungent reek of ozone.
+
+“Careful,” Brena said, keeping her voice low. “Stay hidden.”
+
+They crept up behind a massive tree to peer out into the space beyond. A huge crash resounded, followed by the crack of lightning that lit the entire cavern for a fraction of a second, followed by a roar and a ground-shaking thump.
+
+Sabri gasped, staring at the forms of Malika, Basir, and Hala locked in combat with the giant elemental of wood and bark. “They’re fighting…” Basir looked tiny in front of the beast, but he took the monster’s hits without budging. Hala flung lightning, flitting from place to place to create the optimal angle, and Malika stood astride the monster’s back, hands flashing with blue light as her high-speed flurries of punches slammed into the bark-armored monster.
+
+“It’s safe to come out,” Aliandra said, calling them over. “If you’re injured, come stand next to Mato and he’ll heal you.”
+
+Cautiously Sabri emerged from behind the tree, with her little group and they all walked over to the shrine, staring at the violent display of power and strength, magic and force.
+
+“Why are they fighting?” she asked.
+
+“Rezan thought it would be good training,” Aliandra said, her eyes locked on the action.
+
+“They’ve been going at it for more than forty minutes,” the Beastkin – Mato – said.
+
+“Malika almost has it cinched, in a few minutes the regeneration aura will drop because of her mana drain, and then they will win,” Aliandra answered.
+
+“Why did it take so long?” Sabri asked. Forty minutes for a fight was unreal – she would be exhausted after ten minutes of drills.
+
+“Ali was crazy and made a boss with thirty-three thousand health and seven hundred percent health regeneration. They don’t have enough damage to kill it while the regeneration aura is running. Basir is tanking, and Hala takes care of the bats while Malika drains its mana and keeps everyone alive. It’s a solid strategy, but it’s just slow,” Mato explained, while she felt some sort of magic – presumably his – trickling through her body and slowly repairing the burns on her hands.
+
+Sabri studied the fight, matching Mato’s explanation to what she was seeing. She had never witnessed Hala’s Lightning Javelin technique used in this fashion before. Every strike lit up the sky and took out several bats at a time. And Malika was dancing on the air. In a loose half circle, all the rest of the applicants sat watching, some of them cheering them on, and some of them even experimenting with skills that they had obviously just unlocked. Every single one of them identified as having a class.
+
+We were the last.
+
+“There it goes,” Aliandra said.
+
+“Yup. It should be over quickly. That Hala can dish out an enormous amount of damage,” Mato said. “Do you think she would want to spar after this?”
+
+“Hala likes matches,” Sabri murmured, but her attention was locked on the fight. Immediately, she noticed two changes. Firstly, Malika’s punches were now much more white than blue, and Hala had unleashed a veritable lightning storm on the giant monster itself, a barrage of magic that seared purple afterimages into Sabri’s retinas with its intensity. An intensity that continued unabated for ages, letting up only when the behemoth crashed to the ground. Sabri staggered at the quake from its falling. The conclusion of the battle spawned an eruption of cheers and Sabri found herself clapping in excitement.
+
+“You need to learn to hit harder,” was all that Rezan said, eliciting groans from the exhausted fighters. “Not bad.”
+
+“Come on, let’s get you guys your classes,” Aliandra said, gesturing toward the shrine. “You’ve earned it.”
+
+The battered group gathered around the huge shrine of stone, listening to Aliandra explain the process.
+
+“I’ll unlock the remaining features. I suggest using the shrine to enhance or potentially unlock any latent magical affinities you may have before you use the class advancement. It is not a guarantee, but some of you might unlock an affinity and possibly stronger class choices if you use that. You’re welcome to share what you get but don’t feel obliged if you’d rather not. Who wants to go first?”
+
+“I’m ready,” Brena said, but without any trace of the arrogance she had displayed earlier in the day.
+
+Aliandra simply nodded and indicated for her to use the shrine. For a moment, nothing happened, and then suddenly a powerful light illuminated the entire Grove, silencing all the conversations as lightning arced from her body, hands, and head – striking the ground and the obelisk nearby in a display reminiscent of Hala’s potent attacks a few minutes ago. A few moments later, the powerful display dissipated, and the Gnomish girl stepped back with a happy grin on her face and sparks dancing across her fingertips.
+
+She must have unlocked her Lightning Mage class, Sabri thought as she watched the rest of her group go through the process.
+
+Finally, it was her turn. She didn’t think her exhausted body could be nervous, but she was. She placed her hand on the cool stone of the shrine and found the option Aliandra had mentioned. Carefully, she let some of her mana flow into it.
+
+[Shrine of the Ancient Grove] Exposing latent magical affinities may permanently alter your current and future class choices. Proceed?
+
+She accepted the vaguely ominous-sounding warning.
+
+A surge of power tore through her tired body and mind as a loud rushing noise threatened to deafen her. Her body rose from the ground as she began to glow with a powerful bluish light that seemed to burst forth from deep within her core. Sabri screamed, but the sound that came out shook the very air around her with a rush of power and shimmering light.
+
+Suddenly, the power rush cut off and she dropped, hitting the ground at the same time as her chime sounded.
+
+[Shrine of the Ancient Grove] Reserved mana reduced by 50,000You have gained an affinity for Soul Magic. Your Aptitudes have been updated.New class options are available.
+
+I just spent fifty thousand mana? She shook her head trying to clear her mind as she sat up. Finally, after a few moments, she placed her hand on the shrine and activated the class advancement.
+
+[Shrine of the Ancient Grove] Reserved mana reduced by 35,0006 Alternate classes found.Natural class:- LaborerAvailable alternate non-combat class options:- FarmerAvailable alternate combat class options:- Warrior- Monk- Sword MasterAvailable alternate magic combat class options:- Soul Mage- Soul Defender
+
+Sabri stared at the options in dismay.
+
+How do I choose? What do they even mean?
+
+Carefully she read through each of them, envying Brena who had known before she even started. But the pressure and significance of the decision she faced crashed in on her, stalling her thinking and making her balk. She looked up as someone sat beside her on the moss of the Grove.
+
+“Did you get a good class?” Malika asked.
+
+“I… don’t know. I don’t know how to decide – I haven’t decided yet,” Sabri mumbled. To come so far and then to be stymied by her own exhaustion and indecision was almost enough to make her cry. Malika’s a monk. And she’s so, so strong. She wished she was as confident as her. But Monk was an uncommon class, and she knew she should be considering the rarer magical options.
+
+“This might sound a little corny,” Malika said. “But when they were alive, my parents always told me to check each option carefully, and once it has a little time to settle, go with the one that most resonates with who I am.”
+
+Who I am? Who am I? She wanted to be strong and powerful like Malika, but was that really who she was? She remembered the first slimes and how terrified she had been. All her martial arts training had evaporated from her mind in the face of a battle, and she had simply stood trembling in fear.
+
+Am I that useless?
+
+She shared each class option with Malika, and they read them over together. “If I take a combat class, will I be able to earn gold to help my mom?” she asked, latching on to the one idea she could definitely grasp.
+
+“Definitely,” Malika answered. “And if you take the guild membership, they have quests even for the early levels.”
+
+Sabri felt a little better, she had eliminated Laborer and Farmer. “You’re a monk? Do you think I can be like you one day?”
+
+“I chose a class called Soul Monk, not the mundane Monk class.”
+
+Sabri frowned looking at her options, again. Her only two magic options were Soul Mage and Soul Defender, neither of them matched Malika’s choice.
+
+“Should I pick the Soul Defender because it’s the magic class, then?” She felt like she needed to pick one of the two magic options, and Soul Mage wouldn’t allow her to grow her martial arts skills in any meaningful way.
+
+Why is this so hard? If it had just given me Soul Monk, it would have been so easy.
+
+“Do you like Monk because you see yourself as a Monk? Or are you just trying to walk my path? The Soul Defender looks like a strong class, but you have to see yourself in that role, otherwise you won’t flourish.”
+
+In the midst of her struggle over her class choices, a small figure walked over. Brena looked much better now that the slime and terror had been washed off her face, and the burns had been healed.
+
+“Thank you again for saving me, Sabri. If you choose the Guildmaster’s internship program, I was hoping we could team up together?”
+
+Sabri nodded to the Gnome. “Ok. I think I would like that.”
+
+As Brena moved away, Sabri caught the curious look from Malika, and slowly, haltingly at first, she explained what had happened. She was as honest as she could be about her fear and hesitation – her mother had always taught her to be truthful. Sharing the story with Malika felt like baring her soul with all its flaws.
+
+When she finished, Malika sat in contemplation for a moment, before speaking. “I think you know who you are.”
+
+“Someone who’s weak and scared?” She shrank into herself at the admission of what she knew to be true. She had overreached herself by dreaming of being strong like Malika. Maybe she had been offered Laborer because that was all she deserved.
+
+“Someone who will overcome their darkest and most paralyzing fears to protect their friends and allies.”
+
+Sabri struggled to hear the words. Did she not hear how scared I was? “I couldn’t even hold the sword straight. Malika, I –”
+
+“Everyone gets scared,” Malika interrupted gently. “But you overcame it, and Brena is walking around with a fancy Lightning Mage class because of you. Your actions. Did someone else’s hands pull her out?”
+
+Sabri stared. What Malika said was true. However, she had simply not thought of it that way – she had never been strong enough to save people.
+
+“Hey, Mato, come tell Sabri what you do in our group,” Malika called out, and the large Beastkin boy walked over with an easy smile on his face.
+
+“Want another?” he asked, sitting down, and offering her another shiny red apple. She took it this time and listened in awe while he told her about a crazy battle against a Skeletal Wyvern that seemed even more epic than the fight she had just watched, and how terrified he had been falling down a hole into a Kobold nest with Aliandra. The stories didn’t matter so much to her, but how he felt about himself, his role as a tank, and his dedication to protecting his friends – somehow, that all resonated powerfully with her. She glanced over at Brena, seeing her talking with the Guildmaster. Then she found Elder Rezan sitting with Hala and Basir, watching her conversation with Mato and Malika. She considered her mother, and how much she wanted to be able to help and protect her.
+
+By the time Mato finished up his stories, she knew what she wanted to be.
+
+“I want to protect people.”
+
+“I think that’s a great fit for you,” Malika smiled at her.
+
+Happy, she finally made her choice and let a sigh hiss between her teeth as lines of glowing text carved themselves into the granite cliff face that warded her heart.
+
+Your class has changed to Soul Defender.Soul Defender has reached level 1.+10 attribute points.You have lost the general skill: Basic Martial Arts.You have gained the Tenacious Aptitude.Tenacious (Class): When you are below 50% health all healing magic targeting you is 20% more effective.You have gained the class skill Defensive ArtsDefensive Arts – level 1You are proficient in the use of basic one-hand weapons (sword, dagger, mace, axe) and a shield. You may use either for blocking or attacking.Stamina: Strike at your enemy with your weapon or shield.Stamina: Block an incoming melee attack with your weapon or shield.Physical, Melee, StrengthYou have gained the class skill Soul PowerSoul Power – level 1Mana: Imbue a Melee attack or block with the power of your Soul Magic. Your attack gains +32% [20 + skill + wisdom] additional Soul damage, or your block absorbs that much more damage.Soul, Melee, WisdomYou have gained the class skill Unyielding BodyUnyielding Body – level 1Mana: Your Vitality, Strength, and Endurance are increased by +42% [40 + skill + base endurance / 10]. Reserve: 20%Soul, Buff, EnduranceYou have gained the class skill Shield MasteryShield Mastery – level 1Requirements: Shield.The defensive attributes of your shield [Armor, Resistance, Evasion, Block] are increased by 21% [20 + skill]Physical, Mastery, EnduranceYou have gained the class skill Plate MasteryPlate Mastery – level 1Requirements: Plate or heavy body armor.The defensive attributes of your body armor [Armor, Resistance, Evasion] are increased by 21% [20 + skill]Physical, Mastery, EnduranceYou have gained the class skill Soul ShoutSoul Shout – level 1Mana: Taunt and damage all the enemies around you with a shout imbued with the power of your Soul Magic. Range: 10.3 feet. Recharge: 30 seconds.Soul, Area, Taunt, Wisdom
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

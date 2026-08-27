@@ -1,0 +1,239 @@
+---
+id: 46332e16-d141-5b92-9fdd-0f13d5ebbe35
+page-type-slug: story-chapter-royal-road
+title: "Chapter 127: Farming"
+slug: 0129-chapter-127-farming
+partOf: dungeon-of-knowledge-complete
+position: 129
+ownLength: 4333
+unit: words
+ownProgress: 4333
+publishedAt: 2024-09-08
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1793883/chapter-127-farming"
+royalRoadId: "1793883"
+markedReadAt: "2026-06-29T20:15:25.085Z"
+---
+
+Ali watched Mato shuffling past like a sleepwalker in a dream with not a single ounce of his usual energetic enthusiasm on display.
+
+What happened to him? He looks… calm? Serene?
+
+His behavior was so out of character that Ali’s concern for his wellbeing skyrocketed, not helped in the slightest by hearing Calen ask if he was ok. It’s not just me.
+
+“This was his first Tree Meld,” Lira said, gently guiding the big Beastkin toward the group. “He will return to normal soon.”
+
+“Oh, right… I forgot about the wooziness,” Ali said, nodding. She had personally experienced Lira’s brand of potent instruction – long before she even had her class. It was how she had unlocked her affinity with nature magic in the first place. If Mato’s experience with the Tree Meld was anything as powerful as she remembered, it might be a few days before he recovered fully. A touch of Lira’s mana remained within him, sparkling like a complex knot – just like the mana signature Thuli had offered to Kavé to facilitate his mentorship of her.
+
+“I think I’ll plant myself here,” Mato said, his voice slow and somehow soothing.
+
+A powerful shift rippled through him as a bright surge of emerald-green nature mana filled his body. But it didn’t remain static, immediately twisting, growing, and stretching as his body began to warp with it. Instead of his familiar Bear Form transformation, Mato’s body grew upward, stretching well beyond his normal size. His skin darkened, becoming rougher and turning into bark as his arms and head warped into branches that split and proliferated through the air, eventually sprouting leaves. Roots thickened and branches thrust up and outward with a loud creaking of wood and crunching of rock.
+
+“My goodness, Mato!” Malika exclaimed.
+
+“Epic…” Calen said as the group around him murmured and gasped at the dramatic transformation.
+
+He's a… giant magical oak! The growth slowed and finally halted, and Ali stared up in amazement at his magnificent new form, still somehow able to recognize that it was Mato despite the bark and leaves.
+
+Mana pulsed deep in the tree’s heartwood, and his Sanctuary aura erupted outward, suddenly many times stronger. Ali instantly reacted with her Domain Mastery skill, alert for the clash of domains or dungeon-rage, but Mato’s Sanctuary aura was flexible, adapting easily to her domain. She studied it carefully for a few moments, deciding to bend her mana just a little to try to support his better, and then she let it go, not quite certain if she had done anything.
+
+Makes sense, she thought. His Sanctuary aura had never interfered with her mana before. As his aura stabilized, her mana regeneration surged in sync with his mana.
+
+Calen walked over to rap his knuckles on his friend’s trunk with a woody thunk. “Definitely still Mato,” he pronounced. “Sounds just like his head.”
+
+“Wow,” Ali said, staring at the ethereal rippling green cloth of his mana. The aura reached over two hundred and fifty meters in all directions from where he had chosen to plant himself. “That’s a lot more mana regeneration than usual.” There were gasps from the crowd at her words as everyone quickly checked.
+
+“He has done well,” Lira said. “It is impressive to see a novice learn so much from his first Tree Meld. Do you see it? It is not just regeneration; his magic is imbued with Vitality Rejuvenation.”
+
+“Like the elixirs?” Ali asked incredulously, but once Lira had drawn her attention to it, she could see the similarity embedded deep within the structure of the Sanctuary aura Mato was projecting.
+
+“Yes, I see it too,” Eliyen answered. “This will be a huge boon if the Necromancer’s blight is as widespread as you claimed. He may be able to heal even the land itself!”
+
+“The mana of the tree teaches him the shape and the mindset for how to apply his domain, but I believe it was your elixirs, and the curing his blight, that showed him the way of Vitality Rejuvenation,” Lira replied.
+
+Eliyen dipped her head. “I only did my part.”
+
+Ali studied her friend in his new Tree Form. It seemed Mato was already growing, taking quickly to Lira’s training.
+
+Is that path even possible for me, now? She felt a brief pang of jealousy at the irrational thought that Mato was monopolizing her aunt Lira and would soon outgrow her. She had once had Lira’s mentorship, but a tithe enchantment was impossible to restore once severed. None of hers had survived that fateful day. She pushed the thought away as silly and childish, but she couldn’t shake the feeling that it would be next to impossible for her to find a mentor, now. Who would even want to mentor a dungeon? And wouldn’t her mentor have to be a dungeon to be effective? After all, she was a hybrid between a dungeon with combat skills and a scholar class.
+
+“Excuse me, Miss Aliandra,” Sigurd’s interruption brought her back to the real world, and she shelved her morose thoughts. He produced a small basket of apples, well past their prime, a few ears of wheat, and a bag with some other vegetables and roots. “We brought what we could, but there isn’t much. The blight has destroyed our stores and seed, but the Elf lady, Eliyen, told us to just bring whatever we could, and you would use your magic to grow it? Unfortunately, there is no meat left.”
+
+It was a rather sad collection of food, but with the magic they had at their disposal, Ali was confident they could make it work. It might have been nice if they had some cows or something so she could inscribe a livestock imprint, but her Grimoire didn’t have a lot of free space left.
+
+“I saw some fish in the lake,” Vivian said. “I have a fishing skill if you don’t mind me catching some, Aliandra.”
+
+“Fish?”
+
+“Trout, unless I miss my guess,” Vivian said, unleashing a predatory grin.
+
+“How are there fish in my lake?” Ali asked, staring in amazement – but, sure enough, she spied a couple of silvery-scaled sleek shapes zipping among the rocks at the bottom of the crystal-clear waters.
+
+“Your lake must be connected to the tributaries of the Myrin River,” Vivian said. “I’m not sure if you’re aware how much mana is in your lake – it will rapidly attract fish to it, and they’ll grow fast.” She produced a gleaming, professional-looking fishing rod with a flourish, and dashed off toward the lake the instant Ali nodded her permission, the stern Guildmaster’s stride incongruously evoking the image of a child chasing excitedly after some favorite toy.
+
+“I think she loves fishing,” Calen noted.
+
+“Clearly,” Ali said, feeling a much-needed smile creeping up on her. The lake must be like the Elder Tree attracting all those wisps and glow-bugs, she decided. Hopefully, there were enough fish to make a dent in the hunger of the town – Ali doubted it, but every bit counted. She turned her attention back to the basket of fruits and vegetables, calling the herbalists over to help.
+
+Eliyen reached out, selecting an apple, and quickly sliced it apart with rapid skill-enhanced movements of a small paring knife, extracting the seeds and handing them to Basil.
+
+Ali stood back and waited, while they took charge, content to study Basil’s curiously delicate magic. He worked quickly, planting the seeds, and coaxing them to germinate. As he moved on, Lira began to channel her mana, weaving it through the tiny plants and encouraging them to grow, just like she had done with the trees. The farmers gazed on with curiosity written on their faces.
+
+Just as she had expected, her Grimoire popped out and flipped open, waiting for her to respond to a chorus of sudden notifications while it began to inscribe a flurry of variants onto its pages.
+
+Variant: Apple Tree added to Imprint: Tree.Variant: Breadfruit Tree added to Imprint: Tree.Variant: Wheat added to Imprint: Grass.Variant: Rice added to Imprint: Grass.Variant: Grape Vine added to Imprint: Creeper.Variant: Portobello added to Imprint: Mushroom.Variant: Cremini added to Imprint: MushroomImprint: Black Bean completed.Imprint: Potato completed.
+
+“Apples, breadfruit, wheat, rice, grapes, some mushrooms, beans, and potatoes,” she mused, deciding that if her Grimoire was going to use arbitrary categories, it would have been much more practical for it to have a ‘vegetable’ one and put more options into that. But she had a bit of space left and a promise to keep, so she just recorded the two new imprints, happy to expand her other variants.
+
+Then, she got to work. Making heavy use of Mato’s regeneration to keep her mana pool topped up, she quickly planted a row of apple trees according to the spacing Sigurd indicated to her, to the cheers of the other farmers. She followed it up with a small stand of breadfruit trees. Then she selected a large area of the field, and carpeted it with wheat, and another with rice. She coaxed some of her Spore Spreaders to grow patches of edible mushrooms while she worked with one of the farmers to plant a few rows of grape vines. In the second field, she split it down the middle with beans on one side and potatoes on the other. By the time she was done filling the fields, Lira and Eliyen had begun wielding their magic in earnest.
+
+Stalks of wheat stretched and ripened under the concentrated influence of the nurturing magic. The apple trees grew larger, stretching their branches and roots, filling the air with the creak of accelerated growth, and then began to flower and fruit.
+
+Ali twisted the mana of her domain, so that instead of neutral, it would bolster and enhance the nature mages and the growth accelerated. Her Grimoire glowed intensely as thousands of runes flocked to its pages, lifted from the magic of her domain. The combination of Lira, Eliyen, and Mato’s magic, supported on the backbone of her domain, caused the mana in the cavern to pulse and thrum with power. Wisps flocked to them in droves, cavorting and dancing in the abundance of nature magic overhead.
+
+Soon, the farmers began to wield their skills, harvesting the crops rapidly. Most of their skills seemed to be stamina skills, invisible to her sight, but there were a couple with mana-based magic. They rapidly cleared the fields of the oversized apples, breadfruit, ears of wheat, and other crops, enhanced well beyond their normal size by the abundant magic of the herbalists. Ali followed behind them, replanting all that they had harvested, laboring for hours under the light of Calen’s magic and the swarm of wisps, only occasionally needing to use Inspiration to refresh her mana faster than Mato could restore it.
+
+Finally, Sigurd stopped her. “That should be enough,” he said, tapping another filled storage enchanted bag. “This should be plenty to feed the town for a couple of weeks – I’m not sure if we’ll have enough fish, but at least people won’t starve.
+
+“Pfft, starve?” one of the other farmers snorted. “This is dungeon-grown food – I hope they appreciate just what a treat they’re getting.”
+
+“I’m just glad they won’t be hungry,” Ali answered. She was exhausted after hours of labor, but it was hard to shake the hopeful eyes of some of the hungry children in the Town Hall. “Give me a moment to make you a faster way back to town,” she said, walking over to the shrine that stood overseeing their heavily used fields. She bent down to the ground and inscribed arcane runes with her mana, tying them to the freshly restored domain.
+
+Static Teleport – level 35 (Arcane)Teleport to a preset teleportation locus.Locus: Novaspark Academy of Magic, Myrin’s Keep.Runic CircleRunic Script has reached level 19.
+
+“This will take you to the teleport locus in the Novaspark Academy,” Ali explained.
+
+“Thank you, Aliandra!” Sigurd’s eyes were a little watery, and he sounded spent after repeatedly harvesting the fields. Her gesture sparked an outbreak of happy grins on the faces of the farmers.
+
+“It’s the least I could do, thank you for helping.”
+
+Calen watched the farmers vanish one at a time through the near-invisible teleportation circle Ali had created, carrying baskets of produce and those unusual spatial-enchanted sacks over their backs. Out of the corner of his eye, a shadow flickered, catching his attention. Instantly, he activated his Eyes of the Archon, snapping his head around to investigate. But there was nothing there.
+
+I must be getting tired. He was not tired in the same way as the farmers who had been burning their stamina all day, but in the way of mental sluggishness – the weariness of performing the same boring task for hours. He had none of the skills to help with their farming, so he had simply kept watch, providing illumination with his motes of light, refreshing them whenever they ran out. Even that had not really been necessary once the giant swarm of nature wisps had gathered, curiously attracted to the great working of magic.
+
+It will be nice to relax and stop jumping at shadows. He turned off his focused vision and gazed up again at Mato’s giant Tree Form. In the back of his mind, he registered his Motes of Light spell expiring, and without much thought, he automatically refreshed them. The brilliant orbs of light materialized directly above his head, and he sent them out to provide light. It was an action he had done over and over again for the last several hours, and it was done without conscious attention or any noticeable effort.
+
+As his spell’s illumination spread, he suddenly saw a dark shape looming large behind Ali, arm raised, holding a sinister, gleaming dagger.
+
+“Ali! Watch out!” he shouted, scrambling to draw his bow.
+
+The dagger fell with vicious speed and power, slamming into her back, burying itself to the hilt between her two tiny golden wings. A spray of amber blood flew into the air as she let out a scream. Her body crashed limply to the ground as a sphere of her barrier magic appeared, far too late.
+
+The assassin, clad from head to foot in black leather, darted away, their form blurring as they struggled to return to the shadows, fighting against the magic of Calen’s lights.
+
+Ali!
+
+Calen’s wings flared as he ignited his mana with Righteous Fury, and he let his arrows fly. The first arrow struck an arm, the second buried itself in the assassin’s thigh, but they simply snapped it off and downed a potion, accelerating as they drew further from even Calen’s rapid flight.
+
+His next shot trailed the thin chain of light magic, slamming into the assassin’s back and immediately tangling with their legs and arms, jerking them to a sudden stop. From his position high in the air, he unleashed his fury with arrow after arrow as the assassin struggled against the bindings of his grappling chain.
+
+Suddenly Malika was there, unleashing a flurry of blows that flashed with her soul magic, but he didn’t let up, his arrows accurate enough now that he could avoid hitting her even in melee. An arrow struck ribs, and then, finally, one pierced through their throat, triggering the sound of the chime.
+
+Your group has defeated Shadow Assassin – Human – level 39.
+
+“Ali?” he gasped, with a horrid sinking feeling in the pit of his gut, surprised to find Malika with him and not healing her.
+
+“She’s fine,” Malika answered quickly, much to his intense relief.
+
+“I’m ok,” Ali called out, echoing Malika’s assessment, and Calen flew over to verify it with his own eyes, letting his Righteous Fury fade.
+
+“How?” He had seen the blood, and he had been certain it was an Ambush attack. The critical damage from a professional assassin of that level should have been enough to kill Ali outright.
+
+“Mato took the damage,” Ali answered, pointing to where the tree was twisting and warping, slowly restoring Mato’s original form. “I’m not hurt at all.”
+
+“We may have won the vote, but I think there were some sore losers,” Malika said, her lips twisting as she dragged the corpse with her and joined them. “This one is stupid enough to be wearing the Town Watch insignia under their gear.”
+
+“Tala?” Calen asked, his stomach clenching.
+
+“No… this one is male,” Malika answered. “But… that doesn’t mean she wasn’t involved.”
+
+“I think we need to talk about some better security measures,” Calen said, but his heart was simply flooded with relief. It could so easily have gone very badly. “We were lucky this time. You alright, Ali?”
+
+The Fae nodded slowly, “Just about.”
+
+Finally allowing himself to relax, Calen opened his notifications to find a level up waiting for him.
+
+Archer of Light has reached level 36.+10 attribute points.Radiant Archery has reached level 24.Arrows of Brilliance has reached level 27 (+2).Motes of Light has reached level 14.Eyes of the Archon has reached level 22.Righteous Fury has reached level 11.Azrael's Wings has reached level 5.
+
+Considering his attributes for just a moment, he decided to spend two each on dexterity, perception, and intelligence – his primary class attributes – and one each on the rest.
+
+As she drew closer to the ruins of the grand library, Ali could see the vast sphere of her domain mana flowing through the stone, extending well past the walls, powered by the giant tree that grew within. All the way up the bone-encrusted walls, far beyond the limits of her vision, it soared.
+
+She had told her friends she was fine, but in truth, the assassination attempt had left her shaken. All those nightmares of Kobold rogues stabbing her in the darkness had resurged in full force, only this time she had not been quick enough or lucky enough to get her barrier in place before being stabbed. If Mato hadn’t been nearby or Calen had been a little too slow, she was certain she would have died right there.
+
+She turned her gaze to study the Beastkin Druid, now mostly recovered to his former enthusiastic energy level, contrasting sharply against her fatigue and fear. But he had described the experience of being a tree as much like meditation, so she presumed he had been resting most of the time. His skill was as remarkable as it was strange – she had felt the unforgettable sensation of the dagger stabbing into her back. She knew there was blood, and it had been excruciatingly painful, but when the dagger emerged, she had been unharmed. Somehow his skill was able to magically whisk away the damage and apply it to his own body. A body with thousands of health and a massive regeneration rate – vastly more suited to taking damage than hers. She felt positively fragile in the light of what had happened.
+
+Malika said she’d check with Mieriel to see if they still had a bounty on their heads, but Ali was still not quite sure what to make of it all. Mieriel had most certainly gone above and beyond to help clear their names, but she still felt anxiety around her – the remnants of the half-remembered interrogation they had subjected her to.
+
+“I think I’m going to clean all this bone off the outside walls,” she said as they approached the library doors. It was not excess energy that prompted her, but the need to take her mind off her worries. Nothing like repetitive chores to tire her out further and then she could sleep. Besides, it would need to be done at some point, and it was now entirely encased within her domain, so her mastery would make it a much easier task.
+
+“Maybe make some monsters to guard you?” Malika suggested. Things between her and Malika seemed much better now, but there was still a distance that had not been there before. Hopefully, she just needed time as Lira had suggested.
+
+“I can practice outside with you,” Calen offered.
+
+“Thank you,” she said, accepting his company. If only she had a skill like his Motes of Light to dispel the stealth so favored by assassins. At least he summoned them while she began creating minions to protect her – a couple of wyverns and a few mages.
+
+Then she hopped on a disk of barrier magic and, sizing up the monumental task, set to work. She flew around, spiraling higher and higher, wielding her Domain Mastery skill to turn the bone into dust while her Wyverns wheeled about in the air nearby. As the huge swathes of encrusted bone fell away, she further exposed the exquisite Dwarven stone craftsmanship and relief sculpture that had been famous across the entire continent. When she was finally done, she returned to the ground, deconstructing the waist-deep piles of bone dust, ignoring the imprint she learned from her efforts.
+
+As the bone dust evaporated into ambient mana, her eye caught the outline of something familiar. Reaching out, she brushed it clear with her hand, exposing a magical rune etched into the stonework. It was ancient and heavily packed with dust and dirt – if she hadn’t been looking at it directly, she would probably have missed it.
+
+What is this? It was not something she recalled either. She reached with her hand to the side and brushed at the ground and, as she had intuited, she found a second rune, similarly buried under the dust and grime of the ages. Giving in to the excitement bubbling up within her, she began to search, uncovering more and more runes etched into the stone all along the base of the library’s outer wall.
+
+“What did you find?” Calen asked, peering down curiously.
+
+“Look, it’s a rune circle! Only, it seems to be the size of the entire library,” she exclaimed.
+
+Calen immediately bent down and joined her, caught by the excitement of discovery, and between the two of them, they uncovered a large stretch of it before he paused.
+
+“Can you tell what it’s for?”
+
+“I’m not sure,” she said, taking a closer look. The magic circle was extensive and ancient, but with her Runic Script, she was able to begin to decipher it. “This part seems to be related to Knowledge traits,” she said, indicating a large section. “And this here seems to be more focused on learning.” She studied it further, trying to figure out the next tricky section, and eventually, it came to her. “I think this was meant to connect to the mana condensers – a power source.”
+
+“Fair enough,” he murmured, his eyes flickering back and forth.
+
+“Oh, wait! I know what it is!” she exclaimed, suddenly recalling what the runes were for. The library had several grand enchantments to enhance learning and study, and now she could read them. “It’s one of the learning enchantments – a runic circle.”
+
+“Can you fix it?”
+
+“Well, the mana condensers are broken, or they fell into the jungle,” Ali pointed out.
+
+“Aah, that’s too bad,” Calen said.
+
+“I wonder…” Ali said, catching his eye. “I might just have an alternative power source, so to speak.” In the center of the library was an Elder Tree pumping out who knew how much excess mana.
+
+And I have a skill that attaches my runic circles to my domain. She recalled to memory the teleport circle she had made and focused on the adjustments to the runic structure that hooked it into her domain mana. She needed to adjust both the runes and the domain.
+
+But I have Runic Script and Domain Mastery. In theory, there is no reason I can’t duplicate it manually. “Hey Calen, can I borrow your notebook?”
+
+“Sure,” he said, his shining eyes reflecting her excitement.
+
+She opened the notebook he offered to a blank page, and with a little thought, she sketched a replacement design for the power conduit rune construct, replacing a number of the original runes with the ones compatible with her domain connection.
+
+“Mhm, looks about right.”
+
+“If you say so,” Calen said, squinting over her shoulder at her written notes.
+
+Happy with her work, she bent and twisted her domain, taking a few tries to duplicate the pattern and hook it to the stone-etched ancient circle, but as soon as she got it right, the mana from her domain flowed through her new power coupling and into the stone runes in the ground, blasting the dust and grime away as they filled with mana.
+
+“That seemed to do something,” Calen said, examining the now perfectly dust-free runes carved into the stone.
+
+“It didn’t activate,” Ali frowned. Worse, partway round the circle, the runes had not reacted, still buried under dirt.
+
+“Maybe you need to attach it in another spot?” Calen asked.
+
+“Possibly. Come help me look for another section like this,” Ali said, hopping up and rushing around the library wall. She finally found the second power conduit and repeated her work, layering in a new connection before hooking it up to her domain. Again, the runes blasted the dirt out but failed to fully activate.
+
+“That was a third of the way around the library,” Calen said. “Probably the last one is another third.” And he proceeded to lead her directly to the third conduit.
+
+When she finally hooked the third conduit up to her domain, the entire area dimmed dramatically before the circle flared with intense brightness. Then after a few moments, the mana recovered, and the circle settled to a more sedate level of illumination.
+
+Domain Mastery has reached level 13 (+2).Runic Script has reached level 21 (+2).
+
+Elated by her success, she stepped across the threshold and into the library, and she was greeted with a notification so familiar to her that it felt like coming home.
+
+You have entered the Grand Library Arcana.All Learning and Knowledge magic is enhanced by 10%
+
+Ali touched her wet eyes, speechless.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

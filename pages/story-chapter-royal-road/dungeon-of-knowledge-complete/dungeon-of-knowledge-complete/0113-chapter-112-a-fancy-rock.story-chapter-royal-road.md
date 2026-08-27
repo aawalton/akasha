@@ -1,0 +1,233 @@
+---
+id: c56e72dc-15b3-502c-b223-f3f6f3e0340f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 112: A Fancy Rock"
+slug: 0113-chapter-112-a-fancy-rock
+partOf: dungeon-of-knowledge-complete
+position: 113
+ownLength: 4094
+unit: words
+ownProgress: 4094
+publishedAt: 2024-08-13
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1756439/chapter-112-a-fancy-rock"
+royalRoadId: "1756439"
+markedReadAt: "2026-06-29T20:14:49.342Z"
+---
+
+There is compelling evidence supporting the common belief that magicite used to be vastly more common than it is today, flowing from the mines and alchemy labs of the legendary city of Dal’mohra where it was once manufactured and shipped out to crafters and artisans in every corner of the world. The number of artifacts that date from that time, and the often-trivial functions they have, lend credence to the argument that the supply of magicite must have indeed been much greater than in modern times. However, the method of its creation was lost with the city itself, in what has been widely described as the single most devastating loss to crafting the world has ever known.
+
+Magicite is a deceptively simple crystalline mineral, infused with, and aligned to, a specific mana affinity. It slowly absorbs ambient mana of any kind, somehow transmuting it to its own affinity and then storing it. Once full, it may slowly leak mana into the surroundings, resulting in a glow that is often visible even without mana sight. Crafting of every kind uses magicite for its properties as a mana transmuter, or a mana battery, powering all manner of artifacts from the simplest fire-affinity water heater cubes to the most potent wands used by archmages and sorcerers.
+
+Many forms of the more powerful or evocative affinities of magicite bear common names, such as Arcanite, Voidstone, or Bloodstone – but today these names are mostly encountered in the historical accounts of ancient crafting or works of fiction.
+
+The only confirmed source of new magicite in the world today is that found in the deepest realms of high-level dungeons, accessible only with highly trained and powerful delve teams. For all other crafting needs, ancient artifacts must be found and recycled, which is the reason magicite is now so incredibly rare.
+
+- Excerpt from The History of Dal’mohra: The Lost City of Learning
+
+Ali flew over to where Mato and Malika were sitting in the middle of her Cure Poison runic circle, still drawing occasional heals from her Acolytes. She studied the devastation on the beach below her, grateful that she didn’t have to wade through it like Mato and Malika. Most of the remaining gobs of flame had guttered, quenched by the amorphous sea of goop and slime.
+
+“Well, that was disgusting,” Malika announced. She looked bedraggled and extremely unhappy, wringing toxic brown and green sludge out of her shirt while it slowly dripped off her nose and ears. Above the battlefield, the stench of toxic and scorched slime was almost overpowering.
+
+“Maybe we should call it a day and go get cleaned up? We can wash off in my lake and I can make a Cleanse circle,” Ali suggested, scanning the corpses. She wanted to deconstruct the Guardian – it had been much higher level than the ones she had inscribed so far, and even though she wouldn’t be able to make it till she reached level fifty, she wanted to take the opportunity to secure whatever improvements her Grimoire could record.
+
+Also, Naia might want those Toxic Spitter oozes. Perhaps it wasn’t a good idea to give Naia every slime or ooze she found, but Ali discovered she didn’t mind. Besides, she had the chapter reserved for them already and she may as well learn it – just in case she needed them herself. The combinations of the guardians plus the petal monsters, or the guardians with the spitter oozes had got her thinking that she could do much better with her minion combinations if she deliberately designed groups with abilities that worked together.
+
+“I wish we had a bath,” Malika said, rising to her feet and squelching around in the ooze, remaining within the boundary of the glowing runic circle.
+
+“Maybe we can make tomorrow a town day?” Ali suggested.
+
+“That would be great. This big lug over here doesn’t know how bad he smells,” Malika said, slapping Mato on the shoulder. It made a wet splat sound.
+
+“Hey, I’m the one with the enhanced senses, I smell better than you,” he objected.
+
+“That’s not what I meant!”
+
+“Ali, can you hurry? I think we shouldn’t stick around this pool any longer than needed,” Calen said, conspicuously remaining outside the radius of the slime apocalypse.
+
+“Ok, let me just get the slimes and the guardian before we go.” Ali lowered her barrier beside the mountainous corpse of the Forest Guardian and extended her hand to touch its flank triggering her deconstruction. She grimaced as her hand came into contact with the slime that covered the monster, but she finished her spell, nonetheless.
+
+A cascade of glowing green crystals fell from the corpse as it vanished.
+
+Living Essence (Nature) x5
+
+“Ooh, five essences!” Ali said as her Grimoire flickered with the light of new runic spell segments. It was a remarkable haul – she hadn’t paid much attention to what Malika had said these sold for, but she definitely remembered the happy smile of satisfaction on her face when she concluded the deal with Weldin. Bringing these back to town would certainly help Eliyen and Basil with their herbalism and potions. Ali reached down and plucked them out of the sludge and flew over to offer them to Malika.
+
+“Oh! Nice! That almost makes this worth it,” Malika said with a wry grin, but Ali could tell she was quite happy.
+
+“Your magic is handy, Ali,” Mato said.
+
+“How so?”
+
+“We don’t have to go digging through the corpses to find cores and essences,” he offered.
+
+“Oh, I didn’t think of that. Is that how other people do it?” she asked. It took much longer than she expected to find the corpses of the Toxic Spitter oozes under all the slime and sludge, and eventually, she had to resort to Identify to find the last one. By the time she was done, her arms were covered in goop, and she was beginning to crave a hot bath too.
+
+“Ali, come look at this,” Calen said.
+
+Ali turned to find Calen hovering on his stunning radiant wings of light, examining something near the shattered and splintered remains of the mana condenser embedded in the enormous mountain of rubble that had fallen from the city above thousands of years ago.
+
+She flew across the green mana lake, bumping into the wisps and glowing insects that bubbled up from its surface, joining Calen where he hovered. The form of the enormous pyramid of stone was still clear from the pieces, but the whole structure had been cracked, splitting it into several bulky fragments. From deep within the splits and fissures, a dense green mist billowed – lit from within – and thick, green liquid mana dripped continuously from the remnants of the ancient artifact, pooling into tiny rivulets that merged and flowed down into the lake itself.
+
+“This must supply the mana in the lake,” she mused, studying it closely.
+
+“I think so,” Calen said. “What is that?” He pointed downward at a sheared crack, wider than Mato in his Bear Form. Strewn about the bottom of the crevice, visible through the shifting mist, were stones and rocks – intensely glowing rubble from the remains of the interior of the condenser. “Explorer can’t Identify it.”
+
+Ali knew exactly what it was. After all, her studies had included the field of magical engineering under the premier Dal’mohran School of Artificers at the university. She Identified it.
+
+Magicite (Nature)
+
+“We need to get some of that,” Ali said – sharing the results of her Identify with him – but it was easier said than done. The green mist was the result of mana sublimating out of the oversaturated magicite, and mana of that density was extremely dangerous.
+
+“You know what Magicite is?”
+
+Oh, that must be the Common word for it.
+
+“Magicite is a synthetic crystalline rock developed by the Dal’mohran School of Artificers to store mana. It’s used by artificers for making artifacts and magical devices. Anything that stores mana for later use or can be recharged; mana batteries, wands, even this mana condenser.” It was a rather simple statement that did no justice to the importance of the gem-like glowing stone. Without a doubt, the entire field of magic engineering would not be possible without it.
+
+Ali quickly split her barrier and ferried one of her Acolytes across the lake to join them.
+
+“How is your mana?” she asked.
+
+“More than half,” the Kobold answered.
+
+“Heal me while I go in there,” Ali instructed.
+
+“As you wish, Ancient Mistress.”
+
+“Is that safe?” Calen asked, looking dubiously at the green billowing clouds that slowly dissipated below them. “Why don’t you send in a minion instead?”
+
+“No, but it should be ok if I don’t take too long,” Ali lowered herself into the crevice, holding her breath as long as possible, feeling the mana searing her skin as she neared the glowing rocks. The entire wall of the crevice, on both sides, radiated mana into the crevice.
+
+As Ali alighted on the bottom of the crevice, she was forced to breathe, filling her lungs with excruciating pain. Even the lining inside her nose was seared by the pungent ozone smell of the mana that was tearing at her skin, eyes, and lungs. Immediately, holy magic filled her, struggling to reverse the damage and repair the sensitive membranes, skin, and organs, only for them to burn once again.
+
+I need to be quick. The dense mana was corroding her body, despite the healing. But she needed to choose the samples herself and her own senses were ideal for this task. She cast about in the haze and quickly selected several glowing rocks of various sizes, preferring ones with fewer flaws and purer mana flows, storing them in her ring. She hissed at the searing sensation of mana burning her fingers, but the pain was hardly unmanageable. That should be enough. She hopped on her barrier and flew back up and out of the green smoke and billowing mana. As soon as she emerged from the crevice, the holy magic healing her began to win and the pain subsided.
+
+“You got enough?” Calen asked.
+
+“Enough for now, let’s go,” she said. If she needed more, she could organize another expedition down here when they leveled up further, and monsters like the Toxic Spitter emerging from the lake wouldn’t bother them so much. At that point, she could just excavate the entire crevice with her minions. But she was almost certain she had enough samples and wouldn’t need to return any time soon.
+
+***
+
+When they finally reached the shrine, Ali got right to work, channeling her mana into the pattern for a Cleanse circle, while the boys ran off to take a dive into the lake.
+
+“You go first,” Ali said, inviting Malika to use the circle as soon as it was complete.
+
+“Are you sure?”
+
+“You’re the one who had to fight in the goo,” Ali answered. While she was sweaty and dirty and would love nothing more than to relax while her magic circle cleaned her, Malika was clearly in dire need of emergency cleaning, and she didn’t need to offer twice.
+
+By the time Malika was clean, the boys had returned from their dip in the lake, looking and smelling substantially better, but Ali still offered Mato the Cleanse circle next, given that he would be cooking dinner.
+
+Finally, it was her turn, and she sat cross-legged in the center of the circle, closing her eyes. She was tired after a full day in the humid jungle and while it wasn’t as nice as an actual hot bath, the tingling sensation of arcane magic dissolving the dirt and grime from her skin, clothes, and hair was heavenly. She sighed in bliss, feeling rejuvenated by the simple pleasure of being clean.
+
+When she returned to the campfire, the others were already discussing the day, and what they had fought, and how the battles had gone. Many ideas bounced back and forth on how they might have handled things better, but Ali’s mind was distracted by the delicious aroma of whatever Mato was cooking.
+
+“What do you think we should do about the spawning pools?” Ali asked. It seemed Mato would still be a few minutes cooking dinner, so she sat and joined in the conversation. They had dismantled the Ruins of Dal’mohra dungeon by destroying the domain, killing the Wights, and having Nevyn Eld show up to steal the dungeon shrine. It had left the entire area permanently cleared and far safer – but Ali couldn’t see how they might achieve that in the jungle – the lakes were simply too big, and the mana too dangerous to remove.
+
+“Well, we’ve been able to kill everything we found in there,” Malika started.
+
+“Except for the Lux Drifter swarm,” Calen reminded her.
+
+“There were some difficult fights,” Mato admitted as he dipped his spoon into the cooking pot and took a sample.
+
+“Well, yes,” Malika agreed. “But it seems to be an incredible training opportunity. We could probably just fight monsters in there until all of us reach fifty.”
+
+“You want to go another round with that slime monster?” Ali asked. “Think of what it’ll do to your hair!”
+
+Mato chuckled at that, but Calen’s hand twitched toward his silvery hair with a look of pure disgust on his face.
+
+“No, but training is important,” Malika said.
+
+I didn’t think of that. Ali had been considering the jungle something that they would need to clear out, completely wiping out all the monsters like the city ruins above. But the fact of continuous replenishment via the two spawning pools made that an almost impossible task. She had definitely not been thinking of it as a training ground.
+
+And yet, even with her adversarial position toward the jungle and its inhabitants, she couldn’t deny that their forays out into the wilds had been surprisingly profitable for all of them. She summoned her Grimoire, noting that her progress was visible simply by the size and thickness of her magical tome. She had left her Forest Guardian – her most powerful minion – down in the library to block the entrance to the jungle. But besides him, she had learned several plant monsters, oozes, a veritable horde of trees, vines, and moss varieties, and even added several new elementals to her book for future study. The nature affinity Living Bamboo was going to make expanding her domain far faster.
+
+And the magicite. Ali retrieved one of the glowing gem-like rocks from her storage ring, dropping it to the mossy ground as its oversaturated mana leakage seared her skin.
+
+“Careful,” Malika said, hopping up to heal her quickly, and then freezing as she saw what it was that Ali had retrieved. “Ali! That’s magicite!”
+
+“Yes,” she said, nodding as she studied the mana leaking from the fist-sized crystal. It seemed to be interacting directly with her domain, but not with any negative effects she could see. Instead, her moss seemed to be happily absorbing the excess nature affinity mana and re-emitting it to reinforce her domain.
+
+“Where did you find that? It’s worth a fortune!”
+
+“Calen found it in the remains of the shattered condenser. Why is it worth a fortune?” While the synthetic stone was incredibly useful for its property of storing mana, and even converting affinities to the type it could store – the entire reason Ali had wanted to experiment with it – she remembered it being quite plentiful. Whenever she had needed some for her practical examinations, all it took was a request form submitted to the school supplies office, and they gave her as much as she wanted. She hadn’t even needed to return it.
+
+“Because it’s so rare, and every artificer needs more than they can get,” Malika said, her eyes still wide and glued to the green crystal.
+
+“Why don’t they just make more?” Ali asked.
+
+“Make more?” Malika stared at her as if she had just said that mana didn’t exist. “Ali, artificers and scholars have been searching for a way to make it for centuries. Most people believe it’s impossible.”
+
+“Where do they get it from, then?” Ali asked. “The Novaspark Academy had a mana battery powering the teleportation locus – that must be made with Arcanite. And they were selling wands and other magical items that have to be using shards of magicite to power their effects.”
+
+“Artificers cannibalize it from found artifacts or recycle it from items that are no longer needed,” Malika explained.
+
+“Occasionally, high-level adventurer teams retrieve a sliver from some dungeon,” Calen added. “But it always makes the news because it’s so rare.”
+
+“They forgot how to make it?” Ali asked, incredulously. It made some sort of sense. Dal’mohra had existed more than three thousand years ago – more than enough time for many esoteric skills and techniques to fall from wider knowledge and become forgotten, barely remembered legends. Still, having to recycle magicite meant an enormously restricted supply. She looked at the glowing chunk still emitting green mist on the ground in front of her.
+
+“I guess so,” Calen admitted. “I didn’t even know it could be made.”
+
+“Well, that’s not going to work for me,” Ali said. “I want to experiment a lot.” She had recovered enough samples that she could attempt to learn it. But this was where she was grateful for her studies – she recalled the safety procedures for working with magicite. Destroying charged magicite would release all the mana stored in it.
+
+And this one is oversaturated. She summoned a barrier in front of her before she deconstructed the rock. As soon as her spell finished, there was a loud bang, spraying bits of moss and dirt in all directions. The golden wall of her barrier protected her body and her friends in the campsite from the explosive concussion – which might not have hurt so much, but it would definitely have ruined dinner.
+
+“Hey, warn us next time you blow something up,” Mato chided, clicking his tongue disapprovingly as he waved a ladle in her direction. “I might spoil your dinner, you know.”
+
+“You destroyed it…” Malika looked a little green, and Ali suddenly realized that her friend must have thought that was the only piece she had.
+
+“It was the mana stored in it – it gets released all at once,” Ali explained, retrieving another, larger piece, inwardly grinning at the sight of Malika’s eyes widening even further in surprise.
+
+“How much of that do you have?” Malika asked.
+
+“Enough to learn it, and a few more pieces for you to sell.”
+
+“You can learn it?” Malika seemed incredulous.
+
+“I’m pretty sure I can. It’s just a rock with a crystalline lattice mana structure,” she said. Sure enough, after destroying four samples – and warning her friends this time – her Grimoire responded.
+
+Variant: Magicite (Nature) added to Imprint: Stone.
+
+To test it, she immediately summoned a bunch of magicite, using her Domain Mastery to mold it into shape. When she was done, she had made a perfectly cubic semi-translucent gray rock. The edges were smooth, as if polished.
+
+Magicite (Nature)
+
+“Why is it gray?” Malika asked, after a couple of failed attempts to speak.
+
+“It hasn’t absorbed any mana yet. If we leave it around, it should absorb ambient mana, charging it up. When it’s full it should glow noticeably – but not nearly as bright as the ones I recovered. Those are dangerously overfull.” Ali retrieved the rest of the magicite, dumping it on the ground beside the one she had just made, enjoying the effect it was having on Malika.
+
+“If we leave these overnight, they should leak enough mana into the environment that they will be safe to take to town and sell.” Ali made a few more uncharged pieces and nestled them in among the others, knowing they would charge faster in the presence of so much leaked mana.
+
+“Nature isn’t the most valuable type,” Malika said, finally recovering. “But they’re still worth a fortune. Ali, with that and the lake, you could quite easily break the economy of the whole town. No, the entire kingdom.”
+
+“If we sell it through Weldin, the town should get its taxes, right? Isn’t that the purpose of having a guild merchant?” Malika was right, probably the most valuable magicite affinity would be arcane – Arcanite – but she had no idea how to find some of that. But she might be able to recover some light affinity magicite from the condenser up on the second city ring.
+
+“Yes, that’s the theory. But with something so rare and sought-after like magicite, if we dump a lot on the market, people will go crazy. We should probably sell one or two pieces and wait a bit,” Malika said, her surprise giving way to a more thoughtful expression.
+
+“Maybe you can use Weldin to help you with that? He probably has a decent idea of what the market could support,” Calen suggested.
+
+“That’s a good idea, I’ll talk to him tomorrow,” Malika answered.
+
+While the economy was a concern, Ali didn’t mind much. Magicite was a fascinating substance, and she was quite interested in studying it now that she was armed with Arcane Insight and Sage of Learning. It wasn’t the Grand Library Arcana, but she wanted to check to see if Ryn had any books on the subject or knew where to find them. And if Malika was right, she could now afford to buy them.
+
+“Yes, it’s near Myrin’s Keep.” Alexander studied Roderik’s expression carefully. He seemed excited, which nearly always meant someone was dead or dying – or he was anticipating inflicting pain on some unfortunate soul. He just wished the man wasn’t so… impulsive and thoughtless. It was too bad he ranked higher in the Shadow Council and was technically Alexander’s superior. Not for long.
+
+“I think it’s in Myrin’s Keep,” Roderik replied, his eyes betraying a restless energy.
+
+Lirasia had been moving in a remarkably straight line across the countryside since he had released her, and she was heading right for the border town, following the banks of the Myrin River. Alexander had figured the dungeon had to be nestled in the mountains nearby – a spot he could simply discover with his spectral wolves and enter, capturing it before the town was any the wiser.
+
+“How do you know?” Alexander asked. He was certain the town already knew about his presence from the wake of blight and the new undead he had left behind him. If they didn’t, it wouldn’t take long – but he had been planning on using the distraction he had been required to create for his purposes, too. If the dungeon was within the town, though, that would be remarkably inconvenient. Myrin’s Keep was no Lyton – it had a garrison and several high-level combat classes. People that even he would need to be wary of.
+
+“One of the newest members in the fucking Adventurers Guild supposedly has a shrine,” Roderik declared. “A real dungeon shrine, not one of those Elvish knockoffs.”
+
+“Impossible!” Alexander’s eyes snapped back to Roderik in surprise. A shrine? It was a preposterous claim, but Roderik was not one for subterfuge and deception. His mind was uncomplicated and straightforward, but the presence of a shrine in the town lent a lot of credibility to his crazy claims.
+
+“Come, Alexander, let’s not waste time. I found someone who got their class from that shrine, I want you to ask them,” Roderik announced. Unleashing his restless energy, the noble retrieved a corpse from storage, dumping it on the ground. It was a young man, obviously new to their class, dressed like a merchant, with a characteristic set of holes in his body where Roderik’s lances of ice had since melted. He waved a ring-encrusted hand at it vaguely, “Do your thing.”
+
+Alexander stared at the corpse briefly and then looked back at Roderik. So, he actually can think. Bringing an eyewitness demonstrated remarkable thinking for a man who enjoyed indiscriminately killing people for sport – without any plan or foresight.
+
+“Arise,” Alexander intoned, invoking his mana to raise the man as a specter. It was not cheap, but he wouldn’t be keeping this one for very long.
+
+“Tell us everything you know about this shrine and the dungeon,” he commanded.
+
+“Yes master,” came the sepulchral voice, a whisper on the wind that touched his mind and soul in that familiar way. “Her name is Aliandra Amariel…”

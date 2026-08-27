@@ -1,0 +1,265 @@
+---
+id: 7633130f-dab9-561d-a3ce-fcf2c0ecffc8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 148: Forbidden Knowledge"
+slug: 0151-chapter-148-forbidden-knowledge
+partOf: dungeon-of-knowledge-complete
+position: 151
+ownLength: 4412
+unit: words
+ownProgress: 4412
+publishedAt: 2024-10-27
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1870813/chapter-148-forbidden-knowledge"
+royalRoadId: "1870813"
+markedReadAt: "2026-06-29T20:16:04.270Z"
+---
+
+There is more treasure, power, and knowledge to be found hiding in the darkness where lesser minds fear to look.
+
+- Nevyn Eld [Guardian of the Realm], Professor of Domain Magic, University of Dal’mohra.
+
+Ali sat at the desk, heart pounding in her chest, staring at it in trepidation. She had spent the last couple of days reading and studying everything Ryn had found on dungeons, and still, she had made absolutely no progress on figuring out how to make boss monsters.
+
+But there was one resource she hadn’t tried, and that was because it terrified her. The heavy black book lay closed on the walnut table, filling her with an irrational dread. The steel-edged bindings gleamed dully despite the ample lighting, and the potent silver runes glowed with a powerful mana, but Ali wanted nothing to do with it.
+
+Dungeons and Domains: A Complete Reference. Nevyn Eld.
+
+The last, and only, time she had opened it, it had confirmed she was a dungeon, and the shock of that realization coming on top of her frantic flight that culminated in her killing a person for the first time came back full force to haunt her.
+
+Don’t be stupid, Ali. She knew her fear was not rational – it wasn’t like opening the book would summon the Lich – and yet she couldn’t quieten her heart. I love books… but this was so different.
+
+“What’s wrong, child?”
+
+Ali startled at the sudden sound of Lira’s voice and let out a squeak. It was an embarrassing sound and she blushed bright red.
+
+“I’m scared,” she said, dropping her head and finally acknowledging the fear in her heart. She – Aliandra Amariel – was afraid of a book. It was the silliest thing she could imagine, but there it was.
+
+“You are wise to be cautious of the Blind Lich’s writings,” Lira said, demonstrating that she knew more about the problem than Ali had guessed. “If you’d like, I will make us some tea and I can sit with you while you study.”
+
+“Thank you,” she said. She would be forever grateful that Lira did not make fun of her in that moment, and she waited till she had a few sips of tea warming her stomach before she finally found the courage to open the book.
+
+I need this knowledge, she told herself, fighting against her trepidation.
+
+She read the book cover-to-cover first, not trusting it with her study trance before she knew what was contained within it. Even so, her Sage of Learning drew deeply from her mana during the process. When she was finally done, she took a deep breath, and activated her skill, beginning her study in earnest.
+
+When she finally came out of her trance, she found Lira still sitting there, watching over her with her third – or perhaps twenty-third – cup of tea, showing no signs of annoyance at the passing of time.
+
+“How were your studies?” Lira asked softly.
+
+“Safe, thank you,” she answered, truly grateful for her aunt’s support. “And I finally found what I needed.” She knew it without even checking her notifications, a fundamental depth of understanding having been reached. In the end, the concept was closely related to what she did when she attached her runic circles to her domain or empowered her barrier magic with her domain mana. The same structural flow of mana could be adapted to support her minions.
+
+It still felt wrong to be learning from the Lich, but she grudgingly had to admit his research was inspired. Warily, she inspected the notifications.
+
+Reading has reached level 12.Domain Mastery has reached level 20.Requirements met for skill advancement.Domain Mastery has reached at least level 20.Have understood at least six Domain Magic spells.Studied or understood the theory of domain attachment.Studied at least three dungeon domains.Have manually attached a Shrine to your domain.Have manually attached various magical formations to your domain.Domain Mastery gains Domain Respawn.Domain Mastery gains Domain Enhancement.Domain Mastery – level 20You can manipulate the structure and mana of your domain. All your magic within your domain is empowered by the domain itself. Mana: Adjust the shape and composition of any non-living material that is part of your domain.  Range: Domain.Mana: Permanently attach anything you have made to your domain. Its mana signature is imprinted onto the domain, allowing it to be automatically respawned when killed or destroyed. Domain-attached minions may not leave the area of attachment and may be further enhanced with Domain Magic. Range: Touch.Enhancements: Domain, Boss, Raid.Nature, Arcane, Mastery, Domain, Intelligence Accept these advancements?
+
+A double advancement? And I don’t have to choose?
+
+Domain Respawn seemed to be the part where she could support her minions with domain mana gaining an automatic respawn, which would make maintaining her sewers vastly easier. It seemed her studies had been extraordinarily productive, however, the requirements strongly implied that her personal experiences with her magic and having explored both the Ruins of Dal’mohra and Naia’s dungeon had contributed significantly to her advancement.
+
+Domain Enhancement was finally a way for her to make the powerful monsters adventurers called bosses. It hadn’t escaped her notice that the surge of analysis from Sage of Learning every time she had deconstructed a boss monster had been called a ‘Domain Magic’ also. She had required at least six of them to unlock this advance. Three she recalled learning from the Skeletal Wyvern, two from the Piercer Scorpion, and three from the Twin Wights. Which makes eight. It was the Domain Magic skills, and the enhancement of her minions’ power from the domain itself, that Nevyn Eld claimed was how bosses were created.
+
+Am I finally going to figure out how to use those? It was with no small amount of excitement and anticipation that she accepted the new advances.
+
+Class Domain Magic acquired.You have learned the Domain Magic: Attribute Enhancement (Intelligence).You have learned the Domain Magic: Attribute Enhancement (Wisdom).You have learned the Domain Magic: Minions.
+
+Accepting the advancements instantly triggered her class to add three new Domain Magic skills, and after studying them for a moment, she realized that they aligned favorably with the major traits of her class.
+
+Hadn’t Lyeneru said something about that? The skills triggered a memory from studying the Elven Pathfinder’s accounts of dungeons, and she quickly retrieved the book, paging through it to refresh her memory.
+
+“Most dungeons with more than a few bosses tend to have a theme or a set of favored skills, so you might find yourself describing a dungeon as a stealth dungeon, fire dungeon, flying dungeon, poison dungeon, or a critical damage dungeon because many of the bosses share similar abilities, have similar magical affinities, and use the same monster types.”
+
+That’s what that meant. For magical affinities, it made more sense, but for boss skills, if most dungeons earned their domain skills according to the traits of their class, then they would almost certainly have to reuse the same Domain Magic every time. If she hadn’t learned hers with Deconstruction and Sage, she would have only the three she had just acquired from her class.
+
+A quick puff of gold and violet mana alerted her to Ryn’s arrival in the library. “Hi, Ali! Gotta run, but here are a few new books I found.” She dropped the books on the table and vanished in a shower of glittery magic.
+
+“Thanks,” Ali said to her departing trail and turned to examine the new books. “Why is her arcane mana golden like mine?” Ali wondered aloud. She had noticed it from the first day Ryn had unlocked her affinities at the shrine and just chalked it up to coincidence. But other than her mother and herself, nobody else had the same mana – nearly always, arcane mana was some shade of purple in her mana sight.
+
+“I have wondered the same thing,” Lira said, offering another cup of tea and wearing a strangely serious expression on her face.
+
+“What is it, Aunt Lira?” Ali asked when she fell silent without elaborating.
+
+“Perhaps you should know,” Lira said, her eyes filling with an old pain. “It is a sad story. A story about your mother and her challenging bloodline. A story about you… and the Lich.”
+
+A chill settled into Ali’s bones at the sound of her words. “The Lich?” she croaked.
+
+“The same,” Lira said. “Are you certain you wish to hear it?”
+
+Ali opened her mouth and then shut it again. She did not want to hear a story about him. But how could she ignore a story about her mother? The fact that it was about both of them, and concerned her, filled her with dread and sent her spiraling into terrifying nightmares of the imagination. “I… please tell me,” she whispered. I must know.
+
+“Very well,” Lira said, taking a deep breath as if bracing herself. “It was a long time before you were born – before he had been unmasked for the evil he truly is. Your mother had been struggling for years to have a child, but the magic of the Fae ran too strong in her veins. The potency of her mana caused far too many complications, and all her pregnancies were… not viable.”
+
+Ali shivered, not liking where this story was going. Not one bit.
+
+Lira winced, sharing her anguish, and said, “Unbeknownst to all of us, Nevyn Eld had developed an obsession with Elowynn’s magic. Under the guise of helping with her problem, he convinced her to share some of her blood.”
+
+Ali gasped, covering her mouth with her hand.
+
+“It is as you fear,” Lira said. “He never intended to help her. He wanted her blood for his own research. The experiments he did… oh, they were awful.”
+
+“What… did… ?”
+
+“He attempted to introduce the bloodline to Elves and Humans. But the mana created such horrific deformities… most of his experiments died mercifully quickly.”
+
+“That’s awful,” Ali said, clutching her arms around her chest, shuddering.
+
+“When we confronted him, he admitted no fault, insisting he be allowed to continue his experiments ‘for the greater good’. Artur Dragonsworn banished him, and Nevyn Eld was not seen or heard from in decades. We all thought he was gone for good. When your mother recovered, Thaldorien Stormshaper invited a Troll Seeker named Val’korr – a soul magic specialist from Aman Rak – and Elowynn was finally able to give birth to a healthy child.”
+
+“Me?” Ali asked.
+
+“Yes. Alas, even with you, the mana had left its mark,” Lira said, “When your wings failed to develop, your mother was devastated and vowed never to try again.”
+
+“Mom…” Ali whispered. The fact that her existence had been a heartbreak for her mother was almost too much for her fragile heart. “I’m… so sorry.”
+
+“Do not blame yourself, dear,” Lira said, taking her hands. “It was your love of the magic you inherited from her that finally allowed her to heal.”
+
+“It was?” Ali sniffed.
+
+“Do you remember the day you cast your first arcane cantrip in the Grove? Do you remember what you said?”
+
+It had been a sunny day, and their little family had been having a picnic by the lake. She’d been sitting on her dad’s lap watching her mother make golden mana butterflies while Lira had been sipping on her tea. She had felt her mana move that day and, without even thinking, she had summoned a tiny butterfly of her own. She recalled it so clearly – like it was yesterday – everyone had stopped and stared at her conjuration. Her eight-year-old self had leapt to her feet in excitement.
+
+“Yay! Now I can be just like mommy…” Ali whispered, echoing her happy memory, now steeped in melancholy sadness.
+
+“Your mother loved you dearly,” Lira said.
+
+“I know,” Ali answered, wiping the wetness from her eyes with the back of her hand. “That was the last thing she told me.” I haven’t forgotten, Mom.
+
+They fell silent for a while, Ali taking deep comfort from holding Lira’s hand.
+
+“So… you think Ryn might be…”“I can’t know for certain, but yes. There is a chance she may be a descendent of one of Nevyn Eld’s failed experiments.”
+
+“She’s family?”
+
+Calen consulted the written directions he had gotten from the receptionist at the guild. The teleportation service he had been directed to was not at the same location as the Ciradyl city locus – if it had been, he would have had no trouble finding it with his skill-enhanced sense of direction. He had already built a mental map of the three-dimensional tree city – at least, the parts he had visited or seen so far.
+
+No, it was the descriptions of where to go that had him stumped – some directions could only have made sense if one were born here. He struggled with what passed for a map and the words explaining where to go, half of which were written in Elvish, and suddenly realized where he had gone wrong. He was one entire branch too high, and the tree highway he was looking for actually lay below him.
+
+It’s a good thing I can fly, he thought, and he was about to take off when his attention was caught by a rather strange sight. It was a hair salon, but the entire thing seemed to have been grown out of the side of the branch, making an open-air platform, upon which the various chairs, basins, mirrors, and strange devices he couldn’t name – requirements for proper hairstyling – were laid out for passing travelers to see. There were several patrons already waiting, and for a hair salon, it seemed to be rather popular.
+
+Maybe I should get a haircut… Lyeneru’s simple advice about confidence in himself and his heritage had been filtering through his mind over the time he had spent here in Ciradyl. Ever since he could remember, he had been embarrassed or ashamed of his half-elven heritage, and the father he had never met. When he was a lot younger, he had decided that if he kept his hair long, people wouldn’t see his ears, not fully realizing that most people had the Identify skill – and as he had grown up it had somehow come to represent the barrier protecting himself from the judgment of others, as if he could somehow hide behind it.
+
+It was impulsive, but before he could change his mind, he walked up the wooden stairs, requested a haircut from the reception desk, and took a seat in the waiting area. He sat quietly for a few minutes and by the time the Elven woman came to get him, he was already having second thoughts, but by then it was too late to back out without making an embarrassing scene.
+
+“What would you like?” she asked, running her fingers through his thick shaggy silver hair in the familiar way he was certain only hairdressers could get away with.
+
+“Short, I think,” he answered, a little more hesitantly than he intended.
+
+“Ooh, good choice,” she smiled, and dove into a flurry of questions and details.
+
+Calen’s mind swirled with dizzying complexity, but he agreed to let her leave it a little longer on top but crop the sides and back quite tight. At least, I think that’s what she said.
+
+She worked quickly, her skills making the scissors blur with speed and precision, all the while complimenting him on his appearance in what he thought was a rather forward fashion. Certainly, he was blushing fiercely by the time she was done.
+
+But when she conjured a mirror, the face that stared back at him seemed a little angular, more mature than he had expected. The hairstyle was modern, and far outside his comfort zone, but he had to admit she had done an incredible job. His mother was most certainly going to die from sheer happiness – she had been pestering him about his hair for years.
+
+***
+
+The thrum of power gripped him in a sudden disorienting lurch and Calen felt momentarily weightless amid a bright flash of light. When his vision cleared, he found himself standing on the familiar polished black marble of the Novaspark Academy of Magic in the center of the teleportation locus.
+
+“Welcome, Pathfinder, your passage is free of charge.”
+
+Calen blinked, shaking his head to clear the aftereffects of the powerful, long-range teleportation spell, and stared at the official in surprise. He was accustomed to having to pay mana for using teleportation services, but the official sitting at the table inclined his head respectfully. He’s waiving the fee because I’m wearing the cloak? Nice! Belatedly remembering his manners, Calen bowed his head slightly in a gesture of thanks before leaving the circle, heading out into the late morning sun and bustling streets of Myrin’s Keep’s artisan and crafting district.
+
+It was not just the official in the academy. As Calen walked the streets, he felt the curious gazes following him – and not in the normal disapproving way he was used to.
+
+“Pathfinder…” the whispers reached his ears as he went by a fruit stand.
+
+People walking by him on the street reacted in surprise when they noticed him, moving out of his way, nodding respectfully, or greeting him. It was nothing particularly overt, and nobody made a big deal about it, but he found it to be a consistent and profound change – and surprisingly unsettling. He had grown up in this town and had always known the discomfort and disapproval of the general townsfolk toward a half-breed – an attitude so pervasive that he barely noticed it in the same way as he seldom noticed the air he breathed. An underlying axiom in his world that was now called starkly into focus by its abrupt and shocking absence. With nothing more than a good haircut and a Pathfinder cloak, he was being treated with casual respect by total strangers.
+
+He endured the uncomfortable tension that had settled in on his walk through the town till he reached the storefront of his mother’s shop. He opened the door to the welcome sound of the familiar chimes, and the tension suddenly faded.
+
+His mother glanced up from her work as he entered and she let out a squeal of joy, dropping the fabric and rushing over to hug him.
+
+“You’re back!” At the smile and the happiness he saw on her face, the last remaining traces of his anxiety vanished.
+
+“Mom, you’re squashing me.”
+
+“Nonsense, you’re so big now, let me see you!” She stepped back to admire his new haircut. He had known that would get her attention first, especially considering how much she had always wanted him to do it.
+
+“What is this?” she asked, touching the cloak, feeling the weave of the expensive fabric. “A Pathfinder Guild cloak?”
+
+“Yes, Lyeneru signed me up as an Initiate. Mom, I went to Ciradyl!”
+
+“No!” she gasped, and though he knew she was half playing along and half genuinely curious, he loved her the more for her reaction. “Tell me everything! Tea?”
+
+“Would I ever turn down your tea?”
+
+“Calen wouldn’t, but this handsome stranger?” She winked at him.
+
+“Mom!”
+
+He spent the next hour or so recounting his recent adventures with her over tea. He described Lyeneru Silverleaf, the fight with the Death Knight – which she wasn’t very excited about – and his subsequent impromptu trip to Ciradyl, the astonishing forest city of the Wood Elves. “It was so beautiful!” he said, finishing up with a description of the Well of Souls.
+
+***
+
+Calen dropped down into the sewer from above, flaring his wings briefly to land gracefully on the trash-strewn moss below.
+
+[Explorer] You have entered a dungeon.Ancient Grove – level 50Affinity: Nature, Arcane.Age: New.Known Creatures: Kobold, Goblin, Ooze, Wolf, Bat, Plant, Elemental.Known Bosses: --Dungeon
+
+Ali added a new monster, he thought, his eyes noticing the addition of bats to the list as he dismissed the notification. And she hit fifty.
+
+His trip had been undeniably productive, and exciting, and he felt he had grown immensely, but he had sorely missed his friends and he sprinted down the sewer tunnels, cloaking his presence from the low-level monsters, eager to see them all again.
+
+Ali must have reclaimed the sewer level, turning it into an incongruously beautiful maze of verdant moss, golden glowing mushrooms, and surprisingly pure flowing channels of water. Everywhere, he found slimes or very low-level Kobolds and Goblins. They were too weak to detect his presence.
+
+And traps. Ali’s been busy. Good. While he couldn’t see them, his Explorer gave him an uncanny sense of where the traps were – and there were many. He even tested them to figure out what they did, finding most to be the Grasping Roots he was familiar with, but some now triggered clouds of green poison to billow out into the sewer channel – a rather impressively effective trap in the restricted space – but they only tripped if he walked over them several times.
+
+I’m not the only one who earned some new skills. He was happy to see the evidence of Ali’s growth. As he continued down the passage, he began to find several corpses of Kobolds, ripped to shreds, and, after turning the next corner, he heard the sounds of battle ringing out in the close tunnels.
+
+He kept his Eclipse running, cloaking his presence, and he approached in silence with the magic of his Explorer skill. As he glanced around the corner, he found the source of the ringing steel on armor and shouts of combat.
+
+Undead! His bow was in his hand, arrow nocked faster than thought. Out in the sewer, the small group of novice adventurers tangled with skeletons, zombies, and Kobolds. As he watched, a figure reached down, and a skeleton ripped its way free of a dead Goblin and joined the fight.
+
+What the… a Necromancer? But he stayed his hand as his sharp eyes picked out the details. He knew several of the adventurers. Basil was hiding in a recess at the back, making a potion. Teagan was healing. And the archer, Willow – who often asked him for archery tips when he was at the guild – seemed happy to have her back to the Necromancer. It was then that he noticed the guild emblem on the shirt of the boy who had raised the skeleton, and he slowly lowered his bow, though his hands shook.
+
+He studied the group for a while, trying to figure out what was going on. But it was abundantly clear that the Necromancer was part of their group, and they were all working together – quite effectively too.
+
+Well, now… that’s new. He shook his head, leaving them to their fight, and headed onward, his head buzzing with unanswered questions.
+
+“Calen!” As he entered the library, Ali’s excited shout greeted him, clearly noticing him even before he had released his stealth. He let it drop, striding up to where she and Ryn were poring over some books on the table, notes and pens strewn across its surface.
+
+“Nice haircut!” Ali said.
+
+“You got a Pathfinder cloak?” Ryn gasped.
+
+Calen took a deep breath, finding himself unexpectedly nervous and shy of his friends’ reactions. What he saw in their eyes reassured him, however. Clearing his throat, he smiled, “What are you doing?” He glanced at the books.
+
+Making an inviting gesture, Ryn said, “Pull up a chair.”
+
+“I’m just teaching Ryn Elvish,” Ali answered. “Never mind that, tell us what happened? Is there something – or someone – we should know about?”
+
+Elvish… The language of his absent father. It was that thought that had always discouraged him from being curious enough to learn it. However, his lack of knowledge of the language had been a significant disadvantage in his Pathfinder classes. Perhaps it’s time I changed that too? He decided he would ask Ali to teach him later.
+
+“I did it for my mother,” he chuckled, and laughed harder at their disbelieving snorts. “Are Mato and Malika around? I got a couple of things from the Pathfinder Guild store.”
+
+“Mato is out cleansing the land of blight with his Tree Form. He usually comes back around dinnertime – you know him, he runs on stomach-time. Malika is in Kezda recovering from her bloodline going crazy,” Ali said.
+
+Kezda? He didn’t even know where that was, nor what had happened to his friends. Bloodline? It seemed that there would be a lot to catch up on. “Here, Ali, I got you something, too,” he said, retrieving the Forest Band of the Perceptive he had bought in Ciradyl.
+
+“Oh, wow, that’s so thoughtful, Calen, thank you!” Ali said, slipping the wooden band onto her finger at once. Her eyes glimmered slightly as she must have identified the object, and then suddenly, they were glistening around the corners. “Oh – vitality? And perception, too? Calen… I…” She reached out.
+
+“Yes,” he answered, squeezing her fingers gently before releasing them.
+
+Swapping stories took quite some time – especially as Calen wanted to share everything he had heard and seen. Lira even joined them halfway through, offering tea.
+
+“She said that about Vivian?” Ali asked, her brows furrowed in thought. “That explains… a lot. That means the guild is in a very precarious position, doesn’t it?”
+
+“That’s what I thought too,” Calen said.
+
+Looking up, Ali said, “Oh, and don’t worry about the cost. If you find Lyeneru’s crafter, we’ll get you that bracer.”
+
+“Thanks, Ali,” Calen said, drawing a deep breath of relief. Then he shifted topics. “So, I saw a level five necromancer in the sewer, fighting with Teagan’s team of novices.”
+
+“I’m glad the boy is growing,” Lira said.
+
+She knows him? Somehow the idea of the ancient serene dryad supporting a necromancer refused to connect in his brain. “What?”
+
+“That would be Seth,” Ali answered. “He just joined the guild. He was the boy who saved Lira’s acorns. One of Alexander Gray’s sacrifices.”
+
+Calen’s mind caught up, connecting all the pieces. Alexander Gray had brought several people with him under a foul compulsion, and in the chaos of the Death Knight and Lyeneru’s dramatic appearance, he had forgotten that one of them had survived and run off. Was that him? He was glad that one of them had survived.
+
+But, a necromancer? That would certainly take some getting used to. Poor fellow. That’s a harsh fate.
+
+----------
+
+https://www.patreon.com/DungeonOfKnowledgehttps://www.scribblehub.com/series/1135403/dungeon-of-knowledgehttps://www.royalroad.com/fiction/80744/dungeon-of-knowledge-raid-combat-litrpg

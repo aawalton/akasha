@@ -1,0 +1,243 @@
+---
+id: 9ec50d30-b150-5c75-a419-ba3ca649bbfe
+page-type-slug: story-chapter-royal-road
+title: "Chapter 102: The Swarm"
+slug: 0103-chapter-102-the-swarm
+partOf: dungeon-of-knowledge-complete
+position: 103
+ownLength: 5043
+unit: words
+ownProgress: 5043
+publishedAt: 2024-07-23
+link: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete/chapter/1728988/chapter-102-the-swarm"
+royalRoadId: "1728988"
+markedReadAt: "2026-06-29T20:14:27.177Z"
+---
+
+They pressed on through the dense overgrown jungle, and the further they went, the more oppressive the roiling chaos of wild mana became. Before experiencing this jungle, Ali would have found it hard to imagine light affinity mana being oppressive, but it was certainly the best description she could come up with. It was thick, swirling in vortices around the trees, through the branches, and dense enough to cause the very air to glow softly with light.
+
+It was slow going, every few minutes they would encounter some or other monster and have to stop to fight it, but encountering a single wandering slime or elemental was usually fairly easy for their group to overcome. Even the Radiant Brawlers were becoming a little easier to manage now.
+
+But it was the Coruscant Rays that truly terrified her – almost always announcing their presence with an attack that came from so far off that Ali seldom saw them before the beam of light struck her, passing clean through her barrier as if it were not even there. Her friends were quick to jump to her aid, of course, Malika healing the burns, and Calen shooting the monsters out of the air, but Ali hated being surprised, especially by unseen attacks that could easily take off a leg or an arm.
+
+“This place is unnatural,” Mato grumbled, scratching the back of his neck uncomfortably.
+
+“It feels better here,” Calen observed.
+
+Ali studied the mana as they went. It was no domain, but it was certainly becoming denser and denser, and even the balance of mana was changing. Progressively less nature-affinity mana boiled up around them, leading to less chaotic flow as the light-affinity mana began to dominate – as if the two mana affinities represented antagonistic forces vying for control, a vast strategic conflict of territory and conquest.
+
+“I think that’s because of your affinity, Calen,” Ali said. “There’s a lot of light-affinity ambient mana around here. It’s still very chaotic though.”
+
+Even the creatures she saw seemed to be affected, warped, or mutated by constant exposure to the excessive mana. She had seen at least three different species of spider with an abdomen that glowed with white or yellow light, like a firefly. There were slugs that emitted soft blue light patterns, butterflies that trailed golden glitter as they flew past, and even wisps – creatures of pure light affinity mana. In an ordinary jungle, these adaptations would have gotten these creatures a quick ticket to some predator’s stomach – but here, where even the air was glowing, it seemed that being able to glow or shine served as functional camouflage.
+
+“Over here, Ali,” Mato said, drawing Ali’s attention to a new variety of vine growing on a tree. It adhered to the tree bark, climbing up to the highest branches with tiny green leaves. Every half a meter or so, a bud had formed, some of which were open, displaying flowers that glowed with a bright yellow-white light.
+
+“That’s pretty!” Happily, Ali added it to her creeper imprint, along with a variety of new mosses and mushrooms, and even the occasional tree that Mato had found for her. While light-affinity plants may not necessarily help her with her domain, most of her cavern was dark, and the opportunity to learn a few glowing plants would certainly help with that. It seemed like a worthwhile tradeoff.
+
+A sudden flash of intense golden light caught her attention and as she snapped her eyes upward, she was treated to a beautiful display of aerobatic dance. Tiny golden-winged creatures were soaring and swooping through a swarm of glowing insects, their agile movement causing their tiny golden scales to gleam and flash in a mesmerizing, ever-changing display.
+
+Luminous Dragonet – Dragon – level 1-3 (Light) Swarm x26.
+
+“Look!” Ali called out, pointing out the pretty monsters soaring among the branches above. There must have been over two dozen of them, but the swarm of insects was so large that they were barely making a dent in it.
+
+One of the tiny dragonets opened its mouth revealing tiny fangs and a dense, condensing ball of light-affinity mana – a spell that reminded Ali of the Bone Spear breath attack of the Skeletal Wyvern – only on a vastly smaller scale. But instead of spears, a dazzling cone of intense sparks of light flew out from its mouth. Dazzle, she thought, identifying the spell as one virtually identical to the primary attack of her Luminous Slime. Fortunately, it was small enough that it only left afterimages on her retinas, rather than blinding her entirely.
+
+But for the moth caught in the dragon’s breath, it was all over. Stunned by the brilliant light, it failed to evade the hungry mouth, and with a snap and a crunch, the moth was dinner.
+
+“True dragons,” Mato breathed, staring upward at the scene Ali had pointed out. She looked again, noticing the detail he was pointing out. The main outward difference between wyverns and the so-called ‘true’ dragons was in the number of limbs; dragons had four legs and a pair of wings, while wyverns had only hind legs and wings. Now that her attention had been called to it, Ali noticed the tiny dragonets had their front pair of legs tucked in alongside their bodies for more efficient flight.
+
+A shadow briefly darkened the aerial feeding display followed by a roar and a powerful jet of toxic green that drenched everything in its path as a large Poison Wyvern swooped in, fangs bared. One unlucky dragonet ended up in the wyvern’s maw, its screech abruptly cut off by a brutal crunch and a spray of blood. Ali barely got her barrier up in time to protect herself from the jet of poison.
+
+“Get it!” Mato exclaimed, his voice warped by the process of his body transformation.
+
+Calen’s arrow was already flying toward the wyvern, his telltale glowing chain of light trailing behind. The wyvern screeched and thrashed as suddenly the hunter became the hunted, and Calen’s magic sent it crashing to the ground in a furious thrashing of poison, fangs, and claws.
+
+But Mato was already there, roaring and slashing with his powerful forepaws.
+
+Ali checked on her healers quickly. Most of her minions had been caught in the initial blast of poison, and so her Acolytes were working hard, but they seemed to have the sudden glut of poison damage under control.
+
+A loud thump startled her as something splatted against her still-raised barrier, and slowly slid off. Something small with golden scales, leaving a trail of blood. Her stomach twisted as she recognized what it was. Another thump sounded behind her, and then more as it started raining dead dragonets – those caught in the poison were simply too low-level to survive for long.
+
+“Attack.” Ali’s minions obeyed her angry command instantly. She knew it was irrational to be angry. Especially considering that the monsters down here mixed just about as well as the mana affinities – which could be equally characterized as aggressive rejection. But she had been enjoying watching the bright dragonets before the display had been so gruesomely interrupted. That she recognized the irony of enjoying watching the golden dragonets feeding on the insects, while simultaneously despising the Poison Wyvern for essentially doing the same thing was not lost on her. She grimaced. That observation didn’t help one bit.
+
+She struggled with how she felt, and how she should feel, all the while shooting her triple stream of Arcane Bolts at the downed wyvern.
+
+When the wyvern finally collapsed, she finally admitted it to herself.
+
+It’s because they were cute. And pretty.
+
+She twisted her mouth in an expression of wry discontent. She hadn’t thought of herself as shallow, but what else could it mean? Now everything was dead, and she just felt sad for the little creatures.
+
+“What’s the matter?” Malika asked, coming up behind her as she stared at the corpses of the dragonets on the ground.
+
+“Just sad. They were so pretty.”
+
+“Maybe you can learn them and then make some? I think they might like the forest you made.”
+
+“Oh. Hmm…” She hadn’t considered learning them, much too focused on collecting things that might have practical value in her Grimoire. These little dragonets had mostly been below level three, something that would have little value in combat. But they were dragons, and she already had a dragon as an imprint – the Poison Wyvern. There was at least a decent chance she wouldn’t need to spend a new chapter to learn this. She pursed her lips in thought. Can’t hurt to try.
+
+Reaching out, she began to deconstruct the fresh corpses, biting her lip as she concentrated and hoped.
+
+Imprint: Poison Wyvern updated to Imprint: Dragon.Variant: Luminous Dragonet added to Imprint: Dragon.
+
+“Got it!” Her heart leapt with excitement as soon as she saw her Grimoire react, and she immediately tried summoning one. To her surprise, as soon as her Grimoire’s magic finished, nine of the tiny dragonets appeared fanning out in a riot of darting and swooping golden scales above her head. The little creatures cocked their tiny dragon heads to the side as she told them to follow, and they took to the air in a graceful formation.
+
+“Wow, you have a whole flight of them!” Malika exclaimed, grinning.
+
+“Looks like another swarm monster,” Ali said. She had a couple of them now, she just wished there was a manual on summoners and their skills so she could understand it better. They were delightful though, cavorting through the air like a school of golden flying fish.
+
+A certain rascal however, batted her eyelashes and cooed, “And it helps that they’re so pretty, right Ali?”
+
+“Malika!”
+
+That was how she discovered that Bear Form Mato had a bear-worthy belly-laugh that threatened to shake the leaves off the trees around her.
+
+***
+
+“Please be more careful, Ali,” Malika said.
+
+Ali sat on the ground, crushing the hem of her shirt in her fists and gritting her teeth against the pain while Malika healed her. Fortunately, Malika’s magic was near instant, and it banished the pain just as quickly as her injuries. It had been a wandering Coruscant Ray again, and the surprise beam of light had nearly taken her arm off, burning clean down to the bone.
+
+“Why is it always me?” she complained. She hadn’t been keeping track, but it certainly felt like she was drawing a disproportionate number of their attacks. “I’m the smallest in this group. Shouldn’t they shoot Mato some of the time? He’s a much bigger target.”
+
+“Oi,” Mato said.
+
+“Maybe they can see your magic?” Calen suggested, stowing his bow as the notification chime signaled the death of the flying menace.
+
+“I didn’t think of that,” she said. It was an angle she hadn’t considered. She had taken to walking through the jungle with her barrier out and ready for any attack. It had come in handy a few times, but against the flying Coruscant Rays and their light beam attack, it was useless. Maybe worse than useless? Her only defense was Lydia’s work, which provided a substantial and welcome resistance to magical damage. It was entirely plausible that the elementals ‘saw’ magic directly – they seemed to have no eyes, much like every other light-affinity monster they had encountered, other than the dragonets. The slimes had alternative senses – talking with Naia had made that very clear, even if the lack of actual eyes didn’t give it away. She didn’t know how exactly they perceived the world, but it was unusual. Neither the Glimmer Shards nor the Coruscant Rays had any organs that could remotely be considered similar to eyes. Nor, for that matter, did the Radiant Brawlers.
+
+“That might be it,” Malika mused.
+
+“If I can see magic. I guess it’s probably quite a common perception skill, especially among magical monsters,” Ali admitted. If that was the case, she had probably been painting a large target on herself visible from the skies.
+
+“Maybe you can test it by putting your barrier ten feet to the side and see if they shoot that instead of you?” Calen suggested. “It’s not like your barrier is helping you right now.”
+
+“True,” Ali grumbled. “And I think I’m going to start hiding behind trees when we fight.”
+
+Ali got back to her feet, thanking Malika for healing her, and went to examine some strange moss Mato had found, while Calen vanished into the trees presumably to scout.
+
+Considering the problem of the Coruscant Rays, Ali decided to spend the relatively steep mana cost to summon a pair of Poison Wyverns. Not because the wyverns were particularly suited to killing the rays, but because they were her only creature even remotely capable of reaching them. None of her ground-based monsters had enough range to hit them, and the wyvern was her only flying monster. At least the only one capable of doing any real damage – her gorgeous new Luminous Dragonets didn’t count.
+
+She sent her two sleek, powerful wyverns up into the sky above the canopy to keep an eye out for flying threats.
+
+“There’s a fight up ahead,” Calen said, appearing out of nowhere as he let his stealth skill drop. “Some slimes are attacking a Forest Guardian. They look about evenly matched.”
+
+“Let’s go check it out,” Mato suggested, his face immediately lighting up at the prospect of combat.
+
+“I’d like to see it too,” Ali said. Of course, Mato would be the one suggesting they investigate a fight, but Ali found she was also curious – though for a different reason. If there was a chance to deconstruct her second Forest Guardian, that would be one closer to being able to make them herself.
+
+The first thing Ali noticed as they approached the clearing Calen had found was a small flight of Coruscant Rays hovering well beyond reach. Their potent beam attacks drew a continuous stream of sizzling bright lines between them and something unseen over the ridge. Even from this distance, the stench of burnt forest assailed her nose. They crept carefully up the ridge, all the more vulnerable because she had decided to forgo her protective barrier in case Calen’s thought about magic perception was true.
+
+Cresting the rise, Ali gazed down upon a scene of violent clashing magic, unbridled mana-fueled plant growth, and terrifyingly powerful smashing attacks that shook the ground and nearby trees.
+
+The Forest Guardian might have been a little bigger than the first one, and it tugged at her emotions still, in complex ways. But instead of letting the feelings run rampant, she studied the combat, trying to learn as much as she could, even activating her Sage of Learning to try and gain a better understanding of the magic at play.
+
+Clustered about the Forest Guardian was a group of Luminous Slimes, firing their painfully bright dazzle attacks nearly continuously. At this distance, it was merely uncomfortable, and not debilitating to watch. The guardian seemed to be blinded, lashing out wildly, occasionally connecting to send one of the slimes flying. The aggressive roots and vines filling the area around the guardian twisted and grasped, but against the infinitely malleable slime anatomy, they proved to be completely ineffective.
+
+Along the crest of a far ridge, several Sparkling Oozes lurked, occasionally lobbing their blobs of incandescence into the center of the fray. The brilliant balls of light exploded on impact, far brighter and with less burning than their fire-affinity cousins. But it was the flight of Coruscant Rays that were dealing the bulk of the damage. Each intense beam cut swathes of destruction across the roots and vines, burning smoking holes through the guardian’s tough wood and bark armor.
+
+“The slimes seem immune to the beams,” Calen observed.
+
+“They’re also immune to the plants,” Ali offered. “But the guardian is the only one regenerating health.” While it looked like the light monsters had the upper hand in the damage department – and also being immune to the roots and some of them flying when the guardian was stuck on the ground, Ali knew firsthand just how potent the guardian’s regeneration was. “I think the guardian will outlast them.”
+
+“You might be right,” Calen admitted, squinting his eyes as he studied the flight of aerial rays.
+
+“Let’s take them out,” Mato said, his eyes sparkling with excitement.
+
+“How do we do it?” Malika asked. “We are far away from the library, so we can’t avoid the roots.”
+
+“I can make some more Scalding Slimes and use firebolts to attack the guardian,” Ali suggested. Her slimes were just as good at avoiding the entangling roots, and the last time they had fought the guardian, her fire had been the clincher.
+
+“How about Mato tanks the guardian, me and Ali’s wyverns on the rays, and Malika, you tank the Sparkling Oozes on the ridge? Kill order is rays, slimes, and then the guardian,” Calen said, quickly proposing a strategy.
+
+“Sounds good to me,” Ali answered. It made sense, given their strengths and weaknesses. Keeping Malika away from the roots for as long as possible would allow her to retain her mobility and wiping out the slimes and rays first seemed smart.
+
+Malika and Mato both nodded in agreement, and she added, “Best warm up your minions, Ali.”
+
+As quickly as her Grimoire allowed, Ali summoned several Scalding Slimes and another Fire Mage, using the ridge as cover to not give away their position.
+
+“Ready,” she told them, waiting for Mato’s familiar transformation before she moved over the ridge to follow.
+
+“Kill the rays,” she sent to her wyverns circling above, while visualizing the distant cluster of Coruscant Rays and their unceasing long-range assault on the Forest Guardian. The buzzing hum of their beam attacks was putting her teeth on edge. While not strictly necessary, she found that thinking in draconic helped her to convey the more subtle aspects of her commands. She sensed the immediate understanding of even the nuances behind her intent as the two wyverns shot off, excited for their hunt.
+
+With her uncanny speed, Malika was already among the Sparkling Oozes, punching and kicking up a storm. “Go,” Ali commanded, sending her Storm Shamans chasing after Malika, and then, deciding they had the monsters properly controlled, Ali began her assault, splitting her Arcane Bolt streams among three of the Sparkling Oozes while her Fire Mages responded with a volley of firebolts. While she had specifically made the Scalding Slimes to kill the Forest Guardian, there was no point in sending them to attack it until the full force of their firepower could be brought to bear – it would just regenerate.
+
+That was her plan, at least. She summoned a barrier because it would at least work as a defense against the explosions and directed her Arcane Bolts around it as her shamans closed the distance. Without her say-so, the shamans dropped their Lightning Nova totems at the Forest Guardian’s feet, catching both it and the Luminous Slimes in the pulsing rings of sparks. The loud crack of their Lightning Bolts cut through even the din of a full-on battle, ripping through the Sparkling Oozes with ease. They reacted by lobbing a volley of incandescent balls in all directions, and Ali had to hunker down behind her barrier, even blocking a few of the explosive attacks from landing on her mages and Acolytes. The detonations left her blinking and slightly off balance, but she maintained her focus, keeping her continuous stream of arcane magic flying across the grassy clearing.
+
+She checked in with her wyverns, but they seemed to be able to outmaneuver the Coruscant Rays in the air and didn’t require her direct attention. One by one, the Sparkling Oozes fell to the onslaught of her minions. As she focused her Arcane Bolts on the single last remaining Sparkling Ooze, Calen’s arrows joined her attacks and within a few moments, it collapsed in a wet puddle.
+
+“Let me pull some of the Luminous Slimes out of the roots,” Calen said.
+
+The slimes looked quite a bit worse for wear, caught in the lightning novas and the collateral damage resulting from Mato and the Forest Guardian trading ground-shivering blows.
+
+Ali let Malika intercept the slimes as Calen pulled them out of the growth, assessing the changed battlefield. All the ranged monsters were down, so she redirected her wyverns and Scalding Slimes to join Mato in the assault on the Forest Guardian, keeping her shamans out of range of the roots to help Malika. Their weapons and shields sparked and crackled, and in response, the slimes filled the battlefield with their dazzling sparkles of light.
+
+“Something is coming,” Calen shouted suddenly, his voice urgent and his eyes raised to the skies.
+
+“What?” Ali raised her eyes, blinking against the afterimages from all the intense bright magic. But it was her ears that warned her of danger first; a low hissing sound that slowly built in volume and strength, as if something were drawing inexorably closer. Next, her mana sight made out a waterfall of brilliant droplets falling from the sky in a rain of intense light mana – a magical stormfront on a scale she could scarcely believe.
+
+Then, her eyes recovered, and she started to make out the details. Above the sheeting rain was a cloud-like formation that moved like no cloud she had ever seen, billowing and churning almost as if it was breathing – in fact, she realized belatedly, it might be. Her eyes dropped rapidly, assessing the damage below the phenomenon. The trees were hissing and smoking, leaves and small branches torn from their boughs, vines and moss stripped as they burned and melted away.
+
+That looks nasty. Acting on instinct, she Identified the glowing cloud.
+
+Lux Drifter – Ooze – level 12-25 (Light) Swarm x36Lux Drifter – Ooze – level 11-26 (Light) Swarm x43…Lux Drifter – Ooze – level 13-20 (Light) Swarm x19
+
+Oh! Swarm creatures! There were thousands of them, a swarm beyond counting, each monster a small glowing disk that floated through the sky. So many were they, that the swarm seemed to mimic the clouds she had first mistaken them for. Whatever was raining down on the forest was either toxic or acidic, for it left a broad swathe of sizzling, blackened, and burnt vegetation in its wake.
+
+“Barrier! Take cover – uh, underneath!” Ali yelled, stumbling over her words as she summoned the largest barrier she could make to shield them from above. Calen dodged under the magical umbrella quickly, and Malika sprinted to make up the distance. She had barely reached the barrier when the leading stormfront of acid rain swept across the clearing, blackening and shriveling the grass, leaving only a smoking ruin behind. An acrid stench filled Ali’s nostrils, causing her to cough and gasp for breath.
+
+“Mato!” Ali yelled, but he was trapped, struggling to shed the guardian’s roots and vines that bound him to the battle. As the rain swept over them, the growth began to sizzle and smoke, along with the two ferocious combatants still locked in mortal combat.
+
+“He can’t move,” Calen gasped in sudden realization. “He’s pinned down.”
+
+“Heal Mato,” Ali yelled, suddenly realizing the extreme danger her friend was in, exposed under the destructive rain while simultaneously battling the Forest Guardian. Several of Ali’s minions collapsed, unable to reach the safety of her barrier in time. She lost all her Scalding Slimes, and only two of her Fire Mages and a single shaman made it to safety.
+
+I’m lucky I kept the Acolytes nearby. She glanced up nervously at her barrier, but it seemed to be holding up, brilliant yellow viscous fluid draining from it in rivulets and small waterfalls, searing the ground as it landed.
+
+“It’s damaging the guardian,” Calen said. “Don’t stop shooting.”
+
+Indeed, Ali suddenly saw the smoking holes burned through the bark armor and wooden plates protecting the monster. It was still regenerating furiously, but the onslaught of luminous yellow acid rain was relentless. “Firebolts,” she called out, demonstrating her intent with her triple stream of Arcane Bolts. Her mages eagerly complied, firing bolt after bolt out into the storm, each one leaving blackened burns that tore into the monster of gnarled and animated wood.
+
+“Mato, come!” Ali yelled, seeing that the rain had destroyed the roots and vines binding him.
+
+“He can’t,” Malika answered. “If he brings it over here, we will die to the monster’s root magic.”
+
+“Oh…” Mato must have realized that he was freed from the entangling roots long before she had. But that meant he had chosen to stay out in the searing rain. To keep us safe. Ali redoubled her efforts, trying to kill the guardian as quickly as possible so that Mato would be able to flee from the agony of having his flesh melted and restored continuously.
+
+Her notification chime sounded and the Forest Guardian dropped, its body reduced to a smoking heap. Mato instantly turned and charged for their little huddle, joining them under the cover of her broad barrier. But there seemed to be no end to the swarm of jellyfish-like Lux Drifters passing slowly overhead.
+
+Mato and Malika stood there staring open-mouthed at the sky, helpless in the face of the aerial swarm. Even Calen had lowered his bow, not willing to waste arrows on an endeavor as useful as shooting a thunderstorm. But Ali was far from helpless.
+
+“Fireballs,” she called, and her mages grinned wickedly, summoning their magic.
+
+The explosions detonated repeatedly in the skies, and burning monsters fell to the ground in a disgusting rain of splattering jellyfish corpses. But the swarm kept coming, oblivious to all her efforts. None of her minions could make the slightest impact as the swarm floated inexorably by; not the wyverns flying above, not the bolts of lightning, nor even the powerful fireballs that destroyed them by the dozens.
+
+“There’s too much of it…” Even in her mind, she had switched to thinking of the swarm as a quantity, not a host of individuals. It behaved like a natural disaster, and when it finally passed, taking the acid rain with it, all that remained was a broad, blackened path through the jungle, and a tiny spot of glowing golden barrier magic in the center, under which they had taken refuge. As the hissing and smoke faded into the distance, all that remained was the screeching of terrified monsters fleeing from the flying devastation, and the screams of pain of those unlucky ones caught in its path.
+
+“I’ve never seen a flying ooze before,” Calen observed, as all four of them stared at the receding swarm.
+
+“I felt so helpless facing those,” Malika said as the cloud vanished in the distance. She sat on the lone patch of grass in the sea of destruction that Ali’s barrier umbrella had protected to begin her meditation.
+
+“They were like a force of nature, nothing I did made the slightest bit of difference. Not even fireballs.” Ali had felt the same helplessness Malika described.
+
+It’s a little like Naia’s Stinging Jellies, Ali thought, recalling the swarm creatures she had fought in the underwater caverns of Naia’s dungeon. Only there were a whole lot more of these ones, and the damage was incomparable.
+
+Ali pushed her barrier off to the side before dismissing it, and the acidic goop still pooled on it splattered safely to the ground some distance away. She walked over to a splattered, half-burnt jellyfish and examined it. It was a circular disk of jelly-like substance, mostly translucent and yellowish, almost the size of a human head. She glanced over at her friends for reference. Closer to Malika than Mato’s head, she decided. Mato had a big head. The light-affinity mana imbued into the rim of the creature and surrounding the central circular ‘mouth’ was beginning to fade as the creature dimmed. On the underside of the monster were six sets of small gills that still leaked the yellowish mana-imbued acid.
+
+Careful not to splash acid on her fingers, Ali reached down to deconstruct it. Naia is going to love these! She was excited to see how Naia reacted when she shared this new ooze, so she scoured the battlefield for more of them – not that they were particularly difficult to find after her barrage of fireballs. Naia clearly loved her slimes and oozes, and even sharing just two new ones with her had very obviously boosted her intelligence.
+
+Variant: Lux Drifter added to Imprint: Ooze.
+
+Should I be sharing this with Naia? The thought suddenly stopped her cold. Was she happily contemplating giving a dungeon a monster that had just devastated an enormous section of an entire jungle? But her mind conjured Naia’s happy bouncing form and her pure and simple excitement at learning the new slimes Ali had offered. Maybe I can convince her to keep them restricted to the cave we found? I should check on her again.
+
+Trying to sort through her conflicting feelings about her new friend, and what she should or shouldn’t do, Ali systematically deconstructed everything she found on the battlefield.
+
+Variant: Sparkling Ooze added to Imprint: Ooze.
+
+By comparison, the Sparkling Ooze seemed rather tame, and Ali felt less conflict as she considered sharing this one with the little blue Mimic Slime she had befriended.
+
+And that was my second Forest Guardian. The huge monster of bark and dense wood – at least what was left of it – evaporated into mana before her. She had worried that she wouldn’t encounter another – that the one they had fought by the library might be the only one left. But Calen had mentioned seeing one on his way to the shrine of the Wanderer – and this one had been a different level. Which means I can learn it. The thought filled her with a powerful urge to set out and find it.
+
+“I need one or two more Forest Guardians,” she said. She supposed that the extreme acid damage that this guardian had suffered might force her Grimoire to require more samples, but she wasn’t certain.
+
+“Ok, I’ll go look for tracks,” Calen offered.
