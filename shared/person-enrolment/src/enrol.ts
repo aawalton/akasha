@@ -2,7 +2,7 @@ import { grantAccess } from "@shared/person-access/grant"
 import { type AccessKind } from "@shared/person-access/page-type"
 import { grantAuthority } from "@shared/person-authority/grant"
 import { type AuthorityKind } from "@shared/person-authority/page-type"
-import { handlerSeatName, type PersonDocument } from "@shared/person-document/person-document"
+import { type PersonDocument } from "@shared/person-document/person-document"
 import { readHandlerRecord, writeHandlerRecord } from "./handler-record"
 import { readEnrolment, writeEnrolment } from "./record"
 
@@ -49,7 +49,7 @@ export class EnrolmentUnverified extends Error {
 
 export async function enrolPerson(args: EnrolArgs): Promise<EnrolResult> {
   const { person, accountUserId } = args
-  const handlerSeat = handlerSeatName(person.persona, person.slug)
+  const handlerSeat = person.slug
 
   await writeHandlerRecord({ accountUserId, handlerSeat, phone: person.phone })
 
