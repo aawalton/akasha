@@ -12,7 +12,7 @@
  * draws it correctly. `champion-persona:` picks the one
  * parent championing descends, and that edge is a tree: one line per domain. A traversal written here
  * would be a second answer to who champions what, free to drift from the repository's own, and
- * it would be the one nobody watches. So `ops akasha champions --tree --json` is called
+ * it would be the one nobody watches. So `ops domain champions --tree --json` is called
  * and its answer is parsed.
  *
  * PARSED RATHER THAN CAST. This crosses a process boundary. A shape check here turns a
@@ -85,12 +85,12 @@ export function parseDomainTree(stdout: string): DomainTree {
 	try {
 		value = JSON.parse(stdout);
 	} catch (err) {
-		throw new Error(`ops akasha champions --tree --json did not print JSON: ${String(err)}`);
+		throw new Error(`ops domain champions --tree --json did not print JSON: ${String(err)}`);
 	}
 	const parsed = DOMAIN_TREE_SCHEMA.safeParse(value);
 	if (!parsed.success) {
 		throw new Error(
-			`ops akasha champions --tree --json printed a shape this cannot read: ${parsed.error.message}`
+			`ops domain champions --tree --json printed a shape this cannot read: ${parsed.error.message}`
 		);
 	}
 	return parsed.data;
@@ -123,7 +123,7 @@ export function documentPath(tree: DomainTree, node: DomainNode): string {
  * empty on 2026-08-13. See that file for the measurement.
  */
 export async function readDomainTree(): Promise<DomainTree> {
-	const stdout = await runOps(['akasha', 'champions', '--tree', '--json'], {
+	const stdout = await runOps(['domain', 'champions', '--tree', '--json'], {
 		timeout: READ_TIMEOUT_MS,
 		maxBuffer: MAX_BUFFER,
 	});
