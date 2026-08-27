@@ -24,18 +24,17 @@ function stateSeat(agent: string, held: Attributes, task: string | null = null):
 
 let at: Fixture
 let priorAgent: string | undefined
-let priorRoot: string | undefined
 
 function stated(slug: string): Attribute {
   return { slug }
 }
 
 beforeEach(() => {
+  // `fixture()` NAMES ITS OWN ROOT through `AKASHA_ROOT`. This set `INSTRUCTIONS_ROOT` beside it,
+  // which nothing reads, so the hold was judged against the live checkout rather than `at.root`.
   at = fixture()
   priorAgent = process.env.AGENT_ID
-  priorRoot = process.env.INSTRUCTIONS_ROOT
   process.env.AGENT_ID = SEAT
-  process.env.INSTRUCTIONS_ROOT = at.root
   at.document(PERSONA, "name: aria\ndomain-parent-slug: global", 30)
   at.document(ROLE, "domain-parent-slug: global", 25)
   at.installRecorder()
@@ -46,8 +45,6 @@ beforeEach(() => {
 afterEach(() => {
   if (priorAgent === undefined) delete process.env.AGENT_ID
   else process.env.AGENT_ID = priorAgent
-  if (priorRoot === undefined) delete process.env.INSTRUCTIONS_ROOT
-  else process.env.INSTRUCTIONS_ROOT = priorRoot
   at.dispose()
 })
 
