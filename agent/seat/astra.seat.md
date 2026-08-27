@@ -8,7 +8,6 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
-initiative-slug: astra-pages-system
 errand: "Okay, assume all of the current stamp code was gone. With the vision for our strategy (which I don't think we captured yet? add to the initiative?) What depends on a stamp like this?"
 registration-account: aawalton
 claude-code-session-uuid: beb04e61-d7e2-471d-8a27-5b1bf50251f3
