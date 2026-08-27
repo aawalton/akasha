@@ -124,10 +124,10 @@ const SCENARIOS: readonly Scenario[] = [
     name: "hands the spec's own bootPrompt to the revive effect",
     setup: {
       specs: [
-        { ...spec("amy-ki-handler", [wakeRule("sms:amy-ki-handler")]), bootPrompt: "/handler ki" },
+        { ...spec("ki", [wakeRule("sms:ki")]), bootPrompt: "/handler ki" },
       ],
-      rows: { "amy-ki-handler": { id: "a1" } },
-      inbound: { a1: [{ sender: "sms:amy-ki-handler", content: "hey" }] },
+      rows: { "ki": { id: "a1" } },
+      inbound: { a1: [{ sender: "sms:ki", content: "hey" }] },
     },
     standing: { reviveCalls: ["a1"], reviveBootPrompts: ["/handler ki"] },
   },
