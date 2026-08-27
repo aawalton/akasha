@@ -21,10 +21,13 @@ import { argumentsOf, type Span, type Tokens, tokensOf } from "./source-tokens.t
  * arguments after the base to `join` or `resolve`, and as the static tail of a template the base
  * opens.
  *
- * A BASE THIS CANNOT READ A PATH OFF builds some path under this file's directory and will not say
- * which. Where the call moves anything out of that directory, or moves the file holding it, the
- * move is REFUSED. Guessing which path such an expression builds is how a body gets carried off
- * from under working code, and a refusal costs a sentence.
+ * A BASE THIS CANNOT READ A PATH OFF is counted and named rather than passed over. It builds some
+ * path under the deepest directory it does spell out, and where the call moves a file standing
+ * DIRECTLY in that directory, or moves the file the expression is written in, the move is
+ * REFUSED: those are the two ways such a path goes stale, and guessing which path it builds is
+ * how a body gets carried off from under working code. One whose directory this call does not
+ * touch is counted and left alone, a move answering for what it moves rather than for every
+ * unknown standing anywhere in the tree.
  *
  * A DIRECTORY VALUE THAT MERELY ESCAPES — bound to a name, handed to a function, wrapped in
  * `dirname` — is not counted against the move. A directory names no file on its own, and every
@@ -59,11 +62,13 @@ export interface RuntimePaths {
   readonly patches: readonly Patch[]
   /** How many relative runtime paths were read and resolved, changed or not. */
   readonly read: number
-  /** Each base a path could not be read off, as `line: \`text\``. */
+  /** How many bases stood here that no path could be read off, whether or not they bear on this. */
+  readonly unread: number
+  /** Those of them this call moves a file out from under, as `line: \`text\``. */
   readonly unreadable: readonly string[]
 }
 
-export const NO_RUNTIME_PATHS: RuntimePaths = { patches: [], read: 0, unreadable: [] }
+export const NO_RUNTIME_PATHS: RuntimePaths = { patches: [], read: 0, unread: 0, unreadable: [] }
 
 export function readsRuntimePaths(relPath: string): boolean {
   return MODULE_ENDINGS.some((one) => relPath.endsWith(one))
@@ -102,6 +107,21 @@ function literalIn(body: string, tokens: Tokens, span: Span): Literal | null {
   return text.includes("\\") ? null : { value: text, span: only, quote: "`" }
 }
 
+/** The leading run of static text of a template standing alone in `span`, empty for anything else. */
+function headOf(body: string, tokens: Tokens, span: Span): string {
+  const at = trimmedSpan(body, span)
+  const template = tokens.templates.get(at.start)
+  if (template === undefined || template.end !== at.end) return ""
+  const first = template.quasis[0]
+  return first === undefined ? "" : body.slice(first.start, first.end)
+}
+
+/** The deepest directory a partly-written path still spells out. */
+function prefixOf(dir: string, head: string): string {
+  const cut = head.lastIndexOf("/")
+  return normalizeAbsolute(cut === -1 ? dir : `${dir}/${head.slice(0, cut + 1)}`)
+}
+
 /** Where a run of path segments lands, taking a segment that opens with `/` as starting over. */
 function walked(dir: string, segments: readonly string[]): string {
   let at = dir
@@ -126,14 +146,13 @@ export function runtimePatches(
   const beneath = dirOf(hostBefore)
   const lands = dirOf(hostAfter)
   const patches: Patch[] = []
-  const unreadable: string[] = []
+  const dark: { readonly span: Span; readonly prefix: string }[] = []
   let read = 0
 
   const lineOf = (index: number): number => body.slice(0, index).split("\n").length
 
-  const cannot = (span: Span): void => {
-    const text = body.slice(span.start, span.end).replace(/\s+/g, " ").trim()
-    unreadable.push(`${lineOf(span.start)}: \`${text}\``)
+  const cannot = (span: Span, prefix: string): void => {
+    dark.push({ span, prefix })
   }
 
   /** Where a run of segments now lands, or null where nothing about it changes. */
@@ -160,7 +179,8 @@ export function runtimePatches(
     if (tokens.masked.slice(second.start, second.end).trim() !== OWN_URL) continue
     const literal = literalIn(body, tokens, first)
     if (literal === null) {
-      cannot({ start: match.index ?? 0, end: second.end + 1 })
+      const span = { start: match.index ?? 0, end: second.end + 1 }
+      cannot(span, prefixOf(beneath, headOf(body, tokens, first)))
       continue
     }
     const next = retarget([literal.value])
@@ -184,9 +204,15 @@ export function runtimePatches(
     }
     const literals = rest.map((one) => literalIn(body, tokens, one))
     const written: Literal[] = []
-    for (const one of literals) if (one !== null) written.push(one)
+    for (const one of literals) {
+      if (one === null) break
+      written.push(one)
+    }
     if (written.length !== literals.length) {
-      cannot({ start: match.index ?? 0, end: (rest.at(-1)?.end ?? open) + 1 })
+      const span = { start: match.index ?? 0, end: (rest.at(-1)?.end ?? open) + 1 }
+      const upTo = walked(beneath, written.map((one) => one.value))
+      const next = rest[written.length]
+      cannot(span, prefixOf(upTo, next === undefined ? "" : headOf(body, tokens, next)))
       continue
     }
     const next = retarget(written.map((one) => one.value))
@@ -217,15 +243,15 @@ export function runtimePatches(
         // The base opens a path that carries straight on into the next `${}`, or is glued to text
         // no path starts with. Either way what it builds is not there to read.
         if (text === "" && index + 1 === template.exprs.length) read += 1
-        else cannot(template)
+        else cannot(template, prefixOf(beneath, text.slice(0, cut)))
         continue
       }
       if (cut === text.length && index + 1 < template.exprs.length) {
-        cannot(template)
+        cannot(template, prefixOf(beneath, text))
         continue
       }
       if (text[0] !== "/") {
-        cannot(template)
+        cannot(template, prefixOf(beneath, text.slice(0, cut)))
         continue
       }
       const next = retarget([text.slice(1, cut)])
@@ -234,9 +260,21 @@ export function runtimePatches(
     }
   }
 
-  // A base no path could be read off only bears on THIS call where the call moves something out
-  // from under it, or moves the file it stands in — otherwise it names nothing this touches.
-  const bites =
-    beneath !== lands || [...moved.keys()].some((one) => one.startsWith(`${beneath}/`))
-  return { patches, read, unreadable: bites ? unreadable : [] }
+  // A base no path could be read off bears on THIS call where the call moves a file standing
+  // DIRECTLY in the deepest directory that base spells out, or moves the file it stands in.
+  // Anywhere else it names nothing this touches, and refusing over it would stop every move in
+  // the tree for an unknown that was never about the move.
+  const holding = new Set([...moved.keys()].map((one) => dirOf(one)))
+  const bites = (prefix: string): boolean => beneath !== lands || holding.has(prefix)
+  return {
+    patches,
+    read,
+    unread: dark.length,
+    unreadable: dark
+      .filter((one) => bites(one.prefix))
+      .map((one) => {
+        const text = body.slice(one.span.start, one.span.end).replace(/\s+/g, " ").trim()
+        return `${lineOf(one.span.start)}: \`${text}\``
+      }),
+  }
 }
