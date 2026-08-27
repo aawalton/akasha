@@ -3,6 +3,7 @@ import loaderEdgeProducer from "./edge-producer/loader/loader.graph-edge-produce
 import typescriptEdgeProducer from "./edge-producer/typescript/typescript.graph-edge-producer.code.attachment.ts"
 import type { EdgeAttrs, EdgeInit, EdgeProducer } from "./edge-producer/edge-shape.ts"
 import fileNodeProducer, { type FileNode } from "./node-producer/file/file.graph-node-producer.code.attachment.ts"
+import folderNodeProducer, { type FolderNode } from "./node-producer/folder/folder.graph-node-producer.code.attachment.ts"
 import type { BuildContext } from "./build-context/build-context.ts"
 import type { NodeRef } from "./node-producer/node-shape.ts"
 
@@ -17,6 +18,14 @@ export function nodeAt(ctx: BuildContext, ref: NodeRef): FileNode | null {
 
 export function nodesIn(ctx: BuildContext, repos: readonly string[]): readonly FileNode[] {
   return fileNodeProducer.all(ctx, repos)
+}
+
+export function folderAt(ctx: BuildContext, ref: NodeRef): FolderNode | null {
+  return folderNodeProducer.at(ctx, ref)
+}
+
+export function foldersIn(ctx: BuildContext, repos: readonly string[]): readonly FolderNode[] {
+  return folderNodeProducer.all(ctx, repos)
 }
 
 export const NARROWS_NOTHING: EdgeAttrs = {}
