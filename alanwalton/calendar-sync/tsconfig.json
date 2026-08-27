@@ -1,0 +1,23 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": false,
+    "emitDeclarationOnly": true,
+    "declarationDir": "dist",
+    "types": [
+      "@types/bun"
+    ]
+  },
+  "include": [
+    "./**/*.ts"
+  ],
+  "exclude": [
+    "apps.workflow.ts",
+    "dist"
+  ],
+  "references": [
+    { "path": "../../shared/pages-query" },
+    { "path": "../../infra/k8s-types" }
+  ]
+}
