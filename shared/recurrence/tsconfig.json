@@ -13,7 +13,7 @@
   },
   "include": [
     "src/**/*.ts",
-    "../../akasha/day/**/*.ts"
+    "../../day/**/*.ts"
   ],
   "exclude": [
     "node_modules",

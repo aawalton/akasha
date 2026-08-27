@@ -13,9 +13,9 @@
   },
   "include": [
     "src/**/*.ts",
-    "../../akasha/readouts/ring/tier/tier.ts",
-    "../../akasha/readouts/ring/ladder/ladder.ts",
-    "../../akasha/alan/persona/closeness/closeness.ts"
+    "../../readouts/ring/tier/tier.ts",
+    "../../readouts/ring/ladder/ladder.ts",
+    "../../alan/persona/closeness/closeness.ts"
   ],
   "exclude": [
     "node_modules",

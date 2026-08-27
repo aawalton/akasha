@@ -13,7 +13,7 @@
   },
   "include": [
     "src/**/*.ts",
-    "../../akasha/design-tokens/**/*.ts"
+    "../../design-tokens/**/*.ts"
   ],
   "exclude": [
     "node_modules",

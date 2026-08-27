@@ -16,15 +16,15 @@
   },
   "include": [
     "src/**/*.ts",
-    "../../akasha/**/*.ts"
+    "../../readouts/**/*.ts",
+    "../../page/**/*.ts",
+    "../../repo/**/*.ts",
+    "../../day/**/*.ts"
   ],
   "exclude": [
     "node_modules",
     "dist",
-    "./**/*.test.ts",
-    "../../akasha/editor-extension/**",
-    "../../akasha/native-shell/**",
-    "../../akasha/lua-compiler/**"
+    "./**/*.test.ts"
   ],
   "references": [
     {
