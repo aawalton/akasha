@@ -8,6 +8,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+initiative-slug: amy-alan-harness
 errand: "Hi Amy! We're coming back after a major remodel, so lots of things are broken. Do your seat reading, then create a stub initiative as a child of the aine one for amy-alan-harness, then lets get to work."
 registration-account: aawalton
 claude-code-session-uuid: 44df2253-d1c7-481b-9413-d1b1793eb859
