@@ -1,6 +1,7 @@
 {
   "name": "@temper/shared-build-deploy-addons-resolve",
   "dependencies": {
+    "@shared/utils-narrow": "workspace:*",
     "@shared/workspace-paths": "workspace:*",
     "zod": "^4.3.6"
   },
@@ -16,10 +17,14 @@
     ".": "./src/index.ts",
     "./deployables": "./src/deployables.ts",
     "./closure": "./src/closure.ts",
+    "./distributable": "./src/distributable.ts",
+    "./folder-ownership": "./src/folder-ownership.ts",
     "./manifest": "./src/manifest.ts",
+    "./sibling-addons": "./src/sibling-addons.ts",
     "./*": "./src/*.ts"
   },
   "scripts": {
+    "test": "bun test",
     "typecheck": "bunx @typescript/native-preview -b",
     "lint": "biome check .",
     "lint:fix": "biome check --write ."
