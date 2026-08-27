@@ -2,7 +2,7 @@
 import { describe, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { toolArgv } from "../lib/tool-argv.ts"
-import { CLAIMED, fileKeyDeclared, fixture, type Fixture } from "./fixture.ts"
+import { CLAIMED, fileKeyDeclared, fixture, installRepos, type Fixture } from "./fixture.ts"
 import { installCommands } from "./seat-fixture.ts"
 
 const AGENT = "rename-repo-test"
@@ -19,6 +19,9 @@ function commitsIn(root: string): number {
 }
 
 function storeAt(at: Fixture): void {
+  // THE REPO PAGES SAY WHICH REPOSITORIES THERE ARE, read out of the root `AKASHA_ROOT` names, so
+  // the spawned `mv` throws in `roots.ts` at import without them.
+  installRepos(at.root)
   at.installRecorder()
   fileKeyDeclared(at)
   at.document("pages/page-type/initiative.page-type.md", `slug: initiative\ndomain-parent-slug: global\n${CLAIMED}: akasha:initiatives/amy/ambient-hud.md`)
