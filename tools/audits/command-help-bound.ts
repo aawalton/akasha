@@ -1,15 +1,16 @@
-import { AKASHA, CODE, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { readFileSync, existsSync } from "node:fs"
 import { dirname, resolve } from "node:path"
 import type { AsyncCheck } from "../lib/check.ts"
-import { judge, over, skip } from "../../outcome/outcome"
+import { judge, over } from "../../outcome/outcome"
+import { workspacesIn } from "../../workspace-package/manifest-workspaces.ts"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
 import { declaredCommands } from "../ops/declared.ts"
 import { forwarderCommands } from "../ops/forwarders.ts"
 
 const NAME = "command-help-bound"
 
-const UNIT = "code-repository TypeScript file under `packages/`"
+const UNIT = "workspace-package TypeScript file"
 
 const DECLARES = "const [A-Za-z][A-Za-z0-9]*: *CommandHelp"
 
@@ -58,10 +59,35 @@ function lines(run: { exitCode: number | null; stdout: Uint8Array }, ceiling: nu
     .sort()
 }
 
-function searched(codeRoot: string): readonly string[] | null {
+/**
+ * The pathspecs covering every workspace package's TypeScript.
+ *
+ * THE `packages/` PREFIX IS GONE. The `code` repository was absorbed into akasha and what stood at
+ * `packages/infra/` now stands at `infra/`, `packages/shared/` at `shared/`, and so on for each
+ * namespace, so no one prefix names them all any more. The manifest's own `workspaces` array is
+ * what says which top-level directories hold packages; deriving from it keeps this in step with a
+ * namespace added or dropped, where a list written out here would silently search less than it says.
+ *
+ * NOTHING NAMED IS NOT AN EMPTY SEARCH: a manifest stating no workspaces answers `null`, which the
+ * caller refuses over. Reading it as "no packages" would search nothing and report every help
+ * spelling bound.
+ */
+export function workspacePathspecs(manifest: string): readonly string[] | null {
+  const workspaces = workspacesIn(manifest)
+  if (workspaces === null || workspaces.length === 0) return null
+  const dirs = new Set<string>()
+  for (const one of workspaces) {
+    const head = one.split("/")[0]
+    if (head !== undefined && head !== "") dirs.add(head)
+  }
+  if (dirs.size === 0) return null
+  return [...dirs].sort().flatMap((one) => [`${one}/*.ts`, `${one}/**/*.ts`])
+}
+
+function searched(codeRoot: string, specs: readonly string[]): readonly string[] | null {
   try {
     return lines(
-      Bun.spawnSync(["git", "-C", codeRoot, "ls-files", "--cached", "--others", "--exclude-standard", "packages/*.ts", "packages/**/*.ts"], {
+      Bun.spawnSync(["git", "-C", codeRoot, "ls-files", "--cached", "--others", "--exclude-standard", "--", ...specs], {
         stdout: "pipe",
         stderr: "pipe",
       }),
@@ -72,11 +98,11 @@ function searched(codeRoot: string): readonly string[] | null {
   }
 }
 
-function spellers(codeRoot: string): readonly string[] | null {
+function spellers(codeRoot: string, specs: readonly string[]): readonly string[] | null {
   try {
     return lines(
       Bun.spawnSync(
-        ["git", "-C", codeRoot, "grep", "--untracked", "-lE", DECLARES, "--", "packages/*.ts", "packages/**/*.ts"],
+        ["git", "-C", codeRoot, "grep", "--untracked", "-lE", DECLARES, "--", ...specs],
         { stdout: "pipe", stderr: "pipe" }
       ),
       1
@@ -109,15 +135,25 @@ function claimedCommand(source: string, commands: ReadonlySet<string>): string |
 }
 
 export const commandHelpBound: AsyncCheck = async (repo) => {
-  const codeRoot = repo.roots.code
-  if (codeRoot === undefined) {
+  // THE `code` REPOSITORY IS GONE, absorbed into akasha, so the tree holding these packages is this
+  // one. This read `repo.roots.code`, which answers `undefined` for a repository nothing has cloned,
+  // and skipped over a population of zero — a verdict `tools/run-checks.ts` counts as not-refused,
+  // so no help spelling anywhere was compared and the suite still wrote green.
+  const codeRoot = rootFor(repo.roots, AKASHA)
+  const specs = workspacePathspecs(read(`${codeRoot}/package.json`))
+  if (specs === null) {
     return {
-      ...skip(NAME, `no \`${CODE}\` repository is cloned here, so no help spelling in it was searched`),
+      ...judge(NAME, `${codeRoot}/package.json states no \`workspaces\`, so which directories hold packages is unknown`, [
+        `${NAME} builds its pathspecs from the \`workspaces\` array in ${codeRoot}/package.json and ` +
+          `read none, so it searched no file and this verdict covers nothing. The \`packages/\` ` +
+          `prefix these once stood under is gone — each namespace sits at the top level now — and ` +
+          `that array is the only thing left saying which directories they are.`,
+      ]),
       population: over(0, UNIT),
     }
   }
-  const scanned = searched(codeRoot)
-  const found = scanned === null ? null : spellers(codeRoot)
+  const scanned = searched(codeRoot, specs)
+  const found = scanned === null ? null : spellers(codeRoot, specs)
   if (scanned === null || found === null) {
     return {
       ...judge(NAME, `${codeRoot} could not be searched`, [
@@ -167,7 +203,7 @@ export const commandHelpBound: AsyncCheck = async (repo) => {
   return {
     ...judge(
       NAME,
-      `${scanned.length} code-repository file(s) searched, ${found.length} declaring a \`CommandHelp\`, ${messages.length} unbound or drifted. ` +
+      `${scanned.length} workspace-package file(s) searched, ${found.length} declaring a \`CommandHelp\`, ${messages.length} unbound or drifted. ` +
         "This reading is keyed on that declaration, never on whether a file parses a command's flags: " +
         "one that reaches `parseArgs` without declaring a `CommandHelp` is outside the denominator " +
         "and a clean count here says nothing about it.",
