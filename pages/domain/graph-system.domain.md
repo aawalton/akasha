@@ -12,7 +12,6 @@ sequence-slugs:
   - domain/graph-deriver
   - domain/graph-reader
   - domain/graph-artifact
-  - domain/ops-graph
 settled: true
 ---
 
