@@ -1,10 +1,11 @@
 import { afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { dirname } from "node:path"
+import { dirname, resolve } from "node:path"
 import { tmpdir } from "node:os"
-import { resolveRoots } from "../../repo/roots/roots"
 
 const COMMAND = `${import.meta.dir}/../rename-token.ts`
+
+const HERE = resolve(import.meta.dir, "..", "..")
 
 const KEPT = `export type Held = { readonly at: number }
 export const SPELLED = "Held is a word here and nothing more"
@@ -35,7 +36,13 @@ function put(relPath: string, body: string): void {
 function run(...argv: readonly string[]): { readonly code: number; readonly said: string } {
   const done = Bun.spawnSync({
     cmd: [process.execPath, COMMAND, ...argv, "--dry-run"],
-    env: { ...process.env, HOME: home, INSTRUCTIONS_ROOT: root, CODE_ROOT: resolveRoots().code },
+    // `AKASHA_ROOT` IS WHAT NAMES THE TEMP REPO. This set `INSTRUCTIONS_ROOT`, which nothing reads:
+    // `rename-token.ts` resolves `targetRoot(roots)`, whose default target is akasha, so every case
+    // below ran against the real checkout and only `--dry-run` kept it from writing there.
+    //
+    // `CODE_ROOT` IS WHERE THE TYPESCRIPT IS. `installed()` looks for a language service under
+    // `codeRoot()`, and the temp repo has no `node_modules`, so it is pointed at this checkout's.
+    env: { ...process.env, HOME: home, AKASHA_ROOT: root, CODE_ROOT: HERE },
     stdout: "pipe",
     stderr: "pipe",
   })
