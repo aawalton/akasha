@@ -15,3 +15,8 @@ settled: true
 # Definition
 
 - **Alan harness stoplights** — how Alan knows what to do next.
+
+# Intent
+
+- Every difference between two readouts is written on them.
+- No code names a readout or a readout group.
