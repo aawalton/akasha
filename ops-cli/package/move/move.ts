@@ -138,8 +138,8 @@ export default async function move(argv: readonly string[]): Promise<void> {
   if (stated === null) fail(`${FROM} names the package directory to move`)
   const source = addressOf(argv, [stated])
   if (source === null) fail(`${stated} stands inside no repository, and a move is a commit in one`)
+  if (argv.includes(ALL)) return await moveEverything(argv, source, "")
   const fromDir = relPathIn(source, stated)
-  if (argv.includes(ALL)) return await moveEverything(argv, source, fromDir)
 
   const manifest = `${source.root}/${fromDir}/${MANIFEST}`
   if (!existsSync(manifest)) fail(`${fromDir} holds no ${MANIFEST}, so it is not a workspace package`)
