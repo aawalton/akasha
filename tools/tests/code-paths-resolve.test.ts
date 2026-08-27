@@ -20,8 +20,8 @@ function reaching(ref: string): string {
 
 function view(): RepoView {
   return {
-    roots: { instructions, code } as unknown as RepoView["roots"],
-    name: "instructions",
+    roots: { akasha: instructions, "code-editor": "/nonexistent-code-editor" },
+    name: "akasha",
     documents: [],
     read: () => "",
     exists: (absolute) => existsSync(absolute),
@@ -83,7 +83,7 @@ describe("codePathsResolve", () => {
   test("a tree holding nothing to read fails rather than passing over nothing", () => {
     const empty = mkdtempSync("/var/tmp/code-paths-empty-")
     try {
-      const outcome = codePathsResolve({ ...view(), roots: { instructions: empty, code } as unknown as RepoView["roots"] })
+      const outcome = codePathsResolve({ ...view(), roots: { akasha: empty, "code-editor": "/nonexistent-code-editor" } })
       expect(outcome.verdict).toBe("fail")
       expect(outcome.population.measured).toBe(0)
     } finally {
@@ -101,7 +101,7 @@ describe("codePathsResolve", () => {
       put(handed, "tools/lib/dangles.ts", 'const GONE = "packages/agents/shared/never-was.ts"\n')
       const outcome = codePathsResolve({
         ...view(),
-        roots: { instructions: handed, code } as unknown as RepoView["roots"],
+        roots: { akasha: handed, "code-editor": "/nonexistent-code-editor" },
       })
       expect(outcome.verdict).toBe("fail")
       expect(outcome.messages).toHaveLength(2)
@@ -120,7 +120,7 @@ describe("codePathsResolve", () => {
       put(ported, "tools/lib/ported.ts", 'const SCRIPT = "packages/agents/shared/ported.ts"\n')
       const outcome = codePathsResolve({
         ...view(),
-        roots: { instructions: ported, code } as unknown as RepoView["roots"],
+        roots: { akasha: ported, "code-editor": "/nonexistent-code-editor" },
       })
       expect(outcome.population.measured).toBe(1)
       expect(outcome.messages).toHaveLength(0)
@@ -138,7 +138,7 @@ describe("codePathsResolve", () => {
       put(both, "tools/lib/either.ts", 'const SCRIPT = "packages/agents/shared/db.ts"\n')
       const outcome = codePathsResolve({
         ...view(),
-        roots: { instructions: both, code } as unknown as RepoView["roots"],
+        roots: { akasha: both, "code-editor": "/nonexistent-code-editor" },
       })
       expect(outcome.population.measured).toBe(0)
       expect(outcome.messages).toHaveLength(0)
