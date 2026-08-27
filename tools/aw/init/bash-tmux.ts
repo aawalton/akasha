@@ -7,6 +7,8 @@ import {
   supervisorEntryShell,
 } from "../../lib/tmux-launch-recipe.ts"
 import { personaDocumentGateLines, personaDocumentStandsShell } from "./persona-document.ts"
+import { personDocumentStandsShell } from "./person-document.ts"
+import { HANDLER } from "../../lib/compose-seat-name.ts"
 import { PROXY, ROOT_LOCAL, SEAT_START_DIR, SUPERVISOR } from "./entry-points.ts"
 import { implName } from "./reload.ts"
 import { payloadEscapeLines, resolveTokensLines, SEAT_COMMAND_REL } from "./state-seat.ts"
@@ -97,6 +99,17 @@ function flagLines(name: string, withForce = false): readonly string[] {
   ]
 }
 
+function handlerForPersonLines(name: string, only: boolean): readonly string[] {
+  const lone = only ? '[ "$#" = 1 ] && ' : ""
+  return [
+    `  local _${name}_handler=0`,
+    `  if ${lone}! { ${personaDocumentStandsShell("name")}; } && ` +
+      `{ ${personDocumentStandsShell("name")}; }; then`,
+    `    _${name}_handler=1`,
+    "  fi",
+  ]
+}
+
 function seatNameSplitLines(name: string): readonly string[] {
   return [
     `  if [ "$#" = 1 ] && [ "$name" != "\${name%%-*}" ] && ` +
@@ -119,8 +132,13 @@ export function seatNewFn(name: string): string {
     "  fi",
     `  ${ROOT_LOCAL}`,
     ...seatNameSplitLines(name),
+    ...handlerForPersonLines(name, true),
     ...payloadEscapeLines(name),
     `  local _${name}_typed_role="" _${name}_typed_domain="" _${name}_sorted=""`,
+    `  if [ "$_${name}_handler" = 1 ]; then`,
+    `    _${name}_typed_role="${HANDLER}"`,
+    `    _${name}_typed_domain="$name"`,
+    "  fi",
     `  if [ "$#" -gt 1 ] && [ -f "$_root/${SEAT_COMMAND_REL}" ]; then`,
     ...resolveTokensLines(name),
     `      echo "${name}: nothing was launched and nothing was stopped. Name the slots ` +
@@ -133,7 +151,9 @@ export function seatNewFn(name: string): string {
     `    _${name}_typed_role="$2"`,
     "  fi",
     ...spelledSeatNameLines(name),
+    `  if [ "$_${name}_handler" != 1 ]; then`,
     ...personaDocumentGateLines(name, "name"),
+    "  fi",
     "  local full_aid agent_flag=()",
     `  local _${name}_stop_flags=() _${name}_stop_err _${name}_stop_rc=0`,
     `  [ "$_${name}_force" = 1 ] && _${name}_stop_flags+=(--force)`,
@@ -158,8 +178,9 @@ export function seatNewFn(name: string): string {
     "      return 1",
     "    }",
     "  fi",
-    `  local _${name}_stated=(--start-mode interactive --persona "$name" ` +
-    `--principal ${INTERACTIVE_PRINCIPAL})`,
+    `  local _${name}_stated=(--start-mode interactive)`,
+    `  [ "$_${name}_handler" = 1 ] || _${name}_stated+=(--persona "$name" ` +
+      `--principal ${INTERACTIVE_PRINCIPAL})`,
     `  [ -n "$_${name}_typed_role" ] && _${name}_stated+=(--role "$_${name}_typed_role")`,
     `  [ -n "$_${name}_typed_domain" ] && ` +
       `_${name}_stated+=(--domain "$_${name}_typed_domain")`,
@@ -198,6 +219,7 @@ export function seatResumeFn(name: string): string {
     `    tmux attach-session -t "=$name"`,
     "    return $?",
     "  fi",
+    ...handlerForPersonLines(name, false),
     ...payloadEscapeLines(name),
     "  local full_aid full_sid",
     "  IFS=$'\\t' read -r full_aid full_sid < <(ops seat resume \"$name\" --start-mode interactive --no-launch)",
