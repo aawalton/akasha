@@ -1,5 +1,5 @@
 {
-  "name": "@temper/shared-build-deploy-lua-runner",
+  "name": "@temper/shared-build-deploy-lua-runner--from-code",
   "dependencies": {
     "zod": "^4.3.6"
   },
