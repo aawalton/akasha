@@ -1,0 +1,40 @@
+---
+page-type-slug: exercise
+title: Clean Pull
+id: 019ebc76-da54-7b25-8912-ba00d8892672
+force: pull
+level: intermediate
+source: free-exercise-db
+category: olympic-weightlifting
+mechanic: compound
+sfr-score: 2
+equipment: barbell
+skill-cost: high
+external-id: Clean_Pull
+grip-demand: high
+laterality: bilateral
+load-factor: 0
+image-end-url: "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/1.jpg"
+is-ballistic: true
+muscle-focus: legs
+scoring-mode: reps
+external-link: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Clean_Pull"
+last-synced-at: 2026-07-25
+image-start-url: "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg"
+implement-count: 1
+primary-muscles:
+  - quadriceps
+movement-pattern: hinge
+secondary-muscles:
+  - forearms
+  - glutes
+  - hamstrings
+  - lower-back
+  - traps
+trains-lengthened-range: false
+slug: clean-pull
+---
+
+1. With a barbell on the floor close to the shins, take an overhand or hook grip just outside the legs. Lower your hips with the weight focused on the heels, back straight, head facing forward, chest up, with your shoulders just in front of the bar. This will be your starting position.
+2. Begin the first pull by driving through the heels, extending your knees. Your back angle should stay the same, and your arms should remain straight and elbows out. Move the weight with control as you continue to above the knees.
+3. Next comes the second pull, the main source of acceleration for the clean. As the bar approaches the mid-thigh position, begin extending through the hips. In a jumping motion, accelerate by extending the hips, knees, and ankles, using speed to move the bar upward. There should be no need to actively pull through the arms to accelerate the weight; at the end of the second pull, the body should be fully extended, leaning slightly back, with the arms still extended. Full extension should be violent and abrupt, and ensure that you do not prolong the extension for longer than necessary.

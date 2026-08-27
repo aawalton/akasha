@@ -1,0 +1,38 @@
+---
+page-type-slug: exercise
+title: Bent Over Two-Dumbbell Row With Palms In
+id: 019ebc76-a673-7b79-8fc7-29e1028f606a
+force: pull
+level: beginner
+source: free-exercise-db
+category: strength
+mechanic: compound
+sfr-score: 3
+equipment: dumbbell
+skill-cost: moderate
+external-id: Bent_Over_Two-Dumbbell_Row_With_Palms_In
+grip-demand: high
+laterality: bilateral
+load-factor: 0
+image-end-url: "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Two-Dumbbell_Row_With_Palms_In/1.jpg"
+is-ballistic: false
+muscle-focus: pull
+scoring-mode: reps
+external-link: "https://github.com/yuhonas/free-exercise-db/tree/main/exercises/Bent_Over_Two-Dumbbell_Row_With_Palms_In"
+last-synced-at: 2026-07-25
+image-start-url: "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Two-Dumbbell_Row_With_Palms_In/0.jpg"
+implement-count: 2
+primary-muscles:
+  - middle-back
+movement-pattern: h-pull
+secondary-muscles:
+  - biceps
+  - lats
+trains-lengthened-range: false
+slug: bent-over-two-dumbbell-row-with-palms-in
+---
+
+1. With a dumbbell in each hand (palms facing each other), bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Tip: Make sure that you keep the head up. The weights should hang directly in front of you as your arms hang perpendicular to the floor and your torso. This is your starting position.
+2. While keeping the torso stationary, lift the dumbbells to your side as you breathe out, squeezing your shoulder blades together. On the top contracted position, squeeze the back muscles and hold for a second.
+3. Slowly lower the weight again to the starting position as you inhale.
+4. Repeat for the recommended amount of repetitions.
