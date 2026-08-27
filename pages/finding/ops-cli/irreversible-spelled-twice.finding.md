@@ -12,10 +12,10 @@ Whether an `ops` command is irreversible is stated in two places — `irreversib
 
 # Evidence
 
-Measured in the instructions repository on 2026-08-24: 45 files under `pages/ops-command/` carry `irreversible: true`, and 6 declarations under `tools/` carry `irreversible: "irreversible"`.
+Re-measured in the akasha repository on 2026-08-27: 39 files under `pages/old-ops-command/` carry `irreversible: true`, and 6 declarations carry `irreversible: "irreversible"` — four under `tools/` (`tools/commands/ali/fold.ts:22`, `tools/commands/ask-alan.ts:11`, `tools/commands/page/secret/clear.ts:9`, `tools/lib/seat-send-help.ts:4`) and two under `ops-cli/` (`ops-cli/global/rm/rm.command.code.attachment.ts:134`, `ops-cli/global/deploy/deploy.command.code.attachment.ts:55`).
 
-`tools/lib/ops-command.ts:74` tests `module.help?.irreversible === "irreversible"` when building the manifest that `tools/hooks/require-ops-help.ts` consults, so the document's value reaches nothing.
+`tools/lib/ops-command.ts:84` tests `module.help?.irreversible === "irreversible"` when building the manifest that `tools/hooks/agent-hook-require-ops-help.agent-hook.code.attachment.ts` consults, so the document's value reaches nothing.
 
-The 6 commands actually gated are `ali fold`, `ask-alan`, `branch delete`, `branch rebase`, `page secret clear` and `seat send`.
+The 6 commands actually gated are `ali fold`, `ask-alan`, `deploy`, `page secret clear`, `rm` and `seat send`.
 
-Not measured: whether the 39 documents declaring irreversibility without a matching code declaration are right about their commands, or whether the documents or the code hold the truth. I did not read those 39 commands. A search of `tools/` for `irreversible` returned ten sites, none of them a check comparing the two, but I did not search other repositories.
+Not measured: whether the 35 documents declaring irreversibility without a matching code declaration are right about their commands, or whether the documents or the code hold the truth. I did not read those 35 commands. A search of `tools/` for `irreversible` returned thirteen sites, none of them a check comparing the two.
