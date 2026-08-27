@@ -1,6 +1,6 @@
 import { execFileSync } from "node:child_process"
 import { describe, expect, test } from "bun:test"
-import { resolveRoots, rootFor } from "../../../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../../../../repo/roots/roots"
 import { createGraph } from "../../graph.ts"
 import type { Graph, Node } from "../../types.ts"
 import { TS_FILE_NODE_TYPE } from "../file/ts-file/types.ts"
@@ -21,11 +21,15 @@ const trackedTs = (root: string): ReadonlySet<string> =>
       .filter((one) => one.endsWith(".ts") || one.endsWith(".tsx"))
   )
 
-const inCode = trackedTs(rootFor(roots, CODE_REPO))
-
-const inInstructions = trackedTs(rootFor(roots, INSTRUCTIONS_REPO))
-
-const collisions = [...inCode].filter((one) => inInstructions.has(one)).sort()
+/**
+ * The paths that stand under both repository labels.
+ *
+ * ONE TREE CARRIES BOTH LABELS now that akasha has absorbed `code` and `instructions`, so every
+ * TypeScript file tracked here stands under both and the ambiguity `tsFileIdIn` settles is every
+ * path's rather than a rare few. This took a root per label and intersected them; `rootFor` throws
+ * on either name, so the whole file errored before a case ran.
+ */
+const collisions = [...trackedTs(rootFor(roots, AKASHA))].sort()
 
 const idFor = (repo: string, key: string): string => `${TS_FILE_NODE_TYPE}:${repo}:${key}`
 
@@ -52,7 +56,7 @@ const refusalFrom = (run: () => string): string => {
 }
 
 describe("which file a synth module's path picks out", () => {
-  test("some path stands in both repos, so the ambiguous case here is real and not invented", () => {
+  test("the tree was read for some path, so a silence here is the instrument and not the case", () => {
     expect(collisions.length).toBeGreaterThan(0)
   })
 
