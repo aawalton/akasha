@@ -5,7 +5,7 @@ import { type Documents, DOMAIN_SLUG_KEY } from "./domain.ts"
 import { slugNamed } from "../../page/page-address.ts"
 import { type Frontmatter, parseFrontmatter, textField } from "../../page/frontmatter.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
-import { domainKindTest } from "../../page/page-types.ts"
+import { domainKinds, domainKindTest } from "../../page/page-types.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { AKASHA, isDirty } from "../../repo/roots/roots"
 
@@ -14,6 +14,7 @@ export function documentsOnDemand(root: string): Documents {
   let byStem: ReadonlyMap<string, readonly string[]> | null = null
   let bySlug: ReadonlyMap<string, string> | null = null
   let domainKind: ((relPath: string, fm: Frontmatter) => boolean) | null = null
+  let kindAsked = false
   const read = (relPath: string): Frontmatter | null => {
     if (parsed.has(relPath)) return parsed.get(relPath) ?? null
     let held: Frontmatter | null = null
@@ -43,15 +44,23 @@ export function documentsOnDemand(root: string): Documents {
   // so — a wrong page is a page, and the ancestry and required reading drawn from it read as
   // whole. What a domain is, is settled by `domainKinds` walking `extends-slug`, so a page type
   // that extends one is one and needs no listing here.
-  const isDomain = (): ((relPath: string, fm: Frontmatter) => boolean) => {
-    if (domainKind !== null) return domainKind
-    domainKind = domainKindTest(AKASHA, registryOf(diskFileTree({ [AKASHA]: root })))
+  // A ROOT DECLARING NO PAGE TYPES SAYS NOTHING ABOUT WHAT A DOMAIN IS, and an empty set of
+  // kinds would answer no to every page, so a resolvable slug would come back as nothing at
+  // all. A fixture root holds the few pages its test is about and no page types beside them,
+  // so the filter stands aside there and every page is a candidate, as it was before.
+  const isDomain = (): ((relPath: string, fm: Frontmatter) => boolean) | null => {
+    if (kindAsked) return domainKind
+    kindAsked = true
+    const types = registryOf(diskFileTree({ [AKASHA]: root }))
+    if (domainKinds(types).size === 0) return domainKind
+    domainKind = domainKindTest(AKASHA, types)
     return domainKind
   }
   const domainHere = (at: string): Frontmatter | null => {
     const held = read(at)
-    if (held === null || !isDomain()(at, held)) return null
-    return held
+    if (held === null) return null
+    const kind = isDomain()
+    return kind === null || kind(at, held) ? held : null
   }
   const declared = (): ReadonlyMap<string, string> => {
     if (bySlug !== null) return bySlug
