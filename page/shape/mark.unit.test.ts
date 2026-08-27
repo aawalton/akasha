@@ -4,18 +4,14 @@ import { dirname, relative, resolve } from "node:path"
 import { CODE_DIRS, CODE_SEEDS } from "./mark.ts"
 import { HERE } from "../../repo/roots/roots.ts"
 
-const RUNTIME = "node:"
-
 const IMPORT = /(?:^|\n)\s*(?:import|export)[\s\S]*?from\s+"([^"]+)"/g
 
 interface Closure {
   readonly reached: ReadonlySet<string>
-  readonly outside: ReadonlySet<string>
 }
 
 function closureFrom(root: string, seeds: readonly string[]): Closure {
   const reached = new Set<string>()
-  const outside = new Set<string>()
   const queue = [...seeds]
   while (queue.length > 0) {
     const rel = queue.pop()
@@ -25,14 +21,13 @@ function closureFrom(root: string, seeds: readonly string[]): Closure {
     if (!existsSync(path)) continue
     for (const match of readFileSync(path, "utf8").matchAll(IMPORT)) {
       const spec = match[1] ?? ""
-      if (!spec.startsWith(".")) {
-        if (!spec.startsWith(RUNTIME)) outside.add(spec)
-        continue
-      }
+      // A bare specifier names a package or the runtime. Neither is walked: what is followed from
+      // here is the files of this repository.
+      if (!spec.startsWith(".")) continue
       queue.push(relative(root, resolve(dirname(path), spec)))
     }
   }
-  return { reached, outside }
+  return { reached }
 }
 
 function git(root: string, args: readonly string[]): number {
@@ -40,8 +35,19 @@ function git(root: string, args: readonly string[]): number {
   return done.exitCode ?? -1
 }
 
+/**
+ * WHAT IS NO LONGER CHECKED HERE: that the answer reaches no code the mark cannot hash.
+ *
+ * It held while the globs and the YAML came from `Bun.Glob` and `Bun.YAML`, which are the
+ * runtime's own and were covered by the runtime's version standing in the ground. The matcher is
+ * `minimatch` now, a package the ground cannot see, so a change to it moves no mark and an
+ * answer kept under the old one outlives the code that worked it out.
+ *
+ * Taken out on Alan's call rather than widened to pass. Hashing the lockfile into the ground, which
+ * is what pins the package, is what would earn the case back.
+ */
 describe("the mark names the code that works out the answer", () => {
-  const { reached, outside } = closureFrom(HERE, CODE_SEEDS)
+  const { reached } = closureFrom(HERE, CODE_SEEDS)
   const covered = (at: string): boolean => CODE_DIRS.some((dir) => at.startsWith(`${dir}/`))
 
   test("every file the answer is worked out from is hashed into the mark", () => {
@@ -50,10 +56,6 @@ describe("the mark names the code that works out the answer", () => {
 
   test("the answer reaches no code outside this repository", () => {
     expect([...reached].filter((at) => at.startsWith("../")).sort()).toEqual([])
-  })
-
-  test("the answer reaches no code the mark cannot hash, so nothing stands outside the runtime", () => {
-    expect([...outside].sort()).toEqual([])
   })
 
   test("every declared folder stands and is recorded, so none is left out of the ground", () => {
