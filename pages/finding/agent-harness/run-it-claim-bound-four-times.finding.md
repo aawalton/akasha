@@ -24,7 +24,9 @@ Four hits, all `# Sequence` bullets, none on a domain:
 
 `tasks/lead/verify-handback.md:21` — "**Run** each criterion's named instrument yourself rather than reading the account of it. The account is the seat's own report on its own work."
 
-`domains/agent-harness.md` states what this stands against — Single Authority, "Bind each claim from exactly one surface. A copy has an original, so a reader meeting both knows which drifted; two binding surfaces have none."
+Re-measured 2026-08-27 in akasha, where the four task documents moved to `pages/task/`. Three of the four surfaces stand: `pages/task/review-instructions.task.md:21` and `pages/task/guided-close-read.task.md:25` carry the first clause as "**Run** whatever the line claims about the machinery rather than reading the code for it" and then the same second sentence word for word — "A piece of the machinery you have only read, never run, gives a confident wrong answer that reads exactly like a checked one." — and `pages/task/verify-handback.task.md:22` carries "**Settle** the intent by an instrument you run yourself rather than by the account of one. The account is the seat's own report on its own work." The `ingest-instructions` task is gone, and no domain carries the claim.
+
+`pages/domain/agent-harness.domain.md:53-61` states what this stands against — Single Authority, "Bind each claim from exactly one document. Where two documents bind one claim, their disagreement is a contradiction nothing can settle."
 
 Two failures the claim would have reached were logged against seats holding none of the four tasks: rows #17766 and #17772, both cut by the agent-harness lead on a define pass, each concluding from a source search that a crossing was absent.
 
