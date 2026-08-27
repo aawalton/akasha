@@ -33,17 +33,17 @@
 //  3. Whether a function given an absent value answers absent is written for
 //     operators and not for functions. One case takes the reading that it
 //     does, and is marked in its comment.
-//  4. What a text literal renders where its reference is absent is not
-//     written, so no case fills an absent reference into a literal.
-//  5. Whether a number or a boolean may be filled into a text literal at all
-//     is not written. One case-form case assumes it may; it is marked.
-//  6. Whether `<`, `<=`, `>` and `>=` reach text is not written, so only
+//  4. Whether a number or a boolean may be filled into a text literal at all
+//     is not written. What an *absent* reference does is settled, on
+//     `formula-absent-value.domain.md:25`; what a present non-text one does is
+//     not. One case-form case assumes it may; it is marked.
+//  5. Whether `<`, `<=`, `>` and `>=` reach text is not written, so only
 //     numbers are compared here.
-//  7. Whether `hasWord` folds case, and what besides a space bounds a word,
+//  6. Whether `hasWord` folds case, and what besides a space bounds a word,
 //     are not written; only space-bounded, same-case cases are here.
-//  8. Whether `hoursBetween(later, earlier)` is negative or a magnitude is not
+//  7. Whether `hoursBetween(later, earlier)` is negative or a magnitude is not
 //     written; every case here puts the earlier instant first.
-//  9. Whether a formula may answer an instant or a list at all, and whether a
+//  8. Whether a formula may answer an instant or a list at all, and whether a
 //     page type constrains what kind its `name` formula answers, are not
 //     written.
 
@@ -339,6 +339,7 @@ const L = {
   rowMatchesOnTrue: onLine(FORMULA_ABSENT_VALUE, 19),
   fallback: onLine(FORMULA_ABSENT_VALUE, 21),
   divideByZero: onLine(FORMULA_ABSENT_VALUE, 23),
+  textLiteralAbsent: onLine(FORMULA_ABSENT_VALUE, 25),
 
   valueText: onLine(FORMULA_VALUES, 15),
   valueNumber: onLine(FORMULA_VALUES, 16),
@@ -415,6 +416,7 @@ const C = {
   rowMatchesOnTrue: "A case row matches only where its test answers true.",
   fallback: "`??` answers its left side, or its right where its left is absent.",
   divideByZero: "Dividing by zero answers absent.",
+  textLiteralAbsent: "A text literal answers absent where any reference in it is absent.",
 
   valueText: "**text** — a run of characters.",
   valueNumber: "**number** — a count or a measure, whole or fractional.",
@@ -813,6 +815,218 @@ const textLiterals: FormulaCase[] = [
     values: { first: text("green"), second: text("day") },
     expected: refused("check", "types-do-not-meet", ["+", "text"]),
     // `+` adds one number to another; two texts do not meet it.
+  },
+  {
+    name: "a text literal that is nothing but an absent reference answers absent",
+    group: "text-literals",
+    from: L.textLiteralAbsent,
+    claim: C.textLiteralAbsent,
+    formula: '"{name}"',
+    shape: NAME,
+    values: {},
+    expected: ABSENT,
+  },
+  {
+    name: "a text literal with words around an absent reference answers absent",
+    group: "text-literals",
+    from: L.textLiteralAbsent,
+    claim: C.textLiteralAbsent,
+    formula: '"hello {name}"',
+    shape: NAME,
+    values: {},
+    expected: ABSENT,
+    // Not "hello ". The words around the hole do not survive it.
+  },
+  {
+    name: "an absent reference does not render as the empty string",
+    group: "text-literals",
+    from: L.textLiteralAbsent,
+    claim: C.textLiteralAbsent,
+    formula: '"{name}" == ""',
+    shape: NAME,
+    values: {},
+    expected: answersBoolean(false),
+    // The literal answers absent, and absent is equal only to absent. An
+    // implementation that renders a hole as nothing answers true here. The
+    // empty string is a made value: it answers in place of the one meant and
+    // nothing after it can tell which it got.
+  },
+  {
+    name: "an absent reference does not render as the word absent",
+    group: "text-literals",
+    from: L.textLiteralAbsent,
+    claim: C.textLiteralAbsent,
+    formula: '"{name}" == "absent"',
+    shape: NAME,
+    values: {},
+    expected: answersBoolean(false),
+    // An implementation that spells the absence into the text answers true.
+  },
+  {
+    name: "a text literal holding an absent reference is equal to absent",
+    group: "text-literals",
+    from: L.textLiteralAbsent,
+    claim: C.textLiteralAbsent,
+    formula: '"{name}" == absent',
+    shape: NAME,
+    values: {},
+    expected: answersBoolean(true),
+  },
+  {
+    name: "a text literal answers absent where one of two references is absent",
+    group: "text-literals",
+    from: L.textLiteralAbsent,
+    claim: C.textLiteralAbsent,
+    formula: '"{first}-{second}"',
+    shape: { first: { type: TEXT }, second: { type: TEXT } },
+    values: { first: text("green") },
+    expected: ABSENT,
+    // Not "green-". A partly filled answer is the defect this line closes.
+  },
+  {
+    name: "a text literal answers absent where the first of two references is absent",
+    group: "text-literals",
+    from: L.textLiteralAbsent,
+    claim: C.textLiteralAbsent,
+    formula: '"{first}-{second}"',
+    shape: { first: { type: TEXT }, second: { type: TEXT } },
+    values: { second: text("day") },
+    expected: ABSENT,
+  },
+  {
+    name: "a text literal answers absent where the middle of three references is absent",
+    group: "text-literals",
+    from: L.textLiteralAbsent,
+    claim: C.textLiteralAbsent,
+    formula: '"{first} {second} {third}"',
+    shape: {
+      first: { type: TEXT },
+      second: { type: TEXT },
+      third: { type: TEXT },
+    },
+    values: { first: text("a"), third: text("c") },
+    expected: ABSENT,
+  },
+  {
+    name: "the name shape this rule was written for answers absent, not a name that looks right",
+    group: "text-literals",
+    from: L.textLiteralAbsent,
+    claim: C.textLiteralAbsent,
+    formula: '"{source-slug}-{date}"',
+    shape: { "source-slug": { type: TEXT }, date: { type: TEXT } },
+    values: { date: text("2026-08-27") },
+    expected: ABSENT,
+    // A page named from more than one part, missing one. Rendering the gap as
+    // nothing answers "-2026-08-27", which reads like a name and is not one.
+  },
+  {
+    name: "the same name shape answers its name where both parts are there",
+    group: "text-literals",
+    from: L.referenceInText,
+    claim: C.referenceInText,
+    formula: '"{source-slug}-{date}"',
+    shape: { "source-slug": { type: TEXT }, date: { type: TEXT } },
+    values: { "source-slug": text("royal-road"), date: text("2026-08-27") },
+    expected: answersText("royal-road-2026-08-27"),
+  },
+  {
+    name: "a key holding a hyphen is one key inside braces, never a subtraction",
+    group: "references",
+    from: L.reference,
+    claim: C.reference,
+    formula: "{source-slug}",
+    shape: { "source-slug": { type: TEXT } },
+    values: { "source-slug": text("royal-road") },
+    expected: answersText("royal-road"),
+    // The braces bound the key, so nothing inside them is read as an operator.
+  },
+  {
+    name: "a fallback around a text literal is the way out",
+    group: "text-literals",
+    from: L.fallback,
+    claim: C.fallback,
+    formula: '"{source-slug}-{date}" ?? "untitled"',
+    shape: { "source-slug": { type: TEXT }, date: { type: TEXT } },
+    values: { date: text("2026-08-27") },
+    expected: answersText("untitled"),
+    // The literal answers absent, so the page type gets a whole name it chose
+    // rather than a partly filled one it did not.
+  },
+  {
+    name: "a fallback around a text literal keeps the literal where nothing is absent",
+    group: "text-literals",
+    from: L.fallback,
+    claim: C.fallback,
+    formula: '"{source-slug}-{date}" ?? "untitled"',
+    shape: { "source-slug": { type: TEXT }, date: { type: TEXT } },
+    values: { "source-slug": text("royal-road"), date: text("2026-08-27") },
+    expected: answersText("royal-road-2026-08-27"),
+  },
+  {
+    name: "a fallback on the key itself is the other way out",
+    group: "text-literals",
+    from: L.fallback,
+    claim: C.fallback,
+    formula: '"{safe-source}-{date}"',
+    shape: {
+      "source-slug": { type: TEXT },
+      date: { type: TEXT },
+      "safe-source": { type: TEXT, formula: '{source-slug} ?? "unknown"' },
+    },
+    values: { date: text("2026-08-27") },
+    expected: answersText("unknown-2026-08-27"),
+    // The hole is filled where it is declared rather than where it is read, so
+    // every literal naming `safe-source` is whole.
+  },
+  {
+    name: "a computed key that is a text literal carries the absence outward",
+    group: "text-literals",
+    from: L.textLiteralAbsent,
+    claim: C.textLiteralAbsent,
+    formula: "{label}",
+    shape: {
+      name: { type: TEXT },
+      label: { type: TEXT, formula: '"a {name} b"' },
+    },
+    values: {},
+    expected: ABSENT,
+  },
+  {
+    name: "a case row answering a text literal with an absent reference answers absent",
+    group: "text-literals",
+    from: L.textLiteralAbsent,
+    claim: C.textLiteralAbsent,
+    formula: caseForm([{ test: "true", value: '"hello {name}"' }], '"none"'),
+    shape: NAME,
+    values: {},
+    expected: ABSENT,
+    // The winning row's value is worked out, and what it works out to is
+    // absent.
+  },
+  {
+    name: "a present but empty reference is not an absent one",
+    group: "text-literals",
+    from: L.textLiteralAbsent,
+    claim: C.textLiteralAbsent,
+    formula: '"a{name}b"',
+    shape: NAME,
+    values: { name: text("") },
+    expected: answersText("ab"),
+    // The page holds something under the key, so nothing is absent and the
+    // literal answers. Empty is a value; absent is the lack of one.
+  },
+  {
+    name: "an expression inside braces is not a key",
+    group: "refused-at-read",
+    from: L.reference,
+    claim: C.reference,
+    formula: "{name ?? id}",
+    shape: { name: { type: TEXT }, id: { type: TEXT } },
+    values: { id: text("019f1412") },
+    expected: refused("read", "unreadable"),
+    // A formula names a property by putting its key between braces, and a key
+    // is all that goes there. The fallback is written outside the braces, or
+    // on the key's own definition.
   },
   {
     name: "a quote inside a text literal is refused when the formula is read",
