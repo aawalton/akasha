@@ -14,13 +14,13 @@ domain-slug: domain/pages-system
 
 Read in `~/code` on `main` at `1313565199`, ingesting `dirty/questions/code-repo-restated-values.md`.
 
-`packages/shared/pages/core/src/schema/detail-config.ts:13` declares `export const BUILTIN_DISPLAY_KINDS = ["default", "reader", "collection"] as const`, under a docblock calling them "the display kinds `@shared/pages-ui` resolves natively".
+`shared/pages-core/src/schema/detail-config.ts:3` declares `export const BUILTIN_DISPLAY_KINDS = ["default", "reader", "collection"] as const`, under a docblock calling them "the display kinds `@shared/pages-ui` resolves natively".
 
 Its only importer is its own unit test, `detail-config.unit.test.ts:2`, which at `:105` asserts `expect(BUILTIN_DISPLAY_KINDS).toEqual(["default", "reader", "collection"])` — the constant compared against a restatement of itself, so the test passes for any edit made to both lines.
 
 The sibling export in the same file does not read it either: `displayKindSchema` is `z.string().regex(/^[a-z][a-z0-9-]*$/)`, an open vocabulary admitting any kebab-case slug, deliberately so.
 
-What decides a built-in body is `selectDetailBody` at `packages/shared/pages/ui/src/components/page-detail-content-helpers.ts:36`:
+What decides a built-in body is `selectDetailBody` at `shared/pages-ui/src/components/page-detail-content-helpers.ts:30`:
 
     if (displayKind === "reader") return "reader"
     if (displayKind === "collection") return "collection"
@@ -28,6 +28,6 @@ What decides a built-in body is `selectDetailBody` at `packages/shared/pages/ui/
 
 Two bare literals, in a different package, importing nothing from the constant.
 
-The remaining references to it are prose: `packages/shared/pages/ui/src/capabilities/page-display-registry.ts:10` and `:44`, each naming it as where the built-in kinds are defined. The quarantined source recorded a third, at `pages/ui/src/capabilities/CLAUDE.md:19`; every `CLAUDE.md` has since left the code repository, so two remain.
+The remaining references to it are prose: `shared/pages-ui/src/capabilities/page-display-registry.ts:10` and `:44`, each naming it as where the built-in kinds are defined. The quarantined source recorded a third, at `pages/ui/src/capabilities/CLAUDE.md:19`; every `CLAUDE.md` has since left the code repository, so two remain.
 
 The usual repair — point the readers at the constant — is available here only because no reader exists yet.
