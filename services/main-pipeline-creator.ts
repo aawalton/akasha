@@ -50,10 +50,6 @@ It runs until stopped. SIGTERM and SIGINT both end the loop at its next boundary
 Usage:
   bun services/main-pipeline-creator.ts
   --help  This.
-
-Environment:
-  CODE_ROOT     The code checkout the commit is read from. Defaults to the standard one.
-  MEMORY_ROOT   The repository the pipeline, workflow and step pages are written to.
 `
 
 function sleepAbortable(ms: number, signal: AbortSignal): Promise<boolean> {

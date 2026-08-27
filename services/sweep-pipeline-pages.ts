@@ -53,8 +53,6 @@ Environment:
                      is read. Required.
   K8S_API_BASE       The k8s API server this reads. Required.
   K8S_CA_CERT_B64    That API server's CA certificate, base64.
-  MEMORY_ROOT        The memory checkout holding the pipeline, workflow and step pages.
-                     Defaults to the checkout beside this repository.
   AKASHA_ROOT        The akasha checkout holding the page types and the property definitions
                      those pages are read through. Defaults to this one.
 `
