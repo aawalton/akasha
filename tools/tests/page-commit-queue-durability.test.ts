@@ -47,11 +47,10 @@ const LOCK = join(root, ".git", "harness-landing.lock")
 
 const NO_SUCH_PID = 2147483647
 
-const away = join(root, "no-such-repo")
-
+// NAMED ONLY WHERE CLONED: every root named here is scanned, so a repo pointed at a path that is
+// not there raises ENOENT rather than reading as a repository holding nothing.
 const ROOTS: Roots = {
   akasha: root,
-  "code-editor": away,
 }
 
 const commits = (): number => Number(git(root, ["rev-list", "--count", "HEAD"]).stdout)

@@ -149,10 +149,9 @@ const rootFor = (pages: Readonly<Record<string, string>>): string => {
   return root
 }
 
-const roots = (root: string): Roots => {
-  const away = join(root, "no-such-repo")
-  return { akasha: root, "code-editor": away }
-}
+// NAMED ONLY WHERE CLONED: every root named here is scanned, so a repo pointed at a path that is
+// not there raises ENOENT rather than reading as a repository holding nothing.
+const roots = (root: string): Roots => ({ akasha: root })
 
 const PLAIN = rootFor({
   "pages/claude-account/b-second.claude-account.md": account([`${FIVE}: 30`, `${SEVEN}: 40`]),
