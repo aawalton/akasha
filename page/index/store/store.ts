@@ -1,9 +1,11 @@
-import { existsSync, mkdirSync, readFileSync, rmSync, statSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, rmSync, rmdirSync, statSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { markOf } from "../../../cache/mark/mark.ts"
+import { exclusively } from "../../../exclusive/exclusive.ts"
 import { canonicalize } from "../../../repo/path/path.ts"
 import { REPOS, rootBeside } from "../../../repo/roots/roots.ts"
 import { oidsUnder } from "../../../repo/oid/oid.ts"
+import { writeWhole } from "../../../write-whole/write-whole.ts"
 import type { Roots } from "../../page.ts"
 import { pageNameOf } from "../../name/name.ts"
 import {
@@ -30,6 +32,21 @@ const RELATIONS = "relations.json"
 
 export type BuiltFrom = Readonly<Record<string, string>>
 
+/**
+ * A directory whose last file has gone, taken away with it.
+ *
+ * `rmdirSync` takes away an empty directory and nothing else, so a directory another target still
+ * has a file in raises ENOTEMPTY, and one already gone raises ENOENT. Both say there is nothing
+ * here to take away, which is why neither is reported.
+ */
+function pruneEmpty(dir: string): void {
+  try {
+    rmdirSync(dir)
+  } catch {
+    // It holds a file still, or it is gone already.
+  }
+}
+
 export function sourcesAt(relation: string, target: string): readonly Source[] {
   const at = relationFileFor(relation, target)
   if (!existsSync(at)) return []
@@ -38,12 +55,37 @@ export function sourcesAt(relation: string, target: string): readonly Source[] {
 
 export function keepAt(relation: string, target: string, sources: readonly Source[]): void {
   const at = relationFileFor(relation, target)
+  const dir = dirname(at)
   if (sources.length === 0) {
     if (existsSync(at)) rmSync(at)
+    pruneEmpty(dir)
     return
   }
-  mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, bodyOf(sources))
+  mkdirSync(dir, { recursive: true })
+  writeWhole(at, bodyOf(sources))
+}
+
+/**
+ * One relation file read, changed and written back as a single critical section.
+ *
+ * THE LOCK COVERS THE READ AS WELL AS THE WRITE. Reading with `sourcesAt` and writing with
+ * `keepAt` is a read-modify-write, and two landings running it over one file at once each wrote
+ * back what it had read before the other's entry was there, so one entry went with nothing saying
+ * so. A lock inside `keepAt` alone would not have caught it: the file is read before that call.
+ *
+ * IT IS HELD ON THE DIRECTORY RATHER THAN THE FILE, because `keepAt` takes an emptied directory
+ * away, and a lock standing inside that directory is exactly what would keep it there.
+ */
+export function updateAt(
+  relation: string,
+  target: string,
+  change: (sources: readonly Source[]) => readonly Source[]
+): void {
+  const dir = dirname(relationFileFor(relation, target))
+  mkdirSync(dirname(dir), { recursive: true })
+  exclusively(dir, () => {
+    keepAt(relation, target, change(sourcesAt(relation, target)))
+  })
 }
 
 export function namedIn(file: string): readonly Named[] {
@@ -58,7 +100,28 @@ export function keepNamedIn(file: string, held: readonly Named[]): void {
   }
   const sorted = [...held].sort((one, two) => (saidNamed(one) < saidNamed(two) ? -1 : 1))
   mkdirSync(dirname(file), { recursive: true })
-  writeFileSync(file, namedBodyOf(sorted))
+  writeWhole(file, namedBodyOf(sorted))
+}
+
+/**
+ * One identity file read, changed and written back as a single critical section, as `updateAt` is
+ * for a relation file and for the same reason.
+ *
+ * A `change` ANSWERING NULL LEAVES THE FILE WHERE IT IS. Most landings re-state handles the file
+ * already holds, and rewriting every one of those would be a write per landed page for no
+ * difference in what the file says.
+ */
+export function updateNamedIn(
+  file: string,
+  change: (held: readonly Named[]) => readonly Named[] | null
+): void {
+  const dir = dirname(file)
+  mkdirSync(dirname(dir), { recursive: true })
+  exclusively(dir, () => {
+    const made = change(namedIn(file))
+    if (made === null) return
+    keepNamedIn(file, made)
+  })
 }
 
 export function pagesNamed(word: string, at: string): readonly Source[] {
@@ -112,7 +175,7 @@ export function builtFrom(): BuiltFrom | null {
 export function keepBuiltFrom(marks: BuiltFrom): void {
   const at = builtFromAt()
   mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, JSON.stringify(marks))
+  writeWhole(at, JSON.stringify(marks))
 }
 
 export function indexReaches(repo: string, root: string): boolean {
@@ -161,7 +224,7 @@ export function keepPages(stated: Iterable<Stated>): void {
   for (const one of held) lines.push(JSON.stringify(one))
   const at = pagesAt()
   mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, lines.length === 0 ? "" : `${lines.join("\n")}\n`)
+  writeWhole(at, lines.length === 0 ? "" : `${lines.join("\n")}\n`)
   heldPages = { stamp: stampOf(at), pages: held }
 }
 
@@ -186,7 +249,7 @@ export function loadPages(): readonly Stated[] {
 export function keepRelations(relations: ReadonlyMap<string, readonly Relation[]>): void {
   const at = relationsAt()
   mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, JSON.stringify(Object.fromEntries(relations)))
+  writeWhole(at, JSON.stringify(Object.fromEntries(relations)))
 }
 
 export function loadRelations(): ReadonlyMap<string, readonly Relation[]> {

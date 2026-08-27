@@ -26,8 +26,8 @@ import {
   loadRelations,
   markFor,
   marksOver,
-  namedIn,
-  sourcesAt,
+  updateAt,
+  updateNamedIn,
 } from "./store/store.ts"
 
 export type Built = {
@@ -57,6 +57,11 @@ type Landed = {
 
 type Placed = {
   readonly file: string
+  readonly one: Named
+}
+
+type Placing = {
+  readonly gone: boolean
   readonly one: Named
 }
 
@@ -168,53 +173,69 @@ export function updateFor(
   for (const key of was) {
     if (now.has(key)) continue
     const [relation, target] = partsOf(key)
-    keepAt(relation, target, withoutSource(sourcesAt(relation, target), source))
+    updateAt(relation, target, (sources) => withoutSource(sources, source))
     touched++
   }
   for (const key of now) {
     if (was.has(key)) continue
     const [relation, target] = partsOf(key)
-    keepAt(relation, target, withSource(sourcesAt(relation, target), source))
+    updateAt(relation, target, (sources) => withSource(sources, source))
     touched++
   }
   return touched
 }
 
-function updateNamed(landed: readonly Landed[]): number {
-  const loaded = new Map<string, Named[]>()
-  const changed = new Set<string>()
-  const load = (file: string): Named[] => {
-    const held = loaded.get(file)
+/**
+ * What each identity file gains and loses, worked out without opening one.
+ *
+ * THE FILES ARE NOT READ HERE. Every landing's effect on a file is settled from the landing alone,
+ * so the read, the change and the write can then happen together under that file's lock; reading
+ * here would put the read outside the lock, which is the fault this is arranged to avoid.
+ */
+function placingsBy(landed: readonly Landed[]): ReadonlyMap<string, readonly Placing[]> {
+  const byFile = new Map<string, Placing[]>()
+  const at = (file: string): Placing[] => {
+    const held = byFile.get(file)
     if (held !== undefined) return held
-    const made = [...namedIn(file)]
-    loaded.set(file, made)
+    const made: Placing[] = []
+    byFile.set(file, made)
     return made
   }
-  let touched = 0
   for (const one of landed) {
     const was = placedFor(one.before === null ? null : statedOf(one.before))
     const now = placedFor(one.after === null ? null : statedOf(one.after))
     const standing = new Set(now.map(saidPlaced))
     for (const placed of was) {
       if (standing.has(saidPlaced(placed))) continue
-      const said = saidNamed(placed.one)
-      loaded.set(
-        placed.file,
-        load(placed.file).filter((held) => saidNamed(held) !== said)
-      )
-      changed.add(placed.file)
-      touched++
+      at(placed.file).push({ gone: true, one: placed.one })
     }
-    for (const placed of now) {
-      const held = load(placed.file)
-      const said = saidNamed(placed.one)
-      if (held.some((one) => saidNamed(one) === said)) continue
-      held.push(placed.one)
-      changed.add(placed.file)
-      touched++
-    }
+    for (const placed of now) at(placed.file).push({ gone: false, one: placed.one })
   }
-  for (const file of changed) keepNamedIn(file, loaded.get(file) ?? [])
+  return byFile
+}
+
+function updateNamed(landed: readonly Landed[]): number {
+  let touched = 0
+  for (const [file, placings] of placingsBy(landed)) {
+    updateNamedIn(file, (held) => {
+      let made = [...held]
+      let changed = false
+      for (const placing of placings) {
+        const said = saidNamed(placing.one)
+        if (placing.gone) {
+          made = made.filter((one) => saidNamed(one) !== said)
+          changed = true
+          touched++
+          continue
+        }
+        if (made.some((one) => saidNamed(one) === said)) continue
+        made.push(placing.one)
+        changed = true
+        touched++
+      }
+      return changed ? made : null
+    })
+  }
   return touched
 }
 
