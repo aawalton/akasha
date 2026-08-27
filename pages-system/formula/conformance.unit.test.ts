@@ -16,12 +16,7 @@
  */
 
 import { expect, test } from "bun:test"
-import type {
-  FormulaCase,
-  FormulaType,
-  FormulaValue,
-  Shape as CaseShape,
-} from "./cases/cases.ts"
+import type { Shape as CaseShape, FormulaCase, FormulaType, FormulaValue } from "./cases/cases.ts"
 import { cases, citationText } from "./cases/cases.ts"
 import type {
   Checked,

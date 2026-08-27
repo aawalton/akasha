@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
 import {
   type Checked,
-  checkFormula,
   type CheckedPageType,
+  checkFormula,
   checkPageType,
   type PageType,
   type PageTypeRefused,
