@@ -1,5 +1,6 @@
 ---
 id: 0efcfda1-ed9e-5b19-bcb4-6b4b311fd12c
+slug: equip-type-equip-type-shoulders
 page-type-slug: temper-eso-companion-equipment-constant
 title: Equip Type Shoulders
 key: equip-type:EQUIP_TYPE_SHOULDERS

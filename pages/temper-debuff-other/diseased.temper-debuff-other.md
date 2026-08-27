@@ -1,5 +1,6 @@
 ---
 id: eb186ec8-8cd0-50de-8d23-d198af5c68ec
+slug: diseased
 page-type-slug: temper-debuff-other
 title: Diseased
 buff-id: diseased

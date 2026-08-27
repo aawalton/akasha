@@ -1,5 +1,6 @@
 ---
 id: 20f8e5aa-1ef1-5468-ad6a-d306346063be
+slug: fl
 page-type-slug: temper-dungeon
 title: Fang Lair
 key: FL

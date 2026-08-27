@@ -1,5 +1,6 @@
 ---
 id: 5e7223b1-46bc-5c60-83a1-2628038f2c7b
+slug: mitigation
 page-type-slug: temper-focus-script
 title: Mitigation
 icon: "/esoui/art/icons/scribing_primary_bonusarmor.dds"

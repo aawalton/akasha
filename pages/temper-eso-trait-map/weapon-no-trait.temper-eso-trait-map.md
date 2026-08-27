@@ -1,5 +1,6 @@
 ---
 id: 1824d61e-a541-5a04-a7dc-1faacacc8a28
+slug: weapon-no-trait
 page-type-slug: temper-eso-trait-map
 title: Weapon No Trait
 key: weapon:no-trait

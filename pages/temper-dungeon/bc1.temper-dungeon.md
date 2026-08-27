@@ -1,5 +1,6 @@
 ---
 id: b148bf4e-9448-58a3-a923-7280cb4b3193
+slug: bc1
 page-type-slug: temper-dungeon
 title: Banished Cells I
 key: BC1

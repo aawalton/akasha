@@ -1,5 +1,6 @@
 ---
 id: 412526b2-315e-5d4a-854e-2c129d1dad99
+slug: tanlorin
 page-type-slug: temper-eso-companion
 title: Tanlorin
 icon: "/esoui/art/icons/u44_companion_tanlorin.dds"

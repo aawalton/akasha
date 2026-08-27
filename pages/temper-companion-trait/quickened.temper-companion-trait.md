@@ -1,5 +1,6 @@
 ---
 id: fa2045a2-711c-53a7-bda2-a7e146f7f9ae
+slug: quickened
 page-type-slug: temper-companion-trait
 title: Quickened
 key: quickened

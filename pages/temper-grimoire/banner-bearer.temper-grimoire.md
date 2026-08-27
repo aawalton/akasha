@@ -1,5 +1,6 @@
 ---
 id: ddbe553e-b7c2-5c43-94df-a5a09beb6ca1
+slug: banner-bearer
 page-type-slug: temper-grimoire
 title: Banner Bearer
 icon: "/esoui/art/icons/item_grimoire_support.dds"

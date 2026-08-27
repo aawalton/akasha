@@ -1,5 +1,6 @@
 ---
 id: 8b6e4e72-29b4-5637-ac79-bc6101bf1b5d
+slug: two-handed
 page-type-slug: temper-companion-weapon-role
 title: Two Handed
 key: two-handed

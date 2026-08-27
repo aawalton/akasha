@@ -1,5 +1,6 @@
 ---
 id: ee1329ec-a9ce-5c06-8b41-3184973656c8
+slug: weapon-type-ice-staff
 page-type-slug: temper-eso-player-equipment-constant
 title: Weapon Type Ice Staff
 key: weapon-type:ice-staff

@@ -1,5 +1,6 @@
 ---
 id: 65f68230-549a-5cce-9cd3-2b738c23327b
+slug: account-collectibles
 page-type-slug: temper-completion-category
 title: Collectibles
 key: account.collectibles

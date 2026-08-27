@@ -1,5 +1,6 @@
 ---
 id: 969ffadd-d9e7-54f9-84ca-11114fd061fd
+slug: quality-companion-to-eso-no-quality
 page-type-slug: temper-eso-companion-equipment-constant
 title: "No Quality → ESO 5"
 key: quality-companion-to-eso:no-quality

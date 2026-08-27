@@ -1,5 +1,6 @@
 ---
 id: f2d0ca92-8729-5f5b-ab36-7d3cf7fa3662
+slug: characters-quests
 page-type-slug: temper-completion-category
 title: Quests
 key: characters.quests

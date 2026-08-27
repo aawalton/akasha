@@ -1,5 +1,6 @@
 ---
 id: 77f08d4f-b9c4-5e45-8478-ae6fe3527c0d
+slug: weapon-sharpened
 page-type-slug: temper-eso-trait-map
 title: Weapon Sharpened
 key: weapon:sharpened

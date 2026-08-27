@@ -1,5 +1,6 @@
 ---
 id: 0a39276b-dbd0-5c6b-b5fd-38ec4be05e62
+slug: weapon-infused
 page-type-slug: temper-eso-trait-map
 title: Weapon Infused
 key: weapon:infused

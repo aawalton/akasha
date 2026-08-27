@@ -1,5 +1,6 @@
 ---
 id: 76265fab-a4d3-56e3-8495-ca4c6fa2d035
+slug: weapon-type-greatsword
 page-type-slug: temper-eso-player-equipment-constant
 title: Weapon Type Greatsword
 key: weapon-type:greatsword

@@ -1,5 +1,6 @@
 ---
 id: 3affa7b2-5014-5088-a306-b3c40c1fcf41
+slug: weapon-nirnhoned
 page-type-slug: temper-eso-trait-map
 title: Weapon Nirnhoned
 key: weapon:nirnhoned

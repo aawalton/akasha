@@ -1,5 +1,6 @@
 ---
 id: 2b701a5f-81a0-5b6f-baa9-a360b99bf94d
+slug: companion-isobel
 page-type-slug: temper-companion-skill-line
 title: Isobel
 key: companion-isobel

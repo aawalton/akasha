@@ -1,5 +1,6 @@
 ---
 id: f1850a16-e246-5a57-9691-03be0625dc6d
+slug: armor-no-trait
 page-type-slug: temper-eso-trait-map
 title: Armor No Trait
 key: armor:no-trait

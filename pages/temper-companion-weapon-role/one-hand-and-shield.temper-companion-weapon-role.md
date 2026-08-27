@@ -1,5 +1,6 @@
 ---
 id: dd9e705f-0329-5d46-9c9a-e61e2ed7f5b4
+slug: one-hand-and-shield
 page-type-slug: temper-companion-weapon-role
 title: One Hand and Shield
 key: one-hand-and-shield

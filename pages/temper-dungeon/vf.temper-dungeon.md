@@ -1,5 +1,6 @@
 ---
 id: 392603a7-6b79-5b81-9fc1-8e0dd296ca42
+slug: vf
 page-type-slug: temper-dungeon
 title: Volenfell
 key: VF

@@ -1,5 +1,6 @@
 ---
 id: c63789e9-32f0-579c-8326-5be96f201c66
+slug: quality-companion-to-eso-legendary
 page-type-slug: temper-eso-companion-equipment-constant
 title: "Legendary → ESO 5"
 key: quality-companion-to-eso:legendary

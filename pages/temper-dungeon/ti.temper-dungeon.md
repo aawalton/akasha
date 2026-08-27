@@ -1,5 +1,6 @@
 ---
 id: 2086c19d-e84a-5aa8-9db9-995553ca0d47
+slug: ti
 page-type-slug: temper-dungeon
 title: Tempest Island
 key: TI

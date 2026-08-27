@@ -1,5 +1,6 @@
 ---
 id: 023a0b83-1e41-56bf-920f-01c06db98e0b
+slug: armor-reinforced
 page-type-slug: temper-eso-trait-map
 title: Armor Reinforced
 key: armor:reinforced

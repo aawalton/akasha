@@ -1,5 +1,6 @@
 ---
 id: de9cac52-a2b2-56f4-90d6-638358be83e2
+slug: trample
 page-type-slug: temper-grimoire
 title: Trample
 icon: "/esoui/art/icons/item_grimoire_assault.dds"

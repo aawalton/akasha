@@ -1,5 +1,6 @@
 ---
 id: 5a36bf53-c909-5d67-aea9-efcf438eaa87
+slug: account-account-trait-research
 page-type-slug: temper-completion-category
 title: Crafting Traits
 key: account.account-trait-research

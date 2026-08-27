@@ -1,5 +1,6 @@
 ---
 id: f0aaa948-1007-583d-a2c1-99ae82fa29b4
+slug: mf
 page-type-slug: temper-dungeon
 title: Moongrave Fane
 key: MF

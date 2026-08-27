@@ -1,5 +1,6 @@
 ---
 id: ae4fbdc7-456a-5e56-9864-24cada66b8f8
+slug: equip-type-equip-type-head
 page-type-slug: temper-eso-companion-equipment-constant
 title: Equip Type Head
 key: equip-type:EQUIP_TYPE_HEAD

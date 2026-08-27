@@ -1,5 +1,6 @@
 ---
 id: 0f15b177-070a-5893-b15f-3ce2849c3746
+slug: menders-bond
 page-type-slug: temper-grimoire
 title: Mender's Bond
 icon: "/esoui/art/icons/item_grimoire_staffresto.dds"

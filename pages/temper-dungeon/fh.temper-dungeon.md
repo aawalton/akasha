@@ -1,5 +1,6 @@
 ---
 id: ad094add-67ed-5cd5-9119-6f3c6609d39f
+slug: fh
 page-type-slug: temper-dungeon
 title: Falkreath Hold
 key: FH

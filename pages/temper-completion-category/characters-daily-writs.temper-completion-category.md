@@ -1,5 +1,6 @@
 ---
 id: f313ef85-40e1-5bef-86dc-1be0ade9dd48
+slug: characters-daily-writs
 page-type-slug: temper-completion-category
 title: Daily Crafting Writs
 key: characters.daily-writs

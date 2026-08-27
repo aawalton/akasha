@@ -1,5 +1,6 @@
 ---
 id: 69e6d3bb-c3ae-5202-893d-e7cfa01f2e7c
+slug: weapon-defending
 page-type-slug: temper-eso-trait-map
 title: Weapon Defending
 key: weapon:defending

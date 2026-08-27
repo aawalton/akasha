@@ -1,5 +1,6 @@
 ---
 id: a9b7ebf4-95a9-50e7-971f-be38f9b3c97f
+slug: ac
 page-type-slug: temper-dungeon
 title: Arx Corinium
 key: AC

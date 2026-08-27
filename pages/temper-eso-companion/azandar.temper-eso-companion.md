@@ -1,5 +1,6 @@
 ---
 id: b794fcec-b7fc-5471-b73c-5450466566f5
+slug: azandar
 page-type-slug: temper-eso-companion
 title: Azandar
 icon: "/esoui/art/icons/companion_azander.dds"

@@ -1,5 +1,6 @@
 ---
 id: 003b6e06-fa1d-557d-9807-4b220324d10e
+slug: jewelry-robust
 page-type-slug: temper-eso-trait-map
 title: Jewelry Robust
 key: jewelry:robust

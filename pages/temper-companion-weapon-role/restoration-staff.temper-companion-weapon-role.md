@@ -1,5 +1,6 @@
 ---
 id: 43c13dc8-c58b-5517-bbfe-6aaeb97e5ade
+slug: restoration-staff
 page-type-slug: temper-companion-weapon-role
 title: Restoration Staff
 key: restoration-staff

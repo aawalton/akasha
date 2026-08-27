@@ -1,5 +1,6 @@
 ---
 id: 3ed1ce19-ee23-5e3c-b519-fd710cc91e13
+slug: account-account-scribing-knowledge-scripts-focusscripts
 page-type-slug: temper-completion-category
 title: Focus Scripts
 key: account.account-scribing-knowledge.scripts.focusScripts

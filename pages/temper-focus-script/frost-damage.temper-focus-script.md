@@ -1,5 +1,6 @@
 ---
 id: ea31075a-b99e-597d-9f86-559f107a8169
+slug: frost-damage
 page-type-slug: temper-focus-script
 title: Frost Damage
 icon: "/esoui/art/icons/scribing_primary_frost.dds"

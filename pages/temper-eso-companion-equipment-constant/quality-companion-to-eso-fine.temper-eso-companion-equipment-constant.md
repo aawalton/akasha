@@ -1,5 +1,6 @@
 ---
 id: 086bc1d3-1020-5abb-9d68-16be8bba9b93
+slug: quality-companion-to-eso-fine
 page-type-slug: temper-eso-companion-equipment-constant
 title: "Fine → ESO 2"
 key: quality-companion-to-eso:fine

@@ -1,5 +1,6 @@
 ---
 id: d94a5f6d-09f1-575c-8c3a-a490f70d8fc4
+slug: elemental-explosion
 page-type-slug: temper-grimoire
 title: Elemental Explosion
 icon: "/esoui/art/icons/item_grimoire_staffdestro.dds"

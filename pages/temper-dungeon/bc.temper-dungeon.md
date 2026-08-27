@@ -1,5 +1,6 @@
 ---
 id: 67f15072-7c07-5b8c-b781-ed8e81f0e97b
+slug: bc
 page-type-slug: temper-dungeon
 title: Blessed Crucible
 key: BC

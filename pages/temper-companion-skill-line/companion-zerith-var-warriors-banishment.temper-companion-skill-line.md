@@ -1,5 +1,6 @@
 ---
 id: d4022115-b2cb-5975-be08-36c6bc1ea327
+slug: companion-zerith-var-warriors-banishment
 page-type-slug: temper-companion-skill-line
 title: Warrior's Banishment
 key: companion-zerith-var-warriors-banishment

@@ -1,5 +1,6 @@
 ---
 id: 44baef2e-a388-5629-9206-9a5759979458
+slug: dom
 page-type-slug: temper-dungeon
 title: Depths of Malatar
 key: DoM

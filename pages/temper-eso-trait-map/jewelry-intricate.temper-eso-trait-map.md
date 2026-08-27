@@ -1,5 +1,6 @@
 ---
 id: 4c015ada-241d-50d8-9ac7-170c9110656c
+slug: jewelry-intricate
 page-type-slug: temper-eso-trait-map
 title: Jewelry Intricate
 key: jewelry:intricate

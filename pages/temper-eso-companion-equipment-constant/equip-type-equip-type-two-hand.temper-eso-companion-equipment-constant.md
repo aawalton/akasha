@@ -1,5 +1,6 @@
 ---
 id: 71f3a906-cc36-5954-87f4-c2c3f238cd80
+slug: equip-type-equip-type-two-hand
 page-type-slug: temper-eso-companion-equipment-constant
 title: Equip Type Two Hand
 key: equip-type:EQUIP_TYPE_TWO_HAND

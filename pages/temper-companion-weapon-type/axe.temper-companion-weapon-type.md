@@ -1,5 +1,6 @@
 ---
 id: 8989b3ae-3652-5148-b5f1-453ea9c5d38b
+slug: axe
 page-type-slug: temper-companion-weapon-type
 title: Axe
 key: axe

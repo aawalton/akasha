@@ -1,5 +1,6 @@
 ---
 id: e31a019c-964a-556f-a7e0-2cbf3293264d
+slug: companion-tanlorin-empathic-fighter
 page-type-slug: temper-companion-skill-line
 title: Empathic Fighter
 key: companion-tanlorin-empathic-fighter

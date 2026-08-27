@@ -1,5 +1,6 @@
 ---
 id: c03e7ef8-682c-5c78-a5e2-811fb090de8e
+slug: shield-throw
 page-type-slug: temper-grimoire
 title: Shield Throw
 icon: "/esoui/art/icons/item_grimoire_1hander.dds"

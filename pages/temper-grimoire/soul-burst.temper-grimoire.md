@@ -1,5 +1,6 @@
 ---
 id: 30b51f12-359f-52ca-9b75-3f378c23fe28
+slug: soul-burst
 page-type-slug: temper-grimoire
 title: Soul Burst
 icon: "/esoui/art/icons/item_grimoire_soulmagic2.dds"

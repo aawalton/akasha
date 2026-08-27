@@ -1,5 +1,6 @@
 ---
 id: 0af6674d-2371-5bfd-8727-7e139ac6f2e3
+slug: lm
 page-type-slug: temper-dungeon
 title: Lair of Maarselok
 key: LM

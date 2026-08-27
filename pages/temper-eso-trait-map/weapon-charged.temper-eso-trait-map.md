@@ -1,5 +1,6 @@
 ---
 id: 35b7c980-6763-55de-a263-48199708a164
+slug: weapon-charged
 page-type-slug: temper-eso-trait-map
 title: Weapon Charged
 key: weapon:charged

@@ -1,5 +1,6 @@
 ---
 id: 057204da-6513-5393-8dee-614f7e874ed3
+slug: quality-companion-to-eso-epic
 page-type-slug: temper-eso-companion-equipment-constant
 title: "Epic → ESO 4"
 key: quality-companion-to-eso:epic

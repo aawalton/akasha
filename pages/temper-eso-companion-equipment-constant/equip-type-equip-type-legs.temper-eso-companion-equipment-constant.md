@@ -1,5 +1,6 @@
 ---
 id: d0af168f-c7db-5b9f-bad2-523e05593b79
+slug: equip-type-equip-type-legs
 page-type-slug: temper-eso-companion-equipment-constant
 title: Equip Type Legs
 key: equip-type:EQUIP_TYPE_LEGS

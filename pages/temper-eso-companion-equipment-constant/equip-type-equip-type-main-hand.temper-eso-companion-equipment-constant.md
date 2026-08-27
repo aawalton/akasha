@@ -1,5 +1,6 @@
 ---
 id: e68e7963-088f-526e-bd63-7a05d3805c23
+slug: equip-type-equip-type-main-hand
 page-type-slug: temper-eso-companion-equipment-constant
 title: Equip Type Main Hand
 key: equip-type:EQUIP_TYPE_MAIN_HAND

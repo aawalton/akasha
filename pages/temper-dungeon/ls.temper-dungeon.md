@@ -1,5 +1,6 @@
 ---
 id: 49823154-b860-5681-82e6-5b5a3dc1ec78
+slug: ls
 page-type-slug: temper-dungeon
 title: Lep Seclusa
 key: LS

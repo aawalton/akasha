@@ -1,5 +1,6 @@
 ---
 id: 13f94e2a-8575-5b5c-97c8-27a6fd855698
+slug: op
 page-type-slug: temper-dungeon
 title: Oathsworn Pit
 key: OP

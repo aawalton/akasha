@@ -1,5 +1,6 @@
 ---
 id: 88325702-9c59-5607-a57d-322d766af664
+slug: equip-type-equip-type-off-hand
 page-type-slug: temper-eso-companion-equipment-constant
 title: Equip Type Off Hand
 key: equip-type:EQUIP_TYPE_OFF_HAND

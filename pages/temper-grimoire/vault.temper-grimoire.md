@@ -1,5 +1,6 @@
 ---
 id: 44ef284d-70dc-5120-9960-bff40304df6f
+slug: vault
 page-type-slug: temper-grimoire
 title: Vault
 icon: "/esoui/art/icons/item_grimoire_bow.dds"

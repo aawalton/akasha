@@ -1,5 +1,6 @@
 ---
 id: b180d0c1-341d-5559-9946-a180f1528b89
+slug: account-subclassing-skill-morphs
 page-type-slug: temper-completion-category
 title: Subclassing Skill Morphs
 key: account.subclassing-skill-morphs

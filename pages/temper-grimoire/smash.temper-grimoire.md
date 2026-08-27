@@ -1,5 +1,6 @@
 ---
 id: 644b8205-484d-5aa1-8a20-cd66f58733ed
+slug: smash
 page-type-slug: temper-grimoire
 title: Smash
 icon: "/esoui/art/icons/item_grimoire_2hander.dds"

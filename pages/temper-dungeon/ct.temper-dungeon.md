@@ -1,5 +1,6 @@
 ---
 id: 8080051e-153a-585b-ab07-4534556d604b
+slug: ct
 page-type-slug: temper-dungeon
 title: Castle Thorn
 key: CT

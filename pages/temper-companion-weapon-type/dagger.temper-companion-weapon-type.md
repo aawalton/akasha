@@ -1,5 +1,6 @@
 ---
 id: ca02bb72-4aa6-58d6-b255-a70fe5d8da17
+slug: dagger
 page-type-slug: temper-companion-weapon-type
 title: Dagger
 key: dagger

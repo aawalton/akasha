@@ -1,5 +1,6 @@
 ---
 id: 4fb93890-aca0-5526-bd81-8cbe7bd2fc2b
+slug: companion-mirri
 page-type-slug: temper-companion-skill-line
 title: Mirri
 key: companion-mirri

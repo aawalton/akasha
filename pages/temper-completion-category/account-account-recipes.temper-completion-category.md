@@ -1,5 +1,6 @@
 ---
 id: 141bd8ba-d5b2-5bbd-acfc-7d2587d9028d
+slug: account-account-recipes
 page-type-slug: temper-completion-category
 title: Crafting Recipes
 key: account.account-recipes

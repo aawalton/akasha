@@ -1,5 +1,6 @@
 ---
 id: 79f87b81-0a08-5aad-b0a9-08425c2ac178
+slug: weapon-type-lightning-staff
 page-type-slug: temper-eso-player-equipment-constant
 title: Weapon Type Lightning Staff
 key: weapon-type:lightning-staff

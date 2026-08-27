@@ -1,5 +1,6 @@
 ---
 id: 712fbc85-201c-5ab3-b857-90d62828b452
+slug: quality-normal
 page-type-slug: temper-eso-player-equipment-constant
 title: Quality Normal
 key: quality:normal

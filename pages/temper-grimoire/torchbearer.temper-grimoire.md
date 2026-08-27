@@ -1,5 +1,6 @@
 ---
 id: 9624c37d-4bd5-58f0-b047-129205da434d
+slug: torchbearer
 page-type-slug: temper-grimoire
 title: Torchbearer
 icon: "/esoui/art/icons/item_grimoire_fightersguild.dds"

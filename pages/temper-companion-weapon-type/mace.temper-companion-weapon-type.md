@@ -1,5 +1,6 @@
 ---
 id: 6aef27b4-594e-551f-b4ab-afce4139971d
+slug: mace
 page-type-slug: temper-companion-weapon-type
 title: Mace
 key: mace

@@ -1,5 +1,6 @@
 ---
 id: 7a110bd0-a152-5ce1-a563-252e68f6915a
+slug: gd
 page-type-slug: temper-dungeon
 title: Graven Deep
 key: GD

@@ -1,5 +1,6 @@
 ---
 id: feb65b64-ff70-55f1-915a-3101998725f8
+slug: wield-soul
 page-type-slug: temper-grimoire
 title: Wield Soul
 icon: "/esoui/art/icons/item_grimoire_soulmagic1.dds"

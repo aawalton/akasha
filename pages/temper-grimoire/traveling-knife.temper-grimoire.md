@@ -1,5 +1,6 @@
 ---
 id: 53e26036-21a7-5685-9d20-d03a181c2d3b
+slug: traveling-knife
 page-type-slug: temper-grimoire
 title: Traveling Knife
 icon: "/esoui/art/icons/item_grimoire_dualwield.dds"

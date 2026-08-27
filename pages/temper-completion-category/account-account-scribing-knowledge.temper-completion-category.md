@@ -1,5 +1,6 @@
 ---
 id: 0292e26a-1f81-5473-951a-60247d4e0f27
+slug: account-account-scribing-knowledge
 page-type-slug: temper-completion-category
 title: Skill Scribing
 key: account.account-scribing-knowledge

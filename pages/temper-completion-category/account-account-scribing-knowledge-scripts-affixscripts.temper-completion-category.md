@@ -1,5 +1,6 @@
 ---
 id: 071e2651-d513-5d62-8a70-3bb5facae9b6
+slug: account-account-scribing-knowledge-scripts-affixscripts
 page-type-slug: temper-completion-category
 title: Affix Scripts
 key: account.account-scribing-knowledge.scripts.affixScripts

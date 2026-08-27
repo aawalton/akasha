@@ -1,5 +1,6 @@
 ---
 id: 6fb8b2a3-7c19-5fda-adad-9629bbd12c04
+slug: sr
 page-type-slug: temper-dungeon
 title: Shipwright's Regret
 key: SR

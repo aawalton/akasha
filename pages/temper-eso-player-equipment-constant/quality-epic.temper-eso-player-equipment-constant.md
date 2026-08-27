@@ -1,5 +1,6 @@
 ---
 id: 4e0e039a-9236-51fa-96cd-4e3ba94f126d
+slug: quality-epic
 page-type-slug: temper-eso-player-equipment-constant
 title: Quality Epic
 key: quality:epic

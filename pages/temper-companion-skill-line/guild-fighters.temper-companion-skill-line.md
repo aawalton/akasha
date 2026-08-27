@@ -1,5 +1,6 @@
 ---
 id: 49b60762-c940-5ba4-b5ff-21e767630232
+slug: guild-fighters
 page-type-slug: temper-companion-skill-line
 title: Fighters Guild
 key: guild-fighters

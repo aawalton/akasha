@@ -1,5 +1,6 @@
 ---
 id: 912bd933-4a24-53b7-b163-afbd2144de7e
+slug: shock-damage
 page-type-slug: temper-focus-script
 title: Shock Damage
 icon: "/esoui/art/icons/scribing_primary_shock.dds"

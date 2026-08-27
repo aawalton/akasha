@@ -1,5 +1,6 @@
 ---
 id: e65a6ba7-d8d4-554d-b1bb-7464c4fd8a4b
+slug: magic-damage
 page-type-slug: temper-focus-script
 title: Magic Damage
 icon: "/esoui/art/icons/scribing_primary_magicka.dds"

@@ -1,5 +1,6 @@
 ---
 id: 8a6bf04f-150b-5a6a-aab9-ffcbff4f5938
+slug: companions-companion-rapport
 page-type-slug: temper-completion-category
 title: Companion Rapport
 key: companions.companion-rapport

@@ -1,5 +1,6 @@
 ---
 id: f6f7622d-b802-5014-ab5a-fe3824023510
+slug: account-item-sets
 page-type-slug: temper-completion-category
 title: Item Sets
 key: account.item-sets

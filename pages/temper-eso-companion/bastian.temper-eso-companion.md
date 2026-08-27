@@ -1,5 +1,6 @@
 ---
 id: 74d2d92a-952c-506a-8a60-86f8e18088f9
+slug: bastian
 page-type-slug: temper-eso-companion
 title: Bastian Hallix
 icon: "/esoui/art/icons/comp_bastian.dds"

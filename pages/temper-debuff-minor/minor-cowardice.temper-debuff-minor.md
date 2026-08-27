@@ -1,5 +1,6 @@
 ---
 id: f3a25413-2748-545f-bee5-52a4f4599d7d
+slug: minor-cowardice
 page-type-slug: temper-debuff-minor
 title: Minor Cowardice
 debuff-id: minor-cowardice

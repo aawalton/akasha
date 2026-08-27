@@ -1,5 +1,6 @@
 ---
 id: 617679ff-34ed-5d49-b4d3-7eec715b4873
+slug: companions-companion-skill-lines
 page-type-slug: temper-completion-category
 title: Companion Skill Lines
 key: companions.companion-skill-lines

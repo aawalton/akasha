@@ -1,5 +1,6 @@
 ---
 id: a341450e-0928-51b6-82f1-9416dd1bbbb1
+slug: armor-intricate
 page-type-slug: temper-eso-trait-map
 title: Armor Intricate
 key: armor:intricate

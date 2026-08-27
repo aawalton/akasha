@@ -1,5 +1,6 @@
 ---
 id: 7d6c6a85-55be-5ab4-ac1f-df5f16f3e397
+slug: ere
 page-type-slug: temper-dungeon
 title: Earthen Root Enclave
 key: ERE

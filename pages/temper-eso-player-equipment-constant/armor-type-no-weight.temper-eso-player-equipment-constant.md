@@ -1,5 +1,6 @@
 ---
 id: ba21f79c-ccb5-538d-a6df-65f7e0d4d40b
+slug: armor-type-no-weight
 page-type-slug: temper-eso-player-equipment-constant
 title: Armor Type None
 key: armor-type:no-weight

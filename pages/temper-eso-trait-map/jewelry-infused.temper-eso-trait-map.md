@@ -1,5 +1,6 @@
 ---
 id: d135800a-271e-5a38-8313-4bb4ff9cff41
+slug: jewelry-infused
 page-type-slug: temper-eso-trait-map
 title: Jewelry Infused
 key: jewelry:infused

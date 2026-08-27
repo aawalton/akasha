@@ -1,5 +1,6 @@
 ---
 id: 555d7393-7ed4-5838-b4dd-bfef435603f6
+slug: armor-sturdy
 page-type-slug: temper-eso-trait-map
 title: Armor Sturdy
 key: armor:sturdy

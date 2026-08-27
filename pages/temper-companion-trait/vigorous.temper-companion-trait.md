@@ -1,5 +1,6 @@
 ---
 id: f424a4ee-4386-5a06-9c83-d5d86c035381
+slug: vigorous
 page-type-slug: temper-companion-trait
 title: Vigorous
 key: vigorous

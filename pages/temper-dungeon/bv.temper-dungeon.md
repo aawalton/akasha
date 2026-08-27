@@ -1,5 +1,6 @@
 ---
 id: bc866935-c297-5b6f-9453-afc47afe875d
+slug: bv
 page-type-slug: temper-dungeon
 title: Bedlam Veil
 key: BV

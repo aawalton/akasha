@@ -1,5 +1,6 @@
 ---
 id: 282fc2a8-19ec-521e-bb81-9c04ca756419
+slug: tdc
 page-type-slug: temper-dungeon
 title: The Dread Cellar
 key: TDC

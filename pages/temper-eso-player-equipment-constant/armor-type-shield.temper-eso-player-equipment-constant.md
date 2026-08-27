@@ -1,5 +1,6 @@
 ---
 id: 54e7f3cc-8d11-5c80-ad6f-32ff5d9de17a
+slug: armor-type-shield
 page-type-slug: temper-eso-player-equipment-constant
 title: Armor Type Shield
 key: armor-type:shield

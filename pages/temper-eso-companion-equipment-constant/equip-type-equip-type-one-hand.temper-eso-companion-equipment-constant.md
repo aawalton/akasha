@@ -1,5 +1,6 @@
 ---
 id: 8e738e9b-bb28-5ad9-82f4-7a703e2be24f
+slug: equip-type-equip-type-one-hand
 page-type-slug: temper-eso-companion-equipment-constant
 title: Equip Type One Hand
 key: equip-type:EQUIP_TYPE_ONE_HAND

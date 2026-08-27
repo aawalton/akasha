@@ -1,5 +1,6 @@
 ---
 id: 2561ccf2-e598-50ab-b0aa-e517f56bd953
+slug: ulfsilds-contingency
 page-type-slug: temper-grimoire
 title: Ulfsild's Contingency
 icon: "/esoui/art/icons/item_grimoire_magesguild.dds"
