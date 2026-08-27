@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import { colorsAnswer } from "../work-tree.ts"
 
 describe("the colors answer", () => {
-  const answer = colorsAnswer("/repos/memory", {
+  const answer = colorsAnswer("/repos/akasha", {
     byInitiative: new Map([["athena-consistent-seats", "blue"]]),
   })
 
@@ -10,8 +10,8 @@ describe("the colors answer", () => {
     expect(answer.byInitiative).toEqual({ "athena-consistent-seats": "blue" })
   })
 
-  test("the memory root comes with it, so a caller joins against what this resolved", () => {
-    expect(answer.repo).toBe("/repos/memory")
+  test("the akasha root comes with it, so a caller joins against what this resolved", () => {
+    expect(answer.repo).toBe("/repos/akasha")
   })
 
   test("a row nothing states is left out rather than carried as null", () => {
@@ -24,7 +24,7 @@ describe("the colors answer", () => {
 })
 
 describe("nothing is drawn at all", () => {
-  const answer = colorsAnswer("/repos/memory", { byInitiative: new Map() })
+  const answer = colorsAnswer("/repos/akasha", { byInitiative: new Map() })
 
   test("the record is empty rather than absent, so a caller reads it without a guard", () => {
     expect(answer.byInitiative).toEqual({})
