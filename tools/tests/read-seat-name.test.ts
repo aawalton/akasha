@@ -27,7 +27,7 @@ interface SeatNameFixture {
 }
 
 const fixture: SeatNameFixture = JSON.parse(
-  readFileSync(`${roots.instructions}/tools/lib/seat-name-fixture.json`, "utf8")
+  readFileSync(`${roots.akasha}/tools/lib/seat-name-fixture.json`, "utf8")
 )
 
 function vocabularyNamed(which: string): Vocabularies {
