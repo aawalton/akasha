@@ -19,12 +19,12 @@ describe("enumerateGlobalDependents — the crafting worked example (saga fixtur
     global: "TemperCrafting",
     files: [
       {
-        path: "packages/temper/game/crafting/addon/src/state.ts",
+        path: "temper/game-crafting-addon/src/state.ts",
         lang: "ts",
         source: `const state = { Name: "TemperCrafting", Title: "CraftStore" }\nexport { state }\n`,
       },
       {
-        path: "packages/temper/game/crafting/addon/src/settings/lam.ts",
+        path: "temper/game-crafting-addon/src/settings/lam.ts",
         lang: "ts",
         source: [
           `import { state } from "../state"`,
@@ -35,7 +35,7 @@ describe("enumerateGlobalDependents — the crafting worked example (saga fixtur
         ].join("\n"),
       },
       {
-        path: "packages/temper/game/crafting/addon/src/core/xml-handlers.ts",
+        path: "temper/game-crafting-addon/src/core/xml-handlers.ts",
         lang: "ts",
         source: [
           `declare const LibAddonMenu2: { OpenToPanel: (p: unknown) => void }`,
@@ -46,7 +46,7 @@ describe("enumerateGlobalDependents — the crafting worked example (saga fixtur
         ].join("\n"),
       },
       {
-        path: "packages/temper/game/crafting/addon/metadata/XML/UI/CraftStore.xml",
+        path: "temper/game-crafting-addon/metadata/XML/UI/CraftStore.xml",
         lang: "xml",
         source: [
           `<Controls>`,
@@ -56,7 +56,7 @@ describe("enumerateGlobalDependents — the crafting worked example (saga fixtur
         ].join("\n"),
       },
       {
-        path: "packages/temper/game/crafting/addon/metadata/Bindings.xml",
+        path: "temper/game-crafting-addon/metadata/Bindings.xml",
         lang: "xml",
         source: `<Bindings><Down>TemperCrafting.SetAllStyles()</Down></Bindings>\n`,
       },
@@ -75,14 +75,14 @@ describe("enumerateGlobalDependents — the crafting worked example (saga fixtur
   test("surfaces the LAM-topology binding site (the render-risk fingerprint) on state.Name", () => {
     const report = run(craftingCorpus)
     const binding = report.dependents.find((d) => d.kind === "lam-topology-binding")
-    expect(binding?.file).toBe("packages/temper/game/crafting/addon/src/settings/lam.ts")
+    expect(binding?.file).toBe("temper/game-crafting-addon/src/settings/lam.ts")
     expect(binding?.detail).toBe(`RegisterAddonPanel("TemperCrafting")`)
   })
 
   test("surfaces the globalThis.TemperCrafting.LAM render-path read", () => {
     const report = run(craftingCorpus)
     const read = report.dependents.find((d) => d.kind === "ts-global-read")
-    expect(read?.file).toBe("packages/temper/game/crafting/addon/src/core/xml-handlers.ts")
+    expect(read?.file).toBe("temper/game-crafting-addon/src/core/xml-handlers.ts")
     expect(read?.detail).toBe("globalThis.TemperCrafting")
   })
 
@@ -100,7 +100,7 @@ describe("enumerateGlobalDependents — the rename-safe case (no dependents)", (
       global: "TemperExampleWidget",
       files: [
         {
-          path: "packages/temper/addons/example-widget/src/public-api.ts",
+          path: "temper/addons-example-widget/src/public-api.ts",
           lang: "ts",
           source: `const api = { isReady: () => true }\nglobalThis.TemperExampleWidget = api\n`,
         },
