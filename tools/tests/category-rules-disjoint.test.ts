@@ -3,11 +3,13 @@ import { existsSync, readFileSync } from "node:fs"
 import { categoryRulesDisjoint } from "../audits/category-rules-disjoint.ts"
 import type { RepoView } from "../lib/check.ts"
 import { fixture, type Fixture } from "./fixture.ts"
+import { categoryRuleStore } from "./rules-fixture.ts"
 
 let at: Fixture
 
 beforeEach(() => {
   at = fixture()
+  categoryRuleStore(at)
 })
 afterEach(() => at.dispose())
 

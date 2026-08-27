@@ -4,11 +4,13 @@ import { existsSync, readFileSync } from "node:fs"
 import { emailRulesDisjoint } from "../audits/email-rules-disjoint.ts"
 import type { RepoView } from "../lib/check.ts"
 import { fixture, type Fixture } from "./fixture.ts"
+import { emailRuleStore } from "./rules-fixture.ts"
 
 let at: Fixture
 
 beforeEach(() => {
   at = fixture()
+  emailRuleStore(at)
 })
 afterEach(() => at.dispose())
 

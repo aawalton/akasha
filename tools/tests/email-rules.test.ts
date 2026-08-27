@@ -3,11 +3,13 @@ import { afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { decide, matches, rulesOf } from "../lib/email-rules.ts"
 import type { Message } from "../lib/gmail.ts"
 import { fixture, type Fixture } from "./fixture.ts"
+import { emailRuleStore } from "./rules-fixture.ts"
 
 let at: Fixture
 
 beforeEach(() => {
   at = fixture()
+  emailRuleStore(at)
 })
 afterEach(() => at.dispose())
 
