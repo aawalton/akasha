@@ -94,7 +94,11 @@ export function readRoster(roots: Roots): Roster {
   for (const [relPath, fm] of frontmatter) {
     const kind = claimant(relPath, "akasha", claimants).slug
     if (kind !== "finding" && kind !== "initiative") continue
-    const subject = textField(fm, SUBJECT_KEY)
+    // Spelled bare, for the reason the parent below is: a filing names its domain by address —
+    // `domain/agent-harness` — while every key these filings are looked up under is the slug
+    // alone, so an address stored unchanged is filed against a domain no champion holds. Each
+    // one then counts as an unreached filing and every persona reads as holding none.
+    const subject = slugNamed(textField(fm, SUBJECT_KEY))
     if (subject === null) continue
     const finding = kind === "finding"
     if (finding) findings += 1
