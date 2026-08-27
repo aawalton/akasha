@@ -57,7 +57,7 @@ export type FormulaType =
   | { kind: "number" }
   | { kind: "boolean" }
   | { kind: "instant" }
-  | { kind: "list"; of: FormulaType };
+  | { kind: "list"; of: FormulaType }
 
 /** A value a formula can hold. Absence is not a value: it is a key with no entry. */
 export type FormulaValue =
@@ -66,7 +66,7 @@ export type FormulaValue =
   | { kind: "boolean"; boolean: boolean }
   /** ISO 8601, UTC. */
   | { kind: "instant"; instant: string }
-  | { kind: "list"; list: FormulaValue[] };
+  | { kind: "list"; list: FormulaValue[] }
 
 /**
  * One key a page type declares. A key carrying a `formula` is a computed
@@ -74,12 +74,12 @@ export type FormulaValue =
  * one exactly as it names a stored one.
  */
 export interface ShapeKey {
-  type: FormulaType;
-  formula?: string;
+  type: FormulaType
+  formula?: string
 }
 
 /** What the page type declares. A formula is checked against this. */
-export type Shape = Record<string, ShapeKey>;
+export type Shape = Record<string, ShapeKey>
 
 /**
  * Where a wrong program is caught. `pages/domain/language-failure.domain.md:15`
@@ -87,7 +87,7 @@ export type Shape = Record<string, ShapeKey>;
  * values. `pages/domain/formula-language.domain.md:54` closes the third for
  * this language, so no case here expects a refusal at run time.
  */
-export type RefusalMoment = "read" | "check";
+export type RefusalMoment = "read" | "check"
 
 /**
  * What was wrong. These are the corpus's names for the faults the
@@ -109,46 +109,71 @@ export type RefusalReason =
   | "undeclared-key"
   | "types-do-not-meet"
   | "formula-cycle"
-  | "instant-read-outside-a-function";
+  | "instant-read-outside-a-function"
 
 export type Outcome =
   | { outcome: "value"; value: FormulaValue }
   | { outcome: "absent" }
   | {
-      outcome: "refused";
-      at: RefusalMoment;
-      reason: RefusalReason;
+      outcome: "refused"
+      at: RefusalMoment
+      reason: RefusalReason
       /** Words the refusal must carry, in the program's own terms. */
-      mustName?: string[];
-    };
+      mustName?: string[]
+    }
+
+/**
+ * Where a case's claim is written.
+ *
+ * Nearly every claim is one line of one page, and `claim` quotes that line. A
+ * few cases rest on what a page leaves out — that the operators list names no
+ * `||`, that the functions list names no `upper` — and an absence is written
+ * nowhere. Those name the section that would have carried it instead, and the
+ * words that must not turn up among that section's entries, which is a thing a
+ * reader and a test can both go and check.
+ */
+export type Citation =
+  | { at: "line"; page: string; line: number }
+  | { at: "absence"; page: string; section: string; names: string[] }
+
+/** A citation as one string, for a failure message or a grep. */
+export function citationText(from: Citation): string {
+  return from.at === "line"
+    ? `${from.page}:${from.line}`
+    : `${from.page} § ${from.section}, naming no ${from.names.join(" or ")}`
+}
 
 export interface FormulaCase {
   /** Unique, and readable on its own in a failure line. */
-  name: string;
+  name: string
   /** Which group of the corpus this sits in. */
-  group: CaseGroup;
-  /** `path:line` of the written claim this case tests. */
-  from: string;
-  /** The written claim, quoted. */
-  claim: string;
+  group: CaseGroup
+  /** Where the claim this case tests is written, or where its absence is. */
+  from: Citation
+  /**
+   * The claim. Where `from` is a line, this quotes that line exactly, and the
+   * test beside this file holds it to that. Where `from` is an absence there
+   * is nothing to quote, so this states the absence in the corpus's own words.
+   */
+  claim: string
   /** The formula text, exactly as a page type would carry it. */
-  formula: string;
+  formula: string
   /** The keys the page type declares, and their types. */
-  shape: Shape;
+  shape: Shape
   /** The values the page holds. A key with no entry here is absent. */
-  values: Record<string, FormulaValue>;
+  values: Record<string, FormulaValue>
   /** What the formula must do. */
-  expected: Outcome;
+  expected: Outcome
   /**
    * The instant `now()` answers, pinned. Present only where the formula calls
    * `now`. `pages/list/formula-functions.list.md:15`.
    */
-  now?: string;
+  now?: string
   /**
    * Something this case rests on that the pages leave out rather than state.
    * Named so a ruling can be applied without rereading every case.
    */
-  provisional?: Provisional;
+  provisional?: Provisional
 }
 
 /**
@@ -158,7 +183,7 @@ export interface FormulaCase {
  */
 export type Provisional =
   /** That there is no list literal. Nothing spells one. */
-  | "no-list-literal";
+  "no-list-literal"
 
 export type CaseGroup =
   | "references"
@@ -176,7 +201,7 @@ export type CaseGroup =
   | "refused-at-read"
   | "refused-undeclared-key"
   | "refused-types-do-not-meet"
-  | "refused-cycle";
+  | "refused-cycle"
 
 // ---------------------------------------------------------------------------
 // Spellings the specification does not settle
@@ -199,22 +224,17 @@ export type CaseGroup =
  *
  * Change this function and every case-form case is re-spelled.
  */
-export function caseForm(
-  rows: Array<{ test: string; value: string }>,
-  otherwise: string,
-): string {
+export function caseForm(rows: Array<{ test: string; value: string }>, otherwise: string): string {
   const written = [...rows, { test: "otherwise", value: otherwise }]
     .map((row) => `${row.test} -> ${row.value}`)
-    .join(", ");
-  return `case(${written})`;
+    .join(", ")
+  return `case(${written})`
 }
 
 /** A case form written without its `otherwise` row, for the refusal cases. */
-export function caseFormWithoutOtherwise(
-  rows: Array<{ test: string; value: string }>,
-): string {
-  const written = rows.map((row) => `${row.test} -> ${row.value}`).join(", ");
-  return `case(${written})`;
+export function caseFormWithoutOtherwise(rows: Array<{ test: string; value: string }>): string {
+  const written = rows.map((row) => `${row.test} -> ${row.value}`).join(", ")
+  return `case(${written})`
 }
 
 /**
@@ -222,44 +242,45 @@ export function caseFormWithoutOtherwise(
  * commas, as `pages/domain/formula-language.domain.md:42` spells it.
  */
 export function call(name: string, ...args: string[]): string {
-  return `${name}(${args.join(", ")})`;
+  return `${name}(${args.join(", ")})`
 }
 
 // ---------------------------------------------------------------------------
 // Short constructors, so a case reads as the claim it tests
 // ---------------------------------------------------------------------------
 
-const TEXT: FormulaType = { kind: "text" };
-const NUMBER: FormulaType = { kind: "number" };
-const BOOLEAN: FormulaType = { kind: "boolean" };
-const INSTANT: FormulaType = { kind: "instant" };
-const listOf = (of: FormulaType): FormulaType => ({ kind: "list", of });
+const TEXT: FormulaType = { kind: "text" }
+const NUMBER: FormulaType = { kind: "number" }
+const BOOLEAN: FormulaType = { kind: "boolean" }
+const INSTANT: FormulaType = { kind: "instant" }
+const listOf = (of: FormulaType): FormulaType => ({ kind: "list", of })
 
-const text = (value: string): FormulaValue => ({ kind: "text", text: value });
-const num = (value: number): FormulaValue => ({ kind: "number", number: value });
-const bool = (value: boolean): FormulaValue => ({ kind: "boolean", boolean: value });
-const instant = (value: string): FormulaValue => ({ kind: "instant", instant: value });
+const text = (value: string): FormulaValue => ({ kind: "text", text: value })
+const num = (value: number): FormulaValue => ({ kind: "number", number: value })
+const bool = (value: boolean): FormulaValue => ({ kind: "boolean", boolean: value })
+const instant = (value: string): FormulaValue => ({ kind: "instant", instant: value })
 const listOfValues = (...values: FormulaValue[]): FormulaValue => ({
   kind: "list",
   list: values,
-});
+})
 
-const answers = (value: FormulaValue): Outcome => ({ outcome: "value", value });
-const answersText = (value: string): Outcome => answers(text(value));
-const answersNumber = (value: number): Outcome => answers(num(value));
-const answersBoolean = (value: boolean): Outcome => answers(bool(value));
-const ABSENT: Outcome = { outcome: "absent" };
-const refused = (
-  at: RefusalMoment,
-  reason: RefusalReason,
-  mustName?: string[],
-): Outcome => ({ outcome: "refused", at, reason, ...(mustName ? { mustName } : {}) });
+const answers = (value: FormulaValue): Outcome => ({ outcome: "value", value })
+const answersText = (value: string): Outcome => answers(text(value))
+const answersNumber = (value: number): Outcome => answers(num(value))
+const answersBoolean = (value: boolean): Outcome => answers(bool(value))
+const ABSENT: Outcome = { outcome: "absent" }
+const refused = (at: RefusalMoment, reason: RefusalReason, mustName?: string[]): Outcome => ({
+  outcome: "refused",
+  at,
+  reason,
+  ...(mustName ? { mustName } : {}),
+})
 
 // Shapes reused across many cases.
-const NOTHING: Shape = {};
-const COUNT: Shape = { count: { type: NUMBER } };
-const NAME: Shape = { name: { type: TEXT } };
-const FLAG: Shape = { flag: { type: BOOLEAN } };
+const NOTHING: Shape = {}
+const COUNT: Shape = { count: { type: NUMBER } }
+const NAME: Shape = { name: { type: TEXT } }
+const FLAG: Shape = { flag: { type: BOOLEAN } }
 const MIXED: Shape = {
   count: { type: NUMBER },
   other: { type: NUMBER },
@@ -269,115 +290,128 @@ const MIXED: Shape = {
   scores: { type: listOf(NUMBER) },
   start: { type: INSTANT },
   finish: { type: INSTANT },
-};
+}
 
-// Source lines, written once.
+// The pages this corpus is written from.
+const FORMULA_LANGUAGE = "pages/domain/formula-language.domain.md"
+const FORMULA_ABSENT_VALUE = "pages/domain/formula-absent-value.domain.md"
+const FORMULA_VALUES = "pages/list/formula-values.list.md"
+const FORMULA_FUNCTIONS = "pages/list/formula-functions.list.md"
+const FORMULA_OPERATORS = "pages/list/formula-operators.list.md"
+const LANGUAGE_FAILURE = "pages/domain/language-failure.domain.md"
+const LANGUAGE_TYPE_SYSTEM = "pages/domain/language-type-system.domain.md"
+const LANGUAGE_POWER = "pages/domain/language-power.domain.md"
+
+const onLine = (page: string, line: number): Citation => ({ at: "line", page, line })
+const namingNo = (page: string, section: string, ...names: string[]): Citation => ({
+  at: "absence",
+  page,
+  section,
+  names,
+})
+
+// Where each claim is written, once.
 const L = {
-  reference: "pages/domain/formula-language.domain.md:26",
-  referenceInText: "pages/domain/formula-language.domain.md:28",
-  chooseWithCase: "pages/domain/formula-language.domain.md:30",
-  caseSpelling: "pages/domain/formula-language.domain.md:32",
-  caseRowSpelling: "pages/domain/formula-language.domain.md:34",
-  everyCaseOtherwise: "pages/domain/formula-language.domain.md:36",
-  otherwiseSpelling: "pages/domain/formula-language.domain.md:38",
-  onlyWinningRow: "pages/domain/formula-language.domain.md:40",
-  callSpelling: "pages/domain/formula-language.domain.md:42",
-  computedLikeStored: "pages/domain/formula-language.domain.md:44",
-  noNames: "pages/domain/formula-language.domain.md:46",
-  cycle: "pages/domain/formula-language.domain.md:48",
-  joinsText: "pages/domain/formula-language.domain.md:50",
-  precedence: "pages/domain/formula-language.domain.md:52",
-  parenthesesGroup: "pages/domain/formula-language.domain.md:54",
-  shortCircuit: "pages/domain/formula-language.domain.md:56",
-  textLiteral: "pages/domain/formula-language.domain.md:58",
-  valueWords: "pages/domain/formula-language.domain.md:60",
-  undeclaredKey: "pages/domain/formula-language.domain.md:62",
-  typesMeet: "pages/domain/formula-language.domain.md:64",
-  neverFails: "pages/domain/formula-language.domain.md:66",
+  reference: onLine(FORMULA_LANGUAGE, 26),
+  referenceInText: onLine(FORMULA_LANGUAGE, 28),
+  chooseWithCase: onLine(FORMULA_LANGUAGE, 30),
+  caseSpelling: onLine(FORMULA_LANGUAGE, 32),
+  caseRowSpelling: onLine(FORMULA_LANGUAGE, 34),
+  everyCaseOtherwise: onLine(FORMULA_LANGUAGE, 36),
+  otherwiseSpelling: onLine(FORMULA_LANGUAGE, 38),
+  onlyWinningRow: onLine(FORMULA_LANGUAGE, 40),
+  callSpelling: onLine(FORMULA_LANGUAGE, 42),
+  computedLikeStored: onLine(FORMULA_LANGUAGE, 44),
+  noNames: onLine(FORMULA_LANGUAGE, 46),
+  cycle: onLine(FORMULA_LANGUAGE, 48),
+  joinsText: onLine(FORMULA_LANGUAGE, 50),
+  precedence: onLine(FORMULA_LANGUAGE, 52),
+  parenthesesGroup: onLine(FORMULA_LANGUAGE, 54),
+  shortCircuit: onLine(FORMULA_LANGUAGE, 56),
+  textLiteral: onLine(FORMULA_LANGUAGE, 58),
+  valueWords: onLine(FORMULA_LANGUAGE, 60),
+  undeclaredKey: onLine(FORMULA_LANGUAGE, 62),
+  typesMeet: onLine(FORMULA_LANGUAGE, 64),
+  neverFails: onLine(FORMULA_LANGUAGE, 66),
 
-  absentOperator: "pages/domain/formula-absent-value.domain.md:15",
-  absentEquality: "pages/domain/formula-absent-value.domain.md:17",
-  rowMatchesOnTrue: "pages/domain/formula-absent-value.domain.md:19",
-  fallback: "pages/domain/formula-absent-value.domain.md:21",
-  divideByZero: "pages/domain/formula-absent-value.domain.md:23",
+  absentOperator: onLine(FORMULA_ABSENT_VALUE, 15),
+  absentEquality: onLine(FORMULA_ABSENT_VALUE, 17),
+  rowMatchesOnTrue: onLine(FORMULA_ABSENT_VALUE, 19),
+  fallback: onLine(FORMULA_ABSENT_VALUE, 21),
+  divideByZero: onLine(FORMULA_ABSENT_VALUE, 23),
 
-  valueText: "pages/list/formula-values.list.md:15",
-  valueNumber: "pages/list/formula-values.list.md:16",
-  valueBoolean: "pages/list/formula-values.list.md:17",
-  valueList: "pages/list/formula-values.list.md:18",
-  valueInstant: "pages/list/formula-values.list.md:19",
-  valueAbsent: "pages/list/formula-values.list.md:20",
+  valueText: onLine(FORMULA_VALUES, 15),
+  valueNumber: onLine(FORMULA_VALUES, 16),
+  valueBoolean: onLine(FORMULA_VALUES, 17),
+  valueList: onLine(FORMULA_VALUES, 18),
+  valueInstant: onLine(FORMULA_VALUES, 19),
+  valueAbsent: onLine(FORMULA_VALUES, 20),
 
-  fnNow: "pages/list/formula-functions.list.md:15",
-  fnHoursBetween: "pages/list/formula-functions.list.md:16",
-  fnContains: "pages/list/formula-functions.list.md:17",
-  fnHasWord: "pages/list/formula-functions.list.md:18",
+  fnNow: onLine(FORMULA_FUNCTIONS, 15),
+  fnHoursBetween: onLine(FORMULA_FUNCTIONS, 16),
+  fnContains: onLine(FORMULA_FUNCTIONS, 17),
+  fnHasWord: onLine(FORMULA_FUNCTIONS, 18),
 
-  opPlus: "pages/list/formula-operators.list.md:15",
-  opMinus: "pages/list/formula-operators.list.md:16",
-  opTimes: "pages/list/formula-operators.list.md:17",
-  opDivide: "pages/list/formula-operators.list.md:18",
-  opEqual: "pages/list/formula-operators.list.md:19",
-  opNotEqual: "pages/list/formula-operators.list.md:20",
-  opLess: "pages/list/formula-operators.list.md:21",
-  opAtMost: "pages/list/formula-operators.list.md:22",
-  opMore: "pages/list/formula-operators.list.md:23",
-  opAtLeast: "pages/list/formula-operators.list.md:24",
-  opAnd: "pages/list/formula-operators.list.md:25",
-  opFallback: "pages/list/formula-operators.list.md:26",
+  opPlus: onLine(FORMULA_OPERATORS, 15),
+  opMinus: onLine(FORMULA_OPERATORS, 16),
+  opTimes: onLine(FORMULA_OPERATORS, 17),
+  opDivide: onLine(FORMULA_OPERATORS, 18),
+  opEqual: onLine(FORMULA_OPERATORS, 19),
+  opNotEqual: onLine(FORMULA_OPERATORS, 20),
+  opLess: onLine(FORMULA_OPERATORS, 21),
+  opAtMost: onLine(FORMULA_OPERATORS, 22),
+  opMore: onLine(FORMULA_OPERATORS, 23),
+  opAtLeast: onLine(FORMULA_OPERATORS, 24),
+  opAnd: onLine(FORMULA_OPERATORS, 25),
+  opFallback: onLine(FORMULA_OPERATORS, 26),
 
-  threeMoments: "pages/domain/language-failure.domain.md:15",
-  caughtEarly: "pages/domain/language-failure.domain.md:23",
-  refuseNotConvert: "pages/domain/language-failure.domain.md:33",
-  absentStopsAnswer: "pages/domain/language-failure.domain.md:37",
-  nameTheCause: "pages/domain/language-failure.domain.md:43",
-  declaredNotGuessed: "pages/domain/language-type-system.domain.md:17",
-  leastPower: "pages/domain/language-power.domain.md:17",
-  operatorsList: "pages/list/formula-operators.list.md:15-26",
-  functionsList: "pages/list/formula-functions.list.md:15-18",
-} as const;
+  threeMoments: onLine(LANGUAGE_FAILURE, 15),
+  caughtEarly: onLine(LANGUAGE_FAILURE, 23),
+  refuseNotConvert: onLine(LANGUAGE_FAILURE, 33),
+  absentStopsAnswer: onLine(LANGUAGE_FAILURE, 37),
+  nameTheCause: onLine(LANGUAGE_FAILURE, 43),
+  declaredNotGuessed: onLine(LANGUAGE_TYPE_SYSTEM, 17),
+  leastPower: onLine(LANGUAGE_POWER, 17),
+
+  // Claims about what a list leaves out. No line carries an absence, so these
+  // name the section and the word that must not appear among its entries.
+  noOrOperator: namingNo(FORMULA_OPERATORS, "List", "||"),
+  noNotOperator: namingNo(FORMULA_OPERATORS, "List", "!"),
+  noRemainderOperator: namingNo(FORMULA_OPERATORS, "List", "%"),
+  noSingleEquals: namingNo(FORMULA_OPERATORS, "List", "="),
+  noUpperFunction: namingNo(FORMULA_FUNCTIONS, "List", "upper"),
+  noIncludesFunction: namingNo(FORMULA_FUNCTIONS, "List", "includes"),
+} as const
 
 const C = {
   reference: "A formula names a property by putting its key between braces.",
   referenceInText: "A reference inside a text literal is filled where it stands.",
-  chooseWithCase:
-    "A formula chooses between values with a case, and with nothing else.",
-  caseSpelling:
-    "A case is written `case(`, its rows separated by commas, then `)`.",
-  caseRowSpelling:
-    "A case row is written as its test, then `->`, then its value.",
+  chooseWithCase: "A formula chooses between values with a case, and with nothing else.",
+  caseSpelling: "A case is written `case(`, its rows separated by commas, then `)`.",
+  caseRowSpelling: "A case row is written as its test, then `->`, then its value.",
   everyCaseOtherwise: "Every case ends with an `otherwise` row.",
   otherwiseSpelling:
     "An `otherwise` row is written with the word `otherwise` where its test would be.",
-  onlyWinningRow:
-    "A case works out only the value of the row whose test passed.",
+  onlyWinningRow: "A case works out only the value of the row whose test passed.",
   callSpelling:
     "A function call is written as its name, then its arguments between parentheses, separated by commas.",
-  computedLikeStored:
-    "A formula names a computed property exactly as it names a stored one.",
+  computedLikeStored: "A formula names a computed property exactly as it names a stored one.",
   noNames: "A formula gives no value a name of its own.",
-  cycle:
-    "A cycle among a page type's formulas is refused when the page type is checked.",
-  joinsText:
-    "A formula joins text by writing references into a text literal, and in no other way.",
+  cycle: "A cycle among a page type's formulas is refused when the page type is checked.",
+  joinsText: "A formula joins text by writing references into a text literal, and in no other way.",
   precedence:
     "A formula's operators bind in this order, loosest first: `??`, `&&`, comparison, addition, multiplication.",
   parenthesesGroup: "Parentheses group.",
-  shortCircuit:
-    "An operator that can answer from its left side alone does not work out its right.",
-  textLiteral:
-    "A text literal is written between double quotes, and holds no quote of its own.",
+  shortCircuit: "An operator that can answer from its left side alone does not work out its right.",
+  textLiteral: "A text literal is written between double quotes, and holds no quote of its own.",
   valueWords: "Only `true`, `false` and `absent` are words standing for a value.",
   undeclaredKey:
     "A formula that names a key its page type does not declare is refused when the page type is checked.",
-  typesMeet:
-    "A formula whose types do not meet is refused when the page type is checked.",
-  neverFails:
-    "A formula that passes its check answers a value or absent, and never fails.",
+  typesMeet: "A formula whose types do not meet is refused when the page type is checked.",
+  neverFails: "A formula that passes its check answers a value or absent, and never fails.",
 
   absentOperator: "An operator that reaches an absent value answers absent.",
-  absentEquality:
-    "`==` and `!=` answer a boolean, absent being equal only to absent.",
+  absentEquality: "`==` and `!=` answer a boolean, absent being equal only to absent.",
   rowMatchesOnTrue: "A case row matches only where its test answers true.",
   fallback: "`??` answers its left side, or its right where its left is absent.",
   divideByZero: "Dividing by zero answers absent.",
@@ -386,8 +420,7 @@ const C = {
   valueNumber: "**number** — a count or a measure, whole or fractional.",
   valueBoolean: "**boolean** — true or false.",
   valueList: "**list** — several values of one kind, in order.",
-  valueInstant:
-    "**instant** — a moment in time, which only a function taking one may read.",
+  valueInstant: "**instant** — a moment in time, which only a function taking one may read.",
   valueAbsent:
     "**absent** — what a formula gets where the page holds nothing under the key it read.",
 
@@ -412,19 +445,20 @@ const C = {
   threeMoments:
     "A program is found wrong at one of three moments: reading it, checking what it names, or running it on values.",
   caughtEarly: "Find a wrong program at the earliest moment it can be found.",
-  refuseNotConvert:
-    "Refuse a value the program cannot use, rather than making one it can.",
+  refuseNotConvert: "Refuse a value the program cannot use, rather than making one it can.",
   absentStopsAnswer: "Let one absent value stop the whole answer.",
   nameTheCause:
     "Make a refusal say what was wrong and where, in the terms the program was written in.",
-  declaredNotGuessed:
-    "Take a value's type from what declared it, never from how it is written.",
+  declaredNotGuessed: "Take a value's type from what declared it, never from how it is written.",
   leastPower: "Give a language the least power that does the job.",
-  operatorsList:
-    "The operators list runs `+`, `-`, `*`, `/`, `==`, `!=`, `<`, `<=`, `>`, `>=`, `&&` and `??`.",
-  functionsList:
-    "The functions list runs `now`, `hoursBetween`, `contains` and `hasWord`.",
-} as const;
+
+  noOrOperator: "The operators list names no `||`.",
+  noNotOperator: "The operators list names no `!`.",
+  noRemainderOperator: "The operators list names no `%`.",
+  noSingleEquals: "The operators list names `==` and no `=`.",
+  noUpperFunction: "The functions list names no `upper`.",
+  noIncludesFunction: "The functions list names no `includes`.",
+} as const
 
 // ---------------------------------------------------------------------------
 // References — putting a key between braces
@@ -601,7 +635,7 @@ const references: FormulaCase[] = [
     values: { name: text("12") },
     expected: answersBoolean(true),
   },
-];
+]
 
 // ---------------------------------------------------------------------------
 // Text literals, and references inside them
@@ -822,7 +856,7 @@ const textLiterals: FormulaCase[] = [
     values: {},
     expected: refused("read", "unreadable"),
   },
-];
+]
 
 // ---------------------------------------------------------------------------
 // Value words, and words that are not
@@ -962,7 +996,7 @@ const valueWords: FormulaCase[] = [
     // Nothing in the specification spells a list literal; a list reaches a
     // formula only from a key.
   },
-];
+]
 
 // ---------------------------------------------------------------------------
 // Arithmetic
@@ -1111,7 +1145,7 @@ const arithmetic: FormulaCase[] = [
     values: {},
     expected: ABSENT,
   },
-];
+]
 
 // ---------------------------------------------------------------------------
 // Comparison
@@ -1288,7 +1322,7 @@ const comparison: FormulaCase[] = [
     values: {},
     expected: answersBoolean(true),
   },
-];
+]
 
 // ---------------------------------------------------------------------------
 // Conjunction
@@ -1407,8 +1441,8 @@ const conjunction: FormulaCase[] = [
   {
     name: "or is not an operator this language has",
     group: "refused-at-read",
-    from: L.operatorsList,
-    claim: C.operatorsList,
+    from: L.noOrOperator,
+    claim: C.noOrOperator,
     formula: "false || true",
     shape: NOTHING,
     values: {},
@@ -1418,8 +1452,8 @@ const conjunction: FormulaCase[] = [
   {
     name: "not is not an operator this language has",
     group: "refused-at-read",
-    from: L.operatorsList,
-    claim: C.operatorsList,
+    from: L.noNotOperator,
+    claim: C.noNotOperator,
     formula: "!true",
     shape: NOTHING,
     values: {},
@@ -1428,8 +1462,8 @@ const conjunction: FormulaCase[] = [
   {
     name: "remainder is not an operator this language has",
     group: "refused-at-read",
-    from: L.operatorsList,
-    claim: C.operatorsList,
+    from: L.noRemainderOperator,
+    claim: C.noRemainderOperator,
     formula: "7 % 2",
     shape: NOTHING,
     values: {},
@@ -1438,14 +1472,14 @@ const conjunction: FormulaCase[] = [
   {
     name: "single equals is not an operator this language has",
     group: "refused-at-read",
-    from: L.operatorsList,
-    claim: C.operatorsList,
+    from: L.noSingleEquals,
+    claim: C.noSingleEquals,
     formula: "1 = 1",
     shape: NOTHING,
     values: {},
     expected: refused("read", "unknown-operator", ["="]),
   },
-];
+]
 
 // ---------------------------------------------------------------------------
 // Fallback
@@ -1595,7 +1629,7 @@ const fallback: FormulaCase[] = [
     values: { id: text("019f1412") },
     expected: answersText("019f1412"),
   },
-];
+]
 
 // ---------------------------------------------------------------------------
 // Precedence and grouping
@@ -1789,7 +1823,7 @@ const precedence: FormulaCase[] = [
     expected: answersBoolean(true),
     // `((1 + (2 * 3)) > 5) && ((2 - 1) < 2)`.
   },
-];
+]
 
 // ---------------------------------------------------------------------------
 // The case form
@@ -1827,7 +1861,7 @@ const caseForm_: FormulaCase[] = [
         { test: "{count} > 10", value: '"many"' },
         { test: "{count} > 0", value: '"some"' },
       ],
-      '"none"',
+      '"none"'
     ),
     shape: COUNT,
     values: { count: num(50) },
@@ -1843,7 +1877,7 @@ const caseForm_: FormulaCase[] = [
         { test: "{count} > 0", value: '"first"' },
         { test: "{count} > 0", value: '"second"' },
       ],
-      '"none"',
+      '"none"'
     ),
     shape: COUNT,
     values: { count: num(1) },
@@ -1859,7 +1893,7 @@ const caseForm_: FormulaCase[] = [
         { test: "{count} > 100", value: '"huge"' },
         { test: "{count} > 10", value: '"many"' },
       ],
-      '"none"',
+      '"none"'
     ),
     shape: COUNT,
     values: { count: num(1) },
@@ -1897,7 +1931,7 @@ const caseForm_: FormulaCase[] = [
         { test: "{count} > 10", value: '"many"' },
         { test: "{other} > 1", value: '"other"' },
       ],
-      '"unknown"',
+      '"unknown"'
     ),
     shape: MIXED,
     values: { other: num(5) },
@@ -1946,7 +1980,7 @@ const caseForm_: FormulaCase[] = [
         { test: "{count} == 0", value: "{other} / {count}" },
         { test: "true", value: "{other}" },
       ],
-      "0",
+      "0"
     ),
     shape: MIXED,
     values: { count: num(2), other: num(10) },
@@ -2080,7 +2114,7 @@ const caseForm_: FormulaCase[] = [
         { test: "true", value: "1" },
         { test: "{missing} > 0", value: "2" },
       ],
-      "3",
+      "3"
     ),
     shape: COUNT,
     values: { count: num(1) },
@@ -2099,7 +2133,7 @@ const caseForm_: FormulaCase[] = [
           value: caseForm([{ test: "{count} > 10", value: '"many"' }], '"some"'),
         },
       ],
-      '"none"',
+      '"none"'
     ),
     shape: COUNT,
     values: { count: num(5) },
@@ -2195,7 +2229,7 @@ const caseForm_: FormulaCase[] = [
     values: { count: num(1) },
     expected: refused("read", "choice-without-a-case"),
   },
-];
+]
 
 // ---------------------------------------------------------------------------
 // Functions
@@ -2426,8 +2460,8 @@ const functions: FormulaCase[] = [
   {
     name: "a function this language does not have is refused",
     group: "functions",
-    from: L.functionsList,
-    claim: C.functionsList,
+    from: L.noUpperFunction,
+    claim: C.noUpperFunction,
     formula: call("upper", "{name}"),
     shape: NAME,
     values: { name: text("astra") },
@@ -2436,8 +2470,8 @@ const functions: FormulaCase[] = [
   {
     name: "a substring test is not a function this language has",
     group: "functions",
-    from: L.functionsList,
-    claim: C.functionsList,
+    from: L.noIncludesFunction,
+    claim: C.noIncludesFunction,
     formula: call("includes", "{name}", '"a"'),
     shape: NAME,
     values: { name: text("astra") },
@@ -2563,7 +2597,7 @@ const functions: FormulaCase[] = [
     values: { name: text("the cat sat") },
     expected: refused("read", "unreadable"),
   },
-];
+]
 
 // ---------------------------------------------------------------------------
 // Absence carrying through
@@ -2909,7 +2943,7 @@ const absence: FormulaCase[] = [
     values: { other: num(2) },
     expected: ABSENT,
   },
-];
+]
 
 // ---------------------------------------------------------------------------
 // A checked formula never fails
@@ -2960,7 +2994,7 @@ const neverFails: FormulaCase[] = [
     values: {},
     expected: ABSENT,
   },
-];
+]
 
 // ---------------------------------------------------------------------------
 // Refused when the formula is read
@@ -3099,7 +3133,7 @@ const refusedAtRead: FormulaCase[] = [
     values: { tags: listOfValues(text("a")) },
     expected: refused("read", "unreadable"),
   },
-];
+]
 
 // ---------------------------------------------------------------------------
 // Refused for a key the page type does not declare
@@ -3211,7 +3245,7 @@ const refusedUndeclaredKey: FormulaCase[] = [
     values: {},
     expected: refused("check", "undeclared-key", ["count"]),
   },
-];
+]
 
 // ---------------------------------------------------------------------------
 // Refused where the types do not meet
@@ -3473,7 +3507,7 @@ const refusedTypes: FormulaCase[] = [
     values: { count: num(1) },
     expected: refused("check", "types-do-not-meet", ["mislabelled", "text", "number"]),
   },
-];
+]
 
 // ---------------------------------------------------------------------------
 // Refused for a cycle among a page type's formulas
@@ -3564,7 +3598,7 @@ const refusedCycle: FormulaCase[] = [
     expected: answersNumber(10),
     // Two paths reaching one key is a diamond, not a ring.
   },
-];
+]
 
 // ---------------------------------------------------------------------------
 // The corpus
@@ -3587,4 +3621,4 @@ export const cases: FormulaCase[] = [
   ...refusedUndeclaredKey,
   ...refusedTypes,
   ...refusedCycle,
-];
+]
