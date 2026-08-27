@@ -1,6 +1,7 @@
 import { relative } from "node:path"
 import { isGeneratedFile } from "../../../generated-file/generated-file.ts"
 import { carriesBytes } from "../../../page/file-kind/carries-bytes.ts"
+import { heldToNoCeiling } from "../../../page/page-type/unbounded.ts"
 import { decodeUtf8 } from "../../../utf8-body/utf8-body.ts"
 import type { Check } from "../check-shape.ts"
 
@@ -16,6 +17,7 @@ export const fileLength = {
     const bytes = body.byteLength
     if (bytes <= CEILING_BYTES) return []
     if (carriesBytes(path)) return []
+    if (heldToNoCeiling(path)) return []
     if (isGeneratedFile(relative(root, path), decodeUtf8(body) ?? body)) return []
     return [`${bytes.toLocaleString("en-US")} bytes, over the ${CEILING_SAID} ceiling`]
   },

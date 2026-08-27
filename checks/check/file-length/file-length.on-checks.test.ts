@@ -65,3 +65,19 @@ test("a texture is not judged, its kind being one that carries bytes", () => {
 test("a kind carrying bytes passes on its length alone, not on being unreadable", () => {
   expect(verdict("page/art.png", OVER)).toEqual([])
 })
+
+test("a page of an unbounded type over the ceiling passes", () => {
+  expect(verdict("pages/story-chapter-royal-road/a/b/0001-first.story-chapter-royal-road.md", OVER)).toEqual([])
+})
+
+test("a chapter taken in from a book is unbounded too", () => {
+  expect(verdict("pages/book-chapter/plato/001-apology.book-chapter.md", OVER)).toEqual([])
+})
+
+test("a page of a type saying nothing is still judged, the ceiling being the default", () => {
+  expect(verdict("pages/initiative/some-initiative.initiative.md", OVER)).toHaveLength(1)
+})
+
+test("a markdown file naming no page type is still judged", () => {
+  expect(verdict("notes/README.md", OVER)).toHaveLength(1)
+})

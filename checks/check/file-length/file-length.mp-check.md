@@ -14,3 +14,5 @@ cached: false
 # Design
 
 A file whose file kind carries bytes is not judged.
+
+A page of a type stating it is unbounded is not judged.
