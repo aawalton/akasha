@@ -14,7 +14,7 @@ domain-slug: domain/global
 
 Measured 2026-08-20, each independently.
 
-No page-type row carries the slug `story-chapter-backup`: the count over `public.pages` where `page_type_slug = 'page-type'` is 0. `page-types/story-chapter-backup.md` stands and states `id: 019ea280-38c7-774d-80f0-8d584a991d01` and `files: none`, so the type is absent from the roster the query service serves at `/page-types`, and a read addressed to it resolves to nothing. No file in the stories, instructions, memory or books repositories states `page-type-slug: story-chapter-backup`.
+No page-type row carries the slug `story-chapter-backup`: the count over `public.pages` where `page_type_slug = 'page-type'` is 0. `pages/page-type/story-chapter-backup.page-type.md` stands and states `id: 019ea280-38c7-774d-80f0-8d584a991d01` and `files: none`, so the type is absent from the roster the query service serves at `/page-types`, and a read addressed to it resolves to nothing. No file in akasha states `page-type-slug: story-chapter-backup`.
 
 804 events stand under that id, every one `event_name = 'updated'`, all on 2026-08-18. No `event_subscriptions` row names it. The `id:` line of the page-type document is the only place the type's name survives beside its uuid, so nothing that greps for a slug reaches those events.
 
