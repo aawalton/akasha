@@ -16,7 +16,7 @@ Measured 2026-08-23, while moving `@alanwalton/imessage` into the instructions r
 
 What covers what. `tools/tests/ops-imessage-unread-list.on-demand.test.ts` drives `ops imessage unread-list` end to end over eleven cases and passes, so `emitUnread` in `tools/commands/imessage/unread-list.ts` is covered. `emitMessages` is a separate function in a separate file, and `recent` and `search` have no test of any kind.
 
-How it was established. A search for `emitMessages` across every repository returns four sites: its definition at `tools/lib/imessage.ts:26`, and its three call sites at `tools/commands/imessage/recent.ts:65`, `tools/commands/imessage/search.ts:87` and the import lines above each. No `.test.ts` file names it.
+How it was established. A search for `emitMessages` across every repository returns four sites: its definition at `tools/lib/imessage.ts:28`, and its three call sites at `tools/commands/imessage/recent.ts:59`, `tools/commands/imessage/search.ts:81` and the import lines above each. No `.test.ts` file names it.
 
 Why the older finding this replaces is gone. It claimed the coverage sat in the code repository's `packages/alanwalton/imessage/src/imessage/unread-list.unit.test.ts`, testing an emitter nothing dispatched to. That file and `registry.ts` beside it stand in no repository now, and the package itself has left the code repository, so the claim it rested on stopped being true.
 
