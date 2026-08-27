@@ -3,7 +3,7 @@ id: 01a017b1-3d42-7429-a6d9-104c8d949b8b
 page-type-slug: page-type
 title: "Story turn"
 extends-slug: collection
-files: stories:**/*.story-turn.md
+files: akasha:**/*.story-turn.md
 body-shape-slug: text
 slug: story-turn
 unbounded: true

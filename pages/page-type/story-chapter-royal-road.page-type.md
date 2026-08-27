@@ -3,7 +3,7 @@ id: 01a01121-bd3d-7000-b3ba-e3342a62e645
 page-type-slug: page-type
 title: "Story chapter Royal Road"
 extends-slug: story-chapter-read
-files: stories:**/*.story-chapter-royal-road.md
+files: akasha:**/*.story-chapter-royal-road.md
 body-shape-slug: text
 slug: story-chapter-royal-road
 unbounded: true

@@ -3,7 +3,7 @@ id: 01a0114b-77b1-7000-9e98-954a0c3a7bb0
 page-type-slug: page-type
 title: "Story chapter written"
 extends-slug: story-chapter
-files: stories:**/*.story-chapter-written.md
+files: akasha:**/*.story-chapter-written.md
 body-shape-slug: text
 slug: story-chapter-written
 unbounded: true
