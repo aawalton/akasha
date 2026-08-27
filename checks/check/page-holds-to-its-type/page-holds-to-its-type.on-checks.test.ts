@@ -64,10 +64,10 @@ test("a path no page type claims is not judged", () => {
 })
 
 test("a path a page type files into another repository is refused, naming both", () => {
-  const failures = verdict({ "checks/check/trial/trial.gate.md": HELD })
+  const failures = verdict({ "checks/check/trial/trial.finding.md": HELD })
   expect(failures).toHaveLength(1)
-  expect(failures[0]!.path).toBe(`${ROOT}/checks/check/trial/trial.gate.md`)
-  expect(failures[0]!.reason).toContain("`gate` page type on the instructions repo")
+  expect(failures[0]!.path).toBe(`${ROOT}/checks/check/trial/trial.finding.md`)
+  expect(failures[0]!.reason).toContain("`finding` page type on the memory repo")
   expect(failures[0]!.reason).toContain("this call addresses the akasha repo")
 })
 
