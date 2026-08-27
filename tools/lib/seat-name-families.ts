@@ -9,7 +9,7 @@ export interface SeatNameFamilyDeclaration {
 export const SEAT_NAME_FAMILIES: readonly SeatNameFamilyDeclaration[] = [
   { family: "person", shape: "{person}[-{role}]" },
   { family: "bare-persona", shape: "{persona}" },
-  { family: "composed-identity", shape: "[{persona}-][{domain}-][{role}][-{flex}][-{task}]" },
+  { family: "composed-identity", shape: "[{domain}-][{role}][-{flex}][-{task}]" },
 ]
 
 export function seatNameShapes(): readonly string[] {
