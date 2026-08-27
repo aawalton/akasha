@@ -11,7 +11,7 @@ A verb's output shape is a contract its callers parse, and the only place it is 
 
 # Evidence
 
-Three verbs answer with `{lines, count, cursor, isDone, complete, boundedBy}`: `ops loki logs`, `ops pipeline logs` and `ops temper watcher logs`. They are not independent implementations — all three reach `describeBounds` in `tools/lib/loki-diagnostics.ts` and `fetchLokiLogs` in `tools/lib/loki-fetch.ts`, so the shape is bound once in code.
+Three verbs answer with `{lines, count, cursor, isDone, complete, boundedBy}`: `ops loki logs`, `ops pipeline logs` and `ops temper watcher logs`. They are not independent implementations — `ops loki logs` and `ops pipeline logs` both reach `describeBounds` in `tools/lib/loki-diagnostics.ts` and `fetchLokiLogs` in `tools/lib/loki-fetch.ts`, so the shape is bound once in code for those two. `ops temper watcher logs` now takes only `parseLokiDuration` from `tools/lib/loki-fetch.ts` and emits neither `complete` nor `boundedBy`, while its summary line still says it mirrors `ops loki logs`.
 
 What is not bound anywhere is the contract. Each verb restates the shape in its own help prose, and two of them cite the third instead of citing a document: `ops pipeline logs` says it "queries Loki with the same semantics as `ops loki logs`" and emits "the same shape as `ops loki logs --json`", and `ops temper watcher logs` says its output "mirrors `bun ops loki logs`". Nothing checks that any of those three claims is still true.
 
