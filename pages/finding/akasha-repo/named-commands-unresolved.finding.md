@@ -1,16 +1,16 @@
 ---
 id: cd2e4c9b-c03e-572e-a89e-708ab65587e2
 page-type-slug: finding
-title: "Prose in the code repo names ops commands that do not exist, and nothing checks a named command resolves"
+title: "Prose in akasha names ops commands that do not exist, and nothing checks a named command resolves"
 domain-slug: repo/akasha-repo
 ---
 
 # Claim
 
-Prose in the code repository names ops commands that do not exist, and nothing checks that a name in a message resolves. Four were verified missing against the live registry: `ops pipeline redeploy`, `ops pipeline reset`, `ops person-authority grant`, `ops browser-test ensure-user`. `person-access` and `person-authority` are page types, never commands. `tools/ops/dispatch.ts` ends at `throw inputError("ops: unknown command")`, so following one met a second error atop the first.
+Prose in akasha names ops commands that do not exist, and nothing checks that a name in a message resolves. Verified missing against the live registry: `ops pipeline redeploy`, `ops pipeline reset`, `ops person-authority grant`, `ops browser-test ensure-user`. `person-access` and `person-authority` are page types, never commands. `tools/ops/dispatch.ts:92` ends at `"ops: unknown command"`, so following one met a second error atop the first.
 
 # Evidence
 
-The registry was built from `declaredCommands()` and `forwarderCommands()` in `~/repos/instructions/tools/ops/`, 423 command paths, and each name grepped against it. Found by walking the code repository for a different reason — clearing ops names — rather than by looking for dead names.
+The registry is what `declaredCommands()` at `tools/ops/declared.ts:38` and `forwarderCommands()` at `tools/ops/forwarders.ts:57` return, and each name was grepped against it. On disk the same answer stands: `tools/commands/pipeline/` holds no `redeploy` and no `reset`, there is no `tools/commands/person-authority/` at all, and `tools/commands/browser-test/` holds only `verify-render.ts`. Found by walking the repository for a different reason — clearing ops names — rather than by looking for dead names.
 
-Not measured: how many command names stand in the instructions repository's own prose, its alert attachments, or its task documents, and how many of those resolve. One counter-example is already known: four alert attachments name `ops query-perf triage`, and no such command exists.
+Not measured: how much of akasha's own prose, its alert attachments and its task documents name ops commands, and how many of those resolve. One counter-example is already known: alert attachments name `ops query-perf triage`, and there is no `query-perf` command.

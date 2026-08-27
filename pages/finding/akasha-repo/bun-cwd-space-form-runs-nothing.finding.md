@@ -7,10 +7,10 @@ domain-slug: repo/akasha-repo
 
 # Claim
 
-Four live operator-facing messages in `packages/collections/music/spotify/` instruct
-whoever reads them to run `bun --cwd <dir> run <script>`, and bun 1.3.14 does not
-parse that form: it prints its whole `bun run` usage banner, lists the package's
-scripts, runs nothing, and exits 0.
+Live operator-facing messages in `collections/music-spotify/src/` instruct whoever
+reads them to run `bun --cwd <dir> run <script>`, and bun does not parse that form:
+it prints its whole `bun run` usage banner, lists the package's scripts, runs
+nothing, and exits 0. The directory each of those messages names is itself gone.
 
 # Evidence
 
@@ -29,21 +29,23 @@ The exit code is what makes this cost something. A wrong invocation that exits 1
 noticed; this exits 0 behind a wall of help text, so an operator following the
 message sees a large successful-looking response and no error.
 
-Four sites are runtime messages printed to a human at the moment they are stuck,
+The sites are runtime messages printed to a human at the moment they are stuck,
 not comments:
 
-- `.../spotify/src/harness.ts:95` — "No stored token — run the consent CLI first:"
-- `.../spotify/src/oauth.ts:32` — "spotify: no stored token — run the consent CLI
-  first (...)"
-- `.../spotify/src/auth-cli.ts:66` — the `auth:exchange --code <CODE>` line
-- `.../spotify/src/auth-cli.ts:87` — "no saved PKCE handoff — run step 1 first:"
+- `collections/music-spotify/src/oauth.ts:10` — "spotify: no stored token — run the
+  consent CLI first (...)"
+- `collections/music-spotify/src/harness.ts:65` — "No stored token — run the consent
+  CLI first:"
+- `collections/music-spotify/src/auth-cli.ts:42` — the `auth:exchange --code <CODE>`
+  line
+- `collections/music-spotify/src/auth-cli.ts:62` — "no saved PKCE handoff — run step
+  1 first:"
 
-`rg -n -- "bun --cwd "` over `~/code` returns nine lines and no others: those four,
-three docblocks in the same package (`harness.ts:11`, `auth-cli.ts:12`, `:15`), and
-two under `packages/temper/shared/build-deploy/checks/src/` naming
-`bun --cwd packages/temper/addons build:addons:only`. None is an executed command,
-so no test or gate runs the broken form and nothing reports it.
+A second fault rides inside the same strings. Each spells the directory
+`packages/collections/music/spotify`, which no longer stands — the package is at
+`collections/music-spotify`. So an operator who worked out the flag form for
+himself would still be handed a path that resolves to nothing.
 
-Not the dangling-citation class `check-repo-paths.ts:16-42` declares out of scope:
-that argument is about comments naming deleted documents, "never a path a program
-dereferences". These are instructions handed to an operator mid-failure.
+`rg -n -- "bun --cwd "` over the repository returns these and no other executed
+command: every occurrence is inside a message string or a document. No test and no
+gate runs the form, so nothing reports it.
