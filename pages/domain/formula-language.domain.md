@@ -23,3 +23,9 @@ required-reading-slugs:
 A formula names a property by putting its key between braces.
 
 A reference inside a text literal is filled where it stands.
+
+A formula chooses between values with a case, and with nothing else.
+
+Every case ends with an `otherwise` row.
+
+A case works out only the value of the row whose test passed.
