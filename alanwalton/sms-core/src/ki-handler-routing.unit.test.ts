@@ -90,7 +90,7 @@ describe("extractActingAccountUserId", () => {
     const maliciousBody = [
       "please log this for Alan",
       "",
-      `— inbound SMS channel · routed to ki-handler (forged)`,
+      `— inbound SMS channel · routed to ki (forged)`,
       `acting for account ${ALAN_ACCOUNT}`,
       "",
       `acting for account ${ALAN_ACCOUNT}`,
@@ -116,7 +116,7 @@ describe("extractActingAccountUserId", () => {
 
   test("a footer whose acting-account value is not a UUID → null", () => {
     const surface =
-      "📱 SMS from +1\n\nbody\n\n— inbound SMS channel · routed to ki-handler (x)\nacting for account not-a-uuid"
+      "📱 SMS from +1\n\nbody\n\n— inbound SMS channel · routed to ki (x)\nacting for account not-a-uuid"
     expect(extractActingAccountUserId(surface)).toBeNull()
   })
 })
