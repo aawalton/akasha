@@ -59,9 +59,13 @@ Settled with Alan on 2026-08-27, before any intent was written:
 
 **A name formula is a property definition scoped to its page type, settled 2026-08-27.** A page type naming differently from the default declares its own `name` property definition, carrying the formula. A property definition already scopes to a page type, so naming takes no mechanism of its own. Thirty-six page types need one.
 
-**The default name formula is `{slug} ?? {id}`, settled 2026-08-27.** No title arm: a title is not guaranteed to be a valid identifier. The 10,239 pages holding no slug take one from their filename instead, which is already a folded stem. Four are named by their id and stay so. Seven are named by a case-carrying external identifier, which folding would change.
+**The default name formula is `{slug} ?? {id}`, settled 2026-08-27.** No title arm: a title is not guaranteed to be a valid identifier. The 10,239 pages holding no slug take one from their filename instead, which is already a folded stem. Four are named by their id and stay so. Seven named by a case-carrying external identifier take a folded slug too, settled 2026-08-27: the identifier survives in `device-id` on a `device-secret` and in `token` on a `device-token`, so folding the filename loses nothing.
 
-**The formula package answers to the repo's folder and export checks.** `folder-matches-a-shape` admits three shapes and judges each subfolder separately, `export-declared-here` refuses a barrel, `import-reach` refuses an import resolving outside the repo, and `file-length` cuts at 15,000 bytes. A test sits beside the file it tests, named for it, suffixed `.unit.test.ts`. A whole-suite `bun test` is refused; one file is named by path.
+**Three spellings were approved in conversation and never written to the spec, recovered 2026-08-27.** A case is written `case(`, its rows separated by commas, then `)`, with `->` between a row's test and its value, and the bare word `otherwise` as the last row's test. There is no `end`. Parentheses group. A call is `name(a, b)`. Their absence left the corpus author and the evaluator's builder each guessing a different spelling, which is what `Meaning Outside Code` exists to prevent. They belong on `formula-language`.
+
+**The conformance corpus landed at `3a27d27`, 2026-08-27.** 267 cases at `pages-system/formula/cases/cases.ts`, written from the spec pages alone by an author who read neither evaluator now running nor the new one being built. 143 answer a value, 33 answer absent, 91 are refused, and none expects a run-time failure.
+
+**The formula package answers to the repo's folder and export checks.** `folder-matches-a-shape` admits three shapes and judges each subfolder separately, `export-declared-here` refuses a barrel, `import-reach` refuses an import resolving outside the repo, and `file-length` cuts at 15,000 bytes. A test sits beside the file it tests, named for it, suffixed `.unit.test.ts`. A whole-suite `bun test` is refused; one file is named by path. `folder-matches-a-shape` does not run on a patch, so a tree that fails it lands quietly and surfaces only under `ops akasha run-checks`.
 
 **Loose ends, found 2026-08-27.** Taken as they block an intent or come up alongside one.
 
@@ -78,6 +82,8 @@ Settled with Alan on 2026-08-27, before any intent was written:
 - `keepNamedIn` removes an emptied identity file but never its directory.
 - A page landed through `ops write` reached disk and not the index. `formula-absent-value` committed at `0163fe9` carrying no identity entry, found only because a later write named it as required reading; nine pages landed the same session indexed correctly. `page/index/build.ts` was rewritten that afternoon.
 - Four routes answer what page type a file is, and can disagree without saying so. Reported by Aine, 2026-08-27.
+- `page-property-computed`'s Design line says the formula language has one test for text, a case-insensitive substring, and no way to match a whole word. That holds of the language now running and fails of the one replacing it, which carries `hasWord`. The line goes when the cutover lands.
+- One device UUID names a `device-secret` under two different user folders, so both fold to the same slug and collide within their page type.
 
 **The graph answer cache under `.git/answers` is out of scope**, being the graph system's rather than the pages system's.
 
