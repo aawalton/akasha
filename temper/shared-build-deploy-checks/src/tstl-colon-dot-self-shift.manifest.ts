@@ -12,7 +12,7 @@ export const DERIVATION_GLOBS: readonly string[] = [
   "packages/temper/shared/addon-libraries",
 ]
 
-export const CORE_COLON_SOURCE_PREFIXES: readonly string[] = ["packages/temper/addons/types/eso/"]
+export const CORE_COLON_SOURCE_PREFIXES: readonly string[] = ["temper/addons/types/eso/"]
 
 export const RESERVATION_FILE_BASENAME_RE = /^eso-.*\.d\.ts$/
 
