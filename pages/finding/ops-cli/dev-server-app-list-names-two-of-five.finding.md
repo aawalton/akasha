@@ -12,12 +12,12 @@ Every `--app` flag across the `dev-server` namespace describes its value as "App
 
 # Evidence
 
-Found 2026-08-13 by the seat moving the `dev-server` verb bodies into the instructions repository, reading `packages/agents/dev-server/cli/src/lib/dev-server-ops.ts` against the help blocks at `tools/commands/dev-server/*.ts`.
+Found 2026-08-13 by the seat moving the `dev-server` verb bodies into akasha, reading `tools/lib/dev-server-ops.ts` against the help blocks at `tools/commands/dev-server/*.ts`.
 
-`APP_REGISTRY` in that file declares `alanwalton`, `audhdalan`, `temper`, `archive-of-worlds` and `atlas`. The `--app` description in `bootstrap`, `logs`, `start`, `status` and `stop` names two of them.
+`APP_REGISTRY` at `tools/lib/dev-server-ops.ts:40-77` declares `alanwalton`, `audhdalan`, `temper`, `archive-of-worlds` and `atlas`. The `--app` description in `bootstrap`, `logs`, `restart`, `start`, `status` and `stop` names two of them.
 
-The contradiction is reachable in one invocation. `ops dev-server bootstrap --seq 16091 --app nosuchapp` refuses with `unknown app: nosuchapp (known: alanwalton, audhdalan, temper, archive-of-worlds, atlas)` — that list is built from `APP_NAMES` at the moment of refusal, so it cannot drift, while the help beside it names two. A reader who trusts the help believes `audhdalan`, `archive-of-worlds` and `atlas` are not available.
+The contradiction is reachable in one invocation. `ops dev-server status --seq 13160 --app nosuchapp` refuses with `unknown app: nosuchapp (known: alanwalton, audhdalan, temper, archive-of-worlds, atlas)` — that list is built from `APP_NAMES` at the moment of refusal, so it cannot drift, while the help beside it names two. A reader who trusts the help believes `audhdalan`, `archive-of-worlds` and `atlas` are not available.
 
-Live state files carry app names outside the registry entirely (`tower`, `idle` appear in `ops dev-server list` output), so the registry is not the only source of app names in play either.
+Live state files carry app names outside the registry entirely (`tower`, `idle` appear in `ops dev-server status` output), so the registry is not the only source of app names in play either.
 
 What makes it worth filing rather than fixing in place: the help blocks under `tools/commands/dev-server/` were landed byte-identical to what the code repository declared, and the body move was required to leave the declared surface untouched so a repair could not be mistaken for the move. Repairing it here alone would make the two spellings disagree.
