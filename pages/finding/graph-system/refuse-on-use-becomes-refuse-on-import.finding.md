@@ -19,7 +19,7 @@ The first repair was a `goneRecord()` Proxy refusing on `get`, `has` and `ownKey
 
 What cleared it was that the constant was never engine — a table of file kinds and their node type names, whose 27 imports all survived — so it was restored whole. After that, 126 of 126 old-graph modules import, and 115 of 116 across check-workflow, ci-worker-pure, pipeline-run, ci-test-fanout and main-pipeline-creator.
 
-Since measured, at nimue.seat's prompting and with the same instrument. The 65 stubs have 229 transitive dependents; importing each in its own process gives 3 that read a stub at module scope — `infra/cluster-checks/src/derivers/reachable-from-primary-entry.node.deriver.ts` on `defineNodeDeriver`, and two tests on `createGraph`. One of those, `tools/tests/ci-worker-pure-skip-gate.test.ts`, passed 11 of 11 at the commit before the removal and fails now, so the removal caused it.
+Since measured, at nimue.seat's prompting and with the same instrument. The 65 stubs have 229 transitive dependents; importing each in its own process gives 3 that read a stub at module scope — `infra/cluster-checks/src/derivers/reachable-from-primary-entry.node.deriver.ts` on `defineNodeDeriver`, and two tests on `createGraph`. One of those, `tools/tests/ci-worker-pure-skip-gate.test.ts`, passed 11 of 11 at the commit before the removal and failed after it, so the removal caused it. Alan ruled it deleted on 2026-08-27, at `8cab6f60e`. Reading it before removing showed 6 of its 11 tests exercised pure functions that took no graph at all, and went with the file.
 
 The named suite reported 16 failing tests before the removal and 16 after, so the regression was invisible in the total and was reported as nothing broken. A count matching is not a set matching.
 
