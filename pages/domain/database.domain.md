@@ -18,4 +18,6 @@ Every database-backed test boots its schema from the committed snapshot.
 
 # Intent
 
+- All data goes through the pages system.
+- The postgres database is decommissioned other than for auth.
 - Supabase is reached only for auth.
