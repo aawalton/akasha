@@ -1,8 +1,8 @@
 import { describe, expect, test } from "bun:test"
 import { scanForGitGuard } from "./check-git-guard-both-forms.ts"
 
-const REL = "packages/infra/workflow-dsl/src/dsl/templates/example.ts"
-const OUTSIDE = "packages/infra/ci/workflows/src/prep.workflow.ts"
+const REL = "tools/lib/workflow-dsl/templates/example.ts"
+const OUTSIDE = "infra/ci-workflows/src/prep.workflow.ts"
 
 describe("scanForGitGuard — one-form `.git` guard rule", () => {
   test("flags a `-d`-only `.git` guard with the correct line number", () => {

@@ -194,9 +194,9 @@ describe("scannerGroupKey", () => {
         name: "no-class",
         findings: 1234,
         files: 56,
-        remediationDoc: repoDoc("packages/infra/checks/src/lib/x.ts"),
+        remediationDoc: repoDoc("infra/cluster-checks/src/lib/x.ts"),
       })
-    ).toBe("[no-class] 1,234 finding(s) across 56 file(s) → see packages/infra/checks/src/lib/x.ts")
+    ).toBe("[no-class] 1,234 finding(s) across 56 file(s) → see infra/cluster-checks/src/lib/x.ts")
   })
 
   test("ends at the file spread when the entry carries none", () => {
@@ -206,7 +206,7 @@ describe("scannerGroupKey", () => {
   })
 
   test("no group key names a path into the instructions tree", () => {
-    for (const doc of [undefined, repoDoc("packages/infra/checks/src/lib/x.ts")]) {
+    for (const doc of [undefined, repoDoc("infra/cluster-checks/src/lib/x.ts")]) {
       const key = scannerGroupKey({
         name: "n",
         findings: 1,

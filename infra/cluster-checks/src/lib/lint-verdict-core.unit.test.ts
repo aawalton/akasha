@@ -238,7 +238,7 @@ describe("deriveLintVerdict — every pass verdict states its file population", 
     })
 
   test("filesOpened is changed + unchanged, not the skip counter", () => {
-    const v = deriveLintVerdict(cleanFixture(3, 325), 0, "packages/foo", 328, AT)
+    const v = deriveLintVerdict(cleanFixture(3, 325), 0, "foo", 328, AT)
     expect(v.kind === "pass" && v.evidence.filesOpened).toBe(328)
     expect(v.kind === "pass" && v.evidence.trackedLintable).toBe(328)
     expect(v.kind === "pass" && v.evidence.filesNotOpened).toBe(0)
@@ -255,7 +255,7 @@ describe("deriveLintVerdict — every pass verdict states its file population", 
   })
 
   test("full coverage states the denominator explicitly rather than omitting the clause", () => {
-    const v = deriveLintVerdict(cleanFixture(0, 328), 0, "packages/foo", 328, AT)
+    const v = deriveLintVerdict(cleanFixture(0, 328), 0, "foo", 328, AT)
     expect(v.kind === "pass" && v.evidence.filesNotOpened).toBe(0)
     expect(renderVerdict(v)).toContain("over 328 of 328 files")
   })
@@ -271,7 +271,7 @@ describe("deriveLintVerdict — every pass verdict states its file population", 
   })
 
   test("ZERO files opened is an anomaly, never a pass verdict", () => {
-    const v = deriveLintVerdict(cleanFixture(0, 0), 0, "packages/all-excluded", 42, AT)
+    const v = deriveLintVerdict(cleanFixture(0, 0), 0, "all-excluded", 42, AT)
     expect(v.kind).toBe("fail")
     expect(decideLintExit(v)).not.toBe(0)
     expect(v.evidence.measured).toBe(false)

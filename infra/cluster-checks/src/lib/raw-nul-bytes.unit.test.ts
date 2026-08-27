@@ -63,18 +63,18 @@ describe("findRawNulSites", () => {
 
 describe("extensionOf", () => {
   test("returns the lowercased extension including the dot", () => {
-    expect(extensionOf("packages/a/b.TS")).toBe(".ts")
-    expect(extensionOf("packages/a/b.tsx")).toBe(".tsx")
+    expect(extensionOf("a/b.TS")).toBe(".ts")
+    expect(extensionOf("a/b.tsx")).toBe(".tsx")
   })
 
   test("a dotfile has no extension", () => {
     expect(extensionOf(".gitignore")).toBe("")
-    expect(extensionOf("packages/a/.env")).toBe("")
+    expect(extensionOf("a/.env")).toBe("")
   })
 
   test("a bare filename has no extension", () => {
     expect(extensionOf("Dockerfile")).toBe("")
-    expect(extensionOf("packages/a/Makefile")).toBe("")
+    expect(extensionOf("a/Makefile")).toBe("")
   })
 
   test("only the final extension counts", () => {

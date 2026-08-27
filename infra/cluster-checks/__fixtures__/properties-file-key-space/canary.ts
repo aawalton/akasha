@@ -74,7 +74,7 @@ export const CANONICAL_SPELLING = "JSON map `{ propertySlug: value }` — slug k
 // `{ propertyId: "story", operator: "equals", value }` — a record whose field
 // carries this name, which is an accurate sentence rather than a claim about
 // what keys a properties file takes.
-export const RELATION_FILTER_COMMENT = "comments of this shape stand in packages/shared/pages/ui"
+export const RELATION_FILTER_COMMENT = "comments of this shape stand in shared/pages-ui"
 
 /** A brace this comment never closes — `{ propertyId: … and then more prose. */
 export const UNCLOSED_IN_A_COMMENT = "named in KEY_SPACE_SCAN_BOUND as what the closed form costs"

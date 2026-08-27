@@ -14,7 +14,7 @@ const REFUSED_SOURCE = `export function Probe() {
 }
 `
 
-const REFUSED_FILE = "packages/probe/src/probe.tsx"
+const REFUSED_FILE = "probe/src/probe.tsx"
 
 const REPO_ROOT = "/planted/tree"
 

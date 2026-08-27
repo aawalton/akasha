@@ -63,7 +63,7 @@ describe("computeAlignmentViolations", () => {
 
   test("uniform readings produce zero violations", () => {
     const readings = [
-      reading("packages/a/package.json", "1.61.1"),
+      reading("a/package.json", "1.61.1"),
       reading("bun.lock", "1.61.1"),
       reading("deploy/playwright.dockerfile-extensions.json", "1.61.1"),
     ]
@@ -82,7 +82,7 @@ describe("computeAlignmentViolations", () => {
 
   test("divergent versions flag every reading", () => {
     const readings = [
-      reading("packages/a/package.json", "^1.58.2"),
+      reading("a/package.json", "^1.58.2"),
       reading("bun.lock", "1.61.1"),
       reading("deploy/playwright.dockerfile-extensions.json", "1.59.1"),
     ]
