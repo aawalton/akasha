@@ -108,7 +108,12 @@ export const pagesNamedAsStated: AsyncCheck = async (repo): Promise<CheckOutcome
   let counted = 0
   let holding = 0
   for (const one of covered.values()) {
-    const constant = repo.name === "instructions" ? constantHolesIn(one.template) : []
+    // THE `instructions` REPOSITORY IS GONE, absorbed into akasha, so the pages this rule is about
+    // stand here. This read `repo.name === "instructions"`, which no repository answers to any more,
+    // so the arm below was weighed over none of the conventions and every naming rule that a file
+    // page can never satisfy passed unnamed — while the check went on reporting the pages it did
+    // count, which is what made the gap invisible.
+    const constant = repo.name === AKASHA ? constantHolesIn(one.template) : []
     if (constant.length > 0) {
       refusals.push(
         `${one.type.relPath} - \`${one.type.slug}\` is named \`${one.template}\`, and a file page ` +
