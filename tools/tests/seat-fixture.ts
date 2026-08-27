@@ -1,7 +1,7 @@
-import { mkdirSync, readdirSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readdirSync, symlinkSync, writeFileSync } from "node:fs"
 import { dirname } from "node:path"
 import type { Mode } from "../lib/attributes.ts"
-import { type Fixture, installPages } from "./fixture.ts"
+import { type Fixture, installPages, installRepos } from "./fixture.ts"
 
 const LIVE = dirname(dirname(import.meta.dir))
 
@@ -38,12 +38,34 @@ function seatProperties(): readonly string[] {
     .map((name) => `${PROPERTY_PLACE}/${name}`)
 }
 
-function gitRepos(at: Fixture): void {
-  Bun.spawnSync(["git", "init", "-q", at.memory])
-  Bun.spawnSync(["git", "-C", at.memory, "config", "user.email", "seat@fixture"])
-  Bun.spawnSync(["git", "-C", at.memory, "config", "user.name", "seat fixture"])
-  Bun.spawnSync(["git", "-C", at.memory, "commit", "-q", "--allow-empty", "-m", "the memory a seat page lands in"])
-  Bun.spawnSync(["git", "init", "-q", at.root])
+const INDEX_BUILD = `${import.meta.dir}/index-fixture.ts`
+
+/**
+ * The page index this fixture answers page types from, and the command code a spawned tool runs.
+ *
+ * THE REGISTRY IS READ OFF THE INDEX RATHER THAN GLOBBED — `page/property/registry.ts` builds
+ * every page type out of `loadPages()`, which reads the index under `<AKASHA_ROOT>/.git` — so a
+ * temp root carrying no index states no page type at all, and every slug a seat names resolves to
+ * nothing with `no page type ... states where its files stand`. The index is built out of what git
+ * TRACKS, so the planted pages are staged before it is asked for.
+ *
+ * `ops-cli` IS LINKED RATHER THAN COPIED, because `tools/lib/tool-argv.ts` spells a command's code
+ * under `akashaRoot()` — this temp root. The link answers with the live checkout's file, whose own
+ * relative imports then resolve inside that checkout rather than in here.
+ *
+ * CALL THIS AFTER THE LAST PAGE IS PLANTED. A page written afterwards is not in the index and does
+ * not resolve; plant, then index again.
+ */
+export function indexFixture(at: Fixture): void {
+  Bun.spawnSync(["git", "-C", at.root, "add", "-A"])
+  const built = Bun.spawnSync(["bun", INDEX_BUILD], {
+    cwd: LIVE,
+    env: { ...process.env, AKASHA_ROOT: at.root },
+  })
+  if (built.exitCode !== 0) {
+    throw new Error(`the fixture index was not built: ${built.stderr.toString()}`)
+  }
+  if (!existsSync(`${at.root}/ops-cli`)) symlinkSync(`${LIVE}/ops-cli`, `${at.root}/ops-cli`)
 }
 
 export interface Planted {
@@ -87,7 +109,7 @@ export function seatPage(seat: Planted): string {
 }
 
 export function plantSeat(at: Fixture, seat: Planted): string {
-  const path = `${at.akasha}/agent/seat/${seat.name ?? seat.agent}.seat.md`
+  const path = `${at.root}/agent/seat/${seat.name ?? seat.agent}.seat.md`
   mkdirSync(dirname(path), { recursive: true })
   writeFileSync(path, seatPage(seat), "utf8")
   at.sweepOnDispose(path)
@@ -95,17 +117,17 @@ export function plantSeat(at: Fixture, seat: Planted): string {
 }
 
 export function plantProject(at: Fixture, seq: string): void {
-  at.memoryDocument(`projects/${seq}.md`, `page-type-slug: project\ntitle: "Project ${seq}"\nseq: ${seq}`, 20)
+  at.document(`projects/${seq}.md`, `page-type-slug: project\ntitle: "Project ${seq}"\nseq: ${seq}`, 20)
 }
 
 export function plantInitiative(at: Fixture, relPath: string, slug: string): void {
-  at.memoryDocument(relPath, `page-type-slug: initiative\ntitle: "${slug}"\nslug: ${slug}\ndomain: global`, 20)
+  at.document(relPath, `page-type-slug: initiative\ntitle: "${slug}"\nslug: ${slug}\ndomain: global`, 20)
 }
 
 const VOCABULARIES = ["persona", "person", "role", "task"] as const
 
 export function seatStore(at: Fixture): void {
-  gitRepos(at)
+  installRepos(at.root)
   installPages(at.root, [...PAGE_TYPES, ...seatProperties()])
   for (const under of VOCABULARIES) mkdirSync(`${at.root}/pages/${under}`, { recursive: true })
   at.installRecorder()
