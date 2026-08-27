@@ -1,8 +1,7 @@
 
 import { afterAll, beforeAll, describe, expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
 import { sessionOf } from "../lib/seat-session.ts"
+import { type Fixture, fixture } from "./fixture.ts"
 
 const SEATED = "0193aaaa-bbbb-4ccc-8ddd-eeeeffff1111"
 
@@ -12,17 +11,14 @@ const ON_PAGE = "11111111-2222-4333-8444-555555555555"
 
 const STATED = "99999999-8888-4777-8666-555555555555"
 
-const stoodMemory = process.env.MEMORY_ROOT
+let at: Fixture
 
-const stoodHome = process.env.HOME
-
-let memory: string
-
-let home: string
-
+// A SEAT PAGE STANDS AT `agent/seat/<name>.seat.md` UNDER THE AKASHA ROOT. This planted
+// `seats/<name>.md` under `MEMORY_ROOT`, and both halves of that are gone: the memory repository
+// is absorbed, so nothing reads that variable, and the seat place moved.
 function page(agent: string, seat: string, session: string): void {
-  writeFileSync(
-    `${memory}/seats/${seat}.md`,
+  at.put(
+    `agent/seat/${seat}.seat.md`,
     [
       "---",
       "page-type-slug: seat",
@@ -39,22 +35,13 @@ function page(agent: string, seat: string, session: string): void {
 }
 
 beforeAll(() => {
-  memory = mkdtempSync(`${tmpdir()}/seat-session-memory-`)
-  home = mkdtempSync(`${tmpdir()}/seat-session-home-`)
-  mkdirSync(`${memory}/seats`, { recursive: true })
+  at = fixture()
   page(SEATED, "stating", STATED)
   page(PAGED, "paged", ON_PAGE)
-  process.env.MEMORY_ROOT = memory
-  process.env.HOME = home
 })
 
 afterAll(() => {
-  if (stoodMemory === undefined) delete process.env.MEMORY_ROOT
-  else process.env.MEMORY_ROOT = stoodMemory
-  if (stoodHome === undefined) delete process.env.HOME
-  else process.env.HOME = stoodHome
-  rmSync(memory, { recursive: true, force: true })
-  rmSync(home, { recursive: true, force: true })
+  at.dispose()
 })
 
 describe("which session a seat is read as running", () => {
