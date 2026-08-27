@@ -1,5 +1,5 @@
 import { ASSIGNMENTS, ATTRIBUTES } from "./attributes.ts"
-import { instructionsRoot } from "./launch-seat-tmux.ts"
+import { akashaRoot } from "../../repo/roots/roots.ts"
 
 const SEAT_CALL_CEILING_MS = 20_000
 
@@ -23,7 +23,7 @@ async function callSeat(payload: Record<string, unknown>): Promise<string | null
   let proc: ReturnType<typeof Bun.spawn>
   try {
     proc = Bun.spawn({
-      cmd: ["bun", `${instructionsRoot()}/tools/seat-call.ts`],
+      cmd: ["bun", `${akashaRoot()}/tools/seat-call.ts`],
       stdin: new TextEncoder().encode(JSON.stringify(payload)),
       stdout: "pipe",
       stderr: "pipe",
